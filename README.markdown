@@ -26,6 +26,7 @@
 ## CLEAN CODE - MEASURING
 
 * https://www.ruby-toolbox.com/categories/code_metrics
+* [Semi Automatic Code Review - Richard Huang (RailsConf 2012)](http://confreaks.com/videos/888-railsconf2012-semi-automatic-code-review)
 * [rails_best_practices gem](https://github.com/railsbp/rails_best_practices) & [railsbp.com](http://railsbp.com/) 
 
 ## CLEAN CODE - REFACTORING
@@ -147,6 +148,10 @@
 * [Code to Joy - Avdi Grimm (GoGaRuCo 2012)](http://confreaks.com/videos/1117-gogaruco2012-code-to-joy)
 * [Writing a Rails Engine - Erik Michaels-Ober (GoGaRuCo 2012)](http://confreaks.com/videos/1109-gogaruco2012-writing-a-rails-engine)
 
+## RAILS - FEATURES
+
+* [Ten Things You Didn't Know Rails Could Do - James Edward Gray II (RailsConf 2012)](http://confreaks.com/videos/889-railsconf2012-ten-things-you-didn-t-know-rails-could-do)
+
 ## RAILS - PERFORMANCE
 
 * No ActionMailer! Move mailing to external app.
@@ -155,6 +160,7 @@
 * https://www.ruby-toolbox.com/categories/recurring_events
 * https://www.ruby-toolbox.com/categories/scheduling
 * [Async Everything - Anthony Eden (MadisonRuby 2012)](http://confreaks.com/videos/1099-madisonruby2012-async-everything)
+* [Evented Ruby vs Node.js - Jerry Cheung (RailsConf 2012)](http://confreaks.com/videos/894-railsconf2012-evented-ruby-vs-node-js)
 
 ## RSPEC
 
@@ -171,6 +177,7 @@
 ## SECURITY
 
 * [Brakeman](https://github.com/presidentbeef/brakeman)
+* [Keeping Rails Applications on Track with Brakeman - Justin Collins (RailsConf 2012)](http://confreaks.com/videos/890-railsconf2012-keeping-rails-applications-on-track-with-brakeman)
 * https://code.google.com/p/ruby-security/wiki/Guide
 * [Modern Cryptography - John Downey (GoGaRuCo 2012)](http://confreaks.com/videos/1114-gogaruco2012-modern-cryptography)
 * https://www.ruby-toolbox.com/categories/encryption
