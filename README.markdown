@@ -4,10 +4,6 @@
 
 'My Tech Resources' is where I place links to resources I have either found useful or think might be helpful to future me or Ruby/Javascript developers like me.
 
-## AUTOMATE ALL THE THINGS
-
-* http://confreaks.com/videos/1139-scrc2012-power-rake
-
 ## BACKUP & DISASTER RECOVERY
 
 * https://www.ruby-toolbox.com/categories/backups
@@ -70,7 +66,7 @@
 * [Backbone Fundamentals](https://github.com/addyosmani/backbone-fundamentals)
 * [Backbone Tutorials](http://backbonetutorials.com/)
 * http://confreaks.com/videos/861-railsconf2012-using-backbone-js-with-rails-patterns-from-the-wild
-* [Evening on Backbone.js/Views w/ Q&A with David Heinemeier Hansson](http://www.youtube.com/watch?v=FkLVl3gpJP4)
+* [Evening on Backbone.js/Views w/ Q&A with David Heinemeier Hansson](http://www.youtube.com/watch?v=FkLVl3gpJP4) - Intro to Rails followed by DHH Q&A
 * [Anatomy of Backbone - CodeSchool (non-free)](http://www.codeschool.com/courses/anatomy-of-backbonejs)
 
 ## JAVASCRIPT - BACKBONE.JS - UNDERSCORE.JS
@@ -165,6 +161,12 @@
 * [David Chelimsky's "RSpec Toolbox" talk (WindyCityRails2012)](http://vimeo.com/50185518)
 
 ## RUBY
+
+## RUBY - RAKE
+
+* [Rake](https://github.com/jimweirich/rake)
+* [Basic Rake - Jim Weirich](http://www.youtube.com/watch?v=AFPWDzHWjEY)
+* [Power Rake - Jim Weirich](http://confreaks.com/videos/1139-scrc2012-power-rake)
 
 ## SECURITY
 
