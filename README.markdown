@@ -14,11 +14,6 @@
 
 ## CLEAN CODE
 
-* https://www.ruby-toolbox.com/categories/rails_presenters
-* https://www.ruby-toolbox.com/categories/template_engines
-* https://www.ruby-toolbox.com/categories/Testing_Rails_Engines
-* http://confreaks.com/videos/1125-gogaruco2012-mega-rails
-* http://confreaks.com/videos/1109-gogaruco2012-writing-a-rails-engine
 * http://confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years
 * http://confreaks.com/videos/1121-gogaruco2012-cruft-and-technical-debt-a-long-view
 * http://confreaks.com/videos/1123-gogaruco2012-grasping-complexity-with-both-hands
@@ -28,14 +23,14 @@
 * http://confreaks.com/videos/1068-cascadiaruby2012-debugging-large-scale-service-oriented-systems
 * http://confreaks.com/videos/1133-scrc2012-thinking-in-objects
 * http://confreaks.com/videos/1115-gogaruco2012-go-ahead-make-a-mess
+* (RailsConf 2012 talk on “Semi-Automatic Code Review”)
+* [Robert C. Martin videos (free)](http://www.google.com/search?q=robert+c.+martin&tbm=vid)
+* [Robert C. Martin videos (non-free)](http://www.cleancoders.com/)
 
 ## CLEAN CODE - MEASURING
 
 * https://www.ruby-toolbox.com/categories/code_metrics
 * [rails_best_practices gem](https://github.com/railsbp/rails_best_practices) & [railsbp.com](http://railsbp.com/) 
-* (RailsConf 2012 talk on “Semi-Automatic Code Review”)
-* [Robert C. Martin videos (free)](http://www.google.com/search?q=robert+c.+martin&tbm=vid)
-* [Robert C. Martin videos (non-free)](http://www.cleancoders.com/)
 
 ## CLEAN CODE - REFACTORING
 
@@ -135,6 +130,14 @@
 * [Basecamp](http://basecamp.com/)
 * [GitLab HQ](https://github.com/gitlabhq/gitlabhq)
 * [Pivotal Tracker](http://www.pivotaltracker.com/)
+
+## RAILS - CLEAN CODE
+
+* https://www.ruby-toolbox.com/categories/rails_presenters
+* https://www.ruby-toolbox.com/categories/template_engines
+* https://www.ruby-toolbox.com/categories/Testing_Rails_Engines
+* http://confreaks.com/videos/1125-gogaruco2012-mega-rails
+* http://confreaks.com/videos/1109-gogaruco2012-writing-a-rails-engine
 
 ## RAILS - PERFORMANCE
 
