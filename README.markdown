@@ -33,7 +33,8 @@
 
 * https://www.ruby-toolbox.com/categories/code_metrics
 * rails_best_practices & railsbp.com (RailsConf 2012 talk on “Semi-Automatic Code Review”)
-* Robert C. Martin videos
+* [Robert C. Martin videos (free)](http://www.google.com/search?q=robert+c.+martin&tbm=vid)
+* [Robert C. Martin videos (non-free)](http://www.cleancoders.com/)
 
 ## CLEAN CODE - REFACTORING
 
@@ -45,10 +46,10 @@
 
 ## DEPLOYMENT
 
-* Capistrano
-* Chef
-* Puppet
-* BOSH
+* [BOSH](https://github.com/cloudfoundry/bosh)
+* [Capistrano](https://github.com/capistrano/capistrano)
+* [Chef](http://www.opscode.com/chef/)
+* [Puppet](http://puppetlabs.com/)
 * https://www.ruby-toolbox.com/categories/deployment_automation
 * https://www.ruby-toolbox.com/categories/systems_integration
 
@@ -116,6 +117,12 @@
 * [Being an Excellent Software Developer - Michael Norton (WindyCityRails2012)](http://vimeo.com/49882901)
 * [Cultures of Effective Learning - Jeff Cohen (WindyCityRails2012)](http://vimeo.com/49951365)
 * https://www.ruby-toolbox.com/categories/continuous_testing
+
+## PROJECT MANAGEMENT
+
+* [Basecamp](http://basecamp.com/)
+* [GitLab HQ](https://github.com/gitlabhq/gitlabhq)
+* [Pivotal Tracker](http://www.pivotaltracker.com/)
 
 ## RAILS - PERFORMANCE
 
