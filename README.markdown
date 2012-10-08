@@ -67,7 +67,7 @@
 * [Backbone Fundamentals](https://github.com/addyosmani/backbone-fundamentals)
 * [Backbone Tutorials](http://backbonetutorials.com/)
 * http://confreaks.com/videos/861-railsconf2012-using-backbone-js-with-rails-patterns-from-the-wild
-* [Evening on Backbone.js/Views w/ Q&A with David Heinemeier Hansson](http://www.youtube.com/watch?v=FkLVl3gpJP4) - Intro to Rails followed by DHH Q&A
+* [Evening on Backbone.js/Views w/ Q&A with David Heinemeier Hansson](http://www.youtube.com/watch?v=FkLVl3gpJP4) - Intro to Rails followed by DHH arguing for Rails-generated (and "Russian-doll cached") HTML+JavaScript over client-side MVC except for the most complex cases
 * [Anatomy of Backbone - CodeSchool (non-free)](http://www.codeschool.com/courses/anatomy-of-backbonejs)
 
 ## JAVASCRIPT - BACKBONE.JS - UNDERSCORE.JS
@@ -161,6 +161,13 @@
 * https://www.ruby-toolbox.com/categories/scheduling
 * [Async Everything - Anthony Eden (MadisonRuby 2012)](http://confreaks.com/videos/1099-madisonruby2012-async-everything)
 * [Evented Ruby vs Node.js - Jerry Cheung (RailsConf 2012)](http://confreaks.com/videos/894-railsconf2012-evented-ruby-vs-node-js)
+
+## RAILS - PJAX
+
+* [Pjax on Rails (BigBinary.com)](http://blog.bigbinary.com/2012/08/13/pjax-on-rails.html)
+* [PJAX Use Case On Intridea.com](http://www.intridea.com/blog/2012/6/28/pjax-use-case-on-intridea-com)
+* [Railscasts - Playing With PJAX](http://railscasts.com/episodes/294-playing-with-pjax)
+* [Learning pjax – Tutorial and Screencast](http://theadmin.org/articles/learning-pjax/)
 
 ## RSPEC
 
