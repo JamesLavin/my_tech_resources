@@ -32,7 +32,8 @@
 ## CLEAN CODE - MEASURING
 
 * https://www.ruby-toolbox.com/categories/code_metrics
-* rails_best_practices & railsbp.com (RailsConf 2012 talk on “Semi-Automatic Code Review”)
+* [rails_best_practices gem](https://github.com/railsbp/rails_best_practices) & [railsbp.com](http://railsbp.com/) 
+* (RailsConf 2012 talk on “Semi-Automatic Code Review”)
 * [Robert C. Martin videos (free)](http://www.google.com/search?q=robert+c.+martin&tbm=vid)
 * [Robert C. Martin videos (non-free)](http://www.cleancoders.com/)
 
@@ -66,7 +67,18 @@
 
 ## JAVASCRIPT - BACKBONE.JS
 
+* [Backbone.js](http://backbonejs.org/)
+* [Backbone Fundamentals](https://github.com/addyosmani/backbone-fundamentals)
+* [Backbone Tutorials](http://backbonetutorials.com/)
 * http://confreaks.com/videos/861-railsconf2012-using-backbone-js-with-rails-patterns-from-the-wild
+
+## JAVASCRIPT - BACKBONE.JS - UNDERSCORE.JS
+
+* [Underscore.js](http://underscorejs.org/)
+
+## JAVASCRIPT - CLIENT-SIDE ARCHITECTURES
+
+* [Use Rails for Your Next Client-Side App - Yehuda Katz (ChicagoRuby2012)](http://vimeo.com/50451185)
 
 ## JAVASCRIPT TESTING
 
