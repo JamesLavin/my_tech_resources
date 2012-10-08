@@ -15,12 +15,12 @@
 ## CLEAN CODE
 
 * http://confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years
-* http://confreaks.com/videos/1121-gogaruco2012-cruft-and-technical-debt-a-long-view
-* http://confreaks.com/videos/1123-gogaruco2012-grasping-complexity-with-both-hands
-* http://confreaks.com/videos/1088-madisonruby2012-simulating-the-world-with-ruby
-* http://confreaks.com/videos/1093-madisonruby2012-behind-the-curtain-applying-lessons-learned-from-years-in-the-theatre-to-crafting-software-applications
-* http://confreaks.com/videos/1101-madisonruby2012-modular-reusable-front-end-code-with-html5-sass-and-coffeescript
-* http://confreaks.com/videos/1068-cascadiaruby2012-debugging-large-scale-service-oriented-systems
+* [Cruft and Technical Debt: A Long View - Yehuda Katz (GoGaRuCo 2012)](http://confreaks.com/videos/1121-gogaruco2012-cruft-and-technical-debt-a-long-view)
+* [Grasping Complexity with Both Hands - Glenn Vandenurg (GoGaRuCo 2012)](http://confreaks.com/videos/1123-gogaruco2012-grasping-complexity-with-both-hands)
+* [Simulating the World with Ruby - Bryan Liles (MadisonRuby 2012)](http://confreaks.com/videos/1088-madisonruby2012-simulating-the-world-with-ruby)
+* [Behind the Curtain: Applying lessons learned from years in the Theatre to crafting software applications - Nell Shamrell (MaidosnRuby 2012)](http://confreaks.com/videos/1093-madisonruby2012-behind-the-curtain-applying-lessons-learned-from-years-in-the-theatre-to-crafting-software-applications)
+* [Modular & reusable front-end code with HTML5, Sass and CoffeeScript - Roy Tomeij (MadisonRuby 2012)](http://confreaks.com/videos/1101-madisonruby2012-modular-reusable-front-end-code-with-html5-sass-and-coffeescript)
+* [Debugging Large Scale Service Oriented Systems - Andy Delcambre (CascadiaRuby 2012)](http://confreaks.com/videos/1068-cascadiaruby2012-debugging-large-scale-service-oriented-systems)
 * http://confreaks.com/videos/1133-scrc2012-thinking-in-objects
 * [Go Ahead, Make a Mess - Sandi Metz (GoGaRuCo 2012)](http://confreaks.com/videos/1115-gogaruco2012-go-ahead-make-a-mess)
 * (RailsConf 2012 talk on “Semi-Automatic Code Review”)
@@ -34,7 +34,7 @@
 
 ## CLEAN CODE - REFACTORING
 
-* http://confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring
+* [Therapeutic Refactoring - Katrina Owen (CascadiaRuby 2012)](http://confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring)
 
 ## COFFEESCRIPT
 
@@ -53,10 +53,14 @@
 
 * https://www.ruby-toolbox.com/categories/Maintenance_Mode
 
+## HTML5 - CANVAS
+
+* [A Rubyist's Guide to the Canvas API - H. Dean Hudson (CascadiaRuby 2012)](http://confreaks.com/videos/1067-cascadiaruby2012-a-rubyist-s-guide-to-the-canvas-api)
+
 ## iOS DEVELOPMENT
 
-* http://confreaks.com/videos/1124-gogaruco2012-rubymotion-rubyizing-ios-development
-* http://confreaks.com/videos/1076-cascadiaruby2012-rubymotion-ruby-in-your-pocket
+* [RubyMotion: Rubyizing iOS development - Amit Kumar (GoGaRuCo 2012)](http://confreaks.com/videos/1124-gogaruco2012-rubymotion-rubyizing-ios-development)
+* [RubyMotion: Ruby in your pocket - Laurent Sansonetti (CascadiaRuby 2012)](http://confreaks.com/videos/1076-cascadiaruby2012-rubymotion-ruby-in-your-pocket)
 
 ## JAVASCRIPT
 
@@ -114,6 +118,7 @@
 
 * https://www.ruby-toolbox.com/categories/Benchmarking
 * [Cargo Cult Web Performance Optimization - Ilya Grigorik (GoGaRuCo 2012)](http://confreaks.com/videos/1111-gogaruco2012-cargo-cult-web-performance-optimization)
+* [Services, Scale, Backgrounding and WTF is going on here?!??! - David Copeland (GoGaRuCo 2012)](http://confreaks.com/videos/1119-gogaruco2012-services-scale-backgrounding-and-wtf-is-going-on-here)
 
 ## PERFORMANCE - LOAD TESTING
 
@@ -142,7 +147,7 @@
 * https://www.ruby-toolbox.com/categories/rails_presenters
 * https://www.ruby-toolbox.com/categories/template_engines
 * https://www.ruby-toolbox.com/categories/Testing_Rails_Engines
-* http://confreaks.com/videos/1125-gogaruco2012-mega-rails
+* [Mega Rails - Jack Danger Canty (GoGaRuCo 2012)](http://confreaks.com/videos/1125-gogaruco2012-mega-rails)
 * [Code to Joy - Avdi Grimm (GoGaRuCo 2012)](http://confreaks.com/videos/1117-gogaruco2012-code-to-joy)
 * [Writing a Rails Engine - Erik Michaels-Ober (GoGaRuCo 2012)](http://confreaks.com/videos/1109-gogaruco2012-writing-a-rails-engine)
 
@@ -153,7 +158,7 @@
 * https://www.ruby-toolbox.com/categories/Concurrent_Processing
 * https://www.ruby-toolbox.com/categories/recurring_events
 * https://www.ruby-toolbox.com/categories/scheduling
-* http://confreaks.com/videos/1099-madisonruby2012-async-everything
+* [Async Everything - Anthony Eden (MadisonRuby 2012)](http://confreaks.com/videos/1099-madisonruby2012-async-everything)
 
 ## RSPEC
 
@@ -198,8 +203,10 @@
 ## USABILITY
 
 * https://www.ruby-toolbox.com/categories/A_B_Testing
+* [Building the Web for Everyone - Greg Tarnoff (MadisonRuby 2012)](http://confreaks.com/videos/1102-madisonruby2012-building-the-web-for-everyone)
+* [Your User: The Animal - Hampton Catlin (MadisonRuby 2012)](http://confreaks.com/videos/1106-madisonruby2012-your-user-the-animal)
 
 ## VI (YEAH, IT'S THE BEST)
 
-* http://www.vimninjas.com/
+* [VimNinjas.com](http://www.vimninjas.com/)
 
