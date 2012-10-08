@@ -69,6 +69,8 @@
 * http://confreaks.com/videos/861-railsconf2012-using-backbone-js-with-rails-patterns-from-the-wild
 * [Evening on Backbone.js/Views w/ Q&A with David Heinemeier Hansson](http://www.youtube.com/watch?v=FkLVl3gpJP4) - Intro to Rails followed by DHH arguing for Rails-generated (and "Russian-doll cached") HTML+JavaScript over client-side MVC except for the most complex cases
 * [Anatomy of Backbone - CodeSchool (non-free)](http://www.codeschool.com/courses/anatomy-of-backbonejs)
+* [Introduction to Backbone.js Part 1: Models Tutorial](http://www.youtube.com/watch?v=uYIzpHjPgXE) - First of a series of free videos all viewable on Youtube
+* [Structuring Complex Backbone.js Apps](http://www.mikkolehtinen.com/blog/2012/08/03/structuring-complex-backbone-dot-js-apps/)
 
 ## JAVASCRIPT - BACKBONE.JS - UNDERSCORE.JS
 
