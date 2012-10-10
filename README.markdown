@@ -37,6 +37,7 @@
 
 ## COFFEESCRIPT
 
+* [Smooth Coffeescript](http://autotelicum.github.com/Smooth-CoffeeScript/)
 * http://confreaks.com/videos/862-railsconf2012-coffeescript-for-the-rubyist
 
 ## DEPLOYMENT
@@ -82,6 +83,11 @@
 ## JAVASCRIPT - BACKBONE.JS - UNDERSCORE.JS
 
 * [Underscore.js](http://underscorejs.org/)
+
+## JAVASCRIPT - CLEAN CODE
+
+* [Eloquent Javascript](http://eloquentjavascript.net/)
+* [JSHint (Github)](https://github.com/jshint/jshint) & [JSHint.com](http://www.jshint.com/)
 
 ## JAVASCRIPT - CLIENT-SIDE ARCHITECTURES
 
@@ -163,6 +169,7 @@
 
 * [Ten Things You Didn't Know Rails Could Do - James Edward Gray II (RailsConf 2012)](http://confreaks.com/videos/889-railsconf2012-ten-things-you-didn-t-know-rails-could-do)
 * [Constant Autoloading in Ruby on Rails - Xavier Noria (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=8lYR9WxIRH0)
+* [Client Side Validations](https://github.com/bcardarella/client_side_validations)
 
 ## RAILS - PERFORMANCE
 
