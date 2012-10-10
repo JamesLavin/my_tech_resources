@@ -55,6 +55,7 @@
 ## DOWNTIME
 
 * https://www.ruby-toolbox.com/categories/Maintenance_Mode
+* [Zero downtime deploys for Rails apps - Pedro Belo (RailsConf 2012)](http://confreaks.com/videos/896-railsconf2012-zero-downtime-deploys-for-rails-apps) using Heroku, Unicorn and HAProxy
 
 ## HTML5
 
@@ -122,12 +123,17 @@
 * [High Performance Ruby - Charles Nutter (GoGaRuCo 2012)](http://confreaks.com/videos/1113-gogaruco2012-high-performance-ruby)
 * [Deploy, Scale and Sleep at Night with JRuby - Joe Kutner (GoGaRuCo 2012)](http://confreaks.com/videos/1118-gogaruco2012-deploy-scale-and-sleep-at-night-with-jruby)
 
+## JRUBY - TORQUEBOX
+
+* [Complex Made Simple: Sleep Better with TorqueBox - Lance Ball (RailsConf 2012)](http://confreaks.com/videos/912-railsconf2012-complex-made-simple-sleep-better-with-torquebox)
+
 ## LINUX - SHELL SCRIPTING (BASH)
 
 * http://www.commandlinefu.com/commands/browse/sort-by-votes
 
 ## LOGGING & PROBLEM DETECTION
 
+* [It’s Not in Production Unless it’s Monitored - Joseph Ruscio (RailsConf 2012)](http://confreaks.com/videos/906-railsconf2012-its-not-in-production-unless-its-monitored)
 * https://www.ruby-toolbox.com/categories/exception_notification
 * https://www.ruby-toolbox.com/categories/rails_instrumentation
 * https://www.ruby-toolbox.com/categories/Log_Analysis
@@ -182,6 +188,7 @@
 * https://www.ruby-toolbox.com/categories/template_engines
 * https://www.ruby-toolbox.com/categories/Testing_Rails_Engines
 * [Mega Rails - Jack Danger Canty (GoGaRuCo 2012)](http://confreaks.com/videos/1125-gogaruco2012-mega-rails)
+* [Powerful Interfaces (Rails) - Caike Souza](http://confreaks.com/videos/902-railsconf2012-powerful-interfaces)
 * [Code to Joy - Avdi Grimm (GoGaRuCo 2012)](http://confreaks.com/videos/1117-gogaruco2012-code-to-joy)
 * [Writing a Rails Engine - Erik Michaels-Ober (GoGaRuCo 2012)](http://confreaks.com/videos/1109-gogaruco2012-writing-a-rails-engine)
 
@@ -190,6 +197,8 @@
 * [Ten Things You Didn't Know Rails Could Do - James Edward Gray II (RailsConf 2012)](http://confreaks.com/videos/889-railsconf2012-ten-things-you-didn-t-know-rails-could-do)
 * [Constant Autoloading in Ruby on Rails - Xavier Noria (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=8lYR9WxIRH0)
 * [Client Side Validations](https://github.com/bcardarella/client_side_validations)
+* [Rails: The Next Five Years - Yehuda Katz](http://confreaks.com/videos/907-railsconf2012-rails-the-next-five-years)
+* [Chanko - How Cookpad safely releases multiple feature prototypes - in production](http://confreaks.com/videos/909-railsconf2012-chanko-how-cookpad-safely-releases-multiple-feature-prototypes-in-production-for-test-segments-of-their-15-million-engaged-users)
 
 ## RAILS - PERFORMANCE
 
