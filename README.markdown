@@ -20,8 +20,10 @@
 * http://confreaks.com/videos/1133-scrc2012-thinking-in-objects
 * [Go Ahead, Make a Mess - Sandi Metz (GoGaRuCo 2012)](http://confreaks.com/videos/1115-gogaruco2012-go-ahead-make-a-mess)
 * (RailsConf 2012 talk on “Semi-Automatic Code Review”)
+* [Building the Great Wall: API Driven Applications by Scott Parker, Dan Melnick (Madison Ruby 2012)](http://www.youtube.com/watch?v=AoRkqMgX-4Q)
 * [Robert C. Martin videos (free)](http://www.google.com/search?q=robert+c.+martin&tbm=vid)
 * [Robert C. Martin videos (non-free)](http://www.cleancoders.com/)
+* [Grand Unification Theory: Writing and Running Code, by Brian Ford (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=iub8zWID4yk)
 
 ## CLEAN CODE - MEASURING
 
@@ -71,6 +73,11 @@
 * [Anatomy of Backbone - CodeSchool (non-free)](http://www.codeschool.com/courses/anatomy-of-backbonejs)
 * [Introduction to Backbone.js Part 1: Models Tutorial](http://www.youtube.com/watch?v=uYIzpHjPgXE) - First of a series of free videos all viewable on Youtube
 * [Structuring Complex Backbone.js Apps](http://www.mikkolehtinen.com/blog/2012/08/03/structuring-complex-backbone-dot-js-apps/)
+
+## JAVASCRIPT - BACKBONE.JS - PLUGINS
+
+* [Backbone.ModelBinder](https://github.com/theironcook/Backbone.ModelBinder)
+* [backbone.validation](https://github.com/thedersen/backbone.validation)
 
 ## JAVASCRIPT - BACKBONE.JS - UNDERSCORE.JS
 
@@ -134,6 +141,8 @@
 ## PROJECT MANAGEMENT - PEOPLE
 
 * [Joe O'Brien - People: the missing ingredient (GoGaRuCo2012)](http://confreaks.com/videos/1108-gogaruco2012-people-the-missing-ingredient)
+* [The Future of Work: Back to First Principles - Scott Chacon (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=2nK2sJqDe8w)
+* [Unsucking Your Team's Development Environment - Zach Holman (Barcelona RuCo 2012)]()
 
 ## PROJECT MANAGEMENT - TOOLS
 
@@ -153,6 +162,7 @@
 ## RAILS - FEATURES
 
 * [Ten Things You Didn't Know Rails Could Do - James Edward Gray II (RailsConf 2012)](http://confreaks.com/videos/889-railsconf2012-ten-things-you-didn-t-know-rails-could-do)
+* [Constant Autoloading in Ruby on Rails - Xavier Noria (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=8lYR9WxIRH0)
 
 ## RAILS - PERFORMANCE
 
@@ -176,6 +186,8 @@
 * [David Chelimsky's "RSpec Toolbox" talk (WindyCityRails2012)](http://vimeo.com/50185518)
 
 ## RUBY
+
+* [Tracing Your Way Through Ruby (BaRuCo 2012)](http://www.youtube.com/watch?v=CvzEibqrriM)
 
 ## RUBY - RAKE
 
