@@ -40,6 +40,10 @@
 * [Smooth Coffeescript](http://autotelicum.github.com/Smooth-CoffeeScript/)
 * http://confreaks.com/videos/862-railsconf2012-coffeescript-for-the-rubyist
 
+## CSS
+
+* [Mozilla MDN](https://developer.mozilla.org/en-US/docs/CSS)
+
 ## DEPLOYMENT
 
 * [BOSH](https://github.com/cloudfoundry/bosh)
@@ -53,9 +57,18 @@
 
 * https://www.ruby-toolbox.com/categories/Maintenance_Mode
 
+## HTML5
+
+* [Mozilla MDN](https://developer.mozilla.org/en-US/docs/HTML/HTML5)
+
 ## HTML5 - CANVAS
 
 * [A Rubyist's Guide to the Canvas API - H. Dean Hudson (CascadiaRuby 2012)](http://confreaks.com/videos/1067-cascadiaruby2012-a-rubyist-s-guide-to-the-canvas-api)
+* [Mozilla MDN](https://developer.mozilla.org/en-US/docs/HTML/Canvas)
+
+## HTML5 - WEB SOCKETS
+
+* [Mozilla MDN](https://developer.mozilla.org/en-US/docs/WebSockets)
 
 ## iOS DEVELOPMENT
 
@@ -63,6 +76,10 @@
 * [RubyMotion: Ruby in your pocket - Laurent Sansonetti (CascadiaRuby 2012)](http://confreaks.com/videos/1076-cascadiaruby2012-rubymotion-ruby-in-your-pocket)
 
 ## JAVASCRIPT
+
+* [Khan Academy](http://www.khanacademy.org/cs/tutorials/all-tutorials)
+* [Mozilla MDN](https://developer.mozilla.org/en-US/docs/JavaScript)
+* [js-assessment](https://github.com/rmurphey/js-assessment)
 
 ## JAVASCRIPT - BACKBONE.JS
 
@@ -155,6 +172,10 @@
 * [Basecamp](http://basecamp.com/)
 * [GitLab HQ](https://github.com/gitlabhq/gitlabhq)
 * [Pivotal Tracker](http://www.pivotaltracker.com/)
+
+# PYTHON
+
+* [Khan Academy](http://www.khanacademy.org/science/computer-science/v/introduction-to-programs-data-types-and-variables)
 
 ## RAILS - CLEAN CODE
 
