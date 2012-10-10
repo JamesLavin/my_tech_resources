@@ -19,7 +19,6 @@
 * [Debugging Large Scale Service Oriented Systems - Andy Delcambre (CascadiaRuby 2012)](http://confreaks.com/videos/1068-cascadiaruby2012-debugging-large-scale-service-oriented-systems)
 * http://confreaks.com/videos/1133-scrc2012-thinking-in-objects
 * [Go Ahead, Make a Mess - Sandi Metz (GoGaRuCo 2012)](http://confreaks.com/videos/1115-gogaruco2012-go-ahead-make-a-mess)
-* (RailsConf 2012 talk on “Semi-Automatic Code Review”)
 * [Building the Great Wall: API Driven Applications by Scott Parker, Dan Melnick (Madison Ruby 2012)](http://www.youtube.com/watch?v=AoRkqMgX-4Q)
 * [Robert C. Martin videos (free)](http://www.google.com/search?q=robert+c.+martin&tbm=vid)
 * [Robert C. Martin videos (non-free)](http://www.cleancoders.com/)
