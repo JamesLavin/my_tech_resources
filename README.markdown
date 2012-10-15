@@ -77,6 +77,7 @@
 
 ## JAVASCRIPT
 
+* [JavascriptJabber.com](http://javascriptjabber.com/)
 * [Khan Academy](http://www.khanacademy.org/cs/tutorials/all-tutorials)
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/JavaScript)
 * [js-assessment](https://github.com/rmurphey/js-assessment)
@@ -86,7 +87,7 @@
 * [Backbone.js](http://backbonejs.org/)
 * [Backbone Fundamentals](https://github.com/addyosmani/backbone-fundamentals)
 * [Backbone Tutorials](http://backbonetutorials.com/)
-* http://confreaks.com/videos/861-railsconf2012-using-backbone-js-with-rails-patterns-from-the-wild
+* [Using Backbone.js With Rails: Patterns from the Wild - Sarah Mei (RailsConf 2012)](http://confreaks.com/videos/861-railsconf2012-using-backbone-js-with-rails-patterns-from-the-wild)
 * [Evening on Backbone.js/Views w/ Q&A with David Heinemeier Hansson](http://www.youtube.com/watch?v=FkLVl3gpJP4) - Intro to Rails followed by DHH arguing for Rails-generated (and "Russian-doll cached") HTML+JavaScript over client-side MVC except for the most complex cases
 * [Anatomy of Backbone - CodeSchool (non-free)](http://www.codeschool.com/courses/anatomy-of-backbonejs)
 * [Introduction to Backbone.js Part 1: Models Tutorial](http://www.youtube.com/watch?v=uYIzpHjPgXE) - First of a series of free videos all viewable on Youtube
@@ -118,6 +119,10 @@
 
 * http://confreaks.com/videos/992-jqcon2012-exterminating-common-jquery-bugs
 
+# JRUBY
+
+* [JRuby - Charles Nutter (Aloha RubyConf 2012)](http://www.slideshare.net/CharlesNutter/aloha-rubyconf-2012-jruby)
+
 ## JRUBY - PERFORMANCE
 
 * [High Performance Ruby - Charles Nutter (GoGaRuCo 2012)](http://confreaks.com/videos/1113-gogaruco2012-high-performance-ruby)
@@ -147,6 +152,10 @@
 * https://www.ruby-toolbox.com/categories/reporting
 * https://www.ruby-toolbox.com/categories/visualizing_data
 * https://www.ruby-toolbox.com/categories/Web_Analytics
+
+## MINITEST
+
+* [MiniTest: Refactoring Test Unit and RSpec back to version 0.0.1 - Jared Ning (RailsConf 2012)](http://confreaks.com/videos/913-railsconf2012-minitest-refactoring-test-unit-and-rspec-back-to-version-0-0-1)
 
 ## PERFORMANCE
 
@@ -194,7 +203,7 @@
 
 ## RAILS - FEATURES
 
-* [Ten Things You Didn't Know Rails Could Do - James Edward Gray II (RailsConf 2012)](http://confreaks.com/videos/889-railsconf2012-ten-things-you-didn-t-know-rails-could-do)
+* [Ten Things You Didn't Know Rails Could Do - James Edward Gray II (RailsConf 2012)](http://confreaks.com/videos/889-railsconf2012-ten-things-you-didn-t-know-rails-could-do) & [slides](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-rails-could-do)
 * [Constant Autoloading in Ruby on Rails - Xavier Noria (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=8lYR9WxIRH0)
 * [Client Side Validations](https://github.com/bcardarella/client_side_validations)
 * [Rails: The Next Five Years - Yehuda Katz](http://confreaks.com/videos/907-railsconf2012-rails-the-next-five-years)
@@ -223,7 +232,9 @@
 
 ## RUBY
 
+* [Ruby Rogues podcasts](http://rubyrogues.com/)
 * [Tracing Your Way Through Ruby (BaRuCo 2012)](http://www.youtube.com/watch?v=CvzEibqrriM)
+* [10 Things You Didn't Know Ruby Could Do - @JEG2](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do)
 
 ## RUBY - RAKE
 
@@ -251,6 +262,7 @@
 ## TESTING - CONTINUOUS INTEGRATION
 
 * https://www.ruby-toolbox.com/categories/continuous_integration
+* [Deconstructing Travis - Josh ](http://confreaks.com/videos/915-railsconf2012-deconstructing-travis)
 
 ## TESTING - COVERAGE
 
@@ -272,7 +284,8 @@
 * [Building the Web for Everyone - Greg Tarnoff (MadisonRuby 2012)](http://confreaks.com/videos/1102-madisonruby2012-building-the-web-for-everyone)
 * [Your User: The Animal - Hampton Catlin (MadisonRuby 2012)](http://confreaks.com/videos/1106-madisonruby2012-your-user-the-animal)
 
-## VI (YEAH, IT'S THE BEST)
+## VIM (YEAH, IT'S THE BEST)
 
+* [Vimcasts.org](http://vimcasts.org/)
 * [VimNinjas.com](http://www.vimninjas.com/)
 
