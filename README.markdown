@@ -187,12 +187,20 @@
 ### R - LEARNING
 
 * [Official R manuals](http://cran.r-project.org/manuals.html)
+* [R for Beginners](http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
 * [SimpleR](http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
+* [icebreakeR](http://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf)
+* [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf)
+* [Using R for Data Analysis and Graphics](http://cran.r-project.org/doc/contrib/usingR.pdf)
+* [The R Guide](http://cran.r-project.org/doc/contrib/Owen-TheRGuide.pdf)
+* [More R books/papers/tutorials/presentations](http://cran.r-project.org/doc/contrib/)
 * [R Journal](http://journal.r-project.org/archive.html)
 * [R-bloggers](http://www.r-bloggers.com/)
 * [R on Youtube](www.google.com/search?q=R+programming&tbm=vid)
 * [Introduction to Probability and Statistics Using R](http://ipsur.org/)
 * [Elements of Statistical Learning](http://www.stanford.edu/~hastie/local.ftp/Springer/ESLII_print5.pdf)
+* [Creating R Packages: A Tutorial](http://cran.r-project.org/doc/contrib/Leisch-CreatingPackages.pdf)
+* [Econometrics in R](http://cran.r-project.org/doc/contrib/Farnsworth-EconometricsInR.pdf)
 
 ### R - SEARCH
 * [RSeek.org](http://www.rseek.org/)
