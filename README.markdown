@@ -59,7 +59,7 @@
 
 ## FUNCTIONAL PROGRAMMING
 
-* [Y Not? - Adventures in Functional Programming - Jim Weirich (Scotland.js 2012)](https://vimeo.com/45140590)
+* [Y Not? - Adventures in Functional Programming - Jim Weirich (ScotlandJS 2012)](https://vimeo.com/45140590)
 
 ## HTML5
 
@@ -120,7 +120,6 @@
 ## JAVASCRIPT - CLIENT-SIDE ARCHITECTURES
 
 * [Use Rails for Your Next Client-Side App - Yehuda Katz (ChicagoRuby2012)](http://vimeo.com/50451185)
-* [Responsive Web Design, Mobile First and Progressive enhancement in action - Leonardo Lanese (Scotland.js 2012)](https://vimeo.com/45140588)
 
 ## JAVASCRIPT - MEMORY/GARBAGE COLLECTION
 
@@ -190,6 +189,7 @@
 * [Cultures of Effective Learning - Jeff Cohen (WindyCityRails2012)](http://vimeo.com/49951365)
 * https://www.ruby-toolbox.com/categories/continuous_testing
 * [10-item work-efficiency recipe ](http://m-a-tech.blogspot.com/2012/10/short-10-items-work-efficiency-recipe.html)
+* [Keynote - Tom Preston-Werner (GitHub) (NLC 2011)](http://vimeo.com/35640883)
 
 ## PROJECT MANAGEMENT - PEOPLE
 
@@ -203,9 +203,20 @@
 * [GitLab HQ](https://github.com/gitlabhq/gitlabhq)
 * [Pivotal Tracker](http://www.pivotaltracker.com/)
 
-# PYTHON
+## PYTHON
 
 * [Khan Academy](http://www.khanacademy.org/science/computer-science/v/introduction-to-programs-data-types-and-variables)
+
+## R - LEARNING
+
+* [R-project](http://www.r-project.org/)
+* [R-bloggers](http://www.r-bloggers.com/)
+* [R on Youtube](www.google.com/search?q=R+programming&tbm=vid)
+
+## R - SEARCH
+* [RSeek.org](http://www.rseek.org/)
+* [R Site Search](http://finzi.psych.upenn.edu/search.html)
+* [R mailing list archive](http://tolstoy.newcastle.edu.au/R/)
 
 ## RAILS - CLEAN CODE
 
@@ -307,4 +318,8 @@
 
 * [Vimcasts.org](http://vimcasts.org/)
 * [VimNinjas.com](http://www.vimninjas.com/)
+
+## WEB DESIGN - RESPONSIVE DESIGN & PROGRESSIVE ENHANCEMENT
+
+* [Responsive Web Design, Mobile First and Progressive enhancement in action - Leonado Lenase (ScotlandJS 2012)](http://vimeo.com/45140588)
 
