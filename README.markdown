@@ -57,6 +57,10 @@
 * https://www.ruby-toolbox.com/categories/Maintenance_Mode
 * [Zero downtime deploys for Rails apps - Pedro Belo (RailsConf 2012)](http://confreaks.com/videos/896-railsconf2012-zero-downtime-deploys-for-rails-apps) using Heroku, Unicorn and HAProxy
 
+## FUNCTIONAL PROGRAMMING
+
+* [Y Not? - Adventures in Functional Programming - Jim Weirich (Scotland.js 2012)](https://vimeo.com/45140590)
+
 ## HTML5
 
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/HTML/HTML5)
@@ -79,6 +83,7 @@
 
 * [JavascriptJabber.com](http://javascriptjabber.com/)
 * [Khan Academy](http://www.khanacademy.org/cs/tutorials/all-tutorials)
+* Crockford on Javascript [1](http://www.youtube.com/watch?v=JxAXlJEmNMg) [2](http://www.youtube.com/watch?v=RO1Wnu-xKoY) [3](http://www.youtube.com/watch?v=ya4UHuXNygM) [4](http://www.youtube.com/watch?v=Fv9qT9joc0M) [5](http://www.youtube.com/watch?v=47Ceot8yqeI) [6](http://www.youtube.com/watch?v=QgwSUtYSUqA) [7](http://www.youtube.com/watch?v=UTEqr0IlFKY) [8](http://www.youtube.com/watch?v=taaEzHI9xyY) [Advanced Javascript](http://www.youtube.com/watch?v=DwYPG6vreJg)
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/JavaScript)
 * [js-assessment](https://github.com/rmurphey/js-assessment)
 * [Javascript Weekly (email list)](http://javascriptweekly.com/)
