@@ -209,9 +209,14 @@
 
 ## R - LEARNING
 
-* [R-project](http://www.r-project.org/)
+* [Official R manuals](http://cran.r-project.org/manuals.html)
+* [RStudio](http://rstudio.org/)
+* [SimpleR](http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
+* [R Journal](http://journal.r-project.org/archive.html)
 * [R-bloggers](http://www.r-bloggers.com/)
 * [R on Youtube](www.google.com/search?q=R+programming&tbm=vid)
+* [Introduction to Probability and Statistics Using R](http://ipsur.org/)
+* [Elements of Statistical Learning](http://www.stanford.edu/~hastie/local.ftp/Springer/ESLII_print5.pdf)
 
 ## R - SEARCH
 * [RSeek.org](http://www.rseek.org/)
