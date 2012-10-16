@@ -83,7 +83,7 @@
 
 * [JavascriptJabber.com](http://javascriptjabber.com/)
 * [Khan Academy](http://www.khanacademy.org/cs/tutorials/all-tutorials)
-* Crockford on Javascript [1](http://www.youtube.com/watch?v=JxAXlJEmNMg) [2](http://www.youtube.com/watch?v=RO1Wnu-xKoY) [3](http://www.youtube.com/watch?v=ya4UHuXNygM) [4](http://www.youtube.com/watch?v=Fv9qT9joc0M) [5](http://www.youtube.com/watch?v=47Ceot8yqeI) [6](http://www.youtube.com/watch?v=QgwSUtYSUqA) [7](http://www.youtube.com/watch?v=UTEqr0IlFKY) [8](http://www.youtube.com/watch?v=taaEzHI9xyY) [Advanced Javascript](http://www.youtube.com/watch?v=DwYPG6vreJg)
+* Crockford videos: [1](http://www.youtube.com/watch?v=JxAXlJEmNMg) [2](http://www.youtube.com/watch?v=RO1Wnu-xKoY) [3](http://www.youtube.com/watch?v=ya4UHuXNygM) [4](http://www.youtube.com/watch?v=Fv9qT9joc0M) [5](http://www.youtube.com/watch?v=47Ceot8yqeI) [6](http://www.youtube.com/watch?v=QgwSUtYSUqA) [7](http://www.youtube.com/watch?v=UTEqr0IlFKY) [8](http://www.youtube.com/watch?v=taaEzHI9xyY) [Advanced Javascript](http://www.youtube.com/watch?v=DwYPG6vreJg) [Good Parts](http://www.youtube.com/watch?v=_DKkVvOt6dk) [What Would Crockford Do?](http://www.youtube.com/watch?v=8HzclYKz4yQ) [JS: Your New Overlord](http://www.youtube.com/watch?v=Trurfqh_6fQ)
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/JavaScript)
 * [js-assessment](https://github.com/rmurphey/js-assessment)
 * [Javascript Weekly (email list)](http://javascriptweekly.com/)
@@ -186,7 +186,7 @@
 
 ### R - LEARNING
 
-* [Twotorials.com (2-min R tutorials)](http://www.twotorials.com/)
+* [Twotorials.com (fun 2-min R tutorials)](http://www.twotorials.com/)
 * [Official R manuals](http://cran.r-project.org/manuals.html)
 * [R for Beginners](http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
 * [SimpleR](http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
