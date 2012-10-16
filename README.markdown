@@ -88,7 +88,7 @@
 * [js-assessment](https://github.com/rmurphey/js-assessment)
 * [Javascript Weekly (email list)](http://javascriptweekly.com/)
 
-## JAVASCRIPT - BACKBONE.JS
+### JAVASCRIPT - BACKBONE.JS
 
 * [Backbone.js](http://backbonejs.org/)
 * [Backbone Fundamentals](https://github.com/addyosmani/backbone-fundamentals)
@@ -99,85 +99,58 @@
 * [Introduction to Backbone.js Part 1: Models Tutorial](http://www.youtube.com/watch?v=uYIzpHjPgXE) - First of a series of free videos all viewable on Youtube
 * [Structuring Complex Backbone.js Apps](http://www.mikkolehtinen.com/blog/2012/08/03/structuring-complex-backbone-dot-js-apps/)
 
-## JAVASCRIPT - BACKBONE.JS - PLUGINS
+#### JAVASCRIPT - BACKBONE.JS - PLUGINS
 
 * [Backbone.ModelBinder](https://github.com/theironcook/Backbone.ModelBinder)
 * [backbone.validation](https://github.com/thedersen/backbone.validation)
 
-## JAVASCRIPT - BACKBONE.JS - TESTING
+#### JAVASCRIPT - BACKBONE.JS - TESTING
 
 * [Testing your Backbone from the outside-in - James Newbery (Scotland.js 2012)](https://vimeo.com/45140589)
 
-## JAVASCRIPT - BACKBONE.JS - UNDERSCORE.JS
+#### JAVASCRIPT - BACKBONE.JS - UNDERSCORE.JS
 
 * [Underscore.js](http://underscorejs.org/)
 
-## JAVASCRIPT - CLEAN CODE
+### JAVASCRIPT - CLEAN CODE
 
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [JSHint (Github)](https://github.com/jshint/jshint) & [JSHint.com](http://www.jshint.com/)
 
-## JAVASCRIPT - CLIENT-SIDE ARCHITECTURES
+### JAVASCRIPT - CLIENT-SIDE ARCHITECTURES
 
 * [Use Rails for Your Next Client-Side App - Yehuda Katz (ChicagoRuby2012)](http://vimeo.com/50451185)
 
-## JAVASCRIPT - MEMORY/GARBAGE COLLECTION
+### JAVASCRIPT - MEMORY/GARBAGE COLLECTION
 
 * [Garbage Collection & Heap Management - Ryan Sandor Richards (Scotland.js 2012)](http://vimeo.com/45140516)
 
-## JAVASCRIPT - TESTING
+### JAVASCRIPT - TESTING
 
 * https://www.ruby-toolbox.com/categories/javascript_testing
 
-## JAVASCRIPT - JQUERY
+### JAVASCRIPT - JQUERY
 
 * http://confreaks.com/videos/992-jqcon2012-exterminating-common-jquery-bugs
 
-# JRUBY
+## JRUBY
 
 * [JRuby - Charles Nutter (Aloha RubyConf 2012)](http://www.slideshare.net/CharlesNutter/aloha-rubyconf-2012-jruby)
 
-## JRUBY - PERFORMANCE
+### JRUBY - PERFORMANCE
 
 * [High Performance Ruby - Charles Nutter (GoGaRuCo 2012)](http://confreaks.com/videos/1113-gogaruco2012-high-performance-ruby)
 * [Deploy, Scale and Sleep at Night with JRuby - Joe Kutner (GoGaRuCo 2012)](http://confreaks.com/videos/1118-gogaruco2012-deploy-scale-and-sleep-at-night-with-jruby)
 
-## JRUBY - TORQUEBOX
+### JRUBY - TORQUEBOX
 
 * [Complex Made Simple: Sleep Better with TorqueBox - Lance Ball (RailsConf 2012)](http://confreaks.com/videos/912-railsconf2012-complex-made-simple-sleep-better-with-torquebox)
 
-## LINUX - SHELL SCRIPTING (BASH)
+## LINUX
+
+### LINUX - SHELL SCRIPTING (BASH)
 
 * http://www.commandlinefu.com/commands/browse/sort-by-votes
-
-## LOGGING & PROBLEM DETECTION
-
-* [It’s Not in Production Unless it’s Monitored - Joseph Ruscio (RailsConf 2012)](http://confreaks.com/videos/906-railsconf2012-its-not-in-production-unless-its-monitored)
-* https://www.ruby-toolbox.com/categories/exception_notification
-* https://www.ruby-toolbox.com/categories/rails_instrumentation
-* https://www.ruby-toolbox.com/categories/Log_Analysis
-* https://www.ruby-toolbox.com/categories/Logging
-* https://www.ruby-toolbox.com/categories/rails_admin_interfaces
-* https://www.ruby-toolbox.com/categories/reporting
-* https://www.ruby-toolbox.com/categories/server_monitoring
-
-## METRICS - MONITORING WHAT MATTERS
-
-* https://www.ruby-toolbox.com/categories/reporting
-* https://www.ruby-toolbox.com/categories/visualizing_data
-* https://www.ruby-toolbox.com/categories/Web_Analytics
-
-## MINITEST
-
-* [MiniTest: Refactoring Test Unit and RSpec back to version 0.0.1 - Jared Ning (RailsConf 2012)](http://confreaks.com/videos/913-railsconf2012-minitest-refactoring-test-unit-and-rspec-back-to-version-0-0-1)
-
-## PERFORMANCE
-
-* https://www.ruby-toolbox.com/categories/Benchmarking
-* [Cargo Cult Web Performance Optimization - Ilya Grigorik (GoGaRuCo 2012)](http://confreaks.com/videos/1111-gogaruco2012-cargo-cult-web-performance-optimization)
-* [Services, Scale, Backgrounding and WTF is going on here?!??! - David Copeland (GoGaRuCo 2012)](http://confreaks.com/videos/1119-gogaruco2012-services-scale-backgrounding-and-wtf-is-going-on-here)
-
-## PERFORMANCE - LOAD TESTING
 
 ## PRODUCT DEVELOPMENT
 
@@ -211,7 +184,7 @@
 
 * [RStudio](http://rstudio.org/)
 
-## R - LEARNING
+### R - LEARNING
 
 * [Official R manuals](http://cran.r-project.org/manuals.html)
 * [SimpleR](http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
@@ -221,12 +194,14 @@
 * [Introduction to Probability and Statistics Using R](http://ipsur.org/)
 * [Elements of Statistical Learning](http://www.stanford.edu/~hastie/local.ftp/Springer/ESLII_print5.pdf)
 
-## R - SEARCH
+### R - SEARCH
 * [RSeek.org](http://www.rseek.org/)
 * [R Site Search](http://finzi.psych.upenn.edu/search.html)
 * [R mailing list archive](http://tolstoy.newcastle.edu.au/R/)
 
-## RAILS - CLEAN CODE
+## RAILS
+
+### RAILS - CLEAN CODE
 
 * https://www.ruby-toolbox.com/categories/rails_presenters
 * https://www.ruby-toolbox.com/categories/template_engines
@@ -236,7 +211,7 @@
 * [Code to Joy - Avdi Grimm (GoGaRuCo 2012)](http://confreaks.com/videos/1117-gogaruco2012-code-to-joy)
 * [Writing a Rails Engine - Erik Michaels-Ober (GoGaRuCo 2012)](http://confreaks.com/videos/1109-gogaruco2012-writing-a-rails-engine)
 
-## RAILS - FEATURES
+### RAILS - FEATURES
 
 * [Ten Things You Didn't Know Rails Could Do - James Edward Gray II (RailsConf 2012)](http://confreaks.com/videos/889-railsconf2012-ten-things-you-didn-t-know-rails-could-do) & [slides](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-rails-could-do)
 * [Constant Autoloading in Ruby on Rails - Xavier Noria (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=8lYR9WxIRH0)
@@ -246,7 +221,7 @@
 * [Railscasts (more non-free than free)](http://railscasts.com/)
 * [Chanko - How Cookpad safely releases multiple feature prototypes - in production](http://confreaks.com/videos/909-railsconf2012-chanko-how-cookpad-safely-releases-multiple-feature-prototypes-in-production-for-test-segments-of-their-15-million-engaged-users)
 
-## RAILS - PERFORMANCE
+### RAILS - PERFORMANCE
 
 * No ActionMailer! Move mailing to external app.
 * https://www.ruby-toolbox.com/categories/Background_Jobs
@@ -256,16 +231,12 @@
 * [Async Everything - Anthony Eden (MadisonRuby 2012)](http://confreaks.com/videos/1099-madisonruby2012-async-everything)
 * [Evented Ruby vs Node.js - Jerry Cheung (RailsConf 2012)](http://confreaks.com/videos/894-railsconf2012-evented-ruby-vs-node-js)
 
-## RAILS - PJAX
+### RAILS - PJAX
 
 * [Pjax on Rails (BigBinary.com)](http://blog.bigbinary.com/2012/08/13/pjax-on-rails.html)
 * [PJAX Use Case On Intridea.com](http://www.intridea.com/blog/2012/6/28/pjax-use-case-on-intridea-com)
 * [Railscasts - Playing With PJAX](http://railscasts.com/episodes/294-playing-with-pjax)
 * [Learning pjax – Tutorial and Screencast](http://theadmin.org/articles/learning-pjax/)
-
-## RSPEC
-
-* [David Chelimsky's "RSpec Toolbox" talk (WindyCityRails2012)](http://vimeo.com/50185518)
 
 ## RUBY
 
@@ -274,13 +245,44 @@
 * [Tracing Your Way Through Ruby (BaRuCo 2012)](http://www.youtube.com/watch?v=CvzEibqrriM)i
 * [10 Things You Didn't Know Ruby Could Do - @JEG2](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do)
 
-## RUBY - RAKE
+### RUBY - LOGGING & PROBLEM DETECTION
+
+* [It’s Not in Production Unless it’s Monitored - Joseph Ruscio (RailsConf 2012)](http://confreaks.com/videos/906-railsconf2012-its-not-in-production-unless-its-monitored)
+* https://www.ruby-toolbox.com/categories/exception_notification
+* https://www.ruby-toolbox.com/categories/rails_instrumentation
+* https://www.ruby-toolbox.com/categories/Log_Analysis
+* https://www.ruby-toolbox.com/categories/Logging
+* https://www.ruby-toolbox.com/categories/rails_admin_interfaces
+* https://www.ruby-toolbox.com/categories/reporting
+* https://www.ruby-toolbox.com/categories/server_monitoring
+
+### RUBY - MINITEST
+
+* [MiniTest: Refactoring Test Unit and RSpec back to version 0.0.1 - Jared Ning (RailsConf 2012)](http://confreaks.com/videos/913-railsconf2012-minitest-refactoring-test-unit-and-rspec-back-to-version-0-0-1)
+
+### RUBY - METRICS (MONITORING WHAT MATTERS)
+
+* https://www.ruby-toolbox.com/categories/reporting
+* https://www.ruby-toolbox.com/categories/visualizing_data
+* https://www.ruby-toolbox.com/categories/Web_Analytics
+
+### RUBY - PERFORMANCE & LOAD TESTING
+
+* https://www.ruby-toolbox.com/categories/Benchmarking
+* [Cargo Cult Web Performance Optimization - Ilya Grigorik (GoGaRuCo 2012)](http://confreaks.com/videos/1111-gogaruco2012-cargo-cult-web-performance-optimization)
+* [Services, Scale, Backgrounding and WTF is going on here?!??! - David Copeland (GoGaRuCo 2012)](http://confreaks.com/videos/1119-gogaruco2012-services-scale-backgrounding-and-wtf-is-going-on-here)
+
+### RUBY - RAKE
 
 * [Rake](https://github.com/jimweirich/rake)
 * [Basic Rake - Jim Weirich](http://www.youtube.com/watch?v=AFPWDzHWjEY)
 * [Power Rake - Jim Weirich](http://confreaks.com/videos/1139-scrc2012-power-rake)
 
-## SECURITY
+### RUBY - RSPEC
+
+* [David Chelimsky's "RSpec Toolbox" talk (WindyCityRails2012)](http://vimeo.com/50185518)
+
+### RUBY - SECURITY
 
 * [Brakeman](https://github.com/presidentbeef/brakeman)
 * [Keeping Rails Applications on Track with Brakeman - Justin Collins (RailsConf 2012)](http://confreaks.com/videos/890-railsconf2012-keeping-rails-applications-on-track-with-brakeman)
@@ -297,22 +299,22 @@
 * https://www.ruby-toolbox.com/#Testing
 * [Let's Make Testing Fun Again - Noel Rappin (WindyCityRails2012)](http://vimeo.com/49525644)
 
-## TESTING - CONTINUOUS INTEGRATION
+### TESTING - CONTINUOUS INTEGRATION
 
 * https://www.ruby-toolbox.com/categories/continuous_integration
 * [Deconstructing Travis - Josh ](http://confreaks.com/videos/915-railsconf2012-deconstructing-travis)
 
-## TESTING - COVERAGE
+### TESTING - COVERAGE
 
 * SimpleCov, RCov
 * https://www.ruby-toolbox.com/categories/code_metrics
 
-## TESTING - INTEGRATION TESTS
+### TESTING - INTEGRATION TESTS
 
 * https://www.ruby-toolbox.com/categories/browser_testing
 * https://www.ruby-toolbox.com/categories/distributed_testing
 
-## TESTING - UNIT TESTS
+### TESTING - UNIT TESTS
 
 * [Why Is a Math Proof Like a Unit Test? - Daniela Wellisz (GoGaRuCo 2012)](http://confreaks.com/videos/1116-gogaruco2012-why-is-a-math-proof-like-a-unit-test)
 
