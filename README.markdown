@@ -65,6 +65,8 @@
 ## HTML5
 
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/HTML/HTML5)
+* [HTML5 Boilerplate](http://html5boilerplate.com/)
+* [HTML5 Please](http://html5please.com/)
 * [HTML5 Developer Conference](http://www.youtube.com/playlist?list=PL2679A5F392A01722&feature=plcp)
 
 ### HTML5 - CANVAS
@@ -129,7 +131,12 @@
 
 ### JAVASCRIPT - JQUERY
 
+* [Official documentation](http://docs.jquery.com/)
+* [Official API](http://api.jquery.com/)
 * http://confreaks.com/videos/992-jqcon2012-exterminating-common-jquery-bugs
+* [Tutorials (JQuery.com)](http://docs.jquery.com/Tutorials)
+* [14 Days of JQuery](http://jquery14.com/)
+* [TutorialsPoint.com](http://www.tutorialspoint.com/jquery/)
 
 ## JRUBY
 
@@ -145,6 +152,8 @@
 * [Complex Made Simple: Sleep Better with TorqueBox - Lance Ball (RailsConf 2012)](http://confreaks.com/videos/912-railsconf2012-complex-made-simple-sleep-better-with-torquebox)
 
 ## LINUX
+
+* [dotfiles.github.com](http://dotfiles.github.com/)
 
 ### LINUX - SHELL SCRIPTING (BASH)
 
