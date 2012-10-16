@@ -81,6 +81,7 @@
 * [Khan Academy](http://www.khanacademy.org/cs/tutorials/all-tutorials)
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/JavaScript)
 * [js-assessment](https://github.com/rmurphey/js-assessment)
+* [Javascript Weekly (email list)](http://javascriptweekly.com/)
 
 ## JAVASCRIPT - BACKBONE.JS
 
@@ -98,6 +99,10 @@
 * [Backbone.ModelBinder](https://github.com/theironcook/Backbone.ModelBinder)
 * [backbone.validation](https://github.com/thedersen/backbone.validation)
 
+## JAVASCRIPT - BACKBONE.JS - TESTING
+
+* [Testing your Backbone from the outside-in - James Newbery (Scotland.js 2012)](https://vimeo.com/45140589)
+
 ## JAVASCRIPT - BACKBONE.JS - UNDERSCORE.JS
 
 * [Underscore.js](http://underscorejs.org/)
@@ -110,8 +115,13 @@
 ## JAVASCRIPT - CLIENT-SIDE ARCHITECTURES
 
 * [Use Rails for Your Next Client-Side App - Yehuda Katz (ChicagoRuby2012)](http://vimeo.com/50451185)
+* [Responsive Web Design, Mobile First and Progressive enhancement in action - Leonardo Lanese (Scotland.js 2012)](https://vimeo.com/45140588)
 
-## JAVASCRIPT TESTING
+## JAVASCRIPT - MEMORY/GARBAGE COLLECTION
+
+* [Garbage Collection & Heap Management - Ryan Sandor Richards (Scotland.js 2012)](http://vimeo.com/45140516)
+
+## JAVASCRIPT - TESTING
 
 * https://www.ruby-toolbox.com/categories/javascript_testing
 
@@ -174,6 +184,7 @@
 * [Being an Excellent Software Developer - Michael Norton (WindyCityRails2012)](http://vimeo.com/49882901)
 * [Cultures of Effective Learning - Jeff Cohen (WindyCityRails2012)](http://vimeo.com/49951365)
 * https://www.ruby-toolbox.com/categories/continuous_testing
+* [10-item work-efficiency recipe ](http://m-a-tech.blogspot.com/2012/10/short-10-items-work-efficiency-recipe.html)
 
 ## PROJECT MANAGEMENT - PEOPLE
 
@@ -206,7 +217,9 @@
 * [Ten Things You Didn't Know Rails Could Do - James Edward Gray II (RailsConf 2012)](http://confreaks.com/videos/889-railsconf2012-ten-things-you-didn-t-know-rails-could-do) & [slides](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-rails-could-do)
 * [Constant Autoloading in Ruby on Rails - Xavier Noria (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=8lYR9WxIRH0)
 * [Client Side Validations](https://github.com/bcardarella/client_side_validations)
+* [Nought to real-time, multiplayer game in 16 hours with Pusher (Philip Roberts)](http://vimeo.com/45119844)
 * [Rails: The Next Five Years - Yehuda Katz](http://confreaks.com/videos/907-railsconf2012-rails-the-next-five-years)
+* [Railscasts (more non-free than free)](http://railscasts.com/)
 * [Chanko - How Cookpad safely releases multiple feature prototypes - in production](http://confreaks.com/videos/909-railsconf2012-chanko-how-cookpad-safely-releases-multiple-feature-prototypes-in-production-for-test-segments-of-their-15-million-engaged-users)
 
 ## RAILS - PERFORMANCE
@@ -232,8 +245,9 @@
 
 ## RUBY
 
-* [Ruby Rogues podcasts](http://rubyrogues.com/)
-* [Tracing Your Way Through Ruby (BaRuCo 2012)](http://www.youtube.com/watch?v=CvzEibqrriM)
+* [Ruby Rogues (podcasts)](http://rubyrogues.com/)
+* [The Ruby Show (podcasts)](http://rubyshow.com/)
+* [Tracing Your Way Through Ruby (BaRuCo 2012)](http://www.youtube.com/watch?v=CvzEibqrriM)i
 * [10 Things You Didn't Know Ruby Could Do - @JEG2](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do)
 
 ## RUBY - RAKE
