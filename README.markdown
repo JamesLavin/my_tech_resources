@@ -24,13 +24,13 @@
 * [Robert C. Martin videos (non-free)](http://www.cleancoders.com/)
 * [Grand Unification Theory: Writing and Running Code, by Brian Ford (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=iub8zWID4yk)
 
-## CLEAN CODE - MEASURING
+### CLEAN CODE - MEASURING
 
 * https://www.ruby-toolbox.com/categories/code_metrics
 * [Semi Automatic Code Review - Richard Huang (RailsConf 2012)](http://confreaks.com/videos/888-railsconf2012-semi-automatic-code-review)
 * [rails_best_practices gem](https://github.com/railsbp/rails_best_practices) & [railsbp.com](http://railsbp.com/) 
 
-## CLEAN CODE - REFACTORING
+### CLEAN CODE - REFACTORING
 
 * [Therapeutic Refactoring - Katrina Owen (CascadiaRuby 2012)](http://confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring)
 
@@ -65,12 +65,12 @@
 
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/HTML/HTML5)
 
-## HTML5 - CANVAS
+### HTML5 - CANVAS
 
 * [A Rubyist's Guide to the Canvas API - H. Dean Hudson (CascadiaRuby 2012)](http://confreaks.com/videos/1067-cascadiaruby2012-a-rubyist-s-guide-to-the-canvas-api)
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/HTML/Canvas)
 
-## HTML5 - WEB SOCKETS
+### HTML5 - WEB SOCKETS
 
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/WebSockets)
 
@@ -207,10 +207,13 @@
 
 * [Khan Academy](http://www.khanacademy.org/science/computer-science/v/introduction-to-programs-data-types-and-variables)
 
+## R
+
+* [RStudio](http://rstudio.org/)
+
 ## R - LEARNING
 
 * [Official R manuals](http://cran.r-project.org/manuals.html)
-* [RStudio](http://rstudio.org/)
 * [SimpleR](http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
 * [R Journal](http://journal.r-project.org/archive.html)
 * [R-bloggers](http://www.r-bloggers.com/)
