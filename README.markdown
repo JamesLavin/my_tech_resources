@@ -60,10 +60,12 @@
 ## FUNCTIONAL PROGRAMMING
 
 * [Y Not? - Adventures in Functional Programming - Jim Weirich (ScotlandJS 2012)](https://vimeo.com/45140590)
+* [Functional Thinking With Neal Ford](http://www.youtube.com/watch?v=JeK979aqqqc)
 
 ## HTML5
 
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/HTML/HTML5)
+* [HTML5 Developer Conference](http://www.youtube.com/playlist?list=PL2679A5F392A01722&feature=plcp)
 
 ### HTML5 - CANVAS
 
@@ -74,13 +76,9 @@
 
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/WebSockets)
 
-## iOS DEVELOPMENT
-
-* [RubyMotion: Rubyizing iOS development - Amit Kumar (GoGaRuCo 2012)](http://confreaks.com/videos/1124-gogaruco2012-rubymotion-rubyizing-ios-development)
-* [RubyMotion: Ruby in your pocket - Laurent Sansonetti (CascadiaRuby 2012)](http://confreaks.com/videos/1076-cascadiaruby2012-rubymotion-ruby-in-your-pocket)
-
 ## JAVASCRIPT
 
+* [Eloquent Javascript](http://eloquentjavascript.net/)
 * [JavascriptJabber.com](http://javascriptjabber.com/)
 * [Khan Academy](http://www.khanacademy.org/cs/tutorials/all-tutorials)
 * Crockford videos: [1](http://www.youtube.com/watch?v=JxAXlJEmNMg) [2](http://www.youtube.com/watch?v=RO1Wnu-xKoY) [3](http://www.youtube.com/watch?v=ya4UHuXNygM) [4](http://www.youtube.com/watch?v=Fv9qT9joc0M) [5](http://www.youtube.com/watch?v=47Ceot8yqeI) [6](http://www.youtube.com/watch?v=QgwSUtYSUqA) [7](http://www.youtube.com/watch?v=UTEqr0IlFKY) [8](http://www.youtube.com/watch?v=taaEzHI9xyY) [Advanced Javascript](http://www.youtube.com/watch?v=DwYPG6vreJg) [Good Parts](http://www.youtube.com/watch?v=_DKkVvOt6dk) [What Would Crockford Do?](http://www.youtube.com/watch?v=8HzclYKz4yQ) [JS: Your New Overlord](http://www.youtube.com/watch?v=Trurfqh_6fQ)
@@ -114,8 +112,8 @@
 
 ### JAVASCRIPT - CLEAN CODE
 
-* [Eloquent Javascript](http://eloquentjavascript.net/)
 * [JSHint (Github)](https://github.com/jshint/jshint) & [JSHint.com](http://www.jshint.com/)
+* [Javascript Development Workflow of 2013 - Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo)
 
 ### JAVASCRIPT - CLIENT-SIDE ARCHITECTURES
 
@@ -152,6 +150,19 @@
 
 * http://www.commandlinefu.com/commands/browse/sort-by-votes
 
+## MOBILE
+
+* [App Developers' Conference](http://www.youtube.com/playlist?list=PL14804B7FA696ACA0&feature=plcp)
+
+### ANDROID DEVELOPMENT
+
+* [Android Bootcamp Series 2012](http://www.youtube.com/playlist?list=PLE08A97D36D5A255F&feature=plcp)
+
+### iOS DEVELOPMENT
+
+* [RubyMotion: Rubyizing iOS development - Amit Kumar (GoGaRuCo 2012)](http://confreaks.com/videos/1124-gogaruco2012-rubymotion-rubyizing-ios-development)
+* [RubyMotion: Ruby in your pocket - Laurent Sansonetti (CascadiaRuby 2012)](http://confreaks.com/videos/1076-cascadiaruby2012-rubymotion-ruby-in-your-pocket)
+
 ## PRODUCT DEVELOPMENT
 
 * [Essentials of Product Development - Ryan Singer (WindyCityRails2012)](http://vimeo.com/49523952)
@@ -179,6 +190,7 @@
 ## PYTHON
 
 * [Khan Academy](http://www.khanacademy.org/science/computer-science/v/introduction-to-programs-data-types-and-variables)
+* [Python Fundamentals Training](http://www.youtube.com/playlist?list=PL26BA8B9FC33789FF&feature=plcp)
 
 ## R
 
