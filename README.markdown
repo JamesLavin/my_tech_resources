@@ -83,10 +83,11 @@
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [JavascriptJabber.com](http://javascriptjabber.com/)
 * [Khan Academy](http://www.khanacademy.org/cs/tutorials/all-tutorials)
-* Crockford videos: [1](http://www.youtube.com/watch?v=JxAXlJEmNMg) [2](http://www.youtube.com/watch?v=RO1Wnu-xKoY) [3](http://www.youtube.com/watch?v=ya4UHuXNygM) [4](http://www.youtube.com/watch?v=Fv9qT9joc0M) [5](http://www.youtube.com/watch?v=47Ceot8yqeI) [6](http://www.youtube.com/watch?v=QgwSUtYSUqA) [7](http://www.youtube.com/watch?v=UTEqr0IlFKY) [8](http://www.youtube.com/watch?v=taaEzHI9xyY) [Advanced Javascript](http://www.youtube.com/watch?v=DwYPG6vreJg) [Good Parts](http://www.youtube.com/watch?v=_DKkVvOt6dk) [What Would Crockford Do?](http://www.youtube.com/watch?v=8HzclYKz4yQ) [JS: Your New Overlord](http://www.youtube.com/watch?v=Trurfqh_6fQ)
+* Crockford videos: [1](http://www.youtube.com/watch?v=JxAXlJEmNMg) [2](http://www.youtube.com/watch?v=RO1Wnu-xKoY) [3](http://www.youtube.com/watch?v=ya4UHuXNygM) [4](http://www.youtube.com/watch?v=Fv9qT9joc0M) [5](http://www.youtube.com/watch?v=47Ceot8yqeI) [6](http://www.youtube.com/watch?v=QgwSUtYSUqA) [7](http://www.youtube.com/watch?v=UTEqr0IlFKY) [8](http://www.youtube.com/watch?v=taaEzHI9xyY) [Advanced Javascript](http://www.youtube.com/watch?v=DwYPG6vreJg) [Good Parts](http://www.youtube.com/watch?v=_DKkVvOt6dk) [JS: Your New Overlord](http://www.youtube.com/watch?v=Trurfqh_6fQ)
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/JavaScript)
 * [js-assessment](https://github.com/rmurphey/js-assessment)
 * [Javascript Weekly (email list)](http://javascriptweekly.com/)
+* [Javascript at 17 - Brendan Eich (Fluent 2012)](http://www.youtube.com/watch?v=Rj49rmc01Hs)
 
 ### JAVASCRIPT - BACKBONE.JS
 
@@ -101,6 +102,7 @@
 
 #### JAVASCRIPT - BACKBONE.JS - PLUGINS
 
+* [Backbone Boilerplate](https://github.com/tbranyen/backbone-boilerplate/wiki) & [grunt-bbb](https://github.com/backbone-boilerplate/grunt-bbb)
 * [Backbone.ModelBinder](https://github.com/theironcook/Backbone.ModelBinder)
 * [backbone.validation](https://github.com/thedersen/backbone.validation)
 
@@ -128,6 +130,7 @@
 ### JAVASCRIPT - TESTING
 
 * https://www.ruby-toolbox.com/categories/javascript_testing
+* [Jasmine](http://pivotal.github.com/jasmine/)
 
 ### JAVASCRIPT - JQUERY
 
@@ -163,14 +166,19 @@
 
 * [App Developers' Conference](http://www.youtube.com/playlist?list=PL14804B7FA696ACA0&feature=plcp)
 
-### ANDROID DEVELOPMENT
+### MOBILE - ANDROID DEVELOPMENT
 
 * [Android Bootcamp Series 2012](http://www.youtube.com/playlist?list=PLE08A97D36D5A255F&feature=plcp)
 
-### iOS DEVELOPMENT
+### MOBILE - iOS DEVELOPMENT
 
 * [RubyMotion: Rubyizing iOS development - Amit Kumar (GoGaRuCo 2012)](http://confreaks.com/videos/1124-gogaruco2012-rubymotion-rubyizing-ios-development)
 * [RubyMotion: Ruby in your pocket - Laurent Sansonetti (CascadiaRuby 2012)](http://confreaks.com/videos/1076-cascadiaruby2012-rubymotion-ruby-in-your-pocket)
+
+### MOBILE - CROSS-DEVICE TESTING
+
+* [Bunyip](http://ryanseddon.github.com/bunyip/)
+* Grunt: [Intro](http://weblog.bocoup.com/introducing-grunt/) | [Github](https://github.com/gruntjs/grunt) | [Getting Started](https://github.com/gruntjs/grunt/blob/master/docs/getting_started.md)
 
 ## PRODUCT DEVELOPMENT
 
