@@ -52,6 +52,7 @@
 * [BOSH](https://github.com/cloudfoundry/bosh)
 * [Capistrano](https://github.com/capistrano/capistrano)
 * [Chef](http://www.opscode.com/chef/)
+* [Heroku]() | [Tddium](https://devcenter.heroku.com/articles/tddium)
 * [Puppet](http://puppetlabs.com/)
 * https://www.ruby-toolbox.com/categories/deployment_automation
 * https://www.ruby-toolbox.com/categories/systems_integration
@@ -65,6 +66,16 @@
 
 * [Y Not? - Adventures in Functional Programming - Jim Weirich (ScotlandJS 2012)](https://vimeo.com/45140590)
 * [Functional Thinking With Neal Ford](http://www.youtube.com/watch?v=JeK979aqqqc)
+
+## GIT
+
+* [Official documentation](http://git-scm.com/documentation)
+* [Pro Git](http://git-scm.com/book) [PDF](https://github.s3.amazonaws.com/media/progit.en.pdf) [mobi](https://github.s3.amazonaws.com/media/pro-git.en.mobi) [ePub](https://github.s3.amazonaws.com/media/progit.epub)
+* [Git Immersion](http://gitimmersion.com/lab_01.html)
+* [Git Ready](http://gitready.com/)
+* [Git cheatsheet](http://cheat.errtheblog.com/s/git)
+* [Gitcasts.com](http://gitcasts.com/) [Gitcasts on Blip.tv](http://blip.tv/scott-chacon)
+* [Git tutorial](http://www.vogella.com/articles/Git/article.html)
 
 ## HTML5
 
@@ -137,6 +148,7 @@
 
 * https://www.ruby-toolbox.com/categories/javascript_testing
 * [Jasmine](http://pivotal.github.com/jasmine/)
+* [Unit Testing in JavaScript via Jasmine - Jesse Warden](http://www.youtube.com/watch?v=eVpXkyN0zOE)
 * [Test-Driving Javascript with Jasmine - Tim Tyrrell (AustinJS)](http://www.youtube.com/watch?v=CswgfGhnTg8)
 * [QUnit](http://qunitjs.com)
 * [Sinon.js](http://sinonjs.org/)
