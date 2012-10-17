@@ -201,7 +201,7 @@
 
 * [Essentials of Product Development - Ryan Singer (WindyCityRails2012)](http://vimeo.com/49523952)
 
-## PROFESSIONALISM / EXCELLENCE / EFFICIENCY
+### PRODUCT DEVELOPMENT - PROFESSIONALISM / EXCELLENCE / EFFICIENCY
 
 * [Being an Excellent Software Developer - Michael Norton (WindyCityRails2012)](http://vimeo.com/49882901)
 * [Cultures of Effective Learning - Jeff Cohen (WindyCityRails2012)](http://vimeo.com/49951365)
@@ -209,13 +209,13 @@
 * [10-item work-efficiency recipe ](http://m-a-tech.blogspot.com/2012/10/short-10-items-work-efficiency-recipe.html)
 * [Keynote - Tom Preston-Werner (GitHub) (NLC 2011)](http://vimeo.com/35640883)
 
-## PROJECT MANAGEMENT - PEOPLE
+### PRODUCT DEVELOPMENT - PEOPLE
 
 * [Joe O'Brien - People: the missing ingredient (GoGaRuCo2012)](http://confreaks.com/videos/1108-gogaruco2012-people-the-missing-ingredient)
 * [The Future of Work: Back to First Principles - Scott Chacon (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=2nK2sJqDe8w)
 * [Unsucking Your Team's Development Environment - Zach Holman (Barcelona RuCo 2012)]()
 
-## PROJECT MANAGEMENT - TOOLS
+### PRODUCT DEVELOPMENT - COMMUNICATION TOOLS
 
 * [Basecamp](http://basecamp.com/)
 * [GitLab HQ](https://github.com/gitlabhq/gitlabhq)
