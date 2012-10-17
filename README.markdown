@@ -42,6 +42,10 @@
 ## CSS
 
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/CSS)
+* [Sass](http://sass-lang.com/)
+* [Compass](http://compass-style.org/)
+* [Kicking Ass + Taking Names with Sass & Compass](http://vimeo.com/24278115)
+* [Github CSS style guide](https://github.com/styleguide/css)
 
 ## DEPLOYMENT
 
@@ -116,6 +120,7 @@
 
 ### JAVASCRIPT - CLEAN CODE
 
+* [Github's style guide](https://github.com/styleguide/javascript)
 * [JSHint (Github)](https://github.com/jshint/jshint) & [JSHint.com](http://www.jshint.com/)
 * [Javascript Development Workflow of 2013 - Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo)
 
@@ -131,6 +136,7 @@
 
 * https://www.ruby-toolbox.com/categories/javascript_testing
 * [Jasmine](http://pivotal.github.com/jasmine/)
+* [QUnit](http://qunitjs.com)
 
 ### JAVASCRIPT - JQUERY
 
@@ -278,6 +284,7 @@
 
 ## RUBY
 
+* [Github's style guide](https://github.com/styleguide/ruby)
 * [Ruby Rogues (podcasts)](http://rubyrogues.com/)
 * [The Ruby Show (podcasts)](http://rubyshow.com/)
 * [Tracing Your Way Through Ruby (BaRuCo 2012)](http://www.youtube.com/watch?v=CvzEibqrriM)i
