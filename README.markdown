@@ -42,6 +42,7 @@
 * [Compass](http://compass-style.org/)
 * [Kicking Ass + Taking Names with Sass & Compass](http://vimeo.com/24278115)
 * [Github CSS style guide](https://github.com/styleguide/css)
+* [Zen-Coding](http://code.google.com/p/zen-coding/)
 
 ## DEPLOYMENT
 
@@ -140,6 +141,15 @@
 
 * [Garbage Collection & Heap Management - Ryan Sandor Richards (Scotland.js 2012)](http://vimeo.com/45140516)
 
+### JAVASCRIPT - PACKAGE MANAGERS (CURRENTLY A HUGE PITA)
+
+* [Bower](http://twitter.github.com/bower/) [Github](https://github.com/twitter/bower)
+* [JamJS](http://jamjs.org/) [Github](https://github.com/caolan/jam)
+
+### JAVASCRIPT - PRODUCTIVITY TOOLS
+
+* [Yeoman](http://yeoman.io/packagemanager.html)
+
 ### JAVASCRIPT - TESTING
 
 * https://www.ruby-toolbox.com/categories/javascript_testing
@@ -196,6 +206,11 @@
 
 * [Bunyip](http://ryanseddon.github.com/bunyip/)
 * Grunt: [Intro](http://weblog.bocoup.com/introducing-grunt/) | [Github](https://github.com/gruntjs/grunt) | [Getting Started](https://github.com/gruntjs/grunt/blob/master/docs/getting_started.md)
+
+## POSTGRESQL
+
+* [Official manuals](http://www.postgresql.org/docs/manuals/)
+* [Official FAQ](http://wiki.postgresql.org/wiki/FAQ)
 
 ## PRODUCT DEVELOPMENT
 
