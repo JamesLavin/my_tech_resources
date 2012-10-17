@@ -114,9 +114,10 @@
 
 * [Testing your Backbone from the outside-in - James Newbery (Scotland.js 2012)](https://vimeo.com/45140589)
 
-#### JAVASCRIPT - BACKBONE.JS - UNDERSCORE.JS
+#### JAVASCRIPT - BACKBONE.JS - UNDERSCORE.JS/LO-DASH
 
 * [Underscore.js](http://underscorejs.org/)
+* [Lo-Dash](http://lodash.com/)
 
 ### JAVASCRIPT - CLEAN CODE
 
@@ -136,7 +137,9 @@
 
 * https://www.ruby-toolbox.com/categories/javascript_testing
 * [Jasmine](http://pivotal.github.com/jasmine/)
+* [Test-Driving Javascript with Jasmine - Tim Tyrrell (AustinJS)](http://www.youtube.com/watch?v=CswgfGhnTg8)
 * [QUnit](http://qunitjs.com)
+* [Sinon.js](http://sinonjs.org/)
 
 ### JAVASCRIPT - JQUERY
 
