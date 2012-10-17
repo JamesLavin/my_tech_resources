@@ -4,10 +4,6 @@
 
 'My Tech Resources' is where I place links to resources I have either found useful or think might be helpful to future me or Ruby/Javascript developers like me.
 
-## BACKUP & DISASTER RECOVERY
-
-* https://www.ruby-toolbox.com/categories/backups
-
 ## CLEAN CODE
 
 * http://confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years
@@ -305,6 +301,10 @@
 * [The Ruby Show (podcasts)](http://rubyshow.com/)
 * [Tracing Your Way Through Ruby (BaRuCo 2012)](http://www.youtube.com/watch?v=CvzEibqrriM)i
 * [10 Things You Didn't Know Ruby Could Do - @JEG2](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do)
+
+### RUBY - BACKUP & DISASTER RECOVERY
+
+* https://www.ruby-toolbox.com/categories/backups
 
 ### RUBY - LOGGING & PROBLEM DETECTION
 
