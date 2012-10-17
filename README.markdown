@@ -51,7 +51,7 @@
 * [BOSH](https://github.com/cloudfoundry/bosh)
 * [Capistrano](https://github.com/capistrano/capistrano)
 * [Chef](http://www.opscode.com/chef/)
-* [Heroku]() | [Tddium](https://devcenter.heroku.com/articles/tddium)
+* [Heroku](http://www.heroku.com/) | [Tddium](https://devcenter.heroku.com/articles/tddium)
 * [Puppet](http://puppetlabs.com/)
 * https://www.ruby-toolbox.com/categories/deployment_automation
 * https://www.ruby-toolbox.com/categories/systems_integration
