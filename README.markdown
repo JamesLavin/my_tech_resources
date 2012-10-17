@@ -39,8 +39,10 @@
 
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/CSS)
 * [Sass](http://sass-lang.com/)
+* [Less](http://lesscss.org/)
 * [Compass](http://compass-style.org/)
 * [Kicking Ass + Taking Names with Sass & Compass](http://vimeo.com/24278115)
+* [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
 * [Github CSS style guide](https://github.com/styleguide/css)
 * [Zen-Coding](http://code.google.com/p/zen-coding/)
 
@@ -145,6 +147,7 @@
 
 * [Bower](http://twitter.github.com/bower/) [Github](https://github.com/twitter/bower)
 * [JamJS](http://jamjs.org/) [Github](https://github.com/caolan/jam)
+* [Require.js](http://requirejs.org/)
 
 ### JAVASCRIPT - PRODUCTIVITY TOOLS
 
@@ -292,6 +295,17 @@
 * [Railscasts (more non-free than free)](http://railscasts.com/)
 * [Chanko - How Cookpad safely releases multiple feature prototypes - in production](http://confreaks.com/videos/909-railsconf2012-chanko-how-cookpad-safely-releases-multiple-feature-prototypes-in-production-for-test-segments-of-their-15-million-engaged-users)
 
+### RAILS - GEMS
+
+* [CanCan](https://github.com/ryanb/cancan)
+* [Devise](https://github.com/plataformatec/devise)
+* [DeviseInvitable](https://github.com/scambra/devise_invitable)
+* [Fabrication](http://www.fabricationgem.org/) [Github](https://github.com/paulelliott/fabrication)
+
+### RAILS - GENERATORS
+
+* [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) & [Rails Composer](http://railsapps.github.com/rails-composer/)
+
 ### RAILS - PERFORMANCE
 
 * No ActionMailer! Move mailing to external app.
@@ -308,6 +322,10 @@
 * [PJAX Use Case On Intridea.com](http://www.intridea.com/blog/2012/6/28/pjax-use-case-on-intridea-com)
 * [Railscasts - Playing With PJAX](http://railscasts.com/episodes/294-playing-with-pjax)
 * [Learning pjax – Tutorial and Screencast](http://theadmin.org/articles/learning-pjax/)
+
+### RAILS - UI
+
+* [Twitter-Bootstrap-Rails gem]() [How to](http://railsapps.github.com/twitter-bootstrap-rails.html)
 
 ## RUBY
 
@@ -402,8 +420,11 @@
 
 ## VIM (YEAH, IT'S THE BEST)
 
+* NerdTree: [Guide](http://usevim.com/2012/07/18/nerdtree/) [Cheatsheet](http://cheat.errtheblog.com/s/nerdtree/) [add a file](http://stackoverflow.com/questions/1459750/vim-and-nerd-tree-extension-adding-a-file)
 * [Vimcasts.org](http://vimcasts.org/)
 * [VimNinjas.com](http://www.vimninjas.com/)
+* [Vundle plug-in manager](https://github.com/gmarik/vundle)
+* [Solarized](https://github.com/altercation/vim-colors-solarized)
 
 ## WEB DESIGN - RESPONSIVE DESIGN & PROGRESSIVE ENHANCEMENT
 
