@@ -243,6 +243,7 @@
 * [icebreakeR](http://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf)
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf)
 * [Using R for Data Analysis and Graphics](http://cran.r-project.org/doc/contrib/usingR.pdf)
+* [Introduction to R (Lam)](http://cran.r-project.org/doc/contrib/Lam-IntroductionToR_LHL.pdf)
 * [The R Guide](http://cran.r-project.org/doc/contrib/Owen-TheRGuide.pdf)
 * [More R books/papers/tutorials/presentations](http://cran.r-project.org/doc/contrib/)
 * [R Journal](http://journal.r-project.org/archive.html)
