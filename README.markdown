@@ -220,6 +220,7 @@
 
 * [Official manuals](http://www.postgresql.org/docs/manuals/)
 * [Official FAQ](http://wiki.postgresql.org/wiki/FAQ)
+* [Redis in my Postgres (linking multiple Postgres dbs or Postgres and Redis/MySQL/Oracle/Twitter/ODBC/etc.)](http://www.craigkerstiens.com/2012/10/18/connecting_to_redis_from_postgres/)
 
 ## PRODUCT DEVELOPMENT
 
@@ -284,6 +285,10 @@
 * [Rack Middleware as a General Purpose Abstraction - Mitchell Hashimoto (MountainWest RubyConf 2012)](http://confreaks.com/videos/961-mwrc2012-rack-middleware-as-a-general-purpose-abstraction)
 
 ## RAILS
+
+### RAILS 4
+
+* [Rails 4.0 Whirlwind Tour - Andy Lindeman](http://vimeo.com/51181496)
 
 ### RAILS - CLEAN CODE
 
