@@ -7,8 +7,10 @@
 ## CLEAN CODE
 
 * http://confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years
+* [Better Ruby Through Design Principles - Mike Gehard (MountainWest Ruby Conf 2012)](http://confreaks.com/videos/957-mwrc2012-better-ruby-through-design-principles)
 * [Cruft and Technical Debt: A Long View - Yehuda Katz (GoGaRuCo 2012)](http://confreaks.com/videos/1121-gogaruco2012-cruft-and-technical-debt-a-long-view)
 * [Grasping Complexity with Both Hands - Glenn Vandenurg (GoGaRuCo 2012)](http://confreaks.com/videos/1123-gogaruco2012-grasping-complexity-with-both-hands)
+* [What's Wrong With Ruby's Object Model (And Why That's a Good Thing) - David Brady (MountainWest RubyConf 2012)](http://confreaks.com/videos/958-mwrc2012-what-s-wrong-with-ruby-s-object-model-and-why-that-s-a-good-thing)
 * [Simulating the World with Ruby - Bryan Liles (MadisonRuby 2012)](http://confreaks.com/videos/1088-madisonruby2012-simulating-the-world-with-ruby)
 * [Behind the Curtain: Applying lessons learned from years in the Theatre to crafting software applications - Nell Shamrell (MaidosnRuby 2012)](http://confreaks.com/videos/1093-madisonruby2012-behind-the-curtain-applying-lessons-learned-from-years-in-the-theatre-to-crafting-software-applications)
 * [Modular & reusable front-end code with HTML5, Sass and CoffeeScript - Roy Tomeij (MadisonRuby 2012)](http://confreaks.com/videos/1101-madisonruby2012-modular-reusable-front-end-code-with-html5-sass-and-coffeescript)
@@ -55,6 +57,7 @@
 * [Puppet](http://puppetlabs.com/)
 * https://www.ruby-toolbox.com/categories/deployment_automation
 * https://www.ruby-toolbox.com/categories/systems_integration
+* [Continuous Deployment - Matt White (MountainWest RubyConf 2012)](http://confreaks.com/videos/967-mwrc2012-continuous-deployment)
 
 ## DOWNTIME
 
@@ -75,6 +78,7 @@
 * [Git cheatsheet](http://cheat.errtheblog.com/s/git)
 * [Gitcasts.com](http://gitcasts.com/) [Gitcasts on Blip.tv](http://blip.tv/scott-chacon)
 * [Git tutorial](http://www.vogella.com/articles/Git/article.html)
+* [Tig (Text-mode interface for Git)](http://jonas.nitro.dk/tig/)
 
 ## HTML5
 
@@ -195,6 +199,8 @@
 ## MOBILE
 
 * [App Developers' Conference](http://www.youtube.com/playlist?list=PL14804B7FA696ACA0&feature=plcp)
+* [Fast WebView Applications](http://maxogden.com/fast-webview-applications.html) & [Building WebView Applications](http://maxogden.com/building-webview-applications.html)
+* [Would you like a Mobile App with That?](http://schneems.com/post/33781154129/would-you-like-a-mobile-app-with-that)
 
 ### MOBILE - ANDROID DEVELOPMENT
 
@@ -273,6 +279,10 @@
 * [R Site Search](http://finzi.psych.upenn.edu/search.html)
 * [R mailing list archive](http://tolstoy.newcastle.edu.au/R/)
 
+## RACK
+
+* [Rack Middleware as a General Purpose Abstraction - Mitchell Hashimoto (MountainWest RubyConf 2012)](http://confreaks.com/videos/961-mwrc2012-rack-middleware-as-a-general-purpose-abstraction)
+
 ## RAILS
 
 ### RAILS - CLEAN CODE
@@ -280,6 +290,7 @@
 * https://www.ruby-toolbox.com/categories/rails_presenters
 * https://www.ruby-toolbox.com/categories/template_engines
 * https://www.ruby-toolbox.com/categories/Testing_Rails_Engines
+* [7 Ways to Decompose Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
 * [Mega Rails - Jack Danger Canty (GoGaRuCo 2012)](http://confreaks.com/videos/1125-gogaruco2012-mega-rails)
 * [Powerful Interfaces (Rails) - Caike Souza](http://confreaks.com/videos/902-railsconf2012-powerful-interfaces)
 * [Code to Joy - Avdi Grimm (GoGaRuCo 2012)](http://confreaks.com/videos/1117-gogaruco2012-code-to-joy)
@@ -313,6 +324,7 @@
 * https://www.ruby-toolbox.com/categories/Concurrent_Processing
 * https://www.ruby-toolbox.com/categories/recurring_events
 * https://www.ruby-toolbox.com/categories/scheduling
+* [Sending async data from Rails into the world - Part Ⅰ](http://blog.arkency.com/2012/10/sending-async-data-from-rails-into-the-world/)
 * [Async Everything - Anthony Eden (MadisonRuby 2012)](http://confreaks.com/videos/1099-madisonruby2012-async-everything)
 * [Evented Ruby vs Node.js - Jerry Cheung (RailsConf 2012)](http://confreaks.com/videos/894-railsconf2012-evented-ruby-vs-node-js)
 
@@ -339,6 +351,10 @@
 
 * https://www.ruby-toolbox.com/categories/backups
 
+### RUBY - DEBUGGING
+
+* [Prying into your app's private life - Corey Woodcox (MountainWest RubyConf 2012)](http://confreaks.com/videos/959-mwrc2012-prying-into-your-app-s-private-life)
+
 ### RUBY - LOGGING & PROBLEM DETECTION
 
 * [It’s Not in Production Unless it’s Monitored - Joseph Ruscio (RailsConf 2012)](http://confreaks.com/videos/906-railsconf2012-its-not-in-production-unless-its-monitored)
@@ -353,6 +369,7 @@
 ### RUBY - MINITEST
 
 * [MiniTest: Refactoring Test Unit and RSpec back to version 0.0.1 - Jared Ning (RailsConf 2012)](http://confreaks.com/videos/913-railsconf2012-minitest-refactoring-test-unit-and-rspec-back-to-version-0-0-1)
+* [MiniTest: Write Awesome Tests - Michael J.I. Jackson (MountainWest RubyConf 2012)](http://confreaks.com/videos/962-mwrc2012-minitest-write-awesome-tests)
 
 ### RUBY - METRICS (MONITORING WHAT MATTERS)
 
