@@ -36,7 +36,7 @@
 ## COFFEESCRIPT
 
 * [Smooth Coffeescript](http://autotelicum.github.com/Smooth-CoffeeScript/)
-* http://confreaks.com/videos/862-railsconf2012-coffeescript-for-the-rubyist
+* [CoffeeScript for the Rubyist - Mark Bates (RailsConf 2012)](http://confreaks.com/videos/862-railsconf2012-coffeescript-for-the-rubyist)
 
 ## CSS
 
@@ -331,7 +331,6 @@
 
 ### RAILS - PERFORMANCE
 
-* No ActionMailer! Move mailing to external app.
 * https://www.ruby-toolbox.com/categories/Background_Jobs
 * https://www.ruby-toolbox.com/categories/Concurrent_Processing
 * https://www.ruby-toolbox.com/categories/recurring_events
@@ -349,7 +348,7 @@
 
 ### RAILS - UI
 
-* [Twitter-Bootstrap-Rails gem]() [How to](http://railsapps.github.com/twitter-bootstrap-rails.html)
+* [Twitter-Bootstrap-Rails gem](http://confreaks.com/videos/287-lsrc2010-how-to-build-a-sustainably-awesome-development-team) [How to](http://railsapps.github.com/twitter-bootstrap-rails.html)
 
 ## RUBY
 
