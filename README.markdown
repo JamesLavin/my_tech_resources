@@ -101,6 +101,7 @@
 
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [JavascriptJabber.com](http://javascriptjabber.com/)
+* [The Javascript Show](http://javascriptshow.com/episodes)
 * [Khan Academy](http://www.khanacademy.org/cs/tutorials/all-tutorials)
 * Crockford videos: [1](http://www.youtube.com/watch?v=JxAXlJEmNMg) [2](http://www.youtube.com/watch?v=RO1Wnu-xKoY) [3](http://www.youtube.com/watch?v=ya4UHuXNygM) [4](http://www.youtube.com/watch?v=Fv9qT9joc0M) [5](http://www.youtube.com/watch?v=47Ceot8yqeI) [6](http://www.youtube.com/watch?v=QgwSUtYSUqA) [7](http://www.youtube.com/watch?v=UTEqr0IlFKY) [8](http://www.youtube.com/watch?v=taaEzHI9xyY) [Advanced Javascript](http://www.youtube.com/watch?v=DwYPG6vreJg) [Good Parts](http://www.youtube.com/watch?v=_DKkVvOt6dk) [JS: Your New Overlord](http://www.youtube.com/watch?v=Trurfqh_6fQ)
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/JavaScript)
@@ -235,12 +236,14 @@
 * [10-item work-efficiency recipe ](http://m-a-tech.blogspot.com/2012/10/short-10-items-work-efficiency-recipe.html)
 * [Keynote - Tom Preston-Werner (GitHub) (NLC 2011)](http://vimeo.com/35640883)
 
-### PRODUCT DEVELOPMENT - PEOPLE
+### PRODUCT DEVELOPMENT - PEOPLE & PROCESS
 
 * [Joe O'Brien - People: the missing ingredient (GoGaRuCo2012)](http://confreaks.com/videos/1108-gogaruco2012-people-the-missing-ingredient)
 * [The Future of Work: Back to First Principles - Scott Chacon (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=2nK2sJqDe8w)
 * [Unsucking Your Team's Development Environment - Zach Holman (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=Xa8r2xcK1e4)
-* [A short history of Software Engineering - Paolo Perrotta (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=9IPn5Gk_OiM)
+* [Real Software Engineering - Glenn Vanderburg (Lone Star RubyConf 2010)](http://confreaks.com/videos/282-lsrc2010-real-software-engineering)
+* [A Short History of Software Engineering - Paolo Perrotta (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=9IPn5Gk_OiM)
+* [How to Build a Sustainably Awesome Development Team - Jim Remsik & Les Hill (Lone Star RubyConf 2010)](http://confreaks.com/videos/287-lsrc2010-how-to-build-a-sustainably-awesome-development-team)
 
 ### PRODUCT DEVELOPMENT - COMMUNICATION TOOLS
 
@@ -363,6 +366,7 @@
 ### RUBY - DEBUGGING
 
 * [Prying into your app's private life - Corey Woodcox (MountainWest RubyConf 2012)](http://confreaks.com/videos/959-mwrc2012-prying-into-your-app-s-private-life)
+* [Code Climate (free only for open-source)](https://codeclimate.com/) [Free for public Github repos](https://codeclimate.com/github/signup)
 
 ### RUBY - LOGGING & PROBLEM DETECTION
 
