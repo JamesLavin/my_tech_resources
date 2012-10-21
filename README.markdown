@@ -7,6 +7,7 @@
 ## CLEAN CODE
 
 * http://confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years
+* [Making Little Classes out of Big Ones - Avdi Grimm (Hashrocket Lunch n' Learn)](http://vimeo.com/42622511)
 * [Better Ruby Through Design Principles - Mike Gehard (MountainWest Ruby Conf 2012)](http://confreaks.com/videos/957-mwrc2012-better-ruby-through-design-principles)
 * [Cruft and Technical Debt: A Long View - Yehuda Katz (GoGaRuCo 2012)](http://confreaks.com/videos/1121-gogaruco2012-cruft-and-technical-debt-a-long-view)
 * [Grasping Complexity with Both Hands - Glenn Vandenurg (GoGaRuCo 2012)](http://confreaks.com/videos/1123-gogaruco2012-grasping-complexity-with-both-hands)
@@ -238,7 +239,8 @@
 
 * [Joe O'Brien - People: the missing ingredient (GoGaRuCo2012)](http://confreaks.com/videos/1108-gogaruco2012-people-the-missing-ingredient)
 * [The Future of Work: Back to First Principles - Scott Chacon (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=2nK2sJqDe8w)
-* [Unsucking Your Team's Development Environment - Zach Holman (Barcelona RuCo 2012)]()
+* [Unsucking Your Team's Development Environment - Zach Holman (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=Xa8r2xcK1e4)
+* [A short history of Software Engineering - Paolo Perrotta (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=9IPn5Gk_OiM)
 
 ### PRODUCT DEVELOPMENT - COMMUNICATION TOOLS
 
