@@ -242,6 +242,7 @@
 * [A Short History of Software Engineering - Paolo Perrotta (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=9IPn5Gk_OiM)
 * [How to Build a Sustainably Awesome Development Team - Jim Remsik & Les Hill (Lone Star RubyConf 2010)](http://confreaks.com/videos/287-lsrc2010-how-to-build-a-sustainably-awesome-development-team)
 * [How GitHub Uses GitHub to Build GitHub - Zach Holman (Ruby Midwest 2011)](http://confreaks.com/videos/754-rubymidwest2011-how-github-uses-github-to-build-github)
+* [People Patterns - Joe O'Brien (Ruby Midwest 2011)](http://confreaks.com/videos/766-rubymidwest2011-people-patterns)
 
 ### PRODUCT DEVELOPMENT - COMMUNICATION TOOLS
 
@@ -367,6 +368,7 @@
 * [Async Everything - Anthony Eden (MadisonRuby 2012)](http://confreaks.com/videos/1099-madisonruby2012-async-everything)
 * [Evented Ruby vs Node.js - Jerry Cheung (RailsConf 2012)](http://confreaks.com/videos/894-railsconf2012-evented-ruby-vs-node-js)
 * [Introduction to EventMachine and Evented Programming - Mathias Meyer (Scotland Ruby Conf 2011)](http://confreaks.com/videos/555-scotlandruby2011-introduction-to-eventmachine-and-evented-programming)
+* [High Performance Ruby: Threading versus Evented - Dr. Nic Williams (Ruby Midwest 2011)](http://confreaks.com/videos/768-rubymidwest2011-high-performance-ruby-threading-versus-evented)
 
 ### RUBY - BACKUP & DISASTER RECOVERY
 
@@ -374,6 +376,8 @@
 
 ### RUBY - CLEAN CODE
 
+* [Life on the Edge - James Edward Gray II (Ruby Midwest 2011)](http://confreaks.com/videos/767-rubymidwest2011-life-on-the-edge)
+* [Confident Code - Avdi Grimm (Ruby Midwest 2011)](http://confreaks.com/videos/763-rubymidwest2011-confident-code)
 * [Thinking in Objects - Josh Susser (Steel City Ruby 2012)](http://confreaks.com/videos/1133-scrc2012-thinking-in-objects)
 * [Making Little Classes out of Big Ones - Avdi Grimm (Hashrocket Lunch n' Learn)](http://vimeo.com/42622511)
 * [Better Ruby Through Design Principles - Mike Gehard (MountainWest Ruby Conf 2012)](http://confreaks.com/videos/957-mwrc2012-better-ruby-through-design-principles)
@@ -395,6 +399,10 @@
 
 * [Far and Away (A Tour of Distributed Programming with Ruby) - Mark Bates (RubyConf 2010)](http://www.confreaks.com/videos/455-rubyconf2010-far-and-away-a-tour-of-distributed-programming-with-ruby)
 * [Debugging Large Scale Service Oriented Systems - Andy Delcambre (CascadiaRuby 2012)](http://confreaks.com/videos/1068-cascadiaruby2012-debugging-large-scale-service-oriented-systems)
+
+### RUBY - GEMS
+
+* [Make Awesome Command-Line Apps with Ruby - David Copeland (Ruby Midwest 2011)](http://confreaks.com/videos/762-rubymidwest2011-make-awesome-command-line-apps-with-ruby)
 
 ### RUBY - LOGGING & PROBLEM DETECTION
 
