@@ -15,9 +15,7 @@
 * [Simulating the World with Ruby - Bryan Liles (MadisonRuby 2012)](http://confreaks.com/videos/1088-madisonruby2012-simulating-the-world-with-ruby)
 * [Behind the Curtain: Applying lessons learned from years in the Theatre to crafting software applications - Nell Shamrell (MaidosnRuby 2012)](http://confreaks.com/videos/1093-madisonruby2012-behind-the-curtain-applying-lessons-learned-from-years-in-the-theatre-to-crafting-software-applications)
 * [Modular & reusable front-end code with HTML5, Sass and CoffeeScript - Roy Tomeij (MadisonRuby 2012)](http://confreaks.com/videos/1101-madisonruby2012-modular-reusable-front-end-code-with-html5-sass-and-coffeescript)
-* [Debugging Large Scale Service Oriented Systems - Andy Delcambre (CascadiaRuby 2012)](http://confreaks.com/videos/1068-cascadiaruby2012-debugging-large-scale-service-oriented-systems)
 * http://confreaks.com/videos/1133-scrc2012-thinking-in-objects
-* [Go Ahead, Make a Mess - Sandi Metz (GoGaRuCo 2012)](http://confreaks.com/videos/1115-gogaruco2012-go-ahead-make-a-mess)
 * [Building the Great Wall: API Driven Applications by Scott Parker, Dan Melnick (Madison Ruby 2012)](http://www.youtube.com/watch?v=AoRkqMgX-4Q)
 * [Robert C. Martin videos (free)](http://www.google.com/search?q=robert+c.+martin&tbm=vid)
 * [Robert C. Martin videos (non-free)](http://www.cleancoders.com/)
@@ -180,6 +178,7 @@
 ## JRUBY
 
 * [JRuby - Charles Nutter (Aloha RubyConf 2012)](http://www.slideshare.net/CharlesNutter/aloha-rubyconf-2012-jruby)
+* [RubyGems to All JVM Languages - Yoko Harada (RubyConf 2010)](http://www.confreaks.com/videos/372-rubyconf2010-rubygems-to-all-jvm-languages)
 
 ### JRUBY - PERFORMANCE
 
@@ -300,13 +299,17 @@
 
 * https://www.ruby-toolbox.com/categories/rails_presenters
 * https://www.ruby-toolbox.com/categories/template_engines
-* https://www.ruby-toolbox.com/categories/Testing_Rails_Engines
 * [7 Ways to Decompose Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
 * [Mega Rails - Jack Danger Canty (GoGaRuCo 2012)](http://confreaks.com/videos/1125-gogaruco2012-mega-rails)
 * [Powerful Interfaces (Rails) - Caike Souza](http://confreaks.com/videos/902-railsconf2012-powerful-interfaces)
 * [Code to Joy - Avdi Grimm (GoGaRuCo 2012)](http://confreaks.com/videos/1117-gogaruco2012-code-to-joy)
+
+### RAILS - ENGINES
+
+* https://www.ruby-toolbox.com/categories/Testing_Rails_Engines
 * [Writing a Rails Engine - Erik Michaels-Ober (GoGaRuCo 2012)](http://confreaks.com/videos/1109-gogaruco2012-writing-a-rails-engine)
 * [Rails Engines Patterns - Andy Maleh (RailsConf 2012)](http://www.youtube.com/watch?v=pm94BsoMGik)
+* [Start Your Engines! - Ryan Bigg (Ruby On Ales 2012)](http://confreaks.com/videos/832-roa2012-start-your-engines)
 
 ### RAILS - FEATURES
 
@@ -362,10 +365,22 @@
 
 * https://www.ruby-toolbox.com/categories/backups
 
+### RUBY - CLEAN CODE
+
+* [Go Ahead, Make a Mess - Sandi Metz (GoGaRuCo 2012)](http://confreaks.com/videos/1115-gogaruco2012-go-ahead-make-a-mess)
+* [The Polite Programmer's Guide to Ruby Etiquette - Jim Weirich, Ed Sumerfield, Chris Nelson (RubyConf 2010)](http://www.confreaks.com/videos/374-rubyconf2010-the-polite-programmer-s-guide-to-ruby-etiquette)
+* [Raise the bar, lower the pressure - Durran Jordan (Scotland Ruby 2011)](http://confreaks.com/videos/543-scotlandruby2011-raise-the-bar-lower-the-pressure)
+
 ### RUBY - DEBUGGING
 
 * [Prying into your app's private life - Corey Woodcox (MountainWest RubyConf 2012)](http://confreaks.com/videos/959-mwrc2012-prying-into-your-app-s-private-life)
 * [Code Climate (free only for open-source)](https://codeclimate.com/) [Free for public Github repos](https://codeclimate.com/github/signup)
+* [Debugging Ruby - Aman Gupta (RubyConf 2010)](http://www.confreaks.com/videos/371-rubyconf2010-debugging-ruby)
+
+### RUBY - DISTRIBUTED/SOA
+
+* [Far and Away (A Tour of Distributed Programming with Ruby) - Mark Bates (RubyConf 2010)](http://www.confreaks.com/videos/455-rubyconf2010-far-and-away-a-tour-of-distributed-programming-with-ruby)
+* [Debugging Large Scale Service Oriented Systems - Andy Delcambre (CascadiaRuby 2012)](http://confreaks.com/videos/1068-cascadiaruby2012-debugging-large-scale-service-oriented-systems)
 
 ### RUBY - LOGGING & PROBLEM DETECTION
 
@@ -421,6 +436,7 @@
 
 * https://www.ruby-toolbox.com/#Testing
 * [Let's Make Testing Fun Again - Noel Rappin (WindyCityRails2012)](http://vimeo.com/49525644)
+* [Jenkins User Conference San Francisco 2012 videos](http://confreaks.com/events/jucsf2012)
 
 ### TESTING - CONTINUOUS INTEGRATION
 
