@@ -6,16 +6,11 @@
 
 ## CLEAN CODE
 
-* http://confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years
-* [Making Little Classes out of Big Ones - Avdi Grimm (Hashrocket Lunch n' Learn)](http://vimeo.com/42622511)
-* [Better Ruby Through Design Principles - Mike Gehard (MountainWest Ruby Conf 2012)](http://confreaks.com/videos/957-mwrc2012-better-ruby-through-design-principles)
+* [Keynote: Architecture the Lost Years - Robert Martin (Ruby Midwest 2011)](http://confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years)
 * [Cruft and Technical Debt: A Long View - Yehuda Katz (GoGaRuCo 2012)](http://confreaks.com/videos/1121-gogaruco2012-cruft-and-technical-debt-a-long-view)
 * [Grasping Complexity with Both Hands - Glenn Vandenurg (GoGaRuCo 2012)](http://confreaks.com/videos/1123-gogaruco2012-grasping-complexity-with-both-hands)
-* [What's Wrong With Ruby's Object Model (And Why That's a Good Thing) - David Brady (MountainWest RubyConf 2012)](http://confreaks.com/videos/958-mwrc2012-what-s-wrong-with-ruby-s-object-model-and-why-that-s-a-good-thing)
-* [Simulating the World with Ruby - Bryan Liles (MadisonRuby 2012)](http://confreaks.com/videos/1088-madisonruby2012-simulating-the-world-with-ruby)
 * [Behind the Curtain: Applying lessons learned from years in the Theatre to crafting software applications - Nell Shamrell (MaidosnRuby 2012)](http://confreaks.com/videos/1093-madisonruby2012-behind-the-curtain-applying-lessons-learned-from-years-in-the-theatre-to-crafting-software-applications)
 * [Modular & reusable front-end code with HTML5, Sass and CoffeeScript - Roy Tomeij (MadisonRuby 2012)](http://confreaks.com/videos/1101-madisonruby2012-modular-reusable-front-end-code-with-html5-sass-and-coffeescript)
-* http://confreaks.com/videos/1133-scrc2012-thinking-in-objects
 * [Building the Great Wall: API Driven Applications by Scott Parker, Dan Melnick (Madison Ruby 2012)](http://www.youtube.com/watch?v=AoRkqMgX-4Q)
 * [Robert C. Martin videos (free)](http://www.google.com/search?q=robert+c.+martin&tbm=vid)
 * [Robert C. Martin videos (non-free)](http://www.cleancoders.com/)
@@ -229,11 +224,13 @@
 
 ### PRODUCT DEVELOPMENT - PROFESSIONALISM / EXCELLENCE / EFFICIENCY
 
+* [Great Developers Steal - Ben Scofield (Scotland Ruby Conf 2011)](http://confreaks.com/videos/545-scotlandruby2011-great-developers-steal)
 * [Being an Excellent Software Developer - Michael Norton (WindyCityRails2012)](http://vimeo.com/49882901)
 * [Cultures of Effective Learning - Jeff Cohen (WindyCityRails2012)](http://vimeo.com/49951365)
 * https://www.ruby-toolbox.com/categories/continuous_testing
 * [10-item work-efficiency recipe ](http://m-a-tech.blogspot.com/2012/10/short-10-items-work-efficiency-recipe.html)
 * [Keynote - Tom Preston-Werner (GitHub) (NLC 2011)](http://vimeo.com/35640883)
+* [Level Up! Test-driving your personal development - Alan Gardner (Scotland Ruby Conf 2011)](http://confreaks.com/videos/556-scotlandruby2011-level-up-test-driving-your-personal-development)
 
 ### PRODUCT DEVELOPMENT - PEOPLE & PROCESS
 
@@ -332,16 +329,6 @@
 
 * [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) & [Rails Composer](http://railsapps.github.com/rails-composer/)
 
-### RAILS - PERFORMANCE
-
-* https://www.ruby-toolbox.com/categories/Background_Jobs
-* https://www.ruby-toolbox.com/categories/Concurrent_Processing
-* https://www.ruby-toolbox.com/categories/recurring_events
-* https://www.ruby-toolbox.com/categories/scheduling
-* [Sending async data from Rails into the world - Part Ⅰ](http://blog.arkency.com/2012/10/sending-async-data-from-rails-into-the-world/)
-* [Async Everything - Anthony Eden (MadisonRuby 2012)](http://confreaks.com/videos/1099-madisonruby2012-async-everything)
-* [Evented Ruby vs Node.js - Jerry Cheung (RailsConf 2012)](http://confreaks.com/videos/894-railsconf2012-evented-ruby-vs-node-js)
-
 ### RAILS - PJAX
 
 * [Pjax on Rails (BigBinary.com)](http://blog.bigbinary.com/2012/08/13/pjax-on-rails.html)
@@ -361,15 +348,32 @@
 * [Tracing Your Way Through Ruby (BaRuCo 2012)](http://www.youtube.com/watch?v=CvzEibqrriM)i
 * [10 Things You Didn't Know Ruby Could Do - @JEG2](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do)
 
+### RUBY - ASYNCHRONOUS/EVENTED
+
+* https://www.ruby-toolbox.com/categories/Background_Jobs
+* https://www.ruby-toolbox.com/categories/Concurrent_Processing
+* https://www.ruby-toolbox.com/categories/recurring_events
+* https://www.ruby-toolbox.com/categories/scheduling
+* [Sending async data from Rails into the world - Part Ⅰ](http://blog.arkency.com/2012/10/sending-async-data-from-rails-into-the-world/)
+* [Async Everything - Anthony Eden (MadisonRuby 2012)](http://confreaks.com/videos/1099-madisonruby2012-async-everything)
+* [Evented Ruby vs Node.js - Jerry Cheung (RailsConf 2012)](http://confreaks.com/videos/894-railsconf2012-evented-ruby-vs-node-js)
+* [Introduction to EventMachine and Evented Programming - Mathias Meyer (Scotland Ruby Conf 2011)](http://confreaks.com/videos/555-scotlandruby2011-introduction-to-eventmachine-and-evented-programming)
+
 ### RUBY - BACKUP & DISASTER RECOVERY
 
 * https://www.ruby-toolbox.com/categories/backups
 
 ### RUBY - CLEAN CODE
 
+* [Thinking in Objects - Josh Susser (Steel City Ruby 2012)](http://confreaks.com/videos/1133-scrc2012-thinking-in-objects)
+* [Making Little Classes out of Big Ones - Avdi Grimm (Hashrocket Lunch n' Learn)](http://vimeo.com/42622511)
+* [Better Ruby Through Design Principles - Mike Gehard (MountainWest Ruby Conf 2012)](http://confreaks.com/videos/957-mwrc2012-better-ruby-through-design-principles)
 * [Go Ahead, Make a Mess - Sandi Metz (GoGaRuCo 2012)](http://confreaks.com/videos/1115-gogaruco2012-go-ahead-make-a-mess)
 * [The Polite Programmer's Guide to Ruby Etiquette - Jim Weirich, Ed Sumerfield, Chris Nelson (RubyConf 2010)](http://www.confreaks.com/videos/374-rubyconf2010-the-polite-programmer-s-guide-to-ruby-etiquette)
 * [Raise the bar, lower the pressure - Durran Jordan (Scotland Ruby 2011)](http://confreaks.com/videos/543-scotlandruby2011-raise-the-bar-lower-the-pressure)
+* [What's Wrong With Ruby's Object Model (And Why That's a Good Thing) - David Brady (MountainWest RubyConf 2012)](http://confreaks.com/videos/958-mwrc2012-what-s-wrong-with-ruby-s-object-model-and-why-that-s-a-good-thing)
+* [Simulating the World with Ruby - Bryan Liles (MadisonRuby 2012)](http://confreaks.com/videos/1088-madisonruby2012-simulating-the-world-with-ruby)
+* [Literary Criticism for the Idle Programmer - Roland Swingler (Scotland Ruby Conf 2011)](http://confreaks.com/videos/548-scotlandruby2011-literary-criticism-for-the-idle-programmer)
 
 ### RUBY - DEBUGGING
 
@@ -409,6 +413,7 @@
 * https://www.ruby-toolbox.com/categories/Benchmarking
 * [Cargo Cult Web Performance Optimization - Ilya Grigorik (GoGaRuCo 2012)](http://confreaks.com/videos/1111-gogaruco2012-cargo-cult-web-performance-optimization)
 * [Services, Scale, Backgrounding and WTF is going on here?!??! - David Copeland (GoGaRuCo 2012)](http://confreaks.com/videos/1119-gogaruco2012-services-scale-backgrounding-and-wtf-is-going-on-here)
+* [From Profiling Ruby to Frankenstein Programming - Piotr Szotkowski (Scotland Ruby Conference 2011)](http://confreaks.com/videos/547-scotlandruby2011-from-profiling-ruby-to-frankenstein-programming)
 
 ### RUBY - RAKE
 
@@ -431,6 +436,10 @@
 * https://www.ruby-toolbox.com/categories/rails_authorization
 * https://www.ruby-toolbox.com/categories/security_tools
 * https://www.ruby-toolbox.com/categories/spam_detection
+
+## SCALING
+
+* [Scaling Groupon - Tyler Jennings, Michael Cerna (Scotland Ruby Conf 2011)](http://confreaks.com/videos/554-scotlandruby2011-scaling-groupon)
 
 ## TESTING
 
