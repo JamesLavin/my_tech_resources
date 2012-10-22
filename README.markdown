@@ -234,12 +234,14 @@
 
 ### PRODUCT DEVELOPMENT - PEOPLE & PROCESS
 
+* [Does pair programming have to suck? - Angela Harms (Ruby Midwest 2011)](http://confreaks.com/videos/757-rubymidwest2011-does-pair-programming-have-to-suck)
 * [Joe O'Brien - People: the missing ingredient (GoGaRuCo2012)](http://confreaks.com/videos/1108-gogaruco2012-people-the-missing-ingredient)
 * [The Future of Work: Back to First Principles - Scott Chacon (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=2nK2sJqDe8w)
 * [Unsucking Your Team's Development Environment - Zach Holman (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=Xa8r2xcK1e4)
 * [Real Software Engineering - Glenn Vanderburg (Lone Star RubyConf 2010)](http://confreaks.com/videos/282-lsrc2010-real-software-engineering)
 * [A Short History of Software Engineering - Paolo Perrotta (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=9IPn5Gk_OiM)
 * [How to Build a Sustainably Awesome Development Team - Jim Remsik & Les Hill (Lone Star RubyConf 2010)](http://confreaks.com/videos/287-lsrc2010-how-to-build-a-sustainably-awesome-development-team)
+* [How GitHub Uses GitHub to Build GitHub - Zach Holman (Ruby Midwest 2011)](http://confreaks.com/videos/754-rubymidwest2011-how-github-uses-github-to-build-github)
 
 ### PRODUCT DEVELOPMENT - COMMUNICATION TOOLS
 
@@ -300,6 +302,7 @@
 * [Mega Rails - Jack Danger Canty (GoGaRuCo 2012)](http://confreaks.com/videos/1125-gogaruco2012-mega-rails)
 * [Powerful Interfaces (Rails) - Caike Souza](http://confreaks.com/videos/902-railsconf2012-powerful-interfaces)
 * [Code to Joy - Avdi Grimm (GoGaRuCo 2012)](http://confreaks.com/videos/1117-gogaruco2012-code-to-joy)
+* [Break It Down - Ben Scofield (Ruby Midwest 2011)](http://confreaks.com/videos/756-rubymidwest2011-break-it-down)
 
 ### RAILS - ENGINES
 
@@ -316,6 +319,7 @@
 * [Nought to real-time, multiplayer game in 16 hours with Pusher (Philip Roberts)](http://vimeo.com/45119844)
 * [Rails: The Next Five Years - Yehuda Katz](http://confreaks.com/videos/907-railsconf2012-rails-the-next-five-years)
 * [Railscasts (more non-free than free)](http://railscasts.com/)
+* [Rails is the New Rails - Michael Bleigh (Ruby Midwest 2011)](http://confreaks.com/videos/751-rubymidwest2011-rails-is-the-new-rails)
 * [Chanko - How Cookpad safely releases multiple feature prototypes - in production](http://confreaks.com/videos/909-railsconf2012-chanko-how-cookpad-safely-releases-multiple-feature-prototypes-in-production-for-test-segments-of-their-15-million-engaged-users)
 
 ### RAILS - GEMS
@@ -347,6 +351,11 @@
 * [The Ruby Show (podcasts)](http://rubyshow.com/)
 * [Tracing Your Way Through Ruby (BaRuCo 2012)](http://www.youtube.com/watch?v=CvzEibqrriM)i
 * [10 Things You Didn't Know Ruby Could Do - @JEG2](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do)
+* [Ruby Safari - Ola Bini (Ruby Midwest 2011)](http://confreaks.com/videos/750-rubymidwest2011-ruby-safari)
+
+### RUBY - ACTIVE RECORD
+
+* [ActiveRecord Anti-Patterns for Fun and Profit - Ethan Gunderson (Ruby Midwest 2011)](http://confreaks.com/videos/752-rubymidwest2011-activerecord-anti-patterns-for-fun-and-profit)
 
 ### RUBY - ASYNCHRONOUS/EVENTED
 
@@ -380,6 +389,7 @@
 * [Prying into your app's private life - Corey Woodcox (MountainWest RubyConf 2012)](http://confreaks.com/videos/959-mwrc2012-prying-into-your-app-s-private-life)
 * [Code Climate (free only for open-source)](https://codeclimate.com/) [Free for public Github repos](https://codeclimate.com/github/signup)
 * [Debugging Ruby - Aman Gupta (RubyConf 2010)](http://www.confreaks.com/videos/371-rubyconf2010-debugging-ruby)
+* [Mastering the Ruby Debugger - Jim Weirich (Ruby Midwest 2011)](http://confreaks.com/videos/760-rubymidwest2011-mastering-the-ruby-debugger)
 
 ### RUBY - DISTRIBUTED/SOA
 
@@ -445,6 +455,7 @@
 
 * https://www.ruby-toolbox.com/#Testing
 * [Let's Make Testing Fun Again - Noel Rappin (WindyCityRails2012)](http://vimeo.com/49525644)
+* [Test Your Legacy Rails Code - Noel Rappin (Ruby Midwest 2011)](http://confreaks.com/videos/755-rubymidwest2011-test-your-legacy-rails-code)
 * [Jenkins User Conference San Francisco 2012 videos](http://confreaks.com/events/jucsf2012)
 
 ### TESTING - CONTINUOUS INTEGRATION
