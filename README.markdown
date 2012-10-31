@@ -26,7 +26,7 @@
 ## COFFEESCRIPT
 
 * [Smooth Coffeescript](http://autotelicum.github.com/Smooth-CoffeeScript/)
-* [CoffeeScript for the Rubyist - Mark Bates (RailsConf 2012)](http://confreaks.com/videos/862-railsconf2012-coffeescript-for-the-rubyist)
+* [CoffeeScript for the Rubyist - Mark Bates (RailsConf 2012)](http://confreaks.com/videos/862-railsconf2012-coffeescript-for-the-rubyist) & [Aloha RubyConf 2012](http://confreaks.com/videos/1242-aloharuby2012-coffeescript-for-the-rubyist)
 
 ## CSS
 
@@ -204,6 +204,7 @@
 
 ### MOBILE - iOS DEVELOPMENT
 
+* [Building iOS Apps With RubyMotion - Ray Hightower (Aloha RubyConf 2012)](http://confreaks.com/videos/1245-aloharuby2012-building-ios-apps-with-rubymotion)
 * [RubyMotion: Rubyizing iOS development - Amit Kumar (GoGaRuCo 2012)](http://confreaks.com/videos/1124-gogaruco2012-rubymotion-rubyizing-ios-development)
 * [RubyMotion: Ruby in your pocket - Laurent Sansonetti (CascadiaRuby 2012)](http://confreaks.com/videos/1076-cascadiaruby2012-rubymotion-ruby-in-your-pocket)
 
@@ -231,9 +232,11 @@
 * [10-item work-efficiency recipe ](http://m-a-tech.blogspot.com/2012/10/short-10-items-work-efficiency-recipe.html)
 * [Keynote - Tom Preston-Werner (GitHub) (NLC 2011)](http://vimeo.com/35640883)
 * [Level Up! Test-driving your personal development - Alan Gardner (Scotland Ruby Conf 2011)](http://confreaks.com/videos/556-scotlandruby2011-level-up-test-driving-your-personal-development)
+* [Legacy - Chad Fowler (Aloha RubyConf 2012)](http://confreaks.com/videos/1240-aloharuby2012-legacy)
 
 ### PRODUCT DEVELOPMENT - PEOPLE & PROCESS
 
+* [Rockstars & Consultants, Who needs 'em? - Lori Olson (Aloha RubyConf 2012)](http://confreaks.com/videos/1251-aloharuby2012-rockstars-consultants-who-needs-em)
 * [Does pair programming have to suck? - Angela Harms (Ruby Midwest 2011)](http://confreaks.com/videos/757-rubymidwest2011-does-pair-programming-have-to-suck)
 * [Joe O'Brien - People: the missing ingredient (GoGaRuCo2012)](http://confreaks.com/videos/1108-gogaruco2012-people-the-missing-ingredient)
 * [The Future of Work: Back to First Principles - Scott Chacon (Barcelona RuCo 2012)](http://confreaks.com/videos/1324-baruco2012-keynote-back-to-first-principles) & [alt version](http://www.youtube.com/watch?v=2nK2sJqDe8w)
@@ -350,6 +353,7 @@
 ## RUBY
 
 * [Github's style guide](https://github.com/styleguide/ruby)
+* [Ten Things You Didn't Know Ruby Could Do - James Edward Gray II (Aloha RubyConf 2012)](http://confreaks.com/videos/1244-aloharuby2012-ten-things-you-didn-t-know-ruby-could-do)
 * [Davetron5000's Ruby Style Guide - David Copeland](http://davetron5000.github.com/ruby-style/)
 * [Ruby Rogues (podcasts)](http://rubyrogues.com/)
 * [The Ruby Show (podcasts)](http://rubyshow.com/)
@@ -405,6 +409,7 @@
 
 ### RUBY - DISTRIBUTED/SOA
 
+* [Facing the Monolith: Overcoming Monolithic Applications with SOA - Charles Max Wood (Aloha RubyConf 2012)](http://confreaks.com/videos/1249-aloharuby2012-facing-the-monolith-overcoming-monolithic-applications-with-soa)
 * [Far and Away (A Tour of Distributed Programming with Ruby) - Mark Bates (RubyConf 2010)](http://www.confreaks.com/videos/455-rubyconf2010-far-and-away-a-tour-of-distributed-programming-with-ruby)
 * [Debugging Large Scale Service Oriented Systems - Andy Delcambre (CascadiaRuby 2012)](http://confreaks.com/videos/1068-cascadiaruby2012-debugging-large-scale-service-oriented-systems)
 
@@ -441,6 +446,7 @@
 * [Services, Scale, Backgrounding and WTF is going on here?!??! - David Copeland (GoGaRuCo 2012)](http://confreaks.com/videos/1119-gogaruco2012-services-scale-backgrounding-and-wtf-is-going-on-here)
 * [From Profiling Ruby to Frankenstein Programming - Piotr Szotkowski (Scotland Ruby Conference 2011)](http://confreaks.com/videos/547-scotlandruby2011-from-profiling-ruby-to-frankenstein-programming)
 * [Message in a Bottle - Konstantin Haase (BaRuCo 2012)](http://confreaks.com/videos/1335-baruco2012-message-in-a-bottle) & [Aloha Ruby Conf 2012](http://confreaks.com/videos/1236-aloharuby2012-message-in-a-bottle)
+* [Ensuring High Performance For Your Ruby App - Kowsik Guruswamy (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1238-aloharuby2012-ensuring-high-performance-for-your-ruby-app)
 
 ### RUBY - RAKE
 
@@ -463,6 +469,7 @@
 * [Keeping Rails Applications on Track with Brakeman - Justin Collins (RailsConf 2012)](http://confreaks.com/videos/890-railsconf2012-keeping-rails-applications-on-track-with-brakeman)
 * https://code.google.com/p/ruby-security/wiki/Guide
 * [Modern Cryptography - John Downey (GoGaRuCo 2012)](http://confreaks.com/videos/1114-gogaruco2012-modern-cryptography)
+* [Hacking with Gems - Ben Smith (Aloha RubyConf 2012)](http://confreaks.com/videos/1243-aloharuby2012-hacking-with-gems)
 * https://www.ruby-toolbox.com/categories/encryption
 * https://www.ruby-toolbox.com/categories/rails_authentication
 * https://www.ruby-toolbox.com/categories/rails_authorization
@@ -494,6 +501,10 @@
 
 * https://www.ruby-toolbox.com/categories/browser_testing
 * https://www.ruby-toolbox.com/categories/distributed_testing
+
+### TESTING - MOCKS
+
+* [Yay! Mocks! - Corey Haines (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1237-aloharuby2012-yay-mocks)
 
 ### TESTING - UNIT TESTS
 
