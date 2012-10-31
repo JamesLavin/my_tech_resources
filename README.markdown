@@ -15,16 +15,13 @@
 * [Robert C. Martin videos (free)](http://www.google.com/search?q=robert+c.+martin&tbm=vid)
 * [Robert C. Martin videos (non-free)](http://www.cleancoders.com/)
 * [Grand Unification Theory: Writing and Running Code, by Brian Ford (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=iub8zWID4yk)
+* [Programming and minimalism: lessons from Orwell and the Clash - Jonathan Dahl (RubyConf 2010)](http://www.confreaks.com/videos/460-rubyconf2010-programming-and-minimalism-lessons-from-orwell-and-the-clash)
 
 ### CLEAN CODE - MEASURING
 
 * https://www.ruby-toolbox.com/categories/code_metrics
 * [Semi Automatic Code Review - Richard Huang (RailsConf 2012)](http://confreaks.com/videos/888-railsconf2012-semi-automatic-code-review)
 * [rails_best_practices gem](https://github.com/railsbp/rails_best_practices) & [railsbp.com](http://railsbp.com/) 
-
-### CLEAN CODE - REFACTORING
-
-* [Therapeutic Refactoring - Katrina Owen (CascadiaRuby 2012)](http://confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring)
 
 ## COFFEESCRIPT
 
@@ -69,6 +66,8 @@
 * [Pro Git](http://git-scm.com/book) [PDF](https://github.s3.amazonaws.com/media/progit.en.pdf) [mobi](https://github.s3.amazonaws.com/media/pro-git.en.mobi) [ePub](https://github.s3.amazonaws.com/media/progit.epub)
 * [Git Immersion](http://gitimmersion.com/lab_01.html)
 * [Git Ready](http://gitready.com/)
+* [Classy Git - Scott Chacon (RubyConf 2010)](http://www.confreaks.com/videos/471-rubyconf2010-classy-git)
+* [Git and GitHub Secrets - Zach Holman (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1229-aloharuby2012-git-and-github-secrets)
 * [Git cheatsheet](http://cheat.errtheblog.com/s/git)
 * [Gitcasts.com](http://gitcasts.com/) [Gitcasts on Blip.tv](http://blip.tv/scott-chacon)
 * [Git tutorial](http://www.vogella.com/articles/Git/article.html)
@@ -98,6 +97,7 @@
 * [Khan Academy](http://www.khanacademy.org/cs/tutorials/all-tutorials)
 * Crockford videos: [1](http://www.youtube.com/watch?v=JxAXlJEmNMg) [2](http://www.youtube.com/watch?v=RO1Wnu-xKoY) [3](http://www.youtube.com/watch?v=ya4UHuXNygM) [4](http://www.youtube.com/watch?v=Fv9qT9joc0M) [5](http://www.youtube.com/watch?v=47Ceot8yqeI) [6](http://www.youtube.com/watch?v=QgwSUtYSUqA) [7](http://www.youtube.com/watch?v=UTEqr0IlFKY) [8](http://www.youtube.com/watch?v=taaEzHI9xyY) [Advanced Javascript](http://www.youtube.com/watch?v=DwYPG6vreJg) [Good Parts](http://www.youtube.com/watch?v=_DKkVvOt6dk) [JS: Your New Overlord](http://www.youtube.com/watch?v=Trurfqh_6fQ)
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/JavaScript)
+* [Javascript: Up to Speed (Tekpub)](http://vimeo.com/47483575)
 * [js-assessment](https://github.com/rmurphey/js-assessment)
 * [Javascript Weekly (email list)](http://javascriptweekly.com/)
 * [Javascript at 17 - Brendan Eich (Fluent 2012)](http://www.youtube.com/watch?v=Rj49rmc01Hs)
@@ -172,7 +172,7 @@
 
 ## JRUBY
 
-* [JRuby - Charles Nutter (Aloha RubyConf 2012)](http://www.slideshare.net/CharlesNutter/aloha-rubyconf-2012-jruby)
+* [Why JRuby? - Charles Nutter (Aloha RubyConf 2012)](http://confreaks.com/videos/1235-aloharuby2012-why-jruby) & [slides](http://www.slideshare.net/CharlesNutter/aloha-rubyconf-2012-jruby)
 * [RubyGems to All JVM Languages - Yoko Harada (RubyConf 2010)](http://www.confreaks.com/videos/372-rubyconf2010-rubygems-to-all-jvm-languages)
 
 ### JRUBY - PERFORMANCE
@@ -236,7 +236,7 @@
 
 * [Does pair programming have to suck? - Angela Harms (Ruby Midwest 2011)](http://confreaks.com/videos/757-rubymidwest2011-does-pair-programming-have-to-suck)
 * [Joe O'Brien - People: the missing ingredient (GoGaRuCo2012)](http://confreaks.com/videos/1108-gogaruco2012-people-the-missing-ingredient)
-* [The Future of Work: Back to First Principles - Scott Chacon (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=2nK2sJqDe8w)
+* [The Future of Work: Back to First Principles - Scott Chacon (Barcelona RuCo 2012)](http://confreaks.com/videos/1324-baruco2012-keynote-back-to-first-principles) & [alt version](http://www.youtube.com/watch?v=2nK2sJqDe8w)
 * [Unsucking Your Team's Development Environment - Zach Holman (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=Xa8r2xcK1e4)
 * [Real Software Engineering - Glenn Vanderburg (Lone Star RubyConf 2010)](http://confreaks.com/videos/282-lsrc2010-real-software-engineering)
 * [A Short History of Software Engineering - Paolo Perrotta (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=9IPn5Gk_OiM)
@@ -292,6 +292,7 @@
 
 ### RAILS 4
 
+* [Keynote - Rails 4 and the Future of Web - Aaron Patterson (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1228-aloharuby2012-keynote-rails-4-and-the-future-of-web)
 * [Rails 4.0 Whirlwind Tour - Andy Lindeman](http://vimeo.com/51181496)
 * [EdgeRails.info](http://www.edgerails.info/)
 
@@ -308,6 +309,7 @@
 ### RAILS - ENGINES
 
 * https://www.ruby-toolbox.com/categories/Testing_Rails_Engines
+* [Carson: On the Path from Big-Ball-of-Mud to SOA - James Rosen (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1234-aloharuby2012-carson-on-the-path-from-big-ball-of-mud-to-soa)
 * [Writing a Rails Engine - Erik Michaels-Ober (GoGaRuCo 2012)](http://confreaks.com/videos/1109-gogaruco2012-writing-a-rails-engine)
 * [Rails Engines Patterns - Andy Maleh (RailsConf 2012)](http://www.youtube.com/watch?v=pm94BsoMGik)
 * [Start Your Engines! - Ryan Bigg (Ruby On Ales 2012)](http://confreaks.com/videos/832-roa2012-start-your-engines)
@@ -315,7 +317,7 @@
 ### RAILS - FEATURES
 
 * [Ten Things You Didn't Know Rails Could Do - James Edward Gray II (RailsConf 2012)](http://confreaks.com/videos/889-railsconf2012-ten-things-you-didn-t-know-rails-could-do) & [slides](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-rails-could-do)
-* [Constant Autoloading in Ruby on Rails - Xavier Noria (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=8lYR9WxIRH0)
+* [Constant Autoloading in Ruby on Rails - Xavier Noria (Barcelona RuCo 2012)](http://confreaks.com/videos/1334-baruco2012-constant-autoloading-in-ruby-on-rails) & [alt version](http://www.youtube.com/watch?v=8lYR9WxIRH0)
 * [Client Side Validations](https://github.com/bcardarella/client_side_validations)
 * [Nought to real-time, multiplayer game in 16 hours with Pusher (Philip Roberts)](http://vimeo.com/45119844)
 * [Rails: The Next Five Years - Yehuda Katz](http://confreaks.com/videos/907-railsconf2012-rails-the-next-five-years)
@@ -348,8 +350,10 @@
 ## RUBY
 
 * [Github's style guide](https://github.com/styleguide/ruby)
+* [Davetron5000's Ruby Style Guide - David Copeland](http://davetron5000.github.com/ruby-style/)
 * [Ruby Rogues (podcasts)](http://rubyrogues.com/)
 * [The Ruby Show (podcasts)](http://rubyshow.com/)
+* [Unblocked - James Edward Gray II (RubyConf 2010)](http://www.confreaks.com/videos/468-rubyconf2010-unblocked)
 * [Tracing Your Way Through Ruby (BaRuCo 2012)](http://www.youtube.com/watch?v=CvzEibqrriM)i
 * [10 Things You Didn't Know Ruby Could Do - @JEG2](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do)
 * [Ruby Safari - Ola Bini (Ruby Midwest 2011)](http://confreaks.com/videos/750-rubymidwest2011-ruby-safari)
@@ -364,9 +368,9 @@
 * https://www.ruby-toolbox.com/categories/Concurrent_Processing
 * https://www.ruby-toolbox.com/categories/recurring_events
 * https://www.ruby-toolbox.com/categories/scheduling
+* [Evented Ruby vs Node.js - Jerry Cheung (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1231-aloharuby2012-evented-ruby-vs-node-js) & [RailsConf 2012](http://confreaks.com/videos/894-railsconf2012-evented-ruby-vs-node-js)
 * [Sending async data from Rails into the world - Part Ⅰ](http://blog.arkency.com/2012/10/sending-async-data-from-rails-into-the-world/)
 * [Async Everything - Anthony Eden (MadisonRuby 2012)](http://confreaks.com/videos/1099-madisonruby2012-async-everything)
-* [Evented Ruby vs Node.js - Jerry Cheung (RailsConf 2012)](http://confreaks.com/videos/894-railsconf2012-evented-ruby-vs-node-js)
 * [Introduction to EventMachine and Evented Programming - Mathias Meyer (Scotland Ruby Conf 2011)](http://confreaks.com/videos/555-scotlandruby2011-introduction-to-eventmachine-and-evented-programming)
 * [High Performance Ruby: Threading versus Evented - Dr. Nic Williams (Ruby Midwest 2011)](http://confreaks.com/videos/768-rubymidwest2011-high-performance-ruby-threading-versus-evented)
 
@@ -376,12 +380,15 @@
 
 ### RUBY - CLEAN CODE
 
+* [bbatsov / ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
+* [Building a Ruby Library, the Parts No One Talks About - Mitchell Hashimoto (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1246-aloharuby2012-building-a-ruby-library-the-parts-no-one-talks-about)
 * [Life on the Edge - James Edward Gray II (Ruby Midwest 2011)](http://confreaks.com/videos/767-rubymidwest2011-life-on-the-edge)
 * [Confident Code - Avdi Grimm (Ruby Midwest 2011)](http://confreaks.com/videos/763-rubymidwest2011-confident-code)
 * [Thinking in Objects - Josh Susser (Steel City Ruby 2012)](http://confreaks.com/videos/1133-scrc2012-thinking-in-objects)
 * [Making Little Classes out of Big Ones - Avdi Grimm (Hashrocket Lunch n' Learn)](http://vimeo.com/42622511)
 * [Better Ruby Through Design Principles - Mike Gehard (MountainWest Ruby Conf 2012)](http://confreaks.com/videos/957-mwrc2012-better-ruby-through-design-principles)
 * [Go Ahead, Make a Mess - Sandi Metz (GoGaRuCo 2012)](http://confreaks.com/videos/1115-gogaruco2012-go-ahead-make-a-mess)
+* [Maintaining Balance While Reducing Duplication - David Chelimsky (RubyConf 2010)](http://www.confreaks.com/videos/434-rubyconf2010-maintaining-balance-while-reducing-duplication)
 * [The Polite Programmer's Guide to Ruby Etiquette - Jim Weirich, Ed Sumerfield, Chris Nelson (RubyConf 2010)](http://www.confreaks.com/videos/374-rubyconf2010-the-polite-programmer-s-guide-to-ruby-etiquette)
 * [Raise the bar, lower the pressure - Durran Jordan (Scotland Ruby 2011)](http://confreaks.com/videos/543-scotlandruby2011-raise-the-bar-lower-the-pressure)
 * [What's Wrong With Ruby's Object Model (And Why That's a Good Thing) - David Brady (MountainWest RubyConf 2012)](http://confreaks.com/videos/958-mwrc2012-what-s-wrong-with-ruby-s-object-model-and-why-that-s-a-good-thing)
@@ -391,6 +398,7 @@
 ### RUBY - DEBUGGING
 
 * [Prying into your app's private life - Corey Woodcox (MountainWest RubyConf 2012)](http://confreaks.com/videos/959-mwrc2012-prying-into-your-app-s-private-life)
+* [Tracing your way through ruby - Elise Huard (BaRuCo 2012)](http://confreaks.com/videos/1330-baruco2012-tracing-your-way-through-ruby)
 * [Code Climate (free only for open-source)](https://codeclimate.com/) [Free for public Github repos](https://codeclimate.com/github/signup)
 * [Debugging Ruby - Aman Gupta (RubyConf 2010)](http://www.confreaks.com/videos/371-rubyconf2010-debugging-ruby)
 * [Mastering the Ruby Debugger - Jim Weirich (Ruby Midwest 2011)](http://confreaks.com/videos/760-rubymidwest2011-mastering-the-ruby-debugger)
@@ -432,12 +440,18 @@
 * [Cargo Cult Web Performance Optimization - Ilya Grigorik (GoGaRuCo 2012)](http://confreaks.com/videos/1111-gogaruco2012-cargo-cult-web-performance-optimization)
 * [Services, Scale, Backgrounding and WTF is going on here?!??! - David Copeland (GoGaRuCo 2012)](http://confreaks.com/videos/1119-gogaruco2012-services-scale-backgrounding-and-wtf-is-going-on-here)
 * [From Profiling Ruby to Frankenstein Programming - Piotr Szotkowski (Scotland Ruby Conference 2011)](http://confreaks.com/videos/547-scotlandruby2011-from-profiling-ruby-to-frankenstein-programming)
+* [Message in a Bottle - Konstantin Haase (BaRuCo 2012)](http://confreaks.com/videos/1335-baruco2012-message-in-a-bottle) & [Aloha Ruby Conf 2012](http://confreaks.com/videos/1236-aloharuby2012-message-in-a-bottle)
 
 ### RUBY - RAKE
 
 * [Rake](https://github.com/jimweirich/rake)
 * [Basic Rake - Jim Weirich](http://www.youtube.com/watch?v=AFPWDzHWjEY)
 * [Power Rake - Jim Weirich](http://confreaks.com/videos/1139-scrc2012-power-rake)
+
+### RUBY - REFACTORING
+
+* [Therapeutic Refactoring - Katrina Owen (CascadiaRuby 2012)](http://confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring)
+* [Refactoring from Good to Great - Ben Orenstein (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1233-aloharuby2012-refactoring-from-good-to-great)
 
 ### RUBY - RSPEC
 
