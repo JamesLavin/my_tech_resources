@@ -72,6 +72,7 @@
 * [Gitcasts.com](http://gitcasts.com/) [Gitcasts on Blip.tv](http://blip.tv/scott-chacon)
 * [Git tutorial](http://www.vogella.com/articles/Git/article.html)
 * [Tig (Text-mode interface for Git)](http://jonas.nitro.dk/tig/)
+* [Getting Git: Getting Effective Project Management - Scott Chacon (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A02_Scott_Chacon.mp4)
 
 ## HTML5
 
@@ -396,8 +397,10 @@
 * [The Polite Programmer's Guide to Ruby Etiquette - Jim Weirich, Ed Sumerfield, Chris Nelson (RubyConf 2010)](http://www.confreaks.com/videos/374-rubyconf2010-the-polite-programmer-s-guide-to-ruby-etiquette)
 * [Raise the bar, lower the pressure - Durran Jordan (Scotland Ruby 2011)](http://confreaks.com/videos/543-scotlandruby2011-raise-the-bar-lower-the-pressure)
 * [What's Wrong With Ruby's Object Model (And Why That's a Good Thing) - David Brady (MountainWest RubyConf 2012)](http://confreaks.com/videos/958-mwrc2012-what-s-wrong-with-ruby-s-object-model-and-why-that-s-a-good-thing)
+* [The Ruby Object Model - Dave Thomas (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/2A04_DaveThomas-SOR.mp4)
 * [Simulating the World with Ruby - Bryan Liles (MadisonRuby 2012)](http://confreaks.com/videos/1088-madisonruby2012-simulating-the-world-with-ruby)
 * [Literary Criticism for the Idle Programmer - Roland Swingler (Scotland Ruby Conf 2011)](http://confreaks.com/videos/548-scotlandruby2011-literary-criticism-for-the-idle-programmer)
+* [Building Blocks of Modularity - Jim Weirich (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A03_JimWeirich-SOR.mp4)
 
 ### RUBY - DEBUGGING
 
@@ -475,6 +478,10 @@
 * https://www.ruby-toolbox.com/categories/rails_authorization
 * https://www.ruby-toolbox.com/categories/security_tools
 * https://www.ruby-toolbox.com/categories/spam_detection
+
+### RUBY - TESTING
+
+* [TDD: It's More Than Just "Testing" - Evan Light (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A05_EvanLight-SOR.mp4)
 
 ## SCALING
 
