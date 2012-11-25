@@ -53,11 +53,12 @@
 ## DOWNTIME
 
 * https://www.ruby-toolbox.com/categories/Maintenance_Mode
+* [Zero Downtime Deploys Made Easy - Matt Duncan (RubyConf 2012)](http://confreaks.com/videos/1279-rubyconf2012-zero-downtime-deploys-made-easy)
 * [Zero downtime deploys for Rails apps - Pedro Belo (RailsConf 2012)](http://confreaks.com/videos/896-railsconf2012-zero-downtime-deploys-for-rails-apps) using Heroku, Unicorn and HAProxy
 
 ## FUNCTIONAL PROGRAMMING
 
-* [Y Not? - Adventures in Functional Programming - Jim Weirich (ScotlandJS 2012)](https://vimeo.com/45140590)
+* [Y Not? - Adventures in Functional Programming - Jim Weirich (ScotlandJS 2012)](https://vimeo.com/45140590) [RubyConf 2012](http://confreaks.com/videos/1287-rubyconf2012-y-not-adventures-in-functional-programming)
 * [Functional Thinking With Neal Ford](http://www.youtube.com/watch?v=JeK979aqqqc)
 
 ## GIT
@@ -173,6 +174,7 @@
 
 ## JRUBY
 
+* [Why JRuby Works - Charles Nutter, Thomas Enebo (RubyConf 2012)](http://confreaks.com/videos/1281-rubyconf2012-why-jruby-works)
 * [Why JRuby? - Charles Nutter (Aloha RubyConf 2012)](http://confreaks.com/videos/1235-aloharuby2012-why-jruby) & [slides](http://www.slideshare.net/CharlesNutter/aloha-rubyconf-2012-jruby)
 * [RubyGems to All JVM Languages - Yoko Harada (RubyConf 2010)](http://www.confreaks.com/videos/372-rubyconf2010-rubygems-to-all-jvm-languages)
 
@@ -206,6 +208,7 @@
 ### MOBILE - iOS DEVELOPMENT
 
 * [Building iOS Apps With RubyMotion - Ray Hightower (Aloha RubyConf 2012)](http://confreaks.com/videos/1245-aloharuby2012-building-ios-apps-with-rubymotion)
+* [Inside RubyMotion - Rich Kilmer (RubyConf 2012)](http://confreaks.com/videos/1298-rubyconf2012-inside-rubymotion)
 * [RubyMotion: Rubyizing iOS development - Amit Kumar (GoGaRuCo 2012)](http://confreaks.com/videos/1124-gogaruco2012-rubymotion-rubyizing-ios-development)
 * [RubyMotion: Ruby in your pocket - Laurent Sansonetti (CascadiaRuby 2012)](http://confreaks.com/videos/1076-cascadiaruby2012-rubymotion-ruby-in-your-pocket)
 
@@ -351,6 +354,10 @@
 
 * [Twitter-Bootstrap-Rails gem](http://confreaks.com/videos/287-lsrc2010-how-to-build-a-sustainably-awesome-development-team) [How to](http://railsapps.github.com/twitter-bootstrap-rails.html)
 
+### RAILS - WEBSERVERS
+
+* [Grow Your Unix Beard Using Ruby (tour through features/internals of the Unicorn web server) - Jesse Storimer (RubyConf 2012)](http://confreaks.com/videos/1289-rubyconf2012-grow-your-unix-beard-using-ruby)
+
 ## RUBY
 
 * [Github's style guide](https://github.com/styleguide/ruby)
@@ -362,6 +369,10 @@
 * [Tracing Your Way Through Ruby (BaRuCo 2012)](http://www.youtube.com/watch?v=CvzEibqrriM)i
 * [10 Things You Didn't Know Ruby Could Do - @JEG2](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do)
 * [Ruby Safari - Ola Bini (Ruby Midwest 2011)](http://confreaks.com/videos/750-rubymidwest2011-ruby-safari)
+
+### RUBY - 2.0
+
+* [Ruby 2.0 on Rails - Akira Matsuda (RubyConf 2012)](http://confreaks.com/videos/1275-rubyconf2012-ruby-2-0-on-rails)
 
 ### RUBY - ACTIVE RECORD
 
@@ -378,6 +389,7 @@
 * [Async Everything - Anthony Eden (MadisonRuby 2012)](http://confreaks.com/videos/1099-madisonruby2012-async-everything)
 * [Introduction to EventMachine and Evented Programming - Mathias Meyer (Scotland Ruby Conf 2011)](http://confreaks.com/videos/555-scotlandruby2011-introduction-to-eventmachine-and-evented-programming)
 * [High Performance Ruby: Threading versus Evented - Dr. Nic Williams (Ruby Midwest 2011)](http://confreaks.com/videos/768-rubymidwest2011-high-performance-ruby-threading-versus-evented)
+* [Asynchronous Processing for Fun and Profit - Mike Perham (RubyConf 2012)](http://confreaks.com/videos/1290-rubyconf2012-asynchronous-processing-for-fun-and-profit)
 
 ### RUBY - BACKUP & DISASTER RECOVERY
 
@@ -393,6 +405,7 @@
 * [Making Little Classes out of Big Ones - Avdi Grimm (Hashrocket Lunch n' Learn)](http://vimeo.com/42622511)
 * [Better Ruby Through Design Principles - Mike Gehard (MountainWest Ruby Conf 2012)](http://confreaks.com/videos/957-mwrc2012-better-ruby-through-design-principles)
 * [Go Ahead, Make a Mess - Sandi Metz (GoGaRuCo 2012)](http://confreaks.com/videos/1115-gogaruco2012-go-ahead-make-a-mess)
+* [It's the Little Things - Jamis Buck (MountainWest RubyConf 2012)](http://confreaks.com/videos/965-mwrc2012-it-s-the-little-things)
 * [Maintaining Balance While Reducing Duplication - David Chelimsky (RubyConf 2010)](http://www.confreaks.com/videos/434-rubyconf2010-maintaining-balance-while-reducing-duplication)
 * [The Polite Programmer's Guide to Ruby Etiquette - Jim Weirich, Ed Sumerfield, Chris Nelson (RubyConf 2010)](http://www.confreaks.com/videos/374-rubyconf2010-the-polite-programmer-s-guide-to-ruby-etiquette)
 * [Raise the bar, lower the pressure - Durran Jordan (Scotland Ruby 2011)](http://confreaks.com/videos/543-scotlandruby2011-raise-the-bar-lower-the-pressure)
@@ -416,6 +429,10 @@
 * [Far and Away (A Tour of Distributed Programming with Ruby) - Mark Bates (RubyConf 2010)](http://www.confreaks.com/videos/455-rubyconf2010-far-and-away-a-tour-of-distributed-programming-with-ruby)
 * [Debugging Large Scale Service Oriented Systems - Andy Delcambre (CascadiaRuby 2012)](http://confreaks.com/videos/1068-cascadiaruby2012-debugging-large-scale-service-oriented-systems)
 
+### RUBY - FEATURES
+
+* [Building modular, scalable web apps? Of CORS! (Cross-domain AJAX requests) - Michael Bleigh (RubyConf 2012)](http://confreaks.com/videos/1285-rubyconf2012-building-modular-scalable-web-apps-of-cors)
+
 ### RUBY - GEMS
 
 * [Make Awesome Command-Line Apps with Ruby - David Copeland (Ruby Midwest 2011)](http://confreaks.com/videos/762-rubymidwest2011-make-awesome-command-line-apps-with-ruby)
@@ -436,8 +453,10 @@
 * [MiniTest: Refactoring Test Unit and RSpec back to version 0.0.1 - Jared Ning (RailsConf 2012)](http://confreaks.com/videos/913-railsconf2012-minitest-refactoring-test-unit-and-rspec-back-to-version-0-0-1)
 * [MiniTest: Write Awesome Tests - Michael J.I. Jackson (MountainWest RubyConf 2012)](http://confreaks.com/videos/962-mwrc2012-minitest-write-awesome-tests)
 
-### RUBY - METRICS (MONITORING WHAT MATTERS)
+### RUBY - METRICS/MONITORING
 
+* [Your app is not a black box - Josh Kalderimis (RubyConf 2012)](http://confreaks.com/videos/1282-rubyconf2012-your-app-is-not-a-black-box)
+* [Ruby Monitoring State of the Union - Joseph Ruscio (RubyConf 2012)](http://confreaks.com/videos/1276-rubyconf2012-ruby-monitoring-state-of-the-union)
 * https://www.ruby-toolbox.com/categories/reporting
 * https://www.ruby-toolbox.com/categories/visualizing_data
 * https://www.ruby-toolbox.com/categories/Web_Analytics
