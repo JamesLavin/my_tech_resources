@@ -300,6 +300,7 @@
 ### RAILS 4
 
 * [Keynote - Rails 4 and the Future of Web - Aaron Patterson (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1228-aloharuby2012-keynote-rails-4-and-the-future-of-web)
+* [Real Time Salami - Aaron Patterson (RubyConf 2012)](http://confreaks.com/videos/1291-rubyconf2012-real-time-salami)
 * [Rails 4.0 Whirlwind Tour - Andy Lindeman](http://vimeo.com/51181496)
 * [EdgeRails.info](http://www.edgerails.info/)
 
@@ -403,6 +404,7 @@
 * [Confident Code - Avdi Grimm (Ruby Midwest 2011)](http://confreaks.com/videos/763-rubymidwest2011-confident-code)
 * [Thinking in Objects - Josh Susser (Steel City Ruby 2012)](http://confreaks.com/videos/1133-scrc2012-thinking-in-objects)
 * [Making Little Classes out of Big Ones - Avdi Grimm (Hashrocket Lunch n' Learn)](http://vimeo.com/42622511)
+* [How to build, use and grow internal tools - Keavy McMinn (RubyConf 2012)](http://confreaks.com/videos/1292-rubyconf2012-how-to-build-use-and-grow-internal-tools)
 * [Better Ruby Through Design Principles - Mike Gehard (MountainWest Ruby Conf 2012)](http://confreaks.com/videos/957-mwrc2012-better-ruby-through-design-principles)
 * [Go Ahead, Make a Mess - Sandi Metz (GoGaRuCo 2012)](http://confreaks.com/videos/1115-gogaruco2012-go-ahead-make-a-mess)
 * [It's the Little Things - Jamis Buck (MountainWest RubyConf 2012)](http://confreaks.com/videos/965-mwrc2012-it-s-the-little-things)
