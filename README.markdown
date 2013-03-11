@@ -388,6 +388,7 @@
 * [Evented Ruby vs Node.js - Jerry Cheung (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1231-aloharuby2012-evented-ruby-vs-node-js) & [RailsConf 2012](http://confreaks.com/videos/894-railsconf2012-evented-ruby-vs-node-js)
 * [Sending async data from Rails into the world - Part Ⅰ](http://blog.arkency.com/2012/10/sending-async-data-from-rails-into-the-world/)
 * [Async Everything - Anthony Eden (MadisonRuby 2012)](http://confreaks.com/videos/1099-madisonruby2012-async-everything)
+* [Evented Ruby vs Node.js - Jerry Cheung (RailsConf 2012)](http://confreaks.com/videos/894-railsconf2012-evented-ruby-vs-node-js)
 * [Introduction to EventMachine and Evented Programming - Mathias Meyer (Scotland Ruby Conf 2011)](http://confreaks.com/videos/555-scotlandruby2011-introduction-to-eventmachine-and-evented-programming)
 * [High Performance Ruby: Threading versus Evented - Dr. Nic Williams (Ruby Midwest 2011)](http://confreaks.com/videos/768-rubymidwest2011-high-performance-ruby-threading-versus-evented)
 * [Asynchronous Processing for Fun and Profit - Mike Perham (RubyConf 2012)](http://confreaks.com/videos/1290-rubyconf2012-asynchronous-processing-for-fun-and-profit)
@@ -455,7 +456,7 @@
 * [MiniTest: Refactoring Test Unit and RSpec back to version 0.0.1 - Jared Ning (RailsConf 2012)](http://confreaks.com/videos/913-railsconf2012-minitest-refactoring-test-unit-and-rspec-back-to-version-0-0-1)
 * [MiniTest: Write Awesome Tests - Michael J.I. Jackson (MountainWest RubyConf 2012)](http://confreaks.com/videos/962-mwrc2012-minitest-write-awesome-tests)
 
-### RUBY - METRICS/MONITORING
+### RUBY - METRICS (MONITORING WHAT MATTERS)
 
 * [Your app is not a black box - Josh Kalderimis (RubyConf 2012)](http://confreaks.com/videos/1282-rubyconf2012-your-app-is-not-a-black-box)
 * [Ruby Monitoring State of the Union - Joseph Ruscio (RubyConf 2012)](http://confreaks.com/videos/1276-rubyconf2012-ruby-monitoring-state-of-the-union)
