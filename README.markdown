@@ -303,6 +303,10 @@
 * [Rails 4.0 Whirlwind Tour - Andy Lindeman](http://vimeo.com/51181496)
 * [EdgeRails.info](http://www.edgerails.info/)
 
+### RAILS - APIS (EXTERNAL)
+
+* [Matthew Bass PDF slide deck on creating Rails APIs](http://raleighrb.s3.amazonaws.com/2013-03-12_apis.pdf)
+
 ### RAILS - CLEAN CODE
 
 * https://www.ruby-toolbox.com/categories/rails_presenters
