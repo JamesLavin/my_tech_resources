@@ -158,6 +158,7 @@
 
 * https://www.ruby-toolbox.com/categories/javascript_testing
 * [Jasmine](http://pivotal.github.com/jasmine/)
+* [75-minute Justin Searls screencast (non-standard; uses jasmine-fixture, jasmine-given & jasmine-stealth)](http://searls.testdouble.com/posts/2013-03-21-jasmine-tactics-screencast.html)
 * [Unit Testing in JavaScript via Jasmine - Jesse Warden](http://www.youtube.com/watch?v=eVpXkyN0zOE)
 * [Test-Driving Javascript with Jasmine - Tim Tyrrell (AustinJS)](http://www.youtube.com/watch?v=CswgfGhnTg8)
 * [QUnit](http://qunitjs.com)
