@@ -97,6 +97,8 @@
 * [JavascriptJabber.com](http://javascriptjabber.com/)
 * [The Javascript Show](http://javascriptshow.com/episodes)
 * [Advanced Introduction to JavaScript (Yakov Fain screencast)](http://www.youtube.com/watch?v=X1J0oMayvC0)
+* [Advanced Scoping & Other Puzzles (Vincenzo Tilotta)](http://www.youtube.com/watch?v=RnpPDoSzpYs)
+* [Nice discussion of scope chains, hoisting, self-executing anonymous functions, execution context, closures & module pattern (starting 28 minutes in)](http://www.youtube.com/watch?v=OrIFaWJ9Glo)
 * [Khan Academy](http://www.khanacademy.org/cs/tutorials/all-tutorials)
 * Crockford videos: [1](http://www.youtube.com/watch?v=JxAXlJEmNMg) [2](http://www.youtube.com/watch?v=RO1Wnu-xKoY) [3](http://www.youtube.com/watch?v=ya4UHuXNygM) [4](http://www.youtube.com/watch?v=Fv9qT9joc0M) [5](http://www.youtube.com/watch?v=47Ceot8yqeI) [6](http://www.youtube.com/watch?v=QgwSUtYSUqA) [7](http://www.youtube.com/watch?v=UTEqr0IlFKY) [8](http://www.youtube.com/watch?v=taaEzHI9xyY) [Advanced Javascript](http://www.youtube.com/watch?v=DwYPG6vreJg) [Good Parts](http://www.youtube.com/watch?v=_DKkVvOt6dk) [JS: Your New Overlord](http://www.youtube.com/watch?v=Trurfqh_6fQ)
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/JavaScript)
