@@ -375,6 +375,10 @@
 
 * [Grow Your Unix Beard Using Ruby (tour through features/internals of the Unicorn web server) - Jesse Storimer (RubyConf 2012)](http://confreaks.com/videos/1289-rubyconf2012-grow-your-unix-beard-using-ruby)
 
+## REDIS & RESQUE
+
+* [Andrew Glover: Asynchronous Processing, Messaging, and Redis/Resque](http://blip.tv/rubynation/andrew-glover-asynchronous-processing-messaging-and-redis-with-resque-6558320)
+
 ## RUBY
 
 * [Github's style guide](https://github.com/styleguide/ruby)
@@ -401,6 +405,7 @@
 * https://www.ruby-toolbox.com/categories/Concurrent_Processing
 * https://www.ruby-toolbox.com/categories/recurring_events
 * https://www.ruby-toolbox.com/categories/scheduling
+* [Brian Shirai on Rubinius 2.0, the GIL, and thread-safe Ruby code](http://www.jstorimer.com/2013/03/26/brian-shirai-threads.html)
 * [Evented Ruby vs Node.js - Jerry Cheung (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1231-aloharuby2012-evented-ruby-vs-node-js) & [RailsConf 2012](http://confreaks.com/videos/894-railsconf2012-evented-ruby-vs-node-js)
 * [Sending async data from Rails into the world - Part Ⅰ](http://blog.arkency.com/2012/10/sending-async-data-from-rails-into-the-world/)
 * [Async Everything - Anthony Eden (MadisonRuby 2012)](http://confreaks.com/videos/1099-madisonruby2012-async-everything)
