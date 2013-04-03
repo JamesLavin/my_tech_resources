@@ -107,6 +107,14 @@
 * [Javascript Weekly (email list)](http://javascriptweekly.com/)
 * [Javascript at 17 - Brendan Eich (Fluent 2012)](http://www.youtube.com/watch?v=Rj49rmc01Hs)
 
+### JAVASCRIPT - ASYNCHRONOUS
+
+* [Asynchronous JS: Callbacks, Listeners, Control Flow Libs and Promises](http://sporto.github.com/blog/2012/12/09/callbacks-listeners-promises/)
+* [Digging into Deferreds - Addy Osmani](http://addyosmani.com/blog/digging-into-deferreds-1/) & [Creating Responsive Applications Using jQuery Deferred and Promises](http://msdn.microsoft.com/en-us/magazine/gg723713.aspx)
+* [jQuery.Deferred()](http://api.jquery.com/jQuery.Deferred/) & [deferred.promise()](http://api.jquery.com/deferred.promise/)
+* [jQuery.Deferred is the most important client-side tool you have](http://eng.wealthfront.com/2012/12/jquerydeferred-is-most-important-client.html)
+* [Understanding JQuery.Deferred and Promise](http://joseoncode.com/2011/09/26/a-walkthrough-jquery-deferred-and-promise/)
+
 ### JAVASCRIPT - BACKBONE.JS
 
 * [Backbone.js](http://backbonejs.org/)
