@@ -110,10 +110,12 @@
 ### JAVASCRIPT - ASYNCHRONOUS
 
 * [Asynchronous JS: Callbacks, Listeners, Control Flow Libs and Promises](http://sporto.github.com/blog/2012/12/09/callbacks-listeners-promises/)
+* [Callbacks are imperative, promises are functional: Node’s biggest missed opportunity](http://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/)
 * [Digging into Deferreds - Addy Osmani](http://addyosmani.com/blog/digging-into-deferreds-1/) & [Creating Responsive Applications Using jQuery Deferred and Promises](http://msdn.microsoft.com/en-us/magazine/gg723713.aspx)
 * [jQuery.Deferred()](http://api.jquery.com/jQuery.Deferred/) & [deferred.promise()](http://api.jquery.com/deferred.promise/)
 * [jQuery.Deferred is the most important client-side tool you have](http://eng.wealthfront.com/2012/12/jquerydeferred-is-most-important-client.html)
 * [Understanding JQuery.Deferred and Promise](http://joseoncode.com/2011/09/26/a-walkthrough-jquery-deferred-and-promise/)
+* [What's The Point of Promises?](http://www.kendoui.com/blogs/teamblog/posts/13-03-28/what-is-the-point-of-promises.aspx)
 
 ### JAVASCRIPT - BACKBONE.JS
 
