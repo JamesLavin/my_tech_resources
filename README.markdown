@@ -238,6 +238,7 @@
 
 * [Official manuals](http://www.postgresql.org/docs/manuals/)
 * [Official FAQ](http://wiki.postgresql.org/wiki/FAQ)
+* [PostgresWeekly.com](http://postgresweekly.com/)
 * [Redis in my Postgres (linking multiple Postgres dbs or Postgres and Redis/MySQL/Oracle/Twitter/ODBC/etc.)](http://www.craigkerstiens.com/2012/10/18/connecting_to_redis_from_postgres/)
 
 ## PRODUCT DEVELOPMENT
