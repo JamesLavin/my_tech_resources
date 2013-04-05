@@ -171,9 +171,11 @@
 
 * https://www.ruby-toolbox.com/categories/javascript_testing
 * [Jasmine](http://pivotal.github.com/jasmine/)
+* [Konacha gem (Mocha + Chai)](https://github.com/jfirebaugh/konacha)
 * [75-minute Justin Searls screencast (non-standard; uses jasmine-fixture, jasmine-given & jasmine-stealth)](http://searls.testdouble.com/posts/2013-03-21-jasmine-tactics-screencast.html)
 * [Unit Testing in JavaScript via Jasmine - Jesse Warden](http://www.youtube.com/watch?v=eVpXkyN0zOE)
 * [Test-Driving Javascript with Jasmine - Tim Tyrrell (AustinJS)](http://www.youtube.com/watch?v=CswgfGhnTg8)
+* [Testing Your JavaScript/CoffeeScript - Mark Bates - Part 1 (Setting Up)](http://www.informit.com/articles/printerfriendly.aspx?p=1925618) & [Part 2 (Writing Tests)](http://www.informit.com/articles/printerfriendly.aspx?p=1930036)
 * [QUnit](http://qunitjs.com)
 * [Sinon.js](http://sinonjs.org/)
 
@@ -188,6 +190,7 @@
 
 ## JRUBY
 
+* [Headius (Charles Nutter)'s blog](http://blog.headius.com/)
 * [Why JRuby Works - Charles Nutter, Thomas Enebo (RubyConf 2012)](http://confreaks.com/videos/1281-rubyconf2012-why-jruby-works)
 * [Why JRuby? - Charles Nutter (Aloha RubyConf 2012)](http://confreaks.com/videos/1235-aloharuby2012-why-jruby) & [slides](http://www.slideshare.net/CharlesNutter/aloha-rubyconf-2012-jruby)
 * [RubyGems to All JVM Languages - Yoko Harada (RubyConf 2010)](http://www.confreaks.com/videos/372-rubyconf2010-rubygems-to-all-jvm-languages)
@@ -311,6 +314,9 @@
 
 ## RAILS
 
+* [Ruby on Rails Guides](http://guides.rubyonrails.org/)
+* [Ruby on Rails (Edge) Guides](http://edgeguides.rubyonrails.org/)
+
 ### RAILS 4
 
 * [Keynote - Rails 4 and the Future of Web - Aaron Patterson (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1228-aloharuby2012-keynote-rails-4-and-the-future-of-web)
@@ -419,6 +425,16 @@
 ### RUBY - BACKUP & DISASTER RECOVERY
 
 * https://www.ruby-toolbox.com/categories/backups
+
+### RUBY - BLOGS
+
+* [A Fresh Cup (Mike Gunderloy)](http://afreshcup.com/)
+* [Avdi Grimm](http://devblog.avdi.org/)
+* [Mike Perham](http://www.mikeperham.com/)
+* [Planet Ruby on Rails](http://planetrubyonrails.com/)
+* [RubyInside](http://www.rubyinside.com/)
+* [RubyFlow](http://www.rubyflow.com/)
+* [The Ruby Show (podcasts)](http://rubyshow.com/)
 
 ### RUBY - CLEAN CODE
 
