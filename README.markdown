@@ -122,6 +122,7 @@
 * [Backbone.js](http://backbonejs.org/)
 * [Backbone Fundamentals](https://github.com/addyosmani/backbone-fundamentals)
 * [Backbone Tutorials](http://backbonetutorials.com/)
+* [Backbone: 3 Ways](http://confreaks.com/videos/2219-html5tx2013-backbone-3-ways)
 * [Using Backbone.js With Rails: Patterns from the Wild - Sarah Mei (RailsConf 2012)](http://confreaks.com/videos/861-railsconf2012-using-backbone-js-with-rails-patterns-from-the-wild)
 * [Evening on Backbone.js/Views w/ Q&A with David Heinemeier Hansson](http://www.youtube.com/watch?v=FkLVl3gpJP4) - Intro to Rails followed by DHH arguing for Rails-generated (and "Russian-doll cached") HTML+JavaScript over client-side MVC except for the most complex cases
 * [Anatomy of Backbone - CodeSchool (non-free)](http://www.codeschool.com/courses/anatomy-of-backbonejs)
@@ -376,6 +377,14 @@
 * [Railscasts - Playing With PJAX](http://railscasts.com/episodes/294-playing-with-pjax)
 * [Learning pjax – Tutorial and Screencast](http://theadmin.org/articles/learning-pjax/)
 
+### RAILS - SCALING & DEVOPS
+
+* [DevOps for the Rubyist Soul (capistrano, puppet, puppet, git & vagrant)](http://confreaks.com/videos/2297-bigruby2013-devops-for-the-rubyist-soul)
+* [Five Things You Didn't Know About Chef](http://confreaks.com/videos/2301-bigruby2013-5-things-you-didn-t-know-about-chef)
+* [How Shopify Scales Rails](http://confreaks.com/videos/2303-bigruby2013-how-shopify-scales-rails)
+* [Scaling With Friends](http://confreaks.com/videos/2307-bigruby2013-scaling-with-friends)
+* [Services and Rails: The Shit They Don't Tell You](http://confreaks.com/videos/2299-bigruby2013-services-and-rails-the-shit-they-don-t-tell-you)
+
 ### RAILS - UI
 
 * [Twitter-Bootstrap-Rails gem](http://confreaks.com/videos/287-lsrc2010-how-to-build-a-sustainably-awesome-development-team) [How to](http://railsapps.github.com/twitter-bootstrap-rails.html)
@@ -587,6 +596,7 @@
 
 ## VIM (YEAH, IT'S THE BEST)
 
+* [Impressive Ruby Productivity with Vim and Tmux](http://confreaks.com/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux)
 * NerdTree: [Guide](http://usevim.com/2012/07/18/nerdtree/) [Cheatsheet](http://cheat.errtheblog.com/s/nerdtree/) [add a file](http://stackoverflow.com/questions/1459750/vim-and-nerd-tree-extension-adding-a-file)
 * [Vimcasts.org](http://vimcasts.org/)
 * [VimNinjas.com](http://www.vimninjas.com/)
