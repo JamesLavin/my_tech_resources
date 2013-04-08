@@ -147,6 +147,7 @@
 
 ### JAVASCRIPT - CLEAN CODE
 
+* [Airbnb's style guide](https://github.com/airbnb/javascript)
 * [Github's style guide](https://github.com/styleguide/javascript)
 * [JSHint (Github)](https://github.com/jshint/jshint) & [JSHint.com](http://www.jshint.com/)
 * [Javascript Development Workflow of 2013 - Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo)
@@ -154,6 +155,13 @@
 ### JAVASCRIPT - CLIENT-SIDE ARCHITECTURES
 
 * [Use Rails for Your Next Client-Side App - Yehuda Katz (ChicagoRuby2012)](http://vimeo.com/50451185)
+
+### JAVASCRIPT - FUNDAMENTAL CONCEPTS
+
+* [Common JavaScript “Gotchas”](http://www.jblotus.com/2013/01/13/common-javascript-gotchas/)
+* [Understanding JavaScript Function Invocation and 'this' (Yehuda Katz)](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
+* [Preparing Yourself for Modern JavaScript Development](http://www.codethinked.com/preparing-yourself-for-modern-javascript-development)
+* [Prototypes and Inheritance in JavaScript](http://msdn.microsoft.com/en-us/magazine/ff852808.aspx)
 
 ### JAVASCRIPT - MEMORY/GARBAGE COLLECTION
 
