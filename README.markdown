@@ -94,8 +94,9 @@
 ## JAVASCRIPT
 
 * [Eloquent Javascript](http://eloquentjavascript.net/)
-* [JavascriptJabber.com](http://javascriptjabber.com/)
-* [The Javascript Show](http://javascriptshow.com/episodes)
+* [SuperheroJS - curated JavaScript links](http://superherojs.com/)
+* [JavascriptJabber.com (podcasts)](http://javascriptjabber.com/)
+* [The Javascript Show (podcasts)](http://javascriptshow.com/episodes)
 * [Advanced Introduction to JavaScript (Yakov Fain screencast)](http://www.youtube.com/watch?v=X1J0oMayvC0)
 * [Advanced Scoping & Other Puzzles (Vincenzo Tilotta)](http://www.youtube.com/watch?v=RnpPDoSzpYs)
 * [Nice discussion of scope chains, hoisting, self-executing anonymous functions, execution context, closures & module pattern (starting 28 minutes in)](http://www.youtube.com/watch?v=OrIFaWJ9Glo)
