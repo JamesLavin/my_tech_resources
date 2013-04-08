@@ -349,6 +349,10 @@
 * [Code to Joy - Avdi Grimm (GoGaRuCo 2012)](http://confreaks.com/videos/1117-gogaruco2012-code-to-joy)
 * [Break It Down - Ben Scofield (Ruby Midwest 2011)](http://confreaks.com/videos/756-rubymidwest2011-break-it-down)
 
+### RAILS - DECORATORS
+
+* [Tidy views and beyond with Decorators (Thoughtbot)](http://robots.thoughtbot.com/post/13641910701/tidy-views-and-beyond-with-decorators)
+
 ### RAILS - ENGINES
 
 * https://www.ruby-toolbox.com/categories/Testing_Rails_Engines
