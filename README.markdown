@@ -341,8 +341,8 @@
 
 ### RAILS - CLEAN CODE
 
-* https://www.ruby-toolbox.com/categories/rails_presenters
-* https://www.ruby-toolbox.com/categories/template_engines
+* [Ruby-Toolbox - Presenters](https://www.ruby-toolbox.com/categories/rails_presenters)
+* [Ruby-Toolbox - Template Engines](https://www.ruby-toolbox.com/categories/template_engines)
 * [7 Ways to Decompose Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
 * [Mega Rails - Jack Danger Canty (GoGaRuCo 2012)](http://confreaks.com/videos/1125-gogaruco2012-mega-rails)
 * [Powerful Interfaces (Rails) - Caike Souza](http://confreaks.com/videos/902-railsconf2012-powerful-interfaces)
@@ -355,7 +355,7 @@
 
 ### RAILS - ENGINES
 
-* https://www.ruby-toolbox.com/categories/Testing_Rails_Engines
+* [Ruby-Toolbox - Testing Rails Engines](https://www.ruby-toolbox.com/categories/Testing_Rails_Engines)
 * [Carson: On the Path from Big-Ball-of-Mud to SOA - James Rosen (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1234-aloharuby2012-carson-on-the-path-from-big-ball-of-mud-to-soa)
 * [Writing a Rails Engine - Erik Michaels-Ober (GoGaRuCo 2012)](http://confreaks.com/videos/1109-gogaruco2012-writing-a-rails-engine)
 * [Rails Engines Patterns - Andy Maleh (RailsConf 2012)](http://www.youtube.com/watch?v=pm94BsoMGik)
@@ -432,10 +432,10 @@
 
 ### RUBY - ASYNCHRONOUS/EVENTED
 
-* https://www.ruby-toolbox.com/categories/Background_Jobs
-* https://www.ruby-toolbox.com/categories/Concurrent_Processing
-* https://www.ruby-toolbox.com/categories/recurring_events
-* https://www.ruby-toolbox.com/categories/scheduling
+* [Ruby-Toolkit - Background Jobs](https://www.ruby-toolbox.com/categories/Background_Jobs)
+* [Ruby-Toolkit - Concurrent Processing](https://www.ruby-toolbox.com/categories/Concurrent_Processing)
+* [Ruby-Toolkit - Recurring Events](https://www.ruby-toolbox.com/categories/recurring_events)
+* [Ruby-Toolkit - Scheduling](https://www.ruby-toolbox.com/categories/scheduling)
 * [Brian Shirai on Rubinius 2.0, the GIL, and thread-safe Ruby code](http://www.jstorimer.com/2013/03/26/brian-shirai-threads.html)
 * [Evented Ruby vs Node.js - Jerry Cheung (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1231-aloharuby2012-evented-ruby-vs-node-js) & [RailsConf 2012](http://confreaks.com/videos/894-railsconf2012-evented-ruby-vs-node-js)
 * [Sending async data from Rails into the world - Part Ⅰ](http://blog.arkency.com/2012/10/sending-async-data-from-rails-into-the-world/)
@@ -522,13 +522,13 @@
 
 * [Your app is not a black box - Josh Kalderimis (RubyConf 2012)](http://confreaks.com/videos/1282-rubyconf2012-your-app-is-not-a-black-box)
 * [Ruby Monitoring State of the Union - Joseph Ruscio (RubyConf 2012)](http://confreaks.com/videos/1276-rubyconf2012-ruby-monitoring-state-of-the-union)
-* https://www.ruby-toolbox.com/categories/reporting
-* https://www.ruby-toolbox.com/categories/visualizing_data
-* https://www.ruby-toolbox.com/categories/Web_Analytics
+* [Ruby-Toolkit - Reporting](https://www.ruby-toolbox.com/categories/reporting)
+* [Ruby-Toolkit - Visualizing Data](https://www.ruby-toolbox.com/categories/visualizing_data)
+* [Ruby-Toolkit - Web Analytics](https://www.ruby-toolbox.com/categories/Web_Analytics)
 
 ### RUBY - PERFORMANCE & LOAD TESTING
 
-* https://www.ruby-toolbox.com/categories/Benchmarking
+* [Ruby-Toolkit - Benchmarking](https://www.ruby-toolbox.com/categories/Benchmarking)
 * [Cargo Cult Web Performance Optimization - Ilya Grigorik (GoGaRuCo 2012)](http://confreaks.com/videos/1111-gogaruco2012-cargo-cult-web-performance-optimization)
 * [Services, Scale, Backgrounding and WTF is going on here?!??! - David Copeland (GoGaRuCo 2012)](http://confreaks.com/videos/1119-gogaruco2012-services-scale-backgrounding-and-wtf-is-going-on-here)
 * [From Profiling Ruby to Frankenstein Programming - Piotr Szotkowski (Scotland Ruby Conference 2011)](http://confreaks.com/videos/547-scotlandruby2011-from-profiling-ruby-to-frankenstein-programming)
@@ -557,11 +557,11 @@
 * https://code.google.com/p/ruby-security/wiki/Guide
 * [Modern Cryptography - John Downey (GoGaRuCo 2012)](http://confreaks.com/videos/1114-gogaruco2012-modern-cryptography)
 * [Hacking with Gems - Ben Smith (Aloha RubyConf 2012)](http://confreaks.com/videos/1243-aloharuby2012-hacking-with-gems)
-* https://www.ruby-toolbox.com/categories/encryption
-* https://www.ruby-toolbox.com/categories/rails_authentication
-* https://www.ruby-toolbox.com/categories/rails_authorization
-* https://www.ruby-toolbox.com/categories/security_tools
-* https://www.ruby-toolbox.com/categories/spam_detection
+* [Ruby-Toolkit - Encryption](https://www.ruby-toolbox.com/categories/encryption)
+* [Ruby-Toolkit - Rails Authentication](https://www.ruby-toolbox.com/categories/rails_authentication)
+* [Ruby-Toolkit - Rails Authorization](https://www.ruby-toolbox.com/categories/rails_authorization)
+* [Ruby-Toolkit - Security Tools](https://www.ruby-toolbox.com/categories/security_tools)
+* [Ruby-Toolkit - Spam Detection](https://www.ruby-toolbox.com/categories/spam_detection)
 
 ### RUBY - TESTING
 
