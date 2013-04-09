@@ -36,8 +36,13 @@
 * [Compass](http://compass-style.org/)
 * [Kicking Ass + Taking Names with Sass & Compass](http://vimeo.com/24278115)
 * [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
+* [Front End Legos: Better Design with Reusable HTML & CSS](http://confreaks.com/videos/2230-html5tx2013-front-end-legos-better-design-with-reusable-html-css)
 * [Github CSS style guide](https://github.com/styleguide/css)
 * [Zen-Coding](http://code.google.com/p/zen-coding/)
+
+## CSS - RESPONSIVE DESIGN
+
+* [The New Rules of The Responsive Web](http://confreaks.com/videos/2222-html5tx2013-the-new-rules-of-the-responsive-web)
 
 ## DEPLOYMENT
 
@@ -90,6 +95,7 @@
 ### HTML5 - WEB SOCKETS
 
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/WebSockets)
+* [Model-View-Websockets](http://confreaks.com/videos/2235-html5tx2013-model-view-websockets)
 
 ## JAVASCRIPT
 
@@ -122,6 +128,7 @@
 
 * [Backbone.js](http://backbonejs.org/)
 * [Backbone Fundamentals](https://github.com/addyosmani/backbone-fundamentals)
+* [Introduction to Backbone.js - Nick Gauthier](http://www.youtube.com/watch?v=PqtYcHyyWJA)
 * [Backbone Tutorials](http://backbonetutorials.com/)
 * [Backbone: 3 Ways](http://confreaks.com/videos/2219-html5tx2013-backbone-3-ways)
 * [Using Backbone.js With Rails: Patterns from the Wild - Sarah Mei (RailsConf 2012)](http://confreaks.com/videos/861-railsconf2012-using-backbone-js-with-rails-patterns-from-the-wild)
@@ -619,4 +626,5 @@
 ## WEB DESIGN - RESPONSIVE DESIGN & PROGRESSIVE ENHANCEMENT
 
 * [Responsive Web Design, Mobile First and Progressive enhancement in action - Leonado Lenase (ScotlandJS 2012)](http://vimeo.com/45140588)
+* [Browser Versions Are Dead](http://confreaks.com/videos/2223-html5tx2013-browser-versions-are-dead)
 
