@@ -80,6 +80,7 @@
 * [Git tutorial](http://www.vogella.com/articles/Git/article.html)
 * [Tig (Text-mode interface for Git)](http://jonas.nitro.dk/tig/)
 * [Getting Git: Getting Effective Project Management - Scott Chacon (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A02_Scott_Chacon.mp4)
+* [Git and GitHub Secrets by Zach Holman](http://www.youtube.com/watch?v=Foz9yvMkvlA)
 
 ## HTML5
 
@@ -213,6 +214,7 @@
 * [Why JRuby Works - Charles Nutter, Thomas Enebo (RubyConf 2012)](http://confreaks.com/videos/1281-rubyconf2012-why-jruby-works)
 * [Why JRuby? - Charles Nutter (Aloha RubyConf 2012)](http://confreaks.com/videos/1235-aloharuby2012-why-jruby) & [slides](http://www.slideshare.net/CharlesNutter/aloha-rubyconf-2012-jruby)
 * [RubyGems to All JVM Languages - Yoko Harada (RubyConf 2010)](http://www.confreaks.com/videos/372-rubyconf2010-rubygems-to-all-jvm-languages)
+* [Why JRuby? (Fiona Tay)](http://www.confreaks.com/videos/2312-larubyconf2013-why-i-like-jruby-and-you-should-too)
 
 ### JRUBY - PERFORMANCE
 
@@ -430,7 +432,7 @@
 * [Tracing Your Way Through Ruby (BaRuCo 2012)](http://www.youtube.com/watch?v=CvzEibqrriM)i
 * [10 Things You Didn't Know Ruby Could Do - @JEG2](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do)
 * [Ruby Safari - Ola Bini (Ruby Midwest 2011)](http://confreaks.com/videos/750-rubymidwest2011-ruby-safari)
-* [Ruby, Code, Threads, Events and Flying Robots [using EventMachine] (Jim Weirich)](http://confreaks.com/videos/2296-bigruby2013-keynote)
+* [Ruby, Code, Threads, Events and Flying Robots [using EventMachine & Celluloid] (Jim Weirich)](http://confreaks.com/videos/2296-bigruby2013-keynote)
 
 ### RUBY - 2.0
 
@@ -472,6 +474,7 @@
 ### RUBY - CLEAN CODE
 
 * [bbatsov / ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
+* [Refactoring Fat Models with Patterns](http://www.confreaks.com/videos/2290-larubyconf2013-refactoring-fat-models-with-patterns)
 * [Building a Ruby Library, the Parts No One Talks About - Mitchell Hashimoto (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1246-aloharuby2012-building-a-ruby-library-the-parts-no-one-talks-about)
 * [Life on the Edge - James Edward Gray II (Ruby Midwest 2011)](http://confreaks.com/videos/767-rubymidwest2011-life-on-the-edge)
 * [Confident Code - Avdi Grimm (Ruby Midwest 2011)](http://confreaks.com/videos/763-rubymidwest2011-confident-code)
