@@ -35,6 +35,7 @@
 * [Less](http://lesscss.org/)
 * [Compass](http://compass-style.org/)
 * [Kicking Ass + Taking Names with Sass & Compass](http://vimeo.com/24278115)
+* [csscss (finds CSS redundancies)](https://github.com/zmoazeni/csscss)
 * [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
 * [Front End Legos: Better Design with Reusable HTML & CSS](http://confreaks.com/videos/2230-html5tx2013-front-end-legos-better-design-with-reusable-html-css)
 * [Github CSS style guide](https://github.com/styleguide/css)
@@ -129,6 +130,7 @@
 * [Backbone.js](http://backbonejs.org/)
 * [Backbone Fundamentals](https://github.com/addyosmani/backbone-fundamentals)
 * [Introduction to Backbone.js - Nick Gauthier](http://www.youtube.com/watch?v=PqtYcHyyWJA)
+* [Put Some Backbone.js in your Apps (Sid Maestre)](http://www.youtube.com/watch?v=jM8KE_Fa6JI)
 * [Backbone Tutorials](http://backbonetutorials.com/)
 * [Backbone: 3 Ways](http://confreaks.com/videos/2219-html5tx2013-backbone-3-ways)
 * [Using Backbone.js With Rails: Patterns from the Wild - Sarah Mei (RailsConf 2012)](http://confreaks.com/videos/861-railsconf2012-using-backbone-js-with-rails-patterns-from-the-wild)
@@ -428,6 +430,7 @@
 * [Tracing Your Way Through Ruby (BaRuCo 2012)](http://www.youtube.com/watch?v=CvzEibqrriM)i
 * [10 Things You Didn't Know Ruby Could Do - @JEG2](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do)
 * [Ruby Safari - Ola Bini (Ruby Midwest 2011)](http://confreaks.com/videos/750-rubymidwest2011-ruby-safari)
+* [Ruby, Code, Threads, Events and Flying Robots [using EventMachine] (Jim Weirich)](http://confreaks.com/videos/2296-bigruby2013-keynote)
 
 ### RUBY - 2.0
 
@@ -504,6 +507,10 @@
 ### RUBY - FEATURES
 
 * [Building modular, scalable web apps? Of CORS! (Cross-domain AJAX requests) - Michael Bleigh (RubyConf 2012)](http://confreaks.com/videos/1285-rubyconf2012-building-modular-scalable-web-apps-of-cors)
+
+### RUBY - FUN
+
+* [decaf - Webkit modified to run Ruby in the browser](https://github.com/timahoney/decaf)
 
 ### RUBY - GEMS
 
