@@ -582,6 +582,7 @@
 
 ### RUBY - TESTING
 
+* [It's not your test framework, it's you - Robbie Clutton & Matt Parker (LA Ruby Conf 2013)](http://confreaks.com/videos/2313-larubyconf2013-it-s-not-your-test-framework-it-s-you)
 * [TDD: It's More Than Just "Testing" - Evan Light (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A05_EvanLight-SOR.mp4)
 
 ## SCALING
@@ -632,6 +633,10 @@
 * [VimNinjas.com](http://www.vimninjas.com/)
 * [Vundle plug-in manager](https://github.com/gmarik/vundle)
 * [Solarized](https://github.com/altercation/vim-colors-solarized)
+
+## WEATHER (NOT PROGRAMMING-RELATED, JUST USEFUL & REALLY COOL)
+
+* [National Weather Service - Nationwide Radar Loop](http://radar.weather.gov/Conus/full_loop.php)
 
 ## WEB DESIGN - RESPONSIVE DESIGN & PROGRESSIVE ENHANCEMENT
 
