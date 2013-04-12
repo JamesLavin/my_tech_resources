@@ -123,6 +123,7 @@
 * [Digging into Deferreds - Addy Osmani](http://addyosmani.com/blog/digging-into-deferreds-1/) & [Creating Responsive Applications Using jQuery Deferred and Promises](http://msdn.microsoft.com/en-us/magazine/gg723713.aspx)
 * [jQuery.Deferred()](http://api.jquery.com/jQuery.Deferred/) & [deferred.promise()](http://api.jquery.com/deferred.promise/)
 * [jQuery.Deferred is the most important client-side tool you have](http://eng.wealthfront.com/2012/12/jquerydeferred-is-most-important-client.html)
+* [Promise & Deferred Objects in Javascript, Pt 1 - Theory & Semantics](http://blog.mediumequalsmessage.com/promise-deferred-objects-in-javascript-pt1-theory-and-semantics) & [Pt 2 - Practice](http://blog.mediumequalsmessage.com/promise-deferred-objects-in-javascript-pt2-practical-use)
 * [Understanding JQuery.Deferred and Promise](http://joseoncode.com/2011/09/26/a-walkthrough-jquery-deferred-and-promise/)
 * [What's The Point of Promises?](http://www.kendoui.com/blogs/teamblog/posts/13-03-28/what-is-the-point-of-promises.aspx)
 
