@@ -6,6 +6,7 @@
 
 ## CLEAN CODE
 
+* [Code review advice from Thoughtbot](https://github.com/thoughtbot/guides/tree/master/code-review)
 * [Keynote: Architecture the Lost Years - Robert Martin (Ruby Midwest 2011)](http://confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years)
 * [Cruft and Technical Debt: A Long View - Yehuda Katz (GoGaRuCo 2012)](http://confreaks.com/videos/1121-gogaruco2012-cruft-and-technical-debt-a-long-view)
 * [Grasping Complexity with Both Hands - Glenn Vandenurg (GoGaRuCo 2012)](http://confreaks.com/videos/1123-gogaruco2012-grasping-complexity-with-both-hands)
