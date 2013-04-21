@@ -26,8 +26,10 @@
 
 ## COFFEESCRIPT
 
+* [Official documentation](http://coffeescript.org/) & [FAQ](https://github.com/jashkenas/coffee-script/wiki/FAQ) & [list of text editor plugins](https://github.com/jashkenas/coffee-script/wiki/Text-editor-plugins)
 * [Smooth Coffeescript](http://autotelicum.github.com/Smooth-CoffeeScript/)
 * [CoffeeScript for the Rubyist - Mark Bates (RailsConf 2012)](http://confreaks.com/videos/862-railsconf2012-coffeescript-for-the-rubyist) & [Aloha RubyConf 2012](http://confreaks.com/videos/1242-aloharuby2012-coffeescript-for-the-rubyist)
+* [CodeSchool.com (non-free)](http://coffeescript.codeschool.com/)
 
 ## CSS
 
@@ -132,6 +134,7 @@
 
 * [Backbone.js](http://backbonejs.org/)
 * [Backbone Fundamentals](https://github.com/addyosmani/backbone-fundamentals)
+* [Backbone in Baby Steps, part 1](http://codebyexample.info/2012/03/06/backbone-baby-steps/), [part 2](http://codebyexample.info/2012/04/05/backbone-in-baby-steps-part-2/), [part 2.5](http://codebyexample.info/2012/04/29/backbone-in-baby-steps-part-2-5/) & [part 3](http://codebyexample.info/2012/04/30/backbone-in-baby-steps-part-3/)
 * [Introduction to Backbone.js - Nick Gauthier](http://www.youtube.com/watch?v=PqtYcHyyWJA)
 * [Put Some Backbone.js in your Apps (Sid Maestre)](http://www.youtube.com/watch?v=jM8KE_Fa6JI)
 * [Backbone Tutorials](http://backbonetutorials.com/)
@@ -141,6 +144,10 @@
 * [Anatomy of Backbone - CodeSchool (non-free)](http://www.codeschool.com/courses/anatomy-of-backbonejs)
 * [Introduction to Backbone.js Part 1: Models Tutorial](http://www.youtube.com/watch?v=uYIzpHjPgXE) - First of a series of free videos all viewable on Youtube
 * [Structuring Complex Backbone.js Apps](http://www.mikkolehtinen.com/blog/2012/08/03/structuring-complex-backbone-dot-js-apps/)
+
+#### JAVASCRIPT - BACKBONE.JS - LOCALSTORAGE
+
+* [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage)
 
 #### JAVASCRIPT - BACKBONE.JS - PLUGINS
 
@@ -167,6 +174,10 @@
 ### JAVASCRIPT - CLIENT-SIDE ARCHITECTURES
 
 * [Use Rails for Your Next Client-Side App - Yehuda Katz (ChicagoRuby2012)](http://vimeo.com/50451185)
+
+### JAVASCRIPT - FRAMEWORKS
+
+* [TodoMVC](http://todomvc.com/) & [Github](https://github.com/addyosmani/todomvc)
 
 ### JAVASCRIPT - FUNDAMENTAL CONCEPTS
 
@@ -635,6 +646,10 @@
 * [VimNinjas.com](http://www.vimninjas.com/)
 * [Vundle plug-in manager](https://github.com/gmarik/vundle)
 * [Solarized](https://github.com/altercation/vim-colors-solarized)
+
+### VIM - COFFEESCRIPT PLUGIN
+
+* [vim-coffee-script](https://github.com/kchmck/vim-coffee-script)
 
 ## WEATHER (NOT PROGRAMMING-RELATED, JUST USEFUL & REALLY COOL)
 
