@@ -27,13 +27,18 @@
 ## COFFEESCRIPT
 
 * [Official documentation](http://coffeescript.org/) & [FAQ](https://github.com/jashkenas/coffee-script/wiki/FAQ) & [list of text editor plugins](https://github.com/jashkenas/coffee-script/wiki/Text-editor-plugins)
+* [Little Book on CoffeeScript (Alex MacCaw)](http://arcturo.github.io/library/coffeescript/)
 * [Smooth Coffeescript](http://autotelicum.github.com/Smooth-CoffeeScript/)
+* [Testing With CoffeeScript](https://efendibooks.com/minibooks/testing-with-coffeescript)
+* [Cheat Sheet (Cheatography)](http://www.cheatography.com/dimitrios/cheat-sheets/coffeescript-cheat-sheet/)
 * [CoffeeScript for the Rubyist - Mark Bates (RailsConf 2012)](http://confreaks.com/videos/862-railsconf2012-coffeescript-for-the-rubyist) & [Aloha RubyConf 2012](http://confreaks.com/videos/1242-aloharuby2012-coffeescript-for-the-rubyist)
 * [CodeSchool.com (non-free)](http://coffeescript.codeschool.com/)
+* [coffee-rails-source-maps](https://github.com/markbates/coffee-rails-source-maps)
 
 ## CSS
 
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/CSS)
+* [CSS2 Cheat Sheet (Cheatography)](http://www.cheatography.com/davechild/cheat-sheets/css2/)
 * [Sass](http://sass-lang.com/)
 * [Less](http://lesscss.org/)
 * [Compass](http://compass-style.org/)
@@ -135,6 +140,7 @@
 * [Backbone.js](http://backbonejs.org/)
 * [Backbone Fundamentals](https://github.com/addyosmani/backbone-fundamentals)
 * [Backbone in Baby Steps, part 1](http://codebyexample.info/2012/03/06/backbone-baby-steps/), [part 2](http://codebyexample.info/2012/04/05/backbone-in-baby-steps-part-2/), [part 2.5](http://codebyexample.info/2012/04/29/backbone-in-baby-steps-part-2-5/) & [part 3](http://codebyexample.info/2012/04/30/backbone-in-baby-steps-part-3/)
+* [TodoMVC Backbone example](http://todomvc.com/architecture-examples/backbone/) & [code](https://github.com/addyosmani/todomvc/tree/gh-pages/architecture-examples/backbone/)
 * [Introduction to Backbone.js - Nick Gauthier](http://www.youtube.com/watch?v=PqtYcHyyWJA)
 * [Put Some Backbone.js in your Apps (Sid Maestre)](http://www.youtube.com/watch?v=jM8KE_Fa6JI)
 * [Backbone Tutorials](http://backbonetutorials.com/)
@@ -163,6 +169,10 @@
 
 * [Underscore.js](http://underscorejs.org/)
 * [Lo-Dash](http://lodash.com/)
+
+#### JAVASCRIPT - BLOGS
+
+* [JavaScript Playground](http://javascriptplayground.com/blog)
 
 ### JAVASCRIPT - CLEAN CODE
 
@@ -241,6 +251,7 @@
 ## LINUX
 
 * [dotfiles.github.com](http://dotfiles.github.com/)
+* [Cheat Sheet (Cheatography)](http://www.cheatography.com/davechild/cheat-sheets/linux-command-line/)
 
 ### LINUX - SHELL SCRIPTING (BASH)
 
@@ -351,6 +362,7 @@
 
 * [Ruby on Rails Guides](http://guides.rubyonrails.org/)
 * [Ruby on Rails (Edge) Guides](http://edgeguides.rubyonrails.org/)
+* [Rails 4 Cheat Sheet (Cheatography)](http://www.cheatography.com/entaro/cheat-sheets/rails-4/)
 
 ### RAILS 4
 
@@ -640,6 +652,8 @@
 
 ## VIM (YEAH, IT'S THE BEST)
 
+* [vi and vim editor: Tutorial and advanced features](http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html)
+* [Buffers, windows & tabs](http://blog.sanctum.geek.nz/buffers-windows-tabs/)
 * [Impressive Ruby Productivity with Vim and Tmux](http://confreaks.com/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux)
 * NerdTree: [Guide](http://usevim.com/2012/07/18/nerdtree/) [Cheatsheet](http://cheat.errtheblog.com/s/nerdtree/) [add a file](http://stackoverflow.com/questions/1459750/vim-and-nerd-tree-extension-adding-a-file)
 * [Vimcasts.org](http://vimcasts.org/)
@@ -650,6 +664,10 @@
 ### VIM - COFFEESCRIPT PLUGIN
 
 * [vim-coffee-script](https://github.com/kchmck/vim-coffee-script)
+
+### VIM - JAVASCRIPT
+
+* [jslint.vim](https://github.com/hallettj/jslint.vim)
 
 ## WEATHER (NOT PROGRAMMING-RELATED, JUST USEFUL & REALLY COOL)
 
