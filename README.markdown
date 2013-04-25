@@ -595,6 +595,7 @@
 ### RUBY - RSPEC
 
 * [David Chelimsky's "RSpec Toolbox" talk (WindyCityRails2012)](http://vimeo.com/50185518)
+* [API Dock (good for older versions of RSpec)](http://apidock.com/rspec/browse)
 
 ### RUBY - SECURITY
 
