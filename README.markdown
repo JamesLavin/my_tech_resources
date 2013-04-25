@@ -95,6 +95,10 @@
 
 * [Help](https://help.github.com/)
 
+## HAML
+
+* [Tutorial](http://haml.info/tutorial.html) & [Reference](http://haml.info/docs/yardoc/file.REFERENCE.html)
+
 ## HTML5
 
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/HTML/HTML5)
