@@ -361,9 +361,11 @@
 
 ## RAILS
 
-* [Ruby on Rails Guides](http://guides.rubyonrails.org/)
+* [Ruby on Rails Guides](http://guides.rubyonrails.org/) & [2.3](http://guides.rubyonrails.org/v2.3.11/)
 * [Ruby on Rails (Edge) Guides](http://edgeguides.rubyonrails.org/)
 * [Rails 4 Cheat Sheet (Cheatography)](http://www.cheatography.com/entaro/cheat-sheets/rails-4/)
+* [Ruby on Rails Tutorial (Michael Hartl)](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book) & [Rails 4](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=4.0)
+* [APIDock - Rails (good for legacy Rails)](http://apidock.com/rails/browse)
 
 ### RAILS 4
 
@@ -459,6 +461,7 @@
 * [10 Things You Didn't Know Ruby Could Do - @JEG2](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do)
 * [Ruby Safari - Ola Bini (Ruby Midwest 2011)](http://confreaks.com/videos/750-rubymidwest2011-ruby-safari)
 * [Ruby, Code, Threads, Events and Flying Robots [using EventMachine & Celluloid] (Jim Weirich)](http://confreaks.com/videos/2296-bigruby2013-keynote)
+* [APIDock - Ruby (good for legacy Ruby)](http://apidock.com/ruby/browse)
 
 ### RUBY - 2.0
 
