@@ -91,6 +91,10 @@
 * [Getting Git: Getting Effective Project Management - Scott Chacon (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A02_Scott_Chacon.mp4)
 * [Git and GitHub Secrets by Zach Holman](http://www.youtube.com/watch?v=Foz9yvMkvlA)
 
+### GIT - GITHUB
+
+* [Help](https://help.github.com/)
+
 ## HTML5
 
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/HTML/HTML5)
@@ -657,7 +661,8 @@
 
 ## VIM (YEAH, IT'S THE BEST)
 
-* [Online docs](http://vimdoc.sourceforge.net/htmldoc/)
+* [VimDoc](http://vimdoc.sourceforge.net/htmldoc/)
+* [vim.wikia.com](http://vim.wikia.com/wiki/Vim_documentation)
 * [vi and vim editor: Tutorial and advanced features](http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html)
 * [Buffers, windows & tabs](http://blog.sanctum.geek.nz/buffers-windows-tabs/)
 * [Impressive Ruby Productivity with Vim and Tmux](http://confreaks.com/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux)
@@ -667,9 +672,26 @@
 * [Vundle plug-in manager](https://github.com/gmarik/vundle)
 * [Solarized](https://github.com/altercation/vim-colors-solarized)
 
-### VIM - COFFEESCRIPT PLUGIN
+### VIM - PLUGIN DOCS
 
-* [vim-coffee-script](https://github.com/kchmck/vim-coffee-script)
+* [ack.vim](https://raw.github.com/mileszs/ack.vim/master/doc/ack.txt)
+* [jslint.vim](https://github.com/hallettj/jslint.vim/blob/master/README.markdown)
+* [NERDTree](https://raw.github.com/scrooloose/nerdtree/master/doc/NERD_tree.txt)
+* [Recover.vim](https://raw.github.com/chrisbra/Recover.vim/master/doc/recoverPlugin.txt)
+* [snipmate](https://raw.github.com/garbas/vim-snipmate/master/doc/snipMate.txt)
+* [supertab](https://raw.github.com/ervandew/supertab/master/doc/supertab.txt)
+* [syntastic](https://raw.github.com/scrooloose/syntastic/master/doc/syntastic.txt)
+* [tabular](https://raw.github.com/godlygeek/tabular/master/doc/Tabular.txt)
+* [vim-fugitive](https://raw.github.com/tpope/vim-fugitive/master/doc/fugitive.txt)
+* [vim-coffee-script](https://raw.github.com/kchmck/vim-coffee-script/master/doc/coffee-script.txt)
+* [vim-rails](https://raw.github.com/tpope/vim-rails/master/doc/rails.txt)
+* [vim-rake](https://raw.github.com/tpope/vim-rake/master/doc/rake.txt)
+* [vim-rspec](https://github.com/thoughtbot/vim-rspec/blob/master/README.md)
+* [vim-ruby](https://raw.github.com/vim-ruby/vim-ruby/master/doc/vim-ruby.txt)
+* [vim-ruby-debugger](https://raw.github.com/astashov/vim-ruby-debugger/master/doc/ruby_debugger.txt)
+* [vim-ruby-refactoring](https://raw.github.com/ecomba/vim-ruby-refactoring/master/doc/rubyrefactoring.txt)
+* [vim-surround](https://raw.github.com/tpope/vim-surround/master/doc/surround.txt)
+* [vundle](https://raw.github.com/gmarik/vundle/master/doc/vundle.txt)
 
 ### VIM - JAVASCRIPT
 
