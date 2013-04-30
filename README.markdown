@@ -29,6 +29,7 @@
 * [Official documentation](http://coffeescript.org/) & [FAQ](https://github.com/jashkenas/coffee-script/wiki/FAQ) & [list of text editor plugins](https://github.com/jashkenas/coffee-script/wiki/Text-editor-plugins)
 * [Little Book on CoffeeScript (Alex MacCaw)](http://arcturo.github.io/library/coffeescript/)
 * [Smooth Coffeescript](http://autotelicum.github.com/Smooth-CoffeeScript/)
+* [CoffeeScript Ristretto Online](http://ristrettolo.gy/)
 * [Testing With CoffeeScript](https://efendibooks.com/minibooks/testing-with-coffeescript)
 * [Cheat Sheet (Cheatography)](http://www.cheatography.com/dimitrios/cheat-sheets/coffeescript-cheat-sheet/)
 * [CoffeeScript for the Rubyist - Mark Bates (RailsConf 2012)](http://confreaks.com/videos/862-railsconf2012-coffeescript-for-the-rubyist) & [Aloha RubyConf 2012](http://confreaks.com/videos/1242-aloharuby2012-coffeescript-for-the-rubyist)
@@ -136,6 +137,7 @@
 ### JAVASCRIPT - ASYNCHRONOUS
 
 * [Asynchronous JS: Callbacks, Listeners, Control Flow Libs and Promises](http://sporto.github.com/blog/2012/12/09/callbacks-listeners-promises/)
+* [Promise-Based Validation](http://net.tutsplus.com/tutorials/javascript-ajax/promise-based-validation/)
 * [Callbacks are imperative, promises are functional: Node’s biggest missed opportunity](http://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/)
 * [Digging into Deferreds - Addy Osmani](http://addyosmani.com/blog/digging-into-deferreds-1/) & [Creating Responsive Applications Using jQuery Deferred and Promises](http://msdn.microsoft.com/en-us/magazine/gg723713.aspx)
 * [jQuery.Deferred()](http://api.jquery.com/jQuery.Deferred/) & [deferred.promise()](http://api.jquery.com/deferred.promise/)
@@ -163,6 +165,10 @@
 #### JAVASCRIPT - BACKBONE.JS - LOCALSTORAGE
 
 * [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage)
+
+#### JAVASCRIPT - BACKBONE.JS - MARIONETTE
+
+* [Unsuck your backbone](https://speakerdeck.com/ammeep/unsuck-your-backbone)
 
 #### JAVASCRIPT - BACKBONE.JS - PLUGINS
 
@@ -288,6 +294,12 @@
 * [Bunyip](http://ryanseddon.github.com/bunyip/)
 * Grunt: [Intro](http://weblog.bocoup.com/introducing-grunt/) | [Github](https://github.com/gruntjs/grunt) | [Getting Started](https://github.com/gruntjs/grunt/blob/master/docs/getting_started.md)
 
+## NODE.JS
+
+### NODE.JS - NPM
+
+* [Package Managers: An Introductory Guide (covers NPM & Bower)](http://tech.pro/tutorial/1190/package-managers-an-introductory-guide-for-the-uninitiated-front-end-developer)
+
 ## POSTGRESQL
 
 * [Official manuals](http://www.postgresql.org/docs/manuals/)
@@ -312,6 +324,7 @@
 
 ### PRODUCT DEVELOPMENT - PEOPLE & PROCESS
 
+* [James Edward Gray II keynote (Ruby Midwest 2013)](http://www.confreaks.com/videos/2385-rmw2013-keynote)
 * [Rockstars & Consultants, Who needs 'em? - Lori Olson (Aloha RubyConf 2012)](http://confreaks.com/videos/1251-aloharuby2012-rockstars-consultants-who-needs-em)
 * [Does pair programming have to suck? - Angela Harms (Ruby Midwest 2011)](http://confreaks.com/videos/757-rubymidwest2011-does-pair-programming-have-to-suck)
 * [Joe O'Brien - People: the missing ingredient (GoGaRuCo2012)](http://confreaks.com/videos/1108-gogaruco2012-people-the-missing-ingredient)
@@ -507,6 +520,7 @@
 * [RubyInside](http://www.rubyinside.com/)
 * [RubyFlow](http://www.rubyflow.com/)
 * [The Ruby Show (podcasts)](http://rubyshow.com/)
+* [TableXI.com](http://www.tablexi.com/blog/)
 
 ### RUBY - CLEAN CODE
 
