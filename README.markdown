@@ -291,6 +291,7 @@
 * [How to Build a Sustainably Awesome Development Team - Jim Remsik & Les Hill (Lone Star RubyConf 2010)](http://confreaks.com/videos/287-lsrc2010-how-to-build-a-sustainably-awesome-development-team)
 * [How GitHub Uses GitHub to Build GitHub - Zach Holman (Ruby Midwest 2011)](http://confreaks.com/videos/754-rubymidwest2011-how-github-uses-github-to-build-github)
 * [People Patterns - Joe O'Brien (Ruby Midwest 2011)](http://confreaks.com/videos/766-rubymidwest2011-people-patterns)
+* [WideTeams.com (podcasts on remote collaboration)](http://www.wideteams.com/)
 
 ### PRODUCT DEVELOPMENT - COMMUNICATION TOOLS
 
@@ -512,8 +513,10 @@
 ### RUBY - FEATURES
 
 * [Building modular, scalable web apps? Of CORS! (Cross-domain AJAX requests) - Michael Bleigh (RubyConf 2012)](http://confreaks.com/videos/1285-rubyconf2012-building-modular-scalable-web-apps-of-cors)
+* [Ruby Tapas (only some free) - Avdi Grimm](http://www.rubytapas.com/episodes)
 
 ### RUBY - FUN
+
 
 * [decaf - Webkit modified to run Ruby in the browser](https://github.com/timahoney/decaf)
 
