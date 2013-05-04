@@ -26,12 +26,20 @@
 
 ## COFFEESCRIPT
 
+* [Official documentation](http://coffeescript.org/) & [FAQ](https://github.com/jashkenas/coffee-script/wiki/FAQ) & [list of text editor plugins](https://github.com/jashkenas/coffee-script/wiki/Text-editor-plugins)
+* [Little Book on CoffeeScript (Alex MacCaw)](http://arcturo.github.io/library/coffeescript/)
 * [Smooth Coffeescript](http://autotelicum.github.com/Smooth-CoffeeScript/)
+* [CoffeeScript Ristretto Online](http://ristrettolo.gy/)
+* [Testing With CoffeeScript](https://efendibooks.com/minibooks/testing-with-coffeescript)
+* [Cheat Sheet (Cheatography)](http://www.cheatography.com/dimitrios/cheat-sheets/coffeescript-cheat-sheet/)
 * [CoffeeScript for the Rubyist - Mark Bates (RailsConf 2012)](http://confreaks.com/videos/862-railsconf2012-coffeescript-for-the-rubyist) & [Aloha RubyConf 2012](http://confreaks.com/videos/1242-aloharuby2012-coffeescript-for-the-rubyist)
+* [CodeSchool.com (non-free)](http://coffeescript.codeschool.com/)
+* [coffee-rails-source-maps](https://github.com/markbates/coffee-rails-source-maps)
 
 ## CSS
 
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/CSS)
+* [CSS2 Cheat Sheet (Cheatography)](http://www.cheatography.com/davechild/cheat-sheets/css2/)
 * [Sass](http://sass-lang.com/)
 * [Less](http://lesscss.org/)
 * [Compass](http://compass-style.org/)
@@ -71,6 +79,7 @@
 ## GIT
 
 * [Official documentation](http://git-scm.com/documentation)
+* [Git Reference](http://gitref.org/)
 * [Pro Git](http://git-scm.com/book) [PDF](https://github.s3.amazonaws.com/media/progit.en.pdf) [mobi](https://github.s3.amazonaws.com/media/pro-git.en.mobi) [ePub](https://github.s3.amazonaws.com/media/progit.epub)
 * [Git Immersion](http://gitimmersion.com/lab_01.html)
 * [Git Ready](http://gitready.com/)
@@ -82,6 +91,14 @@
 * [Tig (Text-mode interface for Git)](http://jonas.nitro.dk/tig/)
 * [Getting Git: Getting Effective Project Management - Scott Chacon (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A02_Scott_Chacon.mp4)
 * [Git and GitHub Secrets by Zach Holman](http://www.youtube.com/watch?v=Foz9yvMkvlA)
+
+### GIT - GITHUB
+
+* [Help](https://help.github.com/)
+
+## HAML
+
+* [Tutorial](http://haml.info/tutorial.html) & [Reference](http://haml.info/docs/yardoc/file.REFERENCE.html)
 
 ## HTML5
 
@@ -120,6 +137,7 @@
 ### JAVASCRIPT - ASYNCHRONOUS
 
 * [Asynchronous JS: Callbacks, Listeners, Control Flow Libs and Promises](http://sporto.github.com/blog/2012/12/09/callbacks-listeners-promises/)
+* [Promise-Based Validation](http://net.tutsplus.com/tutorials/javascript-ajax/promise-based-validation/)
 * [Callbacks are imperative, promises are functional: Node’s biggest missed opportunity](http://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/)
 * [Digging into Deferreds - Addy Osmani](http://addyosmani.com/blog/digging-into-deferreds-1/) & [Creating Responsive Applications Using jQuery Deferred and Promises](http://msdn.microsoft.com/en-us/magazine/gg723713.aspx)
 * [jQuery.Deferred()](http://api.jquery.com/jQuery.Deferred/) & [deferred.promise()](http://api.jquery.com/deferred.promise/)
@@ -132,6 +150,8 @@
 
 * [Backbone.js](http://backbonejs.org/)
 * [Backbone Fundamentals](https://github.com/addyosmani/backbone-fundamentals)
+* [Backbone in Baby Steps, part 1](http://codebyexample.info/2012/03/06/backbone-baby-steps/), [part 2](http://codebyexample.info/2012/04/05/backbone-in-baby-steps-part-2/), [part 2.5](http://codebyexample.info/2012/04/29/backbone-in-baby-steps-part-2-5/) & [part 3](http://codebyexample.info/2012/04/30/backbone-in-baby-steps-part-3/)
+* [TodoMVC Backbone example](http://todomvc.com/architecture-examples/backbone/) & [code](https://github.com/addyosmani/todomvc/tree/gh-pages/architecture-examples/backbone/)
 * [Introduction to Backbone.js - Nick Gauthier](http://www.youtube.com/watch?v=PqtYcHyyWJA)
 * [Put Some Backbone.js in your Apps (Sid Maestre)](http://www.youtube.com/watch?v=jM8KE_Fa6JI)
 * [Backbone Tutorials](http://backbonetutorials.com/)
@@ -141,6 +161,14 @@
 * [Anatomy of Backbone - CodeSchool (non-free)](http://www.codeschool.com/courses/anatomy-of-backbonejs)
 * [Introduction to Backbone.js Part 1: Models Tutorial](http://www.youtube.com/watch?v=uYIzpHjPgXE) - First of a series of free videos all viewable on Youtube
 * [Structuring Complex Backbone.js Apps](http://www.mikkolehtinen.com/blog/2012/08/03/structuring-complex-backbone-dot-js-apps/)
+
+#### JAVASCRIPT - BACKBONE.JS - LOCALSTORAGE
+
+* [Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage)
+
+#### JAVASCRIPT - BACKBONE.JS - MARIONETTE
+
+* [Unsuck your backbone](https://speakerdeck.com/ammeep/unsuck-your-backbone)
 
 #### JAVASCRIPT - BACKBONE.JS - PLUGINS
 
@@ -157,6 +185,10 @@
 * [Underscore.js](http://underscorejs.org/)
 * [Lo-Dash](http://lodash.com/)
 
+#### JAVASCRIPT - BLOGS
+
+* [JavaScript Playground](http://javascriptplayground.com/blog)
+
 ### JAVASCRIPT - CLEAN CODE
 
 * [Airbnb's style guide](https://github.com/airbnb/javascript)
@@ -167,6 +199,10 @@
 ### JAVASCRIPT - CLIENT-SIDE ARCHITECTURES
 
 * [Use Rails for Your Next Client-Side App - Yehuda Katz (ChicagoRuby2012)](http://vimeo.com/50451185)
+
+### JAVASCRIPT - FRAMEWORKS
+
+* [TodoMVC](http://todomvc.com/) & [Github](https://github.com/addyosmani/todomvc)
 
 ### JAVASCRIPT - FUNDAMENTAL CONCEPTS
 
@@ -230,6 +266,7 @@
 ## LINUX
 
 * [dotfiles.github.com](http://dotfiles.github.com/)
+* [Cheat Sheet (Cheatography)](http://www.cheatography.com/davechild/cheat-sheets/linux-command-line/)
 
 ### LINUX - SHELL SCRIPTING (BASH)
 
@@ -257,6 +294,12 @@
 * [Bunyip](http://ryanseddon.github.com/bunyip/)
 * Grunt: [Intro](http://weblog.bocoup.com/introducing-grunt/) | [Github](https://github.com/gruntjs/grunt) | [Getting Started](https://github.com/gruntjs/grunt/blob/master/docs/getting_started.md)
 
+## NODE.JS
+
+### NODE.JS - NPM
+
+* [Package Managers: An Introductory Guide (covers NPM & Bower)](http://tech.pro/tutorial/1190/package-managers-an-introductory-guide-for-the-uninitiated-front-end-developer)
+
 ## POSTGRESQL
 
 * [Official manuals](http://www.postgresql.org/docs/manuals/)
@@ -281,6 +324,7 @@
 
 ### PRODUCT DEVELOPMENT - PEOPLE & PROCESS
 
+* [James Edward Gray II keynote (Ruby Midwest 2013)](http://www.confreaks.com/videos/2385-rmw2013-keynote)
 * [Rockstars & Consultants, Who needs 'em? - Lori Olson (Aloha RubyConf 2012)](http://confreaks.com/videos/1251-aloharuby2012-rockstars-consultants-who-needs-em)
 * [Does pair programming have to suck? - Angela Harms (Ruby Midwest 2011)](http://confreaks.com/videos/757-rubymidwest2011-does-pair-programming-have-to-suck)
 * [Joe O'Brien - People: the missing ingredient (GoGaRuCo2012)](http://confreaks.com/videos/1108-gogaruco2012-people-the-missing-ingredient)
@@ -339,8 +383,11 @@
 
 ## RAILS
 
-* [Ruby on Rails Guides](http://guides.rubyonrails.org/)
+* [Ruby on Rails Guides](http://guides.rubyonrails.org/) & [2.3](http://guides.rubyonrails.org/v2.3.11/)
 * [Ruby on Rails (Edge) Guides](http://edgeguides.rubyonrails.org/)
+* [Rails 4 Cheat Sheet (Cheatography)](http://www.cheatography.com/entaro/cheat-sheets/rails-4/)
+* [Ruby on Rails Tutorial (Michael Hartl)](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book) & [Rails 4](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=4.0)
+* [APIDock - Rails (good for legacy Rails)](http://apidock.com/rails/browse)
 
 ### RAILS 4
 
@@ -436,6 +483,7 @@
 * [10 Things You Didn't Know Ruby Could Do - @JEG2](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do)
 * [Ruby Safari - Ola Bini (Ruby Midwest 2011)](http://confreaks.com/videos/750-rubymidwest2011-ruby-safari)
 * [Ruby, Code, Threads, Events and Flying Robots [using EventMachine & Celluloid] (Jim Weirich)](http://confreaks.com/videos/2296-bigruby2013-keynote)
+* [APIDock - Ruby (good for legacy Ruby)](http://apidock.com/ruby/browse)
 
 ### RUBY - 2.0
 
@@ -473,6 +521,7 @@
 * [RubyInside](http://www.rubyinside.com/)
 * [RubyFlow](http://www.rubyflow.com/)
 * [The Ruby Show (podcasts)](http://rubyshow.com/)
+* [TableXI.com](http://www.tablexi.com/blog/)
 
 ### RUBY - CLEAN CODE
 
@@ -571,6 +620,7 @@
 ### RUBY - RSPEC
 
 * [David Chelimsky's "RSpec Toolbox" talk (WindyCityRails2012)](http://vimeo.com/50185518)
+* [API Dock (good for older versions of RSpec)](http://apidock.com/rspec/browse)
 
 ### RUBY - SECURITY
 
@@ -632,12 +682,41 @@
 
 ## VIM (YEAH, IT'S THE BEST)
 
+* [VimDoc](http://vimdoc.sourceforge.net/htmldoc/)
+* [vim.wikia.com](http://vim.wikia.com/wiki/Vim_documentation)
+* [vi and vim editor: Tutorial and advanced features](http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html)
+* [Buffers, windows & tabs](http://blog.sanctum.geek.nz/buffers-windows-tabs/)
 * [Impressive Ruby Productivity with Vim and Tmux](http://confreaks.com/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux)
 * NerdTree: [Guide](http://usevim.com/2012/07/18/nerdtree/) [Cheatsheet](http://cheat.errtheblog.com/s/nerdtree/) [add a file](http://stackoverflow.com/questions/1459750/vim-and-nerd-tree-extension-adding-a-file)
 * [Vimcasts.org](http://vimcasts.org/)
 * [VimNinjas.com](http://www.vimninjas.com/)
 * [Vundle plug-in manager](https://github.com/gmarik/vundle)
 * [Solarized](https://github.com/altercation/vim-colors-solarized)
+
+### VIM - PLUGIN DOCS
+
+* [ack.vim](https://raw.github.com/mileszs/ack.vim/master/doc/ack.txt)
+* [jslint.vim](https://github.com/hallettj/jslint.vim/blob/master/README.markdown)
+* [NERDTree](https://raw.github.com/scrooloose/nerdtree/master/doc/NERD_tree.txt)
+* [Recover.vim](https://raw.github.com/chrisbra/Recover.vim/master/doc/recoverPlugin.txt)
+* [snipmate](https://raw.github.com/garbas/vim-snipmate/master/doc/snipMate.txt)
+* [supertab](https://raw.github.com/ervandew/supertab/master/doc/supertab.txt)
+* [syntastic](https://raw.github.com/scrooloose/syntastic/master/doc/syntastic.txt)
+* [tabular](https://raw.github.com/godlygeek/tabular/master/doc/Tabular.txt)
+* [vim-fugitive](https://raw.github.com/tpope/vim-fugitive/master/doc/fugitive.txt)
+* [vim-coffee-script](https://raw.github.com/kchmck/vim-coffee-script/master/doc/coffee-script.txt)
+* [vim-rails](https://raw.github.com/tpope/vim-rails/master/doc/rails.txt)
+* [vim-rake](https://raw.github.com/tpope/vim-rake/master/doc/rake.txt)
+* [vim-rspec](https://github.com/thoughtbot/vim-rspec/blob/master/README.md)
+* [vim-ruby](https://raw.github.com/vim-ruby/vim-ruby/master/doc/vim-ruby.txt)
+* [vim-ruby-debugger](https://raw.github.com/astashov/vim-ruby-debugger/master/doc/ruby_debugger.txt)
+* [vim-ruby-refactoring](https://raw.github.com/ecomba/vim-ruby-refactoring/master/doc/rubyrefactoring.txt)
+* [vim-surround](https://raw.github.com/tpope/vim-surround/master/doc/surround.txt)
+* [vundle](https://raw.github.com/gmarik/vundle/master/doc/vundle.txt)
+
+### VIM - JAVASCRIPT
+
+* [jslint.vim](https://github.com/hallettj/jslint.vim)
 
 ## WEATHER (NOT PROGRAMMING-RELATED, JUST USEFUL & REALLY COOL)
 
