@@ -696,6 +696,8 @@
 ### VIM - PLUGIN DOCS
 
 * [ack.vim](https://raw.github.com/mileszs/ack.vim/master/doc/ack.txt)
+* [ctrlp.vim](https://github.com/kien/ctrlp.vim/blob/master/readme.md#readme)
+* [gist.vim](https://github.com/mattn/gist-vim/blob/master/README.mkd#readme)
 * [jslint.vim](https://github.com/hallettj/jslint.vim/blob/master/README.markdown)
 * [NERDTree](https://raw.github.com/scrooloose/nerdtree/master/doc/NERD_tree.txt)
 * [Recover.vim](https://raw.github.com/chrisbra/Recover.vim/master/doc/recoverPlugin.txt)
