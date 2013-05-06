@@ -38,6 +38,7 @@
 
 ## CSS
 
+* [LearnLayout.com](http://www.learnlayout.com/)
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/CSS)
 * [CSS2 Cheat Sheet (Cheatography)](http://www.cheatography.com/davechild/cheat-sheets/css2/)
 * [Sass](http://sass-lang.com/)
@@ -156,6 +157,7 @@
 * [Put Some Backbone.js in your Apps (Sid Maestre)](http://www.youtube.com/watch?v=jM8KE_Fa6JI)
 * [Backbone Tutorials](http://backbonetutorials.com/)
 * [Backbone: 3 Ways](http://confreaks.com/videos/2219-html5tx2013-backbone-3-ways)
+* [Backbone.js, Jasmine and Rails: A Lust Story - Austin Fonacier (LA Ruby 2013)](http://www.confreaks.com/videos/2295-larubyconf2013-backbone-js-jasmine-and-rails-the-lust-story)
 * [Using Backbone.js With Rails: Patterns from the Wild - Sarah Mei (RailsConf 2012)](http://confreaks.com/videos/861-railsconf2012-using-backbone-js-with-rails-patterns-from-the-wild)
 * [Evening on Backbone.js/Views w/ Q&A with David Heinemeier Hansson](http://www.youtube.com/watch?v=FkLVl3gpJP4) - Intro to Rails followed by DHH arguing for Rails-generated (and "Russian-doll cached") HTML+JavaScript over client-side MVC except for the most complex cases
 * [Anatomy of Backbone - CodeSchool (non-free)](http://www.codeschool.com/courses/anatomy-of-backbonejs)
@@ -639,6 +641,7 @@
 
 * [It's not your test framework, it's you - Robbie Clutton & Matt Parker (LA Ruby Conf 2013)](http://confreaks.com/videos/2313-larubyconf2013-it-s-not-your-test-framework-it-s-you)
 * [TDD: It's More Than Just "Testing" - Evan Light (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A05_EvanLight-SOR.mp4)
+* [Magic Tricks of Testing (RailsConf 2013) - Sandi Metz, slides](https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf)
 
 ## SCALING
 
