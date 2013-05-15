@@ -269,6 +269,7 @@
 
 * [dotfiles.github.com](http://dotfiles.github.com/)
 * [Cheat Sheet (Cheatography)](http://www.cheatography.com/davechild/cheat-sheets/linux-command-line/)
+* [LESS](http://linux.die.net/man/1/less)
 
 ### LINUX - SHELL SCRIPTING (BASH)
 
