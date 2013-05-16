@@ -466,6 +466,10 @@
 
 * [Twitter-Bootstrap-Rails gem](http://confreaks.com/videos/287-lsrc2010-how-to-build-a-sustainably-awesome-development-team) [How to](http://railsapps.github.com/twitter-bootstrap-rails.html)
 
+### RAILS - UPGRADING
+
+* [Rails-Upgrade-Checklist](www.rails-upgrade-checklist.com)
+
 ### RAILS - WEBSERVERS
 
 * [Grow Your Unix Beard Using Ruby (tour through features/internals of the Unicorn web server) - Jesse Storimer (RubyConf 2012)](http://confreaks.com/videos/1289-rubyconf2012-grow-your-unix-beard-using-ruby)
