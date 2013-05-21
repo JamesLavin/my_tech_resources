@@ -273,7 +273,8 @@
 
 ### LINUX - SHELL SCRIPTING (BASH)
 
-* http://www.commandlinefu.com/commands/browse/sort-by-votes
+* [Bash Hackers Wiki](http://wiki.bash-hackers.org/doku.php)
+* [Command Line Fu](http://www.commandlinefu.com/commands/browse/sort-by-votes)
 
 ## MOBILE
 
