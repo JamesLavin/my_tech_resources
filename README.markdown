@@ -96,6 +96,7 @@
 ### GIT - GITHUB
 
 * [Help](https://help.github.com/)
+* [Developer docs](http://developer.github.com)
 
 ## HAML
 
