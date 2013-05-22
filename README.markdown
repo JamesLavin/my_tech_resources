@@ -198,6 +198,7 @@
 * [Github's style guide](https://github.com/styleguide/javascript)
 * [JSHint (Github)](https://github.com/jshint/jshint) & [JSHint.com](http://www.jshint.com/)
 * [Javascript Development Workflow of 2013 - Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo)
+* [Writing Testable Javascript - Rebecca Murphey](http://alistapart.com/article/writing-testable-javascript)
 
 ### JAVASCRIPT - CLIENT-SIDE ARCHITECTURES
 
