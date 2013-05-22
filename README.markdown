@@ -224,6 +224,11 @@
 * [JamJS](http://jamjs.org/) [Github](https://github.com/caolan/jam)
 * [Require.js](http://requirejs.org/)
 
+### JAVASCRIPT - PLAYGROUND
+
+* [JSBin.com](http://jsbin.com/welcome/1/edit)
+* [JSFiddle.net](http://jsfiddle.net/)
+
 ### JAVASCRIPT - PRODUCTIVITY TOOLS
 
 * [Yeoman](http://yeoman.io/packagemanager.html)
@@ -276,6 +281,7 @@
 
 * [Bash Hackers Wiki](http://wiki.bash-hackers.org/doku.php)
 * [Command Line Fu](http://www.commandlinefu.com/commands/browse/sort-by-votes)
+* [Greg Wooledge's Wiki](http://mywiki.wooledge.org/)
 
 ## MOBILE
 
@@ -557,6 +563,8 @@
 ### RUBY - DEBUGGING
 
 * [Prying into your app's private life - Corey Woodcox (MountainWest RubyConf 2012)](http://confreaks.com/videos/959-mwrc2012-prying-into-your-app-s-private-life)
+* [Better_errors gem](https://github.com/charliesome/better_errors) & [Railscast](http://railscasts.com/episodes/402-better-errors-railspanel)
+* [Pry](https://github.com/pry/pry), [jazz_hands](https://github.com/nixme/jazz_hands) & [Pry Railscast](http://railscasts.com/episodes/280-pry-with-rails)
 * [Tracing your way through ruby - Elise Huard (BaRuCo 2012)](http://confreaks.com/videos/1330-baruco2012-tracing-your-way-through-ruby)
 * [Code Climate (free only for open-source)](https://codeclimate.com/) [Free for public Github repos](https://codeclimate.com/github/signup)
 * [Debugging Ruby - Aman Gupta (RubyConf 2010)](http://www.confreaks.com/videos/371-rubyconf2010-debugging-ruby)
@@ -575,7 +583,6 @@
 
 ### RUBY - FUN
 
-
 * [decaf - Webkit modified to run Ruby in the browser](https://github.com/timahoney/decaf)
 
 ### RUBY - GEMS
@@ -585,13 +592,13 @@
 ### RUBY - LOGGING & PROBLEM DETECTION
 
 * [It’s Not in Production Unless it’s Monitored - Joseph Ruscio (RailsConf 2012)](http://confreaks.com/videos/906-railsconf2012-its-not-in-production-unless-its-monitored)
-* https://www.ruby-toolbox.com/categories/exception_notification
-* https://www.ruby-toolbox.com/categories/rails_instrumentation
-* https://www.ruby-toolbox.com/categories/Log_Analysis
-* https://www.ruby-toolbox.com/categories/Logging
-* https://www.ruby-toolbox.com/categories/rails_admin_interfaces
-* https://www.ruby-toolbox.com/categories/reporting
-* https://www.ruby-toolbox.com/categories/server_monitoring
+* [Exception notification](https://www.ruby-toolbox.com/categories/exception_notification)
+* [Rails instrumentation](https://www.ruby-toolbox.com/categories/rails_instrumentation)
+* [Log analysis](https://www.ruby-toolbox.com/categories/Log_Analysis)
+* [Logging](https://www.ruby-toolbox.com/categories/Logging)
+* [Rails admin interfaces](https://www.ruby-toolbox.com/categories/rails_admin_interfaces)
+* [Reporting](https://www.ruby-toolbox.com/categories/reporting)
+* [Server monitoring](https://www.ruby-toolbox.com/categories/server_monitoring)
 
 ### RUBY - MINITEST
 
@@ -651,13 +658,17 @@
 * [TDD: It's More Than Just "Testing" - Evan Light (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A05_EvanLight-SOR.mp4)
 * [Magic Tricks of Testing (RailsConf 2013) - Sandi Metz, slides](https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf)
 
+### RUBY - TOOLS
+
+* [RubyMine (non-free)](http://www.jetbrains.com/ruby/)
+
 ## SCALING
 
 * [Scaling Groupon - Tyler Jennings, Michael Cerna (Scotland Ruby Conf 2011)](http://confreaks.com/videos/554-scotlandruby2011-scaling-groupon)
 
 ## TESTING
 
-* https://www.ruby-toolbox.com/#Testing
+* [Testing tools](https://www.ruby-toolbox.com/#Testing)
 * [Let's Make Testing Fun Again - Noel Rappin (WindyCityRails2012)](http://vimeo.com/49525644)
 * [Test Your Legacy Rails Code - Noel Rappin (Ruby Midwest 2011)](http://confreaks.com/videos/755-rubymidwest2011-test-your-legacy-rails-code)
 * [Jenkins User Conference San Francisco 2012 videos](http://confreaks.com/events/jucsf2012)
