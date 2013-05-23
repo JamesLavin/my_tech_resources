@@ -104,6 +104,7 @@
 
 ## HTML5
 
+* [Dive into HTML 5 - Mark Pilgrim](http://diveintohtml5.info/)
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/HTML/HTML5)
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
 * [HTML5 Please](http://html5please.com/)
@@ -113,6 +114,13 @@
 
 * [A Rubyist's Guide to the Canvas API - H. Dean Hudson (CascadiaRuby 2012)](http://confreaks.com/videos/1067-cascadiaruby2012-a-rubyist-s-guide-to-the-canvas-api)
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/HTML/Canvas)
+
+### HTML5 - INDEXED DB
+
+* [IndexedDB - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/IndexedDB)
+* [Using the HTML5 IndexedDB API - Brian Stewart](http://www.ibm.com/developerworks/web/library/wa-indexeddb/index.html)
+* [Quick Tip: Store Data in the Browser with IndexedDB - Martin Angelov](http://tutorialzine.com/2013/01/simple-indexeddb-dbjs-app/)
+* [Who Needs MySQL When There Is IndexedDB? - NewRelic](http://blog.newrelic.com/2012/11/26/who-needs-mysql-when-there-is-indexeddb/)
 
 ### HTML5 - WEB SOCKETS
 
@@ -181,6 +189,7 @@
 
 #### JAVASCRIPT - BACKBONE.JS - TESTING
 
+* [Integration testing Backbone.js](http://open.bekk.no/integration-testing-backbone-js/)
 * [Testing your Backbone from the outside-in - James Newbery (Scotland.js 2012)](https://vimeo.com/45140589)
 
 #### JAVASCRIPT - BACKBONE.JS - UNDERSCORE.JS/LO-DASH
@@ -236,7 +245,7 @@
 
 ### JAVASCRIPT - TESTING
 
-* https://www.ruby-toolbox.com/categories/javascript_testing
+* [Javascript testing - Ruby-Toolbox](https://www.ruby-toolbox.com/categories/javascript_testing)
 * [Jasmine](http://pivotal.github.com/jasmine/)
 * [Konacha gem (Mocha + Chai)](https://github.com/jfirebaugh/konacha)
 * [75-minute Justin Searls screencast (non-standard; uses jasmine-fixture, jasmine-given & jasmine-stealth)](http://searls.testdouble.com/posts/2013-03-21-jasmine-tactics-screencast.html)
@@ -245,6 +254,7 @@
 * [Testing Your JavaScript/CoffeeScript - Mark Bates - Part 1 (Setting Up)](http://www.informit.com/articles/printerfriendly.aspx?p=1925618) & [Part 2 (Writing Tests)](http://www.informit.com/articles/printerfriendly.aspx?p=1930036)
 * [QUnit](http://qunitjs.com)
 * [Sinon.js](http://sinonjs.org/)
+* [Using Capybara to test JavaScript that makes HTTP requests](http://robots.thoughtbot.com/post/34761570235/using-capybara-to-test-javascript-that-makes-http)
 
 ### JAVASCRIPT - JQUERY
 
