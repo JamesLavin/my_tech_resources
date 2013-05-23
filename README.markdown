@@ -117,10 +117,14 @@
 
 ### HTML5 - INDEXED DB
 
+* [db.js (wrapper for IndexedDB)](http://aaronpowell.github.io/db.js/)
+* [indexeddb-backbonejs-adapter](https://github.com/superfeedr/indexeddb-backbonejs-adapter)
+* [Deep Dive into the HTML5 IndexedDB](http://www.codeproject.com/Articles/347765/Deep-Dive-into-the-HTML5-IndexedDB)
 * [IndexedDB - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/IndexedDB)
 * [Using the HTML5 IndexedDB API - Brian Stewart](http://www.ibm.com/developerworks/web/library/wa-indexeddb/index.html)
 * [Quick Tip: Store Data in the Browser with IndexedDB - Martin Angelov](http://tutorialzine.com/2013/01/simple-indexeddb-dbjs-app/)
 * [Who Needs MySQL When There Is IndexedDB? - NewRelic](http://blog.newrelic.com/2012/11/26/who-needs-mysql-when-there-is-indexeddb/)
+* [How the browsers store IndexedDB data - Aaron Powell](http://www.aaron-powell.com/web/indexeddb-storage)
 
 ### HTML5 - WEB SOCKETS
 
