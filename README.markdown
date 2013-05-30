@@ -362,6 +362,7 @@
 * [How GitHub Uses GitHub to Build GitHub - Zach Holman (Ruby Midwest 2011)](http://confreaks.com/videos/754-rubymidwest2011-how-github-uses-github-to-build-github)
 * [People Patterns - Joe O'Brien (Ruby Midwest 2011)](http://confreaks.com/videos/766-rubymidwest2011-people-patterns)
 * [WideTeams.com (podcasts on remote collaboration)](http://www.wideteams.com/)
+* [Move Fast and Make Things - Adam Keys (BigRuby 2013)](http://confreaks.com/videos/2300-bigruby2013-move-fast-and-make-things)
 
 ### PRODUCT DEVELOPMENT - COMMUNICATION TOOLS
 
@@ -556,6 +557,7 @@
 ### RUBY - CLEAN CODE
 
 * [bbatsov / ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
+* [Avdi Grimm's "Naught" gem](https://github.com/avdi/naught), [Avdi's "Null Objects and Falsiness"](http://devblog.avdi.org/2011/05/30/null-objects-and-falsiness/), and [two papers](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf) & [explaining the null object pattern](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf)
 * [Refactoring Fat Models with Patterns](http://www.confreaks.com/videos/2290-larubyconf2013-refactoring-fat-models-with-patterns)
 * [Building a Ruby Library, the Parts No One Talks About - Mitchell Hashimoto (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1246-aloharuby2012-building-a-ruby-library-the-parts-no-one-talks-about)
 * [Life on the Edge - James Edward Gray II (Ruby Midwest 2011)](http://confreaks.com/videos/767-rubymidwest2011-life-on-the-edge)
@@ -649,11 +651,6 @@
 * [Therapeutic Refactoring - Katrina Owen (CascadiaRuby 2012)](http://confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring)
 * [Refactoring from Good to Great - Ben Orenstein (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1233-aloharuby2012-refactoring-from-good-to-great)
 
-### RUBY - RSPEC
-
-* [David Chelimsky's "RSpec Toolbox" talk (WindyCityRails2012)](http://vimeo.com/50185518)
-* [API Dock (good for older versions of RSpec)](http://apidock.com/rspec/browse)
-
 ### RUBY - SECURITY
 
 * [Brakeman](https://github.com/presidentbeef/brakeman)
@@ -672,6 +669,15 @@
 * [It's not your test framework, it's you - Robbie Clutton & Matt Parker (LA Ruby Conf 2013)](http://confreaks.com/videos/2313-larubyconf2013-it-s-not-your-test-framework-it-s-you)
 * [TDD: It's More Than Just "Testing" - Evan Light (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A05_EvanLight-SOR.mp4)
 * [Magic Tricks of Testing (RailsConf 2013) - Sandi Metz, slides](https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf)
+
+### RUBY - TESTING - CUCUMBER
+
+* [Cucumber backgrounder](https://github.com/cucumber/cucumber/wiki/Cucumber-Backgrounder)
+
+### RUBY - RSPEC
+
+* [David Chelimsky's "RSpec Toolbox" talk (WindyCityRails2012)](http://vimeo.com/50185518)
+* [API Dock (good for older versions of RSpec)](http://apidock.com/rspec/browse)
 
 ### RUBY - TOOLS
 
