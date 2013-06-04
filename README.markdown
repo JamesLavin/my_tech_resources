@@ -583,6 +583,7 @@
 * [RubyInside](http://www.rubyinside.com/)
 * [RubyFlow](http://www.rubyflow.com/)
 * [The Ruby Show (podcasts)](http://rubyshow.com/)
+* [Thoughtbot (podcasts)](http://learn.thoughtbot.com/podcast)
 * [TableXI.com](http://www.tablexi.com/blog/)
 
 ### RUBY - CLEAN CODE
