@@ -76,6 +76,7 @@
 
 * [Y Not? - Adventures in Functional Programming - Jim Weirich (ScotlandJS 2012)](https://vimeo.com/45140590) [RubyConf 2012](http://confreaks.com/videos/1287-rubyconf2012-y-not-adventures-in-functional-programming)
 * [Functional Thinking With Neal Ford](http://www.youtube.com/watch?v=JeK979aqqqc)
+* [Simple and Elegant Rails Code with Functional Style - Attila Domokos (RailsConf 2013)](http://confreaks.com/videos/2431-railsconf2013-simple-and-elegant-rails-code-with-functional-style)
 
 ## GIT
 
@@ -417,7 +418,8 @@
 * [Rails 4 Cheat Sheet (Cheatography)](http://www.cheatography.com/entaro/cheat-sheets/rails-4/)
 * [Ruby on Rails Tutorial - Michael Hartl (non-free)](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book) & [Rails 4](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=4.0)
 * [APIDock - Rails (good for legacy Rails)](http://apidock.com/rails/browse)
-* [](http://confreaks.com/videos/2426-railsconf2013-how-a-request-becomes-a-response)
+* [How a Request Becomes a Response - Christopher Greene, Aimee Simone (RailsConf 2013)](http://confreaks.com/videos/2426-railsconf2013-how-a-request-becomes-a-response)
+* [You've got a Sinatra on your Rails - Jose Valim (RailsConf 2013)](http://confreaks.com/videos/2442-railsconf2013-you-ve-got-a-sinatra-on-your-rails)
 
 ### RAILS 4
 
