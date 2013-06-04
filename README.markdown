@@ -768,7 +768,8 @@
 
 ## WEATHER (NOT PROGRAMMING-RELATED, JUST USEFUL & REALLY COOL)
 
-* [National Weather Service - Nationwide Radar Loop](http://radar.weather.gov/Conus/full_loop.php)
+* [National Weather Service - Nationwide radar loop](http://radar.weather.gov/Conus/full_loop.php)
+* [National Weather Service - New York metro radar loop](http://radar.weather.gov/ridge/radar.php?rid=okx&product=N0R&overlay=11101111&loop=yes)
 
 ## WEB DESIGN - RESPONSIVE DESIGN & PROGRESSIVE ENHANCEMENT
 
