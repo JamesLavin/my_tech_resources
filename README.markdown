@@ -347,6 +347,8 @@
 * [Keynote - Tom Preston-Werner (GitHub) (NLC 2011)](http://vimeo.com/35640883)
 * [Level Up! Test-driving your personal development - Alan Gardner (Scotland Ruby Conf 2011)](http://confreaks.com/videos/556-scotlandruby2011-level-up-test-driving-your-personal-development)
 * [Legacy - Chad Fowler (Aloha RubyConf 2012)](http://confreaks.com/videos/1240-aloharuby2012-legacy)
+* [Nobody will Train You but You - Zachary Briggs (RailsConf 2013)](http://confreaks.com/videos/2427-railsconf2013-nobody-will-train-you-but-you)
+* [The War For Talent: How To Succeed As an Employer or Engineer - Allan Grant (RailsConf 2013)](http://confreaks.com/videos/2523-railsconf2013-the-war-for-talent-how-to-succeed-as-an-employer-or-engineer)
 
 ### PRODUCT DEVELOPMENT - PEOPLE & PROCESS
 
@@ -413,8 +415,9 @@
 * [Ruby on Rails Guides](http://guides.rubyonrails.org/) & [2.3](http://guides.rubyonrails.org/v2.3.11/)
 * [Ruby on Rails (Edge) Guides](http://edgeguides.rubyonrails.org/)
 * [Rails 4 Cheat Sheet (Cheatography)](http://www.cheatography.com/entaro/cheat-sheets/rails-4/)
-* [Ruby on Rails Tutorial (Michael Hartl)](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book) & [Rails 4](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=4.0)
+* [Ruby on Rails Tutorial - Michael Hartl (non-free)](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book) & [Rails 4](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=4.0)
 * [APIDock - Rails (good for legacy Rails)](http://apidock.com/rails/browse)
+* [](http://confreaks.com/videos/2426-railsconf2013-how-a-request-becomes-a-response)
 
 ### RAILS 4
 
@@ -436,6 +439,7 @@
 * [Powerful Interfaces (Rails) - Caike Souza](http://confreaks.com/videos/902-railsconf2012-powerful-interfaces)
 * [Code to Joy - Avdi Grimm (GoGaRuCo 2012)](http://confreaks.com/videos/1117-gogaruco2012-code-to-joy)
 * [Break It Down - Ben Scofield (Ruby Midwest 2011)](http://confreaks.com/videos/756-rubymidwest2011-break-it-down)
+* [Patterns of Basecamp's Application Architecture - DHH (RailsConf 2013)](http://confreaks.com/videos/2422-railsconf2013-opening-keynote-patterns-of-basecamp-s-application-architecture)
 
 ### RAILS - DECORATORS
 
@@ -482,7 +486,7 @@
 
 * [DevOps for the Rubyist Soul (capistrano, puppet, puppet, git & vagrant)](http://confreaks.com/videos/2297-bigruby2013-devops-for-the-rubyist-soul)
 * [Five Things You Didn't Know About Chef](http://confreaks.com/videos/2301-bigruby2013-5-things-you-didn-t-know-about-chef)
-* [How Shopify Scales Rails](http://confreaks.com/videos/2303-bigruby2013-how-shopify-scales-rails)
+* [How Shopify Scales Rails - John Duff (BigRuby 2013)](http://confreaks.com/videos/2303-bigruby2013-how-shopify-scales-rails) & [RailsConf 2013](http://confreaks.com/videos/2423-railsconf2013-how-shopify-scales-rails)
 * [Scaling With Friends](http://confreaks.com/videos/2307-bigruby2013-scaling-with-friends)
 * [Services and Rails: The Shit They Don't Tell You](http://confreaks.com/videos/2299-bigruby2013-services-and-rails-the-shit-they-don-t-tell-you)
 
@@ -669,6 +673,7 @@
 * [It's not your test framework, it's you - Robbie Clutton & Matt Parker (LA Ruby Conf 2013)](http://confreaks.com/videos/2313-larubyconf2013-it-s-not-your-test-framework-it-s-you)
 * [TDD: It's More Than Just "Testing" - Evan Light (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A05_EvanLight-SOR.mp4)
 * [Magic Tricks of Testing (RailsConf 2013) - Sandi Metz, slides](https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf)
+* [Testing HTTP APIs in Ruby - Shai Rosenfeld (RailsConf 2013)](http://confreaks.com/videos/2432-railsconf2013-testing-http-apis-in-ruby)
 
 ### RUBY - TESTING - CUCUMBER
 
@@ -677,6 +682,7 @@
 ### RUBY - TESTING - RSPEC
 
 * [RSpec 2 documentation](https://www.relishapp.com/rspec)
+* [BDD and Acceptance Testing with RSpec & Capybara - Brian Sam-Bodden (RailsConf 2013)](http://confreaks.com/videos/2433-railsconf2013-bdd-and-acceptance-testing-with-rspec-capybara)
 * [David Chelimsky's "RSpec Toolbox" talk (WindyCityRails2012)](http://vimeo.com/50185518)
 * [API Dock (good for older versions of RSpec)](http://apidock.com/rspec/browse)
 * [RSpec 1.1.2 docs - (Incredibly, one of my job's apps still uses this!)](http://rspec.rubyforge.org/rspec/1.1.12/) & [1.1 - 1.3 documentation](http://rspec.rubyforge.org/rspec/)
