@@ -74,6 +74,7 @@
 
 ## FUNCTIONAL PROGRAMMING
 
+* [Functional Principles for OO Development - Jessica Kerr (Ruby MidWest 2013)](http://confreaks.com/videos/2382-rmw2013-functional-principles-for-oo-development)
 * [Y Not? - Adventures in Functional Programming - Jim Weirich (ScotlandJS 2012)](https://vimeo.com/45140590) [RubyConf 2012](http://confreaks.com/videos/1287-rubyconf2012-y-not-adventures-in-functional-programming)
 * [Functional Thinking With Neal Ford](http://www.youtube.com/watch?v=JeK979aqqqc)
 * [Simple and Elegant Rails Code with Functional Style - Attila Domokos (RailsConf 2013)](http://confreaks.com/videos/2431-railsconf2013-simple-and-elegant-rails-code-with-functional-style)
@@ -254,6 +255,7 @@
 * [Jasmine](http://pivotal.github.com/jasmine/)
 * [Konacha gem (Mocha + Chai)](https://github.com/jfirebaugh/konacha)
 * [75-minute Justin Searls screencast (non-standard; uses jasmine-fixture, jasmine-given & jasmine-stealth)](http://searls.testdouble.com/posts/2013-03-21-jasmine-tactics-screencast.html)
+* [Front-end Testing for Skeptics - Luke Francl (RailsConf 2013)](http://confreaks.com/videos/2437-railsconf2013-front-end-testing-for-skeptics)
 * [Unit Testing in JavaScript via Jasmine - Jesse Warden](http://www.youtube.com/watch?v=eVpXkyN0zOE)
 * [Test-Driving Javascript with Jasmine - Tim Tyrrell (AustinJS)](http://www.youtube.com/watch?v=CswgfGhnTg8)
 * [Testing Your JavaScript/CoffeeScript - Mark Bates - Part 1 (Setting Up)](http://www.informit.com/articles/printerfriendly.aspx?p=1925618) & [Part 2 (Writing Tests)](http://www.informit.com/articles/printerfriendly.aspx?p=1930036)
@@ -348,7 +350,7 @@
 * [Keynote - Tom Preston-Werner (GitHub) (NLC 2011)](http://vimeo.com/35640883)
 * [Level Up! Test-driving your personal development - Alan Gardner (Scotland Ruby Conf 2011)](http://confreaks.com/videos/556-scotlandruby2011-level-up-test-driving-your-personal-development)
 * [Legacy - Chad Fowler (Aloha RubyConf 2012)](http://confreaks.com/videos/1240-aloharuby2012-legacy)
-* [Nobody will Train You but You - Zachary Briggs (RailsConf 2013)](http://confreaks.com/videos/2427-railsconf2013-nobody-will-train-you-but-you)
+* [Nobody will Train You but You - Zachary Briggs (RailsConf 2013)](http://confreaks.com/videos/2427-railsconf2013-nobody-will-train-you-but-you) & [Ruby MidWest 2013](http://confreaks.com/videos/2381-rmw2013-nobody-will-train-you-but-you)
 * [The War For Talent: How To Succeed As an Employer or Engineer - Allan Grant (RailsConf 2013)](http://confreaks.com/videos/2523-railsconf2013-the-war-for-talent-how-to-succeed-as-an-employer-or-engineer)
 
 ### PRODUCT DEVELOPMENT - PEOPLE & PROCESS
@@ -357,6 +359,7 @@
 * [Rockstars & Consultants, Who needs 'em? - Lori Olson (Aloha RubyConf 2012)](http://confreaks.com/videos/1251-aloharuby2012-rockstars-consultants-who-needs-em)
 * [Does pair programming have to suck? - Angela Harms (Ruby Midwest 2011)](http://confreaks.com/videos/757-rubymidwest2011-does-pair-programming-have-to-suck)
 * [Joe O'Brien - People: the missing ingredient (GoGaRuCo2012)](http://confreaks.com/videos/1108-gogaruco2012-people-the-missing-ingredient)
+* [Must Have 10+ Years People Experience - Ashe Dryden (Ruby MidWest 2013)](http://confreaks.com/videos/2374-rmw2013-must-have-10-years-people-experience)
 * [The Future of Work: Back to First Principles - Scott Chacon (Barcelona RuCo 2012)](http://confreaks.com/videos/1324-baruco2012-keynote-back-to-first-principles) & [alt version](http://www.youtube.com/watch?v=2nK2sJqDe8w)
 * [Unsucking Your Team's Development Environment - Zach Holman (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=Xa8r2xcK1e4)
 * [Real Software Engineering - Glenn Vanderburg (Lone Star RubyConf 2010)](http://confreaks.com/videos/282-lsrc2010-real-software-engineering)
@@ -431,6 +434,7 @@
 ### RAILS - APIS (EXTERNAL)
 
 * [Matthew Bass PDF slide deck on creating Rails APIs](http://raleighrb.s3.amazonaws.com/2013-03-12_apis.pdf)
+* [Rails Vs. The Client Side - Noel Rappin (RailsConf 2013)](http://confreaks.com/videos/2447-railsconf2013-rails-vs-the-client-side)
 
 ### RAILS - CLEAN CODE
 
@@ -491,6 +495,10 @@
 * [How Shopify Scales Rails - John Duff (BigRuby 2013)](http://confreaks.com/videos/2303-bigruby2013-how-shopify-scales-rails) & [RailsConf 2013](http://confreaks.com/videos/2423-railsconf2013-how-shopify-scales-rails)
 * [Scaling With Friends](http://confreaks.com/videos/2307-bigruby2013-scaling-with-friends)
 * [Services and Rails: The Shit They Don't Tell You](http://confreaks.com/videos/2299-bigruby2013-services-and-rails-the-shit-they-don-t-tell-you)
+
+### RUBY - SECURITY
+
+* [Rails Application Security in Practice - Bryan Helmkamp (Ruby MidWest 2013)](http://confreaks.com/videos/2375-rmw2013-rails-application-security-in-practice)
 
 ### RAILS - UI
 
@@ -674,7 +682,7 @@
 
 * [It's not your test framework, it's you - Robbie Clutton & Matt Parker (LA Ruby Conf 2013)](http://confreaks.com/videos/2313-larubyconf2013-it-s-not-your-test-framework-it-s-you)
 * [TDD: It's More Than Just "Testing" - Evan Light (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A05_EvanLight-SOR.mp4)
-* [Magic Tricks of Testing (RailsConf 2013) - Sandi Metz, slides](https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf)
+* [Magic Tricks of Testing - Sandi Metz (RailsConf 2013)](http://confreaks.com/videos/2452-railsconf2013-the-magic-tricks-of-testing) & [slides](https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf)
 * [Testing HTTP APIs in Ruby - Shai Rosenfeld (RailsConf 2013)](http://confreaks.com/videos/2432-railsconf2013-testing-http-apis-in-ruby)
 
 ### RUBY - TESTING - CUCUMBER
