@@ -447,10 +447,6 @@
 * [Break It Down - Ben Scofield (Ruby Midwest 2011)](http://confreaks.com/videos/756-rubymidwest2011-break-it-down)
 * [Patterns of Basecamp's Application Architecture - DHH (RailsConf 2013)](http://confreaks.com/videos/2422-railsconf2013-opening-keynote-patterns-of-basecamp-s-application-architecture)
 
-### RAILS - DECORATORS
-
-* [Tidy views and beyond with Decorators (Thoughtbot)](http://robots.thoughtbot.com/post/13641910701/tidy-views-and-beyond-with-decorators)
-
 ### RAILS - ENGINES
 
 * [Ruby-Toolbox - Testing Rails Engines](https://www.ruby-toolbox.com/categories/Testing_Rails_Engines)
@@ -507,6 +503,11 @@
 ### RAILS - UPGRADING
 
 * [Rails-Upgrade-Checklist](www.rails-upgrade-checklist.com)
+
+### RAILS - VIEWS
+
+* [Maintainable Templates - Brendan Loudermilk (RailsConf 2013)](http://confreaks.com/videos/2429-railsconf2013-maintainable-templates)
+* [Tidy Views and Beyond With Decorators (Thoughtbot)](http://robots.thoughtbot.com/post/13641910701/tidy-views-and-beyond-with-decorators)
 
 ### RAILS - WEBSERVERS
 
