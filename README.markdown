@@ -496,7 +496,7 @@
 * [Scaling With Friends](http://confreaks.com/videos/2307-bigruby2013-scaling-with-friends)
 * [Services and Rails: The Shit They Don't Tell You](http://confreaks.com/videos/2299-bigruby2013-services-and-rails-the-shit-they-don-t-tell-you)
 
-### RUBY - SECURITY
+### RAILS - SECURITY
 
 * [Rails Application Security in Practice - Bryan Helmkamp (Ruby MidWest 2013)](http://confreaks.com/videos/2375-rmw2013-rails-application-security-in-practice)
 
@@ -571,6 +571,7 @@
 ### RUBY - CLEAN CODE
 
 * [bbatsov / ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
+* [Code Smells: Your Refactoring Cheat Codes - John Pignata (MountainWest RubyConf 2013)](http://confreaks.com/videos/2336-mwrc2013-code-smells-your-refactoring-cheat-codes)
 * [Avdi Grimm's "Naught" gem](https://github.com/avdi/naught), ["Null Objects and Falsiness"](http://devblog.avdi.org/2011/05/30/null-objects-and-falsiness/), and [two papers](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf) & [explaining the null object pattern](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf)
 * [Refactoring Fat Models with Patterns](http://www.confreaks.com/videos/2290-larubyconf2013-refactoring-fat-models-with-patterns)
 * [Building a Ruby Library, the Parts No One Talks About - Mitchell Hashimoto (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1246-aloharuby2012-building-a-ruby-library-the-parts-no-one-talks-about)
