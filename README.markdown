@@ -430,6 +430,7 @@
 * [Real Time Salami - Aaron Patterson (RubyConf 2012)](http://confreaks.com/videos/1291-rubyconf2012-real-time-salami)
 * [Rails 4.0 Whirlwind Tour - Andy Lindeman](http://vimeo.com/51181496)
 * [EdgeRails.info](http://www.edgerails.info/)
+* [Real-Time Rails - Brian Cardarella (RailsConf 2013)](http://confreaks.com/videos/2438-railsconf2013-real-time-rails)
 
 ### RAILS - APIS (EXTERNAL)
 
@@ -438,6 +439,7 @@
 
 ### RAILS - CLEAN CODE
 
+* [Building Extractable Libraries in Rails - Patrick S. Robertson (RailsConf 2013)](http://confreaks.com/videos/2444-railsconf2013-building-extractable-libraries-in-rails)
 * [Ruby-Toolbox - Presenters](https://www.ruby-toolbox.com/categories/rails_presenters)
 * [Ruby-Toolbox - Template Engines](https://www.ruby-toolbox.com/categories/template_engines)
 * [7 Ways to Decompose Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
@@ -495,6 +497,10 @@
 ### RAILS - SECURITY
 
 * [Rails Application Security in Practice - Bryan Helmkamp (Ruby MidWest 2013)](http://confreaks.com/videos/2375-rmw2013-rails-application-security-in-practice)
+
+### RAILS - TESTING
+
+* [TDD Workshop: Outward-in Development, Unit Tests, and Fixture Data - Harlow Ward and Adarsh Pandit (RailsConf 2013)](http://confreaks.com/videos/2450-railsconf2013-tdd-workshop-outward-in-development-unit-tests-and-fixture-data)
 
 ### RAILS - UI
 
@@ -645,6 +651,10 @@
 * [Ruby-Toolkit - Reporting](https://www.ruby-toolbox.com/categories/reporting)
 * [Ruby-Toolkit - Visualizing Data](https://www.ruby-toolbox.com/categories/visualizing_data)
 * [Ruby-Toolkit - Web Analytics](https://www.ruby-toolbox.com/categories/Web_Analytics)
+
+### RUBY - NATURAL LANGUAGE PROCESSING
+
+* [Natural Language Processing with Ruby - Brandon Black (RailsConf 2013)](http://confreaks.com/videos/2440-railsconf2013-natural-language-processing-with-ruby)
 
 ### RUBY - PERFORMANCE & LOAD TESTING
 
