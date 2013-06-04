@@ -60,6 +60,7 @@
 * [BOSH](https://github.com/cloudfoundry/bosh)
 * [Capistrano](https://github.com/capistrano/capistrano)
 * [Chef](http://www.opscode.com/chef/)
+* [Testing Your Automation: TTD for Chef Cookbooks - Nathen Harvey (BigRuby 2013)](http://confreaks.com/videos/2309-bigruby2013-testing-your-automation-ttd-for-chef-cookbooks)
 * [Heroku](http://www.heroku.com/) | [Tddium](https://devcenter.heroku.com/articles/tddium)
 * [Puppet](http://puppetlabs.com/)
 * https://www.ruby-toolbox.com/categories/deployment_automation
@@ -352,6 +353,8 @@
 * [Level Up! Test-driving your personal development - Alan Gardner (Scotland Ruby Conf 2011)](http://confreaks.com/videos/556-scotlandruby2011-level-up-test-driving-your-personal-development)
 * [Legacy - Chad Fowler (Aloha RubyConf 2012)](http://confreaks.com/videos/1240-aloharuby2012-legacy)
 * [Nobody will Train You but You - Zachary Briggs (RailsConf 2013)](http://confreaks.com/videos/2427-railsconf2013-nobody-will-train-you-but-you) & [Ruby MidWest 2013](http://confreaks.com/videos/2381-rmw2013-nobody-will-train-you-but-you)
+* [Build a Bigger Brain: How Healthy Living Makes You Smarter - Joe Kutner (BigRuby 2013)](http://confreaks.com/videos/2304-bigruby2013-build-a-bigger-brain-how-healthy-living-makes-you-smarter)
+* [The Most Important Optimization: Happiness (BigRuby 2013)](http://confreaks.com/videos/2311-bigruby2013-the-most-important-optimization-happiness)
 * [The War For Talent: How To Succeed As an Employer or Engineer - Allan Grant (RailsConf 2013)](http://confreaks.com/videos/2523-railsconf2013-the-war-for-talent-how-to-succeed-as-an-employer-or-engineer)
 
 ### PRODUCT DEVELOPMENT - PEOPLE & PROCESS
@@ -549,6 +552,7 @@
 
 ### RUBY - ASYNCHRONOUS/EVENTED
 
+* [The Celluloid Ecosystem - Tony Arcieri (RubyConf 2012)](http://confreaks.com/videos/1302-rubyconf2012-the-celluloid-ecosystem)
 * [Ruby-Toolkit - Background Jobs](https://www.ruby-toolbox.com/categories/Background_Jobs)
 * [Ruby-Toolkit - Concurrent Processing](https://www.ruby-toolbox.com/categories/Concurrent_Processing)
 * [Ruby-Toolkit - Recurring Events](https://www.ruby-toolbox.com/categories/recurring_events)
@@ -565,6 +569,10 @@
 ### RUBY - BACKUP & DISASTER RECOVERY
 
 * https://www.ruby-toolbox.com/categories/backups
+
+### RUBY - BLOCKS
+
+* [Dissecting a Ruby Block - Pat Shaughnessy (RubyConf 2012)](http://confreaks.com/videos/1286-rubyconf2012-dissecting-a-ruby-block)
 
 ### RUBY - BLOGS
 
@@ -587,7 +595,7 @@
 * [Building a Ruby Library, the Parts No One Talks About - Mitchell Hashimoto (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1246-aloharuby2012-building-a-ruby-library-the-parts-no-one-talks-about)
 * [Life on the Edge - James Edward Gray II (Ruby Midwest 2011)](http://confreaks.com/videos/767-rubymidwest2011-life-on-the-edge)
 * [Confident Code - Avdi Grimm (Ruby Midwest 2011)](http://confreaks.com/videos/763-rubymidwest2011-confident-code)
-* [Thinking in Objects - Josh Susser (Steel City Ruby 2012)](http://confreaks.com/videos/1133-scrc2012-thinking-in-objects)
+* [Thinking in Objects - Josh Susser (Steel City Ruby 2012)](http://confreaks.com/videos/1133-scrc2012-thinking-in-objects) & [RailsConf 2012](http://confreaks.com/videos/1315-rubyconf2012-thinking-in-objects)
 * [Making Little Classes out of Big Ones - Avdi Grimm (Hashrocket Lunch n' Learn)](http://vimeo.com/42622511)
 * [How to build, use and grow internal tools - Keavy McMinn (RubyConf 2012)](http://confreaks.com/videos/1292-rubyconf2012-how-to-build-use-and-grow-internal-tools)
 * [Better Ruby Through Design Principles - Mike Gehard (MountainWest Ruby Conf 2012)](http://confreaks.com/videos/957-mwrc2012-better-ruby-through-design-principles)
@@ -601,6 +609,7 @@
 * [Simulating the World with Ruby - Bryan Liles (MadisonRuby 2012)](http://confreaks.com/videos/1088-madisonruby2012-simulating-the-world-with-ruby)
 * [Literary Criticism for the Idle Programmer - Roland Swingler (Scotland Ruby Conf 2011)](http://confreaks.com/videos/548-scotlandruby2011-literary-criticism-for-the-idle-programmer)
 * [Building Blocks of Modularity - Jim Weirich (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A03_JimWeirich-SOR.mp4)
+* [The Insufficiency of Good Design - Sarah Mei (RubyConf 2012)](http://confreaks.com/videos/1304-rubyconf2012-the-insufficiency-of-good-design)
 
 ### RUBY - DEBUGGING
 
@@ -617,6 +626,7 @@
 * [Facing the Monolith: Overcoming Monolithic Applications with SOA - Charles Max Wood (Aloha RubyConf 2012)](http://confreaks.com/videos/1249-aloharuby2012-facing-the-monolith-overcoming-monolithic-applications-with-soa)
 * [Far and Away (A Tour of Distributed Programming with Ruby) - Mark Bates (RubyConf 2010)](http://www.confreaks.com/videos/455-rubyconf2010-far-and-away-a-tour-of-distributed-programming-with-ruby)
 * [Debugging Large Scale Service Oriented Systems - Andy Delcambre (CascadiaRuby 2012)](http://confreaks.com/videos/1068-cascadiaruby2012-debugging-large-scale-service-oriented-systems)
+* [Service Oriented Architecture at Square - Chris Hunt (RubyConf 2012)](http://confreaks.com/videos/1273-rubyconf2012-service-oriented-architecture-at-square)
 
 ### RUBY - FEATURES
 
@@ -678,7 +688,7 @@
 
 * [Code Smells: Your Refactoring Cheat Codes - John Pignata (MountainWest RubyConf 2013)](http://confreaks.com/videos/2336-mwrc2013-code-smells-your-refactoring-cheat-codes)
 * [Therapeutic Refactoring - Katrina Owen (CascadiaRuby 2012)](http://confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring)
-* [Refactoring from Good to Great - Ben Orenstein (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1233-aloharuby2012-refactoring-from-good-to-great)
+* [Refactoring from Good to Great - Ben Orenstein (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1233-aloharuby2012-refactoring-from-good-to-great) & [RubyConf 2012](http://confreaks.com/videos/1283-rubyconf2012-refactoring-from-good-to-great)
 
 ### RUBY - SECURITY
 
@@ -698,7 +708,9 @@
 * [It's not your test framework, it's you - Robbie Clutton & Matt Parker (LA Ruby Conf 2013)](http://confreaks.com/videos/2313-larubyconf2013-it-s-not-your-test-framework-it-s-you)
 * [TDD: It's More Than Just "Testing" - Evan Light (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A05_EvanLight-SOR.mp4)
 * [Magic Tricks of Testing - Sandi Metz (RailsConf 2013)](http://confreaks.com/videos/2452-railsconf2013-the-magic-tricks-of-testing) & [slides](https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf)
+* [Testing Should Be Fun - Noel Rappin (RailsConf 2012)](http://confreaks.com/videos/1306-rubyconf2012-testing-should-be-fun)
 * [Testing HTTP APIs in Ruby - Shai Rosenfeld (RailsConf 2013)](http://confreaks.com/videos/2432-railsconf2013-testing-http-apis-in-ruby)
+* [Boundaries - Gary Bernhardt (RailsConf 2012)](http://confreaks.com/videos/1314-rubyconf2012-boundaries)
 * [Going on a Testing Anti-Pattern Safari - Aja Hammerly (MountainWest RubyConf 2013)](http://confreaks.com/videos/2345-mwrc2013-going-on-a-testing-anti-pattern-safari)
 
 ### RUBY - TESTING - CUCUMBER
