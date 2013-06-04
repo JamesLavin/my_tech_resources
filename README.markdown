@@ -493,7 +493,7 @@
 * [Five Things You Didn't Know About Chef](http://confreaks.com/videos/2301-bigruby2013-5-things-you-didn-t-know-about-chef)
 * [How Shopify Scales Rails - John Duff (BigRuby 2013)](http://confreaks.com/videos/2303-bigruby2013-how-shopify-scales-rails) & [RailsConf 2013](http://confreaks.com/videos/2423-railsconf2013-how-shopify-scales-rails)
 * [Scaling With Friends](http://confreaks.com/videos/2307-bigruby2013-scaling-with-friends)
-* [Services and Rails: The Shit They Don't Tell You](http://confreaks.com/videos/2299-bigruby2013-services-and-rails-the-shit-they-don-t-tell-you)
+* [Services and Rails: The Shit They Don't Tell You - Brian Morton (BigRuby 2013)](http://confreaks.com/videos/2299-bigruby2013-services-and-rails-the-shit-they-don-t-tell-you) & [Ruby On Ales 2013](http://confreaks.com/videos/2319-roa2013-services-and-rails-the-shit-they-don-t-tell-you)
 
 ### RAILS - SECURITY
 
@@ -535,7 +535,7 @@
 * [Tracing Your Way Through Ruby (BaRuCo 2012)](http://www.youtube.com/watch?v=CvzEibqrriM)i
 * [10 Things You Didn't Know Ruby Could Do - @JEG2](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do)
 * [Ruby Safari - Ola Bini (Ruby Midwest 2011)](http://confreaks.com/videos/750-rubymidwest2011-ruby-safari)
-* [Ruby, Code, Threads, Events and Flying Robots [using EventMachine & Celluloid] (Jim Weirich)](http://confreaks.com/videos/2296-bigruby2013-keynote)
+* [Ruby, Code, Threads, Events and Flying Robots using EventMachine & Celluloid - Jim Weirich (BigRuby 2013)](http://confreaks.com/videos/2296-bigruby2013-keynote)
 * [APIDock - Ruby (good for legacy Ruby)](http://apidock.com/ruby/browse)
 
 ### RUBY - 2.0
