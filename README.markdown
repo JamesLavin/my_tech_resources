@@ -676,8 +676,10 @@
 
 ### RUBY - RSPEC
 
+* [RSpec 2 documentation](https://www.relishapp.com/rspec)
 * [David Chelimsky's "RSpec Toolbox" talk (WindyCityRails2012)](http://vimeo.com/50185518)
 * [API Dock (good for older versions of RSpec)](http://apidock.com/rspec/browse)
+* [RSpec 1.1.2 docs - (Incredibly, one of my job's apps still uses this!)](http://rspec.rubyforge.org/rspec/1.1.12/) & [1.1 - 1.3 documentation](http://rspec.rubyforge.org/rspec/)
 
 ### RUBY - TOOLS
 
