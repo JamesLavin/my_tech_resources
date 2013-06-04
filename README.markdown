@@ -75,6 +75,7 @@
 ## FUNCTIONAL PROGRAMMING
 
 * [Functional Principles for OO Development - Jessica Kerr (Ruby MidWest 2013)](http://confreaks.com/videos/2382-rmw2013-functional-principles-for-oo-development)
+* [Immutable Ruby - Michael Fairley (MountainWest RubyConf 2013)](http://confreaks.com/videos/2337-mwrc2013-immutable-ruby)
 * [Y Not? - Adventures in Functional Programming - Jim Weirich (ScotlandJS 2012)](https://vimeo.com/45140590) [RubyConf 2012](http://confreaks.com/videos/1287-rubyconf2012-y-not-adventures-in-functional-programming)
 * [Functional Thinking With Neal Ford](http://www.youtube.com/watch?v=JeK979aqqqc)
 * [Simple and Elegant Rails Code with Functional Style - Attila Domokos (RailsConf 2013)](http://confreaks.com/videos/2431-railsconf2013-simple-and-elegant-rails-code-with-functional-style)
@@ -540,6 +541,7 @@
 ### RUBY - 2.0
 
 * [Ruby 2.0 on Rails - Akira Matsuda (RubyConf 2012)](http://confreaks.com/videos/1275-rubyconf2012-ruby-2-0-on-rails)
+* [Ruby 2.0 - Matz (MountainWest RubyConf 2013)](http://confreaks.com/videos/2334-mwrc2013-ruby-2-0)
 
 ### RUBY - ACTIVE RECORD
 
@@ -580,6 +582,7 @@
 * [bbatsov / ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
 * [Code Smells: Your Refactoring Cheat Codes - John Pignata (MountainWest RubyConf 2013)](http://confreaks.com/videos/2336-mwrc2013-code-smells-your-refactoring-cheat-codes)
 * [Avdi Grimm's "Naught" gem](https://github.com/avdi/naught), ["Null Objects and Falsiness"](http://devblog.avdi.org/2011/05/30/null-objects-and-falsiness/), and [two papers](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf) & [explaining the null object pattern](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf)
+* [Component-based Architectures in Ruby and Rails - Stephan Hagemann (MountainWest RubyConf 2013)](http://confreaks.com/videos/2350-mwrc2013-component-based-architectures-in-ruby-and-rails)
 * [Refactoring Fat Models with Patterns](http://www.confreaks.com/videos/2290-larubyconf2013-refactoring-fat-models-with-patterns)
 * [Building a Ruby Library, the Parts No One Talks About - Mitchell Hashimoto (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1246-aloharuby2012-building-a-ruby-library-the-parts-no-one-talks-about)
 * [Life on the Edge - James Edward Gray II (Ruby Midwest 2011)](http://confreaks.com/videos/767-rubymidwest2011-life-on-the-edge)
@@ -696,6 +699,7 @@
 * [TDD: It's More Than Just "Testing" - Evan Light (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A05_EvanLight-SOR.mp4)
 * [Magic Tricks of Testing - Sandi Metz (RailsConf 2013)](http://confreaks.com/videos/2452-railsconf2013-the-magic-tricks-of-testing) & [slides](https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf)
 * [Testing HTTP APIs in Ruby - Shai Rosenfeld (RailsConf 2013)](http://confreaks.com/videos/2432-railsconf2013-testing-http-apis-in-ruby)
+* [Going on a Testing Anti-Pattern Safari - Aja Hammerly (MountainWest RubyConf 2013)](http://confreaks.com/videos/2345-mwrc2013-going-on-a-testing-anti-pattern-safari)
 
 ### RUBY - TESTING - CUCUMBER
 
