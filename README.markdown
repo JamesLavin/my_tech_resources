@@ -291,6 +291,7 @@
 ### JRUBY - TORQUEBOX
 
 * [Complex Made Simple: Sleep Better with TorqueBox - Lance Ball (RailsConf 2012)](http://confreaks.com/videos/912-railsconf2012-complex-made-simple-sleep-better-with-torquebox)
+* [TorqueBox - Kevin Menard (BostonRB.org)](http://bostonrb.org/presentations/torquebox)
 
 ## LINUX
 
@@ -440,6 +441,7 @@
 * [Rails 4.0 Whirlwind Tour - Andy Lindeman](http://vimeo.com/51181496)
 * [EdgeRails.info](http://www.edgerails.info/)
 * [Real-Time Rails - Brian Cardarella (RailsConf 2013)](http://confreaks.com/videos/2438-railsconf2013-real-time-rails)
+* [What to Expect in Rails 4.0 - Prem Sichanugrist (BostonRB.org)](http://bostonrb.org/presentations/what-to-expect-in-rails-40)
 
 ### RAILS - APIS (EXTERNAL)
 
@@ -550,6 +552,7 @@
 
 * [Ruby 2.0 on Rails - Akira Matsuda (RubyConf 2012)](http://confreaks.com/videos/1275-rubyconf2012-ruby-2-0-on-rails)
 * [Ruby 2.0 - Matz (MountainWest RubyConf 2013)](http://confreaks.com/videos/2334-mwrc2013-ruby-2-0)
+* [What's new in Ruby 2.0 - Patrick Robertson (BostonRB.org)](http://bostonrb.org/presentations/whats-new-in-ruby-20)
 
 ### RUBY - ACTIVE RECORD
 
@@ -577,7 +580,7 @@
 
 ### RUBY - BLOCKS
 
-* [Dissecting a Ruby Block - Pat Shaughnessy (RubyConf 2012)](http://confreaks.com/videos/1286-rubyconf2012-dissecting-a-ruby-block)
+* [Dissecting a Ruby Block - Pat Shaughnessy (RubyConf 2012)](http://confreaks.com/videos/1286-rubyconf2012-dissecting-a-ruby-block) & [BostonRB.org](http://bostonrb.org/presentations/dissecting-a-ruby-block)
 
 ### RUBY - BLOGS
 
@@ -599,6 +602,7 @@
 * [Component-based Architectures in Ruby and Rails - Stephan Hagemann (MountainWest RubyConf 2013)](http://confreaks.com/videos/2350-mwrc2013-component-based-architectures-in-ruby-and-rails)
 * [Refactoring Fat Models with Patterns](http://www.confreaks.com/videos/2290-larubyconf2013-refactoring-fat-models-with-patterns)
 * [Building a Ruby Library, the Parts No One Talks About - Mitchell Hashimoto (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1246-aloharuby2012-building-a-ruby-library-the-parts-no-one-talks-about)
+* [The Value of Value Objects - Jeremy Weiskotten (BostonRB.org)](http://bostonrb.org/presentations/the-value-of-value-objects)
 * [Life on the Edge - James Edward Gray II (Ruby Midwest 2011)](http://confreaks.com/videos/767-rubymidwest2011-life-on-the-edge)
 * [Confident Code - Avdi Grimm (Ruby Midwest 2011)](http://confreaks.com/videos/763-rubymidwest2011-confident-code)
 * [Thinking in Objects - Josh Susser (Steel City Ruby 2012)](http://confreaks.com/videos/1133-scrc2012-thinking-in-objects) & [RailsConf 2012](http://confreaks.com/videos/1315-rubyconf2012-thinking-in-objects)
@@ -638,6 +642,7 @@
 
 * [Building modular, scalable web apps? Of CORS! (Cross-domain AJAX requests) - Michael Bleigh (RubyConf 2012)](http://confreaks.com/videos/1285-rubyconf2012-building-modular-scalable-web-apps-of-cors)
 * [Ruby Tapas (only some free) - Avdi Grimm](http://www.rubytapas.com/episodes)
+* [The Well-Grounded Nuby - David A. Black (BostonRB.org)](http://bostonrb.org/presentations/the-well-grounded-nuby)
 
 ### RUBY - FUN
 
@@ -693,6 +698,7 @@
 ### RUBY - REFACTORING
 
 * [Code Smells: Your Refactoring Cheat Codes - John Pignata (MountainWest RubyConf 2013)](http://confreaks.com/videos/2336-mwrc2013-code-smells-your-refactoring-cheat-codes)
+* [Refactoring - A Live Coding Odyssey - Ben Orenstein (BostonRB.org)](http://bostonrb.org/presentations/refactoring-a-live-coding-odyssey)
 * [Therapeutic Refactoring - Katrina Owen (CascadiaRuby 2012)](http://confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring)
 * [Refactoring from Good to Great - Ben Orenstein (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1233-aloharuby2012-refactoring-from-good-to-great) & [RubyConf 2012](http://confreaks.com/videos/1283-rubyconf2012-refactoring-from-good-to-great)
 
@@ -718,6 +724,11 @@
 * [Testing HTTP APIs in Ruby - Shai Rosenfeld (RailsConf 2013)](http://confreaks.com/videos/2432-railsconf2013-testing-http-apis-in-ruby)
 * [Boundaries - Gary Bernhardt (RailsConf 2012)](http://confreaks.com/videos/1314-rubyconf2012-boundaries)
 * [Going on a Testing Anti-Pattern Safari - Aja Hammerly (MountainWest RubyConf 2013)](http://confreaks.com/videos/2345-mwrc2013-going-on-a-testing-anti-pattern-safari)
+* [Tddium - William Josephson (BostonRB.org)](http://bostonrb.org/presentations/tddium)
+
+### RUBY - TESTING - CAPYBARA
+
+* [Introduction To Integration Testing - Jason Draper (BostonRB.org)](http://bostonrb.org/presentations/introduction-to-integration-testing)
 
 ### RUBY - TESTING - CUCUMBER
 
