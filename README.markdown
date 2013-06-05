@@ -451,8 +451,6 @@
 ### RAILS - CLEAN CODE
 
 * [Building Extractable Libraries in Rails - Patrick S. Robertson (RailsConf 2013)](http://confreaks.com/videos/2444-railsconf2013-building-extractable-libraries-in-rails)
-* [Ruby-Toolbox - Presenters](https://www.ruby-toolbox.com/categories/rails_presenters)
-* [Ruby-Toolbox - Template Engines](https://www.ruby-toolbox.com/categories/template_engines)
 * [7 Ways to Decompose Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
 * [Mega Rails - Jack Danger Canty (GoGaRuCo 2012)](http://confreaks.com/videos/1125-gogaruco2012-mega-rails)
 * [Powerful Interfaces (Rails) - Caike Souza](http://confreaks.com/videos/902-railsconf2012-powerful-interfaces)
@@ -523,9 +521,12 @@
 
 ### RAILS - VIEWS
 
-* [Maintainable Templates - Brendan Loudermilk (RailsConf 2013)](http://confreaks.com/videos/2429-railsconf2013-maintainable-templates)
+* [Maintainable Templates - Brendan Loudermilk (RailsConf 2013)](http://confreaks.com/videos/2429-railsconf2013-maintainable-templates) & [slides](https://github.com/bloudermilk/maintainable_templates/blob/master/slides.md)
+* [A Pattern for Rails Presenters - Derek Hammer](http://www.derekhammer.com/2012/11/06/a-pattern-for-rails-presenters)
 * [Tidy Views and Beyond With Decorators (Thoughtbot)](http://robots.thoughtbot.com/post/13641910701/tidy-views-and-beyond-with-decorators)
 * [Decorators in Rails - Dan Croak (BostonRB.org)](http://bostonrb.org/presentations/decorators-in-rails)
+* [Ruby-Toolbox - Presenters](https://www.ruby-toolbox.com/categories/rails_presenters)
+* [Ruby-Toolbox - Template Engines](https://www.ruby-toolbox.com/categories/template_engines)
 
 ### RAILS - WEBSERVERS
 
