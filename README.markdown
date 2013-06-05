@@ -409,6 +409,10 @@
 * [Creating R Packages: A Tutorial](http://cran.r-project.org/doc/contrib/Leisch-CreatingPackages.pdf)
 * [Econometrics in R](http://cran.r-project.org/doc/contrib/Farnsworth-EconometricsInR.pdf)
 
+### R - GGPLOT2
+
+* [2-hr talk on "Visualising data with ggplot2" by creator Hadley Wickham](http://www.mathtube.org/lecture/video/visualising-data-ggplot2)
+
 ### R - SEARCH
 * [RSeek.org](http://www.rseek.org/)
 * [R Site Search](http://finzi.psych.upenn.edu/search.html)
