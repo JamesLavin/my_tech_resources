@@ -525,6 +525,7 @@
 
 * [Maintainable Templates - Brendan Loudermilk (RailsConf 2013)](http://confreaks.com/videos/2429-railsconf2013-maintainable-templates)
 * [Tidy Views and Beyond With Decorators (Thoughtbot)](http://robots.thoughtbot.com/post/13641910701/tidy-views-and-beyond-with-decorators)
+* [Decorators in Rails - Dan Croak (BostonRB.org)](http://bostonrb.org/presentations/decorators-in-rails)
 
 ### RAILS - WEBSERVERS
 
@@ -594,10 +595,13 @@
 * [Thoughtbot (podcasts)](http://learn.thoughtbot.com/podcast)
 * [TableXI.com](http://www.tablexi.com/blog/)
 
+### RUBY - BUNDLER
+
+* [Bundler 1.1 - Pat Shaughnessy (BostonRB.org)](http://bostonrb.org/presentations/bundler-11)
+
 ### RUBY - CLEAN CODE
 
 * [bbatsov / ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
-* [Code Smells: Your Refactoring Cheat Codes - John Pignata (MountainWest RubyConf 2013)](http://confreaks.com/videos/2336-mwrc2013-code-smells-your-refactoring-cheat-codes)
 * [Avdi Grimm's "Naught" gem](https://github.com/avdi/naught), ["Null Objects and Falsiness"](http://devblog.avdi.org/2011/05/30/null-objects-and-falsiness/), and [two papers](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf) & [explaining the null object pattern](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf)
 * [Component-based Architectures in Ruby and Rails - Stephan Hagemann (MountainWest RubyConf 2013)](http://confreaks.com/videos/2350-mwrc2013-component-based-architectures-in-ruby-and-rails)
 * [Refactoring Fat Models with Patterns](http://www.confreaks.com/videos/2290-larubyconf2013-refactoring-fat-models-with-patterns)
@@ -698,6 +702,7 @@
 ### RUBY - REFACTORING
 
 * [Code Smells: Your Refactoring Cheat Codes - John Pignata (MountainWest RubyConf 2013)](http://confreaks.com/videos/2336-mwrc2013-code-smells-your-refactoring-cheat-codes)
+* [Transforming Ruby Code - Ben Hughes (BostonRB.org)](http://bostonrb.org/presentations/transforming-ruby-code)
 * [Refactoring - A Live Coding Odyssey - Ben Orenstein (BostonRB.org)](http://bostonrb.org/presentations/refactoring-a-live-coding-odyssey)
 * [Therapeutic Refactoring - Katrina Owen (CascadiaRuby 2012)](http://confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring)
 * [Refactoring from Good to Great - Ben Orenstein (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1233-aloharuby2012-refactoring-from-good-to-great) & [RubyConf 2012](http://confreaks.com/videos/1283-rubyconf2012-refactoring-from-good-to-great)
