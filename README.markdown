@@ -523,8 +523,11 @@
 
 * [Maintainable Templates - Brendan Loudermilk (RailsConf 2013)](http://confreaks.com/videos/2429-railsconf2013-maintainable-templates) & [slides](https://github.com/bloudermilk/maintainable_templates/blob/master/slides.md)
 * [A Pattern for Rails Presenters - Derek Hammer](http://www.derekhammer.com/2012/11/06/a-pattern-for-rails-presenters)
-* [Tidy Views and Beyond With Decorators (Thoughtbot)](http://robots.thoughtbot.com/post/13641910701/tidy-views-and-beyond-with-decorators)
+* [Tidy Views and Beyond With Decorators - Dan Croak (Thoughtbot)](http://robots.thoughtbot.com/post/13641910701/tidy-views-and-beyond-with-decorators)
 * [Decorators in Rails - Dan Croak (BostonRB.org)](http://bostonrb.org/presentations/decorators-in-rails)
+* [Decorator and Presenter Patterns in Rails 3.2.x - Michael de Silva](http://mwdesilva.com/posts/63-decorator-and-presenter-patterns-in-rails-3-2-x)
+* [Evaluating alternative Decorator implementations in Ruby - Thoughtbot](http://robots.thoughtbot.com/post/14825364877/evaluating-alternative-decorator-implementations-in)
+* [Exhibit vs Presenter - Mike Pack](http://mikepackdev.com/blog_posts/31-exhibit-vs-presenter)
 * [Ruby-Toolbox - Presenters](https://www.ruby-toolbox.com/categories/rails_presenters)
 * [Ruby-Toolbox - Template Engines](https://www.ruby-toolbox.com/categories/template_engines)
 
