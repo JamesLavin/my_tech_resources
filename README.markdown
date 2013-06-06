@@ -139,6 +139,7 @@
 ## JAVASCRIPT
 
 * [Eloquent Javascript](http://eloquentjavascript.net/)
+* [Learning JavaScript Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [SuperheroJS - curated JavaScript links](http://superherojs.com/)
 * [JavascriptJabber.com (podcasts)](http://javascriptjabber.com/)
 * [The Javascript Show (podcasts)](http://javascriptshow.com/episodes)
