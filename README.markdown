@@ -528,6 +528,7 @@
 * [Decorator and Presenter Patterns in Rails 3.2.x - Michael de Silva](http://mwdesilva.com/posts/63-decorator-and-presenter-patterns-in-rails-3-2-x)
 * [Evaluating alternative Decorator implementations in Ruby - Thoughtbot](http://robots.thoughtbot.com/post/14825364877/evaluating-alternative-decorator-implementations-in)
 * [Exhibit vs Presenter - Mike Pack](http://mikepackdev.com/blog_posts/31-exhibit-vs-presenter)
+* [Draper - Railscasts](http://railscasts.com/episodes/286-draper) & [Presenters from Scratch - Railscasts (non-free)](http://railscasts.com/episodes/287-presenters-from-scratch)
 * [Ruby-Toolbox - Presenters](https://www.ruby-toolbox.com/categories/rails_presenters)
 * [Ruby-Toolbox - Template Engines](https://www.ruby-toolbox.com/categories/template_engines)
 
