@@ -209,6 +209,7 @@
 
 #### JAVASCRIPT - BLOGS
 
+* [Reginald Braithwaite](http://braythwayt.com/)
 * [JavaScript Playground](http://javascriptplayground.com/blog)
 
 ### JAVASCRIPT - CLEAN CODE
@@ -802,15 +803,16 @@
 
 * [VimDoc](http://vimdoc.sourceforge.net/htmldoc/)
 * [vim.wikia.com](http://vim.wikia.com/wiki/Vim_documentation)
+* [Vimcasts.org](http://vimcasts.org/)
+* [Vim London videos](http://vimeo.com/vimlondon/videos)
+* [VimNinjas.com](http://www.vimninjas.com/)
+* [OpenVim tutorial](http://www.openvim.com/tutorial.html)
+* [UseVim.com](http://usevim.com/)
 * [vi and vim editor: Tutorial and advanced features](http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html)
 * [Buffers, windows & tabs](http://blog.sanctum.geek.nz/buffers-windows-tabs/)
 * [Impressive Ruby Productivity with Vim and Tmux](http://confreaks.com/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux)
 * NerdTree: [Guide](http://usevim.com/2012/07/18/nerdtree/) [Cheatsheet](http://cheat.errtheblog.com/s/nerdtree/) [add a file](http://stackoverflow.com/questions/1459750/vim-and-nerd-tree-extension-adding-a-file)
-* [Vimcasts.org](http://vimcasts.org/)
-* [Vim London videos](http://vimeo.com/vimlondon/videos)
-* [VimNinjas.com](http://www.vimninjas.com/)
 * [Vundle plug-in manager](https://github.com/gmarik/vundle)
-* [Solarized](https://github.com/altercation/vim-colors-solarized)
 
 ### VIM - PLUGIN DOCS
 
