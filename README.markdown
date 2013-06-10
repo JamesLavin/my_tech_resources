@@ -97,6 +97,9 @@
 * [Tig (Text-mode interface for Git)](http://jonas.nitro.dk/tig/)
 * [Getting Git: Getting Effective Project Management - Scott Chacon (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A02_Scott_Chacon.mp4)
 * [Git and GitHub Secrets by Zach Holman](http://www.youtube.com/watch?v=Foz9yvMkvlA)
+* [Introduction to Git - Scott Chacon (GitHub)](http://www.youtube.com/watch?v=ZDR433b0HJY)
+* [Git in One Hour - Scott Chacon](http://www.youtube.com/watch?v=OFkgSjRnay4)
+* [Git Happens - Jessica Kerr (@jessitron)](http://www.youtube.com/watch?v=Dv8I_kfrFWw)
 
 ### GIT - GITHUB
 
