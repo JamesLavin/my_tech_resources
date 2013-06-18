@@ -177,6 +177,7 @@
 * [TodoMVC Backbone example](http://todomvc.com/architecture-examples/backbone/) & [code](https://github.com/addyosmani/todomvc/tree/gh-pages/architecture-examples/backbone/)
 * [Introduction to Backbone.js - Nick Gauthier](http://www.youtube.com/watch?v=PqtYcHyyWJA)
 * [Put Some Backbone.js in your Apps (Sid Maestre)](http://www.youtube.com/watch?v=jM8KE_Fa6JI)
+* [Three Client-side Web Apps (2 Backbone, 1 Ember) - Brian Kaney](http://bostonrb.org/presentations/three-client-side-web-apps)
 * [Backbone Tutorials](http://backbonetutorials.com/)
 * [Backbone: 3 Ways](http://confreaks.com/videos/2219-html5tx2013-backbone-3-ways)
 * [Backbone.js, Jasmine and Rails: A Lust Story - Austin Fonacier (LA Ruby 2013)](http://www.confreaks.com/videos/2295-larubyconf2013-backbone-js-jasmine-and-rails-the-lust-story)
@@ -662,6 +663,7 @@
 ### RUBY - FUN
 
 * [decaf - Webkit modified to run Ruby in the browser](https://github.com/timahoney/decaf)
+* [Hardware Hacking and M2M Websites with Ruby - Steve Morss (BostonRb 2013)](http://bostonrb.org/presentations/hardware-hacking-and-m2m-websites-with-ruby)
 
 ### RUBY - GEMS
 
@@ -741,6 +743,7 @@
 * [Boundaries - Gary Bernhardt (RailsConf 2012)](http://confreaks.com/videos/1314-rubyconf2012-boundaries)
 * [Going on a Testing Anti-Pattern Safari - Aja Hammerly (MountainWest RubyConf 2013)](http://confreaks.com/videos/2345-mwrc2013-going-on-a-testing-anti-pattern-safari)
 * [Tddium - William Josephson (BostonRB.org)](http://bostonrb.org/presentations/tddium)
+* [CodeShip.io blog & videos](http://blog.codeship.io/)
 
 ### RUBY - TESTING - CAPYBARA
 
@@ -854,3 +857,9 @@
 * [Responsive Web Design, Mobile First and Progressive enhancement in action - Leonado Lenase (ScotlandJS 2012)](http://vimeo.com/45140588)
 * [Browser Versions Are Dead](http://confreaks.com/videos/2223-html5tx2013-browser-versions-are-dead)
 
+## WRITING - ASCIIDOC EDITORS
+
+* [AsciiDoctor - AsciiDoc Writer’s Guide](http://asciidoctor.org/docs/asciidoc-writers-guide/)
+* [AsciiDoc](http://www.methods.co.nz/asciidoc/)
+* [AsciiDoc Cheatsheet](http://powerman.name/doc/asciidoc)
+* [asciidoc-vim](https://github.com/dagwieers/asciidoc-vim)
