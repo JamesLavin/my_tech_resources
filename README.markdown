@@ -91,6 +91,7 @@
 * [Git Ready](http://gitready.com/)
 * [Classy Git - Scott Chacon (RubyConf 2010)](http://www.confreaks.com/videos/471-rubyconf2010-classy-git)
 * [Git and GitHub Secrets - Zach Holman (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1229-aloharuby2012-git-and-github-secrets)
+* [Git interactive cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html)
 * [Git cheatsheet](http://cheat.errtheblog.com/s/git)
 * [Gitcasts.com](http://gitcasts.com/) [Gitcasts on Blip.tv](http://blip.tv/scott-chacon)
 * [Git tutorial](http://www.vogella.com/articles/Git/article.html)
@@ -100,6 +101,8 @@
 * [Introduction to Git - Scott Chacon (GitHub)](http://www.youtube.com/watch?v=ZDR433b0HJY)
 * [Git in One Hour - Scott Chacon](http://www.youtube.com/watch?v=OFkgSjRnay4)
 * [Git Happens - Jessica Kerr (@jessitron)](http://www.youtube.com/watch?v=Dv8I_kfrFWw)
+* [grb - Git Remote Branch ruby gem](http://gitready.com/advanced/2009/03/11/easily-manage-git-remote-branches.html)
+* [Git from the Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
 
 ### GIT - GITHUB
 
@@ -824,6 +827,7 @@
 ### VIM - PLUGIN DOCS
 
 * [ack.vim](https://raw.github.com/mileszs/ack.vim/master/doc/ack.txt)
+* [ctags](http://ctags.sourceforge.net/) & [Using Vim and Exuberant CTags for easy source navigation](http://benoithamelin.tumblr.com/post/15101202004/using-vim-exuberant-ctags-easy-source-navigation) [Manual](http://ctags.sourceforge.net/ctags.html) & [FAQ](http://ctags.sourceforge.net/faq.html)
 * [ctrlp.vim](https://github.com/kien/ctrlp.vim/blob/master/readme.md#readme)
 * [gist.vim](https://github.com/mattn/gist-vim/blob/master/README.mkd#readme)
 * [jslint.vim](https://github.com/hallettj/jslint.vim/blob/master/README.markdown)
