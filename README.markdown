@@ -660,6 +660,7 @@
 
 ### RUBY - FEATURES
 
+* [Building a mocking library - Andy Lindeman (Ancient City Ruby 2013)](http://www.youtube.com/watch?v=2aYdtS7FZJA)
 * [Building modular, scalable web apps? Of CORS! (Cross-domain AJAX requests) - Michael Bleigh (RubyConf 2012)](http://confreaks.com/videos/1285-rubyconf2012-building-modular-scalable-web-apps-of-cors)
 * [Ruby Tapas (only some free) - Avdi Grimm](http://www.rubytapas.com/episodes)
 * [The Well-Grounded Nuby - David A. Black (BostonRB.org)](http://bostonrb.org/presentations/the-well-grounded-nuby)
