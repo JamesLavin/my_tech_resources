@@ -279,7 +279,8 @@
 
 * [Official documentation](http://docs.jquery.com/)
 * [Official API](http://api.jquery.com/)
-* http://confreaks.com/videos/992-jqcon2012-exterminating-common-jquery-bugs
+* [Youtube.com/jquery](http://www.youtube.com/jquery)
+* [Exterminating Common JQuery bugs](http://confreaks.com/videos/992-jqcon2012-exterminating-common-jquery-bugs)
 * [Tutorials (JQuery.com)](http://docs.jquery.com/Tutorials)
 * [14 Days of JQuery](http://jquery14.com/)
 * [TutorialsPoint.com](http://www.tutorialspoint.com/jquery/)
