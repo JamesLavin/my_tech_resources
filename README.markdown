@@ -622,6 +622,7 @@
 
 ### RUBY - CLEAN CODE
 
+* [Rubycop](https://github.com/bbatsov/rubocop)
 * [bbatsov / ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
 * [Avdi Grimm's "Naught" gem](https://github.com/avdi/naught), ["Null Objects and Falsiness"](http://devblog.avdi.org/2011/05/30/null-objects-and-falsiness/), and [two papers](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf) & [explaining the null object pattern](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf)
 * [Component-based Architectures in Ruby and Rails - Stephan Hagemann (MountainWest RubyConf 2013)](http://confreaks.com/videos/2350-mwrc2013-component-based-architectures-in-ruby-and-rails)
