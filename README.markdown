@@ -315,6 +315,11 @@
 * [Command Line Fu](http://www.commandlinefu.com/commands/browse/sort-by-votes)
 * [Greg Wooledge's Wiki](http://mywiki.wooledge.org/)
 
+## MISCELLANEOUS
+
+* [List of Programming Screencast Series - Avdi Grimm](http://devblog.avdi.org/2013/06/21/a-list-of-programming-screencast-series/)
+* [Metacasts.tv (non-free) - Mark Bates](http://www.metacasts.tv)
+
 ## MOBILE
 
 * [App Developers' Conference](http://www.youtube.com/playlist?list=PL14804B7FA696ACA0&feature=plcp)
@@ -402,7 +407,8 @@
 * [RStudio](http://rstudio.org/)
 
 ### R - LEARNING
-
+*
+* [Beginner's guide to R: (6-part) Introduction (ComputerWorld)](http://www.computerworld.com/s/article/print/9239625/Beginner_s_guide_to_R_Introduction?taxonomyName=Business+Intelligence%2FAnalytics&taxonomyId=9) & [Beginner's guide to R: Useful resources](http://www.computerworld.com/s/article/print/9239799/Beginner_s_guide_to_R_Useful_resources?taxonomyName=Business+Intelligence%2FAnalytics&taxonomyId=9)
 * [Twotorials.com (fun 2-min R tutorials)](http://www.twotorials.com/)
 * [Official R manuals](http://cran.r-project.org/manuals.html)
 * [R for Beginners](http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
@@ -661,7 +667,7 @@
 ### RUBY - FEATURES
 
 * [Building modular, scalable web apps? Of CORS! (Cross-domain AJAX requests) - Michael Bleigh (RubyConf 2012)](http://confreaks.com/videos/1285-rubyconf2012-building-modular-scalable-web-apps-of-cors)
-* [Ruby Tapas (only some free) - Avdi Grimm](http://www.rubytapas.com/episodes)
+* [RubyTapas.com (only some free) - Avdi Grimm](http://www.rubytapas.com/episodes)
 * [The Well-Grounded Nuby - David A. Black (BostonRB.org)](http://bostonrb.org/presentations/the-well-grounded-nuby)
 
 ### RUBY - FUN
