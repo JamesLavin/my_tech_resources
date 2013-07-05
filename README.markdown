@@ -430,6 +430,7 @@
 ### R - GGPLOT2
 
 * [2-hr talk on "Visualising data with ggplot2" by creator Hadley Wickham](http://www.mathtube.org/lecture/video/visualising-data-ggplot2)
+* [ggplot2_tutorial.R - Frank Davenport](http://rpubs.com/frank_davenport/6255)
 
 ### R - SEARCH
 * [RSeek.org](http://www.rseek.org/)
