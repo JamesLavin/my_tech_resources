@@ -666,6 +666,11 @@
 * [Debugging Large Scale Service Oriented Systems - Andy Delcambre (CascadiaRuby 2012)](http://confreaks.com/videos/1068-cascadiaruby2012-debugging-large-scale-service-oriented-systems)
 * [Service Oriented Architecture at Square - Chris Hunt (RubyConf 2012)](http://confreaks.com/videos/1273-rubyconf2012-service-oriented-architecture-at-square)
 
+### RUBY - DOCUMENTATION - YARD
+
+* [Yard docs](http://rubydoc.info/docs/yard/index)
+* [Yard - Getting started](http://rubydoc.info/docs/yard/file/docs/GettingStarted.md)
+
 ### RUBY - FEATURES
 
 * [Building a mocking library - Andy Lindeman (Ancient City Ruby 2013)](http://www.youtube.com/watch?v=2aYdtS7FZJA)
