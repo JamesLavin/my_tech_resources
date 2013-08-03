@@ -651,13 +651,20 @@
 
 ### RUBY - DEBUGGING
 
-* [Prying into your app's private life - Corey Woodcox (MountainWest RubyConf 2012)](http://confreaks.com/videos/959-mwrc2012-prying-into-your-app-s-private-life)
 * [Better_errors gem](https://github.com/charliesome/better_errors) & [Railscast](http://railscasts.com/episodes/402-better-errors-railspanel)
 * [Pry](https://github.com/pry/pry), [jazz_hands](https://github.com/nixme/jazz_hands) & [Pry Railscast](http://railscasts.com/episodes/280-pry-with-rails)
 * [Tracing your way through ruby - Elise Huard (BaRuCo 2012)](http://confreaks.com/videos/1330-baruco2012-tracing-your-way-through-ruby)
 * [Code Climate (free only for open-source)](https://codeclimate.com/) [Free for public Github repos](https://codeclimate.com/github/signup)
 * [Debugging Ruby - Aman Gupta (RubyConf 2010)](http://www.confreaks.com/videos/371-rubyconf2010-debugging-ruby)
 * [Mastering the Ruby Debugger - Jim Weirich (Ruby Midwest 2011)](http://confreaks.com/videos/760-rubymidwest2011-mastering-the-ruby-debugger)
+
+#### RUBY - DEBUGGING - PRY
+
+* [Pry API docs](http://rdoc.info/github/pry/pry/master/Pry)
+* [Pry Wiki](https://github.com/pry/pry/wiki)
+* [Pry - The Good Parts! - Conrad Irwin (RailsConf 2013)](https://www.youtube.com/watch?v=jDXsEzOHb2M)
+* [Prying into your app's private life - Corey Woodcox (MountainWest RubyConf 2012)](http://confreaks.com/videos/959-mwrc2012-prying-into-your-app-s-private-life)
+* [PryRepl.org screencasts](http://pryrepl.org/screencasts.html)
 
 ### RUBY - DISTRIBUTED/SOA
 
