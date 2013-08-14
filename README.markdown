@@ -50,6 +50,7 @@
 * [Front End Legos: Better Design with Reusable HTML & CSS](http://confreaks.com/videos/2230-html5tx2013-front-end-legos-better-design-with-reusable-html-css)
 * [Github CSS style guide](https://github.com/styleguide/css)
 * [Zen-Coding](http://code.google.com/p/zen-coding/)
+* [CSS Conf videos](http://cssconf.com/talks.html)
 
 ## CSS - RESPONSIVE DESIGN
 
@@ -177,6 +178,7 @@
 * [Backbone.js](http://backbonejs.org/)
 * [Backbone Fundamentals](https://github.com/addyosmani/backbone-fundamentals)
 * [Backbone in Baby Steps, part 1](http://codebyexample.info/2012/03/06/backbone-baby-steps/), [part 2](http://codebyexample.info/2012/04/05/backbone-in-baby-steps-part-2/), [part 2.5](http://codebyexample.info/2012/04/29/backbone-in-baby-steps-part-2-5/) & [part 3](http://codebyexample.info/2012/04/30/backbone-in-baby-steps-part-3/)
+* [BackboneConf 2013 videos](http://lanyrd.com/2013/backboneconf/video/)
 * [TodoMVC Backbone example](http://todomvc.com/architecture-examples/backbone/) & [code](https://github.com/addyosmani/todomvc/tree/gh-pages/architecture-examples/backbone/)
 * [Introduction to Backbone.js - Nick Gauthier](http://www.youtube.com/watch?v=PqtYcHyyWJA)
 * [Put Some Backbone.js in your Apps (Sid Maestre)](http://www.youtube.com/watch?v=jM8KE_Fa6JI)
