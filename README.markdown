@@ -200,6 +200,7 @@
 * [Anatomy of Backbone - CodeSchool (non-free)](http://www.codeschool.com/courses/anatomy-of-backbonejs)
 * [Introduction to Backbone.js Part 1: Models Tutorial](http://www.youtube.com/watch?v=uYIzpHjPgXE) - First of a series of free videos all viewable on Youtube
 * [Structuring Complex Backbone.js Apps](http://www.mikkolehtinen.com/blog/2012/08/03/structuring-complex-backbone-dot-js-apps/)
+* [Dependency Injection for Fun and Profit - Sam Breed (BackboneConf 2013)](http://www.youtube.com/watch?v=Lm05e5sJaE8)
 
 #### JAVASCRIPT - BACKBONE.JS - LOCALSTORAGE
 
