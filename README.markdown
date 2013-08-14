@@ -160,6 +160,13 @@
 * [js-assessment](https://github.com/rmurphey/js-assessment)
 * [Javascript Weekly (email list)](http://javascriptweekly.com/)
 * [Javascript at 17 - Brendan Eich (Fluent 2012)](http://www.youtube.com/watch?v=Rj49rmc01Hs)
+* [JSConf US 2013 videos](http://www.youtube.com/watch?v=f_9nDBtSInI&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
+* [JSConf US 2012 videos](http://www.youtube.com/watch?v=Moy1nWM3Zmg&list=PL37ZVnwpeshHLGexQN3yT1617FekYdgN0)
+* [JSConf EU 2012 videos](http://www.youtube.com/watch?v=JNjnv-Gcpnw&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL)
+* [Javascript Masterclass - Angelina Fabbro (JSConfUS 2013)](http://www.youtube.com/watch?v=v0TFmdO4ZP0)
+* [Douglas Crockford: Really. JavaScript. (JSConfUS 2013)](http://www.youtube.com/watch?v=lTWGoL1N-Kc)
+* [JavaScript Essentials - Travis Tidwell](http://www.youtube.com/watch?v=03EQu_2K2cs)
+* [Advanced HTML5 JavaScript: Down 'n Dirty - Kyle Simpson](http://www.youtube.com/watch?v=0ru7S0bJdko)
 
 ### JAVASCRIPT - ASYNCHRONOUS
 
@@ -345,6 +352,8 @@
 * Grunt: [Intro](http://weblog.bocoup.com/introducing-grunt/) | [Github](https://github.com/gruntjs/grunt) | [Getting Started](https://github.com/gruntjs/grunt/blob/master/docs/getting_started.md)
 
 ## NODE.JS
+
+* [Ryan Dahl: Less is More with Node.js - Ryan Dahl (JSConf US 2013)](http://www.youtube.com/watch?v=4abYtdopuVE)
 
 ### NODE.JS - NPM
 
