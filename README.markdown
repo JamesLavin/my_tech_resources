@@ -77,6 +77,7 @@
 ## FUNCTIONAL PROGRAMMING
 
 * [Functional Principles for OO Development - Jessica Kerr (Ruby MidWest 2013)](http://confreaks.com/videos/2382-rmw2013-functional-principles-for-oo-development)
+* [Functional Programming and Ruby - Pat Shaughnessy (GoRuCo 2013)](http://confreaks.com/videos/2557-goruco2013-functional-programming-and-ruby)
 * [Immutable Ruby - Michael Fairley (MountainWest RubyConf 2013)](http://confreaks.com/videos/2337-mwrc2013-immutable-ruby)
 * [Functional Programming and Ruby - Pat Shaughnessy (BostonRB.org)](http://bostonrb.org/presentations/functional-programming-and-ruby)
 * [Y Not? - Adventures in Functional Programming - Jim Weirich (ScotlandJS 2012)](https://vimeo.com/45140590) [RubyConf 2012](http://confreaks.com/videos/1287-rubyconf2012-y-not-adventures-in-functional-programming)
@@ -163,6 +164,7 @@
 * [JSConf US 2013 videos](http://www.youtube.com/watch?v=f_9nDBtSInI&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx)
 * [JSConf US 2012 videos](http://www.youtube.com/watch?v=Moy1nWM3Zmg&list=PL37ZVnwpeshHLGexQN3yT1617FekYdgN0)
 * [JSConf EU 2012 videos](http://www.youtube.com/watch?v=JNjnv-Gcpnw&list=PL37ZVnwpeshF-i8_6tDZU4543HrHXp8EL)
+* [JSConf EU 2011 videos](http://www.youtube.com/watch?v=PXfwHAfCGoc&list=PL37ZVnwpeshEVYiRemhMII6ORJmsJuqP7)
 * [Javascript Masterclass - Angelina Fabbro (JSConfUS 2013)](http://www.youtube.com/watch?v=v0TFmdO4ZP0)
 * [Douglas Crockford: Really. JavaScript. (JSConfUS 2013)](http://www.youtube.com/watch?v=lTWGoL1N-Kc)
 * [JavaScript Essentials - Travis Tidwell](http://www.youtube.com/watch?v=03EQu_2K2cs)
@@ -387,6 +389,7 @@
 
 ### PRODUCT DEVELOPMENT - PEOPLE & PROCESS
 
+* [GET / Better - Mark Bates (Burlington Ruby 2013)](http://confreaks.com/videos/2617-btvruby2013-keynote-get-better)
 * [James Edward Gray II keynote (Ruby Midwest 2013)](http://www.confreaks.com/videos/2385-rmw2013-keynote)
 * [Rockstars & Consultants, Who needs 'em? - Lori Olson (Aloha RubyConf 2012)](http://confreaks.com/videos/1251-aloharuby2012-rockstars-consultants-who-needs-em)
 * [Does pair programming have to suck? - Angela Harms (Ruby Midwest 2011)](http://confreaks.com/videos/757-rubymidwest2011-does-pair-programming-have-to-suck)
@@ -464,6 +467,7 @@
 
 ### RAILS 4
 
+* [Real-time Rails - Brian Cardarella (Burlington Ruby 2013)](http://confreaks.com/videos/2620-btvruby2013-real-time-rails)
 * [Keynote - Rails 4 and the Future of Web - Aaron Patterson (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1228-aloharuby2012-keynote-rails-4-and-the-future-of-web)
 * [Real Time Salami - Aaron Patterson (RubyConf 2012)](http://confreaks.com/videos/1291-rubyconf2012-real-time-salami)
 * [Rails 4.0 Whirlwind Tour - Andy Lindeman](http://vimeo.com/51181496)
