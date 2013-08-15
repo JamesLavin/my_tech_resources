@@ -416,6 +416,7 @@
 
 * [Khan Academy](http://www.khanacademy.org/science/computer-science/v/introduction-to-programs-data-types-and-variables)
 * [Python Fundamentals Training](http://www.youtube.com/playlist?list=PL26BA8B9FC33789FF&feature=plcp)
+* [Building Skills in Object-Oriented Design](http://slav0nic.org.ua/static/books/python/oodesign.pdf)
 * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf)
 * [A Byte of Python](http://files.swaroopch.com/python/byte_of_python.pdf)
 * [Dive into Python 3](https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)
@@ -430,6 +431,7 @@
 * [Programming Python, 4th ed](http://it-ebooks.info/go.php?id=614-1376544793-f29d5b06b99ac32ba63d667a79d38ce9)
 * [Python Tutorial (TutorialsPoint.com)](http://www.tutorialspoint.com/python/python_tutorial.pdf)
 * [The Python Tutorial (Python 2)](http://docs.python.org/2/tutorial/index.html) & [(Python 3)](http://docs.python.org/3.3/tutorial/index.html)
+* [Think Complexity](http://greenteapress.com/complexity/thinkcomplexity.pdf)
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
 * [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
 
