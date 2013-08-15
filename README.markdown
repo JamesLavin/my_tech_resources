@@ -416,6 +416,22 @@
 
 * [Khan Academy](http://www.khanacademy.org/science/computer-science/v/introduction-to-programs-data-types-and-variables)
 * [Python Fundamentals Training](http://www.youtube.com/playlist?list=PL26BA8B9FC33789FF&feature=plcp)
+* [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf)
+* [A Byte of Python](http://files.swaroopch.com/python/byte_of_python.pdf)
+* [Dive into Python 3](https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)
+* [Hacking Secret Ciphers with Python](http://inventwithpython.com/hackingciphers.pdf)
+* [Hands-On Python Tutorial](http://cs.luc.edu/anh/python/hands-on/handson.pdf)
+* [How to Think Like a Computer Scientist: Learning with Python](http://interactivepython.org/runestone/static/thinkcspy/index.html) & [PDF](https://cs.nyu.edu/courses/fall12/CSCI-UA.0002-006/misc/httlacs.pdf)
+* [Invent Your Own Computer Games With Python, 2nd ed](http://inventwithpython.com/IYOCGwP_book1.pdf)
+* [Learn Python the Hard Way](http://learnpythonthehardway.org/book/index.html)
+* [Making Games with Python & Pygame](http://inventwithpython.com/makinggames.pdf)
+* [Natural Language Processing with Python](http://nltk.org/book/)
+* [Python Programming](http://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf)
+* [Programming Python, 4th ed](http://it-ebooks.info/go.php?id=614-1376544793-f29d5b06b99ac32ba63d667a79d38ce9)
+* [Python Tutorial (TutorialsPoint.com)](http://www.tutorialspoint.com/python/python_tutorial.pdf)
+* [The Python Tutorial (Python 2)](http://docs.python.org/2/tutorial/index.html) & [(Python 3)](http://docs.python.org/3.3/tutorial/index.html)
+* [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
+* [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
 
 ## R
 
@@ -861,6 +877,7 @@
 * [Impressive Ruby Productivity with Vim and Tmux](http://confreaks.com/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux)
 * NerdTree: [Guide](http://usevim.com/2012/07/18/nerdtree/) [Cheatsheet](http://cheat.errtheblog.com/s/nerdtree/) [add a file](http://stackoverflow.com/questions/1459750/vim-and-nerd-tree-extension-adding-a-file)
 * [Vundle plug-in manager](https://github.com/gmarik/vundle)
+* [A Byte of Vim](http://files.swaroopch.com/vim/byte_of_vim_v051.pdf)
 
 ### VIM - PLUGIN DOCS
 
