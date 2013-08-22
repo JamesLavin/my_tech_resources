@@ -105,6 +105,7 @@
 * [Git Happens - Jessica Kerr (@jessitron)](http://www.youtube.com/watch?v=Dv8I_kfrFWw)
 * [grb - Git Remote Branch ruby gem](http://gitready.com/advanced/2009/03/11/easily-manage-git-remote-branches.html)
 * [Git from the Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
+* [Deliberate Git - Stephen Ball (SteelCityRuby 2013)](http://steelcityruby.confbots.com/video/72762735)
 
 ### GIT - GITHUB
 
@@ -390,6 +391,9 @@
 
 ### PRODUCT DEVELOPMENT - PEOPLE & PROCESS
 
+* [Architecting the Chaos - Building Travis CI - Konstantin Haase (SteelCityRuby 2013)](http://steelcityruby.confbots.com/video/72753961)
+* [Keep Software Weird - Leon Gersing (SteelCityRuby 2013)](http://steelcityruby.confbots.com/video/72780827)
+* [The End of Fun - Sarah Mei (LoneStarRuby 2013)](http://confreaks.com/videos/2603-lonestarruby2013-the-end-of-fun)
 * [GET / Better - Mark Bates (Burlington Ruby 2013)](http://confreaks.com/videos/2617-btvruby2013-keynote-get-better)
 * [James Edward Gray II keynote (Ruby Midwest 2013)](http://www.confreaks.com/videos/2385-rmw2013-keynote)
 * [Rockstars & Consultants, Who needs 'em? - Lori Olson (Aloha RubyConf 2012)](http://confreaks.com/videos/1251-aloharuby2012-rockstars-consultants-who-needs-em)
@@ -548,6 +552,7 @@
 
 ### RAILS - SCALING & DEVOPS
 
+* [DevOps for the Rubyist Soul - John Downey (SteelCityRuby 2013](http://steelcityruby.confbots.com/video/72791610)
 * [DevOps for the Rubyist Soul (capistrano, puppet, puppet, git & vagrant)](http://confreaks.com/videos/2297-bigruby2013-devops-for-the-rubyist-soul)
 * [Five Things You Didn't Know About Chef](http://confreaks.com/videos/2301-bigruby2013-5-things-you-didn-t-know-about-chef)
 * [How Shopify Scales Rails - John Duff (BigRuby 2013)](http://confreaks.com/videos/2303-bigruby2013-how-shopify-scales-rails) & [RailsConf 2013](http://confreaks.com/videos/2423-railsconf2013-how-shopify-scales-rails)
@@ -686,7 +691,7 @@
 ### RUBY - DEBUGGING
 
 * [Better_errors gem](https://github.com/charliesome/better_errors) & [Railscast](http://railscasts.com/episodes/402-better-errors-railspanel)
-* [Pry](https://github.com/pry/pry), [jazz_hands](https://github.com/nixme/jazz_hands) & [Pry Railscast](http://railscasts.com/episodes/280-pry-with-rails)
+* [Dissecting Ruby with Ruby - Richard Schneeman (LoneStarRuby 2013)](http://confreaks.com/videos/2586-lonestarruby2013-dissecting-ruby-with-ruby)
 * [Tracing your way through ruby - Elise Huard (BaRuCo 2012)](http://confreaks.com/videos/1330-baruco2012-tracing-your-way-through-ruby)
 * [Code Climate (free only for open-source)](https://codeclimate.com/) [Free for public Github repos](https://codeclimate.com/github/signup)
 * [Debugging Ruby - Aman Gupta (RubyConf 2010)](http://www.confreaks.com/videos/371-rubyconf2010-debugging-ruby)
@@ -694,6 +699,7 @@
 
 #### RUBY - DEBUGGING - PRY
 
+* [Pry](https://github.com/pry/pry), [jazz_hands](https://github.com/nixme/jazz_hands) & [Pry Railscast](http://railscasts.com/episodes/280-pry-with-rails)
 * [Pry API docs](http://rdoc.info/github/pry/pry/master/Pry)
 * [Pry Wiki](https://github.com/pry/pry/wiki)
 * [Pry - The Good Parts! - Conrad Irwin (RailsConf 2013)](https://www.youtube.com/watch?v=jDXsEzOHb2M)
