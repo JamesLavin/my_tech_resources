@@ -537,6 +537,7 @@
 
 ### RAILS - ENGINES
 
+* [Rails Engines - BostonRb.org](http://bostonrb.org/presentations/rails-engines)
 * [Ruby-Toolbox - Testing Rails Engines](https://www.ruby-toolbox.com/categories/Testing_Rails_Engines)
 * [Carson: On the Path from Big-Ball-of-Mud to SOA - James Rosen (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1234-aloharuby2012-carson-on-the-path-from-big-ball-of-mud-to-soa)
 * [Writing a Rails Engine - Erik Michaels-Ober (GoGaRuCo 2012)](http://confreaks.com/videos/1109-gogaruco2012-writing-a-rails-engine)
