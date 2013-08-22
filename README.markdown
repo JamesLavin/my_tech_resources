@@ -97,6 +97,7 @@
 * [Git cheatsheet](http://cheat.errtheblog.com/s/git)
 * [Gitcasts.com](http://gitcasts.com/) [Gitcasts on Blip.tv](http://blip.tv/scott-chacon)
 * [Git tutorial](http://www.vogella.com/articles/Git/article.html)
+* [Git From the Bits Up - Tim Berglund](http://www.youtube.com/watch?v=MYP56QJpDr4&list=UUkQX1tChV7Z7l1LFF4L9j_g)
 * [Tig (Text-mode interface for Git)](http://jonas.nitro.dk/tig/)
 * [Getting Git: Getting Effective Project Management - Scott Chacon (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A02_Scott_Chacon.mp4)
 * [Git and GitHub Secrets by Zach Holman](http://www.youtube.com/watch?v=Foz9yvMkvlA)
@@ -171,6 +172,10 @@
 * [JavaScript Essentials - Travis Tidwell](http://www.youtube.com/watch?v=03EQu_2K2cs)
 * [Advanced HTML5 JavaScript: Down 'n Dirty - Kyle Simpson](http://www.youtube.com/watch?v=0ru7S0bJdko)
 
+### JAVASCRIPT - ANGULAR.JS
+
+* [AngularJS Fundamentals in 60-ish Minutes - Dan Wahlin](http://www.youtube.com/watch?v=i9MHigUZKEM)
+
 ### JAVASCRIPT - ASYNCHRONOUS
 
 * [Asynchronous JS: Callbacks, Listeners, Control Flow Libs and Promises](http://sporto.github.com/blog/2012/12/09/callbacks-listeners-promises/)
@@ -197,6 +202,7 @@
 * [Backbone: 3 Ways](http://confreaks.com/videos/2219-html5tx2013-backbone-3-ways)
 * [Backbone.js, Jasmine and Rails: A Lust Story - Austin Fonacier (LA Ruby 2013)](http://www.confreaks.com/videos/2295-larubyconf2013-backbone-js-jasmine-and-rails-the-lust-story)
 * [Using Backbone.js With Rails: Patterns from the Wild - Sarah Mei (RailsConf 2012)](http://confreaks.com/videos/861-railsconf2012-using-backbone-js-with-rails-patterns-from-the-wild)
+* [Growing Up with Backbone - Tim Branyen](http://www.youtube.com/watch?v=iBffGfUfC1c)
 * [Evening on Backbone.js/Views w/ Q&A with David Heinemeier Hansson](http://www.youtube.com/watch?v=FkLVl3gpJP4) - Intro to Rails followed by DHH arguing for Rails-generated (and "Russian-doll cached") HTML+JavaScript over client-side MVC except for the most complex cases
 * [Anatomy of Backbone - CodeSchool (non-free)](http://www.codeschool.com/courses/anatomy-of-backbonejs)
 * [Introduction to Backbone.js Part 1: Models Tutorial](http://www.youtube.com/watch?v=uYIzpHjPgXE) - First of a series of free videos all viewable on Youtube
@@ -243,6 +249,14 @@
 ### JAVASCRIPT - CLIENT-SIDE ARCHITECTURES
 
 * [Use Rails for Your Next Client-Side App - Yehuda Katz (ChicagoRuby2012)](http://vimeo.com/50451185)
+
+### JAVASCRIPT - DEPENDENCY INJECTION
+
+* [Sam Breed - Dependency Injection for Fun and Profit](http://www.youtube.com/watch?v=Lm05e5sJaE8)
+
+### JAVASCRIPT - EMBER.JS
+
+* [Ember on Rails: #REALTALK - Brandon Hays (LoneStarRuby 2013)](http://confreaks.com/videos/2597-lonestarruby2013-ember-on-rails-realtalk)
 
 ### JAVASCRIPT - FRAMEWORKS
 
@@ -363,6 +377,10 @@
 
 * [Package Managers: An Introductory Guide (covers NPM & Bower)](http://tech.pro/tutorial/1190/package-managers-an-introductory-guide-for-the-uninitiated-front-end-developer)
 
+## OOP
+
+* [OOP and Philosophy - Steve Klabnik (RubyMidwest 2013)](http://confreaks.com/videos/2370-rmw2013-oop-and-philosophy)
+
 ## POSTGRESQL
 
 * [Official manuals](http://www.postgresql.org/docs/manuals/)
@@ -391,11 +409,15 @@
 
 ### PRODUCT DEVELOPMENT - PEOPLE & PROCESS
 
+* [Ready To Code: Automate Your Development Environment - David Kerber (RubyMidwest 2013)](http://confreaks.com/videos/2368-rmw2013-ready-to-code-automate-your-development-environment)
+* [Keynote: Hacking Passion - Katrina Owen (LoneStarRuby 2013)](http://confreaks.com/videos/2600-lonestarruby2013-keynote-hacking-passion)
+* [Failure for Fun and Profit! - Kerri Miller (RubyMidwest 2013)](http://confreaks.com/videos/2371-rmw2013-failure-for-fun-and-profit)
 * [Architecting the Chaos - Building Travis CI - Konstantin Haase (SteelCityRuby 2013)](http://steelcityruby.confbots.com/video/72753961)
 * [Keep Software Weird - Leon Gersing (SteelCityRuby 2013)](http://steelcityruby.confbots.com/video/72780827)
 * [The End of Fun - Sarah Mei (LoneStarRuby 2013)](http://confreaks.com/videos/2603-lonestarruby2013-the-end-of-fun)
 * [GET / Better - Mark Bates (Burlington Ruby 2013)](http://confreaks.com/videos/2617-btvruby2013-keynote-get-better)
 * [James Edward Gray II keynote (Ruby Midwest 2013)](http://www.confreaks.com/videos/2385-rmw2013-keynote)
+* [Channel Your Inner Jason Bay: How to Be Productive On a New Team - Ashish Dixit (SteelCityRuby 2013)](http://steelcityruby.confbots.com/video/72745494)
 * [Rockstars & Consultants, Who needs 'em? - Lori Olson (Aloha RubyConf 2012)](http://confreaks.com/videos/1251-aloharuby2012-rockstars-consultants-who-needs-em)
 * [Does pair programming have to suck? - Angela Harms (Ruby Midwest 2011)](http://confreaks.com/videos/757-rubymidwest2011-does-pair-programming-have-to-suck)
 * [Joe O'Brien - People: the missing ingredient (GoGaRuCo2012)](http://confreaks.com/videos/1108-gogaruco2012-people-the-missing-ingredient)
@@ -608,6 +630,7 @@
 * [10 Things You Didn't Know Ruby Could Do - @JEG2](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do)
 * [Ruby Safari - Ola Bini (Ruby Midwest 2011)](http://confreaks.com/videos/750-rubymidwest2011-ruby-safari)
 * [Ruby, Code, Threads, Events and Flying Robots using EventMachine & Celluloid - Jim Weirich (BigRuby 2013)](http://confreaks.com/videos/2296-bigruby2013-keynote)
+* [Friendly Flying Robots With Ruby - Jim Weirich (SteelCityRuby 2013)](http://steelcityruby.confbots.com/video/72709097)
 * [APIDock - Ruby (good for legacy Ruby)](http://apidock.com/ruby/browse)
 
 ### RUBY - 2.0
