@@ -20,7 +20,7 @@
 
 ### CLEAN CODE - MEASURING
 
-* https://www.ruby-toolbox.com/categories/code_metrics
+* [Ruby-Toolbox - Code Metrics](https://www.ruby-toolbox.com/categories/code_metrics)
 * [Semi Automatic Code Review - Richard Huang (RailsConf 2012)](http://confreaks.com/videos/888-railsconf2012-semi-automatic-code-review)
 * [rails_best_practices gem](https://github.com/railsbp/rails_best_practices) & [railsbp.com](http://railsbp.com/) 
 
@@ -64,13 +64,13 @@
 * [Testing Your Automation: TTD for Chef Cookbooks - Nathen Harvey (BigRuby 2013)](http://confreaks.com/videos/2309-bigruby2013-testing-your-automation-ttd-for-chef-cookbooks)
 * [Heroku](http://www.heroku.com/) | [Tddium](https://devcenter.heroku.com/articles/tddium)
 * [Puppet](http://puppetlabs.com/)
-* https://www.ruby-toolbox.com/categories/deployment_automation
-* https://www.ruby-toolbox.com/categories/systems_integration
+* [Ruby-Toolbox - Deployment Automation](https://www.ruby-toolbox.com/categories/deployment_automation)
+* [Ruby-Toolbox - Systems Integration](https://www.ruby-toolbox.com/categories/systems_integration)
 * [Continuous Deployment - Matt White (MountainWest RubyConf 2012)](http://confreaks.com/videos/967-mwrc2012-continuous-deployment)
 
 ## DOWNTIME
 
-* https://www.ruby-toolbox.com/categories/Maintenance_Mode
+* [Ruby-Toolbox - Maintenance Mode](https://www.ruby-toolbox.com/categories/Maintenance_Mode)
 * [Zero Downtime Deploys Made Easy - Matt Duncan (RubyConf 2012)](http://confreaks.com/videos/1279-rubyconf2012-zero-downtime-deploys-made-easy)
 * [Zero downtime deploys for Rails apps - Pedro Belo (RailsConf 2012)](http://confreaks.com/videos/896-railsconf2012-zero-downtime-deploys-for-rails-apps) using Heroku, Unicorn and HAProxy
 
@@ -763,13 +763,13 @@
 ### RUBY - LOGGING & PROBLEM DETECTION
 
 * [It’s Not in Production Unless it’s Monitored - Joseph Ruscio (RailsConf 2012)](http://confreaks.com/videos/906-railsconf2012-its-not-in-production-unless-its-monitored)
-* [Exception notification](https://www.ruby-toolbox.com/categories/exception_notification)
-* [Rails instrumentation](https://www.ruby-toolbox.com/categories/rails_instrumentation)
-* [Log analysis](https://www.ruby-toolbox.com/categories/Log_Analysis)
-* [Logging](https://www.ruby-toolbox.com/categories/Logging)
-* [Rails admin interfaces](https://www.ruby-toolbox.com/categories/rails_admin_interfaces)
-* [Reporting](https://www.ruby-toolbox.com/categories/reporting)
-* [Server monitoring](https://www.ruby-toolbox.com/categories/server_monitoring)
+* [Ruby-Toolbox - Exception notification](https://www.ruby-toolbox.com/categories/exception_notification)
+* [Ruby-Toolbox - Rails instrumentation](https://www.ruby-toolbox.com/categories/rails_instrumentation)
+* [Ruby-Toolbox - Log analysis](https://www.ruby-toolbox.com/categories/Log_Analysis)
+* [Ruby-Toolbox - Logging](https://www.ruby-toolbox.com/categories/Logging)
+* [Ruby-Toolbox - Rails admin interfaces](https://www.ruby-toolbox.com/categories/rails_admin_interfaces)
+* [Ruby-Toolbox - Reporting](https://www.ruby-toolbox.com/categories/reporting)
+* [Ruby-Toolbox - Server monitoring](https://www.ruby-toolbox.com/categories/server_monitoring)
 
 ### RUBY - MINITEST
 
@@ -931,6 +931,7 @@
 ### VIM - PLUGIN DOCS
 
 * [ack.vim](https://raw.github.com/mileszs/ack.vim/master/doc/ack.txt)
+* [Command-T](https://github.com/wincent/Command-T)
 * [ctags](http://ctags.sourceforge.net/) & [Using Vim and Exuberant CTags for easy source navigation](http://benoithamelin.tumblr.com/post/15101202004/using-vim-exuberant-ctags-easy-source-navigation) [Manual](http://ctags.sourceforge.net/ctags.html) & [FAQ](http://ctags.sourceforge.net/faq.html)
 * [ctrlp.vim](https://github.com/kien/ctrlp.vim/blob/master/readme.md#readme)
 * [gist.vim](https://github.com/mattn/gist-vim/blob/master/README.mkd#readme)
