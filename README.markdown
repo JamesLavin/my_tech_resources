@@ -398,7 +398,7 @@
 * [Great Developers Steal - Ben Scofield (Scotland Ruby Conf 2011)](http://confreaks.com/videos/545-scotlandruby2011-great-developers-steal)
 * [Being an Excellent Software Developer - Michael Norton (WindyCityRails2012)](http://vimeo.com/49882901)
 * [Cultures of Effective Learning - Jeff Cohen (WindyCityRails2012)](http://vimeo.com/49951365)
-* https://www.ruby-toolbox.com/categories/continuous_testing
+* [Continuous Testing - Ruby-Toolbox](https://www.ruby-toolbox.com/categories/continuous_testing)
 * [10-item work-efficiency recipe ](http://m-a-tech.blogspot.com/2012/10/short-10-items-work-efficiency-recipe.html)
 * [Keynote - Tom Preston-Werner (GitHub) (NLC 2011)](http://vimeo.com/35640883)
 * [Level Up! Test-driving your personal development - Alan Gardner (Scotland Ruby Conf 2011)](http://confreaks.com/videos/556-scotlandruby2011-level-up-test-driving-your-personal-development)
@@ -410,6 +410,7 @@
 
 ### PRODUCT DEVELOPMENT - PEOPLE & PROCESS
 
+* [Building a Culture of Quality - Bryan Helmkamp (LoneStarRuby 2013)](http://confreaks.com/videos/2595-lonestarruby2013-building-a-culture-of-quality)
 * [Ready To Code: Automate Your Development Environment - David Kerber (RubyMidwest 2013)](http://confreaks.com/videos/2368-rmw2013-ready-to-code-automate-your-development-environment)
 * [Keynote: Hacking Passion - Katrina Owen (LoneStarRuby 2013)](http://confreaks.com/videos/2600-lonestarruby2013-keynote-hacking-passion)
 * [Failure for Fun and Profit! - Kerri Miller (RubyMidwest 2013)](http://confreaks.com/videos/2371-rmw2013-failure-for-fun-and-profit)
@@ -648,10 +649,10 @@
 ### RUBY - ASYNCHRONOUS/EVENTED
 
 * [The Celluloid Ecosystem - Tony Arcieri (RubyConf 2012)](http://confreaks.com/videos/1302-rubyconf2012-the-celluloid-ecosystem)
-* [Ruby-Toolkit - Background Jobs](https://www.ruby-toolbox.com/categories/Background_Jobs)
-* [Ruby-Toolkit - Concurrent Processing](https://www.ruby-toolbox.com/categories/Concurrent_Processing)
-* [Ruby-Toolkit - Recurring Events](https://www.ruby-toolbox.com/categories/recurring_events)
-* [Ruby-Toolkit - Scheduling](https://www.ruby-toolbox.com/categories/scheduling)
+* [Ruby-Toolbox - Background Jobs](https://www.ruby-toolbox.com/categories/Background_Jobs)
+* [Ruby-Toolbox - Concurrent Processing](https://www.ruby-toolbox.com/categories/Concurrent_Processing)
+* [Ruby-Toolbox - Recurring Events](https://www.ruby-toolbox.com/categories/recurring_events)
+* [Ruby-Toolbox - Scheduling](https://www.ruby-toolbox.com/categories/scheduling)
 * [Brian Shirai on Rubinius 2.0, the GIL, and thread-safe Ruby code](http://www.jstorimer.com/2013/03/26/brian-shirai-threads.html)
 * [Evented Ruby vs Node.js - Jerry Cheung (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1231-aloharuby2012-evented-ruby-vs-node-js) & [RailsConf 2012](http://confreaks.com/videos/894-railsconf2012-evented-ruby-vs-node-js)
 * [Sending async data from Rails into the world - Part Ⅰ](http://blog.arkency.com/2012/10/sending-async-data-from-rails-into-the-world/)
@@ -663,7 +664,7 @@
 
 ### RUBY - BACKUP & DISASTER RECOVERY
 
-* https://www.ruby-toolbox.com/categories/backups
+* [Ruby-Toolbox - Backups](https://www.ruby-toolbox.com/categories/backups)
 
 ### RUBY - BLOCKS
 
@@ -779,9 +780,9 @@
 
 * [Your app is not a black box - Josh Kalderimis (RubyConf 2012)](http://confreaks.com/videos/1282-rubyconf2012-your-app-is-not-a-black-box)
 * [Ruby Monitoring State of the Union - Joseph Ruscio (RubyConf 2012)](http://confreaks.com/videos/1276-rubyconf2012-ruby-monitoring-state-of-the-union)
-* [Ruby-Toolkit - Reporting](https://www.ruby-toolbox.com/categories/reporting)
-* [Ruby-Toolkit - Visualizing Data](https://www.ruby-toolbox.com/categories/visualizing_data)
-* [Ruby-Toolkit - Web Analytics](https://www.ruby-toolbox.com/categories/Web_Analytics)
+* [Ruby-Toolbox - Reporting](https://www.ruby-toolbox.com/categories/reporting)
+* [Ruby-Toolbox - Visualizing Data](https://www.ruby-toolbox.com/categories/visualizing_data)
+* [Ruby-Toolbox - Web Analytics](https://www.ruby-toolbox.com/categories/Web_Analytics)
 
 ### RUBY - NATURAL LANGUAGE PROCESSING
 
@@ -789,7 +790,7 @@
 
 ### RUBY - PERFORMANCE & LOAD TESTING
 
-* [Ruby-Toolkit - Benchmarking](https://www.ruby-toolbox.com/categories/Benchmarking)
+* [Ruby-Toolbox - Benchmarking](https://www.ruby-toolbox.com/categories/Benchmarking)
 * [Cargo Cult Web Performance Optimization - Ilya Grigorik (GoGaRuCo 2012)](http://confreaks.com/videos/1111-gogaruco2012-cargo-cult-web-performance-optimization)
 * [Services, Scale, Backgrounding and WTF is going on here?!??! - David Copeland (GoGaRuCo 2012)](http://confreaks.com/videos/1119-gogaruco2012-services-scale-backgrounding-and-wtf-is-going-on-here)
 * [From Profiling Ruby to Frankenstein Programming - Piotr Szotkowski (Scotland Ruby Conference 2011)](http://confreaks.com/videos/547-scotlandruby2011-from-profiling-ruby-to-frankenstein-programming)
@@ -804,6 +805,7 @@
 
 ### RUBY - REFACTORING
 
+* [Refactoring Legacy Apps with APIs and Messages - Corey Ehmke (LoneStarRubyConf 2013)](http://confreaks.com/videos/2594-lonestarruby2013-refactoring-legacy-apps-with-apis-and-messages)
 * [Code Smells: Your Refactoring Cheat Codes - John Pignata (MountainWest RubyConf 2013)](http://confreaks.com/videos/2336-mwrc2013-code-smells-your-refactoring-cheat-codes)
 * [Transforming Ruby Code - Ben Hughes (BostonRB.org)](http://bostonrb.org/presentations/transforming-ruby-code)
 * [Refactoring - A Live Coding Odyssey - Ben Orenstein (BostonRB.org)](http://bostonrb.org/presentations/refactoring-a-live-coding-odyssey)
@@ -817,11 +819,11 @@
 * https://code.google.com/p/ruby-security/wiki/Guide
 * [Modern Cryptography - John Downey (GoGaRuCo 2012)](http://confreaks.com/videos/1114-gogaruco2012-modern-cryptography)
 * [Hacking with Gems - Ben Smith (Aloha RubyConf 2012)](http://confreaks.com/videos/1243-aloharuby2012-hacking-with-gems)
-* [Ruby-Toolkit - Encryption](https://www.ruby-toolbox.com/categories/encryption)
-* [Ruby-Toolkit - Rails Authentication](https://www.ruby-toolbox.com/categories/rails_authentication)
-* [Ruby-Toolkit - Rails Authorization](https://www.ruby-toolbox.com/categories/rails_authorization)
-* [Ruby-Toolkit - Security Tools](https://www.ruby-toolbox.com/categories/security_tools)
-* [Ruby-Toolkit - Spam Detection](https://www.ruby-toolbox.com/categories/spam_detection)
+* [Ruby-Toolbox - Encryption](https://www.ruby-toolbox.com/categories/encryption)
+* [Ruby-Toolbox - Rails Authentication](https://www.ruby-toolbox.com/categories/rails_authentication)
+* [Ruby-Toolbox - Rails Authorization](https://www.ruby-toolbox.com/categories/rails_authorization)
+* [Ruby-Toolbox - Security Tools](https://www.ruby-toolbox.com/categories/security_tools)
+* [Ruby-Toolbox - Spam Detection](https://www.ruby-toolbox.com/categories/spam_detection)
 
 ### RUBY - TESTING
 
@@ -861,25 +863,25 @@
 
 ## TESTING
 
-* [Testing tools](https://www.ruby-toolbox.com/#Testing)
+* [Ruby-Toolbox - Testing tools](https://www.ruby-toolbox.com/#Testing)
 * [Let's Make Testing Fun Again - Noel Rappin (WindyCityRails2012)](http://vimeo.com/49525644)
 * [Test Your Legacy Rails Code - Noel Rappin (Ruby Midwest 2011)](http://confreaks.com/videos/755-rubymidwest2011-test-your-legacy-rails-code)
 * [Jenkins User Conference San Francisco 2012 videos](http://confreaks.com/events/jucsf2012)
 
 ### TESTING - CONTINUOUS INTEGRATION
 
-* https://www.ruby-toolbox.com/categories/continuous_integration
+* [Ruby-Toolbox - Continuous Integration](https://www.ruby-toolbox.com/categories/continuous_integration)
 * [Deconstructing Travis - Josh ](http://confreaks.com/videos/915-railsconf2012-deconstructing-travis)
 
 ### TESTING - COVERAGE
 
 * SimpleCov, RCov
-* https://www.ruby-toolbox.com/categories/code_metrics
+* [Ruby-Toolbox - Code Metrics](https://www.ruby-toolbox.com/categories/code_metrics)
 
 ### TESTING - INTEGRATION TESTS
 
-* https://www.ruby-toolbox.com/categories/browser_testing
-* https://www.ruby-toolbox.com/categories/distributed_testing
+* [Ruby-Toolbox - Browser Testing](https://www.ruby-toolbox.com/categories/browser_testing)
+* [Ruby-Toolbox - Distributed Testing](https://www.ruby-toolbox.com/categories/distributed_testing)
 
 ### TESTING - MOCKS
 
@@ -889,9 +891,20 @@
 
 * [Why Is a Math Proof Like a Unit Test? - Daniela Wellisz (GoGaRuCo 2012)](http://confreaks.com/videos/1116-gogaruco2012-why-is-a-math-proof-like-a-unit-test)
 
+## TMUX
+
+* [Intro to Tmux (NetTuts)](http://net.tutsplus.com/tutorials/tools-and-tips/intro-to-tmux/)
+* [Tmux Crash Course (Thoughtbot)](http://robots.thoughtbot.com/post/2641409235/a-tmux-crash-course)
+* [ArchLinux Tmux wiki](https://wiki.archlinux.org/index.php/Tmux)
+* [Tmux Cheatsheet (Niklas Ottoson)](http://blog.niklasottosson.com/?p=574)
+* [Tmux Cheatsheet (Alvin Alexander)](http://alvinalexander.com/linux-unix/tmux-cheat-sheet-commands-pdf) & [PDF](http://alvinalexander.com/downloads/linux/tmux-cheat-sheet.pdf)
+* [man page](http://www.openbsd.org/cgi-bin/man.cgi?query=tmux&sektion=1)
+* [FAQ](http://sourceforge.net/p/tmux/tmux-code/ci/master/tree/FAQ)
+* [Pair Programming With Tmux - Flaviu Simihaian](http://www.youtube.com/watch?v=za8FMIWYtUc)
+
 ## USABILITY
 
-* https://www.ruby-toolbox.com/categories/A_B_Testing
+* [Ruby-Toolbox - A/B Testing](https://www.ruby-toolbox.com/categories/A_B_Testing)
 * [Building the Web for Everyone - Greg Tarnoff (MadisonRuby 2012)](http://confreaks.com/videos/1102-madisonruby2012-building-the-web-for-everyone)
 * [Your User: The Animal - Hampton Catlin (MadisonRuby 2012)](http://confreaks.com/videos/1106-madisonruby2012-your-user-the-animal)
 
