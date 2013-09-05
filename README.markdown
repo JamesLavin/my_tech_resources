@@ -713,6 +713,7 @@
 * [Literary Criticism for the Idle Programmer - Roland Swingler (Scotland Ruby Conf 2011)](http://confreaks.com/videos/548-scotlandruby2011-literary-criticism-for-the-idle-programmer)
 * [Building Blocks of Modularity - Jim Weirich (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A03_JimWeirich-SOR.mp4)
 * [The Insufficiency of Good Design - Sarah Mei (RubyConf 2012)](http://confreaks.com/videos/1304-rubyconf2012-the-insufficiency-of-good-design)
+* [Insight, Intuition and Programming - Russ Olsen (Ancient City Ruby 2013)](http://www.youtube.com/watch?v=rQp1CFJxgs0)
 
 ### RUBY - DEBUGGING
 
@@ -808,7 +809,8 @@
 * [Refactoring Legacy Apps with APIs and Messages - Corey Ehmke (LoneStarRubyConf 2013)](http://confreaks.com/videos/2594-lonestarruby2013-refactoring-legacy-apps-with-apis-and-messages)
 * [Code Smells: Your Refactoring Cheat Codes - John Pignata (MountainWest RubyConf 2013)](http://confreaks.com/videos/2336-mwrc2013-code-smells-your-refactoring-cheat-codes)
 * [Transforming Ruby Code - Ben Hughes (BostonRB.org)](http://bostonrb.org/presentations/transforming-ruby-code)
-* [Refactoring - A Live Coding Odyssey - Ben Orenstein (BostonRB.org)](http://bostonrb.org/presentations/refactoring-a-live-coding-odyssey) & [Live Coding With Ben - Ben Orenstein (Ancient City Ruby 2013)](http://www.youtube.com/watch?v=C0H-LyZy9Ko)
+* [Refactoring - A Live Coding Odyssey - Ben Orenstein (BostonRB.org)](http://bostonrb.org/presentations/refactoring-a-live-coding-odyssey)
+* [Live Coding With Ben - Ben Orenstein (Ancient City Ruby 2013)](http://www.youtube.com/watch?v=C0H-LyZy9Ko)
 * [Therapeutic Refactoring - Katrina Owen (CascadiaRuby 2012)](http://confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring)
 * [Refactoring from Good to Great - Ben Orenstein (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1233-aloharuby2012-refactoring-from-good-to-great) & [RubyConf 2012](http://confreaks.com/videos/1283-rubyconf2012-refactoring-from-good-to-great)
 
@@ -898,7 +900,7 @@
 * [ArchLinux Tmux wiki](https://wiki.archlinux.org/index.php/Tmux)
 * [Tmux Cheatsheet (Niklas Ottoson)](http://blog.niklasottosson.com/?p=574)
 * [Tmux Cheatsheet (Alvin Alexander)](http://alvinalexander.com/linux-unix/tmux-cheat-sheet-commands-pdf) & [PDF](http://alvinalexander.com/downloads/linux/tmux-cheat-sheet.pdf)
-* [Impressive Ruby Productivity with Vim and Tmux](http://confreaks.com/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux)
+* [Impressive Ruby Productivity with Vim and Tmux - Chris Hunt](http://confreaks.com/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux)
 * [Tmux - The Terminal Multiplexer - part 1](http://blog.hawkhost.com/2010/06/28/tmux-the-terminal-multiplexer/) & [part 2](http://blog.hawkhost.com/2010/07/02/tmux-%E2%80%93-the-terminal-multiplexer-part-2/)
 * [man page](http://www.openbsd.org/cgi-bin/man.cgi?query=tmux&sektion=1)
 * [FAQ](http://sourceforge.net/p/tmux/tmux-code/ci/master/tree/FAQ)
@@ -923,6 +925,7 @@
 * [Vim graphical cheat sheet-based tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
 * [Buffers, windows & tabs](http://blog.sanctum.geek.nz/buffers-windows-tabs/)
 * [Write code faster: expert-level vim - Ben Orenstein (Railsberry 2012)](http://www.youtube.com/watch?v=SkdrYWhh-8s)
+* [Derek Wyatt videos - Novice](http://www.derekwyatt.org/vim/vim-tutorial-videos/vim-novice-tutorial-videos/), [Intermediate](http://www.derekwyatt.org/vim/vim-tutorial-videos/vim-intermediate-tutorial-videos/) and [Advanced](http://www.derekwyatt.org/vim/vim-tutorial-videos/vim-advanced-tutorial-videos/)
 * [Impressive Ruby Productivity with Vim and Tmux](http://confreaks.com/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux)
 * NerdTree: [Guide](http://usevim.com/2012/07/18/nerdtree/) [Cheatsheet](http://cheat.errtheblog.com/s/nerdtree/) [add a file](http://stackoverflow.com/questions/1459750/vim-and-nerd-tree-extension-adding-a-file)
 * [Vundle plug-in manager](https://github.com/gmarik/vundle)
