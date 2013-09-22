@@ -914,6 +914,7 @@
 
 ## VIM (YEAH, IT'S THE BEST)
 
+* [Full Vim documentation + Vim FAQ (downloadable PDF)](http://nathangrigg.net/vimhelp/)
 * [VimDoc](http://vimdoc.sourceforge.net/htmldoc/)
 * [vim.wikia.com](http://vim.wikia.com/wiki/Vim_documentation)
 * [Vimcasts.org](http://vimcasts.org/)
