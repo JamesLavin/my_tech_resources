@@ -270,9 +270,23 @@
 * [Preparing Yourself for Modern JavaScript Development](http://www.codethinked.com/preparing-yourself-for-modern-javascript-development)
 * [Prototypes and Inheritance in JavaScript](http://msdn.microsoft.com/en-us/magazine/ff852808.aspx)
 
+### JAVASCRIPT - JQUERY
+
+* [Official documentation](http://docs.jquery.com/)
+* [Official API](http://api.jquery.com/)
+* [Youtube.com/jquery](http://www.youtube.com/jquery)
+* [Exterminating Common JQuery bugs](http://confreaks.com/videos/992-jqcon2012-exterminating-common-jquery-bugs)
+* [Tutorials (JQuery.com)](http://docs.jquery.com/Tutorials)
+* [14 Days of JQuery](http://jquery14.com/)
+* [TutorialsPoint.com](http://www.tutorialspoint.com/jquery/)
+
 ### JAVASCRIPT - MEMORY/GARBAGE COLLECTION
 
 * [Garbage Collection & Heap Management - Ryan Sandor Richards (Scotland.js 2012)](http://vimeo.com/45140516)
+
+### JAVASCRIPT - MONITORING
+
+* [Spy-JS.com (JavaScript tracing tool)](https://github.com/spy-js/spy-js)
 
 ### JAVASCRIPT - PACKAGE MANAGERS (CURRENTLY A HUGE PITA)
 
@@ -303,15 +317,9 @@
 * [Sinon.js](http://sinonjs.org/)
 * [Using Capybara to test JavaScript that makes HTTP requests](http://robots.thoughtbot.com/post/34761570235/using-capybara-to-test-javascript-that-makes-http)
 
-### JAVASCRIPT - JQUERY
+### JAVASCRIPT - TOOLS
 
-* [Official documentation](http://docs.jquery.com/)
-* [Official API](http://api.jquery.com/)
-* [Youtube.com/jquery](http://www.youtube.com/jquery)
-* [Exterminating Common JQuery bugs](http://confreaks.com/videos/992-jqcon2012-exterminating-common-jquery-bugs)
-* [Tutorials (JQuery.com)](http://docs.jquery.com/Tutorials)
-* [14 Days of JQuery](http://jquery14.com/)
-* [TutorialsPoint.com](http://www.tutorialspoint.com/jquery/)
+* [CreateJS (Javascript libraries & tools for building rich, interactive experiences with HTML5)](http://createjs.com/)
 
 ## JRUBY
 
@@ -320,6 +328,7 @@
 * [Why JRuby? - Charles Nutter (Aloha RubyConf 2012)](http://confreaks.com/videos/1235-aloharuby2012-why-jruby) & [slides](http://www.slideshare.net/CharlesNutter/aloha-rubyconf-2012-jruby)
 * [RubyGems to All JVM Languages - Yoko Harada (RubyConf 2010)](http://www.confreaks.com/videos/372-rubyconf2010-rubygems-to-all-jvm-languages)
 * [Why JRuby? (Fiona Tay)](http://www.confreaks.com/videos/2312-larubyconf2013-why-i-like-jruby-and-you-should-too)
+* [JRuby: Ruby in the JVM. Why on Earth?!? - Chris McCann](http://www.sdruby.org/podcast/106)
 
 ### JRUBY - PERFORMANCE
 
@@ -361,6 +370,7 @@
 ### MOBILE - iOS DEVELOPMENT
 
 * [Building iOS Apps With RubyMotion - Ray Hightower (Aloha RubyConf 2012)](http://confreaks.com/videos/1245-aloharuby2012-building-ios-apps-with-rubymotion)
+* [RubyMotion: Native iOS Apps in Ruby - James Miller](http://www.sdruby.org/podcast/122)
 * [Inside RubyMotion - Rich Kilmer (RubyConf 2012)](http://confreaks.com/videos/1298-rubyconf2012-inside-rubymotion)
 * [RubyMotion: Rubyizing iOS development - Amit Kumar (GoGaRuCo 2012)](http://confreaks.com/videos/1124-gogaruco2012-rubymotion-rubyizing-ios-development)
 * [RubyMotion: Ruby in your pocket - Laurent Sansonetti (CascadiaRuby 2012)](http://confreaks.com/videos/1076-cascadiaruby2012-rubymotion-ruby-in-your-pocket)
@@ -373,6 +383,11 @@
 ## NODE.JS
 
 * [Ryan Dahl: Less is More with Node.js - Ryan Dahl (JSConf US 2013)](http://www.youtube.com/watch?v=4abYtdopuVE)
+* [Build Your API With Node.js](http://www.sdruby.org/podcast/124)
+
+### NODE.JS - COOL STUFF
+
+* [node-canvas](https://github.com/LearnBoost/node-canvas)
 
 ### NODE.JS - NPM
 
@@ -388,6 +403,8 @@
 * [Official FAQ](http://wiki.postgresql.org/wiki/FAQ)
 * [PostgresWeekly.com](http://postgresweekly.com/)
 * [Redis in my Postgres (linking multiple Postgres dbs or Postgres and Redis/MySQL/Oracle/Twitter/ODBC/etc.)](http://www.craigkerstiens.com/2012/10/18/connecting_to_redis_from_postgres/)
+* [Postgres FTW: Postgres Is Just Easier - Guyren Howe](http://www.sdruby.org/podcast/120)
+* [Postgres Rules](http://www.sdruby.org/podcast/119)
 
 ## PRODUCT DEVELOPMENT
 
@@ -521,11 +538,17 @@
 * [EdgeRails.info](http://www.edgerails.info/)
 * [Real-Time Rails - Brian Cardarella (RailsConf 2013)](http://confreaks.com/videos/2438-railsconf2013-real-time-rails)
 * [What to Expect in Rails 4.0 - Prem Sichanugrist (BostonRB.org)](http://bostonrb.org/presentations/what-to-expect-in-rails-40)
+* [What's New in Rails 4 - Ben Hughes](http://www.sdruby.org/podcast/130)
 
 ### RAILS - APIS (EXTERNAL)
 
 * [Matthew Bass PDF slide deck on creating Rails APIs](http://raleighrb.s3.amazonaws.com/2013-03-12_apis.pdf)
 * [Rails Vs. The Client Side - Noel Rappin (RailsConf 2013)](http://confreaks.com/videos/2447-railsconf2013-rails-vs-the-client-side)
+
+### RAILS - ASSET PIPELINE
+
+* [Smaller Javascript Packages With the Rails Asset Pipeline](http://www.sdruby.org/podcast/118)
+* [Javascript Isolation With the Rails Asset Pipeline](http://www.sdruby.org/podcast/116)
 
 ### RAILS - CLEAN CODE
 
@@ -635,20 +658,27 @@
 * [Ruby, Code, Threads, Events and Flying Robots using EventMachine & Celluloid - Jim Weirich (BigRuby 2013)](http://confreaks.com/videos/2296-bigruby2013-keynote)
 * [Friendly Flying Robots With Ruby - Jim Weirich (SteelCityRuby 2013)](http://steelcityruby.confbots.com/video/72709097)
 * [APIDock - Ruby (good for legacy Ruby)](http://apidock.com/ruby/browse)
+* [SD Ruby screencasts](http://www.sdruby.org/podcast)
 
 ### RUBY - 2.0
 
 * [Ruby 2.0 on Rails - Akira Matsuda (RubyConf 2012)](http://confreaks.com/videos/1275-rubyconf2012-ruby-2-0-on-rails)
 * [Ruby 2.0 - Matz (MountainWest RubyConf 2013)](http://confreaks.com/videos/2334-mwrc2013-ruby-2-0)
 * [What's new in Ruby 2.0 - Patrick Robertson (BostonRB.org)](http://bostonrb.org/presentations/whats-new-in-ruby-20)
+* [Intro to Ruby 2.0 - Matt Aimonetti](http://www.sdruby.org/podcast/132)
 
 ### RUBY - ACTIVE RECORD
 
 * [ActiveRecord Anti-Patterns for Fun and Profit - Ethan Gunderson (Ruby Midwest 2011)](http://confreaks.com/videos/752-rubymidwest2011-activerecord-anti-patterns-for-fun-and-profit)
 
+### RUBY - APIS
+
+* [Writing APIs - James Miller](http://www.sdruby.org/podcast/128)
+
 ### RUBY - ASYNCHRONOUS/EVENTED
 
 * [The Celluloid Ecosystem - Tony Arcieri (RubyConf 2012)](http://confreaks.com/videos/1302-rubyconf2012-the-celluloid-ecosystem)
+* [Faye - Simple Pub/Sub](http://faye.jcoglan.com/) & [Github](https://github.com/faye/faye)
 * [Ruby-Toolbox - Background Jobs](https://www.ruby-toolbox.com/categories/Background_Jobs)
 * [Ruby-Toolbox - Concurrent Processing](https://www.ruby-toolbox.com/categories/Concurrent_Processing)
 * [Ruby-Toolbox - Recurring Events](https://www.ruby-toolbox.com/categories/recurring_events)
@@ -715,6 +745,10 @@
 * [The Insufficiency of Good Design - Sarah Mei (RubyConf 2012)](http://confreaks.com/videos/1304-rubyconf2012-the-insufficiency-of-good-design)
 * [Insight, Intuition and Programming - Russ Olsen (Ancient City Ruby 2013)](http://www.youtube.com/watch?v=rQp1CFJxgs0)
 
+### RUBY - COMMAND LINE APPS
+
+* [Command Line Applications in Ruby: the Good Stuff - Mark Ranallo](http://www.sdruby.org/podcast/117)
+
 ### RUBY - DEBUGGING
 
 * [Better_errors gem](https://github.com/charliesome/better_errors) & [Railscast](http://railscasts.com/episodes/402-better-errors-railspanel)
@@ -772,10 +806,9 @@
 * [Ruby-Toolbox - Reporting](https://www.ruby-toolbox.com/categories/reporting)
 * [Ruby-Toolbox - Server monitoring](https://www.ruby-toolbox.com/categories/server_monitoring)
 
-### RUBY - MINITEST
+### RUBY - METAPROGRAMMING
 
-* [MiniTest: Refactoring Test Unit and RSpec back to version 0.0.1 - Jared Ning (RailsConf 2012)](http://confreaks.com/videos/913-railsconf2012-minitest-refactoring-test-unit-and-rspec-back-to-version-0-0-1)
-* [MiniTest: Write Awesome Tests - Michael J.I. Jackson (MountainWest RubyConf 2012)](http://confreaks.com/videos/962-mwrc2012-minitest-write-awesome-tests)
+* [Class's Class is Class (Metaprogramming is Trolling You) - Chris Kelly](http://www.sdruby.org/podcast/129)
 
 ### RUBY - METRICS (MONITORING WHAT MATTERS)
 
@@ -846,6 +879,13 @@
 ### RUBY - TESTING - CUCUMBER
 
 * [Cucumber backgrounder](https://github.com/cucumber/cucumber/wiki/Cucumber-Backgrounder)
+* [The Cucumber/RSpec cycle](http://www.youtube.com/watch?v=8ZmawOCDeyo&list=PLAD5A45605AEDDA40)
+* [Intro to Outside-In Development With Cucumber - Charles Wood](http://www.youtube.com/watch?v=8I1_siXLTN0)
+
+### RUBY - TESTING - MINITEST
+
+* [MiniTest: Refactoring Test Unit and RSpec back to version 0.0.1 - Jared Ning (RailsConf 2012)](http://confreaks.com/videos/913-railsconf2012-minitest-refactoring-test-unit-and-rspec-back-to-version-0-0-1)
+* [MiniTest: Write Awesome Tests - Michael J.I. Jackson (MountainWest RubyConf 2012)](http://confreaks.com/videos/962-mwrc2012-minitest-write-awesome-tests)
 
 ### RUBY - TESTING - RSPEC
 
@@ -862,6 +902,11 @@
 ## SCALING
 
 * [Scaling Groupon - Tyler Jennings, Michael Cerna (Scotland Ruby Conf 2011)](http://confreaks.com/videos/554-scotlandruby2011-scaling-groupon)
+
+## TECH - MISCELLANEOUS
+
+* [Bocoup videos](http://www.youtube.com/user/BocoupLLC)
+* [BostonRB videos](http://www.youtube.com/channel/UCVMoyi_TUOJ0qVZRt42_ltA)
 
 ## TESTING
 
