@@ -33,6 +33,7 @@
 * [Testing With CoffeeScript](https://efendibooks.com/minibooks/testing-with-coffeescript)
 * [Cheat Sheet (Cheatography)](http://www.cheatography.com/dimitrios/cheat-sheets/coffeescript-cheat-sheet/)
 * [CoffeeScript for the Rubyist - Mark Bates (RailsConf 2012)](http://confreaks.com/videos/862-railsconf2012-coffeescript-for-the-rubyist) & [Aloha RubyConf 2012](http://confreaks.com/videos/1242-aloharuby2012-coffeescript-for-the-rubyist)
+* [CoffeeScript - SDRuby](http://www.sdruby.org/podcast/90)
 * [CodeSchool.com (non-free)](http://coffeescript.codeschool.com/)
 * [coffee-rails-source-maps](https://github.com/markbates/coffee-rails-source-maps)
 
@@ -44,6 +45,7 @@
 * [Sass](http://sass-lang.com/)
 * [Less](http://lesscss.org/)
 * [Compass](http://compass-style.org/)
+* [Getting Oriented With Compass](http://www.sdruby.org/podcast/100)
 * [Kicking Ass + Taking Names with Sass & Compass](http://vimeo.com/24278115)
 * [csscss (finds CSS redundancies)](https://github.com/zmoazeni/csscss)
 * [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
@@ -305,6 +307,7 @@
 
 ### JAVASCRIPT - TESTING
 
+* [Testing Javascript/Coffeescript - Mark Bates](http://www.youtube.com/watch?v=x74ANVOAnKw)
 * [Javascript testing - Ruby-Toolbox](https://www.ruby-toolbox.com/categories/javascript_testing)
 * [Jasmine](http://pivotal.github.com/jasmine/)
 * [Konacha gem (Mocha + Chai)](https://github.com/jfirebaugh/konacha)
@@ -352,6 +355,10 @@
 * [Command Line Fu](http://www.commandlinefu.com/commands/browse/sort-by-votes)
 * [Greg Wooledge's Wiki](http://mywiki.wooledge.org/)
 
+## MACHINE LEARNING
+
+* [Artificial Stupidity: Adding Smarts to Yer Kode - Randall Thomas](http://www.sdruby.org/podcast/79)
+
 ## MISCELLANEOUS
 
 * [List of Programming Screencast Series - Avdi Grimm](http://devblog.avdi.org/2013/06/21/a-list-of-programming-screencast-series/)
@@ -384,6 +391,7 @@
 
 * [Ryan Dahl: Less is More with Node.js - Ryan Dahl (JSConf US 2013)](http://www.youtube.com/watch?v=4abYtdopuVE)
 * [Build Your API With Node.js](http://www.sdruby.org/podcast/124)
+* [Intro to Node.js - Edward O'Connor](http://www.sdruby.org/podcast/85)
 
 ### NODE.JS - COOL STUFF
 
@@ -614,6 +622,7 @@
 ### RAILS - TESTING
 
 * [TDD Workshop: Outward-in Development, Unit Tests, and Fixture Data - Harlow Ward and Adarsh Pandit (RailsConf 2013)](http://confreaks.com/videos/2450-railsconf2013-tdd-workshop-outward-in-development-unit-tests-and-fixture-data)
+* [Behavior Driven Development Using Ruby, Cucumber, and rSpec - Steve Ross](http://www.sdruby.org/podcast/82)
 
 ### RAILS - UI
 
@@ -781,6 +790,7 @@
 
 ### RUBY - FEATURES
 
+* [Ruby Tips, Pt 1 - Mat Sadler](http://globaldev.co.uk/2013/09/ruby-tips-part-1/) & [Pt 2](http://globaldev.co.uk/2013/09/ruby-tips-part-2/) & [Pt 3](http://globaldev.co.uk/2013/09/ruby-tips-part-3/)
 * [Building a mocking library - Andy Lindeman (Ancient City Ruby 2013)](http://www.youtube.com/watch?v=2aYdtS7FZJA)
 * [Building modular, scalable web apps? Of CORS! (Cross-domain AJAX requests) - Michael Bleigh (RubyConf 2012)](http://confreaks.com/videos/1285-rubyconf2012-building-modular-scalable-web-apps-of-cors)
 * [RubyTapas.com (only some free) - Avdi Grimm](http://www.rubytapas.com/episodes)
@@ -794,6 +804,10 @@
 ### RUBY - GEMS
 
 * [Make Awesome Command-Line Apps with Ruby - David Copeland (Ruby Midwest 2011)](http://confreaks.com/videos/762-rubymidwest2011-make-awesome-command-line-apps-with-ruby)
+
+### RUBY - INTERNALS
+
+* [Ruby Hacking Guide (MRI)](http://ruby-hacking-guide.github.io/)
 
 ### RUBY - LOGGING & PROBLEM DETECTION
 
