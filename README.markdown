@@ -769,12 +769,14 @@
 
 #### RUBY - DEBUGGING - PRY
 
-* [Pry](https://github.com/pry/pry), [jazz_hands](https://github.com/nixme/jazz_hands) & [Pry Railscast](http://railscasts.com/episodes/280-pry-with-rails)
+* [Pry](https://github.com/pry/pry) & [Pry Wiki](https://github.com/pry/pry/wiki)
+* [Pry Railscast](http://railscasts.com/episodes/280-pry-with-rails)
 * [Pry API docs](http://rdoc.info/github/pry/pry/master/Pry)
-* [Pry Wiki](https://github.com/pry/pry/wiki)
 * [Pry - The Good Parts! - Conrad Irwin (RailsConf 2013)](https://www.youtube.com/watch?v=jDXsEzOHb2M)
 * [Prying into your app's private life - Corey Woodcox (MountainWest RubyConf 2012)](http://confreaks.com/videos/959-mwrc2012-prying-into-your-app-s-private-life)
 * [PryRepl.org screencasts](http://pryrepl.org/screencasts.html)
+* [Pry screencast - Joshua Cheek](http://www.vimeo.com/26391171)
+* [jazz_hands](https://github.com/nixme/jazz_hands) adds [AwesomePrint](https://github.com/michaeldv/awesome_print), [Hirb](https://github.com/cldwalker/hirb), [Pry Rails](https://github.com/rweng/pry-rails), [Pry Doc](https://github.com/pry/pry-doc), [Pry Git](https://github.com/pry/pry-git), [Pry Remote](https://github.com/Mon-Ouie/pry-remote), [Pry Debugger](https://github.com/nixme/pry-debugger), [Pry Stack Explorer](https://github.com/pry/pry-stack_explorer), [Coolline](https://github.com/Mon-Ouie/coolline) and [Coderay](https://github.com/rubychan/coderay)
 
 ### RUBY - DISTRIBUTED/SOA
 
