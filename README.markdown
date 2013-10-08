@@ -178,6 +178,7 @@
 ### JAVASCRIPT - ANGULAR.JS
 
 * [AngularJS Fundamentals in 60-ish Minutes - Dan Wahlin](http://www.youtube.com/watch?v=i9MHigUZKEM)
+* [A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS - Marius Gundersen (JS Conf.eu)](http://2013.jsconf.eu/speakers/marius-gundersen-a-comparison-of-the-twoway-binding-in-angularjs-emberjs-and-knockoutjs.html)
 
 ### JAVASCRIPT - ASYNCHRONOUS
 
@@ -260,6 +261,7 @@
 ### JAVASCRIPT - EMBER.JS
 
 * [Ember on Rails: #REALTALK - Brandon Hays (LoneStarRuby 2013)](http://confreaks.com/videos/2597-lonestarruby2013-ember-on-rails-realtalk)
+* [A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS - Marius Gundersen (JS Conf.eu)](http://2013.jsconf.eu/speakers/marius-gundersen-a-comparison-of-the-twoway-binding-in-angularjs-emberjs-and-knockoutjs.html)
 
 ### JAVASCRIPT - FRAMEWORKS
 
@@ -271,6 +273,8 @@
 * [Understanding JavaScript Function Invocation and 'this' (Yehuda Katz)](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
 * [Preparing Yourself for Modern JavaScript Development](http://www.codethinked.com/preparing-yourself-for-modern-javascript-development)
 * [Prototypes and Inheritance in JavaScript](http://msdn.microsoft.com/en-us/magazine/ff852808.aspx)
+* [1024+ Seconds of JS Wizardry - Martin Kleppe (JSConf.eu 2013)](http://2013.jsconf.eu/speakers/martin-kleppe-1024-seconds-of-js-wizardry.html)
+* [The JavaScript Interpreter, Interpreted - Martha Girdler (JSConf.eu 2013)](http://2013.jsconf.eu/speakers/martha-girdler-the-javascript-interpreter-interpreted.html)
 
 ### JAVASCRIPT - JQUERY
 
@@ -777,6 +781,7 @@
 * [PryRepl.org screencasts](http://pryrepl.org/screencasts.html)
 * [Pry screencast - Joshua Cheek](http://www.vimeo.com/26391171)
 * [jazz_hands](https://github.com/nixme/jazz_hands) adds [AwesomePrint](https://github.com/michaeldv/awesome_print), [Hirb](https://github.com/cldwalker/hirb), [Pry Rails](https://github.com/rweng/pry-rails), [Pry Doc](https://github.com/pry/pry-doc), [Pry Git](https://github.com/pry/pry-git), [Pry Remote](https://github.com/Mon-Ouie/pry-remote), [Pry Debugger](https://github.com/nixme/pry-debugger), [Pry Stack Explorer](https://github.com/pry/pry-stack_explorer), [Coolline](https://github.com/Mon-Ouie/coolline) and [Coderay](https://github.com/rubychan/coderay)
+* [Better Rails Debugging with better_errors and jazz_hands - Ross Hunter](http://www.mutuallyhuman.com/blog/2013/05/17/better-rails-debugging-with-better_errors-and-jazz_hands/)
 
 ### RUBY - DISTRIBUTED/SOA
 
