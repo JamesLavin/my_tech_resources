@@ -4,6 +4,10 @@
 
 'My Tech Resources' is where I place links to resources I have either found useful or think might be helpful to future me or Ruby/Javascript developers like me.
 
+## CHARACTERS - UTF-8
+
+* [Characters, Symbols and the Unicode Miracle - Computerphile](https://www.youtube.com/watch?v=MijmeoH9LT4) + [other cool Computerphile videos](https://www.youtube.com/user/Computerphile/videos)
+
 ## CLEAN CODE
 
 * [Code review advice from Thoughtbot](https://github.com/thoughtbot/guides/tree/master/code-review)
