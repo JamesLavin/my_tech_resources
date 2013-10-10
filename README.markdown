@@ -773,7 +773,9 @@
 * [Tracing your way through ruby - Elise Huard (BaRuCo 2012)](http://confreaks.com/videos/1330-baruco2012-tracing-your-way-through-ruby)
 * [Code Climate (free only for open-source)](https://codeclimate.com/) [Free for public Github repos](https://codeclimate.com/github/signup)
 * [Debugging Ruby - Aman Gupta (RubyConf 2010)](http://www.confreaks.com/videos/371-rubyconf2010-debugging-ruby)
-* [Mastering the Ruby Debugger - Jim Weirich (Ruby Midwest 2011)](http://confreaks.com/videos/760-rubymidwest2011-mastering-the-ruby-debugger)
+* [Mastering the Ruby Debugger - Jim Weirich (Ruby Midwest 2011)](http://confreaks.com/videos/760-rubymidwest2011-mastering-the-ruby-debugger) (covers Pry, then Ruby Debugger)
+* [Debugging Ruby - Hemant Kumar](http://www.youtube.com/watch?v=F57J1vedlx0)
+* [Effective Debugging - Jonathan Wallace (RubyConf India 2013)](http://www.youtube.com/watch?v=T9JRsNJSpcs)
 
 #### RUBY - DEBUGGING - PRY
 
@@ -786,6 +788,12 @@
 * [Pry screencast - Joshua Cheek](http://www.vimeo.com/26391171)
 * [jazz_hands](https://github.com/nixme/jazz_hands) adds [AwesomePrint](https://github.com/michaeldv/awesome_print), [Hirb](https://github.com/cldwalker/hirb), [Pry Rails](https://github.com/rweng/pry-rails), [Pry Doc](https://github.com/pry/pry-doc), [Pry Git](https://github.com/pry/pry-git), [Pry Remote](https://github.com/Mon-Ouie/pry-remote), [Pry Debugger](https://github.com/nixme/pry-debugger), [Pry Stack Explorer](https://github.com/pry/pry-stack_explorer), [Coolline](https://github.com/Mon-Ouie/coolline) and [Coderay](https://github.com/rubychan/coderay)
 * [Better Rails Debugging with better_errors and jazz_hands - Ross Hunter](http://www.mutuallyhuman.com/blog/2013/05/17/better-rails-debugging-with-better_errors-and-jazz_hands/)
+
+#### RUBY - DEBUGGING - RUBY-DEBUG
+
+* [Getting to know Ruby debugger - Cameron Dykes](http://object.io/site/2011/getting-to-know-ruby-debugger/)
+* [Ruby Debugging: Life After "Puts" - Rob Kaufman (SDRuby)](http://www.sdruby.org/podcast/111)
+* [Debugging with ruby-debug](http://bashdb.sourceforge.net/ruby-debug.html)
 
 ### RUBY - DISTRIBUTED/SOA
 
@@ -802,6 +810,7 @@
 
 ### RUBY - FEATURES
 
+* [Ruby Trick Shots: 24 Ruby Language Tips and Tricks - Peter Cooper](http://www.youtube.com/watch?v=gIEMKOI_Y-4)
 * [Ruby Tips, Pt 1 - Mat Sadler](http://globaldev.co.uk/2013/09/ruby-tips-part-1/) & [Pt 2](http://globaldev.co.uk/2013/09/ruby-tips-part-2/) & [Pt 3](http://globaldev.co.uk/2013/09/ruby-tips-part-3/)
 * [Building a Mocking Library - Andy Lindeman (Ancient City Ruby 2013)](http://www.youtube.com/watch?v=2aYdtS7FZJA)
 * [Building modular, scalable web apps? Of CORS! (Cross-domain AJAX requests) - Michael Bleigh (RubyConf 2012)](http://confreaks.com/videos/1285-rubyconf2012-building-modular-scalable-web-apps-of-cors)
@@ -865,6 +874,8 @@
 
 ### RUBY - REFACTORING
 
+* [Fluent Refactoring - Sam Livingston-Gray (LoneStarRubyConf 2013)](http://www.youtube.com/watch?v=xJZrMbS2dDk)
+* [Refactoring Fat Models With Patterns - Bryan Helmkamp (wroc_love.rb 2013)](http://www.youtube.com/watch?v=IqajIYxbPOI)
 * [Refactoring Legacy Apps with APIs and Messages - Corey Ehmke (LoneStarRubyConf 2013)](http://confreaks.com/videos/2594-lonestarruby2013-refactoring-legacy-apps-with-apis-and-messages)
 * [Code Smells: Your Refactoring Cheat Codes - John Pignata (MountainWest RubyConf 2013)](http://confreaks.com/videos/2336-mwrc2013-code-smells-your-refactoring-cheat-codes)
 * [Transforming Ruby Code - Ben Hughes (BostonRB.org)](http://bostonrb.org/presentations/transforming-ruby-code)
