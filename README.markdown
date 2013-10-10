@@ -790,6 +790,7 @@
 ### RUBY - DISTRIBUTED/SOA
 
 * [Facing the Monolith: Overcoming Monolithic Applications with SOA - Charles Max Wood (Aloha RubyConf 2012)](http://confreaks.com/videos/1249-aloharuby2012-facing-the-monolith-overcoming-monolithic-applications-with-soa)
+* [Distributed Patterns in Ruby - Eric Redmond (Ancient City Ruby 2013)](http://www.youtube.com/watch?v=Adu_dbcnUHA)
 * [Far and Away (A Tour of Distributed Programming with Ruby) - Mark Bates (RubyConf 2010)](http://www.confreaks.com/videos/455-rubyconf2010-far-and-away-a-tour-of-distributed-programming-with-ruby)
 * [Debugging Large Scale Service Oriented Systems - Andy Delcambre (CascadiaRuby 2012)](http://confreaks.com/videos/1068-cascadiaruby2012-debugging-large-scale-service-oriented-systems)
 * [Service Oriented Architecture at Square - Chris Hunt (RubyConf 2012)](http://confreaks.com/videos/1273-rubyconf2012-service-oriented-architecture-at-square)
@@ -802,7 +803,7 @@
 ### RUBY - FEATURES
 
 * [Ruby Tips, Pt 1 - Mat Sadler](http://globaldev.co.uk/2013/09/ruby-tips-part-1/) & [Pt 2](http://globaldev.co.uk/2013/09/ruby-tips-part-2/) & [Pt 3](http://globaldev.co.uk/2013/09/ruby-tips-part-3/)
-* [Building a mocking library - Andy Lindeman (Ancient City Ruby 2013)](http://www.youtube.com/watch?v=2aYdtS7FZJA)
+* [Building a Mocking Library - Andy Lindeman (Ancient City Ruby 2013)](http://www.youtube.com/watch?v=2aYdtS7FZJA)
 * [Building modular, scalable web apps? Of CORS! (Cross-domain AJAX requests) - Michael Bleigh (RubyConf 2012)](http://confreaks.com/videos/1285-rubyconf2012-building-modular-scalable-web-apps-of-cors)
 * [RubyTapas.com (only some free) - Avdi Grimm](http://www.rubytapas.com/episodes)
 * [The Well-Grounded Nuby - David A. Black (BostonRB.org)](http://bostonrb.org/presentations/the-well-grounded-nuby)
@@ -868,6 +869,7 @@
 * [Code Smells: Your Refactoring Cheat Codes - John Pignata (MountainWest RubyConf 2013)](http://confreaks.com/videos/2336-mwrc2013-code-smells-your-refactoring-cheat-codes)
 * [Transforming Ruby Code - Ben Hughes (BostonRB.org)](http://bostonrb.org/presentations/transforming-ruby-code)
 * [Refactoring - A Live Coding Odyssey - Ben Orenstein (BostonRB.org)](http://bostonrb.org/presentations/refactoring-a-live-coding-odyssey)
+* [Refactoring From Good to Great - Ben Orenstein (Aloha Ruby Conf 2012)](http://www.youtube.com/watch?v=DC-pQPq0acs)
 * [Live Coding With Ben - Ben Orenstein (Ancient City Ruby 2013)](http://www.youtube.com/watch?v=C0H-LyZy9Ko)
 * [Therapeutic Refactoring - Katrina Owen (CascadiaRuby 2012)](http://confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring)
 * [Refactoring from Good to Great - Ben Orenstein (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1233-aloharuby2012-refactoring-from-good-to-great) & [RubyConf 2012](http://confreaks.com/videos/1283-rubyconf2012-refactoring-from-good-to-great)
