@@ -365,6 +365,7 @@
 * [Command Line Fu](http://www.commandlinefu.com/commands/browse/sort-by-votes)
 * [Greg Wooledge's Wiki](http://mywiki.wooledge.org/)
 * [Linux Bash Scripting](linux1.ca/docs/Linux_BASH_Scripting.pdf)
+* [The Linux Command Line: A Complete Introduction (PDF)](http://sourceforge.net/projects/linuxcommand/files/TLCL/13.07/TLCL-13.07.pdf/download) & [website](http://www.linuxcommand.org/tlcl.php)
 * [Linux Shell Scripting Cookbook](http://www.pdf-archive.com/2011/03/26/linux-shell-scripting-cookbook/linux-shell-scripting-cookbook.pdf)
 * [Linux Shell Scripting Tutorial](http://www.dis.uniroma1.it/~bordino/shell-tutorial.pdf)
 
