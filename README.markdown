@@ -359,9 +359,14 @@
 
 ### LINUX - SHELL SCRIPTING (BASH)
 
+* [Advanced Bash Scripting Guide](tldp.org/LDP/abs/abs-guide.pdf)
 * [Bash Hackers Wiki](http://wiki.bash-hackers.org/doku.php)
+* [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.pdf)
 * [Command Line Fu](http://www.commandlinefu.com/commands/browse/sort-by-votes)
 * [Greg Wooledge's Wiki](http://mywiki.wooledge.org/)
+* [Linux Bash Scripting](linux1.ca/docs/Linux_BASH_Scripting.pdf)
+* [Linux Shell Scripting Cookbook](http://www.pdf-archive.com/2011/03/26/linux-shell-scripting-cookbook/linux-shell-scripting-cookbook.pdf)
+* [Linux Shell Scripting Tutorial](http://www.dis.uniroma1.it/~bordino/shell-tutorial.pdf)
 
 ## MACHINE LEARNING
 
@@ -587,6 +592,7 @@
 
 ### RAILS - FEATURES
 
+* [An Introduction to Procs, Lambdas and Closures in Ruby - Peter Cooper](https://www.youtube.com/watch?v=VBC-G6hahWA)
 * [Ten Things You Didn't Know Rails Could Do - James Edward Gray II (RailsConf 2012)](http://confreaks.com/videos/889-railsconf2012-ten-things-you-didn-t-know-rails-could-do) & [slides](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-rails-could-do)
 * [Constant Autoloading in Ruby on Rails - Xavier Noria (Barcelona RuCo 2012)](http://confreaks.com/videos/1334-baruco2012-constant-autoloading-in-ruby-on-rails) & [alt version](http://www.youtube.com/watch?v=8lYR9WxIRH0)
 * [Client Side Validations](https://github.com/bcardarella/client_side_validations)
@@ -880,7 +886,6 @@
 * [Code Smells: Your Refactoring Cheat Codes - John Pignata (MountainWest RubyConf 2013)](http://confreaks.com/videos/2336-mwrc2013-code-smells-your-refactoring-cheat-codes)
 * [Transforming Ruby Code - Ben Hughes (BostonRB.org)](http://bostonrb.org/presentations/transforming-ruby-code)
 * [Refactoring - A Live Coding Odyssey - Ben Orenstein (BostonRB.org)](http://bostonrb.org/presentations/refactoring-a-live-coding-odyssey)
-* [Refactoring From Good to Great - Ben Orenstein (Aloha Ruby Conf 2012)](http://www.youtube.com/watch?v=DC-pQPq0acs)
 * [Live Coding With Ben - Ben Orenstein (Ancient City Ruby 2013)](http://www.youtube.com/watch?v=C0H-LyZy9Ko)
 * [Therapeutic Refactoring - Katrina Owen (CascadiaRuby 2012)](http://confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring)
 * [Refactoring from Good to Great - Ben Orenstein (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1233-aloharuby2012-refactoring-from-good-to-great) & [RubyConf 2012](http://confreaks.com/videos/1283-rubyconf2012-refactoring-from-good-to-great)
@@ -1023,9 +1028,9 @@
 * [ctrlp.vim](https://github.com/kien/ctrlp.vim/blob/master/readme.md#readme)
 * [gist.vim](https://github.com/mattn/gist-vim/blob/master/README.mkd#readme)
 * [jslint.vim](https://github.com/hallettj/jslint.vim/blob/master/README.markdown)
-* [NERDTree](https://raw.github.com/scrooloose/nerdtree/master/doc/NERD_tree.txt)
+* [NERDTree](https://raw.github.com/scrooloose/nerdtree/master/doc/NERD_tree.txt) & [video tutorial](http://www.youtube.com/watch?v=CPu9mDpSYj0)
 * [Recover.vim](https://raw.github.com/chrisbra/Recover.vim/master/doc/recoverPlugin.txt)
-* [snipmate](https://raw.github.com/garbas/vim-snipmate/master/doc/snipMate.txt)
+* [snipmate](https://raw.github.com/garbas/vim-snipmate/master/doc/snipMate.txt) & [video tutorial](http://www.youtube.com/watch?v=xV2IsE5OHd4)
 * [supertab](https://raw.github.com/ervandew/supertab/master/doc/supertab.txt)
 * [syntastic](https://raw.github.com/scrooloose/syntastic/master/doc/syntastic.txt)
 * [tabular](https://raw.github.com/godlygeek/tabular/master/doc/Tabular.txt)
