@@ -931,6 +931,13 @@
 * [MiniTest: Refactoring Test Unit and RSpec back to version 0.0.1 - Jared Ning (RailsConf 2012)](http://confreaks.com/videos/913-railsconf2012-minitest-refactoring-test-unit-and-rspec-back-to-version-0-0-1)
 * [MiniTest: Write Awesome Tests - Michael J.I. Jackson (MountainWest RubyConf 2012)](http://confreaks.com/videos/962-mwrc2012-minitest-write-awesome-tests)
 
+### RUBY - TESTING - POLTERGEIST
+
+* [Cucumber: Testing Web Applications With Capybara, Poltergeist and PhantomJS](https://blog.codecentric.de/en/2013/08/cucumber-capybara-poltergeist/)
+* [Migrating From Capybara-Webkit to Poltergeist-PhantomJs](http://www.railsonmaui.com/blog/2013/08/06/migrating-from-capybara-webkit-to-poltergeist-phantomjs/)
+* [Poltergeist](https://github.com/jonleighton/poltergeist)
+* [Testing JavaScript With PhantomJS - Railscasts (non-free)](http://railscasts.com/episodes/391-testing-javascript-with-phantomjs)
+
 ### RUBY - TESTING - RSPEC
 
 * [RSpec 2 documentation](https://www.relishapp.com/rspec)
