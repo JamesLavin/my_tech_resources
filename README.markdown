@@ -605,6 +605,7 @@
 
 ### RAILS - GEMS
 
+* [Crafting Gems - Pat Allan (RailsConf 2013)](http://confreaks.com/videos/2482-railsconf2013-crafting-gems)
 * [CanCan](https://github.com/ryanb/cancan)
 * [Devise](https://github.com/plataformatec/devise)
 * [DeviseInvitable](https://github.com/scambra/devise_invitable)
@@ -970,6 +971,11 @@
 
 * [Ruby-Toolbox - Continuous Integration](https://www.ruby-toolbox.com/categories/continuous_integration)
 * [Deconstructing Travis - Josh ](http://confreaks.com/videos/915-railsconf2012-deconstructing-travis)
+
+#### TESTING - CONTINUOUS INTEGRATION - JENKINS
+
+* [Jenkins User Conference San Francisco 2012](http://confreaks.com/events/jucsf2012)
+* [Jenkins User Conference Palo Alto 2013](http://confreaks.com/events/jenkins2013)
 
 ### TESTING - COVERAGE
 
