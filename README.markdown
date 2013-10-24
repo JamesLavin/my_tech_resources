@@ -680,8 +680,6 @@
 * [Tracing Your Way Through Ruby (BaRuCo 2012)](http://www.youtube.com/watch?v=CvzEibqrriM)i
 * [10 Things You Didn't Know Ruby Could Do - @JEG2](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do)
 * [Ruby Safari - Ola Bini (Ruby Midwest 2011)](http://confreaks.com/videos/750-rubymidwest2011-ruby-safari)
-* [Ruby, Code, Threads, Events and Flying Robots using EventMachine & Celluloid - Jim Weirich (BigRuby 2013)](http://confreaks.com/videos/2296-bigruby2013-keynote)
-* [Friendly Flying Robots With Ruby - Jim Weirich (SteelCityRuby 2013)](http://steelcityruby.confbots.com/video/72709097)
 * [APIDock - Ruby (good for legacy Ruby)](http://apidock.com/ruby/browse)
 * [SD Ruby screencasts](http://www.sdruby.org/podcast)
 
@@ -694,13 +692,14 @@
 
 ### RUBY - ACTIVE RECORD
 
+* [The Littlest ORM - Noah Gibbs (GoGaRuCo 2013)](http://confreaks.com/videos/2669-gogaruco2013-the-littlest-orm)
 * [ActiveRecord Anti-Patterns for Fun and Profit - Ethan Gunderson (Ruby Midwest 2011)](http://confreaks.com/videos/752-rubymidwest2011-activerecord-anti-patterns-for-fun-and-profit)
 
 ### RUBY - APIS
 
 * [Writing APIs - James Miller](http://www.sdruby.org/podcast/128)
 
-### RUBY - ASYNCHRONOUS/EVENTED
+### RUBY - ASYNCHRONOUS/EVENTED/THREADED
 
 * [The Celluloid Ecosystem - Tony Arcieri (RubyConf 2012)](http://confreaks.com/videos/1302-rubyconf2012-the-celluloid-ecosystem)
 * [Faye - Simple Pub/Sub](http://faye.jcoglan.com/) & [Github](https://github.com/faye/faye)
@@ -716,6 +715,8 @@
 * [Introduction to EventMachine and Evented Programming - Mathias Meyer (Scotland Ruby Conf 2011)](http://confreaks.com/videos/555-scotlandruby2011-introduction-to-eventmachine-and-evented-programming)
 * [High Performance Ruby: Threading versus Evented - Dr. Nic Williams (Ruby Midwest 2011)](http://confreaks.com/videos/768-rubymidwest2011-high-performance-ruby-threading-versus-evented)
 * [Asynchronous Processing for Fun and Profit - Mike Perham (RubyConf 2012)](http://confreaks.com/videos/1290-rubyconf2012-asynchronous-processing-for-fun-and-profit)
+* [Ruby, Code, Threads, Events and Flying Robots using EventMachine & Celluloid - Jim Weirich (BigRuby 2013)](http://confreaks.com/videos/2296-bigruby2013-keynote)
+* [Friendly Flying Robots With Ruby - Jim Weirich (SteelCityRuby 2013)](http://steelcityruby.confbots.com/video/72709097)
 
 ### RUBY - BACKUP & DISASTER RECOVERY
 
@@ -748,6 +749,7 @@
 * [Avdi Grimm's "Naught" gem](https://github.com/avdi/naught), ["Null Objects and Falsiness"](http://devblog.avdi.org/2011/05/30/null-objects-and-falsiness/), and [two papers](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf) & [explaining the null object pattern](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf)
 * [Component-based Architectures in Ruby and Rails - Stephan Hagemann (MountainWest RubyConf 2013)](http://confreaks.com/videos/2350-mwrc2013-component-based-architectures-in-ruby-and-rails)
 * [Refactoring Fat Models with Patterns](http://www.confreaks.com/videos/2290-larubyconf2013-refactoring-fat-models-with-patterns)
+* [Rules - Sandi Metz (BaRuCo 2013)](http://www.youtube.com/watch?v=npOGOmkxuio)
 * [Building a Ruby Library, the Parts No One Talks About - Mitchell Hashimoto (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1246-aloharuby2012-building-a-ruby-library-the-parts-no-one-talks-about)
 * [Kata and Analysis - Jim Weirich (BostonRB.org)](http://bostonrb.org/presentations/kata-and-analysis)
 * [The Value of Value Objects - Jeremy Weiskotten (BostonRB.org)](http://bostonrb.org/presentations/the-value-of-value-objects)
@@ -818,6 +820,7 @@
 
 ### RUBY - FEATURES
 
+* [Beneath the Surface: Regular Expressions in Ruby - Nell Shamrell (GoGaRuCo 2013)](http://confreaks.com/videos/2678-gogaruco2013-beneath-the-surface-regular-expressions-in-ruby)
 * [Ruby Trick Shots: 24 Ruby Language Tips and Tricks - Peter Cooper](http://www.youtube.com/watch?v=gIEMKOI_Y-4)
 * [Ruby Tips, Pt 1 - Mat Sadler](http://globaldev.co.uk/2013/09/ruby-tips-part-1/) & [Pt 2](http://globaldev.co.uk/2013/09/ruby-tips-part-2/) & [Pt 3](http://globaldev.co.uk/2013/09/ruby-tips-part-3/)
 * [Building a Mocking Library - Andy Lindeman (Ancient City Ruby 2013)](http://www.youtube.com/watch?v=2aYdtS7FZJA)
@@ -868,6 +871,8 @@
 ### RUBY - PERFORMANCE & LOAD TESTING
 
 * [Ruby-Toolbox - Benchmarking](https://www.ruby-toolbox.com/categories/Benchmarking)
+* [Measuring Ruby - Sam Saffron & Jeff Atwood (GoGaRuCo 2013)](http://confreaks.com/videos/2668-gogaruco2013-measuring-ruby)
+* [Frequently Asked Questions - Ben Orenstein (GoGaRuCo 2013)](http://confreaks.com/videos/2677-gogaruco2013-frequently-asked-questions)
 * [Cargo Cult Web Performance Optimization - Ilya Grigorik (GoGaRuCo 2012)](http://confreaks.com/videos/1111-gogaruco2012-cargo-cult-web-performance-optimization)
 * [Services, Scale, Backgrounding and WTF is going on here?!??! - David Copeland (GoGaRuCo 2012)](http://confreaks.com/videos/1119-gogaruco2012-services-scale-backgrounding-and-wtf-is-going-on-here)
 * [From Profiling Ruby to Frankenstein Programming - Piotr Szotkowski (Scotland Ruby Conference 2011)](http://confreaks.com/videos/547-scotlandruby2011-from-profiling-ruby-to-frankenstein-programming)
