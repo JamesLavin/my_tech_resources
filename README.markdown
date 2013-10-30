@@ -1038,6 +1038,7 @@
 * NerdTree: [Guide](http://usevim.com/2012/07/18/nerdtree/) [Cheatsheet](http://cheat.errtheblog.com/s/nerdtree/) [add a file](http://stackoverflow.com/questions/1459750/vim-and-nerd-tree-extension-adding-a-file)
 * [Vundle plug-in manager](https://github.com/gmarik/vundle)
 * [A Byte of Vim](http://files.swaroopch.com/vim/byte_of_vim_v051.pdf)
+* [Vi/Vim notes - Darin Brezeale](http://www.brezeale.com/technical_notes/vim_notes.shtml)
 
 ### VIM - PLUGIN DOCS
 
