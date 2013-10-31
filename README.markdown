@@ -1029,6 +1029,7 @@
 * [VimNinjas.com](http://www.vimninjas.com/)
 * [OpenVim tutorial](http://www.openvim.com/tutorial.html)
 * [UseVim.com](http://usevim.com/)
+* [The grammar of Vim - Rafe Colburn](http://rc3.org/2012/05/12/the-grammar-of-vim/)
 * [vi and vim editor: Tutorial and advanced features](http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html)
 * [Vim graphical cheat sheet-based tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
 * [Buffers, windows & tabs](http://blog.sanctum.geek.nz/buffers-windows-tabs/)
