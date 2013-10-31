@@ -1059,6 +1059,7 @@
 * [VimNinjas.com](http://www.vimninjas.com/)
 * [OpenVim tutorial](http://www.openvim.com/tutorial.html)
 * [UseVim.com](http://usevim.com/)
+* [Learn to speak vim – verbs, nouns, and modifiers! - Yan Pritzker](http://yanpritzker.com/2011/12/16/learn-to-speak-vim-verbs-nouns-and-modifiers/)
 * [The grammar of Vim - Rafe Colburn](http://rc3.org/2012/05/12/the-grammar-of-vim/)
 * [vi and vim editor: Tutorial and advanced features](http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html)
 * [Vim graphical cheat sheet-based tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
