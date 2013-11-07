@@ -670,6 +670,25 @@
 
 * [Andrew Glover: Asynchronous Processing, Messaging, and Redis/Resque](http://blip.tv/rubynation/andrew-glover-asynchronous-processing-messaging-and-redis-with-resque-6558320)
 
+# RESTRUCTURED TEXT
+
+* [ReStructured Text](http://docutils.sourceforge.net/rst.html)
+* [ReStructured Text Syntax - Thomas Cokelaer](http://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html)
+* [ReStructured Text Demo (.txt)](http://docutils.sourceforge.net/docs/user/rst/demo.txt) & [(.html)](http://docutils.sourceforge.net/docs/user/rst/demo.html)
+* [ReStructured Text Primer (.txt)](http://docutils.sourceforge.net/docs/user/rst/demo.txt) & [(.html)](http://docutils.sourceforge.net/docs/user/rst/quickstart.html)
+* [ReStructured Text Cheat Sheet - David Goodger (.txt)](http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt) & [(.html)](http://docutils.sourceforge.net/docs/user/rst/cheatsheet.html)
+
+## RESTRUCTURED TEXT - RIV
+
+* [Rykka (ReStructured Text vim plugin)](https://github.com/Rykka/riv.vim)
+* [Riv: QuickStart (G.F. Rykka)](https://github.com/Rykka/riv.vim/blob/master/doc/riv_quickstart.rst)
+* [Riv: Detailed Instructions](https://github.com/Rykka/riv.vim/blob/master/doc/riv_instruction.rst)
+* [Writing A Book With Vim, Restructured Text, and Sphinx - Tom Purl](http://tompurl.com/2012/11/22/writing-a-book-with-vim-restructured-text-and-sphinx/)
+
+## RESTRUCTURED TEXT - SPHINX
+
+* [Sphinx (Python Document Generator)](http://sphinx-doc.org/)
+
 ## RUBY
 
 * [Github's style guide](https://github.com/styleguide/ruby)
@@ -1044,6 +1063,7 @@
 * [Vundle plug-in manager](https://github.com/gmarik/vundle)
 * [A Byte of Vim](http://files.swaroopch.com/vim/byte_of_vim_v051.pdf)
 * [Vi/Vim notes - Darin Brezeale](http://www.brezeale.com/technical_notes/vim_notes.shtml)
+* [Learn Vimscript the Hard Way - Steve Losh (non-free)](http://learnvimscriptthehardway.stevelosh.com/)
 
 ### VIM - PLUGIN DOCS
 
