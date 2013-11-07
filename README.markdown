@@ -449,6 +449,7 @@
 
 ### PRODUCT DEVELOPMENT - PEOPLE & PROCESS
 
+* [Lessons from Theater and Software - Kevin Stevens (Rocky Mountain Ruby 2013)](http://confreaks.com/videos/2771-rockymountainruby2013-lightning-talk-lessons-from-theater-and-software)
 * [Building a Culture of Quality - Bryan Helmkamp (LoneStarRuby 2013)](http://confreaks.com/videos/2595-lonestarruby2013-building-a-culture-of-quality)
 * [Ready To Code: Automate Your Development Environment - David Kerber (RubyMidwest 2013)](http://confreaks.com/videos/2368-rmw2013-ready-to-code-automate-your-development-environment)
 * [Keynote: Hacking Passion - Katrina Owen (LoneStarRuby 2013)](http://confreaks.com/videos/2600-lonestarruby2013-keynote-hacking-passion)
@@ -751,6 +752,7 @@
 * [Refactoring Fat Models with Patterns](http://www.confreaks.com/videos/2290-larubyconf2013-refactoring-fat-models-with-patterns)
 * [Rules - Sandi Metz (BaRuCo 2013)](http://www.youtube.com/watch?v=npOGOmkxuio)
 * [Building a Ruby Library, the Parts No One Talks About - Mitchell Hashimoto (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1246-aloharuby2012-building-a-ruby-library-the-parts-no-one-talks-about)
+* [Here Be Dragons - Katrina Owen (Rocky Mountain Ruby 2013)](http://confreaks.com/videos/2649-rockymountainruby2013-here-be-dragons)
 * [Kata and Analysis - Jim Weirich (BostonRB.org)](http://bostonrb.org/presentations/kata-and-analysis)
 * [The Value of Value Objects - Jeremy Weiskotten (BostonRB.org)](http://bostonrb.org/presentations/the-value-of-value-objects)
 * [Life on the Edge - James Edward Gray II (Ruby Midwest 2011)](http://confreaks.com/videos/767-rubymidwest2011-life-on-the-edge)
@@ -912,9 +914,11 @@
 
 ### RUBY - TESTING
 
+* [SOLID and TDD, Sitting in a Tree - Mike Nicholaides (Rocky Mountain Ruby 2013)](http://confreaks.com/videos/2653-rockymountainruby2013-solid-and-tdd-sitting-in-a-tree)
 * [It's not your test framework, it's you - Robbie Clutton & Matt Parker (LA Ruby Conf 2013)](http://confreaks.com/videos/2313-larubyconf2013-it-s-not-your-test-framework-it-s-you)
 * [TDD: It's More Than Just "Testing" - Evan Light (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A05_EvanLight-SOR.mp4)
 * [Magic Tricks of Testing - Sandi Metz (RailsConf 2013)](http://confreaks.com/videos/2452-railsconf2013-the-magic-tricks-of-testing) & [slides](https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf)
+* [DRYing up RSpec - Dan Sharp (Rocky Mountain Ruby 2013)](http://confreaks.com/videos/2777-rockymountainruby2013-lightning-talk-drying-up-rspec)
 * [Testing Should Be Fun - Noel Rappin (RailsConf 2012)](http://confreaks.com/videos/1306-rubyconf2012-testing-should-be-fun)
 * [Testing HTTP APIs in Ruby - Shai Rosenfeld (RailsConf 2013)](http://confreaks.com/videos/2432-railsconf2013-testing-http-apis-in-ruby)
 * [Boundaries - Gary Bernhardt (RailsConf 2012)](http://confreaks.com/videos/1314-rubyconf2012-boundaries)
