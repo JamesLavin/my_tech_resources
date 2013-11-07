@@ -1,0 +1,46 @@
+VIM NOTES - James Lavin
+
+p                        paste after current character/line (depending on default register contents)
+
+P                        paste before current character/line (depending on default register contents)
+
+xp                       exchange characters
+                           x deletes & puts char into default register
+                           p pastes default register contents after current character
+
+ddp                      exchange lines
+                           dd deletes line & puts into default register
+                           p pastes default register contents after current line
+
+yyp                      duplicate line
+                           yy copies line into default register
+
+yiw                      copy current word into default register
+
+diw                      delete current word & paste into default register
+
+"ayy                     yank line into register a
+"Ayy                     yank line and append to register a
+:yank a                  yank line into register a
+:yank A                  yank line and append to register a
+"0p                      paste contents of the yank register after current character/line
+"ap                      paste contents of register a after current character/line
+"0P                      paste contents of the yank register before current character/line
+"aP                      paste contents of register a before current character/line
+"_diw                    delete word without touching the default register
+"ayiw                    yank current word into register a
+"aP                      paste contents of register a before current character/line
+qaq                      clear contents of register a
+
+:reg "                   display contents of default register
+:reg 0                   display contents of yank register (i.e., the last content yanked)
+:reg "0                  display contents of default & yank registers
+:reg "_                  display contents of the black hole register (like /dev/null)
+
+:global/TODO/yank A      yank all lines with /TODO/ into register a
+                           by finding all lines with /TODO/ and running 'yank A' on each
+
+:h _____                 Help
+:h :yank
+:h registers
+
