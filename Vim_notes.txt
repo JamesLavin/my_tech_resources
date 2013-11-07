@@ -1,5 +1,19 @@
 VIM NOTES - James Lavin
 
+A                        switch to inset mode and jump to end of line
+W                        jump to next word
+u                        undo
+
+f[char]                  move forward to first character 'char'
+#                        search backwards to previous word under cursor
+/phrase                  search forwards for 'phrase'
+n                        jump to next match
+.                        repeat last command
+
+:                        switch to command mode
+<Ctrl-R>=                (insert mode) switch to expression register (which evaluates VimScript)
+
+
 p                        paste after current character/line (depending on default register contents)
 
 P                        paste before current character/line (depending on default register contents)
@@ -16,6 +30,16 @@ yyp                      duplicate line
                            yy copies line into default register
 
 yiw                      copy current word into default register
+viw                      select current word
+viwp                     select current word, paste from default register, and store deleted in default register
+ciw                      copy current word into default register, delete it from document & switch to insert mode
+v3e                      select from current cursor till end of 3rd word and switch to insert mode
+VG                       visual select all lines
+
+<Ctrl-R>"                (insert mode) paste contents of default register
+<Ctrl-R>a                (insert mode) paste contents of register a
+<Ctrl-R>0                (insert mode) paste contents of yank register
+<Ctrl-R><Ctrl-O>"        (insert mode) paste contents of default register literally
 
 diw                      delete current word & paste into default register
 
@@ -23,8 +47,10 @@ diw                      delete current word & paste into default register
 "Ayy                     yank line and append to register a
 :yank a                  yank line into register a
 :yank A                  yank line and append to register a
+""p                      paste contents of default register after current character/line
 "0p                      paste contents of the yank register after current character/line
 "ap                      paste contents of register a after current character/line
+"/p                      paste contents of last search register after current character/line
 "0P                      paste contents of the yank register before current character/line
 "aP                      paste contents of register a before current character/line
 "_diw                    delete word without touching the default register
@@ -40,7 +66,17 @@ qaq                      clear contents of register a
 :global/TODO/yank A      yank all lines with /TODO/ into register a
                            by finding all lines with /TODO/ and running 'yank A' on each
 
+vimtutor
+:h quickref
 :h _____                 Help
 :h :yank
+:h i_ctrl-r              (i stands for "insert mode")
+:h i_ctrl-r_ctrl-o
+:h quote=
 :h registers
+:h :normal
+
+:nnoremap Q [VimScript expression]  creates alias/shortcut 'Q'
+:'<,'>normal Q           apply Q to each selected line
+
 
