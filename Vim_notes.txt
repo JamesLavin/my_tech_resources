@@ -1,26 +1,21 @@
-VIM NOTES - James Lavin
+VIM NOTES - James Lavin - 8 Nov 2013
+  (Hugely influence by Drew Neil's vimcasts.org)
 
 <leader>                 \ (by default)
+vimtutor (from cmd line) launch vimtutor
 
 NORMAL MODE
 .                        repeat last command
 u                        undo
-ctrl-v u00ac             (insert mode) insert character ¬
-ctrl-v u25b8             (insert mode) insert character ▸
-ctrl-v ctrl-i            (insert mode) insert tab
 >>                       indent current line
 5>>                      indent next 5 lines
 3<<                      outdent next 3 lines
 ==                       auto-indent current line
 6==                      auto-indent next 6 lines
->                        (visual mode) indent selected lines
-<                        (visual mode) outdent selected lines
-=                        (visual mode) auto-indent selected lines
 >{motion}                auto-format based on motion
 =G                       auto-format from current to end of file
 vi}                      visual mode select inside {}
 =i}                      auto-indent inside {}
-
 gg                       goto top of file
 G                        goto bottom of file
 :13 (or 13G)             goto line 13
@@ -50,23 +45,17 @@ f[char]                  move forward to first character 'char'
   n                        jump to next match
 <Ctrl>r                  last search pattern
 %                        jump to matching {, }, (, ), <, >, etc.
-
 gv                       reselect last visual selection
 p                        paste after current character/line (depending on default register contents)
-
 P                        paste before current character/line (depending on default register contents)
-
 xp                       exchange characters
                            x deletes & puts char into default register
                            p pastes default register contents after current character
-
 ddp                      exchange lines
                            dd deletes line & puts into default register
                            p pastes default register contents after current line
-
 yyp                      duplicate line
                            yy copies line into default register
-
 yiw                      copy current word into default register
 viw                      select current word
 viwp                     select current word, paste from default register, and store deleted in default register
@@ -104,6 +93,9 @@ COMMANDLINE MODE
                            it's a regular Vim buffer, so regular commands work
 
 INSERT MODE
+ctrl-v u00ac             insert character ¬
+ctrl-v u25b8             insert character ▸
+ctrl-v ctrl-i            insert tab
 <Ctrl-R>"                paste contents of default register
 <Ctrl-R>a                paste contents of register a
 <Ctrl-R>0                paste contents of yank register
@@ -152,7 +144,7 @@ http://vimcasts.org/episodes/populating-the-arglist/
 :argdo <Ctrl>r:          pastes the ": register (holding content of last ex command)
 :bufdo {cmd}             execute cmd on all files in buffer list
 
-vimtutor
+HELP/DOCUMENTATION
 :h quickref
 :h vimmodes
 :h _____                 Help
@@ -221,9 +213,12 @@ gT                       move to previous tab
 #gt                      move to tab number #
 :tabmove                 move current tab to the end
 :tabmove 0               move current tab to the beginning
-:tabmove 1        move current tab to become the 2nd tab
+:tabmove 1               move current tab to become the 2nd tab
 
 VISUAL MODE
+>                        indent selected lines
+<                        outdent selected lines
+=                        auto-indent selected lines
 <Ctrl>v                  switch to visual mode
 :s/x/y/g                 search (for 'x') and replace (with 'y') across selected lines
 :s/\%Vx/y/g              search (for 'x') and replace (with 'y') across selected block
