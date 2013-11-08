@@ -41,12 +41,14 @@ V                        visual line mode and select line
 Vip                      visual line mode and select paragraph
 vit                      visual character mode and select HTML tag
 v$h                      visual character mode, go to end of line, then move back one character
-
 f[char]                  move forward to first character 'char'
+*                        search forwards for next word under cursor
 #                        search backwards to previous word under cursor
 /regex                   search forwards for /regex/
+  n                        jump to next match
 ?regex                   search backwards for /regex/
-n                        jump to next match
+  n                        jump to next match
+<Ctrl>r                  last search pattern
 %                        jump to matching {, }, (, ), <, >, etc.
 
 gv                       reselect last visual selection
@@ -76,7 +78,25 @@ diw                      delete current word & paste into default register
 :                        switch to command mode
 
 COMMANDLINE MODE
+:source $MYVIMRC         reload .vimrc
+:e $MYVIMRC              edit .vimrc: 
+:h :vimgrep
+:vimgrep /\v`[^`]*`/g %  search for matches in current file and place them in quickfix list
+  :cnext                   jump to next match
+  :cprev                   jump to previous match
+:vim /word/g *.rb        search *.rb files for /word/
+:vim /word/g `find ...`  search specified files for /word/
+:vim /word/g ##          search arglist for /word/
+:vim /<Ctrl>r//g ##      search arglist for most recent search pattern
+:%s/\a/*/g               substitute on all lines
 :r [filename]            read file and insert contents in current cursor position
+:9yank                   yank line 9 without moving cursor
+:9t16 (:9copy16)         yank line 9 and copy to line 16
+:9t. (:9copy.)           yank line 9 and copy to current line
+:t7                      yank current line, paste below line 7, move cursor
+:-3t.                    yank line 3 above, paste below current line, move cursor
+:+4t.                    yank line 4 below, paste below current line, move cursor
+:5,11t.                  yank lines 5-11, paste below current line, move cursor
 %                        current file's path
 <Ctrl>p                  go backwards through history
 <Ctrl>n                  go forwards through history
@@ -109,9 +129,28 @@ qaq                      clear contents of register a
 :reg "                   display contents of default register
 :reg 0                   display contents of yank register (i.e., the last content yanked)
 :reg "0                  display contents of default & yank registers
+:reg :                   display contents of : register holding most recent ex command
 :reg "_                  display contents of the black hole register (like /dev/null)
 :global/TODO/yank A      yank all lines with /TODO/ into register a
                            by finding all lines with /TODO/ and running 'yank A' on each
+
+ARG LIST/BUFFER LIST
+http://vimcasts.org/episodes/populating-the-arglist/
+:h :args_f
+:h {arglist}
+:h wildcards
+:args                    show the contents of the arglist
+:args {arglist}          set the content of the arglist
+  :args `find ...`
+  :args file1 file2
+  :args *.rb
+:argdo {cmd}             execute cmd on all files in arglist
+                           Works best with 'hidden' setting enabled
+:argdo %s/\a/*/ge        substitute on all files in {arglist} (e suppresses errors)
+:silent argdo %s/\a/*/ge substitute on all files and suppress output
+:silent! argdo {cmd}     suppress all output, including error messages
+:argdo <Ctrl>r:          pastes the ": register (holding content of last ex command)
+:bufdo {cmd}             execute cmd on all files in buffer list
 
 vimtutor
 :h quickref
@@ -253,7 +292,7 @@ http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff
 http://vimcasts.org/episodes/fugitive-vim-browsing-the-git-object-database/
 http://vimcasts.org/episodes/fugitive-vim-exploring-the-history-of-a-git-repository/
 :h :Git
-:h :Gwrite, :Gread, :Gblame, etc.
+:h :Gwrite, :Gread, :Gblame, :Glog, :Ggrep, etc.
 :h :diffget / :h do
 :h :diffput / :h dp
 :Gwrite (:Git add %)     stage current file to the index
@@ -311,11 +350,27 @@ http://vimcasts.org/episodes/fugitive-vim-exploring-the-history-of-a-git-reposit
 :!pwd                    print working directory contents (for shell)
 :nnoremap Q [VimScript expression]  creates alias/shortcut 'Q'
 :'<,'>normal Q           apply Q to each selected line
-:Glog --                 put list of commits into quickfix list
-:Glog -- %               put list of commits that touch current file into quickfix list
+:Glog --                 put list of ancestral commits into quickfix list
+:Glog -- %               put list of ancestral commits that touch current file into quickfix list
+:Ggrep 'find me'         place 'git grep' search results in quickfix list
+:Ggrep --cached 'find me'place 'git grep' search results on index in quickfix list
+:Ggrep 'find me' branch  place 'git grep' search results on specified branch into quickfix list
+:Ggrep 'find me' SHA/tag place 'git grep' search results on specified SHA/tag into quickfix list
+:Glog --grep=page        place 'git log' search results matching 'page' into quickfix list
+:Glog --grep=page --     place 'git log' search results in ancestral commits into quickfix list
+:Glog --grep=page -- %   place 'git log' search results in ancestral commits that touch current file into quickfix list
+:Glog -Spage             place all commits that add or remove 'page' into quickfix list (git log -Spaginate)
+:Glog -Spage --          place all ancestral commits that add or remove 'page' into quickfix list (git log -Spaginate)
+:Glog -Spage -- %        place all ancestral commits that touch current file & add/remove 'page' into quickfix list (git log -Spaginate)
 
 QUICKFIX LIST
+:h quickfix
 :copen                   open quickfix list window
+populate quickfix list and do search-and-replace over it:
+  :args *.txt
+  :vimgrep /Vimcasts\.\zscom/g ##
+  :cdo %s/Vimcasts\.\zscom/org/ge
+  :cdo update
 
 UNIMPAIRED.VIM
 [q                       :cprev
@@ -323,10 +378,15 @@ UNIMPAIRED.VIM
 [Q                       :cfirst
 ]Q                       :clast
 
+STARTING VIM
+vim -o [list of files]   open files in horizontal split
+
+SETTINGS
 :set (no)list            (no) display hidden characters (short for 'listchars')
 :set list!               toggle between list/nolist (short for 'listchars')
 :set (no)number          turn on (off) line numbers
 :se nonu!                toggle between number/nonumber
+:set hidden              
 
 .VIMRC
 let mapleader=','
@@ -334,5 +394,4 @@ map <leader>ew :e <C-R>=expand("%:p:h") . "/" <CR>
 nmap <leader>l :set list!<CR>  (in .vimrc) sets <leader>l to toggle list
 command! -nargs=* Wrap set wrap linebreak nolist
 
-to reload .vimrc: :source $MYVIMRC
-to edit .vimrc: :e $MYVIMRC
+
