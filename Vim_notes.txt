@@ -1,19 +1,45 @@
 VIM NOTES - James Lavin
 
-A                        switch to inset mode and jump to end of line
-W                        jump to next word
+<leader>                 \ (by default)
+
+.                        repeat last command
 u                        undo
+ctrl-v u00ac             (insert mode) insert character ¬
+ctrl-v u25b8             (insert mode) insert character ▸
+ctrl-v ctrl-i            (insert mode) insert tab
+>>                       indent current line
+5>>                      indent next 5 lines
+3<<                      outdent next 3 lines
+==                       auto-indent current line
+6==                      auto-indent next 6 lines
+>                        (visual mode) indent selected lines
+<                        (visual mode) outdent selected lines
+=                        (visual mode) auto-indent selected lines
+>{motion}                auto-format based on motion
+=G                       auto-format from current to end of file
+vi}                      visual mode select inside {}
+=i}                      auto-indent inside {}
+
+gg                       goto top of file
+A (or $a)                switch to inset mode and jump to end of line
+W                        jump to next word
+c{motion}                d{motion}i
+  c3l                      d3li
+C (or d$a)               delete to end of line, then insert mode
+s (or xi)                delete character, then insert mode
+S (or ^C)                delete line, then insert mode
+I (or ^i)                insert at beginning of line
+o (or $a<CR>)            add line below, then insert mode
 
 f[char]                  move forward to first character 'char'
 #                        search backwards to previous word under cursor
 /phrase                  search forwards for 'phrase'
 n                        jump to next match
-.                        repeat last command
 
 :                        switch to command mode
 <Ctrl-R>=                (insert mode) switch to expression register (which evaluates VimScript)
 
-
+gv                       reselect last visual selection
 p                        paste after current character/line (depending on default register contents)
 
 P                        paste before current character/line (depending on default register contents)
@@ -68,15 +94,108 @@ qaq                      clear contents of register a
 
 vimtutor
 :h quickref
+:h vimmodes
 :h _____                 Help
+:h .
+:h ctrl-r
 :h :yank
 :h i_ctrl-r              (i stands for "insert mode")
 :h i_ctrl-r_ctrl-o
 :h quote=
 :h registers
+:h changelist
 :h :normal
+ctrl-]                   (in Vim documentation) follow link under cursor
 
+:w                       save file changes
+:e                       revert to latest saved version of current file
+:e [filename]            edit file (use <tab> for tab completion)
+:e [dirname]             view dir's files in file explorer
+:e $VIMRUNTIME/indent    view indentation files directory
+                           Override with files in ~/.vim/indent
+:e!                      restore original file
+:q!                      force-quit Vim, tossing all modified buffers
+:ls                      show buffer list
+:bn                      open next buffer in current window (cycles from end of list to beginning)
+:bp                      open previous buffer in current window (cycles from start of list to end)
+CTRL-^                   switch to the alternate file
+:bd!                     forcibly remove buffer from buffer list, discarding changes
+
+WINDOWS
+ctrl-w s                 split current window horizontally, loading the same file in new window
+ctrl-w v                 split current window vertically, loading the same file in new window
+:sp[lit] filename        split current window horizontally, loading filename in new window
+:vsp[lit] filename       split current window vertically, loading filename in new window
+ctrl-w w                 cycle among open windows
+ctrl-w h                 focus on window to the left
+ctrl-w j                 focus on window below
+ctrl-w k                 focus on window above
+ctrl-w l                 focus on window to the right
+ctrl-w +                 increase height of current window by 1 line
+ctrl-w -                 decrease height of currentlyent window by 1 line
+ctrl-w _                 maximize height of current window
+ctrl-w |                 maximize width of current window
+ctrl-w r                 rotate all windows
+ctrl-w x                 exchange current window with its neighbor
+ctrl-w H                 move current window to far left
+ctrl-w J                 move current window to bottom
+ctrl-w K                 move current window to top
+ctrl-w L                 move current window to far right
+:q                       close currently active window
+:on[ly]                  close all windows except currently active window
+
+TABS
+:tabe[dit] filename      open filename in a new tab
+:pwd                     print working directory contents
+:cd                      change current tab's working directory
+:cd %:h                  change current working directory to that of file being edited
+ctrl-W T                 move current split window into its own tab
+:q                       close window, closing tab if it contains a single window
+:tabc[lose]              close current tab page and all its windows
+:tabo[nly]               close all tabs apart from current one
+gt                       move to next tab
+gT                       move to previous tab
+#gt                      move to tab number #
+:tabmove                 move current tab to the end
+:tabmove 0               move current tab to the beginning
+:tabmove 1        move current tab to become the 2nd tab
+
+VISUAL MODE
+<Ctrl>v                  switch to visual mode
+:s/x/y/g                 search (for 'x') and replace (with 'y') across selected lines
+:s/\%Vx/y/g              search (for 'x') and replace (with 'y') across selected block
+
+CHANGELIST
+:help changelist
+:help :changes
+:changes                 display changelist
+g;                       move backwards through changelist
+g,                       move forwards through changelist
+
+JUMPLIST
+:help jumplist
+:help jump-motions
+:help :jumps
+:jumps                   display jumplist
+<Ctrl>O                  move backwards through jumplist
+<Ctrl>I                  move forwards through jumplist
+
+MACROS
+@a                       replay macro in register a
+5@a                      replay macro in register a 5 times
+
+
+:!cd ____                change directory (for shell)
+:!pwd                    print working directory contents (for shell)
 :nnoremap Q [VimScript expression]  creates alias/shortcut 'Q'
 :'<,'>normal Q           apply Q to each selected line
+
+:set (no)list            (no) display hidden characters (short for 'listchars')
+:set list!               toggle between list/nolist (short for 'listchars')
+
+.VIMRC
+let mapleader=','
+map <leader>ew :e <C-R>=expand("%:p:h") . "/" <CR>
+nmap <leader>l :set list!<CR>  (in .vimrc) sets <leader>l to toggle list
 
 
