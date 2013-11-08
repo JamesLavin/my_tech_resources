@@ -77,6 +77,7 @@ diw                      delete current word & paste into default register
 
 COMMANDLINE MODE
 :r [filename]            read file and insert contents in current cursor position
+%                        current file's path
 <Ctrl>p                  go backwards through history
 <Ctrl>n                  go forwards through history
 <Ctrl>f                  switch to commandline window
@@ -249,6 +250,7 @@ VIMDIFF MODE (FUGITIVE.VIM)
 http://vimcasts.org/episodes/fugitive-vim---a-complement-to-command-line-git/
 http://vimcasts.org/episodes/fugitive-vim-working-with-the-git-index/
 http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/
+http://vimcasts.org/episodes/fugitive-vim-browsing-the-git-object-database/
 :h :Git
 :h :Gwrite, :Gread, :Gblame, etc.
 :h :diffget / :h do
@@ -259,8 +261,15 @@ http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff
 :Gmove (:Git mv %)       rename the current file and the corresponding Vim buffers
 :Gedit :path/to/file     open index version of current file
 :Gedit :0                  (same)
+:Gedit branch:%.         open branch's version of current file
+:Gedit SHA               open interactive textual representation of git object (blog, tree, commit, tag)
+  <ENTER>                  open commit object/tree or diff of file before/after commit
+  C                        (on tree or blob) jump to commit object
+  a                        (on tree object) toggle between 'git show' and 'git ls-tree' views
+  :e %:h                   open parent tree
 :Gcommit                 open commit window (with auto-completion) in split window
 :Gblame                  open vertical split with Git blame contents
+:Gbrowse                 open Github page for current Git object
 :Gstatus                 'git status' in interactive window
   <Ctrl>n                  move down to next file
   <Ctrl>p                  move up to previous file

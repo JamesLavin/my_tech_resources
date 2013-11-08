@@ -1079,7 +1079,7 @@
 * [supertab](https://raw.github.com/ervandew/supertab/master/doc/supertab.txt)
 * [syntastic](https://raw.github.com/scrooloose/syntastic/master/doc/syntastic.txt)
 * [tabular](https://raw.github.com/godlygeek/tabular/master/doc/Tabular.txt)
-* [vim-fugitive](https://raw.github.com/tpope/vim-fugitive/master/doc/fugitive.txt)
+* [vim-fugitive](https://raw.github.com/tpope/vim-fugitive/master/doc/fugitive.txt) & [VimCasts](http://vimcasts.org/episodes/fugitive-vim---a-complement-to-command-line-git/) & [Painless Merge Conflict Resolution in Git](http://blog.wuwon.id.au/2010/09/painless-merge-conflict-resolution-in.html)
 * [vim-coffee-script](https://raw.github.com/kchmck/vim-coffee-script/master/doc/coffee-script.txt)
 * [vim-rails](https://raw.github.com/tpope/vim-rails/master/doc/rails.txt)
 * [vim-rake](https://raw.github.com/tpope/vim-rake/master/doc/rake.txt)
