@@ -251,6 +251,7 @@ http://vimcasts.org/episodes/fugitive-vim---a-complement-to-command-line-git/
 http://vimcasts.org/episodes/fugitive-vim-working-with-the-git-index/
 http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/
 http://vimcasts.org/episodes/fugitive-vim-browsing-the-git-object-database/
+http://vimcasts.org/episodes/fugitive-vim-exploring-the-history-of-a-git-repository/
 :h :Git
 :h :Gwrite, :Gread, :Gblame, etc.
 :h :diffget / :h do
@@ -298,11 +299,29 @@ http://vimcasts.org/episodes/fugitive-vim-browsing-the-git-object-database/
   dp                     push buffer contents to working copy
   :Gwrite!               overwrite working tree and index with active file
 [close windows]          exit vimdiff mode
-
+:Glog                    load all previous revisions of current file into quickfix list
+:Glog -10                load last 10 previous revisions of current file into quickfix list
+:Glog -10 --reverse      load first 10 revisions of thee current file into the quickfix list (in reverse chronological order)
+:Glog -1 --until=yesterday load last version of current file that was checked in before last midnight
+:Glog -1 --since=yesterday load last version of current file that was checked in since last midnight
+  :cnext                   go to next (oldest) version of file
+  :cprev                   go to previous (less old) version of file
+  :Gedit                   open latest version of file
 :!cd ____                change directory (for shell)
 :!pwd                    print working directory contents (for shell)
 :nnoremap Q [VimScript expression]  creates alias/shortcut 'Q'
 :'<,'>normal Q           apply Q to each selected line
+:Glog --                 put list of commits into quickfix list
+:Glog -- %               put list of commits that touch current file into quickfix list
+
+QUICKFIX LIST
+:copen                   open quickfix list window
+
+UNIMPAIRED.VIM
+[q                       :cprev
+]q                       :cnext
+[Q                       :cfirst
+]Q                       :clast
 
 :set (no)list            (no) display hidden characters (short for 'listchars')
 :set list!               toggle between list/nolist (short for 'listchars')
