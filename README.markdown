@@ -356,6 +356,7 @@
 * [dotfiles.github.com](http://dotfiles.github.com/)
 * [Cheat Sheet (Cheatography)](http://www.cheatography.com/davechild/cheat-sheets/linux-command-line/)
 * [LESS](http://linux.die.net/man/1/less)
+* [Linux SCP help](http://www.hypexr.org/linux_scp_help.php)
 
 ### LINUX - SHELL SCRIPTING (BASH)
 
