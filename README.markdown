@@ -728,12 +728,14 @@
 
 ### RUBY - ASYNCHRONOUS/EVENTED/THREADED
 
+* [Ruby threading videos (Confreaks)](http://www.confreaks.com/videos?search=Thread)
 * [The Celluloid Ecosystem - Tony Arcieri (RubyConf 2012)](http://confreaks.com/videos/1302-rubyconf2012-the-celluloid-ecosystem)
 * [Faye - Simple Pub/Sub](http://faye.jcoglan.com/) & [Github](https://github.com/faye/faye)
 * [Ruby-Toolbox - Background Jobs](https://www.ruby-toolbox.com/categories/Background_Jobs)
 * [Ruby-Toolbox - Concurrent Processing](https://www.ruby-toolbox.com/categories/Concurrent_Processing)
 * [Ruby-Toolbox - Recurring Events](https://www.ruby-toolbox.com/categories/recurring_events)
 * [Ruby-Toolbox - Scheduling](https://www.ruby-toolbox.com/categories/scheduling)
+* [What All Rubyists Should Know About Threads - Jim Weirich (RubyConf 2008)](http://www.confreaks.com/videos/1154-rubyconf2008-what-all-rubyists-should-know-about-threads)
 * [Brian Shirai on Rubinius 2.0, the GIL, and thread-safe Ruby code](http://www.jstorimer.com/2013/03/26/brian-shirai-threads.html)
 * [Evented Ruby vs Node.js - Jerry Cheung (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1231-aloharuby2012-evented-ruby-vs-node-js) & [RailsConf 2012](http://confreaks.com/videos/894-railsconf2012-evented-ruby-vs-node-js)
 * [Sending async data from Rails into the world - Part Ⅰ](http://blog.arkency.com/2012/10/sending-async-data-from-rails-into-the-world/)
