@@ -138,6 +138,7 @@
 
 ### HTML5 - INDEXED DB
 
+* [Working With IndexedDB - Raymond Camden - Part 1](http://net.tutsplus.com/tutorials/javascript-ajax/working-with-indexeddb/) [Part 2](http://net.tutsplus.com/tutorials/javascript-ajax/working-with-indexeddb-part-2/) [Part 3](http://net.tutsplus.com/tutorials/javascript-ajax/working-with-indexeddb-part-3/)
 * [db.js (wrapper for IndexedDB)](http://aaronpowell.github.io/db.js/)
 * [indexeddb-backbonejs-adapter](https://github.com/superfeedr/indexeddb-backbonejs-adapter)
 * [Deep Dive into the HTML5 IndexedDB](http://www.codeproject.com/Articles/347765/Deep-Dive-into-the-HTML5-IndexedDB)
@@ -151,6 +152,10 @@
 
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/WebSockets)
 * [Model-View-Websockets](http://confreaks.com/videos/2235-html5tx2013-model-view-websockets)
+
+### HTML5 - WEB WORKERS
+
+* [Using Web Workers (Mozilla MDN)](https://developer.mozilla.org/en-US/docs/Web/Guide/Performance/Using_web_workers)
 
 ## JAVASCRIPT
 
@@ -700,6 +705,7 @@
 * [Unblocked - James Edward Gray II (RubyConf 2010)](http://www.confreaks.com/videos/468-rubyconf2010-unblocked)
 * [Tracing Your Way Through Ruby (BaRuCo 2012)](http://www.youtube.com/watch?v=CvzEibqrriM)i
 * [10 Things You Didn't Know Ruby Could Do - @JEG2](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do)
+* [The Dark Side of Ruby - Gautam Rege (Garden City Ruby 2014)](http://confreaks.com/videos/2916-gardencityruby-the-dark-side-of-ruby)
 * [Ruby Safari - Ola Bini (Ruby Midwest 2011)](http://confreaks.com/videos/750-rubymidwest2011-ruby-safari)
 * [APIDock - Ruby (good for legacy Ruby)](http://apidock.com/ruby/browse)
 * [SD Ruby screencasts](http://www.sdruby.org/podcast)
