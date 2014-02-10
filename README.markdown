@@ -356,6 +356,10 @@
 * [Complex Made Simple: Sleep Better with TorqueBox - Lance Ball (RailsConf 2012)](http://confreaks.com/videos/912-railsconf2012-complex-made-simple-sleep-better-with-torquebox)
 * [TorqueBox - Kevin Menard (BostonRB.org)](http://bostonrb.org/presentations/torquebox)
 
+## LEARNING (GENERAL)
+
+* [No Excuse List (The best place on the web to learn anything, free)](http://www.noexcuselist.com/)
+
 ## LINUX
 
 * [dotfiles.github.com](http://dotfiles.github.com/)
