@@ -62,17 +62,24 @@
 
 * [The New Rules of The Responsive Web](http://confreaks.com/videos/2222-html5tx2013-the-new-rules-of-the-responsive-web)
 
-## DEPLOYMENT
+## DEVOPS
 
 * [BOSH](https://github.com/cloudfoundry/bosh)
 * [Capistrano](https://github.com/capistrano/capistrano)
-* [Chef](http://www.opscode.com/chef/)
-* [Testing Your Automation: TTD for Chef Cookbooks - Nathen Harvey (BigRuby 2013)](http://confreaks.com/videos/2309-bigruby2013-testing-your-automation-ttd-for-chef-cookbooks)
 * [Heroku](http://www.heroku.com/) | [Tddium](https://devcenter.heroku.com/articles/tddium)
 * [Puppet](http://puppetlabs.com/)
 * [Ruby-Toolbox - Deployment Automation](https://www.ruby-toolbox.com/categories/deployment_automation)
 * [Ruby-Toolbox - Systems Integration](https://www.ruby-toolbox.com/categories/systems_integration)
 * [Continuous Deployment - Matt White (MountainWest RubyConf 2012)](http://confreaks.com/videos/967-mwrc2012-continuous-deployment)
+
+### DEVOPS - CHEF
+
+* [Chef](http://www.opscode.com/chef/)
+* [Chef Community](http://community.opscode.com/)
+* [Chef Docs](http://docs.opscode.com/) & [Chef docs organized differently](http://docs.opscode.com/chef/)
+* [Chef videos from Opscode](http://www.youtube.com/user/Opscode)
+* [Learn Chef](http://learnchef.com/)
+* [Testing Your Automation: TTD for Chef Cookbooks - Nathen Harvey (BigRuby 2013)](http://confreaks.com/videos/2309-bigruby2013-testing-your-automation-ttd-for-chef-cookbooks)
 
 ## DOWNTIME
 
