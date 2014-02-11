@@ -726,6 +726,11 @@
 * [The Littlest ORM - Noah Gibbs (GoGaRuCo 2013)](http://confreaks.com/videos/2669-gogaruco2013-the-littlest-orm)
 * [ActiveRecord Anti-Patterns for Fun and Profit - Ethan Gunderson (Ruby Midwest 2011)](http://confreaks.com/videos/752-rubymidwest2011-activerecord-anti-patterns-for-fun-and-profit)
 
+### RUBY - AI, NATURAL LANGUAGE PROCESSING, STATISTICAL ANALYSIS, ETC.
+
+* [Sentiment Analysis using Support Vector Machines in Ruby - Matthew Kirk (CascadiaRuby 2013)](http://confreaks.com/videos/2781-cascadiaruby2013-sentiment-analysis-using-support-vector-machines-in-ruby), which references [the rb-libsvm gem](https://github.com/febeling/rb-libsvm)
+* [Natural Language Processing with Ruby - Brandon Black (RailsConf 2013)](http://confreaks.com/videos/2440-railsconf2013-natural-language-processing-with-ruby)
+
 ### RUBY - APIS
 
 * [Writing APIs - James Miller](http://www.sdruby.org/podcast/128)
@@ -812,6 +817,7 @@
 
 ### RUBY - DEBUGGING
 
+* [We're sorry, but something went wrong - Aja Hammerly (CascadiaRuby 2013)](http://confreaks.com/videos/2783-cascadiaruby2013-we-re-sorry-but-something-went-wrong)
 * [Better_errors gem](https://github.com/charliesome/better_errors) & [Railscast](http://railscasts.com/episodes/402-better-errors-railspanel)
 * [Dissecting Ruby with Ruby - Richard Schneeman (LoneStarRuby 2013)](http://confreaks.com/videos/2586-lonestarruby2013-dissecting-ruby-with-ruby)
 * [Tracing your way through ruby - Elise Huard (BaRuCo 2012)](http://confreaks.com/videos/1330-baruco2012-tracing-your-way-through-ruby)
@@ -898,10 +904,6 @@
 * [Ruby-Toolbox - Visualizing Data](https://www.ruby-toolbox.com/categories/visualizing_data)
 * [Ruby-Toolbox - Web Analytics](https://www.ruby-toolbox.com/categories/Web_Analytics)
 
-### RUBY - NATURAL LANGUAGE PROCESSING
-
-* [Natural Language Processing with Ruby - Brandon Black (RailsConf 2013)](http://confreaks.com/videos/2440-railsconf2013-natural-language-processing-with-ruby)
-
 ### RUBY - PERFORMANCE & LOAD TESTING
 
 * [Ruby-Toolbox - Benchmarking](https://www.ruby-toolbox.com/categories/Benchmarking)
@@ -921,7 +923,7 @@
 
 ### RUBY - REFACTORING
 
-* [Fluent Refactoring - Sam Livingston-Gray (LoneStarRubyConf 2013)](http://www.youtube.com/watch?v=xJZrMbS2dDk)
+* [Fluent Refactoring - Sam Livingston-Gray (LoneStarRubyConf 2013)](http://www.youtube.com/watch?v=xJZrMbS2dDk) & [(CascadiaRuby 2013)](http://confreaks.com/videos/2792-cascadiaruby2013-fluent-refactoring)
 * [Refactoring Fat Models With Patterns - Bryan Helmkamp (wroc_love.rb 2013)](http://www.youtube.com/watch?v=IqajIYxbPOI)
 * [Refactoring Legacy Apps with APIs and Messages - Corey Ehmke (LoneStarRubyConf 2013)](http://confreaks.com/videos/2594-lonestarruby2013-refactoring-legacy-apps-with-apis-and-messages)
 * [Code Smells: Your Refactoring Cheat Codes - John Pignata (MountainWest RubyConf 2013)](http://confreaks.com/videos/2336-mwrc2013-code-smells-your-refactoring-cheat-codes)
