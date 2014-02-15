@@ -132,11 +132,17 @@
 
 ## HTML5
 
+* [CodePen.io](http://codepen.io/)
 * [Dive into HTML 5 - Mark Pilgrim](http://diveintohtml5.info/)
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/HTML/HTML5)
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
-* [HTML5 Please](http://html5please.com/)
+* [HTML5 Doctor](http://html5doctor.com/)
 * [HTML5 Developer Conference](http://www.youtube.com/playlist?list=PL2679A5F392A01722&feature=plcp)
+* [HTML5 Please](http://html5please.com/)
+* [Box shadows](http://codepen.io/bphillips201/details/JygKB)
+* [Can I Use?](http://caniuse.com/)
+* [Datalists](http://demo.agektmr.com/datalist/)
+* [Transition timing functions](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function)
 
 ### HTML5 - CANVAS
 
