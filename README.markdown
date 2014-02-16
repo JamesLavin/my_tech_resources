@@ -1008,6 +1008,12 @@
 
 * [RubyMine (non-free)](http://www.jetbrains.com/ruby/)
 
+## SCALA
+
+* [Why Scala? - Venkat Subramaniam](http://www.youtube.com/watch?v=LH75sJAR0hc)
+* [Scala for the Intrigued - Venkat Subramaniam](http://www.youtube.com/watch?v=grvvKURwGNg)
+* [Tim Cowlishaw - From Ruby to Scala and back again: Better living through type-checking - Tim Colishaw (Ruby Manor 4.0)](http://vimeo.com/79180652)
+
 ## SCALING
 
 * [Scaling Groupon - Tyler Jennings, Michael Cerna (Scotland Ruby Conf 2011)](http://confreaks.com/videos/554-scotlandruby2011-scaling-groupon)
