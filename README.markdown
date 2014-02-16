@@ -1012,6 +1012,7 @@
 
 * [Why Scala? - Venkat Subramaniam](http://www.youtube.com/watch?v=LH75sJAR0hc)
 * [Scala for the Intrigued - Venkat Subramaniam](http://www.youtube.com/watch?v=grvvKURwGNg)
+* [Scala with Style - Martin Odersky](http://www.youtube.com/watch?v=kkTFx3-duc8)
 * [Tim Cowlishaw - From Ruby to Scala and back again: Better living through type-checking - Tim Colishaw (Ruby Manor 4.0)](http://vimeo.com/79180652)
 
 ## SCALING
