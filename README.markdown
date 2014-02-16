@@ -447,6 +447,7 @@
 * [Official manuals](http://www.postgresql.org/docs/manuals/)
 * [Official FAQ](http://wiki.postgresql.org/wiki/FAQ)
 * [PostgresWeekly.com](http://postgresweekly.com/)
+* [PostgreSQL awesomeness for Rails developers](http://www.amberbit.com/blog/2014/2/4/postgresql-awesomeness-for-rails-developers/)
 * [Redis in my Postgres (linking multiple Postgres dbs or Postgres and Redis/MySQL/Oracle/Twitter/ODBC/etc.)](http://www.craigkerstiens.com/2012/10/18/connecting_to_redis_from_postgres/)
 * [Postgres FTW: Postgres Is Just Easier - Guyren Howe](http://www.sdruby.org/podcast/120)
 * [Postgres Rules](http://www.sdruby.org/podcast/119)
