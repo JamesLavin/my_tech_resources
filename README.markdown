@@ -1012,10 +1012,13 @@
 
 * [Official documentation](http://scala-lang.org/documentation/)
 * [Scala School - Twitter](http://twitter.github.io/scala_school/)
+* [Effective Scala - Marius Eriksen](http://twitter.github.io/effectivescala/)
 * [Why Scala? - Venkat Subramaniam](http://www.youtube.com/watch?v=LH75sJAR0hc)
 * [Scala for the Intrigued - Venkat Subramaniam](http://www.youtube.com/watch?v=grvvKURwGNg)
 * [Scala with Style - Martin Odersky](http://www.youtube.com/watch?v=kkTFx3-duc8)
 * [Tim Cowlishaw - From Ruby to Scala and back again: Better living through type-checking - Tim Colishaw (Ruby Manor 4.0)](http://vimeo.com/79180652)
+* [Scala for the Impatient (free PDF; requires registration)](http://typesafe.com/resources/book/scala-for-the-impatient)
+* [Scala in Depth (free PDF; requires registration)](http://typesafe.com/resources/book/scala-in-depth)
 * [Scala Tutorial (PDF) - TutorialsPoint.com](http://tutorialspoint.com/scala/scala_tutorial.pdf)
 
 ## SCALING
