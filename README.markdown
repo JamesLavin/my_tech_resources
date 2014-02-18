@@ -282,6 +282,12 @@
 
 ### JAVASCRIPT - EMBER.JS
 
+* [EmberJS.com](http://emberjs.com/)
+* [EmberJS Guides](http://emberjs.com/guides/)
+* [EmberJS API](http://emberjs.com/api/)
+* [Ember Inspector (for browsers)](https://github.com/tildeio/ember-extension)
+* [EmberWatch.com](http://emberwatch.com/)
+* [EmberFest 2013 videos](http://emberfest.eu/munich)
 * [Ember on Rails: #REALTALK - Brandon Hays (LoneStarRuby 2013)](http://confreaks.com/videos/2597-lonestarruby2013-ember-on-rails-realtalk)
 * [A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS - Marius Gundersen (JS Conf.eu)](http://2013.jsconf.eu/speakers/marius-gundersen-a-comparison-of-the-twoway-binding-in-angularjs-emberjs-and-knockoutjs.html)
 
