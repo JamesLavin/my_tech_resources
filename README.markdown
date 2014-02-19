@@ -33,6 +33,7 @@
 * [Official documentation](http://coffeescript.org/) & [FAQ](https://github.com/jashkenas/coffee-script/wiki/FAQ) & [list of text editor plugins](https://github.com/jashkenas/coffee-script/wiki/Text-editor-plugins)
 * [Little Book on CoffeeScript (Alex MacCaw)](http://arcturo.github.io/library/coffeescript/)
 * [Smooth Coffeescript](http://autotelicum.github.com/Smooth-CoffeeScript/)
+* [Coffeescript Cookbook](http://coffeescriptcookbook.com/)
 * [CoffeeScript Ristretto Online](http://ristrettolo.gy/)
 * [Testing With CoffeeScript](https://efendibooks.com/minibooks/testing-with-coffeescript)
 * [Cheat Sheet (Cheatography)](http://www.cheatography.com/dimitrios/cheat-sheets/coffeescript-cheat-sheet/)
@@ -279,6 +280,10 @@
 ### JAVASCRIPT - DEPENDENCY INJECTION
 
 * [Sam Breed - Dependency Injection for Fun and Profit](http://www.youtube.com/watch?v=Lm05e5sJaE8)
+
+### JAVASCRIPT - ES6
+
+* [ES6Fiddle.net](http://www.es6fiddle.net)
 
 ### JAVASCRIPT - EMBER.JS
 
