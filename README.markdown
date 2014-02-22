@@ -90,6 +90,10 @@
 * [Zero Downtime Deploys Made Easy - Matt Duncan (RubyConf 2012)](http://confreaks.com/videos/1279-rubyconf2012-zero-downtime-deploys-made-easy)
 * [Zero downtime deploys for Rails apps - Pedro Belo (RailsConf 2012)](http://confreaks.com/videos/896-railsconf2012-zero-downtime-deploys-for-rails-apps) using Heroku, Unicorn and HAProxy
 
+## EMERGING TECHNOLOGIES
+
+* [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/#/)
+
 ## FUNCTIONAL PROGRAMMING
 
 * [Functional Principles for OO Development - Jessica Kerr (Ruby MidWest 2013)](http://confreaks.com/videos/2382-rmw2013-functional-principles-for-oo-development)
