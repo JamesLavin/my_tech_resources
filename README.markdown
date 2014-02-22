@@ -32,8 +32,10 @@
 
 * [Official documentation](http://coffeescript.org/) & [FAQ](https://github.com/jashkenas/coffee-script/wiki/FAQ) & [list of text editor plugins](https://github.com/jashkenas/coffee-script/wiki/Text-editor-plugins)
 * [Little Book on CoffeeScript (Alex MacCaw)](http://arcturo.github.io/library/coffeescript/)
-* [Smooth Coffeescript](http://autotelicum.github.com/Smooth-CoffeeScript/)
+* [Smooth Coffeescript](http://autotelicum.github.com/Smooth-CoffeeScript/) [HTML doc](http://autotelicum.github.io/Smooth-CoffeeScript/SmoothCoffeeScript.html) | [PDF doc](http://autotelicum.github.io/Smooth-CoffeeScript/Smooth%20CoffeeScript%20Web%20Optimized.pdf) | [HTML interactive](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
 * [Coffeescript Cookbook](http://coffeescriptcookbook.com/)
+* [Intro to Coffeescript - Aseem Kishore](http://aseemk.com/talks/intro-to-coffeescript#/80)
+* [PencilCode.net (really fun!)](http://pencilcode.net/)
 * [CoffeeScript Ristretto Online](http://ristrettolo.gy/)
 * [Testing With CoffeeScript](https://efendibooks.com/minibooks/testing-with-coffeescript)
 * [Cheat Sheet (Cheatography)](http://www.cheatography.com/dimitrios/cheat-sheets/coffeescript-cheat-sheet/)
@@ -173,6 +175,7 @@
 
 ## JAVASCRIPT
 
+* [Javascript Basics](http://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.html)
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Learning JavaScript Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [JavaScript tips](https://code.google.com/p/jslibs/wiki/JavascriptTips)
