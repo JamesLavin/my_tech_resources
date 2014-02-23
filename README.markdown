@@ -771,6 +771,7 @@
 
 ### RUBY - ASYNCHRONOUS/EVENTED/THREADED
 
+* [Concurrent-ruby gem](https://github.com/jdantonio/concurrent-ruby)
 * [Ruby threading videos (Confreaks)](http://www.confreaks.com/videos?search=Thread)
 * [The Celluloid Ecosystem - Tony Arcieri (RubyConf 2012)](http://confreaks.com/videos/1302-rubyconf2012-the-celluloid-ecosystem)
 * [Faye - Simple Pub/Sub](http://faye.jcoglan.com/) & [Github](https://github.com/faye/faye)
