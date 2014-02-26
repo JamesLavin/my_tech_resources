@@ -307,9 +307,11 @@
 * [Ember Inspector (for browsers)](https://github.com/tildeio/ember-extension)
 * [An In-Depth Introduction to Ember.js - Julien Knebel](http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/)
 * [Awesome Ember Tricks - Robin Ward](http://www.youtube.com/watch?v=kBhGXX4zbXw)
+* [Boston Ember talks](http://www.youtube.com/channel/UCp_L_YjmXTKR4Q2fg1XahsA)
 * [EmberWatch.com](http://emberwatch.com/)
 * [EmberFest 2013 videos](http://emberfest.eu/munich)
 * [Ember on Rails: #REALTALK - Brandon Hays (LoneStarRuby 2013)](http://confreaks.com/videos/2597-lonestarruby2013-ember-on-rails-realtalk)
+* [Ember-rails](https://github.com/emberjs/ember-rails) + advice from [Hashrocket](http://hashrocket.com/blog/posts/setting-up-an-ember-app-with-a-rails-backend) & [Thoughtbot](http://robots.thoughtbot.com/emberjs-with-a-separate-rails-api)
 * [A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS - Marius Gundersen (JS Conf.eu)](http://2013.jsconf.eu/speakers/marius-gundersen-a-comparison-of-the-twoway-binding-in-angularjs-emberjs-and-knockoutjs.html)
 
 ### JAVASCRIPT - FRAMEWORKS
