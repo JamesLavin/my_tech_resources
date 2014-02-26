@@ -205,6 +205,10 @@
 * [JavaScript Essentials - Travis Tidwell](http://www.youtube.com/watch?v=03EQu_2K2cs)
 * [Advanced HTML5 JavaScript: Down 'n Dirty - Kyle Simpson](http://www.youtube.com/watch?v=0ru7S0bJdko)
 
+### JAVASCRIPT - ECMASCRIPT 6
+
+* [Rewriting a WebApp With ECMAScript 6](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6/)
+
 ### JAVASCRIPT - ANGULAR.JS
 
 * [AngularJS Fundamentals in 60-ish Minutes - Dan Wahlin](http://www.youtube.com/watch?v=i9MHigUZKEM)
@@ -298,6 +302,7 @@
 * [EmberJS Guides](http://emberjs.com/guides/)
 * [EmberJS API](http://emberjs.com/api/)
 * [Ember Inspector (for browsers)](https://github.com/tildeio/ember-extension)
+* [An In-Depth Introduction to Ember.js - Julien Knebel](http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/)
 * [EmberWatch.com](http://emberwatch.com/)
 * [EmberFest 2013 videos](http://emberfest.eu/munich)
 * [Ember on Rails: #REALTALK - Brandon Hays (LoneStarRuby 2013)](http://confreaks.com/videos/2597-lonestarruby2013-ember-on-rails-realtalk)
