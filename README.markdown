@@ -219,6 +219,7 @@
 
 * [Promises, Promises - Domenic Denicola](http://www.youtube.com/watch?v=MNxnHbyzhuo)
 * [Promises in Javascript - Paul Mooney](http://www.youtube.com/watch?v=SI325Bczx7Y)
+* [Promise Anti-Patterns](http://taoofcode.net/promise-anti-patterns/)
 * [Asynchronous JS: Callbacks, Listeners, Control Flow Libs and Promises](http://sporto.github.com/blog/2012/12/09/callbacks-listeners-promises/)
 * [Promise-Based Validation](http://net.tutsplus.com/tutorials/javascript-ajax/promise-based-validation/)
 * [Callbacks are imperative, promises are functional: Node’s biggest missed opportunity](http://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/)
