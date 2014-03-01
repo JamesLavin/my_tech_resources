@@ -972,6 +972,7 @@
 
 ### RUBY - REFACTORING
 
+* [Refactoring - SourceMaking.com](http://sourcemaking.com/refactoring)
 * [Fluent Refactoring - Sam Livingston-Gray (LoneStarRubyConf 2013)](http://www.youtube.com/watch?v=xJZrMbS2dDk) & [(CascadiaRuby 2013)](http://confreaks.com/videos/2792-cascadiaruby2013-fluent-refactoring)
 * [Refactoring Fat Models With Patterns - Bryan Helmkamp (wroc_love.rb 2013)](http://www.youtube.com/watch?v=IqajIYxbPOI)
 * [Refactoring Legacy Apps with APIs and Messages - Corey Ehmke (LoneStarRubyConf 2013)](http://confreaks.com/videos/2594-lonestarruby2013-refactoring-legacy-apps-with-apis-and-messages)
