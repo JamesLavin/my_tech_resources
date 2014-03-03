@@ -126,6 +126,7 @@
 * [Official documentation](http://git-scm.com/documentation)
 * [Git Reference](http://gitref.org/)
 * [Pro Git](http://git-scm.com/book) [PDF](https://github.s3.amazonaws.com/media/progit.en.pdf) [mobi](https://github.s3.amazonaws.com/media/pro-git.en.mobi) [ePub](https://github.s3.amazonaws.com/media/progit.epub)
+* [GitGuys.com](http://www.gitguys.com/topics/)
 * [Git Immersion](http://gitimmersion.com/lab_01.html)
 * [Git Ready](http://gitready.com/)
 * [Classy Git - Scott Chacon (RubyConf 2010)](http://www.confreaks.com/videos/471-rubyconf2010-classy-git)
@@ -236,6 +237,7 @@
 
 * [Promises, Promises - Domenic Denicola](http://www.youtube.com/watch?v=MNxnHbyzhuo)
 * [Promises in Javascript - Paul Mooney](http://www.youtube.com/watch?v=SI325Bczx7Y)
+* [JavaScript Promises: There and back again - ES6](http://www.html5rocks.com/en/tutorials/es6/promises/)
 * [Promise Anti-Patterns](http://taoofcode.net/promise-anti-patterns/)
 * [Asynchronous JS: Callbacks, Listeners, Control Flow Libs and Promises](http://sporto.github.com/blog/2012/12/09/callbacks-listeners-promises/)
 * [Promise-Based Validation](http://net.tutsplus.com/tutorials/javascript-ajax/promise-based-validation/)
@@ -331,7 +333,9 @@
 * [Ember on Rails: #REALTALK - Brandon Hays (LoneStarRuby 2013)](http://confreaks.com/videos/2597-lonestarruby2013-ember-on-rails-realtalk)
 * [Ember-rails](https://github.com/emberjs/ember-rails) + advice from [Hashrocket](http://hashrocket.com/blog/posts/setting-up-an-ember-app-with-a-rails-backend) & [Thoughtbot](http://robots.thoughtbot.com/emberjs-with-a-separate-rails-api)
 * [Ember-appkit-rails](https://github.com/dockyard/ember-appkit-rails)
+* [Ember App Kit Rails - Brian Cardarella](http://www.youtube.com/watch?v=sYX0qPuwJi4)
 * [Ember data](https://github.com/emberjs/data)
+* [Building Web Applications with Ember.js - NewCircle Training](http://www.youtube.com/watch?v=u6RFyVN9sNg)
 * [A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS - Marius Gundersen (JS Conf.eu)](http://2013.jsconf.eu/speakers/marius-gundersen-a-comparison-of-the-twoway-binding-in-angularjs-emberjs-and-knockoutjs.html)
 
 ### JAVASCRIPT - FRAMEWORKS
@@ -905,6 +909,7 @@
 * [Pry screencast - Joshua Cheek](http://www.vimeo.com/26391171)
 * [jazz_hands](https://github.com/nixme/jazz_hands) adds [AwesomePrint](https://github.com/michaeldv/awesome_print), [Hirb](https://github.com/cldwalker/hirb), [Pry Rails](https://github.com/rweng/pry-rails), [Pry Doc](https://github.com/pry/pry-doc), [Pry Git](https://github.com/pry/pry-git), [Pry Remote](https://github.com/Mon-Ouie/pry-remote), [Pry Debugger](https://github.com/nixme/pry-debugger), [Pry Stack Explorer](https://github.com/pry/pry-stack_explorer), [Coolline](https://github.com/Mon-Ouie/coolline) and [Coderay](https://github.com/rubychan/coderay)
 * [Better Rails Debugging with better_errors and jazz_hands - Ross Hunter](http://www.mutuallyhuman.com/blog/2013/05/17/better-rails-debugging-with-better_errors-and-jazz_hands/)
+* [Interactive Debugging With Pry](http://www.alanmacdougall.com/blog/2012/06/08/interactive-debugging-with-pry/)
 
 #### RUBY - DEBUGGING - RUBY-DEBUG
 
@@ -1030,6 +1035,7 @@
 
 ### RUBY - TESTING - CAPYBARA
 
+* [Capybara](http://rubydoc.info/github/jnicklas/capybara)
 * [Introduction To Integration Testing - Jason Draper (BostonRB.org)](http://bostonrb.org/presentations/introduction-to-integration-testing)
 
 ### RUBY - TESTING - CUCUMBER
