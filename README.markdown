@@ -80,9 +80,26 @@
 * [Chef](http://www.opscode.com/chef/)
 * [Chef Community](http://community.opscode.com/)
 * [Chef Docs](http://docs.opscode.com/) & [Chef docs organized differently](http://docs.opscode.com/chef/)
+* [Chef - Cookbooks, Opscode](https://github.com/opscode-cookbooks)
+* [Chef - Cookbooks, Community](http://community.opscode.com/cookbooks)
+* [Chef - Knife](http://docs.opscode.com/chef/knife.html)
+* [Chef - Recipe DSL](http://docs.opscode.com/chef/dsl_recipe.html)
+* [Chef - Resources and Providers Reference](http://docs.opscode.com/chef/resources.html)
 * [Chef videos from Opscode](http://www.youtube.com/user/Opscode)
 * [Learn Chef](http://learnchef.com/)
 * [Testing Your Automation: TTD for Chef Cookbooks - Nathen Harvey (BigRuby 2013)](http://confreaks.com/videos/2309-bigruby2013-testing-your-automation-ttd-for-chef-cookbooks)
+
+### DEVOPS - CHEF - BERKSHELF
+
+* [Berkshelf](http://berkshelf.com/)
+
+### DEVOPS - CHEF - LIBRARIAN
+
+* [librarian-chef](https://github.com/applicationsonline/librarian-chef)
+
+### DEVOPS - CHEF - TEST-KITCHEN
+
+* [test-kitchen](https://github.com/test-kitchen/test-kitchen)
 
 ## DOWNTIME
 
@@ -872,6 +889,7 @@
 * [Tracing your way through ruby - Elise Huard (BaRuCo 2012)](http://confreaks.com/videos/1330-baruco2012-tracing-your-way-through-ruby)
 * [Code Climate (free only for open-source)](https://codeclimate.com/) [Free for public Github repos](https://codeclimate.com/github/signup)
 * [Debugging Ruby - Aman Gupta (RubyConf 2010)](http://www.confreaks.com/videos/371-rubyconf2010-debugging-ruby)
+* [Ruby Debugger - Jumpstart Lab](http://tutorials.jumpstartlab.com/topics/debugging/debugger.html)
 * [Mastering the Ruby Debugger - Jim Weirich (Ruby Midwest 2011)](http://confreaks.com/videos/760-rubymidwest2011-mastering-the-ruby-debugger) (covers Pry, then Ruby Debugger)
 * [Debugging Ruby - Hemant Kumar](http://www.youtube.com/watch?v=F57J1vedlx0)
 * [Effective Debugging - Jonathan Wallace (RubyConf India 2013)](http://www.youtube.com/watch?v=T9JRsNJSpcs)
@@ -1108,6 +1126,7 @@
 * [ArchLinux Tmux wiki](https://wiki.archlinux.org/index.php/Tmux)
 * [Tmux Cheatsheet (Niklas Ottoson)](http://blog.niklasottosson.com/?p=574)
 * [Tmux Cheatsheet (Alvin Alexander)](http://alvinalexander.com/linux-unix/tmux-cheat-sheet-commands-pdf) & [PDF](http://alvinalexander.com/downloads/linux/tmux-cheat-sheet.pdf)
+* [Tmux Cheatsheet (Andrey Vit)](https://gist.github.com/andreyvit/2921703)
 * [Impressive Ruby Productivity with Vim and Tmux - Chris Hunt](http://confreaks.com/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux)
 * [Tmux - The Terminal Multiplexer - part 1](http://blog.hawkhost.com/2010/06/28/tmux-the-terminal-multiplexer/) & [part 2](http://blog.hawkhost.com/2010/07/02/tmux-%E2%80%93-the-terminal-multiplexer-part-2/)
 * [man page](http://www.openbsd.org/cgi-bin/man.cgi?query=tmux&sektion=1)
