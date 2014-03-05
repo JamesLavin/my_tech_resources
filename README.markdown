@@ -289,12 +289,6 @@
 * [Underscore.js](http://underscorejs.org/)
 * [Lo-Dash](http://lodash.com/)
 
-### JAVASCRIPT - BACON.JS
-
-* [Bacon.js](https://github.com/baconjs/bacon.js)
-* [Functional Reactive Programming with Bacon.js](http://sean.voisen.org/blog/2013/09/intro-to-functional-reactive-programming/)
-* [Implementing Snake in Bacon.js](http://philipnilsson.github.io/badness/)
-
 #### JAVASCRIPT - BLOGS
 
 * [Reginald Braithwaite](http://braythwayt.com/)
@@ -388,6 +382,16 @@
 ### JAVASCRIPT - PRODUCTIVITY TOOLS
 
 * [Yeoman](http://yeoman.io/packagemanager.html)
+
+### JAVASCRIPT - REACTIVE FUNCTIONAL PROGRAMMING
+
+* [End-to-End Reactive Programming at Netflix - Jafar Husain](http://www.infoq.com/presentations/reactive-programming-netflix)
+
+#### JAVASCRIPT - REACTIVE FUNCTIONAL PROGRAMMING - BACON.JS
+
+* [Bacon.js](https://github.com/baconjs/bacon.js)
+* [Functional Reactive Programming with Bacon.js](http://sean.voisen.org/blog/2013/09/intro-to-functional-reactive-programming/)
+* [Implementing Snake in Bacon.js](http://philipnilsson.github.io/badness/)
 
 ### JAVASCRIPT - TESTING
 
