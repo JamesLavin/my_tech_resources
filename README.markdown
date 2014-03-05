@@ -223,11 +223,6 @@
 * [JavaScript Essentials - Travis Tidwell](http://www.youtube.com/watch?v=03EQu_2K2cs)
 * [Advanced HTML5 JavaScript: Down 'n Dirty - Kyle Simpson](http://www.youtube.com/watch?v=0ru7S0bJdko)
 
-### JAVASCRIPT - ECMASCRIPT 6
-
-* [ECMAScript 6, The Future of JavaScript - Axel Rauschmayer](http://www.youtube.com/watch?v=_ZG_CrYyh_Q) (Excellent after 10-min intro)
-* [Rewriting a WebApp With ECMAScript 6](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6/)
-
 ### JAVASCRIPT - ANGULAR.JS
 
 * [AngularJS Fundamentals in 60-ish Minutes - Dan Wahlin](http://www.youtube.com/watch?v=i9MHigUZKEM)
@@ -294,6 +289,12 @@
 * [Underscore.js](http://underscorejs.org/)
 * [Lo-Dash](http://lodash.com/)
 
+### JAVASCRIPT - BACON.JS
+
+* [Bacon.js](https://github.com/baconjs/bacon.js)
+* [Functional Reactive Programming with Bacon.js](http://sean.voisen.org/blog/2013/09/intro-to-functional-reactive-programming/)
+* [Implementing Snake in Bacon.js](http://philipnilsson.github.io/badness/)
+
 #### JAVASCRIPT - BLOGS
 
 * [Reginald Braithwaite](http://braythwayt.com/)
@@ -315,9 +316,12 @@
 
 * [Sam Breed - Dependency Injection for Fun and Profit](http://www.youtube.com/watch?v=Lm05e5sJaE8)
 
-### JAVASCRIPT - ES6
+### JAVASCRIPT - ES6 / ECMASCRIPT 6
 
+* [ECMAScript 6, The Future of JavaScript - Axel Rauschmayer](http://www.youtube.com/watch?v=_ZG_CrYyh_Q) (Excellent after 10-min intro)
 * [ES6Fiddle.net](http://www.es6fiddle.net)
+* [Rewriting a WebApp With ECMAScript 6](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6/)
+
 
 ### JAVASCRIPT - EMBER.JS
 
@@ -336,6 +340,7 @@
 * [Ember App Kit Rails - Brian Cardarella](http://www.youtube.com/watch?v=sYX0qPuwJi4)
 * [Ember data](https://github.com/emberjs/data)
 * [Building Web Applications with Ember.js - NewCircle Training](http://www.youtube.com/watch?v=u6RFyVN9sNg)
+* [Ember 1.0](https://www.youtube.com/watch?v=zC7o1YkmkG0)
 * [A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS - Marius Gundersen (JS Conf.eu)](http://2013.jsconf.eu/speakers/marius-gundersen-a-comparison-of-the-twoway-binding-in-angularjs-emberjs-and-knockoutjs.html)
 
 ### JAVASCRIPT - FRAMEWORKS
