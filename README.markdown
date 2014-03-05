@@ -324,6 +324,7 @@
 * [EmberJS API](http://emberjs.com/api/)
 * [Ember Inspector (for browsers)](https://github.com/tildeio/ember-extension)
 * [An In-Depth Introduction to Ember.js - Julien Knebel](http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/)
+* [Emberwatch list of Ember talks](http://emberwatch.com/), [tutorials](http://emberwatch.com/tutorials.html), [screencasts](http://emberwatch.com/screencasts.html) & [podcasts](http://emberwatch.com/podcasts.html)
 * [Awesome Ember Tricks - Robin Ward](http://www.youtube.com/watch?v=kBhGXX4zbXw)
 * [Boston Ember talks](http://www.youtube.com/channel/UCp_L_YjmXTKR4Q2fg1XahsA)
 * [EmberWatch.com](http://emberwatch.com/)
