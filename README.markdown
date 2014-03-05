@@ -330,6 +330,7 @@
 * [EmberWatch.com](http://emberwatch.com/)
 * [EmberFest 2013 videos](http://emberfest.eu/munich)
 * [Ember on Rails: #REALTALK - Brandon Hays (LoneStarRuby 2013)](http://confreaks.com/videos/2597-lonestarruby2013-ember-on-rails-realtalk)
+* [Off the Menu: Building a Client-Side With Ember and Rails - Yehuda Katz (Rails Israel 2013)](https://www.youtube.com/watch?v=BpQj9_qEUAc)
 * [Ember-rails](https://github.com/emberjs/ember-rails) + advice from [Hashrocket](http://hashrocket.com/blog/posts/setting-up-an-ember-app-with-a-rails-backend) & [Thoughtbot](http://robots.thoughtbot.com/emberjs-with-a-separate-rails-api)
 * [Ember-appkit-rails](https://github.com/dockyard/ember-appkit-rails)
 * [Ember App Kit Rails - Brian Cardarella](http://www.youtube.com/watch?v=sYX0qPuwJi4)
