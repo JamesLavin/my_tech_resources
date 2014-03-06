@@ -323,6 +323,7 @@
 * [EmberJS Guides](http://emberjs.com/guides/)
 * [EmberJS API](http://emberjs.com/api/)
 * [Ember Inspector (for browsers)](https://github.com/tildeio/ember-extension)
+* [Intro to Ember JS - Vic Ramon of Hashrocket](https://www.youtube.com/watch?v=_lubCRPw17s)
 * [An In-Depth Introduction to Ember.js - Julien Knebel](http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/)
 * [Emberwatch list of Ember talks](http://emberwatch.com/), [tutorials](http://emberwatch.com/tutorials.html), [screencasts](http://emberwatch.com/screencasts.html) & [podcasts](http://emberwatch.com/podcasts.html)
 * [Awesome Ember Tricks - Robin Ward](http://www.youtube.com/watch?v=kBhGXX4zbXw)
@@ -331,6 +332,7 @@
 * [EmberFest 2013 videos](http://emberfest.eu/munich)
 * [Ember on Rails: #REALTALK - Brandon Hays (LoneStarRuby 2013)](http://confreaks.com/videos/2597-lonestarruby2013-ember-on-rails-realtalk)
 * [Off the Menu: Building a Client-Side With Ember and Rails - Yehuda Katz (Rails Israel 2013)](https://www.youtube.com/watch?v=BpQj9_qEUAc)
+* [Ember Live Coding Session - Eric Berry](https://www.youtube.com/watch?v=4mSp1K7KUGE)
 * [Ember-rails](https://github.com/emberjs/ember-rails) + advice from [Hashrocket](http://hashrocket.com/blog/posts/setting-up-an-ember-app-with-a-rails-backend) & [Thoughtbot](http://robots.thoughtbot.com/emberjs-with-a-separate-rails-api)
 * [Ember-appkit-rails](https://github.com/dockyard/ember-appkit-rails)
 * [Ember App Kit Rails - Brian Cardarella](http://www.youtube.com/watch?v=sYX0qPuwJi4)
@@ -338,6 +340,10 @@
 * [Building Web Applications with Ember.js - NewCircle Training](http://www.youtube.com/watch?v=u6RFyVN9sNg)
 * [Ember 1.0](https://www.youtube.com/watch?v=zC7o1YkmkG0)
 * [A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS - Marius Gundersen (JS Conf.eu)](http://2013.jsconf.eu/speakers/marius-gundersen-a-comparison-of-the-twoway-binding-in-angularjs-emberjs-and-knockoutjs.html)
+
+#### JAVASCRIPT - EMBER.JS - TESTING
+
+* [Testing Your Ember Applications - Eric Berry](https://www.youtube.com/watch?v=GRT5YcXmm7E)
 
 ### JAVASCRIPT - FRAMEWORKS
 
