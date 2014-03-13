@@ -340,6 +340,7 @@
 * [Building Web Applications with Ember.js - NewCircle Training](http://www.youtube.com/watch?v=u6RFyVN9sNg)
 * [Ember 1.0](https://www.youtube.com/watch?v=zC7o1YkmkG0)
 * [A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS - Marius Gundersen (JS Conf.eu)](http://2013.jsconf.eu/speakers/marius-gundersen-a-comparison-of-the-twoway-binding-in-angularjs-emberjs-and-knockoutjs.html)
+* [Ember HTMLBars - Erik Bryn](http://www.youtube.com/watch?v=vjBs07kgjq0) & [HTMLBars (Github)](https://github.com/tildeio/htmlbars)
 
 #### JAVASCRIPT - EMBER.JS - TESTING
 
@@ -1185,6 +1186,7 @@
 * [A Byte of Vim](http://files.swaroopch.com/vim/byte_of_vim_v051.pdf)
 * [Vi/Vim notes - Darin Brezeale](http://www.brezeale.com/technical_notes/vim_notes.shtml)
 * [Learn Vimscript the Hard Way - Steve Losh (non-free)](http://learnvimscriptthehardway.stevelosh.com/)
+* [How I Boosted My Vim - Vincent Driessen](http://nvie.com/posts/how-i-boosted-my-vim/)
 
 ### VIM - PLUGIN DOCS
 
