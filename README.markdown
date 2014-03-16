@@ -93,9 +93,20 @@
 
 * [Berkshelf](http://berkshelf.com/)
 
+### DEVOPS - CHEF - COOKBOOKS
+* [chef-jenkins](https://github.com/fnichol/chef-jenkins)
+* [chef-rbenv](https://github.com/fnichol/chef-rbenv)
+* [chef-rvm](https://github.com/fnichol/chef-rvm)
+* [chef-user](https://github.com/fnichol/chef-user)
+
+### DEVOPS - CHEF - KNIFE
+
+* [knife-server](https://github.com/fnichol/knife-server)
+
 ### DEVOPS - CHEF - LIBRARIAN
 
 * [librarian-chef](https://github.com/applicationsonline/librarian-chef)
+* ["What do I do with my own cookbooks (when using Librarian)?"](https://github.com/applicationsonline/librarian/wiki/FAQ)
 
 ### DEVOPS - CHEF - TEST-KITCHEN
 
