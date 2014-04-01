@@ -325,6 +325,7 @@
 
 * [ECMAScript 6, The Future of JavaScript - Axel Rauschmayer](http://www.youtube.com/watch?v=_ZG_CrYyh_Q) (Excellent after 10-min intro)
 * [ES6Fiddle.net](http://www.es6fiddle.net)
+* [ES6 Tools - Addy Osmani](https://github.com/addyosmani/es6-tools)
 * [Rewriting a WebApp With ECMAScript 6](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6/)
 
 
@@ -354,6 +355,7 @@
 * [Ember HTMLBars - Erik Bryn](http://www.youtube.com/watch?v=vjBs07kgjq0) & [HTMLBars (Github)](https://github.com/tildeio/htmlbars)
 * [POJOs vs. Ember Objects](http://www.youtube.com/watch?v=h4w7ZqCk0zg)
 * [Custom Adapters for Ember Data - Jeffrey Biles](http://www.youtube.com/watch?v=a3KGITKNbeQ) & [Switching to Ember Data](http://www.youtube.com/watch?v=i1Qzaf6lV1Q)
+* [EmberConf 2014 slides](http://emberconf.com/schedule.html)
 
 #### JAVASCRIPT - EMBER.JS - TESTING
 
