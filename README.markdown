@@ -137,6 +137,7 @@
 * [Official documentation](http://git-scm.com/documentation)
 * [Git Reference](http://gitref.org/)
 * [Pro Git](http://git-scm.com/book) [PDF](https://github.s3.amazonaws.com/media/progit.en.pdf) [mobi](https://github.s3.amazonaws.com/media/pro-git.en.mobi) [ePub](https://github.s3.amazonaws.com/media/progit.epub)
+* [Explain Git With D3 (interactive visual demos of Git commands)](http://www.wei-wang.com/ExplainGitWithD3/#)
 * [GitGuys.com](http://www.gitguys.com/topics/)
 * [Git Immersion](http://gitimmersion.com/lab_01.html)
 * [Git Ready](http://gitready.com/)
@@ -871,6 +872,7 @@
 
 * [A Fresh Cup (Mike Gunderloy)](http://afreshcup.com/)
 * [Avdi Grimm](http://devblog.avdi.org/)
+* [Green Ruby](http://greenruby.org/)
 * [Mike Perham](http://www.mikeperham.com/)
 * [Planet Ruby on Rails](http://planetrubyonrails.com/)
 * [RubyInside](http://www.rubyinside.com/)
