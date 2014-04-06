@@ -73,6 +73,7 @@
 * [Puppet](http://puppetlabs.com/)
 * [Ruby-Toolbox - Deployment Automation](https://www.ruby-toolbox.com/categories/deployment_automation)
 * [Ruby-Toolbox - Systems Integration](https://www.ruby-toolbox.com/categories/systems_integration)
+* [Acquiring DevOps Skills - Pavel Suchman (DevCon TLV 2014)](http://confreaks.com/videos/3293-devcontlvjan2014-acquiring-devops-skills)
 * [Continuous Deployment - Matt White (MountainWest RubyConf 2012)](http://confreaks.com/videos/967-mwrc2012-continuous-deployment)
 
 ### DEVOPS - CHEF
@@ -539,6 +540,7 @@
 * [Redis in my Postgres (linking multiple Postgres dbs or Postgres and Redis/MySQL/Oracle/Twitter/ODBC/etc.)](http://www.craigkerstiens.com/2012/10/18/connecting_to_redis_from_postgres/)
 * [Postgres FTW: Postgres Is Just Easier - Guyren Howe](http://www.sdruby.org/podcast/120)
 * [Postgres Rules](http://www.sdruby.org/podcast/119)
+* [Postgres, the Best Tool You're Already Using - Adam Sanderson (RailsConf 2013)](https://www.youtube.com/watch?v=YWj8ws6jc0g)
 
 ## PRODUCT DEVELOPMENT
 
