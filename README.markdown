@@ -241,6 +241,10 @@
 * [AngularJS Fundamentals in 60-ish Minutes - Dan Wahlin](http://www.youtube.com/watch?v=i9MHigUZKEM)
 * [A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS - Marius Gundersen (JS Conf.eu)](http://2013.jsconf.eu/speakers/marius-gundersen-a-comparison-of-the-twoway-binding-in-angularjs-emberjs-and-knockoutjs.html)
 
+### JAVASCRIPT - APIS
+
+* [Beautiful REST & JSON APIs - Les Hazelwood (Jax Conference 2013)](https://www.youtube.com/watch?v=mZ8_QgJ5mbs)
+
 ### JAVASCRIPT - ASYNCHRONOUS
 
 * [Promises, Promises - Domenic Denicola](http://www.youtube.com/watch?v=MNxnHbyzhuo)
@@ -840,6 +844,7 @@
 ### RUBY - APIS
 
 * [Writing APIs - James Miller](http://www.sdruby.org/podcast/128)
+* [Designing Great APIs: Learning from Jony Ive, Orwell and the Kano Model (RailsConf 2013)](https://www.youtube.com/watch?v=RfueDq8-Wwg)
 
 ### RUBY - ASYNCHRONOUS/EVENTED/THREADED
 
@@ -869,6 +874,7 @@
 
 ### RUBY - BLOCKS
 
+* [Code Blocks in Ruby - Alex Chaffee](https://www.youtube.com/watch?v=K8uhD8mtorE)
 * [Dissecting a Ruby Block - Pat Shaughnessy (RubyConf 2012)](http://confreaks.com/videos/1286-rubyconf2012-dissecting-a-ruby-block) & [BostonRB.org](http://bostonrb.org/presentations/dissecting-a-ruby-block)
 
 ### RUBY - BLOGS
@@ -986,6 +992,7 @@
 ### RUBY - GEMS
 
 * [Make Awesome Command-Line Apps with Ruby - David Copeland (Ruby Midwest 2011)](http://confreaks.com/videos/762-rubymidwest2011-make-awesome-command-line-apps-with-ruby)
+* [Ruby Libraries Important for Rails by Michael Hartl (RailsConf 2013)](https://www.youtube.com/watch?v=noWORpSTQGE)
 
 ### RUBY - INTERNALS
 
