@@ -16,11 +16,16 @@
 * [Grasping Complexity with Both Hands - Glenn Vandenurg (GoGaRuCo 2012)](http://confreaks.com/videos/1123-gogaruco2012-grasping-complexity-with-both-hands)
 * [Behind the Curtain: Applying lessons learned from years in the Theatre to crafting software applications - Nell Shamrell (MaidosnRuby 2012)](http://confreaks.com/videos/1093-madisonruby2012-behind-the-curtain-applying-lessons-learned-from-years-in-the-theatre-to-crafting-software-applications)
 * [Modular & reusable front-end code with HTML5, Sass and CoffeeScript - Roy Tomeij (MadisonRuby 2012)](http://confreaks.com/videos/1101-madisonruby2012-modular-reusable-front-end-code-with-html5-sass-and-coffeescript)
-* [Building the Great Wall: API Driven Applications by Scott Parker, Dan Melnick (Madison Ruby 2012)](http://www.youtube.com/watch?v=AoRkqMgX-4Q)
 * [Robert C. Martin videos (free)](http://www.google.com/search?q=robert+c.+martin&tbm=vid)
 * [Robert C. Martin videos (non-free)](http://www.cleancoders.com/)
 * [Grand Unification Theory: Writing and Running Code, by Brian Ford (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=iub8zWID4yk)
 * [Programming and minimalism: lessons from Orwell and the Clash - Jonathan Dahl (RubyConf 2010)](http://www.confreaks.com/videos/460-rubyconf2010-programming-and-minimalism-lessons-from-orwell-and-the-clash)
+
+### CLEAN CODE - APIS
+
+* [Beautiful REST & JSON APIs - Les Hazelwood (Jax Conference 2013)](https://www.youtube.com/watch?v=mZ8_QgJ5mbs)
+* [Building the Great Wall: API Driven Applications by Scott Parker, Dan Melnick (Madison Ruby 2012)](http://www.youtube.com/watch?v=AoRkqMgX-4Q)
+* [How to Design a Good API and Why It Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
 
 ### CLEAN CODE - MEASURING
 
@@ -241,10 +246,6 @@
 * [AngularJS Fundamentals in 60-ish Minutes - Dan Wahlin](http://www.youtube.com/watch?v=i9MHigUZKEM)
 * [A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS - Marius Gundersen (JS Conf.eu)](http://2013.jsconf.eu/speakers/marius-gundersen-a-comparison-of-the-twoway-binding-in-angularjs-emberjs-and-knockoutjs.html)
 
-### JAVASCRIPT - APIS
-
-* [Beautiful REST & JSON APIs - Les Hazelwood (Jax Conference 2013)](https://www.youtube.com/watch?v=mZ8_QgJ5mbs)
-
 ### JAVASCRIPT - ASYNCHRONOUS
 
 * [Promises, Promises - Domenic Denicola](http://www.youtube.com/watch?v=MNxnHbyzhuo)
@@ -451,6 +452,7 @@
 * [RubyGems to All JVM Languages - Yoko Harada (RubyConf 2010)](http://www.confreaks.com/videos/372-rubyconf2010-rubygems-to-all-jvm-languages)
 * [Why JRuby? (Fiona Tay)](http://www.confreaks.com/videos/2312-larubyconf2013-why-i-like-jruby-and-you-should-too)
 * [JRuby: Ruby in the JVM. Why on Earth?!? - Chris McCann](http://www.sdruby.org/podcast/106)
+* [State of JRuby 2014 - Hiro Asari (Ruby Australia)](http://vimeo.com/90823948)
 
 ### JRUBY - PERFORMANCE
 
