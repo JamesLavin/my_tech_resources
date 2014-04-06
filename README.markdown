@@ -93,6 +93,7 @@
 * [Chef - Resources and Providers Reference](http://docs.opscode.com/chef/resources.html)
 * [Chef videos from Opscode](http://www.youtube.com/user/Opscode)
 * [Learn Chef](http://learnchef.com/)
+* [Using Ruby to Automate Your Life - Seth Vargo (Ruby Australia 2014)](http://vimeo.com/90182570)
 * [Testing Your Automation: TTD for Chef Cookbooks - Nathen Harvey (BigRuby 2013)](http://confreaks.com/videos/2309-bigruby2013-testing-your-automation-ttd-for-chef-cookbooks)
 
 ### DEVOPS - CHEF - BERKSHELF
@@ -548,6 +549,11 @@
 * [Postgres Rules](http://www.sdruby.org/podcast/119)
 * [Postgres, the Best Tool You're Already Using - Adam Sanderson (RailsConf 2013)](https://www.youtube.com/watch?v=YWj8ws6jc0g)
 
+### POSTGRESQL - ADVANCED FEATURES
+
+* [Range Types in PostgreSQL 9.2 - Your Life Will Never Be the Same - Jonathan S. Katz (Postgres Open)](https://www.youtube.com/watch?v=XIcOf7r0dG4)
+* [Full-Text Search: Seek and Ye Shall Find - Dan Scott (Postgres Open)](https://www.youtube.com/watch?v=R6nT6UgY7k4)
+
 ## PRODUCT DEVELOPMENT
 
 * [Essentials of Product Development - Ryan Singer (WindyCityRails2012)](http://vimeo.com/49523952)
@@ -760,6 +766,7 @@
 
 ### RAILS - TESTING
 
+* [Best Practices for Testing in Rails - Andrei Gridnev (Ruby Melbourne March 2014)](http://vimeo.com/90286264)
 * [TDD Workshop: Outward-in Development, Unit Tests, and Fixture Data - Harlow Ward and Adarsh Pandit (RailsConf 2013)](http://confreaks.com/videos/2450-railsconf2013-tdd-workshop-outward-in-development-unit-tests-and-fixture-data)
 * [Behavior Driven Development Using Ruby, Cucumber, and rSpec - Steve Ross](http://www.sdruby.org/podcast/82)
 
