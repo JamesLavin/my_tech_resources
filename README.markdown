@@ -81,6 +81,10 @@
 * [Acquiring DevOps Skills - Pavel Suchman (DevCon TLV 2014)](http://confreaks.com/videos/3293-devcontlvjan2014-acquiring-devops-skills)
 * [Continuous Deployment - Matt White (MountainWest RubyConf 2012)](http://confreaks.com/videos/967-mwrc2012-continuous-deployment)
 
+### DEVOPS - ANSIBLE
+
+* [Ansible - Your First Step Into Server Provisioning - Ben Turner (Ruby Australia 2014)](http://vimeo.com/90171333)
+
 ### DEVOPS - CHEF
 
 * [Chef](http://www.opscode.com/chef/)
@@ -567,6 +571,7 @@
 
 ### PRODUCT DEVELOPMENT - PROFESSIONALISM / EXCELLENCE / EFFICIENCY
 
+* [Real Developers Ship (a.k.a Tenets for Software Delivery) - Sebastian von Conrad (Ruby Australia 2014)](http://vimeo.com/90173903)
 * [Great Developers Steal - Ben Scofield (Scotland Ruby Conf 2011)](http://confreaks.com/videos/545-scotlandruby2011-great-developers-steal)
 * [Being an Excellent Software Developer - Michael Norton (WindyCityRails2012)](http://vimeo.com/49882901)
 * [Cultures of Effective Learning - Jeff Cohen (WindyCityRails2012)](http://vimeo.com/49951365)
@@ -872,6 +877,7 @@
 * [Ruby-Toolbox - Concurrent Processing](https://www.ruby-toolbox.com/categories/Concurrent_Processing)
 * [Ruby-Toolbox - Recurring Events](https://www.ruby-toolbox.com/categories/recurring_events)
 * [Ruby-Toolbox - Scheduling](https://www.ruby-toolbox.com/categories/scheduling)
+* [Modern Concurrency Practices in Ruby - Arnab Deka (Ruby Australia 2014)](http://vimeo.com/89489939)
 * [What All Rubyists Should Know About Threads - Jim Weirich (RubyConf 2008)](http://www.confreaks.com/videos/1154-rubyconf2008-what-all-rubyists-should-know-about-threads)
 * [Brian Shirai on Rubinius 2.0, the GIL, and thread-safe Ruby code](http://www.jstorimer.com/2013/03/26/brian-shirai-threads.html)
 * [Evented Ruby vs Node.js - Jerry Cheung (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1231-aloharuby2012-evented-ruby-vs-node-js) & [RailsConf 2012](http://confreaks.com/videos/894-railsconf2012-evented-ruby-vs-node-js)
