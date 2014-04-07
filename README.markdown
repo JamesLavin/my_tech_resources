@@ -712,11 +712,13 @@
 
 ### RAILS - ASSET PIPELINE
 
+* [Rails Asset Pipeline: Defunct or Da Funk - Samuel Cochran (Ruby Australia 2014)](http://vimeo.com/89487930)
 * [Smaller Javascript Packages With the Rails Asset Pipeline](http://www.sdruby.org/podcast/118)
 * [Javascript Isolation With the Rails Asset Pipeline](http://www.sdruby.org/podcast/116)
 
 ### RAILS - CLEAN CODE
 
+* [Hexagonal Rails - Matt Wynne (GoRuCo 2012)](https://www.youtube.com/watch?v=CGN4RFkhH2M)
 * [Building Extractable Libraries in Rails - Patrick S. Robertson (RailsConf 2013)](http://confreaks.com/videos/2444-railsconf2013-building-extractable-libraries-in-rails)
 * [7 Ways to Decompose Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
 * [Mega Rails - Jack Danger Canty (GoGaRuCo 2012)](http://confreaks.com/videos/1125-gogaruco2012-mega-rails)
@@ -771,6 +773,7 @@
 * [DevOps for the Rubyist Soul (capistrano, puppet, puppet, git & vagrant)](http://confreaks.com/videos/2297-bigruby2013-devops-for-the-rubyist-soul)
 * [Scaling Groupon - Tyler Jennings, Michael Cerna (Scotland Ruby Conf 2011)](http://confreaks.com/videos/554-scotlandruby2011-scaling-groupon)
 * [How Github (No Longer) Works - Zach Holman (Ruby Australia 2014)](http://vimeo.com/90175385)
+* [How I Architected My Big Rails App For Success - Benjamin Smith (Ruby Australia 2014)](http://vimeo.com/89493173)
 * [How Shopify Scales Rails - John Duff (BigRuby 2013)](http://confreaks.com/videos/2303-bigruby2013-how-shopify-scales-rails) & [RailsConf 2013](http://confreaks.com/videos/2423-railsconf2013-how-shopify-scales-rails)
 * [Scaling With Friends](http://confreaks.com/videos/2307-bigruby2013-scaling-with-friends)
 * [Services and Rails: The Shit They Don't Tell You - Brian Morton (BigRuby 2013)](http://confreaks.com/videos/2299-bigruby2013-services-and-rails-the-shit-they-don-t-tell-you) & [Ruby On Ales 2013](http://confreaks.com/videos/2319-roa2013-services-and-rails-the-shit-they-don-t-tell-you)
@@ -1017,6 +1020,10 @@
 
 * [decaf - Webkit modified to run Ruby in the browser](https://github.com/timahoney/decaf)
 * [Hardware Hacking and M2M Websites with Ruby - Steve Morss (BostonRb 2013)](http://bostonrb.org/presentations/hardware-hacking-and-m2m-websites-with-ruby)
+
+### RUBY - FUTURE (AND CURRENT PROBLEMS)
+
+* [Rescuing Ruby - Greg Brockman (Ruby Australia 2014)](http://vimeo.com/89494987)
 
 ### RUBY - GEMS
 
