@@ -579,6 +579,7 @@
 * [10-item work-efficiency recipe ](http://m-a-tech.blogspot.com/2012/10/short-10-items-work-efficiency-recipe.html)
 * [Keynote - Tom Preston-Werner (GitHub) (NLC 2011)](http://vimeo.com/35640883)
 * [Level Up! Test-driving your personal development - Alan Gardner (Scotland Ruby Conf 2011)](http://confreaks.com/videos/556-scotlandruby2011-level-up-test-driving-your-personal-development)
+* [Teach Your Way to Better Code - Felix Clack (Ruby Australia 2014)](http://vimeo.com/88947877)
 * [Legacy - Chad Fowler (Aloha RubyConf 2012)](http://confreaks.com/videos/1240-aloharuby2012-legacy)
 * [Nobody will Train You but You - Zachary Briggs (RailsConf 2013)](http://confreaks.com/videos/2427-railsconf2013-nobody-will-train-you-but-you) & [Ruby MidWest 2013](http://confreaks.com/videos/2381-rmw2013-nobody-will-train-you-but-you)
 * [Build a Bigger Brain: How Healthy Living Makes You Smarter - Joe Kutner (BigRuby 2013)](http://confreaks.com/videos/2304-bigruby2013-build-a-bigger-brain-how-healthy-living-makes-you-smarter)
@@ -681,6 +682,7 @@
 ## RACK
 
 * [Rack Middleware as a General Purpose Abstraction - Mitchell Hashimoto (MountainWest RubyConf 2012)](http://confreaks.com/videos/961-mwrc2012-rack-middleware-as-a-general-purpose-abstraction)
+* [Rack: A Framework to Roll Your Own - Nishant Modak (Ruby Australia 2014)](http://vimeo.com/89478511)
 
 ## RAILS
 
@@ -767,6 +769,7 @@
 
 * [DevOps for the Rubyist Soul - John Downey (SteelCityRuby 2013](http://steelcityruby.confbots.com/video/72791610)
 * [DevOps for the Rubyist Soul (capistrano, puppet, puppet, git & vagrant)](http://confreaks.com/videos/2297-bigruby2013-devops-for-the-rubyist-soul)
+* [Scaling Groupon - Tyler Jennings, Michael Cerna (Scotland Ruby Conf 2011)](http://confreaks.com/videos/554-scotlandruby2011-scaling-groupon)
 * [How Github (No Longer) Works - Zach Holman (Ruby Australia 2014)](http://vimeo.com/90175385)
 * [How Shopify Scales Rails - John Duff (BigRuby 2013)](http://confreaks.com/videos/2303-bigruby2013-how-shopify-scales-rails) & [RailsConf 2013](http://confreaks.com/videos/2423-railsconf2013-how-shopify-scales-rails)
 * [Scaling With Friends](http://confreaks.com/videos/2307-bigruby2013-scaling-with-friends)
@@ -851,6 +854,10 @@
 * [Ruby 2.0 - Matz (MountainWest RubyConf 2013)](http://confreaks.com/videos/2334-mwrc2013-ruby-2-0)
 * [What's new in Ruby 2.0 - Patrick Robertson (BostonRB.org)](http://bostonrb.org/presentations/whats-new-in-ruby-20)
 * [Intro to Ruby 2.0 - Matt Aimonetti](http://www.sdruby.org/podcast/132)
+
+### RUBY - 2.1
+
+* [Why I am excited about Ruby 2.1 - Sam Saffron (Ruby Australia 2014)](http://vimeo.com/89491942)
 
 ### RUBY - ACTIVE RECORD
 
@@ -1015,6 +1022,7 @@
 
 * [Make Awesome Command-Line Apps with Ruby - David Copeland (Ruby Midwest 2011)](http://confreaks.com/videos/762-rubymidwest2011-make-awesome-command-line-apps-with-ruby)
 * [Ruby Libraries Important for Rails by Michael Hartl (RailsConf 2013)](https://www.youtube.com/watch?v=noWORpSTQGE)
+* [Extreme Makeover - Rubygems Edition - André Arko (Ruby Australia 2014)](http://vimeo.com/88941448)
 
 ### RUBY - INTERNALS
 
@@ -1113,6 +1121,7 @@
 
 ### RUBY - TESTING - MINITEST
 
+* [A Big Look at MiniTest - Mark Bates (Ruby Australia 2014)](http://vimeo.com/88934438)
 * [MiniTest: Refactoring Test Unit and RSpec back to version 0.0.1 - Jared Ning (RailsConf 2012)](http://confreaks.com/videos/913-railsconf2012-minitest-refactoring-test-unit-and-rspec-back-to-version-0-0-1)
 * [MiniTest: Write Awesome Tests - Michael J.I. Jackson (MountainWest RubyConf 2012)](http://confreaks.com/videos/962-mwrc2012-minitest-write-awesome-tests)
 
@@ -1147,10 +1156,6 @@
 * [Scala for the Impatient (free PDF; requires registration)](http://typesafe.com/resources/book/scala-for-the-impatient)
 * [Scala in Depth (free PDF; requires registration)](http://typesafe.com/resources/book/scala-in-depth)
 * [Scala Tutorial (PDF) - TutorialsPoint.com](http://tutorialspoint.com/scala/scala_tutorial.pdf)
-
-## SCALING
-
-* [Scaling Groupon - Tyler Jennings, Michael Cerna (Scotland Ruby Conf 2011)](http://confreaks.com/videos/554-scotlandruby2011-scaling-groupon)
 
 ## TECH - MISCELLANEOUS
 
