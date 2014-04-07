@@ -79,6 +79,7 @@
 * [Ruby-Toolbox - Deployment Automation](https://www.ruby-toolbox.com/categories/deployment_automation)
 * [Ruby-Toolbox - Systems Integration](https://www.ruby-toolbox.com/categories/systems_integration)
 * [Acquiring DevOps Skills - Pavel Suchman (DevCon TLV 2014)](http://confreaks.com/videos/3293-devcontlvjan2014-acquiring-devops-skills)
+* [Configuration Management ROI - Evgeny Zislis (DevCon TLV 2014)](http://confreaks.com/videos/3294-devcontlvjan2014-configuration-management-roi)
 * [Continuous Deployment - Matt White (MountainWest RubyConf 2012)](http://confreaks.com/videos/967-mwrc2012-continuous-deployment)
 
 ### DEVOPS - ANSIBLE
@@ -775,8 +776,12 @@
 * [How Github (No Longer) Works - Zach Holman (Ruby Australia 2014)](http://vimeo.com/90175385)
 * [How I Architected My Big Rails App For Success - Benjamin Smith (Ruby Australia 2014)](http://vimeo.com/89493173)
 * [How Shopify Scales Rails - John Duff (BigRuby 2013)](http://confreaks.com/videos/2303-bigruby2013-how-shopify-scales-rails) & [RailsConf 2013](http://confreaks.com/videos/2423-railsconf2013-how-shopify-scales-rails)
+* [Web Scale for the Rest of Us - John Barton (Ruby Australia 2013)](http://vimeo.com/61342269)
 * [Scaling With Friends](http://confreaks.com/videos/2307-bigruby2013-scaling-with-friends)
+* [Keith and Mario's Guide to Fast Websites - Keith Pitt & Mario Visic (Ruby Australia 2013)](http://vimeo.com/61342267)
+* [From Stubbies to Longnecks: Finding and Curing Scaling Bottlenecks - Geoffrey Giesmann (Ruby Australia 2013)](http://vimeo.com/61255734)
 * [Services and Rails: The Shit They Don't Tell You - Brian Morton (BigRuby 2013)](http://confreaks.com/videos/2299-bigruby2013-services-and-rails-the-shit-they-don-t-tell-you) & [Ruby On Ales 2013](http://confreaks.com/videos/2319-roa2013-services-and-rails-the-shit-they-don-t-tell-you)
+* [Uptime == Money: High Availability at Braintree - Paul Gross (Ruby Australia 2013)](http://vimeo.com/61255649)
 
 ### RAILS - SECURITY
 
@@ -888,6 +893,7 @@
 * [Ruby-Toolbox - Recurring Events](https://www.ruby-toolbox.com/categories/recurring_events)
 * [Ruby-Toolbox - Scheduling](https://www.ruby-toolbox.com/categories/scheduling)
 * [Modern Concurrency Practices in Ruby - Arnab Deka (Ruby Australia 2014)](http://vimeo.com/89489939)
+* [Dear God What Am I Doing? Concurrency and Parallel Processing - Adam Hawkins (Ruby Australia 2013)](http://vimeo.com/61342268)
 * [What All Rubyists Should Know About Threads - Jim Weirich (RubyConf 2008)](http://www.confreaks.com/videos/1154-rubyconf2008-what-all-rubyists-should-know-about-threads)
 * [Brian Shirai on Rubinius 2.0, the GIL, and thread-safe Ruby code](http://www.jstorimer.com/2013/03/26/brian-shirai-threads.html)
 * [Evented Ruby vs Node.js - Jerry Cheung (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1231-aloharuby2012-evented-ruby-vs-node-js) & [RailsConf 2012](http://confreaks.com/videos/894-railsconf2012-evented-ruby-vs-node-js)
@@ -935,6 +941,7 @@
 * [Refactoring Fat Models with Patterns](http://www.confreaks.com/videos/2290-larubyconf2013-refactoring-fat-models-with-patterns)
 * [Rules - Sandi Metz (BaRuCo 2013)](http://www.youtube.com/watch?v=npOGOmkxuio)
 * [Building a Ruby Library, the Parts No One Talks About - Mitchell Hashimoto (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1246-aloharuby2012-building-a-ruby-library-the-parts-no-one-talks-about)
+* [High-Performance Ruby - Charles Nutter (Ruby Australia 2013)](http://vimeo.com/61255646)
 * [Here Be Dragons - Katrina Owen (Rocky Mountain Ruby 2013)](http://confreaks.com/videos/2649-rockymountainruby2013-here-be-dragons)
 * [Kata and Analysis - Jim Weirich (BostonRB.org)](http://bostonrb.org/presentations/kata-and-analysis)
 * [The Value of Value Objects - Jeremy Weiskotten (BostonRB.org)](http://bostonrb.org/presentations/the-value-of-value-objects)
@@ -1029,6 +1036,7 @@
 
 * [Make Awesome Command-Line Apps with Ruby - David Copeland (Ruby Midwest 2011)](http://confreaks.com/videos/762-rubymidwest2011-make-awesome-command-line-apps-with-ruby)
 * [Ruby Libraries Important for Rails by Michael Hartl (RailsConf 2013)](https://www.youtube.com/watch?v=noWORpSTQGE)
+* [Hacking With Gems - Benjamin Smith (Ruby Australia 2013)](http://vimeo.com/61255737)
 * [Extreme Makeover - Rubygems Edition - André Arko (Ruby Australia 2014)](http://vimeo.com/88941448)
 
 ### RUBY - INTERNALS
