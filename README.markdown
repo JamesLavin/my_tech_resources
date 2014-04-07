@@ -125,6 +125,11 @@
 * [Zero Downtime Deploys Made Easy - Matt Duncan (RubyConf 2012)](http://confreaks.com/videos/1279-rubyconf2012-zero-downtime-deploys-made-easy)
 * [Zero downtime deploys for Rails apps - Pedro Belo (RailsConf 2012)](http://confreaks.com/videos/896-railsconf2012-zero-downtime-deploys-for-rails-apps) using Heroku, Unicorn and HAProxy
 
+## ELIXIR
+
+* [Elixir: Power of Erlang, Joy of Ruby - Dave Thomas (LoneStarRuby 2013)](https://www.youtube.com/watch?v=KQwEmdOH-GM)
+* [Introduction to Elixir: a New Language on the VM - José Valim](https://www.youtube.com/watch?v=41PvAPSX0wg)
+
 ## EMERGING TECHNOLOGIES
 
 * [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/#/)
