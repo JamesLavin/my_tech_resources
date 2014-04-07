@@ -893,6 +893,7 @@
 * [Ruby-Toolbox - Recurring Events](https://www.ruby-toolbox.com/categories/recurring_events)
 * [Ruby-Toolbox - Scheduling](https://www.ruby-toolbox.com/categories/scheduling)
 * [Modern Concurrency Practices in Ruby - Arnab Deka (Ruby Australia 2014)](http://vimeo.com/89489939)
+* [Immutable Ruby - Michael Fairley (Ruby Australia 2013)](http://vimeo.com/61231676)
 * [Dear God What Am I Doing? Concurrency and Parallel Processing - Adam Hawkins (Ruby Australia 2013)](http://vimeo.com/61342268)
 * [What All Rubyists Should Know About Threads - Jim Weirich (RubyConf 2008)](http://www.confreaks.com/videos/1154-rubyconf2008-what-all-rubyists-should-know-about-threads)
 * [Brian Shirai on Rubinius 2.0, the GIL, and thread-safe Ruby code](http://www.jstorimer.com/2013/03/26/brian-shirai-threads.html)
