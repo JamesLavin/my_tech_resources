@@ -95,6 +95,7 @@
 * [Learn Chef](http://learnchef.com/)
 * [Using Ruby to Automate Your Life - Seth Vargo (Ruby Australia 2014)](http://vimeo.com/90182570)
 * [Testing Your Automation: TTD for Chef Cookbooks - Nathen Harvey (BigRuby 2013)](http://confreaks.com/videos/2309-bigruby2013-testing-your-automation-ttd-for-chef-cookbooks)
+* [Five Things You Didn't Know About Chef](http://confreaks.com/videos/2301-bigruby2013-5-things-you-didn-t-know-about-chef)
 
 ### DEVOPS - CHEF - BERKSHELF
 
@@ -129,6 +130,7 @@
 
 * [Elixir: Power of Erlang, Joy of Ruby - Dave Thomas (LoneStarRuby 2013)](https://www.youtube.com/watch?v=KQwEmdOH-GM)
 * [Introduction to Elixir: a New Language on the VM - José Valim](https://www.youtube.com/watch?v=41PvAPSX0wg)
+* [Elixir - A modern approach to programming for the Erlang VM - Jose Valim (RuPy 2012)](https://www.youtube.com/watch?v=q2Hxt0tOR0k)
 
 ## EMERGING TECHNOLOGIES
 
@@ -760,7 +762,7 @@
 
 * [DevOps for the Rubyist Soul - John Downey (SteelCityRuby 2013](http://steelcityruby.confbots.com/video/72791610)
 * [DevOps for the Rubyist Soul (capistrano, puppet, puppet, git & vagrant)](http://confreaks.com/videos/2297-bigruby2013-devops-for-the-rubyist-soul)
-* [Five Things You Didn't Know About Chef](http://confreaks.com/videos/2301-bigruby2013-5-things-you-didn-t-know-about-chef)
+* [How Github (No Longer) Works - Zach Holman (Ruby Australia 2014)](http://vimeo.com/90175385)
 * [How Shopify Scales Rails - John Duff (BigRuby 2013)](http://confreaks.com/videos/2303-bigruby2013-how-shopify-scales-rails) & [RailsConf 2013](http://confreaks.com/videos/2423-railsconf2013-how-shopify-scales-rails)
 * [Scaling With Friends](http://confreaks.com/videos/2307-bigruby2013-scaling-with-friends)
 * [Services and Rails: The Shit They Don't Tell You - Brian Morton (BigRuby 2013)](http://confreaks.com/videos/2299-bigruby2013-services-and-rails-the-shit-they-don-t-tell-you) & [Ruby On Ales 2013](http://confreaks.com/videos/2319-roa2013-services-and-rails-the-shit-they-don-t-tell-you)
