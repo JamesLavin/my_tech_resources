@@ -4,6 +4,10 @@
 
 'My Tech Resources' is where I place links to resources I have either found useful or think might be helpful to future me or Ruby/Javascript developers like me.
 
+## BOOKS
+
+* [Free programming books (many languages)](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+
 ## CHARACTERS - UTF-8
 
 * [Characters, Symbols and the Unicode Miracle - Computerphile](https://www.youtube.com/watch?v=MijmeoH9LT4) + [other cool Computerphile videos](https://www.youtube.com/user/Computerphile/videos)
