@@ -129,6 +129,14 @@
 
 * [test-kitchen](https://github.com/test-kitchen/test-kitchen)
 
+### DEVOPS - DOCKER
+
+* [Build Your Own Shipyard - Andreas Tiefenthaler (Kod.io 2014)](http://confreaks.com/videos/3252-kodio_2014-build-your-own-shipyard)
+
+### DEVOPS - VAGRANT
+
+* [Vagrant, Packer, Serf: Maximum Potency DevOps - Mitchell Hashimoto (Kod.io 2014)](http://confreaks.com/videos/3251-kodio_2014-vagrant-packer-serf-maximum-potency-devops)
+
 ## DOWNTIME
 
 * [Ruby-Toolbox - Maintenance Mode](https://www.ruby-toolbox.com/categories/Maintenance_Mode)
