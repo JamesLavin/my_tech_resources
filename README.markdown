@@ -341,6 +341,10 @@
 
 * [Use Rails for Your Next Client-Side App - Yehuda Katz (ChicagoRuby2012)](http://vimeo.com/50451185)
 
+### JAVASCRIPT - D3
+
+* [Beyond the Bar Graph - Joanne Cheng (Kod.io 2014)](http://confreaks.com/videos/3243-kodio_2014-beyond-the-bar-graph)
+
 ### JAVASCRIPT - DEPENDENCY INJECTION
 
 * [Sam Breed - Dependency Injection for Fun and Profit](http://www.youtube.com/watch?v=Lm05e5sJaE8)
