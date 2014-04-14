@@ -192,6 +192,7 @@
 ### GIT - GITHUB
 
 * [Help](https://help.github.com/)
+* [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [Developer docs](http://developer.github.com)
 
 ## HAML
