@@ -371,6 +371,7 @@
 * [EmberJS.com](http://emberjs.com/)
 * [EmberJS Guides](http://emberjs.com/guides/)
 * [EmberJS API](http://emberjs.com/api/)
+* [EmberConf 2014 videos](http://confreaks.com/events/emberconf2014)
 * [Ember Inspector (for browsers)](https://github.com/tildeio/ember-extension)
 * [Intro to Ember JS - Vic Ramon of Hashrocket](https://www.youtube.com/watch?v=_lubCRPw17s)
 * [An In-Depth Introduction to Ember.js - Julien Knebel](http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/)
