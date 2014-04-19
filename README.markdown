@@ -936,6 +936,7 @@
 
 ### RUBY - BLOGS
 
+* [Writing a compiler in Ruby, bottom up (Vidar Hokstad)](http://www.hokstad.com/compiler/)
 * [A Fresh Cup (Mike Gunderloy)](http://afreshcup.com/)
 * [Avdi Grimm](http://devblog.avdi.org/)
 * [Green Ruby](http://greenruby.org/)
