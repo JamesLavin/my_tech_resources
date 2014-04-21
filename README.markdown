@@ -661,6 +661,11 @@
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
 * [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
 
+### PYTHON - PANDAS
+
+* [Statistical Data Analysis in Python (4 videos) - Christopher Fonnesbeck](http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109)
+* [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
+
 ## R
 
 * [RStudio](http://rstudio.org/)
