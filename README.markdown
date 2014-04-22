@@ -510,6 +510,7 @@
 
 * [Advanced Bash Scripting Guide](tldp.org/LDP/abs/abs-guide.pdf)
 * [Bash Hackers Wiki](http://wiki.bash-hackers.org/doku.php)
+* [Better Bash Scripting in 15 Minutes - Robert Muth](http://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html)
 * [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.pdf)
 * [Command Line Fu](http://www.commandlinefu.com/commands/browse/sort-by-votes)
 * [Greg Wooledge's Wiki](http://mywiki.wooledge.org/)
