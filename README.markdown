@@ -215,6 +215,7 @@
 
 ### HTML5 - CANVAS
 
+* [HTML5 Canvas Animation With Javascript - Josh Robertson (MountainWest JavaScript 2014)](http://confreaks.com/videos/3239-mwjs-html5-canvas-animation-with-javascript)
 * [A Rubyist's Guide to the Canvas API - H. Dean Hudson (CascadiaRuby 2012)](http://confreaks.com/videos/1067-cascadiaruby2012-a-rubyist-s-guide-to-the-canvas-api)
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/HTML/Canvas)
 
@@ -371,7 +372,7 @@
 * [EmberJS.com](http://emberjs.com/)
 * [EmberJS Guides](http://emberjs.com/guides/)
 * [EmberJS API](http://emberjs.com/api/)
-* [EmberConf 2014 videos](http://confreaks.com/events/emberconf2014)
+* [EmberConf 2014 videos](http://confreaks.com/events/emberconf2014) & [slides](http://emberconf.com/schedule.html)
 * [Ember Inspector (for browsers)](https://github.com/tildeio/ember-extension)
 * [Intro to Ember JS - Vic Ramon of Hashrocket](https://www.youtube.com/watch?v=_lubCRPw17s)
 * [An In-Depth Introduction to Ember.js - Julien Knebel](http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/)
@@ -393,7 +394,6 @@
 * [Ember HTMLBars - Erik Bryn](http://www.youtube.com/watch?v=vjBs07kgjq0) & [HTMLBars (Github)](https://github.com/tildeio/htmlbars)
 * [POJOs vs. Ember Objects](http://www.youtube.com/watch?v=h4w7ZqCk0zg)
 * [Custom Adapters for Ember Data - Jeffrey Biles](http://www.youtube.com/watch?v=a3KGITKNbeQ) & [Switching to Ember Data](http://www.youtube.com/watch?v=i1Qzaf6lV1Q) & [Much Very Confused: Ember for the inappropriately experienced](http://www.youtube.com/watch?v=DVwzN6kTc1c)
-* [EmberConf 2014 slides](http://emberconf.com/schedule.html)
 * [A Tale of Two MVCs - Yehuda Katz (GoGaRuCo 2013)](http://www.youtube.com/watch?v=s1dhXamEAKQ)
 
 #### JAVASCRIPT - EMBER.JS - TESTING
@@ -890,6 +890,7 @@
 ### RUBY - 2.1
 
 * [Why I am excited about Ruby 2.1 - Sam Saffron (Ruby Australia 2014)](http://vimeo.com/89491942)
+* [New Ruby 2.1 Awesomeness: Pro Object Allocation Tracing - Sam Rawlins (MountainWest Ruby 2014)](http://confreaks.com/videos/3272-mwrc-new-ruby-2-1-awesomeness-pro-object-allocation-tracing)
 
 ### RUBY - ACTIVE RECORD
 
@@ -994,6 +995,10 @@
 
 * [Command Line Applications in Ruby: the Good Stuff - Mark Ranallo](http://www.sdruby.org/podcast/117)
 
+### RUBY - CRUBY
+
+* [Intro to CRuby Source Code - Andy Pliszka (MountainWest Ruby 2014)](http://confreaks.com/videos/3271-mwrc-introduction-to-cruby-source-code)
+
 ### RUBY - DEBUGGING
 
 * [We're sorry, but something went wrong - Aja Hammerly (CascadiaRuby 2013)](http://confreaks.com/videos/2783-cascadiaruby2013-we-re-sorry-but-something-went-wrong)
@@ -1051,6 +1056,7 @@
 
 ### RUBY - FUN
 
+* [A Magical Gathering - Aaron Patterson (MountainWest Ruby 2014)](http://confreaks.com/videos/3269-mwrc-a-magical-gathering), uses [OpenCV (for real-time computer vision)](http://opencv.org/)
 * [decaf - Webkit modified to run Ruby in the browser](https://github.com/timahoney/decaf)
 * [Hardware Hacking and M2M Websites with Ruby - Steve Morss (BostonRb 2013)](http://bostonrb.org/presentations/hardware-hacking-and-m2m-websites-with-ruby)
 
@@ -1126,6 +1132,7 @@
 
 * [Brakeman](https://github.com/presidentbeef/brakeman)
 * [Keeping Rails Applications on Track with Brakeman - Justin Collins (RailsConf 2012)](http://confreaks.com/videos/890-railsconf2012-keeping-rails-applications-on-track-with-brakeman)
+* [Generate Parsers! Prevent Exploits! - Nick Howard (MountainWest Ruby 2014)](http://confreaks.com/videos/3270-mwrc-generate-parsers-prevent-exploits)
 * https://code.google.com/p/ruby-security/wiki/Guide
 * [Modern Cryptography - John Downey (GoGaRuCo 2012)](http://confreaks.com/videos/1114-gogaruco2012-modern-cryptography)
 * [Hacking with Gems - Ben Smith (Aloha RubyConf 2012)](http://confreaks.com/videos/1243-aloharuby2012-hacking-with-gems)
@@ -1137,6 +1144,8 @@
 
 ### RUBY - TESTING
 
+* [The Other Junk Drawer: My Tests are a Mess - Christopher Sexton (MountainWest Ruby 2014)](http://confreaks.com/videos/3273-mwrc-the-other-junk-drawer-my-tests-are-a-mess)
+* [Re-thinking Regression Testing - Mario Gonzalez (MountainWest Ruby 2014)](http://confreaks.com/videos/3274-mwrc-re-thinking-regression-testing)
 * [SOLID and TDD, Sitting in a Tree - Mike Nicholaides (Rocky Mountain Ruby 2013)](http://confreaks.com/videos/2653-rockymountainruby2013-solid-and-tdd-sitting-in-a-tree)
 * [It's not your test framework, it's you - Robbie Clutton & Matt Parker (LA Ruby Conf 2013)](http://confreaks.com/videos/2313-larubyconf2013-it-s-not-your-test-framework-it-s-you)
 * [TDD: It's More Than Just "Testing" - Evan Light (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A05_EvanLight-SOR.mp4)
