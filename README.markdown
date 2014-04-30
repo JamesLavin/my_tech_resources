@@ -514,6 +514,7 @@
 * [Better Bash Scripting in 15 Minutes - Robert Muth](http://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html)
 * [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.pdf)
 * [Command Line Fu](http://www.commandlinefu.com/commands/browse/sort-by-votes)
+* [Bash Automated Test System (BATS)](https://github.com/sstephenson/bats) & [tutorial](https://blog.engineyard.com/2014/bats-test-command-line-tools)
 * [Greg Wooledge's Wiki](http://mywiki.wooledge.org/)
 * [Linux Bash Scripting](linux1.ca/docs/Linux_BASH_Scripting.pdf)
 * [The Linux Command Line: A Complete Introduction (PDF)](http://sourceforge.net/projects/linuxcommand/files/TLCL/13.07/TLCL-13.07.pdf/download) & [website](http://www.linuxcommand.org/tlcl.php)
