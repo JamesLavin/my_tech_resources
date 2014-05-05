@@ -8,6 +8,12 @@
 
 * [Free programming books (many languages)](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 
+### BOOKS - PUBLISHING TOOLS
+
+* [GitBook](https://github.com/GitbookIO/gitbook)
+* [reStructuredText](http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html)
+* [Softcover.io](https://www.softcover.io/)
+
 ## CHARACTERS - UTF-8
 
 * [Characters, Symbols and the Unicode Miracle - Computerphile](https://www.youtube.com/watch?v=MijmeoH9LT4) + [other cool Computerphile videos](https://www.youtube.com/user/Computerphile/videos)
