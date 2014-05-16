@@ -246,6 +246,10 @@
 
 * [Using Web Workers (Mozilla MDN)](https://developer.mozilla.org/en-US/docs/Web/Guide/Performance/Using_web_workers)
 
+## INFLUXDB
+
+* [InfluxDB workshop - Paul Dix (Monitorama PDX 2014)](http://vimeo.com/95311877)
+
 ## JAVASCRIPT
 
 * [Javascript Basics](http://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.html)
@@ -752,6 +756,7 @@
 ### RAILS - CLEAN CODE
 
 * [Hexagonal Rails - Matt Wynne (GoRuCo 2012)](https://www.youtube.com/watch?v=CGN4RFkhH2M)
+* [Domain Driven Design and Hexagonal Architecture with Rails - Declan Whelan, Eric Roberts (RailsConf 2014)](http://confreaks.com/videos/3316-railsconf-domain-driven-design-and-hexagonal-architecture-with-rails)
 * [Building Extractable Libraries in Rails - Patrick S. Robertson (RailsConf 2013)](http://confreaks.com/videos/2444-railsconf2013-building-extractable-libraries-in-rails)
 * [7 Ways to Decompose Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
 * [Mega Rails - Jack Danger Canty (GoGaRuCo 2012)](http://confreaks.com/videos/1125-gogaruco2012-mega-rails)
