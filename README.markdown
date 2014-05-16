@@ -249,6 +249,8 @@
 ## INFLUXDB
 
 * [InfluxDB workshop - Paul Dix (Monitorama PDX 2014)](http://vimeo.com/95311877)
+* [Grafana workshop - Torkel Ödegaard (Monitorama PDX 2014)](http://vimeo.com/95316672)
+* [All Monitorama PDX 2014 talks](http://vimeo.com/monitorama/videos)
 
 ## JAVASCRIPT
 
