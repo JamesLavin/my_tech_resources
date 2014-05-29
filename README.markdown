@@ -680,6 +680,8 @@
 * [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
 * [Natural Language Processing with Python](http://nltk.org/book/)
 * [Mining the Social Web (Git repo)](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
+* [Web scraping: Reliably and efficiently pull data from pages that don't expect it - Asheesh Laroia (PyCon 2012)](https://www.youtube.com/watch?v=52wxGESwQSA)
+* [A Billion Rows per Second: Metaprogramming Python for Big Data - New Circle Training](https://www.youtube.com/watch?v=rXj5nayS7Yg)
 
 #### PYTHON - BOKEH
 
@@ -697,6 +699,7 @@
 #### PYTHON - PANDAS
 
 * [Statistical Data Analysis in Python (4 videos) - Christopher Fonnesbeck](http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109)
+* [Data Analysis in Python with Pandas - Wes McKinney (2012 PyData Workshop)](https://www.youtube.com/watch?v=MxRMXhjXZos)
 * [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
 
 #### PYTHON - SCIPY
