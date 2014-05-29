@@ -682,6 +682,10 @@
 * [Statistical Data Analysis in Python (4 videos) - Christopher Fonnesbeck](http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109)
 * [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
 
+### PYTHON - SCIPY
+
+* [Scientific Python lecture notes](http://scipy-lectures.github.io/) & [PDF](http://scipy-lectures.github.io/_downloads/PythonScientific-simple.pdf)
+
 ## R
 
 * [RStudio](http://rstudio.org/)
