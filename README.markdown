@@ -677,14 +677,36 @@
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
 * [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
 
-### PYTHON - PANDAS
+### PYTHON - STATISTICAL ANALYSIS
+
+* [Mining the Social Web (Git repo)](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
+
+#### PYTHON - BOKEH
+
+* [Interactive Browser Visualizations from Python with Bokeh - Bryan Van De Ven (PyData 2014)](https://www.youtube.com/watch?v=hjW4gL9hioY) & [tutorial files](http://cdn.pydata.org/BokehTutorial.tgz) & [slides](http://www.slideshare.net/PyData/pydata-london-bokeh-tutorial-bryan-van-de-ven)
+* [Bokeh User Guide](http://bokeh.pydata.org/docs/user_guide.html)
+
+#### PYTHON - CYTHON
+
+* [Cython](http://cython.org/)
+
+#### PYTHON - IPYTHON
+
+* [iPython](http://ipython.org/)
+
+#### PYTHON - PANDAS
 
 * [Statistical Data Analysis in Python (4 videos) - Christopher Fonnesbeck](http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109)
 * [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
 
-### PYTHON - SCIPY
+#### PYTHON - SCIPY
 
-* [Scientific Python lecture notes](http://scipy-lectures.github.io/) & [PDF](http://scipy-lectures.github.io/_downloads/PythonScientific-simple.pdf)
+* [Scientific Python lecture notes - EuroScipy tutorial team](http://scipy-lectures.github.io/) & [PDF](http://scipy-lectures.github.io/_downloads/PythonScientific-simple.pdf)
+* [scientific-python-lectures - JR Johansson](https://github.com/jrjohansson/scientific-python-lectures)
+
+#### PYTHON - STATSMODELS
+
+* [Statsmodels](http://statsmodels.sourceforge.net/)
 
 ## R
 
