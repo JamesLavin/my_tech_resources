@@ -668,17 +668,17 @@
 * [Invent Your Own Computer Games With Python, 2nd ed](http://inventwithpython.com/IYOCGwP_book1.pdf)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/index.html)
 * [Making Games with Python & Pygame](http://inventwithpython.com/makinggames.pdf)
-* [Natural Language Processing with Python](http://nltk.org/book/)
 * [Python Programming](http://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf)
 * [Programming Python, 4th ed](http://it-ebooks.info/go.php?id=614-1376544793-f29d5b06b99ac32ba63d667a79d38ce9)
 * [Python Tutorial (TutorialsPoint.com)](http://www.tutorialspoint.com/python/python_tutorial.pdf)
 * [The Python Tutorial (Python 2)](http://docs.python.org/2/tutorial/index.html) & [(Python 3)](http://docs.python.org/3.3/tutorial/index.html)
 * [Think Complexity](http://greenteapress.com/complexity/thinkcomplexity.pdf)
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
-* [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
 
 ### PYTHON - STATISTICAL ANALYSIS
 
+* [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
+* [Natural Language Processing with Python](http://nltk.org/book/)
 * [Mining the Social Web (Git repo)](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
 
 #### PYTHON - BOKEH
@@ -1248,6 +1248,13 @@
 * [Scala for the Impatient (free PDF; requires registration)](http://typesafe.com/resources/book/scala-for-the-impatient)
 * [Scala in Depth (free PDF; requires registration)](http://typesafe.com/resources/book/scala-in-depth)
 * [Scala Tutorial (PDF) - TutorialsPoint.com](http://tutorialspoint.com/scala/scala_tutorial.pdf)
+
+## STATISTICAL ANALYSIS
+
+### VIDEOS
+
+* [Strata Conference 2014 videos](https://www.youtube.com/playlist?list=PL055Epbe6d5YX_cD2IDr4dK9Da0Vh6YgI)
+* [Strata Conference 2013 videos](https://www.youtube.com/playlist?list=PL055Epbe6d5ZEYjq8K7CA37-1fEST-yWe)
 
 ## TECH - MISCELLANEOUS
 
