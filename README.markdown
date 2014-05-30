@@ -348,10 +348,17 @@
 * [Underscore.js](http://underscorejs.org/)
 * [Lo-Dash](http://lodash.com/)
 
-#### JAVASCRIPT - BLOGS
+### JAVASCRIPT - BLOGS
 
 * [Reginald Braithwaite](http://braythwayt.com/)
 * [JavaScript Playground](http://javascriptplayground.com/blog)
+
+### JAVASCRIPT - BOWER & BROCCOLI
+
+* [Bower (package manager)](http://bower.io/)
+* [Broccoli (asset pipeline / build tool)](https://github.com/broccolijs/broccoli)
+* [No More 'Grunt Watch': Modern build workflows with Broccoli (EmberConf 2014)](https://www.youtube.com/watch?v=PEb4BiXH4bE)
+* [Getting Started With Broccoli and Ember.js](http://ampersate.com/getting-started-with-broccoli-and-emberjs)
 
 ### JAVASCRIPT - CLEAN CODE
 
@@ -375,6 +382,8 @@
 
 ### JAVASCRIPT - ES6 / ECMASCRIPT 6
 
+* [es6-module-transpiler](https://github.com/square/es6-module-transpiler)
+* [ES6 module syntax](http://wiki.ecmascript.org/doku.php?id=harmony:modules#quick_examples)
 * [ECMAScript 6, The Future of JavaScript - Axel Rauschmayer](http://www.youtube.com/watch?v=_ZG_CrYyh_Q) (Excellent after 10-min intro)
 * [ES6Fiddle.net](http://www.es6fiddle.net)
 * [ES6 Tools - Addy Osmani](https://github.com/addyosmani/es6-tools)
@@ -410,9 +419,15 @@
 * [Custom Adapters for Ember Data - Jeffrey Biles](http://www.youtube.com/watch?v=a3KGITKNbeQ) & [Switching to Ember Data](http://www.youtube.com/watch?v=i1Qzaf6lV1Q) & [Much Very Confused: Ember for the inappropriately experienced](http://www.youtube.com/watch?v=DVwzN6kTc1c)
 * [A Tale of Two MVCs - Yehuda Katz (GoGaRuCo 2013)](http://www.youtube.com/watch?v=s1dhXamEAKQ)
 
+#### JAVASCRIPT - EMBER.JS - EMBER-CLI
+
+* [ember-cli](http://iamstef.net/ember-cli/)
+
 #### JAVASCRIPT - EMBER.JS - TESTING
 
 * [Testing Your Ember Applications - Eric Berry](https://www.youtube.com/watch?v=GRT5YcXmm7E)
+* [EmberScript](http://emberscript.com/)
+* [QUnit](http://qunitjs.com/)
 
 ### JAVASCRIPT - FRAMEWORKS
 
@@ -700,6 +715,7 @@
 #### PYTHON - PANDAS
 
 * [Statistical Data Analysis in Python (4 videos) - Christopher Fonnesbeck](http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109)
+* [Keynote - Wes McKinney (PyCon Singapore 2013)](https://www.youtube.com/watch?v=Jm73dKlYHZw)
 * [Data Analysis in Python with Pandas - Wes McKinney (2012 PyData Workshop)](https://www.youtube.com/watch?v=MxRMXhjXZos)
 * [Time Series Data Analysis with Pandas - Wes McKinney (ciPy 2012)](https://www.youtube.com/watch?v=0unf-C-pBYE)
 * [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
