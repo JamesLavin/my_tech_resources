@@ -80,6 +80,11 @@
 
 * [The New Rules of The Responsive Web](http://confreaks.com/videos/2222-html5tx2013-the-new-rules-of-the-responsive-web)
 
+## DATA
+
+* [Explore.data.gov](https://explore.data.gov/)
+* [FRED (Federal Reserve Economic Data)](http://research.stlouisfed.org/fred2/)
+
 ## DEVOPS
 
 * [BOSH](https://github.com/cloudfoundry/bosh)
@@ -396,9 +401,11 @@
 * [EmberJS Guides](http://emberjs.com/guides/)
 * [EmberJS API](http://emberjs.com/api/)
 * [EmberConf 2014 videos](http://confreaks.com/events/emberconf2014) & [slides](http://emberconf.com/schedule.html)
+* [Intro To Ember @ LinkedIn - Erik Bryn (2014)](https://www.youtube.com/watch?v=XlWcj41D-So)
 * [Ember Inspector (for browsers)](https://github.com/tildeio/ember-extension)
 * [Intro to Ember JS - Vic Ramon of Hashrocket](https://www.youtube.com/watch?v=_lubCRPw17s)
 * [An In-Depth Introduction to Ember.js - Julien Knebel](http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/)
+* [Ember js - An Application Framework For The Future - Joachim Haagen Skeie (Warm Croc Conference 2014)](https://www.youtube.com/watch?v=KH5RreHtaaQ)
 * [Emberwatch list of Ember talks](http://emberwatch.com/), [tutorials](http://emberwatch.com/tutorials.html), [screencasts](http://emberwatch.com/screencasts.html) & [podcasts](http://emberwatch.com/podcasts.html)
 * [Awesome Ember Tricks - Robin Ward](http://www.youtube.com/watch?v=kBhGXX4zbXw)
 * [Boston Ember talks](http://www.youtube.com/channel/UCp_L_YjmXTKR4Q2fg1XahsA)
