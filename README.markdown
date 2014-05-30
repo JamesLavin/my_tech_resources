@@ -678,6 +678,7 @@
 
 ## PYTHON
 
+* [PyVideo.org](http://www.pyvideo.org/category)
 * [Khan Academy](http://www.khanacademy.org/science/computer-science/v/introduction-to-programs-data-types-and-variables)
 * [Python Fundamentals Training](http://www.youtube.com/playlist?list=PL26BA8B9FC33789FF&feature=plcp)
 * [Building Skills in Object-Oriented Design](http://slav0nic.org.ua/static/books/python/oodesign.pdf)
@@ -726,6 +727,7 @@
 * [Data Analysis in Python with Pandas - Wes McKinney (2012 PyData Workshop)](https://www.youtube.com/watch?v=MxRMXhjXZos)
 * [Time Series Data Analysis with Pandas - Wes McKinney (ciPy 2012)](https://www.youtube.com/watch?v=0unf-C-pBYE)
 * [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
+* [Remote Data Access](http://pandas.pydata.org/pandas-docs/stable/remote_data.html)
 
 #### PYTHON - SCIPY
 
