@@ -192,6 +192,7 @@
 * [Git tutorial](http://www.vogella.com/articles/Git/article.html)
 * [Git From the Bits Up - Tim Berglund](http://www.youtube.com/watch?v=MYP56QJpDr4&list=UUkQX1tChV7Z7l1LFF4L9j_g)
 * [Tig (Text-mode interface for Git)](http://jonas.nitro.dk/tig/)
+* [Hacker’s Guide to Git - Joseph Wynn](http://wildlyinaccurate.com/a-hackers-guide-to-git)
 * [Getting Git: Getting Effective Project Management - Scott Chacon (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A02_Scott_Chacon.mp4)
 * [Git and GitHub Secrets by Zach Holman](http://www.youtube.com/watch?v=Foz9yvMkvlA)
 * [Introduction to Git - Scott Chacon (GitHub)](http://www.youtube.com/watch?v=ZDR433b0HJY)
@@ -387,7 +388,7 @@
 
 ### JAVASCRIPT - ES6 / ECMASCRIPT 6
 
-* [es6-module-transpiler](https://github.com/square/es6-module-transpiler)
+* [es6-module-transpiler](https://github.com/square/es6-module-transpiler) & [many more ES6 transpilers](https://github.com/addyosmani/es6-tools)
 * [ES6 module syntax](http://wiki.ecmascript.org/doku.php?id=harmony:modules#quick_examples)
 * [ECMAScript 6, The Future of JavaScript - Axel Rauschmayer](http://www.youtube.com/watch?v=_ZG_CrYyh_Q) (Excellent after 10-min intro)
 * [ES6Fiddle.net](http://www.es6fiddle.net)
@@ -752,6 +753,7 @@
 * [R for Beginners](http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
 * [SimpleR](http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
 * [icebreakeR](http://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf)
+* [R Tutorials - William King](http://ww2.coastal.edu/kingw/statistics/R-tutorials/index.html)
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf)
 * [Using R for Data Analysis and Graphics](http://cran.r-project.org/doc/contrib/usingR.pdf)
 * [Introduction to R (Lam)](http://cran.r-project.org/doc/contrib/Lam-IntroductionToR_LHL.pdf)
