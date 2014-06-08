@@ -704,6 +704,8 @@
 * [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
 * [Natural Language Processing with Python](http://nltk.org/book/)
 * [Mining the Social Web (Git repo)](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
+* [Learn Python Through Public Data Hacking](http://www.youtube.com/watch?v=RrPZza_vZ3w)
+* [Social Network Analysis With Python - Maksim Tsvetovat (2012)](http://www.youtube.com/watch?v=qgGqaBAEy3Q)
 * [Web scraping: Reliably and efficiently pull data from pages that don't expect it - Asheesh Laroia (PyCon 2012)](https://www.youtube.com/watch?v=52wxGESwQSA)
 * [Social Network Analysis with Python - Maksim Tsvetovat (PyCon 2012)](https://www.youtube.com/watch?v=qgGqaBAEy3Q)
 * [A Billion Rows per Second: Metaprogramming Python for Big Data - New Circle Training](https://www.youtube.com/watch?v=rXj5nayS7Yg)
@@ -721,6 +723,10 @@
 
 * [iPython](http://ipython.org/)
 
+#### PYTHON - MATPLOTLIB
+
+* [Plotting With MatPlotLib](http://www.youtube.com/watch?v=P7SVi0YTIuE)
+
 #### PYTHON - PANDAS
 
 * [Statistical Data Analysis in Python (4 videos) - Christopher Fonnesbeck](http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109)
@@ -729,6 +735,19 @@
 * [Time Series Data Analysis with Pandas - Wes McKinney (ciPy 2012)](https://www.youtube.com/watch?v=0unf-C-pBYE)
 * [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
 * [Remote Data Access](http://pandas.pydata.org/pandas-docs/stable/remote_data.html)
+* [Detailed Look at Pandas' Indexes - Trent Hauck (O'Reilly 2014)](http://www.youtube.com/watch?v=NWS7QxnAmyU<S-F12>)
+
+#### PYTHON - SCIKIT-LEARN
+
+* [API](http://scikit-learn.org/stable/modules/classes.html)
+* [Documentation](http://scikit-learn.org/stable/documentation.html)
+* [User Guide](http://scikit-learn.org/stable/user_guide.html)
+* [Intro to Scikit-learn (1) - Gaël Varoquaux, Jake Vanderplas, Olivier Grisel (SciPy 2013)](http://www.youtube.com/watch?v=r4bRUvvlaBw) [2](http://www.youtube.com/watch?v=hlaMiXCRxB0) & [3](http://www.youtube.com/watch?v=XS4TIGe7MaU)
+* [Tutorial on statistical-learning for scientific data processing](http://scikit-learn.org/stable/tutorial/statistical_inference/index.html)
+* [Intro to Interactive Predictive Analytics in Python with scikit-learn - Olivier Grisel (PyCon 2012)](http://www.youtube.com/watch?v=Zd5dfooZWG4)
+* [Social Network Analysis With Python - Maksim Semeniuk (2012)](http://www.youtube.com/watch?v=Zd5dfooZWG4)
+* [scikit-learn - Machine Learning in Python with Contributo - Jacob VanderPlas (PyData 2012)](http://www.youtube.com/watch?v=cHZONQ2-x7I)
+* [Scikit-learn video tutorials](http://scikit-learn.org/stable/presentations.html)
 
 #### PYTHON - SCIPY
 
