@@ -751,6 +751,7 @@
 * [Twotorials.com (fun 2-min R tutorials)](http://www.twotorials.com/)
 * [Official R manuals](http://cran.r-project.org/manuals.html)
 * [R for Beginners](http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
+* [Intro to Python for Econometrics, Statistics and Data Analysis - Kevin Sheppard](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf)
 * [SimpleR](http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
 * [icebreakeR](http://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf)
 * [R Tutorials - William King](http://ww2.coastal.edu/kingw/statistics/R-tutorials/index.html)
