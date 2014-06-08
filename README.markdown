@@ -708,6 +708,8 @@
 * [Social Network Analysis With Python - Maksim Tsvetovat (2012)](http://www.youtube.com/watch?v=qgGqaBAEy3Q)
 * [Web scraping: Reliably and efficiently pull data from pages that don't expect it - Asheesh Laroia (PyCon 2012)](https://www.youtube.com/watch?v=52wxGESwQSA)
 * [Social Network Analysis with Python - Maksim Tsvetovat (PyCon 2012)](https://www.youtube.com/watch?v=qgGqaBAEy3Q)
+* [Web scraping: Reliably and efficiently pull data from pages that don't expect it - Asheesh Laroia (2012)](http://www.youtube.com/watch?v=52wxGESwQS()
+* [Python for Open Data Lovers: Explore It, Analyze It, Map It - Jackie Kazil, Dana Bauer (2012)](http://www.youtube.com/watch?v=GxyfYEe8MiQ)
 * [A Billion Rows per Second: Metaprogramming Python for Big Data - New Circle Training](https://www.youtube.com/watch?v=rXj5nayS7Yg)
 
 #### PYTHON - BOKEH
@@ -746,7 +748,7 @@
 * [Tutorial on statistical-learning for scientific data processing](http://scikit-learn.org/stable/tutorial/statistical_inference/index.html)
 * [Intro to Interactive Predictive Analytics in Python with scikit-learn - Olivier Grisel (PyCon 2012)](http://www.youtube.com/watch?v=Zd5dfooZWG4)
 * [Social Network Analysis With Python - Maksim Semeniuk (2012)](http://www.youtube.com/watch?v=Zd5dfooZWG4)
-* [scikit-learn - Machine Learning in Python with Contributo - Jacob VanderPlas (PyData 2012)](http://www.youtube.com/watch?v=cHZONQ2-x7I)
+* [Intro to scikit-learn: Machine Learning in Python - Jacob VanderPlas (2013)]() & [scikit-learn - Machine Learning in Python with Contributo - Jacob VanderPlas (PyData 2012)](http://www.youtube.com/watch?v=cHZONQ2-x7I)
 * [Scikit-learn video tutorials](http://scikit-learn.org/stable/presentations.html)
 
 #### PYTHON - SCIPY
