@@ -563,6 +563,8 @@
 
 ## MACHINE LEARNING
 
+* [MLOSS.org (Machine Learning Open Source Software)](http://mloss.org/software/)
+* [KD Nuggets](http://www.kdnuggets.com/)
 * [Artificial Stupidity: Adding Smarts to Yer Kode - Randall Thomas](http://www.sdruby.org/podcast/79)
 
 ## MISCELLANEOUS
@@ -702,6 +704,7 @@
 * [The Python Tutorial (Python 2)](http://docs.python.org/2/tutorial/index.html) & [(Python 3)](http://docs.python.org/3.3/tutorial/index.html)
 * [Think Complexity](http://greenteapress.com/complexity/thinkcomplexity.pdf)
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
+* [Python 3.3: Trust Me, It's Better Than 2.7 - Brett Cannon (PyCon US 2013](https://www.youtube.com/watch?v=f_6vDi7ywuA)
 
 #### PYTHON - BOKEH
 
@@ -718,6 +721,7 @@
 #### PYTHON - IPYTHON
 
 * [iPython](http://ipython.org/)
+* [The iPython Notebook Revolution - Catherine Devlin (2013)](https://www.youtube.com/watch?v=t_TzRaK9kpU)
 * [IPython: Python at your fingertips - Fernando Pérez (PyCon 2012)](https://www.youtube.com/watch?v=26wgEsg9Mcc)
 * [IPython In-Depth: High-Productivity Interactive and Parallel Python - Fernando Pérez, Brian E. Granger, Min Ragan-Kelley (PyCon 2012)](https://www.youtube.com/watch?v=2G5YTlheCbw)
 * [iPython: Tools for the Entire Lifecycle of Research Computing - Fernando Perez et al. (ciPy 2012)](https://www.youtube.com/watch?v=iwVvqwLDsJo)
@@ -726,6 +730,7 @@
 #### PYTHON - MAPS
 
 * [Making Interactive Maps For the Web - Zain Memon (2012)](https://www.youtube.com/watch?v=g0CankXpFZg)
+* [Spatial Data and Web Mapping With Python](https://www.youtube.com/watch?v=qmgh14LUOjQ)
 
 #### PYTHON - MATPLOTLIB
 
@@ -763,6 +768,7 @@
 * [Know Thy Neighbor: Scikit and the K-Nearest Nearest Neighbor Algorithm - Portia Burton (PyCon 2014)](https://www.youtube.com/watch?v=tQNZRfsZF3g)
 * [Intro to Scikit-learn (1) - Gaël Varoquaux, Jake Vanderplas, Olivier Grisel (SciPy 2013)](http://www.youtube.com/watch?v=r4bRUvvlaBw) [2](http://www.youtube.com/watch?v=hlaMiXCRxB0) & [3](http://www.youtube.com/watch?v=XS4TIGe7MaU)
 * [Tutorial on statistical-learning for scientific data processing](http://scikit-learn.org/stable/tutorial/statistical_inference/index.html)
+* [Practical Machine Learning in Python - Matt Spitz (2012)](https://www.youtube.com/watch?v=__s45TTXxps)
 * [Intro to Interactive Predictive Analytics in Python with scikit-learn - Olivier Grisel (PyCon 2012)](http://www.youtube.com/watch?v=Zd5dfooZWG4)
 * [Social Network Analysis With Python - Maksim Semeniuk (2012)](http://www.youtube.com/watch?v=Zd5dfooZWG4)
 * [Intro to scikit-learn: Machine Learning in Python - Jacob VanderPlas (2013)]() & [scikit-learn - Machine Learning in Python with Contributo - Jacob VanderPlas (PyData 2012)](http://www.youtube.com/watch?v=cHZONQ2-x7I)
@@ -780,6 +786,7 @@
 * [Natural Language Processing with Python](http://nltk.org/book/)
 * [Mining the Social Web (Git repo)](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
 * [Learn Python Through Public Data Hacking](http://www.youtube.com/watch?v=RrPZza_vZ3w)
+* [Bayesian Statistics Made (As) Simple (As Possible) - Allen Downey (2012)](https://www.youtube.com/watch?v=bobeo5kFz1g)
 * [Social Network Analysis With Python - Maksim Tsvetovat (2012)](http://www.youtube.com/watch?v=qgGqaBAEy3Q)
 * [Web scraping: Reliably and efficiently pull data from pages that don't expect it - Asheesh Laroia (PyCon 2012)](https://www.youtube.com/watch?v=52wxGESwQSA)
 * [Social Network Analysis with Python - Maksim Tsvetovat (PyCon 2012)](https://www.youtube.com/watch?v=qgGqaBAEy3Q)
