@@ -735,8 +735,13 @@
 #### PYTHON - MATPLOTLIB
 
 * [Matplotlib documentation](http://matplotlib.org/Matplotlib.pdf)
+* [Matplotlib: Past, Present and Future - Michael Droettboom (SciPy 2013)](http://www.youtube.com/watch?v=gj5i_19Bftk)
 * [Plotting With MatPlotLib](http://www.youtube.com/watch?v=P7SVi0YTIuE)
 * [Intro to NumPy and Matplotlib](http://www.youtube.com/watch?v=3Fp1zn5ao2M)
+* [Advanced Matplotlib, from the library's author - John Hunter (2012 PyData Workshop)](http://www.youtube.com/watch?v=DNRJwENqEUY)
+* [matplotlib: Lessons From Mmiddle Age - John Hunter](http://www.youtube.com/watch?v=e3lTby5RI54)
+* [Advanced Matplotlib - Ryan May](http://www.youtube.com/watch?v=AmpWIC5SctY)
+* [Plotting With Matplotlib - Mike Mueller](http://www.youtube.com/watch?v=P7SVi0YTIuE)
 
 #### PYTHON - NUMPY
 
