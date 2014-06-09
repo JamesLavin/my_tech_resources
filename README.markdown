@@ -424,12 +424,16 @@
 * [A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS - Marius Gundersen (JS Conf.eu)](http://2013.jsconf.eu/speakers/marius-gundersen-a-comparison-of-the-twoway-binding-in-angularjs-emberjs-and-knockoutjs.html)
 * [Ember HTMLBars - Erik Bryn](http://www.youtube.com/watch?v=vjBs07kgjq0) & [HTMLBars (Github)](https://github.com/tildeio/htmlbars)
 * [POJOs vs. Ember Objects](http://www.youtube.com/watch?v=h4w7ZqCk0zg)
-* [Custom Adapters for Ember Data - Jeffrey Biles](http://www.youtube.com/watch?v=a3KGITKNbeQ) & [Switching to Ember Data](http://www.youtube.com/watch?v=i1Qzaf6lV1Q) & [Much Very Confused: Ember for the inappropriately experienced](http://www.youtube.com/watch?v=DVwzN6kTc1c)
+* [Ember without Ember Data - Robin Ward (May 2014)](https://www.youtube.com/watch?v=7twifrxOTQY)
 * [A Tale of Two MVCs - Yehuda Katz (GoGaRuCo 2013)](http://www.youtube.com/watch?v=s1dhXamEAKQ)
 
 #### JAVASCRIPT - EMBER.JS - EMBER-CLI
 
 * [ember-cli](http://iamstef.net/ember-cli/)
+
+#### JAVASCRIPT - EMBER.JS - EMBER DATA
+
+* [Custom Adapters for Ember Data - Jeffrey Biles](http://www.youtube.com/watch?v=a3KGITKNbeQ) & [Switching to Ember Data](http://www.youtube.com/watch?v=i1Qzaf6lV1Q) & [Much Very Confused: Ember for the inappropriately experienced](http://www.youtube.com/watch?v=DVwzN6kTc1c)
 
 #### JAVASCRIPT - EMBER.JS - TESTING
 
