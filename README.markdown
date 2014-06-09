@@ -718,7 +718,14 @@
 #### PYTHON - IPYTHON
 
 * [iPython](http://ipython.org/)
+* [IPython: Python at your fingertips - Fernando Pérez (PyCon 2012)](https://www.youtube.com/watch?v=26wgEsg9Mcc)
+* [IPython In-Depth: High-Productivity Interactive and Parallel Python - Fernando Pérez, Brian E. Granger, Min Ragan-Kelley (PyCon 2012)](https://www.youtube.com/watch?v=2G5YTlheCbw)
 * [iPython: Tools for the Entire Lifecycle of Research Computing - Fernando Perez et al. (ciPy 2012)](https://www.youtube.com/watch?v=iwVvqwLDsJo)
+* [Mining Social Web APIs With iPython Notebook - Matthew Russell (PyCon 2014)](https://www.youtube.com/watch?v=jpCG792tVt0)
+
+#### PYTHON - MAPS
+
+* [Making Interactive Maps For the Web - Zain Memon (2012)](https://www.youtube.com/watch?v=g0CankXpFZg)
 
 #### PYTHON - MATPLOTLIB
 
@@ -740,6 +747,7 @@
 * [Time Series Data Analysis with Pandas - Wes McKinney (ciPy 2012)](https://www.youtube.com/watch?v=0unf-C-pBYE)
 * [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
 * [Remote Data Access](http://pandas.pydata.org/pandas-docs/stable/remote_data.html)
+* [Julia Evans: Diving into Open Data with IPython Notebook & Pandas (PyCon 2014)](https://www.youtube.com/watch?v=rEalbu8UGeo)
 * [Detailed Look at Pandas' Indexes - Trent Hauck (O'Reilly 2014)](http://www.youtube.com/watch?v=NWS7QxnAmyU<S-F12>)
 
 #### PYTHON - RPY2
@@ -751,6 +759,8 @@
 * [API](http://scikit-learn.org/stable/modules/classes.html)
 * [Documentation](http://scikit-learn.org/stable/documentation.html)
 * [User Guide](http://scikit-learn.org/stable/user_guide.html)
+* [Realtime Predictive Analytics Using scikit-learn and RabbitMQ - Michael Becker (PyCon 2014)](https://www.youtube.com/watch?v=WPyNdHygBD0)
+* [Know Thy Neighbor: Scikit and the K-Nearest Nearest Neighbor Algorithm - Portia Burton (PyCon 2014)](https://www.youtube.com/watch?v=tQNZRfsZF3g)
 * [Intro to Scikit-learn (1) - Gaël Varoquaux, Jake Vanderplas, Olivier Grisel (SciPy 2013)](http://www.youtube.com/watch?v=r4bRUvvlaBw) [2](http://www.youtube.com/watch?v=hlaMiXCRxB0) & [3](http://www.youtube.com/watch?v=XS4TIGe7MaU)
 * [Tutorial on statistical-learning for scientific data processing](http://scikit-learn.org/stable/tutorial/statistical_inference/index.html)
 * [Intro to Interactive Predictive Analytics in Python with scikit-learn - Olivier Grisel (PyCon 2012)](http://www.youtube.com/watch?v=Zd5dfooZWG4)
