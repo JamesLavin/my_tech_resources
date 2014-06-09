@@ -728,10 +728,16 @@
 #### PYTHON - IPYTHON
 
 * [iPython](http://ipython.org/)
+* [iPython: Tools for the Entire Lifecycle of Research Computing - Fernando Perez et al. (ciPy 2012)](https://www.youtube.com/watch?v=iwVvqwLDsJo)
 
 #### PYTHON - MATPLOTLIB
 
 * [Plotting With MatPlotLib](http://www.youtube.com/watch?v=P7SVi0YTIuE)
+
+#### PYTHON - NUMPY
+
+* [Numpy User Guide](http://docs.scipy.org/doc/numpy/numpy-user-1.8.1.pdf)
+* [Numpy Reference Guide](http://docs.scipy.org/doc/numpy/numpy-ref-1.8.1.pdf)
 
 #### PYTHON - PANDAS
 
@@ -742,6 +748,10 @@
 * [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
 * [Remote Data Access](http://pandas.pydata.org/pandas-docs/stable/remote_data.html)
 * [Detailed Look at Pandas' Indexes - Trent Hauck (O'Reilly 2014)](http://www.youtube.com/watch?v=NWS7QxnAmyU<S-F12>)
+
+#### PYTHON - RPY2
+
+* [Documentation for RPy2](http://rpy.sourceforge.net/rpy2/doc-2.4/html/)
 
 #### PYTHON - SCIKIT-LEARN
 
@@ -757,12 +767,14 @@
 
 #### PYTHON - SCIPY
 
+* [Scipy Reference Guide](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf)
 * [Scientific Python lecture notes - EuroScipy tutorial team](http://scipy-lectures.github.io/) & [PDF](http://scipy-lectures.github.io/_downloads/PythonScientific-simple.pdf)
 * [scientific-python-lectures - JR Johansson](https://github.com/jrjohansson/scientific-python-lectures)
 
 #### PYTHON - STATSMODELS
 
 * [Statsmodels](http://statsmodels.sourceforge.net/)
+* [Statsmodels tutorial - Skipper Seabold (ciPy 2012)](https://www.youtube.com/watch?v=RWRsxhUzpxk)
 
 ## R
 
