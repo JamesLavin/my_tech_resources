@@ -724,12 +724,13 @@
 
 * [Matplotlib documentation](http://matplotlib.org/Matplotlib.pdf)
 * [Plotting With MatPlotLib](http://www.youtube.com/watch?v=P7SVi0YTIuE)
+* [Intro to NumPy and Matplotlib](http://www.youtube.com/watch?v=3Fp1zn5ao2M)
 
 #### PYTHON - NUMPY
 
 * [Numpy User Guide](http://docs.scipy.org/doc/numpy/numpy-user-1.8.1.pdf)
 * [Numpy Reference Guide](http://docs.scipy.org/doc/numpy/numpy-ref-1.8.1.pdf)
-* [NumPy and iPython - Valentin Haenel (SciPy 2013) - Pt 1](http://www.youtube.com/watch?v=UWmZAAfXds() & [Pt 2](http://www.youtube.com/watch?v=lSfkIle93hQ)
+* [NumPy and iPython - Valentin Haenel (SciPy 2013) - Pt 1](http://www.youtube.com/watch?v=UWmZAAfXds4) & [Pt 2](http://www.youtube.com/watch?v=lSfkIle93hQ)
 
 #### PYTHON - PANDAS
 
