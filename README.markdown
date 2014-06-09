@@ -685,6 +685,7 @@
 
 ## PYTHON
 
+* [Python for Ruby Programmers - Mike Leone (LA Ruby Conf 2013)](https://www.youtube.com/watch?v=maSlTKMzR3Q)
 * [PyVideo.org](http://www.pyvideo.org/category)
 * [Khan Academy](http://www.khanacademy.org/science/computer-science/v/introduction-to-programs-data-types-and-variables)
 * [Python Fundamentals Training](http://www.youtube.com/playlist?list=PL26BA8B9FC33789FF&feature=plcp)
