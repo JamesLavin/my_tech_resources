@@ -703,19 +703,6 @@
 * [Think Complexity](http://greenteapress.com/complexity/thinkcomplexity.pdf)
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
 
-### PYTHON - STATISTICAL ANALYSIS
-
-* [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
-* [Natural Language Processing with Python](http://nltk.org/book/)
-* [Mining the Social Web (Git repo)](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
-* [Learn Python Through Public Data Hacking](http://www.youtube.com/watch?v=RrPZza_vZ3w)
-* [Social Network Analysis With Python - Maksim Tsvetovat (2012)](http://www.youtube.com/watch?v=qgGqaBAEy3Q)
-* [Web scraping: Reliably and efficiently pull data from pages that don't expect it - Asheesh Laroia (PyCon 2012)](https://www.youtube.com/watch?v=52wxGESwQSA)
-* [Social Network Analysis with Python - Maksim Tsvetovat (PyCon 2012)](https://www.youtube.com/watch?v=qgGqaBAEy3Q)
-* [Web scraping: Reliably and efficiently pull data from pages that don't expect it - Asheesh Laroia (2012)](http://www.youtube.com/watch?v=52wxGESwQS()
-* [Python for Open Data Lovers: Explore It, Analyze It, Map It - Jackie Kazil, Dana Bauer (2012)](http://www.youtube.com/watch?v=GxyfYEe8MiQ)
-* [A Billion Rows per Second: Metaprogramming Python for Big Data - New Circle Training](https://www.youtube.com/watch?v=rXj5nayS7Yg)
-
 #### PYTHON - BOKEH
 
 * [Gallery](http://bokeh.pydata.org/docs/gallery.html)
@@ -742,10 +729,11 @@
 
 * [Numpy User Guide](http://docs.scipy.org/doc/numpy/numpy-user-1.8.1.pdf)
 * [Numpy Reference Guide](http://docs.scipy.org/doc/numpy/numpy-ref-1.8.1.pdf)
+* [NumPy and iPython - Valentin Haenel (SciPy 2013) - Pt 1](http://www.youtube.com/watch?v=UWmZAAfXds() & [Pt 2](http://www.youtube.com/watch?v=lSfkIle93hQ)
 
 #### PYTHON - PANDAS
 
-* [Statistical Data Analysis in Python (4 videos) - Christopher Fonnesbeck](http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109)
+* [Statistical Data Analysis in Python (4 videos) - Christopher Fonnesbeck](http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109) [1](http://www.youtube.com/watch?v=DXPwSiRTxYY) [2](http://www.youtube.com/watch?v=TGEBpzJUxdI) [3](http://www.youtube.com/watch?v=YZDtBEEZuAk) [4](http://www.youtube.com/watch?v=5_rcdhBXD-0)
 * [Keynote - Wes McKinney (PyCon Singapore 2013)](https://www.youtube.com/watch?v=Jm73dKlYHZw)
 * [Data Analysis in Python with Pandas - Wes McKinney (2012 PyData Workshop)](https://www.youtube.com/watch?v=MxRMXhjXZos)
 * [Time Series Data Analysis with Pandas - Wes McKinney (ciPy 2012)](https://www.youtube.com/watch?v=0unf-C-pBYE)
@@ -774,6 +762,19 @@
 * [Scipy Reference Guide](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf)
 * [Scientific Python lecture notes - EuroScipy tutorial team](http://scipy-lectures.github.io/) & [PDF](http://scipy-lectures.github.io/_downloads/PythonScientific-simple.pdf)
 * [scientific-python-lectures - JR Johansson](https://github.com/jrjohansson/scientific-python-lectures)
+
+### PYTHON - STATISTICAL ANALYSIS
+
+* [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
+* [Natural Language Processing with Python](http://nltk.org/book/)
+* [Mining the Social Web (Git repo)](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
+* [Learn Python Through Public Data Hacking](http://www.youtube.com/watch?v=RrPZza_vZ3w)
+* [Social Network Analysis With Python - Maksim Tsvetovat (2012)](http://www.youtube.com/watch?v=qgGqaBAEy3Q)
+* [Web scraping: Reliably and efficiently pull data from pages that don't expect it - Asheesh Laroia (PyCon 2012)](https://www.youtube.com/watch?v=52wxGESwQSA)
+* [Social Network Analysis with Python - Maksim Tsvetovat (PyCon 2012)](https://www.youtube.com/watch?v=qgGqaBAEy3Q)
+* [Web scraping: Reliably and efficiently pull data from pages that don't expect it - Asheesh Laroia (2012)](http://www.youtube.com/watch?v=52wxGESwQS()
+* [Python for Open Data Lovers: Explore It, Analyze It, Map It - Jackie Kazil, Dana Bauer (2012)](http://www.youtube.com/watch?v=GxyfYEe8MiQ)
+* [A Billion Rows per Second: Metaprogramming Python for Big Data - New Circle Training](https://www.youtube.com/watch?v=rXj5nayS7Yg)
 
 #### PYTHON - STATSMODELS
 
