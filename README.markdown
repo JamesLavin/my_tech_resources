@@ -718,8 +718,11 @@
 
 #### PYTHON - BOKEH
 
-* [Interactive Browser Visualizations from Python with Bokeh - Bryan Van De Ven (PyData 2014)](https://www.youtube.com/watch?v=hjW4gL9hioY) & [tutorial files](http://cdn.pydata.org/BokehTutorial.tgz) & [slides](http://www.slideshare.net/PyData/pydata-london-bokeh-tutorial-bryan-van-de-ven)
+* [Gallery](http://bokeh.pydata.org/docs/gallery.html)
 * [Bokeh User Guide](http://bokeh.pydata.org/docs/user_guide.html)
+* [Bokeh Reference](http://bokeh.pydata.org/docs/reference.html)
+* [Interactive Browser Visualizations from Python with Bokeh - Bryan Van De Ven (PyData 2014)](https://www.youtube.com/watch?v=hjW4gL9hioY) & [tutorial files](http://cdn.pydata.org/BokehTutorial.tgz) & [slides](http://www.slideshare.net/PyData/pydata-london-bokeh-tutorial-bryan-van-de-ven)
+* [Bokeh: An Extensible Implementation of the Grammar of Graphics in Python - Peter Wang & Hugo Shi (2012)](https://www.youtube.com/watch?v=6_aE0kAedL0)
 
 #### PYTHON - CYTHON
 
@@ -732,6 +735,7 @@
 
 #### PYTHON - MATPLOTLIB
 
+* [Matplotlib documentation](http://matplotlib.org/Matplotlib.pdf)
 * [Plotting With MatPlotLib](http://www.youtube.com/watch?v=P7SVi0YTIuE)
 
 #### PYTHON - NUMPY
