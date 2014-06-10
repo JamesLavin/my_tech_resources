@@ -763,7 +763,7 @@
 
 #### PYTHON - RPY2
 
-* [Documentation for RPy2](http://rpy.sourceforge.net/rpy2/doc-2.4/html/)
+* [RPy2 documentation](http://rpy.sourceforge.net/rpy2/doc-dev/html/index.html)
 
 #### PYTHON - SCIKIT-LEARN
 
@@ -820,6 +820,7 @@
 
 ### R - LEARNING
 
+* [Advanced R - Hadley Wickham](http://adv-r.had.co.nz/)
 * [Beginner's guide to R: (6-part) Introduction (ComputerWorld)](http://www.computerworld.com/s/article/print/9239625/Beginner_s_guide_to_R_Introduction?taxonomyName=Business+Intelligence%2FAnalytics&taxonomyId=9) & [Beginner's guide to R: Useful resources](http://www.computerworld.com/s/article/print/9239799/Beginner_s_guide_to_R_Useful_resources?taxonomyName=Business+Intelligence%2FAnalytics&taxonomyId=9)
 * [One Page R](http://onepager.togaware.com/)
 * [Twotorials.com (fun 2-min R tutorials)](http://www.twotorials.com/)
