@@ -772,12 +772,14 @@
 * [User Guide](http://scikit-learn.org/stable/user_guide.html)
 * [Realtime Predictive Analytics Using scikit-learn and RabbitMQ - Michael Becker (PyCon 2014)](https://www.youtube.com/watch?v=WPyNdHygBD0)
 * [Know Thy Neighbor: Scikit and the K-Nearest Nearest Neighbor Algorithm - Portia Burton (PyCon 2014)](https://www.youtube.com/watch?v=tQNZRfsZF3g)
+* [SciKit-Learn Tutorial - Jake VanderPlas (PyData 2012)](http://vimeo.com/53062607)
 * [Intro to Scikit-learn (1) - Gaël Varoquaux, Jake Vanderplas, Olivier Grisel (SciPy 2013)](http://www.youtube.com/watch?v=r4bRUvvlaBw) [2](http://www.youtube.com/watch?v=hlaMiXCRxB0) & [3](http://www.youtube.com/watch?v=XS4TIGe7MaU)
 * [Tutorial on statistical-learning for scientific data processing](http://scikit-learn.org/stable/tutorial/statistical_inference/index.html)
 * [Practical Machine Learning in Python - Matt Spitz (2012)](https://www.youtube.com/watch?v=__s45TTXxps)
 * [Intro to Interactive Predictive Analytics in Python with scikit-learn - Olivier Grisel (PyCon 2012)](http://www.youtube.com/watch?v=Zd5dfooZWG4)
 * [Social Network Analysis With Python - Maksim Semeniuk (2012)](http://www.youtube.com/watch?v=Zd5dfooZWG4)
 * [Intro to scikit-learn: Machine Learning in Python - Jacob VanderPlas (2013)]() & [scikit-learn - Machine Learning in Python with Contributo - Jacob VanderPlas (PyData 2012)](http://www.youtube.com/watch?v=cHZONQ2-x7I)
+* [Statistical Machine Learning for Text Classification With Scikit-learn and NLTK - Olivier Grisel (PyCon 2011)](http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-statistical-machine-learning-for-text-classification-with-scikit-learn-4898362)
 * [Scikit-learn video tutorials](http://scikit-learn.org/stable/presentations.html)
 
 #### PYTHON - SCIPY
@@ -794,16 +796,22 @@
 * [Learn Python Through Public Data Hacking](http://www.youtube.com/watch?v=RrPZza_vZ3w)
 * [Bayesian Statistics Made (As) Simple (As Possible) - Allen Downey (2012)](https://www.youtube.com/watch?v=bobeo5kFz1g)
 * [Social Network Analysis With Python - Maksim Tsvetovat (2012)](http://www.youtube.com/watch?v=qgGqaBAEy3Q)
-* [Web scraping: Reliably and efficiently pull data from pages that don't expect it - Asheesh Laroia (PyCon 2012)](https://www.youtube.com/watch?v=52wxGESwQSA)
+* [Web Scraping: Reliably and Efficiently Pull Data From Pages That Don't Expect It - Asheesh Laroia (PyCon 2012)](https://www.youtube.com/watch?v=52wxGESwQSA)
 * [Social Network Analysis with Python - Maksim Tsvetovat (PyCon 2012)](https://www.youtube.com/watch?v=qgGqaBAEy3Q)
 * [Web scraping: Reliably and efficiently pull data from pages that don't expect it - Asheesh Laroia (2012)](http://www.youtube.com/watch?v=52wxGESwQS()
 * [Python for Open Data Lovers: Explore It, Analyze It, Map It - Jackie Kazil, Dana Bauer (2012)](http://www.youtube.com/watch?v=GxyfYEe8MiQ)
+* [Learn Python for Science - NumPy, SciPy and Matplotlib](http://www.youtube.com/watch?v=oYTs9HwFGbY)
 * [A Billion Rows per Second: Metaprogramming Python for Big Data - New Circle Training](https://www.youtube.com/watch?v=rXj5nayS7Yg)
 
 #### PYTHON - STATSMODELS
 
 * [Statsmodels](http://statsmodels.sourceforge.net/)
 * [Statsmodels tutorial - Skipper Seabold (ciPy 2012)](https://www.youtube.com/watch?v=RWRsxhUzpxk)
+
+#### PYTHON - SYMPY
+
+* [SymPy documentation](http://docs.sympy.org/latest/index.html)
+* [Symbolic Computing With SymPy (SciPy 2013) - 1](http://www.youtube.com/watch?v=dAgShwIx72c) [2](http://www.youtube.com/watch?v=trhmGmyTNuo) [3](http://www.youtube.com/watch?v=JDztSdQqh0o) [4](http://www.youtube.com/watch?v=q9DUdZ3flfk) [5](http://www.youtube.com/watch?v=PC1GPUteZs0) & [6](http://www.youtube.com/watch?v=wPD7Y0sCO4I)
 
 ## R
 
