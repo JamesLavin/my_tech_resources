@@ -789,6 +789,7 @@
 * [Scipy Reference Guide](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf)
 * [Scientific Python lecture notes - EuroScipy tutorial team](http://scipy-lectures.github.io/) & [PDF](http://scipy-lectures.github.io/_downloads/PythonScientific-simple.pdf)
 * [scientific-python-lectures - JR Johansson](https://github.com/jrjohansson/scientific-python-lectures)
+* [Topical Software (add-on software relevant to SciPy, categorized by scientific discipline or computational topic)](http://scipy.org/topical-software.html)
 
 ### PYTHON - STATISTICAL ANALYSIS
 
