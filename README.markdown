@@ -1481,6 +1481,15 @@
 
 * [jslint.vim](https://github.com/hallettj/jslint.vim)
 
+## WEB COMPONENTS
+
+* [The Web Components Revolution is Here - Eric Bidelman (April 2014)](https://www.youtube.com/watch?v=3QLmAm9xtnU)
+
+### WEB COMPONENTS - POLYMER
+
+* [All About Polymer at SFHTML5 (April 2014)](https://www.youtube.com/watch?v=mN7IAaRdi_k)
+* [yo polymer - Addy Osmani (dotJS 2013)](https://www.youtube.com/watch?v=booRxAJblwM)
+
 ## WEATHER (NOT PROGRAMMING-RELATED, JUST USEFUL & REALLY COOL)
 
 * [National Weather Service - Nationwide radar loop](http://radar.weather.gov/Conus/full_loop.php)
