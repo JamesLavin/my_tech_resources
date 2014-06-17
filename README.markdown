@@ -401,6 +401,7 @@
 * [EmberJS.com](http://emberjs.com/)
 * [EmberJS Guides](http://emberjs.com/guides/)
 * [EmberJS API](http://emberjs.com/api/)
+* [Vic Ramon's Ember Tutorial](http://ember.vicramon.com/chapters)
 * [EmberConf 2014 videos](http://confreaks.com/events/emberconf2014) & [slides](http://emberconf.com/schedule.html)
 * [Intro To Ember @ LinkedIn - Erik Bryn (2014)](https://www.youtube.com/watch?v=XlWcj41D-So)
 * [Ember Inspector (for browsers)](https://github.com/tildeio/ember-extension)
@@ -730,6 +731,10 @@
 * [iPython: Tools for the Entire Lifecycle of Research Computing - Fernando Perez et al. (ciPy 2012)](https://www.youtube.com/watch?v=iwVvqwLDsJo)
 * [Mining Social Web APIs With iPython Notebook - Matthew Russell (PyCon 2014)](https://www.youtube.com/watch?v=jpCG792tVt0)
 
+##### PYTHON - IPYTHON NOTEBOOK - INTERESTING NOTEBOOKS
+
+* [Gallery of Interesting iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+
 #### PYTHON - MAPS
 
 * [Making Interactive Maps For the Web - Zain Memon (2012)](https://www.youtube.com/watch?v=g0CankXpFZg)
@@ -762,6 +767,11 @@
 * [Remote Data Access](http://pandas.pydata.org/pandas-docs/stable/remote_data.html)
 * [Julia Evans: Diving into Open Data with IPython Notebook & Pandas (PyCon 2014)](https://www.youtube.com/watch?v=rEalbu8UGeo)
 * [Detailed Look at Pandas' Indexes - Trent Hauck (O'Reilly 2014)](http://www.youtube.com/watch?v=NWS7QxnAmyU<S-F12>)
+* [NumPy/SciPy/Pandas Cheat Sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas%2C+SciPy%2C+NumPy+Cheat+Sheet.pdf)
+
+#### PYTHON - PYPI
+
+* [PyPI - The Python Package Index (45,000 Python packages)](https://pypi.python.org/pypi)
 
 #### PYTHON - RPY2
 
@@ -810,7 +820,7 @@
 #### PYTHON - STATSMODELS
 
 * [Statsmodels](http://statsmodels.sourceforge.net/)
-* [Statsmodels tutorial - Skipper Seabold (ciPy 2012)](https://www.youtube.com/watch?v=RWRsxhUzpxk)
+* [Statsmodels tutorial - Skipper Seabold (ciPy 2012)](https://www.youtube.com/watch?v=RWRsxhUzpxk) & [code](https://github.com/jseabold/tutorial)
 
 #### PYTHON - SYMPY
 
