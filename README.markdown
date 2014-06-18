@@ -694,6 +694,7 @@
 * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf)
 * [A Byte of Python](http://files.swaroopch.com/python/byte_of_python.pdf)
 * [Dive into Python 3](https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)
+* [Python for Developers - Luiz Eduardo Borges](http://ricardoduarte.github.io/python-for-developers/)
 * [Hacking Secret Ciphers with Python](http://inventwithpython.com/hackingciphers.pdf)
 * [Hands-On Python Tutorial](http://cs.luc.edu/anh/python/hands-on/handson.pdf)
 * [How to Think Like a Computer Scientist: Learning with Python](http://interactivepython.org/runestone/static/thinkcspy/index.html) & [PDF](https://cs.nyu.edu/courses/fall12/CSCI-UA.0002-006/misc/httlacs.pdf)
@@ -819,6 +820,7 @@
 
 #### PYTHON - STATSMODELS
 
+* [StatsModels documentation](http://statsmodels.sourceforge.net/stable/index.html)
 * [Statsmodels](http://statsmodels.sourceforge.net/)
 * [Statsmodels tutorial - Skipper Seabold (ciPy 2012)](https://www.youtube.com/watch?v=RWRsxhUzpxk) & [code](https://github.com/jseabold/tutorial)
 
