@@ -722,6 +722,11 @@
 
 * [Cython](http://cython.org/)
 
+#### PYTHON - DATA VISUALIZATION
+
+* [MayaVI](http://docs.enthought.com/mayavi/mayavi/) & [Github repo](https://github.com/enthought/mayavi)
+
+
 #### PYTHON - IPYTHON NOTEBOOK
 
 * [iPython](http://ipython.org/)
