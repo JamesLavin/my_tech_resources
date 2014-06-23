@@ -733,6 +733,7 @@
 * [iPython](http://ipython.org/)
 * [Documentation](http://ipython.org/ipython-doc/dev/notebook/index.html) & [Keyboard Shortcuts](http://johnlaudun.org/20131228-ipython-notebook-keyboard-shortcuts/)
 * [The iPython Notebook Revolution - Catherine Devlin (2013)](https://www.youtube.com/watch?v=t_TzRaK9kpU)
+* [iPython Minibook code - Cyrille Rossant](https://github.com/rossant/ipython-minibook)
 * [IPython: Python at your fingertips - Fernando Pérez (PyCon 2012)](https://www.youtube.com/watch?v=26wgEsg9Mcc)
 * [IPython In Depth: High-Productivity Interactive and Parallel Python - Fernando Pérez (PyCon 2014)](https://www.youtube.com/watch?v=XFw1JVXKJss) & [(PyCon 2012)](https://www.youtube.com/watch?v=2G5YTlheCbw)
 * [iPython: Tools for the Entire Lifecycle of Research Computing - Fernando Perez et al. (ciPy 2012)](https://www.youtube.com/watch?v=iwVvqwLDsJo)
