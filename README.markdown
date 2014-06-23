@@ -835,6 +835,10 @@
 * [SymPy documentation](http://docs.sympy.org/latest/index.html)
 * [Symbolic Computing With SymPy (SciPy 2013) - 1](http://www.youtube.com/watch?v=dAgShwIx72c) [2](http://www.youtube.com/watch?v=trhmGmyTNuo) [3](http://www.youtube.com/watch?v=JDztSdQqh0o) [4](http://www.youtube.com/watch?v=q9DUdZ3flfk) [5](http://www.youtube.com/watch?v=PC1GPUteZs0) & [6](http://www.youtube.com/watch?v=wPD7Y0sCO4I)
 
+#### PYTHON - VIDEOGREP
+
+* [Videogrep (for searching through videos with .srt subtitle tracks)](https://github.com/antiboredom/videogrep)
+
 ## R
 
 * [RStudio](http://rstudio.org/)
