@@ -407,6 +407,7 @@
 * [Ember Inspector (for browsers)](https://github.com/tildeio/ember-extension)
 * [Intro to Ember JS - Vic Ramon of Hashrocket](https://www.youtube.com/watch?v=_lubCRPw17s)
 * [An In-Depth Introduction to Ember.js - Julien Knebel](http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/)
+* [EmberWeekly.com](http://emberweekly.com/issues.html)
 * [Ember js - An Application Framework For The Future - Joachim Haagen Skeie (Warm Croc Conference 2014)](https://www.youtube.com/watch?v=KH5RreHtaaQ)
 * [Emberwatch list of Ember talks](http://emberwatch.com/), [tutorials](http://emberwatch.com/tutorials.html), [screencasts](http://emberwatch.com/screencasts.html) & [podcasts](http://emberwatch.com/podcasts.html)
 * [Awesome Ember Tricks - Robin Ward](http://www.youtube.com/watch?v=kBhGXX4zbXw)
