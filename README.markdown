@@ -43,6 +43,14 @@
 * [Semi Automatic Code Review - Richard Huang (RailsConf 2012)](http://confreaks.com/videos/888-railsconf2012-semi-automatic-code-review)
 * [rails_best_practices gem](https://github.com/railsbp/rails_best_practices) & [railsbp.com](http://railsbp.com/) 
 
+## CODE SEARCH
+
+* [Github Search](https://github.com/search/advanced)
+* [Google Code](https://code.google.com/)
+* [Ohloh Code](https://code.ohloh.net/)
+* [SearchCode.com](https://searchcode.com/)
+* [Sourcegraph.com](https://sourcegraph.com/)
+
 ## COFFEESCRIPT
 
 * [Official documentation](http://coffeescript.org/) & [FAQ](https://github.com/jashkenas/coffee-script/wiki/FAQ) & [list of text editor plugins](https://github.com/jashkenas/coffee-script/wiki/Text-editor-plugins)
@@ -875,7 +883,12 @@
 * [2-hr talk on "Visualising data with ggplot2" by creator Hadley Wickham](http://www.mathtube.org/lecture/video/visualising-data-ggplot2)
 * [ggplot2_tutorial.R - Frank Davenport](http://rpubs.com/frank_davenport/6255)
 
+### R - GGVIS
+
+* [Introducing ggvis](http://blog.rstudio.org/2014/06/23/introducing-ggvis/)
+
 ### R - SEARCH
+
 * [RSeek.org](http://www.rseek.org/)
 * [R Site Search](http://finzi.psych.upenn.edu/search.html)
 * [R mailing list archive](http://tolstoy.newcastle.edu.au/R/)
