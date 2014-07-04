@@ -856,12 +856,18 @@
 
 ### R - LEARNING
 
+* [Very Short Intro to R - Torfs & Brauer](http://jeffgoldsmith.com/P8111/P8111_Docs/Short_R_Intro.pdf)
 * [Advanced R - Hadley Wickham](http://adv-r.had.co.nz/)
+* [Computing for Data Analysis week 1 videos - Roger Peng](http://www.youtube.com/playlist?list=PLjTlxb-wKvXNSDfcKPFH2gzHGyjpeCZmJ&feature=view_all), [week 2](http://www.youtube.com/playlist?list=PLjTlxb-wKvXNnjUTX4C8IeIhPBjPkng6B&feature=view_all), [week 3](http://www.youtube.com/playlist?list=PLjTlxb-wKvXOzI2h0F2_rYZHIXz8GWBop&feature=view_all) & [week 4](http://www.youtube.com/playlist?list=PLjTlxb-wKvXOdzysAE6qrEBN_aSBC0LZS&feature=view_all)
+* [Data Analysis videos - Jeff Leek's Coursera course](http://www.youtube.com/playlist?list=PLXBDYmaCbeL8efhOZS4g9W6Z3m9_hFSnT) & [lecture notes](https://github.com/jtleek/dataanalysis)
 * [Beginner's guide to R: (6-part) Introduction (ComputerWorld)](http://www.computerworld.com/s/article/print/9239625/Beginner_s_guide_to_R_Introduction?taxonomyName=Business+Intelligence%2FAnalytics&taxonomyId=9) & [Beginner's guide to R: Useful resources](http://www.computerworld.com/s/article/print/9239799/Beginner_s_guide_to_R_Useful_resources?taxonomyName=Business+Intelligence%2FAnalytics&taxonomyId=9)
 * [One Page R](http://onepager.togaware.com/)
 * [Twotorials.com (fun 2-min R tutorials)](http://www.twotorials.com/)
 * [Official R manuals](http://cran.r-project.org/manuals.html)
 * [R for Beginners](http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
+* [R Inferno - Patrick Burns](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
+* [Intro to Data Analysis - Hadley Wickham](http://stat405.had.co.nz/)
+* [Linear Regression Models - Jeff Goldsmith](http://jeffgoldsmith.com/p8111.html)
 * [SimpleR](http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
 * [icebreakeR](http://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf)
 * [R Tutorials - William King](http://ww2.coastal.edu/kingw/statistics/R-tutorials/index.html)
@@ -1290,6 +1296,7 @@
 
 ### RUBY - PERFORMANCE & LOAD TESTING
 
+* [Eliminating the Global Interpreter Lock (GIL)](http://researcher.watson.ibm.com/researcher/view_person_subpage.php?id=5206)
 * [Ruby-Toolbox - Benchmarking](https://www.ruby-toolbox.com/categories/Benchmarking)
 * [Measuring Ruby - Sam Saffron & Jeff Atwood (GoGaRuCo 2013)](http://confreaks.com/videos/2668-gogaruco2013-measuring-ruby)
 * [Frequently Asked Questions - Ben Orenstein (GoGaRuCo 2013)](http://confreaks.com/videos/2677-gogaruco2013-frequently-asked-questions)
