@@ -90,6 +90,8 @@
 
 ## DATA
 
+* [30 Places to Find Open Data on the Web](http://blog.visual.ly/data-sources/)
+* [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
 * [Explore.data.gov](https://explore.data.gov/)
 * [FRED (Federal Reserve Economic Data)](http://research.stlouisfed.org/fred2/)
 
