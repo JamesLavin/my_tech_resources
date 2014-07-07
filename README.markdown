@@ -91,9 +91,21 @@
 ## DATA
 
 * [30 Places to Find Open Data on the Web](http://blog.visual.ly/data-sources/)
+* [AWS Public Data Sets](http://aws.amazon.com/publicdatasets/)
+* [Data Repositories - Jerry Smith](http://datascientistinsights.com/2013/10/07/data-repositories-mothers-milk-for-data-scientists/#!)
 * [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
 * [Explore.data.gov](https://explore.data.gov/)
 * [FRED (Federal Reserve Economic Data)](http://research.stlouisfed.org/fred2/)
+* [Public datasets - ScaleUnlimited.com](http://www.scaleunlimited.com/datasets/public-datasets/)
+* [United Nations](http://data.un.org/)
+* [Where can I find large datasets open to the public?](http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+* [World Bank](http://data.worldbank.org/)
+
+### DATA - CITIES/STATES
+* [Boston, MA](https://data.cityofboston.gov/)
+* [New York City, NY](https://nycopendata.socrata.com/)
+* [New York State](https://data.ny.gov/)
+* [San Francisco, CA](https://data.sfgov.org/)
 
 ## DEVOPS
 
