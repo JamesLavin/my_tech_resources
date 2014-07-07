@@ -94,18 +94,36 @@
 * [AWS Public Data Sets](http://aws.amazon.com/publicdatasets/)
 * [Data Repositories - Jerry Smith](http://datascientistinsights.com/2013/10/07/data-repositories-mothers-milk-for-data-scientists/#!)
 * [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
-* [Explore.data.gov](https://explore.data.gov/)
-* [FRED (Federal Reserve Economic Data)](http://research.stlouisfed.org/fred2/)
+* [Freebase.com](http://www.freebase.com/)
 * [Public datasets - ScaleUnlimited.com](http://www.scaleunlimited.com/datasets/public-datasets/)
-* [United Nations](http://data.un.org/)
 * [Where can I find large datasets open to the public?](http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+
+### DATA - INTERNATIONAL
+
+* [United Nations](http://data.un.org/)
 * [World Bank](http://data.worldbank.org/)
 
-### DATA - CITIES/STATES
+### DATA - NATIONAL
+
+* [United Kingdom](http://data.gov.uk/)
+
+### DATA - UNITED STATES
+
+* [Bureau of Labor Statistics](http://www.bls.gov/data/)
+* [Dartmouth Atlas of Healthcare](http://www.dartmouthatlas.org/)
+* [Explore.data.gov](https://explore.data.gov/)
+* [FRED (Federal Reserve Economic Data)](http://research.stlouisfed.org/fred2/)
+* [Sunlight Labs](https://data.sunlightlabs.com/)
+
+#### DATA - UNITED STATES - CITIES/STATES
+
+* [Austin, TX](https://data.austintexas.gov/)
 * [Boston, MA](https://data.cityofboston.gov/)
+* [Chicago, IL](https://data.cityofchicago.org/)
 * [New York City, NY](https://nycopendata.socrata.com/)
 * [New York State](https://data.ny.gov/)
 * [San Francisco, CA](https://data.sfgov.org/)
+* [Seattle, WA](https://data.seattle.gov/)
 
 ## DEVOPS
 
