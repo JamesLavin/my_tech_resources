@@ -888,6 +888,7 @@
 
 ### R - LEARNING
 
+* [Swirl ("Statistics With Interactive R Learning")](http://swirlstats.com/students.html)
 * [Intro to R - Venables, Smith and R Core Team](http://cran.r-project.org/doc/manuals/R-intro.pdf)
 * [Very Short Intro to R - Torfs & Brauer](http://jeffgoldsmith.com/P8111/P8111_Docs/Short_R_Intro.pdf)
 * [Advanced R - Hadley Wickham](http://adv-r.had.co.nz/)
