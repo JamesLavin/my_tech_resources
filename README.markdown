@@ -779,6 +779,10 @@
 * [Making Interactive Maps For the Web - Zain Memon (2012)](https://www.youtube.com/watch?v=g0CankXpFZg)
 * [Spatial Data and Web Mapping With Python](https://www.youtube.com/watch?v=qmgh14LUOjQ)
 
+##### PYTHON - GRAPHICS - MAPS - FOLIUM
+
+* [Folium (Python Data -> Leaflet.js Maps)](https://github.com/wrobstory/folium)
+
 ### PYTHON - GRAPHICS - MATPLOTLIB
 
 * [Matplotlib documentation](http://matplotlib.org/Matplotlib.pdf)
@@ -833,6 +837,7 @@
 * [Julia Evans: Diving into Open Data with IPython Notebook & Pandas (PyCon 2014)](https://www.youtube.com/watch?v=rEalbu8UGeo)
 * [Detailed Look at Pandas' Indexes - Trent Hauck (O'Reilly 2014)](http://www.youtube.com/watch?v=NWS7QxnAmyU<S-F12>)
 * [NumPy/SciPy/Pandas Cheat Sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas%2C+SciPy%2C+NumPy+Cheat+Sheet.pdf)
+* [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
 * [10 Things I Hate About Pandas - Wes McKinney](http://www.slideshare.net/wesm/practical-medium-data-analytics-with-python)
 
 ### PYTHON - PYPI
