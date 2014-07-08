@@ -800,6 +800,10 @@
 * [Advanced Matplotlib - Ryan May](http://www.youtube.com/watch?v=AmpWIC5SctY)
 * [Plotting With Matplotlib - Mike Mueller](http://www.youtube.com/watch?v=P7SVi0YTIuE)
 
+##### PYTHON - MATPLOTLIB - MPLD3
+
+* [MPLD3](http://mpld3.github.io/)
+
 #### PYTHON - NUMPY
 
 * [Numpy User Guide](http://docs.scipy.org/doc/numpy/numpy-user-1.8.1.pdf)
@@ -814,9 +818,11 @@
 * [Time Series Data Analysis with Pandas - Wes McKinney (ciPy 2012)](https://www.youtube.com/watch?v=0unf-C-pBYE)
 * [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
 * [Remote Data Access](http://pandas.pydata.org/pandas-docs/stable/remote_data.html)
+* [Pandas Cookbook - Julia Evans](https://github.com/jvns/pandas-cookbook)
 * [Julia Evans: Diving into Open Data with IPython Notebook & Pandas (PyCon 2014)](https://www.youtube.com/watch?v=rEalbu8UGeo)
 * [Detailed Look at Pandas' Indexes - Trent Hauck (O'Reilly 2014)](http://www.youtube.com/watch?v=NWS7QxnAmyU<S-F12>)
 * [NumPy/SciPy/Pandas Cheat Sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas%2C+SciPy%2C+NumPy+Cheat+Sheet.pdf)
+* [10 Things I Hate About Pandas - Wes McKinney](http://www.slideshare.net/wesm/practical-medium-data-analytics-with-python)
 
 #### PYTHON - PYPI
 
@@ -877,6 +883,11 @@
 * [SymPy documentation](http://docs.sympy.org/latest/index.html)
 * [Symbolic Computing With SymPy (SciPy 2013) - 1](http://www.youtube.com/watch?v=dAgShwIx72c) [2](http://www.youtube.com/watch?v=trhmGmyTNuo) [3](http://www.youtube.com/watch?v=JDztSdQqh0o) [4](http://www.youtube.com/watch?v=q9DUdZ3flfk) [5](http://www.youtube.com/watch?v=PC1GPUteZs0) & [6](http://www.youtube.com/watch?v=wPD7Y0sCO4I)
 
+#### PYTHON - VINCENT
+
+* [Vincent (Python to Vega translator)](https://github.com/wrobstory/vincent)
+* [Intro to Pandas and Vincent](http://neckbeardrepublic.com/screencasts/pandas-vincent)
+
 #### PYTHON - VIDEOGREP
 
 * [Videogrep (for searching through videos with .srt subtitle tracks)](https://github.com/antiboredom/videogrep)
@@ -929,6 +940,10 @@
 ### R - GGVIS
 
 * [Introducing ggvis](http://blog.rstudio.org/2014/06/23/introducing-ggvis/)
+
+### R - PERFORMANCE
+
+* [R: The Good Parts](http://hackerretreat.com/r-good-parts/)
 
 ### R - SEARCH
 
