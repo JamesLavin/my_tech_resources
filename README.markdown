@@ -751,7 +751,21 @@
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
 * [Python 3.3: Trust Me, It's Better Than 2.7 - Brett Cannon (PyCon US 2013](https://www.youtube.com/watch?v=f_6vDi7ywuA)
 
-#### PYTHON - BOKEH
+### PYTHON - CYTHON
+
+* [Cython](http://cython.org/)
+
+### PYTHON - GRAPHICS
+
+#### PYTHON - GRAPHICS - 3D VISUALIZATION
+
+* [MayaVI](http://docs.enthought.com/mayavi/mayavi/) & [Github repo](https://github.com/enthought/mayavi)
+
+#### PYTHON - GRAPHICS - BEARCART
+
+* [Bearcart (Pandas time series data -> Rickshaw.js)](https://github.com/wrobstory/bearcart)
+
+#### PYTHON - GRAPHICS - BOKEH
 
 * [Tutorial](http://bokeh.pydata.org/tutorial/index.html)
 * [Gallery](http://bokeh.pydata.org/docs/gallery.html)
@@ -760,16 +774,7 @@
 * [Interactive Browser Visualizations from Python with Bokeh - Bryan Van De Ven (PyData 2014)](https://www.youtube.com/watch?v=hjW4gL9hioY) & [tutorial files](http://cdn.pydata.org/BokehTutorial.tgz) & [slides](http://www.slideshare.net/PyData/pydata-london-bokeh-tutorial-bryan-van-de-ven)
 * [Bokeh: An Extensible Implementation of the Grammar of Graphics in Python - Peter Wang & Hugo Shi (2012)](https://www.youtube.com/watch?v=6_aE0kAedL0)
 
-#### PYTHON - CYTHON
-
-* [Cython](http://cython.org/)
-
-#### PYTHON - DATA VISUALIZATION
-
-* [MayaVI](http://docs.enthought.com/mayavi/mayavi/) & [Github repo](https://github.com/enthought/mayavi)
-
-
-#### PYTHON - IPYTHON NOTEBOOK
+### PYTHON - IPYTHON NOTEBOOK
 
 * [iPython](http://ipython.org/)
 * [Documentation](http://ipython.org/ipython-doc/dev/notebook/index.html) & [Keyboard Shortcuts](http://johnlaudun.org/20131228-ipython-notebook-keyboard-shortcuts/)
@@ -780,16 +785,16 @@
 * [iPython: Tools for the Entire Lifecycle of Research Computing - Fernando Perez et al. (ciPy 2012)](https://www.youtube.com/watch?v=iwVvqwLDsJo)
 * [Mining Social Web APIs With iPython Notebook - Matthew Russell (PyCon 2014)](https://www.youtube.com/watch?v=jpCG792tVt0)
 
-##### PYTHON - IPYTHON NOTEBOOK - INTERESTING NOTEBOOKS
+#### PYTHON - IPYTHON NOTEBOOK - INTERESTING NOTEBOOKS
 
 * [Gallery of Interesting iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 
-#### PYTHON - MAPS
+### PYTHON - MAPS
 
 * [Making Interactive Maps For the Web - Zain Memon (2012)](https://www.youtube.com/watch?v=g0CankXpFZg)
 * [Spatial Data and Web Mapping With Python](https://www.youtube.com/watch?v=qmgh14LUOjQ)
 
-#### PYTHON - MATPLOTLIB
+### PYTHON - MATPLOTLIB
 
 * [Matplotlib documentation](http://matplotlib.org/Matplotlib.pdf)
 * [Matplotlib: Past, Present and Future - Michael Droettboom (SciPy 2013)](http://www.youtube.com/watch?v=gj5i_19Bftk)
@@ -800,17 +805,17 @@
 * [Advanced Matplotlib - Ryan May](http://www.youtube.com/watch?v=AmpWIC5SctY)
 * [Plotting With Matplotlib - Mike Mueller](http://www.youtube.com/watch?v=P7SVi0YTIuE)
 
-##### PYTHON - MATPLOTLIB - MPLD3
+#### PYTHON - MATPLOTLIB - MPLD3
 
 * [MPLD3](http://mpld3.github.io/)
 
-#### PYTHON - NUMPY
+### PYTHON - NUMPY
 
 * [Numpy User Guide](http://docs.scipy.org/doc/numpy/numpy-user-1.8.1.pdf)
 * [Numpy Reference Guide](http://docs.scipy.org/doc/numpy/numpy-ref-1.8.1.pdf)
 * [NumPy and iPython - Valentin Haenel (SciPy 2013) - Pt 1](http://www.youtube.com/watch?v=UWmZAAfXds4) & [Pt 2](http://www.youtube.com/watch?v=lSfkIle93hQ)
 
-#### PYTHON - PANDAS
+### PYTHON - PANDAS
 
 * [Statistical Data Analysis in Python (4 videos) - Christopher Fonnesbeck](http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109) [1](http://www.youtube.com/watch?v=DXPwSiRTxYY) [2](http://www.youtube.com/watch?v=TGEBpzJUxdI) [3](http://www.youtube.com/watch?v=YZDtBEEZuAk) [4](http://www.youtube.com/watch?v=5_rcdhBXD-0)
 * [Keynote - Wes McKinney (PyCon Singapore 2013)](https://www.youtube.com/watch?v=Jm73dKlYHZw)
@@ -824,15 +829,15 @@
 * [NumPy/SciPy/Pandas Cheat Sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas%2C+SciPy%2C+NumPy+Cheat+Sheet.pdf)
 * [10 Things I Hate About Pandas - Wes McKinney](http://www.slideshare.net/wesm/practical-medium-data-analytics-with-python)
 
-#### PYTHON - PYPI
+### PYTHON - PYPI
 
 * [PyPI - The Python Package Index (45,000 Python packages)](https://pypi.python.org/pypi)
 
-#### PYTHON - RPY2
+### PYTHON - RPY2
 
 * [RPy2 documentation](http://rpy.sourceforge.net/rpy2/doc-dev/html/index.html)
 
-#### PYTHON - SCIKIT-LEARN
+### PYTHON - SCIKIT-LEARN
 
 * [API](http://scikit-learn.org/stable/modules/classes.html)
 * [Documentation](http://scikit-learn.org/stable/documentation.html)
@@ -849,7 +854,7 @@
 * [Statistical Machine Learning for Text Classification With Scikit-learn and NLTK - Olivier Grisel (PyCon 2011)](http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-statistical-machine-learning-for-text-classification-with-scikit-learn-4898362)
 * [Scikit-learn video tutorials](http://scikit-learn.org/stable/presentations.html)
 
-#### PYTHON - SCIPY
+### PYTHON - SCIPY
 
 * [Scipy Reference Guide](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf)
 * [Scientific Python lecture notes - EuroScipy tutorial team](http://scipy-lectures.github.io/) & [PDF](http://scipy-lectures.github.io/_downloads/PythonScientific-simple.pdf)
@@ -872,23 +877,24 @@
 * [Learn Python for Science - NumPy, SciPy and Matplotlib](http://www.youtube.com/watch?v=oYTs9HwFGbY)
 * [A Billion Rows per Second: Metaprogramming Python for Big Data - New Circle Training](https://www.youtube.com/watch?v=rXj5nayS7Yg)
 
-#### PYTHON - STATSMODELS
+### PYTHON - STATSMODELS
 
 * [StatsModels documentation](http://statsmodels.sourceforge.net/stable/index.html)
 * [Statsmodels](http://statsmodels.sourceforge.net/)
 * [Statsmodels tutorial - Skipper Seabold (ciPy 2012)](https://www.youtube.com/watch?v=RWRsxhUzpxk) & [code](https://github.com/jseabold/tutorial)
 
-#### PYTHON - SYMPY
+### PYTHON - SYMPY
 
 * [SymPy documentation](http://docs.sympy.org/latest/index.html)
 * [Symbolic Computing With SymPy (SciPy 2013) - 1](http://www.youtube.com/watch?v=dAgShwIx72c) [2](http://www.youtube.com/watch?v=trhmGmyTNuo) [3](http://www.youtube.com/watch?v=JDztSdQqh0o) [4](http://www.youtube.com/watch?v=q9DUdZ3flfk) [5](http://www.youtube.com/watch?v=PC1GPUteZs0) & [6](http://www.youtube.com/watch?v=wPD7Y0sCO4I)
 
-#### PYTHON - VINCENT
+### PYTHON - VINCENT
 
 * [Vincent (Python to Vega translator)](https://github.com/wrobstory/vincent)
 * [Intro to Pandas and Vincent](http://neckbeardrepublic.com/screencasts/pandas-vincent)
+* [Mapping Data in Python with Pandas and Vincent](http://wrobstory.github.io/2013/10/mapping-data-python.html)
 
-#### PYTHON - VIDEOGREP
+### PYTHON - VIDEOGREP
 
 * [Videogrep (for searching through videos with .srt subtitle tracks)](https://github.com/antiboredom/videogrep)
 
