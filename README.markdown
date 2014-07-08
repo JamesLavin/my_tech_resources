@@ -763,7 +763,7 @@
 
 #### PYTHON - GRAPHICS - BEARCART
 
-* [Bearcart (Pandas time series data -> Rickshaw.js)](https://github.com/wrobstory/bearcart)
+* [Bearcart (Pandas time series -> Rickshaw.js)](https://github.com/wrobstory/bearcart)
 
 #### PYTHON - GRAPHICS - BOKEH
 
@@ -773,6 +773,32 @@
 * [Bokeh Reference](http://bokeh.pydata.org/docs/reference.html)
 * [Interactive Browser Visualizations from Python with Bokeh - Bryan Van De Ven (PyData 2014)](https://www.youtube.com/watch?v=hjW4gL9hioY) & [tutorial files](http://cdn.pydata.org/BokehTutorial.tgz) & [slides](http://www.slideshare.net/PyData/pydata-london-bokeh-tutorial-bryan-van-de-ven)
 * [Bokeh: An Extensible Implementation of the Grammar of Graphics in Python - Peter Wang & Hugo Shi (2012)](https://www.youtube.com/watch?v=6_aE0kAedL0)
+
+#### PYTHON - GRAPHICS - MAPS
+
+* [Making Interactive Maps For the Web - Zain Memon (2012)](https://www.youtube.com/watch?v=g0CankXpFZg)
+* [Spatial Data and Web Mapping With Python](https://www.youtube.com/watch?v=qmgh14LUOjQ)
+
+### PYTHON - GRAPHICS - MATPLOTLIB
+
+* [Matplotlib documentation](http://matplotlib.org/Matplotlib.pdf)
+* [Matplotlib: Past, Present and Future - Michael Droettboom (SciPy 2013)](http://www.youtube.com/watch?v=gj5i_19Bftk)
+* [Plotting With MatPlotLib](http://www.youtube.com/watch?v=P7SVi0YTIuE)
+* [Intro to NumPy and Matplotlib](http://www.youtube.com/watch?v=3Fp1zn5ao2M)
+* [Advanced Matplotlib, from the library's author - John Hunter (2012 PyData Workshop)](http://www.youtube.com/watch?v=DNRJwENqEUY)
+* [matplotlib: Lessons From Mmiddle Age - John Hunter](http://www.youtube.com/watch?v=e3lTby5RI54)
+* [Advanced Matplotlib - Ryan May](http://www.youtube.com/watch?v=AmpWIC5SctY)
+* [Plotting With Matplotlib - Mike Mueller](http://www.youtube.com/watch?v=P7SVi0YTIuE)
+
+#### PYTHON - GRAPHICS - MATPLOTLIB - MPLD3
+
+* [MPLD3](http://mpld3.github.io/)
+
+#### PYTHON - GRAPHICS - VINCENT
+
+* [Vincent (Python to Vega translator)](https://github.com/wrobstory/vincent)
+* [Intro to Pandas and Vincent](http://neckbeardrepublic.com/screencasts/pandas-vincent)
+* [Mapping Data in Python with Pandas and Vincent](http://wrobstory.github.io/2013/10/mapping-data-python.html)
 
 ### PYTHON - IPYTHON NOTEBOOK
 
@@ -788,26 +814,6 @@
 #### PYTHON - IPYTHON NOTEBOOK - INTERESTING NOTEBOOKS
 
 * [Gallery of Interesting iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
-
-### PYTHON - MAPS
-
-* [Making Interactive Maps For the Web - Zain Memon (2012)](https://www.youtube.com/watch?v=g0CankXpFZg)
-* [Spatial Data and Web Mapping With Python](https://www.youtube.com/watch?v=qmgh14LUOjQ)
-
-### PYTHON - MATPLOTLIB
-
-* [Matplotlib documentation](http://matplotlib.org/Matplotlib.pdf)
-* [Matplotlib: Past, Present and Future - Michael Droettboom (SciPy 2013)](http://www.youtube.com/watch?v=gj5i_19Bftk)
-* [Plotting With MatPlotLib](http://www.youtube.com/watch?v=P7SVi0YTIuE)
-* [Intro to NumPy and Matplotlib](http://www.youtube.com/watch?v=3Fp1zn5ao2M)
-* [Advanced Matplotlib, from the library's author - John Hunter (2012 PyData Workshop)](http://www.youtube.com/watch?v=DNRJwENqEUY)
-* [matplotlib: Lessons From Mmiddle Age - John Hunter](http://www.youtube.com/watch?v=e3lTby5RI54)
-* [Advanced Matplotlib - Ryan May](http://www.youtube.com/watch?v=AmpWIC5SctY)
-* [Plotting With Matplotlib - Mike Mueller](http://www.youtube.com/watch?v=P7SVi0YTIuE)
-
-#### PYTHON - MATPLOTLIB - MPLD3
-
-* [MPLD3](http://mpld3.github.io/)
 
 ### PYTHON - NUMPY
 
@@ -887,12 +893,6 @@
 
 * [SymPy documentation](http://docs.sympy.org/latest/index.html)
 * [Symbolic Computing With SymPy (SciPy 2013) - 1](http://www.youtube.com/watch?v=dAgShwIx72c) [2](http://www.youtube.com/watch?v=trhmGmyTNuo) [3](http://www.youtube.com/watch?v=JDztSdQqh0o) [4](http://www.youtube.com/watch?v=q9DUdZ3flfk) [5](http://www.youtube.com/watch?v=PC1GPUteZs0) & [6](http://www.youtube.com/watch?v=wPD7Y0sCO4I)
-
-### PYTHON - VINCENT
-
-* [Vincent (Python to Vega translator)](https://github.com/wrobstory/vincent)
-* [Intro to Pandas and Vincent](http://neckbeardrepublic.com/screencasts/pandas-vincent)
-* [Mapping Data in Python with Pandas and Vincent](http://wrobstory.github.io/2013/10/mapping-data-python.html)
 
 ### PYTHON - VIDEOGREP
 
