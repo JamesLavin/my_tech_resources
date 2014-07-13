@@ -1323,8 +1323,9 @@
 
 * [Rescuing Ruby - Greg Brockman (Ruby Australia 2014)](http://vimeo.com/89494987)
 
-### RUBY - GEMS
+### RUBY - GEMS, TOOLS & LIBRARIES
 
+* [Awesome Ruby](https://github.com/markets/awesome-ruby)
 * [Make Awesome Command-Line Apps with Ruby - David Copeland (Ruby Midwest 2011)](http://confreaks.com/videos/762-rubymidwest2011-make-awesome-command-line-apps-with-ruby)
 * [Ruby Libraries Important for Rails by Michael Hartl (RailsConf 2013)](https://www.youtube.com/watch?v=noWORpSTQGE)
 * [Hacking With Gems - Benjamin Smith (Ruby Australia 2013)](http://vimeo.com/61255737)
