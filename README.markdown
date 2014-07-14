@@ -327,6 +327,7 @@
 * [Douglas Crockford: Really. JavaScript. (JSConfUS 2013)](http://www.youtube.com/watch?v=lTWGoL1N-Kc)
 * [JavaScript Essentials - Travis Tidwell](http://www.youtube.com/watch?v=03EQu_2K2cs)
 * [Advanced HTML5 JavaScript: Down 'n Dirty - Kyle Simpson](http://www.youtube.com/watch?v=0ru7S0bJdko)
+* [Javascript Best Practices - Thinkful.com](http://www.thinkful.com/learn/javascript-best-practices-1/)
 
 ### JAVASCRIPT - ANGULAR.JS
 
@@ -398,6 +399,7 @@
 
 * [Reginald Braithwaite](http://braythwayt.com/)
 * [JavaScript Playground](http://javascriptplayground.com/blog)
+* [ModernWeb.com](http://modernweb.com/category/web/javascript/)
 
 ### JAVASCRIPT - BOWER & BROCCOLI
 
@@ -983,6 +985,11 @@
 * [RSeek.org](http://www.rseek.org/)
 * [R Site Search](http://finzi.psych.upenn.edu/search.html)
 * [R mailing list archive](http://tolstoy.newcastle.edu.au/R/)
+
+### R - SHINY
+
+* [Shiny](http://shiny.rstudio.com/)
+* [Welcome to Shiny (tutorial)](http://shiny.rstudio.com/tutorial/lesson1/)
 
 ### R - VIDEOS
 
