@@ -927,26 +927,30 @@
 * [OpenIntro Stats textbook](http://www.openintro.org/stat/textbook.php) & [Documentation for 'openintro' R data package](http://cran.r-project.org/web/packages/openintro/openintro.pdf)
 * [Twotorials.com (fun 2-min R tutorials)](http://www.twotorials.com/)
 * [Official R manuals](http://cran.r-project.org/manuals.html)
-* [R for Beginners](http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
+* [R for Beginners - Emmanuel Paradis](http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
 * [R Inferno - Patrick Burns](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
 * [Intro to Data Analysis - Hadley Wickham](http://stat405.had.co.nz/)
 * [Linear Regression Models - Jeff Goldsmith](http://jeffgoldsmith.com/p8111.html)
-* [SimpleR](http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
+* [Simple R - John Verzani](http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
 * [icebreakeR](http://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf)
 * [R Tutorials - William King](http://ww2.coastal.edu/kingw/statistics/R-tutorials/index.html)
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf)
-* [Using R for Data Analysis and Graphics](http://cran.r-project.org/doc/contrib/usingR.pdf)
+* [R Programming Wikibook](http://en.wikibooks.org/wiki/R_Programming)
+* [Using R for Data Analysis and Graphics - JH Maindonald](http://cran.r-project.org/doc/contrib/usingR.pdf)
 * [Introduction to R (Lam)](http://cran.r-project.org/doc/contrib/Lam-IntroductionToR_LHL.pdf)
-* [The R Guide](http://cran.r-project.org/doc/contrib/Owen-TheRGuide.pdf)
+* [The R Guide - W.J. Owen](http://cran.r-project.org/doc/contrib/Owen-TheRGuide.pdf)
 * [More R books/papers/tutorials/presentations](http://cran.r-project.org/doc/contrib/)
 * [R Journal](http://journal.r-project.org/archive.html)
 * [R-bloggers](http://www.r-bloggers.com/)
 * [R on Youtube](www.google.com/search?q=R+programming&tbm=vid)
-* [Introduction to Probability and Statistics Using R (instructions for generating PDF file through R)](http://ipsur.org/install.html)
+* [Learning Statistics With R - Dan Navarro](http://health.adelaide.edu.au/psychology/ccs/docs/lsr/lsr-0.4.pdf)
+* [Introduction to Probability and Statistics Using R (instructions for generating PDF book through R)](http://ipsur.org/install.html)
 * [Elements of Statistical Learning](http://www.stanford.edu/~hastie/local.ftp/Springer/ESLII_print5.pdf)
 * [R Fundamentals and Programming Techiniques - Thomas Lumley](http://faculty.washington.edu/tlumley/Rcourse/R-fundamentals.pdf)
 * [Creating R Packages: A Tutorial](http://cran.r-project.org/doc/contrib/Leisch-CreatingPackages.pdf)
 * [Econometrics in R](http://cran.r-project.org/doc/contrib/Farnsworth-EconometricsInR.pdf)
+* [Learn R Youtube video channel](https://www.youtube.com/user/TheLearnR/videos)
+* [Revolution Analytics Youtube video channel](https://www.youtube.com/watch?v=RHu5vgBZ1yQ&list=PL2A6AB52DDE47709Bo)
 
 ### R - BLOGS
 
@@ -979,6 +983,11 @@
 * [RSeek.org](http://www.rseek.org/)
 * [R Site Search](http://finzi.psych.upenn.edu/search.html)
 * [R mailing list archive](http://tolstoy.newcastle.edu.au/R/)
+
+### R - VIDEOS
+
+* [Basic R tutorial videos](http://www.lauraksuttle.com/resources.html)
+* [Expressing Yourself in R (video) - Hadley Wickham](https://www.youtube.com/watch?v=wki0BqlztCo)
 
 ## RACK
 
