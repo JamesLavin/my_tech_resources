@@ -911,6 +911,7 @@
 ### R - LEARNING
 
 * [Swirl ("Statistics With Interactive R Learning")](http://swirlstats.com/students.html)
+* [The Undergraduate Guide to R - Trevor Martin](https://sites.google.com/site/undergraduateguidetor/manual-files)
 * [Impatient R](http://www.burns-stat.com/documents/tutorials/impatient-r/)
 * [Intro to R - Venables, Smith and R Core Team](http://cran.r-project.org/doc/manuals/R-intro.pdf)
 * [Very Short Intro to R - Torfs & Brauer](http://jeffgoldsmith.com/P8111/P8111_Docs/Short_R_Intro.pdf)
@@ -918,8 +919,10 @@
 * [Computing for Data Analysis week 1 videos - Roger Peng](http://www.youtube.com/playlist?list=PLjTlxb-wKvXNSDfcKPFH2gzHGyjpeCZmJ&feature=view_all), [week 2](http://www.youtube.com/playlist?list=PLjTlxb-wKvXNnjUTX4C8IeIhPBjPkng6B&feature=view_all), [week 3](http://www.youtube.com/playlist?list=PLjTlxb-wKvXOzI2h0F2_rYZHIXz8GWBop&feature=view_all) & [week 4](http://www.youtube.com/playlist?list=PLjTlxb-wKvXOdzysAE6qrEBN_aSBC0LZS&feature=view_all)
 * [Data Analysis videos - Jeff Leek's Coursera course](http://www.youtube.com/playlist?list=PLXBDYmaCbeL8efhOZS4g9W6Z3m9_hFSnT) & [lecture notes](https://github.com/jtleek/dataanalysis)
 * [Beginner's guide to R: (6-part) Introduction (ComputerWorld)](http://www.computerworld.com/s/article/print/9239625/Beginner_s_guide_to_R_Introduction?taxonomyName=Business+Intelligence%2FAnalytics&taxonomyId=9) & [Beginner's guide to R: Useful resources](http://www.computerworld.com/s/article/print/9239799/Beginner_s_guide_to_R_Useful_resources?taxonomyName=Business+Intelligence%2FAnalytics&taxonomyId=9)
+* [Quick-R](http://www.statmethods.net)
 * [The Little Book of R for Time Series](https://media.readthedocs.org/pdf/a-little-book-of-r-for-time-series/latest/a-little-book-of-r-for-time-series.pdf)
 * [One Page R](http://onepager.togaware.com/)
+* [Rtips - Paul E. Johnson - HTML](http://pj.freefaculty.org/R/Rtips.html) & [PDF]()
 * [Advanced Data Analysis From an Elementary Point of View - Cosma Rohilla Shalizi](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
 * [OpenIntro Stats textbook](http://www.openintro.org/stat/textbook.php) & [Documentation for 'openintro' R data package](http://cran.r-project.org/web/packages/openintro/openintro.pdf)
 * [Twotorials.com (fun 2-min R tutorials)](http://www.twotorials.com/)
@@ -939,7 +942,7 @@
 * [R Journal](http://journal.r-project.org/archive.html)
 * [R-bloggers](http://www.r-bloggers.com/)
 * [R on Youtube](www.google.com/search?q=R+programming&tbm=vid)
-* [Introduction to Probability and Statistics Using R](http://ipsur.org/)
+* [Introduction to Probability and Statistics Using R (instructions for generating PDF file through R)](http://ipsur.org/install.html)
 * [Elements of Statistical Learning](http://www.stanford.edu/~hastie/local.ftp/Springer/ESLII_print5.pdf)
 * [R Fundamentals and Programming Techiniques - Thomas Lumley](http://faculty.washington.edu/tlumley/Rcourse/R-fundamentals.pdf)
 * [Creating R Packages: A Tutorial](http://cran.r-project.org/doc/contrib/Leisch-CreatingPackages.pdf)
