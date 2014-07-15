@@ -148,7 +148,7 @@
 * [Chef Docs](http://docs.opscode.com/) & [Chef docs organized differently](http://docs.opscode.com/chef/)
 * [Chef - Cookbooks, Opscode](https://github.com/opscode-cookbooks)
 * [Chef - Cookbooks, Community](http://community.opscode.com/cookbooks)
-* [Chef - Knife](http://docs.opscode.com/chef/knife.html)
+* [UsingChef.com - Weekly Newsletter](http://usingchef.com/)
 * [Chef - Recipe DSL](http://docs.opscode.com/chef/dsl_recipe.html)
 * [Chef - Resources and Providers Reference](http://docs.opscode.com/chef/resources.html)
 * [Chef videos from Opscode](http://www.youtube.com/user/Opscode)
@@ -161,7 +161,12 @@
 
 * [Berkshelf](http://berkshelf.com/)
 
+### DEVOPS - CHEF - CHEF-DK
+
+* [Chef-dk (Chef Development Kit)](https://github.com/opscode/chef-dk)
+
 ### DEVOPS - CHEF - COOKBOOKS
+
 * [chef-jenkins](https://github.com/fnichol/chef-jenkins)
 * [chef-rbenv](https://github.com/fnichol/chef-rbenv)
 * [chef-rvm](https://github.com/fnichol/chef-rvm)
@@ -169,6 +174,7 @@
 
 ### DEVOPS - CHEF - KNIFE
 
+* [Knife docs](http://docs.opscode.com/chef/knife.html)
 * [knife-server](https://github.com/fnichol/knife-server)
 
 ### DEVOPS - CHEF - LIBRARIAN
@@ -196,6 +202,7 @@
 
 ## ELIXIR
 
+* [Elixir: Getting Started (tutorial)](http://elixir-lang.org/getting_started/1.html)
 * [Elixir: Power of Erlang, Joy of Ruby - Dave Thomas (LoneStarRuby 2013)](https://www.youtube.com/watch?v=KQwEmdOH-GM)
 * [Introduction to Elixir: a New Language on the VM - José Valim](https://www.youtube.com/watch?v=41PvAPSX0wg)
 * [Elixir - A modern approach to programming for the Erlang VM - Jose Valim (RuPy 2012)](https://www.youtube.com/watch?v=q2Hxt0tOR0k)
@@ -462,6 +469,8 @@
 * [Ember-rails](https://github.com/emberjs/ember-rails) + advice from [Hashrocket](http://hashrocket.com/blog/posts/setting-up-an-ember-app-with-a-rails-backend) & [Thoughtbot](http://robots.thoughtbot.com/emberjs-with-a-separate-rails-api)
 * [Ember-appkit-rails](https://github.com/dockyard/ember-appkit-rails)
 * [Ember App Kit Rails - Brian Cardarella](http://www.youtube.com/watch?v=sYX0qPuwJi4)
+* [Setting Up a Serious Ember Project - Justin Searls](http://blog.testdouble.com/posts/2014-04-19-setting-up-a-serious-ember-project.html)
+* [Building an Ember App with Rails Part 1](http://reefpoints.dockyard.com/2014/05/07/building-an-ember-app-with-rails-part-1.html) [Part 2](http://reefpoints.dockyard.com/2014/05/08/building-an-ember-app-with-rails-part-2.html) [Part 3](http://reefpoints.dockyard.com/2014/05/09/building-an-ember-app-with-rails-part-3.html) [Part 4](http://reefpoints.dockyard.com/2014/05/31/building-an-ember-app-with-rails-part-4.html)
 * [Ember data](https://github.com/emberjs/data)
 * [Building Web Applications with Ember.js - NewCircle Training](http://www.youtube.com/watch?v=u6RFyVN9sNg)
 * [Ember 1.0](https://www.youtube.com/watch?v=zC7o1YkmkG0)
@@ -598,12 +607,16 @@
 * [Better Bash Scripting in 15 Minutes - Robert Muth](http://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html)
 * [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.pdf)
 * [Command Line Fu](http://www.commandlinefu.com/commands/browse/sort-by-votes)
-* [Bash Automated Test System (BATS)](https://github.com/sstephenson/bats) & [tutorial](https://blog.engineyard.com/2014/bats-test-command-line-tools)
 * [Greg Wooledge's Wiki](http://mywiki.wooledge.org/)
 * [Linux Bash Scripting](linux1.ca/docs/Linux_BASH_Scripting.pdf)
 * [The Linux Command Line: A Complete Introduction (PDF)](http://sourceforge.net/projects/linuxcommand/files/TLCL/13.07/TLCL-13.07.pdf/download) & [website](http://www.linuxcommand.org/tlcl.php)
 * [Linux Shell Scripting Cookbook](http://www.pdf-archive.com/2011/03/26/linux-shell-scripting-cookbook/linux-shell-scripting-cookbook.pdf)
 * [Linux Shell Scripting Tutorial](http://www.dis.uniroma1.it/~bordino/shell-tutorial.pdf)
+
+### LINUX - SHELL SCRIPTING (BASH) - BATS (BASH AUTOMATED TEST SYSTEM)
+
+* [Bash Automated Test System (BATS)](https://github.com/sstephenson/bats) & [tutorial](https://blog.engineyard.com/2014/bats-test-command-line-tools)
+* [How to use Bats to test your command line tools - Ross Duggan](https://blog.engineyard.com/2014/bats-test-command-line-tools?eymktci=70170000000hHEC)
 
 ## MACHINE LEARNING
 
@@ -914,6 +927,8 @@
 
 * [Swirl ("Statistics With Interactive R Learning")](http://swirlstats.com/students.html)
 * [The Undergraduate Guide to R - Trevor Martin](https://sites.google.com/site/undergraduateguidetor/manual-files)
+* [Resources to Help You Learn and Use R - UCLA](http://www.ats.ucla.edu/stat/r/)
+* [One Page R: A Survival Guide to Data Science with R - Graham Williams](http://onepager.togaware.com/)
 * [Impatient R](http://www.burns-stat.com/documents/tutorials/impatient-r/)
 * [Intro to R - Venables, Smith and R Core Team](http://cran.r-project.org/doc/manuals/R-intro.pdf)
 * [Very Short Intro to R - Torfs & Brauer](http://jeffgoldsmith.com/P8111/P8111_Docs/Short_R_Intro.pdf)
@@ -959,6 +974,10 @@
 * [R-bloggers.com](http://www.r-bloggers.com/)
 * [Revolutions](http://blog.revolutionanalytics.com/)
 
+### R - EXAMPLES
+
+* [RPubs.com](http://rpubs.com/)
+
 ### R - GGPLOT2
 
 * [2-hr talk on "Visualising data with ggplot2" by creator Hadley Wickham](http://www.mathtube.org/lecture/video/visualising-data-ggplot2)
@@ -966,11 +985,19 @@
 
 ### R - GGVIS
 
+* [Ggvis](http://ggvis.rstudio.com/)
 * [Introducing ggvis](http://blog.rstudio.org/2014/06/23/introducing-ggvis/)
+* [Ggvis Cookbook](http://ggvis.rstudio.com/cookbook.html)
 
 ### R - KNITR
 
-* [Knitr (elegant, flexible and fast dynamic report generation with R)](http://yihui.name/knitr/)
+* [KnitR (elegant, flexible and fast dynamic report generation with R)](http://yihui.name/knitr/)
+* [KnitR in a Knutshell - Karl Broman](http://kbroman.github.io/knitr_knutshell/)
+* [How to Use KnitR - Vanderbilt University](http://biostat.mc.vanderbilt.edu/wiki/Main/KnitrHowto)
+* [How to Use Knitr with a Rakefile](http://lincolnmullen.com/blog/how-to-use-knitr-with-a-rakefile/)
+* [Plain Text, Papers, Pandoc](http://kieranhealy.org/blog/archives/2014/01/23/plain-text/)
+* [KnitrBoostrap](https://github.com/jimhester/knitrBootstrap)
+* [Blog With KnitR and Jekyll](http://jfisher-usgs.github.io/r/2012/07/03/knitr-jekyll/)
 
 ### R - PERFORMANCE
 
@@ -993,6 +1020,7 @@
 ### R - SHINY
 
 * [Shiny](http://shiny.rstudio.com/)
+* [Show Me Shiny (live examples)](http://www.showmeshiny.com/)
 * [Welcome to Shiny (tutorial)](http://shiny.rstudio.com/tutorial/lesson1/)
 
 ### R - VIDEOS
@@ -1662,6 +1690,7 @@
 
 * [Pandoc (document converter)](http://johnmacfarlane.net/pandoc/index.html)
 * [Sustainable Authorship in Plain Text using Pandoc and Markdown - Dennis Tenen and Grant Wythoff](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
+* [Plain Text, Papers, Pandoc](http://kieranhealy.org/blog/archives/2014/01/23/plain-text/)
 
 ## WRITING - ZOTERO
 
