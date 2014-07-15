@@ -397,7 +397,7 @@
 
 ### JAVASCRIPT - BLOGS
 
-* [Reginald Braithwaite](http://braythwayt.com/)
+* [Reginald Braithwaite](http://raganwald.com/)
 * [JavaScript Playground](http://javascriptplayground.com/blog)
 * [ModernWeb.com](http://modernweb.com/category/web/javascript/)
 
@@ -967,6 +967,10 @@
 ### R - GGVIS
 
 * [Introducing ggvis](http://blog.rstudio.org/2014/06/23/introducing-ggvis/)
+
+### R - KNITR
+
+* [Knitr (elegant, flexible and fast dynamic report generation with R)](http://yihui.name/knitr/)
 
 ### R - PERFORMANCE
 
@@ -1648,3 +1652,17 @@
 * [AsciiDoc](http://www.methods.co.nz/asciidoc/)
 * [AsciiDoc Cheatsheet](http://powerman.name/doc/asciidoc)
 * [asciidoc-vim](https://github.com/dagwieers/asciidoc-vim)
+
+## WRITING - MARKDOWN
+
+* [Markdown](http://daringfireball.net/projects/markdown/)
+* [Marked 2 (not free but apparently awesome previewer)](http://marked2app.com/)
+
+## WRITING - PANDOC
+
+* [Pandoc (document converter)](http://johnmacfarlane.net/pandoc/index.html)
+* [Sustainable Authorship in Plain Text using Pandoc and Markdown - Dennis Tenen and Grant Wythoff](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
+
+## WRITING - ZOTERO
+
+* [Zotero (Firefox extention to "collect, organize, cite, and share your research sources")](https://www.zotero.org/)
