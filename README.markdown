@@ -1199,6 +1199,7 @@
 
 ## RUBY
 
+* [Ruby Bookmarks - Alex Musayev](https://github.com/dreikanter/ruby-bookmarks)
 * [Github's style guide](https://github.com/styleguide/ruby)
 * [Ten Things You Didn't Know Ruby Could Do - James Edward Gray II (Aloha RubyConf 2012)](http://confreaks.com/videos/1244-aloharuby2012-ten-things-you-didn-t-know-ruby-could-do)
 * [Davetron5000's Ruby Style Guide - David Copeland](http://davetron5000.github.com/ruby-style/)
