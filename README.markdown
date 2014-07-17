@@ -801,6 +801,7 @@
 ### PYTHON - GRAPHICS - MATPLOTLIB
 
 * [Matplotlib documentation](http://matplotlib.org/Matplotlib.pdf)
+* [Beyond Defaults: Creating Polished Visualizations Using Matplotlib - Hannah Aizenman (PyConUS 2014)](http://pyvideo.org/video/2579/beyond-defaults-creating-polished-visualizations)
 * [Matplotlib: Past, Present and Future - Michael Droettboom (SciPy 2013)](http://www.youtube.com/watch?v=gj5i_19Bftk)
 * [Plotting With MatPlotLib](http://www.youtube.com/watch?v=P7SVi0YTIuE)
 * [Intro to NumPy and Matplotlib](http://www.youtube.com/watch?v=3Fp1zn5ao2M)
@@ -974,6 +975,10 @@
 
 * [R-bloggers.com](http://www.r-bloggers.com/)
 * [Revolutions](http://blog.revolutionanalytics.com/)
+
+### R - DPLYR
+
+* [dplyr documentation](http://cran.r-project.org/web/packages/dplyr/dplyr.pdf)
 
 ### R - EXAMPLES
 
