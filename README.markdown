@@ -746,6 +746,7 @@
 * [PyVideo.org](http://www.pyvideo.org/category)
 * [Khan Academy](http://www.khanacademy.org/science/computer-science/v/introduction-to-programs-data-types-and-variables)
 * [Python Fundamentals Training](http://www.youtube.com/playlist?list=PL26BA8B9FC33789FF&feature=plcp)
+* [Python for Informatics - Charles Severance (PDF)](http://www.pythonlearn.com/book_007.pdf) & [videos](http://pythonlearn.com/)
 * [Building Skills in Object-Oriented Design](http://slav0nic.org.ua/static/books/python/oodesign.pdf)
 * [Python Course - Kevin Sheppard (University of Oxford)](http://www.kevinsheppard.com/Python_Course)
 * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf)
@@ -1029,6 +1030,12 @@
 * [Shiny](http://shiny.rstudio.com/)
 * [Show Me Shiny (live examples)](http://www.showmeshiny.com/)
 * [Welcome to Shiny (tutorial)](http://shiny.rstudio.com/tutorial/lesson1/)
+
+### R - TIME SERIES
+
+* [CRAN Task View: Time Series Analysis](http://cran.r-project.org/web/views/TimeSeries.html)
+* [History of R Financial Time Series Plotting](http://timelyportfolio.github.io/rCharts_time_series/history.html)
+* [Time Series Analysis With R](http://www.stats.uwo.ca/faculty/aim/tsar/tsar.pdf)
 
 ### R - VIDEOS
 
