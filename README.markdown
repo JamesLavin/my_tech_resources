@@ -190,6 +190,29 @@
 
 * [Build Your Own Shipyard - Andreas Tiefenthaler (Kod.io 2014)](http://confreaks.com/videos/3252-kodio_2014-build-your-own-shipyard)
 
+### DEVOPS - LOGGING
+
+#### DEVOPS - LOGGING - ELSA
+
+* [ELSA: Enterprise Log Search and Archive](https://code.google.com/p/enterprise-log-search-and-archive/)
+
+#### DEVOPS - LOGGING - GRAYLOG2
+
+* [GrayLog2](http://graylog2.org/)
+
+#### DEVOPS - LOGGING - LOGSTASH.NET
+
+* [Documentation](http://logstash.net/docs/1.4.2/)
+* [Getting Started](http://logstash.net/docs/1.4.2/tutorials/getting-started-with-logstash)
+* [Logstash and Other Things - Jordan Sissel (PuppetConf 2012)](https://www.youtube.com/watch?v=RuUFnog29M4)
+* [More Logstash Awesome - Jordan Sissel (PuppetConf 2013)](https://www.youtube.com/watch?v=fwMnb4-t8vo)
+* [Using ElasticSearch, Logstash and Kibana to Create Realtime Dashboards - Alexander Reelsen](http://gotocon.com/dl/goto-berlin-2014/GOTO_Night/logstash-kibana-intro.pdf)
+* [Visualizing Logs Using ElasticSearch, Logstash and Kibana - Jeff Sogolov](https://www.youtube.com/watch?v=Kqs7UcCJquM)
+* [Logstash Presentation - Matthew Smith](https://www.youtube.com/watch?v=U3m0jKygAqU)
+* [Query Log Analysis – Using Logstash, ElasticSearch and Kibana - Niels Henrik Hagen](http://nhhagen.wordpress.com/2013/11/28/query-log-analysis-using-logstash-elasticsearch-and-kibana/)
+* [A Bit of Logstash Cooking](https://home.regit.org/2014/01/a-bit-of-logstash-cooking/)
+* [Chef-logstash](https://github.com/lusis/chef-logstash)
+
 ### DEVOPS - VAGRANT
 
 * [Vagrant, Packer, Serf: Maximum Potency DevOps - Mitchell Hashimoto (Kod.io 2014)](http://confreaks.com/videos/3251-kodio_2014-vagrant-packer-serf-maximum-potency-devops)
@@ -617,22 +640,6 @@
 
 * [Bash Automated Test System (BATS)](https://github.com/sstephenson/bats) & [tutorial](https://blog.engineyard.com/2014/bats-test-command-line-tools)
 * [How to use Bats to test your command line tools - Ross Duggan](https://blog.engineyard.com/2014/bats-test-command-line-tools?eymktci=70170000000hHEC)
-
-
-## LOGGING
-
-### LOGGING - LOGSTASH.NET
-
-* [Documentation](http://logstash.net/docs/1.4.2/)
-* [Getting Started](http://logstash.net/docs/1.4.2/tutorials/getting-started-with-logstash)
-* [Logstash and Other Things - Jordan Sissel (PuppetConf 2012)](https://www.youtube.com/watch?v=RuUFnog29M4)
-* [More Logstash Awesome - Jordan Sissel (PuppetConf 2013)](https://www.youtube.com/watch?v=fwMnb4-t8vo)
-* [Using ElasticSearch, Logstash and Kibana to Create Realtime Dashboards - Alexander Reelsen](http://gotocon.com/dl/goto-berlin-2014/GOTO_Night/logstash-kibana-intro.pdf)
-* [Visualizing Logs Using ElasticSearch, Logstash and Kibana - Jeff Sogolov](https://www.youtube.com/watch?v=Kqs7UcCJquM)
-* [Logstash Presentation - Matthew Smith](https://www.youtube.com/watch?v=U3m0jKygAqU)
-* [Query Log Analysis – Using Logstash, ElasticSearch and Kibana - Niels Henrik Hagen](http://nhhagen.wordpress.com/2013/11/28/query-log-analysis-using-logstash-elasticsearch-and-kibana/)
-* [A Bit of Logstash Cooking](https://home.regit.org/2014/01/a-bit-of-logstash-cooking/)
-* [Chef-logstash](https://github.com/lusis/chef-logstash)
 
 ## MACHINE LEARNING
 
