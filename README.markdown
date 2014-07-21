@@ -625,9 +625,12 @@
 
 * [Documentation](http://logstash.net/docs/1.4.2/)
 * [Getting Started](http://logstash.net/docs/1.4.2/tutorials/getting-started-with-logstash)
+* [Logstash and Other Things - Jordan Sissel (PuppetConf 2012)](https://www.youtube.com/watch?v=RuUFnog29M4)
 * [More Logstash Awesome - Jordan Sissel (PuppetConf 2013)](https://www.youtube.com/watch?v=fwMnb4-t8vo)
 * [Using ElasticSearch, Logstash and Kibana to Create Realtime Dashboards - Alexander Reelsen](http://gotocon.com/dl/goto-berlin-2014/GOTO_Night/logstash-kibana-intro.pdf)
 * [Visualizing Logs Using ElasticSearch, Logstash and Kibana - Jeff Sogolov](https://www.youtube.com/watch?v=Kqs7UcCJquM)
+* [Logstash Presentation - Matthew Smith](https://www.youtube.com/watch?v=U3m0jKygAqU)
+* [Query Log Analysis – Using Logstash, ElasticSearch and Kibana - Niels Henrik Hagen](http://nhhagen.wordpress.com/2013/11/28/query-log-analysis-using-logstash-elasticsearch-and-kibana/)
 * [A Bit of Logstash Cooking](https://home.regit.org/2014/01/a-bit-of-logstash-cooking/)
 * [Chef-logstash](https://github.com/lusis/chef-logstash)
 
