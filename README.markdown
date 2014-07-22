@@ -855,6 +855,10 @@
 * [iPython: Tools for the Entire Lifecycle of Research Computing - Fernando Perez et al. (ciPy 2012)](https://www.youtube.com/watch?v=iwVvqwLDsJo)
 * [Mining Social Web APIs With iPython Notebook - Matthew Russell (PyCon 2014)](https://www.youtube.com/watch?v=jpCG792tVt0)
 
+#### PYTHON - IPYTHON NOTEBOOK - NBCONVERT
+
+* [Converting notebooks to other formats](http://ipython.org/ipython-doc/rel-1.0.0/interactive/nbconvert.html)
+
 #### PYTHON - IPYTHON NOTEBOOK - INTERESTING NOTEBOOKS
 
 * [Gallery of Interesting iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
