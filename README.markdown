@@ -871,7 +871,7 @@
 
 ### PYTHON - PANDAS
 
-* [Statistical Data Analysis in Python (4 videos) - Christopher Fonnesbeck](http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109) [1](http://www.youtube.com/watch?v=DXPwSiRTxYY) [2](http://www.youtube.com/watch?v=TGEBpzJUxdI) [3](http://www.youtube.com/watch?v=YZDtBEEZuAk) [4](http://www.youtube.com/watch?v=5_rcdhBXD-0)
+* [Statistical Data Analysis in Python (4 videos) - Christopher Fonnesbeck](http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109) [1](http://www.youtube.com/watch?v=DXPwSiRTxYY) [2](http://www.youtube.com/watch?v=TGEBpzJUxdI) [3](http://www.youtube.com/watch?v=YZDtBEEZuAk) [4](http://www.youtube.com/watch?v=5_rcdhBXD-0) & [iPython notebooks](https://github.com/fonnesbeck/statistical-analysis-python-tutorial)
 * [Keynote - Wes McKinney (PyCon Singapore 2013)](https://www.youtube.com/watch?v=Jm73dKlYHZw)
 * [Data Analysis in Python with Pandas - Wes McKinney (2012 PyData Workshop)](https://www.youtube.com/watch?v=MxRMXhjXZos)
 * [Time Series Data Analysis with Pandas - Wes McKinney (ciPy 2012)](https://www.youtube.com/watch?v=0unf-C-pBYE)
@@ -992,7 +992,7 @@
 * [R on Youtube](www.google.com/search?q=R+programming&tbm=vid)
 * [Learning Statistics With R - Dan Navarro](http://health.adelaide.edu.au/psychology/ccs/docs/lsr/lsr-0.4.pdf)
 * [Introduction to Probability and Statistics Using R (instructions for generating PDF book through R)](http://ipsur.org/install.html)
-* [Elements of Statistical Learning](http://www.stanford.edu/~hastie/local.ftp/Springer/ESLII_print5.pdf)
+* [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
 * [R Fundamentals and Programming Techiniques - Thomas Lumley](http://faculty.washington.edu/tlumley/Rcourse/R-fundamentals.pdf)
 * [Creating R Packages: A Tutorial](http://cran.r-project.org/doc/contrib/Leisch-CreatingPackages.pdf)
 * [Econometrics in R](http://cran.r-project.org/doc/contrib/Farnsworth-EconometricsInR.pdf)
