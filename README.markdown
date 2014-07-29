@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-'My Tech Resources' is where I place links to resources I have either found useful or think might be helpful to future me or Ruby/Javascript/Python developers like me.
+Links to resources I have found useful or think might be helpful to future me or Ruby/Javascript/Python developers like me.
 
 ## MAJOR CATEGORIES
 
