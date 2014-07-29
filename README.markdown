@@ -765,34 +765,18 @@
 
 ## PYTHON
 
-* [Python for Ruby Programmers - Mike Leone (LA Ruby Conf 2013)](https://www.youtube.com/watch?v=maSlTKMzR3Q)
-* [PyVideo.org](http://www.pyvideo.org/category)
-* [Khan Academy](http://www.khanacademy.org/science/computer-science/v/introduction-to-programs-data-types-and-variables)
-* [Python Fundamentals Training](http://www.youtube.com/playlist?list=PL26BA8B9FC33789FF&feature=plcp)
-* [Python for Informatics - Charles Severance (PDF)](http://www.pythonlearn.com/book_007.pdf) & [videos](http://pythonlearn.com/)
-* [Building Skills in Object-Oriented Design](http://slav0nic.org.ua/static/books/python/oodesign.pdf)
-* [Python Course - Kevin Sheppard (University of Oxford)](http://www.kevinsheppard.com/Python_Course)
-* [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf)
-* [A Byte of Python](http://files.swaroopch.com/python/byte_of_python.pdf)
-* [Dive into Python 3](https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)
-* [Python for Developers - Luiz Eduardo Borges](http://ricardoduarte.github.io/python-for-developers/)
-* [Hacking Secret Ciphers with Python](http://inventwithpython.com/hackingciphers.pdf)
-* [Hands-On Python Tutorial](http://cs.luc.edu/anh/python/hands-on/handson.pdf)
-* [How to Think Like a Computer Scientist: Learning with Python](http://interactivepython.org/runestone/static/thinkcspy/index.html) & [PDF](https://cs.nyu.edu/courses/fall12/CSCI-UA.0002-006/misc/httlacs.pdf)
-* [Invent Your Own Computer Games With Python, 2nd ed](http://inventwithpython.com/IYOCGwP_book1.pdf)
-* [Learn Python the Hard Way](http://learnpythonthehardway.org/book/index.html)
-* [Making Games with Python & Pygame](http://inventwithpython.com/makinggames.pdf)
-* [Python Programming](http://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf)
-* [Programming Python, 4th ed](http://it-ebooks.info/go.php?id=614-1376544793-f29d5b06b99ac32ba63d667a79d38ce9)
-* [Python Tutorial (TutorialsPoint.com)](http://www.tutorialspoint.com/python/python_tutorial.pdf)
-* [The Python Tutorial (Python 2)](http://docs.python.org/2/tutorial/index.html) & [(Python 3)](http://docs.python.org/3.3/tutorial/index.html)
-* [Think Complexity](http://greenteapress.com/complexity/thinkcomplexity.pdf)
-* [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
-* [Python 3.3: Trust Me, It's Better Than 2.7 - Brett Cannon (PyCon US 2013](https://www.youtube.com/watch?v=f_6vDi7ywuA)
+### PYTHON - ALGORITHMS
+
+* [Intro to Algorithms - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 
 ### PYTHON - CYTHON
 
 * [Cython](http://cython.org/)
+
+### PYTHON - GAMES
+
+* [Making Games with Python & Pygame](http://inventwithpython.com/makinggames.pdf)
+* [Invent Your Own Computer Games With Python, 2nd ed](http://inventwithpython.com/IYOCGwP_book1.pdf)
 
 ### PYTHON - GRAPHICS
 
@@ -838,6 +822,10 @@
 
 * [MPLD3](http://mpld3.github.io/)
 
+#### PYTHON - GRAPHICS - TUFTE SLOPE GRAPHS
+
+* [Tufte slope graphs](https://github.com/pascal-schetelat/Slope) & [example](http://nbviewer.ipython.org/gist/pascal-schetelat/8382651)
+
 #### PYTHON - GRAPHICS - VINCENT
 
 * [Vincent (Python to Vega translator)](https://github.com/wrobstory/vincent)
@@ -862,6 +850,41 @@
 #### PYTHON - IPYTHON NOTEBOOK - INTERESTING NOTEBOOKS
 
 * [Gallery of Interesting iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+
+#### PYTHON - LEARNING - BASICS
+
+* [Google Python Class Day 1, Pt 1](), [Pt 2](https://www.youtube.com/watch?v=EPYupizJYQI), [Pt 3](https://www.youtube.com/watch?v=haycL41dAhg), [Day 2, Pt 1](https://www.youtube.com/watch?v=kWyoYtvJpe4)
+* [Introduction to Computer Science and Programming - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-1-introduction-to-6.00/) & [on Youtube](https://www.youtube.com/watch?v=Mx0uXIBD-yA&index=1&list=PLd-dSvYArSy20Yfx1UxoiiAX1tl863Azo)
+* [A hands-on introduction to Python for beginning programmers - Jessica McKellar (PyCon 2014)](https://www.youtube.com/watch?v=MirG-vJOg04) & [(PyCon 2013)](https://www.youtube.com/watch?v=rkx5_MRAV3A)
+* [Intro to Electrical Engineering and Computer Science I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
+
+#### PYTHON - LEARNING - BOOKS
+
+* [A Byte of Python](http://files.swaroopch.com/python/byte_of_python.pdf)
+* [Python Programming](http://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf)
+* [Python Tutorial (TutorialsPoint.com)](http://www.tutorialspoint.com/python/python_tutorial.pdf)
+* [The Python Tutorial (Python 2)](http://docs.python.org/2/tutorial/index.html) & [(Python 3)](http://docs.python.org/3.3/tutorial/index.html)
+* [Think Complexity](http://greenteapress.com/complexity/thinkcomplexity.pdf)
+* [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
+* [Programming Python, 4th ed](http://it-ebooks.info/go.php?id=614-1376544793-f29d5b06b99ac32ba63d667a79d38ce9)
+* [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf)
+* [Dive into Python 3](https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)
+* [Building Skills in Object-Oriented Design](http://slav0nic.org.ua/static/books/python/oodesign.pdf)
+* [Hacking Secret Ciphers with Python](http://inventwithpython.com/hackingciphers.pdf)
+* [Hands-On Python Tutorial](http://cs.luc.edu/anh/python/hands-on/handson.pdf)
+* [How to Think Like a Computer Scientist: Learning with Python](http://interactivepython.org/runestone/static/thinkcspy/index.html) & [PDF](https://cs.nyu.edu/courses/fall12/CSCI-UA.0002-006/misc/httlacs.pdf)
+
+### PYTHON - LEARNING
+
+* [PyVideo.org](http://www.pyvideo.org/category)
+* [Khan Academy](http://www.khanacademy.org/science/computer-science/v/introduction-to-programs-data-types-and-variables)
+* [Python Fundamentals Training](http://www.youtube.com/playlist?list=PL26BA8B9FC33789FF&feature=plcp)
+* [Python for Informatics - Charles Severance (PDF)](http://www.pythonlearn.com/book_007.pdf) & [videos](http://pythonlearn.com/)
+* [Python Course - Kevin Sheppard (University of Oxford)](http://www.kevinsheppard.com/Python_Course)
+* [Python for Developers - Luiz Eduardo Borges](http://ricardoduarte.github.io/python-for-developers/)
+* [Learn Python the Hard Way](http://learnpythonthehardway.org/book/index.html)
+* [Python 3.3: Trust Me, It's Better Than 2.7 - Brett Cannon (PyCon US 2013](https://www.youtube.com/watch?v=f_6vDi7ywuA)
+* [Python for Ruby Programmers - Mike Leone (LA Ruby Conf 2013)](https://www.youtube.com/watch?v=maSlTKMzR3Q)
 
 ### PYTHON - NUMPY
 
@@ -947,6 +970,11 @@
 ### PYTHON - VIDEOGREP
 
 * [Videogrep (for searching through videos with .srt subtitle tracks)](https://github.com/antiboredom/videogrep)
+
+### PYTHON - WEB SCRAPING
+
+* [Web scraping: Reliably and efficiently pull data from pages that don't expect it - Asheesh Laroia](https://www.youtube.com/watch?v=52wxGESwQSA)
+* [Web scraping tutorial series](https://www.youtube.com/watch?v=E7wB__M9fdw&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz&index=1)
 
 ## R
 
