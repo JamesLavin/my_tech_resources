@@ -6,35 +6,7 @@
 
 ## MAJOR CATEGORIES
 
-[Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#coffeescript) | [CSS](#css)
-* [Data](#data)
-* [DevOps](#devops)
-* [Elixir](#elixir)
-* [Functional programming](#functional-programming)
-* [Git](#git)
-* [HAML](#haml)
-* [HTML5](#html5)
-* [Javascript](#javascript)
-* [JRuby](#jruby)
-* [Linux](#linux)
-* [Machine learning](#machine-learning)
-* [Mobile](#mobile)
-* [Node.js](#nodejs)
-* [Postgresql](#postgresql)
-* [Product development](#product-development)
-* [Python](#python)
-* [R](#r)
-* [Rack](#rack)
-* [Rails](#rails)
-* [Ruby](#ruby)
-* [Scala](#scala)
-* [Statistical analysis](#statistical-analysis)
-* [Testing](#testing)
-* [Tmux](#tmux)
-* [Usability](#usability)
-* [Vim](#vim-yeah-its-the-best)
-* [Web components](#web-components)
-* [Writing](#writing)
+[Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elixir](#elixir) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Linux](#linux) | [Machine learning](#machine-learning) | [Mobile](#mobile) | [Node.js](#nodejs) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing](#writing)
 
 ## BOOKS
 
