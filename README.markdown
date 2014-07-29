@@ -6,11 +6,38 @@
 
 ## MAJOR CATEGORIES
 
+* [Clean Code](#clean-code)
+* [Code Search](#code-search)
 * [Coffeescript](#coffeescript)
 * [CSS](#css)
+* [Data](#data)
+* [DevOps](#devops)
+* [Elixir](#elixir)
+* [Functional programming](#functional-programming)
+* [Git](#git)
+* [HAML](#haml)
+* [HTML5](#html5)
 * [Javascript](#javascript)
+* [JRuby](#jruby)
+* [Linux](#linux)
+* [Machine learning](#machine-learning)
+* [Mobile](#mobile)
+* [Node.js](#nodejs)
+* [Postgresql](#postgresql)
+* [Product development](#product-development)
 * [Python](#python)
+* [R](#r)
+* [Rack](#rack)
+* [Rails](#rails)
 * [Ruby](#ruby)
+* [Scala](#scala)
+* [Statistical analysis](#statistical-analysis)
+* [Testing](#testing)
+* [Tmux](#tmux)
+* [Usability](#usability)
+* [Vim](#vim-yeah-its-the-best)
+* [Web components](#web-components)
+* [Writing](#writing)
 
 ## BOOKS
 
@@ -1251,25 +1278,6 @@
 
 * [Andrew Glover: Asynchronous Processing, Messaging, and Redis/Resque](http://blip.tv/rubynation/andrew-glover-asynchronous-processing-messaging-and-redis-with-resque-6558320)
 
-# RESTRUCTURED TEXT
-
-* [ReStructured Text](http://docutils.sourceforge.net/rst.html)
-* [ReStructured Text Syntax - Thomas Cokelaer](http://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html)
-* [ReStructured Text Demo (.txt)](http://docutils.sourceforge.net/docs/user/rst/demo.txt) & [(.html)](http://docutils.sourceforge.net/docs/user/rst/demo.html)
-* [ReStructured Text Primer (.txt)](http://docutils.sourceforge.net/docs/user/rst/demo.txt) & [(.html)](http://docutils.sourceforge.net/docs/user/rst/quickstart.html)
-* [ReStructured Text Cheat Sheet - David Goodger (.txt)](http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt) & [(.html)](http://docutils.sourceforge.net/docs/user/rst/cheatsheet.html)
-
-## RESTRUCTURED TEXT - RIV
-
-* [Rykka (ReStructured Text vim plugin)](https://github.com/Rykka/riv.vim)
-* [Riv: QuickStart (G.F. Rykka)](https://github.com/Rykka/riv.vim/blob/master/doc/riv_quickstart.rst)
-* [Riv: Detailed Instructions](https://github.com/Rykka/riv.vim/blob/master/doc/riv_instruction.rst)
-* [Writing A Book With Vim, Restructured Text, and Sphinx - Tom Purl](http://tompurl.com/2012/11/22/writing-a-book-with-vim-restructured-text-and-sphinx/)
-
-## RESTRUCTURED TEXT - SPHINX
-
-* [Sphinx (Python Document Generator)](http://sphinx-doc.org/)
-
 ## RUBY
 
 * [Ruby Bookmarks - Alex Musayev](https://github.com/dreikanter/ruby-bookmarks)
@@ -1754,29 +1762,52 @@
 * [National Weather Service - Nationwide radar loop](http://radar.weather.gov/Conus/full_loop.php)
 * [National Weather Service - New York metro radar loop](http://radar.weather.gov/ridge/radar.php?rid=okx&product=N0R&overlay=11101111&loop=yes)
 
-## WEB DESIGN - RESPONSIVE DESIGN & PROGRESSIVE ENHANCEMENT
+## WEB DESIGN
+
+### WEB DESIGN - RESPONSIVE DESIGN & PROGRESSIVE ENHANCEMENT
 
 * [Responsive Web Design, Mobile First and Progressive enhancement in action - Leonado Lenase (ScotlandJS 2012)](http://vimeo.com/45140588)
 * [Browser Versions Are Dead](http://confreaks.com/videos/2223-html5tx2013-browser-versions-are-dead)
 
-## WRITING - ASCIIDOC EDITORS
+## WRITING
+
+### WRITING - ASCIIDOC EDITORS
 
 * [AsciiDoctor - AsciiDoc Writer’s Guide](http://asciidoctor.org/docs/asciidoc-writers-guide/)
 * [AsciiDoc](http://www.methods.co.nz/asciidoc/)
 * [AsciiDoc Cheatsheet](http://powerman.name/doc/asciidoc)
 * [asciidoc-vim](https://github.com/dagwieers/asciidoc-vim)
 
-## WRITING - MARKDOWN
+### WRITING - MARKDOWN
 
 * [Markdown](http://daringfireball.net/projects/markdown/)
 * [Marked 2 (not free but apparently awesome previewer)](http://marked2app.com/)
 
-## WRITING - PANDOC
+### WRITING - PANDOC
 
 * [Pandoc (document converter)](http://johnmacfarlane.net/pandoc/index.html)
 * [Sustainable Authorship in Plain Text using Pandoc and Markdown - Dennis Tenen and Grant Wythoff](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 * [Plain Text, Papers, Pandoc](http://kieranhealy.org/blog/archives/2014/01/23/plain-text/)
 
-## WRITING - ZOTERO
+## RESTRUCTURED TEXT
+
+* [ReStructured Text](http://docutils.sourceforge.net/rst.html)
+* [ReStructured Text Syntax - Thomas Cokelaer](http://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html)
+* [ReStructured Text Demo (.txt)](http://docutils.sourceforge.net/docs/user/rst/demo.txt) & [(.html)](http://docutils.sourceforge.net/docs/user/rst/demo.html)
+* [ReStructured Text Primer (.txt)](http://docutils.sourceforge.net/docs/user/rst/demo.txt) & [(.html)](http://docutils.sourceforge.net/docs/user/rst/quickstart.html)
+* [ReStructured Text Cheat Sheet - David Goodger (.txt)](http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt) & [(.html)](http://docutils.sourceforge.net/docs/user/rst/cheatsheet.html)
+
+### RESTRUCTURED TEXT - RIV
+
+* [Rykka (ReStructured Text vim plugin)](https://github.com/Rykka/riv.vim)
+* [Riv: QuickStart (G.F. Rykka)](https://github.com/Rykka/riv.vim/blob/master/doc/riv_quickstart.rst)
+* [Riv: Detailed Instructions](https://github.com/Rykka/riv.vim/blob/master/doc/riv_instruction.rst)
+* [Writing A Book With Vim, Restructured Text, and Sphinx - Tom Purl](http://tompurl.com/2012/11/22/writing-a-book-with-vim-restructured-text-and-sphinx/)
+
+### RESTRUCTURED TEXT - SPHINX
+
+* [Sphinx (Python Document Generator)](http://sphinx-doc.org/)
+
+### WRITING - ZOTERO
 
 * [Zotero (Firefox extention to "collect, organize, cite, and share your research sources")](https://www.zotero.org/)
