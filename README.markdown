@@ -6,6 +6,8 @@
 
 ## MAJOR CATEGORIES
 
+* [Coffeescript](#coffeescript)
+* [CSS](#css)
 * [Javascript](#javascript)
 * [Python](#python)
 * [Ruby](#ruby)
