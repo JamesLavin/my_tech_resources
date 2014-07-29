@@ -6,7 +6,9 @@
 
 ## MAJOR CATEGORIES
 
-* [Python](#Python)
+* [Javascript](#javascript)
+* [Python](#python)
+* [Ruby](#ruby)
 
 ## BOOKS
 
