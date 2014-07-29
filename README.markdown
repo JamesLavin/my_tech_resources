@@ -6,10 +6,7 @@
 
 ## MAJOR CATEGORIES
 
-* [Clean Code](#clean-code)
-* [Code Search](#code-search)
-* [Coffeescript](#coffeescript)
-* [CSS](#css)
+[Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#coffeescript) | [CSS](#css)
 * [Data](#data)
 * [DevOps](#devops)
 * [Elixir](#elixir)
