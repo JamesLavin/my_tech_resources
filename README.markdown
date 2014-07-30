@@ -856,6 +856,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Short Python tutorials - Bucky Roberts](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
 * [Python for Informatics: Exploring Information - Charles Severance](http://www.pythonlearn.com/book.php), [PDF](http://www.pythonlearn.com/book_008.pdf) & [videos](http://pythonlearn.com/)
 * [Introduction to Computer Science and Programming - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-1-introduction-to-6.00/) & [on Youtube](https://www.youtube.com/watch?v=Mx0uXIBD-yA&index=1&list=PLd-dSvYArSy20Yfx1UxoiiAX1tl863Azo)
+* [An introduction to Python for absolute beginners - Bob Dowling](http://www.ucs.cam.ac.uk/docs/course-notes/unix-courses/PythonAB/files/handout.pdf)
+* [Introduction to Python for Computational Science and Engineering (A Beginner's Guide) - Hans Fangohr](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
+* [Introduction to Programming Using Python - Brian Heinold](http://faculty.msmary.edu/heinold/IntroductionToProgrammingUsingPython_Heinold.pdf)
 * [A hands-on introduction to Python for beginning programmers - Jessica McKellar (PyCon 2014)](https://www.youtube.com/watch?v=MirG-vJOg04) & [(PyCon 2013)](https://www.youtube.com/watch?v=rkx5_MRAV3A)
 * [Intro to Electrical Engineering and Computer Science I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/index.html)
@@ -880,6 +883,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [PyVideo.org](http://www.pyvideo.org/category)
 * [Khan Academy](http://www.khanacademy.org/science/computer-science/v/introduction-to-programs-data-types-and-variables)
+* [Introduction to Computational Thinking and Data Science - MIT](https://www.edx.org/course/mitx/mitx-6-00-2x-introduction-computational-1505)
 * [Python Fundamentals Training](http://www.youtube.com/playlist?list=PL26BA8B9FC33789FF&feature=plcp)
 * [Python Course - Kevin Sheppard (University of Oxford)](http://www.kevinsheppard.com/Python_Course)
 * [Python for Developers - Luiz Eduardo Borges](http://ricardoduarte.github.io/python-for-developers/)
@@ -1105,6 +1109,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## RAILS
 
+* [Software as a Service, Part 1 - UC Berkeley](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-1x-engineering-1377)
+* [Software as a Service, Part 2 - UC Berkeley](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-2x-software-service-1275)
 * [Ruby on Rails Guides](http://guides.rubyonrails.org/) & [2.3](http://guides.rubyonrails.org/v2.3.11/)
 * [Ruby on Rails (Edge) Guides](http://edgeguides.rubyonrails.org/)
 * [Rails 4 Cheat Sheet (Cheatography)](http://www.cheatography.com/entaro/cheat-sheets/rails-4/)
