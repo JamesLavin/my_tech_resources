@@ -879,7 +879,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [PyVideo.org](http://www.pyvideo.org/category)
 * [Khan Academy](http://www.khanacademy.org/science/computer-science/v/introduction-to-programs-data-types-and-variables)
 * [Python Fundamentals Training](http://www.youtube.com/playlist?list=PL26BA8B9FC33789FF&feature=plcp)
-* [Python for Informatics - Charles Severance (PDF)](http://www.pythonlearn.com/book_007.pdf) & [videos](http://pythonlearn.com/)
+* [Python for Informatics: Exploring Information - Charles Severance](http://www.pythonlearn.com/book.php), [PDF](http://www.pythonlearn.com/book_008.pdf) & [videos](http://pythonlearn.com/)
 * [Python Course - Kevin Sheppard (University of Oxford)](http://www.kevinsheppard.com/Python_Course)
 * [Python for Developers - Luiz Eduardo Borges](http://ricardoduarte.github.io/python-for-developers/)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/index.html)
