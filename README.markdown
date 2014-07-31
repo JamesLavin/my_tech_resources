@@ -810,6 +810,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [NumPy/SciPy/Pandas Cheat Sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas%2C+SciPy%2C+NumPy+Cheat+Sheet.pdf)
 * [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
 * [10 Things I Hate About Pandas - Wes McKinney](http://www.slideshare.net/wesm/practical-medium-data-analytics-with-python)
+* [Python and Pandas for Sentiment Analysis and Investing - "sentdex"](https://www.youtube.com/watch?v=0ySdEYUONz0&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7&feature=share)
 
 ### PYTHON - DATA ANALYSIS - STATSMODELS
 
