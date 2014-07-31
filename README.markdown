@@ -771,6 +771,85 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Cython](http://cython.org/)
 
+### PYTHON - DATA ANALYSIS
+
+* [Intro to Python for Econometrics, Statistics and Data Analysis - Kevin Sheppard](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf)
+* [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
+* [Natural Language Processing with Python](http://nltk.org/book/)
+* [Mining the Social Web (Git repo)](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
+* [Learn Python Through Public Data Hacking](http://www.youtube.com/watch?v=RrPZza_vZ3w)
+* [Bayesian Statistics Made (As) Simple (As Possible) - Allen Downey (2012)](https://www.youtube.com/watch?v=bobeo5kFz1g)
+* [Social Network Analysis With Python - Maksim Tsvetovat (2012)](http://www.youtube.com/watch?v=qgGqaBAEy3Q)
+* [Web Scraping: Reliably and Efficiently Pull Data From Pages That Don't Expect It - Asheesh Laroia (PyCon 2012)](https://www.youtube.com/watch?v=52wxGESwQSA)
+* [Social Network Analysis with Python - Maksim Tsvetovat (PyCon 2012)](https://www.youtube.com/watch?v=qgGqaBAEy3Q)
+* [Web scraping: Reliably and efficiently pull data from pages that don't expect it - Asheesh Laroia (2012)](http://www.youtube.com/watch?v=52wxGESwQS()
+* [Python for Open Data Lovers: Explore It, Analyze It, Map It - Jackie Kazil, Dana Bauer (2012)](http://www.youtube.com/watch?v=GxyfYEe8MiQ)
+* [Learn Python for Science - NumPy, SciPy and Matplotlib](http://www.youtube.com/watch?v=oYTs9HwFGbY)
+* [A Billion Rows per Second: Metaprogramming Python for Big Data - New Circle Training](https://www.youtube.com/watch?v=rXj5nayS7Yg)
+* [Python's Role in Big Data Analytics: Past, Present, and Future - Travis Oliphant (EuroPython 2014)](https://www.youtube.com/watch?v=oXRvpBJ-Dkc)
+* [R vs Python - Round 1](http://www.theswarmlab.com/r-vs-python-round-1/) [Round 2](http://www.theswarmlab.com/r-vs-python-round-2-22/) [Round 3](http://www.theswarmlab.com/r-vs-python-round-3/)
+
+### PYTHON - DATA ANALYSIS - NUMPY
+
+* [Numpy User Guide](http://docs.scipy.org/doc/numpy/numpy-user-1.8.1.pdf)
+* [Numpy Reference Guide](http://docs.scipy.org/doc/numpy/numpy-ref-1.8.1.pdf)
+* [NumPy and iPython - Valentin Haenel (SciPy 2013) - Pt 1](http://www.youtube.com/watch?v=UWmZAAfXds4) & [Pt 2](http://www.youtube.com/watch?v=lSfkIle93hQ)
+
+### PYTHON - DATA ANALYSIS - PANDAS
+
+* [Statistical Data Analysis in Python (4 videos) - Christopher Fonnesbeck](http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109) [1](http://www.youtube.com/watch?v=DXPwSiRTxYY) [2](http://www.youtube.com/watch?v=TGEBpzJUxdI) [3](http://www.youtube.com/watch?v=YZDtBEEZuAk) [4](http://www.youtube.com/watch?v=5_rcdhBXD-0) & [iPython notebooks](https://github.com/fonnesbeck/statistical-analysis-python-tutorial)
+* [Keynote - Wes McKinney (PyCon Singapore 2013)](https://www.youtube.com/watch?v=Jm73dKlYHZw)
+* [Data Analysis in Python with Pandas - Wes McKinney (2012 PyData Workshop)](https://www.youtube.com/watch?v=MxRMXhjXZos)
+* [Time Series Data Analysis with Pandas - Wes McKinney (ciPy 2012)](https://www.youtube.com/watch?v=0unf-C-pBYE)
+* [Python Data Visualization Cookbook](http://lubossabol.sk/manual/Python27/Python_Data_Visualization_Cookbook.pdf)
+* [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
+* [Remote Data Access](http://pandas.pydata.org/pandas-docs/stable/remote_data.html)
+* [Pandas Cookbook - Julia Evans](https://github.com/jvns/pandas-cookbook)
+* [Julia Evans: Diving into Open Data with IPython Notebook & Pandas (PyCon 2014)](https://www.youtube.com/watch?v=rEalbu8UGeo)
+* [Detailed Look at Pandas' Indexes - Trent Hauck (O'Reilly 2014)](http://www.youtube.com/watch?v=NWS7QxnAmyU<S-F12>)
+* [NumPy/SciPy/Pandas Cheat Sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas%2C+SciPy%2C+NumPy+Cheat+Sheet.pdf)
+* [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
+* [10 Things I Hate About Pandas - Wes McKinney](http://www.slideshare.net/wesm/practical-medium-data-analytics-with-python)
+
+### PYTHON - DATA ANALYSIS - STATSMODELS
+
+* [StatsModels documentation](http://statsmodels.sourceforge.net/stable/index.html)
+* [Statsmodels](http://statsmodels.sourceforge.net/)
+* [Statsmodels tutorial - Skipper Seabold (ciPy 2012)](https://www.youtube.com/watch?v=RWRsxhUzpxk) & [code](https://github.com/jseabold/tutorial)
+
+### PYTHON - DATA ANALYSIS - RPY2
+
+* [RPy2 documentation](http://rpy.sourceforge.net/rpy2/doc-dev/html/index.html)
+
+### PYTHON - DATA ANALYSIS - SCIKIT-LEARN
+
+* [API](http://scikit-learn.org/stable/modules/classes.html)
+* [Documentation](http://scikit-learn.org/stable/documentation.html)
+* [User Guide](http://scikit-learn.org/stable/user_guide.html)
+* [Realtime Predictive Analytics Using scikit-learn and RabbitMQ - Michael Becker (PyCon 2014)](https://www.youtube.com/watch?v=WPyNdHygBD0)
+* [Know Thy Neighbor: Scikit and the K-Nearest Nearest Neighbor Algorithm - Portia Burton (PyCon 2014)](https://www.youtube.com/watch?v=tQNZRfsZF3g)
+* [SciKit-Learn Tutorial - Jake VanderPlas (PyData 2012)](http://vimeo.com/53062607)
+* [Intro to Scikit-learn (1) - Gaël Varoquaux, Jake Vanderplas, Olivier Grisel (SciPy 2013)](http://www.youtube.com/watch?v=r4bRUvvlaBw) [2](http://www.youtube.com/watch?v=hlaMiXCRxB0) & [3](http://www.youtube.com/watch?v=XS4TIGe7MaU)
+* [Tutorial on statistical-learning for scientific data processing](http://scikit-learn.org/stable/tutorial/statistical_inference/index.html)
+* [Practical Machine Learning in Python - Matt Spitz (2012)](https://www.youtube.com/watch?v=__s45TTXxps)
+* [Intro to Interactive Predictive Analytics in Python with scikit-learn - Olivier Grisel (PyCon 2012)](http://www.youtube.com/watch?v=Zd5dfooZWG4)
+* [Social Network Analysis With Python - Maksim Semeniuk (2012)](http://www.youtube.com/watch?v=Zd5dfooZWG4)
+* [Intro to scikit-learn: Machine Learning in Python - Jacob VanderPlas (2013)]() & [scikit-learn - Machine Learning in Python with Contributo - Jacob VanderPlas (PyData 2012)](http://www.youtube.com/watch?v=cHZONQ2-x7I)
+* [Statistical Machine Learning for Text Classification With Scikit-learn and NLTK - Olivier Grisel (PyCon 2011)](http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-statistical-machine-learning-for-text-classification-with-scikit-learn-4898362)
+* [Scikit-learn video tutorials](http://scikit-learn.org/stable/presentations.html)
+
+### PYTHON - DATA ANALYSIS - SCIPY
+
+* [Scipy Reference Guide](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf)
+* [Scientific Python lecture notes - EuroScipy tutorial team](http://scipy-lectures.github.io/) & [PDF](http://scipy-lectures.github.io/_downloads/PythonScientific-simple.pdf)
+* [scientific-python-lectures - JR Johansson](https://github.com/jrjohansson/scientific-python-lectures)
+* [Topical Software (add-on software relevant to SciPy, categorized by scientific discipline or computational topic)](http://scipy.org/topical-software.html)
+
+### PYTHON - DATA ANALYSIS - SYMPY
+
+* [SymPy documentation](http://docs.sympy.org/latest/index.html)
+* [Symbolic Computing With SymPy (SciPy 2013) - 1](http://www.youtube.com/watch?v=dAgShwIx72c) [2](http://www.youtube.com/watch?v=trhmGmyTNuo) [3](http://www.youtube.com/watch?v=JDztSdQqh0o) [4](http://www.youtube.com/watch?v=q9DUdZ3flfk) [5](http://www.youtube.com/watch?v=PC1GPUteZs0) & [6](http://www.youtube.com/watch?v=wPD7Y0sCO4I)
+
 ### PYTHON - GAMES
 
 * [Making Games with Python & Pygame](http://inventwithpython.com/makinggames.pdf)
@@ -893,88 +972,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Python for Ruby Programmers - Mike Leone (LA Ruby Conf 2013)](https://www.youtube.com/watch?v=maSlTKMzR3Q)
 * [Super Advanced Python - Raymond Chandler III](https://www.youtube.com/watch?v=u2KZJzoz-qI)
 
-### PYTHON - NUMPY
-
-* [Numpy User Guide](http://docs.scipy.org/doc/numpy/numpy-user-1.8.1.pdf)
-* [Numpy Reference Guide](http://docs.scipy.org/doc/numpy/numpy-ref-1.8.1.pdf)
-* [NumPy and iPython - Valentin Haenel (SciPy 2013) - Pt 1](http://www.youtube.com/watch?v=UWmZAAfXds4) & [Pt 2](http://www.youtube.com/watch?v=lSfkIle93hQ)
-
-### PYTHON - PANDAS
-
-* [Statistical Data Analysis in Python (4 videos) - Christopher Fonnesbeck](http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109) [1](http://www.youtube.com/watch?v=DXPwSiRTxYY) [2](http://www.youtube.com/watch?v=TGEBpzJUxdI) [3](http://www.youtube.com/watch?v=YZDtBEEZuAk) [4](http://www.youtube.com/watch?v=5_rcdhBXD-0) & [iPython notebooks](https://github.com/fonnesbeck/statistical-analysis-python-tutorial)
-* [Keynote - Wes McKinney (PyCon Singapore 2013)](https://www.youtube.com/watch?v=Jm73dKlYHZw)
-* [Data Analysis in Python with Pandas - Wes McKinney (2012 PyData Workshop)](https://www.youtube.com/watch?v=MxRMXhjXZos)
-* [Time Series Data Analysis with Pandas - Wes McKinney (ciPy 2012)](https://www.youtube.com/watch?v=0unf-C-pBYE)
-* [Python Data Visualization Cookbook](http://lubossabol.sk/manual/Python27/Python_Data_Visualization_Cookbook.pdf)
-* [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
-* [Remote Data Access](http://pandas.pydata.org/pandas-docs/stable/remote_data.html)
-* [Pandas Cookbook - Julia Evans](https://github.com/jvns/pandas-cookbook)
-* [Julia Evans: Diving into Open Data with IPython Notebook & Pandas (PyCon 2014)](https://www.youtube.com/watch?v=rEalbu8UGeo)
-* [Detailed Look at Pandas' Indexes - Trent Hauck (O'Reilly 2014)](http://www.youtube.com/watch?v=NWS7QxnAmyU<S-F12>)
-* [NumPy/SciPy/Pandas Cheat Sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas%2C+SciPy%2C+NumPy+Cheat+Sheet.pdf)
-* [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
-* [10 Things I Hate About Pandas - Wes McKinney](http://www.slideshare.net/wesm/practical-medium-data-analytics-with-python)
-
 ### PYTHON - PYPI
 
 * [PyPI - The Python Package Index (45,000 Python packages)](https://pypi.python.org/pypi)
-
-### PYTHON - RPY2
-
-* [RPy2 documentation](http://rpy.sourceforge.net/rpy2/doc-dev/html/index.html)
-
-### PYTHON - SCIKIT-LEARN
-
-* [API](http://scikit-learn.org/stable/modules/classes.html)
-* [Documentation](http://scikit-learn.org/stable/documentation.html)
-* [User Guide](http://scikit-learn.org/stable/user_guide.html)
-* [Realtime Predictive Analytics Using scikit-learn and RabbitMQ - Michael Becker (PyCon 2014)](https://www.youtube.com/watch?v=WPyNdHygBD0)
-* [Know Thy Neighbor: Scikit and the K-Nearest Nearest Neighbor Algorithm - Portia Burton (PyCon 2014)](https://www.youtube.com/watch?v=tQNZRfsZF3g)
-* [SciKit-Learn Tutorial - Jake VanderPlas (PyData 2012)](http://vimeo.com/53062607)
-* [Intro to Scikit-learn (1) - Gaël Varoquaux, Jake Vanderplas, Olivier Grisel (SciPy 2013)](http://www.youtube.com/watch?v=r4bRUvvlaBw) [2](http://www.youtube.com/watch?v=hlaMiXCRxB0) & [3](http://www.youtube.com/watch?v=XS4TIGe7MaU)
-* [Tutorial on statistical-learning for scientific data processing](http://scikit-learn.org/stable/tutorial/statistical_inference/index.html)
-* [Practical Machine Learning in Python - Matt Spitz (2012)](https://www.youtube.com/watch?v=__s45TTXxps)
-* [Intro to Interactive Predictive Analytics in Python with scikit-learn - Olivier Grisel (PyCon 2012)](http://www.youtube.com/watch?v=Zd5dfooZWG4)
-* [Social Network Analysis With Python - Maksim Semeniuk (2012)](http://www.youtube.com/watch?v=Zd5dfooZWG4)
-* [Intro to scikit-learn: Machine Learning in Python - Jacob VanderPlas (2013)]() & [scikit-learn - Machine Learning in Python with Contributo - Jacob VanderPlas (PyData 2012)](http://www.youtube.com/watch?v=cHZONQ2-x7I)
-* [Statistical Machine Learning for Text Classification With Scikit-learn and NLTK - Olivier Grisel (PyCon 2011)](http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-statistical-machine-learning-for-text-classification-with-scikit-learn-4898362)
-* [Scikit-learn video tutorials](http://scikit-learn.org/stable/presentations.html)
-
-### PYTHON - SCIPY
-
-* [Scipy Reference Guide](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf)
-* [Scientific Python lecture notes - EuroScipy tutorial team](http://scipy-lectures.github.io/) & [PDF](http://scipy-lectures.github.io/_downloads/PythonScientific-simple.pdf)
-* [scientific-python-lectures - JR Johansson](https://github.com/jrjohansson/scientific-python-lectures)
-* [Topical Software (add-on software relevant to SciPy, categorized by scientific discipline or computational topic)](http://scipy.org/topical-software.html)
-
-### PYTHON - STATISTICAL ANALYSIS
-
-* [Intro to Python for Econometrics, Statistics and Data Analysis - Kevin Sheppard](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf)
-* [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
-* [Natural Language Processing with Python](http://nltk.org/book/)
-* [Mining the Social Web (Git repo)](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
-* [Learn Python Through Public Data Hacking](http://www.youtube.com/watch?v=RrPZza_vZ3w)
-* [Bayesian Statistics Made (As) Simple (As Possible) - Allen Downey (2012)](https://www.youtube.com/watch?v=bobeo5kFz1g)
-* [Social Network Analysis With Python - Maksim Tsvetovat (2012)](http://www.youtube.com/watch?v=qgGqaBAEy3Q)
-* [Web Scraping: Reliably and Efficiently Pull Data From Pages That Don't Expect It - Asheesh Laroia (PyCon 2012)](https://www.youtube.com/watch?v=52wxGESwQSA)
-* [Social Network Analysis with Python - Maksim Tsvetovat (PyCon 2012)](https://www.youtube.com/watch?v=qgGqaBAEy3Q)
-* [Web scraping: Reliably and efficiently pull data from pages that don't expect it - Asheesh Laroia (2012)](http://www.youtube.com/watch?v=52wxGESwQS()
-* [Python for Open Data Lovers: Explore It, Analyze It, Map It - Jackie Kazil, Dana Bauer (2012)](http://www.youtube.com/watch?v=GxyfYEe8MiQ)
-* [Learn Python for Science - NumPy, SciPy and Matplotlib](http://www.youtube.com/watch?v=oYTs9HwFGbY)
-* [A Billion Rows per Second: Metaprogramming Python for Big Data - New Circle Training](https://www.youtube.com/watch?v=rXj5nayS7Yg)
-* [Python's Role in Big Data Analytics: Past, Present, and Future - Travis Oliphant (EuroPython 2014)](https://www.youtube.com/watch?v=oXRvpBJ-Dkc)
-* [R vs Python - Round 1](http://www.theswarmlab.com/r-vs-python-round-1/) [Round 2](http://www.theswarmlab.com/r-vs-python-round-2-22/) [Round 3](http://www.theswarmlab.com/r-vs-python-round-3/)
-
-### PYTHON - STATSMODELS
-
-* [StatsModels documentation](http://statsmodels.sourceforge.net/stable/index.html)
-* [Statsmodels](http://statsmodels.sourceforge.net/)
-* [Statsmodels tutorial - Skipper Seabold (ciPy 2012)](https://www.youtube.com/watch?v=RWRsxhUzpxk) & [code](https://github.com/jseabold/tutorial)
-
-### PYTHON - SYMPY
-
-* [SymPy documentation](http://docs.sympy.org/latest/index.html)
-* [Symbolic Computing With SymPy (SciPy 2013) - 1](http://www.youtube.com/watch?v=dAgShwIx72c) [2](http://www.youtube.com/watch?v=trhmGmyTNuo) [3](http://www.youtube.com/watch?v=JDztSdQqh0o) [4](http://www.youtube.com/watch?v=q9DUdZ3flfk) [5](http://www.youtube.com/watch?v=PC1GPUteZs0) & [6](http://www.youtube.com/watch?v=wPD7Y0sCO4I)
 
 ### PYTHON - VIDEOGREP
 
