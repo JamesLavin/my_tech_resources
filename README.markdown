@@ -962,6 +962,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Python for Open Data Lovers: Explore It, Analyze It, Map It - Jackie Kazil, Dana Bauer (2012)](http://www.youtube.com/watch?v=GxyfYEe8MiQ)
 * [Learn Python for Science - NumPy, SciPy and Matplotlib](http://www.youtube.com/watch?v=oYTs9HwFGbY)
 * [A Billion Rows per Second: Metaprogramming Python for Big Data - New Circle Training](https://www.youtube.com/watch?v=rXj5nayS7Yg)
+* [Python's Role in Big Data Analytics: Past, Present, and Future - Travis Oliphant (EuroPython 2014)](https://www.youtube.com/watch?v=oXRvpBJ-Dkc)
 * [R vs Python - Round 1](http://www.theswarmlab.com/r-vs-python-round-1/) [Round 2](http://www.theswarmlab.com/r-vs-python-round-2-22/) [Round 3](http://www.theswarmlab.com/r-vs-python-round-3/)
 
 ### PYTHON - STATSMODELS
