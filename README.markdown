@@ -651,6 +651,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MISCELLANEOUS
 
+* [AirConf 2014](http://www.airpair.com/airconf2014)
 * [List of Programming Screencast Series - Avdi Grimm](http://devblog.avdi.org/2013/06/21/a-list-of-programming-screencast-series/)
 * [Metacasts.tv (non-free) - Mark Bates](http://www.metacasts.tv)
 
