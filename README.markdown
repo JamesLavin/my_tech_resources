@@ -163,6 +163,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Chef-dk (Chef Development Kit)](https://github.com/opscode/chef-dk)
 
+### DEVOPS - CHEF - CHEF_SOLO
+
+* [The Eight-fingered Chef by Jason Garber - MadisonRuby 2013](https://www.youtube.com/watch?v=eaI3OrSFdlM)
+
 ### DEVOPS - CHEF - COOKBOOKS
 
 * [chef-jenkins](https://github.com/fnichol/chef-jenkins)
@@ -648,6 +652,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [MLOSS.org (Machine Learning Open Source Software)](http://mloss.org/software/)
 * [KD Nuggets](http://www.kdnuggets.com/)
 * [Artificial Stupidity: Adding Smarts to Yer Kode - Randall Thomas](http://www.sdruby.org/podcast/79)
+
+## MATH
+
+* [BetterExplained.com](http://betterexplained.com/cheatsheet/)
 
 ## MISCELLANEOUS
 
