@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elixir](#elixir) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Linux](#linux) | [Machine learning](#machine-learning) | [Mobile](#mobile) | [Node.js](#nodejs) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elixir](#elixir) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Linux](#linux) | [Machine learning](#machine-learning) | [Mobile](#mobile) | [Node.js](#nodejs) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python) & [getting started](#python---getting-started) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## BOOKS
 
@@ -868,6 +868,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Making Games with Python & Pygame](http://inventwithpython.com/makinggames.pdf)
 * [Invent Your Own Computer Games With Python, 2nd ed](http://inventwithpython.com/IYOCGwP_book1.pdf)
+
+### PYTHON - GETTING STARTED
+
+* I use and recommend [Anaconda](https://store.continuum.io/cshop/anaconda/): [Install Anaconda](http://continuum.io/downloads) & [Getting started guide](https://store.continuum.io/static/img/Anaconda-Quickstart.pdf)
+* I use and recommend using [iPython Notebook](#python---ipython-notebook)
+* I recommend you begin with [these Python learning materials](#python---learning---basics)
 
 ### PYTHON - GRAPHICS
 
