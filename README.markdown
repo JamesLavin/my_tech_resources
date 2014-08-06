@@ -874,7 +874,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Why use Python? Personally, I was blown away by [Python's statistical analysis tools](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/PythonStatsOverview.ipynb) and [the amazing interactive graphics producible with data processed by Python](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/D3_examples.ipynb)
 * I use and recommend [Anaconda](https://store.continuum.io/cshop/anaconda/): [Install Anaconda](http://continuum.io/downloads) & [Getting started guide](https://store.continuum.io/static/img/Anaconda-Quickstart.pdf)
 * I use and recommend using [iPython Notebook](#python---ipython-notebook)
-* I recommend you begin with [these Python learning materials](#python---learning---basics)
+* I recommend [these Python learning materials](#python---learning---basics) and [these free online books](#python---learning---books)
 
 ### PYTHON - GRAPHICS
 
