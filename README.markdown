@@ -231,7 +231,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir: Power of Erlang, Joy of Ruby - Dave Thomas (LoneStarRuby 2013)](https://www.youtube.com/watch?v=KQwEmdOH-GM)
 * [Introduction to Elixir: a New Language on the VM - José Valim](https://www.youtube.com/watch?v=41PvAPSX0wg)
 * [Elixir - A modern approach to programming for the Erlang VM - Jose Valim (RuPy 2012)](https://www.youtube.com/watch?v=q2Hxt0tOR0k)
+* [ElixirConf 2014 videos](http://confreaks.com/events/elixirconf2014)
 * [Keynote - José Valim (ElixirConf 2014)](http://confreaks.com/videos/4134-elixirconf2014-keynote-elixir)
+* [Keynote: "Think Different" - Dave Thomas (ElixirConf 2014)](http://confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different)
 
 ## EMERGING TECHNOLOGIES
 
