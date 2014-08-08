@@ -495,6 +495,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ember-appkit-rails](https://github.com/dockyard/ember-appkit-rails)
 * [Ember App Kit Rails - Brian Cardarella](http://www.youtube.com/watch?v=sYX0qPuwJi4)
 * [Setting Up a Serious Ember Project - Justin Searls](http://blog.testdouble.com/posts/2014-04-19-setting-up-a-serious-ember-project.html)
+* [Ember Routes, Models, Templates and Controllers - Justin Searls](http://blog.testdouble.com/posts/2014-05-02-ember-routes-models-templates-and-controllers.html)
 * [Building an Ember App with Rails Part 1](http://reefpoints.dockyard.com/2014/05/07/building-an-ember-app-with-rails-part-1.html) [Part 2](http://reefpoints.dockyard.com/2014/05/08/building-an-ember-app-with-rails-part-2.html) [Part 3](http://reefpoints.dockyard.com/2014/05/09/building-an-ember-app-with-rails-part-3.html) [Part 4](http://reefpoints.dockyard.com/2014/05/31/building-an-ember-app-with-rails-part-4.html)
 * [Ember data](https://github.com/emberjs/data)
 * [Building Web Applications with Ember.js - NewCircle Training](http://www.youtube.com/watch?v=u6RFyVN9sNg)
@@ -589,6 +590,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [QUnit](http://qunitjs.com)
 * [Sinon.js](http://sinonjs.org/)
 * [Using Capybara to test JavaScript that makes HTTP requests](http://robots.thoughtbot.com/post/34761570235/using-capybara-to-test-javascript-that-makes-http)
+* [Javascript Testing Tactics - Justin Searls](http://blog.testdouble.com/posts/2014-05-09-javascript-testing-tactics-lightning-edition.html)
 
 ### JAVASCRIPT - TOOLS
 
@@ -1635,6 +1637,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Let's Make Testing Fun Again - Noel Rappin (WindyCityRails2012)](http://vimeo.com/49525644)
 * [Test Your Legacy Rails Code - Noel Rappin (Ruby Midwest 2011)](http://confreaks.com/videos/755-rubymidwest2011-test-your-legacy-rails-code)
 * [Jenkins User Conference San Francisco 2012 videos](http://confreaks.com/events/jucsf2012)
+* [Breaking Up With Your Test Suite - Justin Searls (AncientCity Ruby 2014)](http://blog.testdouble.com/posts/2014-05-25-breaking-up-with-your-test-suite.html)
 
 ### TESTING - CONTINUOUS INTEGRATION
 
@@ -1659,6 +1662,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### TESTING - MOCKS
 
 * [Yay! Mocks! - Corey Haines (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1237-aloharuby2012-yay-mocks)
+* [Mock Objects in Discovery Tests - Justin Searls](http://blog.testdouble.com/posts/2014-05-14-mock-objects-in-discovery-tests.html)
 
 ### TESTING - UNIT TESTS
 
