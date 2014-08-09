@@ -190,6 +190,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - DOCKER
 
+* [Shipping Ruby Apps with Docker - Bryan Helmkamp (RedDot Ruby 2014](http://confreaks.com/videos/3853-rdrc2014-shipping-ruby-apps-with-docker)
 * [Build Your Own Shipyard - Andreas Tiefenthaler (Kod.io 2014)](http://confreaks.com/videos/3252-kodio_2014-build-your-own-shipyard)
 
 ### DEVOPS - LOGGING
@@ -914,6 +915,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Matplotlib documentation](http://matplotlib.org/Matplotlib.pdf)
 * [Beyond Defaults: Creating Polished Visualizations Using Matplotlib - Hannah Aizenman (PyConUS 2014)](http://pyvideo.org/video/2579/beyond-defaults-creating-polished-visualizations)
 * [Matplotlib: Past, Present and Future - Michael Droettboom (SciPy 2013)](http://www.youtube.com/watch?v=gj5i_19Bftk)
+* [Tutorial: Advanced Matplotlib - library author John Hunter](https://www.youtube.com/watch?v=DNRJwENqEUY)
 * [Plotting With MatPlotLib](http://www.youtube.com/watch?v=P7SVi0YTIuE)
 * [Intro to NumPy and Matplotlib](http://www.youtube.com/watch?v=3Fp1zn5ao2M)
 * [Advanced Matplotlib, from the library's author - John Hunter (2012 PyData Workshop)](http://www.youtube.com/watch?v=DNRJwENqEUY)
@@ -1656,6 +1658,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * SimpleCov, RCov
 * [Ruby-Toolbox - Code Metrics](https://www.ruby-toolbox.com/categories/code_metrics)
+
+### TESTING - DEBUGGING
+
+* [How to Debug Anything - James Golick (GoRuCo 2014)](http://confreaks.com/videos/3451-goruco-how-to-debug-anything)
 
 ### TESTING - INTEGRATION TESTS
 
