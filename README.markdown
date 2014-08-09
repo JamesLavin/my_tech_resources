@@ -913,11 +913,11 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PYTHON - GRAPHICS - MATPLOTLIB
 
 * [Matplotlib documentation](http://matplotlib.org/Matplotlib.pdf)
-* [Examples index](http://matplotlib.org/examples/index.html) & [Examples gallery](http://matplotlib.org/gallery.html)
+* [Examples index](http://matplotlib.org/examples/index.html) & [Examples gallery](http://matplotlib.org/gallery.html) & [Screenshots gallery](http://matplotlib.org/users/screenshots.html)
 * [Beyond Defaults: Creating Polished Visualizations Using Matplotlib - Hannah Aizenman (PyConUS 2014)](http://pyvideo.org/video/2579/beyond-defaults-creating-polished-visualizations)
 * [Matplotlib: Past, Present and Future - Michael Droettboom (SciPy 2013)](http://www.youtube.com/watch?v=gj5i_19Bftk)
 * [Tutorial: Advanced Matplotlib - library author John Hunter](https://www.youtube.com/watch?v=DNRJwENqEUY)
-* [Plotting With MatPlotLib](http://www.youtube.com/watch?v=P7SVi0YTIuE)
+* [Plotting With MatPlotLib - Mike Müller](http://www.youtube.com/watch?v=P7SVi0YTIuE)
 * [Intro to NumPy and Matplotlib](http://www.youtube.com/watch?v=3Fp1zn5ao2M)
 * [matplotlib: Lessons From Middle Age - John Hunter](http://www.youtube.com/watch?v=e3lTby5RI54)
 * [Advanced Matplotlib - Ryan May](http://www.youtube.com/watch?v=AmpWIC5SctY)
