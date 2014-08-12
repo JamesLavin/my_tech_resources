@@ -874,6 +874,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Making Games with Python & Pygame](http://inventwithpython.com/makinggames.pdf)
 * [Invent Your Own Computer Games With Python, 2nd ed](http://inventwithpython.com/IYOCGwP_book1.pdf)
+* [PyGame.org](http://www.pygame.org/) & [tutorials](http://pygame.org/wiki/tutorials)
 
 ### PYTHON - GETTING STARTED
 
