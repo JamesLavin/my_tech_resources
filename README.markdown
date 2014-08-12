@@ -876,6 +876,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Invent Your Own Computer Games With Python, 2nd ed](http://inventwithpython.com/IYOCGwP_book1.pdf)
 * [PyGame.org](http://www.pygame.org/) & [tutorials](http://pygame.org/wiki/tutorials)
 
+#### PYTHON - GAMES - CHESS
+
+* [PyStockfish (chess engine)](https://github.com/iamjarret/pystockfish)
+* [Sunfish (simple, extensible chess program)](https://github.com/thomasahle/sunfish)
+
 ### PYTHON - GETTING STARTED
 
 * Why use Python? Personally, I was blown away by [Python's statistical analysis tools](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/PythonStatsOverview.ipynb) and [the amazing interactive graphics producible with data processed by Python](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/D3_examples.ipynb)
