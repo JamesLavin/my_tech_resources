@@ -874,6 +874,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Making Games with Python & Pygame](http://inventwithpython.com/makinggames.pdf)
 * [Invent Your Own Computer Games With Python, 2nd ed](http://inventwithpython.com/IYOCGwP_book1.pdf)
+* [PyGame.org](http://www.pygame.org/) & [tutorials](http://pygame.org/wiki/tutorials)
+
+#### PYTHON - GAMES - CHESS
+
+* [PyStockfish (chess engine)](https://github.com/iamjarret/pystockfish)
+* [Sunfish (simple, extensible chess program)](https://github.com/thomasahle/sunfish)
 
 ### PYTHON - GETTING STARTED
 
@@ -894,6 +900,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### PYTHON - GRAPHICS - BOKEH
 
+* [Bokeh in iPython Notebook - ContinuumIO](http://nbviewer.ipython.org/github/ContinuumIO/bokeh-notebooks/blob/master/index.ipynb)
 * [Tutorial](http://bokeh.pydata.org/tutorial/index.html)
 * [Gallery](http://bokeh.pydata.org/docs/gallery.html)
 * [Bokeh User Guide](http://bokeh.pydata.org/docs/user_guide.html)
@@ -958,6 +965,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### PYTHON - LEARNING - BASICS
 
+* [Hello, Little Turtles!](http://interactivepython.org/runestone/static/thinkcspy/PythonTurtle/helloturtle.html)
 * [Python Programming - Introduction - TDChannel](https://www.youtube.com/watch?v=72RKMMyLxS8)
 * [Google Python Class Day 1, Pt 1: Intro & Strings](https://www.youtube.com/watch?v=tKTZoB2Vjuk), [Day 1, Pt 2: Lists, Sorting and Tuples](https://www.youtube.com/watch?v=EPYupizJYQI), [Day 1, Pt 3](https://www.youtube.com/watch?v=haycL41dAhg), [Day 2, Pt 1: Regular Expressions](https://www.youtube.com/watch?v=kWyoYtvJpe4), [Day 2, Pt 2: Utilities: OS & Commands](https://www.youtube.com/watch?v=uKZ8GBKmeDM), [Day 2, Pt 3: Utilities: URLs, and HTTP, Exceptions](https://www.youtube.com/watch?v=Nn2KQmVF5Og), [Day 2, Pt 4: Closing Thoughts](https://www.youtube.com/watch?v=IcteAbMC1Ok)
 * [Short Python tutorials - Bucky Roberts](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
