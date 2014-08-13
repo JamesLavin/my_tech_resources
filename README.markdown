@@ -203,7 +203,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [GrayLog2](http://graylog2.org/)
 
-#### DEVOPS - LOGGING - LOGSTASH.NET
+#### DEVOPS - LOGGING - LOGSTASH
 
 * [Documentation](http://logstash.net/docs/1.4.2/)
 * [Getting Started](http://logstash.net/docs/1.4.2/tutorials/getting-started-with-logstash)
@@ -229,6 +229,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## ELASTICSEARCH
 
 * [Explore Your Data With Elasticsearch - Honza Kral (SF Python talk)](https://www.youtube.com/watch?v=UNsDUNWRWzg)
+* [Getting Down and Dirty with ElasticSearch - Clinton Gormley (NoSQL Matters Barcelona 2013)](https://www.youtube.com/watch?v=7FLXjgB0PQI)
 
 ## ELIXIR
 
@@ -810,6 +811,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Learn Python for Science - NumPy, SciPy and Matplotlib](http://www.youtube.com/watch?v=oYTs9HwFGbY)
 * [A Billion Rows per Second: Metaprogramming Python for Big Data - New Circle Training](https://www.youtube.com/watch?v=rXj5nayS7Yg)
 * [Python's Role in Big Data Analytics: Past, Present, and Future - Travis Oliphant (EuroPython 2014)](https://www.youtube.com/watch?v=oXRvpBJ-Dkc)
+* [Intro to Prediction Using Python - Luke Gotszling](https://www.youtube.com/watch?v=YeIWV9KOofU)
 * [R vs Python - Round 1](http://www.theswarmlab.com/r-vs-python-round-1/) [Round 2](http://www.theswarmlab.com/r-vs-python-round-2-22/) [Round 3](http://www.theswarmlab.com/r-vs-python-round-3/)
 
 ### PYTHON - DATA ANALYSIS - NUMPY
