@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elixir](#elixir) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Linux](#linux) | [Machine learning](#machine-learning) | [Mobile](#mobile) | [Node.js](#nodejs) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python) & [getting started](#python---getting-started) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Linux](#linux) | [Machine learning](#machine-learning) | [Mobile](#mobile) | [Node.js](#nodejs) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python) & [getting started](#python---getting-started) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## BOOKS
 
@@ -225,6 +225,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ruby-Toolbox - Maintenance Mode](https://www.ruby-toolbox.com/categories/Maintenance_Mode)
 * [Zero Downtime Deploys Made Easy - Matt Duncan (RubyConf 2012)](http://confreaks.com/videos/1279-rubyconf2012-zero-downtime-deploys-made-easy)
 * [Zero downtime deploys for Rails apps - Pedro Belo (RailsConf 2012)](http://confreaks.com/videos/896-railsconf2012-zero-downtime-deploys-for-rails-apps) using Heroku, Unicorn and HAProxy
+
+## ELASTICSEARCH
+
+* [Explore Your Data With Elasticsearch - Honza Kral (SF Python talk)](https://www.youtube.com/watch?v=UNsDUNWRWzg)
 
 ## ELIXIR
 
