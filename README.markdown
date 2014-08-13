@@ -886,6 +886,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [PyStockfish (chess engine)](https://github.com/iamjarret/pystockfish)
 * [Sunfish (simple, extensible chess program)](https://github.com/thomasahle/sunfish)
+* [Chessnut (another simple chess program](https://github.com/cgearhart/Chessnut)
+* [PyChess.org](http://pychess.org/)
+* [TalkChess.com computer chess club (not just Python)](http://talkchess.com/forum/index.php)
 
 ### PYTHON - GETTING STARTED
 
