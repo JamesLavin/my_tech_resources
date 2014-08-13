@@ -228,6 +228,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELASTICSEARCH
 
+* [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/index.html)
 * [Explore Your Data With Elasticsearch - Honza Kral (SF Python talk)](https://www.youtube.com/watch?v=UNsDUNWRWzg)
 * [Getting Down and Dirty with ElasticSearch - Clinton Gormley (NoSQL Matters Barcelona 2013)](https://www.youtube.com/watch?v=7FLXjgB0PQI)
 
