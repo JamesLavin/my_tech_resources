@@ -633,6 +633,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## LINUX
 
 * [dotfiles.github.com](http://dotfiles.github.com/)
+* [Unixmen.com](http://www.unixmen.com/)
 * [Cheat Sheet (Cheatography)](http://www.cheatography.com/davechild/cheat-sheets/linux-command-line/)
 * [LESS](http://linux.die.net/man/1/less)
 * [Linux SCP help](http://www.hypexr.org/linux_scp_help.php)
@@ -785,6 +786,19 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Basecamp](http://basecamp.com/)
 * [GitLab HQ](https://github.com/gitlabhq/gitlabhq)
 * [Pivotal Tracker](http://www.pivotaltracker.com/)
+
+## PROGRAMMING
+
+### PROGRAMMING - BLOGS
+
+* [AListApart.com](http://alistapart.com/)
+* [Dr. Dobbs](http://www.drdobbs.com/blogs/)
+* [TheGeekStuff.com](http://www.thegeekstuff.com/)
+* [Jeff Atwood - "Coding Horror"](http://blog.codinghorror.com/)
+* [Joel Spolsky - JoelOnSoftware.com](http://www.joelonsoftware.com/)
+* [MartinFowler.com](http://martinfowler.com/)
+* [Scott Hanselman](http://www.hanselman.com/)
+* [StackOverflow](http://blog.stackoverflow.com/)
 
 ## PYTHON
 
