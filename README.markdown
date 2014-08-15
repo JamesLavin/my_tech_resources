@@ -944,8 +944,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - GRAPHICS - MATPLOTLIB
 
-* [Matplotlib documentation](http://matplotlib.org/Matplotlib.pdf)
-* [Examples index](http://matplotlib.org/examples/index.html) & [Examples gallery](http://matplotlib.org/gallery.html) & [Screenshots gallery](http://matplotlib.org/users/screenshots.html)
+* Matplotlib [API](http://matplotlib.org/api/), [PDF documentation](http://matplotlib.org/Matplotlib.pdf), [examples index](http://matplotlib.org/examples/index.html), [examples gallery](http://matplotlib.org/gallery.html) & [screenshots gallery](http://matplotlib.org/users/screenshots.html)
+* Pyplot [API](http://matplotlib.org/api/pyplot_summary.html)
+* [Matplotlib Intro - Jake Vanderplas](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/06_MatplotlibIntro.html) [Matplotlib In-depth](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/12_AdvancedMatplotlib)
 * [Beyond Defaults: Creating Polished Visualizations Using Matplotlib - Hannah Aizenman (PyConUS 2014)](http://pyvideo.org/video/2579/beyond-defaults-creating-polished-visualizations)
 * [Matplotlib: Past, Present and Future - Michael Droettboom (SciPy 2013)](http://www.youtube.com/watch?v=gj5i_19Bftk)
 * [Tutorial: Advanced Matplotlib - library author John Hunter](https://www.youtube.com/watch?v=DNRJwENqEUY)
@@ -995,6 +996,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Google Python Class Day 1, Pt 1: Intro & Strings](https://www.youtube.com/watch?v=tKTZoB2Vjuk), [Day 1, Pt 2: Lists, Sorting and Tuples](https://www.youtube.com/watch?v=EPYupizJYQI), [Day 1, Pt 3](https://www.youtube.com/watch?v=haycL41dAhg), [Day 2, Pt 1: Regular Expressions](https://www.youtube.com/watch?v=kWyoYtvJpe4), [Day 2, Pt 2: Utilities: OS & Commands](https://www.youtube.com/watch?v=uKZ8GBKmeDM), [Day 2, Pt 3: Utilities: URLs, and HTTP, Exceptions](https://www.youtube.com/watch?v=Nn2KQmVF5Og), [Day 2, Pt 4: Closing Thoughts](https://www.youtube.com/watch?v=IcteAbMC1Ok)
 * [Short Python tutorials - Bucky Roberts](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
 * [Python for Informatics: Exploring Information - Charles Severance](http://www.pythonlearn.com/book.php), [PDF](http://www.pythonlearn.com/book_008.pdf) & [videos](http://pythonlearn.com/)
+* [Documentation, Testing, and Packaging - Jake Vanderplas](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/20_DocsAndTesting.html)
 * [Introduction to Computer Science and Programming - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-1-introduction-to-6.00/) & [on Youtube](https://www.youtube.com/watch?v=Mx0uXIBD-yA&index=1&list=PLd-dSvYArSy20Yfx1UxoiiAX1tl863Azo)
 * [An introduction to Python for absolute beginners - Bob Dowling](http://www.ucs.cam.ac.uk/docs/course-notes/unix-courses/PythonAB/files/handout.pdf)
 * [Introduction to Python for Computational Science and Engineering (A Beginner's Guide) - Hans Fangohr](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
