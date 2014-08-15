@@ -214,6 +214,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Logstash Presentation - Matthew Smith](https://www.youtube.com/watch?v=U3m0jKygAqU)
 * [Query Log Analysis – Using Logstash, ElasticSearch and Kibana - Niels Henrik Hagen](http://nhhagen.wordpress.com/2013/11/28/query-log-analysis-using-logstash-elasticsearch-and-kibana/)
 * [A Bit of Logstash Cooking](https://home.regit.org/2014/01/a-bit-of-logstash-cooking/)
+* [Setting up Elasticsearch, Kibana, and Logstash - Daniel Dreier](https://www.ddreier.com/setting-up-elasticsearch-kibana-and-logstash/) & [Logstash Cnfiguration Dissection](https://www.ddreier.com/logstash-configuration-dissection/)
 * [Chef-logstash](https://github.com/lusis/chef-logstash)
 
 ### DEVOPS - VAGRANT
