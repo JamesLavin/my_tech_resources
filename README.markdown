@@ -238,7 +238,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir: Getting Started (tutorial)](http://elixir-lang.org/getting_started/1.html)
 * [Elixir: Power of Erlang, Joy of Ruby - Dave Thomas (LoneStarRuby 2013)](https://www.youtube.com/watch?v=KQwEmdOH-GM)
 * [Introduction to Elixir: a New Language on the VM - José Valim](https://www.youtube.com/watch?v=41PvAPSX0wg)
-* [Intro to Elixir for Rubyists - Josh Adams](http://confreaks.com/videos/4121-elixirconf2014-introduction-to-elixir-for-rubyists)
+* [Intro to Elixir for Rubyists - Josh Adams & Robby Clements (ExlirConf 2014)](http://confreaks.com/videos/4121-elixirconf2014-introduction-to-elixir-for-rubyists)
 * [Elixir - A modern approach to programming for the Erlang VM - Jose Valim (RuPy 2012)](https://www.youtube.com/watch?v=q2Hxt0tOR0k)
 * [ElixirConf 2014 videos](http://confreaks.com/events/elixirconf2014)
 * [Keynote - José Valim (ElixirConf 2014)](http://confreaks.com/videos/4134-elixirconf2014-keynote-elixir)
