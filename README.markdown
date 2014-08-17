@@ -82,7 +82,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Zen-Coding](http://code.google.com/p/zen-coding/)
 * [CSS Conf videos](http://cssconf.com/talks.html)
 
-## CSS - RESPONSIVE DESIGN
+### CSS - RESPONSIVE DESIGN
 
 * [The New Rules of The Responsive Web](http://confreaks.com/videos/2222-html5tx2013-the-new-rules-of-the-responsive-web)
 
@@ -592,17 +592,30 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Testing Javascript/Coffeescript - Mark Bates](http://www.youtube.com/watch?v=x74ANVOAnKw)
 * [Javascript testing - Ruby-Toolbox](https://www.ruby-toolbox.com/categories/javascript_testing)
-* [Jasmine](http://pivotal.github.com/jasmine/)
 * [Konacha gem (Mocha + Chai)](https://github.com/jfirebaugh/konacha)
-* [75-minute Justin Searls screencast (non-standard; uses jasmine-fixture, jasmine-given & jasmine-stealth)](http://searls.testdouble.com/posts/2013-03-21-jasmine-tactics-screencast.html)
 * [Front-end Testing for Skeptics - Luke Francl (RailsConf 2013)](http://confreaks.com/videos/2437-railsconf2013-front-end-testing-for-skeptics)
-* [Unit Testing in JavaScript via Jasmine - Jesse Warden](http://www.youtube.com/watch?v=eVpXkyN0zOE)
-* [Test-Driving Javascript with Jasmine - Tim Tyrrell (AustinJS)](http://www.youtube.com/watch?v=CswgfGhnTg8)
 * [Testing Your JavaScript/CoffeeScript - Mark Bates - Part 1 (Setting Up)](http://www.informit.com/articles/printerfriendly.aspx?p=1925618) & [Part 2 (Writing Tests)](http://www.informit.com/articles/printerfriendly.aspx?p=1930036)
-* [QUnit](http://qunitjs.com)
-* [Sinon.js](http://sinonjs.org/)
 * [Using Capybara to test JavaScript that makes HTTP requests](http://robots.thoughtbot.com/post/34761570235/using-capybara-to-test-javascript-that-makes-http)
 * [Javascript Testing Tactics - Justin Searls](http://blog.testdouble.com/posts/2014-05-09-javascript-testing-tactics-lightning-edition.html)
+
+### JAVASCRIPT - TESTING - INTERN
+
+* Intern: [TheIntern.io](http://theintern.io/) & [Github](https://github.com/theintern/intern)
+
+### JAVASCRIPT - TESTING - JASMINE
+
+* [Jasmine](http://pivotal.github.com/jasmine/)
+* [Unit Testing in JavaScript via Jasmine - Jesse Warden](http://www.youtube.com/watch?v=eVpXkyN0zOE)
+* [Test-Driving Javascript with Jasmine - Tim Tyrrell (AustinJS)](http://www.youtube.com/watch?v=CswgfGhnTg8)
+* [75-minute Justin Searls screencast (non-standard; uses jasmine-fixture, jasmine-given & jasmine-stealth)](http://searls.testdouble.com/posts/2013-03-21-jasmine-tactics-screencast.html)
+
+### JAVASCRIPT - TESTING - QUNIT
+
+* [QUnit](http://qunitjs.com)
+
+### JAVASCRIPT - TESTING - SINON.JS
+
+* [Sinon.js](http://sinonjs.org/)
 
 ### JAVASCRIPT - TOOLS
 
@@ -1806,6 +1819,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [National Weather Service - New York metro radar loop](http://radar.weather.gov/ridge/radar.php?rid=okx&product=N0R&overlay=11101111&loop=yes)
 
 ## WEB DESIGN
+
+### WEB DESIGN - BRACKETS CODE EDITOR
+
+* Brackets code editor: [Brackets.io](http://brackets.io/) & [Github](https://github.com/adobe/brackets)
 
 ### WEB DESIGN - RESPONSIVE DESIGN & PROGRESSIVE ENHANCEMENT
 
