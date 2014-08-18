@@ -872,6 +872,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [StatsModels documentation](http://statsmodels.sourceforge.net/stable/index.html)
 * [Statsmodels](http://statsmodels.sourceforge.net/)
 * [Statsmodels tutorial - Skipper Seabold (ciPy 2012)](https://www.youtube.com/watch?v=RWRsxhUzpxk) & [code](https://github.com/jseabold/tutorial)
+* [Included datasets](http://statsmodels.sourceforge.net/devel/datasets/index.html)
 
 ### PYTHON - DATA ANALYSIS - RPY2
 
@@ -922,7 +923,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - GETTING STARTED
 
-* Why use Python? Personally, I was blown away by [Python's statistical analysis tools](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/PythonStatsOverview.ipynb) and [the amazing interactive graphics producible with data processed by Python](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/D3_examples.ipynb)
+* Why use Python? Personally, I was blown away by [Python's statistical analysis tools](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/PythonStatsOverview.ipynb) and [the amazing interactive graphics producible with data processed by Python](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/D3_examples.ipynb), plus the ability to do [time-series modeling and forecasting](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/ARMA_example.ipynb)
 * I use and recommend [Anaconda](https://store.continuum.io/cshop/anaconda/): [Install Anaconda](http://continuum.io/downloads) & [Getting started guide](https://store.continuum.io/static/img/Anaconda-Quickstart.pdf)
 * I use and recommend using [iPython Notebook](#python---ipython-notebook)
 * I recommend [these Python learning materials](#python---learning---basics) and [these free online books](#python---learning---books)
