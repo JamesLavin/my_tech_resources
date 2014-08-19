@@ -970,6 +970,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [matplotlib: Lessons From Middle Age - John Hunter](http://www.youtube.com/watch?v=e3lTby5RI54)
 * [Advanced Matplotlib - Ryan May](http://www.youtube.com/watch?v=AmpWIC5SctY)
 * [Plotting With Matplotlib - Mike Mueller](http://www.youtube.com/watch?v=P7SVi0YTIuE)
+* [Anatomy of Matplotlib (1 of 3) - Benjamin Root (SciPy 2013)](https://www.youtube.com/watch?v=FhMmhYV7tNw), [(2 of 3)](https://www.youtube.com/watch?v=c553uCRmEVc), [(3 of 3)](https://www.youtube.com/watch?v=UozWLFgF1_E)
 
 #### PYTHON - GRAPHICS - MATPLOTLIB - MPLD3
 
@@ -1841,6 +1842,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [AsciiDoc](http://www.methods.co.nz/asciidoc/)
 * [AsciiDoc Cheatsheet](http://powerman.name/doc/asciidoc)
 * [asciidoc-vim](https://github.com/dagwieers/asciidoc-vim)
+
+### WRITING/PUBLISHING - LITERATE PYTHON
+
+* [Literate Python](https://github.com/stdbrouw/python-literate)
 
 ### WRITING/PUBLISHING - MARKDOWN
 
