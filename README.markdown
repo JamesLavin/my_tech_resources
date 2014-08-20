@@ -891,7 +891,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Practical Machine Learning in Python - Matt Spitz (2012)](https://www.youtube.com/watch?v=__s45TTXxps)
 * [Intro to Interactive Predictive Analytics in Python with scikit-learn - Olivier Grisel (PyCon 2012)](http://www.youtube.com/watch?v=Zd5dfooZWG4)
 * [Social Network Analysis With Python - Maksim Semeniuk (2012)](http://www.youtube.com/watch?v=Zd5dfooZWG4)
-* [Intro to scikit-learn: Machine Learning in Python - Jacob VanderPlas (2013)]() & [scikit-learn - Machine Learning in Python with Contributo - Jacob VanderPlas (PyData 2012)](http://www.youtube.com/watch?v=cHZONQ2-x7I)
+* [Intro to scikit-learn: Machine Learning in Python - Jake VanderPlas & Olivier Grisel (PyCon 2014)](https://www.youtube.com/watch?v=HjAB45qsx_c), [2014 tutorial materials](https://github.com/jakevdp/sklearn_pycon2014), [2013 tutorial materials](https://github.com/jakevdp/sklearn_pycon2013) & [Jake VanderPlas (PyData 2012)](http://www.youtube.com/watch?v=cHZONQ2-x7I)
+* [Diving deeper into Machine Learning with Scikit-learn - Olivier Grisel and Jake VanderPlas (PyCon 2014)](https://www.youtube.com/watch?v=FOZvHx-43pg)
+* [Advanced Machine Learning with scikit-learn - Olivier Grisel (2013)](https://www.youtube.com/watch?v=iFkRt3BCctg)
 * [Statistical Machine Learning for Text Classification With Scikit-learn and NLTK - Olivier Grisel (PyCon 2011)](http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-statistical-machine-learning-for-text-classification-with-scikit-learn-4898362)
 * [Scikit-learn video tutorials](http://scikit-learn.org/stable/presentations.html)
 
