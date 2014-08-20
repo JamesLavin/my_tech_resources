@@ -677,6 +677,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MACHINE LEARNING
 
+* [Machine Learning (online Coursera class with Stanford professor Andrew Ng)](https://www.coursera.org/course/ml)
 * [MLOSS.org (Machine Learning Open Source Software)](http://mloss.org/software/)
 * [KD Nuggets](http://www.kdnuggets.com/)
 * [Artificial Stupidity: Adding Smarts to Yer Kode - Randall Thomas](http://www.sdruby.org/podcast/79)
@@ -846,6 +847,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - DATA ANALYSIS - NUMPY
 
+* [mlpy](http://mlpy.sourceforge.net/)
+
+### PYTHON - DATA ANALYSIS - NUMPY
+
 * [Numpy User Guide](http://docs.scipy.org/doc/numpy/numpy-user-1.8.1.pdf)
 * [Numpy Reference Guide](http://docs.scipy.org/doc/numpy/numpy-ref-1.8.1.pdf)
 * [NumPy and iPython - Valentin Haenel (SciPy 2013) - Pt 1](http://www.youtube.com/watch?v=UWmZAAfXds4) & [Pt 2](http://www.youtube.com/watch?v=lSfkIle93hQ)
@@ -866,6 +871,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
 * [10 Things I Hate About Pandas - Wes McKinney](http://www.slideshare.net/wesm/practical-medium-data-analytics-with-python)
 * [Python and Pandas for Sentiment Analysis and Investing - "sentdex"](https://www.youtube.com/watch?v=0ySdEYUONz0&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7&feature=share)
+
+### PYTHON - DATA ANALYSIS - PYBRAIN
+
+* [PyBrain](http://www.pybrain.org/)
+
+### PYTHON - DATA ANALYSIS - PYML
+
+* [PyML](http://pyml.sourceforge.net/)
 
 ### PYTHON - DATA ANALYSIS - STATSMODELS
 
@@ -1063,6 +1076,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - WEB SCRAPING
 
+* [Scrapy](http://scrapy.org/) & [Github](https://github.com/scrapy/scrapy)
 * [Web scraping: Reliably and efficiently pull data from pages that don't expect it - Asheesh Laroia](https://www.youtube.com/watch?v=52wxGESwQSA)
 * [Web scraping tutorial series](https://www.youtube.com/watch?v=E7wB__M9fdw&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz&index=1)
 
