@@ -521,6 +521,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### JAVASCRIPT - EMBER.JS - EMBER-CLI
 
 * [ember-cli](http://iamstef.net/ember-cli/)
+* [Rails + Ember.js + ember-cli = ♥ - Robert Jackson (Burlington Ruby Conference 2014)](http://vimeo.com/103608308)
 
 #### JAVASCRIPT - EMBER.JS - EMBER DATA
 
