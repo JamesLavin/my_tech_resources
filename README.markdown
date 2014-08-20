@@ -1546,6 +1546,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### RUBY - FUTURE (AND CURRENT PROBLEMS)
 
 * [Panel: The Future of Ruby - Mark Bates, Sandi Metz, Ernie Miller, and Johnny Bourisquot (Burlington Ruby Conf 2014)](http://vimeo.com/album/2996485/video/103590400)
+* [Keynote - Ernie Miller (Burlington Ruby Conference 2014)](http://vimeo.com/album/2996485/video/103529608)
 * [Rescuing Ruby - Greg Brockman (Ruby Australia 2014)](http://vimeo.com/89494987)
 
 ### RUBY - GEMS, TOOLS & LIBRARIES
