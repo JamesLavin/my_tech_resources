@@ -1392,6 +1392,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - ASYNCHRONOUS/EVENTED/THREADED
 
+* [How to Consume Lots of Data - Doug Alcorn (Burlington Ruby Conf 2014)](http://vimeo.com/album/2996485/video/103475219)
 * [Concurrent-ruby gem](https://github.com/jdantonio/concurrent-ruby)
 * [Ruby threading videos (Confreaks)](http://www.confreaks.com/videos?search=Thread)
 * [The Celluloid Ecosystem - Tony Arcieri (RubyConf 2012)](http://confreaks.com/videos/1302-rubyconf2012-the-celluloid-ecosystem)
