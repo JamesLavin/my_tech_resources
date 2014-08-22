@@ -831,6 +831,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PYTHON - DATA ANALYSIS
 
 * [Intro to Python for Econometrics, Statistics and Data Analysis - Kevin Sheppard](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf)
+* [Quantitative Economics - Thomas Sargent & John Stachurski](http://quant-econ.net/_static/pdfs/quant-econ.pdf)
 * [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
 * [Natural Language Processing with Python](http://nltk.org/book/)
 * [Mining the Social Web (Git repo)](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
