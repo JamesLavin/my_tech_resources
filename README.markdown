@@ -1330,6 +1330,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RAILS - VIEWS
 
+* [Concerns, Decorators, Presenters, Service Objects, Helpers, Help Me Decide! - Justin Gordon (RailsConf 2014)](https://www.youtube.com/watch?v=bHpVdOzrvkE)
 * [Maintainable Templates - Brendan Loudermilk (RailsConf 2013)](http://confreaks.com/videos/2429-railsconf2013-maintainable-templates) & [slides](https://github.com/bloudermilk/maintainable_templates/blob/master/slides.md)
 * [A Pattern for Rails Presenters - Derek Hammer](http://www.derekhammer.com/2012/11/06/a-pattern-for-rails-presenters)
 * [Tidy Views and Beyond With Decorators - Dan Croak (Thoughtbot)](http://robots.thoughtbot.com/post/13641910701/tidy-views-and-beyond-with-decorators)
