@@ -1450,6 +1450,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Rubycop](https://github.com/bbatsov/rubocop)
 * [bbatsov / ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
 * [Avdi Grimm's "Naught" gem](https://github.com/avdi/naught), ["Null Objects and Falsiness"](http://devblog.avdi.org/2011/05/30/null-objects-and-falsiness/), and [two papers](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf) & [explaining the null object pattern](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf)
+* [All the Little Things - Sandi Metz (RailsConf 2014)](https://www.youtube.com/watch?v=8bZh5LMaSmE)
 * [Component-based Architectures in Ruby and Rails - Stephan Hagemann (MountainWest RubyConf 2013)](http://confreaks.com/videos/2350-mwrc2013-component-based-architectures-in-ruby-and-rails)
 * [Refactoring Fat Models with Patterns](http://www.confreaks.com/videos/2290-larubyconf2013-refactoring-fat-models-with-patterns)
 * [Rules - Sandi Metz (BaRuCo 2013)](http://www.youtube.com/watch?v=npOGOmkxuio)
@@ -1550,6 +1551,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Panel: The Future of Ruby - Mark Bates, Sandi Metz, Ernie Miller, and Johnny Bourisquot (Burlington Ruby Conf 2014)](http://vimeo.com/album/2996485/video/103590400)
 * [Keynote - Ernie Miller (Burlington Ruby Conference 2014)](http://vimeo.com/album/2996485/video/103529608)
+* [Panel: Future of Rails Jobs - Obie Fernandez, Allan Grant, Chad Pytel, Jeff Casimir and Corey Haines (RailsConf 2014)](https://www.youtube.com/watch?v=4OCnxb0CoUo)
 * [Rescuing Ruby - Greg Brockman (Ruby Australia 2014)](http://vimeo.com/89494987)
 
 ### RUBY - GEMS, TOOLS & LIBRARIES
