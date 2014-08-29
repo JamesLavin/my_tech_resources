@@ -395,6 +395,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Understanding JQuery.Deferred and Promise](http://joseoncode.com/2011/09/26/a-walkthrough-jquery-deferred-and-promise/)
 * [What's The Point of Promises?](http://www.kendoui.com/blogs/teamblog/posts/13-03-28/what-is-the-point-of-promises.aspx)
 
+### JAVASCRIPT - AMPERSAND.JS
+
+* [Ampersand.js](http://ampersandjs.com/), [learn](http://ampersandjs.com/learn), [docs](http://ampersandjs.com/docs)
+
 ### JAVASCRIPT - BACKBONE.JS
 
 * [Backbone.js](http://backbonejs.org/)
