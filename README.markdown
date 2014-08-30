@@ -518,6 +518,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Building Web Applications with Ember.js - NewCircle Training](http://www.youtube.com/watch?v=u6RFyVN9sNg)
 * [Ember 1.0](https://www.youtube.com/watch?v=zC7o1YkmkG0)
 * [A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS - Marius Gundersen (JS Conf.eu)](http://2013.jsconf.eu/speakers/marius-gundersen-a-comparison-of-the-twoway-binding-in-angularjs-emberjs-and-knockoutjs.html)
+* [Ember.setState(this.get(React)) - Alex Matchneer - Ember NYC 2014](https://docs.google.com/presentation/d/1afMLTCpRxhJpurQ97VBHCZkLbR1TEsRnd3yyxuSQ5YY/edit?pli=1)
 * [Ember HTMLBars - Erik Bryn](http://www.youtube.com/watch?v=vjBs07kgjq0) & [HTMLBars (Github)](https://github.com/tildeio/htmlbars)
 * [POJOs vs. Ember Objects](http://www.youtube.com/watch?v=h4w7ZqCk0zg)
 * [Ember without Ember Data - Robin Ward (May 2014)](https://www.youtube.com/watch?v=7twifrxOTQY)
@@ -852,6 +853,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to Prediction Using Python - Luke Gotszling](https://www.youtube.com/watch?v=YeIWV9KOofU)
 * [R vs Python - Round 1](http://www.theswarmlab.com/r-vs-python-round-1/) [Round 2](http://www.theswarmlab.com/r-vs-python-round-2-22/) [Round 3](http://www.theswarmlab.com/r-vs-python-round-3/)
 
+### PYTHON - DATA ANALYSIS - BLAZE
+
+* [Blaze ("extends NumPy and Pandas to distributed and out-of-core computing")](http://blaze.pydata.org/docs/latest/index.html)
+
 ### PYTHON - DATA ANALYSIS - NUMPY
 
 * [mlpy](http://mlpy.sourceforge.net/)
@@ -1094,6 +1099,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### R - LEARNING
 
+* [The Five Colleges Guide to Statistics With R](http://www3.amherst.edu/~nhorton/FiveCollegeR.pdf)
 * [Swirl ("Statistics With Interactive R Learning")](http://swirlstats.com/students.html)
 * [The Undergraduate Guide to R - Trevor Martin](https://sites.google.com/site/undergraduateguidetor/manual-files)
 * [Resources to Help You Learn and Use R - UCLA](http://www.ats.ucla.edu/stat/r/)
