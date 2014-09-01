@@ -1706,6 +1706,13 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [RubyMine (non-free)](http://www.jetbrains.com/ruby/)
 
+### RUBY - VIDEOS
+
+* [Ruby Manor 4.0 videos - 2012](http://vimeo.com/album/2596602)
+* [Ruby Manor 3 videos - 2011](http://rubymanor.org/3/videos/)
+* [Ruby Manor 2 videos - 2009](http://rubymanor.org/harder/videos/)
+* [Ruby Manor (1) videos - 2008](http://rubymanor.org/videos/)
+
 ## SCALA
 
 * [Official documentation](http://scala-lang.org/documentation/)
