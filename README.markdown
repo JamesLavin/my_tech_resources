@@ -116,18 +116,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Healthcare.gov](https://www.healthcare.gov/developers/)
 * [MapQuest](http://developer.mapquest.com/web/products/open) (maps)
 * [New York Times](http://developer.nytimes.com/docs)
+* [OpenStreetMap](http://wiki.openstreetmap.org/wiki/API)
 * [OpenWeatherMap](http://openweathermap.org/api) (weather)
 * [Reuters](https://customers.reuters.com/developer/apis_tech.aspx)
 * [Salesforce](http://www.salesforce.com/us/developer/docs/api/), [pyforce](https://pypi.python.org/pypi/pyforce/1.4), [simple-salesforce](https://pypi.python.org/pypi/simple-salesforce), [salesforce-python-toolkit](https://code.google.com/p/salesforce-python-toolkit/) & [example](https://developer.salesforce.com/blogs/developer-relations/2014/01/python-and-the-force-com-rest-api-simple-simple-salesforce-example.html)
 * [Socrata](http://dev.socrata.com/)
 * [Twitter](https://dev.twitter.com/docs)
-* [US Bureau of Labor Statistics](http://www.bls.gov/developers/) & [US Dept of Labor](http://developer.dol.gov/)
-* [US Census Bureau](http://www.census.gov/developers/)
-* [US Dept of Education](http://www.ed.gov/developer)
-* [US Dept of Health & Human Services](http://www.hhs.gov/developer/)
-* [US Energy Information Administration](http://www.eia.gov/developer/)
-* [US FCC](http://www.fcc.gov/developers)
-* [USA.gov](http://www.usa.gov/About/developer-resources/developers.shtml)
 * [Walmart](https://developer.walmartlabs.com/docs) (retail; real-time prices and availability)
 * [Weather Underground](http://www.wunderground.com/weather/api/) (weather)
 * [WeatherBug](http://weather.weatherbug.com/pulseapi.html) (weather)
@@ -135,24 +129,30 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Yahoo! Finance](https://help.yahoo.com/kb/finance) (financial data)
 * [Zillow](http://www.zillow.com/howto/api/APIOverview.htm) (real estate)
 
-### DATA - INTERNATIONAL
+### DATA - APIS - INTERNATIONAL
 
 * [United Nations](http://data.un.org/)
 * [World Bank](http://data.worldbank.org/)
 
-### DATA - NATIONAL
+### DATA - APIS - NATIONAL (NON-US)
 
 * [United Kingdom](http://data.gov.uk/)
 
-### DATA - UNITED STATES
+### DATA - APIS - UNITED STATES
 
-* [Bureau of Labor Statistics](http://www.bls.gov/data/)
+* [Bureau of Labor Statistics](http://www.bls.gov/developers/) & [Dept of Labor](http://developer.dol.gov/)
+* [Census Bureau](http://www.census.gov/developers/)
 * [Dartmouth Atlas of Healthcare](http://www.dartmouthatlas.org/)
+* [Dept of Education](http://www.ed.gov/developer)
+* [Dept of Health & Human Services](http://www.hhs.gov/developer/)
+* [Energy Information Administration](http://www.eia.gov/developer/)
 * [Explore.data.gov](https://explore.data.gov/)
+* [FCC (Federal Communications Commission)](http://www.fcc.gov/developers)
 * [FRED (Federal Reserve Economic Data)](http://research.stlouisfed.org/fred2/)
 * [Sunlight Labs](https://data.sunlightlabs.com/)
+* [USA.gov](http://www.usa.gov/About/developer-resources/developers.shtml)
 
-#### DATA - UNITED STATES - CITIES/STATES
+#### DATA - APIS - UNITED STATES - CITIES/STATES
 
 * [Austin, TX](https://data.austintexas.gov/)
 * [Boston, MA](https://data.cityofboston.gov/)
