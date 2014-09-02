@@ -104,6 +104,36 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Freebase.com](http://www.freebase.com/)
 * [Public datasets - ScaleUnlimited.com](http://www.scaleunlimited.com/datasets/public-datasets/)
 * [Where can I find large datasets open to the public?](http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+* [Comprehensive List of Free Historical Market Data Sources](http://computeraidedfinance.com/2012/05/02/comprehensive-list-of-free-historical-market-data-sources/)
+
+### DATA - APIS
+
+* [Best Buy](https://developer.bestbuy.com/) (retail)
+* [Bloomberg](http://www.bloomberglabs.com/)
+* [DataSift](http://dev.datasift.com/) (Twitter firehose)
+* [Facebook](https://developers.facebook.com/docs/graph-api)
+* [Forecast.io](https://developer.forecast.io/) (weather)
+* [Healthcare.gov](https://www.healthcare.gov/developers/)
+* [MapQuest](http://developer.mapquest.com/web/products/open) (maps)
+* [New York Times](http://developer.nytimes.com/docs)
+* [OpenWeatherMap](http://openweathermap.org/api) (weather)
+* [Reuters](https://customers.reuters.com/developer/apis_tech.aspx)
+* [Salesforce](http://www.salesforce.com/us/developer/docs/api/), [pyforce](https://pypi.python.org/pypi/pyforce/1.4), [simple-salesforce](https://pypi.python.org/pypi/simple-salesforce), [salesforce-python-toolkit](https://code.google.com/p/salesforce-python-toolkit/) & [example](https://developer.salesforce.com/blogs/developer-relations/2014/01/python-and-the-force-com-rest-api-simple-simple-salesforce-example.html)
+* [Socrata](http://dev.socrata.com/)
+* [Twitter](https://dev.twitter.com/docs)
+* [US Bureau of Labor Statistics](http://www.bls.gov/developers/) & [US Dept of Labor](http://developer.dol.gov/)
+* [US Census Bureau](http://www.census.gov/developers/)
+* [US Dept of Education](http://www.ed.gov/developer)
+* [US Dept of Health & Human Services](http://www.hhs.gov/developer/)
+* [US Energy Information Administration](http://www.eia.gov/developer/)
+* [US FCC](http://www.fcc.gov/developers)
+* [USA.gov](http://www.usa.gov/About/developer-resources/developers.shtml)
+* [Walmart](https://developer.walmartlabs.com/docs) (retail; real-time prices and availability)
+* [Weather Underground](http://www.wunderground.com/weather/api/) (weather)
+* [WeatherBug](http://weather.weatherbug.com/pulseapi.html) (weather)
+* [World Bank](http://data.worldbank.org/node/9) (socioeconomic data)
+* [Yahoo! Finance](https://help.yahoo.com/kb/finance) (financial data)
+* [Zillow](http://www.zillow.com/howto/api/APIOverview.htm) (real estate)
 
 ### DATA - INTERNATIONAL
 
@@ -1735,7 +1765,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## STATISTICAL ANALYSIS
 
-### VIDEOS
+### STATISTICAL ANALYSIS - TIME SERIES
+
+* [Introduction to Computational Finance and Financial Econometrics - Eric Zivot](http://faculty.washington.edu/ezivot/econ424/424notes.htm)
+* [Vector Autoregressive Models for Multivariate Time Series](http://faculty.washington.edu/ezivot/econ584/notes/varModels.pdf)
+
+### STATISTICAL ANALYSIS - VIDEOS
 
 * [Strata Conference 2014 videos](https://www.youtube.com/playlist?list=PL055Epbe6d5YX_cD2IDr4dK9Da0Vh6YgI)
 * [Strata Conference 2013 videos](https://www.youtube.com/playlist?list=PL055Epbe6d5ZEYjq8K7CA37-1fEST-yWe)
