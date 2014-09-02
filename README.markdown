@@ -97,6 +97,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## DATA
 
+* [ProgrammableWeb.com](http://www.programmableweb.com/category)
 * [30 Places to Find Open Data on the Web](http://blog.visual.ly/data-sources/)
 * [AWS Public Data Sets](http://aws.amazon.com/publicdatasets/)
 * [Data Repositories - Jerry Smith](http://datascientistinsights.com/2013/10/07/data-repositories-mothers-milk-for-data-scientists/#!)
@@ -111,9 +112,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Best Buy](https://developer.bestbuy.com/) (retail)
 * [Bloomberg](http://www.bloomberglabs.com/)
 * [DataSift](http://dev.datasift.com/) (Twitter firehose)
+* [Expedia](http://developer.ean.com/)
 * [Facebook](https://developers.facebook.com/docs/graph-api)
 * [Forecast.io](https://developer.forecast.io/) (weather)
-* [Healthcare.gov](https://www.healthcare.gov/developers/)
+* [Hotwire](http://developer.hotwire.com/)
 * [MapQuest](http://developer.mapquest.com/web/products/open) (maps)
 * [New York Times](http://developer.nytimes.com/docs)
 * [OpenStreetMap](http://wiki.openstreetmap.org/wiki/API)
@@ -131,8 +133,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DATA - APIS - INTERNATIONAL
 
+* [IMF](http://www.elibrary.imf.org/page/imf-data)
 * [United Nations](http://data.un.org/)
 * [World Bank](http://data.worldbank.org/)
+* [World Health Organization](http://www.who.int/research/en/)
 
 ### DATA - APIS - NATIONAL (NON-US)
 
@@ -145,12 +149,18 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Dartmouth Atlas of Healthcare](http://www.dartmouthatlas.org/)
 * [Dept of Education](http://www.ed.gov/developer)
 * [Dept of Health & Human Services](http://www.hhs.gov/developer/)
+* [EDGAR (SEC)](http://datahub.io/dataset/edgar)
 * [Energy Information Administration](http://www.eia.gov/developer/)
+* [EPA](http://www.epa.gov/enviro/facts/datadownloads.html)
 * [Explore.data.gov](https://explore.data.gov/)
 * [FCC (Federal Communications Commission)](http://www.fcc.gov/developers)
 * [FRED (Federal Reserve Economic Data)](http://research.stlouisfed.org/fred2/)
+* [Healthcare.gov](https://www.healthcare.gov/developers/)
+* [Medicare.gov](http://www.medicare.gov/download/downloaddb.asp)
+* [NOAA National Climatic Data Center](http://www.ncdc.noaa.gov)
 * [Sunlight Labs](https://data.sunlightlabs.com/)
 * [USA.gov](http://www.usa.gov/About/developer-resources/developers.shtml)
+* [USGS](http://earthquake.usgs.gov/earthquakes/feed/v0.1/)
 
 #### DATA - APIS - UNITED STATES - CITIES/STATES
 
@@ -908,6 +918,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - DATA ANALYSIS - PANDAS
 
+* [Intro to PANDAS Data Structures - Greg Reda](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/), [Working With DataFrames](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/) & [Using PANDAS on the MovieLens Database](http://www.gregreda.com/2013/10/26/using-pandas-on-the-movielens-dataset/)
 * [Statistical Data Analysis in Python (4 videos) - Christopher Fonnesbeck](http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109) [1](http://www.youtube.com/watch?v=DXPwSiRTxYY) [2](http://www.youtube.com/watch?v=TGEBpzJUxdI) [3](http://www.youtube.com/watch?v=YZDtBEEZuAk) [4](http://www.youtube.com/watch?v=5_rcdhBXD-0) & [iPython notebooks](https://github.com/fonnesbeck/statistical-analysis-python-tutorial)
 * [Keynote - Wes McKinney (PyCon Singapore 2013)](https://www.youtube.com/watch?v=Jm73dKlYHZw)
 * [Data Analysis in Python with Pandas - Wes McKinney (2012 PyData Workshop)](https://www.youtube.com/watch?v=MxRMXhjXZos)
