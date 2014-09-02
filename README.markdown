@@ -1654,6 +1654,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ruby-Toolbox - Security Tools](https://www.ruby-toolbox.com/categories/security_tools)
 * [Ruby-Toolbox - Spam Detection](https://www.ruby-toolbox.com/categories/spam_detection)
 
+### RUBY - TEACHING KIDS
+
+* [Programming in the Small - Teaching my 5 Year Old Ruby - Jason Clark (Cascadia Ruby 2014)](https://www.youtube.com/watch?v=jAnSsNga5Nk)
+* [Kids Ruby](http://kidsruby.com)
+* [Shoes](http://shoesrb.com/), [Github](https://github.com/shoes/shoes) & [Github for Shoes 4](https://github.com/shoes/shoes4)
+* [Hackety Hack](http://hackety.com/) & [Github](https://github.com/hacketyhack/hacketyhack)
+
 ### RUBY - TESTING
 
 * [The Other Junk Drawer: My Tests are a Mess - Christopher Sexton (MountainWest Ruby 2014)](http://confreaks.com/videos/3273-mwrc-the-other-junk-drawer-my-tests-are-a-mess)
