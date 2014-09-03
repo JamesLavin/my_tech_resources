@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Linux](#linux) | [Machine learning](#machine-learning) | [Mobile](#mobile) | [Node.js](#nodejs) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python) & [getting started](#python---getting-started) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Linux](#linux) | [Machine learning](#machine-learning) | [Mobile](#mobile) | [Node.js](#nodejs) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started) & [data analysis](#python---data-analysis) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## BOOKS
 
@@ -1090,13 +1090,19 @@ Links to resources I have found useful or think might be helpful to future me or
 * [iPython: Tools for the Entire Lifecycle of Research Computing - Fernando Perez et al. (ciPy 2012)](https://www.youtube.com/watch?v=iwVvqwLDsJo)
 * [Mining Social Web APIs With iPython Notebook - Matthew Russell (PyCon 2014)](https://www.youtube.com/watch?v=jpCG792tVt0)
 
-#### PYTHON - IPYTHON NOTEBOOK - NBCONVERT
-
-* [Converting notebooks to other formats](http://ipython.org/ipython-doc/rel-1.0.0/interactive/nbconvert.html)
-
 #### PYTHON - IPYTHON NOTEBOOK - INTERESTING NOTEBOOKS
 
 * [Gallery of Interesting iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+
+#### PYTHON - IPYTHON NOTEBOOK - NBCONVERT
+
+* Converts iPython Notebooks to HTML, Latex, Reveal.js slideshows, Markdown, reStructured Text, or Python scripts
+* Now [part of iPython](https://github.com/ipython/ipython/tree/master/IPython/nbconvert)
+* [Converting notebooks to other formats](http://ipython.org/ipython-doc/rel-1.0.0/interactive/nbconvert.html)
+
+#### PYTHON - IPYTHON NOTEBOOK - NOTEBOOK.JS
+
+* [Notebook.js (render iPython notebooks on the fly in the browser or node.js)](https://github.com/jsvine/notebookjs/)
 
 #### PYTHON - LEARNING - BASICS
 
