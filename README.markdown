@@ -905,21 +905,21 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to Prediction Using Python - Luke Gotszling](https://www.youtube.com/watch?v=YeIWV9KOofU)
 * [R vs Python - Round 1](http://www.theswarmlab.com/r-vs-python-round-1/) [Round 2](http://www.theswarmlab.com/r-vs-python-round-2-22/) [Round 3](http://www.theswarmlab.com/r-vs-python-round-3/)
 
-### PYTHON - DATA ANALYSIS - BLAZE
+#### PYTHON - DATA ANALYSIS - BLAZE
 
 * [Blaze ("extends NumPy and Pandas to distributed and out-of-core computing")](http://blaze.pydata.org/docs/latest/index.html)
 
-### PYTHON - DATA ANALYSIS - NUMPY
+#### PYTHON - DATA ANALYSIS - MLPY
 
 * [mlpy](http://mlpy.sourceforge.net/)
 
-### PYTHON - DATA ANALYSIS - NUMPY
+#### PYTHON - DATA ANALYSIS - NUMPY
 
 * [Numpy User Guide](http://docs.scipy.org/doc/numpy/numpy-user-1.8.1.pdf)
 * [Numpy Reference Guide](http://docs.scipy.org/doc/numpy/numpy-ref-1.8.1.pdf)
 * [NumPy and iPython - Valentin Haenel (SciPy 2013) - Pt 1](http://www.youtube.com/watch?v=UWmZAAfXds4) & [Pt 2](http://www.youtube.com/watch?v=lSfkIle93hQ)
 
-### PYTHON - DATA ANALYSIS - PANDAS
+#### PYTHON - DATA ANALYSIS - PANDAS
 
 * [Intro to PANDAS Data Structures - Greg Reda](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/), [Working With DataFrames](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/) & [Using PANDAS on the MovieLens Database](http://www.gregreda.com/2013/10/26/using-pandas-on-the-movielens-dataset/)
 * [Statistical Data Analysis in Python (4 videos) - Christopher Fonnesbeck](http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109) [1](http://www.youtube.com/watch?v=DXPwSiRTxYY) [2](http://www.youtube.com/watch?v=TGEBpzJUxdI) [3](http://www.youtube.com/watch?v=YZDtBEEZuAk) [4](http://www.youtube.com/watch?v=5_rcdhBXD-0) & [iPython notebooks](https://github.com/fonnesbeck/statistical-analysis-python-tutorial)
@@ -938,26 +938,26 @@ Links to resources I have found useful or think might be helpful to future me or
 * [10 Things I Hate About Pandas - Wes McKinney](http://www.slideshare.net/wesm/practical-medium-data-analytics-with-python)
 * [Python and Pandas for Sentiment Analysis and Investing - "sentdex"](https://www.youtube.com/watch?v=0ySdEYUONz0&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7&feature=share)
 
-### PYTHON - DATA ANALYSIS - PYBRAIN
+#### PYTHON - DATA ANALYSIS - PYBRAIN
 
 * [PyBrain](http://www.pybrain.org/)
 
-### PYTHON - DATA ANALYSIS - PYML
+#### PYTHON - DATA ANALYSIS - PYML
 
 * [PyML](http://pyml.sourceforge.net/)
 
-### PYTHON - DATA ANALYSIS - STATSMODELS
+#### PYTHON - DATA ANALYSIS - STATSMODELS
 
 * [StatsModels documentation](http://statsmodels.sourceforge.net/stable/index.html)
 * [Statsmodels](http://statsmodels.sourceforge.net/)
 * [Statsmodels tutorial - Skipper Seabold (ciPy 2012)](https://www.youtube.com/watch?v=RWRsxhUzpxk) & [code](https://github.com/jseabold/tutorial)
 * [Included datasets](http://statsmodels.sourceforge.net/devel/datasets/index.html)
 
-### PYTHON - DATA ANALYSIS - RPY2
+#### PYTHON - DATA ANALYSIS - RPY2
 
 * [RPy2 documentation](http://rpy.sourceforge.net/rpy2/doc-dev/html/index.html)
 
-### PYTHON - DATA ANALYSIS - SCIKIT-LEARN
+#### PYTHON - DATA ANALYSIS - SCIKIT-LEARN
 
 * [API](http://scikit-learn.org/stable/modules/classes.html)
 * [Documentation](http://scikit-learn.org/stable/documentation.html)
@@ -977,17 +977,24 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Statistical Machine Learning for Text Classification With Scikit-learn and NLTK - Olivier Grisel (PyCon 2011)](http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-statistical-machine-learning-for-text-classification-with-scikit-learn-4898362)
 * [Scikit-learn video tutorials](http://scikit-learn.org/stable/presentations.html)
 
-### PYTHON - DATA ANALYSIS - SCIPY
+#### PYTHON - DATA ANALYSIS - SCIPY
 
 * [Scipy Reference Guide](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf)
 * [Scientific Python lecture notes - EuroScipy tutorial team](http://scipy-lectures.github.io/) & [PDF](http://scipy-lectures.github.io/_downloads/PythonScientific-simple.pdf)
 * [scientific-python-lectures - JR Johansson](https://github.com/jrjohansson/scientific-python-lectures)
 * [Topical Software (add-on software relevant to SciPy, categorized by scientific discipline or computational topic)](http://scipy.org/topical-software.html)
 
-### PYTHON - DATA ANALYSIS - SYMPY
+#### PYTHON - DATA ANALYSIS - SYMPY
 
 * [SymPy documentation](http://docs.sympy.org/latest/index.html)
 * [Symbolic Computing With SymPy (SciPy 2013) - 1](http://www.youtube.com/watch?v=dAgShwIx72c) [2](http://www.youtube.com/watch?v=trhmGmyTNuo) [3](http://www.youtube.com/watch?v=JDztSdQqh0o) [4](http://www.youtube.com/watch?v=q9DUdZ3flfk) [5](http://www.youtube.com/watch?v=PC1GPUteZs0) & [6](http://www.youtube.com/watch?v=wPD7Y0sCO4I)
+
+### PYTHON - DATABASE ADAPTERS
+
+* [Psycopg (for PostgreSQL)](http://initd.org/psycopg/)
+* [Psycopg tutorial](https://wiki.postgresql.org/wiki/Psycopg2_Tutorial)
+* [PyMySql (for MySQL)](https://github.com/PyMySQL/PyMySQL)
+* [PyMySql tutorial](http://nbviewer.ipython.org/gist/slarson/6745890)
 
 ### PYTHON - DOCUMENTATION & TESTING
 
