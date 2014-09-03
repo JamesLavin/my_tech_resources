@@ -1007,6 +1007,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * I use and recommend [Anaconda](https://store.continuum.io/cshop/anaconda/): [Install Anaconda](http://continuum.io/downloads) & [Getting started guide](https://store.continuum.io/static/img/Anaconda-Quickstart.pdf)
 * I use and recommend using [iPython Notebook](#python---ipython-notebook). A great way to start is by skimming through some of the many iPython Notebooks on the web. You can find many at [this gallery of links to iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
 * I recommend [these Python learning materials](#python---learning---basics) and [these free online books](#python---learning---books)
+* If you're feeling ambitious and don't want to start with Python but jump straight to data analysis, the Harvard CS 109 ("Data Science") lectures listed under [PYTHON - DATA ANALYSIS](https://github.com/JamesLavin/my_tech_resources#python---data-analysis) seem excellent.
 
 ### PYTHON - GRAPHICS
 
