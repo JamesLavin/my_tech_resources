@@ -1000,9 +1000,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - GETTING STARTED
 
-* Why use Python? Personally, I was blown away by [Python's statistical analysis tools](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/PythonStatsOverview.ipynb) and [the amazing interactive graphics producible with data processed by Python](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/D3_examples.ipynb). Some cool examples: [time-series (ARMA) modeling/forecasting](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/ARMA_example.ipynb), [discrete-choice modeling](http://statsmodels.sourceforge.net/devel/examples/notebooks/generated/discrete_choice_example.html), [vector autoregression modeling/forecasting](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/VAR_oil_interest_sp500.ipynb)
+* Why use Python? Personally, I was blown away by [Python's statistical analysis tools](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/PythonStatsOverview.ipynb) and [the amazing interactive graphics producible with data processed by Python](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/D3_examples.ipynb). Some examples: [time-series (ARMA) modeling/forecasting](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/ARMA_example.ipynb), [discrete-choice modeling](http://statsmodels.sourceforge.net/devel/examples/notebooks/generated/discrete_choice_example.html), [vector autoregression modeling/forecasting](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/VAR_oil_interest_sp500.ipynb)
 * I use and recommend [Anaconda](https://store.continuum.io/cshop/anaconda/): [Install Anaconda](http://continuum.io/downloads) & [Getting started guide](https://store.continuum.io/static/img/Anaconda-Quickstart.pdf)
-* I use and recommend using [iPython Notebook](#python---ipython-notebook)
+* I use and recommend using [iPython Notebook](#python---ipython-notebook). A great way to start is by skimming through some of the many iPython Notebooks on the web. You can find many at [this gallery of links to iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
 * I recommend [these Python learning materials](#python---learning---basics) and [these free online books](#python---learning---books)
 
 ### PYTHON - GRAPHICS
@@ -1068,6 +1068,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [iPython](http://ipython.org/)
 * [Documentation](http://ipython.org/ipython-doc/dev/notebook/index.html) & [Keyboard Shortcuts](http://johnlaudun.org/20131228-ipython-notebook-keyboard-shortcuts/)
 * [The iPython Notebook Revolution - Catherine Devlin (2013)](https://www.youtube.com/watch?v=t_TzRaK9kpU)
+* [Gallery of interesting iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 * [iPython Minibook code - Cyrille Rossant](https://github.com/rossant/ipython-minibook)
 * [IPython: Python at your fingertips - Fernando Pérez (PyCon 2012)](https://www.youtube.com/watch?v=26wgEsg9Mcc)
 * [IPython In Depth: High-Productivity Interactive and Parallel Python - Fernando Pérez (PyCon 2014)](https://www.youtube.com/watch?v=XFw1JVXKJss) & [(PyCon 2012)](https://www.youtube.com/watch?v=2G5YTlheCbw)
