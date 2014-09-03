@@ -934,6 +934,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Detailed Look at Pandas' Indexes - Trent Hauck (O'Reilly 2014)](http://www.youtube.com/watch?v=NWS7QxnAmyU<S-F12>)
 * [NumPy/SciPy/Pandas Cheat Sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas%2C+SciPy%2C+NumPy+Cheat+Sheet.pdf)
 * [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
+* [Time series analysis with Pandas - Nikolay Koldunov](http://earthpy.org/pandas-basics.html)
 * [10 Things I Hate About Pandas - Wes McKinney](http://www.slideshare.net/wesm/practical-medium-data-analytics-with-python)
 * [Python and Pandas for Sentiment Analysis and Investing - "sentdex"](https://www.youtube.com/watch?v=0ySdEYUONz0&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7&feature=share)
 
@@ -970,6 +971,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to Interactive Predictive Analytics in Python with scikit-learn - Olivier Grisel (PyCon 2012)](http://www.youtube.com/watch?v=Zd5dfooZWG4)
 * [Social Network Analysis With Python - Maksim Semeniuk (2012)](http://www.youtube.com/watch?v=Zd5dfooZWG4)
 * [Intro to scikit-learn: Machine Learning in Python - Jake VanderPlas & Olivier Grisel (PyCon 2014)](https://www.youtube.com/watch?v=HjAB45qsx_c), [2014 tutorial materials](https://github.com/jakevdp/sklearn_pycon2014), [2013 tutorial materials](https://github.com/jakevdp/sklearn_pycon2013) & [Jake VanderPlas (PyData 2012)](http://www.youtube.com/watch?v=cHZONQ2-x7I)
+* [Intro to Scikit-Learn - Jake Vanderplas](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/17_SklearnIntro.html), [Intermediate Scikit-Learn](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/18_IntermediateSklearn.html)
 * [Diving deeper into Machine Learning with Scikit-learn - Olivier Grisel and Jake VanderPlas (PyCon 2014)](https://www.youtube.com/watch?v=FOZvHx-43pg)
 * [Advanced Machine Learning with scikit-learn - Olivier Grisel (2013)](https://www.youtube.com/watch?v=iFkRt3BCctg)
 * [Statistical Machine Learning for Text Classification With Scikit-learn and NLTK - Olivier Grisel (PyCon 2011)](http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-statistical-machine-learning-for-text-classification-with-scikit-learn-4898362)
@@ -986,6 +988,13 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [SymPy documentation](http://docs.sympy.org/latest/index.html)
 * [Symbolic Computing With SymPy (SciPy 2013) - 1](http://www.youtube.com/watch?v=dAgShwIx72c) [2](http://www.youtube.com/watch?v=trhmGmyTNuo) [3](http://www.youtube.com/watch?v=JDztSdQqh0o) [4](http://www.youtube.com/watch?v=q9DUdZ3flfk) [5](http://www.youtube.com/watch?v=PC1GPUteZs0) & [6](http://www.youtube.com/watch?v=wPD7Y0sCO4I)
+
+### PYTHON - DOCUMENTATION & TESTING
+
+* [Basic Doctest Python - Daniel Arbuckle](https://www.packtpub.com/books/content/basic-doctest-python)
+* [doctest: Test interactive Python examples](https://docs.python.org/2/library/doctest.html)
+* [Intro to doctest2 for existing users of doctest](https://pythonhosted.org/doctest2/intro_for_existing.html)
+* [Documentation, Testing and Packaging - Jake Vanderplas](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/20_DocsAndTesting.html)
 
 ### PYTHON - GAMES
 
@@ -1048,6 +1057,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Tutorial: Advanced Matplotlib - library author John Hunter](https://www.youtube.com/watch?v=DNRJwENqEUY)
 * [Plotting With MatPlotLib - Mike Müller](http://www.youtube.com/watch?v=P7SVi0YTIuE)
 * [Intro to NumPy and Matplotlib](http://www.youtube.com/watch?v=3Fp1zn5ao2M)
+* [An exercise with matplotlib and numpy](http://software-carpentry.org/blog/2012/05/an-exercise-with-matplotlib-and-numpy.html)
 * [matplotlib: Lessons From Middle Age - John Hunter](http://www.youtube.com/watch?v=e3lTby5RI54)
 * [Advanced Matplotlib - Ryan May](http://www.youtube.com/watch?v=AmpWIC5SctY)
 * [Plotting With Matplotlib - Mike Mueller](http://www.youtube.com/watch?v=P7SVi0YTIuE)
