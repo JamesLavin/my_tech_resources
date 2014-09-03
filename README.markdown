@@ -120,6 +120,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [New York Times](http://developer.nytimes.com/docs)
 * [OpenStreetMap](http://wiki.openstreetmap.org/wiki/API)
 * [OpenWeatherMap](http://openweathermap.org/api) (weather)
+* [Quandl](http://www.quandl.com/help/python) & [example iPython notebook](http://nbviewer.ipython.org/url/www.logilab.org/file/187482/raw/quandl-data-with-pandas.ipynb)
 * [Reuters](https://customers.reuters.com/developer/apis_tech.aspx)
 * [Salesforce](http://www.salesforce.com/us/developer/docs/api/), [pyforce](https://pypi.python.org/pypi/pyforce/1.4), [simple-salesforce](https://pypi.python.org/pypi/simple-salesforce), [salesforce-python-toolkit](https://code.google.com/p/salesforce-python-toolkit/) & [example](https://developer.salesforce.com/blogs/developer-relations/2014/01/python-and-the-force-com-rest-api-simple-simple-salesforce-example.html)
 * [Socrata](http://dev.socrata.com/)
@@ -884,12 +885,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - DATA ANALYSIS
 
+* Harvard CS109: Data Science (2013): [slides](https://drive.google.com/folderview?id=0BxYkKyLxfsNVd0xicUVDS1dIS0k&usp=sharing), [video lectures](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) & [labs and solutions](https://github.com/cs109/content)
+* [Harvard CS109: Data Science (2014)](http://cs109.github.io/2014/)
 * [Intro to Python for Econometrics, Statistics and Data Analysis - Kevin Sheppard](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf)
 * [Quantitative Economics - Thomas Sargent & John Stachurski](http://quant-econ.net/_static/pdfs/quant-econ.pdf)
 * [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
 * [Natural Language Processing with Python](http://nltk.org/book/)
 * [Mining the Social Web (Git repo)](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
-* [Learn Python Through Public Data Hacking](http://www.youtube.com/watch?v=RrPZza_vZ3w)
+* [Learn Python Through Public Data Hacking](http://www.youtube.com/watch?v=RrPZza_vZ3w) & [slides](http://dabeaz.com/pydata/LearnPyData.pdf)
 * [Bayesian Statistics Made (As) Simple (As Possible) - Allen Downey (2012)](https://www.youtube.com/watch?v=bobeo5kFz1g)
 * [Social Network Analysis With Python - Maksim Tsvetovat (2012)](http://www.youtube.com/watch?v=qgGqaBAEy3Q)
 * [Web Scraping: Reliably and Efficiently Pull Data From Pages That Don't Expect It - Asheesh Laroia (PyCon 2012)](https://www.youtube.com/watch?v=52wxGESwQSA)
@@ -1069,6 +1072,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Documentation](http://ipython.org/ipython-doc/dev/notebook/index.html) & [Keyboard Shortcuts](http://johnlaudun.org/20131228-ipython-notebook-keyboard-shortcuts/)
 * [The iPython Notebook Revolution - Catherine Devlin (2013)](https://www.youtube.com/watch?v=t_TzRaK9kpU)
 * [Gallery of interesting iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+* [iPython.org example notebooks](http://nbviewer.ipython.org/github/ipython/ipython/tree/1.x/examples/notebooks/)
 * [iPython Minibook code - Cyrille Rossant](https://github.com/rossant/ipython-minibook)
 * [IPython: Python at your fingertips - Fernando Pérez (PyCon 2012)](https://www.youtube.com/watch?v=26wgEsg9Mcc)
 * [IPython In Depth: High-Productivity Interactive and Parallel Python - Fernando Pérez (PyCon 2014)](https://www.youtube.com/watch?v=XFw1JVXKJss) & [(PyCon 2012)](https://www.youtube.com/watch?v=2G5YTlheCbw)
@@ -1128,6 +1132,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Python 3.3: Trust Me, It's Better Than 2.7 - Brett Cannon (PyCon US 2013](https://www.youtube.com/watch?v=f_6vDi7ywuA)
 * [Python for Ruby Programmers - Mike Leone (LA Ruby Conf 2013)](https://www.youtube.com/watch?v=maSlTKMzR3Q)
 * [Super Advanced Python - Raymond Chandler III](https://www.youtube.com/watch?v=u2KZJzoz-qI)
+
+### PYTHON - MODULES & PACKAGING
+
+* [Youtube](https://www.youtube.com/results?search_query=python+modules+packages)
 
 ### PYTHON - PYPI
 
