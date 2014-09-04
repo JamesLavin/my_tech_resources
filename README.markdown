@@ -946,6 +946,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [PyML](http://pyml.sourceforge.net/)
 
+#### PYTHON - DATA ANALYSIS - PYTABLES
+
+* [PyTables.org](http://www.pytables.org)
+* [PyTables.github.io](http://pytables.github.io/)
+
 #### PYTHON - DATA ANALYSIS - STATSMODELS
 
 * [StatsModels documentation](http://statsmodels.sourceforge.net/stable/index.html)
