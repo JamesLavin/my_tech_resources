@@ -1197,6 +1197,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [PyPI - The Python Package Index (45,000 Python packages)](https://pypi.python.org/pypi)
 
+### PYTHON - SPYDER
+
+* [Spyder (Scientific PYthon Development EnviRonment)](https://code.google.com/p/spyderlib/)
+
 ### PYTHON - VIDEOGREP
 
 * [Videogrep (for searching through videos with .srt subtitle tracks)](https://github.com/antiboredom/videogrep)
