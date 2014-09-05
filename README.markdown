@@ -1185,6 +1185,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PYTHON - MODULES & PACKAGING
 
 * [Modules 101: how to avoid spaghetti, big balls of mud and houses of straw! - Graeme Cross (PyCon Australia 2013)](https://www.youtube.com/watch?v=72lahT9Umtg)
+* [Structuring Your Project (Hitchhiker's Guide to Python)](http://docs.python-guide.org/en/latest/writing/structure/)
+* [Packaging Your Code (Hitchhiker's Guide to Python)](http://docs.python-guide.org/en/latest/shipping/packaging/)
 * [Nobody Expects the Python Packaging Authority - Nick Coghlan (PyCon Australia 2013)](https://www.youtube.com/watch?v=8Xrdt3-YVz4)
 * [Youtube](https://www.youtube.com/results?search_query=python+modules+packages)
 
