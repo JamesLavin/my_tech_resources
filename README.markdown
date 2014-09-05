@@ -521,7 +521,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - D3
 
+* [API](https://github.com/mbostock/d3/wiki/API-Reference) and [documentation](http://strongriley.github.io/d3/api/)
 * [Beyond the Bar Graph - Joanne Cheng (Kod.io 2014)](http://confreaks.com/videos/3243-kodio_2014-beyond-the-bar-graph)
+* [D3.js Tutorial - Jérôme Cukier and Scott Murray (StrataConf 2013)](http://cdn.oreillystatic.com/en/assets/1/event/91/D3_js%20tutorial%20Presentation.pdf)
+* [D3 Tips & Tricks - Malcolm Maclean](https://leanpub.com/D3-Tips-and-Tricks) (optional/suggested donation)
+* [Getting Started With D3 - Mike Dewar](http://it-ebooks.info/book/835/) & [on Amazon](http://www.amazon.com/Getting-Started-D3-Mike-Dewar/dp/1449328792/)
+* [D3: Data-Driven Documents - Stanford Computer Science Dept](http://vis.stanford.edu/files/2011-D3-InfoVis.pdf)
 
 ### JAVASCRIPT - DEPENDENCY INJECTION
 
@@ -883,6 +888,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Cython](http://cython.org/)
 
+### PYTHON - COMPUTER VISION
+
+* [OpenCV](http://opencv.org/)
+
 ### PYTHON - DATA ANALYSIS
 
 * Harvard CS109: Data Science (2013): [slides](https://drive.google.com/folderview?id=0BxYkKyLxfsNVd0xicUVDS1dIS0k&usp=sharing), [video lectures](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) & [labs and solutions](https://github.com/cs109/content)
@@ -902,6 +911,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Learn Python for Science - NumPy, SciPy and Matplotlib](http://www.youtube.com/watch?v=oYTs9HwFGbY)
 * [A Billion Rows per Second: Metaprogramming Python for Big Data - New Circle Training](https://www.youtube.com/watch?v=rXj5nayS7Yg)
 * [Python's Role in Big Data Analytics: Past, Present, and Future - Travis Oliphant (EuroPython 2014)](https://www.youtube.com/watch?v=oXRvpBJ-Dkc)
+* [Python as Super Glue for the Modern Scientific Workflow - Joshua Bloom (SciPy 2012)](https://www.youtube.com/watch?v=mLuIB8aW2KA)
 * [Intro to Prediction Using Python - Luke Gotszling](https://www.youtube.com/watch?v=YeIWV9KOofU)
 * [R vs Python - Round 1](http://www.theswarmlab.com/r-vs-python-round-1/) [Round 2](http://www.theswarmlab.com/r-vs-python-round-2-22/) [Round 3](http://www.theswarmlab.com/r-vs-python-round-3/)
 
@@ -950,6 +960,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [PyTables.org](http://www.pytables.org)
 * [PyTables.github.io](http://pytables.github.io/)
+* [github.com/Pytables](https://github.com/PyTables/PyTables)
+* [Python and HDF5 - Fast Storage for Large Data - Mike Müller (PyCon 2012)](https://www.youtube.com/watch?v=hnhN2_TpY8g)
+* [HDF5 is for lovers - Anthony Scopatz (SciPy 2012)](https://www.youtube.com/watch?v=Nzx0HAd3FiI)
+* [Managing Large Datasets with Python and HDF5 - Andrew Collette (2014)](https://www.youtube.com/watch?v=wZEFoVUu8h0)
+* [Modern scientific computing and big data analytics in Python](https://www.youtube.com/watch?v=hqOsfS3dP9w)
 
 #### PYTHON - DATA ANALYSIS - STATSMODELS
 
@@ -1161,6 +1176,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Python 3.3: Trust Me, It's Better Than 2.7 - Brett Cannon (PyCon US 2013](https://www.youtube.com/watch?v=f_6vDi7ywuA)
 * [Python for Ruby Programmers - Mike Leone (LA Ruby Conf 2013)](https://www.youtube.com/watch?v=maSlTKMzR3Q)
 * [Super Advanced Python - Raymond Chandler III](https://www.youtube.com/watch?v=u2KZJzoz-qI)
+* [Militarizing Your Backyard with Python: Computer Vision and the Squirrel Hordes - Kurt Grandis (PyCon 2012)](https://www.youtube.com/watch?v=QPgqfnKG_T4)
 
 ### PYTHON - MODULES & PACKAGING
 
