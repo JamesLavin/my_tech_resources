@@ -10,7 +10,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## BOOKS
 
-* [Free programming books (many languages)](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+* [List of free programming books (many languages)](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+* [List of free programming books - CodeInfo.info](http://isn.codelab.info/ressources/livres-numeriques/free-programming-books/)
 
 ## CHARACTERS - UTF-8
 
@@ -279,6 +280,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELASTICSEARCH
 
+* [Elasticsearch, Logstash & Kibana - Kevin Kluge](http://www.socallinuxexpo.org/scale12x-supporting/default/files/presentations/Scale12x%20-%20Intro%20to%20Elasticsearch%20(Kluge).pdf)
 * [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/index.html)
 * [Explore Your Data With Elasticsearch - Honza Kral (SF Python talk)](https://www.youtube.com/watch?v=UNsDUNWRWzg)
 * [Getting Down and Dirty with ElasticSearch - Clinton Gormley (NoSQL Matters Barcelona 2013)](https://www.youtube.com/watch?v=7FLXjgB0PQI)
@@ -521,7 +523,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - D3
 
-* [API](https://github.com/mbostock/d3/wiki/API-Reference) and [documentation](http://strongriley.github.io/d3/api/)
+* [API](https://github.com/mbostock/d3/wiki/API-Reference), [wiki](https://github.com/mbostock/d3/wiki) & [documentation](http://strongriley.github.io/d3/api/)
 * [Beyond the Bar Graph - Joanne Cheng (Kod.io 2014)](http://confreaks.com/videos/3243-kodio_2014-beyond-the-bar-graph)
 * [D3.js Tutorial - Jérôme Cukier and Scott Murray (StrataConf 2013)](http://cdn.oreillystatic.com/en/assets/1/event/91/D3_js%20tutorial%20Presentation.pdf)
 * [D3 Tips & Tricks - Malcolm Maclean](https://leanpub.com/D3-Tips-and-Tricks) (optional/suggested donation)
@@ -964,7 +966,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Python and HDF5 - Fast Storage for Large Data - Mike Müller (PyCon 2012)](https://www.youtube.com/watch?v=hnhN2_TpY8g)
 * [HDF5 is for lovers - Anthony Scopatz (SciPy 2012)](https://www.youtube.com/watch?v=Nzx0HAd3FiI)
 * [Managing Large Datasets with Python and HDF5 - Andrew Collette (2014)](https://www.youtube.com/watch?v=wZEFoVUu8h0)
-* [Modern scientific computing and big data analytics in Python](https://www.youtube.com/watch?v=hqOsfS3dP9w)
+* [Modern scientific computing and big data analytics in Python - Edward Schofield (PyCon Australia 2013)](https://www.youtube.com/watch?v=hqOsfS3dP9w)
 
 #### PYTHON - DATA ANALYSIS - STATSMODELS
 
@@ -1180,6 +1182,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - MODULES & PACKAGING
 
+* [Modules 101: how to avoid spaghetti, big balls of mud and houses of straw! - Graeme Cross (PyCon Australia 2013)](https://www.youtube.com/watch?v=72lahT9Umtg)
+* [Nobody Expects the Python Packaging Authority - Nick Coghlan (PyCon Australia 2013)](https://www.youtube.com/watch?v=8Xrdt3-YVz4)
 * [Youtube](https://www.youtube.com/results?search_query=python+modules+packages)
 
 ### PYTHON - PYPI
