@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Linux](#linux) | [Machine learning](#machine-learning) | [Mobile](#mobile) | [Node.js](#nodejs) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started) & [data analysis](#python---data-analysis) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Linux](#linux) | [Machine learning](#machine-learning) | [Mobile](#mobile) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started) & [data analysis](#python---data-analysis) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## BOOKS
 
@@ -793,6 +793,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Package Managers: An Introductory Guide (covers NPM & Bower)](http://tech.pro/tutorial/1190/package-managers-an-introductory-guide-for-the-uninitiated-front-end-developer)
 
+## OCTAVE
+
+* [Machine Learning - Andrew Ng (Coursera)](https://class.coursera.org/ml-006/lecture)
+* [GNU Octave: Free Your Numbers - John W. Eaton et al. (Feb 2011)](https://www.gnu.org/software/octave/octave.pdf)
+* [Intro to Octave - Dr. P.J.G. Long - 2005](http://www-mdp.eng.cam.ac.uk/web/CD/engapps/octave/octavetut.pdf)
+
 ## OOP
 
 * [OOP and Philosophy - Steve Klabnik (RubyMidwest 2013)](http://confreaks.com/videos/2370-rmw2013-oop-and-philosophy)
@@ -975,9 +981,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Statsmodels tutorial - Skipper Seabold (ciPy 2012)](https://www.youtube.com/watch?v=RWRsxhUzpxk) & [code](https://github.com/jseabold/tutorial)
 * [Included datasets](http://statsmodels.sourceforge.net/devel/datasets/index.html)
 
-#### PYTHON - DATA ANALYSIS - RPY2
+#### PYTHON - DATA ANALYSIS - R INTERFACES
 
 * [RPy2 documentation](http://rpy.sourceforge.net/rpy2/doc-dev/html/index.html)
+* [RMagic for iPython Notebook](http://ipython.org/ipython-doc/dev/config/extensions/rmagic.html)
 
 #### PYTHON - DATA ANALYSIS - SCIKIT-LEARN
 
