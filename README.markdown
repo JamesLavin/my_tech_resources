@@ -1282,6 +1282,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [R-bloggers.com](http://www.r-bloggers.com/)
 * [Revolutions](http://blog.revolutionanalytics.com/)
+* [DataScience.la](http://datascience.la/)
 
 ### R - DPLYR
 
