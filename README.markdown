@@ -107,6 +107,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Public datasets - ScaleUnlimited.com](http://www.scaleunlimited.com/datasets/public-datasets/)
 * [Where can I find large datasets open to the public?](http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 * [Comprehensive List of Free Historical Market Data Sources](http://computeraidedfinance.com/2012/05/02/comprehensive-list-of-free-historical-market-data-sources/)
+* [Datahub.io](http://datahub.io/)
 
 ### DATA - APIS
 
@@ -742,6 +743,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## MACHINE LEARNING
 
 * [Machine Learning (online Coursera class with Stanford professor Andrew Ng)](https://www.coursera.org/course/ml)
+* [Artificial Intelligence (online EdX.org class from UC Berkeley)](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs188-1x-artificial-579)
 * [MLOSS.org (Machine Learning Open Source Software)](http://mloss.org/software/)
 * [KD Nuggets](http://www.kdnuggets.com/)
 * [Artificial Stupidity: Adding Smarts to Yer Kode - Randall Thomas](http://www.sdruby.org/podcast/79)
@@ -891,6 +893,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PYTHON - ALGORITHMS
 
 * [Intro to Algorithms - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
+
+### PYTHON - ANACONDA / CONDA
+
+* [Conda (package manager) documentation](http://conda.pydata.org/docs/)
 
 ### PYTHON - CYTHON
 
@@ -1049,7 +1055,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PYTHON - GETTING STARTED
 
 * Why use Python? Personally, I was blown away by [Python's statistical analysis tools](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/PythonStatsOverview.ipynb) and [the amazing interactive graphics producible with data processed by Python](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/D3_examples.ipynb). Some examples: [time-series (ARMA) modeling/forecasting](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/ARMA_example.ipynb), [discrete-choice modeling](http://statsmodels.sourceforge.net/devel/examples/notebooks/generated/discrete_choice_example.html), [vector autoregression modeling/forecasting](http://nbviewer.ipython.org/github/JamesLavin/my_tech_resources/blob/master/VAR_oil_interest_sp500.ipynb)
-* I use and recommend [Anaconda](https://store.continuum.io/cshop/anaconda/): [Install Anaconda](http://continuum.io/downloads) & [Getting started guide](https://store.continuum.io/static/img/Anaconda-Quickstart.pdf)
+* I use and recommend [Anaconda](https://store.continuum.io/cshop/anaconda/): [Docs](http://conda.pydata.org/docs/), [Install Anaconda](http://continuum.io/downloads) & [Getting started guide](https://store.continuum.io/static/img/Anaconda-Quickstart.pdf)
 * I use and recommend using [iPython Notebook](#python---ipython-notebook). A great way to start is by skimming through some of the many iPython Notebooks on the web. You can find many at [this gallery of links to iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
 * I recommend [these Python learning materials](#python---learning---basics) and [these free online books](#python---learning---books)
 * If you're feeling ambitious and don't want to start with Python but jump straight to data analysis, the Harvard CS 109 ("Data Science") lectures listed under [PYTHON - DATA ANALYSIS](https://github.com/JamesLavin/my_tech_resources#python---data-analysis) seem excellent.
@@ -1152,6 +1158,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Introduction to Computer Science and Programming - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-1-introduction-to-6.00/) & [on Youtube](https://www.youtube.com/watch?v=Mx0uXIBD-yA&index=1&list=PLd-dSvYArSy20Yfx1UxoiiAX1tl863Azo)
 * [An introduction to Python for absolute beginners - Bob Dowling](http://www.ucs.cam.ac.uk/docs/course-notes/unix-courses/PythonAB/files/handout.pdf)
 * [Introduction to Python for Computational Science and Engineering (A Beginner's Guide) - Hans Fangohr](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
+* [Intro to Computer Science and Programming Using Python (part 1) - MIT](https://courses.edx.org/courses/MITx/6.00.1-x/1T2014/)
 * [Introduction to Programming Using Python - Brian Heinold](http://faculty.msmary.edu/heinold/IntroductionToProgrammingUsingPython_Heinold.pdf)
 * [Hands-On Introduction to Using Python in the Atmospheric and Oceanic Sciences - Johnny Wei-Bing Lin (free 1st ed)](http://www.johnny-lin.com/pyintro/ed01/)
 * [Object Oriented Design - Niko Wilbert](https://python.g-node.org/python-summerschool-2013/_media/wiki/oop/oo_design_2013.pdf)
@@ -1234,8 +1241,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to R - Venables, Smith and R Core Team](http://cran.r-project.org/doc/manuals/R-intro.pdf)
 * [Very Short Intro to R - Torfs & Brauer](http://jeffgoldsmith.com/P8111/P8111_Docs/Short_R_Intro.pdf)
 * [Advanced R - Hadley Wickham](http://adv-r.had.co.nz/)
-* [Computing for Data Analysis week 1 videos - Roger Peng](http://www.youtube.com/playlist?list=PLjTlxb-wKvXNSDfcKPFH2gzHGyjpeCZmJ&feature=view_all), [week 2](http://www.youtube.com/playlist?list=PLjTlxb-wKvXNnjUTX4C8IeIhPBjPkng6B&feature=view_all), [week 3](http://www.youtube.com/playlist?list=PLjTlxb-wKvXOzI2h0F2_rYZHIXz8GWBop&feature=view_all) & [week 4](http://www.youtube.com/playlist?list=PLjTlxb-wKvXOdzysAE6qrEBN_aSBC0LZS&feature=view_all)
-* [Data Analysis videos - Jeff Leek's Coursera course](http://www.youtube.com/playlist?list=PLXBDYmaCbeL8efhOZS4g9W6Z3m9_hFSnT) & [lecture notes](https://github.com/jtleek/dataanalysis)
+* [The Analytics Edge - MIT (EdX.org)](https://www.edx.org/course/mitx/mitx-15-071x-analytics-edge-1416)
+* [Computing for Data Analysis week 1 videos - Roger Peng](http://www.youtube.com/playlist?list=PLjTlxb-wKvXNSDfcKPFH2gzHGyjpeCZmJ&feature=view_all), [week 2](http://www.youtube.com/playlist?list=PLjTlxb-wKvXNnjUTX4C8IeIhPBjPkng6B&feature=view_all), [week 3](http://www.youtube.com/playlist?list=PLjTlxb-wKvXOzI2h0F2_rYZHIXz8GWBop&feature=view_all), [week 4](http://www.youtube.com/playlist?list=PLjTlxb-wKvXOdzysAE6qrEBN_aSBC0LZS&feature=view_all) & [Coursera course](https://www.coursera.org/course/compdata)
+* [Data Analysis videos - Jeff Leek's Coursera course](http://www.youtube.com/playlist?list=PLXBDYmaCbeL8efhOZS4g9W6Z3m9_hFSnT) & [lecture notes](https://github.com/jtleek/dataanalysis) & [Coursera course](https://www.coursera.org/course/dataanalysis)
 * [Beginner's guide to R: (6-part) Introduction (ComputerWorld)](http://www.computerworld.com/s/article/print/9239625/Beginner_s_guide_to_R_Introduction?taxonomyName=Business+Intelligence%2FAnalytics&taxonomyId=9) & [Beginner's guide to R: Useful resources](http://www.computerworld.com/s/article/print/9239799/Beginner_s_guide_to_R_Useful_resources?taxonomyName=Business+Intelligence%2FAnalytics&taxonomyId=9)
 * [Quick-R](http://www.statmethods.net)
 * [The Little Book of R for Time Series](https://media.readthedocs.org/pdf/a-little-book-of-r-for-time-series/latest/a-little-book-of-r-for-time-series.pdf)
@@ -1328,6 +1336,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Shiny](http://shiny.rstudio.com/)
 * [Show Me Shiny (live examples)](http://www.showmeshiny.com/)
 * [Welcome to Shiny (tutorial)](http://shiny.rstudio.com/tutorial/lesson1/)
+* [Summertime with ggvis and shiny](https://ijlyttle.shinyapps.io/isugg_ggvis_shiny/)
 
 ### R - TIME SERIES
 
