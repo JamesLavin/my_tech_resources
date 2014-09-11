@@ -894,9 +894,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Intro to Algorithms - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 
-### PYTHON - ANACONDA / CONDA
+### PYTHON - CONDA
 
-* [Conda (package manager) documentation](http://conda.pydata.org/docs/)
+* [Conda (package manager) documentation](http://conda.pydata.org/docs/) & [Github](https://github.com/conda/conda)
 
 ### PYTHON - CYTHON
 
