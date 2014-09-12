@@ -304,7 +304,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## FUNCTIONAL PROGRAMMING
 
-* [Functional Principles for OO Development - Jessica Kerr (Ruby MidWest 2013)](http://confreaks.com/videos/2382-rmw2013-functional-principles-for-oo-development)
+* [Functional Principles for OO Development - Jessica Kerr (GOTO Conference 2014)](https://www.youtube.com/watch?v=GpXsQ-NIKXY) & [(Ruby MidWest 2013)](http://confreaks.com/videos/2382-rmw2013-functional-principles-for-oo-development)
 * [Functional Programming and Ruby - Pat Shaughnessy (GoRuCo 2013)](http://confreaks.com/videos/2557-goruco2013-functional-programming-and-ruby)
 * [Immutable Ruby - Michael Fairley (MountainWest RubyConf 2013)](http://confreaks.com/videos/2337-mwrc2013-immutable-ruby)
 * [Functional Programming and Ruby - Pat Shaughnessy (BostonRB.org)](http://bostonrb.org/presentations/functional-programming-and-ruby)
@@ -1857,6 +1857,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Scala for the Intrigued - Venkat Subramaniam](http://www.youtube.com/watch?v=grvvKURwGNg)
 * [Scala with Style - Martin Odersky](http://www.youtube.com/watch?v=kkTFx3-duc8)
 * [Tim Cowlishaw - From Ruby to Scala and back again: Better living through type-checking - Tim Colishaw (Ruby Manor 4.0)](http://vimeo.com/79180652)
+* [Scala: The Simple Parts - Martin Odersky (GOTO Conf 2014)](https://www.youtube.com/watch?v=P8jrvyxHodU)
 * [Scala for the Impatient (free PDF; requires registration)](http://typesafe.com/resources/book/scala-for-the-impatient)
 * [Scala in Depth (free PDF; requires registration)](http://typesafe.com/resources/book/scala-in-depth)
 * [Scala Tutorial (PDF) - TutorialsPoint.com](http://tutorialspoint.com/scala/scala_tutorial.pdf)
