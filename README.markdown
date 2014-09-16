@@ -292,6 +292,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Foundation (Found.no)](https://found.no/foundation/)
 
+### ELASTICSEARCH - INFORMATION RETRIEVAL
+
+* [Intro to Information Retrieval - Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, 2008](http://www-nlp.stanford.edu/IR-book/)
+
 ## ELIXIR
 
 * [Workshop: All Aboard the Elixir Express! - Chris McCord (RailsConf 2014)](http://www.youtube.com/watch?v=5kYmOyJjGDM) & [Chris' "Exlir Express" documentation](https://github.com/chrismccord/elixir_express)
