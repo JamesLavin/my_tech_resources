@@ -255,6 +255,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [GrayLog2](http://graylog2.org/)
 
+#### DEVOPS - LOGGING - KIBANA
+
+* [Kibana documentation](http://www.elasticsearch.org/guide/en/kibana/current/)
+
 #### DEVOPS - LOGGING - LOGSTASH
 
 * [Documentation](http://logstash.net/docs/1.4.2/)
