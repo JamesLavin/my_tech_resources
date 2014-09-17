@@ -300,6 +300,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Intro to Information Retrieval - Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, 2008](http://www-nlp.stanford.edu/IR-book/)
 
+### ELASTICSEARCH - ELASTICSEARCH-RAILS
+
+* API docs: [elasticsearch-rails](https://github.com/elasticsearch/elasticsearch-rails/blob/master/elasticsearch-rails/README.md), [elasticsearch-model](https://github.com/elasticsearch/elasticsearch-rails/blob/master/elasticsearch-model/README.md), [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby), [elasticsearch-transport](https://github.com/elasticsearch/elasticsearch-ruby/tree/master/elasticsearch-transport) & [elasticsearch-api](https://github.com/elasticsearch/elasticsearch-ruby/tree/master/elasticsearch-api)
+* [Full-Text Search in Rails with ElasticSearch - Mostafa Abdulhamid](http://www.sitepoint.com/full-text-search-rails-elasticsearch/)
+* [Getting Started with Elasticsearch on Rails - Ian Ehlert](http://www.codinginthecrease.com/news_article/show/409843?referrer_id=930667)
+
 ## ELIXIR
 
 * [Workshop: All Aboard the Elixir Express! - Chris McCord (RailsConf 2014)](http://www.youtube.com/watch?v=5kYmOyJjGDM) & [Chris' "Exlir Express" documentation](https://github.com/chrismccord/elixir_express)
