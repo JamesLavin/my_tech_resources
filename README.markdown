@@ -1740,6 +1740,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Ruby Hacking Guide (MRI)](http://ruby-hacking-guide.github.io/)
 
+### RUBY - IRUBY NOTEBOOK
+
+* [iRuby notebook](http://nbviewer.ipython.org/github/minad/iruby/blob/master/IRuby-Example.ipynb)
+
 ### RUBY - LOGGING & PROBLEM DETECTION
 
 * [It’s Not in Production Unless it’s Monitored - Joseph Ruscio (RailsConf 2012)](http://confreaks.com/videos/906-railsconf2012-its-not-in-production-unless-its-monitored)
