@@ -959,7 +959,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### PYTHON - DATA ANALYSIS - BLAZE
 
+* [Docs](http://blaze.pydata.org/docs/latest/index.html) & [Github](https://github.com/ContinuumIO/blaze)
 * [Blaze ("extends NumPy and Pandas to distributed and out-of-core computing")](http://blaze.pydata.org/docs/latest/index.html)
+* [Introducing Blaze - HMDA Practice - Matt Rocklin](http://continuum.io/blog/blaze-hmda)
 
 #### PYTHON - DATA ANALYSIS - MLPY
 
