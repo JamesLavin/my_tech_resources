@@ -903,6 +903,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PROGRAMMING - LEARNING
 
+* [Code Studio](http://studio.code.org/)
 * [CS50: Intro to Computer Science - David J. Malan (Harvard)](http://cs50.tv/)
 
 ### PROGRAMMING - BLOGS
