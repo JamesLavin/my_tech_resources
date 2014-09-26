@@ -431,6 +431,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [JavascriptJabber.com (podcasts)](http://javascriptjabber.com/)
 * [The Javascript Show (podcasts)](http://javascriptshow.com/episodes)
 * [Codepen.io](http://codepen.io/)
+* [You Don't Know JS - Kyle Simpson](http://youdontknowjs.com)
 * [Advanced Introduction to JavaScript (Yakov Fain screencast)](http://www.youtube.com/watch?v=X1J0oMayvC0)
 * [Advanced Scoping & Other Puzzles (Vincenzo Tilotta)](http://www.youtube.com/watch?v=RnpPDoSzpYs)
 * [Nice discussion of scope chains, hoisting, self-executing anonymous functions, execution context, closures & module pattern (starting 28 minutes in)](http://www.youtube.com/watch?v=OrIFaWJ9Glo)
@@ -458,6 +459,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - ASYNCHRONOUS
 
+* [Syncing Async -  Kyle Simpson](http://www.confreaks.com/videos/4611-e4e2014-syncing-async) & [Promises: The Sync Problem, part 1](http://blog.getify.com/promises-part-1), [part 2](http://blog.getify.com/promises-part-2/), [part 3](http://blog.getify.com/promises-part-3/), [part 4](http://blog.getify.com/promises-part-4/) [part 5](http://blog.getify.com/promises-part-5/)
 * [Promises, Promises - Domenic Denicola](http://www.youtube.com/watch?v=MNxnHbyzhuo)
 * [Promises in Javascript - Paul Mooney](http://www.youtube.com/watch?v=SI325Bczx7Y)
 * [JavaScript Promises: There and back again - ES6](http://www.html5rocks.com/en/tutorials/es6/promises/)
@@ -563,6 +565,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [es6-module-transpiler](https://github.com/square/es6-module-transpiler) & [many more ES6 transpilers](https://github.com/addyosmani/es6-tools)
 * [ES6 module syntax](http://wiki.ecmascript.org/doku.php?id=harmony:modules#quick_examples)
+* [ES6 Generators - Kyle Simpson](http://davidwalsh.name/es6-generators)
 * [ECMAScript 6, The Future of JavaScript - Axel Rauschmayer](http://www.youtube.com/watch?v=_ZG_CrYyh_Q) (Excellent after 10-min intro)
 * [ES6Fiddle.net](http://www.es6fiddle.net)
 * [ES6 Tools - Addy Osmani](https://github.com/addyosmani/es6-tools)
