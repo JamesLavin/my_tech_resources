@@ -565,7 +565,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [es6-module-transpiler](https://github.com/square/es6-module-transpiler) & [many more ES6 transpilers](https://github.com/addyosmani/es6-tools)
 * [ES6 module syntax](http://wiki.ecmascript.org/doku.php?id=harmony:modules#quick_examples)
-* [ES6 Generators - Kyle Simpson](http://davidwalsh.name/es6-generators)
+* ES6 Generators - Kyle Simpson: [Basics](http://davidwalsh.name/es6-generators), [Diving Deeper](http://davidwalsh.name/es6-generators-dive), [Going Async](http://davidwalsh.name/async-generators), [Getting Concurrent](http://davidwalsh.name/concurrent-generators)
 * [ECMAScript 6, The Future of JavaScript - Axel Rauschmayer](http://www.youtube.com/watch?v=_ZG_CrYyh_Q) (Excellent after 10-min intro)
 * [ES6Fiddle.net](http://www.es6fiddle.net)
 * [ES6 Tools - Addy Osmani](https://github.com/addyosmani/es6-tools)
