@@ -94,6 +94,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### CSS - RESPONSIVE DESIGN
 
+* [Laziness in the Time of Responsive Design - Ethan Marcotte (Constant Contact 2014)](http://www.confreaks.com/videos/4605-e4e2014-laziness-in-the-time-of-responsive-design)
 * [The New Rules of The Responsive Web](http://confreaks.com/videos/2222-html5tx2013-the-new-rules-of-the-responsive-web)
 
 ## DATA
