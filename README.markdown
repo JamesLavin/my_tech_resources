@@ -681,6 +681,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional Reactive Programming with Bacon.js](http://sean.voisen.org/blog/2013/09/intro-to-functional-reactive-programming/)
 * [Implementing Snake in Bacon.js](http://philipnilsson.github.io/badness/)
 
+#### JAVASCRIPT - REACTIVE FUNCTIONAL PROGRAMMING - REACT.JS
+
+* [Secrets of the Virtual DOM - Pete Hunt (Barcelona Future Javascript)](https://www.youtube.com/watch?v=-DX3vJiqxm4)
+* [React and Rails](http://rny.io/rails/react/2014/07/31/reactjs-and-rails.html)
+
 ### JAVASCRIPT - TESTING
 
 * [Testing Javascript/Coffeescript - Mark Bates](http://www.youtube.com/watch?v=x74ANVOAnKw)
