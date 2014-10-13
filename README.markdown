@@ -1071,6 +1071,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [PyMySql (for MySQL)](https://github.com/PyMySQL/PyMySQL)
 * [PyMySql tutorial](http://nbviewer.ipython.org/gist/slarson/6745890)
 
+### PYTHON - DJANGO
+
+* [DjangoCon 2014 videos](http://www.confreaks.com/events/DjangoCon2014)
+
 ### PYTHON - DOCUMENTATION & TESTING
 
 * [Basic Doctest Python - Daniel Arbuckle](https://www.packtpub.com/books/content/basic-doctest-python)
@@ -1584,6 +1588,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - ASYNCHRONOUS/EVENTED/THREADED
 
+* [Refactoring Ruby with Monads - Tom Stuart (GoGaRuCo 2014)](http://www.confreaks.com/videos/4154-gogaruco2014-refactoring-ruby-with-monads)
 * [How to Consume Lots of Data - Doug Alcorn (Burlington Ruby Conf 2014)](http://vimeo.com/album/2996485/video/103475219)
 * [Concurrent-ruby gem](https://github.com/jdantonio/concurrent-ruby)
 * [Ruby threading videos (Confreaks)](http://www.confreaks.com/videos?search=Thread)
@@ -1678,6 +1683,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - DEBUGGING
 
+* [The Scientific Method of Troubleshooting - Blithe Rocher (GoGaRuCo 2014)](http://www.confreaks.com/videos/4161-gogaruco2014-the-scientific-method-of-troubleshooting)
 * [We're sorry, but something went wrong - Aja Hammerly (CascadiaRuby 2013)](http://confreaks.com/videos/2783-cascadiaruby2013-we-re-sorry-but-something-went-wrong)
 * [Better_errors gem](https://github.com/charliesome/better_errors) & [Railscast](http://railscasts.com/episodes/402-better-errors-railspanel)
 * [Dissecting Ruby with Ruby - Richard Schneeman (LoneStarRuby 2013)](http://confreaks.com/videos/2586-lonestarruby2013-dissecting-ruby-with-ruby)
