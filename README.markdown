@@ -289,6 +289,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Your Data, Your Search, Elasticsearch - Costin Leau (SpringOne2GX 2013)](https://www.youtube.com/watch?v=G56aE1kiOZw)
 * [Elasticsearch, Logstash & Kibana - Kevin Kluge](http://www.socallinuxexpo.org/scale12x-supporting/default/files/presentations/Scale12x%20-%20Intro%20to%20Elasticsearch%20(Kluge).pdf)
 * [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/index.html)
+* [Make sense of your (big) data using Elasticsearch - Honza Král (PyData Berlin 2014)](https://www.youtube.com/watch?v=sCktucuv5Yo)
 * [Explore Your Data With Elasticsearch - Honza Kral (SF Python talk)](https://www.youtube.com/watch?v=UNsDUNWRWzg)
 * [Getting Down and Dirty with ElasticSearch - Clinton Gormley (NoSQL Matters Barcelona 2013)](https://www.youtube.com/watch?v=7FLXjgB0PQI)
 * [Elasticsearch from the bottom up - Alex Brasetvik (EuroPython 2014)](https://www.youtube.com/watch?v=PpX7J-G2PEo)
@@ -309,6 +310,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * API docs: [elasticsearch-rails](https://github.com/elasticsearch/elasticsearch-rails/blob/master/elasticsearch-rails/README.md), [elasticsearch-model](https://github.com/elasticsearch/elasticsearch-rails/blob/master/elasticsearch-model/README.md), [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby), [elasticsearch-transport](https://github.com/elasticsearch/elasticsearch-ruby/tree/master/elasticsearch-transport) & [elasticsearch-api](https://github.com/elasticsearch/elasticsearch-ruby/tree/master/elasticsearch-api)
 * [Full-Text Search in Rails with ElasticSearch - Mostafa Abdulhamid](http://www.sitepoint.com/full-text-search-rails-elasticsearch/)
+* [Using Elasticsearch With Rails Apps - Brian Gugliemetti (RailsConf 2013)](https://www.youtube.com/watch?v=U-LrUN6jal8)
 * [Getting Started with Elasticsearch on Rails - Ian Ehlert](http://www.codinginthecrease.com/news_article/show/409843?referrer_id=930667)
 
 ## ELIXIR
@@ -972,6 +974,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Docs](http://blaze.pydata.org/docs/latest/index.html) & [Github](https://github.com/ContinuumIO/blaze)
 * [Blaze ("extends NumPy and Pandas to distributed and out-of-core computing")](http://blaze.pydata.org/docs/latest/index.html)
 * [Introducing Blaze - HMDA Practice - Matt Rocklin](http://continuum.io/blog/blaze-hmda)
+
+#### PYTHON - DATA ANALYSIS - FINANCE
+
+* [Algorithmic Trading with Zipline - Thomas Wiecki](https://www.youtube.com/watch?v=Qva7uxmOZuA)
+* [Financial analysis Python tutorial - Thomas Wiecki](http://nbviewer.ipython.org/github/twiecki/financial-analysis-python-tutorial/tree/master/)
+* [Quantopian - the people behind Zipline](https://www.quantopian.com/)
+* [ultra-finance - real-time financial data collection, analyzing & backtesting trading strategies](http://code.google.com/p/ultra-finance/)
+* [Zipline - algorithmic trading library](https://github.com/quantopian/zipline) & [docs](http://zipline.readthedocs.org/en/latest/)
 
 #### PYTHON - DATA ANALYSIS - MLPY
 
