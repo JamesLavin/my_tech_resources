@@ -315,6 +315,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELIXIR
 
+* [Sweet Elixir! - Ryan Cromwell](http://www.infoq.com/presentations/elixir)
+* [ElixirConf 2014 videos](http://www.confreaks.com/events/elixirconf2014)
 * [Workshop: All Aboard the Elixir Express! - Chris McCord (RailsConf 2014)](http://www.youtube.com/watch?v=5kYmOyJjGDM) & [Chris' "Exlir Express" documentation](https://github.com/chrismccord/elixir_express)
 * [Elixir: Getting Started (tutorial)](http://elixir-lang.org/getting_started/1.html)
 * [Elixir: Power of Erlang, Joy of Ruby - Dave Thomas (LoneStarRuby 2013)](https://www.youtube.com/watch?v=KQwEmdOH-GM)
