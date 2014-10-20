@@ -315,10 +315,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELIXIR
 
-* [Sweet Elixir! - Ryan Cromwell](http://www.infoq.com/presentations/elixir)
+* [Sweet Elixir! - Ryan Cromwell](http://www.infoq.com/presentations/elixir) & [full notes](https://github.com/cromwellryan/sweetelixir)
 * [ElixirConf 2014 videos](http://www.confreaks.com/events/elixirconf2014)
 * [Workshop: All Aboard the Elixir Express! - Chris McCord (RailsConf 2014)](http://www.youtube.com/watch?v=5kYmOyJjGDM) & [Chris' "Exlir Express" documentation](https://github.com/chrismccord/elixir_express)
-* [Elixir: Getting Started (tutorial)](http://elixir-lang.org/getting_started/1.html)
+* [Elixir docs](http://elixir-lang.org/docs.html) & [Elixir: Getting Started (tutorial)](http://elixir-lang.org/getting_started/1.html)
 * [Elixir: Power of Erlang, Joy of Ruby - Dave Thomas (LoneStarRuby 2013)](https://www.youtube.com/watch?v=KQwEmdOH-GM)
 * [Introduction to Elixir: a New Language on the VM - José Valim](https://www.youtube.com/watch?v=41PvAPSX0wg)
 * [Intro to Elixir for Rubyists - Josh Adams & Robby Clements (ExlirConf 2014)](http://confreaks.com/videos/4121-elixirconf2014-introduction-to-elixir-for-rubyists)
@@ -326,6 +326,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ElixirConf 2014 videos](http://confreaks.com/events/elixirconf2014)
 * [Keynote - José Valim (ElixirConf 2014)](http://confreaks.com/videos/4134-elixirconf2014-keynote-elixir)
 * [Keynote: "Think Different" - Dave Thomas (ElixirConf 2014)](http://confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different)
+* [Elixir Sips (non-free)](http://elixirsips.com)
 
 ## EMERGING TECHNOLOGIES
 
