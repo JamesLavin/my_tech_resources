@@ -326,6 +326,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ElixirConf 2014 videos](http://confreaks.com/events/elixirconf2014)
 * [Keynote - José Valim (ElixirConf 2014)](http://confreaks.com/videos/4134-elixirconf2014-keynote-elixir)
 * [Keynote: "Think Different" - Dave Thomas (ElixirConf 2014)](http://confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different)
+* [Rise of The Phoenix: Building an Elixir Web Framework - Chris McCord (ElixirConf 2014)](https://www.youtube.com/watch?v=3jMbzGv_6tA)
+* [Hex: How it was built - Eric Meadows–Jönsson (ElixirConf 2014](https://www.youtube.com/watch?v=VAa7YnZo0hU)
 * [Elixir Sips (non-free)](http://elixirsips.com)
 
 ## EMERGING TECHNOLOGIES
