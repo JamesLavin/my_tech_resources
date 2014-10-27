@@ -290,7 +290,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elasticsearch, Logstash & Kibana - Kevin Kluge](http://www.socallinuxexpo.org/scale12x-supporting/default/files/presentations/Scale12x%20-%20Intro%20to%20Elasticsearch%20(Kluge).pdf)
 * [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/index.html)
 * [Make sense of your (big) data using Elasticsearch - Honza Král (PyData Berlin 2014)](https://www.youtube.com/watch?v=sCktucuv5Yo)
-* [Explore Your Data With Elasticsearch - Honza Kral (SF Python talk)](https://www.youtube.com/watch?v=UNsDUNWRWzg)
+* [Explore Your Data With Elasticsearch - Honza Král (SF Python talk)](https://www.youtube.com/watch?v=UNsDUNWRWzg)
 * [Getting Down and Dirty with ElasticSearch - Clinton Gormley (NoSQL Matters Barcelona 2013)](https://www.youtube.com/watch?v=7FLXjgB0PQI)
 * [Elasticsearch from the bottom up - Alex Brasetvik (EuroPython 2014)](https://www.youtube.com/watch?v=PpX7J-G2PEo)
 
@@ -312,6 +312,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Full-Text Search in Rails with ElasticSearch - Mostafa Abdulhamid](http://www.sitepoint.com/full-text-search-rails-elasticsearch/)
 * [Using Elasticsearch With Rails Apps - Brian Gugliemetti (RailsConf 2013)](https://www.youtube.com/watch?v=U-LrUN6jal8)
 * [Getting Started with Elasticsearch on Rails - Ian Ehlert](http://www.codinginthecrease.com/news_article/show/409843?referrer_id=930667)
+
+### ELASTICSEARCH - PYTHON
+
+* [Elasticsearch-py (low level)](https://github.com/elasticsearch/elasticsearch-py)
+* [Elasticsearch-dsl-py (higher level)](https://github.com/elasticsearch/elasticsearch-dsl-py)
+* [Elasticsearch DSL - Honza Král](http://www.confreaks.com/videos/4501-DjangoCon2014-elasticsearch-dsl)
 
 ## ELIXIR
 
