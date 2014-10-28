@@ -286,6 +286,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELASTICSEARCH
 
+* Elasticsearch.org [Reference](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/index.html) & [Videos](http://www.elasticsearch.org/videos/)
 * [Your Data, Your Search, Elasticsearch - Costin Leau (SpringOne2GX 2013)](https://www.youtube.com/watch?v=G56aE1kiOZw)
 * [Elasticsearch, Logstash & Kibana - Kevin Kluge](http://www.socallinuxexpo.org/scale12x-supporting/default/files/presentations/Scale12x%20-%20Intro%20to%20Elasticsearch%20(Kluge).pdf)
 * [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/index.html)
@@ -293,6 +294,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Explore Your Data With Elasticsearch - Honza Král (SF Python talk)](https://www.youtube.com/watch?v=UNsDUNWRWzg)
 * [Getting Down and Dirty with ElasticSearch - Clinton Gormley (NoSQL Matters Barcelona 2013)](https://www.youtube.com/watch?v=7FLXjgB0PQI)
 * [Elasticsearch from the bottom up - Alex Brasetvik (EuroPython 2014)](https://www.youtube.com/watch?v=PpX7J-G2PEo)
+* [Elasticsearch Freenode IRC](http://irc.lc/freenode/elasticsearch/t4nk@@@)
 
 ### ELASTICSEARCH - BLOGS
 
@@ -313,6 +315,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Using Elasticsearch With Rails Apps - Brian Gugliemetti (RailsConf 2013)](https://www.youtube.com/watch?v=U-LrUN6jal8)
 * [Getting Started with Elasticsearch on Rails - Ian Ehlert](http://www.codinginthecrease.com/news_article/show/409843?referrer_id=930667)
 
+### ELASTICSEARCH - PERFORMANCE & CONFIGURATION
+
+* [Elasticsearch in Production - Alex Brasetvik (Berlin Buzzwords 2013)](https://www.youtube.com/watch?v=gkdfNl0WL-A)
+
 ### ELASTICSEARCH - PYTHON
 
 * [Elasticsearch-py (low level)](https://github.com/elasticsearch/elasticsearch-py)
@@ -332,9 +338,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ElixirConf 2014 videos](http://confreaks.com/events/elixirconf2014)
 * [Keynote - José Valim (ElixirConf 2014)](http://confreaks.com/videos/4134-elixirconf2014-keynote-elixir)
 * [Keynote: "Think Different" - Dave Thomas (ElixirConf 2014)](http://confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different)
-* [Rise of The Phoenix: Building an Elixir Web Framework - Chris McCord (ElixirConf 2014)](https://www.youtube.com/watch?v=3jMbzGv_6tA)
 * [Hex: How it was built - Eric Meadows–Jönsson (ElixirConf 2014](https://www.youtube.com/watch?v=VAa7YnZo0hU)
 * [Elixir Sips (non-free)](http://elixirsips.com)
+* [Elixir Freenode IRC](http://irc.lc/freenode/elixir)
+
+### ELIXIR - PHOENIX FRAMEWORK
+* [Rise of The Phoenix: Building an Elixir Web Framework - Chris McCord (ElixirConf 2014)](https://www.youtube.com/watch?v=3jMbzGv_6tA)
+* [Phoenix (Github)](https://github.com/phoenixframework/phoenix)
+* [PhoenixFramework.org (coming soon)](http://www.phoenixframework.org)
 
 ## EMERGING TECHNOLOGIES
 
