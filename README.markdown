@@ -293,7 +293,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Make sense of your (big) data using Elasticsearch - Honza Král (PyData Berlin 2014)](https://www.youtube.com/watch?v=sCktucuv5Yo)
 * [Explore Your Data With Elasticsearch - Honza Král (SF Python talk)](https://www.youtube.com/watch?v=UNsDUNWRWzg)
 * [Getting Down and Dirty with ElasticSearch - Clinton Gormley (NoSQL Matters Barcelona 2013)](https://www.youtube.com/watch?v=7FLXjgB0PQI)
-* [Elasticsearch from the bottom up - Alex Brasetvik (EuroPython 2014)](https://www.youtube.com/watch?v=PpX7J-G2PEo)
+* [Elasticsearch from the bottom up - Alex Brasetvik (EuroPython 2014)](https://www.youtube.com/watch?v=PpX7J-G2PEo) & [article](https://www.found.no/foundation/elasticsearch-from-the-bottom-up/)
+* [Elasticsearch from the top down: Tracing a request down to the bits - Alex Brasetvik](https://www.found.no/foundation/elasticsearch-top-down/)
 * [Elasticsearch Freenode IRC](http://irc.lc/freenode/elasticsearch/t4nk@@@)
 
 ### ELASTICSEARCH - BLOGS
@@ -308,16 +309,19 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Intro to Information Retrieval - Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, 2008](http://www-nlp.stanford.edu/IR-book/)
 
-### ELASTICSEARCH - ELASTICSEARCH-RAILS
+### ELASTICSEARCH - LUCENE
 
-* API docs: [elasticsearch-rails](https://github.com/elasticsearch/elasticsearch-rails/blob/master/elasticsearch-rails/README.md), [elasticsearch-model](https://github.com/elasticsearch/elasticsearch-rails/blob/master/elasticsearch-model/README.md), [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby), [elasticsearch-transport](https://github.com/elasticsearch/elasticsearch-ruby/tree/master/elasticsearch-transport) & [elasticsearch-api](https://github.com/elasticsearch/elasticsearch-ruby/tree/master/elasticsearch-api)
-* [Full-Text Search in Rails with ElasticSearch - Mostafa Abdulhamid](http://www.sitepoint.com/full-text-search-rails-elasticsearch/)
-* [Using Elasticsearch With Rails Apps - Brian Gugliemetti (RailsConf 2013)](https://www.youtube.com/watch?v=U-LrUN6jal8)
-* [Getting Started with Elasticsearch on Rails - Ian Ehlert](http://www.codinginthecrease.com/news_article/show/409843?referrer_id=930667)
+* [Lucene Core](http://lucene.apache.org/core/) & [docs](http://lucene.apache.org/core/4_10_1/index.html)
+
+### ELASTICSEARCH - MAPPING
+
+* [Intro to Elasticsearch Mapping - Mjal Karevoll](https://www.found.no/foundation/elasticsearch-mapping-introduction/)
+* [ElasticSearch – nested mappings and filters - Joel Abrahamsson](http://joelabrahamsson.com/elasticsearch-nested-mapping-and-filter/)
 
 ### ELASTICSEARCH - PERFORMANCE & CONFIGURATION
 
 * [Elasticsearch in Production - Alex Brasetvik (Berlin Buzzwords 2013)](https://www.youtube.com/watch?v=gkdfNl0WL-A)
+* [Troubleshooting Elasticsearch searches, for beginners - Alex Brasetvik](https://www.found.no/foundation/beginner-troubleshooting/)
 
 ### ELASTICSEARCH - PYTHON
 
@@ -325,15 +329,23 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elasticsearch-dsl-py (higher level)](https://github.com/elasticsearch/elasticsearch-dsl-py)
 * [Elasticsearch DSL - Honza Král](http://www.confreaks.com/videos/4501-DjangoCon2014-elasticsearch-dsl)
 
+### ELASTICSEARCH - RAILS
+
+* API docs: [elasticsearch-rails](https://github.com/elasticsearch/elasticsearch-rails/blob/master/elasticsearch-rails/README.md), [elasticsearch-model](https://github.com/elasticsearch/elasticsearch-rails/blob/master/elasticsearch-model/README.md), [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby), [elasticsearch-transport](https://github.com/elasticsearch/elasticsearch-ruby/tree/master/elasticsearch-transport) & [elasticsearch-api](https://github.com/elasticsearch/elasticsearch-ruby/tree/master/elasticsearch-api)
+* [Full-Text Search in Rails with ElasticSearch - Mostafa Abdulhamid](http://www.sitepoint.com/full-text-search-rails-elasticsearch/)
+* [Using Elasticsearch With Rails Apps - Brian Gugliemetti (RailsConf 2013)](https://www.youtube.com/watch?v=U-LrUN6jal8)
+* [Getting Started with Elasticsearch on Rails - Ian Ehlert](http://www.codinginthecrease.com/news_article/show/409843?referrer_id=930667)
+
 ## ELIXIR
 
 * [Sweet Elixir! - Ryan Cromwell](http://www.infoq.com/presentations/elixir) & [full notes](https://github.com/cromwellryan/sweetelixir)
 * [ElixirConf 2014 videos](http://www.confreaks.com/events/elixirconf2014)
-* [Workshop: All Aboard the Elixir Express! - Chris McCord (RailsConf 2014)](http://www.youtube.com/watch?v=5kYmOyJjGDM) & [Chris' "Exlir Express" documentation](https://github.com/chrismccord/elixir_express)
+* Elixir Express: [Workshop - Chris McCord (RailsConf 2014)](http://www.youtube.com/watch?v=5kYmOyJjGDM) & [Basic documentation](https://github.com/chrismccord/elixir_express/tree/master/basics) & [Advanced documentation](https://github.com/chrismccord/elixir_express/tree/master/advanced)
 * [Elixir docs](http://elixir-lang.org/docs.html) & [Elixir: Getting Started (tutorial)](http://elixir-lang.org/getting_started/1.html)
 * [Elixir: Power of Erlang, Joy of Ruby - Dave Thomas (LoneStarRuby 2013)](https://www.youtube.com/watch?v=KQwEmdOH-GM)
 * [Introduction to Elixir: a New Language on the VM - José Valim](https://www.youtube.com/watch?v=41PvAPSX0wg)
 * [Intro to Elixir for Rubyists - Josh Adams & Robby Clements (ExlirConf 2014)](http://confreaks.com/videos/4121-elixirconf2014-introduction-to-elixir-for-rubyists)
+* [Programming Elixir: The magic of today's tonic - Katie Miller (Linux.conf.au Jan 2014)](https://www.youtube.com/watch?v=uWSGBpW3xEQ)
 * [Elixir - A modern approach to programming for the Erlang VM - Jose Valim (RuPy 2012)](https://www.youtube.com/watch?v=q2Hxt0tOR0k)
 * [ElixirConf 2014 videos](http://confreaks.com/events/elixirconf2014)
 * [Keynote - José Valim (ElixirConf 2014)](http://confreaks.com/videos/4134-elixirconf2014-keynote-elixir)
@@ -342,7 +354,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Sips (non-free)](http://elixirsips.com)
 * [Elixir Freenode IRC](http://irc.lc/freenode/elixir)
 
+### ELIXIR - ATLAS
+
+* [Atlas (ORM)](https://github.com/chrismccord/atlas)
+
 ### ELIXIR - PHOENIX FRAMEWORK
+
 * [Rise of The Phoenix: Building an Elixir Web Framework - Chris McCord (ElixirConf 2014)](https://www.youtube.com/watch?v=3jMbzGv_6tA)
 * [Phoenix (Github)](https://github.com/phoenixframework/phoenix)
 * [PhoenixFramework.org (coming soon)](http://www.phoenixframework.org)
