@@ -273,6 +273,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [A Bit of Logstash Cooking](https://home.regit.org/2014/01/a-bit-of-logstash-cooking/)
 * [Setting up Elasticsearch, Kibana, and Logstash - Daniel Dreier](https://www.ddreier.com/setting-up-elasticsearch-kibana-and-logstash/) & [Logstash Cnfiguration Dissection](https://www.ddreier.com/logstash-configuration-dissection/)
 * [Chef-logstash](https://github.com/lusis/chef-logstash)
+* [Logstash Google Forum](https://groups.google.com/forum/?fromgroups#%21forum/logstash-users)
+* [Logstash Freenode IRC](http://irc.lc/freenode/logstash/t4nk@@@)
 
 ### DEVOPS - VAGRANT
 
@@ -286,7 +288,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELASTICSEARCH
 
-* Elasticsearch.org [Reference](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/index.html) & [Videos](http://www.elasticsearch.org/videos/)
+* Elasticsearch.org [Reference](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/index.html), [Videos](http://www.elasticsearch.org/videos/), [Search](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/search.html), [Queries](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/query-dsl-queries.html), [Filters](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/query-dsl-filters.html), [Mapping](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/mapping.html), [Indices](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices.html)
 * [Exploring Elasticsearch - Andrew Cholakian](http://exploringelasticsearch.com)
 * [Your Data, Your Search, Elasticsearch - Costin Leau (SpringOne2GX 2013)](https://www.youtube.com/watch?v=G56aE1kiOZw)
 * [Elasticsearch, Logstash & Kibana - Kevin Kluge](http://www.socallinuxexpo.org/scale12x-supporting/default/files/presentations/Scale12x%20-%20Intro%20to%20Elasticsearch%20(Kluge).pdf)
@@ -296,7 +298,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Getting Down and Dirty with ElasticSearch - Clinton Gormley (NoSQL Matters Barcelona 2013)](https://www.youtube.com/watch?v=7FLXjgB0PQI)
 * [Elasticsearch from the bottom up - Alex Brasetvik (EuroPython 2014)](https://www.youtube.com/watch?v=PpX7J-G2PEo) & [article](https://www.found.no/foundation/elasticsearch-from-the-bottom-up/)
 * [Elasticsearch from the top down: Tracing a request down to the bits - Alex Brasetvik](https://www.found.no/foundation/elasticsearch-top-down/)
-* [Elasticsearch Freenode IRC](http://irc.lc/freenode/elasticsearch/t4nk@@@)
+* [How To Interact with Data in ElasticSearch Using CRUD Operations - Justin Ellingwood](https://www.digitalocean.com/community/tutorials/how-to-interact-with-data-in-elasticsearch-using-crud-operations)
 
 ### ELASTICSEARCH - BLOGS
 
@@ -305,6 +307,11 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELASTICSEARCH - ELASTICAT
 
 * [elasticat (Ruby script for prettifying JSON returned from Elasticsearch)](https://gist.githubusercontent.com/karmi/5670573/raw/elasticat)
+
+### ELASTICSEARCH - HELP
+
+* [Elasticsearch Freenode IRC](http://irc.lc/freenode/elasticsearch/t4nk@@@)
+* [Elasticsearch Google Forum](https://groups.google.com/forum/?fromgroups#%21forum/elasticsearch)
 
 ### ELASTICSEARCH - INFORMATION RETRIEVAL
 
@@ -316,8 +323,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELASTICSEARCH - MAPPING
 
-* [Intro to Elasticsearch Mapping - Mjal Karevoll](https://www.found.no/foundation/elasticsearch-mapping-introduction/)
+* [Intro to Elasticsearch Mapping - Njal Karevoll](https://www.found.no/foundation/elasticsearch-mapping-introduction/)
+* [Nested type](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/mapping-nested-type.html)
 * [ElasticSearch – nested mappings and filters - Joel Abrahamsson](http://joelabrahamsson.com/elasticsearch-nested-mapping-and-filter/)
+* [Elasticsearch: Advanced search and nested objects - Gregquat](http://obtao.com/blog/2014/04/elasticsearch-advanced-search-and-nested-objects/)
 
 ### ELASTICSEARCH - PERFORMANCE & CONFIGURATION
 
@@ -329,6 +338,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elasticsearch-py (low level)](https://github.com/elasticsearch/elasticsearch-py)
 * [Elasticsearch-dsl-py (higher level)](https://github.com/elasticsearch/elasticsearch-dsl-py)
 * [Elasticsearch DSL - Honza Král](http://www.confreaks.com/videos/4501-DjangoCon2014-elasticsearch-dsl)
+
+### ELASTICSEARCH - QUERYING & FILTERING
+
+* [Combining filters](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/combining-filters.html)
 
 ### ELASTICSEARCH - RAILS
 
