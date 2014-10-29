@@ -287,6 +287,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## ELASTICSEARCH
 
 * Elasticsearch.org [Reference](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/index.html) & [Videos](http://www.elasticsearch.org/videos/)
+* [Exploring Elasticsearch - Andrew Cholakian](http://exploringelasticsearch.com)
 * [Your Data, Your Search, Elasticsearch - Costin Leau (SpringOne2GX 2013)](https://www.youtube.com/watch?v=G56aE1kiOZw)
 * [Elasticsearch, Logstash & Kibana - Kevin Kluge](http://www.socallinuxexpo.org/scale12x-supporting/default/files/presentations/Scale12x%20-%20Intro%20to%20Elasticsearch%20(Kluge).pdf)
 * [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/index.html)
