@@ -332,7 +332,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELASTICSEARCH - PERFORMANCE & CONFIGURATION
 
+* [Six ways to crash Elasticsearch - Konrad G. Beiske](https://www.found.no/foundation/crash-elasticsearch/)
 * [Elasticsearch in Production - Alex Brasetvik (Berlin Buzzwords 2013)](https://www.youtube.com/watch?v=gkdfNl0WL-A)
+* [Optimizing Elasticsearch searches - Alex Brasetvik](https://www.found.no/foundation/optimizing-elasticsearch-searches/)
 * [Troubleshooting Elasticsearch searches, for beginners - Alex Brasetvik](https://www.found.no/foundation/beginner-troubleshooting/)
 
 ### ELASTICSEARCH - PYTHON
