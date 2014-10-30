@@ -324,6 +324,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELASTICSEARCH - MAPPING
 
 * [Intro to Elasticsearch Mapping - Njal Karevoll](https://www.found.no/foundation/elasticsearch-mapping-introduction/)
+* [All about analyzers, Part One - Andrew Cholakian](https://www.found.no/foundation/text-analysis-part-1/)
+* [A data exploration workflow for mappings - Njal Karevoll](https://www.found.no/foundation/mapping-workflow/)
 * [Nested type](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/mapping-nested-type.html)
 * [ElasticSearch – nested mappings and filters - Joel Abrahamsson](http://joelabrahamsson.com/elasticsearch-nested-mapping-and-filter/)
 * [Elasticsearch: Advanced search and nested objects - Gregquat](http://obtao.com/blog/2014/04/elasticsearch-advanced-search-and-nested-objects/)
@@ -1342,6 +1344,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## R
 
 * [RStudio](http://rstudio.org/)
+* [DeployR](http://deployr.revolutionanalytics.com/)
 * [Rattle](http://rattle.togaware.com/)
 
 ### R - LEARNING
