@@ -1968,6 +1968,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - VIDEOS
 
+* [BostonRB videos](http://www.youtube.com/channel/UCVMoyi_TUOJ0qVZRt42_ltA)
 * [Ruby Manor 4.0 videos - 2012](http://vimeo.com/album/2596602)
 * [Ruby Manor 3 videos - 2011](http://rubymanor.org/3/videos/)
 * [Ruby Manor 2 videos - 2009](http://rubymanor.org/harder/videos/)
@@ -1999,10 +2000,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Strata Conference 2014 videos](https://www.youtube.com/playlist?list=PL055Epbe6d5YX_cD2IDr4dK9Da0Vh6YgI)
 * [Strata Conference 2013 videos](https://www.youtube.com/playlist?list=PL055Epbe6d5ZEYjq8K7CA37-1fEST-yWe)
 
-## TECH - MISCELLANEOUS
+## SVG
 
-* [Bocoup videos](http://www.youtube.com/user/BocoupLLC)
-* [BostonRB videos](http://www.youtube.com/channel/UCVMoyi_TUOJ0qVZRt42_ltA)
+* [Pocket Guide to Writing SVG - Joni Trythall](http://svgpocketguide.com/book/)
 
 ## TESTING
 
