@@ -1312,6 +1312,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Python for Developers - Luiz Eduardo Borges](http://ricardoduarte.github.io/python-for-developers/)
 * [Python 3.3: Trust Me, It's Better Than 2.7 - Brett Cannon (PyCon US 2013](https://www.youtube.com/watch?v=f_6vDi7ywuA)
 * [Python for Ruby Programmers - Mike Leone (LA Ruby Conf 2013)](https://www.youtube.com/watch?v=maSlTKMzR3Q)
+* [PyGotham 2014 talks (click on talk to see video link)](http://pygotham.org/talks/schedule)
 * [Super Advanced Python - Raymond Chandler III](https://www.youtube.com/watch?v=u2KZJzoz-qI)
 * [Militarizing Your Backyard with Python: Computer Vision and the Squirrel Hordes - Kurt Grandis (PyCon 2012)](https://www.youtube.com/watch?v=QPgqfnKG_T4)
 
