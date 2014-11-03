@@ -707,6 +707,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [14 Days of JQuery](http://jquery14.com/)
 * [TutorialsPoint.com](http://www.tutorialspoint.com/jquery/)
 
+### JAVASCRIPT - MACHINE LEARNING
+
+* Encog: [tutorial](http://www.codeproject.com/Articles/477689/JavaScript-Machine-Learning-and-Neural-Networks-wi), [examples](http://www.heatonresearch.com/fun), [Github](https://github.com/encog/encog-javascript)
+
 ### JAVASCRIPT - MEMORY/GARBAGE COLLECTION
 
 * [Garbage Collection & Heap Management - Ryan Sandor Richards (Scotland.js 2012)](http://vimeo.com/45140516)
@@ -1068,6 +1072,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Time series analysis with Pandas - Nikolay Koldunov](http://earthpy.org/pandas-basics.html)
 * [10 Things I Hate About Pandas - Wes McKinney](http://www.slideshare.net/wesm/practical-medium-data-analytics-with-python)
 * [Python and Pandas for Sentiment Analysis and Investing - "sentdex"](https://www.youtube.com/watch?v=0ySdEYUONz0&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7&feature=share)
+* [pandasql (query Pandas with SQL)](https://pypi.python.org/pypi/pandasql)
 
 #### PYTHON - DATA ANALYSIS - PYBRAIN
 
