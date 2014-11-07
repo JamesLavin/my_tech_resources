@@ -376,6 +376,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Atlas (ORM)](https://github.com/chrismccord/atlas)
 
+### ELIXIR - MACROS
+
+* [Understanding Elixir Macros, Part 1 - Basics - Saša Jurić](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-1.html), [Part 2 - Micro theory](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-2.html), [Part 3 - Getting into the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-3.html), [Part 4 - Diving Deeper](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-4.html), [Part 5 - Reshaping the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-5.html), [Part 6 - In-place code generation](http://www.theerlangelist.com/2014/07/understanding-elixir-macros-part-6.html)
+
 ### ELIXIR - PHOENIX FRAMEWORK
 
 * [Rise of The Phoenix: Building an Elixir Web Framework - Chris McCord (ElixirConf 2014)](https://www.youtube.com/watch?v=3jMbzGv_6tA)
@@ -423,6 +427,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [grb - Git Remote Branch ruby gem](http://gitready.com/advanced/2009/03/11/easily-manage-git-remote-branches.html)
 * [Git from the Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
 * [Deliberate Git - Stephen Ball (SteelCityRuby 2013)](http://steelcityruby.confbots.com/video/72762735)
+* [Git Interactive Rebase, Squash, Amend and Other Ways of Rewriting History - Tute Costa](http://robots.thoughtbot.com/git-interactive-rebase-squash-amend-rewriting-history)
 
 ### GIT - GITHUB
 
