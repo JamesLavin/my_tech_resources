@@ -1329,6 +1329,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Python Fundamentals Training](http://www.youtube.com/playlist?list=PL26BA8B9FC33789FF&feature=plcp)
 * [Python Course - Kevin Sheppard (University of Oxford)](http://www.kevinsheppard.com/Python_Course)
 * [Python for Developers - Luiz Eduardo Borges](http://ricardoduarte.github.io/python-for-developers/)
+* [Transforming Code into Beautiful, Idiomatic Python - Raymond Hettinger (2013)](https://www.youtube.com/watch?v=OSGv2VnC0go)
 * [Python 3.3: Trust Me, It's Better Than 2.7 - Brett Cannon (PyCon US 2013](https://www.youtube.com/watch?v=f_6vDi7ywuA)
 * [Python for Ruby Programmers - Mike Leone (LA Ruby Conf 2013)](https://www.youtube.com/watch?v=maSlTKMzR3Q)
 * [PyGotham 2014 talks (click on talk to see video link)](http://pygotham.org/talks/schedule)
