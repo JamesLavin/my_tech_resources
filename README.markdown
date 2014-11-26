@@ -123,7 +123,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [New York Times](http://developer.nytimes.com/docs)
 * [OpenStreetMap](http://wiki.openstreetmap.org/wiki/API)
 * [OpenWeatherMap](http://openweathermap.org/api) (weather)
-* [Quandl](http://www.quandl.com/help/python) & [example iPython notebook](http://nbviewer.ipython.org/url/www.logilab.org/file/187482/raw/quandl-data-with-pandas.ipynb)
+* [Quandl](http://www.quandl.com/help/python), [Github](https://github.com/quandl/Python) & [example iPython notebook](http://nbviewer.ipython.org/url/www.logilab.org/file/187482/raw/quandl-data-with-pandas.ipynb)
 * [Reuters](https://customers.reuters.com/developer/apis_tech.aspx)
 * [Salesforce](http://www.salesforce.com/us/developer/docs/api/), [pyforce](https://pypi.python.org/pypi/pyforce/1.4), [simple-salesforce](https://pypi.python.org/pypi/simple-salesforce), [salesforce-python-toolkit](https://code.google.com/p/salesforce-python-toolkit/) & [example](https://developer.salesforce.com/blogs/developer-relations/2014/01/python-and-the-force-com-rest-api-simple-simple-salesforce-example.html)
 * [Socrata](http://dev.socrata.com/)
@@ -1017,7 +1017,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Harvard CS109: Data Science (2013): [slides](https://drive.google.com/folderview?id=0BxYkKyLxfsNVd0xicUVDS1dIS0k&usp=sharing), [video lectures](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) & [labs and solutions](https://github.com/cs109/content)
 * [Harvard CS109: Data Science (2014)](http://cs109.github.io/2014/)
 * [Intro to Python for Econometrics, Statistics and Data Analysis - Kevin Sheppard](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf)
-* [Quantitative Economics - Thomas Sargent & John Stachurski](http://quant-econ.net/_static/pdfs/quant-econ.pdf)
+* [Quantitative Economics - Thomas Sargent & John Stachurski](http://quant-econ.net/_static/pdfs/quant-econ.pdf) & [Python index](http://quant-econ.net/py/index.html)
 * [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
 * [Natural Language Processing with Python](http://nltk.org/book/)
 * [Mining the Social Web (Git repo)](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
@@ -1070,6 +1070,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### PYTHON - DATA ANALYSIS - PANDAS
 
+* [Pandas documentation (PDF)](http://pandas.pydata.org/pandas-docs/stable/pandas.pdf)
 * [Intro to PANDAS Data Structures - Greg Reda](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/), [Working With DataFrames](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/) & [Using PANDAS on the MovieLens Database](http://www.gregreda.com/2013/10/26/using-pandas-on-the-movielens-dataset/)
 * [Statistical Data Analysis in Python (4 videos) - Christopher Fonnesbeck](http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109) [1](http://www.youtube.com/watch?v=DXPwSiRTxYY) [2](http://www.youtube.com/watch?v=TGEBpzJUxdI) [3](http://www.youtube.com/watch?v=YZDtBEEZuAk) [4](http://www.youtube.com/watch?v=5_rcdhBXD-0) & [iPython notebooks](https://github.com/fonnesbeck/statistical-analysis-python-tutorial)
 * [Keynote - Wes McKinney (PyCon Singapore 2013)](https://www.youtube.com/watch?v=Jm73dKlYHZw)
