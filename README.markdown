@@ -1083,8 +1083,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Python Data Visualization Cookbook](http://lubossabol.sk/manual/Python27/Python_Data_Visualization_Cookbook.pdf)
 * [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
 * [Remote Data Access](http://pandas.pydata.org/pandas-docs/stable/remote_data.html)
-* [Pandas Cookbook - Julia Evans](https://github.com/jvns/pandas-cookbook)
-* [Julia Evans: Diving into Open Data with IPython Notebook & Pandas (PyCon 2014)](https://www.youtube.com/watch?v=rEalbu8UGeo)
+* [Diving into Open Data with IPython Notebook & Pandas - Julia Evans (PyCon 2014)](https://www.youtube.com/watch?v=rEalbu8UGeo) & [Pandas Cookbook (iPython Notebooks)](https://github.com/jvns/pandas-cookbook)
 * [Detailed Look at Pandas' Indexes - Trent Hauck (O'Reilly 2014)](http://www.youtube.com/watch?v=NWS7QxnAmyU<S-F12>)
 * [NumPy/SciPy/Pandas Cheat Sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas%2C+SciPy%2C+NumPy+Cheat+Sheet.pdf)
 * [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
@@ -1538,6 +1537,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RAILS - CLEAN CODE
 
+* [Build Complex Domains in Rails - Mike AbiEzzi (Rocky Mountain Ruby 2014)](http://confreaks.com/videos/4177-rmr2014-build-complex-domains-in-rails)
 * [Hexagonal Rails - Matt Wynne (GoRuCo 2012)](https://www.youtube.com/watch?v=CGN4RFkhH2M)
 * [Domain Driven Design and Hexagonal Architecture with Rails - Declan Whelan, Eric Roberts (RailsConf 2014)](http://confreaks.com/videos/3316-railsconf-domain-driven-design-and-hexagonal-architecture-with-rails)
 * [Building Extractable Libraries in Rails - Patrick S. Robertson (RailsConf 2013)](http://confreaks.com/videos/2444-railsconf2013-building-extractable-libraries-in-rails)
