@@ -6,12 +6,16 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Linux](#linux) | [Machine learning](#machine-learning) | [Mobile](#mobile) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started) & [data analysis](#python---data-analysis) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Linux](#linux) | [Machine learning](#machine-learning) | [Mobile](#mobile) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started) & [data analysis](#python---data-analysis) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## BOOKS
 
 * [List of free programming books (many languages)](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [List of free programming books - CodeInfo.info](http://isn.codelab.info/ressources/livres-numeriques/free-programming-books/)
+
+## BUSINESS
+
+* [Lectures (by successful entrepreneurs) on "How to Start a Startup" (Stanford University)](http://startupclass.samaltman.com/)
 
 ## CHARACTERS - UTF-8
 
