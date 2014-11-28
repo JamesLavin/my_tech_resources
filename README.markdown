@@ -1299,7 +1299,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Documentation, Testing, and Packaging - Jake Vanderplas](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/20_DocsAndTesting.html)
 * [Introduction to Computer Science and Programming - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-1-introduction-to-6.00/) & [on Youtube](https://www.youtube.com/watch?v=Mx0uXIBD-yA&index=1&list=PLd-dSvYArSy20Yfx1UxoiiAX1tl863Azo)
 * [An introduction to Python for absolute beginners - Bob Dowling](http://www.ucs.cam.ac.uk/docs/course-notes/unix-courses/PythonAB/files/handout.pdf)
-* [Loop like a native: while, for, iterators, generators - Ned Batchelder](https://www.youtube.com/watch?v=EnSu9hHGq5o)
 * [Introduction to Python for Computational Science and Engineering (A Beginner's Guide) - Hans Fangohr](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
 * [Intro to Computer Science and Programming Using Python (part 1) - MIT](https://courses.edx.org/courses/MITx/6.00.1-x/1T2014/)
 * [Introduction to Programming Using Python - Brian Heinold](http://faculty.msmary.edu/heinold/IntroductionToProgrammingUsingPython_Heinold.pdf)
@@ -1327,6 +1326,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Hacking Secret Ciphers with Python](http://inventwithpython.com/hackingciphers.pdf)
 * [Hands-On Python Tutorial](http://cs.luc.edu/anh/python/hands-on/handson.pdf)
 * [How to Think Like a Computer Scientist: Learning with Python](http://interactivepython.org/runestone/static/thinkcspy/index.html) & [PDF](https://cs.nyu.edu/courses/fall12/CSCI-UA.0002-006/misc/httlacs.pdf)
+
+### PYTHONG - LEARNING - ITERATORS & GENERATORS
+* [Loop like a native: while, for, iterators, generators - Ned Batchelder](https://www.youtube.com/watch?v=EnSu9hHGq5o)
+* [Python generator functions for massive performance improvements with lists - sentdex](https://www.youtube.com/watch?v=07-K4LFhBMc)
+* [Iteration and generators: The Python way](https://www.youtube.com/watch?v=z4P6hSa6K9g)
+* [Fun with iterators and generators - Malcolm Tredinnick](https://www.youtube.com/watch?v=vD-JJD5tlIg)
 
 ### PYTHON - LEARNING - VIDEOS
 
