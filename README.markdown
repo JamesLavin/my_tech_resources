@@ -249,6 +249,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Shipping Ruby Apps with Docker - Bryan Helmkamp (RedDot Ruby 2014](http://confreaks.com/videos/3853-rdrc2014-shipping-ruby-apps-with-docker)
 * [Build Your Own Shipyard - Andreas Tiefenthaler (Kod.io 2014)](http://confreaks.com/videos/3252-kodio_2014-build-your-own-shipyard)
+* [Dockerising a Rails App - Graeme Mathieson](http://woss.name/articles/dockerising-a-rails-app/)
 
 ### DEVOPS - LOGGING
 
@@ -1309,6 +1310,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [A hands-on introduction to Python for beginning programmers - Jessica McKellar (PyCon 2014)](https://www.youtube.com/watch?v=MirG-vJOg04) & [(PyCon 2013)](https://www.youtube.com/watch?v=rkx5_MRAV3A)
 * [Intro to Electrical Engineering and Computer Science I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/index.html)
+* The best way to learn Python - Charl Botha: [Part 1: Install Anaconda on Linux](https://www.youtube.com/watch?v=NwyIuWK80gQ), [Part 2: Install Anaconda on Windows](https://www.youtube.com/watch?v=oXnnRpTGT2M), [Part 3: Variables, control flow, plotting!](https://www.youtube.com/watch?v=84WRAisoEas), [Part 4: slicing, string interpolation, list comprehension](https://www.youtube.com/watch?v=KZRrY9uzO7c), [Part 5: Object-oriented programming and bouncing balls](https://www.youtube.com/watch?v=yJunB_tV1QI)
 
 #### PYTHON - LEARNING - BOOKS
 
@@ -1513,7 +1515,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How a Request Becomes a Response - Christopher Greene, Aimee Simone (RailsConf 2013)](http://confreaks.com/videos/2426-railsconf2013-how-a-request-becomes-a-response)
 * [You've got a Sinatra on your Rails - Jose Valim (RailsConf 2013)](http://confreaks.com/videos/2442-railsconf2013-you-ve-got-a-sinatra-on-your-rails)
 
-### RAILS 4
+### RAILS - RAILS 4
 
 * [Real-time Rails - Brian Cardarella (Burlington Ruby 2013)](http://confreaks.com/videos/2620-btvruby2013-real-time-rails)
 * [Keynote - Rails 4 and the Future of Web - Aaron Patterson (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1228-aloharuby2012-keynote-rails-4-and-the-future-of-web)
@@ -1580,6 +1582,12 @@ Links to resources I have found useful or think might be helpful to future me or
 ### RAILS - GENERATORS
 
 * [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) & [Rails Composer](http://railsapps.github.com/rails-composer/)
+
+### RAILS - INTERACTIVE RAILS
+
+* [Mini-Chat with Rails - Ilya Bodrov](http://www.sitepoint.com/mini-chat-rails/)
+* [Realtime Mini-Chat with Rails and Faye - Ilya Bodrov](http://www.sitepoint.com/realtime-mini-chat-rails-faye/)
+* [Mini-chat with Rails and Server-Sent Events - Ilya Bodrov](http://www.sitepoint.com/mini-chat-rails-server-sent-events/)
 
 ### RAILS - PJAX
 
