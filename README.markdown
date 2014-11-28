@@ -1289,12 +1289,12 @@ Links to resources I have found useful or think might be helpful to future me or
 #### PYTHON - LEARNING - BASICS
 
 * [Learn to Program: The Fundamentals - Jennifer Campbell and Paul Gries - U of Toronto (Coursera)](https://www.coursera.org/course/programming1)
+* [Python for Informatics: Exploring Information - Charles Severance](http://www.pythonlearn.com/book.php), [PDF](http://www.pythonlearn.com/book_008.pdf) & [videos](http://pythonlearn.com/)
 * [Hello, Little Turtles!](http://interactivepython.org/runestone/static/thinkcspy/PythonTurtle/helloturtle.html)
 * [Python Programming - Introduction - TDChannel](https://www.youtube.com/watch?v=72RKMMyLxS8)
 * [Google Python Class Day 1, Pt 1: Intro & Strings](https://www.youtube.com/watch?v=tKTZoB2Vjuk), [Day 1, Pt 2: Lists, Sorting and Tuples](https://www.youtube.com/watch?v=EPYupizJYQI), [Day 1, Pt 3](https://www.youtube.com/watch?v=haycL41dAhg), [Day 2, Pt 1: Regular Expressions](https://www.youtube.com/watch?v=kWyoYtvJpe4), [Day 2, Pt 2: Utilities: OS & Commands](https://www.youtube.com/watch?v=uKZ8GBKmeDM), [Day 2, Pt 3: Utilities: URLs, and HTTP, Exceptions](https://www.youtube.com/watch?v=Nn2KQmVF5Og), [Day 2, Pt 4: Closing Thoughts](https://www.youtube.com/watch?v=IcteAbMC1Ok)
 * [An Introduction to Interactive Programming in Python - Rice University (Coursera)](https://www.coursera.org/course/interactivepython)
 * [Short Python tutorials - Bucky Roberts](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
-* [Python for Informatics: Exploring Information - Charles Severance](http://www.pythonlearn.com/book.php), [PDF](http://www.pythonlearn.com/book_008.pdf) & [videos](http://pythonlearn.com/)
 * [Python for Programmers: A Project-Based Tutorial - Alexandra Strong, Kantharine Jarmul and Christine Cheung](https://www.youtube.com/watch?v=Nc16qeGBtMU)
 * [Documentation, Testing, and Packaging - Jake Vanderplas](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/20_DocsAndTesting.html)
 * [Introduction to Computer Science and Programming - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-1-introduction-to-6.00/) & [on Youtube](https://www.youtube.com/watch?v=Mx0uXIBD-yA&index=1&list=PLd-dSvYArSy20Yfx1UxoiiAX1tl863Azo)
@@ -1347,6 +1347,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [PyGotham 2014 talks (click on talk to see video link)](http://pygotham.org/talks/schedule)
 * [Super Advanced Python - Raymond Chandler III](https://www.youtube.com/watch?v=u2KZJzoz-qI)
 * [Keynote - Raymond Hettinger (2013)](https://www.youtube.com/watch?v=NfngrdLv9ZQ)
+* [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - Brandon Rhodes (PyCon 2014)](https://www.youtube.com/watch?v=fYlnfvKVDoM)
 * [Militarizing Your Backyard with Python: Computer Vision and the Squirrel Hordes - Kurt Grandis (PyCon 2012)](https://www.youtube.com/watch?v=QPgqfnKG_T4)
 
 ### PYTHON - MODULES & PACKAGING
