@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Linux](#linux) | [Machine learning](#machine-learning) | [Mobile](#mobile) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started) & [data analysis](#python---data-analysis) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started) & [data analysis](#python---data-analysis) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## BOOKS
 
@@ -853,6 +853,34 @@ Links to resources I have found useful or think might be helpful to future me or
 * [MLOSS.org (Machine Learning Open Source Software)](http://mloss.org/software/)
 * [KD Nuggets](http://www.kdnuggets.com/)
 * [Artificial Stupidity: Adding Smarts to Yer Kode - Randall Thomas](http://www.sdruby.org/podcast/79)
+
+## MAKER MOVEMENT
+
+* [Adafruit](https://learn.adafruit.com/)
+* [CardboardChallenge](http://cardboardchallenge.com/)
+* [DIY.org](https://diy.org/)
+* [DS106.us](http://ds106.us/)
+* [Exploratorium](http://tinkering.exploratorium.edu/) & [blog](http://tinkering.exploratorium.edu/blog)
+* [GlassLabGames](http://www.glasslabgames.org/)
+* [Howtoons](http://www.howtoons.com/)
+* [Instructables.com](http://www.instructables.com/)
+* [Little Bits (non-free)](http://littlebits.cc/)
+* [Make magazine](http://makezine.com/)
+* [Make/Hack/Play together](http://academy.nmc.org/course/make-hack-play/)
+* [MakerEd.org](http://makered.org/)
+* [Maker Faire](http://makerfaire.com/)
+* [MakerSpace](http://makerspace.com/)
+* [MakeyMakey (non-free)](http://makeymakey.com/)
+* [MIT Lifelong Kindergarten](https://llk.media.mit.edu/)
+* [Soft circuits](http://alumni.media.mit.edu/~emme/guide.pdf)
+* [Sparkfun](https://learn.sparkfun.com/resources)
+* [Thingiverse](http://www.thingiverse.com/)
+* [Young Makers](http://youngmakers.org/)
+
+### MAKER MOVEMENT - ARTICLES
+
+* [Maker Movement Reinvents Education (Newsweek](http://www.newsweek.com/2014/09/19/maker-movement-reinvents-education-268739.html)
+* [The Maker movement makes its mark (USA Today)](http://www.usatoday.com/story/tech/2014/08/04/the-maker-movement-makes-its-mark/13567521/)
 
 ## MATH
 
