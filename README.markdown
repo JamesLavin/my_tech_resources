@@ -247,9 +247,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - DOCKER
 
+* [Docker Tutorials - DarkZebra](https://www.youtube.com/playlist?list=PLfpPfDziPdMIbc7p-_siXYwqsRnd3jrLM)
 * [Shipping Ruby Apps with Docker - Bryan Helmkamp (RedDot Ruby 2014](http://confreaks.com/videos/3853-rdrc2014-shipping-ruby-apps-with-docker)
 * [Build Your Own Shipyard - Andreas Tiefenthaler (Kod.io 2014)](http://confreaks.com/videos/3252-kodio_2014-build-your-own-shipyard)
 * [Dockerising a Rails App - Graeme Mathieson](http://woss.name/articles/dockerising-a-rails-app/)
+* [3 hours to Docker fundamentals: Jumpstart your Docker knowledge](https://www.youtube.com/watch?v=ddhU3NMrhX4)
 
 ### DEVOPS - LOGGING
 
