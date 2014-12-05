@@ -1043,6 +1043,11 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PYTHON - CYTHON
 
 * [Cython](http://cython.org/)
+* [Speeding up scientific python code using Cython - EuroSciPy 2014](https://www.youtube.com/watch?v=zdXLSEdtyaY)
+* [Cython: Speed up Python and NumPy, Pythonize C, C++, and Fortran, SciPy2013 Tutorial, Part 1 - Kurt Smith](https://www.youtube.com/watch?v=JKCjsRDffXo), [Part 2](https://www.youtube.com/watch?v=KJFaJoJCqlU), [Part 3](https://www.youtube.com/watch?v=6ukI-NlIzqY), [Part 4](https://www.youtube.com/watch?v=kFLg5jw2esE)
+* [Very gentle introduction to Cython - William Stein](https://www.youtube.com/watch?v=YrO89QIizxI)
+* [The Cython compiler for Python - Dr. Stefan Behnel (2014)](https://www.youtube.com/watch?v=ZHpkLX2VFMU)
+* [Cython - Making Python as fast as C (Mandarin) - Mosky](https://www.youtube.com/watch?v=SjApBdi6M4E)
 
 ### PYTHON - COMPUTER VISION
 
