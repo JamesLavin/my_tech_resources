@@ -1089,6 +1089,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [mlpy](http://mlpy.sourceforge.net/)
 
+#### PYTHON - DATA ANALYSIS - NATURAL LANGUAGE TOOLKIT (NLTK)
+
+* [Statistical Machine Learning for Text Classification With Scikit-learn and NLTK - Olivier Grisel (PyCon 2011)](http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-statistical-machine-learning-for-text-classification-with-scikit-learn-4898362)
+* [Enough Machine Learning to Make Hacker News Readable Again - Ned Jackson Lovely (PyGotham 2014)](http://pyvideo.org/video/3321/enough-machine-learning-make-hacker-news-readable-) & [(PyCon 2014](https://www.youtube.com/watch?v=O7IezJT9uSI)
+
 #### PYTHON - DATA ANALYSIS - NUMPY
 
 * [Numpy User Guide](http://docs.scipy.org/doc/numpy/numpy-user-1.8.1.pdf)
@@ -1118,6 +1123,13 @@ Links to resources I have found useful or think might be helpful to future me or
 #### PYTHON - DATA ANALYSIS - PYBRAIN
 
 * [PyBrain](http://www.pybrain.org/)
+
+#### PYTHON - DATA ANALYSIS - PYMC
+
+* [PyMC user guide](http://pymc-devs.github.io/pymc/)
+* [PyMC Github](https://github.com/pymc-devs/pymc)
+* [PyMC tutorial](http://nbviewer.ipython.org/github/pymc-devs/pymc/blob/master/pymc/examples/tutorial.ipynb)
+* [Bayesian data analysis with PyMC3 - Thomas Wiecki (PyData 2013)](http://twiecki.github.io/blog/2013/12/12/bayesian-data-analysis-pymc3/)
 
 #### PYTHON - DATA ANALYSIS - PYML
 
@@ -1165,6 +1177,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Advanced Machine Learning with scikit-learn - Olivier Grisel (2013)](https://www.youtube.com/watch?v=iFkRt3BCctg)
 * [Statistical Machine Learning for Text Classification With Scikit-learn and NLTK - Olivier Grisel (PyCon 2011)](http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-statistical-machine-learning-for-text-classification-with-scikit-learn-4898362)
 * [Scikit-learn video tutorials](http://scikit-learn.org/stable/presentations.html)
+* [Enough Machine Learning to Make Hacker News Readable Again - Ned Jackson Lovely (PyGotham 2014)](http://pyvideo.org/video/3321/enough-machine-learning-make-hacker-news-readable-) & [(PyCon 2014](https://www.youtube.com/watch?v=O7IezJT9uSI)
 
 #### PYTHON - DATA ANALYSIS - SCIPY
 
