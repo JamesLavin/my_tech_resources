@@ -248,9 +248,12 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - DOCKER
 
 * [Docker Tutorials - DarkZebra](https://www.youtube.com/playlist?list=PLfpPfDziPdMIbc7p-_siXYwqsRnd3jrLM)
+* [Intro to Docker - Amjith Ramanujam (PyCon 2014)](https://www.youtube.com/watch?v=9bvdc55xYdo)
 * [Shipping Ruby Apps with Docker - Bryan Helmkamp (RedDot Ruby 2014](http://confreaks.com/videos/3853-rdrc2014-shipping-ruby-apps-with-docker)
 * [Build Your Own Shipyard - Andreas Tiefenthaler (Kod.io 2014)](http://confreaks.com/videos/3252-kodio_2014-build-your-own-shipyard)
 * [Dockerising a Rails App - Graeme Mathieson](http://woss.name/articles/dockerising-a-rails-app/)
+* [Docker's Youtube channel](https://www.youtube.com/channel/UC76AVf2JkrwjxNKMuPpscHQ)
+* [Immutable Infrastructure with Docker and EC2 - Michael Bryzek (Gilt) (DockerCon 2014)](https://www.youtube.com/watch?v=GaHzdqFithc)
 * [3 hours to Docker fundamentals: Jumpstart your Docker knowledge](https://www.youtube.com/watch?v=ddhU3NMrhX4)
 * [Be a happier developer with Docker: Tricks of the trade - Nicola Paolucci](https://www.youtube.com/watch?v=XCVOxht34Hs)
 
@@ -405,7 +408,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Immutable Ruby - Michael Fairley (MountainWest RubyConf 2013)](http://confreaks.com/videos/2337-mwrc2013-immutable-ruby)
 * [Functional Programming and Ruby - Pat Shaughnessy (BostonRB.org)](http://bostonrb.org/presentations/functional-programming-and-ruby)
 * [Y Not? - Adventures in Functional Programming - Jim Weirich (ScotlandJS 2012)](https://vimeo.com/45140590) [RubyConf 2012](http://confreaks.com/videos/1287-rubyconf2012-y-not-adventures-in-functional-programming)
-* [Functional Thinking With Neal Ford](http://www.youtube.com/watch?v=JeK979aqqqc)
+* [Functional Thinking - Neal Ford](http://www.youtube.com/watch?v=JeK979aqqqc) & [OSCON 2013](https://www.youtube.com/watch?v=7aYS9PcAITQ)
 * [Simple and Elegant Rails Code with Functional Style - Attila Domokos (RailsConf 2013)](http://confreaks.com/videos/2431-railsconf2013-simple-and-elegant-rails-code-with-functional-style)
 
 ## GIT
@@ -643,7 +646,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ES6Fiddle.net](http://www.es6fiddle.net)
 * [ES6 Tools - Addy Osmani](https://github.com/addyosmani/es6-tools)
 * [Rewriting a WebApp With ECMAScript 6](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6/)
-
 
 ### JAVASCRIPT - EMBER.JS
 
@@ -952,6 +954,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Postgres FTW: Postgres Is Just Easier - Guyren Howe](http://www.sdruby.org/podcast/120)
 * [Postgres Rules](http://www.sdruby.org/podcast/119)
 * [Postgres, the Best Tool You're Already Using - Adam Sanderson (RailsConf 2013)](https://www.youtube.com/watch?v=YWj8ws6jc0g)
+* [PostgreSQL proficiency for Python people - Christophe Pettus (PyCon 2014)](https://www.youtube.com/watch?v=0uCxLCmzaG4)
 
 ### POSTGRESQL - ADVANCED FEATURES
 
@@ -1154,6 +1157,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Tutorial on statistical-learning for scientific data processing](http://scikit-learn.org/stable/tutorial/statistical_inference/index.html)
 * [Practical Machine Learning in Python - Matt Spitz (2012)](https://www.youtube.com/watch?v=__s45TTXxps)
 * [Intro to Interactive Predictive Analytics in Python with scikit-learn - Olivier Grisel (PyCon 2012)](http://www.youtube.com/watch?v=Zd5dfooZWG4)
+* [How to Get Started with Machine Learning - Melanie Warrick (PyCon 2014)](https://www.youtube.com/watch?v=uBorfxosVYs)
 * [Social Network Analysis With Python - Maksim Semeniuk (2012)](http://www.youtube.com/watch?v=Zd5dfooZWG4)
 * [Intro to scikit-learn: Machine Learning in Python - Jake VanderPlas & Olivier Grisel (PyCon 2014)](https://www.youtube.com/watch?v=HjAB45qsx_c), [2014 tutorial materials](https://github.com/jakevdp/sklearn_pycon2014), [2013 tutorial materials](https://github.com/jakevdp/sklearn_pycon2013) & [Jake VanderPlas (PyData 2012)](http://www.youtube.com/watch?v=cHZONQ2-x7I)
 * [Intro to Scikit-Learn - Jake Vanderplas](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/17_SklearnIntro.html), [Intermediate Scikit-Learn](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/18_IntermediateSklearn.html)
@@ -1191,6 +1195,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - DOCUMENTATION & TESTING
 
+* [Getting Started Testing - Ned Batchelder (PyCon 2014)](https://www.youtube.com/watch?v=FxSsnHeWQBY)
 * [Basic Doctest Python - Daniel Arbuckle](https://www.packtpub.com/books/content/basic-doctest-python)
 * [doctest: Test interactive Python examples](https://docs.python.org/2/library/doctest.html)
 * [Intro to doctest2 for existing users of doctest](https://pythonhosted.org/doctest2/intro_for_existing.html)
@@ -1324,6 +1329,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### PYTHON - LEARNING - BASICS
 
+* [Beginner Python 3+ tutorial series - Harrison Kinsley](http://pythonprogramming.net/beginner-python-programming-tutorials/)
 * [Learn to Program: The Fundamentals - Jennifer Campbell and Paul Gries - U of Toronto (Coursera)](https://www.coursera.org/course/programming1)
 * [Python for Informatics: Exploring Information - Charles Severance](http://www.pythonlearn.com/book.php), [PDF](http://www.pythonlearn.com/book_008.pdf) & [videos](http://pythonlearn.com/)
 * [Let's Learn Python - Trevor Payne](https://www.youtube.com/user/TPayneExperience/playlists?sort=dd&shelf_id=2&view=50)
@@ -1364,11 +1370,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Hands-On Python Tutorial](http://cs.luc.edu/anh/python/hands-on/handson.pdf)
 * [How to Think Like a Computer Scientist: Learning with Python](http://interactivepython.org/runestone/static/thinkcspy/index.html) & [PDF](https://cs.nyu.edu/courses/fall12/CSCI-UA.0002-006/misc/httlacs.pdf)
 
-### PYTHONG - LEARNING - ITERATORS & GENERATORS
+### PYTHON - LEARNING - ITERATORS & GENERATORS
 * [Loop like a native: while, for, iterators, generators - Ned Batchelder](https://www.youtube.com/watch?v=EnSu9hHGq5o)
 * [Python generator functions for massive performance improvements with lists - sentdex](https://www.youtube.com/watch?v=07-K4LFhBMc)
 * [Iteration and generators: The Python way](https://www.youtube.com/watch?v=z4P6hSa6K9g)
 * [Fun with iterators and generators - Malcolm Tredinnick](https://www.youtube.com/watch?v=vD-JJD5tlIg)
+* [Generators: The Final Frontier - David Beazley (PyCon 2014)](https://www.youtube.com/watch?v=D1twn9kLmYg)
 
 ### PYTHON - LEARNING - VIDEOS
 
@@ -1397,6 +1404,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Nobody Expects the Python Packaging Authority - Nick Coghlan (PyCon Australia 2013)](https://www.youtube.com/watch?v=8Xrdt3-YVz4)
 * [Youtube](https://www.youtube.com/results?search_query=python+modules+packages)
 
+### PYTHON - PERFORMANCE
+
+* [Fast Python, Slow Python - Alex Gaynor (PyCon 2014)](https://www.youtube.com/watch?v=7eeEf_rAJds)
+
 ### PYTHON - PYPI
 
 * [PyPI - The Python Package Index (45,000 Python packages)](https://pypi.python.org/pypi)
@@ -1411,6 +1422,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - WEB SCRAPING
 
+* [Intro to Web (and data!) Scraping with Python - Katharine Jarmul (PyCon 2014)](https://www.youtube.com/watch?v=p1iX0uxM1w8)
+* [Scrape Websites with Python + Beautiful Soup 4 + Requests - ](https://www.youtube.com/watch?v=3xQTJi2tqgk)
 * [Scrapy](http://scrapy.org/) & [Github](https://github.com/scrapy/scrapy)
 * [Web scraping: Reliably and efficiently pull data from pages that don't expect it - Asheesh Laroia](https://www.youtube.com/watch?v=52wxGESwQSA)
 * [Web scraping tutorial series](https://www.youtube.com/watch?v=E7wB__M9fdw&list=PLgGfaPLP959bTiKYokXPkO15atkXYyYOz&index=1)
@@ -2153,6 +2166,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [VimNinjas.com](http://www.vimninjas.com/)
 * [OpenVim tutorial](http://www.openvim.com/tutorial.html)
 * [UseVim.com](http://usevim.com/)
+* [More instantly better Vim - Damian Conway (OSCON 2013)](https://www.youtube.com/watch?v=aHm36-na4-4)
 * [Learn to speak vim – verbs, nouns, and modifiers! - Yan Pritzker](http://yanpritzker.com/2011/12/16/learn-to-speak-vim-verbs-nouns-and-modifiers/)
 * [The grammar of Vim - Rafe Colburn](http://rc3.org/2012/05/12/the-grammar-of-vim/)
 * [vi and vim editor: Tutorial and advanced features](http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html)
