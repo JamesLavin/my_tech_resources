@@ -1145,13 +1145,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Managing Large Datasets with Python and HDF5 - Andrew Collette (2014)](https://www.youtube.com/watch?v=wZEFoVUu8h0)
 * [Modern scientific computing and big data analytics in Python - Edward Schofield (PyCon Australia 2013)](https://www.youtube.com/watch?v=hqOsfS3dP9w)
 
-#### PYTHON - DATA ANALYSIS - STATSMODELS
-
-* [StatsModels documentation](http://statsmodels.sourceforge.net/stable/index.html)
-* [Statsmodels](http://statsmodels.sourceforge.net/)
-* [Statsmodels tutorial - Skipper Seabold (ciPy 2012)](https://www.youtube.com/watch?v=RWRsxhUzpxk) & [code](https://github.com/jseabold/tutorial)
-* [Included datasets](http://statsmodels.sourceforge.net/devel/datasets/index.html)
-
 #### PYTHON - DATA ANALYSIS - R INTERFACES
 
 * [RPy2 documentation](http://rpy.sourceforge.net/rpy2/doc-dev/html/index.html)
@@ -1185,6 +1178,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Scientific Python lecture notes - EuroScipy tutorial team](http://scipy-lectures.github.io/) & [PDF](http://scipy-lectures.github.io/_downloads/PythonScientific-simple.pdf)
 * [scientific-python-lectures - JR Johansson](https://github.com/jrjohansson/scientific-python-lectures)
 * [Topical Software (add-on software relevant to SciPy, categorized by scientific discipline or computational topic)](http://scipy.org/topical-software.html)
+
+#### PYTHON - DATA ANALYSIS - STATSMODELS
+
+* [StatsModels documentation](http://statsmodels.sourceforge.net/stable/index.html)
+* [Statsmodels](http://statsmodels.sourceforge.net/)
+* [Statsmodels tutorial - Skipper Seabold (ciPy 2012)](https://www.youtube.com/watch?v=RWRsxhUzpxk) & [code](https://github.com/jseabold/tutorial)
+* [Included datasets](http://statsmodels.sourceforge.net/devel/datasets/index.html)
 
 #### PYTHON - DATA ANALYSIS - SYMPY
 
