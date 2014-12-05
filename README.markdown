@@ -1220,6 +1220,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Financial analysis Python tutorial - Thomas Wiecki](http://nbviewer.ipython.org/github/twiecki/financial-analysis-python-tutorial/tree/master/)
 * [Quantopian - the people behind Zipline](https://www.quantopian.com/)
 * [ultra-finance - real-time financial data collection, analyzing & backtesting trading strategies](http://code.google.com/p/ultra-finance/)
+* [Practical Approaches to Problems in the Financial Industry using Python - Andy Fundinger (PyGotham 2014)](https://www.youtube.com/watch?v=PVkHqdsyRfQ)
 
 #### PYTHON - FINANCE - QUANTLIB
 
@@ -1320,6 +1321,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The iPython Notebook Revolution - Catherine Devlin (2013)](https://www.youtube.com/watch?v=t_TzRaK9kpU)
 * [Gallery of interesting iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 * [iPython.org example notebooks](http://nbviewer.ipython.org/github/ipython/ipython/tree/1.x/examples/notebooks/)
+* [Learning iPython for Interactive Computing and Data Visualization - Cyrille Rossant](http://ipython-books.github.io/minibook/)
+* [iPython Interactive Computing and Visualization Cookbook](http://ipython-books.github.io/cookbook/)
 * [iPython Minibook code - Cyrille Rossant](https://github.com/rossant/ipython-minibook)
 * [IPython: Python at your fingertips - Fernando Pérez (PyCon 2012)](https://www.youtube.com/watch?v=26wgEsg9Mcc)
 * [IPython In Depth: High-Productivity Interactive and Parallel Python - Fernando Pérez (PyCon 2014)](https://www.youtube.com/watch?v=XFw1JVXKJss) & [(PyCon 2012)](https://www.youtube.com/watch?v=2G5YTlheCbw)
@@ -1360,6 +1363,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Introduction to Programming Using Python - Brian Heinold](http://faculty.msmary.edu/heinold/IntroductionToProgrammingUsingPython_Heinold.pdf)
 * [Hands-On Introduction to Using Python in the Atmospheric and Oceanic Sciences - Johnny Wei-Bing Lin (free 1st ed)](http://www.johnny-lin.com/pyintro/ed01/)
 * [Object Oriented Design - Niko Wilbert](https://python.g-node.org/python-summerschool-2013/_media/wiki/oop/oo_design_2013.pdf)
+* [How to write actually object-oriented Python - Per Fagrell (PyGotham 2014)](https://www.youtube.com/watch?v=VUvEDg30FyY)
 * [The Hitchiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 * [Command line Python scripts](http://www.curiousvenn.com/2013/06/notes-from-mpug-june-2013-python-one-liners-talk/)
 * [A hands-on introduction to Python for beginning programmers - Jessica McKellar (PyCon 2014)](https://www.youtube.com/watch?v=MirG-vJOg04) & [(PyCon 2013)](https://www.youtube.com/watch?v=rkx5_MRAV3A)
@@ -1406,6 +1410,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Keynote - Raymond Hettinger (2013)](https://www.youtube.com/watch?v=NfngrdLv9ZQ)
 * [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond - Brandon Rhodes (PyCon 2014)](https://www.youtube.com/watch?v=fYlnfvKVDoM)
 * [Militarizing Your Backyard with Python: Computer Vision and the Squirrel Hordes - Kurt Grandis (PyCon 2012)](https://www.youtube.com/watch?v=QPgqfnKG_T4)
+* [Decorators 101: A Gentle Introduction to Functional Programming - Jillian Munson (PyGotham 2014)](https://www.youtube.com/watch?v=yW0cK3IxlHc)
 
 ### PYTHON - MODULES & PACKAGING
 
