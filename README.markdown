@@ -252,6 +252,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Build Your Own Shipyard - Andreas Tiefenthaler (Kod.io 2014)](http://confreaks.com/videos/3252-kodio_2014-build-your-own-shipyard)
 * [Dockerising a Rails App - Graeme Mathieson](http://woss.name/articles/dockerising-a-rails-app/)
 * [3 hours to Docker fundamentals: Jumpstart your Docker knowledge](https://www.youtube.com/watch?v=ddhU3NMrhX4)
+* [Be a happier developer with Docker: Tricks of the trade - Nicola Paolucci](https://www.youtube.com/watch?v=XCVOxht34Hs)
 
 ### DEVOPS - LOGGING
 
@@ -1320,6 +1321,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Learn to Program: The Fundamentals - Jennifer Campbell and Paul Gries - U of Toronto (Coursera)](https://www.coursera.org/course/programming1)
 * [Python for Informatics: Exploring Information - Charles Severance](http://www.pythonlearn.com/book.php), [PDF](http://www.pythonlearn.com/book_008.pdf) & [videos](http://pythonlearn.com/)
+* [Let's Learn Python - Trevor Payne](https://www.youtube.com/user/TPayneExperience/playlists?sort=dd&shelf_id=2&view=50)
 * [Hello, Little Turtles!](http://interactivepython.org/runestone/static/thinkcspy/PythonTurtle/helloturtle.html)
 * [Python Programming - Introduction - TDChannel](https://www.youtube.com/watch?v=72RKMMyLxS8)
 * [Google Python Class Day 1, Pt 1: Intro & Strings](https://www.youtube.com/watch?v=tKTZoB2Vjuk), [Day 1, Pt 2: Lists, Sorting and Tuples](https://www.youtube.com/watch?v=EPYupizJYQI), [Day 1, Pt 3](https://www.youtube.com/watch?v=haycL41dAhg), [Day 2, Pt 1: Regular Expressions](https://www.youtube.com/watch?v=kWyoYtvJpe4), [Day 2, Pt 2: Utilities: OS & Commands](https://www.youtube.com/watch?v=uKZ8GBKmeDM), [Day 2, Pt 3: Utilities: URLs, and HTTP, Exceptions](https://www.youtube.com/watch?v=Nn2KQmVF5Og), [Day 2, Pt 4: Closing Thoughts](https://www.youtube.com/watch?v=IcteAbMC1Ok)
