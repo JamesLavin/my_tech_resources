@@ -1082,23 +1082,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Blaze ("extends NumPy and Pandas to distributed and out-of-core computing")](http://blaze.pydata.org/docs/latest/index.html)
 * [Introducing Blaze - HMDA Practice - Matt Rocklin](http://continuum.io/blog/blaze-hmda)
 
-### PYTHON - FINANCE
-
-* [QuantStart.com](http://www.quantstart.com/articles)
-* [Financial analysis Python tutorial - Thomas Wiecki](http://nbviewer.ipython.org/github/twiecki/financial-analysis-python-tutorial/tree/master/)
-* [Quantopian - the people behind Zipline](https://www.quantopian.com/)
-* [ultra-finance - real-time financial data collection, analyzing & backtesting trading strategies](http://code.google.com/p/ultra-finance/)
-
-#### PYTHON - FINANCE - QUANTLIB
-
-* [The QuantLib Notebooks](http://implementingquantlib.blogspot.com/p/notebooks.html)
-* [Implementing QuantLib - Luigi Ballabio](http://implementingquantlib.blogspot.com/p/the-book.html)
-
-#### PYTHON - FINANCE - ZIPLINE
-
-* [Algorithmic Trading with Zipline - Thomas Wiecki](https://www.youtube.com/watch?v=Qva7uxmOZuA)
-* [Zipline - algorithmic trading library](https://github.com/quantopian/zipline) & [docs](http://zipline.readthedocs.org/en/latest/)
-
 #### PYTHON - DATA ANALYSIS - MLPY
 
 * [mlpy](http://mlpy.sourceforge.net/)
@@ -1212,6 +1195,23 @@ Links to resources I have found useful or think might be helpful to future me or
 * [doctest: Test interactive Python examples](https://docs.python.org/2/library/doctest.html)
 * [Intro to doctest2 for existing users of doctest](https://pythonhosted.org/doctest2/intro_for_existing.html)
 * [Documentation, Testing and Packaging - Jake Vanderplas](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/20_DocsAndTesting.html)
+
+### PYTHON - FINANCE
+
+* [QuantStart.com](http://www.quantstart.com/articles)
+* [Financial analysis Python tutorial - Thomas Wiecki](http://nbviewer.ipython.org/github/twiecki/financial-analysis-python-tutorial/tree/master/)
+* [Quantopian - the people behind Zipline](https://www.quantopian.com/)
+* [ultra-finance - real-time financial data collection, analyzing & backtesting trading strategies](http://code.google.com/p/ultra-finance/)
+
+#### PYTHON - FINANCE - QUANTLIB
+
+* [The QuantLib Notebooks](http://implementingquantlib.blogspot.com/p/notebooks.html)
+* [Implementing QuantLib - Luigi Ballabio](http://implementingquantlib.blogspot.com/p/the-book.html)
+
+#### PYTHON - FINANCE - ZIPLINE
+
+* [Algorithmic Trading with Zipline - Thomas Wiecki](https://www.youtube.com/watch?v=Qva7uxmOZuA)
+* [Zipline - algorithmic trading library](https://github.com/quantopian/zipline) & [docs](http://zipline.readthedocs.org/en/latest/)
 
 ### PYTHON - GAMES
 
