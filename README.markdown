@@ -1033,6 +1033,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Scott Hanselman](http://www.hanselman.com/)
 * [StackOverflow](http://blog.stackoverflow.com/)
 
+### PROGRAMMING - VIDEOS
+
+* [InfoQ.com videos](http://www.infoq.com/presentations/)
+
 ## PYTHON
 
 ### PYTHON - ALGORITHMS
