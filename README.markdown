@@ -1414,9 +1414,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - MODULES & PACKAGING
 
-* [Python Packaging User Guide](https://packaging.python.org/en/latest/)
 * [Tutorial on Installing Packages](https://packaging.python.org/en/latest/installing.html) & [Tutorial on Packaging & Distributing Packages](https://packaging.python.org/en/latest/distributing.html)
-* [Grug make fire! Grug make wheel! - Russell Keith-Magee (PyCon Australia 2014)](https://www.youtube.com/watch?v=UtFHIpNPMPA)
+* [Python Packaging User Guide](https://packaging.python.org/en/latest/)
+* [Python Tutorial - Modules](https://docs.python.org/3/tutorial/modules.html)
 * [Python Module Index](https://docs.python.org/3/py-modindex.html) & [Standard Library](https://docs.python.org/3/library/)
 * [Modules 101: how to avoid spaghetti, big balls of mud and houses of straw! - Graeme Cross (PyCon Australia 2013)](https://www.youtube.com/watch?v=72lahT9Umtg)
 * [Structuring Your Project (Hitchhiker's Guide to Python)](http://docs.python-guide.org/en/latest/writing/structure/)
@@ -1428,6 +1428,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - MODULES & PACKAGING - WHEELS
 
+* [Grug make fire! Grug make wheel! - Russell Keith-Magee (PyCon Australia 2014)](https://www.youtube.com/watch?v=UtFHIpNPMPA)
 * [Wheel](https://pypi.python.org/pypi/wheel)
 * [PythonWheels.com](http://pythonwheels.com/)
 
