@@ -1103,6 +1103,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Numpy User Guide](http://docs.scipy.org/doc/numpy/numpy-user-1.8.1.pdf)
 * [Numpy Reference Guide](http://docs.scipy.org/doc/numpy/numpy-ref-1.8.1.pdf)
 * [NumPy and iPython - Valentin Haenel (SciPy 2013) - Pt 1](http://www.youtube.com/watch?v=UWmZAAfXds4) & [Pt 2](http://www.youtube.com/watch?v=lSfkIle93hQ)
+* [An introduction to Numpy and Scipy - M. Scott Shell](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)
 
 #### PYTHON - DATA ANALYSIS - PANDAS
 
