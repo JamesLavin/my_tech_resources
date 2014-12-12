@@ -1229,6 +1229,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ultra-finance - real-time financial data collection, analyzing & backtesting trading strategies](http://code.google.com/p/ultra-finance/)
 * [Practical Approaches to Problems in the Financial Industry using Python - Andy Fundinger (PyGotham 2014)](https://www.youtube.com/watch?v=PVkHqdsyRfQ)
 
+#### PYTHON - FINANCE - IBPY
+
+* [IbPy (Interactive Brokers online trading system Python API](https://github.com/blampe/IbPy)
+* [How to use IBPy Python with Interactive Brokers TWS API For Automated Trading - Sentdex](https://www.youtube.com/watch?v=Bu0kpU-ozaw)
+* [Using Python, IbPy and the Interactive Brokers API to Automate Trades](http://www.quantstart.com/articles/Using-Python-IBPy-and-the-Interactive-Brokers-API-to-Automate-Trades)
+
 #### PYTHON - FINANCE - QUANTLIB
 
 * [The QuantLib Notebooks](http://implementingquantlib.blogspot.com/p/notebooks.html)
