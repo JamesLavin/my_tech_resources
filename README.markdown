@@ -766,6 +766,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - TESTING
 
+* [Zero to Testing in Javascript - Pamela Selle (QConn New York 2014)](http://www.infoq.com/presentations/tdd-javascript-2014)
 * [Testing Javascript/Coffeescript - Mark Bates](http://www.youtube.com/watch?v=x74ANVOAnKw)
 * [Javascript testing - Ruby-Toolbox](https://www.ruby-toolbox.com/categories/javascript_testing)
 * [Konacha gem (Mocha + Chai)](https://github.com/jfirebaugh/konacha)
@@ -858,6 +859,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [MLOSS.org (Machine Learning Open Source Software)](http://mloss.org/software/)
 * [KD Nuggets](http://www.kdnuggets.com/)
 * [Artificial Stupidity: Adding Smarts to Yer Kode - Randall Thomas](http://www.sdruby.org/podcast/79)
+* [Weathering the Data Storm - Claudia Perlich (QConn New York 2014)](http://www.infoq.com/presentations/display-advertising-big-data)
 
 ## MAKER MOVEMENT
 
