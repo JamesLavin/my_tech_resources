@@ -1362,6 +1362,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### PYTHON - LEARNING - BASICS
 
 * [Beginner Python 3+ tutorial series - Harrison Kinsley](http://pythonprogramming.net/beginner-python-programming-tutorials/)
+* [Python 3 Tutorial - Bernd Klein](http://www.python-course.eu/python3_course.php) or [Python 2 Tutorial](http://www.python-course.eu/course.php)
 * [Learn to Program: The Fundamentals - Jennifer Campbell and Paul Gries - U of Toronto (Coursera)](https://www.coursera.org/course/programming1)
 * [Python for Informatics: Exploring Information - Charles Severance](http://www.pythonlearn.com/book.php), [PDF](http://www.pythonlearn.com/book_008.pdf) & [videos](http://pythonlearn.com/)
 * [Let's Learn Python - Trevor Payne](https://www.youtube.com/user/TPayneExperience/playlists?sort=dd&shelf_id=2&view=50)
