@@ -1102,8 +1102,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### PYTHON - DATA ANALYSIS - NUMPY
 
-* [Numpy User Guide](http://docs.scipy.org/doc/numpy/numpy-user-1.8.1.pdf)
-* [Numpy Reference Guide](http://docs.scipy.org/doc/numpy/numpy-ref-1.8.1.pdf)
+* [(Tentative) NumPy Tutorial](http://wiki.scipy.org/Tentative_NumPy_Tutorial)
+* [Numpy User Guide](http://docs.scipy.org/doc/numpy/user/index.html) & [PDF](http://docs.scipy.org/doc/numpy/numpy-user-1.9.1.pdf)
+* [Numpy Reference Guide](http://docs.scipy.org/doc/numpy/reference/) & [PDF](http://docs.scipy.org/doc/numpy/numpy-ref-1.9.1.pdf)
 * [NumPy and iPython - Valentin Haenel (SciPy 2013) - Pt 1](http://www.youtube.com/watch?v=UWmZAAfXds4) & [Pt 2](http://www.youtube.com/watch?v=lSfkIle93hQ)
 * [An introduction to Numpy and Scipy - M. Scott Shell](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)
 
@@ -1181,7 +1182,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### PYTHON - DATA ANALYSIS - SCIPY
 
-* [Scipy Reference Guide](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf)
+* [SciPy Reference Guide](http://docs.scipy.org/doc/scipy/reference/) & [PDF](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf)
+* [SciPy Cookbook](http://wiki.scipy.org/Cookbook)
 * [Scientific Python lecture notes - EuroScipy tutorial team](http://scipy-lectures.github.io/) & [PDF](http://scipy-lectures.github.io/_downloads/PythonScientific-simple.pdf)
 * [scientific-python-lectures - JR Johansson](https://github.com/jrjohansson/scientific-python-lectures)
 * [Topical Software (add-on software relevant to SciPy, categorized by scientific discipline or computational topic)](http://scipy.org/topical-software.html)
@@ -1225,6 +1227,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [QuantStart.com](http://www.quantstart.com/articles)
 * [Financial analysis Python tutorial - Thomas Wiecki](http://nbviewer.ipython.org/github/twiecki/financial-analysis-python-tutorial/tree/master/)
+* [Python Charting Stocks/Forex for Technical Analysis - Sentdex](https://www.youtube.com/watch?v=u6Xd3kRHhJI&index=1&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ)
 * [Quantopian - the people behind Zipline](https://www.quantopian.com/)
 * [ultra-finance - real-time financial data collection, analyzing & backtesting trading strategies](http://code.google.com/p/ultra-finance/)
 * [Practical Approaches to Problems in the Financial Industry using Python - Andy Fundinger (PyGotham 2014)](https://www.youtube.com/watch?v=PVkHqdsyRfQ)
