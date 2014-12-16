@@ -1297,7 +1297,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Folium (Python Data -> Leaflet.js Maps)](https://github.com/wrobstory/folium)
 
-### PYTHON - GRAPHICS - MATPLOTLIB
+#### PYTHON - GRAPHICS - MATPLOTLIB
 
 * Matplotlib [API](http://matplotlib.org/api/), [PDF documentation](http://matplotlib.org/Matplotlib.pdf), [examples index](http://matplotlib.org/examples/index.html), [examples gallery](http://matplotlib.org/gallery.html) & [screenshots gallery](http://matplotlib.org/users/screenshots.html)
 * Pyplot [API](http://matplotlib.org/api/pyplot_summary.html)
@@ -1313,7 +1313,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Plotting With Matplotlib - Mike Mueller](http://www.youtube.com/watch?v=P7SVi0YTIuE)
 * [Anatomy of Matplotlib (1 of 3) - Benjamin Root (SciPy 2013)](https://www.youtube.com/watch?v=FhMmhYV7tNw), [(2 of 3)](https://www.youtube.com/watch?v=c553uCRmEVc), [(3 of 3)](https://www.youtube.com/watch?v=UozWLFgF1_E)
 
-#### PYTHON - GRAPHICS - MATPLOTLIB - MPLD3
+##### PYTHON - GRAPHICS - MATPLOTLIB - MPLD3
 
 * [MPLD3](http://mpld3.github.io/)
 
