@@ -1157,6 +1157,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [RPy2 documentation](http://rpy.sourceforge.net/rpy2/doc-dev/html/index.html)
 * [RMagic for iPython Notebook](http://ipython.org/ipython-doc/dev/config/extensions/rmagic.html)
+* [Using R Within the iPython Notebook](http://nbviewer.ipython.org/github/ipython/ipython/blob/1.x/examples/notebooks/R%20Magics.ipynb)
+* [RMagic Functions Extension](http://nbviewer.ipython.org/github/ipython/ipython/blob/1.x/examples/notebooks/Cell%20Magics.ipynb#Rmagic-Functions-Extension)
 
 #### PYTHON - DATA ANALYSIS - SCIKIT-LEARN
 
@@ -1333,7 +1335,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PYTHON - IPYTHON NOTEBOOK
 
 * [iPython](http://ipython.org/)
-* [Documentation](http://ipython.org/ipython-doc/dev/notebook/index.html) & [Keyboard Shortcuts](http://johnlaudun.org/20131228-ipython-notebook-keyboard-shortcuts/)
+* [Documentation](http://ipython.org/ipython-doc/dev/notebook/index.html) & [Keyboard Shortcuts](http://ipython.org/ipython-doc/1/interactive/notebook.html#keyboard-shortcuts) & [Cookbook](https://github.com/ipython/ipython/wiki/Cookbook%3A-Index)
 * [The iPython Notebook Revolution - Catherine Devlin (2013)](https://www.youtube.com/watch?v=t_TzRaK9kpU)
 * [Gallery of interesting iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 * [iPython.org example notebooks](http://nbviewer.ipython.org/github/ipython/ipython/tree/1.x/examples/notebooks/)
@@ -1345,9 +1347,19 @@ Links to resources I have found useful or think might be helpful to future me or
 * [iPython: Tools for the Entire Lifecycle of Research Computing - Fernando Perez et al. (ciPy 2012)](https://www.youtube.com/watch?v=iwVvqwLDsJo)
 * [Mining Social Web APIs With iPython Notebook - Matthew Russell (PyCon 2014)](https://www.youtube.com/watch?v=jpCG792tVt0)
 
+#### PYTHON - IPYTHON NOTEBOOK - DEBUGGING
+
+* [%debug, %pdb, and %run -d xyz.py](http://ipython.org/ipython-doc/1/interactive/tutorial.html#debugging)
+* [Using the Python debugger](http://scipy-lectures.github.io/advanced/debugging/#using-the-python-debugger)
+
 #### PYTHON - IPYTHON NOTEBOOK - INTERESTING NOTEBOOKS
 
 * [Gallery of Interesting iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+
+#### PYTHON - IPYTHON NOTEBOOK - MAGIC
+
+* [Cell Magics](http://nbviewer.ipython.org/github/ipython/ipython/blob/1.x/examples/notebooks/Cell%20Magics.ipynb)
+* [Cython Magic Functions](http://nbviewer.ipython.org/github/ipython/ipython/blob/1.x/examples/notebooks/Cython%20Magics.ipynb)
 
 #### PYTHON - IPYTHON NOTEBOOK - NBCONVERT
 
@@ -1431,16 +1443,18 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - MODULES & PACKAGING
 
-* [Tutorial on Installing Packages](https://packaging.python.org/en/latest/installing.html) & [Tutorial on Packaging & Distributing Packages](https://packaging.python.org/en/latest/distributing.html)
+* [Tutorial on Installing Packages](https://packaging.python.org/en/latest/installing.html), [Tutorial on Packaging & Distributing Packages](https://packaging.python.org/en/latest/distributing.html), [Tool Recommendations](https://packaging.python.org/en/latest/current.html) & [Advanced Packaging Topics](https://packaging.python.org/en/latest/additional.html)
 * [Python Packaging User Guide](https://packaging.python.org/en/latest/)
 * [Python Tutorial - Modules](https://docs.python.org/3/tutorial/modules.html)
 * [Python Module Index](https://docs.python.org/3/py-modindex.html) & [Standard Library](https://docs.python.org/3/library/)
 * [Modules 101: how to avoid spaghetti, big balls of mud and houses of straw! - Graeme Cross (PyCon Australia 2013)](https://www.youtube.com/watch?v=72lahT9Umtg)
 * [Structuring Your Project (Hitchhiker's Guide to Python)](http://docs.python-guide.org/en/latest/writing/structure/)
 * [Packaging Your Code (Hitchhiker's Guide to Python)](http://docs.python-guide.org/en/latest/shipping/packaging/)
+* [5 Simple Rules For Building Great Python Packages](http://axialcorps.com/2013/08/29/5-simple-rules-for-building-great-python-packages/)
 * [Python Packaging User Guide](https://python-packaging-user-guide.readthedocs.org/en/latest/)
 * [Distributing Python Modules (Python 3.4)](https://docs.python.org/3.4/distributing/index.html)
 * [Nobody Expects the Python Packaging Authority - Nick Coghlan (PyCon Australia 2013)](https://www.youtube.com/watch?v=8Xrdt3-YVz4)
+* [Importing iPython Notebooks as Modules](http://nbviewer.ipython.org/github/ipython/ipython/blob/1.x/examples/notebooks/Importing%20Notebooks.ipynb)
 * [Youtube](https://www.youtube.com/results?search_query=python+modules+packages)
 
 ### PYTHON - MODULES & PACKAGING - WHEELS
