@@ -1388,7 +1388,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/index.html)
 * The best way to learn Python - Charl Botha: [Part 1: Install Anaconda on Linux](https://www.youtube.com/watch?v=NwyIuWK80gQ), [Part 2: Install Anaconda on Windows](https://www.youtube.com/watch?v=oXnnRpTGT2M), [Part 3: Variables, control flow, plotting!](https://www.youtube.com/watch?v=84WRAisoEas), [Part 4: slicing, string interpolation, list comprehension](https://www.youtube.com/watch?v=KZRrY9uzO7c), [Part 5: Object-oriented programming and bouncing balls](https://www.youtube.com/watch?v=yJunB_tV1QI)
 
-#### PYTHON - LEARNING - BOOKS
+#### PYTHON - LEARNING - BOOKS (FREE)
 
 * [A Byte of Python](http://files.swaroopch.com/python/byte_of_python.pdf)
 * [Python Programming](http://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf)
