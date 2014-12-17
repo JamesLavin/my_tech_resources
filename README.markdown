@@ -1400,6 +1400,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to Electrical Engineering and Computer Science I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/index.html)
 * The best way to learn Python - Charl Botha: [Part 1: Install Anaconda on Linux](https://www.youtube.com/watch?v=NwyIuWK80gQ), [Part 2: Install Anaconda on Windows](https://www.youtube.com/watch?v=oXnnRpTGT2M), [Part 3: Variables, control flow, plotting!](https://www.youtube.com/watch?v=84WRAisoEas), [Part 4: slicing, string interpolation, list comprehension](https://www.youtube.com/watch?v=KZRrY9uzO7c), [Part 5: Object-oriented programming and bouncing balls](https://www.youtube.com/watch?v=yJunB_tV1QI)
+* [Gotcha — Mutable default arguments](http://pythonconquerstheuniverse.wordpress.com/2012/02/15/mutable-default-arguments/) & [Common Gotchas](http://docs.python-guide.org/en/latest/writing/gotchas/)
 
 #### PYTHON - LEARNING - BOOKS (FREE)
 
@@ -1769,6 +1770,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Ruby Bookmarks - Alex Musayev](https://github.com/dreikanter/ruby-bookmarks)
 * [Github's style guide](https://github.com/styleguide/ruby)
+* [Read Ruby](http://readruby.io/)
 * [Ten Things You Didn't Know Ruby Could Do - James Edward Gray II (Aloha RubyConf 2012)](http://confreaks.com/videos/1244-aloharuby2012-ten-things-you-didn-t-know-ruby-could-do)
 * [Davetron5000's Ruby Style Guide - David Copeland](http://davetron5000.github.com/ruby-style/)
 * [Ruby Rogues (podcasts)](http://rubyrogues.com/)
@@ -2254,8 +2256,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [supertab](https://raw.githubusercontent.com/ervandew/supertab/master/doc/supertab.txt)
 * [syntastic](https://raw.githubusercontent.com/scrooloose/syntastic/master/doc/syntastic.txt)
 * [tabular](https://raw.githubusercontent.com/godlygeek/tabular/master/doc/Tabular.txt)
-* [vim-fugitive](https://raw.githubusercontent.com/tpope/vim-fugitive/master/doc/fugitive.txt) & [VimCasts](http://vimcasts.org/episodes/fugitive-vim---a-complement-to-command-line-git/) & [Painless Merge Conflict Resolution in Git](http://blog.wuwon.id.au/2010/09/painless-merge-conflict-resolution-in.html)
 * [vim-coffee-script](https://raw.githubusercontent.com/kchmck/vim-coffee-script/master/doc/coffee-script.txt)
+* [vim-fugitive](https://raw.githubusercontent.com/tpope/vim-fugitive/master/doc/fugitive.txt) & [VimCasts](http://vimcasts.org/episodes/fugitive-vim---a-complement-to-command-line-git/) & [Painless Merge Conflict Resolution in Git](http://blog.wuwon.id.au/2010/09/painless-merge-conflict-resolution-in.html)
+* [vim-ipython](https://github.com/ivanov/vim-ipython)
 * [vim-rails](https://raw.githubusercontent.com/tpope/vim-rails/master/doc/rails.txt)
 * [vim-rake](https://raw.githubusercontent.com/tpope/vim-rake/master/doc/rake.txt)
 * [vim-rspec](https://github.com/thoughtbot/vim-rspec/blob/master/README.md)
