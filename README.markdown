@@ -1322,6 +1322,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [MPLD3](http://mpld3.github.io/)
 
+##### PYTHON - GRAPHICS - MATPLOTLIB - SEABORN
+
+* [Seaborn: Statistical data visualization](http://stanford.edu/~mwaskom/software/seaborn/)
+* [Gallery](http://stanford.edu/~mwaskom/software/seaborn/examples/index.html#example-gallery)
+* [Tutorial](http://stanford.edu/~mwaskom/software/seaborn/tutorial.html#tutorial)
+
 #### PYTHON - GRAPHICS - TUFTE SLOPE GRAPHS
 
 * [Tufte slope graphs](https://github.com/pascal-schetelat/Slope) & [example](http://nbviewer.ipython.org/gist/pascal-schetelat/8382651)
