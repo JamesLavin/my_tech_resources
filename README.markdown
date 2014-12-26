@@ -401,6 +401,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/#/)
 
+## EVENT SOURCING/STREAMS
+
+* [Polyglot Data - Greg Young (GOTO Conference 2014)](https://www.youtube.com/watch?v=hv2dKtPq0ME)
+* [CQRS and Event Sourcing - Greg Young (Code on the Beach 2014)](https://www.youtube.com/watch?v=JHGkaShoyNs)
+* [Querying Event Streams - Greg Young (React 2014)](https://www.youtube.com/watch?v=DWhQggR13u8)
+
 ## FUNCTIONAL PROGRAMMING
 
 * [Functional Principles for OO Development - Jessica Kerr (GOTO Conference 2014)](https://www.youtube.com/watch?v=GpXsQ-NIKXY) & [(Ruby MidWest 2013)](http://confreaks.com/videos/2382-rmw2013-functional-principles-for-oo-development)
@@ -729,6 +735,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### JAVASCRIPT - MEMORY/GARBAGE COLLECTION
 
 * [Garbage Collection & Heap Management - Ryan Sandor Richards (Scotland.js 2012)](http://vimeo.com/45140516)
+
+### JAVASCRIPT - METEOR.JS
+
+* [Meteor -Web Development Like You've Never Seen - Matt Debergalis (QCon 2013)](http://www.infoq.com/presentations/meteor-web)
 
 ### JAVASCRIPT - MONITORING
 
@@ -1679,6 +1689,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Writing a Rails Engine - Erik Michaels-Ober (GoGaRuCo 2012)](http://confreaks.com/videos/1109-gogaruco2012-writing-a-rails-engine)
 * [Rails Engines Patterns - Andy Maleh (RailsConf 2012)](http://www.youtube.com/watch?v=pm94BsoMGik)
 * [Start Your Engines! - Ryan Bigg (Ruby On Ales 2012)](http://confreaks.com/videos/832-roa2012-start-your-engines)
+
+### RAILS - EVENT SOURCING
+
+* [Rails Disco: Get Down with Event Sourcing - Glenn Goodrich](http://www.sitepoint.com/rails-disco-get-event-sourcing/)
+* [Rails-disco gem](https://github.com/hicknhack-software/rails-disco)
 
 ### RAILS - FEATURES
 
