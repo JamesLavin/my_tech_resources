@@ -1121,6 +1121,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### PYTHON - DATA ANALYSIS - PANDAS
 
 * [Pandas documentation (PDF)](http://pandas.pydata.org/pandas-docs/stable/pandas.pdf)
+* [Cheat Sheet: The Pandas DataFrame Object](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
 * [Translating SQL to pandas. And back - Greg Reda (PyData NYC 2014)](https://www.youtube.com/watch?v=1uVWjdAbgBg)
 * [Intro to PANDAS Data Structures - Greg Reda](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/), [Working With DataFrames](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/) & [Using PANDAS on the MovieLens Database](http://www.gregreda.com/2013/10/26/using-pandas-on-the-movielens-dataset/)
 * [Statistical Data Analysis in Python (4 videos) - Christopher Fonnesbeck](http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109) [1](http://www.youtube.com/watch?v=DXPwSiRTxYY) [2](http://www.youtube.com/watch?v=TGEBpzJUxdI) [3](http://www.youtube.com/watch?v=YZDtBEEZuAk) [4](http://www.youtube.com/watch?v=5_rcdhBXD-0) & [iPython notebooks](https://github.com/fonnesbeck/statistical-analysis-python-tutorial)
@@ -1318,6 +1319,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### PYTHON - GRAPHICS - MATPLOTLIB
 
+* [Intro Notes: Matplotlib](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
 * Matplotlib [API](http://matplotlib.org/api/), [PDF documentation](http://matplotlib.org/Matplotlib.pdf), [examples index](http://matplotlib.org/examples/index.html), [examples gallery](http://matplotlib.org/gallery.html) & [screenshots gallery](http://matplotlib.org/users/screenshots.html)
 * Pyplot [API](http://matplotlib.org/api/pyplot_summary.html)
 * [Matplotlib Intro - Jake Vanderplas](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/06_MatplotlibIntro.html) [Matplotlib In-depth](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/12_AdvancedMatplotlib)
@@ -1394,6 +1396,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### PYTHON - LEARNING - BASICS
 
+* [Python Notes/Cheatsheet](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
 * [Beginner Python 3+ tutorial series - Harrison Kinsley](http://pythonprogramming.net/beginner-python-programming-tutorials/)
 * [Python 3 Tutorial - Bernd Klein](http://www.python-course.eu/python3_course.php) or [Python 2 Tutorial](http://www.python-course.eu/course.php)
 * [Learn to Program: The Fundamentals - Jennifer Campbell and Paul Gries - U of Toronto (Coursera)](https://www.coursera.org/course/programming1)
