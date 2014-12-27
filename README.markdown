@@ -1121,6 +1121,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### PYTHON - DATA ANALYSIS - PANDAS
 
 * [Pandas documentation (PDF)](http://pandas.pydata.org/pandas-docs/stable/pandas.pdf)
+* [Translating SQL to pandas. And back - Greg Reda (PyData NYC 2014)](https://www.youtube.com/watch?v=1uVWjdAbgBg)
 * [Intro to PANDAS Data Structures - Greg Reda](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/), [Working With DataFrames](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/) & [Using PANDAS on the MovieLens Database](http://www.gregreda.com/2013/10/26/using-pandas-on-the-movielens-dataset/)
 * [Statistical Data Analysis in Python (4 videos) - Christopher Fonnesbeck](http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109) [1](http://www.youtube.com/watch?v=DXPwSiRTxYY) [2](http://www.youtube.com/watch?v=TGEBpzJUxdI) [3](http://www.youtube.com/watch?v=YZDtBEEZuAk) [4](http://www.youtube.com/watch?v=5_rcdhBXD-0) & [iPython notebooks](https://github.com/fonnesbeck/statistical-analysis-python-tutorial)
 * [Keynote - Wes McKinney (PyCon Singapore 2013)](https://www.youtube.com/watch?v=Jm73dKlYHZw)
@@ -1137,6 +1138,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [10 Things I Hate About Pandas - Wes McKinney](http://www.slideshare.net/wesm/practical-medium-data-analytics-with-python)
 * [Python and Pandas for Sentiment Analysis and Investing - "sentdex"](https://www.youtube.com/watch?v=0ySdEYUONz0&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7&feature=share)
 * [pandasql (query Pandas with SQL)](https://pypi.python.org/pypi/pandasql)
+* [Manipulating/querying dataframes with Pandas (or dplyr)](http://nbviewer.ipython.org/gist/TomAugspurger/6e052140eaa5fdb6e8c0/dplyr_pandas.ipynb)
 
 #### PYTHON - DATA ANALYSIS - PYBRAIN
 
@@ -1794,7 +1796,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Read Ruby](http://readruby.io/)
 * [Ten Things You Didn't Know Ruby Could Do - James Edward Gray II (Aloha RubyConf 2012)](http://confreaks.com/videos/1244-aloharuby2012-ten-things-you-didn-t-know-ruby-could-do)
 * [Davetron5000's Ruby Style Guide - David Copeland](http://davetron5000.github.com/ruby-style/)
-* [Ruby Rogues (podcasts)](http://rubyrogues.com/)
+* [Ruby Rogues (podcasts)](http://devchat.tv/ruby-rogues)
 * [The Ruby Show (podcasts)](http://rubyshow.com/)
 * [Unblocked - James Edward Gray II (RubyConf 2010)](http://www.confreaks.com/videos/468-rubyconf2010-unblocked)
 * [Tracing Your Way Through Ruby (BaRuCo 2012)](http://www.youtube.com/watch?v=CvzEibqrriM)i
