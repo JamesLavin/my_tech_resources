@@ -1286,6 +1286,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - GRAPHICS
 
+* [Up and Down the Python Data and Web Visualization Stack - Rob Story (PyData 2014 Silicon Valley)](https://www.youtube.com/watch?v=kmy-sfm3cC8)
+
 #### PYTHON - GRAPHICS - 3D VISUALIZATION
 
 * [MayaVI](http://docs.enthought.com/mayavi/mayavi/) & [Github repo](https://github.com/enthought/mayavi)
