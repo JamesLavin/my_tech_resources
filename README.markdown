@@ -382,6 +382,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Hex: How it was built - Eric Meadows–Jönsson (ElixirConf 2014](https://www.youtube.com/watch?v=VAa7YnZo0hU)
 * [Elixir Sips (non-free)](http://elixirsips.com)
 * [Elixir Freenode IRC](http://irc.lc/freenode/elixir)
+* [Awesome Elixir - Curated list of Elixir/Erlang libraries, resources & shiny things](https://github.com/h4cc/awesome-elixir)
 
 ### ELIXIR - ATLAS
 
@@ -1298,6 +1299,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [MayaVI](http://docs.enthought.com/mayavi/mayavi/) & [Github repo](https://github.com/enthought/mayavi)
 
+#### PYTHON - GRAPHICS - AVOPLOT
+
+* [Life After Matplotlib: Harder, Better, Faster, Stronger - Kayla Iacovino (PyData 2014 London)](https://www.youtube.com/watch?v=_Bm8M9IwuFk)
+
 #### PYTHON - GRAPHICS - BEARCART
 
 * [Bearcart (Pandas time series -> Rickshaw.js)](https://github.com/wrobstory/bearcart)
@@ -1312,6 +1317,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [New in Bokeh 0.6](http://continuum.io/blog/bokeh-0.6)
 * [Interactive Browser Visualizations from Python with Bokeh - Bryan Van De Ven (PyData 2014)](https://www.youtube.com/watch?v=hjW4gL9hioY) & [tutorial files](http://cdn.pydata.org/BokehTutorial.tgz) & [slides](http://www.slideshare.net/PyData/pydata-london-bokeh-tutorial-bryan-van-de-ven)
 * [Bokeh: An Extensible Implementation of the Grammar of Graphics in Python - Peter Wang & Hugo Shi (2012)](https://www.youtube.com/watch?v=6_aE0kAedL0)
+
+#### PYTHON - GRAPHICS - GGPLOT
+
+* [Ggplot for Python - Gret Lamp (PyData 2014 Silicon Valley)](https://www.youtube.com/watch?v=pHrwqLhAaMw) & [Github tutorial](https://github.com/glamp/ggplot-tutorial)
 
 #### PYTHON - GRAPHICS - MAPS
 
