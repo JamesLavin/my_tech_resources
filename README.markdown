@@ -1123,6 +1123,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### PYTHON - DATA ANALYSIS - PANDAS
 
 * [Pandas documentation (PDF)](http://pandas.pydata.org/pandas-docs/stable/pandas.pdf)
+* [Pandas tutorials - PyData.org](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
 * [Cheat Sheet: The Pandas DataFrame Object](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
 * [Translating SQL to pandas. And back - Greg Reda (PyData NYC 2014)](https://www.youtube.com/watch?v=1uVWjdAbgBg)
 * [Intro to PANDAS Data Structures - Greg Reda](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/), [Working With DataFrames](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/) & [Using PANDAS on the MovieLens Database](http://www.gregreda.com/2013/10/26/using-pandas-on-the-movielens-dataset/)
