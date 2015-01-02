@@ -1087,6 +1087,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
 * [Natural Language Processing with Python](http://nltk.org/book/)
 * [Mining the Social Web (Git repo)](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
+* [Practical Data Science in Python - Radim Řehůřek](http://radimrehurek.com/data_science_python/)
 * [Learn Python Through Public Data Hacking](http://www.youtube.com/watch?v=RrPZza_vZ3w) & [slides](http://dabeaz.com/pydata/LearnPyData.pdf)
 * [Bayesian Statistics Made (As) Simple (As Possible) - Allen Downey (2012)](https://www.youtube.com/watch?v=bobeo5kFz1g)
 * [Social Network Analysis With Python - Maksim Tsvetovat (2012)](http://www.youtube.com/watch?v=qgGqaBAEy3Q)
