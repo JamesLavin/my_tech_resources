@@ -1125,7 +1125,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Pandas documentation (PDF)](http://pandas.pydata.org/pandas-docs/stable/pandas.pdf)
 * [Pandas tutorials - PyData.org](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
 * [Cheat Sheet: The Pandas DataFrame Object](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
-* [Translating SQL to pandas. And back - Greg Reda (PyData NYC 2014)](https://www.youtube.com/watch?v=1uVWjdAbgBg)
 * [Intro to PANDAS Data Structures - Greg Reda](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/), [Working With DataFrames](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/) & [Using PANDAS on the MovieLens Database](http://www.gregreda.com/2013/10/26/using-pandas-on-the-movielens-dataset/)
 * [Statistical Data Analysis in Python (4 videos) - Christopher Fonnesbeck](http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109) [1](http://www.youtube.com/watch?v=DXPwSiRTxYY) [2](http://www.youtube.com/watch?v=TGEBpzJUxdI) [3](http://www.youtube.com/watch?v=YZDtBEEZuAk) [4](http://www.youtube.com/watch?v=5_rcdhBXD-0) & [iPython notebooks](https://github.com/fonnesbeck/statistical-analysis-python-tutorial)
 * [Keynote - Wes McKinney (PyCon Singapore 2013)](https://www.youtube.com/watch?v=Jm73dKlYHZw)
@@ -1141,7 +1140,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Time series analysis with Pandas - Nikolay Koldunov](http://earthpy.org/pandas-basics.html)
 * [10 Things I Hate About Pandas - Wes McKinney](http://www.slideshare.net/wesm/practical-medium-data-analytics-with-python)
 * [Python and Pandas for Sentiment Analysis and Investing - "sentdex"](https://www.youtube.com/watch?v=0ySdEYUONz0&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7&feature=share)
-* [pandasql (query Pandas with SQL)](https://pypi.python.org/pypi/pandasql)
 * [Manipulating/querying dataframes with Pandas (or dplyr)](http://nbviewer.ipython.org/gist/TomAugspurger/6e052140eaa5fdb6e8c0/dplyr_pandas.ipynb)
 
 #### PYTHON - DATA ANALYSIS - PYBRAIN
@@ -1205,6 +1203,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Scientific Python lecture notes - EuroScipy tutorial team](http://scipy-lectures.github.io/) & [PDF](http://scipy-lectures.github.io/_downloads/PythonScientific-simple.pdf)
 * [scientific-python-lectures - JR Johansson](https://github.com/jrjohansson/scientific-python-lectures)
 * [Topical Software (add-on software relevant to SciPy, categorized by scientific discipline or computational topic)](http://scipy.org/topical-software.html)
+
+#### PYTHON - DATA ANALYSIS - SQL
+
+* [Comparing Pandas with SQL](http://pandas.pydata.org/pandas-docs/stable/comparison_with_sql.html)
+* [Translating SQL to pandas. And back - Greg Reda (PyData NYC 2014)](https://www.youtube.com/watch?v=1uVWjdAbgBg)
+* [pandasql (query Pandas with SQL)](https://pypi.python.org/pypi/pandasql)
 
 #### PYTHON - DATA ANALYSIS - STATSMODELS
 
