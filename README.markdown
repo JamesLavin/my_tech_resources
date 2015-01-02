@@ -1111,11 +1111,6 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [mlpy](http://mlpy.sourceforge.net/)
 
-#### PYTHON - DATA ANALYSIS - NATURAL LANGUAGE TOOLKIT (NLTK)
-
-* [Statistical Machine Learning for Text Classification With Scikit-learn and NLTK - Olivier Grisel (PyCon 2011)](http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-statistical-machine-learning-for-text-classification-with-scikit-learn-4898362)
-* [Enough Machine Learning to Make Hacker News Readable Again - Ned Jackson Lovely (PyGotham 2014)](http://pyvideo.org/video/3321/enough-machine-learning-make-hacker-news-readable-) & [(PyCon 2014](https://www.youtube.com/watch?v=O7IezJT9uSI)
-
 #### PYTHON - DATA ANALYSIS - NUMPY
 
 * [(Tentative) NumPy Tutorial](http://wiki.scipy.org/Tentative_NumPy_Tutorial)
@@ -1463,6 +1458,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How to Think Like a Computer Scientist: Learning with Python](http://interactivepython.org/runestone/static/thinkcspy/index.html) & [PDF](https://cs.nyu.edu/courses/fall12/CSCI-UA.0002-006/misc/httlacs.pdf)
 
 ### PYTHON - LEARNING - ITERATORS & GENERATORS
+
 * [Loop like a native: while, for, iterators, generators - Ned Batchelder](https://www.youtube.com/watch?v=EnSu9hHGq5o)
 * [Python generator functions for massive performance improvements with lists - sentdex](https://www.youtube.com/watch?v=07-K4LFhBMc)
 * [Iteration and generators: The Python way](https://www.youtube.com/watch?v=z4P6hSa6K9g)
@@ -1523,6 +1519,19 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PYTHON - SPYDER
 
 * [Spyder (Scientific PYthon Development EnviRonment)](https://code.google.com/p/spyderlib/)
+
+#### PYTHON - TEXT ANALYSIS - NATURAL LANGUAGE TOOLKIT (NLTK)
+
+* [Statistical Machine Learning for Text Classification With Scikit-learn and NLTK - Olivier Grisel (PyCon 2011)](http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-statistical-machine-learning-for-text-classification-with-scikit-learn-4898362)
+* [Enough Machine Learning to Make Hacker News Readable Again - Ned Jackson Lovely (PyGotham 2014)](http://pyvideo.org/video/3321/enough-machine-learning-make-hacker-news-readable-) & [(PyCon 2014](https://www.youtube.com/watch?v=O7IezJT9uSI)
+
+#### PYTHON - TEXT ANALYSIS - PATTERN
+
+* [Pattern.en](http://www.clips.ua.ac.be/pages/pattern-en)
+
+#### PYTHON - TEXT ANALYSIS - TEXTBLOB
+
+* TextBlob: [ReadTheDocs](http://textblob.readthedocs.org/en/dev/), [Quickstart guide](http://textblob.readthedocs.org/en/dev/quickstart.html#quickstart), [Github](https://github.com/sloria/textblob)
 
 ### PYTHON - VIDEOGREP
 
