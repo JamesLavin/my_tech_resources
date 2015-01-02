@@ -1336,6 +1336,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro Notes: Matplotlib](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
 * Matplotlib [API](http://matplotlib.org/api/), [PDF documentation](http://matplotlib.org/Matplotlib.pdf), [examples index](http://matplotlib.org/examples/index.html), [examples gallery](http://matplotlib.org/gallery.html) & [screenshots gallery](http://matplotlib.org/users/screenshots.html)
 * Pyplot [API](http://matplotlib.org/api/pyplot_summary.html)
+* [Matplotlib - Chris Fonnesbeck](http://nbviewer.ipython.org/github/fonnesbeck/Bios366/blob/master/notebooks/Section2_4-Matplotlib.ipynb)
 * [Matplotlib Intro - Jake Vanderplas](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/06_MatplotlibIntro.html) [Matplotlib In-depth](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/12_AdvancedMatplotlib)
 * [Beyond Defaults: Creating Polished Visualizations Using Matplotlib - Hannah Aizenman (PyConUS 2014)](http://pyvideo.org/video/2579/beyond-defaults-creating-polished-visualizations)
 * [Matplotlib: Past, Present and Future - Michael Droettboom (SciPy 2013)](http://www.youtube.com/watch?v=gj5i_19Bftk)
@@ -1426,7 +1427,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Introduction to Computer Science and Programming - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-1-introduction-to-6.00/) & [on Youtube](https://www.youtube.com/watch?v=Mx0uXIBD-yA&index=1&list=PLd-dSvYArSy20Yfx1UxoiiAX1tl863Azo)
 * [An introduction to Python for absolute beginners - Bob Dowling](http://www.ucs.cam.ac.uk/docs/course-notes/unix-courses/PythonAB/files/handout.pdf)
 * [Introduction to Python for Computational Science and Engineering (A Beginner's Guide) - Hans Fangohr](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
-* [Intro to Computer Science and Programming Using Python (part 1) - MIT](https://courses.edx.org/courses/MITx/6.00.1-x/1T2014/)
+* [Intro to Computer Science and Programming Using Python (part 1) - MIT](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-0)
 * [Introduction to Programming Using Python - Brian Heinold](http://faculty.msmary.edu/heinold/IntroductionToProgrammingUsingPython_Heinold.pdf)
 * [Hands-On Introduction to Using Python in the Atmospheric and Oceanic Sciences - Johnny Wei-Bing Lin (free 1st ed)](http://www.johnny-lin.com/pyintro/ed01/)
 * [Object Oriented Design - Niko Wilbert](https://python.g-node.org/python-summerschool-2013/_media/wiki/oop/oo_design_2013.pdf)
@@ -1503,6 +1504,11 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PYTHON - PERFORMANCE
 
 * [Fast Python, Slow Python - Alex Gaynor (PyCon 2014)](https://www.youtube.com/watch?v=7eeEf_rAJds)
+
+### PYTHON - PYLAB
+
+* DON'T USE PYLAB!!!
+* [Please Stop Using Pylab](http://carreau.github.io/posts/10-No-PyLab-Thanks.ipynb.html)
 
 ### PYTHON - PYPI
 
@@ -2066,6 +2072,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [From Profiling Ruby to Frankenstein Programming - Piotr Szotkowski (Scotland Ruby Conference 2011)](http://confreaks.com/videos/547-scotlandruby2011-from-profiling-ruby-to-frankenstein-programming)
 * [Message in a Bottle - Konstantin Haase (BaRuCo 2012)](http://confreaks.com/videos/1335-baruco2012-message-in-a-bottle) & [Aloha Ruby Conf 2012](http://confreaks.com/videos/1236-aloharuby2012-message-in-a-bottle)
 * [Ensuring High Performance For Your Ruby App - Kowsik Guruswamy (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1238-aloharuby2012-ensuring-high-performance-for-your-ruby-app)
+
+### RUBY - PROJECTS
+
+* [Building Board Games with Ruby - Yonatan Bergman (GoGaRuCo 2014)](http://confreaks.com/videos/4158-gogaruco2014-building-board-games-with-ruby)
 
 ### RUBY - RAKE
 
