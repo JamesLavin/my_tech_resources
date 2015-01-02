@@ -1195,6 +1195,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Statistical Machine Learning for Text Classification With Scikit-learn and NLTK - Olivier Grisel (PyCon 2011)](http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-statistical-machine-learning-for-text-classification-with-scikit-learn-4898362)
 * [Scikit-learn video tutorials](http://scikit-learn.org/stable/presentations.html)
 * [Enough Machine Learning to Make Hacker News Readable Again - Ned Jackson Lovely (PyGotham 2014)](http://pyvideo.org/video/3321/enough-machine-learning-make-hacker-news-readable-) & [(PyCon 2014](https://www.youtube.com/watch?v=O7IezJT9uSI)
+* [Building a Beer Recommender](http://docs.yhathq.com/scienceops/deploying-models/examples/python/deploy-a-beer-recommender.html), [slides](http://www.slideshare.net/Yhat/building-a-beer-recommender-with-yhat-papisio-november-2014) & [live demo](https://beers.yhathq.com/)
 
 #### PYTHON - DATA ANALYSIS - SCIPY
 
@@ -1327,7 +1328,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### PYTHON - GRAPHICS - GGPLOT
 
-* [Ggplot for Python - Gret Lamp (PyData 2014 Silicon Valley)](https://www.youtube.com/watch?v=pHrwqLhAaMw) & [Github tutorial](https://github.com/glamp/ggplot-tutorial)
+* [Ggplot for Python - Greg Lamp (PyData 2014 Silicon Valley)](https://www.youtube.com/watch?v=pHrwqLhAaMw), [Github tutorial](https://github.com/glamp/ggplot-tutorial) & [slides](http://www.slideshare.net/Yhat/ggplot-for-python)
+* [Analyzing MLB data with ggplot - Greg Lamp](http://blog.yhathq.com/posts/facebook-ggplot-tutorial.html) & [slides](http://www.slideshare.net/Yhat/analyzing-mlb-data-with-ggplot)
 
 #### PYTHON - GRAPHICS - MAPS
 
@@ -2062,6 +2064,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [iRuby notebook](http://nbviewer.ipython.org/github/minad/iruby/blob/master/IRuby-Example.ipynb)
 
+### RUBY - JUBILEE
+
+* [Jubilee](https://github.com/isaiah/jubilee)
+* [6 Reasons Jubilee Could be a Rubyist's New Best Friend - Forrest Chang (RubyConf 2014)](http://confreaks.com/videos/5014-RubyConf2014-6-reasons-jubilee-could-be-a-rubyist-s-new-best-friend)
+
 ### RUBY - LOGGING & PROBLEM DETECTION
 
 * [It’s Not in Production Unless it’s Monitored - Joseph Ruscio (RailsConf 2012)](http://confreaks.com/videos/906-railsconf2012-its-not-in-production-unless-its-monitored)
@@ -2084,6 +2091,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ruby-Toolbox - Reporting](https://www.ruby-toolbox.com/categories/reporting)
 * [Ruby-Toolbox - Visualizing Data](https://www.ruby-toolbox.com/categories/visualizing_data)
 * [Ruby-Toolbox - Web Analytics](https://www.ruby-toolbox.com/categories/Web_Analytics)
+
+### RUBY - OPAL
+
+* [Opal: Ruby to Javascript Compiler](http://opalrb.org/) & [Github](https://github.com/opal/opal)
+* [Try Opal](http://opalrb.org/try/)
+* [Opal Robots](http://4r2r.github.io/opal-robots/)
+* [Opal: Ruby in Your Browser, the Basics - Benjamin Tan Wei Hao](http://www.sitepoint.com/opal-ruby-browser-basics/) & [Opal: Ruby in the Browser and the Game of Life](http://www.sitepoint.com/opal-ruby-browser-game-life/)
 
 ### RUBY - PERFORMANCE & LOAD TESTING
 
