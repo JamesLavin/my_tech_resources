@@ -1269,6 +1269,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Algorithmic Trading with Zipline - Thomas Wiecki](https://www.youtube.com/watch?v=Qva7uxmOZuA)
 * [Zipline - algorithmic trading library](https://github.com/quantopian/zipline) & [docs](http://zipline.readthedocs.org/en/latest/)
 
+### PYTHON - FUNCTIONAL PROGRAMMING
+
+### PYTHON - FUNCTIONAL PROGRAMMING - MOCHI
+
+* [Mochi](https://pypi.python.org/pypi/mochi)
+
 ### PYTHON - GAMES
 
 * [Making Games with Python & Pygame](http://inventwithpython.com/makinggames.pdf)
