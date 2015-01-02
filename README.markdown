@@ -1524,6 +1524,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Statistical Machine Learning for Text Classification With Scikit-learn and NLTK - Olivier Grisel (PyCon 2011)](http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-statistical-machine-learning-for-text-classification-with-scikit-learn-4898362)
 * [Enough Machine Learning to Make Hacker News Readable Again - Ned Jackson Lovely (PyGotham 2014)](http://pyvideo.org/video/3321/enough-machine-learning-make-hacker-news-readable-) & [(PyCon 2014](https://www.youtube.com/watch?v=O7IezJT9uSI)
+* [Getting Started with NLTK](http://textminingonline.com/dive-into-nltk-part-i-getting-started-with-nltk)
+* [How to Use Stanford Named Entity Recognizer (NER) in Python NLTK and Other Programming Languages](http://textminingonline.com/how-to-use-stanford-named-entity-recognizer-ner-in-python-nltk-and-other-programming-languages)
 
 #### PYTHON - TEXT ANALYSIS - PATTERN
 
@@ -1532,6 +1534,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### PYTHON - TEXT ANALYSIS - TEXTBLOB
 
 * TextBlob: [ReadTheDocs](http://textblob.readthedocs.org/en/dev/), [Quickstart guide](http://textblob.readthedocs.org/en/dev/quickstart.html#quickstart), [Github](https://github.com/sloria/textblob)
+* [Tutorial: Simple Text Classification with Python and TextBlob - Steven Loria](http://stevenloria.com/how-to-build-a-text-classification-system-with-python-and-textblob/)
 
 ### PYTHON - VIDEOGREP
 
