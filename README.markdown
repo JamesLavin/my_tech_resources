@@ -373,6 +373,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir docs](http://elixir-lang.org/docs.html) & [Elixir: Getting Started (tutorial)](http://elixir-lang.org/getting_started/1.html)
 * [Elixir: Power of Erlang, Joy of Ruby - Dave Thomas (LoneStarRuby 2013)](https://www.youtube.com/watch?v=KQwEmdOH-GM)
 * [Introduction to Elixir: a New Language on the VM - José Valim](https://www.youtube.com/watch?v=41PvAPSX0wg)
+* [Rubyists, have a sip of Elixir! - Benjamin Tan (RubyConf 2014)](http://confreaks.com/videos/5078-RubyConf2014-rubyists-have-a-sip-of-elixir)
 * [Intro to Elixir for Rubyists - Josh Adams & Robby Clements (ExlirConf 2014)](http://confreaks.com/videos/4121-elixirconf2014-introduction-to-elixir-for-rubyists)
 * [Programming Elixir: The magic of today's tonic - Katie Miller (Linux.conf.au Jan 2014)](https://www.youtube.com/watch?v=uWSGBpW3xEQ)
 * [Elixir - A modern approach to programming for the Erlang VM - Jose Valim (RuPy 2012)](https://www.youtube.com/watch?v=q2Hxt0tOR0k)
@@ -823,6 +824,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Why JRuby? (Fiona Tay)](http://www.confreaks.com/videos/2312-larubyconf2013-why-i-like-jruby-and-you-should-too)
 * [JRuby: Ruby in the JVM. Why on Earth?!? - Chris McCann](http://www.sdruby.org/podcast/106)
 * [State of JRuby 2014 - Hiro Asari (Ruby Australia)](http://vimeo.com/90823948)
+
+### JRUBY - JRUBY 9000
+
+* [JRuby 9000 - Charles Nutter, Thomas Enebo (RubyConf 2014)](http://confreaks.com/videos/5017-RubyConf2014-jruby-9000)
 
 ### JRUBY - PERFORMANCE
 
