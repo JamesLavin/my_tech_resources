@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#css---haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free) & [data analysis](#python---data-analysis) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#css---haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Learning](#learning) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free) & [data analysis](#python---data-analysis) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## BOOKS
 
@@ -793,22 +793,22 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Using Capybara to test JavaScript that makes HTTP requests](http://robots.thoughtbot.com/post/34761570235/using-capybara-to-test-javascript-that-makes-http)
 * [Javascript Testing Tactics - Justin Searls](http://blog.testdouble.com/posts/2014-05-09-javascript-testing-tactics-lightning-edition.html)
 
-### JAVASCRIPT - TESTING - INTERN
+#### JAVASCRIPT - TESTING - INTERN
 
 * Intern: [TheIntern.io](http://theintern.io/) & [Github](https://github.com/theintern/intern)
 
-### JAVASCRIPT - TESTING - JASMINE
+#### JAVASCRIPT - TESTING - JASMINE
 
 * [Jasmine](http://pivotal.github.com/jasmine/)
 * [Unit Testing in JavaScript via Jasmine - Jesse Warden](http://www.youtube.com/watch?v=eVpXkyN0zOE)
 * [Test-Driving Javascript with Jasmine - Tim Tyrrell (AustinJS)](http://www.youtube.com/watch?v=CswgfGhnTg8)
 * [75-minute Justin Searls screencast (non-standard; uses jasmine-fixture, jasmine-given & jasmine-stealth)](http://searls.testdouble.com/posts/2013-03-21-jasmine-tactics-screencast.html)
 
-### JAVASCRIPT - TESTING - QUNIT
+#### JAVASCRIPT - TESTING - QUNIT
 
 * [QUnit](http://qunitjs.com)
 
-### JAVASCRIPT - TESTING - SINON.JS
+#### JAVASCRIPT - TESTING - SINON.JS
 
 * [Sinon.js](http://sinonjs.org/)
 
@@ -840,9 +840,22 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Complex Made Simple: Sleep Better with TorqueBox - Lance Ball (RailsConf 2012)](http://confreaks.com/videos/912-railsconf2012-complex-made-simple-sleep-better-with-torquebox)
 * [TorqueBox - Kevin Menard (BostonRB.org)](http://bostonrb.org/presentations/torquebox)
 
-## LEARNING (GENERAL)
+## LEARNING
 
+* [Carnegie Mellon Open Learning Initiative](http://oli.cmu.edu/learn-with-oli/see-our-free-open-courses/)
+* [Coursera.org](https://www.coursera.org/)
+* [EdX.org](https://www.edx.org/)
+* [Khan Academy](https://www.khanacademy.org/)
+* [MIT OpenCourseware](http://ocw.mit.edu/index.htm)
+* [National Programme on Technology Enhanced Learning (India)](https://onlinecourses.nptel.ac.in/explorer)
 * [No Excuse List (The best place on the web to learn anything, free)](http://www.noexcuselist.com/)
+* [Open Yale courses](http://oyc.yale.edu/courses)
+* [Stanford Engineering Everywhere](http://see.stanford.edu/see/courses.aspx)
+* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php)
+* [TED Talks](http://www.ted.com/talks)
+* [UC Berkeley webcasts](http://webcast.berkeley.edu/series#c,s)
+* [Udacity](https://www.udacity.com/courses#!/all) (Some non-free)
+* [Udemy](https://www.udemy.com/) (Non-free)
 
 ## LINUX
 
@@ -1279,7 +1292,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - FUNCTIONAL PROGRAMMING
 
-### PYTHON - FUNCTIONAL PROGRAMMING - MOCHI
+#### PYTHON - FUNCTIONAL PROGRAMMING - MOCHI
 
 * [Mochi](https://pypi.python.org/pypi/mochi)
 
@@ -1304,6 +1317,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * I use and recommend using [iPython Notebook](#python---ipython-notebook). A great way to start is by skimming through some of the many iPython Notebooks on the web. You can find many at [this gallery of links to iPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
 * I recommend [these Python learning materials](#python---learning---basics) and [these free online books](#python---learning---books)
 * If you're feeling ambitious and don't want to start with Python but jump straight to data analysis, the Harvard CS 109 ("Data Science") lectures listed under [PYTHON - DATA ANALYSIS](https://github.com/JamesLavin/my_tech_resources#python---data-analysis) seem excellent.
+
+### PYTHON - GENERATORS & ITERATORS
+
+* [Loop like a native: while, for, iterators, generators - Ned Batchelder](https://www.youtube.com/watch?v=EnSu9hHGq5o)
+* [Python generator functions for massive performance improvements with lists - sentdex](https://www.youtube.com/watch?v=07-K4LFhBMc)
+* [Iteration and generators: The Python way](https://www.youtube.com/watch?v=z4P6hSa6K9g)
+* [Fun with iterators and generators - Malcolm Tredinnick](https://www.youtube.com/watch?v=vD-JJD5tlIg)
+* [Generators: The Final Frontier - David Beazley (PyCon 2014)](https://www.youtube.com/watch?v=D1twn9kLmYg)
 
 ### PYTHON - GRAPHICS
 
@@ -1424,6 +1445,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Notebook.js (render iPython notebooks on the fly in the browser or node.js)](https://github.com/jsvine/notebookjs/)
 
+### PYTHON - LEARNING
+
 #### PYTHON - LEARNING - BASICS
 
 * [Python Notes/Cheatsheet](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
@@ -1471,15 +1494,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Hands-On Python Tutorial](http://cs.luc.edu/anh/python/hands-on/handson.pdf)
 * [How to Think Like a Computer Scientist: Learning with Python](http://interactivepython.org/runestone/static/thinkcspy/index.html) & [PDF](https://cs.nyu.edu/courses/fall12/CSCI-UA.0002-006/misc/httlacs.pdf)
 
-### PYTHON - LEARNING - ITERATORS & GENERATORS
-
-* [Loop like a native: while, for, iterators, generators - Ned Batchelder](https://www.youtube.com/watch?v=EnSu9hHGq5o)
-* [Python generator functions for massive performance improvements with lists - sentdex](https://www.youtube.com/watch?v=07-K4LFhBMc)
-* [Iteration and generators: The Python way](https://www.youtube.com/watch?v=z4P6hSa6K9g)
-* [Fun with iterators and generators - Malcolm Tredinnick](https://www.youtube.com/watch?v=vD-JJD5tlIg)
-* [Generators: The Final Frontier - David Beazley (PyCon 2014)](https://www.youtube.com/watch?v=D1twn9kLmYg)
-
-### PYTHON - LEARNING - VIDEOS
+#### PYTHON - LEARNING - VIDEOS
 
 * [PyVideo.org](http://www.pyvideo.org/category)
 * [Khan Academy](http://www.khanacademy.org/science/computer-science/v/introduction-to-programs-data-types-and-variables)
@@ -1511,7 +1526,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Importing iPython Notebooks as Modules](http://nbviewer.ipython.org/github/ipython/ipython/blob/1.x/examples/notebooks/Importing%20Notebooks.ipynb)
 * [Youtube](https://www.youtube.com/results?search_query=python+modules+packages)
 
-### PYTHON - MODULES & PACKAGING - WHEELS
+#### PYTHON - MODULES & PACKAGING - WHEELS
 
 * [Grug make fire! Grug make wheel! - Russell Keith-Magee (PyCon Australia 2014)](https://www.youtube.com/watch?v=UtFHIpNPMPA)
 * [Wheel](https://pypi.python.org/pypi/wheel)
@@ -1533,6 +1548,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PYTHON - SPYDER
 
 * [Spyder (Scientific PYthon Development EnviRonment)](https://code.google.com/p/spyderlib/)
+
+### PYTHON - TEXT ANALYSIS
 
 #### PYTHON - TEXT ANALYSIS - NATURAL LANGUAGE TOOLKIT (NLTK)
 
@@ -2177,31 +2194,31 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Tddium - William Josephson (BostonRB.org)](http://bostonrb.org/presentations/tddium)
 * [CodeShip.io blog & videos](http://blog.codeship.io/)
 
-### RUBY - TESTING - CAPYBARA
+#### RUBY - TESTING - CAPYBARA
 
 * [Capybara](http://rubydoc.info/github/jnicklas/capybara)
 * [Introduction To Integration Testing - Jason Draper (BostonRB.org)](http://bostonrb.org/presentations/introduction-to-integration-testing)
 
-### RUBY - TESTING - CUCUMBER
+#### RUBY - TESTING - CUCUMBER
 
 * [Cucumber backgrounder](https://github.com/cucumber/cucumber/wiki/Cucumber-Backgrounder)
 * [The Cucumber/RSpec cycle](http://www.youtube.com/watch?v=8ZmawOCDeyo&list=PLAD5A45605AEDDA40)
 * [Intro to Outside-In Development With Cucumber - Charles Wood](http://www.youtube.com/watch?v=8I1_siXLTN0)
 
-### RUBY - TESTING - MINITEST
+#### RUBY - TESTING - MINITEST
 
 * [A Big Look at MiniTest - Mark Bates (Ruby Australia 2014)](http://vimeo.com/88934438)
 * [MiniTest: Refactoring Test Unit and RSpec back to version 0.0.1 - Jared Ning (RailsConf 2012)](http://confreaks.com/videos/913-railsconf2012-minitest-refactoring-test-unit-and-rspec-back-to-version-0-0-1)
 * [MiniTest: Write Awesome Tests - Michael J.I. Jackson (MountainWest RubyConf 2012)](http://confreaks.com/videos/962-mwrc2012-minitest-write-awesome-tests)
 
-### RUBY - TESTING - POLTERGEIST
+#### RUBY - TESTING - POLTERGEIST
 
 * [Cucumber: Testing Web Applications With Capybara, Poltergeist and PhantomJS](https://blog.codecentric.de/en/2013/08/cucumber-capybara-poltergeist/)
 * [Migrating From Capybara-Webkit to Poltergeist-PhantomJs](http://www.railsonmaui.com/blog/2013/08/06/migrating-from-capybara-webkit-to-poltergeist-phantomjs/)
 * [Poltergeist](https://github.com/jonleighton/poltergeist)
 * [Testing JavaScript With PhantomJS - Railscasts (non-free)](http://railscasts.com/episodes/391-testing-javascript-with-phantomjs)
 
-### RUBY - TESTING - RSPEC
+#### RUBY - TESTING - RSPEC
 
 * [RSpec 2 documentation](https://www.relishapp.com/rspec)
 * [BDD and Acceptance Testing with RSpec & Capybara - Brian Sam-Bodden (RailsConf 2013)](http://confreaks.com/videos/2433-railsconf2013-bdd-and-acceptance-testing-with-rspec-capybara)
@@ -2381,7 +2398,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [All About Polymer at SFHTML5 (April 2014)](https://www.youtube.com/watch?v=mN7IAaRdi_k)
 * [yo polymer - Addy Osmani (dotJS 2013)](https://www.youtube.com/watch?v=booRxAJblwM)
 
-## WEATHER (NOT PROGRAMMING-RELATED, JUST USEFUL & REALLY COOL)
+## WEATHER (NOT PROGRAMMING-RELATED, JUST USEFUL)
 
 * [National Weather Service - Nationwide radar loop](http://radar.weather.gov/Conus/full_loop.php)
 * [National Weather Service - New York metro radar loop](http://radar.weather.gov/ridge/radar.php?rid=okx&product=N0R&overlay=11101111&loop=yes)
