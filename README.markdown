@@ -2,11 +2,11 @@
 
 ## DESCRIPTION
 
-Links to resources I have found useful or think might be helpful to future me or Ruby/Javascript/Python developers like me.
+Links to resources I have found useful or think might be helpful to future me or Ruby/Javascript/Python/Elixir developers like me.
 
 ## MAJOR CATEGORIES
 
-[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free) & [data analysis](#python---data-analysis) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#css---haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free) & [data analysis](#python---data-analysis) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## BOOKS
 
@@ -80,6 +80,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Zen-Coding](http://code.google.com/p/zen-coding/)
 * [CSS Conf videos](http://cssconf.com/talks.html)
 
+### CSS - HAML
+
+* [Tutorial](http://haml.info/tutorial.html) & [Reference](http://haml.info/docs/yardoc/file.REFERENCE.html)
+
 ### CSS - RESPONSIVE DESIGN
 
 * [Laziness in the Time of Responsive Design - Ethan Marcotte (Constant Contact 2014)](http://www.confreaks.com/videos/4605-e4e2014-laziness-in-the-time-of-responsive-design)
@@ -123,18 +127,18 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Yahoo! Finance](https://help.yahoo.com/kb/finance) (financial data)
 * [Zillow](http://www.zillow.com/howto/api/APIOverview.htm) (real estate)
 
-### DATA - APIS - INTERNATIONAL
+#### DATA - APIS - INTERNATIONAL
 
 * [IMF](http://www.elibrary.imf.org/page/imf-data)
 * [United Nations](http://data.un.org/)
 * [World Bank](http://data.worldbank.org/)
 * [World Health Organization](http://www.who.int/research/en/)
 
-### DATA - APIS - NATIONAL (NON-US)
+#### DATA - APIS - NATIONAL (NON-US)
 
 * [United Kingdom](http://data.gov.uk/)
 
-### DATA - APIS - UNITED STATES
+#### DATA - APIS - UNITED STATES
 
 * [Bureau of Labor Statistics](http://www.bls.gov/developers/) & [Dept of Labor](http://developer.dol.gov/)
 * [Census Bureau](http://www.census.gov/developers/)
@@ -154,7 +158,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [USA.gov](http://www.usa.gov/About/developer-resources/developers.shtml)
 * [USGS](http://earthquake.usgs.gov/earthquakes/feed/v0.1/)
 
-#### DATA - APIS - UNITED STATES - CITIES/STATES
+##### DATA - APIS - UNITED STATES - CITIES/STATES
 
 * [Austin, TX](https://data.austintexas.gov/)
 * [Boston, MA](https://data.cityofboston.gov/)
@@ -196,36 +200,36 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Testing Your Automation: TTD for Chef Cookbooks - Nathen Harvey (BigRuby 2013)](http://confreaks.com/videos/2309-bigruby2013-testing-your-automation-ttd-for-chef-cookbooks)
 * [Five Things You Didn't Know About Chef](http://confreaks.com/videos/2301-bigruby2013-5-things-you-didn-t-know-about-chef)
 
-### DEVOPS - CHEF - BERKSHELF
+#### DEVOPS - CHEF - BERKSHELF
 
 * [Berkshelf](http://berkshelf.com/)
 
-### DEVOPS - CHEF - CHEF-DK
+#### DEVOPS - CHEF - CHEF-DK
 
 * [Chef-dk (Chef Development Kit)](https://github.com/opscode/chef-dk)
 
-### DEVOPS - CHEF - CHEF_SOLO
+#### DEVOPS - CHEF - CHEF_SOLO
 
 * [The Eight-fingered Chef by Jason Garber - MadisonRuby 2013](https://www.youtube.com/watch?v=eaI3OrSFdlM)
 
-### DEVOPS - CHEF - COOKBOOKS
+#### DEVOPS - CHEF - COOKBOOKS
 
 * [chef-jenkins](https://github.com/fnichol/chef-jenkins)
 * [chef-rbenv](https://github.com/fnichol/chef-rbenv)
 * [chef-rvm](https://github.com/fnichol/chef-rvm)
 * [chef-user](https://github.com/fnichol/chef-user)
 
-### DEVOPS - CHEF - KNIFE
+#### DEVOPS - CHEF - KNIFE
 
 * [Knife docs](http://docs.opscode.com/chef/knife.html)
 * [knife-server](https://github.com/fnichol/knife-server)
 
-### DEVOPS - CHEF - LIBRARIAN
+#### DEVOPS - CHEF - LIBRARIAN
 
 * [librarian-chef](https://github.com/applicationsonline/librarian-chef)
 * ["What do I do with my own cookbooks (when using Librarian)?"](https://github.com/applicationsonline/librarian/wiki/FAQ)
 
-### DEVOPS - CHEF - TEST-KITCHEN
+#### DEVOPS - CHEF - TEST-KITCHEN
 
 * [test-kitchen](https://github.com/test-kitchen/test-kitchen)
 
@@ -443,10 +447,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Help](https://help.github.com/)
 * [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [Developer docs](http://developer.github.com)
-
-## HAML
-
-* [Tutorial](http://haml.info/tutorial.html) & [Reference](http://haml.info/docs/yardoc/file.REFERENCE.html)
 
 ## HTML5
 
