@@ -1212,6 +1212,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [User Guide](http://scikit-learn.org/stable/user_guide.html)
 * [Realtime Predictive Analytics Using scikit-learn and RabbitMQ - Michael Becker (PyCon 2014)](https://www.youtube.com/watch?v=WPyNdHygBD0)
 * [Know Thy Neighbor: Scikit and the K-Nearest Nearest Neighbor Algorithm - Portia Burton (PyCon 2014)](https://www.youtube.com/watch?v=tQNZRfsZF3g)
+* [Intro to Machine Learning: Pattern Recognition for Fun and Profit - Sebastian Thrun and Katie Malone (Udacity)]()
 * [SciKit-Learn Tutorial - Jake VanderPlas (PyData 2012)](http://vimeo.com/53062607)
 * [Intro to Scikit-learn (1) - Gaël Varoquaux, Jake Vanderplas, Olivier Grisel (SciPy 2013)](http://www.youtube.com/watch?v=r4bRUvvlaBw) [2](http://www.youtube.com/watch?v=hlaMiXCRxB0) & [3](http://www.youtube.com/watch?v=XS4TIGe7MaU)
 * [Tutorial on statistical-learning for scientific data processing](http://scikit-learn.org/stable/tutorial/statistical_inference/index.html)
@@ -1227,6 +1228,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Scikit-learn video tutorials](http://scikit-learn.org/stable/presentations.html)
 * [Enough Machine Learning to Make Hacker News Readable Again - Ned Jackson Lovely (PyGotham 2014)](http://pyvideo.org/video/3321/enough-machine-learning-make-hacker-news-readable-) & [(PyCon 2014](https://www.youtube.com/watch?v=O7IezJT9uSI)
 * [Building a Beer Recommender](http://docs.yhathq.com/scienceops/deploying-models/examples/python/deploy-a-beer-recommender.html), [slides](http://www.slideshare.net/Yhat/building-a-beer-recommender-with-yhat-papisio-november-2014) & [live demo](https://beers.yhathq.com/)
+* [scikit-learn-book - gmonce](http://nbviewer.ipython.org/github/gmonce/scikit-learn-book/tree/master/)
 
 #### PYTHON - DATA ANALYSIS - SCIPY
 
