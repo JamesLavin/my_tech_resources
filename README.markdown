@@ -864,7 +864,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php)
 * [TED Talks](http://www.ted.com/talks)
 * [UC Berkeley webcasts](http://webcast.berkeley.edu/series#c,s)
-* [Udacity](https://www.udacity.com/courses#!/all) (Some non-free)
+* [Udacity](https://www.udacity.com/courses#!/all) (Lectures are free)
 * [Udemy](https://www.udemy.com/) (Non-free)
 
 ## LINUX
@@ -900,6 +900,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## MACHINE LEARNING
 
 * [Machine Learning (online Coursera class with Stanford professor Andrew Ng)](https://www.coursera.org/course/ml)
+* [Intro to Machine Learning: Pattern Recognition for Fun and Profit - Sebastian Thrun and Katie Malone (Udacity)]()
 * [Artificial Intelligence (online EdX.org class from UC Berkeley)](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs188-1x-artificial-579)
 * [MLOSS.org (Machine Learning Open Source Software)](http://mloss.org/software/)
 * [KD Nuggets](http://www.kdnuggets.com/)
