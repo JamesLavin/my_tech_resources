@@ -168,6 +168,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [San Francisco, CA](https://data.sfgov.org/)
 * [Seattle, WA](https://data.seattle.gov/)
 
+### DATA - VISUALIZATION
+
+* [VizWiz: Data visualization done right (blog)](http://vizwiz.blogspot.com/)
+
 ## DEVOPS
 
 * [BOSH](https://github.com/cloudfoundry/bosh)
@@ -642,10 +646,16 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [API](https://github.com/mbostock/d3/wiki/API-Reference), [wiki](https://github.com/mbostock/d3/wiki) & [documentation](http://strongriley.github.io/d3/api/)
 * [Beyond the Bar Graph - Joanne Cheng (Kod.io 2014)](http://confreaks.com/videos/3243-kodio_2014-beyond-the-bar-graph)
+* [Data Visualization and D3.js (Udacity)](https://www.udacity.com/course/ud507)
+* [Data Visualization with D3.js - Ray Villalobos (Lynda.com)](http://www.lynda.com/D3js-tutorials/Data-Visualization-D3js/162449-2.html) (Non-free)
 * [D3.js Tutorial - Jérôme Cukier and Scott Murray (StrataConf 2013)](http://cdn.oreillystatic.com/en/assets/1/event/91/D3_js%20tutorial%20Presentation.pdf)
 * [D3 Tips & Tricks - Malcolm Maclean](https://leanpub.com/D3-Tips-and-Tricks) (optional/suggested donation)
 * [Getting Started With D3 - Mike Dewar](http://it-ebooks.info/book/835/) & [on Amazon](http://www.amazon.com/Getting-Started-D3-Mike-Dewar/dp/1449328792/)
 * [D3: Data-Driven Documents - Stanford Computer Science Dept](http://vis.stanford.edu/files/2011-D3-InfoVis.pdf)
+
+#### JAVASCRIPT - D3 - DIMPLE.JS
+
+* [Dimple.js](http://dimplejs.org/)
 
 ### JAVASCRIPT - DEPENDENCY INJECTION
 
@@ -1079,6 +1089,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PYTHON - ALGORITHMS
 
 * [Intro to Algorithms - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
+* [Intro to Algorithms: Social Network Analysis - Michael Littman, Brown University (Udacity)](https://www.udacity.com/course/cs215)
 
 ### PYTHON - CONDA
 
@@ -1453,6 +1464,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Beginner Python 3+ tutorial series - Harrison Kinsley](http://pythonprogramming.net/beginner-python-programming-tutorials/)
 * [Python 3 Tutorial - Bernd Klein](http://www.python-course.eu/python3_course.php) or [Python 2 Tutorial](http://www.python-course.eu/course.php)
 * [Learn to Program: The Fundamentals - Jennifer Campbell and Paul Gries - U of Toronto (Coursera)](https://www.coursera.org/course/programming1)
+* [Programming Foundations with Python: Learn Object-Oriented Programming - Kunal Chawla (Udacity)](https://www.udacity.com/course/ud036)
 * [Python for Informatics: Exploring Information - Charles Severance](http://www.pythonlearn.com/book.php), [PDF](http://www.pythonlearn.com/book_008.pdf) & [videos](http://pythonlearn.com/)
 * [Let's Learn Python - Trevor Payne](https://www.youtube.com/user/TPayneExperience/playlists?sort=dd&shelf_id=2&view=50)
 * [Hello, Little Turtles!](http://interactivepython.org/runestone/static/thinkcspy/PythonTurtle/helloturtle.html)
