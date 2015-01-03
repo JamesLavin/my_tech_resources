@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free) & [data analysis](#python---data-analysis) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript-coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free) & [data analysis](#python---data-analysis) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## BOOKS
 
@@ -17,7 +17,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Lectures (by successful entrepreneurs) on "How to Start a Startup" (Stanford University)](http://startupclass.samaltman.com/)
 
-## CHARACTERS - UTF-8
+## CHARACTERS
 
 * [Characters, Symbols and the Unicode Miracle - Computerphile](https://www.youtube.com/watch?v=MijmeoH9LT4) + [other cool Computerphile videos](https://www.youtube.com/user/Computerphile/videos)
 
@@ -62,22 +62,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ohloh Code](https://code.ohloh.net/)
 * [SearchCode.com](https://searchcode.com/)
 * [Sourcegraph.com](https://sourcegraph.com/)
-
-## COFFEESCRIPT
-
-* [Official documentation](http://coffeescript.org/) & [FAQ](https://github.com/jashkenas/coffee-script/wiki/FAQ) & [list of text editor plugins](https://github.com/jashkenas/coffee-script/wiki/Text-editor-plugins)
-* [Little Book on CoffeeScript (Alex MacCaw)](http://arcturo.github.io/library/coffeescript/)
-* [Smooth Coffeescript](http://autotelicum.github.com/Smooth-CoffeeScript/) [HTML doc](http://autotelicum.github.io/Smooth-CoffeeScript/SmoothCoffeeScript.html) | [PDF doc](http://autotelicum.github.io/Smooth-CoffeeScript/Smooth%20CoffeeScript%20Web%20Optimized.pdf) | [HTML interactive](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
-* [Coffeescript Cookbook](http://coffeescriptcookbook.com/)
-* [Intro to Coffeescript - Aseem Kishore](http://aseemk.com/talks/intro-to-coffeescript#/80)
-* [PencilCode.net (really fun!)](http://pencilcode.net/)
-* [CoffeeScript Ristretto Online](http://ristrettolo.gy/)
-* [Testing With CoffeeScript](https://efendibooks.com/minibooks/testing-with-coffeescript)
-* [Cheat Sheet (Cheatography)](http://www.cheatography.com/dimitrios/cheat-sheets/coffeescript-cheat-sheet/)
-* [CoffeeScript for the Rubyist - Mark Bates (RailsConf 2012)](http://confreaks.com/videos/862-railsconf2012-coffeescript-for-the-rubyist) & [Aloha RubyConf 2012](http://confreaks.com/videos/1242-aloharuby2012-coffeescript-for-the-rubyist)
-* [CoffeeScript - SDRuby](http://www.sdruby.org/podcast/90)
-* [CodeSchool.com (non-free)](http://coffeescript.codeschool.com/)
-* [coffee-rails-source-maps](https://github.com/markbates/coffee-rails-source-maps)
 
 ## CSS
 
@@ -249,6 +233,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Docker Tutorials - DarkZebra](https://www.youtube.com/playlist?list=PLfpPfDziPdMIbc7p-_siXYwqsRnd3jrLM)
 * [Intro to Docker - Amjith Ramanujam (PyCon 2014)](https://www.youtube.com/watch?v=9bvdc55xYdo)
+* [Containerized Ruby Applications with Docker - Laura Frank (RubyConf 2014)](http://confreaks.com/videos/4964-RubyConf2014-containerized-ruby-applications-with-docker)
 * [Shipping Ruby Apps with Docker - Bryan Helmkamp (RedDot Ruby 2014](http://confreaks.com/videos/3853-rdrc2014-shipping-ruby-apps-with-docker)
 * [Build Your Own Shipyard - Andreas Tiefenthaler (Kod.io 2014)](http://confreaks.com/videos/3252-kodio_2014-build-your-own-shipyard)
 * [Dockerising a Rails App - Graeme Mathieson](http://woss.name/articles/dockerising-a-rails-app/)
@@ -636,6 +621,22 @@ Links to resources I have found useful or think might be helpful to future me or
 ### JAVASCRIPT - CLIENT-SIDE ARCHITECTURES
 
 * [Use Rails for Your Next Client-Side App - Yehuda Katz (ChicagoRuby2012)](http://vimeo.com/50451185)
+
+### JAVASCRIPT - COFFEESCRIPT
+
+* [Official documentation](http://coffeescript.org/) & [FAQ](https://github.com/jashkenas/coffee-script/wiki/FAQ) & [list of text editor plugins](https://github.com/jashkenas/coffee-script/wiki/Text-editor-plugins)
+* [Little Book on CoffeeScript (Alex MacCaw)](http://arcturo.github.io/library/coffeescript/)
+* [Smooth Coffeescript](http://autotelicum.github.com/Smooth-CoffeeScript/) [HTML doc](http://autotelicum.github.io/Smooth-CoffeeScript/SmoothCoffeeScript.html) | [PDF doc](http://autotelicum.github.io/Smooth-CoffeeScript/Smooth%20CoffeeScript%20Web%20Optimized.pdf) | [HTML interactive](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
+* [Coffeescript Cookbook](http://coffeescriptcookbook.com/)
+* [Intro to Coffeescript - Aseem Kishore](http://aseemk.com/talks/intro-to-coffeescript#/80)
+* [PencilCode.net (really fun!)](http://pencilcode.net/)
+* [CoffeeScript Ristretto Online](http://ristrettolo.gy/)
+* [Testing With CoffeeScript](https://efendibooks.com/minibooks/testing-with-coffeescript)
+* [Cheat Sheet (Cheatography)](http://www.cheatography.com/dimitrios/cheat-sheets/coffeescript-cheat-sheet/)
+* [CoffeeScript for the Rubyist - Mark Bates (RailsConf 2012)](http://confreaks.com/videos/862-railsconf2012-coffeescript-for-the-rubyist) & [Aloha RubyConf 2012](http://confreaks.com/videos/1242-aloharuby2012-coffeescript-for-the-rubyist)
+* [CoffeeScript - SDRuby](http://www.sdruby.org/podcast/90)
+* [CodeSchool.com (non-free)](http://coffeescript.codeschool.com/)
+* [coffee-rails-source-maps](https://github.com/markbates/coffee-rails-source-maps)
 
 ### JAVASCRIPT - D3
 
