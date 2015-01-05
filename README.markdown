@@ -133,6 +133,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Google public data directory](http://www.google.com/publicdata/directory)
 * [IMF](http://www.imf.org/external/data.htm)
 * [International Social Survey Programme](http://www.issp.org/page.php?pageId=4)
+* [Stanford Large Network Dataset Collection (SNAP)](http://snap.stanford.edu/data/)
 * [United Nations](http://data.un.org/)
 * [World Bank](http://data.worldbank.org/)
 * [World Health Organization](http://www.who.int/research/en/)
