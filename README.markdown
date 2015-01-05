@@ -94,6 +94,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ProgrammableWeb.com](http://www.programmableweb.com/category)
 * [30 Places to Find Open Data on the Web](http://blog.visual.ly/data-sources/)
 * [AWS Public Data Sets](http://aws.amazon.com/publicdatasets/)
+* [DataCataloges.org](http://datacatalogs.org/)
 * [Data Repositories - Jerry Smith](http://datascientistinsights.com/2013/10/07/data-repositories-mothers-milk-for-data-scientists/#!)
 * [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
 * [Freebase.com](http://www.freebase.com/)
@@ -129,7 +130,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DATA - APIS - INTERNATIONAL
 
-* [IMF](http://www.elibrary.imf.org/page/imf-data)
+* [Google public data directory](http://www.google.com/publicdata/directory)
+* [IMF](http://www.imf.org/external/data.htm)
+* [International Social Survey Programme](http://www.issp.org/page.php?pageId=4)
 * [United Nations](http://data.un.org/)
 * [World Bank](http://data.worldbank.org/)
 * [World Health Organization](http://www.who.int/research/en/)
@@ -142,6 +145,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Bureau of Labor Statistics](http://www.bls.gov/developers/) & [Dept of Labor](http://developer.dol.gov/)
 * [Census Bureau](http://www.census.gov/developers/)
+* [Census Bureau's Statistical Abstract](http://www.census.gov/compendia/statab/)
+* [CDC Wonder](http://wonder.cdc.gov/)
 * [Dartmouth Atlas of Healthcare](http://www.dartmouthatlas.org/)
 * [Dept of Education](http://www.ed.gov/developer)
 * [Dept of Health & Human Services](http://www.hhs.gov/developer/)
@@ -150,10 +155,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [EPA](http://www.epa.gov/enviro/facts/datadownloads.html)
 * [Explore.data.gov](https://explore.data.gov/)
 * [FCC (Federal Communications Commission)](http://www.fcc.gov/developers)
+* [FedStats](http://fedstats.sites.usa.gov/)
 * [FRED (Federal Reserve Economic Data)](http://research.stlouisfed.org/fred2/)
 * [Healthcare.gov](https://www.healthcare.gov/developers/)
+* [ICPSR](http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp)
 * [Medicare.gov](http://www.medicare.gov/download/downloaddb.asp)
+* [NationalMap.gov](http://nationalmap.gov)
 * [NOAA National Climatic Data Center](http://www.ncdc.noaa.gov)
+* [Quality of Government data](http://qog.pol.gu.se/data/datadownloads/qogstandarddata)
 * [Sunlight Labs](https://data.sunlightlabs.com/)
 * [USA.gov](http://www.usa.gov/About/developer-resources/developers.shtml)
 * [USGS](http://earthquake.usgs.gov/earthquakes/feed/v0.1/)
@@ -1278,6 +1287,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [doctest: Test interactive Python examples](https://docs.python.org/2/library/doctest.html)
 * [Intro to doctest2 for existing users of doctest](https://pythonhosted.org/doctest2/intro_for_existing.html)
 * [Documentation, Testing and Packaging - Jake Vanderplas](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/20_DocsAndTesting.html)
+* [Version Control and Unit Testing for Scientific Software Tutorial, Part 2 of 3 - Matt Davis (SciPy 2013)](https://www.youtube.com/watch?v=-shepsIjEZs)
 
 ### PYTHON - FINANCE
 
