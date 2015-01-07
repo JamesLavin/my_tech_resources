@@ -1968,6 +1968,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Code Blocks in Ruby - Alex Chaffee](https://www.youtube.com/watch?v=K8uhD8mtorE)
 * [Dissecting a Ruby Block - Pat Shaughnessy (RubyConf 2012)](http://confreaks.com/videos/1286-rubyconf2012-dissecting-a-ruby-block) & [BostonRB.org](http://bostonrb.org/presentations/dissecting-a-ruby-block)
+* [Ruby Monsters Go Bump in the Night - Jonan Scheffler (Keep Ruby Weird 2014)](http://confreaks.com/videos/4789-KeepRubyWeird14-ruby-monsters-go-bump-in-the-night)
 
 ### RUBY - BLOGS
 
