@@ -1298,6 +1298,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Quantopian - the people behind Zipline](https://www.quantopian.com/)
 * [ultra-finance - real-time financial data collection, analyzing & backtesting trading strategies](http://code.google.com/p/ultra-finance/)
 * [Practical Approaches to Problems in the Financial Industry using Python - Andy Fundinger (PyGotham 2014)](https://www.youtube.com/watch?v=PVkHqdsyRfQ)
+* [Quant.StackExchange.com](http://quant.stackexchange.com/)
 
 #### PYTHON - FINANCE - IBPY
 
@@ -1480,6 +1481,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Learn to Program: The Fundamentals - Jennifer Campbell and Paul Gries - U of Toronto (Coursera)](https://www.coursera.org/course/programming1)
 * [Programming Foundations with Python: Learn Object-Oriented Programming - Kunal Chawla (Udacity)](https://www.udacity.com/course/ud036)
 * [Python for Informatics: Exploring Information - Charles Severance](http://www.pythonlearn.com/book.php), [PDF](http://www.pythonlearn.com/book_008.pdf) & [videos](http://pythonlearn.com/)
+* [Intro to Python - Keven Sheppard](http://www.kevinsheppard.com/Python_Course#YouTube_Catch-up)
 * [Let's Learn Python - Trevor Payne](https://www.youtube.com/user/TPayneExperience/playlists?sort=dd&shelf_id=2&view=50)
 * [Hello, Little Turtles!](http://interactivepython.org/runestone/static/thinkcspy/PythonTurtle/helloturtle.html)
 * [Python Programming - Introduction - TDChannel](https://www.youtube.com/watch?v=72RKMMyLxS8)
