@@ -1281,14 +1281,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [DjangoCon 2014 videos](http://www.confreaks.com/events/DjangoCon2014)
 
-### PYTHON - DOCUMENTATION & TESTING
+### PYTHON - DOCUMENTATION
 
-* [Getting Started Testing - Ned Batchelder (PyCon 2014)](https://www.youtube.com/watch?v=FxSsnHeWQBY)
 * [Basic Doctest Python - Daniel Arbuckle](https://www.packtpub.com/books/content/basic-doctest-python)
 * [doctest: Test interactive Python examples](https://docs.python.org/2/library/doctest.html)
 * [Intro to doctest2 for existing users of doctest](https://pythonhosted.org/doctest2/intro_for_existing.html)
 * [Documentation, Testing and Packaging - Jake Vanderplas](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/20_DocsAndTesting.html)
-* [Version Control and Unit Testing for Scientific Software Tutorial, Part 2 of 3 - Matt Davis (SciPy 2013)](https://www.youtube.com/watch?v=-shepsIjEZs)
 
 ### PYTHON - FINANCE
 
@@ -1576,6 +1574,13 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PYTHON - SPYDER
 
 * [Spyder (Scientific PYthon Development EnviRonment)](https://code.google.com/p/spyderlib/)
+
+### PYTHON - TESTING
+
+* [Getting Started Testing - Ned Batchelder (PyCon 2014)](https://www.youtube.com/watch?v=FxSsnHeWQBY)
+* [Testing in Python: Using nose & mocks - Yuki](http://techblog.appnexus.com/2012/testing-in-python-using-nose-mocks/)
+* [Documentation, Testing and Packaging - Jake Vanderplas](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/20_DocsAndTesting.html)
+* [Version Control and Unit Testing for Scientific Software Tutorial, Part 2 of 3 - Matt Davis (SciPy 2013)](https://www.youtube.com/watch?v=-shepsIjEZs)
 
 ### PYTHON - TEXT ANALYSIS
 
