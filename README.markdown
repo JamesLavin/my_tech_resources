@@ -1577,10 +1577,19 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - TESTING
 
+* [Testing Your Code (Python Guide)](http://docs.python-guide.org/en/latest/writing/tests/)
 * [Getting Started Testing - Ned Batchelder (PyCon 2014)](https://www.youtube.com/watch?v=FxSsnHeWQBY)
-* [Testing in Python: Using nose & mocks - Yuki](http://techblog.appnexus.com/2012/testing-in-python-using-nose-mocks/)
 * [Documentation, Testing and Packaging - Jake Vanderplas](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/20_DocsAndTesting.html)
 * [Version Control and Unit Testing for Scientific Software Tutorial, Part 2 of 3 - Matt Davis (SciPy 2013)](https://www.youtube.com/watch?v=-shepsIjEZs)
+
+#### PYTHON - TESTING - MOCK
+
+* [Mock documentation](http://mock.readthedocs.org/en/latest/index.html#quick-guide) [as PDF](http://www.voidspace.org.uk/downloads/mock-1.0.1.pdf)
+
+#### PYTHON - TESTING - NOSE
+
+* [Testing with node](https://nose.readthedocs.org/en/latest/testing.html)
+* [Testing in Python: Using nose & mocks - Yuki](http://techblog.appnexus.com/2012/testing-in-python-using-nose-mocks/)
 
 ### PYTHON - TEXT ANALYSIS
 
