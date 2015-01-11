@@ -16,6 +16,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## BUSINESS
 
 * [Lectures (by successful entrepreneurs) on "How to Start a Startup" (Stanford University)](http://startupclass.samaltman.com/)
+* [James Altucher interview podcasts](http://www.stansberryradio.com/James-Altucher/Latest-Episodes)
 
 ## CHARACTERS
 
