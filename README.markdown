@@ -1377,6 +1377,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [New in Bokeh 0.6](http://continuum.io/blog/bokeh-0.6)
 * [Interactive Browser Visualizations from Python with Bokeh - Bryan Van De Ven (PyData 2014)](https://www.youtube.com/watch?v=hjW4gL9hioY) & [tutorial files](http://cdn.pydata.org/BokehTutorial.tgz) & [slides](http://www.slideshare.net/PyData/pydata-london-bokeh-tutorial-bryan-van-de-ven)
 * [Bokeh: An Extensible Implementation of the Grammar of Graphics in Python - Peter Wang & Hugo Shi (2012)](https://www.youtube.com/watch?v=6_aE0kAedL0)
+* [Data Analysis with Python, Pandas, and Bokeh - Chris Metcalf](http://dev.socrata.com/consumers/examples/data-visualization-with-python.html)
 
 #### PYTHON - GRAPHICS - GGPLOT
 
@@ -1634,6 +1635,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Five Colleges Guide to Statistics With R](http://www3.amherst.edu/~nhorton/FiveCollegeR.pdf)
 * [Swirl ("Statistics With Interactive R Learning")](http://swirlstats.com/students.html)
 * [The Undergraduate Guide to R - Trevor Martin](https://sites.google.com/site/undergraduateguidetor/manual-files)
+* [Rabbit: Intro to R - Nicola Sturaro](http://www.quantide.com/R/r-training/r-web-books/rabbit-introduction-to-r/)
+* [Ramarro: R for Developers (advanced R) - Andrea Spanò](http://www.quantide.com/R/r-training/r-web-books/ramarro-r-for-developers/)
 * [Resources to Help You Learn and Use R - UCLA](http://www.ats.ucla.edu/stat/r/)
 * [One Page R: A Survival Guide to Data Science with R - Graham Williams](http://onepager.togaware.com/)
 * [Impatient R](http://www.burns-stat.com/documents/tutorials/impatient-r/)
