@@ -1125,6 +1125,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Harvard CS109: Data Science (2013): [slides](https://drive.google.com/folderview?id=0BxYkKyLxfsNVd0xicUVDS1dIS0k&usp=sharing), [video lectures](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) & [labs and solutions](https://github.com/cs109/content)
 * [Harvard CS109: Data Science (2014)](http://cs109.github.io/2014/)
 * [Intro to Python for Econometrics, Statistics and Data Analysis - Kevin Sheppard](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf)
+* [Data Mining With Python - Finn Arup Nielsen](http://www2.compute.dtu.dk/pubdb/views/edoc_download.php/6814/pdf/imm6814.pdf)
 * [Quantitative Economics - Thomas Sargent & John Stachurski](http://quant-econ.net/_static/pdfs/py-quant-econ.pdf) & [Python index](http://quant-econ.net/py/index.html)
 * [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
 * [Natural Language Processing with Python](http://nltk.org/book/)
