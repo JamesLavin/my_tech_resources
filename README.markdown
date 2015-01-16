@@ -1304,6 +1304,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [QuantStart.com](http://www.quantstart.com/articles)
 * [Financial analysis Python tutorial - Thomas Wiecki](http://nbviewer.ipython.org/github/twiecki/financial-analysis-python-tutorial/tree/master/)
+* [Python for Quant Finance - Yves Hilpisch (PyData NY 2014)](https://www.youtube.com/watch?v=ksaMXd3knZg)
 * [Python Charting Stocks/Forex for Technical Analysis - Sentdex](https://www.youtube.com/watch?v=u6Xd3kRHhJI&index=1&list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ)
 * [Quantopian - the people behind Zipline](https://www.quantopian.com/)
 * [ultra-finance - real-time financial data collection, analyzing & backtesting trading strategies](http://code.google.com/p/ultra-finance/)
