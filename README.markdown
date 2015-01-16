@@ -1165,6 +1165,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [mlpy](http://mlpy.sourceforge.net/)
 
+#### PYTHON - DATA ANALYSIS - NUMBA
+
+* Numba: [Pydata](http://numba.pydata.org/) & [Github](https://github.com/numba/numba)
+* [Numba vs. Cython: Take 2 - Jake Vanderplas](http://nbviewer.ipython.org/url/jakevdp.github.io/downloads/notebooks/NumbaCython.ipynb)
+* [Accelerating Python Libraries with Numba (Part 1) - Aron Ahmadia](http://continuum.io/blog/numba_growcut) & [Part 2](http://continuum.io/blog/numba_performance)
+
 #### PYTHON - DATA ANALYSIS - NUMPY
 
 * [(Tentative) NumPy Tutorial](http://wiki.scipy.org/Tentative_NumPy_Tutorial)
