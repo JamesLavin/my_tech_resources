@@ -1155,6 +1155,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Blaze ("extends NumPy and Pandas to distributed and out-of-core computing")](http://blaze.pydata.org/docs/latest/index.html)
 * [Introducing Blaze - HMDA Practice - Matt Rocklin](http://continuum.io/blog/blaze-hmda)
 
+#### PYTHON - DATA ANALYSIS - EXCEL INTEGRATION
+
+* xlwings: [Website](http://xlwings.org/), [Github](https://github.com/ZoomerAnalytics/xlwings) & [Quickstart](http://xlwings.org/quickstart/)
+* python-excel: [Website](http://www.python-excel.org/) & [Github](https://github.com/python-excel)
+* [pywin32](http://sourceforge.net/projects/pywin32/)
+
 #### PYTHON - DATA ANALYSIS - MLPY
 
 * [mlpy](http://mlpy.sourceforge.net/)
