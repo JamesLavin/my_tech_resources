@@ -1254,6 +1254,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [scientific-python-lectures - JR Johansson](https://github.com/jrjohansson/scientific-python-lectures)
 * [Topical Software (add-on software relevant to SciPy, categorized by scientific discipline or computational topic)](http://scipy.org/topical-software.html)
 
+#### PYTHON - DATA ANALYSIS - SPYRE
+
+* [Live example](http://adamhajari.com/)
+* [Spyre (Github)](https://github.com/adamhajari/spyre)
+* [From DataFrame to Web Application in 10 Minutes - Adam Hajari (PyData NYC 2014)](https://www.youtube.com/watch?v=jPSP9aMs_3U)
+
 #### PYTHON - DATA ANALYSIS - SQL
 
 * [Comparing Pandas with SQL](http://pandas.pydata.org/pandas-docs/stable/comparison_with_sql.html)
