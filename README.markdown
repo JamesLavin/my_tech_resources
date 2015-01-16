@@ -886,6 +886,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [LESS](http://linux.die.net/man/1/less)
 * [Linux SCP help](http://www.hypexr.org/linux_scp_help.php)
 
+### LINUX - AWK
+
+* [Awk in 20 Minutes - Fred T-H](http://ferd.ca/awk-in-20-minutes.html)
+
 ### LINUX - SHELL SCRIPTING (BASH)
 
 * [Advanced Bash Scripting Guide](tldp.org/LDP/abs/abs-guide.pdf)
