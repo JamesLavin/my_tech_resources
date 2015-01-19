@@ -674,6 +674,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - ES6 / ECMASCRIPT 6
 
+* [JavaScript in 2015 - Glen Maddern](http://glenmaddern.com/articles/javascript-in-2015)
 * [es6-module-transpiler](https://github.com/square/es6-module-transpiler) & [many more ES6 transpilers](https://github.com/addyosmani/es6-tools)
 * [ES6 module syntax](http://wiki.ecmascript.org/doku.php?id=harmony:modules#quick_examples)
 * ES6 Generators - Kyle Simpson: [Basics](http://davidwalsh.name/es6-generators), [Diving Deeper](http://davidwalsh.name/es6-generators-dive), [Going Async](http://davidwalsh.name/async-generators), [Getting Concurrent](http://davidwalsh.name/concurrent-generators)
@@ -1142,6 +1143,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Social Network Analysis with Python - Maksim Tsvetovat (PyCon 2012)](https://www.youtube.com/watch?v=qgGqaBAEy3Q)
 * [Web scraping: Reliably and efficiently pull data from pages that don't expect it - Asheesh Laroia (2012)](http://www.youtube.com/watch?v=52wxGESwQS()
 * [Python for Open Data Lovers: Explore It, Analyze It, Map It - Jackie Kazil, Dana Bauer (2012)](http://www.youtube.com/watch?v=GxyfYEe8MiQ)
+* [Interactive Data Exploration and Visualization in IPython - Tamara Knutsen (DataScience.LA 2014)](https://www.youtube.com/watch?v=uPIrPWBOBEg)
 * [Learn Python for Science - NumPy, SciPy and Matplotlib](http://www.youtube.com/watch?v=oYTs9HwFGbY)
 * [A Billion Rows per Second: Metaprogramming Python for Big Data - New Circle Training](https://www.youtube.com/watch?v=rXj5nayS7Yg)
 * [Python's Role in Big Data Analytics: Past, Present, and Future - Travis Oliphant (EuroPython 2014)](https://www.youtube.com/watch?v=oXRvpBJ-Dkc)
