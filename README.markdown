@@ -1580,6 +1580,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Nobody Expects the Python Packaging Authority - Nick Coghlan (PyCon Australia 2013)](https://www.youtube.com/watch?v=8Xrdt3-YVz4)
 * [Importing iPython Notebooks as Modules](http://nbviewer.ipython.org/github/ipython/ipython/blob/1.x/examples/notebooks/Importing%20Notebooks.ipynb)
 * [Youtube](https://www.youtube.com/results?search_query=python+modules+packages)
+* [Python Packages and You - Harold Abnabit](http://blog.habnab.it/blog/2013/07/21/python-packages-and-you/)
 
 #### PYTHON - MODULES & PACKAGING - WHEELS
 
@@ -1637,6 +1638,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * TextBlob: [ReadTheDocs](http://textblob.readthedocs.org/en/dev/), [Quickstart guide](http://textblob.readthedocs.org/en/dev/quickstart.html#quickstart), [Github](https://github.com/sloria/textblob)
 * [Tutorial: Simple Text Classification with Python and TextBlob - Steven Loria](http://stevenloria.com/how-to-build-a-text-classification-system-with-python-and-textblob/)
+
+#### PYTHON - TEXT ANALYSIS - TWITTER CLIENTS
+
+* [Intro to Text Mining using Twitter Streaming API and Python - Adil Moujahid](http://adilmoujahid.com/posts/2014/07/twitter-analytics/)
+* [Analyzing a NHL Playoff Game with Twitter - Daniel Forsyth](http://www.danielforsyth.me/analyzing-a-nhl-playoff-game-with-twitter/)
+* [Tweepy](http://tweepy.readthedocs.org)
 
 ### PYTHON - VIDEOGREP
 
