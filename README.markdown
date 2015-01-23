@@ -1149,6 +1149,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Natural Language Processing with Python](http://nltk.org/book/)
 * [Mining the Social Web (Git repo)](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
 * [Practical Data Science in Python - Radim Řehůřek](http://radimrehurek.com/data_science_python/)
+* [scientific-python-lectures - JR Johansson](https://github.com/jrjohansson/scientific-python-lectures)
 * [Learn Python Through Public Data Hacking](http://www.youtube.com/watch?v=RrPZza_vZ3w) & [slides](http://dabeaz.com/pydata/LearnPyData.pdf)
 * [Bayesian Statistics Made (As) Simple (As Possible) - Allen Downey (2012)](https://www.youtube.com/watch?v=bobeo5kFz1g)
 * [Social Network Analysis With Python - Maksim Tsvetovat (2012)](http://www.youtube.com/watch?v=qgGqaBAEy3Q)
@@ -1193,6 +1194,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Numpy Reference Guide](http://docs.scipy.org/doc/numpy/reference/) & [PDF](http://docs.scipy.org/doc/numpy/numpy-ref-1.9.1.pdf)
 * [NumPy and iPython - Valentin Haenel (SciPy 2013) - Pt 1](http://www.youtube.com/watch?v=UWmZAAfXds4) & [Pt 2](http://www.youtube.com/watch?v=lSfkIle93hQ)
 * [An introduction to Numpy and Scipy - M. Scott Shell](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)
+* [Numpy: Multidimensional Data Arrays - J.R. Johansson](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb)
+* [An Exercise With Matplotlib and Numpy (gets and analyzes weather data)- Mike Hansen](http://software-carpentry.org/blog/2012/05/an-exercise-with-matplotlib-and-numpy.html)
 
 #### PYTHON - DATA ANALYSIS - PANDAS
 
@@ -1309,7 +1312,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [SciPy Reference Guide](http://docs.scipy.org/doc/scipy/reference/) & [PDF](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf)
 * [SciPy Cookbook](http://wiki.scipy.org/Cookbook)
 * [Scientific Python lecture notes - EuroScipy tutorial team](http://scipy-lectures.github.io/) & [PDF](http://scipy-lectures.github.io/_downloads/PythonScientific-simple.pdf)
-* [scientific-python-lectures - JR Johansson](https://github.com/jrjohansson/scientific-python-lectures)
+* [SciPy: Library of scientific algorithms for Python - JR Johansson](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb)
 * [Topical Software (add-on software relevant to SciPy, categorized by scientific discipline or computational topic)](http://scipy.org/topical-software.html)
 
 #### PYTHON - DATA ANALYSIS - SPYRE
@@ -1335,6 +1338,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [SymPy documentation](http://docs.sympy.org/latest/index.html)
 * [Symbolic Computing With SymPy (SciPy 2013) - 1](http://www.youtube.com/watch?v=dAgShwIx72c) [2](http://www.youtube.com/watch?v=trhmGmyTNuo) [3](http://www.youtube.com/watch?v=JDztSdQqh0o) [4](http://www.youtube.com/watch?v=q9DUdZ3flfk) [5](http://www.youtube.com/watch?v=PC1GPUteZs0) & [6](http://www.youtube.com/watch?v=wPD7Y0sCO4I)
+* [Sympy - Symbolic algebra in Python - JR Johansson](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-5-Sympy.ipynb)
 
 #### PYTHON - DATA ANALYSIS - VIDEOS
 
@@ -1472,6 +1476,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Matplotlib Intro - Jake Vanderplas](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/06_MatplotlibIntro.html) [Matplotlib In-depth](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/12_AdvancedMatplotlib)
 * [Beyond Defaults: Creating Polished Visualizations Using Matplotlib - Hannah Aizenman (PyConUS 2014)](http://pyvideo.org/video/2579/beyond-defaults-creating-polished-visualizations)
 * [Matplotlib: Past, Present and Future - Michael Droettboom (SciPy 2013)](http://www.youtube.com/watch?v=gj5i_19Bftk)
+* [Matplotlib - 2D and 3D plotting in Python - JR Johansson](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb)
 * [Tutorial: Advanced Matplotlib - library author John Hunter](https://www.youtube.com/watch?v=DNRJwENqEUY)
 * [Plotting With MatPlotLib - Mike Müller](http://www.youtube.com/watch?v=P7SVi0YTIuE)
 * [Intro to NumPy and Matplotlib](http://www.youtube.com/watch?v=3Fp1zn5ao2M)
@@ -1635,6 +1640,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PYTHON - PERFORMANCE
 
 * [Fast Python, Slow Python - Alex Gaynor (PyCon 2014)](https://www.youtube.com/watch?v=7eeEf_rAJds)
+* [Tools for high-performance computing applications - JR Johansson](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-6B-HPC.ipynb)
 
 ### PYTHON - PYLAB
 
