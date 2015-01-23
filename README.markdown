@@ -923,6 +923,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Artificial Stupidity: Adding Smarts to Yer Kode - Randall Thomas](http://www.sdruby.org/podcast/79)
 * [Weathering the Data Storm - Claudia Perlich (QConn New York 2014)](http://www.infoq.com/presentations/display-advertising-big-data)
 
+## MAIL SERVER
+
+### MAIL SERVER - DIAGNOSTICS
+
+* [MXToolbox.com](http://mxtoolbox.com/SuperTool.aspx)
+* [spamDBLookup](https://www.ultratools.com/tools/spamDBLookup)
+* [emailTestResult](https://www.ultratools.com/tools/emailTestResult)
+* [DNSStuff tools](http://www.dnsstuff.com/tools)
+* [Getting delisted by Microsoft (which will list you for absolutely no reason)](http://community.spiceworks.com/how_to/show/67285-getting-delisted-by-microsoft-delist-messaging-microsoft-com)
+
 ## MAKER MOVEMENT
 
 * [Adafruit](https://learn.adafruit.com/)
@@ -1100,6 +1110,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PROGRAMMING - VIDEOS
 
 * [InfoQ.com videos](http://www.infoq.com/presentations/)
+* [OSCON 2014](https://www.youtube.com/playlist?list=PL055Epbe6d5Y3njTzpWt0VepR1B7tcRFH)
 
 ## PYTHON
 
