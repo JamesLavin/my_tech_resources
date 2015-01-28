@@ -250,6 +250,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - DOCKER
 
+* [Docs.Docker.com](https://docs.docker.com/)
 * [Docker Tutorials - DarkZebra](https://www.youtube.com/playlist?list=PLfpPfDziPdMIbc7p-_siXYwqsRnd3jrLM)
 * [Intro to Docker - Amjith Ramanujam (PyCon 2014)](https://www.youtube.com/watch?v=9bvdc55xYdo)
 * [Containerized Ruby Applications with Docker - Laura Frank (RubyConf 2014)](http://confreaks.com/videos/4964-RubyConf2014-containerized-ruby-applications-with-docker)
@@ -1117,6 +1118,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## PYTHON
 
+* [Awesome Python (curated list of awesome Python stuff)](https://github.com/vinta/awesome-python)
+
 ### PYTHON - ALGORITHMS
 
 * [Intro to Algorithms - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
@@ -1306,6 +1309,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Scikit-learn video tutorials](http://scikit-learn.org/stable/presentations.html)
 * [Enough Machine Learning to Make Hacker News Readable Again - Ned Jackson Lovely (PyGotham 2014)](http://pyvideo.org/video/3321/enough-machine-learning-make-hacker-news-readable-) & [(PyCon 2014](https://www.youtube.com/watch?v=O7IezJT9uSI)
 * [Building a Beer Recommender](http://docs.yhathq.com/scienceops/deploying-models/examples/python/deploy-a-beer-recommender.html), [slides](http://www.slideshare.net/Yhat/building-a-beer-recommender-with-yhat-papisio-november-2014) & [live demo](https://beers.yhathq.com/)
+* [Forecasting beer consumption with sklearn](http://glowingpython.blogspot.ie/2015/01/forecasting-beer-consumption-with.html)
 * [scikit-learn-book - gmonce](http://nbviewer.ipython.org/github/gmonce/scikit-learn-book/tree/master/)
 
 #### PYTHON - DATA ANALYSIS - SCIPY
@@ -2046,6 +2050,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - ASYNCHRONOUS/EVENTED/THREADED
 
+* [event_sourced_record (gem from fhwang)](https://github.com/fhwang/event_sourced_record)
 * [Refactoring Ruby with Monads - Tom Stuart (GoGaRuCo 2014)](http://www.confreaks.com/videos/4154-gogaruco2014-refactoring-ruby-with-monads)
 * [How to Consume Lots of Data - Doug Alcorn (Burlington Ruby Conf 2014)](http://vimeo.com/album/2996485/video/103475219)
 * [Concurrent-ruby gem](https://github.com/jdantonio/concurrent-ruby)
@@ -2211,6 +2216,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - GEMS, TOOLS & LIBRARIES
 
+* Rubygems.org: [Guides](http://guides.rubygems.org/) & [Gem search](https://rubygems.org/gems)
 * [Awesome Ruby](https://github.com/markets/awesome-ruby)
 * [Make Awesome Command-Line Apps with Ruby - David Copeland (Ruby Midwest 2011)](http://confreaks.com/videos/762-rubymidwest2011-make-awesome-command-line-apps-with-ruby)
 * [Ruby Libraries Important for Rails by Michael Hartl (RailsConf 2013)](https://www.youtube.com/watch?v=noWORpSTQGE)
