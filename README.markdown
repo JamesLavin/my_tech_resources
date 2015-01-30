@@ -93,6 +93,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## DATA
 
 * [ProgrammableWeb.com](http://www.programmableweb.com/category)
+* [Data Sources on the Web - Managed R Archive Network](http://mran.revolutionanalytics.com/documents/data/)
 * [30 Places to Find Open Data on the Web](http://blog.visual.ly/data-sources/)
 * [AWS Public Data Sets](http://aws.amazon.com/publicdatasets/)
 * [DataCataloges.org](http://datacatalogs.org/)
@@ -1113,6 +1114,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PROGRAMMING - VIDEOS
 
+* [SkillsMatter.com/Skillscasts](https://skillsmatter.com/skillscasts)
 * [InfoQ.com videos](http://www.infoq.com/presentations/)
 * [OSCON 2014](https://www.youtube.com/playlist?list=PL055Epbe6d5Y3njTzpWt0VepR1B7tcRFH)
 
