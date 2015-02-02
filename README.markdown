@@ -24,6 +24,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## CHINESE
 
+* [InfoQ Chinese news](http://www.infoq.com/cn/news/)
 * [Data Structures • 数据结构 (Tsinghua)](https://www.edx.org/course/tsinghuax/tsinghuax-30240184x-data-structures-shu-3416)
 * [数据结构与算法第一部分 | Data Structures and Algorithms Part 1 (Beijing University)](https://www.edx.org/course/pekingx/pekingx-04830050x-shu-ju-jie-gou-yu-suan-2061)
 * [Principles and Practice of Computer Aided Translation 计算机辅助翻译原理与实践](https://www.edx.org/course/pekingx/pekingx-01718330x-principles-practice-1484)
@@ -1255,6 +1256,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [10 Things I Hate About Pandas - Wes McKinney](http://www.slideshare.net/wesm/practical-medium-data-analytics-with-python)
 * [Python and Pandas for Sentiment Analysis and Investing - "sentdex"](https://www.youtube.com/watch?v=0ySdEYUONz0&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7&feature=share)
 * [Manipulating/querying dataframes with Pandas (or dplyr)](http://nbviewer.ipython.org/gist/TomAugspurger/6e052140eaa5fdb6e8c0/dplyr_pandas.ipynb)
+
+##### PYTHON - DATA ANALYSIS - PANDAS - EXCEL INTEGRATION
+
+* [Common Excel Tasks Demonstrated in Pandas - Chris Moffitt, Part 1](http://pbpython.com/excel-pandas-comp.html) & [Part 2](http://pbpython.com/excel-pandas-comp-2.html)
+* [Combining Data From Multiple Excel Files - Chris Moffitt](http://pbpython.com/excel-file-combine.html)
+* [Pandas Pivot Table Explained - Chris Moffitt](http://pbpython.com/pandas-pivot-table-explained.html)
 
 #### PYTHON - DATA ANALYSIS - PYBRAIN
 
