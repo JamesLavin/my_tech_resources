@@ -411,6 +411,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Phoenix (Github)](https://github.com/phoenixframework/phoenix)
 * [PhoenixFramework.org (coming soon)](http://www.phoenixframework.org)
 
+### ELIXIR - VIDEOS
+
+* ["Elixir and the Internet of Things" - Doug Rohrer (Strangeloop 2014)](https://www.youtube.com/watch?v=a-OCorBXX7M)
+
 ## EMERGING TECHNOLOGIES
 
 * [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/#/)
@@ -1481,6 +1485,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Making Interactive Maps For the Web - Zain Memon (2012)](https://www.youtube.com/watch?v=g0CankXpFZg)
 * [Spatial Data and Web Mapping With Python](https://www.youtube.com/watch?v=qmgh14LUOjQ)
+* [Using Geospatial Data with Python - Kelsey Jordahl (SciPy2013), Part 1 of 6](https://www.youtube.com/watch?v=1fzQKMp_tdE), [Part 2](https://www.youtube.com/watch?v=TTEr_nv43TE), [Part 3](https://www.youtube.com/watch?v=QgMJKe7QBP0), [Part 4](https://www.youtube.com/watch?v=UQrHpylmkVk), [Part 5](https://www.youtube.com/watch?v=HJO8OzmFIYU), [Part 6](https://www.youtube.com/watch?v=LDwqkV8gdpM)
 
 ##### PYTHON - GRAPHICS - MAPS - FOLIUM
 
@@ -1643,12 +1648,18 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Python Module Index](https://docs.python.org/3/py-modindex.html) & [Standard Library](https://docs.python.org/3/library/)
 * [Modules 101: how to avoid spaghetti, big balls of mud and houses of straw! - Graeme Cross (PyCon Australia 2013)](https://www.youtube.com/watch?v=72lahT9Umtg)
 * Hitchhiker's Guide to Python: [Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure/) & [Packaging Your Code](http://docs.python-guide.org/en/latest/shipping/packaging/)
+* [How to Setup a new Python Project - Felix Wick (EuroPython 2014)](https://www.youtube.com/watch?v=GeYis4ZuluY)
 * [5 Simple Rules For Building Great Python Packages](http://axialcorps.com/2013/08/29/5-simple-rules-for-building-great-python-packages/)
 * [Distributing Python Modules (Python 3.4)](https://docs.python.org/3.4/distributing/index.html)
 * [Nobody Expects the Python Packaging Authority - Nick Coghlan (PyCon Australia 2013)](https://www.youtube.com/watch?v=8Xrdt3-YVz4)
 * [Importing iPython Notebooks as Modules](http://nbviewer.ipython.org/github/ipython/ipython/blob/1.x/examples/notebooks/Importing%20Notebooks.ipynb)
 * [Youtube](https://www.youtube.com/results?search_query=python+modules+packages)
 * [Python Packages and You - Harold Abnabit](http://blog.habnab.it/blog/2013/07/21/python-packages-and-you/)
+* [Python packaging simplified, for end users, app developers - Asheesh Laroia (PyCon 2014)](https://www.youtube.com/watch?v=eLPiPHr6TVI)
+
+#### PYTHON - MODULES & PACKAGING - VERSIONEER
+
+* [python-versioneer](https://github.com/warner/python-versioneer)
 
 #### PYTHON - MODULES & PACKAGING - WHEELS
 
