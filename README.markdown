@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#css---haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Learning](#learning) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free) & [data analysis](#python---data-analysis) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#css---haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Learning](#learning) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free), [data analysis](#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## BOOKS
 
@@ -1351,6 +1351,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Statsmodels](http://statsmodels.sourceforge.net/)
 * [Statsmodels tutorial - Skipper Seabold (ciPy 2012)](https://www.youtube.com/watch?v=RWRsxhUzpxk) & [code](https://github.com/jseabold/tutorial)
 * [Included datasets](http://statsmodels.sourceforge.net/devel/datasets/index.html)
+* [Multiple Regression using Statsmodels](http://nbviewer.ipython.org/urls/s3.amazonaws.com/datarobotblog/notebooks/multiple_regression_in_python.ipynb)
 
 #### PYTHON - DATA ANALYSIS - SYMPY
 
@@ -1508,7 +1509,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [matplotlib: Lessons From Middle Age - John Hunter](http://www.youtube.com/watch?v=e3lTby5RI54)
 * [Advanced Matplotlib - Ryan May](http://www.youtube.com/watch?v=AmpWIC5SctY)
 * [Plotting With Matplotlib - Mike Mueller](http://www.youtube.com/watch?v=P7SVi0YTIuE)
-* [Anatomy of Matplotlib (1 of 3) - Benjamin Root (SciPy 2013)](https://www.youtube.com/watch?v=FhMmhYV7tNw), [(2 of 3)](https://www.youtube.com/watch?v=c553uCRmEVc), [(3 of 3)](https://www.youtube.com/watch?v=UozWLFgF1_E)
+* [Anatomy of Matplotlib (1 of 3) - Benjamin Root (SciPy 2013)](https://www.youtube.com/watch?v=FhMmhYV7tNw), [(2 of 3)](https://www.youtube.com/watch?v=c553uCRmEVc), [(3 of 3)](https://www.youtube.com/watch?v=UozWLFgF1_E) & [iPython Notebooks](http://nbviewer.ipython.org/github/WeatherGod/AnatomyOfMatplotlib/tree/master/)
 
 ##### PYTHON - GRAPHICS - MATPLOTLIB - MPLD3
 
