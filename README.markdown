@@ -411,6 +411,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Phoenix (Github)](https://github.com/phoenixframework/phoenix)
 * [PhoenixFramework.org (coming soon)](http://www.phoenixframework.org)
 
+### ELIXIR - STREAMS
+
+* [How to build Streams in Elixir easily with Stream.resource/3 Awesomeness - Benjamin Tan](http://benjamintan.io/blog/2015/02/05/how-to-build-streams-in-elixir-easily-with-stream-resource-awesomeness/)
+
 ### ELIXIR - VIDEOS
 
 * ["Elixir and the Internet of Things" - Doug Rohrer (Strangeloop 2014)](https://www.youtube.com/watch?v=a-OCorBXX7M)
@@ -1197,6 +1201,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Numba: [Pydata](http://numba.pydata.org/) & [Github](https://github.com/numba/numba)
 * [Numba vs. Cython: Take 2 - Jake Vanderplas](http://nbviewer.ipython.org/url/jakevdp.github.io/downloads/notebooks/NumbaCython.ipynb)
 * [Accelerating Python Libraries with Numba (Part 1) - Aron Ahmadia](http://continuum.io/blog/numba_growcut) & [Part 2](http://continuum.io/blog/numba_performance)
+* [Numba Overview - Stan Seibert](http://www.slideshare.net/stan_seibert/numba-overview)
 
 #### PYTHON - DATA ANALYSIS - NUMPY
 
