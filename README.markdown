@@ -1159,6 +1159,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Harvard CS109: Data Science (2014)](http://cs109.github.io/2014/)
 * [Intro to Python for Econometrics, Statistics and Data Analysis - Kevin Sheppard](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf)
 * [Data Mining With Python - Finn Arup Nielsen](http://www2.compute.dtu.dk/pubdb/views/edoc_download.php/6814/pdf/imm6814.pdf)
+* [Python: Getting Started With Data Analysis - Al-Ahmadgaid Asaad](http://alstatr.blogspot.com.au/2015/02/python-getting-started-with-data.html)
 * [Quantitative Economics - Thomas Sargent & John Stachurski](http://quant-econ.net/_static/pdfs/py-quant-econ.pdf) & [Python index](http://quant-econ.net/py/index.html)
 * [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
 * [Natural Language Processing with Python](http://nltk.org/book/)
@@ -1581,6 +1582,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### PYTHON - LEARNING - BASICS
 
+* [Coursera.org Python courses](https://www.coursera.org/courses?query=Python)
+* [EdX.org Python courses](https://www.edx.org/course?search_query=Python)
+* [Udemy.com Python courses](https://www.udemy.com/courses/search/?q=Python&p=1&price=price-free&view=grid) & [non-free](https://www.udemy.com/courses/search/?ref=home&q=Python)
 * [Python Notes/Cheatsheet](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
 * [Beginner Python 3+ tutorial series - Harrison Kinsley](http://pythonprogramming.net/beginner-python-programming-tutorials/)
 * [Python 3 Tutorial - Bernd Klein](http://www.python-course.eu/python3_course.php) or [Python 2 Tutorial](http://www.python-course.eu/course.php)
