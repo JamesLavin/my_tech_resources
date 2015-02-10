@@ -1247,6 +1247,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Comparison With R / R Libraries](http://pandas.pydata.org/pandas-docs/stable/comparison_with_r.html)
     * [Comparison With SQL](http://pandas.pydata.org/pandas-docs/stable/comparison_with_sql.html)
     * [API Reference](http://pandas.pydata.org/pandas-docs/stable/api.html)
+* [Visual Guide to Pandas - Jason Wirth (ChiPy 2013)](https://www.youtube.com/watch?v=9d5-Ti6onew)
 * [Pandas tutorials - PyData.org](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
 * [Cheat Sheet: The Pandas DataFrame Object](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
 * [Intro to PANDAS Data Structures - Greg Reda](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/), [Working With DataFrames](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/) & [Using PANDAS on the MovieLens Database](http://www.gregreda.com/2013/10/26/using-pandas-on-the-movielens-dataset/)
