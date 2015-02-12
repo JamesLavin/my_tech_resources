@@ -374,10 +374,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELIXIR
 
+* Elixir: [Docs](http://elixir-lang.org/docs.html) & [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html)
 * [Sweet Elixir! - Ryan Cromwell](http://www.infoq.com/presentations/elixir) & [full notes](https://github.com/cromwellryan/sweetelixir)
 * [ElixirConf 2014 videos](http://www.confreaks.com/events/elixirconf2014)
 * Elixir Express: [Workshop - Chris McCord (RailsConf 2014)](http://www.youtube.com/watch?v=5kYmOyJjGDM) & [Basic documentation](https://github.com/chrismccord/elixir_express/tree/master/basics) & [Advanced documentation](https://github.com/chrismccord/elixir_express/tree/master/advanced)
-* [Elixir docs](http://elixir-lang.org/docs.html) & [Elixir: Getting Started (tutorial)](http://elixir-lang.org/getting_started/1.html)
+* [Elixir With José Valim - HowIStart.org](https://howistart.org/posts/elixir/1)
 * [Elixir: Power of Erlang, Joy of Ruby - Dave Thomas (LoneStarRuby 2013)](https://www.youtube.com/watch?v=KQwEmdOH-GM)
 * [Introduction to Elixir: a New Language on the VM - José Valim](https://www.youtube.com/watch?v=41PvAPSX0wg)
 * [Rubyists, have a sip of Elixir! - Benjamin Tan (RubyConf 2014)](http://confreaks.com/videos/5078-RubyConf2014-rubyists-have-a-sip-of-elixir)
@@ -2371,7 +2372,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### RUBY - TESTING - CAPYBARA
 
-* [Capybara](http://rubydoc.info/github/jnicklas/capybara)
+* Capybara: [Docs](http://www.rubydoc.info/github/jnicklas/capybara) & [Github](https://github.com/jnicklas/capybara)
 * [Introduction To Integration Testing - Jason Draper (BostonRB.org)](http://bostonrb.org/presentations/introduction-to-integration-testing)
 
 #### RUBY - TESTING - CUCUMBER
@@ -2432,7 +2433,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### STATISTICAL ANALYSIS - TIME SERIES
 
 * [Introduction to Computational Finance and Financial Econometrics - Eric Zivot](http://faculty.washington.edu/ezivot/econ424/424notes.htm)
-* [Vector Autoregressive Models for Multivariate Time Series](http://faculty.washington.edu/ezivot/econ584/notes/varModels.pdf)
+* [Variety of Eric Zivot PDFs for Econ 584](http://faculty.washington.edu/ezivot/econ584/notes/) including [Vector Autoregressive Models for Multivariate Time Series](http://faculty.washington.edu/ezivot/econ584/notes/varModels.pdf)
 
 ### STATISTICAL ANALYSIS - VIDEOS
 
