@@ -1587,7 +1587,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [EdX.org Python courses](https://www.edx.org/course?search_query=Python)
 * [Udemy.com Python courses](https://www.udemy.com/courses/search/?q=Python&p=1&price=price-free&view=grid) & [non-free](https://www.udemy.com/courses/search/?ref=home&q=Python)
 * [Python Notes/Cheatsheet](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
-* [Beginner Python 3+ tutorial series - Harrison Kinsley](http://pythonprogramming.net/beginner-python-programming-tutorials/)
+* [Beginner Python 3+ tutorials - Harrison Kinsley](http://pythonprogramming.net/beginner-python-programming-tutorials/) & [All tutorials](http://pythonprogramming.net/dashboard/)
 * [Python 3 Tutorial - Bernd Klein](http://www.python-course.eu/python3_course.php) or [Python 2 Tutorial](http://www.python-course.eu/course.php)
 * [Learn to Program: The Fundamentals - Jennifer Campbell and Paul Gries - U of Toronto (Coursera)](https://www.coursera.org/course/programming1)
 * [Programming Foundations with Python: Learn Object-Oriented Programming - Kunal Chawla (Udacity)](https://www.udacity.com/course/ud036)
@@ -1631,8 +1631,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Dive into Python 3](https://github.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)
 * [Building Skills in Object-Oriented Design](http://slav0nic.org.ua/static/books/python/oodesign.pdf)
 * [Hacking Secret Ciphers with Python](http://inventwithpython.com/hackingciphers.pdf)
-* [Hands-On Python Tutorial](http://cs.luc.edu/anh/python/hands-on/handson.pdf)
+* [Hands-On Python Tutorial](http://anh.cs.luc.edu/python/hands-on/3.1/Hands-onPythonTutorial.pdf)
 * [How to Think Like a Computer Scientist: Learning with Python](http://interactivepython.org/runestone/static/thinkcspy/index.html) & [PDF](https://cs.nyu.edu/courses/fall12/CSCI-UA.0002-006/misc/httlacs.pdf)
+* [Official Python Documentation](https://docs.python.org/3/download.html)
 
 #### PYTHON - LEARNING - VIDEOS
 
