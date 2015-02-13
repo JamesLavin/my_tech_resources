@@ -1406,6 +1406,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How to use IBPy Python with Interactive Brokers TWS API For Automated Trading - Sentdex](https://www.youtube.com/watch?v=Bu0kpU-ozaw)
 * [Using Python, IbPy and the Interactive Brokers API to Automate Trades](http://www.quantstart.com/articles/Using-Python-IBPy-and-the-Interactive-Brokers-API-to-Automate-Trades)
 
+#### PYTHON - FINANCE - TA-LIB
+
+* [ta-lib (Python wrapper for TA-Lib)](https://github.com/mrjbq7/ta-lib)
+* [TA-lib: Technical Analysis Library](http://ta-lib.org/)
+
 #### PYTHON - FINANCE - QUANTLIB
 
 * [The QuantLib Notebooks](http://implementingquantlib.blogspot.com/p/notebooks.html)
