@@ -1219,7 +1219,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### PYTHON - DATA ANALYSIS - OLAP
 
-* [Cubes - OLAP HTTP server](http://cubes.databrewery.org/)
+* Cubes (OLAP HTTP server): [Website](http://cubes.databrewery.org/) & [Github](https://github.com/DataBrewery/cubes)
+* [CubesViewer](https://github.com/jjmontesl/cubesviewer)
 
 #### PYTHON - DATA ANALYSIS - PANDAS
 
