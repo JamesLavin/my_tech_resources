@@ -392,6 +392,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Sips (non-free)](http://elixirsips.com)
 * [Elixir Freenode IRC](http://irc.lc/freenode/elixir)
 * [Awesome Elixir - Curated list of Elixir/Erlang libraries, resources & shiny things](https://github.com/h4cc/awesome-elixir)
+* [Elixir Code Reading: Blacksmith](https://www.zweitag.de/en/blog/technology/elixir-code-reading-blacksmith)
 
 ### ELIXIR - ATLAS
 
@@ -1468,6 +1469,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Iteration and generators: The Python way](https://www.youtube.com/watch?v=z4P6hSa6K9g)
 * [Fun with iterators and generators - Malcolm Tredinnick](https://www.youtube.com/watch?v=vD-JJD5tlIg)
 * [Generators: The Final Frontier - David Beazley (PyCon 2014)](https://www.youtube.com/watch?v=D1twn9kLmYg)
+
+### PYTHON - GRAMPS (GENEALOGY)
+
+* [Gramps Python project](https://pypi.python.org/pypi/Gramps)
+* [Gramps project](https://gramps-project.org/features/)
 
 ### PYTHON - GRAPHICS
 
