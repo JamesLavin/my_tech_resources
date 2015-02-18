@@ -1156,10 +1156,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - DATA ANALYSIS
 
+* [Dataquest.io missions](https://www.dataquest.io/missions)
 * Harvard CS109: Data Science (2013): [slides](https://drive.google.com/folderview?id=0BxYkKyLxfsNVd0xicUVDS1dIS0k&usp=sharing), [video lectures](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) & [labs and solutions](https://github.com/cs109/content)
 * [Harvard CS109: Data Science (2014)](http://cs109.github.io/2014/)
 * [Intro to Python for Econometrics, Statistics and Data Analysis - Kevin Sheppard](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf)
 * [Data Mining With Python - Finn Arup Nielsen](http://www2.compute.dtu.dk/pubdb/views/edoc_download.php/6814/pdf/imm6814.pdf)
+* [Clustering US Senators with K-Means - Dataquest.io](http://blog.dataquest.io/blog/plotting-senators/)
 * [Python: Getting Started With Data Analysis - Al-Ahmadgaid Asaad](http://alstatr.blogspot.com.au/2015/02/python-getting-started-with-data.html)
 * [Quantitative Economics - Thomas Sargent & John Stachurski](http://quant-econ.net/_static/pdfs/py-quant-econ.pdf) & [Python index](http://quant-econ.net/py/index.html)
 * [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
@@ -1214,6 +1216,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [An introduction to Numpy and Scipy - M. Scott Shell](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)
 * [Numpy: Multidimensional Data Arrays - J.R. Johansson](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb)
 * [An Exercise With Matplotlib and Numpy (gets and analyzes weather data)- Mike Hansen](http://software-carpentry.org/blog/2012/05/an-exercise-with-matplotlib-and-numpy.html)
+
+#### PYTHON - DATA ANALYSIS - OLAP
+
+* [Cubes - OLAP HTTP server](http://cubes.databrewery.org/)
 
 #### PYTHON - DATA ANALYSIS - PANDAS
 
