@@ -1197,6 +1197,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * python-excel: [Website](http://www.python-excel.org/) & [Github](https://github.com/python-excel)
 * [pywin32](http://sourceforge.net/projects/pywin32/)
 
+#### PYTHON - DATA ANALYSIS - KAYAK (DEEP NEURAL NETWORKS)
+
+* [Kayak - Library for Deep Neural Networks](https://github.com/HIPS/Kayak)
+
 #### PYTHON - DATA ANALYSIS - MLPY
 
 * [mlpy](http://mlpy.sourceforge.net/)
