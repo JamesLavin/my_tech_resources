@@ -687,6 +687,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - ES6 / ECMASCRIPT 6
 
+* [Using ECMAScript 6 today - Dr. Axel Rauschmayer (#RSConf 2015) - Part 1](https://www.youtube.com/watch?v=Fg3bEZIcnUw) & [Part 2](https://www.youtube.com/watch?v=Vhhq1WpzsnM)
 * [JavaScript in 2015 - Glen Maddern](http://glenmaddern.com/articles/javascript-in-2015)
 * [es6-module-transpiler](https://github.com/square/es6-module-transpiler) & [many more ES6 transpilers](https://github.com/addyosmani/es6-tools)
 * [ES6 module syntax](http://wiki.ecmascript.org/doku.php?id=harmony:modules#quick_examples)
