@@ -411,7 +411,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Rise of The Phoenix: Building an Elixir Web Framework - Chris McCord (ElixirConf 2014)](https://www.youtube.com/watch?v=3jMbzGv_6tA)
 * [Phoenix (Github)](https://github.com/phoenixframework/phoenix)
-* [PhoenixFramework.org (coming soon)](http://www.phoenixframework.org)
+* [PhoenixFramework.org](http://www.phoenixframework.org)
+* [Phoenix asset handling with brunch - Chris McCord](https://www.youtube.com/watch?v=CgSjuCRHKvg)
 
 ### ELIXIR - STREAMS
 
@@ -420,6 +421,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - VIDEOS
 
 * ["Elixir and the Internet of Things" - Doug Rohrer (Strangeloop 2014)](https://www.youtube.com/watch?v=a-OCorBXX7M)
+
+## ERLANG
+
+* [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/content)
 
 ## EMERGING TECHNOLOGIES
 
@@ -687,7 +692,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - ES6 / ECMASCRIPT 6
 
-* [Using ECMAScript 6 today - Dr. Axel Rauschmayer (#RSConf 2015) - Part 1](https://www.youtube.com/watch?v=Fg3bEZIcnUw) & [Part 2](https://www.youtube.com/watch?v=Vhhq1WpzsnM)
+* [Using ECMAScript 6 today - Dr. Axel Rauschmayer (RollingScopesConf 2015) - Part 1](https://www.youtube.com/watch?v=Fg3bEZIcnUw) & [Part 2](https://www.youtube.com/watch?v=Vhhq1WpzsnM) & [ECMAScript 6: what's next for JavaScript? (Frontendconf Zürich)](https://www.youtube.com/watch?v=G21rdWfa_as)
 * [JavaScript in 2015 - Glen Maddern](http://glenmaddern.com/articles/javascript-in-2015)
 * [es6-module-transpiler](https://github.com/square/es6-module-transpiler) & [many more ES6 transpilers](https://github.com/addyosmani/es6-tools)
 * [ES6 module syntax](http://wiki.ecmascript.org/doku.php?id=harmony:modules#quick_examples)
@@ -696,6 +701,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ES6Fiddle.net](http://www.es6fiddle.net)
 * [ES6 Tools - Addy Osmani](https://github.com/addyosmani/es6-tools)
 * [Rewriting a WebApp With ECMAScript 6](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6/)
+
+#### JAVASCRIPT - ES6 / ECMASCRIPT 6 - GENERATORS
+
+* [Hanging Up On Callbacks: Using ECMAScript 6 Generators - Erin Swenson-Healey](https://www.youtube.com/watch?v=OYdP1tQ9Rnw)
 
 ### JAVASCRIPT - EMBER.JS
 
@@ -1051,6 +1060,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Range Types in PostgreSQL 9.2 - Your Life Will Never Be the Same - Jonathan S. Katz (Postgres Open)](https://www.youtube.com/watch?v=XIcOf7r0dG4)
 * [Full-Text Search: Seek and Ye Shall Find - Dan Scott (Postgres Open)](https://www.youtube.com/watch?v=R6nT6UgY7k4)
+* [Using PostgreSQL and jsonb with Ruby on Rails - Nando Vieira](http://nandovieira.com/using-postgresql-and-jsonb-with-ruby-on-rails)
 
 ## PRODUCT DEVELOPMENT
 
