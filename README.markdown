@@ -392,6 +392,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Sips (non-free)](http://elixirsips.com)
 * [Elixir Freenode IRC](http://irc.lc/freenode/elixir)
 * [Awesome Elixir - Curated list of Elixir/Erlang libraries, resources & shiny things](https://github.com/h4cc/awesome-elixir)
+* [Writing Command Line Applications with Elixir - James Smith (ElixirConf 2014)](https://www.youtube.com/watch?v=7l_fDU86pr4)
 * [Elixir Code Reading: Blacksmith](https://www.zweitag.de/en/blog/technology/elixir-code-reading-blacksmith)
 
 ### ELIXIR - ATLAS
@@ -414,6 +415,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [PhoenixFramework.org](http://www.phoenixframework.org)
 * [Phoenix asset handling with brunch - Chris McCord](https://www.youtube.com/watch?v=CgSjuCRHKvg)
 
+#### ELIXIR - PHOENIX FRAMEWORK - PERFORMANCE
+
+* [Elixir vs Ruby Showdown - Phoenix vs Rails - Chris McCord](http://www.littlelines.com/blog/2014/07/08/elixir-vs-ruby-showdown-phoenix-vs-rails/)
+* [Benchmarking Phoenix vs Rails vs Sinatra vs Express vs Martini - Matthew Rothenberg](https://github.com/mroth/phoenix-showdown)
+
 ### ELIXIR - STREAMS
 
 * [How to build Streams in Elixir easily with Stream.resource/3 Awesomeness - Benjamin Tan](http://benjamintan.io/blog/2015/02/05/how-to-build-streams-in-elixir-easily-with-stream-resource-awesomeness/)
@@ -425,6 +431,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## ERLANG
 
 * [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/content)
+* [Thinking in a Highly Concurrent, Mostly-functional Language - Francesco Cesarini (ElixirConf 2014)](https://www.youtube.com/watch?v=d5G3P2iosmA)
 
 ## EMERGING TECHNOLOGIES
 
