@@ -1779,6 +1779,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - WEB SCRAPING
 
+* [Web Scraping 101 with Python](http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/) & [Web Scraping 201: finding the API - Greg Reda](http://www.gregreda.com/2015/02/15/web-scraping-finding-the-api/)
 * [Intro to Web (and data!) Scraping with Python - Katharine Jarmul (PyCon 2014)](https://www.youtube.com/watch?v=p1iX0uxM1w8)
 * [Scrape Websites with Python + Beautiful Soup 4 + Requests - ](https://www.youtube.com/watch?v=3xQTJi2tqgk)
 * [Scrapy](http://scrapy.org/) & [Github](https://github.com/scrapy/scrapy)
