@@ -433,6 +433,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/content)
 * [Thinking in a Highly Concurrent, Mostly-functional Language - Francesco Cesarini (ElixirConf 2014)](https://www.youtube.com/watch?v=d5G3P2iosmA)
 
+
+### ERLANG - ELASTICSEARCH
+
+* [erlastic_search (Erlang client for Elasticsearch)](https://github.com/tsloughter/erlastic_search)
+* [Elasticsearch from Elixir and Docker - Zohaib Rauf](http://zohaib.me/elasticsearch-from-elixir-and-docker/)
+
 ## EMERGING TECHNOLOGIES
 
 * [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/#/)
