@@ -404,6 +404,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Documentation (PDF)](https://media.readthedocs.org/pdf/elixir-lang/latest/elixir-lang.pdf)
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) & [Github](https://github.com/oreillymedia/etudes-for-elixir)
 
+### ERLANG - ELASTICSEARCH
+
+* [Tirexs - Elixir DSL for Elasticsearch](https://github.com/roundscope/tirexs)
+* [erlastic_search (Erlang client for Elasticsearch)](https://github.com/tsloughter/erlastic_search)
+* [Elasticsearch from Elixir and Docker - Zohaib Rauf](http://zohaib.me/elasticsearch-from-elixir-and-docker/)
+
 ### ELIXIR - MACROS
 
 * [Understanding Elixir Macros, Part 1 - Basics - Saša Jurić](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-1.html), [Part 2 - Micro theory](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-2.html), [Part 3 - Getting into the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-3.html), [Part 4 - Diving Deeper](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-4.html), [Part 5 - Reshaping the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-5.html), [Part 6 - In-place code generation](http://www.theerlangelist.com/2014/07/understanding-elixir-macros-part-6.html)
@@ -433,11 +439,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/content)
 * [Thinking in a Highly Concurrent, Mostly-functional Language - Francesco Cesarini (ElixirConf 2014)](https://www.youtube.com/watch?v=d5G3P2iosmA)
 
-
-### ERLANG - ELASTICSEARCH
-
-* [erlastic_search (Erlang client for Elasticsearch)](https://github.com/tsloughter/erlastic_search)
-* [Elasticsearch from Elixir and Docker - Zohaib Rauf](http://zohaib.me/elasticsearch-from-elixir-and-docker/)
 
 ## EMERGING TECHNOLOGIES
 
