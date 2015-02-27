@@ -1699,6 +1699,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Tutorial on Installing Packages](https://packaging.python.org/en/latest/installing.html), [Tutorial on Packaging & Distributing Packages](https://packaging.python.org/en/latest/distributing.html), [Tool Recommendations](https://packaging.python.org/en/latest/current.html) & [Advanced Packaging Topics](https://packaging.python.org/en/latest/additional.html)
 * [Python Packaging User Guide](https://packaging.python.org/en/latest/)
 * [Python Tutorial - Modules](https://docs.python.org/3/tutorial/modules.html)
+* [Sample project with best practices- Python Packaging Authority](https://github.com/pypa/sampleproject)
 * [Python Module Index](https://docs.python.org/3/py-modindex.html) & [Standard Library](https://docs.python.org/3/library/)
 * [Modules 101: how to avoid spaghetti, big balls of mud and houses of straw! - Graeme Cross (PyCon Australia 2013)](https://www.youtube.com/watch?v=72lahT9Umtg)
 * Hitchhiker's Guide to Python: [Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure/) & [Packaging Your Code](http://docs.python-guide.org/en/latest/shipping/packaging/)
