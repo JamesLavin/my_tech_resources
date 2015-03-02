@@ -22,6 +22,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Characters, Symbols and the Unicode Miracle - Computerphile](https://www.youtube.com/watch?v=MijmeoH9LT4) + [other cool Computerphile videos](https://www.youtube.com/user/Computerphile/videos)
 
+## CHESS ANALYSIS
+
+* [When Grandmasters Blunder - Joe Doliner](https://medium.com/pachyderm-data/when-grandmasters-blunder-a819860b883d)
+
 ## CHINESE
 
 * [InfoQ Chinese news](http://www.infoq.com/cn/news/)
@@ -1936,9 +1940,39 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## RAILS
 
+* Ruby on Rails Guides: [Stable](http://guides.rubyonrails.org/) | [Edge](http://edgeguides.rubyonrails.org/) | [2.3](http://guides.rubyonrails.org/v2.3.11/) | [3.2](http://guides.rubyonrails.org/v3.2.21/) | [4.0](http://guides.rubyonrails.org/v4.0.6/) | [4.1](http://guides.rubyonrails.org/v4.1.8/) | [4.2](http://guides.rubyonrails.org/v4.2.0/)
+    * [Getting Started](http://guides.rubyonrails.org/getting_started.html)
+    * [Active Record Basics](http://guides.rubyonrails.org/active_record_basics.html)
+    * [Active Record Migrations](http://guides.rubyonrails.org/active_record_migrations.html)
+    * [Active Record Validations](http://guides.rubyonrails.org/active_record_validations.html)
+    * [Active Record Callbacks](http://guides.rubyonrails.org/active_record_callbacks.html)
+    * [Active Record Associations](http://guides.rubyonrails.org/association_basics.html)
+    * [Active Record Query Interface](http://guides.rubyonrails.org/active_record_querying.html)
+    * [Active Model Basics](http://guides.rubyonrails.org/active_model_basics.html)
+    * [Action View Overview](http://guides.rubyonrails.org/action_view_overview.html)
+    * [Layouts and Rendering](http://guides.rubyonrails.org/layouts_and_rendering.html)
+    * [Action View Form Helpers](http://guides.rubyonrails.org/form_helpers.html)
+    * [Action Controller Overview](http://guides.rubyonrails.org/action_controller_overview.html)
+    * [Routing](http://guides.rubyonrails.org/routing.html)
+    * [Active Support Core Extensions](http://guides.rubyonrails.org/active_support_core_extensions.html)
+    * [Internationalization](http://guides.rubyonrails.org/i18n.html)
+    * [Action Mailer Basics](http://guides.rubyonrails.org/action_mailer_basics.html)
+    * [Active Job Basics](http://guides.rubyonrails.org/active_job_basics.html)
+    * [Testing](http://guides.rubyonrails.org/testing.html)
+    * [Security](http://guides.rubyonrails.org/security.html)
+    * [Debugging](http://guides.rubyonrails.org/debugging_rails_applications.html)
+    * [Configuration](http://guides.rubyonrails.org/configuring.html)
+    * [Command Line](http://guides.rubyonrails.org/command_line.html)
+    * [Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)
+    * [Engines](http://guides.rubyonrails.org/engines.html)
+    * [Initialization](http://guides.rubyonrails.org/initialization.html)
+    * [Constant Autoloading and Reloading](http://guides.rubyonrails.org/constant_autoloading_and_reloading.html)
+    * [Creating Rails Plugins](http://guides.rubyonrails.org/plugins.html)
+    * [Rack on Rails](http://guides.rubyonrails.org/rails_on_rack.html)
+    * [Creating/Customizing Rails Generators & Templates](http://guides.rubyonrails.org/generators.html)
+    * [Upgrading](http://guides.rubyonrails.org/upgrading_ruby_on_rails.html)
 * [Software as a Service, Part 1 - UC Berkeley](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-1x-engineering-1377)
 * [Software as a Service, Part 2 - UC Berkeley](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-2x-software-service-1275)
-* [Ruby on Rails Guides](http://guides.rubyonrails.org/) & [2.3](http://guides.rubyonrails.org/v2.3.11/)
 * [Ruby on Rails (Edge) Guides](http://edgeguides.rubyonrails.org/)
 * [Rails 4 Cheat Sheet (Cheatography)](http://www.cheatography.com/entaro/cheat-sheets/rails-4/)
 * [Ruby on Rails Tutorial - Michael Hartl (non-free)](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book) & [Rails 4](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=4.0)
