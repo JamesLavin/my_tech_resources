@@ -727,7 +727,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### JAVASCRIPT - EMBER.JS
 
 * [EmberJS.com](http://emberjs.com/)
-* [EmberJS Guides](http://emberjs.com/guides/)
+* [EmberJS Guides](http://emberjs.com/guides/) | [1.10.0](http://guides.emberjs.com/v1.10.0/)
 * [EmberJS API](http://emberjs.com/api/)
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com/chapters)
 * [EmberConf 2014 videos](http://confreaks.com/events/emberconf2014) & [slides](http://emberconf.com/schedule.html)
@@ -769,6 +769,10 @@ Links to resources I have found useful or think might be helpful to future me or
 #### JAVASCRIPT - EMBER.JS - EMBER DATA
 
 * [Custom Adapters for Ember Data - Jeffrey Biles](http://www.youtube.com/watch?v=a3KGITKNbeQ) & [Switching to Ember Data](http://www.youtube.com/watch?v=i1Qzaf6lV1Q) & [Much Very Confused: Ember for the inappropriately experienced](http://www.youtube.com/watch?v=DVwzN6kTc1c)
+
+#### JAVASCRIPT - EMBER.JS - GLIMMER
+
+* [Glimmer demo](https://dbmonster.firebaseapp.com/)
 
 #### JAVASCRIPT - EMBER.JS - TESTING
 
