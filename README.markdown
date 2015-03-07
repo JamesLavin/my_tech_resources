@@ -732,6 +732,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [EmberJS Guides](http://emberjs.com/guides/) | [1.10.0](http://guides.emberjs.com/v1.10.0/)
 * [EmberJS API](http://emberjs.com/api/)
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com/chapters)
+* [EmberConf 2015 keynote - Tom Dale & Yehuda Katz](https://www.youtube.com/watch?&v=o12-90Dm-Qs)
 * [EmberConf 2014 videos](http://confreaks.com/events/emberconf2014) & [slides](http://emberconf.com/schedule.html)
 * [Intro To Ember @ LinkedIn - Erik Bryn (2014)](https://www.youtube.com/watch?v=XlWcj41D-So)
 * [Ember Inspector (for browsers)](https://github.com/tildeio/ember-extension)
