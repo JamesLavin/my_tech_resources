@@ -392,6 +392,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ElixirConf 2014 videos](http://confreaks.com/events/elixirconf2014)
 * [Keynote - José Valim (ElixirConf 2014)](http://confreaks.com/videos/4134-elixirconf2014-keynote-elixir)
 * [Keynote: "Think Different" - Dave Thomas (ElixirConf 2014)](http://confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different)
+* [Ruby and Elixir - Casey Rosenthal (Portland Ruby Brigade Jan 2015)](http://confreaks.tv/videos/pdxrbjan2015-ruby-and-elixir)
 * [Hex: How it was built - Eric Meadows–Jönsson (ElixirConf 2014](https://www.youtube.com/watch?v=VAa7YnZo0hU)
 * [Elixir Sips (non-free)](http://elixirsips.com)
 * [Elixir Freenode IRC](http://irc.lc/freenode/elixir)
@@ -469,6 +470,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Official documentation](http://git-scm.com/documentation)
 * [Git Reference](http://gitref.org/)
 * [Pro Git](http://git-scm.com/book) [PDF](https://github.s3.amazonaws.com/media/progit.en.pdf) [mobi](https://github.s3.amazonaws.com/media/pro-git.en.mobi) [ePub](https://github.s3.amazonaws.com/media/progit.epub)
+* [Wrapping Your Head Around Git - Paolo Perrotta (Garden City Ruby 2015)](http://confreaks.tv/videos/gardencityrb2015-keynote-wrapping-your-head-around-git)
 * [Git/Github open source training resources](http://training.github.com/kit/)
 * [Explain Git With D3 (interactive visual demos of Git commands)](http://www.wei-wang.com/ExplainGitWithD3/#)
 * [GitGuys.com](http://www.gitguys.com/topics/)
@@ -1108,6 +1110,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PRODUCT DEVELOPMENT - PEOPLE & PROCESS
 
 * [Lessons from Theater and Software - Kevin Stevens (Rocky Mountain Ruby 2013)](http://confreaks.com/videos/2771-rockymountainruby2013-lightning-talk-lessons-from-theater-and-software)
+* [5 Things I Wish Someone Had Told Me About Programming Before I Started - Kerri Miller (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-5-things-i-wish-someone-had-told-me-about-programming-before-i-started)
 * [Building a Culture of Quality - Bryan Helmkamp (LoneStarRuby 2013)](http://confreaks.com/videos/2595-lonestarruby2013-building-a-culture-of-quality)
 * [Ready To Code: Automate Your Development Environment - David Kerber (RubyMidwest 2013)](http://confreaks.com/videos/2368-rmw2013-ready-to-code-automate-your-development-environment)
 * [Keynote: Hacking Passion - Katrina Owen (LoneStarRuby 2013)](http://confreaks.com/videos/2600-lonestarruby2013-keynote-hacking-passion)
@@ -2008,6 +2011,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RAILS - CLEAN CODE
 
+* [Eastward Ho! A Clear Path Through Ruby With OO - Jim Gay (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-eastward-ho-a-clear-path-through-ruby-with-oo)
 * [Build Complex Domains in Rails - Mike AbiEzzi (Rocky Mountain Ruby 2014)](http://confreaks.com/videos/4177-rmr2014-build-complex-domains-in-rails)
 * [Hexagonal Rails - Matt Wynne (GoRuCo 2012)](https://www.youtube.com/watch?v=CGN4RFkhH2M)
 * [Domain Driven Design and Hexagonal Architecture with Rails - Declan Whelan, Eric Roberts (RailsConf 2014)](http://confreaks.com/videos/3316-railsconf-domain-driven-design-and-hexagonal-architecture-with-rails)
@@ -2156,6 +2160,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - ACTIVE RECORD
 
+* [ActiveRecord can't do it? Arel can! - Vipul A M, Prathamesh Sonpatki (Garden City Ruby 2015)](http://confreaks.tv/videos/gardencityrb2015-activerecord-can-t-do-it-arel-can)
+* [WAT!! ActiveRecord Callbacks - Monika M (Garden City Ruby 2015)](http://confreaks.tv/videos/gardencityrb2015-wat-activerecord-callbacks)
 * [The Littlest ORM - Noah Gibbs (GoGaRuCo 2013)](http://confreaks.com/videos/2669-gogaruco2013-the-littlest-orm)
 * [ActiveRecord Anti-Patterns for Fun and Profit - Ethan Gunderson (Ruby Midwest 2011)](http://confreaks.com/videos/752-rubymidwest2011-activerecord-anti-patterns-for-fun-and-profit)
 
@@ -2166,12 +2172,17 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - APIS
 
+* [Building Your API for Longevity - Mike Stowe (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-building-your-api-for-longevity)
+* [Future-Proofing Your 3rd Party Integrations - Jeffrey Matthias (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-future-proofing-your-3rd-party-integrations)
 * [Writing APIs - James Miller](http://www.sdruby.org/podcast/128)
 * [Designing Great APIs: Learning from Jony Ive, Orwell and the Kano Model (RailsConf 2013)](https://www.youtube.com/watch?v=RfueDq8-Wwg)
 
 ### RUBY - ASYNCHRONOUS/EVENTED/THREADED
 
 * [event_sourced_record (gem from fhwang)](https://github.com/fhwang/event_sourced_record)
+* [Letting Concurrency Help You Today - Richard Bishop (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-letting-concurrency-help-you-today)
+* [Promises in Ruby - Dinshaw Gobhai (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-promises-in-ruby)
+* [Immutability Matters - Ranjeet Singh (Garden City Ruby 2015)](http://confreaks.tv/videos/gardencityrb2015-immutability-matters)
 * [Refactoring Ruby with Monads - Tom Stuart (GoGaRuCo 2014)](http://www.confreaks.com/videos/4154-gogaruco2014-refactoring-ruby-with-monads)
 * [How to Consume Lots of Data - Doug Alcorn (Burlington Ruby Conf 2014)](http://vimeo.com/album/2996485/video/103475219)
 * [Concurrent-ruby gem](https://github.com/jdantonio/concurrent-ruby)
@@ -2237,6 +2248,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Building a Ruby Library, the Parts No One Talks About - Mitchell Hashimoto (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1246-aloharuby2012-building-a-ruby-library-the-parts-no-one-talks-about)
 * [High-Performance Ruby - Charles Nutter (Ruby Australia 2013)](http://vimeo.com/61255646)
 * [Here Be Dragons - Katrina Owen (Rocky Mountain Ruby 2013)](http://confreaks.com/videos/2649-rockymountainruby2013-here-be-dragons)
+* [Strong Duck Type Driven Development - John Cinnamond (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-strong-duck-type-driven-development)
 * [Kata and Analysis - Jim Weirich (BostonRB.org)](http://bostonrb.org/presentations/kata-and-analysis)
 * [The Value of Value Objects - Jeremy Weiskotten (BostonRB.org)](http://bostonrb.org/presentations/the-value-of-value-objects)
 * [Life on the Edge - James Edward Gray II (Ruby Midwest 2011)](http://confreaks.com/videos/767-rubymidwest2011-life-on-the-edge)
@@ -2317,10 +2329,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Beneath the Surface: Regular Expressions in Ruby - Nell Shamrell (GoGaRuCo 2013)](http://confreaks.com/videos/2678-gogaruco2013-beneath-the-surface-regular-expressions-in-ruby)
 * [Ruby Trick Shots: 24 Ruby Language Tips and Tricks - Peter Cooper](http://www.youtube.com/watch?v=gIEMKOI_Y-4)
 * [Ruby Tips, Pt 1 - Mat Sadler](http://globaldev.co.uk/2013/09/ruby-tips-part-1/) & [Pt 2](http://globaldev.co.uk/2013/09/ruby-tips-part-2/) & [Pt 3](http://globaldev.co.uk/2013/09/ruby-tips-part-3/)
+* [Ruby Idioms You're Not Using Yet - Craig Buchek (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-ruby-idioms-you-re-not-using-yet)
 * [Building a Mocking Library - Andy Lindeman (Ancient City Ruby 2013)](http://www.youtube.com/watch?v=2aYdtS7FZJA)
 * [Building modular, scalable web apps? Of CORS! (Cross-domain AJAX requests) - Michael Bleigh (RubyConf 2012)](http://confreaks.com/videos/1285-rubyconf2012-building-modular-scalable-web-apps-of-cors)
 * [RubyTapas.com (only some free) - Avdi Grimm](http://www.rubytapas.com/episodes)
 * [The Well-Grounded Nuby - David A. Black (BostonRB.org)](http://bostonrb.org/presentations/the-well-grounded-nuby)
+
+### RUBY - FEATURES - ENUMERABLES
+
+* [Enumerable for Fun & Profit - Michael Hartl (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-enumerable-for-fun-profit)
 
 ### RUBY - FUN
 
@@ -2371,6 +2388,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### RUBY - METAPROGRAMMING
 
 * [Class's Class is Class (Metaprogramming is Trolling You) - Chris Kelly](http://www.sdruby.org/podcast/129)
+* [Your Bright Metaprogramming Future: Mistakes You'll Make (and How to Fix Them) - Betsy Haibel (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-your-bright-metaprogramming-future-mistakes-you-ll-make-and-how-to-fix-them)
 
 ### RUBY - METRICS (MONITORING WHAT MATTERS)
 
@@ -2389,6 +2407,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - PERFORMANCE & LOAD TESTING
 
+* [Deoptimizing Ruby - Chris Seaton (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-deoptimizing-ruby)
+* [Benchmarking Ruby - Davy Stevenson (Portland Ruby Brigade Dec 2014)](http://confreaks.tv/videos/pdxrbdec2015-benchmarking-ruby)
+* [Ruby Performance Secrets and How to Uncover Them - Alexander Dymo (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-ruby-performance-secrets-and-how-to-uncover-them)
+* [Capacity planning with Capybara and RabbitMQ - Vijayanand Nandam (Garden City Ruby 2015)](http://confreaks.tv/videos/gardencityrb2015-capacity-planning-with-capybara-and-rabbitmq)
+* [Resilient by Design - Smit Shah (Garden City Ruby 2015)](http://confreaks.tv/videos/gardencityrb2015-resilient-by-design)
 * [Eliminating the Global Interpreter Lock (GIL)](http://researcher.watson.ibm.com/researcher/view_person_subpage.php?id=5206)
 * [Ruby-Toolbox - Benchmarking](https://www.ruby-toolbox.com/categories/Benchmarking)
 * [Measuring Ruby - Sam Saffron & Jeff Atwood (GoGaRuCo 2013)](http://confreaks.com/videos/2668-gogaruco2013-measuring-ruby)
@@ -2445,7 +2468,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - TESTING
 
+* [Testing Isn't Enough: Fighting Bugs with Hacks - Paul Gross (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-testing-isn-t-enough-fighting-bugs-with-hacks)
 * [The Other Junk Drawer: My Tests are a Mess - Christopher Sexton (MountainWest Ruby 2014)](http://confreaks.com/videos/3273-mwrc-the-other-junk-drawer-my-tests-are-a-mess)
+* [TDD For Your Soul: Virtue and Software Engineering - Abraham Sangha (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-tdd-for-your-soul-virtue-and-software-engineering)
 * [Re-thinking Regression Testing - Mario Gonzalez (MountainWest Ruby 2014)](http://confreaks.com/videos/3274-mwrc-re-thinking-regression-testing)
 * [SOLID and TDD, Sitting in a Tree - Mike Nicholaides (Rocky Mountain Ruby 2013)](http://confreaks.com/videos/2653-rockymountainruby2013-solid-and-tdd-sitting-in-a-tree)
 * [It's not your test framework, it's you - Robbie Clutton & Matt Parker (LA Ruby Conf 2013)](http://confreaks.com/videos/2313-larubyconf2013-it-s-not-your-test-framework-it-s-you)
@@ -2487,6 +2512,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [RSpec 2 documentation](https://www.relishapp.com/rspec)
 * [BDD and Acceptance Testing with RSpec & Capybara - Brian Sam-Bodden (RailsConf 2013)](http://confreaks.com/videos/2433-railsconf2013-bdd-and-acceptance-testing-with-rspec-capybara)
+* [An Introduction to Spies in RSpec - Sam Phippen (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-an-introduction-to-spies-in-rspec)
 * [David Chelimsky's "RSpec Toolbox" talk (WindyCityRails2012)](http://vimeo.com/50185518)
 * [API Dock (good for older versions of RSpec)](http://apidock.com/rspec/browse)
 * [RSpec 1.1.2 docs - (Incredibly, one of my job's apps still uses this!)](http://rspec.rubyforge.org/rspec/1.1.12/) & [1.1 - 1.3 documentation](http://rspec.rubyforge.org/rspec/)
