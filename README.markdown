@@ -298,6 +298,17 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Logstash Google Forum](https://groups.google.com/forum/?fromgroups#%21forum/logstash-users)
 * [Logstash Freenode IRC](http://irc.lc/freenode/logstash/t4nk@@@)
 
+### DEVOPS - OPENSTACK
+
+* [OpenStack.org](https://www.openstack.org/): [Overview](https://www.openstack.org/software/)
+* [What is OpenStack?](http://opensource.com/resources/what-is-openstack)
+* [OpenStack on Youtube](https://www.youtube.com/results?search_query=openstack) & [OpenStack Channel](https://www.youtube.com/user/OpenStackFoundation)
+* [Paris Summit 2014: Videos](https://www.openstack.org/summit/openstack-paris-summit-2014/session-videos/)
+* [OpenStack Superuser magazine](http://superuser.openstack.org/articles)
+* [@OpenStack (Twitter)](https://twitter.com/openstack)
+* [OpenStack blog](https://www.openstack.org/blog/)
+* [Ubuntu on OpenStack](http://www.ubuntu.com/cloud/openstack)
+
 ### DEVOPS - VAGRANT
 
 * [Vagrant, Packer, Serf: Maximum Potency DevOps - Mitchell Hashimoto (Kod.io 2014)](http://confreaks.com/videos/3251-kodio_2014-vagrant-packer-serf-maximum-potency-devops)
