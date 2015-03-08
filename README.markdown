@@ -777,12 +777,19 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### JAVASCRIPT - EMBER.JS - EMBER-CLI
 
-* [ember-cli](http://iamstef.net/ember-cli/)
+* [Ember-cli](http://www.ember-cli.com/)
 * [Rails + Ember.js + ember-cli = ♥ - Robert Jackson (Burlington Ruby Conference 2014)](http://vimeo.com/103608308)
 
 #### JAVASCRIPT - EMBER.JS - EMBER DATA
 
+* [Ember Data (Github)](https://github.com/emberjs/data)
+* [Ember Models Guide](http://emberjs.com/guides/models/)
 * [Custom Adapters for Ember Data - Jeffrey Biles](http://www.youtube.com/watch?v=a3KGITKNbeQ) & [Switching to Ember Data](http://www.youtube.com/watch?v=i1Qzaf6lV1Q) & [Much Very Confused: Ember for the inappropriately experienced](http://www.youtube.com/watch?v=DVwzN6kTc1c)
+
+#### JAVASCRIPT - EMBER.JS - FASTBOOT
+
+* [Fastboot (Github)](https://github.com/tildeio/ember-cli-fastboot)
+* [Inside FastBoot: The Road to Server-Side Rendering - Yehuda Katz and Tom Dale](http://emberjs.com/blog/2014/12/22/inside-fastboot-the-road-to-server-side-rendering.html)
 
 #### JAVASCRIPT - EMBER.JS - GLIMMER
 
