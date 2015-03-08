@@ -791,9 +791,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Fastboot (Github)](https://github.com/tildeio/ember-cli-fastboot)
 * [Inside FastBoot: The Road to Server-Side Rendering - Yehuda Katz and Tom Dale](http://emberjs.com/blog/2014/12/22/inside-fastboot-the-road-to-server-side-rendering.html)
 
-#### JAVASCRIPT - EMBER.JS - GLIMMER
+#### JAVASCRIPT - EMBER.JS - GLIMMER (RENDERING ENGINE)
 
 * [Glimmer demo](https://dbmonster.firebaseapp.com/)
+
+#### JAVASCRIPT - EMBER.JS - HTMLBARS
+
+* [HTMLBars - Erik Bryn](http://talks.erikbryn.com/htmlbars/#/)
+* [HTMLBars](https://github.com/tildeio/htmlbars)
 
 #### JAVASCRIPT - EMBER.JS - TESTING
 
@@ -2529,6 +2534,16 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### RUBY - TESTING - RSPEC
 
+* RSpec documentation (rspec.info):
+    * rspec-core: [3.2](http://rspec.info/documentation/3.2/rspec-core/) | [3.1](http://rspec.info/documentation/3.1/rspec-core/) | [3.0](http://rspec.info/documentation/3.0/rspec-core/) | [2.99](http://rspec.info/documentation/2.99/rspec-core/) | [2.14](http://rspec.info/documentation/2.14/rspec-core/)
+    * rspec-expectations: [3.2](http://rspec.info/documentation/3.2/rspec-expectations/) | [3.1](http://rspec.info/documentation/3.1/rspec-expectations/) | [3.0](http://rspec.info/documentation/3.0/rspec-expectations/) | [2.99](http://rspec.info/documentation/2.99/rspec-expectations/) | [2.14](http://rspec.info/documentation/2.14/rspec-expectations/)
+    * rspec-mocks: [3.2](http://rspec.info/documentation/3.2/rspec-mocks/) | [3.1](http://rspec.info/documentation/3.1/rspec-mocks/) | [3.0](http://rspec.info/documentation/3.0/rspec-mocks/) | [2.99](http://rspec.info/documentation/2.99/rspec-mocks/) | [2.14](http://rspec.info/documentation/2.14/rspec-mocks/)
+    * rspec-rails: [3.2](http://rspec.info/documentation/3.2/rspec-rails/) | [3.1](http://rspec.info/documentation/3.1/rspec-rails/) | [3.0](http://rspec.info/documentation/3.0/rspec-rails/) | [2.99](http://rspec.info/documentation/2.99/rspec-rails/) | [2.14](http://rspec.info/documentation/2.14/rspec-rails/)
+* RSpec documentation (relishapp.com):
+    * rspec-core: [3.2](https://relishapp.com/rspec/rspec-core/v/3-2/docs) | [3.1](https://relishapp.com/rspec/rspec-core/v/3-1/docs) | [3.0](https://relishapp.com/rspec/rspec-core/v/3-0/docs) | [2.99](https://relishapp.com/rspec/rspec-core/v/2-99/docs) | [2.14](https://relishapp.com/rspec/rspec-core/v/2-14/docs) | [2.13](https://relishapp.com/rspec/rspec-core/v/2-13/docs) | [2.12](https://relishapp.com/rspec/rspec-core/v/2-12/docs) | [2.11](https://relishapp.com/rspec/rspec-core/v/2-11/docs) | [2.10](https://relishapp.com/rspec/rspec-core/v/2-10/docs) | [2.9](https://relishapp.com/rspec/rspec-core/v/2-9/docs) | [2.8](https://relishapp.com/rspec/rspec-core/v/2-8/docs) | [2.7](https://relishapp.com/rspec/rspec-core/v/2-7/docs) | [2.6](https://relishapp.com/rspec/rspec-core/v/2-6/docs) | [2.5](https://relishapp.com/rspec/rspec-core/v/2-5/docs) | [2.4](https://relishapp.com/rspec/rspec-core/v/2-4/docs)
+    * rspec-expectations: [3.2](https://relishapp.com/rspec/rspec-expectations/v/3-2/docs) | [3.1](https://relishapp.com/rspec/rspec-expectations/v/3-1/docs) | [3.0](https://relishapp.com/rspec/rspec-expectations/v/3-0/docs) | [2.99](https://relishapp.com/rspec/rspec-expectations/v/2-99/docs) | [2.14](https://relishapp.com/rspec/rspec-expectations/v/2-14/docs) | [2.13](https://relishapp.com/rspec/rspec-expectations/v/2-13/docs) | [2.12](https://relishapp.com/rspec/rspec-expectations/v/2-12/docs) | [2.11](https://relishapp.com/rspec/rspec-expectations/v/2-11/docs) | [2.10](https://relishapp.com/rspec/rspec-expectations/v/2-10/docs) | [2.9](https://relishapp.com/rspec/rspec-expectations/v/2-9/docs) | [2.8](https://relishapp.com/rspec/rspec-expectations/v/2-8/docs) | [2.7](https://relishapp.com/rspec/rspec-expectations/v/2-7/docs) | [2.6](https://relishapp.com/rspec/rspec-expectations/v/2-6/docs) | [2.5](https://relishapp.com/rspec/rspec-expectations/v/2-5/docs) | [2.4](https://relishapp.com/rspec/rspec-expectations/v/2-4/docs)
+    * rspec-mocks: [3.2](https://relishapp.com/rspec/rspec-mocks/v/3-2/docs) | [3.1](https://relishapp.com/rspec/rspec-mocks/v/3-1/docs) | [3.0](https://relishapp.com/rspec/rspec-mocks/v/3-0/docs) | [2.99](https://relishapp.com/rspec/rspec-mocks/v/2-99/docs) | [2.14](https://relishapp.com/rspec/rspec-mocks/v/2-14/docs) | [2.13](https://relishapp.com/rspec/rspec-mocks/v/2-13/docs) | [2.12](https://relishapp.com/rspec/rspec-mocks/v/2-12/docs) | [2.11](https://relishapp.com/rspec/rspec-mocks/v/2-11/docs) | [2.10](https://relishapp.com/rspec/rspec-mocks/v/2-10/docs) | [2.9](https://relishapp.com/rspec/rspec-mocks/v/2-9/docs) | [2.8](https://relishapp.com/rspec/rspec-mocks/v/2-8/docs) | [2.7](https://relishapp.com/rspec/rspec-mocks/v/2-7/docs) | [2.6](https://relishapp.com/rspec/rspec-mocks/v/2-6/docs) | [2.5](https://relishapp.com/rspec/rspec-mocks/v/2-5/docs) | [2.4](https://relishapp.com/rspec/rspec-mocks/v/2-4/docs)
+    * rspec-rails: [3.2](https://relishapp.com/rspec/rspec-rails/v/3-2/docs) | [3.1](https://relishapp.com/rspec/rspec-rails/v/3-1/docs) | [3.0](https://relishapp.com/rspec/rspec-rails/v/3-0/docs) | [2.99](https://relishapp.com/rspec/rspec-rails/v/2-99/docs) | [2.14](https://relishapp.com/rspec/rspec-rails/v/2-14/docs) | [2.13](https://relishapp.com/rspec/rspec-rails/v/2-13/docs) | [2.12](https://relishapp.com/rspec/rspec-rails/v/2-12/docs) | [2.11](https://relishapp.com/rspec/rspec-rails/v/2-11/docs) | [2.10](https://relishapp.com/rspec/rspec-rails/v/2-10/docs) | [2.9](https://relishapp.com/rspec/rspec-rails/v/2-9/docs) | [2.8](https://relishapp.com/rspec/rspec-rails/v/2-8/docs) | [2.7](https://relishapp.com/rspec/rspec-rails/v/2-7/docs) | [2.6](https://relishapp.com/rspec/rspec-rails/v/2-6/docs) | [2.5](https://relishapp.com/rspec/rspec-rails/v/2-5/docs) | [2.4](https://relishapp.com/rspec/rspec-rails/v/2-4/docs)
 * [RSpec 2 documentation](https://www.relishapp.com/rspec)
 * [BDD and Acceptance Testing with RSpec & Capybara - Brian Sam-Bodden (RailsConf 2013)](http://confreaks.com/videos/2433-railsconf2013-bdd-and-acceptance-testing-with-rspec-capybara)
 * [An Introduction to Spies in RSpec - Sam Phippen (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-an-introduction-to-spies-in-rspec)
