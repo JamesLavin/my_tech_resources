@@ -778,6 +778,8 @@ Links to resources I have found useful or think might be helpful to future me or
 #### JAVASCRIPT - EMBER.JS - EMBER-CLI
 
 * [Ember-cli](http://www.ember-cli.com/)
+* [Intro to Ember Object and Ember CLI - Brian Cardarella (San Diego JS)](https://www.youtube.com/watch?v=_DYgLKpc_2g)
+* [TodoMVC in Ember CLI - Ryan LaBouve](https://www.youtube.com/watch?v=tonV3G2cPrA)
 * [Rails + Ember.js + ember-cli = ♥ - Robert Jackson (Burlington Ruby Conference 2014)](http://vimeo.com/103608308)
 
 #### JAVASCRIPT - EMBER.JS - EMBER DATA
@@ -2075,11 +2077,24 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RAILS - GEMS
 
-* [Crafting Gems - Pat Allan (RailsConf 2013)](http://confreaks.com/videos/2482-railsconf2013-crafting-gems)
-* [CanCan](https://github.com/ryanb/cancan)
+* [BetterErrors](https://github.com/charliesome/better_errors)
+* [CanCanCan](https://github.com/CanCanCommunity/cancancan) (successor to the original [CanCan](https://github.com/ryanb/cancan))
+* [DelayedJob](https://github.com/collectiveidea/delayed_job)
 * [Devise](https://github.com/plataformatec/devise)
 * [DeviseInvitable](https://github.com/scambra/devise_invitable)
 * [Fabrication](http://www.fabricationgem.org/) [Github](https://github.com/paulelliott/fabrication)
+* [FactoryGirl Rails](https://github.com/thoughtbot/factory_girl_rails)
+* [LetterOpener](https://github.com/ryanb/letter_opener)
+* [Mina (for fast redeployer](https://github.com/mina-deploy/mina)
+* [Paperclip (file uploading)](https://github.com/thoughtbot/paperclip)
+* [Pry-Rails](https://github.com/rweng/pry-rails)
+* [Rspec-Rails](https://github.com/rspec/rspec-rails)
+* [SimpleForm](https://github.com/plataformatec/simple_form)
+
+
+#### RAILS - GEMS - CREATING
+
+* [Crafting Gems - Pat Allan (RailsConf 2013)](http://confreaks.com/videos/2482-railsconf2013-crafting-gems)
 
 ### RAILS - GENERATORS
 
