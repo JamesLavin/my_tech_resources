@@ -455,7 +455,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/content)
 * [Thinking in a Highly Concurrent, Mostly-functional Language - Francesco Cesarini (ElixirConf 2014)](https://www.youtube.com/watch?v=d5G3P2iosmA)
 
-
 ## EMERGING TECHNOLOGIES
 
 * [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/#/)
@@ -465,6 +464,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Polyglot Data - Greg Young (GOTO Conference 2014)](https://www.youtube.com/watch?v=hv2dKtPq0ME)
 * [CQRS and Event Sourcing - Greg Young (Code on the Beach 2014)](https://www.youtube.com/watch?v=JHGkaShoyNs)
 * [Querying Event Streams - Greg Young (React 2014)](https://www.youtube.com/watch?v=DWhQggR13u8)
+
+## FINANCE
+
+* [Topics in Mathematics With Applications in Finance (MIT)](http://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/)
 
 ## FUNCTIONAL PROGRAMMING
 
@@ -2178,7 +2181,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ruby Rogues (podcasts)](http://devchat.tv/ruby-rogues)
 * [The Ruby Show (podcasts)](http://rubyshow.com/)
 * [Unblocked - James Edward Gray II (RubyConf 2010)](http://www.confreaks.com/videos/468-rubyconf2010-unblocked)
-* [Tracing Your Way Through Ruby (BaRuCo 2012)](http://www.youtube.com/watch?v=CvzEibqrriM)i
+* [Tracing Your Way Through Ruby - Elise Huard (BaRuCo 2012)](http://www.youtube.com/watch?v=CvzEibqrriM)i
 * [10 Things You Didn't Know Ruby Could Do - @JEG2](https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do)
 * [The Dark Side of Ruby - Gautam Rege (Garden City Ruby 2014)](http://confreaks.com/videos/2916-gardencityruby-the-dark-side-of-ruby)
 * [Ruby Safari - Ola Bini (Ruby Midwest 2011)](http://confreaks.com/videos/750-rubymidwest2011-ruby-safari)
@@ -2446,6 +2449,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - PERFORMANCE & LOAD TESTING
 
+* [Writing Fast Ruby - Erik Michaels-Ober (Barcelona RubyConf)](http://rubyvideos.com/videos/writing-fast-ruby)
 * [Deoptimizing Ruby - Chris Seaton (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-deoptimizing-ruby)
 * [Benchmarking Ruby - Davy Stevenson (Portland Ruby Brigade Dec 2014)](http://confreaks.tv/videos/pdxrbdec2015-benchmarking-ruby)
 * [Ruby Performance Secrets and How to Uncover Them - Alexander Dymo (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-ruby-performance-secrets-and-how-to-uncover-them)
@@ -2460,6 +2464,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [From Profiling Ruby to Frankenstein Programming - Piotr Szotkowski (Scotland Ruby Conference 2011)](http://confreaks.com/videos/547-scotlandruby2011-from-profiling-ruby-to-frankenstein-programming)
 * [Message in a Bottle - Konstantin Haase (BaRuCo 2012)](http://confreaks.com/videos/1335-baruco2012-message-in-a-bottle) & [Aloha Ruby Conf 2012](http://confreaks.com/videos/1236-aloharuby2012-message-in-a-bottle)
 * [Ensuring High Performance For Your Ruby App - Kowsik Guruswamy (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1238-aloharuby2012-ensuring-high-performance-for-your-ruby-app)
+
+#### RUBY - PERFORMANCE & LOAD TESTING - BENCHMARK
+
+* Benchmark module: [Ruby 1.9](http://ruby-doc.org/stdlib-1.9.3/libdoc/benchmark/rdoc/Benchmark.html) | [Ruby 2.0](http://ruby-doc.org/stdlib-2.0/libdoc/benchmark/rdoc/Benchmark.html)
+
+#### RUBY - PERFORMANCE & LOAD TESTING - BENCHMARK-IPS
+
+* [Benchmark-ips](https://github.com/evanphx/benchmark-ips)
 
 ### RUBY - PROJECTS
 
