@@ -1346,6 +1346,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Python and Pandas for Sentiment Analysis and Investing - "sentdex"](https://www.youtube.com/watch?v=0ySdEYUONz0&list=PLQVvvaa0QuDdktuSQRsofoGxC2PTSdsi7&feature=share)
 * [Manipulating/querying dataframes with Pandas (or dplyr)](http://nbviewer.ipython.org/gist/TomAugspurger/6e052140eaa5fdb6e8c0/dplyr_pandas.ipynb)
 
+##### PYTHON - DATA ANALYSIS - PANDAS - DATA STORAGE
+
+* [Efficiently Store Pandas DataFrames - Matthew Rocklin](http://matthewrocklin.com/blog/work/2015/03/16/Fast-Serialization/)
+
 ##### PYTHON - DATA ANALYSIS - PANDAS - EXCEL INTEGRATION
 
 * [Common Excel Tasks Demonstrated in Pandas - Chris Moffitt, Part 1](http://pbpython.com/excel-pandas-comp.html) & [Part 2](http://pbpython.com/excel-pandas-comp-2.html)
@@ -2353,8 +2357,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ruby Debugging: Life After "Puts" - Rob Kaufman (SDRuby)](http://www.sdruby.org/podcast/111)
 * [Debugging with ruby-debug](http://bashdb.sourceforge.net/ruby-debug.html)
 
-### RUBY - DISTRIBUTED/SOA
+### RUBY - DISTRIBUTED/SOA/SERVICES
 
+* [Services, Services, Everywhere! - Evan Phoenix (Barcelona RubyConf 2014)](https://www.youtube.com/watch?v=msxQqvPFTXE)
 * [Facing the Monolith: Overcoming Monolithic Applications with SOA - Charles Max Wood (Aloha RubyConf 2012)](http://confreaks.com/videos/1249-aloharuby2012-facing-the-monolith-overcoming-monolithic-applications-with-soa)
 * [Distributed Patterns in Ruby - Eric Redmond (Ancient City Ruby 2013)](http://www.youtube.com/watch?v=Adu_dbcnUHA)
 * [Far and Away (A Tour of Distributed Programming with Ruby) - Mark Bates (RubyConf 2010)](http://www.confreaks.com/videos/455-rubyconf2010-far-and-away-a-tour-of-distributed-programming-with-ruby)
