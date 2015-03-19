@@ -759,7 +759,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Awesome Ember Tricks - Robin Ward](http://www.youtube.com/watch?v=kBhGXX4zbXw)
 * [Boston Ember talks](http://www.youtube.com/channel/UCp_L_YjmXTKR4Q2fg1XahsA)
 * [EmberWatch.com](http://emberwatch.com/)
+* [So, You're Thinking of Using Ember - Ralph Holzmann (JQuery Conf 2014)](https://www.youtube.com/watch?v=oDFOJN1irAI)
+* [Common Pitfalls with Ember.js - Alex Speller (EmberFest 2014)](https://www.youtube.com/watch?v=vRfr2nrsX14)
+* [The Ember.js Framework - Everything You Need To Know - Yehuda Katz (All Things Open 2014)](https://www.youtube.com/watch?v=f-6Qd3nuv4w)
 * [EmberFest 2013 videos](http://emberfest.eu/munich)
+* [Lessons learned shipping 15,000 lines of Ember.js - Chris McClelland (EmberJSSeattleMeetup Nov 2014)](https://www.youtube.com/watch?v=H0F-kh8VvE4)
 * [Ember on Rails: #REALTALK - Brandon Hays (LoneStarRuby 2013)](http://confreaks.com/videos/2597-lonestarruby2013-ember-on-rails-realtalk)
 * [Off the Menu: Building a Client-Side With Ember and Rails - Yehuda Katz (Rails Israel 2013)](https://www.youtube.com/watch?v=BpQj9_qEUAc)
 * [Ember Live Coding Session - Eric Berry](https://www.youtube.com/watch?v=4mSp1K7KUGE)
@@ -791,6 +795,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ember Data (Github)](https://github.com/emberjs/data)
 * [Ember Models Guide](http://emberjs.com/guides/models/)
 * [Custom Adapters for Ember Data - Jeffrey Biles](http://www.youtube.com/watch?v=a3KGITKNbeQ) & [Switching to Ember Data](http://www.youtube.com/watch?v=i1Qzaf6lV1Q) & [Much Very Confused: Ember for the inappropriately experienced](http://www.youtube.com/watch?v=DVwzN6kTc1c)
+* [Ember Data: Tips, Tricks, & Lessons Learned - Chris Oei](https://www.youtube.com/watch?v=HL2bMjndviE)
 
 #### JAVASCRIPT - EMBER.JS - FASTBOOT
 
