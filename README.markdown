@@ -706,6 +706,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [CodeSchool.com (non-free)](http://coffeescript.codeschool.com/)
 * [coffee-rails-source-maps](https://github.com/markbates/coffee-rails-source-maps)
 
+### JAVASCRIPT - DATA
+
+* [LearnJSData.com](http://learnjsdata.com/)
+
 ### JAVASCRIPT - D3
 
 * [API](https://github.com/mbostock/d3/wiki/API-Reference), [wiki](https://github.com/mbostock/d3/wiki) & [documentation](http://strongriley.github.io/d3/api/)
@@ -1783,6 +1787,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Fast Python, Slow Python - Alex Gaynor (PyCon 2014)](https://www.youtube.com/watch?v=7eeEf_rAJds)
 * [Tools for high-performance computing applications - JR Johansson](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-6B-HPC.ipynb)
+* [Beginners' Guide to Concurrency and Parallelism in Python - Marcus McCurdy](http://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python#trust-only-devoted-devs-now)
 
 ### PYTHON - PYLAB
 
@@ -2074,6 +2079,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Writing a Rails Engine - Erik Michaels-Ober (GoGaRuCo 2012)](http://confreaks.com/videos/1109-gogaruco2012-writing-a-rails-engine)
 * [Rails Engines Patterns - Andy Maleh (RailsConf 2012)](http://www.youtube.com/watch?v=pm94BsoMGik)
 * [Start Your Engines! - Ryan Bigg (Ruby On Ales 2012)](http://confreaks.com/videos/832-roa2012-start-your-engines)
+* [Feature flagging portions of your Ruby on Rails application with engines - Enrico Teotti](http://teotti.com/feature-flagging-portions-of-your-ruby-on-rails-application-with-engines/) & [NYC.rb talk](https://www.youtube.com/watch?v=rMOn2H7h3oY)
 
 ### RAILS - EVENT SOURCING
 
@@ -2622,6 +2628,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Scala Tutorial (PDF) - TutorialsPoint.com](http://tutorialspoint.com/scala/scala_tutorial.pdf)
 
 ## STATISTICAL ANALYSIS
+
+### STATISTICAL ANALYSIS - INTRO TO
+
+* Intro to Statistics - Thomas Haslwanter: [HTML](http://work.thaslwanter.at/Stats/html/) | [PDF](http://work.thaslwanter.at/Stats/StatsIntro.pdf) | [Github (with full sourcecode)](https://github.com/thomas-haslwanter/statsintro)
 
 ### STATISTICAL ANALYSIS - TIME SERIES
 
