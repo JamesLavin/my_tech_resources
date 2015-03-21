@@ -2302,6 +2302,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Rubycop](https://github.com/bbatsov/rubocop)
 * [bbatsov / ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
+* [That's Not Very Ruby of You - Ernie Miller (RubyConf 2013)](https://www.youtube.com/watch?v=OB-xFC8AN_s)
 * [Avdi Grimm's "Naught" gem](https://github.com/avdi/naught), ["Null Objects and Falsiness"](http://devblog.avdi.org/2011/05/30/null-objects-and-falsiness/), and [two papers](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf) & [explaining the null object pattern](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf)
 * [All the Little Things - Sandi Metz (RailsConf 2014)](https://www.youtube.com/watch?v=8bZh5LMaSmE)
 * [Component-based Architectures in Ruby and Rails - Stephan Hagemann (MountainWest RubyConf 2013)](http://confreaks.com/videos/2350-mwrc2013-component-based-architectures-in-ruby-and-rails)
@@ -2325,12 +2326,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Polite Programmer's Guide to Ruby Etiquette - Jim Weirich, Ed Sumerfield, Chris Nelson (RubyConf 2010)](http://www.confreaks.com/videos/374-rubyconf2010-the-polite-programmer-s-guide-to-ruby-etiquette)
 * [Raise the bar, lower the pressure - Durran Jordan (Scotland Ruby 2011)](http://confreaks.com/videos/543-scotlandruby2011-raise-the-bar-lower-the-pressure)
 * [What's Wrong With Ruby's Object Model (And Why That's a Good Thing) - David Brady (MountainWest RubyConf 2012)](http://confreaks.com/videos/958-mwrc2012-what-s-wrong-with-ruby-s-object-model-and-why-that-s-a-good-thing)
-* [The Ruby Object Model - Dave Thomas (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/2A04_DaveThomas-SOR.mp4)
 * [Simulating the World with Ruby - Bryan Liles (MadisonRuby 2012)](http://confreaks.com/videos/1088-madisonruby2012-simulating-the-world-with-ruby)
 * [Literary Criticism for the Idle Programmer - Roland Swingler (Scotland Ruby Conf 2011)](http://confreaks.com/videos/548-scotlandruby2011-literary-criticism-for-the-idle-programmer)
 * [Building Blocks of Modularity - Jim Weirich (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A03_JimWeirich-SOR.mp4)
 * [The Insufficiency of Good Design - Sarah Mei (RubyConf 2012)](http://confreaks.com/videos/1304-rubyconf2012-the-insufficiency-of-good-design)
 * [Insight, Intuition and Programming - Russ Olsen (Ancient City Ruby 2013)](http://www.youtube.com/watch?v=rQp1CFJxgs0)
+* [Extending Ruby with Ruby - Michael Fairley (RailsConf 2012)](https://www.youtube.com/watch?v=ZjYgNnCtpg4) & [his method_decorators gem](https://github.com/michaelfairley/method_decorators)
 
 ### RUBY - COMMAND LINE APPS
 
@@ -2360,6 +2361,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Pry Railscast](http://railscasts.com/episodes/280-pry-with-rails)
 * [Pry API docs](http://rdoc.info/github/pry/pry/master/Pry)
 * [Pry - The Good Parts! - Conrad Irwin (RailsConf 2013)](https://www.youtube.com/watch?v=jDXsEzOHb2M)
+* [REPL-driven development with Pry - Conrad Irwin (RubyConf 2013)](https://www.youtube.com/watch?v=D9j_Mf91M0I)
 * [Prying into your app's private life - Corey Woodcox (MountainWest RubyConf 2012)](http://confreaks.com/videos/959-mwrc2012-prying-into-your-app-s-private-life)
 * [PryRepl.org screencasts](http://pryrepl.org/screencasts.html)
 * [Pry screencast - Joshua Cheek](http://www.vimeo.com/26391171)
@@ -2427,6 +2429,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### RUBY - INTERNALS
 
 * [Ruby Hacking Guide (MRI)](http://ruby-hacking-guide.github.io/)
+* [Complex Ruby concepts dummified - Matt Aimonetti (RubyConf 2011)](https://www.youtube.com/watch?v=Qxoc1wrjBuE)
 
 ### RUBY - IRUBY NOTEBOOK
 
@@ -2450,6 +2453,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - METAPROGRAMMING
 
+* Metaprogramming Tutorial (Matt Stopa): [I - send](https://www.youtube.com/watch?v=kNpcaaL_dZA) | [II - define_method](https://www.youtube.com/watch?v=lK8pGCu46nM) | [III - ORM example](https://www.youtube.com/watch?v=pvn0ZHPTUSI)
 * [Class's Class is Class (Metaprogramming is Trolling You) - Chris Kelly](http://www.sdruby.org/podcast/129)
 * [Your Bright Metaprogramming Future: Mistakes You'll Make (and How to Fix Them) - Betsy Haibel (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-your-bright-metaprogramming-future-mistakes-you-ll-make-and-how-to-fix-them)
 
@@ -2460,6 +2464,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ruby-Toolbox - Reporting](https://www.ruby-toolbox.com/categories/reporting)
 * [Ruby-Toolbox - Visualizing Data](https://www.ruby-toolbox.com/categories/visualizing_data)
 * [Ruby-Toolbox - Web Analytics](https://www.ruby-toolbox.com/categories/Web_Analytics)
+
+### RUBY - OBJECTS
+
+* [A Deep Dive into the Ruby Object Model - Peter Cooper](https://www.youtube.com/watch?v=by5fFOBhtPQ)
+* [The Ruby Object Model - Dave Thomas (Scotland on Rails 2009)](https://www.youtube.com/watch?v=X2sgQ38UDVY)
 
 ### RUBY - OPAL
 
@@ -2530,6 +2539,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ruby-Toolbox - Rails Authorization](https://www.ruby-toolbox.com/categories/rails_authorization)
 * [Ruby-Toolbox - Security Tools](https://www.ruby-toolbox.com/categories/security_tools)
 * [Ruby-Toolbox - Spam Detection](https://www.ruby-toolbox.com/categories/spam_detection)
+
+### RUBY - SYMBOLS
+
+* [Ruby's Symbols Explained - Peter Cooper](https://www.youtube.com/watch?v=mBXGBbEbXZY)
 
 ### RUBY - TEACHING KIDS
 
