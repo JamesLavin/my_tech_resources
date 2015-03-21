@@ -433,9 +433,11 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PHOENIX FRAMEWORK
 
 * [Rise of The Phoenix: Building an Elixir Web Framework - Chris McCord (ElixirConf 2014)](https://www.youtube.com/watch?v=3jMbzGv_6tA)
-* [Phoenix (Github)](https://github.com/phoenixframework/phoenix)
+* [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
 * [PhoenixFramework.org](http://www.phoenixframework.org)
+* [Build and test a blazing fast JSON API with Phoenix, an Elixir framework - Paul Smith](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
 * [Phoenix asset handling with brunch - Chris McCord](https://www.youtube.com/watch?v=CgSjuCRHKvg)
+* [The Changelog: "Elixir and Phoenix with Chris McCord"](http://5by5.tv/changelog/147)
 
 #### ELIXIR - PHOENIX FRAMEWORK - PERFORMANCE
 
@@ -2302,6 +2304,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Rubycop](https://github.com/bbatsov/rubocop)
 * [bbatsov / ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
+* [Write Small Things - Mark Menard (LA Ruby Conf 2014)](https://www.youtube.com/watch?v=A0aZLDaGozM)
 * [That's Not Very Ruby of You - Ernie Miller (RubyConf 2013)](https://www.youtube.com/watch?v=OB-xFC8AN_s)
 * [Avdi Grimm's "Naught" gem](https://github.com/avdi/naught), ["Null Objects and Falsiness"](http://devblog.avdi.org/2011/05/30/null-objects-and-falsiness/), and [two papers](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf) & [explaining the null object pattern](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf)
 * [All the Little Things - Sandi Metz (RailsConf 2014)](https://www.youtube.com/watch?v=8bZh5LMaSmE)
