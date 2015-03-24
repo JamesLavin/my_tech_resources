@@ -287,7 +287,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Query Log Analysis – Using Logstash, ElasticSearch and Kibana - Niels Henrik Hagen](http://nhhagen.wordpress.com/2013/11/28/query-log-analysis-using-logstash-elasticsearch-and-kibana/)
 * [Visualizing Logs Using ElasticSearch, Logstash and Kibana - Jeff Sogolov](https://www.youtube.com/watch?v=Kqs7UcCJquM)
 * [Setting up Elasticsearch, Kibana, and Logstash - Daniel Dreier](https://www.ddreier.com/setting-up-elasticsearch-kibana-and-logstash/) & [Logstash Cnfiguration Dissection](https://www.ddreier.com/logstash-configuration-dissection/)
+
+##### DEVOPS - LOGGING - ELK (Elasticsearch + Logstash + Kibana) - SHIELD (Non-free)
+
 * [Shield (non-free ELK security product)](https://www.elastic.co/products/shield)
+* [Shield documentation](http://www.elastic.co/guide/en/shield/current/index.html)
 
 #### DEVOPS - LOGGING - ELSA
 
@@ -299,11 +303,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - LOGGING - KIBANA
 
-* [Kibana documentation](http://www.elasticsearch.org/guide/en/kibana/current/)
+* Kibana documentation: [Current](http://www.elastic.co/guide/en/kibana/current/index.html) | [Older versions](http://www.elastic.co/guide/en/kibana/index.html)
 
 #### DEVOPS - LOGGING - LOGSTASH
 
-* [Documentation](http://logstash.net/docs/1.4.2/)
+* Documentation: [Current](http://www.elastic.co/guide/en/logstash/current/index.html) | [1.4.2](http://logstash.net/docs/1.4.2/)
 * [Getting Started](http://logstash.net/docs/1.4.2/tutorials/getting-started-with-logstash)
 * [Logstash and Other Things - Jordan Sissel (PuppetConf 2012)](https://www.youtube.com/watch?v=RuUFnog29M4)
 * [More Logstash Awesome - Jordan Sissel (PuppetConf 2013)](https://www.youtube.com/watch?v=fwMnb4-t8vo)
@@ -407,7 +411,13 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELASTICSEARCH - RAILS
 
-* API docs: [elasticsearch-rails](https://github.com/elasticsearch/elasticsearch-rails/blob/master/elasticsearch-rails/README.md), [elasticsearch-model](https://github.com/elasticsearch/elasticsearch-rails/blob/master/elasticsearch-model/README.md), [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby), [elasticsearch-transport](https://github.com/elasticsearch/elasticsearch-ruby/tree/master/elasticsearch-transport) & [elasticsearch-api](https://github.com/elasticsearch/elasticsearch-ruby/tree/master/elasticsearch-api)
+* Elasticsearch-Ruby APIs: [Ruby/Rails APIs](http://www.elastic.co/guide/en/elasticsearch/client/ruby-api/current/index.html)
+* Ruby gems' documentation:
+    * [elasticsearch-rails](https://github.com/elasticsearch/elasticsearch-rails/blob/master/elasticsearch-rails/README.md)
+    * [elasticsearch-model](https://github.com/elasticsearch/elasticsearch-rails/blob/master/elasticsearch-model/README.md)
+    * [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby)
+    * [elasticsearch-transport](https://github.com/elasticsearch/elasticsearch-ruby/tree/master/elasticsearch-transport)
+    * [elasticsearch-api](https://github.com/elasticsearch/elasticsearch-ruby/tree/master/elasticsearch-api)
 * [Full-Text Search in Rails with ElasticSearch - Mostafa Abdulhamid](http://www.sitepoint.com/full-text-search-rails-elasticsearch/)
 * [Using Elasticsearch With Rails Apps - Brian Gugliemetti (RailsConf 2013)](https://www.youtube.com/watch?v=U-LrUN6jal8)
 * [Getting Started with Elasticsearch on Rails - Ian Ehlert](http://www.codinginthecrease.com/news_article/show/409843?referrer_id=930667)
