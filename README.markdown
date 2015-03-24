@@ -278,6 +278,17 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - LOGGING
 
+#### DEVOPS - LOGGING - ELK (Elasticsearch + Logstash + Kibana)
+
+* [My Elasticsearch resources](#elasticsearch)
+* [My Logstash resources](#devops---logging---logstash)
+* [Elasticsearch, Logstash & Kibana - Kevin Kluge](http://www.socallinuxexpo.org/scale12x-supporting/default/files/presentations/Scale12x%20-%20Intro%20to%20Elasticsearch%20(Kluge).pdf)
+* [Using ElasticSearch, Logstash and Kibana to Create Realtime Dashboards - Alexander Reelsen](http://gotocon.com/dl/goto-berlin-2014/GOTO_Night/logstash-kibana-intro.pdf)
+* [Query Log Analysis – Using Logstash, ElasticSearch and Kibana - Niels Henrik Hagen](http://nhhagen.wordpress.com/2013/11/28/query-log-analysis-using-logstash-elasticsearch-and-kibana/)
+* [Visualizing Logs Using ElasticSearch, Logstash and Kibana - Jeff Sogolov](https://www.youtube.com/watch?v=Kqs7UcCJquM)
+* [Setting up Elasticsearch, Kibana, and Logstash - Daniel Dreier](https://www.ddreier.com/setting-up-elasticsearch-kibana-and-logstash/) & [Logstash Cnfiguration Dissection](https://www.ddreier.com/logstash-configuration-dissection/)
+* [Shield (non-free ELK security product)](https://www.elastic.co/products/shield)
+
 #### DEVOPS - LOGGING - ELSA
 
 * [ELSA: Enterprise Log Search and Archive](https://code.google.com/p/enterprise-log-search-and-archive/)
@@ -296,12 +307,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Getting Started](http://logstash.net/docs/1.4.2/tutorials/getting-started-with-logstash)
 * [Logstash and Other Things - Jordan Sissel (PuppetConf 2012)](https://www.youtube.com/watch?v=RuUFnog29M4)
 * [More Logstash Awesome - Jordan Sissel (PuppetConf 2013)](https://www.youtube.com/watch?v=fwMnb4-t8vo)
-* [Using ElasticSearch, Logstash and Kibana to Create Realtime Dashboards - Alexander Reelsen](http://gotocon.com/dl/goto-berlin-2014/GOTO_Night/logstash-kibana-intro.pdf)
-* [Visualizing Logs Using ElasticSearch, Logstash and Kibana - Jeff Sogolov](https://www.youtube.com/watch?v=Kqs7UcCJquM)
 * [Logstash Presentation - Matthew Smith](https://www.youtube.com/watch?v=U3m0jKygAqU)
-* [Query Log Analysis – Using Logstash, ElasticSearch and Kibana - Niels Henrik Hagen](http://nhhagen.wordpress.com/2013/11/28/query-log-analysis-using-logstash-elasticsearch-and-kibana/)
 * [A Bit of Logstash Cooking](https://home.regit.org/2014/01/a-bit-of-logstash-cooking/)
-* [Setting up Elasticsearch, Kibana, and Logstash - Daniel Dreier](https://www.ddreier.com/setting-up-elasticsearch-kibana-and-logstash/) & [Logstash Cnfiguration Dissection](https://www.ddreier.com/logstash-configuration-dissection/)
 * [Chef-logstash](https://github.com/lusis/chef-logstash)
 * [Logstash Google Forum](https://groups.google.com/forum/?fromgroups#%21forum/logstash-users)
 * [Logstash Freenode IRC](http://irc.lc/freenode/logstash/t4nk@@@)
@@ -329,10 +336,20 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELASTICSEARCH
 
-* Elasticsearch.org [Reference](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/index.html), [Videos](http://www.elasticsearch.org/videos/), [Search](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/search.html), [Queries](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/query-dsl-queries.html), [Filters](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/query-dsl-filters.html), [Mapping](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/mapping.html), [Indices](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices.html)
+* Elasticsearch documentation:
+    * Reference: [Current](http://www.elastic.co/guide/en/elasticsearch/reference/current/index.html) | [Previous versions](http://www.elastic.co/guide/en/elasticsearch/reference/index.html)
+        * [CRUD APIs](http://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html)
+        * [Search](http://www.elastic.co/guide/en/elasticsearch/reference/current/search.html)
+        * [Indices](http://www.elastic.co/guide/en/elasticsearch/reference/current/indices.html)
+        * [cat APIs](http://www.elastic.co/guide/en/elasticsearch/reference/current/cat.html)
+        * [Cluster APIs](http://www.elastic.co/guide/en/elasticsearch/reference/current/cluster.html)
+        * [Queries](http://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-queries.html)
+        * [Filters](http://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-filters.html)
+        * [Mapping](http://www.elastic.co/guide/en/elasticsearch/reference/current/mapping.html)
+        * [Analyzers](http://www.elastic.co/guide/en/elasticsearch/reference/current/analysis.html)
+    * [Videos](https://www.elastic.co/videos/) & [Elastic{ON} videos](https://www.elastic.co/elasticon/2015/sf/videos)
 * [Exploring Elasticsearch - Andrew Cholakian](http://exploringelasticsearch.com)
 * [Your Data, Your Search, Elasticsearch - Costin Leau (SpringOne2GX 2013)](https://www.youtube.com/watch?v=G56aE1kiOZw)
-* [Elasticsearch, Logstash & Kibana - Kevin Kluge](http://www.socallinuxexpo.org/scale12x-supporting/default/files/presentations/Scale12x%20-%20Intro%20to%20Elasticsearch%20(Kluge).pdf)
 * [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/index.html)
 * [Make sense of your (big) data using Elasticsearch - Honza Král (PyData Berlin 2014)](https://www.youtube.com/watch?v=sCktucuv5Yo)
 * [Explore Your Data With Elasticsearch - Honza Král (SF Python talk)](https://www.youtube.com/watch?v=UNsDUNWRWzg)
@@ -1215,6 +1232,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Code Studio](http://studio.code.org/)
 * [CS50: Intro to Computer Science - David J. Malan (Harvard)](http://cs50.tv/)
+
+#### PROGRAMMING - LEARNING - GAMES
+
+* [Phaser.io](http://phaser.io/)
 * [Game Editor (cross-platform game creator)](http://game-editor.com/)
 
 ### PROGRAMMING - BLOGS
