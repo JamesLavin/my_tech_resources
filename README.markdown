@@ -189,6 +189,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [VizWiz: Data visualization done right (blog)](http://vizwiz.blogspot.com/)
 
+## DATABASES
+
+### DATABASES - ANALYSIS TOOLS
+
+* [DbDesigner](http://www.fabforce.net/dbdesigner4/)
+* [SQL Developer](http://sqldeveloper.solyp.com/)
+* [SQL Power Architect](http://www.sqlpower.ca/page/architect)
+
 ## DEVOPS
 
 * [BOSH](https://github.com/cloudfoundry/bosh)
@@ -708,6 +716,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [CodeSchool.com (non-free)](http://coffeescript.codeschool.com/)
 * [coffee-rails-source-maps](https://github.com/markbates/coffee-rails-source-maps)
 
+### JAVASCRIPT - CRYPTON (ENCRYPTED DATA API)
+
+* [Crypton.io](https://crypton.io/)
+
 ### JAVASCRIPT - DATA
 
 * [LearnJSData.com](http://learnjsdata.com/)
@@ -836,6 +848,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [1024+ Seconds of JS Wizardry - Martin Kleppe (JSConf.eu 2013)](http://2013.jsconf.eu/speakers/martin-kleppe-1024-seconds-of-js-wizardry.html)
 * [The JavaScript Interpreter, Interpreted - Martha Girdler (JSConf.eu 2013)](http://2013.jsconf.eu/speakers/martha-girdler-the-javascript-interpreter-interpreted.html)
 
+### JAVASCRIPT - GRUNT (AUTOMATED TASK RUNNER)
+
+* [Grunt](http://gruntjs.com/)
+
+### JAVASCRIPT - HAMMER.JS (FOR TOUCH GESTURES)
+
+* [Hammer.js](http://hammerjs.github.io/)
+
 ### JAVASCRIPT - JQUERY
 
 * [Official documentation](http://docs.jquery.com/)
@@ -856,6 +876,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - METEOR.JS
 
+* [Meteor.js](https://www.meteor.com/)
 * [Meteor -Web Development Like You've Never Seen - Matt Debergalis (QCon 2013)](http://www.infoq.com/presentations/meteor-web)
 
 ### JAVASCRIPT - MONITORING
@@ -1072,6 +1093,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Android Bootcamp Series 2012](http://www.youtube.com/playlist?list=PLE08A97D36D5A255F&feature=plcp)
 
+### MOBILE - CROSS-PLATFORM DEVELOPMENT
+
+* [Cordova](http://cordova.apache.org/)
+* [Ionic Framework](http://ionicframework.com/)
+* [PhoneGap](http://phonegap.com/)
+
 ### MOBILE - iOS DEVELOPMENT
 
 * [Building iOS Apps With RubyMotion - Ray Hightower (Aloha RubyConf 2012)](http://confreaks.com/videos/1245-aloharuby2012-building-ios-apps-with-rubymotion)
@@ -1188,6 +1215,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Code Studio](http://studio.code.org/)
 * [CS50: Intro to Computer Science - David J. Malan (Harvard)](http://cs50.tv/)
+* [Game Editor (cross-platform game creator)](http://game-editor.com/)
 
 ### PROGRAMMING - BLOGS
 
@@ -1481,6 +1509,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [doctest: Test interactive Python examples](https://docs.python.org/2/library/doctest.html)
 * [Intro to doctest2 for existing users of doctest](https://pythonhosted.org/doctest2/intro_for_existing.html)
 * [Documentation, Testing and Packaging - Jake Vanderplas](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/20_DocsAndTesting.html)
+
+### PYTHON - FALCON (API FRAMEWORK)
+
+* [Falcon API framework](http://falconframework.org/)
 
 ### PYTHON - FINANCE
 
@@ -2717,6 +2749,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [man page](http://www.openbsd.org/cgi-bin/man.cgi?query=tmux&sektion=1)
 * [FAQ](http://sourceforge.net/p/tmux/tmux-code/ci/master/tree/FAQ)
 * [Pair Programming With Tmux - Flaviu Simihaian](http://www.youtube.com/watch?v=za8FMIWYtUc)
+
+## UML
+
+* [ArgoUML](http://argouml.tigris.org/)
+* [PlantUML](http://plantuml.sourceforge.net/)
 
 ## USABILITY
 
