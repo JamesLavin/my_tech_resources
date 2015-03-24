@@ -282,7 +282,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [My Elasticsearch resources](#elasticsearch)
 * [My Logstash resources](#devops---logging---logstash)
-* [Elasticsearch, Logstash & Kibana - Kevin Kluge](http://www.socallinuxexpo.org/scale12x-supporting/default/files/presentations/Scale12x%20-%20Intro%20to%20Elasticsearch%20(Kluge).pdf)
+* [Elasticsearch, Logstash & Kibana - Kevin Kluge](http://www.socallinuxexpo.org/scale12x-supporting/default/files/presentations/Scale12x%20-%20Intro%20to%20Elasticsearch%20%28Kluge%29.pdf)
 * [Using ElasticSearch, Logstash and Kibana to Create Realtime Dashboards - Alexander Reelsen](http://gotocon.com/dl/goto-berlin-2014/GOTO_Night/logstash-kibana-intro.pdf)
 * [Query Log Analysis – Using Logstash, ElasticSearch and Kibana - Niels Henrik Hagen](http://nhhagen.wordpress.com/2013/11/28/query-log-analysis-using-logstash-elasticsearch-and-kibana/)
 * [Visualizing Logs Using ElasticSearch, Logstash and Kibana - Jeff Sogolov](https://www.youtube.com/watch?v=Kqs7UcCJquM)
@@ -352,7 +352,8 @@ Links to resources I have found useful or think might be helpful to future me or
         * [Mapping](http://www.elastic.co/guide/en/elasticsearch/reference/current/mapping.html)
         * [Analyzers](http://www.elastic.co/guide/en/elasticsearch/reference/current/analysis.html)
     * [Videos](https://www.elastic.co/videos/) & [Elastic{ON} videos](https://www.elastic.co/elasticon/2015/sf/videos)
-* [Exploring Elasticsearch - Andrew Cholakian](http://exploringelasticsearch.com)
+* [_Exploring Elasticsearch_ (online tutorial/book) - Andrew Cholakian](http://exploringelasticsearch.com)
+* _Elasticsearch: The Definitive Guide_: [Online](http://www.elastic.co/guide/en/elasticsearch/guide/master/) | [Github repo](https://github.com/elastic/elasticsearch-definitive-guide) & [instructions for generating a PDF](http://asciidoctor.org/docs/convert-asciidoc-to-pdf/)
 * [Your Data, Your Search, Elasticsearch - Costin Leau (SpringOne2GX 2013)](https://www.youtube.com/watch?v=G56aE1kiOZw)
 * [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/index.html)
 * [Make sense of your (big) data using Elasticsearch - Honza Král (PyData Berlin 2014)](https://www.youtube.com/watch?v=sCktucuv5Yo)
@@ -364,6 +365,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELASTICSEARCH - BLOGS
 
+* [Elastic.co blog](https://www.elastic.co/blog)
 * [Foundation (Found.no)](https://found.no/foundation/)
 
 ### ELASTICSEARCH - ELASTICAT
