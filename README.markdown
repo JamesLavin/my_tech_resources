@@ -2109,6 +2109,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [What to Expect in Rails 4.0 - Prem Sichanugrist (BostonRB.org)](http://bostonrb.org/presentations/what-to-expect-in-rails-40)
 * [What's New in Rails 4 - Ben Hughes](http://www.sdruby.org/podcast/130)
 
+### RAILS - RAILS 4.1
+
+* [Reading Rails - Time Travel - Adam Sanderson](http://www.monkeyandcrow.com/blog/reading_rails_time_travel/)
+
 ### RAILS - RAILS 5
 
 * ["OMG Ruby and Rails Performance!!!" - Aaron Patterson 2015](https://www.youtube.com/watch?v=JMGmaRZtgM8)
