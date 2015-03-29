@@ -2612,6 +2612,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ruby-Toolbox - Security Tools](https://www.ruby-toolbox.com/categories/security_tools)
 * [Ruby-Toolbox - Spam Detection](https://www.ruby-toolbox.com/categories/spam_detection)
 
+### RUBY - STATE MACHINES
+
+* [A Machine State of Mind, Part 1: Understanding State Machines - Vaidehi Joshi](http://vaidehijoshi.github.io/blog/2015/03/17/a-machine-state-of-mind-part-1-understanding-state-machines/) & [Part 2: Implementing State Machines](http://vaidehijoshi.github.io/blog/2015/03/24/a-machine-state-of-mind-part-2-implementing-state-machines/)
+
 ### RUBY - SYMBOLS
 
 * [Ruby's Symbols Explained - Peter Cooper](https://www.youtube.com/watch?v=mBXGBbEbXZY)
