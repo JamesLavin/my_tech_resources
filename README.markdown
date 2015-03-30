@@ -1525,6 +1525,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [PyData conference videos](https://www.youtube.com/user/PyDataTV)
 
+#### PYTHON - DATA ANALYSIS - XRAY
+
+* [xray - Pandas-like and pandas-compatible toolkit for analytics on multi-dimensional arrays](https://github.com/xray/xray)
+
 ### PYTHON - DATABASE ADAPTERS
 
 * [Psycopg (for PostgreSQL)](http://initd.org/psycopg/)
@@ -1856,6 +1860,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Tools for high-performance computing applications - JR Johansson](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-6B-HPC.ipynb)
 * [Beginners' Guide to Concurrency and Parallelism in Python - Marcus McCurdy](http://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python#trust-only-devoted-devs-now)
 
+#### PYTHON - PERFORMANCE - DASK
+
+* [Dask - minimal task scheduling abstraction and parallel arrays - ContinuumIO](https://github.com/ContinuumIO/dask)
 ### PYTHON - PYLAB
 
 * DON'T USE PYLAB!!!
@@ -2551,6 +2558,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - PERFORMANCE & LOAD TESTING
 
+* [Real World Ruby Performance at Scale - Aaron Quint (RubyConf 2014)](https://www.youtube.com/watch?v=qlS3yr1oncQ)
+* [The Future of Ruby Performance Tooling - Aaron Quint (GoRuCo 2014)](http://goruco.com/speakers/2014/aaron-quint/)
 * [Writing Fast Ruby - Erik Michaels-Ober (Barcelona RubyConf)](http://rubyvideos.com/videos/writing-fast-ruby)
 * [Deoptimizing Ruby - Chris Seaton (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-deoptimizing-ruby)
 * [Benchmarking Ruby - Davy Stevenson (Portland Ruby Brigade Dec 2014)](http://confreaks.tv/videos/pdxrbdec2015-benchmarking-ruby)
