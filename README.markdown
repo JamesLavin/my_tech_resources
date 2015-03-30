@@ -427,6 +427,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## ELIXIR
 
 * Elixir: [Docs](http://elixir-lang.org/docs.html) & [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html)
+* [What Elixir is About - José Valim (Erlang Factory SF 2015)](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
 * [Sweet Elixir! - Ryan Cromwell](http://www.infoq.com/presentations/elixir) & [full notes](https://github.com/cromwellryan/sweetelixir)
 * [ElixirConf 2014 videos](http://www.confreaks.com/events/elixirconf2014)
 * Elixir Express: [Workshop - Chris McCord (RailsConf 2014)](http://www.youtube.com/watch?v=5kYmOyJjGDM) & [Basic documentation](https://github.com/chrismccord/elixir_express/tree/master/basics) & [Advanced documentation](https://github.com/chrismccord/elixir_express/tree/master/advanced)
@@ -457,7 +458,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Documentation (PDF)](https://media.readthedocs.org/pdf/elixir-lang/latest/elixir-lang.pdf)
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) & [Github](https://github.com/oreillymedia/etudes-for-elixir)
 
-### ERLANG - ELASTICSEARCH
+### ELIXIR - ELASTICSEARCH
 
 * [Tirexs - Elixir DSL for Elasticsearch](https://github.com/roundscope/tirexs)
 * [erlastic_search (Erlang client for Elasticsearch)](https://github.com/tsloughter/erlastic_search)
@@ -487,10 +488,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - VIDEOS
 
+* [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
 * ["Elixir and the Internet of Things" - Doug Rohrer (Strangeloop 2014)](https://www.youtube.com/watch?v=a-OCorBXX7M)
 
 ## ERLANG
 
+* [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
 * [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/content)
 * [Solving the Stable Marriage problem with Erlang](https://www.airpair.com/erlang/posts/solving-the-stable-marriage-problem-with-erlang)
 * [Thinking in a Highly Concurrent, Mostly-functional Language - Francesco Cesarini (ElixirConf 2014)](https://www.youtube.com/watch?v=d5G3P2iosmA)
@@ -1189,6 +1192,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PRODUCT DEVELOPMENT - PROFESSIONALISM / EXCELLENCE / EFFICIENCY
 
+* [Building a Culture of Learning - Joe Mastey (MountainWest RubyConf 2015)](http://confreaks.tv/videos/mwrc2015-building-a-culture-of-learning)
 * [Real Developers Ship (a.k.a Tenets for Software Delivery) - Sebastian von Conrad (Ruby Australia 2014)](http://vimeo.com/90173903)
 * [Great Developers Steal - Ben Scofield (Scotland Ruby Conf 2011)](http://confreaks.com/videos/545-scotlandruby2011-great-developers-steal)
 * [Being an Excellent Software Developer - Michael Norton (WindyCityRails2012)](http://vimeo.com/49882901)
@@ -2149,9 +2153,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Break It Down - Ben Scofield (Ruby Midwest 2011)](http://confreaks.com/videos/756-rubymidwest2011-break-it-down)
 * [Patterns of Basecamp's Application Architecture - DHH (RailsConf 2013)](http://confreaks.com/videos/2422-railsconf2013-opening-keynote-patterns-of-basecamp-s-application-architecture)
 
-### RAILS - ENGINES
+### RAILS - ENGINES & COMPONENTS
 
 * [Rails Engines - BostonRb.org](http://bostonrb.org/presentations/rails-engines)
+* [Component-Based Rails Applications Resources](http://cbra.info/)
 * [Ruby-Toolbox - Testing Rails Engines](https://www.ruby-toolbox.com/categories/Testing_Rails_Engines)
 * [Carson: On the Path from Big-Ball-of-Mud to SOA - James Rosen (Aloha Ruby Conf 2012)](http://confreaks.com/videos/1234-aloharuby2012-carson-on-the-path-from-big-ball-of-mud-to-soa)
 * [Writing a Rails Engine - Erik Michaels-Ober (GoGaRuCo 2012)](http://confreaks.com/videos/1109-gogaruco2012-writing-a-rails-engine)
@@ -2456,6 +2461,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - DISTRIBUTED/SOA/SERVICES
 
+* [Conventions Between Applications - Michael Ries (MountainWest RubyConf 2015)](http://confreaks.tv/videos/mwrc2015-conventions-between-applications)
 * [Services, Services, Everywhere! - Evan Phoenix (Barcelona RubyConf 2014)](https://www.youtube.com/watch?v=msxQqvPFTXE)
 * [Facing the Monolith: Overcoming Monolithic Applications with SOA - Charles Max Wood (Aloha RubyConf 2012)](http://confreaks.com/videos/1249-aloharuby2012-facing-the-monolith-overcoming-monolithic-applications-with-soa)
 * [Distributed Patterns in Ruby - Eric Redmond (Ancient City Ruby 2013)](http://www.youtube.com/watch?v=Adu_dbcnUHA)
@@ -2560,9 +2566,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Real World Ruby Performance at Scale - Aaron Quint (RubyConf 2014)](https://www.youtube.com/watch?v=qlS3yr1oncQ)
 * [The Future of Ruby Performance Tooling - Aaron Quint (GoRuCo 2014)](http://goruco.com/speakers/2014/aaron-quint/)
+* [Smoke & Mirrors: The Primitives of High Availability - Paul Hinze (MountainWest RubyConf 2015)](http://confreaks.tv/videos/mwrc2015-smoke-mirrors-the-primitives-of-high-availability)
 * [Writing Fast Ruby - Erik Michaels-Ober (Barcelona RubyConf)](http://rubyvideos.com/videos/writing-fast-ruby)
 * [Deoptimizing Ruby - Chris Seaton (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-deoptimizing-ruby)
 * [Benchmarking Ruby - Davy Stevenson (Portland Ruby Brigade Dec 2014)](http://confreaks.tv/videos/pdxrbdec2015-benchmarking-ruby)
+* [Oktoperfest: Ruby Performance Tooling - Aaron Quint](http://dev.paperlesspost.com/blog/2013/10/28/oktoperfest-ruby-performance-tooling/)
 * [Ruby Performance Secrets and How to Uncover Them - Alexander Dymo (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-ruby-performance-secrets-and-how-to-uncover-them)
 * [Capacity planning with Capybara and RabbitMQ - Vijayanand Nandam (Garden City Ruby 2015)](http://confreaks.tv/videos/gardencityrb2015-capacity-planning-with-capybara-and-rabbitmq)
 * [Resilient by Design - Smit Shah (Garden City Ruby 2015)](http://confreaks.tv/videos/gardencityrb2015-resilient-by-design)
@@ -2584,6 +2592,19 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Benchmark-ips](https://github.com/evanphx/benchmark-ips)
 
+#### RUBY - PERFORMANCE & LOAD TESTING - PPROFILER
+
+* [ppprofiler (PaperlessPost profiler)](https://gist.github.com/quirkey/7191119)
+
+#### RUBY - PERFORMANCE & LOAD TESTING - RBLINEPROF
+
+* [rblineprof - Ruby line profiler](https://github.com/tmm1/rblineprof)
+* [peek-rblineprof (Rails integration)](https://github.com/peek/peek-rblineprof)
+
+#### RUBY - PERFORMANCE & LOAD TESTING - STACKPROF
+
+* [Stackprof - sampling call-stack profiler for Ruby 2.1+](https://github.com/tmm1/stackprof)
+
 ### RUBY - PROJECTS
 
 * [Building Board Games with Ruby - Yonatan Bergman (GoGaRuCo 2014)](http://confreaks.com/videos/4158-gogaruco2014-building-board-games-with-ruby)
@@ -2597,6 +2618,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### RUBY - REFACTORING
 
 * [Refactoring - SourceMaking.com](http://sourcemaking.com/refactoring)
+* [Data-Driven Refactoring - Coraline Ada Ehmke (MountainWest RubyConf 2015)](http://confreaks.tv/videos/mwrc2015-data-driven-refactoring)
 * [Fluent Refactoring - Sam Livingston-Gray (LoneStarRubyConf 2013)](http://www.youtube.com/watch?v=xJZrMbS2dDk) & [(CascadiaRuby 2013)](http://confreaks.com/videos/2792-cascadiaruby2013-fluent-refactoring)
 * [Refactoring Fat Models With Patterns - Bryan Helmkamp (wroc_love.rb 2013)](http://www.youtube.com/watch?v=IqajIYxbPOI)
 * [Refactoring Legacy Apps with APIs and Messages - Corey Ehmke (LoneStarRubyConf 2013)](http://confreaks.com/videos/2594-lonestarruby2013-refactoring-legacy-apps-with-apis-and-messages)
@@ -2730,6 +2752,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### STATISTICAL ANALYSIS - INTRO TO
 
 * Intro to Statistics - Thomas Haslwanter: [HTML](http://work.thaslwanter.at/Stats/html/) | [PDF](http://work.thaslwanter.at/Stats/StatsIntro.pdf) | [Github (with full sourcecode)](https://github.com/thomas-haslwanter/statsintro)
+* [Learning Statistics will Save Your Life - John Paul Ashenfelter (MountainWest RubyConf 2015)](http://confreaks.tv/videos/mwrc2015-learning-statistics-will-save-your-life)
 
 ### STATISTICAL ANALYSIS - TIME SERIES
 
