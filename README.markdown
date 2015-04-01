@@ -2331,7 +2331,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Refactoring Ruby with Monads - Tom Stuart (GoGaRuCo 2014)](http://www.confreaks.tv/videos/4154-gogaruco2014-refactoring-ruby-with-monads)
 * [How to Consume Lots of Data - Doug Alcorn (Burlington Ruby Conf 2014)](http://vimeo.com/album/2996485/video/103475219)
 * [Concurrent-ruby gem](https://github.com/jdantonio/concurrent-ruby)
-* [Ruby threading videos (Confreaks)](http://www.confreaks.tv/videos?search=Thread)
+* [Confreaks threading videos](http://www.confreaks.tv/search?utf8=%E2%9C%93&query=thread&commit=go) & [Confreaks asynchronous videos](http://www.confreaks.tv/search?utf8=%E2%9C%93&query=async&commit=go)
 * [The Celluloid Ecosystem - Tony Arcieri (RubyConf 2012)](http://confreaks.tv/videos/1302-rubyconf2012-the-celluloid-ecosystem)
 * [Faye - Simple Pub/Sub](http://faye.jcoglan.com/) & [Github](https://github.com/faye/faye)
 * [Ruby-Toolbox - Background Jobs](https://www.ruby-toolbox.com/categories/Background_Jobs)
