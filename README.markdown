@@ -2239,6 +2239,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### RAILS - SECURITY
 
 * [Rails Application Security in Practice - Bryan Helmkamp (Ruby MidWest 2013)](http://confreaks.tv/videos/2375-rmw2013-rails-application-security-in-practice)
+* [Ruby on Rails Cheatsheet - OWASP (Open Web Application Security Project)](https://www.owasp.org/index.php/Ruby_on_Rails_Cheatsheet)
+* [Rails SQL Injection examples](http://rails-sqli.org/)
 
 ### RAILS - TESTING
 
@@ -2639,6 +2641,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * https://code.google.com/p/ruby-security/wiki/Guide
 * [Modern Cryptography - John Downey (GoGaRuCo 2012)](http://confreaks.tv/videos/1114-gogaruco2012-modern-cryptography)
 * [Hacking with Gems - Ben Smith (Aloha RubyConf 2012)](http://confreaks.tv/videos/1243-aloharuby2012-hacking-with-gems)
+* [Good ol' shell injection](https://code.google.com/p/ruby-security/wiki/Guide#Good_ol%27_shell_injection)
 * [Ruby-Toolbox - Encryption](https://www.ruby-toolbox.com/categories/encryption)
 * [Ruby-Toolbox - Rails Authentication](https://www.ruby-toolbox.com/categories/rails_authentication)
 * [Ruby-Toolbox - Rails Authorization](https://www.ruby-toolbox.com/categories/rails_authorization)
