@@ -24,13 +24,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## CHESS ANALYSIS
 
-* [When Grandmasters Blunder - Joe Doliner](https://medium.com/pachyderm-data/when-grandmasters-blunder-a819860b883d) & [code underlying the analysis](https://github.com/pachyderm/chess)
+* [When Grandmasters Blunder - Joe Doliner](https://medium.com/pachyderm-data/when-grandmasters-blunder-a819860b883d), [code underlying the analysis](https://github.com/pachyderm/chess), [The Pachyderm Stack (a completely new MapReduce engine built on top of modern tools)](https://medium.com/pachyderm-data/lets-build-a-modern-hadoop-4fc160f8d74f) & [Pachyderm Single Node Mode](https://medium.com/pachyderm-data/pachyderm-v0-5-release-a-more-tightly-pached-derm-25023bc51f8e)
 * [ChessGames.com (746,000 chess games)](http://www.chessgames.com/)
 
 ## CHINESE
 
 * [InfoQ Chinese news](http://www.infoq.com/cn/news/)
-* [Data Structures • 数据结构 (Tsinghua)](https://www.edx.org/course/tsinghuax/tsinghuax-30240184x-data-structures-shu-3416)
 * [Peking Univesity EdX courses](https://www.edx.org/school/pekingx)
     * [魅力机器人 | The Fascinating World of Robots and Robotics](https://www.edx.org/course/mei-li-ji-qi-ren-fascinating-world-pekingx-00330280x-0)
     * [数据结构与算法第一部分 | Data Structures and Algorithms Part 1 (Beijing University)](https://www.edx.org/course/pekingx/pekingx-04830050x-shu-ju-jie-gou-yu-suan-2061) & [Part 2](https://www.edx.org/course/shu-ju-jie-gou-yu-suan-fa-di-er-bu-fen-pekingx-04830050-2x)
@@ -281,6 +280,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Immutable Infrastructure with Docker and EC2 - Michael Bryzek (Gilt) (DockerCon 2014)](https://www.youtube.com/watch?v=GaHzdqFithc)
 * [3 hours to Docker fundamentals: Jumpstart your Docker knowledge](https://www.youtube.com/watch?v=ddhU3NMrhX4)
 * [Be a happier developer with Docker: Tricks of the trade - Nicola Paolucci](https://www.youtube.com/watch?v=XCVOxht34Hs)
+* [Pachyderm.io (MapReduce without Hadoop using a git-like distributed file system and Dockerized MapReduce)](http://www.pachyderm.io/) & [Github](https://github.com/pachyderm/pfs)
 
 ### DEVOPS - LOGGING
 
