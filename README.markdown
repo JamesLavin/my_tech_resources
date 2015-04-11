@@ -31,11 +31,15 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [InfoQ Chinese news](http://www.infoq.com/cn/news/)
 * [Data Structures • 数据结构 (Tsinghua)](https://www.edx.org/course/tsinghuax/tsinghuax-30240184x-data-structures-shu-3416)
-* [数据结构与算法第一部分 | Data Structures and Algorithms Part 1 (Beijing University)](https://www.edx.org/course/pekingx/pekingx-04830050x-shu-ju-jie-gou-yu-suan-2061)
-* [Principles and Practice of Computer Aided Translation 计算机辅助翻译原理与实践](https://www.edx.org/course/pekingx/pekingx-01718330x-principles-practice-1484)
-* [人群与网络 | Networks and Crowds](https://www.edx.org/course/pekingx/pekingx-03131840x-ren-qun-yu-wang-luo-2536)
-* [程序设计基础 | Fundamentals of Programming](https://www.edx.org/course/pekingx/pekingx-532001x-cheng-xu-she-ji-ji-chu-2046)
-* [理论计算机科学基础 | Introduction to Theoretical Computer Science](https://www.edx.org/course/pekingx/pekingx-04830260x-li-lun-ji-suan-ji-ke-3011)
+* [Peking Univesity EdX courses](https://www.edx.org/school/pekingx)
+    * [魅力机器人 | The Fascinating World of Robots and Robotics](https://www.edx.org/course/mei-li-ji-qi-ren-fascinating-world-pekingx-00330280x-0)
+    * [数据结构与算法第一部分 | Data Structures and Algorithms Part 1 (Beijing University)](https://www.edx.org/course/pekingx/pekingx-04830050x-shu-ju-jie-gou-yu-suan-2061) & [Part 2](https://www.edx.org/course/shu-ju-jie-gou-yu-suan-fa-di-er-bu-fen-pekingx-04830050-2x)
+    * [Principles and Practice of Computer Aided Translation 计算机辅助翻译原理与实践](https://www.edx.org/course/pekingx/pekingx-01718330x-principles-practice-1484)
+    * [人群与网络 | Networks and Crowds](https://www.edx.org/course/pekingx/pekingx-03131840x-ren-qun-yu-wang-luo-2536)
+    * [程序设计基础 | Fundamentals of Programming](https://www.edx.org/course/pekingx/pekingx-532001x-cheng-xu-she-ji-ji-chu-2046)
+    * [理论计算机科学基础 | Introduction to Theoretical Computer Science](https://www.edx.org/course/pekingx/pekingx-04830260x-li-lun-ji-suan-ji-ke-3011)
+* [Tsinghua University](https://www.edx.org/course/shu-ju-jie-gou-yu-suan-fa-di-er-bu-fen-pekingx-04830050-2x)
+    * [Data Structures • 数据结构](https://www.edx.org/course/data-structures-shu-ju-jie-gou-tsinghuax-30240184x-0) & [2014 course](https://www.edx.org/course/data-structures-shu-ju-jie-gou-tsinghuax-30240184x-0)
 
 ## CLEAN CODE
 
