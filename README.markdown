@@ -24,7 +24,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## CHESS ANALYSIS
 
-* [When Grandmasters Blunder - Joe Doliner](https://medium.com/pachyderm-data/when-grandmasters-blunder-a819860b883d)
+* [When Grandmasters Blunder - Joe Doliner](https://medium.com/pachyderm-data/when-grandmasters-blunder-a819860b883d) & [code underlying the analysis](https://github.com/pachyderm/chess)
+* [ChessGames.com (746,000 chess games)](http://www.chessgames.com/)
 
 ## CHINESE
 
@@ -1604,6 +1605,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### PYTHON - GAMES - CHESS
 
+* [Jerry](https://asdfjkl.github.io/jerry/) & [Building Jerry](https://buildingjerry.wordpress.com/)
 * [PyStockfish (chess engine)](https://github.com/iamjarret/pystockfish)
 * [Sunfish (simple, extensible chess program)](https://github.com/thomasahle/sunfish)
 * [Chessnut (another simple chess program](https://github.com/cgearhart/Chessnut)
@@ -2196,6 +2198,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Mina (for fast redeployer](https://github.com/mina-deploy/mina)
 * [Paperclip (file uploading)](https://github.com/thoughtbot/paperclip)
 * [Pry-Rails](https://github.com/rweng/pry-rails)
+* [Pundit (authorization)](https://github.com/elabs/pundit)
 * [Rspec-Rails](https://github.com/rspec/rspec-rails)
 * [SimpleForm](https://github.com/plataformatec/simple_form)
 
@@ -2254,7 +2257,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RAILS - UPGRADING
 
+* [Guide for Upgrading Ruby on Rails](http://guides.rubyonrails.org/upgrading_ruby_on_rails.html) 
 * [Rails-Upgrade-Checklist](www.rails-upgrade-checklist.com)
+* [Tips and Strategies for Upgrading Ruby Gems](https://hackhands.com/tips-strategies-upgrading-ruby-gems/)
 
 ### RAILS - VIEWS
 
