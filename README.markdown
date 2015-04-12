@@ -2077,6 +2077,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## RAILS
 
+* Ruby on Rails API Documentation: [Current](http://api.rubyonrails.org) | [4.1.10](http://api.rubyonrails.org/v4.1.10/) | [4.0.13](http://api.rubyonrails.org/v4.0.13/) | [3.2.21](http://api.rubyonrails.org/v3.2.21/) | [3.1.12](http://rails.documentation.codyrobbins.com/3.1.12/) | [3.0.20](http://rails.documentation.codyrobbins.com/3.0.20/) | [2.3.18](http://rails.documentation.codyrobbins.com/2.3.18/) | [2.2.3](http://rails.documentation.codyrobbins.com/2.2.3/) | [2.1.2](http://rails.documentation.codyrobbins.com/2.1.2/) | [All versions](http://rails.documentation.codyrobbins.com/) | [APIDock browse](http://apidock.com/rails/browse) | [APIDock search](http://apidock.com/rails/search)
 * Ruby on Rails Guides: [Stable](http://guides.rubyonrails.org/) | [Edge](http://edgeguides.rubyonrails.org/) | [2.3](http://guides.rubyonrails.org/v2.3.11/) | [3.2](http://guides.rubyonrails.org/v3.2.21/) | [4.0](http://guides.rubyonrails.org/v4.0.6/) | [4.1](http://guides.rubyonrails.org/v4.1.8/) | [4.2](http://guides.rubyonrails.org/v4.2.0/)
     * [Getting Started](http://guides.rubyonrails.org/getting_started.html)
     * [Active Record Basics](http://guides.rubyonrails.org/active_record_basics.html)
