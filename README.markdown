@@ -73,6 +73,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [SearchCode.com](https://searchcode.com/)
 * [Sourcegraph.com](https://sourcegraph.com/)
 
+## COMPUTING BASICS
+
+* [See How Computers Add Numbers in One Lesson - In One Lesson](https://www.youtube.com/watch?v=VBDoT8o4q00)
+* Computerphile: [AND OR NOT - Logic Gates Explained](https://www.youtube.com/watch?v=UvI-AMAtrvE) & [XOR & the Half Adder](https://www.youtube.com/watch?v=VPw9vPN-3ac)
+* [Logic Components - "lcc0612"](https://www.youtube.com/playlist?list=PLJse9iV6Reqj1M8p1jzvv6Zzj0js_gawl)
+* [Digital Electronics: The Half Adder and Full Adder - Derek Molloy](https://www.youtube.com/watch?v=mZ9VWA4cTbE)
+* [An Introduction to Logic Gates - DrPhysicsA](https://www.youtube.com/watch?v=95kv5BF2Z9E)
+* [Making Your Own 4-bit Computer From Transistors - Simon Inns](https://www.youtube.com/watch?v=xISG4nGTQYE)
+
 ## CSS
 
 * [LearnLayout.com](http://www.learnlayout.com/)
@@ -2511,6 +2520,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - FUTURE (AND CURRENT PROBLEMS)
 
+* [3 Reasons Not to Use Ruby - Sarah Allen (GoGaRuCo 2014)](http://confreaks.tv/videos/gogaruco2014-3-reasons-not-to-use-ruby)
 * [Panel: The Future of Ruby - Mark Bates, Sandi Metz, Ernie Miller, and Johnny Bourisquot (Burlington Ruby Conf 2014)](http://vimeo.com/album/2996485/video/103590400)
 * [Keynote - Ernie Miller (Burlington Ruby Conference 2014)](http://vimeo.com/album/2996485/video/103529608)
 * [Panel: Future of Rails Jobs - Obie Fernandez, Allan Grant, Chad Pytel, Jeff Casimir and Corey Haines (RailsConf 2014)](https://www.youtube.com/watch?v=4OCnxb0CoUo)
@@ -2581,6 +2591,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Real World Ruby Performance at Scale - Aaron Quint (RubyConf 2014)](https://www.youtube.com/watch?v=qlS3yr1oncQ)
 * [The Future of Ruby Performance Tooling - Aaron Quint (GoRuCo 2014)](http://goruco.com/speakers/2014/aaron-quint/)
 * [Smoke & Mirrors: The Primitives of High Availability - Paul Hinze (MountainWest RubyConf 2015)](http://confreaks.tv/videos/mwrc2015-smoke-mirrors-the-primitives-of-high-availability)
+* [Giant Pile of Data - Aja Hammerly (GoGaRuCo 2014)](http://confreaks.tv/videos/gogaruco2014-giant-pile-of-data)
 * [Writing Fast Ruby - Erik Michaels-Ober (Barcelona RubyConf)](http://rubyvideos.com/videos/writing-fast-ruby)
 * [Deoptimizing Ruby - Chris Seaton (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-deoptimizing-ruby)
 * [Benchmarking Ruby - Davy Stevenson (Portland Ruby Brigade Dec 2014)](http://confreaks.tv/videos/pdxrbdec2015-benchmarking-ruby)
@@ -2593,6 +2604,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Measuring Ruby - Sam Saffron & Jeff Atwood (GoGaRuCo 2013)](http://confreaks.tv/videos/2668-gogaruco2013-measuring-ruby)
 * [Frequently Asked Questions - Ben Orenstein (GoGaRuCo 2013)](http://confreaks.tv/videos/2677-gogaruco2013-frequently-asked-questions)
 * [Cargo Cult Web Performance Optimization - Ilya Grigorik (GoGaRuCo 2012)](http://confreaks.tv/videos/1111-gogaruco2012-cargo-cult-web-performance-optimization)
+* [The Short and Happy LIves of TCP and HTTP Requests - Starr Horne (GoGaRuCo 2014)](http://confreaks.tv/videos/gogaruco2014-the-short-and-happy-lives-of-tcp-and-http-requests)
 * [Services, Scale, Backgrounding and WTF is going on here?!??! - David Copeland (GoGaRuCo 2012)](http://confreaks.tv/videos/1119-gogaruco2012-services-scale-backgrounding-and-wtf-is-going-on-here)
 * [From Profiling Ruby to Frankenstein Programming - Piotr Szotkowski (Scotland Ruby Conference 2011)](http://confreaks.tv/videos/547-scotlandruby2011-from-profiling-ruby-to-frankenstein-programming)
 * [Message in a Bottle - Konstantin Haase (BaRuCo 2012)](http://confreaks.tv/videos/1335-baruco2012-message-in-a-bottle) & [Aloha Ruby Conf 2012](http://confreaks.tv/videos/1236-aloharuby2012-message-in-a-bottle)
