@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#css---haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Learning](#learning) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free), [data analysis](#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#css---haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Learning](#learning) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [MongoDB](#mongodb) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free), [data analysis](#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## BOOKS
 
@@ -1158,6 +1158,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Bunyip](http://ryanseddon.github.com/bunyip/)
 * Grunt: [Intro](http://weblog.bocoup.com/introducing-grunt/) | [Github](https://github.com/gruntjs/grunt) | [Getting Started](https://github.com/gruntjs/grunt/blob/master/docs/getting_started.md)
+
+## MONGODB
+
+* [Manual](http://docs.mongodb.org/manual/)
+* [Video presentations](https://www.mongodb.com/presentations/all)
+* [Planet MongoDB](https://planet.mongodb.org/)
+* [MongoDb Blog](http://www.mongodb.com/blog)
+* [StackOverflow](http://stackoverflow.com/questions/tagged/mongodb)
 
 ## NODE.JS
 
@@ -2408,6 +2416,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Rubycop](https://github.com/bbatsov/rubocop)
 * [bbatsov / ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
+* [Nothing is Something - Sandi Metz (BathRuby 2015)](https://www.youtube.com/watch?v=9lv2lBq6x4A)
 * [Write Small Things - Mark Menard (LA Ruby Conf 2014)](https://www.youtube.com/watch?v=A0aZLDaGozM)
 * [That's Not Very Ruby of You - Ernie Miller (RubyConf 2013)](https://www.youtube.com/watch?v=OB-xFC8AN_s)
 * [Avdi Grimm's "Naught" gem](https://github.com/avdi/naught), ["Null Objects and Falsiness"](http://devblog.avdi.org/2011/05/30/null-objects-and-falsiness/), and [two papers](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf) & [explaining the null object pattern](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf)
@@ -2644,6 +2653,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### RUBY - REFACTORING
 
 * [Refactoring - SourceMaking.com](http://sourcemaking.com/refactoring)
+* [Live Refactoring - Ben Orenstein (BathRuby 2015)](https://www.youtube.com/watch?v=gr97FrX2WiQ)
 * [Data-Driven Refactoring - Coraline Ada Ehmke (MountainWest RubyConf 2015)](http://confreaks.tv/videos/mwrc2015-data-driven-refactoring)
 * [Fluent Refactoring - Sam Livingston-Gray (LoneStarRubyConf 2013)](http://www.youtube.com/watch?v=xJZrMbS2dDk) & [(CascadiaRuby 2013)](http://confreaks.tv/videos/2792-cascadiaruby2013-fluent-refactoring)
 * [Refactoring Fat Models With Patterns - Bryan Helmkamp (wroc_love.rb 2013)](http://www.youtube.com/watch?v=IqajIYxbPOI)
