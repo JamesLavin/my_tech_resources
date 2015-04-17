@@ -2890,6 +2890,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Write code faster: expert-level vim - Ben Orenstein (Railsberry 2012)](http://www.youtube.com/watch?v=SkdrYWhh-8s)
 * [Derek Wyatt videos - Novice](http://www.derekwyatt.org/vim/vim-tutorial-videos/vim-novice-tutorial-videos/), [Intermediate](http://www.derekwyatt.org/vim/vim-tutorial-videos/vim-intermediate-tutorial-videos/) and [Advanced](http://www.derekwyatt.org/vim/vim-tutorial-videos/vim-advanced-tutorial-videos/)
 * [Impressive Ruby Productivity with Vim and Tmux](http://confreaks.tv/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux)
+* [Cheatsheet](http://i.imgur.com/YLInLlY.png)
 * NerdTree: [Guide](http://usevim.com/2012/07/18/nerdtree/) [Cheatsheet](http://cheat.errtheblog.com/s/nerdtree/) [add a file](http://stackoverflow.com/questions/1459750/vim-and-nerd-tree-extension-adding-a-file)
 * [Vundle plug-in manager](https://github.com/gmarik/vundle)
 * [A Byte of Vim](http://files.swaroopch.com/vim/byte_of_vim_v051.pdf)
