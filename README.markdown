@@ -275,12 +275,23 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [test-kitchen](https://github.com/test-kitchen/test-kitchen)
 
+### DEVOPS - COREOS
+
+* [CoreOS](https://coreos.com/)
+* [Getting Started With With CoreOS](https://www.digitalocean.com/community/tutorial_series/getting-started-with-coreos-2)
+* [CoreOS Fleet](https://coreos.com/using-coreos/clustering/)
+* [CoreOS rkt](https://github.com/coreos/rkt)
+
 ### DEVOPS - DOCKER
 
-* [Docker videos](https://www.youtube.com/user/dockerrun)
+* Docker docs: [User Guide](https://docs.docker.com/userguide/) | [Articles](https://docs.docker.com/articles/) | [Examples](https://docs.docker.com/examples/nodejs_web_app/) | [Installation](https://docs.docker.com/installation/)
+* Docker videos: [Youtube](https://www.youtube.com/user/dockerrun) | [Confreaks](http://confreaks.tv/search?utf8=%E2%9C%93&query=Docker&commit=go)
+* [The Docker Book - James Turnbull](http://dockerbook.com/)
+* [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 * [Docs.Docker.com](https://docs.docker.com/)
 * [Docker Tutorials - DarkZebra](https://www.youtube.com/playlist?list=PLfpPfDziPdMIbc7p-_siXYwqsRnd3jrLM)
 * [Intro to Docker - Amjith Ramanujam (PyCon 2014)](https://www.youtube.com/watch?v=9bvdc55xYdo)
+* [Docker and the Future of Modern Software - Solomon Hyke (FutureStack14)](http://blog.newrelic.com/2014/11/24/fs14-video-docker-modern-software/)
 * [Containerized Ruby Applications with Docker - Laura Frank (RubyConf 2014)](http://confreaks.tv/videos/4964-RubyConf2014-containerized-ruby-applications-with-docker)
 * [Shipping Ruby Apps with Docker - Bryan Helmkamp (RedDot Ruby 2014](http://confreaks.tv/videos/3853-rdrc2014-shipping-ruby-apps-with-docker)
 * [Build Your Own Shipyard - Andreas Tiefenthaler (Kod.io 2014)](http://confreaks.tv/videos/3252-kodio_2014-build-your-own-shipyard)
@@ -290,6 +301,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [3 hours to Docker fundamentals: Jumpstart your Docker knowledge](https://www.youtube.com/watch?v=ddhU3NMrhX4)
 * [Be a happier developer with Docker: Tricks of the trade - Nicola Paolucci](https://www.youtube.com/watch?v=XCVOxht34Hs)
 * [Pachyderm.io (MapReduce without Hadoop using a git-like distributed file system and Dockerized MapReduce)](http://www.pachyderm.io/) & [Github](https://github.com/pachyderm/pfs)
+
+#### DEVOPS - DOCKER - OSX
+
+* [Installation](https://docs.docker.com/installation/mac/)
+* [boot2docker](https://github.com/boot2docker/boot2docker)
+* [How to Use Docker on OS X: The Missing Guide - Chris Jones](http://viget.com/extend/how-to-use-docker-on-os-x-the-missing-guide)
 
 ### DEVOPS - LOGGING
 
