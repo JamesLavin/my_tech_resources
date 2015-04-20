@@ -221,6 +221,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Acquiring DevOps Skills - Pavel Suchman (DevCon TLV 2014)](http://confreaks.tv/videos/3293-devcontlvjan2014-acquiring-devops-skills)
 * [Configuration Management ROI - Evgeny Zislis (DevCon TLV 2014)](http://confreaks.tv/videos/3294-devcontlvjan2014-configuration-management-roi)
 * [Continuous Deployment - Matt White (MountainWest RubyConf 2012)](http://confreaks.tv/videos/967-mwrc2012-continuous-deployment)
+* FutureStack conference videos: [14](https://www.youtube.com/playlist?list=PLmhYj7Jl81JGhEQnFGbWVLkGWEzFXzdzr) | [13](https://www.youtube.com/playlist?list=PLmhYj7Jl81JEMKm0LFHjn25GV6gUUU9IR)
 
 ### DEVOPS - ANSIBLE
 
@@ -461,6 +462,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Elixir: [Docs](http://elixir-lang.org/docs.html) & [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html)
 * [What Elixir is About - José Valim (Erlang Factory SF 2015)](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
 * [Sweet Elixir! - Ryan Cromwell](http://www.infoq.com/presentations/elixir) & [full notes](https://github.com/cromwellryan/sweetelixir)
+* [Elixir talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=elixir&commit=go)
 * [ElixirConf 2014 videos](http://www.confreaks.tv/events/elixirconf2014)
 * Elixir Express: [Workshop - Chris McCord (RailsConf 2014)](http://www.youtube.com/watch?v=5kYmOyJjGDM) & [Basic documentation](https://github.com/chrismccord/elixir_express/tree/master/basics) & [Advanced documentation](https://github.com/chrismccord/elixir_express/tree/master/advanced)
 * [Elixir With José Valim - HowIStart.org](https://howistart.org/posts/elixir/1)
@@ -563,6 +565,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Git/Github open source training resources](http://training.github.com/kit/)
 * [Explain Git With D3 (interactive visual demos of Git commands)](http://www.wei-wang.com/ExplainGitWithD3/#)
 * [GitGuys.com](http://www.gitguys.com/topics/)
+* [Git talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=Git&commit=go)
 * [Git Immersion](http://gitimmersion.com/lab_01.html)
 * [Git Ready](http://gitready.com/)
 * [Classy Git - Scott Chacon (RubyConf 2010)](http://www.confreaks.tv/videos/471-rubyconf2010-classy-git)
@@ -770,6 +773,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Little Book on CoffeeScript (Alex MacCaw)](http://arcturo.github.io/library/coffeescript/)
 * [Smooth Coffeescript](http://autotelicum.github.com/Smooth-CoffeeScript/) [HTML doc](http://autotelicum.github.io/Smooth-CoffeeScript/SmoothCoffeeScript.html) | [PDF doc](http://autotelicum.github.io/Smooth-CoffeeScript/Smooth%20CoffeeScript%20Web%20Optimized.pdf) | [HTML interactive](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
 * [Coffeescript Cookbook](http://coffeescriptcookbook.com/)
+* [Coffeescript talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=coffeescript&commit=go)
 * [Intro to Coffeescript - Aseem Kishore](http://aseemk.com/talks/intro-to-coffeescript#/80)
 * [PencilCode.net (really fun!)](http://pencilcode.net/)
 * [CoffeeScript Ristretto Online](http://ristrettolo.gy/)
@@ -1310,6 +1314,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [SkillsMatter.com/Skillscasts](https://skillsmatter.com/skillscasts)
 * [InfoQ.com videos](http://www.infoq.com/presentations/)
 * [OSCON 2014](https://www.youtube.com/playlist?list=PL055Epbe6d5Y3njTzpWt0VepR1B7tcRFH)
+* [FutureTalks - NewRelic](https://www.youtube.com/playlist?list=PLmhYj7Jl81JGTfSgMeya2R-zcISDZ9utg)
 
 ## PYTHON
 
@@ -2145,7 +2150,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Upgrading](http://guides.rubyonrails.org/upgrading_ruby_on_rails.html)
 * [Software as a Service, Part 1 - UC Berkeley](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-1x-engineering-1377)
 * [Software as a Service, Part 2 - UC Berkeley](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-2x-software-service-1275)
-* [Ruby on Rails (Edge) Guides](http://edgeguides.rubyonrails.org/)
+* [Rails videos - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=rails&commit=go)
 * [Rails 4 Cheat Sheet (Cheatography)](http://www.cheatography.com/entaro/cheat-sheets/rails-4/)
 * [Ruby on Rails Tutorial - Michael Hartl (non-free)](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book) & [Rails 4](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=4.0)
 * [APIDock - Rails (good for legacy Rails)](http://apidock.com/rails/browse)
@@ -2202,6 +2207,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Component-Based Rails Applications Resources](http://cbra.info/)
 * [Ruby-Toolbox - Testing Rails Engines](https://www.ruby-toolbox.com/categories/Testing_Rails_Engines)
 * [Carson: On the Path from Big-Ball-of-Mud to SOA - James Rosen (Aloha Ruby Conf 2012)](http://confreaks.tv/videos/1234-aloharuby2012-carson-on-the-path-from-big-ball-of-mud-to-soa)
+* [Smash the Monolith: Refactoring into SOAs - Corey Ehmke (Nickel City Ruby 2013)](https://www.youtube.com/watch?v=Mfogs7jxd5Y)
 * [Writing a Rails Engine - Erik Michaels-Ober (GoGaRuCo 2012)](http://confreaks.tv/videos/1109-gogaruco2012-writing-a-rails-engine)
 * [Rails Engines Patterns - Andy Maleh (RailsConf 2012)](http://www.youtube.com/watch?v=pm94BsoMGik)
 * [Start Your Engines! - Ryan Bigg (Ruby On Ales 2012)](http://confreaks.tv/videos/832-roa2012-start-your-engines)
@@ -2675,6 +2681,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Fluent Refactoring - Sam Livingston-Gray (LoneStarRubyConf 2013)](http://www.youtube.com/watch?v=xJZrMbS2dDk) & [(CascadiaRuby 2013)](http://confreaks.tv/videos/2792-cascadiaruby2013-fluent-refactoring)
 * [Refactoring Fat Models With Patterns - Bryan Helmkamp (wroc_love.rb 2013)](http://www.youtube.com/watch?v=IqajIYxbPOI)
 * [Refactoring Legacy Apps with APIs and Messages - Corey Ehmke (LoneStarRubyConf 2013)](http://confreaks.tv/videos/2594-lonestarruby2013-refactoring-legacy-apps-with-apis-and-messages)
+* [Refactoring talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=refactoring&commit=go)
 * [Code Smells: Your Refactoring Cheat Codes - John Pignata (MountainWest RubyConf 2013)](http://confreaks.tv/videos/2336-mwrc2013-code-smells-your-refactoring-cheat-codes)
 * [Transforming Ruby Code - Ben Hughes (BostonRB.org)](http://bostonrb.org/presentations/transforming-ruby-code)
 * [Refactoring - A Live Coding Odyssey - Ben Orenstein (BostonRB.org)](http://bostonrb.org/presentations/refactoring-a-live-coding-odyssey)
@@ -2790,6 +2797,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## SCALA
 
 * [Official documentation](http://scala-lang.org/documentation/)
+* Scala talks: [Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=scala&commit=go) & [Youtube](https://www.youtube.com/results?q=scala+language)
 * [Scala School - Twitter](http://twitter.github.io/scala_school/)
 * [Effective Scala - Marius Eriksen](http://twitter.github.io/effectivescala/)
 * [Why Scala? - Venkat Subramaniam](http://www.youtube.com/watch?v=LH75sJAR0hc)
@@ -2837,6 +2845,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### TESTING - CONTINUOUS INTEGRATION - JENKINS
 
+* [Jenkins talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=jenkins&commit=go)
 * [Jenkins User Conference San Francisco 2012](http://confreaks.tv/events/jucsf2012)
 * [Jenkins User Conference Palo Alto 2013](http://confreaks.tv/events/jenkins2013)
 
@@ -2895,6 +2904,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [vim.wikia.com](http://vim.wikia.com/wiki/Vim_documentation)
 * [Vimcasts.org](http://vimcasts.org/)
 * [Vim London videos](http://vimeo.com/vimlondon/videos)
+* [Vim talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=vim&commit=go)
 * [VimNinjas.com](http://www.vimninjas.com/)
 * [OpenVim tutorial](http://www.openvim.com/tutorial.html)
 * [UseVim.com](http://usevim.com/)
