@@ -285,7 +285,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - DOCKER
 
-* Docker docs: [User Guide](https://docs.docker.com/userguide/) | [Articles](https://docs.docker.com/articles/) | [Examples](https://docs.docker.com/examples/nodejs_web_app/) | [Installation](https://docs.docker.com/installation/)
+* Docker docs: [User Guide](https://docs.docker.com/userguide/) | [Articles](https://docs.docker.com/articles/) | [Examples](https://docs.docker.com/examples/nodejs_web_app/) | [Installation](https://docs.docker.com/installation/) | [Linking Containers Together](Linking Containers Togethe://docs.docker.com/userguide/dockerlinks/)
 * Docker videos: [Youtube](https://www.youtube.com/user/dockerrun) | [Confreaks](http://confreaks.tv/search?utf8=%E2%9C%93&query=Docker&commit=go)
 * [The Docker Book - James Turnbull](http://dockerbook.com/)
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
@@ -1153,6 +1153,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MOBILE
 
+* [Web Fundamentals: Best practices for great multi-device web experiences - Udacity + Google](https://developers.google.com/web/fundamentals/)
 * [App Developers' Conference](http://www.youtube.com/playlist?list=PL14804B7FA696ACA0&feature=plcp)
 * [Fast WebView Applications](http://maxogden.com/fast-webview-applications.html) & [Building WebView Applications](http://maxogden.com/building-webview-applications.html)
 * [Would you like a Mobile App with That?](http://schneems.com/post/33781154129/would-you-like-a-mobile-app-with-that)
