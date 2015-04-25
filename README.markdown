@@ -2247,7 +2247,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Pundit (authorization)](https://github.com/elabs/pundit)
 * [Rspec-Rails](https://github.com/rspec/rspec-rails)
 * [SimpleForm](https://github.com/plataformatec/simple_form)
-
+* [Virtus](https://github.com/solnic/virtus)
 
 #### RAILS - GEMS - CREATING
 
@@ -2327,7 +2327,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## REDIS & RESQUE
 
+* Redis.io: [Documentation](http://redis.io/documentation) | [Intro](http://redis.io/topics/introduction) | [Clients](http://redis.io/clients)
 * [Andrew Glover: Asynchronous Processing, Messaging, and Redis/Resque](http://blip.tv/rubynation/andrew-glover-asynchronous-processing-messaging-and-redis-with-resque-6558320)
+* [The Little Redis Book - Karl Seguin](http://openmymind.net/redis.pdf)
 
 ## RUBY
 
