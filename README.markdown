@@ -1255,6 +1255,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PRODUCT DEVELOPMENT - PEOPLE & PROCESS
 
+* [Humane Development - Ernie Miller (RailsConf 2015)](https://www.youtube.com/watch?v=-ZLYxLjwNWo)
+* [Amelia Bedelia Learns to Code - Kylie Stradley (RailsConf 2015)](https://www.youtube.com/watch?v=bSbla50tqZE)
 * [Lessons from Theater and Software - Kevin Stevens (Rocky Mountain Ruby 2013)](http://confreaks.tv/videos/2771-rockymountainruby2013-lightning-talk-lessons-from-theater-and-software)
 * [5 Things I Wish Someone Had Told Me About Programming Before I Started - Kerri Miller (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-5-things-i-wish-someone-had-told-me-about-programming-before-i-started)
 * [Building a Culture of Quality - Bryan Helmkamp (LoneStarRuby 2013)](http://confreaks.tv/videos/2595-lonestarruby2013-building-a-culture-of-quality)
@@ -2248,7 +2250,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Paperclip (file uploading)](https://github.com/thoughtbot/paperclip)
 * [Pry-Rails](https://github.com/rweng/pry-rails)
 * [Pundit (authorization)](https://github.com/elabs/pundit)
-* [Rack-Mini-Profiler](https://github.com/MiniProfiler/rack-mini-profiler)
+* [Rack-Mini-Profiler](https://github.com/MiniProfiler/rack-mini-profiler) & [Flamegraph](https://github.com/SamSaffron/flamegraph)
 * [Rails Panel](https://github.com/dejan/rails_panel)
 * [Rspec-Rails](https://github.com/rspec/rspec-rails)
 * [SimpleForm](https://github.com/plataformatec/simple_form)
@@ -2454,6 +2456,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [All the Little Things - Sandi Metz (RailsConf 2014)](https://www.youtube.com/watch?v=8bZh5LMaSmE)
 * [Component-based Architectures in Ruby and Rails - Stephan Hagemann (MountainWest RubyConf 2013)](http://confreaks.tv/videos/2350-mwrc2013-component-based-architectures-in-ruby-and-rails)
 * [Refactoring Fat Models with Patterns](http://www.confreaks.tv/videos/2290-larubyconf2013-refactoring-fat-models-with-patterns)
+* [So You Want to Start Refactoring? - Jilliam Foley](https://www.youtube.com/watch?v=HFaXuMQTnOc)
 * [Rules - Sandi Metz (BaRuCo 2013)](http://www.youtube.com/watch?v=npOGOmkxuio)
 * [Building a Ruby Library, the Parts No One Talks About - Mitchell Hashimoto (Aloha Ruby Conf 2012)](http://confreaks.tv/videos/1246-aloharuby2012-building-a-ruby-library-the-parts-no-one-talks-about)
 * [High-Performance Ruby - Charles Nutter (Ruby Australia 2013)](http://vimeo.com/61255646)
