@@ -55,9 +55,18 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### CLEAN CODE - APIS
 
+* [HTTP API Design Guide](https://github.com/interagent/http-api-design)
 * [Beautiful REST & JSON APIs - Les Hazelwood (Jax Conference 2013)](https://www.youtube.com/watch?v=mZ8_QgJ5mbs)
 * [Building the Great Wall: API Driven Applications by Scott Parker, Dan Melnick (Madison Ruby 2012)](http://www.youtube.com/watch?v=AoRkqMgX-4Q)
 * [How to Design a Good API and Why It Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
+* [API Blueprint](https://apiblueprint.org/) & [Github](https://github.com/apiaryio/api-blueprint)
+* [Dredd — HTTP API Validation Tool](https://github.com/apiaryio/dredd)
+* [Pliny - Write excellent APIs in Ruby](https://github.com/interagent/pliny) & [Better APIs with Pliny - Will Leinweber (RubyOnAles 2015)](https://www.youtube.com/watch?v=lA8KhC9fFYY)
+
+#### CLEAN CODE - APIS - DOCUMENTING
+
+* [Understanding JSON Schema - Michael Droettboom et al.](http://spacetelescope.github.io/understanding-json-schema/) & [PDF](http://spacetelescope.github.io/understanding-json-schema/UnderstandingJSONSchema.pdf)
+* [prmd - JSON Schema tools and doc generation for HTTP APIs](https://github.com/interagent/prmd)
 
 ### CLEAN CODE - MEASURING
 
@@ -1255,7 +1264,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PRODUCT DEVELOPMENT - PEOPLE & PROCESS
 
-* [Humane Development - Ernie Miller (RailsConf 2015)](https://www.youtube.com/watch?v=-ZLYxLjwNWo)
+* [Humane Development - Ernie Miller (RailsConf 2015)](https://www.youtube.com/watch?v=-ZLYxLjwNWo) & [(RubyOnAles 2015](https://www.youtube.com/watch?v=SsReC-u--gg)
 * [Amelia Bedelia Learns to Code - Kylie Stradley (RailsConf 2015)](https://www.youtube.com/watch?v=bSbla50tqZE)
 * [Lessons from Theater and Software - Kevin Stevens (Rocky Mountain Ruby 2013)](http://confreaks.tv/videos/2771-rockymountainruby2013-lightning-talk-lessons-from-theater-and-software)
 * [5 Things I Wish Someone Had Told Me About Programming Before I Started - Kerri Miller (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-5-things-i-wish-someone-had-told-me-about-programming-before-i-started)
@@ -2181,8 +2190,16 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RAILS - APIS (EXTERNAL)
 
+* [rails-api](https://github.com/rails-api/rails-api)
+* [rspec_api_blueprint](https://github.com/playround/rspec_api_blueprint)
+* [apipie-rails](https://github.com/Apipie/apipie-rails)
+* [Building a web API with Ruby on Rails - Ahmed Omran](https://www.youtube.com/watch?v=36M2BSA2LYk)
 * [Matthew Bass PDF slide deck on creating Rails APIs](http://raleighrb.s3.amazonaws.com/2013-03-12_apis.pdf)
 * [Rails Vs. The Client Side - Noel Rappin (RailsConf 2013)](http://confreaks.tv/videos/2447-railsconf2013-rails-vs-the-client-side)
+
+### RAILS - APIS (EXTERNAL) - GRAPE
+
+* Grape: [Github](https://github.com/intridea/grape) & [wiki](https://github.com/intridea/grape/wiki)
 
 ### RAILS - ASSET PIPELINE
 
@@ -2631,6 +2648,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - PERFORMANCE & LOAD TESTING
 
+* [The Recipe for the World's Largest Rails Monolith - Akira Matsuda (RubyOnAles 2015)](https://www.youtube.com/watch?v=naTRzjHaIhE)
 * [Real World Ruby Performance at Scale - Aaron Quint (RubyConf 2014)](https://www.youtube.com/watch?v=qlS3yr1oncQ)
 * [The Future of Ruby Performance Tooling - Aaron Quint (GoRuCo 2014)](http://goruco.com/speakers/2014/aaron-quint/)
 * [Smoke & Mirrors: The Primitives of High Availability - Paul Hinze (MountainWest RubyConf 2015)](http://confreaks.tv/videos/mwrc2015-smoke-mirrors-the-primitives-of-high-availability)
@@ -2787,6 +2805,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * RSpec documentation (rspec.rubyforge.org):
     * rspec: [1.3.2](http://rspec.rubyforge.org/rspec/1.3.2/) | [1.3.1](http://rspec.rubyforge.org/rspec/1.3.1/) | [1.3.0](http://rspec.rubyforge.org/rspec/1.3.0/) | [1.2.9](http://rspec.rubyforge.org/rspec/1.2.9/) | [1.2.7](http://rspec.rubyforge.org/rspec/1.2.7/) | [1.2.6](http://rspec.rubyforge.org/rspec/1.2.6/) | [1.2.5](http://rspec.rubyforge.org/rspec/1.2.5/) | [1.2.4](http://rspec.rubyforge.org/rspec/1.2.4/) | [1.2.2](http://rspec.rubyforge.org/rspec/1.2.2/) | [1.2.1](http://rspec.rubyforge.org/rspec/1.2.1/) | [1.1.12](http://rspec.rubyforge.org/rspec/1.1.12/) | [1.1.11](http://rspec.rubyforge.org/rspec/1.1.11/) | [1.1.9](http://rspec.rubyforge.org/rspec/1.1.9/) | [1.1.8](http://rspec.rubyforge.org/rspec/1.1.8/)
     * rspec-rails: [1.3.2](http://rspec.rubyforge.org/rspec-rails/1.3.2/) | [1.3.1](http://rspec.rubyforge.org/rspec-rails/1.3.1/) | [1.3.0](http://rspec.rubyforge.org/rspec-rails/1.3.0/) | [1.2.9](http://rspec.rubyforge.org/rspec-rails/1.2.9/) | [1.2.7](http://rspec.rubyforge.org/rspec-rails/1.2.7/) | [1.2.6](http://rspec.rubyforge.org/rspec-rails/1.2.6/) | [1.2.5](http://rspec.rubyforge.org/rspec-rails/1.2.5/) | [1.2.4](http://rspec.rubyforge.org/rspec-rails/1.2.4/) | [1.2.2](http://rspec.rubyforge.org/rspec-rails/1.2.2/) | [1.2.1](http://rspec.rubyforge.org/rspec-rails/1.2.1/) | [1.1.12](http://rspec.rubyforge.org/rspec-rails/1.1.12/) | [1.1.11](http://rspec.rubyforge.org/rspec-rails/1.1.11/) | [1.1.9](http://rspec.rubyforge.org/rspec-rails/1.1.9/) | [1.1.8](http://rspec.rubyforge.org/rspec-rails/1.1.8/)
+* [RRRSpec - Distributed RSpec](https://github.com/cookpad/rrrspec)
 * [BDD and Acceptance Testing with RSpec & Capybara - Brian Sam-Bodden (RailsConf 2013)](http://confreaks.tv/videos/2433-railsconf2013-bdd-and-acceptance-testing-with-rspec-capybara)
 * [An Introduction to Spies in RSpec - Sam Phippen (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-an-introduction-to-spies-in-rspec)
 * [David Chelimsky's "RSpec Toolbox" talk (WindyCityRails2012)](http://vimeo.com/50185518)
