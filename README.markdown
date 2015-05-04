@@ -602,6 +602,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [Developer docs](http://developer.github.com)
 
+## HTTP
+
+### HTTP - AUTHENTICATION
+
+* [Token-based security in a REST API - Andy Balaam](https://www.youtube.com/watch?v=3c9KDf5p_Vc)
+
 ## HTML5
 
 * [CodePen.io](http://codepen.io/)
@@ -2196,10 +2202,19 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Building a web API with Ruby on Rails - Ahmed Omran](https://www.youtube.com/watch?v=36M2BSA2LYk)
 * [Matthew Bass PDF slide deck on creating Rails APIs](http://raleighrb.s3.amazonaws.com/2013-03-12_apis.pdf)
 * [Rails Vs. The Client Side - Noel Rappin (RailsConf 2013)](http://confreaks.tv/videos/2447-railsconf2013-rails-vs-the-client-side)
+* [Building fast, testable and sane APIs with rails - Ben Lovell (Rubyc 2014)](https://www.youtube.com/watch?v=18JQRlUC2QA)
+
+### RAILS - APIS (EXTERNAL) - ACTIVEMODEL SERIALIZERS
+
+* [Active Model Serializers - Railscasts - Ryan Bates](http://railscasts.com/episodes/409-active-model-serializers)
 
 ### RAILS - APIS (EXTERNAL) - GRAPE
 
 * Grape: [Github](https://github.com/intridea/grape) & [wiki](https://github.com/intridea/grape/wiki)
+
+### RAILS - APIS (EXTERNAL) - JBUILDER
+
+* [JBuilder - Railscasts - Ryan Bates](http://railscasts.com/episodes/320-jbuilder)
 
 ### RAILS - ASSET PIPELINE
 
