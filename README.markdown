@@ -296,6 +296,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Docker docs: [User Guide](https://docs.docker.com/userguide/) | [Articles](https://docs.docker.com/articles/) | [Examples](https://docs.docker.com/examples/nodejs_web_app/) | [Installation](https://docs.docker.com/installation/) | [Linking Containers Together](Linking Containers Togethe://docs.docker.com/userguide/dockerlinks/)
 * Docker videos: [Youtube](https://www.youtube.com/user/dockerrun) | [Confreaks](http://confreaks.tv/search?utf8=%E2%9C%93&query=Docker&commit=go)
+* [Docker 101: Introduction to Docker - Andrew T. Baker (PyCon 2015)](https://www.youtube.com/watch?v=YiZkHUbE6N0) & [Demystifying Docker - Andrew T. Baker (PyCon 2015)](https://www.youtube.com/watch?v=GVVtR_hrdKI)
 * [The Docker Book - James Turnbull](http://dockerbook.com/)
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 * [Docs.Docker.com](https://docs.docker.com/)
@@ -313,6 +314,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Pachyderm.io (MapReduce without Hadoop using a git-like distributed file system and Dockerized MapReduce)](http://www.pachyderm.io/) & [Github](https://github.com/pachyderm/pfs)
 * [Docker isn’t just for deployment - Ben Dixon (RailsConf 2015)](https://www.youtube.com/watch?v=NGcT0dGivoM)
 
+#### DEVOPS - DOCKER - MULTIHOST ORCHESTRATION
+
+* [Compose](http://docs.docker.com/compose/)
+* [Dacker Ruby gem](https://github.com/talkingquickly/dacker)
+
 #### DEVOPS - DOCKER - OSX
 
 * [Installation](https://docs.docker.com/installation/mac/)
@@ -323,7 +329,6 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Docker Remote API](https://docs.docker.com/reference/api/docker_remote_api/)
 * [Docker-api Ruby gem](https://github.com/swipely/docker-api)
-* [Dacker Ruby gem (multihost Docker orchestration tool)](https://github.com/talkingquickly/dacker)
 
 ### DEVOPS - LOGGING
 
