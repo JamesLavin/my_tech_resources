@@ -311,12 +311,19 @@ Links to resources I have found useful or think might be helpful to future me or
 * [3 hours to Docker fundamentals: Jumpstart your Docker knowledge](https://www.youtube.com/watch?v=ddhU3NMrhX4)
 * [Be a happier developer with Docker: Tricks of the trade - Nicola Paolucci](https://www.youtube.com/watch?v=XCVOxht34Hs)
 * [Pachyderm.io (MapReduce without Hadoop using a git-like distributed file system and Dockerized MapReduce)](http://www.pachyderm.io/) & [Github](https://github.com/pachyderm/pfs)
+* [Docker isn’t just for deployment - Ben Dixon (RailsConf 2015)](https://www.youtube.com/watch?v=NGcT0dGivoM)
 
 #### DEVOPS - DOCKER - OSX
 
 * [Installation](https://docs.docker.com/installation/mac/)
 * [boot2docker](https://github.com/boot2docker/boot2docker)
 * [How to Use Docker on OS X: The Missing Guide - Chris Jones](http://viget.com/extend/how-to-use-docker-on-os-x-the-missing-guide)
+
+#### DEVOPS - DOCKER - REMOTE API
+
+* [Docker Remote API](https://docs.docker.com/reference/api/docker_remote_api/)
+* [Docker-api Ruby gem](https://github.com/swipely/docker-api)
+* [Dacker Ruby gem (multihost Docker orchestration tool)](https://github.com/talkingquickly/dacker)
 
 ### DEVOPS - LOGGING
 
@@ -2820,6 +2827,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * RSpec documentation (rspec.rubyforge.org):
     * rspec: [1.3.2](http://rspec.rubyforge.org/rspec/1.3.2/) | [1.3.1](http://rspec.rubyforge.org/rspec/1.3.1/) | [1.3.0](http://rspec.rubyforge.org/rspec/1.3.0/) | [1.2.9](http://rspec.rubyforge.org/rspec/1.2.9/) | [1.2.7](http://rspec.rubyforge.org/rspec/1.2.7/) | [1.2.6](http://rspec.rubyforge.org/rspec/1.2.6/) | [1.2.5](http://rspec.rubyforge.org/rspec/1.2.5/) | [1.2.4](http://rspec.rubyforge.org/rspec/1.2.4/) | [1.2.2](http://rspec.rubyforge.org/rspec/1.2.2/) | [1.2.1](http://rspec.rubyforge.org/rspec/1.2.1/) | [1.1.12](http://rspec.rubyforge.org/rspec/1.1.12/) | [1.1.11](http://rspec.rubyforge.org/rspec/1.1.11/) | [1.1.9](http://rspec.rubyforge.org/rspec/1.1.9/) | [1.1.8](http://rspec.rubyforge.org/rspec/1.1.8/)
     * rspec-rails: [1.3.2](http://rspec.rubyforge.org/rspec-rails/1.3.2/) | [1.3.1](http://rspec.rubyforge.org/rspec-rails/1.3.1/) | [1.3.0](http://rspec.rubyforge.org/rspec-rails/1.3.0/) | [1.2.9](http://rspec.rubyforge.org/rspec-rails/1.2.9/) | [1.2.7](http://rspec.rubyforge.org/rspec-rails/1.2.7/) | [1.2.6](http://rspec.rubyforge.org/rspec-rails/1.2.6/) | [1.2.5](http://rspec.rubyforge.org/rspec-rails/1.2.5/) | [1.2.4](http://rspec.rubyforge.org/rspec-rails/1.2.4/) | [1.2.2](http://rspec.rubyforge.org/rspec-rails/1.2.2/) | [1.2.1](http://rspec.rubyforge.org/rspec-rails/1.2.1/) | [1.1.12](http://rspec.rubyforge.org/rspec-rails/1.1.12/) | [1.1.11](http://rspec.rubyforge.org/rspec-rails/1.1.11/) | [1.1.9](http://rspec.rubyforge.org/rspec-rails/1.1.9/) | [1.1.8](http://rspec.rubyforge.org/rspec-rails/1.1.8/)
+* [Understanding Rails test types in RSpec - Sam Phippen (RailsConf 2015)](https://www.youtube.com/watch?t=11&v=SOi_1reKn8M)
 * [RRRSpec - Distributed RSpec](https://github.com/cookpad/rrrspec)
 * [BDD and Acceptance Testing with RSpec & Capybara - Brian Sam-Bodden (RailsConf 2013)](http://confreaks.tv/videos/2433-railsconf2013-bdd-and-acceptance-testing-with-rspec-capybara)
 * [An Introduction to Spies in RSpec - Sam Phippen (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-an-introduction-to-spies-in-rspec)
