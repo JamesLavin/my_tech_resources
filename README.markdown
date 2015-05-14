@@ -121,6 +121,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [ProgrammableWeb.com](http://www.programmableweb.com/category)
 * [Data Sources on the Web - Managed R Archive Network](http://mran.revolutionanalytics.com/documents/data/)
+* [23 Resources for Finding Open Data](http://blog.sense.io/23-resources-for-finding-open-data/)
 * [30 Places to Find Open Data on the Web](http://blog.visual.ly/data-sources/)
 * [AWS Public Data Sets](http://aws.amazon.com/publicdatasets/)
 * [DataCataloges.org](http://datacatalogs.org/)
@@ -206,6 +207,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [New York State](https://data.ny.gov/)
 * [San Francisco, CA](https://data.sfgov.org/)
 * [Seattle, WA](https://data.seattle.gov/)
+
+### DATA - SCRAPING
+
+* [Top 50 open source web crawlers for data mining](http://www.bigdata-madesimple.com/top-50-open-source-web-crawlers-for-data-mining/)
 
 ### DATA - VISUALIZATION
 
@@ -581,6 +586,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Official documentation](http://git-scm.com/documentation)
 * [Git Reference](http://gitref.org/)
+* [Git from the inside out - Mary Rose Cook](http://maryrosecook.com/blog/post/git-from-the-inside-out)
 * [Pro Git](http://git-scm.com/book) [PDF](https://github.s3.amazonaws.com/media/progit.en.pdf) [mobi](https://github.s3.amazonaws.com/media/pro-git.en.mobi) [ePub](https://github.s3.amazonaws.com/media/progit.epub)
 * [Wrapping Your Head Around Git - Paolo Perrotta (Garden City Ruby 2015)](http://confreaks.tv/videos/gardencityrb2015-keynote-wrapping-your-head-around-git)
 * [Git/Github open source training resources](http://training.github.com/kit/)
@@ -1120,6 +1126,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## MACHINE LEARNING
 
 * [Machine Learning (online Coursera class with Stanford professor Andrew Ng)](https://www.coursera.org/course/ml)
+* [Machine Learning (online course from University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 * [Intro to Machine Learning: Pattern Recognition for Fun and Profit - Sebastian Thrun and Katie Malone (Udacity)]()
 * [Artificial Intelligence (online EdX.org class from UC Berkeley)](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs188-1x-artificial-579)
 * [MLOSS.org (Machine Learning Open Source Software)](http://mloss.org/software/)
@@ -2314,6 +2321,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Realtime Mini-Chat with Rails and Faye - Ilya Bodrov](http://www.sitepoint.com/realtime-mini-chat-rails-faye/)
 * [Mini-chat with Rails and Server-Sent Events - Ilya Bodrov](http://www.sitepoint.com/mini-chat-rails-server-sent-events/)
 
+
+### RAILS - PERFORMANCE
+
+* [Building RailsPerf, a toolkit to detect performance regressions in Ruby on Rails core - Kir Shatrov (RailsConf 2015)](http://confreaks.tv/videos/railsconf2015-building-railsperf-a-toolkit-to-detect-performance-regressions-in-ruby-on-rails-core)
+
 ### RAILS - PJAX
 
 * [Pjax on Rails (BigBinary.com)](http://blog.bigbinary.com/2012/08/13/pjax-on-rails.html)
@@ -2537,6 +2549,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - DEBUGGING
 
+* [What’s happening in your Rails app? Introduction to Introspection features of Ruby - Koichi Sasada (RailsConf 2015)](http://confreaks.tv/videos/railsconf2015-what-s-happening-in-your-rails-app-introduction-to-introspection-features-of-ruby)
 * [The Scientific Method of Troubleshooting - Blithe Rocher (GoGaRuCo 2014)](http://www.confreaks.tv/videos/4161-gogaruco2014-the-scientific-method-of-troubleshooting)
 * [We're sorry, but something went wrong - Aja Hammerly (CascadiaRuby 2013)](http://confreaks.tv/videos/2783-cascadiaruby2013-we-re-sorry-but-something-went-wrong)
 * [Better_errors gem](https://github.com/charliesome/better_errors) & [Railscast](http://railscasts.com/episodes/402-better-errors-railspanel)
