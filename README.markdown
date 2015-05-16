@@ -2300,7 +2300,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [LOL_DBA](https://github.com/plentz/lol_dba)
 * [Mina (for fast redeployer](https://github.com/mina-deploy/mina)
 * [Paperclip (file uploading)](https://github.com/thoughtbot/paperclip)
-* [Pry-Rails](https://github.com/rweng/pry-rails)
+* [Pry-Rails](https://github.com/rweng/pry-rails) & [Pry documentation](http://pryrepl.org/)
 * [Pundit (authorization)](https://github.com/elabs/pundit)
 * [Rack-Mini-Profiler](https://github.com/MiniProfiler/rack-mini-profiler) & [Flamegraph](https://github.com/SamSaffron/flamegraph)
 * [Rails Panel](https://github.com/dejan/rails_panel)
@@ -2360,6 +2360,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Best Practices for Testing in Rails - Andrei Gridnev (Ruby Melbourne March 2014)](http://vimeo.com/90286264)
 * [TDD Workshop: Outward-in Development, Unit Tests, and Fixture Data - Harlow Ward and Adarsh Pandit (RailsConf 2013)](http://confreaks.tv/videos/2450-railsconf2013-tdd-workshop-outward-in-development-unit-tests-and-fixture-data)
 * [Behavior Driven Development Using Ruby, Cucumber, and rSpec - Steve Ross](http://www.sdruby.org/podcast/82)
+
+#### RAILS - TESTING - FACTORY GIRL
+
+* [FactoryGirl documentation](https://github.com/thoughtbot/factory_girl/blob/master/GETTING_STARTED.md)
+* [Using FactoryGirl to easily create complex data sets in Rails - Jordan Maguire](http://blog.thefrontiergroup.com.au/2014/12/using-factorygirl-easily-create-complex-data-sets-rails/)
 
 #### RAILS - TESTING - MOCHA
 
@@ -2583,9 +2588,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### RUBY - DEBUGGING - PRY
 
-* [Pry](https://github.com/pry/pry) & [Pry Wiki](https://github.com/pry/pry/wiki)
+* Pry: [Website](http://pryrepl.org/) | [API docs](http://www.rubydoc.info/github/pry/pry/master/Pry) | [Screencasts](http://pryrepl.org/screencasts.html) | [Github](https://github.com/pry/pry) | [Pry Wiki](https://github.com/pry/pry/wiki) | [Documentation browsing](https://github.com/pry/pry/wiki/Documentation-browsing) | [Source browsing](https://github.com/pry/pry/wiki/Source-browsing) | [Shell access](https://github.com/pry/pry/wiki/Shell-Integration) | [Live help](https://github.com/pry/pry/wiki/Live-help)
 * [Pry Railscast](http://railscasts.com/episodes/280-pry-with-rails)
 * [Pry API docs](http://rdoc.info/github/pry/pry/master/Pry)
+* [Rubyists, It’s Time to PRY Yourself Off IRB! - Benjamin Tan Wei Hao](http://www.sitepoint.com/rubyists-time-pry-irb/)
 * [Pry - The Good Parts! - Conrad Irwin (RailsConf 2013)](https://www.youtube.com/watch?v=jDXsEzOHb2M)
 * [REPL-driven development with Pry - Conrad Irwin (RubyConf 2013)](https://www.youtube.com/watch?v=D9j_Mf91M0I)
 * [Prying into your app's private life - Corey Woodcox (MountainWest RubyConf 2012)](http://confreaks.tv/videos/959-mwrc2012-prying-into-your-app-s-private-life)
@@ -2851,9 +2857,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### RUBY - TESTING - RSPEC
 
+* RSpec documentation (Github):
+    * [rspec-core](https://github.com/rspec/rspec-core) 
+    * [rspec-expectations](https://github.com/rspec/rspec-expectations) 
+    * [rspec-mocks](https://github.com/rspec/rspec-mocks)
+    * [rspec-rails](https://github.com/rspec/rspec-rails)
 * RSpec documentation (rspec.info):
     * rspec-core: [3.2](http://rspec.info/documentation/3.2/rspec-core/) | [3.1](http://rspec.info/documentation/3.1/rspec-core/) | [3.0](http://rspec.info/documentation/3.0/rspec-core/) | [2.99](http://rspec.info/documentation/2.99/rspec-core/) | [2.14](http://rspec.info/documentation/2.14/rspec-core/)
-    * rspec-expectations: [3.2](http://rspec.info/documentation/3.2/rspec-expectations/) | [3.1](http://rspec.info/documentation/3.1/rspec-expectations/) | [3.0](http://rspec.info/documentation/3.0/rspec-expectations/) | [2.99](http://rspec.info/documentation/2.99/rspec-expectations/) | [2.14](http://rspec.info/documentation/2.14/rspec-expectations/)
+    * rspec-expectations| [3.2](http://rspec.info/documentation/3.2/rspec-expectations/) | [3.1](http://rspec.info/documentation/3.1/rspec-expectations/) | [3.0](http://rspec.info/documentation/3.0/rspec-expectations/) | [2.99](http://rspec.info/documentation/2.99/rspec-expectations/) | [2.14](http://rspec.info/documentation/2.14/rspec-expectations/)
     * rspec-mocks: [3.2](http://rspec.info/documentation/3.2/rspec-mocks/) | [3.1](http://rspec.info/documentation/3.1/rspec-mocks/) | [3.0](http://rspec.info/documentation/3.0/rspec-mocks/) | [2.99](http://rspec.info/documentation/2.99/rspec-mocks/) | [2.14](http://rspec.info/documentation/2.14/rspec-mocks/)
     * rspec-rails: [3.2](http://rspec.info/documentation/3.2/rspec-rails/) | [3.1](http://rspec.info/documentation/3.1/rspec-rails/) | [3.0](http://rspec.info/documentation/3.0/rspec-rails/) | [2.99](http://rspec.info/documentation/2.99/rspec-rails/) | [2.14](http://rspec.info/documentation/2.14/rspec-rails/)
 * RSpec documentation (relishapp.com):
