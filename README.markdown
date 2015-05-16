@@ -2219,6 +2219,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [rspec_api_blueprint](https://github.com/playround/rspec_api_blueprint)
 * [apipie-rails](https://github.com/Apipie/apipie-rails)
 * [Building a web API with Ruby on Rails - Ahmed Omran](https://www.youtube.com/watch?v=36M2BSA2LYk)
+* [Tips when writing an API in Ruby on Rails - David Somers](https://blog.jalada.co.uk/tips-when-writing-an-api-in-ruby-on-rails/)
 * [Matthew Bass PDF slide deck on creating Rails APIs](http://raleighrb.s3.amazonaws.com/2013-03-12_apis.pdf)
 * [Rails Vs. The Client Side - Noel Rappin (RailsConf 2013)](http://confreaks.tv/videos/2447-railsconf2013-rails-vs-the-client-side)
 * [Building fast, testable and sane APIs with rails - Ben Lovell (Rubyc 2014)](https://www.youtube.com/watch?v=18JQRlUC2QA)
@@ -2359,6 +2360,24 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Best Practices for Testing in Rails - Andrei Gridnev (Ruby Melbourne March 2014)](http://vimeo.com/90286264)
 * [TDD Workshop: Outward-in Development, Unit Tests, and Fixture Data - Harlow Ward and Adarsh Pandit (RailsConf 2013)](http://confreaks.tv/videos/2450-railsconf2013-tdd-workshop-outward-in-development-unit-tests-and-fixture-data)
 * [Behavior Driven Development Using Ruby, Cucumber, and rSpec - Steve Ross](http://www.sdruby.org/podcast/82)
+
+#### RAILS - TESTING - MOCHA
+
+* [Mocha readme](https://github.com/freerange/mocha)
+* [Mocha::API](http://gofreerange.com/mocha/docs/Mocha/API.html)
+* [Mocha::ClassMethods](http://gofreerange.com/mocha/docs/Mocha/ClassMethods.html)
+* [Mocha::Expectation](http://gofreerange.com/mocha/docs/Mocha/Expectation.html)
+* [Mocha::Mock](http://gofreerange.com/mocha/docs/Mocha/Mock.html)
+* [Mocha::Object](http://gofreerange.com/mocha/docs/Mocha/ObjectMethods.html)
+* [Mocha::ParameterMatchers](http://gofreerange.com/mocha/docs/Mocha/ParameterMatchers.html)
+
+#### RAILS - TESTING - RSPEC
+
+##### RAILS - TESTING - RSPEC - REQUEST SPECS
+
+* [Rails API Testing Best Practices - Matthew Lehner](http://matthewlehner.net/rails-api-testing-guidelines/)
+* [RSpec Testing for a JSON API](http://blog.ianmiller.nyc/blog/2014/04/18/rspec-testing-for-a-json-api/)
+* [Test Driving a JSON API in Rails](http://commandercoriander.net/blog/2014/01/04/test-driving-a-json-api-in-rails/)
 
 ### RAILS - UI
 
@@ -2993,7 +3012,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Vundle plug-in manager](https://github.com/gmarik/vundle)
 * [A Byte of Vim](http://files.swaroopch.com/vim/byte_of_vim_v051.pdf)
 * [Vi/Vim notes - Darin Brezeale](http://www.brezeale.com/technical_notes/vim_notes.shtml)
-* [Learn Vimscript the Hard Way - Steve Losh (non-free)](http://learnvimscriptthehardway.stevelosh.com/)
+* [Learn Vimscript the Hard Way - Steve Losh](http://learnvimscriptthehardway.stevelosh.com/)
 * [How I Boosted My Vim - Vincent Driessen](http://nvie.com/posts/how-i-boosted-my-vim/)
 
 ### VIM - PLUGIN DOCS
