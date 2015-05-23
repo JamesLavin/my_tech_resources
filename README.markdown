@@ -490,6 +490,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Sweet Elixir! - Ryan Cromwell](http://www.infoq.com/presentations/elixir) & [full notes](https://github.com/cromwellryan/sweetelixir)
 * [Elixir talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=elixir&commit=go)
 * [ElixirConf 2014 videos](http://www.confreaks.tv/events/elixirconf2014)
+* [Introducing reducees - José Valim](http://blog.plataformatec.com.br/2015/05/introducing-reducees/)
 * Elixir Express: [Workshop - Chris McCord (RailsConf 2014)](http://www.youtube.com/watch?v=5kYmOyJjGDM) & [Basic documentation](https://github.com/chrismccord/elixir_express/tree/master/basics) & [Advanced documentation](https://github.com/chrismccord/elixir_express/tree/master/advanced)
 * [Elixir With José Valim - HowIStart.org](https://howistart.org/posts/elixir/1)
 * [Elixir: Power of Erlang, Joy of Ruby - Dave Thomas (LoneStarRuby 2013)](https://www.youtube.com/watch?v=KQwEmdOH-GM)
@@ -498,7 +499,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to Elixir for Rubyists - Josh Adams & Robby Clements (ExlirConf 2014)](http://confreaks.tv/videos/4121-elixirconf2014-introduction-to-elixir-for-rubyists)
 * [Programming Elixir: The magic of today's tonic - Katie Miller (Linux.conf.au Jan 2014)](https://www.youtube.com/watch?v=uWSGBpW3xEQ)
 * [Elixir - A modern approach to programming for the Erlang VM - Jose Valim (RuPy 2012)](https://www.youtube.com/watch?v=q2Hxt0tOR0k)
-* [ElixirConf 2014 videos](http://confreaks.tv/events/elixirconf2014)
+* ElixirConf: [ElixirConf 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H) | [ElixirConf 2014 videos](http://confreaks.tv/events/elixirconf2014)
 * [Keynote - José Valim (ElixirConf 2014)](http://confreaks.tv/videos/4134-elixirconf2014-keynote-elixir)
 * [Keynote: "Think Different" - Dave Thomas (ElixirConf 2014)](http://confreaks.tv/videos/4119-elixirconf2014-opening-keynote-think-different)
 * [Ruby and Elixir - Casey Rosenthal (Portland Ruby Brigade Jan 2015)](http://confreaks.tv/videos/pdxrbjan2015-ruby-and-elixir)
@@ -546,8 +547,15 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [How to build Streams in Elixir easily with Stream.resource/3 Awesomeness - Benjamin Tan](http://benjamintan.io/blog/2015/02/05/how-to-build-streams-in-elixir-easily-with-stream-resource-awesomeness/)
 
+### ELIXIR - TESTING
+
+#### ELIXIR - TESTING - QUICKCHECK
+
+* [QuickCheck for Elixir - Generate Tests Automatically - Thomas Arts (ElixirConf 2015)](https://www.youtube.com/watch?v=nbpZRm9gl50)
+
 ### ELIXIR - VIDEOS
 
+* [Rewriting a Ruby application in Elixir - Claudio Ortolina (ElixirConf 2015)](https://www.youtube.com/watch?v=lho1e04Gzzs)
 * [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
 * ["Elixir and the Internet of Things" - Doug Rohrer (Strangeloop 2014)](https://www.youtube.com/watch?v=a-OCorBXX7M)
 
@@ -613,6 +621,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Git from the Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
 * [Deliberate Git - Stephen Ball (SteelCityRuby 2013)](http://steelcityruby.confbots.com/video/72762735)
 * [Git Interactive Rebase, Squash, Amend and Other Ways of Rewriting History - Tute Costa](http://robots.thoughtbot.com/git-interactive-rebase-squash-amend-rewriting-history)
+* [Git: Checkout multiple branches at the same time](http://blog.jessitron.com/2013/10/git-checkout-multiple-branches-at-same.html)
 
 ### GIT - GITHUB
 
@@ -2194,7 +2203,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How a Request Becomes a Response - Christopher Greene, Aimee Simone (RailsConf 2013)](http://confreaks.tv/videos/2426-railsconf2013-how-a-request-becomes-a-response)
 * [You've got a Sinatra on your Rails - Jose Valim (RailsConf 2013)](http://confreaks.tv/videos/2442-railsconf2013-you-ve-got-a-sinatra-on-your-rails)
 
-### RAILS - RAILS 4
+### RAILS - 4
 
 * [Real-time Rails - Brian Cardarella (Burlington Ruby 2013)](http://confreaks.tv/videos/2620-btvruby2013-real-time-rails)
 * [Keynote - Rails 4 and the Future of Web - Aaron Patterson (Aloha Ruby Conf 2012)](http://confreaks.tv/videos/1228-aloharuby2012-keynote-rails-4-and-the-future-of-web)
@@ -2205,11 +2214,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [What to Expect in Rails 4.0 - Prem Sichanugrist (BostonRB.org)](http://bostonrb.org/presentations/what-to-expect-in-rails-40)
 * [What's New in Rails 4 - Ben Hughes](http://www.sdruby.org/podcast/130)
 
-### RAILS - RAILS 4.1
+### RAILS - 4.1
 
 * [Reading Rails - Time Travel - Adam Sanderson](http://www.monkeyandcrow.com/blog/reading_rails_time_travel/)
 
-### RAILS - RAILS 5
+### RAILS - 5
 
 * ["OMG Ruby and Rails Performance!!!" - Aaron Patterson 2015](https://www.youtube.com/watch?v=JMGmaRZtgM8)
 
@@ -2224,15 +2233,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Rails Vs. The Client Side - Noel Rappin (RailsConf 2013)](http://confreaks.tv/videos/2447-railsconf2013-rails-vs-the-client-side)
 * [Building fast, testable and sane APIs with rails - Ben Lovell (Rubyc 2014)](https://www.youtube.com/watch?v=18JQRlUC2QA)
 
-### RAILS - APIS (EXTERNAL) - ACTIVEMODEL SERIALIZERS
+#### RAILS - APIS (EXTERNAL) - ACTIVEMODEL SERIALIZERS
 
 * [Active Model Serializers - Railscasts - Ryan Bates](http://railscasts.com/episodes/409-active-model-serializers)
 
-### RAILS - APIS (EXTERNAL) - GRAPE
+#### RAILS - APIS (EXTERNAL) - GRAPE
 
 * Grape: [Github](https://github.com/intridea/grape) & [wiki](https://github.com/intridea/grape/wiki)
 
-### RAILS - APIS (EXTERNAL) - JBUILDER
+#### RAILS - APIS (EXTERNAL) - JBUILDER
 
 * [JBuilder - Railscasts - Ryan Bates](http://railscasts.com/episodes/320-jbuilder)
 
@@ -2241,6 +2250,18 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Rails Asset Pipeline: Defunct or Da Funk - Samuel Cochran (Ruby Australia 2014)](http://vimeo.com/89487930)
 * [Smaller Javascript Packages With the Rails Asset Pipeline](http://www.sdruby.org/podcast/118)
 * [Javascript Isolation With the Rails Asset Pipeline](http://www.sdruby.org/podcast/116)
+
+### RAILS - BACKGROUND JOBS
+
+* [Background Tasks with Rails - Richard Schneeman](https://www.youtube.com/watch?v=PcZdHaLGX1Q)
+
+#### RAILS - BACKGROUND JOBS - DELAYED JOB
+
+* [Delayed Job docs](https://github.com/collectiveidea/delayed_job)
+* [Delayed Job (Railscasts.com)](http://railscasts.com/episodes/171-delayed-job)
+* [Delayed Job Best Practices - Panayotis Matsinopoulos](http://www.sitepoint.com/delayed-jobs-best-practices/)
+
+#### RAILS - BACKGROUND JOBS - SIDEKICK
 
 ### RAILS - CLEAN CODE
 
@@ -2306,6 +2327,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Rails Panel](https://github.com/dejan/rails_panel)
 * [Rspec-Rails](https://github.com/rspec/rspec-rails)
 * [SimpleForm](https://github.com/plataformatec/simple_form)
+* [Spring](https://github.com/rails/spring) & [spring-commands-rspec](https://github.com/jonleighton/spring-commands-rspec)
 * [Virtus](https://github.com/solnic/virtus)
 
 #### RAILS - GEMS - CREATING
@@ -2453,6 +2475,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [WAT!! ActiveRecord Callbacks - Monika M (Garden City Ruby 2015)](http://confreaks.tv/videos/gardencityrb2015-wat-activerecord-callbacks)
 * [The Littlest ORM - Noah Gibbs (GoGaRuCo 2013)](http://confreaks.tv/videos/2669-gogaruco2013-the-littlest-orm)
 * [ActiveRecord Anti-Patterns for Fun and Profit - Ethan Gunderson (Ruby Midwest 2011)](http://confreaks.tv/videos/752-rubymidwest2011-activerecord-anti-patterns-for-fun-and-profit)
+* [Database Backed models with ActiveRecord - Richard Shneeman (2012)](https://www.youtube.com/watch?v=EU98yHB-_7A)
+* [Active Record: Joins - Richard Schneeman](https://www.youtube.com/watch?v=wjEeLjGkBeA)
+* [Active Record: Group - Richard Schneeman](https://www.youtube.com/watch?v=s0KTEtVQ_AY)
+* [Active Record: Having - Richard Schneeman](https://www.youtube.com/watch?v=DaTbG91yZ30)
+* [Active Record: Just in Time SQL Queries - Richard Schneeman](https://www.youtube.com/watch?v=8JhKYbxdgck)
+* [Active Record: Preventing SQL Injection Attacks - Richard Schneeman](https://www.youtube.com/watch?v=s4QxOxGL1tI)
 
 ### RUBY - AI, NATURAL LANGUAGE PROCESSING, STATISTICAL ANALYSIS, ETC.
 
@@ -2589,6 +2617,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### RUBY - DEBUGGING - PRY
 
 * Pry: [Website](http://pryrepl.org/) | [API docs](http://www.rubydoc.info/github/pry/pry/master/Pry) | [Screencasts](http://pryrepl.org/screencasts.html) | [Github](https://github.com/pry/pry) | [Pry Wiki](https://github.com/pry/pry/wiki) | [Documentation browsing](https://github.com/pry/pry/wiki/Documentation-browsing) | [Source browsing](https://github.com/pry/pry/wiki/Source-browsing) | [Shell access](https://github.com/pry/pry/wiki/Shell-Integration) | [Live help](https://github.com/pry/pry/wiki/Live-help)
+* [Debugger Driven Developement with Pry - Joel Turnbull (RailsConf 2014)](https://www.youtube.com/watch?v=4hfMUP5iTq8)
 * [Pry Railscast](http://railscasts.com/episodes/280-pry-with-rails)
 * [Pry API docs](http://rdoc.info/github/pry/pry/master/Pry)
 * [Rubyists, It’s Time to PRY Yourself Off IRB! - Benjamin Tan Wei Hao](http://www.sitepoint.com/rubyists-time-pry-irb/)
@@ -2617,7 +2646,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Debugging Large Scale Service Oriented Systems - Andy Delcambre (CascadiaRuby 2012)](http://confreaks.tv/videos/1068-cascadiaruby2012-debugging-large-scale-service-oriented-systems)
 * [Service Oriented Architecture at Square - Chris Hunt (RubyConf 2012)](http://confreaks.tv/videos/1273-rubyconf2012-service-oriented-architecture-at-square)
 
-### RUBY - DOCUMENTATION - YARD
+### RUBY - DOCUMENTATION
+
+* [Reading Ruby Documentation (Arrays) - Richard Schneems](https://www.youtube.com/watch?v=pNWqAcWMMQE)
+
+#### RUBY - DOCUMENTATION - YARD
 
 * [Yard docs](http://rubydoc.info/docs/yard/index)
 * [Yard - Getting started](http://rubydoc.info/docs/yard/file/docs/GettingStarted.md)
@@ -3023,7 +3056,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Vundle plug-in manager](https://github.com/gmarik/vundle)
 * [A Byte of Vim](http://files.swaroopch.com/vim/byte_of_vim_v051.pdf)
 * [Vi/Vim notes - Darin Brezeale](http://www.brezeale.com/technical_notes/vim_notes.shtml)
-* [Learn Vimscript the Hard Way - Steve Losh](http://learnvimscriptthehardway.stevelosh.com/)
 * [How I Boosted My Vim - Vincent Driessen](http://nvie.com/posts/how-i-boosted-my-vim/)
 
 ### VIM - PLUGIN DOCS
@@ -3041,7 +3073,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [syntastic](https://raw.githubusercontent.com/scrooloose/syntastic/master/doc/syntastic.txt)
 * [tabular](https://raw.githubusercontent.com/godlygeek/tabular/master/doc/Tabular.txt)
 * [vim-coffee-script](https://raw.githubusercontent.com/kchmck/vim-coffee-script/master/doc/coffee-script.txt)
-* [vim-fugitive](https://raw.githubusercontent.com/tpope/vim-fugitive/master/doc/fugitive.txt) & [VimCasts](http://vimcasts.org/episodes/fugitive-vim---a-complement-to-command-line-git/) & [Painless Merge Conflict Resolution in Git](http://blog.wuwon.id.au/2010/09/painless-merge-conflict-resolution-in.html)
+* [vim-fugitive](https://raw.githubusercontent.com/tpope/vim-fugitive/master/doc/fugitive.txt) & [VimCasts](http://vimcasts.org/results/#stq=fugitive) & [Painless Merge Conflict Resolution in Git](http://blog.wuwon.id.au/2010/09/painless-merge-conflict-resolution-in.html)
 * [vim-ipython](https://github.com/ivanov/vim-ipython)
 * [vim-rails](https://raw.githubusercontent.com/tpope/vim-rails/master/doc/rails.txt)
 * [vim-rake](https://raw.githubusercontent.com/tpope/vim-rake/master/doc/rake.txt)
@@ -3059,6 +3091,16 @@ Links to resources I have found useful or think might be helpful to future me or
 ### VIM - PYTHON
 
 * [Vim as a Python IDE - Martin Brochhaus](https://www.youtube.com/watch?v=YhqsjUUHj6g)
+
+### VIM - VIMSCRIPT
+
+* [Learn Vimscript the Hard Way - Steve Losh](http://learnvimscriptthehardway.stevelosh.com/)
+* Scripting the Vim editor - Damian Conway:
+    * Part 1: Variables, values, and expressions: [HTML](http://www.ibm.com/developerworks/library/l-vim-script-1/) & [PDF](http://www.ibm.com/developerworks/library/l-vim-script-1/l-vim-script-1-pdf.pdf)
+    * Part 2: User-defined functions: [HTML](http://www.ibm.com/developerworks/linux/library/l-vim-script-2/index.html) & [PDF](http://www.ibm.com/developerworks/linux/library/l-vim-script-2/l-vim-script-2-pdf.pdf)
+    * Part 3: Built-in lists: [HTML](http://www.ibm.com/developerworks/linux/library/l-vim-script-3/index.html) & [PDF](http://www.ibm.com/developerworks/linux/library/l-vim-script-3/l-vim-script-3-pdf.pdf)
+    * Part 4: Dictionaries: [HTML](http://www.ibm.com/developerworks/linux/library/l-vim-script-4/index.html) & [PDF](http://www.ibm.com/developerworks/linux/library/l-vim-script-4/l-vim-script-4-pdf.pdf)
+    * Part 5: Event-driven scripting and automation: [HTML](http://www.ibm.com/developerworks/linux/library/l-vim-script-5/index.html) & [PDF](http://www.ibm.com/developerworks/linux/library/l-vim-script-5/l-vim-script-5-pdf.pdf)
 
 ## WEB COMPONENTS
 
