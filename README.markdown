@@ -1,4 +1,4 @@
-# My Tech Resources
+# My Tech Resources - James Lavin
 
 ## DESCRIPTION
 
@@ -3011,10 +3011,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to Tmux (NetTuts)](http://net.tutsplus.com/tutorials/tools-and-tips/intro-to-tmux/)
 * [Tmux Crash Course (Thoughtbot)](http://robots.thoughtbot.com/post/2641409235/a-tmux-crash-course)
 * [ArchLinux Tmux wiki](https://wiki.archlinux.org/index.php/Tmux)
+* [Tmux Cheatsheet (Mohamed Alaa)](https://gist.github.com/MohamedAlaa/2961058)
 * [Tmux Cheatsheet (Niklas Ottoson)](http://blog.niklasottosson.com/?p=574)
 * [Tmux Cheatsheet (Alvin Alexander)](http://alvinalexander.com/linux-unix/tmux-cheat-sheet-commands-pdf) & [PDF](http://alvinalexander.com/downloads/linux/tmux-cheat-sheet.pdf)
 * [Tmux Cheatsheet (Andrey Vit)](https://gist.github.com/andreyvit/2921703)
-* [Impressive Ruby Productivity with Vim and Tmux - Chris Hunt](http://confreaks.tv/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux)
+* [Impressive Ruby Productivity with Vim and Tmux - Chris Hunt](http://confreaks.tv/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux) & [Ancient City Ruby 2013](https://www.youtube.com/watch?v=9jzWDr24UHQ)
 * [Tmux - The Terminal Multiplexer - part 1](http://blog.hawkhost.com/2010/06/28/tmux-the-terminal-multiplexer/) & [part 2](http://blog.hawkhost.com/2010/07/02/tmux-%E2%80%93-the-terminal-multiplexer-part-2/)
 * [man page](http://www.openbsd.org/cgi-bin/man.cgi?query=tmux&sektion=1)
 * [FAQ](http://sourceforge.net/p/tmux/tmux-code/ci/master/tree/FAQ)
@@ -3042,7 +3043,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [VimNinjas.com](http://www.vimninjas.com/)
 * [OpenVim tutorial](http://www.openvim.com/tutorial.html)
 * [UseVim.com](http://usevim.com/)
-* [More instantly better Vim - Damian Conway (OSCON 2013)](https://www.youtube.com/watch?v=aHm36-na4-4)
+* [vim + tmux - OMG!Code - Nick Nisi](https://www.youtube.com/watch?v=5r6yzFEXajQ)
 * [Learn to speak vim – verbs, nouns, and modifiers! - Yan Pritzker](http://yanpritzker.com/2011/12/16/learn-to-speak-vim-verbs-nouns-and-modifiers/)
 * [The grammar of Vim - Rafe Colburn](http://rc3.org/2012/05/12/the-grammar-of-vim/)
 * [vi and vim editor: Tutorial and advanced features](http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html)
@@ -3101,6 +3102,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * Part 3: Built-in lists: [HTML](http://www.ibm.com/developerworks/linux/library/l-vim-script-3/index.html) & [PDF](http://www.ibm.com/developerworks/linux/library/l-vim-script-3/l-vim-script-3-pdf.pdf)
     * Part 4: Dictionaries: [HTML](http://www.ibm.com/developerworks/linux/library/l-vim-script-4/index.html) & [PDF](http://www.ibm.com/developerworks/linux/library/l-vim-script-4/l-vim-script-4-pdf.pdf)
     * Part 5: Event-driven scripting and automation: [HTML](http://www.ibm.com/developerworks/linux/library/l-vim-script-5/index.html) & [PDF](http://www.ibm.com/developerworks/linux/library/l-vim-script-5/l-vim-script-5-pdf.pdf)
+* [More instantly better Vim - Damian Conway (OSCON 2013)](https://www.youtube.com/watch?v=aHm36-na4-4)
 
 ## WEB COMPONENTS
 
@@ -3177,3 +3179,4 @@ Links to resources I have found useful or think might be helpful to future me or
 ### WRITING/PUBLISHING - ZOTERO
 
 * [Zotero (Firefox extention to "collect, organize, cite, and share your research sources")](https://www.zotero.org/)
+
