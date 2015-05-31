@@ -1267,6 +1267,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Postgres Rules](http://www.sdruby.org/podcast/119)
 * [Postgres, the Best Tool You're Already Using - Adam Sanderson (RailsConf 2013)](https://www.youtube.com/watch?v=YWj8ws6jc0g)
 * [PostgreSQL proficiency for Python people - Christophe Pettus (PyCon 2014)](https://www.youtube.com/watch?v=0uCxLCmzaG4)
+* [Porting ActiveRecord validations to Postgres - Sean Huber](http://shuber.io/porting-activerecord-validations-to-postgres/)
 
 ### POSTGRESQL - ADVANCED FEATURES
 
@@ -2831,6 +2832,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ruby-Toolbox - Security Tools](https://www.ruby-toolbox.com/categories/security_tools)
 * [Ruby-Toolbox - Spam Detection](https://www.ruby-toolbox.com/categories/spam_detection)
 
+### RUBY - SEQUEL
+
+* Sequel: The Database Toolkit for Ruby: [Intro](http://sequel.jeremyevans.net/) & [Documentation](http://sequel.jeremyevans.net/documentation.html)
+* [RubyTapas Freebie: Sequel - Avdi Grimm](http://devblog.avdi.org/2015/05/26/rubytapas-freebie-sequel/)
+
 ### RUBY - STATE MACHINES
 
 * [A Machine State of Mind, Part 1: Understanding State Machines - Vaidehi Joshi](http://vaidehijoshi.github.io/blog/2015/03/17/a-machine-state-of-mind-part-1-understanding-state-machines/) & [Part 2: Implementing State Machines](http://vaidehijoshi.github.io/blog/2015/03/24/a-machine-state-of-mind-part-2-implementing-state-machines/)
@@ -3008,18 +3014,30 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## TMUX
 
+* [ArchLinux Tmux wiki](https://wiki.archlinux.org/index.php/Tmux)
+* [10 Killer Tmux Tips - Benjamin Tan Wei Hao](http://www.sitepoint.com/10-killer-tmux-tips/)
+* [Impressive Ruby Productivity with Vim and Tmux - Chris Hunt](http://confreaks.tv/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux) & [Ancient City Ruby 2013](https://www.youtube.com/watch?v=9jzWDr24UHQ)
+* [man page](http://www.openbsd.org/cgi-bin/man.cgi?query=tmux&sektion=1)
+* [FAQ](http://sourceforge.net/p/tmux/tmux-code/ci/master/tree/FAQ)
+* [Pair Programming With Tmux - Flaviu Simihaian](http://www.youtube.com/watch?v=za8FMIWYtUc)
+
+### TMUX - BASICS
+
+* [Tmux: A Simple Start - Glenn Goodrich](http://www.sitepoint.com/tmux-a-simple-start/)
 * [Intro to Tmux (NetTuts)](http://net.tutsplus.com/tutorials/tools-and-tips/intro-to-tmux/)
 * [Tmux Crash Course (Thoughtbot)](http://robots.thoughtbot.com/post/2641409235/a-tmux-crash-course)
-* [ArchLinux Tmux wiki](https://wiki.archlinux.org/index.php/Tmux)
+* [Tmux - The Terminal Multiplexer - part 1](http://blog.hawkhost.com/2010/06/28/tmux-the-terminal-multiplexer/) & [part 2](http://blog.hawkhost.com/2010/07/02/tmux-%E2%80%93-the-terminal-multiplexer-part-2/)
+
+### TMUX - CHEATSHEETS
+
 * [Tmux Cheatsheet (Mohamed Alaa)](https://gist.github.com/MohamedAlaa/2961058)
 * [Tmux Cheatsheet (Niklas Ottoson)](http://blog.niklasottosson.com/?p=574)
 * [Tmux Cheatsheet (Alvin Alexander)](http://alvinalexander.com/linux-unix/tmux-cheat-sheet-commands-pdf) & [PDF](http://alvinalexander.com/downloads/linux/tmux-cheat-sheet.pdf)
 * [Tmux Cheatsheet (Andrey Vit)](https://gist.github.com/andreyvit/2921703)
-* [Impressive Ruby Productivity with Vim and Tmux - Chris Hunt](http://confreaks.tv/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux) & [Ancient City Ruby 2013](https://www.youtube.com/watch?v=9jzWDr24UHQ)
-* [Tmux - The Terminal Multiplexer - part 1](http://blog.hawkhost.com/2010/06/28/tmux-the-terminal-multiplexer/) & [part 2](http://blog.hawkhost.com/2010/07/02/tmux-%E2%80%93-the-terminal-multiplexer-part-2/)
-* [man page](http://www.openbsd.org/cgi-bin/man.cgi?query=tmux&sektion=1)
-* [FAQ](http://sourceforge.net/p/tmux/tmux-code/ci/master/tree/FAQ)
-* [Pair Programming With Tmux - Flaviu Simihaian](http://www.youtube.com/watch?v=za8FMIWYtUc)
+
+### TMUX - PLUGINS
+
+* [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 
 ## UML
 
@@ -3046,6 +3064,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [vim + tmux - OMG!Code - Nick Nisi](https://www.youtube.com/watch?v=5r6yzFEXajQ)
 * [Learn to speak vim – verbs, nouns, and modifiers! - Yan Pritzker](http://yanpritzker.com/2011/12/16/learn-to-speak-vim-verbs-nouns-and-modifiers/)
 * [The grammar of Vim - Rafe Colburn](http://rc3.org/2012/05/12/the-grammar-of-vim/)
+* [MinuteVimTricks](https://www.youtube.com/user/MinuteVimTricks/videos)
 * [vi and vim editor: Tutorial and advanced features](http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html)
 * [Vim graphical cheat sheet-based tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
 * [Buffers, windows & tabs](http://blog.sanctum.geek.nz/buffers-windows-tabs/)
