@@ -509,6 +509,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Awesome Elixir - Curated list of Elixir/Erlang libraries, resources & shiny things](https://github.com/h4cc/awesome-elixir)
 * [Writing Command Line Applications with Elixir - James Smith (ElixirConf 2014)](https://www.youtube.com/watch?v=7l_fDU86pr4)
 * [Elixir Code Reading: Blacksmith](https://www.zweitag.de/en/blog/technology/elixir-code-reading-blacksmith)
+* [Elixir Fountain - bi-weekly podcast](https://soundcloud.com/elixirfountain)
 
 ### ELIXIR - ATLAS
 
@@ -537,6 +538,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Build and test a blazing fast JSON API with Phoenix, an Elixir framework - Paul Smith](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
 * [Phoenix asset handling with brunch - Chris McCord](https://www.youtube.com/watch?v=CgSjuCRHKvg)
 * [The Changelog: "Elixir and Phoenix with Chris McCord"](http://5by5.tv/changelog/147)
+* [Basic web app with Phoenix - Michael Eatherly](http://meatherly.github.io/2015/05/04/phoenixlivelikeawarrior/) & [Phoenix app with authentication - Michael Eatherly](http://meatherly.github.io/2015/05/11/phoenixauthentication/)
 
 #### ELIXIR - PHOENIX FRAMEWORK - PERFORMANCE
 
@@ -857,6 +859,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Using ECMAScript 6 today - Dr. Axel Rauschmayer (RollingScopesConf 2015) - Part 1](https://www.youtube.com/watch?v=Fg3bEZIcnUw) & [Part 2](https://www.youtube.com/watch?v=Vhhq1WpzsnM) & [ECMAScript 6: what's next for JavaScript? (Frontendconf Zürich)](https://www.youtube.com/watch?v=G21rdWfa_as)
 * [JavaScript in 2015 - Glen Maddern](http://glenmaddern.com/articles/javascript-in-2015)
+* [Iterators and generators in ECMAScript 6 - Dr. Axel Rauschmayer](http://www.2ality.com/2013/06/iterators-generators.html)
 * [es6-module-transpiler](https://github.com/square/es6-module-transpiler) & [many more ES6 transpilers](https://github.com/addyosmani/es6-tools)
 * [ES6 module syntax](http://wiki.ecmascript.org/doku.php?id=harmony:modules#quick_examples)
 * ES6 Generators - Kyle Simpson: [Basics](http://davidwalsh.name/es6-generators), [Diving Deeper](http://davidwalsh.name/es6-generators-dive), [Going Async](http://davidwalsh.name/async-generators), [Getting Concurrent](http://davidwalsh.name/concurrent-generators)
@@ -1271,6 +1274,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### POSTGRESQL - ADVANCED FEATURES
 
+* [Is PostgreSQL Your Next JSON Database? - Dj Walker-Morgan](https://www.compose.io/articles/is-postgresql-your-next-json-database/)
 * [Range Types in PostgreSQL 9.2 - Your Life Will Never Be the Same - Jonathan S. Katz (Postgres Open)](https://www.youtube.com/watch?v=XIcOf7r0dG4)
 * [Full-Text Search: Seek and Ye Shall Find - Dan Scott (Postgres Open)](https://www.youtube.com/watch?v=R6nT6UgY7k4)
 * [Using PostgreSQL and jsonb with Ruby on Rails - Nando Vieira](http://nandovieira.com/using-postgresql-and-jsonb-with-ruby-on-rails)
@@ -2195,6 +2199,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Rack on Rails](http://guides.rubyonrails.org/rails_on_rack.html)
     * [Creating/Customizing Rails Generators & Templates](http://guides.rubyonrails.org/generators.html)
     * [Upgrading](http://guides.rubyonrails.org/upgrading_ruby_on_rails.html)
+* [Rails posts - Thoughtbot](https://robots.thoughtbot.com/tags/rails)
 * [Software as a Service, Part 1 - UC Berkeley](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-1x-engineering-1377)
 * [Software as a Service, Part 2 - UC Berkeley](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-2x-software-service-1275)
 * [Rails videos - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=rails&commit=go)
@@ -2679,6 +2684,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - FUTURE (AND CURRENT PROBLEMS)
 
+* [Keynote: The Soul of Software - Avdi Grimm (Tropical Ruby 2015)](http://tropicalrb.com/en/videos/)
 * [3 Reasons Not to Use Ruby - Sarah Allen (GoGaRuCo 2014)](http://confreaks.tv/videos/gogaruco2014-3-reasons-not-to-use-ruby)
 * [Panel: The Future of Ruby - Mark Bates, Sandi Metz, Ernie Miller, and Johnny Bourisquot (Burlington Ruby Conf 2014)](http://vimeo.com/album/2996485/video/103590400)
 * [Keynote - Ernie Miller (Burlington Ruby Conference 2014)](http://vimeo.com/album/2996485/video/103529608)
@@ -2800,6 +2806,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Rake](https://github.com/jimweirich/rake)
 * [Basic Rake - Jim Weirich](http://www.youtube.com/watch?v=AFPWDzHWjEY)
 * [Power Rake - Jim Weirich](http://confreaks.tv/videos/1139-scrc2012-power-rake)
+* [Using Rake to Automate Tasks - Stuart Ellis](http://www.stuartellis.eu/articles/rake/)
 
 ### RUBY - REFACTORING
 
@@ -2928,6 +2935,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - VIDEOS
 
+* [Tropical Ruby 2015](http://tropicalrb.com/en/videos/)
 * [BostonRB videos](http://www.youtube.com/channel/UCVMoyi_TUOJ0qVZRt42_ltA)
 * [Ruby Manor 4.0 videos - 2012](http://vimeo.com/album/2596602)
 * [Ruby Manor 3 videos - 2011](http://rubymanor.org/3/videos/)
@@ -3077,6 +3085,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [A Byte of Vim](http://files.swaroopch.com/vim/byte_of_vim_v051.pdf)
 * [Vi/Vim notes - Darin Brezeale](http://www.brezeale.com/technical_notes/vim_notes.shtml)
 * [How I Boosted My Vim - Vincent Driessen](http://nvie.com/posts/how-i-boosted-my-vim/)
+* [Faster Grepping in Vim - Dan Croak](https://robots.thoughtbot.com/faster-grepping-in-vim) & [More vim tips from Thoughtbot](https://robots.thoughtbot.com/tags/vim)
 
 ### VIM - PLUGIN DOCS
 
