@@ -688,6 +688,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Javascript Basics](http://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.html)
 * [Eloquent Javascript](http://eloquentjavascript.net/)
+* [Javascript.com](https://www.javascript.com/resources)
 * [Learning JavaScript Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [JavaScript tips](https://code.google.com/p/jslibs/wiki/JavascriptTips)
 * [SuperheroJS - curated JavaScript links](http://superherojs.com/)
@@ -1125,6 +1126,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Linux Command Line: A Complete Introduction (PDF)](http://sourceforge.net/projects/linuxcommand/files/TLCL/13.07/TLCL-13.07.pdf/download) & [website](http://www.linuxcommand.org/tlcl.php)
 * [Linux Shell Scripting Cookbook](http://www.pdf-archive.com/2011/03/26/linux-shell-scripting-cookbook/linux-shell-scripting-cookbook.pdf)
 * [Linux Shell Scripting Tutorial](http://www.dis.uniroma1.it/~bordino/shell-tutorial.pdf)
+* [The Art of Command Line - Joshua Levy](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 
 #### LINUX - SHELL SCRIPTING (BASH) - BATS (BASH AUTOMATED TEST SYSTEM)
 
@@ -2199,7 +2201,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Rack on Rails](http://guides.rubyonrails.org/rails_on_rack.html)
     * [Creating/Customizing Rails Generators & Templates](http://guides.rubyonrails.org/generators.html)
     * [Upgrading](http://guides.rubyonrails.org/upgrading_ruby_on_rails.html)
-* [Rails posts - Thoughtbot](https://robots.thoughtbot.com/tags/rails)
+* [Rails posts - Thoughtbot](https://robots.thoughtbot.com/tags/rails) & [Bikeshed.fm](http://bikeshed.fm)
 * [Software as a Service, Part 1 - UC Berkeley](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-1x-engineering-1377)
 * [Software as a Service, Part 2 - UC Berkeley](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-2x-software-service-1275)
 * [Rails videos - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=rails&commit=go)
@@ -2623,6 +2625,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### RUBY - DEBUGGING - PRY
 
 * Pry: [Website](http://pryrepl.org/) | [API docs](http://www.rubydoc.info/github/pry/pry/master/Pry) | [Screencasts](http://pryrepl.org/screencasts.html) | [Github](https://github.com/pry/pry) | [Pry Wiki](https://github.com/pry/pry/wiki) | [Documentation browsing](https://github.com/pry/pry/wiki/Documentation-browsing) | [Source browsing](https://github.com/pry/pry/wiki/Source-browsing) | [Shell access](https://github.com/pry/pry/wiki/Shell-Integration) | [Live help](https://github.com/pry/pry/wiki/Live-help)
+* [Prying Open The Black Box - Godfrey Chan (RailsConf 2015)](https://youtu.be/IjbYhE9mWuk)
 * [Debugger Driven Developement with Pry - Joel Turnbull (RailsConf 2014)](https://www.youtube.com/watch?v=4hfMUP5iTq8)
 * [Pry Railscast](http://railscasts.com/episodes/280-pry-with-rails)
 * [Pry API docs](http://rdoc.info/github/pry/pry/master/Pry)
@@ -2829,7 +2832,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Brakeman](https://github.com/presidentbeef/brakeman)
 * [Keeping Rails Applications on Track with Brakeman - Justin Collins (RailsConf 2012)](http://confreaks.tv/videos/890-railsconf2012-keeping-rails-applications-on-track-with-brakeman)
 * [Generate Parsers! Prevent Exploits! - Nick Howard (MountainWest Ruby 2014)](http://confreaks.tv/videos/3270-mwrc-generate-parsers-prevent-exploits)
-* https://code.google.com/p/ruby-security/wiki/Guide
+* [Ruby Security Guide](https://code.google.com/p/ruby-security/wiki/Guide)
+* [Cryptography for Rails Developers - Christopher Rigor (Tropical Ruby 2015)](https://youtu.be/QUV1k134YB4)
 * [Modern Cryptography - John Downey (GoGaRuCo 2012)](http://confreaks.tv/videos/1114-gogaruco2012-modern-cryptography)
 * [Hacking with Gems - Ben Smith (Aloha RubyConf 2012)](http://confreaks.tv/videos/1243-aloharuby2012-hacking-with-gems)
 * [Good ol' shell injection](https://code.google.com/p/ruby-security/wiki/Guide#Good_ol%27_shell_injection)
