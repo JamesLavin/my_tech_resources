@@ -563,6 +563,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ERLANG
 
+* [Erlang Master Classes](https://www.youtube.com/watch?v=gKRyAb7d8lo&list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5&index=1)
 * [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
 * [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/content)
 * [Solving the Stable Marriage problem with Erlang](https://www.airpair.com/erlang/posts/solving-the-stable-marriage-problem-with-erlang)
@@ -3124,6 +3125,13 @@ Links to resources I have found useful or think might be helpful to future me or
 ### VIM - PYTHON
 
 * [Vim as a Python IDE - Martin Brochhaus](https://www.youtube.com/watch?v=YhqsjUUHj6g)
+
+### VIM - RAILS
+
+* [Effective Rails Development with Vim - Islam Wazery](http://www.sitepoint.com/effective-rails-development-vim/)
+* [Ruby Text Objects](http://tilvim.com/2014/07/18/ruby-text-objects.html)
+* [vim-ruby-refactoring tutorials](https://justinram.wordpress.com/2010/12/30/vim-ruby-refactoring-series/)
+* [vim-textobj-rubyblock](https://github.com/nelstrom/vim-textobj-rubyblock)
 
 ### VIM - VIMSCRIPT
 
