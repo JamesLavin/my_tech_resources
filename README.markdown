@@ -93,6 +93,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## CSS
 
+* [How to Master CSS - Christopher Harrison & Helen Zeng (Microsoft Virtual Academy - Jumpstart)](https://www.youtube.com/watch?v=Vafp5xr_bxk)
+* [HTML and CSS Tutorial for Beginners: The Ultimate Guide to Learning HTML and CSS](https://www.youtube.com/watch?v=sEo8ci9Lfmw)
+* [CSS3 Tutorial - Derek Banas](https://www.youtube.com/watch?v=CUxH_rWSI1k)
 * [LearnLayout.com](http://www.learnlayout.com/)
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/CSS)
 * [CSS2 Cheat Sheet (Cheatography)](http://www.cheatography.com/davechild/cheat-sheets/css2/)
@@ -107,6 +110,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Github CSS style guide](https://github.com/styleguide/css)
 * [Zen-Coding](http://code.google.com/p/zen-coding/)
 * [CSS Conf videos](http://cssconf.com/talks.html)
+
+### CSS - COOL STUFF
+
+* [How To Make a Slide Out Navigation with HTML/CSS (No JavaScript)](https://www.youtube.com/watch?v=d4P8s-mkMvs)
 
 ### CSS - HAML
 
@@ -975,6 +982,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Official documentation](http://docs.jquery.com/)
 * [Official API](http://api.jquery.com/)
+* [Zero to Hero with jQuery - Microsoft Virtual Academy (Jumpstart)](https://www.youtube.com/watch?v=ELRNFtFxIs8)
 * [Youtube.com/jquery](http://www.youtube.com/jquery)
 * [Exterminating Common JQuery bugs](http://confreaks.tv/videos/992-jqcon2012-exterminating-common-jquery-bugs)
 * [Tutorials (JQuery.com)](http://docs.jquery.com/Tutorials)
@@ -1861,6 +1869,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### PYTHON - LEARNING - BASICS
 
+* [Introduction to Programming With Python - Microsoft Virtual Academy (Jumpstart)](https://www.youtube.com/watch?v=9uq3w6JJS00)
 * [Coursera.org Python courses](https://www.coursera.org/courses?query=Python)
 * [EdX.org Python courses](https://www.edx.org/course?search_query=Python)
 * [Udemy.com Python courses](https://www.udemy.com/courses/search/?q=Python&p=1&price=price-free&view=grid) & [non-free](https://www.udemy.com/courses/search/?ref=home&q=Python)
@@ -2448,6 +2457,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * Redis.io: [Documentation](http://redis.io/documentation) | [Intro](http://redis.io/topics/introduction) | [Clients](http://redis.io/clients)
 * [Andrew Glover: Asynchronous Processing, Messaging, and Redis/Resque](http://blip.tv/rubynation/andrew-glover-asynchronous-processing-messaging-and-redis-with-resque-6558320)
 * [The Little Redis Book - Karl Seguin](http://openmymind.net/redis.pdf)
+* [Redis Tutorials: Zero to Hero with NoSQL Redis - Microsoft Virtual Academy (Jumpstart)](https://www.youtube.com/watch?v=A4gRg-9jNF4)
+* [Redis Labs' Youtube videos](https://www.youtube.com/channel/UCD78lHSwYqMlyetR0_P4Vig)
+* Getting Started With Redis: [Part 1](https://www.youtube.com/watch?v=7W1n_SwTw14) | [Part 2](https://www.youtube.com/watch?v=nSW4xaQ4eEI) | [Part 3](https://www.youtube.com/watch?v=h-jB2jpywnE) | [Part 4](https://www.youtube.com/watch?v=rXQRqek3kLw) | [Part 5](https://www.youtube.com/watch?v=YB62-F31l1c)
 
 ## RUBY
 
@@ -2480,6 +2492,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - ACTIVE RECORD
 
+* [Advanced ActiveRecord Lecture - Matthew Bunday](https://www.youtube.com/watch?v=l2d_ansazbc)
 * [ActiveRecord can't do it? Arel can! - Vipul A M, Prathamesh Sonpatki (Garden City Ruby 2015)](http://confreaks.tv/videos/gardencityrb2015-activerecord-can-t-do-it-arel-can)
 * [WAT!! ActiveRecord Callbacks - Monika M (Garden City Ruby 2015)](http://confreaks.tv/videos/gardencityrb2015-wat-activerecord-callbacks)
 * [The Littlest ORM - Noah Gibbs (GoGaRuCo 2013)](http://confreaks.tv/videos/2669-gogaruco2013-the-littlest-orm)
