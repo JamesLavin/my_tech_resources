@@ -2497,12 +2497,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [WAT!! ActiveRecord Callbacks - Monika M (Garden City Ruby 2015)](http://confreaks.tv/videos/gardencityrb2015-wat-activerecord-callbacks)
 * [The Littlest ORM - Noah Gibbs (GoGaRuCo 2013)](http://confreaks.tv/videos/2669-gogaruco2013-the-littlest-orm)
 * [ActiveRecord Anti-Patterns for Fun and Profit - Ethan Gunderson (Ruby Midwest 2011)](http://confreaks.tv/videos/752-rubymidwest2011-activerecord-anti-patterns-for-fun-and-profit)
-* [Database Backed models with ActiveRecord - Richard Shneeman (2012)](https://www.youtube.com/watch?v=EU98yHB-_7A)
-* [Active Record: Joins - Richard Schneeman](https://www.youtube.com/watch?v=wjEeLjGkBeA)
-* [Active Record: Group - Richard Schneeman](https://www.youtube.com/watch?v=s0KTEtVQ_AY)
-* [Active Record: Having - Richard Schneeman](https://www.youtube.com/watch?v=DaTbG91yZ30)
-* [Active Record: Just in Time SQL Queries - Richard Schneeman](https://www.youtube.com/watch?v=8JhKYbxdgck)
-* [Active Record: Preventing SQL Injection Attacks - Richard Schneeman](https://www.youtube.com/watch?v=s4QxOxGL1tI)
+* [Rails Active Record Associations - Sang Shin](https://www.youtube.com/watch?v=rjXGDISeMz4)
+* [Databases & Rails: Table Relationships & Joins - Richard Shneeman (2012)](https://www.youtube.com/watch?v=EcrO7hz-nfM)
+* [Database-Backed Models with ActiveRecord - Richard Shneeman (2012)](https://www.youtube.com/watch?v=EU98yHB-_7A)
+* Active Record - Richard Schneeman: [Where](https://www.youtube.com/watch?v=JUTXqWlqGHY) | [Find](https://www.youtube.com/watch?v=RIxolY196b0) | [Includes](https://www.youtube.com/watch?v=Qplus6HoFb8) | [Joins](https://www.youtube.com/watch?v=wjEeLjGkBeA) | [Group](https://www.youtube.com/watch?v=s0KTEtVQ_AY) | [Having](https://www.youtube.com/watch?v=DaTbG91yZ30) | [Order](https://www.youtube.com/watch?v=Rio_ES75xuA) | [Limit](https://www.youtube.com/watch?v=Mwqsg3BEaig) | [Offset](https://www.youtube.com/watch?v=X8TyHMPiE_8)
+* [Just in Time SQL Queries - Richard Schneeman](https://www.youtube.com/watch?v=8JhKYbxdgck)
+* [Preventing SQL Injection Attacks - Richard Schneeman](https://www.youtube.com/watch?v=s4QxOxGL1tI)
 
 ### RUBY - AI, NATURAL LANGUAGE PROCESSING, STATISTICAL ANALYSIS, ETC.
 
