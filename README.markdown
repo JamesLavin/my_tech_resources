@@ -833,6 +833,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Testing With CoffeeScript](https://efendibooks.com/minibooks/testing-with-coffeescript)
 * [Cheat Sheet (Cheatography)](http://www.cheatography.com/dimitrios/cheat-sheets/coffeescript-cheat-sheet/)
 * [CoffeeScript for the Rubyist - Mark Bates (RailsConf 2012)](http://confreaks.tv/videos/862-railsconf2012-coffeescript-for-the-rubyist) & [Aloha RubyConf 2012](http://confreaks.tv/videos/1242-aloharuby2012-coffeescript-for-the-rubyist)
+* [CoffeeScript Presentation: Code Like You Talk - Omer Sensoy](https://www.youtube.com/watch?v=-_arPK51bUo)
 * [CoffeeScript - SDRuby](http://www.sdruby.org/podcast/90)
 * [CodeSchool.com (non-free)](http://coffeescript.codeschool.com/)
 * [coffee-rails-source-maps](https://github.com/markbates/coffee-rails-source-maps)
@@ -1070,6 +1071,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [CreateJS (Javascript libraries & tools for building rich, interactive experiences with HTML5)](http://createjs.com/)
 
+## JEKYLL
+
+* Jekyll: [Main](http://jekyllrb.com/) | [Docs](http://jekyllrb.com/docs/home/) | [Tips](http://jekyll.tips/) | [Twitter](https://twitter.com/jekyllrb) | [News](http://jekyllrb.com/news/) | [Talk](http://talk.jekyllrb.com/) | [Github](https://github.com/jekyll/jekyll)
+* [Getting Started With Jekyll, The Static Site Generator - phpacademy](https://www.youtube.com/watch?v=iWowJBRMtpc)
+* [JekyllConf 2015](https://www.youtube.com/watch?v=wnQriozXBZI&list=PLrxYIq_0LFJcXlsRZD-JCdITfZexwvqsQ)
+
 ## JRUBY
 
 * [Headius (Charles Nutter)'s blog](http://blog.headius.com/)
@@ -1245,6 +1252,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Planet MongoDB](https://planet.mongodb.org/)
 * [MongoDb Blog](http://www.mongodb.com/blog)
 * [StackOverflow](http://stackoverflow.com/questions/tagged/mongodb)
+
+## NGINX
+
+* Nginx: [About](http://nginx.org/en/) | [Docs](http://nginx.org/en/docs/) | [FAQ](http://nginx.org/en/docs/faq.html) | [Twitter](https://twitter.com/nginxorg) | [Blog](http://nginx.com/blog/)
 
 ## NODE.JS
 
@@ -2211,6 +2222,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Rack on Rails](http://guides.rubyonrails.org/rails_on_rack.html)
     * [Creating/Customizing Rails Generators & Templates](http://guides.rubyonrails.org/generators.html)
     * [Upgrading](http://guides.rubyonrails.org/upgrading_ruby_on_rails.html)
+* Stefan Wintermeyer: [Ruby on Rails 3.2](http://www.xyzpub.com/en/ruby-on-rails/3.2/index.html) & [Ruby on Rails 4.0](http://www.amazon.com/Ruby-on-Rails-4-0-ebook/dp/B00E25KVLW?tag=xyzpubcom02-20)
 * [Rails posts - Thoughtbot](https://robots.thoughtbot.com/tags/rails) & [Bikeshed.fm](http://bikeshed.fm)
 * [Software as a Service, Part 1 - UC Berkeley](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-1x-engineering-1377)
 * [Software as a Service, Part 2 - UC Berkeley](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-2x-software-service-1275)
@@ -2921,6 +2933,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### RUBY - TESTING - RSPEC
 
+* RSpec cheatsheets:
+  * [rspec-rails-examples - Eliot Sykes](https://github.com/eliotsykes/rspec-rails-examples)
+  * [Anchor.com.au](https://www.anchor.com.au/wp-content/uploads/rspec_cheatsheet_attributed.pdf)
 * RSpec documentation (Github):
     * [rspec-core](https://github.com/rspec/rspec-core) 
     * [rspec-expectations](https://github.com/rspec/rspec-expectations) 
@@ -3097,6 +3112,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Write code faster: expert-level vim - Ben Orenstein (Railsberry 2012)](http://www.youtube.com/watch?v=SkdrYWhh-8s)
 * [Derek Wyatt videos - Novice](http://www.derekwyatt.org/vim/vim-tutorial-videos/vim-novice-tutorial-videos/), [Intermediate](http://www.derekwyatt.org/vim/vim-tutorial-videos/vim-intermediate-tutorial-videos/) and [Advanced](http://www.derekwyatt.org/vim/vim-tutorial-videos/vim-advanced-tutorial-videos/)
 * [Impressive Ruby Productivity with Vim and Tmux](http://confreaks.tv/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux)
+* [Vim Commands Cheat Sheet](http://www.fprintf.net/vimCheatSheet.html)
 * [Cheatsheet](http://i.imgur.com/YLInLlY.png)
 * NerdTree: [Guide](http://usevim.com/2012/07/18/nerdtree/) [Cheatsheet](http://cheat.errtheblog.com/s/nerdtree/) [add a file](http://stackoverflow.com/questions/1459750/vim-and-nerd-tree-extension-adding-a-file)
 * [Vundle plug-in manager](https://github.com/gmarik/vundle)
