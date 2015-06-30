@@ -308,6 +308,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Docker docs: [User Guide](https://docs.docker.com/userguide/) | [Articles](https://docs.docker.com/articles/) | [Examples](https://docs.docker.com/examples/nodejs_web_app/) | [Installation](https://docs.docker.com/installation/) | [Linking Containers Together](Linking Containers Togethe://docs.docker.com/userguide/dockerlinks/)
 * Docker videos: [Youtube](https://www.youtube.com/user/dockerrun) | [Confreaks](http://confreaks.tv/search?utf8=%E2%9C%93&query=Docker&commit=go)
+* [DockerCon 2015](https://www.youtube.com/watch?v=DfHcN3ZvjjU&list=PLenh213llmcbpJ78mZdh5pnJ_feVT9bez)
 * [Docker 101: Introduction to Docker - Andrew T. Baker (PyCon 2015)](https://www.youtube.com/watch?v=YiZkHUbE6N0) & [Demystifying Docker - Andrew T. Baker (PyCon 2015)](https://www.youtube.com/watch?v=GVVtR_hrdKI)
 * [The Docker Book - James Turnbull](http://dockerbook.com/)
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
@@ -325,6 +326,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Be a happier developer with Docker: Tricks of the trade - Nicola Paolucci](https://www.youtube.com/watch?v=XCVOxht34Hs)
 * [Pachyderm.io (MapReduce without Hadoop using a git-like distributed file system and Dockerized MapReduce)](http://www.pachyderm.io/) & [Github](https://github.com/pachyderm/pfs)
 * [Docker isn’t just for deployment - Ben Dixon (RailsConf 2015)](https://www.youtube.com/watch?v=NGcT0dGivoM)
+* [TheNewStack.io](http://thenewstack.io/)
 
 #### DEVOPS - DOCKER - MULTIHOST ORCHESTRATION
 
@@ -867,6 +869,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - ES6 / ECMASCRIPT 6
 
+* [Using JavaScript from the Future in Your Rails App Today - Steve Kinney (RailsConf 2015)](https://www.youtube.com/watch?v=Ayj1kgQNhAg)
+* [Essential ES6 / ES2015 JavaScript - Kyle Robinson Young](https://www.youtube.com/watch?v=CozSF5abcTA)
+* [ES6 Katas](http://es6katas.org/)
 * [Using ECMAScript 6 today - Dr. Axel Rauschmayer (RollingScopesConf 2015) - Part 1](https://www.youtube.com/watch?v=Fg3bEZIcnUw) & [Part 2](https://www.youtube.com/watch?v=Vhhq1WpzsnM) & [ECMAScript 6: what's next for JavaScript? (Frontendconf Zürich)](https://www.youtube.com/watch?v=G21rdWfa_as)
 * [JavaScript in 2015 - Glen Maddern](http://glenmaddern.com/articles/javascript-in-2015)
 * [Iterators and generators in ECMAScript 6 - Dr. Axel Rauschmayer](http://www.2ality.com/2013/06/iterators-generators.html)
@@ -1551,6 +1556,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Common Excel Tasks Demonstrated in Pandas - Chris Moffitt, Part 1](http://pbpython.com/excel-pandas-comp.html) & [Part 2](http://pbpython.com/excel-pandas-comp-2.html)
 * [Combining Data From Multiple Excel Files - Chris Moffitt](http://pbpython.com/excel-file-combine.html)
 * [Pandas Pivot Table Explained - Chris Moffitt](http://pbpython.com/pandas-pivot-table-explained.html)
+* [Openpyxl: library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files](https://bitbucket.org/openpyxl/openpyxl)
 
 #### PYTHON - DATA ANALYSIS - PYBRAIN
 
