@@ -42,6 +42,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## CLEAN CODE
 
+* [Treat Your Code as a Crime Scene - Adam Tornhill](http://www.infoq.com/presentations/code-bugs-legacy-pitfalls)
 * [Code review advice from Thoughtbot](https://github.com/thoughtbot/guides/tree/master/code-review)
 * [Keynote: Architecture the Lost Years - Robert Martin (Ruby Midwest 2011)](http://confreaks.tv/videos/759-rubymidwest2011-keynote-architecture-the-lost-years)
 * [Cruft and Technical Debt: A Long View - Yehuda Katz (GoGaRuCo 2012)](http://confreaks.tv/videos/1121-gogaruco2012-cruft-and-technical-debt-a-long-view)
@@ -67,6 +68,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Understanding JSON Schema - Michael Droettboom et al.](http://spacetelescope.github.io/understanding-json-schema/) & [PDF](http://spacetelescope.github.io/understanding-json-schema/UnderstandingJSONSchema.pdf)
 * [prmd - JSON Schema tools and doc generation for HTTP APIs](https://github.com/interagent/prmd)
+
+### CLEAN CODE - CODE CLIMATE
+
+* Code Climate: [Open source projects](https://codeclimate.com/oss) | [Platform](https://codeclimate.com/platform) | [Free service for open source projects](https://codeclimate.com/github/signup)
+* [Build your own Code Climate Analysis Engine](http://blog.codeclimate.com/blog/2015/07/07/build-your-own-codeclimate-engine/)
 
 ### CLEAN CODE - MEASURING
 
@@ -492,6 +498,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Elixir: [Docs](http://elixir-lang.org/docs.html) & [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html)
 * [What Elixir is About - José Valim (Erlang Factory SF 2015)](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
+* [Elixir with José Valim](http://howistart.org/posts/elixir/1)
 * [Sweet Elixir! - Ryan Cromwell](http://www.infoq.com/presentations/elixir) & [full notes](https://github.com/cromwellryan/sweetelixir)
 * [Elixir talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=elixir&commit=go)
 * [ElixirConf 2014 videos](http://www.confreaks.tv/events/elixirconf2014)
@@ -502,6 +509,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Introduction to Elixir: a New Language on the VM - José Valim](https://www.youtube.com/watch?v=41PvAPSX0wg)
 * [Rubyists, have a sip of Elixir! - Benjamin Tan (RubyConf 2014)](http://confreaks.tv/videos/5078-RubyConf2014-rubyists-have-a-sip-of-elixir)
 * [Intro to Elixir for Rubyists - Josh Adams & Robby Clements (ExlirConf 2014)](http://confreaks.tv/videos/4121-elixirconf2014-introduction-to-elixir-for-rubyists)
+* [Where I Got Stuck Using IEx.pry in Elixir - Jesse Trimble](http://www.jessetrimble.net/iex-pry-elixir/)
 * [Programming Elixir: The magic of today's tonic - Katie Miller (Linux.conf.au Jan 2014)](https://www.youtube.com/watch?v=uWSGBpW3xEQ)
 * [Elixir - A modern approach to programming for the Erlang VM - Jose Valim (RuPy 2012)](https://www.youtube.com/watch?v=q2Hxt0tOR0k)
 * ElixirConf: [ElixirConf 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H) | [ElixirConf 2014 videos](http://confreaks.tv/events/elixirconf2014)
@@ -515,6 +523,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Writing Command Line Applications with Elixir - James Smith (ElixirConf 2014)](https://www.youtube.com/watch?v=7l_fDU86pr4)
 * [Elixir Code Reading: Blacksmith](https://www.zweitag.de/en/blog/technology/elixir-code-reading-blacksmith)
 * [Elixir Fountain - bi-weekly podcast](https://soundcloud.com/elixirfountain)
+* [Elixir in times of microservices - José Valim](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/)
 
 ### ELIXIR - ATLAS
 
@@ -573,6 +582,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/content)
 * [Solving the Stable Marriage problem with Erlang](https://www.airpair.com/erlang/posts/solving-the-stable-marriage-problem-with-erlang)
 * [Thinking in a Highly Concurrent, Mostly-functional Language - Francesco Cesarini (ElixirConf 2014)](https://www.youtube.com/watch?v=d5G3P2iosmA)
+* [Advanced-Erlang.com](http://advanced-erlang.com/videos/)
 
 ## EMERGING TECHNOLOGIES
 
@@ -842,6 +852,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Cheat Sheet (Cheatography)](http://www.cheatography.com/dimitrios/cheat-sheets/coffeescript-cheat-sheet/)
 * [CoffeeScript for the Rubyist - Mark Bates (RailsConf 2012)](http://confreaks.tv/videos/862-railsconf2012-coffeescript-for-the-rubyist) & [Aloha RubyConf 2012](http://confreaks.tv/videos/1242-aloharuby2012-coffeescript-for-the-rubyist)
 * [CoffeeScript Presentation: Code Like You Talk - Omer Sensoy](https://www.youtube.com/watch?v=-_arPK51bUo)
+* [CoffeeScript: The Cool Parts - Charles Wood](https://www.youtube.com/watch?v=43P0kWswWWI)
 * [CoffeeScript - SDRuby](http://www.sdruby.org/podcast/90)
 * [CodeSchool.com (non-free)](http://coffeescript.codeschool.com/)
 * [coffee-rails-source-maps](https://github.com/markbates/coffee-rails-source-maps)
@@ -895,9 +906,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - EMBER.JS
 
-* [EmberJS.com](http://emberjs.com/)
-* [EmberJS Guides](http://emberjs.com/guides/) | [1.10.0](http://guides.emberjs.com/v1.10.0/)
-* [EmberJS API](http://emberjs.com/api/)
+* EmberJS: [Website](http://emberjs.com/) | [Guides](http://emberjs.com/guides/) | [API](http://emberjs.com/api/)
+* [WickedGoodEmber 2015 videos](http://confreaks.tv/events/wickedgoodember2015)
+* [How to Build a Rails 5 API Only and Ember Application - Santiago Pastorino](http://wyeworks.com/blog/2015/6/30/how-to-build-a-rails-5-api-only-and-ember-application/)
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com/chapters)
 * [EmberConf 2015 keynote - Tom Dale & Yehuda Katz](https://www.youtube.com/watch?&v=o12-90Dm-Qs)
 * [EmberConf 2014 videos](http://confreaks.tv/events/emberconf2014) & [slides](http://emberconf.com/schedule.html)
@@ -981,6 +992,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Prototypes and Inheritance in JavaScript](http://msdn.microsoft.com/en-us/magazine/ff852808.aspx)
 * [1024+ Seconds of JS Wizardry - Martin Kleppe (JSConf.eu 2013)](http://2013.jsconf.eu/speakers/martin-kleppe-1024-seconds-of-js-wizardry.html)
 * [The JavaScript Interpreter, Interpreted - Martha Girdler (JSConf.eu 2013)](http://2013.jsconf.eu/speakers/martha-girdler-the-javascript-interpreter-interpreted.html)
+* Advanced JavaScript Fundamentals - Core Language: [1) Math](https://www.youtube.com/watch?v=awP_QQQk_Nc) | [2) Date](https://www.youtube.com/watch?v=fWNBWhhX94s) | [3) Advanced Functions](https://www.youtube.com/watch?v=Up-Qlrsn2Gw) | [4) Arrays](https://www.youtube.com/watch?v=tnYTkhfdH1g) | [5) Creating Custom Objects](https://www.youtube.com/watch?v=JEJjbi5iqjc) | [6) Functions as Objects](https://www.youtube.com/watch?v=3U5uZknN9BQ) | [7) DOM Keyboard Events](https://www.youtube.com/watch?v=D7YWWe_Kw98) | [8) DOM Scripting Forms](https://www.youtube.com/watch?v=3cddNKVjlbA) | [9) Browser Features: XMLHttpRequest](https://www.youtube.com/watch?v=378eymwEfeA) | [10) Browser Features: JSON](https://www.youtube.com/watch?v=uXbL85IkwJ0) | [11) Browser Features: Local Storage](https://www.youtube.com/watch?v=Sd362eN5mDY) | [12) Debugging: Error Handling](https://www.youtube.com/watch?v=40teharRCOw)
+* JavaScript Fundamentals 101: [20) Event Delegation](https://www.youtube.com/watch?v=F7FFhsHz0ew)
+* [](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
 
 ### JAVASCRIPT - GRUNT (AUTOMATED TASK RUNNER)
 
@@ -1461,6 +1475,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Docs](http://blaze.pydata.org/docs/latest/index.html) & [Github](https://github.com/ContinuumIO/blaze)
 * [Blaze ("extends NumPy and Pandas to distributed and out-of-core computing")](http://blaze.pydata.org/docs/latest/index.html)
 * [Introducing Blaze - HMDA Practice - Matt Rocklin](http://continuum.io/blog/blaze-hmda)
+* [Dask - enables parallel computing through task scheduling and blocked algorithms](http://dask.pydata.org/en/latest/)
 
 #### PYTHON - DATA ANALYSIS - EXCEL INTEGRATION
 
@@ -3076,6 +3091,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### TMUX - BASICS
 
+* [A Tmux Primer - Daniel Miessler](https://danielmiessler.com/study/tmux/)
 * [Tmux: A Simple Start - Glenn Goodrich](http://www.sitepoint.com/tmux-a-simple-start/)
 * [Intro to Tmux (NetTuts)](http://net.tutsplus.com/tutorials/tools-and-tips/intro-to-tmux/)
 * [Tmux Crash Course (Thoughtbot)](http://robots.thoughtbot.com/post/2641409235/a-tmux-crash-course)
@@ -3155,7 +3171,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [vim-rspec](https://github.com/thoughtbot/vim-rspec/blob/master/README.md)
 * [vim-ruby](https://raw.githubusercontent.com/vim-ruby/vim-ruby/master/doc/vim-ruby.txt)
 * [vim-ruby-debugger](https://raw.githubusercontent.com/astashov/vim-ruby-debugger/master/doc/ruby_debugger.txt)
-* [vim-ruby-refactoring](https://raw.githubusercontent.com/ecomba/vim-ruby-refactoring/master/doc/rubyrefactoring.txt)
+* [vim-ruby-refactoring](https://raw.githubusercontent.com/ecomba/vim-ruby-refactoring/master/doc/rubyrefactoring.txt) & [Check out this excellent refactoring plugin - Justin Ram](https://justinram.wordpress.com/2010/12/30/vim-ruby-refactoring-series/)
 * [vim-surround](https://raw.githubusercontent.com/tpope/vim-surround/master/doc/surround.txt)
 * [vundle](https://raw.githubusercontent.com/gmarik/vundle/master/doc/vundle.txt)
 
