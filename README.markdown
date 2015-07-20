@@ -42,6 +42,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## CLEAN CODE
 
+* [The Failures of "Intro to TDD" - Justin Searls](http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html)
 * [Treat Your Code as a Crime Scene - Adam Tornhill](http://www.infoq.com/presentations/code-bugs-legacy-pitfalls)
 * [Code review advice from Thoughtbot](https://github.com/thoughtbot/guides/tree/master/code-review)
 * [Keynote: Architecture the Lost Years - Robert Martin (Ruby Midwest 2011)](http://confreaks.tv/videos/759-rubymidwest2011-keynote-architecture-the-lost-years)
@@ -741,6 +742,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [JavaScript Essentials - Travis Tidwell](http://www.youtube.com/watch?v=03EQu_2K2cs)
 * [Advanced HTML5 JavaScript: Down 'n Dirty - Kyle Simpson](http://www.youtube.com/watch?v=0ru7S0bJdko)
 * [Javascript Best Practices - Thinkful.com](http://www.thinkful.com/learn/javascript-best-practices-1/)
+* [Sitepoint - Javascript](http://www.sitepoint.com/javascript/)
 
 ### JAVASCRIPT - ANGULAR.JS
 
@@ -994,7 +996,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The JavaScript Interpreter, Interpreted - Martha Girdler (JSConf.eu 2013)](http://2013.jsconf.eu/speakers/martha-girdler-the-javascript-interpreter-interpreted.html)
 * Advanced JavaScript Fundamentals - Core Language: [1) Math](https://www.youtube.com/watch?v=awP_QQQk_Nc) | [2) Date](https://www.youtube.com/watch?v=fWNBWhhX94s) | [3) Advanced Functions](https://www.youtube.com/watch?v=Up-Qlrsn2Gw) | [4) Arrays](https://www.youtube.com/watch?v=tnYTkhfdH1g) | [5) Creating Custom Objects](https://www.youtube.com/watch?v=JEJjbi5iqjc) | [6) Functions as Objects](https://www.youtube.com/watch?v=3U5uZknN9BQ) | [7) DOM Keyboard Events](https://www.youtube.com/watch?v=D7YWWe_Kw98) | [8) DOM Scripting Forms](https://www.youtube.com/watch?v=3cddNKVjlbA) | [9) Browser Features: XMLHttpRequest](https://www.youtube.com/watch?v=378eymwEfeA) | [10) Browser Features: JSON](https://www.youtube.com/watch?v=uXbL85IkwJ0) | [11) Browser Features: Local Storage](https://www.youtube.com/watch?v=Sd362eN5mDY) | [12) Debugging: Error Handling](https://www.youtube.com/watch?v=40teharRCOw)
 * JavaScript Fundamentals 101: [20) Event Delegation](https://www.youtube.com/watch?v=F7FFhsHz0ew)
-* [](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
+* [Javascript: Understanding the Weird Parts - The First 3.5 Hours - Tony Alicea](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
 
 ### JAVASCRIPT - GRUNT (AUTOMATED TASK RUNNER)
 
@@ -1921,7 +1923,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Let's Learn Python - Trevor Payne](https://www.youtube.com/user/TPayneExperience/playlists?sort=dd&shelf_id=2&view=50)
 * [Hello, Little Turtles!](http://interactivepython.org/runestone/static/thinkcspy/PythonTurtle/helloturtle.html)
 * [Python Programming - Introduction - TDChannel](https://www.youtube.com/watch?v=72RKMMyLxS8)
-* [Google Python Class Day 1, Pt 1: Intro & Strings](https://www.youtube.com/watch?v=tKTZoB2Vjuk), [Day 1, Pt 2: Lists, Sorting and Tuples](https://www.youtube.com/watch?v=EPYupizJYQI), [Day 1, Pt 3](https://www.youtube.com/watch?v=haycL41dAhg), [Day 2, Pt 1: Regular Expressions](https://www.youtube.com/watch?v=kWyoYtvJpe4), [Day 2, Pt 2: Utilities: OS & Commands](https://www.youtube.com/watch?v=uKZ8GBKmeDM), [Day 2, Pt 3: Utilities: URLs, and HTTP, Exceptions](https://www.youtube.com/watch?v=Nn2KQmVF5Og), [Day 2, Pt 4: Closing Thoughts](https://www.youtube.com/watch?v=IcteAbMC1Ok)
+* Google's Python Class: [Website](https://developers.google.com/edu/python/), [Google Python Class Day 1, Pt 1: Intro & Strings](https://www.youtube.com/watch?v=tKTZoB2Vjuk), [Day 1, Pt 2: Lists, Sorting and Tuples](https://www.youtube.com/watch?v=EPYupizJYQI), [Day 1, Pt 3](https://www.youtube.com/watch?v=haycL41dAhg), [Day 2, Pt 1: Regular Expressions](https://www.youtube.com/watch?v=kWyoYtvJpe4), [Day 2, Pt 2: Utilities: OS & Commands](https://www.youtube.com/watch?v=uKZ8GBKmeDM), [Day 2, Pt 3: Utilities: URLs, and HTTP, Exceptions](https://www.youtube.com/watch?v=Nn2KQmVF5Og), [Day 2, Pt 4: Closing Thoughts](https://www.youtube.com/watch?v=IcteAbMC1Ok)
 * [An Introduction to Interactive Programming in Python - Rice University (Coursera)](https://www.coursera.org/course/interactivepython)
 * [Short Python tutorials - Bucky Roberts](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
 * [Python for Programmers: A Project-Based Tutorial - Alexandra Strong, Kantharine Jarmul and Christine Cheung](https://www.youtube.com/watch?v=Nc16qeGBtMU)
@@ -1931,6 +1933,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Introduction to Python for Computational Science and Engineering (A Beginner's Guide) - Hans Fangohr](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
 * [Intro to Computer Science and Programming Using Python (part 1) - MIT](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-0)
 * [Introduction to Programming Using Python - Brian Heinold](http://faculty.msmary.edu/heinold/IntroductionToProgrammingUsingPython_Heinold.pdf)
+* [Python Design Patterns 1 - Brandon Rhodes](https://www.youtube.com/watch?v=Er5K_nR5lDQ)
 * [Hands-On Introduction to Using Python in the Atmospheric and Oceanic Sciences - Johnny Wei-Bing Lin (free 1st ed)](http://www.johnny-lin.com/pyintro/ed01/)
 * [Object Oriented Design - Niko Wilbert](https://python.g-node.org/python-summerschool-2013/_media/wiki/oop/oo_design_2013.pdf)
 * [How to write actually object-oriented Python - Per Fagrell (PyGotham 2014)](https://www.youtube.com/watch?v=VUvEDg30FyY)
@@ -2030,6 +2033,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - TESTING
 
+* [Improve your testing with Pytest and Mock - Gabe Hollombe (PyCon SG 2015)](https://www.youtube.com/watch?v=RcN26hznmk4)
+* [Why I use py.test and maybe you should too - Andy Todd (PyCon Australia 2013)](https://www.youtube.com/watch?v=P-AhpukDIik)
 * [Testing Your Code (Python Guide)](http://docs.python-guide.org/en/latest/writing/tests/)
 * [Getting Started Testing - Ned Batchelder (PyCon 2014)](https://www.youtube.com/watch?v=FxSsnHeWQBY)
 * [Documentation, Testing and Packaging - Jake Vanderplas](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/20_DocsAndTesting.html)
@@ -2320,6 +2325,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### RAILS - BACKGROUND JOBS - SIDEKICK
 
+### RAILS - CACHING
+
+* [Caching with Rails: An overview - RailsGuides](http://guides.rubyonrails.org/caching_with_rails.html)
+* [Speed Up Your Rails App by 66% - The Complete Guide to Rails Caching - Nate Berkopec](http://www.nateberkopec.com/2015/07/15/the-complete-guide-to-rails-caching.html)
+
 ### RAILS - CLEAN CODE
 
 * [Eastward Ho! A Clear Path Through Ruby With OO - Jim Gay (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-eastward-ho-a-clear-path-through-ruby-with-oo)
@@ -2540,7 +2550,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Databases & Rails: Table Relationships & Joins - Richard Shneeman (2012)](https://www.youtube.com/watch?v=EcrO7hz-nfM)
 * [Database-Backed Models with ActiveRecord - Richard Shneeman (2012)](https://www.youtube.com/watch?v=EU98yHB-_7A)
 * Active Record - Richard Schneeman: [Where](https://www.youtube.com/watch?v=JUTXqWlqGHY) | [Find](https://www.youtube.com/watch?v=RIxolY196b0) | [Includes](https://www.youtube.com/watch?v=Qplus6HoFb8) | [Joins](https://www.youtube.com/watch?v=wjEeLjGkBeA) | [Group](https://www.youtube.com/watch?v=s0KTEtVQ_AY) | [Having](https://www.youtube.com/watch?v=DaTbG91yZ30) | [Order](https://www.youtube.com/watch?v=Rio_ES75xuA) | [Limit](https://www.youtube.com/watch?v=Mwqsg3BEaig) | [Offset](https://www.youtube.com/watch?v=X8TyHMPiE_8)
+* [Named Scopes in Rails with ActiveRecord Merge ](https://www.youtube.com/watch?v=5Vycty6-m2A)
 * [Just in Time SQL Queries - Richard Schneeman](https://www.youtube.com/watch?v=8JhKYbxdgck)
+* [Advanced aRel: When ActiveRecord Just Isn't Enough - Cameron Dutro (RailsConf 2014)](https://www.youtube.com/watch?v=ShPAxNcLm3o)
 * [Preventing SQL Injection Attacks - Richard Schneeman](https://www.youtube.com/watch?v=s4QxOxGL1tI)
 
 ### RUBY - AI, NATURAL LANGUAGE PROCESSING, STATISTICAL ANALYSIS, ETC.
@@ -3173,6 +3185,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [vim-ruby-debugger](https://raw.githubusercontent.com/astashov/vim-ruby-debugger/master/doc/ruby_debugger.txt)
 * [vim-ruby-refactoring](https://raw.githubusercontent.com/ecomba/vim-ruby-refactoring/master/doc/rubyrefactoring.txt) & [Check out this excellent refactoring plugin - Justin Ram](https://justinram.wordpress.com/2010/12/30/vim-ruby-refactoring-series/)
 * [vim-surround](https://raw.githubusercontent.com/tpope/vim-surround/master/doc/surround.txt)
+* [vim-textobj-rubyblock](https://github.com/nelstrom/vim-textobj-rubyblock) & [A text-object for ruby blocks - Drew Neil](http://vimcasts.org/blog/2010/12/a-text-object-for-ruby-blocks/)
 * [vundle](https://raw.githubusercontent.com/gmarik/vundle/master/doc/vundle.txt)
 
 ### VIM - JAVASCRIPT
