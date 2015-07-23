@@ -1280,6 +1280,28 @@ Links to resources I have found useful or think might be helpful to future me or
 * [MongoDb Blog](http://www.mongodb.com/blog)
 * [StackOverflow](http://stackoverflow.com/questions/tagged/mongodb)
 
+## NEWS
+
+### NEWS - TECH
+
+* [BBC](http://www.bbc.com/news/technology)
+* [Cnet](http://www.cnet.com/news/)
+* [CNN](http://www.cnn.com/TECH/)
+* [Engadget](http://www.engadget.com/)
+* [Gizmodo](http://gizmodo.com/)
+* [Google](https://news.google.com/news/section?topic=tc)
+* [Guardian](http://www.theguardian.com/us/technology)
+* [Huffington Post](http://www.huffingtonpost.com/tech/)
+* [Live Science](http://www.livescience.com/technology/)
+* [Mashable](http://mashable.com/category/tech/)
+* [NPR](http://www.npr.org/sections/technology/ )
+* [Reuters](http://www.reuters.com/news/technology)
+* [TechCrunch](http://techcrunch.com/)
+* [VentureBeat](http://venturebeat.com/)
+* [Wired](http://www.wired.com/)
+* [Yahoo](https://www.yahoo.com/tech)
+* [ZDNet](http://www.zdnet.com/)
+
 ## NGINX
 
 * Nginx: [About](http://nginx.org/en/) | [Docs](http://nginx.org/en/docs/) | [FAQ](http://nginx.org/en/docs/faq.html) | [Twitter](https://twitter.com/nginxorg) | [Blog](http://nginx.com/blog/)
@@ -1427,7 +1449,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PYTHON - CONDA
 
-* [Conda (package manager) documentation](http://conda.pydata.org/docs/) & [Github](https://github.com/conda/conda)
+* Conda (package manager): [Documentation](http://conda.pydata.org/docs/) & [Github](https://github.com/conda/conda) | [Cheatsheet](http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf)
 
 ### PYTHON - CYTHON
 
