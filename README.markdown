@@ -1297,15 +1297,22 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## NEWS
 
+### NEWS - HARDWARE
+
+* [Hot Hardware](http://hothardware.com/)
+
 ### NEWS - PROGRAMMING
 
 * [Application Development Trends](https://adtmag.com)
 * [Dr. Dobb's](http://www.drdobbs.com/)
+* [Enterprise Apps Today](http://www.enterpriseappstoday.com/)
 * [Huffington Post](http://www.huffingtonpost.com/news/computer-programming/)
 * [I Programmer](http://www.i-programmer.info/)
 * [InfoQ](http://www.infoq.com/news/)
+* [InfoStor](http://www.infostor.com/)
 * [InfoWorld](http://www.infoworld.com/)
 * [IT World](http://www.itworld.com/)
+* [Programmable Web](http://www.programmableweb.com/)
 * [The Register](http://www.theregister.co.uk/software/)
 * ScienceDaily: [Computer programming](http://www.sciencedaily.com/news/computers_math/computer_programming/) | [Hacking](http://www.sciencedaily.com/news/computers_math/hacking/) | [Software](http://www.sciencedaily.com/news/computers_math/software/)
 * [Sitepoint](http://www.sitepoint.com/)
@@ -1317,6 +1324,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Cnet](http://www.cnet.com/news/)
 * [CNN](http://www.cnn.com/TECH/)
 * [Engadget](http://www.engadget.com/)
+* [Forbes](http://www.forbes.com/technology/)
 * [GeekWire](http://www.geekwire.com/)
 * [Gizmodo](http://gizmodo.com/)
 * [Google](https://news.google.com/news/section?topic=tc)
@@ -1330,7 +1338,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ScienceDaily](http://www.sciencedaily.com/news/matter_energy/technology/)
 * [Slashdot](http://slashdot.org/)
 * [TechCrunch](http://techcrunch.com/)
+* [TechHive](http://www.techhive.com/news)
+* [TechNewsWorld](http://www.technewsworld.com/)
 * [VentureBeat](http://venturebeat.com/)
+* [The Verge](http://www.theverge.com/tech)
 * [Wired](http://www.wired.com/)
 * [Yahoo](https://www.yahoo.com/tech)
 * [ZDNet](http://www.zdnet.com/)
