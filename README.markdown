@@ -81,6 +81,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Semi Automatic Code Review - Richard Huang (RailsConf 2012)](http://confreaks.tv/videos/888-railsconf2012-semi-automatic-code-review)
 * [rails_best_practices gem](https://github.com/railsbp/rails_best_practices) & [railsbp.com](http://railsbp.com/) 
 
+## CODING CONTESTS
+
+* [CodeChef](https://www.codechef.com/)
+* [TopCoder](http://www.topcoder.com/)
+
+## CODING PUZZLES
+
+* [Programming Praxis](http://programmingpraxis.com/)
+
 ## CODE SEARCH
 
 * [Github Search](https://github.com/search/advanced)
@@ -403,6 +412,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Vagrant, Packer, Serf: Maximum Potency DevOps - Mitchell Hashimoto (Kod.io 2014)](http://confreaks.tv/videos/3251-kodio_2014-vagrant-packer-serf-maximum-potency-devops)
 
+## DOCUMENTATION
+
+* [DevDocs.io - "combines multiple API documentations in a fast, organized, and searchable interface"](http://devdocs.io/)
+* [ZealDocs - open-soure offline documentation browser](http://zealdocs.org/)
+
 ## DOWNTIME
 
 * [Ruby-Toolbox - Maintenance Mode](https://www.ruby-toolbox.com/categories/Maintenance_Mode)
@@ -667,6 +681,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## HTML5
 
 * [CodePen.io](http://codepen.io/)
+* [Smashing Magazine](http://www.smashingmagazine.com/)
 * [Dive into HTML 5 - Mark Pilgrim](http://diveintohtml5.info/)
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/HTML/HTML5)
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
@@ -1282,20 +1297,38 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## NEWS
 
+### NEWS - PROGRAMMING
+
+* [Application Development Trends](https://adtmag.com)
+* [Dr. Dobb's](http://www.drdobbs.com/)
+* [Huffington Post](http://www.huffingtonpost.com/news/computer-programming/)
+* [I Programmer](http://www.i-programmer.info/)
+* [InfoQ](http://www.infoq.com/news/)
+* [InfoWorld](http://www.infoworld.com/)
+* [IT World](http://www.itworld.com/)
+* [The Register](http://www.theregister.co.uk/software/)
+* ScienceDaily: [Computer programming](http://www.sciencedaily.com/news/computers_math/computer_programming/) | [Hacking](http://www.sciencedaily.com/news/computers_math/hacking/) | [Software](http://www.sciencedaily.com/news/computers_math/software/)
+* [Sitepoint](http://www.sitepoint.com/)
+
 ### NEWS - TECH
 
 * [BBC](http://www.bbc.com/news/technology)
+* [Business Insider](http://www.businessinsider.com/sai)
 * [Cnet](http://www.cnet.com/news/)
 * [CNN](http://www.cnn.com/TECH/)
 * [Engadget](http://www.engadget.com/)
+* [GeekWire](http://www.geekwire.com/)
 * [Gizmodo](http://gizmodo.com/)
 * [Google](https://news.google.com/news/section?topic=tc)
 * [Guardian](http://www.theguardian.com/us/technology)
 * [Huffington Post](http://www.huffingtonpost.com/tech/)
 * [Live Science](http://www.livescience.com/technology/)
 * [Mashable](http://mashable.com/category/tech/)
+* [The Next Web](http://thenextweb.com/section/tech/)
 * [NPR](http://www.npr.org/sections/technology/ )
 * [Reuters](http://www.reuters.com/news/technology)
+* [ScienceDaily](http://www.sciencedaily.com/news/matter_energy/technology/)
+* [Slashdot](http://slashdot.org/)
 * [TechCrunch](http://techcrunch.com/)
 * [VentureBeat](http://venturebeat.com/)
 * [Wired](http://www.wired.com/)
