@@ -845,6 +845,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - CLEAN CODE
 
+* 7 Patterns to Refactor JavaScript Applications - Michael Phillips: [Value Objects](https://blog.engineyard.com/2015/7-patterns-refactor-javascript-value-objects) | [Service Objects](https://blog.engineyard.com/2015/7-patterns-refactor-javascript-service-objects) | [Form Objects](https://blog.engineyard.com/2015/7-patterns-refactor-javascript-form-objects) | [Query Objects](https://blog.engineyard.com/2015/7-patterns-refactor-javascript-query-objects) | [Policy Objects](https://blog.engineyard.com/2015/7-patterns-refactor-javascript-query-objects) | [Decorators](https://blog.engineyard.com/2015/7-patterns-refactor-javascript-decorators)
 * [Airbnb's style guide](https://github.com/airbnb/javascript)
 * [Github's style guide](https://github.com/styleguide/javascript)
 * [JSHint (Github)](https://github.com/jshint/jshint) & [JSHint.com](http://www.jshint.com/)
@@ -1316,6 +1317,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Register](http://www.theregister.co.uk/software/)
 * ScienceDaily: [Computer programming](http://www.sciencedaily.com/news/computers_math/computer_programming/) | [Hacking](http://www.sciencedaily.com/news/computers_math/hacking/) | [Software](http://www.sciencedaily.com/news/computers_math/software/)
 * [Sitepoint](http://www.sitepoint.com/)
+* [TutsPlus](http://code.tutsplus.com/)
 
 ### NEWS - TECH
 
@@ -2083,7 +2085,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### PYTHON - PERFORMANCE - DASK
 
-* [Dask - minimal task scheduling abstraction and parallel arrays - ContinuumIO](https://github.com/ContinuumIO/dask)
+* Dask - minimal task scheduling abstraction and parallel arrays (ContinuumIO): [Github](https://github.com/ContinuumIO/dask) | [Documentation](http://dask.pydata.org/en/latest/)
+
 ### PYTHON - PYLAB
 
 * DON'T USE PYLAB!!!
@@ -2922,6 +2925,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [ppprofiler (PaperlessPost profiler)](https://gist.github.com/quirkey/7191119)
 
+#### RUBY - PERFORMANCE & LOAD TESTING - RACK-MINI-PROFILER
+
+* [rack-mini-profiler - the Secret Weapon of Ruby and Rails Speed - Nate Berkopec](http://www.nateberkopec.com/2015/08/05/rack-mini-profiler-the-secret-weapon.html)
+
 #### RUBY - PERFORMANCE & LOAD TESTING - RBLINEPROF
 
 * [rblineprof - Ruby line profiler](https://github.com/tmm1/rblineprof)
@@ -2976,8 +2983,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - SEQUEL
 
-* Sequel: The Database Toolkit for Ruby: [Intro](http://sequel.jeremyevans.net/) & [Documentation](http://sequel.jeremyevans.net/documentation.html)
+* Sequel: The Database Toolkit for Ruby: [Intro](http://sequel.jeremyevans.net/) | [Documentation](http://sequel.jeremyevans.net/documentation.html) | [Plugins](http://sequel.jeremyevans.net/plugins.html)
+* [Ode to Sequel - Janko Marohnić](http://twin.github.io/ode-to-sequel/)
 * [RubyTapas Freebie: Sequel - Avdi Grimm](http://devblog.avdi.org/2015/05/26/rubytapas-freebie-sequel/)
+* [Sequel for ActiveRecord Users](http://sequel.jeremyevans.net/rdoc/files/doc/active_record_rdoc.html)
 
 ### RUBY - STATE MACHINES
 
@@ -3266,8 +3275,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Effective Rails Development with Vim - Islam Wazery](http://www.sitepoint.com/effective-rails-development-vim/)
 * [Ruby Text Objects](http://tilvim.com/2014/07/18/ruby-text-objects.html)
+* [vim-rspec](https://github.com/thoughtbot/vim-rspec)
 * [vim-ruby-refactoring tutorials](https://justinram.wordpress.com/2010/12/30/vim-ruby-refactoring-series/)
 * [vim-textobj-rubyblock](https://github.com/nelstrom/vim-textobj-rubyblock)
+
+### VIM - TMUX
+
+* [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
+* [vim-tmux-runner](https://github.com/christoomey/vim-tmux-runner)
 
 ### VIM - VIMSCRIPT
 
