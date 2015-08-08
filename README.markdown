@@ -243,6 +243,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [SQL Developer](http://sqldeveloper.solyp.com/)
 * [SQL Power Architect](http://www.sqlpower.ca/page/architect)
 
+### DATABASES - SQL
+
+* [SQLTeaching.com](https://www.sqlteaching.com/)
+* [SQL Tutorial - 1KeyData.com](http://www.1keydata.com/sql/sql.html)
+* [PostgreSQL documentation: The SQL Language](http://www.postgresql.org/docs/9.4/interactive/sql.html)
+* [TutorialsPoint.com](http://www.tutorialspoint.com/sql/index.htm)
+
 ## DEVOPS
 
 * [BOSH](https://github.com/cloudfoundry/bosh)
@@ -549,11 +556,19 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Documentation (PDF)](https://media.readthedocs.org/pdf/elixir-lang/latest/elixir-lang.pdf)
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) & [Github](https://github.com/oreillymedia/etudes-for-elixir)
 
+### ELIXIR - EARMARK
+
+* [Earmark—A Pure Elixir Markdown Processor](https://github.com/pragdave/earmark)
+
 ### ELIXIR - ELASTICSEARCH
 
 * [Tirexs - Elixir DSL for Elasticsearch](https://github.com/roundscope/tirexs)
 * [erlastic_search (Erlang client for Elasticsearch)](https://github.com/tsloughter/erlastic_search)
 * [Elasticsearch from Elixir and Docker - Zohaib Rauf](http://zohaib.me/elasticsearch-from-elixir-and-docker/)
+
+### ELIXIR - EXDOC
+
+* [ExDoc](https://github.com/elixir-lang/ex_doc)
 
 ### ELIXIR - MACROS
 
@@ -561,6 +576,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - PHOENIX FRAMEWORK
 
+* [Phoenix - A Framework for the Modern Web - Chris McCord](https://vimeo.com/131633172)
 * [Rise of The Phoenix: Building an Elixir Web Framework - Chris McCord (ElixirConf 2014)](https://www.youtube.com/watch?v=3jMbzGv_6tA)
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
 * [PhoenixFramework.org](http://www.phoenixframework.org)
@@ -2447,6 +2463,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [BetterErrors](https://github.com/charliesome/better_errors)
 * [Bullet](https://github.com/flyerhzm/bullet)
 * [CanCanCan](https://github.com/CanCanCommunity/cancancan) (successor to the original [CanCan](https://github.com/ryanb/cancan))
+* Carrierwave: [Github](https://github.com/carrierwaveuploader/carrierwave) | [docs](http://www.rubydoc.info/gems/carrierwave/frames) | [wiki](https://github.com/carrierwaveuploader/carrierwave/wiki)
 * [DelayedJob](https://github.com/collectiveidea/delayed_job)
 * [Devise](https://github.com/plataformatec/devise)
 * [DeviseInvitable](https://github.com/scambra/devise_invitable)
@@ -2464,7 +2481,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Rspec-Rails](https://github.com/rspec/rspec-rails)
 * [SimpleForm](https://github.com/plataformatec/simple_form)
 * [Spring](https://github.com/rails/spring) & [spring-commands-rspec](https://github.com/jonleighton/spring-commands-rspec)
-* [Virtus](https://github.com/solnic/virtus)
+* [Virtus](https://github.com/solnic/virtus) & [Be nice to others and your future-self: use Data Objects - Philippe Creux](http://brewhouse.io/2015/07/31/be-nice-to-others-and-your-future-self-use-data-objects.html)
 
 #### RAILS - GEMS - CREATING
 
@@ -2578,6 +2595,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Redis Tutorials: Zero to Hero with NoSQL Redis - Microsoft Virtual Academy (Jumpstart)](https://www.youtube.com/watch?v=A4gRg-9jNF4)
 * [Redis Labs' Youtube videos](https://www.youtube.com/channel/UCD78lHSwYqMlyetR0_P4Vig)
 * Getting Started With Redis: [Part 1](https://www.youtube.com/watch?v=7W1n_SwTw14) | [Part 2](https://www.youtube.com/watch?v=nSW4xaQ4eEI) | [Part 3](https://www.youtube.com/watch?v=h-jB2jpywnE) | [Part 4](https://www.youtube.com/watch?v=rXQRqek3kLw) | [Part 5](https://www.youtube.com/watch?v=YB62-F31l1c)
+
+## REGULAR EXPRESSIONS
+
+* [RegEx101.com](https://regex101.com/)
+* [Rubular.com](http://rubular.com/)
+* [LearnPython.org](http://www.learnpython.org/en/Regular_Expressions)
+* [EloquentJavascript.net](http://eloquentjavascript.net/09_regexp.html)
+* [Ruby regular expressions cheatsheet](http://doc.infosnel.nl/ruby_regular_expressions.html)
 
 ## RUBY
 
@@ -3343,7 +3368,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### WRITING/PUBLISHING - PANDOC
 
-* [Pandoc (document converter)](http://johnmacfarlane.net/pandoc/index.html)
+* [Pandoc: Universal Document Converter](http://pandoc.org/)
 * [Sustainable Authorship in Plain Text using Pandoc and Markdown - Dennis Tenen and Grant Wythoff](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 * [Plain Text, Papers, Pandoc](http://kieranhealy.org/blog/archives/2014/01/23/plain-text/)
 
