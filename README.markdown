@@ -621,6 +621,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## EVENT SOURCING/STREAMS
 
+* [Event Sourcing - Bryan Reinero (GoRuCo 2015)](http://confreaks.tv/videos/goruco2015-event-sourcing)
 * [Polyglot Data - Greg Young (GOTO Conference 2014)](https://www.youtube.com/watch?v=hv2dKtPq0ME)
 * [CQRS and Event Sourcing - Greg Young (Code on the Beach 2014)](https://www.youtube.com/watch?v=JHGkaShoyNs)
 * [Querying Event Streams - Greg Young (React 2014)](https://www.youtube.com/watch?v=DWhQggR13u8)
@@ -918,7 +919,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Sam Breed - Dependency Injection for Fun and Profit](http://www.youtube.com/watch?v=Lm05e5sJaE8)
 
-### JAVASCRIPT - ES6 / ECMASCRIPT 6
+### JAVASCRIPT - ES 2016
+
+* [ES 2016: The Evolution of Javascript - Jafar Husain (MountainWest JavaScript 2015)](http://confreaks.tv/videos/mwjs2015-javascript-7-the-evolution-of-javascript)
+
+### JAVASCRIPT - ES 2015 / ES6 / ECMASCRIPT 6
 
 * [Using JavaScript from the Future in Your Rails App Today - Steve Kinney (RailsConf 2015)](https://www.youtube.com/watch?v=Ayj1kgQNhAg)
 * [Essential ES6 / ES2015 JavaScript - Kyle Robinson Young](https://www.youtube.com/watch?v=CozSF5abcTA)
@@ -1018,6 +1023,23 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [TodoMVC](http://todomvc.com/) & [Github](https://github.com/addyosmani/todomvc)
 
+### JAVASCRIPT - FUNCTIONAL REACTIVE PROGRAMMING
+
+* [Conquering Time with Functional Reactive Programming - Sergi Mansilla (Goto Amsterdam 2014)](https://www.youtube.com/watch?v=gT6il5fJyAs)
+* [End-to-End Reactive Programming at Netflix - Jafar Husain](http://www.infoq.com/presentations/reactive-programming-netflix)
+
+#### JAVASCRIPT - FUNCTIONAL REACTIVE PROGRAMMING - BACON.JS
+
+* [Bacon.js](https://github.com/baconjs/bacon.js)
+* [Bacon.js - Functional Reactive Programming - Thomas Holmes (ATLRUG 2014)](https://www.youtube.com/watch?v=eFEvGS6pOWk)
+* [Functional Reactive Programming with Bacon.js](http://sean.voisen.org/blog/2013/09/intro-to-functional-reactive-programming/)
+* [Implementing Snake in Bacon.js](http://philipnilsson.github.io/badness/)
+
+#### JAVASCRIPT - FUNCTIONAL REACTIVE PROGRAMMING - REACT.JS
+
+* [Secrets of the Virtual DOM - Pete Hunt (Barcelona Future Javascript)](https://www.youtube.com/watch?v=-DX3vJiqxm4)
+* [React and Rails](http://rny.io/rails/react/2014/07/31/reactjs-and-rails.html)
+
 ### JAVASCRIPT - FUNDAMENTAL CONCEPTS
 
 * [Common JavaScript “Gotchas”](http://www.jblotus.com/2013/01/13/common-javascript-gotchas/)
@@ -1081,21 +1103,6 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Yeoman](http://yeoman.io/packagemanager.html)
 
-### JAVASCRIPT - REACTIVE FUNCTIONAL PROGRAMMING
-
-* [End-to-End Reactive Programming at Netflix - Jafar Husain](http://www.infoq.com/presentations/reactive-programming-netflix)
-
-#### JAVASCRIPT - REACTIVE FUNCTIONAL PROGRAMMING - BACON.JS
-
-* [Bacon.js](https://github.com/baconjs/bacon.js)
-* [Functional Reactive Programming with Bacon.js](http://sean.voisen.org/blog/2013/09/intro-to-functional-reactive-programming/)
-* [Implementing Snake in Bacon.js](http://philipnilsson.github.io/badness/)
-
-#### JAVASCRIPT - REACTIVE FUNCTIONAL PROGRAMMING - REACT.JS
-
-* [Secrets of the Virtual DOM - Pete Hunt (Barcelona Future Javascript)](https://www.youtube.com/watch?v=-DX3vJiqxm4)
-* [React and Rails](http://rny.io/rails/react/2014/07/31/reactjs-and-rails.html)
-
 ### JAVASCRIPT - TESTING
 
 * [Zero to Testing in Javascript - Pamela Selle (QConn New York 2014)](http://www.infoq.com/presentations/tdd-javascript-2014)
@@ -1148,6 +1155,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JRUBY - JRUBY 9000
 
+* [Keynote: JRuby 9k - Thomas Enebo & Charles Nutter (JRubyConf.eu 2015)](http://confreaks.tv/videos/jrubyconf2015-keynote-jruby-9k)
 * [JRuby 9000 - Charles Nutter, Thomas Enebo (RubyConf 2014)](http://confreaks.tv/videos/5017-RubyConf2014-jruby-9000)
 
 ### JRUBY - PERFORMANCE
@@ -1214,6 +1222,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MACHINE LEARNING
 
+* [Un-Artificial Intelligence - Melinda Seckington (GoRuCo 2015)](https://www.youtube.com/watch?v=7Y1Bv2BJDLs)
 * [Machine Learning (online Coursera class with Stanford professor Andrew Ng)](https://www.coursera.org/course/ml)
 * [Machine Learning (online course from University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 * [Intro to Machine Learning: Pattern Recognition for Fun and Profit - Sebastian Thrun and Katie Malone (Udacity)]()
@@ -1472,15 +1481,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## PROGRAMMING
 
-### PROGRAMMING - LEARNING
+### PROGRAMMING - ACTOR MODEL
 
-* [Code Studio](http://studio.code.org/)
-* [CS50: Intro to Computer Science - David J. Malan (Harvard)](http://cs50.tv/)
-
-#### PROGRAMMING - LEARNING - GAMES
-
-* [Phaser.io](http://phaser.io/)
-* [Game Editor (cross-platform game creator)](http://game-editor.com/)
+* [Hewitt, Meijer and Szyperski: The Actor Model (everything you wanted to know...)](https://www.youtube.com/watch?v=7erJ1DV_Tlo)
 
 ### PROGRAMMING - BLOGS
 
@@ -1492,6 +1495,21 @@ Links to resources I have found useful or think might be helpful to future me or
 * [MartinFowler.com](http://martinfowler.com/)
 * [Scott Hanselman](http://www.hanselman.com/)
 * [StackOverflow](http://blog.stackoverflow.com/)
+
+### PROGRAMMING - FUNCTIONAL REACTIVE PROGRAMMING
+
+* [An Event-driven and Reactive Future - Jonathan Worthington (FooCafe)](https://www.youtube.com/watch?v=_VdIQTtRkb8)
+* [What does it mean to be Reactive? - Erik Meijer (React 2014)](https://www.youtube.com/watch?v=sTSQlYX5DU0)
+
+### PROGRAMMING - LEARNING
+
+* [Code Studio](http://studio.code.org/)
+* [CS50: Intro to Computer Science - David J. Malan (Harvard)](http://cs50.tv/)
+
+#### PROGRAMMING - LEARNING - GAMES
+
+* [Phaser.io](http://phaser.io/)
+* [Game Editor (cross-platform game creator)](http://game-editor.com/)
 
 ### PROGRAMMING - VIDEOS
 
@@ -2429,6 +2447,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Break It Down - Ben Scofield (Ruby Midwest 2011)](http://confreaks.tv/videos/756-rubymidwest2011-break-it-down)
 * [Patterns of Basecamp's Application Architecture - DHH (RailsConf 2013)](http://confreaks.tv/videos/2422-railsconf2013-opening-keynote-patterns-of-basecamp-s-application-architecture)
 
+### RAILS - DEBUGGING
+
+* [Debugging Rails Applications (RailsGuides)](http://edgeguides.rubyonrails.org/debugging_rails_applications.html)
+* [RUBY - DEBUGGING](https://github.com/jameslavin/my_tech_resources#ruby---debugging)
+
 ### RAILS - ENGINES & COMPONENTS
 
 * [Rails Engines - BostonRb.org](http://bostonrb.org/presentations/rails-engines)
@@ -2445,6 +2468,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Rails Disco: Get Down with Event Sourcing - Glenn Goodrich](http://www.sitepoint.com/rails-disco-get-event-sourcing/)
 * [Rails-disco gem](https://github.com/hicknhack-software/rails-disco)
+
+### RAILS - ENVIRONMENT VARIABLES
+
+* [Environment variables in Rails - Andrey Koleshko](http://railsguides.net/how-to-define-environment-variables-in-rails/)
 
 ### RAILS - FEATURES
 
@@ -2500,6 +2527,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RAILS - PERFORMANCE
 
+* [How to Performance - Eileen Uchitelle (GoRuCo 2015)](http://confreaks.tv/videos/goruco2015-how-to-performance)
 * [Building RailsPerf, a toolkit to detect performance regressions in Ruby on Rails core - Kir Shatrov (RailsConf 2015)](http://confreaks.tv/videos/railsconf2015-building-railsperf-a-toolkit-to-detect-performance-regressions-in-ruby-on-rails-core)
 
 ### RAILS - PJAX
@@ -2529,6 +2557,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Rails Application Security in Practice - Bryan Helmkamp (Ruby MidWest 2013)](http://confreaks.tv/videos/2375-rmw2013-rails-application-security-in-practice)
 * [Ruby on Rails Cheatsheet - OWASP (Open Web Application Security Project)](https://www.owasp.org/index.php/Ruby_on_Rails_Cheatsheet)
 * [Rails SQL Injection examples](http://rails-sqli.org/)
+
+### RAILS - SESSIONS
+
+* [How Rails Sessions Work - Justin Weiss](http://www.justinweiss.com/blog/2015/03/17/how-rails-sessions-work/)
 
 ### RAILS - TESTING
 
@@ -2645,6 +2677,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Database-Backed Models with ActiveRecord - Richard Shneeman (2012)](https://www.youtube.com/watch?v=EU98yHB-_7A)
 * Active Record - Richard Schneeman: [Where](https://www.youtube.com/watch?v=JUTXqWlqGHY) | [Find](https://www.youtube.com/watch?v=RIxolY196b0) | [Includes](https://www.youtube.com/watch?v=Qplus6HoFb8) | [Joins](https://www.youtube.com/watch?v=wjEeLjGkBeA) | [Group](https://www.youtube.com/watch?v=s0KTEtVQ_AY) | [Having](https://www.youtube.com/watch?v=DaTbG91yZ30) | [Order](https://www.youtube.com/watch?v=Rio_ES75xuA) | [Limit](https://www.youtube.com/watch?v=Mwqsg3BEaig) | [Offset](https://www.youtube.com/watch?v=X8TyHMPiE_8)
 * [Named Scopes in Rails with ActiveRecord Merge ](https://www.youtube.com/watch?v=5Vycty6-m2A)
+* [Search and Filter Rails Models Without Bloating Your Controller - Justin Weiss](http://www.justinweiss.com/blog/2014/02/17/search-and-filter-rails-models-without-bloating-your-controller/)
 * [Just in Time SQL Queries - Richard Schneeman](https://www.youtube.com/watch?v=8JhKYbxdgck)
 * [Advanced aRel: When ActiveRecord Just Isn't Enough - Cameron Dutro (RailsConf 2014)](https://www.youtube.com/watch?v=ShPAxNcLm3o)
 * [Preventing SQL Injection Attacks - Richard Schneeman](https://www.youtube.com/watch?v=s4QxOxGL1tI)
@@ -2724,7 +2757,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Rubycop](https://github.com/bbatsov/rubocop)
 * [bbatsov / ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
-* [Nothing is Something - Sandi Metz (BathRuby 2015)](https://www.youtube.com/watch?v=9lv2lBq6x4A)
+* [Nothing is Something - Sandi Metz (BathRuby 2015)](https://www.youtube.com/watch?v=9lv2lBq6x4A) & [RailsConf 2015](https://www.youtube.com/watch?v=OMPfEXIlTVE)
 * [Write Small Things - Mark Menard (LA Ruby Conf 2014)](https://www.youtube.com/watch?v=A0aZLDaGozM)
 * [That's Not Very Ruby of You - Ernie Miller (RubyConf 2013)](https://www.youtube.com/watch?v=OB-xFC8AN_s)
 * [Avdi Grimm's "Naught" gem](https://github.com/avdi/naught), ["Null Objects and Falsiness"](http://devblog.avdi.org/2011/05/30/null-objects-and-falsiness/), and [two papers](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf) & [explaining the null object pattern](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf)
@@ -2780,6 +2813,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Mastering the Ruby Debugger - Jim Weirich (Ruby Midwest 2011)](http://confreaks.tv/videos/760-rubymidwest2011-mastering-the-ruby-debugger) (covers Pry, then Ruby Debugger)
 * [Debugging Ruby - Hemant Kumar](http://www.youtube.com/watch?v=F57J1vedlx0)
 * [Effective Debugging - Jonathan Wallace (RubyConf India 2013)](http://www.youtube.com/watch?v=T9JRsNJSpcs)
+
+#### RUBY - DEBUGGING - BYEBUG
+
+* [Byebug](https://github.com/deivid-rodriguez/byebug)
+* [Debugging with the byebug gem (RailsGuides)](http://edgeguides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-byebug-gem)
+* [Byebug Cheatsheet](http://fleeblewidget.co.uk/2014/05/byebug-cheatsheet/)
 
 #### RUBY - DEBUGGING - PRY
 
@@ -2916,6 +2955,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### RUBY - PERFORMANCE & LOAD TESTING
 
 * [The Recipe for the World's Largest Rails Monolith - Akira Matsuda (RubyOnAles 2015)](https://www.youtube.com/watch?v=naTRzjHaIhE)
+* [Ruby Objects: A Walkabout - Terence Lee (Ruby on Ales 2015)](http://confreaks.tv/videos/roa2015-ruby-objects-a-walkabout)
 * [Real World Ruby Performance at Scale - Aaron Quint (RubyConf 2014)](https://www.youtube.com/watch?v=qlS3yr1oncQ)
 * [The Future of Ruby Performance Tooling - Aaron Quint (GoRuCo 2014)](http://goruco.com/speakers/2014/aaron-quint/)
 * [Smoke & Mirrors: The Primitives of High Availability - Paul Hinze (MountainWest RubyConf 2015)](http://confreaks.tv/videos/mwrc2015-smoke-mirrors-the-primitives-of-high-availability)
@@ -3195,6 +3235,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## TMUX
 
 * [ArchLinux Tmux wiki](https://wiki.archlinux.org/index.php/Tmux)
+* [The Tao of Tmux](http://tmuxp.readthedocs.org/en/latest/about_tmux.html)
 * [10 Killer Tmux Tips - Benjamin Tan Wei Hao](http://www.sitepoint.com/10-killer-tmux-tips/)
 * [Impressive Ruby Productivity with Vim and Tmux - Chris Hunt](http://confreaks.tv/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux) & [Ancient City Ruby 2013](https://www.youtube.com/watch?v=9jzWDr24UHQ)
 * [man page](http://www.openbsd.org/cgi-bin/man.cgi?query=tmux&sektion=1)
