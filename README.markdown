@@ -39,6 +39,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [理论计算机科学基础 | Introduction to Theoretical Computer Science](https://www.edx.org/course/pekingx/pekingx-04830260x-li-lun-ji-suan-ji-ke-3011)
 * [Tsinghua University](https://www.edx.org/course/shu-ju-jie-gou-yu-suan-fa-di-er-bu-fen-pekingx-04830050-2x)
     * [Data Structures • 数据结构](https://www.edx.org/course/data-structures-shu-ju-jie-gou-tsinghuax-30240184x-0) & [2014 course](https://www.edx.org/course/data-structures-shu-ju-jie-gou-tsinghuax-30240184x-0)
+* [Elixir入门文档中文](https://github.com/elixir-lang-china/elixir_guide_cn)
 
 ## CLEAN CODE
 
@@ -632,6 +633,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## FUNCTIONAL PROGRAMMING
 
+* (Updated) Functional Principles for OO Devs (Ordina 2015): [Part 1](https://www.youtube.com/watch?v=cpyrTkzXeL8) & [Part 2: Property-Based Testing for Better Code](https://www.youtube.com/watch?v=z4WyLZIdi08)
 * [Functional Principles for OO Development - Jessica Kerr (GOTO Conference 2014)](https://www.youtube.com/watch?v=GpXsQ-NIKXY) & [(Ruby MidWest 2013)](http://confreaks.tv/videos/2382-rmw2013-functional-principles-for-oo-development)
 * [Functional Programming and Ruby - Pat Shaughnessy (GoRuCo 2013)](http://confreaks.tv/videos/2557-goruco2013-functional-programming-and-ruby)
 * [Immutable Ruby - Michael Fairley (MountainWest RubyConf 2013)](http://confreaks.tv/videos/2337-mwrc2013-immutable-ruby)
@@ -1025,6 +1027,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - FUNCTIONAL REACTIVE PROGRAMMING
 
+* [Functional Reactive Programming in JavaScript - Charanjit Singh (JSChannel 2015)](https://www.youtube.com/watch?v=SFPF56BB1Cs)
 * [Conquering Time with Functional Reactive Programming - Sergi Mansilla (Goto Amsterdam 2014)](https://www.youtube.com/watch?v=gT6il5fJyAs)
 * [End-to-End Reactive Programming at Netflix - Jafar Husain](http://www.infoq.com/presentations/reactive-programming-netflix)
 
@@ -2490,7 +2493,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [BetterErrors](https://github.com/charliesome/better_errors)
 * [Bullet](https://github.com/flyerhzm/bullet)
 * [CanCanCan](https://github.com/CanCanCommunity/cancancan) (successor to the original [CanCan](https://github.com/ryanb/cancan))
-* Carrierwave: [Github](https://github.com/carrierwaveuploader/carrierwave) | [docs](http://www.rubydoc.info/gems/carrierwave/frames) | [wiki](https://github.com/carrierwaveuploader/carrierwave/wiki)
+* Carrierwave: [Github](https://github.com/carrierwaveuploader/carrierwave) | [docs](http://www.rubydoc.info/gems/carrierwave/frames) | [wiki](https://github.com/carrierwaveuploader/carrierwave/wiki) | [How to use Carrierwave to upload - LearnCode](https://www.youtube.com/watch?v=LNyR8grIPuM)
 * [DelayedJob](https://github.com/collectiveidea/delayed_job)
 * [Devise](https://github.com/plataformatec/devise)
 * [DeviseInvitable](https://github.com/scambra/devise_invitable)
@@ -2591,6 +2594,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [RSpec Testing for a JSON API](http://blog.ianmiller.nyc/blog/2014/04/18/rspec-testing-for-a-json-api/)
 * [Test Driving a JSON API in Rails](http://commandercoriander.net/blog/2014/01/04/test-driving-a-json-api-in-rails/)
 
+#### RAILS - TESTING - SPEED
+
+* [Running three hours of Ruby tests in under three minutes - Nelson Elhage](https://stripe.com/blog/distributed-ruby-testing)
+
+### RAILS - TIME
+
+* [Strfti.me](https://gorails.com/episodes/pdf-receipt://gorails.com/episodes/pdf-receipts)
+* [Stamp gem](https://github.com/jeremyw/stamp)
+
 ### RAILS - UI
 
 * [Twitter-Bootstrap-Rails gem](http://confreaks.tv/videos/287-lsrc2010-how-to-build-a-sustainably-awesome-development-team) [How to](http://railsapps.github.com/twitter-bootstrap-rails.html)
@@ -2667,6 +2679,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - ACTIVE RECORD
 
+* [Twenty Thousand Leagues Under ActiveRecord - Pat Shaughnessy (BaRuCo 2014)](https://www.youtube.com/watch?v=rnLnRPZZ1Q4) & [Blog post 1](http://blog.codeship.com/20000-leagues-under-active-record/) | [2](http://patshaughnessy.net/2014/9/23/how-arel-converts-ruby-queries-into-sql-statements) | [3](http://patshaughnessy.net/2014/10/13/following-a-select-statement-through-postgres-internals) | [4](http://patshaughnessy.net/2014/11/11/discovering-the-computer-science-behind-postgres-indexes)
 * [Advanced ActiveRecord Lecture - Matthew Bunday](https://www.youtube.com/watch?v=l2d_ansazbc)
 * [ActiveRecord can't do it? Arel can! - Vipul A M, Prathamesh Sonpatki (Garden City Ruby 2015)](http://confreaks.tv/videos/gardencityrb2015-activerecord-can-t-do-it-arel-can)
 * [WAT!! ActiveRecord Callbacks - Monika M (Garden City Ruby 2015)](http://confreaks.tv/videos/gardencityrb2015-wat-activerecord-callbacks)
@@ -3234,6 +3247,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## TMUX
 
+* [Tmux Quickstart Guide - Sam Livingston-Gray](https://www.youtube.com/watch?v=wKEGA8oEWXw)
+* [Humans Present: tmux - Thoughtbot](https://www.youtube.com/watch?v=CKC8Ph-s2F4)
 * [ArchLinux Tmux wiki](https://wiki.archlinux.org/index.php/Tmux)
 * [The Tao of Tmux](http://tmuxp.readthedocs.org/en/latest/about_tmux.html)
 * [10 Killer Tmux Tips - Benjamin Tan Wei Hao](http://www.sitepoint.com/10-killer-tmux-tips/)
