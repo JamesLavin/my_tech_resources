@@ -538,7 +538,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [What's Ahead for Elixir? - José Valim (ElixirConf EU 2015)](https://www.youtube.com/watch?v=EaP0y4pdKD0)
 * [Elixir: Power of Erlang, Joy of Ruby - Dave Thomas (LoneStarRuby 2013)](https://www.youtube.com/watch?v=KQwEmdOH-GM)
 * [Introduction to Elixir: a New Language on the VM - José Valim](https://www.youtube.com/watch?v=41PvAPSX0wg)
-* [Foray into Functional Programming with Elixir - Stratus3D (Suncoast Java Users Group Dec 2014)](https://www.youtube.com/watch?v=NsBQdZwpz-4)
+* [Foray into Functional Programming with Elixir - Trevor Brown (Suncoast Java Users Group Dec 2014)](https://www.youtube.com/watch?v=NsBQdZwpz-4)
 * [Functional and concurrent programming with Elixir - Gabriele Lana](https://www.youtube.com/watch?v=7GGxJbBk-oU)
 * [Rubyists, have a sip of Elixir! - Benjamin Tan (RubyConf 2014)](http://confreaks.tv/videos/5078-RubyConf2014-rubyists-have-a-sip-of-elixir)
 * [Intro to Elixir for Rubyists - Josh Adams & Robby Clements (ExlirConf 2014)](http://confreaks.tv/videos/4121-elixirconf2014-introduction-to-elixir-for-rubyists)
@@ -548,6 +548,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir - A modern approach to programming for the Erlang VM - Jose Valim (RuPy 2012)](https://www.youtube.com/watch?v=q2Hxt0tOR0k)
 * ElixirConf: [ElixirConf 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H) | [ElixirConf 2014 videos](http://confreaks.tv/events/elixirconf2014)
 * [Keynote - José Valim (ElixirConf 2014)](http://confreaks.tv/videos/4134-elixirconf2014-keynote-elixir)
+* [Elixir Tooling - Eric Meadows-Jönsson (Berlin Erlang Factory Lite)](https://www.youtube.com/watch?v=7_0iOlJCL9E)
+* [Idioms for building distributed fault-tolerant applications with Elixir - José Valim (GOTO Conferences 2015)](https://www.youtube.com/watch?v=B4rOG9Bc65Q)
 * [Keynote: "Think Different" - Dave Thomas (ElixirConf 2014)](http://confreaks.tv/videos/4119-elixirconf2014-opening-keynote-think-different)
 * [Ruby and Elixir - Casey Rosenthal (Portland Ruby Brigade Jan 2015)](http://confreaks.tv/videos/pdxrbjan2015-ruby-and-elixir)
 * [Hex: How it was built - Eric Meadows–Jönsson (ElixirConf 2014](https://www.youtube.com/watch?v=VAa7YnZo0hU)
@@ -567,6 +569,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Elixir Documentation (PDF)](https://media.readthedocs.org/pdf/elixir-lang/latest/elixir-lang.pdf)
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) & [Github](https://github.com/oreillymedia/etudes-for-elixir)
+
+### ELIXIR - DEPLOYMENT
+
+* [Fast Continuous Deployment of an Elixir Gameserver - Martin Kavalar & Martin Schurrer](https://www.youtube.com/watch?v=RoT8RnQHvgo)
 
 ### ELIXIR - EARMARK
 
@@ -594,6 +600,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PHOENIX FRAMEWORK
 
 * [Phoenix Takes Flight - Chris McCord (ElixirConf EU 2015)](https://www.youtube.com/watch?v=fLlItGWiVFc)
+* [Phoenix: A web framework for the new web - José Valim (PolyConf 2015)](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
 * [Phoenix - A Framework for the Modern Web - Chris McCord](https://vimeo.com/131633172)
 * [Rise of The Phoenix: Building an Elixir Web Framework - Chris McCord (ElixirConf 2014)](https://www.youtube.com/watch?v=3jMbzGv_6tA)
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
