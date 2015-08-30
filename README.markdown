@@ -268,6 +268,13 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Ansible - Your First Step Into Server Provisioning - Ben Turner (Ruby Australia 2014)](http://vimeo.com/90171333)
 
+### DEVOPS - CHAOS MONKEY, ETC
+
+* [Simian Army](https://github.com/Netflix/SimianArmy/wiki) & [Quick start guide](https://github.com/Netflix/SimianArmy/wiki/Quick-Start-Guide):
+* [Chaos Monkey](https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey)
+* [Conformity Monkey](https://github.com/Netflix/SimianArmy/wiki/Conformity-Home)
+* [Janitor Monkey](https://github.com/Netflix/SimianArmy/wiki/Janitor-Home)
+
 ### DEVOPS - CHEF
 
 * [Chef](http://www.opscode.com/chef/)
@@ -528,12 +535,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Introducing reducees - José Valim](http://blog.plataformatec.com.br/2015/05/introducing-reducees/)
 * Elixir Express: [Workshop - Chris McCord (RailsConf 2014)](http://www.youtube.com/watch?v=5kYmOyJjGDM) & [Basic documentation](https://github.com/chrismccord/elixir_express/tree/master/basics) & [Advanced documentation](https://github.com/chrismccord/elixir_express/tree/master/advanced)
 * [Elixir With José Valim - HowIStart.org](https://howistart.org/posts/elixir/1)
+* [What's Ahead for Elixir? - José Valim (ElixirConf EU 2015)](https://www.youtube.com/watch?v=EaP0y4pdKD0)
 * [Elixir: Power of Erlang, Joy of Ruby - Dave Thomas (LoneStarRuby 2013)](https://www.youtube.com/watch?v=KQwEmdOH-GM)
 * [Introduction to Elixir: a New Language on the VM - José Valim](https://www.youtube.com/watch?v=41PvAPSX0wg)
+* [Foray into Functional Programming with Elixir - Stratus3D (Suncoast Java Users Group Dec 2014)](https://www.youtube.com/watch?v=NsBQdZwpz-4)
+* [Functional and concurrent programming with Elixir - Gabriele Lana](https://www.youtube.com/watch?v=7GGxJbBk-oU)
 * [Rubyists, have a sip of Elixir! - Benjamin Tan (RubyConf 2014)](http://confreaks.tv/videos/5078-RubyConf2014-rubyists-have-a-sip-of-elixir)
 * [Intro to Elixir for Rubyists - Josh Adams & Robby Clements (ExlirConf 2014)](http://confreaks.tv/videos/4121-elixirconf2014-introduction-to-elixir-for-rubyists)
 * [Where I Got Stuck Using IEx.pry in Elixir - Jesse Trimble](http://www.jessetrimble.net/iex-pry-elixir/)
 * [Programming Elixir: The magic of today's tonic - Katie Miller (Linux.conf.au Jan 2014)](https://www.youtube.com/watch?v=uWSGBpW3xEQ)
+* [Ohai, Elixir! - Benjamin Tan (GeekCampsG 2014)](https://www.youtube.com/watch?v=vS47DS3tn0k)
 * [Elixir - A modern approach to programming for the Erlang VM - Jose Valim (RuPy 2012)](https://www.youtube.com/watch?v=q2Hxt0tOR0k)
 * ElixirConf: [ElixirConf 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H) | [ElixirConf 2014 videos](http://confreaks.tv/events/elixirconf2014)
 * [Keynote - José Valim (ElixirConf 2014)](http://confreaks.tv/videos/4134-elixirconf2014-keynote-elixir)
@@ -561,6 +572,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Earmark—A Pure Elixir Markdown Processor](https://github.com/pragdave/earmark)
 
+### ELIXIR - ECTO
+
+* [Ecto: A language integrated query for Elixir - José Valim](https://www.youtube.com/watch?v=SJRfujy9vLA)
+* [Ecto - Eric Meadows-Jönsson (ElixirConf EU 2015)](https://www.youtube.com/watch?v=snka1bAtZS0)
+
 ### ELIXIR - ELASTICSEARCH
 
 * [Tirexs - Elixir DSL for Elasticsearch](https://github.com/roundscope/tirexs)
@@ -577,6 +593,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - PHOENIX FRAMEWORK
 
+* [Phoenix Takes Flight - Chris McCord (ElixirConf EU 2015)](https://www.youtube.com/watch?v=fLlItGWiVFc)
 * [Phoenix - A Framework for the Modern Web - Chris McCord](https://vimeo.com/131633172)
 * [Rise of The Phoenix: Building an Elixir Web Framework - Chris McCord (ElixirConf 2014)](https://www.youtube.com/watch?v=3jMbzGv_6tA)
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
@@ -603,6 +620,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - VIDEOS
 
+* [ElixirConf EU 2015 videos](https://www.youtube.com/watch?v=fLlItGWiVFc&list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
+* [What Elixir Is About - José Valim (Erlang User Conference 2015)](https://www.youtube.com/watch?v=QXcedVc2LQM)
 * [Rewriting a Ruby application in Elixir - Claudio Ortolina (ElixirConf 2015)](https://www.youtube.com/watch?v=lho1e04Gzzs)
 * [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
 * ["Elixir and the Internet of Things" - Doug Rohrer (Strangeloop 2014)](https://www.youtube.com/watch?v=a-OCorBXX7M)
@@ -674,6 +693,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Deliberate Git - Stephen Ball (SteelCityRuby 2013)](http://steelcityruby.confbots.com/video/72762735)
 * [Git Interactive Rebase, Squash, Amend and Other Ways of Rewriting History - Tute Costa](http://robots.thoughtbot.com/git-interactive-rebase-squash-amend-rewriting-history)
 * [Git: Checkout multiple branches at the same time](http://blog.jessitron.com/2013/10/git-checkout-multiple-branches-at-same.html)
+* [Tracking method history in git](http://urbanautomaton.com/blog/2014/09/22/tracking-method-history-in-git/) & [method_log Ruby gem](https://github.com/freerange/method_log)
 
 ### GIT - GITHUB
 
@@ -688,6 +708,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Token-based security in a REST API - Andy Balaam](https://www.youtube.com/watch?v=3c9KDf5p_Vc)
 
 ## HTML
+
+### HTML - BASICS
+
+* [Constructing the Object Model - Ilya Grigorik](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/constructing-the-object-model?hl=en)
 
 ### HTML - HAML
 
@@ -944,11 +968,13 @@ Links to resources I have found useful or think might be helpful to future me or
 #### JAVASCRIPT - ES6 / ECMASCRIPT 6 - GENERATORS
 
 * [Hanging Up On Callbacks: Using ECMAScript 6 Generators - Erin Swenson-Healey](https://www.youtube.com/watch?v=OYdP1tQ9Rnw)
+* [A Study on Solving Callbacks with JavaScript Generators - James Long](http://jlongster.com/A-Study-on-Solving-Callbacks-with-JavaScript-Generators)
 
 ### JAVASCRIPT - EMBER.JS
 
 * EmberJS: [Website](http://emberjs.com/) | [Guides](http://emberjs.com/guides/) | [API](http://emberjs.com/api/)
 * [WickedGoodEmber 2015 videos](http://confreaks.tv/events/wickedgoodember2015)
+* [Using Ember CLI as a Single Page Static Site Generator - Jessica Suttles](http://blog.current.sh/using-ember-cli-as-a-single-page-static-site-generator/)
 * [How to Build a Rails 5 API Only and Ember Application - Santiago Pastorino](http://wyeworks.com/blog/2015/6/30/how-to-build-a-rails-5-api-only-and-ember-application/)
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com/chapters)
 * [EmberConf 2015 keynote - Tom Dale & Yehuda Katz](https://www.youtube.com/watch?&v=o12-90Dm-Qs)
@@ -1105,6 +1131,11 @@ Links to resources I have found useful or think might be helpful to future me or
 ### JAVASCRIPT - PRODUCTIVITY TOOLS
 
 * [Yeoman](http://yeoman.io/packagemanager.html)
+
+### JAVASCRIPT - PROMISES
+
+* [JavaScript Promises: There and Back Again - Jake Archibald](http://www.html5rocks.com/en/tutorials/es6/promises/)
+* [You're Missing the Point of Promises - Domenic Denicola](https://blog.domenic.me/youre-missing-the-point-of-promises/)
 
 ### JAVASCRIPT - TESTING
 
@@ -1333,6 +1364,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### NEWS - PROGRAMMING
 
 * [Application Development Trends](https://adtmag.com)
+* [Computerworld](http://www.computerworld.com/)
 * [Dr. Dobb's](http://www.drdobbs.com/)
 * [Enterprise Apps Today](http://www.enterpriseappstoday.com/)
 * [Huffington Post](http://www.huffingtonpost.com/news/computer-programming/)
@@ -1342,6 +1374,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [InfoWorld](http://www.infoworld.com/)
 * [IT World](http://www.itworld.com/)
 * [Programmable Web](http://www.programmableweb.com/)
+* [ReadWrite](http://readwrite.com/code)
 * [The Register](http://www.theregister.co.uk/software/)
 * ScienceDaily: [Computer programming](http://www.sciencedaily.com/news/computers_math/computer_programming/) | [Hacking](http://www.sciencedaily.com/news/computers_math/hacking/) | [Software](http://www.sciencedaily.com/news/computers_math/software/)
 * [Sitepoint](http://www.sitepoint.com/)
@@ -1424,6 +1457,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Full-Text Search: Seek and Ye Shall Find - Dan Scott (Postgres Open)](https://www.youtube.com/watch?v=R6nT6UgY7k4)
 * [Using PostgreSQL and jsonb with Ruby on Rails - Nando Vieira](http://nandovieira.com/using-postgresql-and-jsonb-with-ruby-on-rails)
 
+### POSTGRESQL - VIDEOS
+
+* [PGCon 2015 videos](https://www.citusdata.com/resources/citus-data-videos)
+* [PGConf US](https://www.youtube.com/channel/UCsJkVvxwoM7R9oRbzvUhbPQ)
+* [Youtube](https://www.youtube.com/results?search_query=postgresql)
+
 ## PRODUCT DEVELOPMENT
 
 * [Essentials of Product Development - Ryan Singer (WindyCityRails2012)](http://vimeo.com/49523952)
@@ -1486,6 +1525,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PROGRAMMING - ACTOR MODEL
 
+* [Thinking in actors - Saša Jurić (WebCamp Zagreb 2014)](https://www.youtube.com/watch?v=g5JJZuxrW_k)
 * [Hewitt, Meijer and Szyperski: The Actor Model (everything you wanted to know...)](https://www.youtube.com/watch?v=7erJ1DV_Tlo)
 
 ### PROGRAMMING - BLOGS
@@ -3391,6 +3431,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [National Weather Service - New York metro radar loop](http://radar.weather.gov/ridge/radar.php?rid=okx&product=N0R&overlay=11101111&loop=yes)
 
 ## WEB DESIGN
+
+* [Web Fundamentals: Best practices for great multi-device web experiences (Google)](https://developers.google.com/web/fundamentals/?hl=en)
+* [Web Fundamentals: Optimizing Performance (Google)](https://developers.google.com/web/fundamentals/performance/?hl=en)
 
 ### WEB DESIGN - BRACKETS CODE EDITOR
 
