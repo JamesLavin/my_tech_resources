@@ -244,6 +244,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [SQL Developer](http://sqldeveloper.solyp.com/)
 * [SQL Power Architect](http://www.sqlpower.ca/page/architect)
 
+### DATABASES - HOW THEY WORK
+
+* [How does a relational database work - Christophe Kalenzaga](http://coding-geek.com/how-databases-work/)
+
 ### DATABASES - SQL
 
 * [SQLTeaching.com](https://www.sqlteaching.com/)
@@ -532,6 +536,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Sweet Elixir! - Ryan Cromwell](http://www.infoq.com/presentations/elixir) & [full notes](https://github.com/cromwellryan/sweetelixir)
 * [Elixir talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=elixir&commit=go)
 * [ElixirConf 2014 videos](http://www.confreaks.tv/events/elixirconf2014)
+* [ElixirStatus.com](http://elixirstatus.com/)
 * [Introducing reducees - José Valim](http://blog.plataformatec.com.br/2015/05/introducing-reducees/)
 * Elixir Express: [Workshop - Chris McCord (RailsConf 2014)](http://www.youtube.com/watch?v=5kYmOyJjGDM) & [Basic documentation](https://github.com/chrismccord/elixir_express/tree/master/basics) & [Advanced documentation](https://github.com/chrismccord/elixir_express/tree/master/advanced)
 * [Elixir With José Valim - HowIStart.org](https://howistart.org/posts/elixir/1)
@@ -582,6 +587,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Ecto: A language integrated query for Elixir - José Valim](https://www.youtube.com/watch?v=SJRfujy9vLA)
 * [Ecto - Eric Meadows-Jönsson (ElixirConf EU 2015)](https://www.youtube.com/watch?v=snka1bAtZS0)
+* [PostgreSQL indexing with Ecto - Richard Nyström](http://rny.io/elixir/ecto/postgresql/2015/08/31/postgresql-indexing-with-ecto.html)
 
 ### ELIXIR - ELASTICSEARCH
 
@@ -600,6 +606,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PHOENIX FRAMEWORK
 
 * [Phoenix Takes Flight - Chris McCord (ElixirConf EU 2015)](https://www.youtube.com/watch?v=fLlItGWiVFc)
+* [Phoenix: Productive. Reliable. Fast. - Chris McCord (LoneStarRuby 2015)](https://www.youtube.com/watch?v=STO-uN0xHDQ)
 * [Phoenix: A web framework for the new web - José Valim (PolyConf 2015)](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
 * [Phoenix - A Framework for the Modern Web - Chris McCord](https://vimeo.com/131633172)
 * [Rise of The Phoenix: Building an Elixir Web Framework - Chris McCord (ElixirConf 2014)](https://www.youtube.com/watch?v=3jMbzGv_6tA)
@@ -794,6 +801,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Khan Academy](http://www.khanacademy.org/cs/tutorials/all-tutorials)
 * Crockford videos: [1](http://www.youtube.com/watch?v=JxAXlJEmNMg) [2](http://www.youtube.com/watch?v=RO1Wnu-xKoY) [3](http://www.youtube.com/watch?v=ya4UHuXNygM) [4](http://www.youtube.com/watch?v=Fv9qT9joc0M) [5](http://www.youtube.com/watch?v=47Ceot8yqeI) [6](http://www.youtube.com/watch?v=QgwSUtYSUqA) [7](http://www.youtube.com/watch?v=UTEqr0IlFKY) [8](http://www.youtube.com/watch?v=taaEzHI9xyY) [Advanced Javascript](http://www.youtube.com/watch?v=DwYPG6vreJg) [Good Parts](http://www.youtube.com/watch?v=_DKkVvOt6dk) [JS: Your New Overlord](http://www.youtube.com/watch?v=Trurfqh_6fQ)
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/JavaScript)
+* [Programming JavaScript Applications - Eric Elliott](https://ericelliottjs.com/product/programming-javascript-applications-paper-ebook-bundle/)
+* The Two Pillars of JavaScript - Eric Elliott: [Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3) & [Pt 2: Functional Programming - How to Stop Micromanaging Everything](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
+* JS Objects - Kyle Simpson: [Pt 1: Inherited a Mess](http://davidwalsh.name/javascript-objects), [Pt 2: Distractions](http://davidwalsh.name/javascript-objects-distractions) & [Pt 3: De"construct"ion](http://davidwalsh.name/javascript-objects-deconstruction)
 * [Javascript: Up to Speed (Tekpub)](http://vimeo.com/47483575)
 * [js-assessment](https://github.com/rmurphey/js-assessment)
 * [Javascript Weekly (email list)](http://javascriptweekly.com/)
