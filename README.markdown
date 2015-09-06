@@ -43,6 +43,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## CLEAN CODE
 
+* ["The Mess We're In" - Joe Armstrong (StrangeLoop 2014)](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [The Failures of "Intro to TDD" - Justin Searls](http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html)
 * [Treat Your Code as a Crime Scene - Adam Tornhill](http://www.infoq.com/presentations/code-bugs-legacy-pitfalls)
 * [Code review advice from Thoughtbot](https://github.com/thoughtbot/guides/tree/master/code-review)
@@ -266,6 +267,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Acquiring DevOps Skills - Pavel Suchman (DevCon TLV 2014)](http://confreaks.tv/videos/3293-devcontlvjan2014-acquiring-devops-skills)
 * [Configuration Management ROI - Evgeny Zislis (DevCon TLV 2014)](http://confreaks.tv/videos/3294-devcontlvjan2014-configuration-management-roi)
 * [Continuous Deployment - Matt White (MountainWest RubyConf 2012)](http://confreaks.tv/videos/967-mwrc2012-continuous-deployment)
+* [Enabling Microservices @ Orbitz by Steve Hoffman (DevOpsDays Chicago 2015)](https://www.youtube.com/watch?t=342&v=-hrleJ2TVAI)
 * FutureStack conference videos: [14](https://www.youtube.com/playlist?list=PLmhYj7Jl81JGhEQnFGbWVLkGWEzFXzdzr) | [13](https://www.youtube.com/playlist?list=PLmhYj7Jl81JEMKm0LFHjn25GV6gUUU9IR)
 
 ### DEVOPS - ANSIBLE
@@ -547,6 +549,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional and concurrent programming with Elixir - Gabriele Lana](https://www.youtube.com/watch?v=7GGxJbBk-oU)
 * [Rubyists, have a sip of Elixir! - Benjamin Tan (RubyConf 2014)](http://confreaks.tv/videos/5078-RubyConf2014-rubyists-have-a-sip-of-elixir)
 * [Intro to Elixir for Rubyists - Josh Adams & Robby Clements (ExlirConf 2014)](http://confreaks.tv/videos/4121-elixirconf2014-introduction-to-elixir-for-rubyists)
+* [Intro to Elixir - SolutionStreet.com](https://www.youtube.com/watch?v=lly-1UYmnFI)
 * [Where I Got Stuck Using IEx.pry in Elixir - Jesse Trimble](http://www.jessetrimble.net/iex-pry-elixir/)
 * [Programming Elixir: The magic of today's tonic - Katie Miller (Linux.conf.au Jan 2014)](https://www.youtube.com/watch?v=uWSGBpW3xEQ)
 * [Ohai, Elixir! - Benjamin Tan (GeekCampsG 2014)](https://www.youtube.com/watch?v=vS47DS3tn0k)
@@ -607,6 +610,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Phoenix Takes Flight - Chris McCord (ElixirConf EU 2015)](https://www.youtube.com/watch?v=fLlItGWiVFc)
 * [Phoenix: Productive. Reliable. Fast. - Chris McCord (LoneStarRuby 2015)](https://www.youtube.com/watch?v=STO-uN0xHDQ)
+* [Real time web applications with Elixir and Phoenix - Eoin Shanaghy (CorkDev 2015)](https://www.youtube.com/watch?v=DKGqJpT5pvU)
 * [Phoenix: A web framework for the new web - José Valim (PolyConf 2015)](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
 * [Phoenix - A Framework for the Modern Web - Chris McCord](https://vimeo.com/131633172)
 * [Rise of The Phoenix: Building an Elixir Web Framework - Chris McCord (ElixirConf 2014)](https://www.youtube.com/watch?v=3jMbzGv_6tA)
@@ -642,6 +646,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ERLANG
 
+* [That's "Billion" With a "B": Scaling to the Next Level at WhatsApp - Rick Reed (Erlang Factory SF 2014)](https://www.youtube.com/watch?v=c12cYAUTXXs)
 * [Erlang Master Classes](https://www.youtube.com/watch?v=gKRyAb7d8lo&list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5&index=1)
 * [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
 * [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/content)
@@ -666,6 +671,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## FUNCTIONAL PROGRAMMING
 
+* [Improving your Web App with Functional Object-Oriented Design - Brad Urani](https://medium.com/@bradurani/improving-your-web-app-with-functional-object-oriented-design-5218f9732b74)
 * (Updated) Functional Principles for OO Devs (Ordina 2015): [Part 1](https://www.youtube.com/watch?v=cpyrTkzXeL8) & [Part 2: Property-Based Testing for Better Code](https://www.youtube.com/watch?v=z4WyLZIdi08)
 * [Functional Principles for OO Development - Jessica Kerr (GOTO Conference 2014)](https://www.youtube.com/watch?v=GpXsQ-NIKXY) & [(Ruby MidWest 2013)](http://confreaks.tv/videos/2382-rmw2013-functional-principles-for-oo-development)
 * [Functional Programming and Ruby - Pat Shaughnessy (GoRuCo 2013)](http://confreaks.tv/videos/2557-goruco2013-functional-programming-and-ruby)
@@ -1085,6 +1091,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Secrets of the Virtual DOM - Pete Hunt (Barcelona Future Javascript)](https://www.youtube.com/watch?v=-DX3vJiqxm4)
 * [React and Rails](http://rny.io/rails/react/2014/07/31/reactjs-and-rails.html)
+* [React & Flux - Christian Lilley (JSChannel 2015)](http://confreaks.tv/videos/jschannelconf2015-react-flux)
 
 ### JAVASCRIPT - FUNDAMENTAL CONCEPTS
 
@@ -1487,6 +1494,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PRODUCT DEVELOPMENT - PROFESSIONALISM / EXCELLENCE / EFFICIENCY
 
 * [Building a Culture of Learning - Joe Mastey (MountainWest RubyConf 2015)](http://confreaks.tv/videos/mwrc2015-building-a-culture-of-learning)
+* [Code Club - Saron Yitbarek (LoneStarRuby 2015)](http://confreaks.tv/videos/lonestarruby2015-code-club)
 * [Real Developers Ship (a.k.a Tenets for Software Delivery) - Sebastian von Conrad (Ruby Australia 2014)](http://vimeo.com/90173903)
 * [Great Developers Steal - Ben Scofield (Scotland Ruby Conf 2011)](http://confreaks.tv/videos/545-scotlandruby2011-great-developers-steal)
 * [Being an Excellent Software Developer - Michael Norton (WindyCityRails2012)](http://vimeo.com/49882901)
@@ -2495,12 +2503,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RAILS - CLEAN CODE
 
+* [My Dog Taught Me to Code - Dave Thomas (Dave Thomas)](http://confreaks.tv/videos/lonestarruby2015-my-dog-taught-me-to-code)
 * [Eastward Ho! A Clear Path Through Ruby With OO - Jim Gay (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-eastward-ho-a-clear-path-through-ruby-with-oo)
 * [Build Complex Domains in Rails - Mike AbiEzzi (Rocky Mountain Ruby 2014)](http://confreaks.tv/videos/4177-rmr2014-build-complex-domains-in-rails)
 * [Hexagonal Rails - Matt Wynne (GoRuCo 2012)](https://www.youtube.com/watch?v=CGN4RFkhH2M)
 * [Domain Driven Design and Hexagonal Architecture with Rails - Declan Whelan, Eric Roberts (RailsConf 2014)](http://confreaks.tv/videos/3316-railsconf-domain-driven-design-and-hexagonal-architecture-with-rails)
 * [Building Extractable Libraries in Rails - Patrick S. Robertson (RailsConf 2013)](http://confreaks.tv/videos/2444-railsconf2013-building-extractable-libraries-in-rails)
 * [7 Ways to Decompose Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
+* [The Right Way to Code DCI in Ruby - Mike Pack](http://mikepackdev.com/blog_posts/24-the-right-way-to-code-dci-in-ruby)
 * [Mega Rails - Jack Danger Canty (GoGaRuCo 2012)](http://confreaks.tv/videos/1125-gogaruco2012-mega-rails)
 * [Powerful Interfaces (Rails) - Caike Souza](http://confreaks.tv/videos/902-railsconf2012-powerful-interfaces)
 * [Code to Joy - Avdi Grimm (GoGaRuCo 2012)](http://confreaks.tv/videos/1117-gogaruco2012-code-to-joy)
@@ -2624,12 +2634,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RAILS - TESTING
 
+* [Locally Sourced Issue 1: Adding A Feature To Rails - Noel Rappin](https://s3-us-west-1.amazonaws.com/patreon.posts/tY26bgjQF6VWOuPnsNj6mn8y6zBow0brqFVCjVOQhQ5QKOk4LvPob3K6b7IjcePG/locally_sourced.pdf)
 * [Best Practices for Testing in Rails - Andrei Gridnev (Ruby Melbourne March 2014)](http://vimeo.com/90286264)
 * [TDD Workshop: Outward-in Development, Unit Tests, and Fixture Data - Harlow Ward and Adarsh Pandit (RailsConf 2013)](http://confreaks.tv/videos/2450-railsconf2013-tdd-workshop-outward-in-development-unit-tests-and-fixture-data)
 * [Behavior Driven Development Using Ruby, Cucumber, and rSpec - Steve Ross](http://www.sdruby.org/podcast/82)
 
 #### RAILS - TESTING - FACTORY GIRL
 
+* [FactoryGirl build_stubbed strategy with a has_many association - Aaron Kromer](http://stackoverflow.com/questions/17754770/factorygirl-build-stubbed-strategy-with-a-has-many-association)
 * [FactoryGirl documentation](https://github.com/thoughtbot/factory_girl/blob/master/GETTING_STARTED.md)
 * [Using FactoryGirl to easily create complex data sets in Rails - Jordan Maguire](http://blog.thefrontiergroup.com.au/2014/12/using-factorygirl-easily-create-complex-data-sets-rails/)
 
@@ -2693,9 +2705,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * Redis.io: [Documentation](http://redis.io/documentation) | [Intro](http://redis.io/topics/introduction) | [Clients](http://redis.io/clients)
 * [Andrew Glover: Asynchronous Processing, Messaging, and Redis/Resque](http://blip.tv/rubynation/andrew-glover-asynchronous-processing-messaging-and-redis-with-resque-6558320)
 * [The Little Redis Book - Karl Seguin](http://openmymind.net/redis.pdf)
-* [Redis Tutorials: Zero to Hero with NoSQL Redis - Microsoft Virtual Academy (Jumpstart)](https://www.youtube.com/watch?v=A4gRg-9jNF4)
+* [Redis Tutorials: Zero to Hero with NoSQL Redis: "You've Got Key Values! A Redis Jump Start"](https://www.youtube.com/watch?v=A4gRg-9jNF4)
 * [Redis Labs' Youtube videos](https://www.youtube.com/channel/UCD78lHSwYqMlyetR0_P4Vig)
 * Getting Started With Redis: [Part 1](https://www.youtube.com/watch?v=7W1n_SwTw14) | [Part 2](https://www.youtube.com/watch?v=nSW4xaQ4eEI) | [Part 3](https://www.youtube.com/watch?v=h-jB2jpywnE) | [Part 4](https://www.youtube.com/watch?v=rXQRqek3kLw) | [Part 5](https://www.youtube.com/watch?v=YB62-F31l1c)
+* [Fun with Ruby and Redis - Javier Ramirez (ArrrCamp 2013)](https://www.youtube.com/watch?v=eVnvQULI1Cc)
 
 ## REGULAR EXPRESSIONS
 
@@ -2955,7 +2968,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - FUTURE (AND CURRENT PROBLEMS)
 
-* [Keynote: The Soul of Software - Avdi Grimm (Tropical Ruby 2015)](http://tropicalrb.com/en/videos/)
+* [Keynote: The Soul of Software - Avdi Grimm (Tropical Ruby 2015)](http://tropicalrb.com/en/videos/) & [LoneStarRuby 2015](https://www.youtube.com/watch?v=zs0E4E83_X8)
 * [3 Reasons Not to Use Ruby - Sarah Allen (GoGaRuCo 2014)](http://confreaks.tv/videos/gogaruco2014-3-reasons-not-to-use-ruby)
 * [Panel: The Future of Ruby - Mark Bates, Sandi Metz, Ernie Miller, and Johnny Bourisquot (Burlington Ruby Conf 2014)](http://vimeo.com/album/2996485/video/103590400)
 * [Keynote - Ernie Miller (Burlington Ruby Conference 2014)](http://vimeo.com/album/2996485/video/103529608)
@@ -3136,6 +3149,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Programming in the Small - Teaching my 5 Year Old Ruby - Jason Clark (Cascadia Ruby 2014)](https://www.youtube.com/watch?v=jAnSsNga5Nk)
 * [Kids Ruby](http://kidsruby.com)
 * [Shoes](http://shoesrb.com/), [Github](https://github.com/shoes/shoes) & [Github for Shoes 4](https://github.com/shoes/shoes4)
+* [Get Your Shoes Back On - Jason Clark (JRubyConf.eu 2015)](http://confreaks.tv/videos/jrubyconf2015-get-your-shoes-back-on)
 * [Hackety Hack](http://hackety.com/) & [Github](https://github.com/hacketyhack/hacketyhack)
 
 ### RUBY - TESTING
