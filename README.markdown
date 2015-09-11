@@ -559,6 +559,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Tooling - Eric Meadows-Jönsson (Berlin Erlang Factory Lite)](https://www.youtube.com/watch?v=7_0iOlJCL9E)
 * [Idioms for building distributed fault-tolerant applications with Elixir - José Valim (GOTO Conferences 2015)](https://www.youtube.com/watch?v=B4rOG9Bc65Q)
 * [Keynote: "Think Different" - Dave Thomas (ElixirConf 2014)](http://confreaks.tv/videos/4119-elixirconf2014-opening-keynote-think-different)
+* [High Availability - Saša Jurić](https://www.youtube.com/watch?v=wYttHG3S76Y)
 * [Ruby and Elixir - Casey Rosenthal (Portland Ruby Brigade Jan 2015)](http://confreaks.tv/videos/pdxrbjan2015-ruby-and-elixir)
 * [Hex: How it was built - Eric Meadows–Jönsson (ElixirConf 2014](https://www.youtube.com/watch?v=VAa7YnZo0hU)
 * [Elixir Sips (non-free)](http://elixirsips.com)
@@ -568,6 +569,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Code Reading: Blacksmith](https://www.zweitag.de/en/blog/technology/elixir-code-reading-blacksmith)
 * [Elixir Fountain - bi-weekly podcast](https://soundcloud.com/elixirfountain)
 * [Elixir in times of microservices - José Valim](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/)
+* [Closures: Elixir vs. Ruby vs. JavaScript - Hubert Łępicki](https://www.amberbit.com/blog/2015/6/14/closures-elixir-vs-ruby-vs-javascript/)
 
 ### ELIXIR - ATLAS
 
@@ -608,13 +610,16 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - PHOENIX FRAMEWORK
 
+* [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
 * [Phoenix Takes Flight - Chris McCord (ElixirConf EU 2015)](https://www.youtube.com/watch?v=fLlItGWiVFc)
 * [Phoenix: Productive. Reliable. Fast. - Chris McCord (LoneStarRuby 2015)](https://www.youtube.com/watch?v=STO-uN0xHDQ)
 * [Real time web applications with Elixir and Phoenix - Eoin Shanaghy (CorkDev 2015)](https://www.youtube.com/watch?v=DKGqJpT5pvU)
 * [Phoenix: A web framework for the new web - José Valim (PolyConf 2015)](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
 * [Phoenix - A Framework for the Modern Web - Chris McCord](https://vimeo.com/131633172)
+* [Individualized Content at Web-Scale - Michael Schaefermeyer (ElixirConf EU 2015)](https://www.youtube.com/watch?v=xT8vDHIvurs)
+* [Creating a chat application in 15 minutes with Phoenix - Darko Fabijan (PolyConf 14)](https://www.youtube.com/watch?v=tdLJvuQkTNE)
 * [Rise of The Phoenix: Building an Elixir Web Framework - Chris McCord (ElixirConf 2014)](https://www.youtube.com/watch?v=3jMbzGv_6tA)
-* [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
+* [Elixir Cocktails (blog)](https://www.amberbit.com/elixir-cocktails)
 * [PhoenixFramework.org](http://www.phoenixframework.org)
 * [Build and test a blazing fast JSON API with Phoenix, an Elixir framework - Paul Smith](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
 * [Phoenix asset handling with brunch - Chris McCord](https://www.youtube.com/watch?v=CgSjuCRHKvg)
@@ -671,6 +676,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## FUNCTIONAL PROGRAMMING
 
+* Professor Frisby's Mostly Adequate Guide to Functional Programming: [Webpage](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [Online](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html) | [PDF](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [ePUB](https://www.gitbook.com/download/epub/book/drboolean/mostly-adequate-guide) | [MOBI](https://www.gitbook.com/download/mobi/book/drboolean/mostly-adequate-guide)
 * [Improving your Web App with Functional Object-Oriented Design - Brad Urani](https://medium.com/@bradurani/improving-your-web-app-with-functional-object-oriented-design-5218f9732b74)
 * (Updated) Functional Principles for OO Devs (Ordina 2015): [Part 1](https://www.youtube.com/watch?v=cpyrTkzXeL8) & [Part 2: Property-Based Testing for Better Code](https://www.youtube.com/watch?v=z4WyLZIdi08)
 * [Functional Principles for OO Development - Jessica Kerr (GOTO Conference 2014)](https://www.youtube.com/watch?v=GpXsQ-NIKXY) & [(Ruby MidWest 2013)](http://confreaks.tv/videos/2382-rmw2013-functional-principles-for-oo-development)
@@ -1074,6 +1080,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [TodoMVC](http://todomvc.com/) & [Github](https://github.com/addyosmani/todomvc)
 
+### JAVASCRIPT - FUNCTIONAL PROGRAMMING
+
+* Professor Frisby's Mostly Adequate Guide to Functional Programming: [Webpage](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [Online](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html) | [PDF](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [ePUB](https://www.gitbook.com/download/epub/book/drboolean/mostly-adequate-guide) | [MOBI](https://www.gitbook.com/download/mobi/book/drboolean/mostly-adequate-guide)
+
 ### JAVASCRIPT - FUNCTIONAL REACTIVE PROGRAMMING
 
 * [Functional Reactive Programming in JavaScript - Charanjit Singh (JSChannel 2015)](https://www.youtube.com/watch?v=SFPF56BB1Cs)
@@ -1423,6 +1433,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [NPR](http://www.npr.org/sections/technology/ )
 * [Reuters](http://www.reuters.com/news/technology)
 * [ScienceDaily](http://www.sciencedaily.com/news/matter_energy/technology/)
+* [Singularity Hub](http://singularityhub.com/)
 * [Slashdot](http://slashdot.org/)
 * [TechCrunch](http://techcrunch.com/)
 * [TechHive](http://www.techhive.com/news)
@@ -2504,6 +2515,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### RAILS - CLEAN CODE
 
 * [My Dog Taught Me to Code - Dave Thomas (Dave Thomas)](http://confreaks.tv/videos/lonestarruby2015-my-dog-taught-me-to-code)
+* [Finder Objects - Janko Marohnić](http://twin.github.io/finder-objects/)
 * [Eastward Ho! A Clear Path Through Ruby With OO - Jim Gay (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-eastward-ho-a-clear-path-through-ruby-with-oo)
 * [Build Complex Domains in Rails - Mike AbiEzzi (Rocky Mountain Ruby 2014)](http://confreaks.tv/videos/4177-rmr2014-build-complex-domains-in-rails)
 * [Hexagonal Rails - Matt Wynne (GoRuCo 2012)](https://www.youtube.com/watch?v=CGN4RFkhH2M)
@@ -3113,6 +3125,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Therapeutic Refactoring - Katrina Owen (CascadiaRuby 2012)](http://confreaks.tv/videos/1071-cascadiaruby2012-therapeutic-refactoring)
 * [Refactoring from Good to Great - Ben Orenstein (Aloha Ruby Conf 2012)](http://confreaks.tv/videos/1233-aloharuby2012-refactoring-from-good-to-great) & [RubyConf 2012](http://confreaks.tv/videos/1283-rubyconf2012-refactoring-from-good-to-great)
 
+### RUBY - RODA
+
+* [Introduction to Roda - Janko Marohnić](http://twin.github.io/introduction-to-roda/)
+* [The plugin system of Sequel and Roda - Janko Marohnić](http://twin.github.io/the-plugin-system-of-sequel-and-roda/)
+
 ### RUBY - SECURITY
 
 * [Brakeman](https://github.com/presidentbeef/brakeman)
@@ -3289,6 +3306,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### TESTING - CONTINUOUS INTEGRATION - JENKINS
 
+* [Jenkins User Conference London 2015](http://confreaks.tv/events/jenkinsconflondon2015)
 * [Jenkins talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=jenkins&commit=go)
 * [Jenkins User Conference San Francisco 2012](http://confreaks.tv/events/jucsf2012)
 * [Jenkins User Conference Palo Alto 2013](http://confreaks.tv/events/jenkins2013)
