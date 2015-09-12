@@ -651,6 +651,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ERLANG
 
+* [Learn You Some Erlang - Fred Hebert](http://learnyousomeerlang.com/)
 * [That's "Billion" With a "B": Scaling to the Next Level at WhatsApp - Rick Reed (Erlang Factory SF 2014)](https://www.youtube.com/watch?v=c12cYAUTXXs)
 * [Erlang Master Classes](https://www.youtube.com/watch?v=gKRyAb7d8lo&list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5&index=1)
 * [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
@@ -677,6 +678,9 @@ Links to resources I have found useful or think might be helpful to future me or
 ## FUNCTIONAL PROGRAMMING
 
 * Professor Frisby's Mostly Adequate Guide to Functional Programming: [Webpage](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [Online](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html) | [PDF](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [ePUB](https://www.gitbook.com/download/epub/book/drboolean/mostly-adequate-guide) | [MOBI](https://www.gitbook.com/download/mobi/book/drboolean/mostly-adequate-guide)
+* [Functional programming patterns for the non-mathematician - Brian Lonsdorf (FluentConf 2014)](https://www.youtube.com/watch?v=AvgwKjTPMmM)
+* [An Introduction to Functional Programming - Andrew Smith & Noah Sluss (Code School)](https://www.youtube.com/watch?v=FueU3sehY_://www.youtube.com/watch?v=FueU3sehY_4)
+* [Functional Programming: The Failure of State - Robert C. Martin (NDC 2014)](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
 * [Improving your Web App with Functional Object-Oriented Design - Brad Urani](https://medium.com/@bradurani/improving-your-web-app-with-functional-object-oriented-design-5218f9732b74)
 * (Updated) Functional Principles for OO Devs (Ordina 2015): [Part 1](https://www.youtube.com/watch?v=cpyrTkzXeL8) & [Part 2: Property-Based Testing for Better Code](https://www.youtube.com/watch?v=z4WyLZIdi08)
 * [Functional Principles for OO Development - Jessica Kerr (GOTO Conference 2014)](https://www.youtube.com/watch?v=GpXsQ-NIKXY) & [(Ruby MidWest 2013)](http://confreaks.tv/videos/2382-rmw2013-functional-principles-for-oo-development)
@@ -779,6 +783,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Quick Tip: Store Data in the Browser with IndexedDB - Martin Angelov](http://tutorialzine.com/2013/01/simple-indexeddb-dbjs-app/)
 * [Who Needs MySQL When There Is IndexedDB? - NewRelic](http://blog.newrelic.com/2012/11/26/who-needs-mysql-when-there-is-indexeddb/)
 * [How the browsers store IndexedDB data - Aaron Powell](http://www.aaron-powell.com/web/indexeddb-storage)
+
+#### HTML5 - INDEXED DB - LOVEFIELD
+
+* [Lovefield: A cross-browser, SQL-like, relational query engine for Web in pure JavaScript](https://github.com/google/lovefield)
 
 ### HTML5 - WEB SOCKETS
 
