@@ -43,6 +43,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## CLEAN CODE
 
+* [Is Your Code Too SOLID? - Sarah Mei](http://forwardjs.com/university/is-your-code-too-solid)
 * ["The Mess We're In" - Joe Armstrong (StrangeLoop 2014)](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [The Failures of "Intro to TDD" - Justin Searls](http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html)
 * [Treat Your Code as a Crime Scene - Adam Tornhill](http://www.infoq.com/presentations/code-bugs-legacy-pitfalls)
@@ -56,6 +57,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Robert C. Martin videos (non-free)](http://www.cleancoders.com/)
 * [Grand Unification Theory: Writing and Running Code, by Brian Ford (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=iub8zWID4yk)
 * [Programming and minimalism: lessons from Orwell and the Clash - Jonathan Dahl (RubyConf 2010)](http://www.confreaks.tv/videos/460-rubyconf2010-programming-and-minimalism-lessons-from-orwell-and-the-clash)
+* [States and Nomads: Handling Software Complexity - Zach Tellman](http://forwardjs.com/university/states-and-nomads)
 
 ### CLEAN CODE - APIS
 
@@ -659,10 +661,25 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Solving the Stable Marriage problem with Erlang](https://www.airpair.com/erlang/posts/solving-the-stable-marriage-problem-with-erlang)
 * [Thinking in a Highly Concurrent, Mostly-functional Language - Francesco Cesarini (ElixirConf 2014)](https://www.youtube.com/watch?v=d5G3P2iosmA)
 * [Advanced-Erlang.com](http://advanced-erlang.com/videos/)
+* [ErlangCentral Wiki](http://erlangcentral.org/wiki/index.php/)
+
+### ERLANG - DOCUMENTATION
+
+* [Erlang.org](http://erlang.org/doc/)
+* [ErlDocs.com](http://erldocs.com/)
+* [Getting Started with Erlang User's Guide - Ericsson](http://erlang.org/doc/getting_started/users_guide.html)
+* [Erlang Reference Manual User's Guide - Ericsson ](http://erlang.org/doc/reference_manual/users_guide.html)
+* [Erlang/OTP System Documentation - Ericsson (PDF)](http://erlang.org/doc/pdf/otp-system-documentation.pdf)
+* [Programming Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml)
 
 ## EMERGING TECHNOLOGIES
 
 * [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/#/)
+
+## ENCRYPTION
+
+* [Crypto101 (free in-depth cryptography book) - Laurens Van Houtven](https://www.crypto101.io/)
+* [Let's Encrypt - "lets site operators turn on and manage HTTPS with simple commands"](https://letsencrypt.org/howitworks/)
 
 ## EVENT SOURCING/STREAMS
 
@@ -787,6 +804,10 @@ Links to resources I have found useful or think might be helpful to future me or
 #### HTML5 - INDEXED DB - LOVEFIELD
 
 * [Lovefield: A cross-browser, SQL-like, relational query engine for Web in pure JavaScript](https://github.com/google/lovefield)
+
+### HTML5 - PERFORMANCE
+
+* [High Performance in the Critical Rendering Path - Nicolas Bevacqua](http://forwardjs.com/university/high-performance-in-the-critical-rendering-path)
 
 ### HTML5 - WEB SOCKETS
 
@@ -1097,6 +1118,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional Reactive Programming in JavaScript - Charanjit Singh (JSChannel 2015)](https://www.youtube.com/watch?v=SFPF56BB1Cs)
 * [Conquering Time with Functional Reactive Programming - Sergi Mansilla (Goto Amsterdam 2014)](https://www.youtube.com/watch?v=gT6il5fJyAs)
 * [End-to-End Reactive Programming at Netflix - Jafar Husain](http://www.infoq.com/presentations/reactive-programming-netflix)
+* [Reactive All the Things - Martin Gontovnikas](http://forwardjs.com/university/reactive-all-the-things)
 
 #### JAVASCRIPT - FUNCTIONAL REACTIVE PROGRAMMING - BACON.JS
 
@@ -1352,6 +1374,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## MATH
 
 * [BetterExplained.com](http://betterexplained.com/cheatsheet/)
+* [Immersive Math - Jacob Ström, Kalle Åström, and Tomas Akenine-Möller](http://immersivemath.com/ila/learnmore.html)
 
 ## MISCELLANEOUS
 
@@ -1604,6 +1627,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [InfoQ.com videos](http://www.infoq.com/presentations/)
 * [OSCON 2014](https://www.youtube.com/playlist?list=PL055Epbe6d5Y3njTzpWt0VepR1B7tcRFH)
 * [FutureTalks - NewRelic](https://www.youtube.com/playlist?list=PLmhYj7Jl81JGTfSgMeya2R-zcISDZ9utg)
+* [Forward University](http://forwardjs.com/university)
 
 ## PYTHON
 
@@ -2399,6 +2423,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [CRAN Task View: Time Series Analysis](http://cran.r-project.org/web/views/TimeSeries.html)
 * [History of R Financial Time Series Plotting](http://timelyportfolio.github.io/rCharts_time_series/history.html)
 * [Time Series Analysis With R](http://www.stats.uwo.ca/faculty/aim/tsar/tsar.pdf)
+* [Reading Financial Time Series Data with R - Joseph Rickert](http://www.r-bloggers.com/reading-financial-time-series-data-with-r/)
 
 ### R - VIDEOS
 
@@ -3475,6 +3500,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## WEB COMPONENTS
 
+* [Why You Should Be Using Web Components Right Now. And How. - Phil Leggetter](http://forwardjs.com/university/why-you-should-be-using-web-components-right-now)
 * [The Web Components Revolution is Here - Eric Bidelman (April 2014)](https://www.youtube.com/watch?v=3QLmAm9xtnU)
 
 ### WEB COMPONENTS - POLYMER
