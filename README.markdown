@@ -671,6 +671,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Erlang Reference Manual User's Guide - Ericsson ](http://erlang.org/doc/reference_manual/users_guide.html)
 * [Erlang/OTP System Documentation - Ericsson (PDF)](http://erlang.org/doc/pdf/otp-system-documentation.pdf)
 * [Programming Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml)
+* [Time in Elixir](http://learnyousomeerlang.com/time)
+
+### ERLANG - HISTORY
+
+* [Erlang: The Movie](https://www.youtube.com/watch?t=113&v=xrIjfIjssLE)
+* [Erlang: The Movie II: The Sequel](https://www.youtube.com/watch?v=rRbY3TMUcgQ)
+
+### ERLANG - PERFORMANCE
+
+* [Comparison of Erlang Runtime System and Java Virtual Machine - Tõnis Pool](http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf)
 
 ## EMERGING TECHNOLOGIES
 
@@ -678,7 +688,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ENCRYPTION
 
-* [Crypto101 (free in-depth cryptography book) - Laurens Van Houtven](https://www.crypto101.io/)
+* [Crypto101 (free in-depth cryptography book) - Laurens Van Houtven](https://www.crypto101.io/) & [PyCon US 2013 talk](https://www.youtube.com/watch?t=8&v=3rmCGsCYJF8)
+* [Cryptography Tutorial - Joe Armstrong](https://github.com/joearms/crypto_tutorial/raw/master/crypto_tutorial.pdf)
 * [Let's Encrypt - "lets site operators turn on and manage HTTPS with simple commands"](https://letsencrypt.org/howitworks/)
 
 ## EVENT SOURCING/STREAMS
@@ -696,6 +707,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Professor Frisby's Mostly Adequate Guide to Functional Programming: [Webpage](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [Online](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html) | [PDF](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [ePUB](https://www.gitbook.com/download/epub/book/drboolean/mostly-adequate-guide) | [MOBI](https://www.gitbook.com/download/mobi/book/drboolean/mostly-adequate-guide)
 * [Functional programming patterns for the non-mathematician - Brian Lonsdorf (FluentConf 2014)](https://www.youtube.com/watch?v=AvgwKjTPMmM)
+* [A Million Ways to Fold in JS - Brian Lonsdorf (Forward Summit 2015)](http://forwardjs.com/university/a-million-ways-to-fold-in-js)
 * [An Introduction to Functional Programming - Andrew Smith & Noah Sluss (Code School)](https://www.youtube.com/watch?v=FueU3sehY_://www.youtube.com/watch?v=FueU3sehY_4)
 * [Functional Programming: The Failure of State - Robert C. Martin (NDC 2014)](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
 * [Improving your Web App with Functional Object-Oriented Design - Brad Urani](https://medium.com/@bradurani/improving-your-web-app-with-functional-object-oriented-design-5218f9732b74)
@@ -770,6 +782,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## HTML5
 
+* [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 * [CodePen.io](http://codepen.io/)
 * [Smashing Magazine](http://www.smashingmagazine.com/)
 * [Dive into HTML 5 - Mark Pilgrim](http://diveintohtml5.info/)
@@ -831,6 +844,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Javascript.com](https://www.javascript.com/resources)
 * [Learning JavaScript Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [JavaScript tips](https://code.google.com/p/jslibs/wiki/JavascriptTips)
+* [Visualize JavaScript code execution](http://www.pythontutor.com/visualize.html)
 * [SuperheroJS - curated JavaScript links](http://superherojs.com/)
 * [JavascriptJabber.com (podcasts)](http://javascriptjabber.com/)
 * [The Javascript Show (podcasts)](http://javascriptshow.com/episodes)
@@ -1031,6 +1045,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### JAVASCRIPT - EMBER.JS
 
 * EmberJS: [Website](http://emberjs.com/) | [Guides](http://emberjs.com/guides/) | [API](http://emberjs.com/api/)
+* [Sneak Peek at Ember 2.0 - Erik Bryn (San Francisco Javascript Meetup 2015)](http://forwardjs.com/university/erik-bryn-presents-a-sneak-peek-at-ember-2-0)
 * [WickedGoodEmber 2015 videos](http://confreaks.tv/events/wickedgoodember2015)
 * [Using Ember CLI as a Single Page Static Site Generator - Jessica Suttles](http://blog.current.sh/using-ember-cli-as-a-single-page-static-site-generator/)
 * [How to Build a Rails 5 API Only and Ember Application - Santiago Pastorino](http://wyeworks.com/blog/2015/6/30/how-to-build-a-rails-5-api-only-and-ember-application/)
@@ -1117,7 +1132,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Functional Reactive Programming in JavaScript - Charanjit Singh (JSChannel 2015)](https://www.youtube.com/watch?v=SFPF56BB1Cs)
 * [Conquering Time with Functional Reactive Programming - Sergi Mansilla (Goto Amsterdam 2014)](https://www.youtube.com/watch?v=gT6il5fJyAs)
+* [React: Life Without MVC - Priyatam Mudivarti (Forward 3 Summit 2015)](http://forwardjs.com/university/react-life-without-mvc)
 * [End-to-End Reactive Programming at Netflix - Jafar Husain](http://www.infoq.com/presentations/reactive-programming-netflix)
+* [Why Prezi is betting on FRP - Péter Halácsy](http://forwardjs.com/university/why-prezi-is-betting-on-frp)
 * [Reactive All the Things - Martin Gontovnikas](http://forwardjs.com/university/reactive-all-the-things)
 
 #### JAVASCRIPT - FUNCTIONAL REACTIVE PROGRAMMING - BACON.JS
@@ -1186,6 +1203,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Bower](http://twitter.github.com/bower/) [Github](https://github.com/twitter/bower)
 * [JamJS](http://jamjs.org/) [Github](https://github.com/caolan/jam)
 * [Require.js](http://requirejs.org/)
+
+### JAVASCRIPT - PERFORMANCE
+
+* [Breaking the Broken Web - Kyle Simpson (Forward 3 Summit 2015)](http://forwardjs.com/university/breaking-the-broken-web)
 
 ### JAVASCRIPT - PLAYGROUND
 
@@ -1308,6 +1329,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Linux Shell Scripting Cookbook](http://www.pdf-archive.com/2011/03/26/linux-shell-scripting-cookbook/linux-shell-scripting-cookbook.pdf)
 * [Linux Shell Scripting Tutorial](http://www.dis.uniroma1.it/~bordino/shell-tutorial.pdf)
 * [The Art of Command Line - Joshua Levy](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
+* [Writing Robust Bash Shell Scripts - David Pashley](http://www.davidpashley.com/articles/writing-robust-shell-scripts/)
 
 #### LINUX - SHELL SCRIPTING (BASH) - BATS (BASH AUTOMATED TEST SYSTEM)
 
@@ -1447,6 +1469,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### NEWS - TECH
 
+* [Aeon](http://aeon.co/magazine/technology/)
 * [BBC](http://www.bbc.com/news/technology)
 * [Business Insider](http://www.businessinsider.com/sai)
 * [Cnet](http://www.cnet.com/news/)
@@ -1471,6 +1494,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [TechNewsWorld](http://www.technewsworld.com/)
 * [VentureBeat](http://venturebeat.com/)
 * [The Verge](http://www.theverge.com/tech)
+* [Wait But Why](http://waitbutwhy.com/)
 * [Wired](http://www.wired.com/)
 * [Yahoo](https://www.yahoo.com/tech)
 * [ZDNet](http://www.zdnet.com/)
@@ -2156,6 +2180,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to Electrical Engineering and Computer Science I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/index.html)
 * The best way to learn Python - Charl Botha: [Part 1: Install Anaconda on Linux](https://www.youtube.com/watch?v=NwyIuWK80gQ), [Part 2: Install Anaconda on Windows](https://www.youtube.com/watch?v=oXnnRpTGT2M), [Part 3: Variables, control flow, plotting!](https://www.youtube.com/watch?v=84WRAisoEas), [Part 4: slicing, string interpolation, list comprehension](https://www.youtube.com/watch?v=KZRrY9uzO7c), [Part 5: Object-oriented programming and bouncing balls](https://www.youtube.com/watch?v=yJunB_tV1QI)
+* [Visualize Python code execution](http://www.pythontutor.com/visualize.html)
 * [Gotcha — Mutable default arguments](http://pythonconquerstheuniverse.wordpress.com/2012/02/15/mutable-default-arguments/) & [Common Gotchas](http://docs.python-guide.org/en/latest/writing/gotchas/)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 
@@ -2502,6 +2527,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### RAILS - APIS (EXTERNAL)
 
 * [rails-api](https://github.com/rails-api/rails-api)
+* [Building a JSON API with Rails 5 - Leigh Halliday](http://blog.codeship.com/building-a-json-api-with-rails-5/)
 * [rspec_api_blueprint](https://github.com/playround/rspec_api_blueprint)
 * [apipie-rails](https://github.com/Apipie/apipie-rails)
 * [Building a web API with Ruby on Rails - Ahmed Omran](https://www.youtube.com/watch?v=36M2BSA2LYk)
@@ -2765,6 +2791,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## RUBY
 
+* [Visualize Ruby code execution](http://www.pythontutor.com/visualize.html)
 * [Ruby Bookmarks - Alex Musayev](https://github.com/dreikanter/ruby-bookmarks)
 * [Github's style guide](https://github.com/styleguide/ruby)
 * [Read Ruby](http://readruby.io/)
@@ -3524,8 +3551,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### WEB DESIGN - RESPONSIVE DESIGN & PROGRESSIVE ENHANCEMENT
 
+* [Adaptive Web Design - Aaron Gustafson](http://adaptivewebdesign.info/1st-edition/)
+* [Future-Friendly Resources](http://futurefriendlyweb.com/resources.html)
 * [Responsive Web Design, Mobile First and Progressive enhancement in action - Leonado Lenase (ScotlandJS 2012)](http://vimeo.com/45140588)
 * [Browser Versions Are Dead](http://confreaks.tv/videos/2223-html5tx2013-browser-versions-are-dead)
+* [Luke Wroblewski blogs & presentations](http://www.lukew.com/)
 
 ## WRITING/PUBLISHING
 
