@@ -8,6 +8,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Learning](#learning) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [MongoDB](#mongodb) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free), [data analysis](#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
+## ANIMATION
+
+* [Algorithms for Animation - Courtney Hemphill](https://youtu.be/GrloJWKBGtg)
+
 ## BOOKS
 
 * [List of free programming books (many languages)](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
@@ -250,6 +254,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DATABASES - HOW THEY WORK
 
 * [How does a relational database work - Christophe Kalenzaga](http://coding-geek.com/how-databases-work/)
+* [Transactions: myths, surprises and opportunities" - Martin Kleppmann (StrangeLoop 2015)](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 
 ### DATABASES - SQL
 
@@ -691,6 +696,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Crypto101 (free in-depth cryptography book) - Laurens Van Houtven](https://www.crypto101.io/) & [PyCon US 2013 talk](https://www.youtube.com/watch?t=8&v=3rmCGsCYJF8)
 * [Cryptography Tutorial - Joe Armstrong](https://github.com/joearms/crypto_tutorial/raw/master/crypto_tutorial.pdf)
 * [Let's Encrypt - "lets site operators turn on and manage HTTPS with simple commands"](https://letsencrypt.org/howitworks/)
+* [Encryption Works: How to Protect Your Privacy in the Age of NSA Surveillance - Micha Leee (Freedom of the Press Foundation)](https://freedom.press/encryption-works)
 
 ## EVENT SOURCING/STREAMS
 
@@ -719,6 +725,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Y Not? - Adventures in Functional Programming - Jim Weirich (ScotlandJS 2012)](https://vimeo.com/45140590) [RubyConf 2012](http://confreaks.tv/videos/1287-rubyconf2012-y-not-adventures-in-functional-programming)
 * [Functional Thinking - Neal Ford](http://www.youtube.com/watch?v=JeK979aqqqc) & [OSCON 2013](https://www.youtube.com/watch?v=7aYS9PcAITQ)
 * [Simple and Elegant Rails Code with Functional Style - Attila Domokos (RailsConf 2013)](http://confreaks.tv/videos/2431-railsconf2013-simple-and-elegant-rails-code-with-functional-style)
+* Brian Lonsdorf: [Functors](http://forwardjs.com/university/functors) | [F-Algebras, Pt 1](http://forwardjs.com/university/f-algebras-part-1) | [F-Algebras, Pt 2](http://forwardjs.com/university/f-algebras-part-2) | [F-Algebras, Pt 3](http://forwardjs.com/university/f-algebras-part-3)
 
 ## GIT
 
@@ -1031,7 +1038,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Iterators and generators in ECMAScript 6 - Dr. Axel Rauschmayer](http://www.2ality.com/2013/06/iterators-generators.html)
 * [es6-module-transpiler](https://github.com/square/es6-module-transpiler) & [many more ES6 transpilers](https://github.com/addyosmani/es6-tools)
 * [ES6 module syntax](http://wiki.ecmascript.org/doku.php?id=harmony:modules#quick_examples)
-* ES6 Generators - Kyle Simpson: [Basics](http://davidwalsh.name/es6-generators), [Diving Deeper](http://davidwalsh.name/es6-generators-dive), [Going Async](http://davidwalsh.name/async-generators), [Getting Concurrent](http://davidwalsh.name/concurrent-generators)
 * [ECMAScript 6, The Future of JavaScript - Axel Rauschmayer](http://www.youtube.com/watch?v=_ZG_CrYyh_Q) (Excellent after 10-min intro)
 * [ES6Fiddle.net](http://www.es6fiddle.net)
 * [ES6 Tools - Addy Osmani](https://github.com/addyosmani/es6-tools)
@@ -1039,6 +1045,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### JAVASCRIPT - ES6 / ECMASCRIPT 6 - GENERATORS
 
+* Kyle Simpson: [Basics](http://davidwalsh.name/es6-generators), [Diving Deeper](http://davidwalsh.name/es6-generators-dive), [Going Async](http://davidwalsh.name/async-generators), [Getting Concurrent](http://davidwalsh.name/concurrent-generators)
+* [Functional Programming With Generators - Peter De Croos (Forward.JS 2014)](http://forwardjs.com/university/functional-programming-with-generators)
+* [Hanging Up on Callbacks: Generators in ECMAScript 6 - Erin Swenson-Healey (Forward.JS 2014)](https://www.youtube.com/watch?v=s-BwEk-Y4kg)
 * [Hanging Up On Callbacks: Using ECMAScript 6 Generators - Erin Swenson-Healey](https://www.youtube.com/watch?v=OYdP1tQ9Rnw)
 * [A Study on Solving Callbacks with JavaScript Generators - James Long](http://jlongster.com/A-Study-on-Solving-Callbacks-with-JavaScript-Generators)
 
@@ -1146,6 +1155,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### JAVASCRIPT - FUNCTIONAL REACTIVE PROGRAMMING - REACT.JS
 
+* [React and Flux: Building Applications with a Unidirectional Data Flow - Bill Fisher and Jing Chen (Forward.JS 2014)](https://www.youtube.com/watch?v=i__969noyAM)
 * [Secrets of the Virtual DOM - Pete Hunt (Barcelona Future Javascript)](https://www.youtube.com/watch?v=-DX3vJiqxm4)
 * [React and Rails](http://rny.io/rails/react/2014/07/31/reactjs-and-rails.html)
 * [React & Flux - Christian Lilley (JSChannel 2015)](http://confreaks.tv/videos/jschannelconf2015-react-flux)
@@ -1489,6 +1499,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ScienceDaily](http://www.sciencedaily.com/news/matter_energy/technology/)
 * [Singularity Hub](http://singularityhub.com/)
 * [Slashdot](http://slashdot.org/)
+* [Star Talk Radio](http://www.startalkradio.net)
 * [TechCrunch](http://techcrunch.com/)
 * [TechHive](http://www.techhive.com/news)
 * [TechNewsWorld](http://www.technewsworld.com/)
@@ -1652,6 +1663,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [OSCON 2014](https://www.youtube.com/playlist?list=PL055Epbe6d5Y3njTzpWt0VepR1B7tcRFH)
 * [FutureTalks - NewRelic](https://www.youtube.com/playlist?list=PLmhYj7Jl81JGTfSgMeya2R-zcISDZ9utg)
 * [Forward University](http://forwardjs.com/university)
+* [StrangeLoop 2015](https://www.youtube.com/watch?v=R2Aa4PivG0g&list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH32R)
 
 ## PYTHON
 
