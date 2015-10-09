@@ -615,7 +615,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Understanding Elixir Macros, Part 1 - Basics - Saša Jurić](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-1.html), [Part 2 - Micro theory](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-2.html), [Part 3 - Getting into the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-3.html), [Part 4 - Diving Deeper](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-4.html), [Part 5 - Reshaping the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-5.html), [Part 6 - In-place code generation](http://www.theerlangelist.com/2014/07/understanding-elixir-macros-part-6.html)
 
-### ELIXIR - PHOENIX FRAMEWORK
+### ELIXIR - PHOENIX
 
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
 * [Phoenix Takes Flight - Chris McCord (ElixirConf EU 2015)](https://www.youtube.com/watch?v=fLlItGWiVFc)
@@ -623,6 +623,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Real time web applications with Elixir and Phoenix - Eoin Shanaghy (CorkDev 2015)](https://www.youtube.com/watch?v=DKGqJpT5pvU)
 * [Phoenix: A web framework for the new web - José Valim (PolyConf 2015)](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
 * [Phoenix - A Framework for the Modern Web - Chris McCord](https://vimeo.com/131633172)
+* Brandon Richey: [Writing a Blog in Phoenix and Elixir, Part 1](https://medium.com/@diamondgfx/introduction-fe138ac6079d) & [Part 2: Authorization](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-part-2-authorization-814c06fa7c0)
+* Elixirdose.com Phoenix tutorial: [Part 1](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix) | [Part 2](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix_2) | [Part 3](http://www.elixirdose.com/post/Phoenix%20Part%203) | [Part 4](http://www.elixirdose.com/post/Phoenix%20Part%204) | [Part 5](http://www.elixirdose.com/post/phoenix_part_5_deploying_phoenix_the_final_part)
 * [Individualized Content at Web-Scale - Michael Schaefermeyer (ElixirConf EU 2015)](https://www.youtube.com/watch?v=xT8vDHIvurs)
 * [Creating a chat application in 15 minutes with Phoenix - Darko Fabijan (PolyConf 14)](https://www.youtube.com/watch?v=tdLJvuQkTNE)
 * [Rise of The Phoenix: Building an Elixir Web Framework - Chris McCord (ElixirConf 2014)](https://www.youtube.com/watch?v=3jMbzGv_6tA)
@@ -633,7 +635,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Changelog: "Elixir and Phoenix with Chris McCord"](http://5by5.tv/changelog/147)
 * [Basic web app with Phoenix - Michael Eatherly](http://meatherly.github.io/2015/05/04/phoenixlivelikeawarrior/) & [Phoenix app with authentication - Michael Eatherly](http://meatherly.github.io/2015/05/11/phoenixauthentication/)
 
-#### ELIXIR - PHOENIX FRAMEWORK - PERFORMANCE
+#### ELIXIR - PHOENIX - DEPLOYMENT
+
+* [Phoenix Flying High: Deploying Phoenix The Final Part](http://www.elixirdose.com/post/phoenix_part_5_deploying_phoenix_the_final_part)
+* [Deploying a Phoenix application using ansible-elixir-stack - Johan Wärlander](http://blog.johanwarlander.com/2015/07/30/deploying-a-phoenix-application-using-ansible-elixir-stack.html)
+* [Ansible-elixir-stack](https://github.com/HashNuke/ansible-elixir-stack)
+
+#### ELIXIR - PHOENIX - PERFORMANCE
 
 * [Elixir vs Ruby Showdown - Phoenix vs Rails - Chris McCord](http://www.littlelines.com/blog/2014/07/08/elixir-vs-ruby-showdown-phoenix-vs-rails/)
 * [Benchmarking Phoenix vs Rails vs Sinatra vs Express vs Martini - Matthew Rothenberg](https://github.com/mroth/phoenix-showdown)
@@ -705,12 +713,20 @@ Links to resources I have found useful or think might be helpful to future me or
 * [CQRS and Event Sourcing - Greg Young (Code on the Beach 2014)](https://www.youtube.com/watch?v=JHGkaShoyNs)
 * [Querying Event Streams - Greg Young (React 2014)](https://www.youtube.com/watch?v=DWhQggR13u8)
 
+## EXERCISE
+
+* [50 Bodyweight Exercises You Can Do Anywhere - Laura Schwecherl](http://greatist.com/fitness/50-bodyweight-exercises-you-can-do-anywhere)
+* [10-minute home toning workout - NHS.uk](http://www.nhs.uk/Livewell/fitness/Pages/home-toning-workout.aspx)
+* [Slide show: Exercises to improve your core strength - Mayo Clinic](http://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/core-strength/sls-20076575)
+* [Top 25 At-Home Exercises - AceFitness.org](http://www.acefitness.org/acefit/fitness-programs-article/2863/Top-25-At-Home-Exercises/)
+
 ## FINANCE
 
 * [Topics in Mathematics With Applications in Finance (MIT)](http://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/)
 
 ## FUNCTIONAL PROGRAMMING
 
+* [Carefully Composing Logic: Functional JavaScript - Brad Urani (JS.la 2015)](http://fractalbanana.com/blog/2015/09/16/carefully-composing-logic-functional-javascript-video/)
 * Professor Frisby's Mostly Adequate Guide to Functional Programming: [Webpage](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [Online](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html) | [PDF](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [ePUB](https://www.gitbook.com/download/epub/book/drboolean/mostly-adequate-guide) | [MOBI](https://www.gitbook.com/download/mobi/book/drboolean/mostly-adequate-guide)
 * [Functional programming patterns for the non-mathematician - Brian Lonsdorf (FluentConf 2014)](https://www.youtube.com/watch?v=AvgwKjTPMmM)
 * [A Million Ways to Fold in JS - Brian Lonsdorf (Forward Summit 2015)](http://forwardjs.com/university/a-million-ways-to-fold-in-js)
@@ -1136,6 +1152,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### JAVASCRIPT - FUNCTIONAL PROGRAMMING
 
 * Professor Frisby's Mostly Adequate Guide to Functional Programming: [Webpage](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [Online](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html) | [PDF](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [ePUB](https://www.gitbook.com/download/epub/book/drboolean/mostly-adequate-guide) | [MOBI](https://www.gitbook.com/download/mobi/book/drboolean/mostly-adequate-guide)
+
+#### JAVASCRIPT - FUNCTIONAL PROGRAMMING - IMMUTABLE.JS
+
+* [Immutable.js](https://github.com/facebook/immutable-js)
 
 ### JAVASCRIPT - FUNCTIONAL REACTIVE PROGRAMMING
 
@@ -1629,6 +1649,18 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Thinking in actors - Saša Jurić (WebCamp Zagreb 2014)](https://www.youtube.com/watch?v=g5JJZuxrW_k)
 * [Hewitt, Meijer and Szyperski: The Actor Model (everything you wanted to know...)](https://www.youtube.com/watch?v=7erJ1DV_Tlo)
+
+### PROGRAMMING - BOOKS
+
+* [97 Things Every Programmer Should Know - various authors, O'Reilly](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book)
+* [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
+* [The Codeless Code - Qi](http://thecodelesscode.com/contents)
+* [Essential Coding Theory - Venkatesan Guruswami, Atri Rudra and Madhu Sudan](http://www.cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)
+* [Foundations of Computer Science - Al Aho and Jeff Ullman](http://infolab.stanford.edu/~ullman/focs.html)
+* [How to Design Programs - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi](http://htdp.org/2003-09-26/)
+* [Introduction to Computing: Explorations in Language, Logic and Machines - David Evans](http://www.computingbook.org/) | [PDF](http://www.computingbook.org/FullText.pdf) | [Read online](https://www.otexts.org/book/intro-computing)
+* [Patterns of Software - Richard P. Gabriel](http://dreamsongs.com/Files/PatternsOfSoftware.pdf)
+* [Producing Open Source Software: How to Run a Successful Free Software Project - Karl Fogel](http://producingoss.com/)
 
 ### PROGRAMMING - BLOGS
 
@@ -2158,6 +2190,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### PYTHON - LEARNING - BASICS
 
+* [Programming for Absolute Beginners: Building Skills in Programming - Steven F. Lott](http://buildingskills.itmaybeahack.com/book/programming-2.6/latex/ProgrammingforNon-Programmers.pdf)
 * [Introduction to Programming With Python - Microsoft Virtual Academy (Jumpstart)](https://www.youtube.com/watch?v=9uq3w6JJS00)
 * [Coursera.org Python courses](https://www.coursera.org/courses?query=Python)
 * [EdX.org Python courses](https://www.edx.org/course?search_query=Python)
