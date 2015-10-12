@@ -21,6 +21,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Lectures (by successful entrepreneurs) on "How to Start a Startup" (Stanford University)](http://startupclass.samaltman.com/)
 * [James Altucher interview podcasts](http://www.stansberryradio.com/James-Altucher/Latest-Episodes)
+* [Observatory of Economic Complexity (interactive international trade data displayed using D3)](http://atlas.media.mit.edu/en/visualize/tree_map/hs92/export/usa/all/show/2013/)
 
 ## CHARACTERS
 
@@ -1046,6 +1047,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - ES 2015 / ES6 / ECMASCRIPT 6
 
+* [Learn ES2015: A detailed overview of ECMAScript 6 features - Babeljs.io](http://babeljs.io/docs/learn-es2015/)
+* [ES6 In Depth Articles - Mozilla](https://hacks.mozilla.org/category/es6-in-depth/)
 * [Using JavaScript from the Future in Your Rails App Today - Steve Kinney (RailsConf 2015)](https://www.youtube.com/watch?v=Ayj1kgQNhAg)
 * [Essential ES6 / ES2015 JavaScript - Kyle Robinson Young](https://www.youtube.com/watch?v=CozSF5abcTA)
 * [ES6 Katas](http://es6katas.org/)
@@ -1062,6 +1065,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### JAVASCRIPT - ES6 / ECMASCRIPT 6 - GENERATORS
 
 * Kyle Simpson: [Basics](http://davidwalsh.name/es6-generators), [Diving Deeper](http://davidwalsh.name/es6-generators-dive), [Going Async](http://davidwalsh.name/async-generators), [Getting Concurrent](http://davidwalsh.name/concurrent-generators)
+* [Lazy, composable, and modular JavaScript - Mudit Ameta](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript)
 * [Functional Programming With Generators - Peter De Croos (Forward.JS 2014)](http://forwardjs.com/university/functional-programming-with-generators)
 * [Hanging Up on Callbacks: Generators in ECMAScript 6 - Erin Swenson-Healey (Forward.JS 2014)](https://www.youtube.com/watch?v=s-BwEk-Y4kg)
 * [Hanging Up On Callbacks: Using ECMAScript 6 Generators - Erin Swenson-Healey](https://www.youtube.com/watch?v=OYdP1tQ9Rnw)
@@ -1132,6 +1136,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### JAVASCRIPT - EMBER.JS - GLIMMER (RENDERING ENGINE)
 
+* [Inside Glimmer: What Makes Ember's Rendering Engine Tick - Tom Dale (Full Stack Fest 2015)](https://www.youtube.com/watch?v=VY-r7Ac06ho)
 * [Glimmer demo](https://dbmonster.firebaseapp.com/)
 
 #### JAVASCRIPT - EMBER.JS - HTMLBARS
@@ -1515,6 +1520,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Mashable](http://mashable.com/category/tech/)
 * [The Next Web](http://thenextweb.com/section/tech/)
 * [NPR](http://www.npr.org/sections/technology/ )
+* [Re/Code](http://recode.net)
 * [Reuters](http://www.reuters.com/news/technology)
 * [ScienceDaily](http://www.sciencedaily.com/news/matter_energy/technology/)
 * [Singularity Hub](http://singularityhub.com/)
@@ -2549,6 +2555,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [APIDock - Rails (good for legacy Rails)](http://apidock.com/rails/browse)
 * [How a Request Becomes a Response - Christopher Greene, Aimee Simone (RailsConf 2013)](http://confreaks.tv/videos/2426-railsconf2013-how-a-request-becomes-a-response)
 * [You've got a Sinatra on your Rails - Jose Valim (RailsConf 2013)](http://confreaks.tv/videos/2442-railsconf2013-you-ve-got-a-sinatra-on-your-rails)
+* [Request and Response - Aaron Patterson (Full Stack Fest 2015)](https://www.youtube.com/watch?v=1EeWXojdqvU)
 
 ### RAILS - 4
 
@@ -2863,6 +2870,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Why I am excited about Ruby 2.1 - Sam Saffron (Ruby Australia 2014)](http://vimeo.com/89491942)
 * [New Ruby 2.1 Awesomeness: Pro Object Allocation Tracing - Sam Rawlins (MountainWest Ruby 2014)](http://confreaks.tv/videos/3272-mwrc-new-ruby-2-1-awesomeness-pro-object-allocation-tracing)
+
+### RUBY - 3.0
+
+* [Ruby 3.0 - Yukihiro "Matz" Matsumoto (Full Stack Fest 2015)](https://www.youtube.com/watch?v=48iKjUcENRE)
 
 ### RUBY - ACTIVE RECORD
 
@@ -3443,6 +3454,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Tmux Quickstart Guide - Sam Livingston-Gray](https://www.youtube.com/watch?v=wKEGA8oEWXw)
 * [Humans Present: tmux - Thoughtbot](https://www.youtube.com/watch?v=CKC8Ph-s2F4)
+* [A tmux Primer (on persistent remote sessions) - Daniel Miessler](https://danielmiessler.com/study/tmux/)
 * [ArchLinux Tmux wiki](https://wiki.archlinux.org/index.php/Tmux)
 * [The Tao of Tmux](http://tmuxp.readthedocs.org/en/latest/about_tmux.html)
 * [10 Killer Tmux Tips - Benjamin Tan Wei Hao](http://www.sitepoint.com/10-killer-tmux-tips/)
@@ -3484,6 +3496,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## VIM (YEAH, IT'S THE BEST)
 
 * [Full Vim documentation + Vim FAQ (downloadable PDF)](http://nathangrigg.net/vimhelp/)
+* [A vim Tutorial and Primer - Daniel Miessler](https://danielmiessler.com/study/vim/)
 * [VimDoc](http://vimdoc.sourceforge.net/htmldoc/)
 * [vim.wikia.com](http://vim.wikia.com/wiki/Vim_documentation)
 * [Vimcasts.org](http://vimcasts.org/)
