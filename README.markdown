@@ -620,11 +620,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
 * [Phoenix Takes Flight - Chris McCord (ElixirConf EU 2015)](https://www.youtube.com/watch?v=fLlItGWiVFc)
+* [What's Next for Phoenix - Chris McCord (ElixirConf 2015)](http://confreaks.tv/videos/elixirconf2015-what-s-next-for-phoenix)
 * [Phoenix: Productive. Reliable. Fast. - Chris McCord (LoneStarRuby 2015)](https://www.youtube.com/watch?v=STO-uN0xHDQ)
 * [Real time web applications with Elixir and Phoenix - Eoin Shanaghy (CorkDev 2015)](https://www.youtube.com/watch?v=DKGqJpT5pvU)
 * [Phoenix: A web framework for the new web - José Valim (PolyConf 2015)](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
 * [Phoenix - A Framework for the Modern Web - Chris McCord](https://vimeo.com/131633172)
-* Brandon Richey: [Writing a Blog in Phoenix and Elixir, Part 1](https://medium.com/@diamondgfx/introduction-fe138ac6079d) & [Part 2: Authorization](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-part-2-authorization-814c06fa7c0)
+* Brandon Richey: [Writing a Blog in Phoenix and Elixir, Part 1](https://medium.com/@diamondgfx/introduction-fe138ac6079d) | [Part 2: Authorization](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-part-2-authorization-814c06fa7c0) | [Debugging Phoenix with IEx.pry](https://medium.com/@diamondgfx/debugging-phoenix-with-iex-pry-5417256e1d11) | [Testing Validations in Elixir and Ecto](https://medium.com/@diamondgfx/testing-validations-in-elixir-and-ecto-677bd8a071a1)
 * Elixirdose.com Phoenix tutorial: [Part 1](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix) | [Part 2](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix_2) | [Part 3](http://www.elixirdose.com/post/Phoenix%20Part%203) | [Part 4](http://www.elixirdose.com/post/Phoenix%20Part%204) | [Part 5](http://www.elixirdose.com/post/phoenix_part_5_deploying_phoenix_the_final_part)
 * [Individualized Content at Web-Scale - Michael Schaefermeyer (ElixirConf EU 2015)](https://www.youtube.com/watch?v=xT8vDHIvurs)
 * [Creating a chat application in 15 minutes with Phoenix - Darko Fabijan (PolyConf 14)](https://www.youtube.com/watch?v=tdLJvuQkTNE)
@@ -659,11 +660,20 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - VIDEOS
 
+* [ElixirConf 2015 videos](http://confreaks.tv/events/elixirconf2015)
+    * [Keynote: The Pendulum - Bruce Tate](https://www.youtube.com/watch?v=X8rWK-g8kCQ)
+    * [Confident Elixir - Lance Halvorsen](https://www.youtube.com/watch?v=9YCg9xaG47s)
 * [ElixirConf EU 2015 videos](https://www.youtube.com/watch?v=fLlItGWiVFc&list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
 * [What Elixir Is About - José Valim (Erlang User Conference 2015)](https://www.youtube.com/watch?v=QXcedVc2LQM)
 * [Rewriting a Ruby application in Elixir - Claudio Ortolina (ElixirConf 2015)](https://www.youtube.com/watch?v=lho1e04Gzzs)
 * [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
 * ["Elixir and the Internet of Things" - Doug Rohrer (Strangeloop 2014)](https://www.youtube.com/watch?v=a-OCorBXX7M)
+
+## ELM
+
+* Elm: [Intro page](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [blog](http://elm-lang.org/blog)
+* [My adventure with Elm - Yan Cui (New Developers Conference 2015)](https://www.youtube.com/watch?v=cBVXyxt-9_Q)
+* [Functional Reactive Programming in Elm - Evan Czaplicki (Philly ETE 2014)](https://www.youtube.com/watch?v=F-nTU3Wy26I)
 
 ## ERLANG
 
@@ -783,6 +793,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Help](https://help.github.com/)
 * [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [Developer docs](http://developer.github.com)
+
+## HASKELL
+
+* Haskell: [main site](https://www.haskell.org/) | [wiki](https://wiki.haskell.org/Haskell) | [learning resources](https://wiki.haskell.org/Learning_Haskell) | [tryhaskell.org](http://tryhaskell.org/)
+* [PlanetHaskell](http://planet.haskell.org/)
+
+### HASKELL - BOOKS
+
+* [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
 
 ## HTTP
 
@@ -1525,6 +1544,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ScienceDaily](http://www.sciencedaily.com/news/matter_energy/technology/)
 * [Singularity Hub](http://singularityhub.com/)
 * [Slashdot](http://slashdot.org/)
+* [The Stack](https://thestack.com/)
 * [Star Talk Radio](http://www.startalkradio.net)
 * [TechCrunch](http://techcrunch.com/)
 * [TechHive](http://www.techhive.com/news)
@@ -1681,6 +1701,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PROGRAMMING - FUNCTIONAL REACTIVE PROGRAMMING
 
+* [The introduction to Reactive Programming you've been missing - Andre Staltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 * [An Event-driven and Reactive Future - Jonathan Worthington (FooCafe)](https://www.youtube.com/watch?v=_VdIQTtRkb8)
 * [What does it mean to be Reactive? - Erik Meijer (React 2014)](https://www.youtube.com/watch?v=sTSQlYX5DU0)
 
@@ -2639,6 +2660,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Code to Joy - Avdi Grimm (GoGaRuCo 2012)](http://confreaks.tv/videos/1117-gogaruco2012-code-to-joy)
 * [Break It Down - Ben Scofield (Ruby Midwest 2011)](http://confreaks.tv/videos/756-rubymidwest2011-break-it-down)
 * [Patterns of Basecamp's Application Architecture - DHH (RailsConf 2013)](http://confreaks.tv/videos/2422-railsconf2013-opening-keynote-patterns-of-basecamp-s-application-architecture)
+
+### RAILS - CONCERNS
+
+* [Stop Worrying and Start Being Concerned: ActiveSupport Concerns - Vaidehi Joshi](http://vaidehijoshi.github.io/blog/2015/10/13/stop-worrying-and-start-being-concerned-activesupport-concerns/)
 
 ### RAILS - DEBUGGING
 
