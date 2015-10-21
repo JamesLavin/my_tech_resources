@@ -674,6 +674,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Elm: [Intro page](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [blog](http://elm-lang.org/blog)
 * [My adventure with Elm - Yan Cui (New Developers Conference 2015)](https://www.youtube.com/watch?v=cBVXyxt-9_Q)
 * [Functional Reactive Programming in Elm - Evan Czaplicki (Philly ETE 2014)](https://www.youtube.com/watch?v=F-nTU3Wy26I)
+* [Make the Back-End Team Jealous: Elm in Production - Richard Feldman (StrangeLoop 2015)](https://www.youtube.com/watch?v=FV0DXNB94NE)
 
 ## ERLANG
 
@@ -719,10 +720,15 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## EVENT SOURCING/STREAMS
 
+* [Event Sourcing - Martin Fowler](http://martinfowler.com/eaaDev/EventSourcing.html)
 * [Event Sourcing - Bryan Reinero (GoRuCo 2015)](http://confreaks.tv/videos/goruco2015-event-sourcing)
 * [Polyglot Data - Greg Young (GOTO Conference 2014)](https://www.youtube.com/watch?v=hv2dKtPq0ME)
 * [CQRS and Event Sourcing - Greg Young (Code on the Beach 2014)](https://www.youtube.com/watch?v=JHGkaShoyNs)
 * [Querying Event Streams - Greg Young (React 2014)](https://www.youtube.com/watch?v=DWhQggR13u8)
+* [CQRS Class - Greg Young](https://www.youtube.com/watch?v=whCk1Q87_ZI)
+* [Building and deploying microservices with event sourcing, CQRS and Docker - Chris Richardson](https://www.youtube.com/watch?v=I4A5ntHeoxU)
+* [Immutability Changes Everything - Pat Helland](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
+* Konrad Garus: [Intro to Event Sourcing and Command-Query Responsibility Segregation](http://squirrel.pl/blog/2015/08/31/introduction-to-event-sourcing-and-command-query-responsibility-segregation/) | [Achieving Consistency in CQRS with Linear Event Store](http://squirrel.pl/blog/2015/09/14/achieving-consistency-in-cqrs-with-linear-event-store/) | [Writing an Event-Sourced CQRS Read Model](http://squirrel.pl/blog/2015/09/22/writing-an-event-sourced-cqrs-read-model/) | [Persistence in CQRS Read Models](http://squirrel.pl/blog/2015/09/28/persistence-in-cqrs-read-models/)
 
 ## EXERCISE
 
@@ -1528,6 +1534,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Business Insider](http://www.businessinsider.com/sai)
 * [Cnet](http://www.cnet.com/news/)
 * [CNN](http://www.cnn.com/TECH/)
+* [Discovery](http://news.discovery.com/tech)
 * [Engadget](http://www.engadget.com/)
 * [Forbes](http://www.forbes.com/technology/)
 * [GeekWire](http://www.geekwire.com/)
@@ -2611,6 +2618,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### RAILS - APIS (EXTERNAL) - ACTIVEMODEL SERIALIZERS
 
+* [Active Model Serializers, Rails, and JSON! OH MY! - Hendra Uzia](http://www.sitepoint.com/active-model-serializers-rails-and-json-oh-my/)
 * [Active Model Serializers - Railscasts - Ryan Bates](http://railscasts.com/episodes/409-active-model-serializers)
 
 #### RAILS - APIS (EXTERNAL) - GRAPE
