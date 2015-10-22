@@ -674,7 +674,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * Elm: [Intro page](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [blog](http://elm-lang.org/blog)
 * [My adventure with Elm - Yan Cui (New Developers Conference 2015)](https://www.youtube.com/watch?v=cBVXyxt-9_Q)
 * [Functional Reactive Programming in Elm - Evan Czaplicki (Philly ETE 2014)](https://www.youtube.com/watch?v=F-nTU3Wy26I)
-* [Make the Back-End Team Jealous: Elm in Production - Richard Feldman (StrangeLoop 2015)](https://www.youtube.com/watch?v=FV0DXNB94NE)
+* [Make the Back-End Team Jealous: Elm in Production - Richard Feldman (StrangeLoop 2015)](https://www.youtube.com/watch?v=FV0DXNB94NE) & [Building a Live-Validated Signup Form in Elm](http://noredinktech.tumblr.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
+* Building a Game in Elm - Brad Urani: [1a](https://www.livecoding.tv/video/building-a-game-in-elm-pt-1a/) | [1b](https://www.livecoding.tv/video/building-a-game-in-elm-pt-1b/) | [2](https://www.livecoding.tv/video/building-a-game-in-elm-2/) | [3](https://www.livecoding.tv/video/building-a-game-in-elm-3/)
+* [Learning FP the hard way: Experiences on the Elm language - Ossi Hanhinen](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
+* [Let's be mainstream! User focused design in Elm - Evan Czaplicki (Curry On Prague 2015)](https://www.youtube.com/watch?v=oYk8CKH7OhE)
 
 ## ERLANG
 
@@ -697,6 +700,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Erlang/OTP System Documentation - Ericsson (PDF)](http://erlang.org/doc/pdf/otp-system-documentation.pdf)
 * [Programming Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml)
 * [Time in Elixir](http://learnyousomeerlang.com/time)
+
+### ERLANG - EXAMPLES
+
+* [Vegur: HTTP Proxy Library - Heroku](https://github.com/heroku/vegur) & [Heroku Proxying becomes Free Software](https://engineering.heroku.com/blogs/2015-10-21-vegur-free-software/)
 
 ### ERLANG - HISTORY
 
