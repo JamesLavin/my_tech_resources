@@ -673,11 +673,19 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Elm: [Intro page](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [blog](http://elm-lang.org/blog)
 * [My adventure with Elm - Yan Cui (New Developers Conference 2015)](https://www.youtube.com/watch?v=cBVXyxt-9_Q)
+* [Climbing into Elm - Murphy Randle (Utah Javascript Meetup 2014)](https://www.youtube.com/watch?v=-JlC2Q89yg4)
 * [Functional Reactive Programming in Elm - Evan Czaplicki (Philly ETE 2014)](https://www.youtube.com/watch?v=F-nTU3Wy26I)
+* [Composing Styles in Elm (Beginners) - Devan Stormont](https://voyageintech.wordpress.com/2015/10/25/composing-styles-in-elm/)
 * [Make the Back-End Team Jealous: Elm in Production - Richard Feldman (StrangeLoop 2015)](https://www.youtube.com/watch?v=FV0DXNB94NE) & [Building a Live-Validated Signup Form in Elm](http://noredinktech.tumblr.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 * Building a Game in Elm - Brad Urani: [1a](https://www.livecoding.tv/video/building-a-game-in-elm-pt-1a/) | [1b](https://www.livecoding.tv/video/building-a-game-in-elm-pt-1b/) | [2](https://www.livecoding.tv/video/building-a-game-in-elm-2/) | [3](https://www.livecoding.tv/video/building-a-game-in-elm-3/)
 * [Learning FP the hard way: Experiences on the Elm language - Ossi Hanhinen](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
 * [Let's be mainstream! User focused design in Elm - Evan Czaplicki (Curry On Prague 2015)](https://www.youtube.com/watch?v=oYk8CKH7OhE)
+* Evan Czaplicki: [Start app](https://github.com/evancz/start-app) | [Elm architecture tutorial](https://github.com/evancz/elm-architecture-tutorial)
+* [Building Web Apps in Elm - Jivago Alves (PolyConf 2015)](https://www.youtube.com/watch?v=fq4l6C935Bg)
+* [Controlling Time and Space: Understanding the Many Formulations of FRP - Evan Czaplicki (StrangeLoop 2014)](https://www.youtube.com/watch?v=Agu6jipKfYw)
+* [Intro to the Elm Programming Language - Ryan Levick (Strange Group Meetup 2014)](https://www.youtube.com/watch?v=iseogSMdQYI)
+* [Functional Reactive UIs with Elm - Shashi Gowda (Agile India 2014)](https://www.youtube.com/watch?v=EPIczPVnx3s)
+* [Sydron: github events visualized - Jessica Kerr](https://github.com/jessitron/elm-sydron)
 
 ## ERLANG
 
