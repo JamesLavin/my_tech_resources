@@ -313,6 +313,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Chaos Monkey](https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey)
 * [Conformity Monkey](https://github.com/Netflix/SimianArmy/wiki/Conformity-Home)
 * [Janitor Monkey](https://github.com/Netflix/SimianArmy/wiki/Janitor-Home)
+* [AWS outage: How Netflix weathered the storm by preparing for the worst - Nick Heath](http://www.techrepublic.com/article/aws-outage-how-netflix-weathered-the-storm-by-preparing-for-the-worst/)
 
 ### DEVOPS - CHEF
 
