@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Learning](#learning) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [MongoDB](#mongodb) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free), [data analysis](#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Elm](#elm) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Learning](#learning) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [MongoDB](#mongodb) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free), [data analysis](#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## ANIMATION
 
@@ -17,8 +17,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [List of free programming books (many languages)](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [List of free programming books - CodeInfo.info](http://isn.codelab.info/ressources/livres-numeriques/free-programming-books/)
 
+## BROWSER AUTOMATION
+
+* [Nightmare](https://github.com/segmentio/nightmare)
+* [Phantom.js](http://phantomjs.org/)
+* [Selenium](http://docs.seleniumhq.org/)
+
 ## BUSINESS
 
+* [The Startup Playbook -Sam Altman](http://playbook.samaltman.com)
 * [Lectures (by successful entrepreneurs) on "How to Start a Startup" (Stanford University)](http://startupclass.samaltman.com/)
 * [James Altucher interview podcasts](http://www.stansberryradio.com/James-Altucher/Latest-Episodes)
 * [Observatory of Economic Complexity (interactive international trade data displayed using D3)](http://atlas.media.mit.edu/en/visualize/tree_map/hs92/export/usa/all/show/2013/)
@@ -45,6 +52,24 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Tsinghua University](https://www.edx.org/course/shu-ju-jie-gou-yu-suan-fa-di-er-bu-fen-pekingx-04830050-2x)
     * [Data Structures • 数据结构](https://www.edx.org/course/data-structures-shu-ju-jie-gou-tsinghuax-30240184x-0) & [2014 course](https://www.edx.org/course/data-structures-shu-ju-jie-gou-tsinghuax-30240184x-0)
 * [Elixir入门文档中文](https://github.com/elixir-lang-china/elixir_guide_cn)
+
+### CHINESE - AUDIO
+
+* [Ting (Pianke.me)](http://pianke.me/ting/)
+
+### CHINESE - BOOKS
+
+* [海量电子书](http://ebuk.cn/)
+* [努努书坊](http://www.kanunu8.com/)
+
+### CHINESE - LEARNING
+
+* [The Chairman's Bao - Simplified Chinese newspaper](http://www.thechairmansbao.com/)
+* [JustLearnChinese.com](http://justlearnchinese.com/)
+
+### CHINESE - SCIENCE FICTION
+
+* [刘慈欣：科学中的故事资源](https://www.youtube.com/watch?v=NdYYc6IOAgc)
 
 ## CLEAN CODE
 
@@ -538,6 +563,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Using Elasticsearch With Rails Apps - Brian Gugliemetti (RailsConf 2013)](https://www.youtube.com/watch?v=U-LrUN6jal8)
 * [Getting Started with Elasticsearch on Rails - Ian Ehlert](http://www.codinginthecrease.com/news_article/show/409843?referrer_id=930667)
 
+## ELECTRON
+
+* [Electron: "Build cross platform desktop apps with web technologies"](http://electron.atom.io/)
+
 ## ELIXIR
 
 * Elixir: [Docs](http://elixir-lang.org/docs.html) & [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html)
@@ -625,7 +654,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Real time web applications with Elixir and Phoenix - Eoin Shanaghy (CorkDev 2015)](https://www.youtube.com/watch?v=DKGqJpT5pvU)
 * [Phoenix: A web framework for the new web - José Valim (PolyConf 2015)](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
 * [Phoenix - A Framework for the Modern Web - Chris McCord](https://vimeo.com/131633172)
-* Brandon Richey: [Writing a Blog in Phoenix and Elixir, Part 1](https://medium.com/@diamondgfx/introduction-fe138ac6079d) | [Part 2: Authorization](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-part-2-authorization-814c06fa7c0) | [Debugging Phoenix with IEx.pry](https://medium.com/@diamondgfx/debugging-phoenix-with-iex-pry-5417256e1d11) | [Testing Validations in Elixir and Ecto](https://medium.com/@diamondgfx/testing-validations-in-elixir-and-ecto-677bd8a071a1)
+* Brandon Richey: [Writing a Blog in Phoenix and Elixir, Part 1](https://medium.com/@diamondgfx/introduction-fe138ac6079d) | [Part 2: Authorization](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-part-2-authorization-814c06fa7c0) | [Debugging Phoenix with IEx.pry](https://medium.com/@diamondgfx/debugging-phoenix-with-iex-pry-5417256e1d11) | [Testing Validations in Elixir and Ecto](https://medium.com/@diamondgfx/testing-validations-in-elixir-and-ecto-677bd8a071a1) | [Writing a Blog Engine in Phoenix and Elixir: Part 4, Adding Roles to our Controllers](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-part-4-adding-roles-to-our-controllers-9f4678b48468#.ngm5g5vnt) | [Errata 1](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-errata-1-b370269b66c7)
 * Elixirdose.com Phoenix tutorial: [Part 1](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix) | [Part 2](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix_2) | [Part 3](http://www.elixirdose.com/post/Phoenix%20Part%203) | [Part 4](http://www.elixirdose.com/post/Phoenix%20Part%204) | [Part 5](http://www.elixirdose.com/post/phoenix_part_5_deploying_phoenix_the_final_part)
 * [Individualized Content at Web-Scale - Michael Schaefermeyer (ElixirConf EU 2015)](https://www.youtube.com/watch?v=xT8vDHIvurs)
 * [Creating a chat application in 15 minutes with Phoenix - Darko Fabijan (PolyConf 14)](https://www.youtube.com/watch?v=tdLJvuQkTNE)
@@ -671,7 +700,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELM
 
-* Elm: [Intro page](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [blog](http://elm-lang.org/blog)
+* Elm: [Intro page](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/)
 * [My adventure with Elm - Yan Cui (New Developers Conference 2015)](https://www.youtube.com/watch?v=cBVXyxt-9_Q)
 * [Climbing into Elm - Murphy Randle (Utah Javascript Meetup 2014)](https://www.youtube.com/watch?v=-JlC2Q89yg4)
 * [Functional Reactive Programming in Elm - Evan Czaplicki (Philly ETE 2014)](https://www.youtube.com/watch?v=F-nTU3Wy26I)
@@ -680,12 +709,23 @@ Links to resources I have found useful or think might be helpful to future me or
 * Building a Game in Elm - Brad Urani: [1a](https://www.livecoding.tv/video/building-a-game-in-elm-pt-1a/) | [1b](https://www.livecoding.tv/video/building-a-game-in-elm-pt-1b/) | [2](https://www.livecoding.tv/video/building-a-game-in-elm-2/) | [3](https://www.livecoding.tv/video/building-a-game-in-elm-3/)
 * [Learning FP the hard way: Experiences on the Elm language - Ossi Hanhinen](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
 * [Let's be mainstream! User focused design in Elm - Evan Czaplicki (Curry On Prague 2015)](https://www.youtube.com/watch?v=oYk8CKH7OhE)
-* Evan Czaplicki: [Start app](https://github.com/evancz/start-app) | [Elm architecture tutorial](https://github.com/evancz/elm-architecture-tutorial)
+* [Elm architecture tutorial - Evan Czaplicki](https://github.com/evancz/elm-architecture-tutorial)
 * [Building Web Apps in Elm - Jivago Alves (PolyConf 2015)](https://www.youtube.com/watch?v=fq4l6C935Bg)
 * [Controlling Time and Space: Understanding the Many Formulations of FRP - Evan Czaplicki (StrangeLoop 2014)](https://www.youtube.com/watch?v=Agu6jipKfYw)
 * [Intro to the Elm Programming Language - Ryan Levick (Strange Group Meetup 2014)](https://www.youtube.com/watch?v=iseogSMdQYI)
 * [Functional Reactive UIs with Elm - Shashi Gowda (Agile India 2014)](https://www.youtube.com/watch?v=EPIczPVnx3s)
+
+### ELM - CODE EXAMPLES
+
+* [Start app - Evan Czaplicki](https://github.com/evancz/start-app)
+* [Minesweeper - a brief journey from JavaScript/React to Elm - Magnus Rundberget](http://rundis.github.io/blog/2015/elm_sweeper.html)
+* [Elm-snake (game) - Yan Cui](https://github.com/theburningmonk/elm-snake)
+* [Zombie Dice Score Card in Elm - James Hughes](https://yobriefca.se/blog/2015/07/29/zombie-dice-score-card-in-elm/) | [source code](https://github.com/kouphax/zombie-dice-elm)
 * [Sydron: github events visualized - Jessica Kerr](https://github.com/jessitron/elm-sydron)
+
+### ELM - SERVER-SIDE
+
+* [servelm](https://github.com/eeue56/servel://github.com/eeue56/servelm)
 
 ## ERLANG
 
@@ -1541,6 +1581,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * ScienceDaily: [Computer programming](http://www.sciencedaily.com/news/computers_math/computer_programming/) | [Hacking](http://www.sciencedaily.com/news/computers_math/hacking/) | [Software](http://www.sciencedaily.com/news/computers_math/software/)
 * [Sitepoint](http://www.sitepoint.com/)
 * [TutsPlus](http://code.tutsplus.com/)
+
+### NEWS - SCIENCE
+
+* [Quanta Magazine](https://www.quantamagazine.org)
+* [Science Daily](http://www.sciencedaily.com/)
+* [TED Science](http://www.ted.com/talks?topics[]=science)
+* [Wired](http://www.wired.com/category/science)
+* [World Science Festival](http://www.worldsciencefestival.com/)
 
 ### NEWS - TECH
 
