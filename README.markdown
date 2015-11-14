@@ -1773,6 +1773,17 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Scott Hanselman](http://www.hanselman.com/)
 * [StackOverflow](http://blog.stackoverflow.com/)
 
+### PROGRAMMING - DCI (DATA, CONTEXT, INTERACTIONS)
+
+* [Data, Context and Interaction - Wikipedia](https://en.wikipedia.org/wiki/Data,_context_and_interaction`)
+* [Trygve Reenskaug - DCI: Re-thinking the foundations of object orientation and of programming (Øredev Conference 2009)](https://vimeo.com/8235394)
+* [The DCI Architecture: Supporting the Agile Agenda - James Coplien (Øredev Conference 2009)](https://vimeo.com/8235574)
+* [Rickard Öberg - DCI in Practice (Øredev Conference 2009)](https://vimeo.com/8235651)
+* [Working with objects — in computer and mind - Trygve Reenskaug and James O. Coplien](http://www.fulloo.info/Documents/CommSenseCurrentDraft.pdf)
+* [FullOO.info](http://www.fulloo.info/Documents/)
+* [The DCI Architecture: A New Vision of Object-Oriented Programming - Trygve Reenskaug and James O. Coplien](http://www.artima.com/articles/dci_vision.html)
+* [The Common Sense of Object Orientated Programming - Trygve Reenskaug](http://folk.uio.no/trygver/2008/commonsense.pdf)
+
 ### PROGRAMMING - FUNCTIONAL REACTIVE PROGRAMMING
 
 * [The introduction to Reactive Programming you've been missing - Andre Staltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
@@ -2671,6 +2682,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * ["OMG Ruby and Rails Performance!!!" - Aaron Patterson 2015](https://www.youtube.com/watch?v=JMGmaRZtgM8)
 
+### RAILS - 6+
+
+* [The Functional Web - Sean Griffin (WindyCityRails 2014)](https://vimeo.com/106759027)
+
 ### RAILS - APIS (EXTERNAL)
 
 * [rails-api](https://github.com/rails-api/rails-api)
@@ -2721,6 +2736,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RAILS - CLEAN CODE
 
+* [Domain Driven Rails - Yan Pritzker (WindyCityRails 2014)](https://vimeo.com/106759024)
 * [My Dog Taught Me to Code - Dave Thomas (Dave Thomas)](http://confreaks.tv/videos/lonestarruby2015-my-dog-taught-me-to-code)
 * [Finder Objects - Janko Marohnić](http://twin.github.io/finder-objects/)
 * [Eastward Ho! A Clear Path Through Ruby With OO - Jim Gay (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-eastward-ho-a-clear-path-through-ruby-with-oo)
