@@ -608,6 +608,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Fountain - bi-weekly podcast](https://soundcloud.com/elixirfountain)
 * [Elixir in times of microservices - José Valim](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/)
 * [Closures: Elixir vs. Ruby vs. JavaScript - Hubert Łępicki](https://www.amberbit.com/blog/2015/6/14/closures-elixir-vs-ruby-vs-javascript/)
+* [Embedding Elixir Structs in Ecto Models - Josh Steiner](https://robots.thoughtbot.com/embedding-elixir-structs-in-ecto-models)
+* [ExMachina for Elixir: Factories with a Functional Twist - Josh Steiner & Paul Smith](https://robots.thoughtbot.com/announcing-ex-machina)
 
 ### ELIXIR - ATLAS
 
