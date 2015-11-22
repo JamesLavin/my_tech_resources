@@ -707,10 +707,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * Elm: [Intro page](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/)
 * [My adventure with Elm - Yan Cui (New Developers Conference 2015)](https://www.youtube.com/watch?v=cBVXyxt-9_Q)
 * [Climbing into Elm - Murphy Randle (Utah Javascript Meetup 2014)](https://www.youtube.com/watch?v=-JlC2Q89yg4)
+* [Elm on the Functional Frontier - Richard Feldman](https://presentate.com/rtfeldman/talks/the-functional-frontier-elm)
 * [Functional Reactive Programming in Elm - Evan Czaplicki (Philly ETE 2014)](https://www.youtube.com/watch?v=F-nTU3Wy26I)
 * [Accidentally Concurrent - Evan Czaplicki (CodeMesh London 2015)](https://www.youtube.com/watch?v=DfLvDFxcAIA)
 * [Composing Styles in Elm (Beginners) - Devan Stormont](https://voyageintech.wordpress.com/2015/10/25/composing-styles-in-elm/)
 * [Make the Back-End Team Jealous: Elm in Production - Richard Feldman (StrangeLoop 2015)](https://www.youtube.com/watch?v=FV0DXNB94NE) & [Building a Live-Validated Signup Form in Elm](http://noredinktech.tumblr.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
+* [Shipping a Production Web App in Elm - Richard Feldman (Lambda Jam 2015)](https://www.youtube.com/watch?v=W9HDueiaIJ4)
 * Building a Game in Elm - Brad Urani: [1a](https://www.livecoding.tv/video/building-a-game-in-elm-pt-1a/) | [1b](https://www.livecoding.tv/video/building-a-game-in-elm-pt-1b/) | [2](https://www.livecoding.tv/video/building-a-game-in-elm-2/) | [3](https://www.livecoding.tv/video/building-a-game-in-elm-3/)
 * [Learning FP the hard way: Experiences on the Elm language - Ossi Hanhinen](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
 * [Let's be mainstream! User focused design in Elm - Evan Czaplicki (Curry On Prague 2015)](https://www.youtube.com/watch?v=oYk8CKH7OhE)
@@ -721,14 +723,28 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to the Elm Programming Language - Ryan Levick (Strange Group Meetup 2014)](https://www.youtube.com/watch?v=iseogSMdQYI)
 * [Functional Reactive UIs with Elm - Shashi Gowda (Agile India 2014)](https://www.youtube.com/watch?v=EPIczPVnx3s)
 * [Elm Style Guide - NoRedInk](https://github.com/NoRedInk/elm-rails/wiki/NoRedInk's-Elm-Style-Guide)
+* [Elmcast.io](http://elmcast.io)
 
 ### ELM - CODE EXAMPLES
 
 * [Start app - Evan Czaplicki](https://github.com/evancz/start-app)
 * [Minesweeper - a brief journey from JavaScript/React to Elm - Magnus Rundberget](http://rundis.github.io/blog/2015/elm_sweeper.html)
+* [Elm-missile-command](https://github.com/theburningmonk/elm-missile-command)
 * [Elm-snake (game) - Yan Cui](https://github.com/theburningmonk/elm-snake)
 * [Zombie Dice Score Card in Elm - James Hughes](https://yobriefca.se/blog/2015/07/29/zombie-dice-score-card-in-elm/) | [source code](https://github.com/kouphax/zombie-dice-elm)
 * [Sydron: github events visualized - Jessica Kerr](https://github.com/jessitron/elm-sydron)
+
+### ELM - HELP
+
+* [elm-discuss Google group](https://groups.google.com/forum/#!forum/elm-discuss)
+* [elm-dev Google group](https://groups.google.com/forum/#!forum/elm-dev)
+* [Reddit Elm](https://www.reddit.com/r/elm)
+
+### ELM - PODCASTS
+
+* [Elm with Richard Feldman and Evan Czaplicki (Ruby Rogues)](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki)
+* [Elm with Evan Czaplicki and Richard Feldman (Javascript Jabber)](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman)
+* [Elm with Evan Czaplicki (MostlyErlang)](http://mostlyerlang.com/2014/03/24/032-elm-with-evan-czaplicki/)
 
 ### ELM - SERVER-SIDE
 
@@ -745,6 +761,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Thinking in a Highly Concurrent, Mostly-functional Language - Francesco Cesarini (ElixirConf 2014)](https://www.youtube.com/watch?v=d5G3P2iosmA)
 * [Advanced-Erlang.com](http://advanced-erlang.com/videos/)
 * [ErlangCentral Wiki](http://erlangcentral.org/wiki/index.php/)
+* [MostlyErlang.com](http://mostlyerlang.com/)
 
 ### ERLANG - DOCUMENTATION
 
@@ -811,6 +828,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [A Million Ways to Fold in JS - Brian Lonsdorf (Forward Summit 2015)](http://forwardjs.com/university/a-million-ways-to-fold-in-js)
 * [An Introduction to Functional Programming - Andrew Smith & Noah Sluss (Code School)](https://www.youtube.com/watch?v=FueU3sehY_://www.youtube.com/watch?v=FueU3sehY_4)
 * [Functional Programming: The Failure of State - Robert C. Martin (NDC 2014)](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
+* [Don't fear the monad - Brian Beckman](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
 * [Improving your Web App with Functional Object-Oriented Design - Brad Urani](https://medium.com/@bradurani/improving-your-web-app-with-functional-object-oriented-design-5218f9732b74)
 * (Updated) Functional Principles for OO Devs (Ordina 2015): [Part 1](https://www.youtube.com/watch?v=cpyrTkzXeL8) & [Part 2: Property-Based Testing for Better Code](https://www.youtube.com/watch?v=z4WyLZIdi08)
 * [Functional Principles for OO Development - Jessica Kerr (GOTO Conference 2014)](https://www.youtube.com/watch?v=GpXsQ-NIKXY) & [(Ruby MidWest 2013)](http://confreaks.tv/videos/2382-rmw2013-functional-principles-for-oo-development)
@@ -2824,6 +2842,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### RAILS - GEMS - CREATING
 
+* [Pluck It - Adam Cuppy (RubyConf 2015)](https://www.youtube.com/watch?v=r5l0CaxqSvA)
 * [Crafting Gems - Pat Allan (RailsConf 2013)](http://confreaks.tv/videos/2482-railsconf2013-crafting-gems)
 
 ### RAILS - GENERATORS
