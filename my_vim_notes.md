@@ -4,8 +4,8 @@ INSERT MODE COMMANDS
 <C-d>              ???
 
 COMMAND MODE COMMANDS
-<Enter>            insert line below without switching to insert mode
-<Leader><Enter>    insert line above without switching to insert mode
+<Leader><Enter>    insert line below without switching to insert mode
+<Leader>u          insert line above without switching to insert mode
 <C-]>              open tag in vertical split
 <C-c>              ???
 <C-n>              toggle NERDTree
@@ -14,13 +14,20 @@ COMMAND MODE COMMANDS
 <C-k>              move to window above
 <C-l>              move to window on right
 :Ag                ag search
+  o/Enter            open
+  e                  open & close quickfix window
+  t                  open in tab
+  v                  open in vertical split
+  q                  close quickfix
 
 TAGS
+K
 :ta {name}         jump to tag
 :ta /^before_*     jump to tag
 <Leader>T          jump to tag in new tab
 <Leader>.          browse tags using Ctrl-P
-<C-]>              open tag in vertical split
+  <C-t>              open tag in new tab
+  <C-]>              open tag in vertical split
 <C-T>              return from tag (back button)
 :ts {name}         list tags
   :{n}tn             jump to next matching tag
@@ -46,6 +53,7 @@ LEADER COMMANDS
 <Leader>ns         :RTspec
 <Leader>nv         :RTview
 <Leader>nu         :RTunittest
+<Leader>o          :TagbarToggle for "(o)verview"
 <leader>rc         open .vimrc in vertical split
 <Leader>s          RunNearestSpec
 <Leader>t          RunCurrentSpecFile
@@ -61,6 +69,7 @@ LEADER COMMANDS
 <Leader>vv         :RVview<CR>
 <Leader>vu         :RVunittest<CR>
 <Leader>w          <C-w>w
+<Leader>we         <C-w>=
 <Leader>x          open eXtra tab
 
 COMMAND MODE COMMANDS
@@ -76,6 +85,8 @@ gI                 insert at start of line
 i                  insert before cursor
 I                  insert before first non-blank in line
 K                  search for word under cursor
+  <Ctrl-W><CR>       Open file/line in a new window
+  <Ctrl-W>T          Move the new window to a new tab
 o                  open line below (and switch to insert mode)
 O                  open line above (and switch to insert mode)
 r                  replace character
@@ -141,6 +152,7 @@ y                  yank
 !                  filter through external command
 
 WINDOWS
+<C-w>T             break current window into new tab
 <C-w>r             rotate windows
 <C-w>x             swap window with next
 <C-w>|             maximize width
@@ -186,12 +198,18 @@ gem pristine {gem} restore original
 
 FUGITIVE
 :Gstatus           show Git status
-  p                  patch add
-:Gwrite            Git add current file
-:Gcommit           Git commit
-:Gread             empty buffer and check out file (%)
-:Gremove           empty buffer and remove from vim (Git?)
-:Gblame            Git blame
+  p                  add/reset --patch
+  -                  add/reset file's changes
+:Gwrite            git add current file
+:Gmove             git mv && rename buffer
+:Gcommit           git commit
+:Gread             git co -- filename on buffer (?)
+:Gremove           git rm && delete buffer
+:Gblame            git blame
+:Gedit             view blob/tree/commit/tag
+  :Gvsplit           " in vsplit
+  :Gtabedit          " in new tab
+
 
 RAILS
 :Rserver                         Rails server
@@ -248,3 +266,8 @@ echo -e "\033];title here\007"  add title to window
 OTHER
 notes              open Teladoc notes
 
+TMUX
+
+tmux list-keys | less
+tmux list-commands | less
+man tmux
