@@ -704,10 +704,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELM
 
-* Elm: [Intro page](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/)
+* Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform)
 * [My adventure with Elm - Yan Cui (New Developers Conference 2015)](https://www.youtube.com/watch?v=cBVXyxt-9_Q)
 * [Climbing into Elm - Murphy Randle (Utah Javascript Meetup 2014)](https://www.youtube.com/watch?v=-JlC2Q89yg4)
 * [Elm on the Functional Frontier - Richard Feldman](https://presentate.com/rtfeldman/talks/the-functional-frontier-elm)
+* [Elm - Evan Czaplicki](https://www.youtube.com/watch?v=ZTliDiWDV0k)
 * [Functional Reactive Programming in Elm - Evan Czaplicki (Philly ETE 2014)](https://www.youtube.com/watch?v=F-nTU3Wy26I)
 * [Accidentally Concurrent - Evan Czaplicki (CodeMesh London 2015)](https://www.youtube.com/watch?v=DfLvDFxcAIA)
 * [Composing Styles in Elm (Beginners) - Devan Stormont](https://voyageintech.wordpress.com/2015/10/25/composing-styles-in-elm/)
@@ -728,17 +729,39 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - CODE EXAMPLES
 
 * [Start app - Evan Czaplicki](https://github.com/evancz/start-app)
+* [Celestia - John P. Mayer](https://github.com/johnpmayer/celestia)
+* [Chess - Grzegorz Balcerek](https://github.com/grzegorzbalcerek/chess-elm/tree/master/Chess)
+* [Connect Four - Brad Urani](https://github.com/bradurani/connect-four-elm)
+* [Dreamwriter - Richard Feldman](https://github.com/rtfeldman/dreamwriter)
+* [Elm Checkerboard Tutorial - Hassan Hayat](https://github.com/TheSeamau5/elm-checkerboardgrid-tutorial)
+* [Elmtris - Joseph Collard](https://github.com/jcollard/elmtris)
+* [Game of Life - Juan Lulkin](https://github.com/joaomilho/game-of-life-elm)
+* [Gravity](https://github.com/stephenbalaban/Gravity)
+* [Elm Workshop (LambdaConf 2015) - Richard Feldman](https://github.com/rtfeldman/lambdaconf-2015-elm-workshop)
 * [Minesweeper - a brief journey from JavaScript/React to Elm - Magnus Rundberget](http://rundis.github.io/blog/2015/elm_sweeper.html)
 * [Elm-missile-command](https://github.com/theburningmonk/elm-missile-command)
 * [Elm-snake (game) - Yan Cui](https://github.com/theburningmonk/elm-snake)
+* [Preselm - Grzegorz Balcerek](https://github.com/grzegorzbalcerek/Preselm)
+* [Vessel](https://github.com/slawrence/vessel)
 * [Zombie Dice Score Card in Elm - James Hughes](https://yobriefca.se/blog/2015/07/29/zombie-dice-score-card-in-elm/) | [source code](https://github.com/kouphax/zombie-dice-elm)
 * [Sydron: github events visualized - Jessica Kerr](https://github.com/jessitron/elm-sydron)
+
+### ELM - EDITORS
+
+* [lambdatoast/elm.vim](https://github.com/lambdatoast/elm.vim) & [ElmCast/elm-vim](https://github.com/ElmCast/elm-vim)
+* [jcollard/elm-mode (Emacs, if you're into that kind of kinky stuff)](https://github.com/jcollard/elm-mode)
 
 ### ELM - HELP
 
 * [elm-discuss Google group](https://groups.google.com/forum/#!forum/elm-discuss)
 * [elm-dev Google group](https://groups.google.com/forum/#!forum/elm-dev)
 * [Reddit Elm](https://www.reddit.com/r/elm)
+
+### ELM - PACKAGES
+
+* [elm-audio](https://github.com/jcollard/elm-audio)
+* [elm-router - Hassan Hayat](https://github.com/TheSeamau5/elm-router)
+* [elm-undo-redo - Hassan Hayat](https://github.com/TheSeamau5/elm-undo-redo)
 
 ### ELM - PODCASTS
 
@@ -822,6 +845,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## FUNCTIONAL PROGRAMMING
 
+* [Changing the Unchangeable: The Hows and Whys of Immutable Data Structures - Brad Urani (RubyConf 2015)](https://www.youtube.com/watch?v=gTClDj9Zl1g)
 * [Carefully Composing Logic: Functional JavaScript - Brad Urani (JS.la 2015)](http://fractalbanana.com/blog/2015/09/16/carefully-composing-logic-functional-javascript-video/)
 * Professor Frisby's Mostly Adequate Guide to Functional Programming: [Webpage](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [Online](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html) | [PDF](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [ePUB](https://www.gitbook.com/download/epub/book/drboolean/mostly-adequate-guide) | [MOBI](https://www.gitbook.com/download/mobi/book/drboolean/mostly-adequate-guide)
 * [Functional programming patterns for the non-mathematician - Brian Lonsdorf (FluentConf 2014)](https://www.youtube.com/watch?v=AvgwKjTPMmM)
@@ -1829,6 +1853,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [FutureTalks - NewRelic](https://www.youtube.com/playlist?list=PLmhYj7Jl81JGTfSgMeya2R-zcISDZ9utg)
 * [Forward University](http://forwardjs.com/university)
 * [StrangeLoop 2015](https://www.youtube.com/watch?v=R2Aa4PivG0g&list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH32R)
+
+## PURESCRIPT
+
+* [PureScript by Example - Phil Freeman](https://leanpub.com/purescript/read)
 
 ## PYTHON
 
