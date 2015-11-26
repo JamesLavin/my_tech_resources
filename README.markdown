@@ -27,6 +27,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [The Startup Playbook -Sam Altman](http://playbook.samaltman.com)
 * [Lectures (by successful entrepreneurs) on "How to Start a Startup" (Stanford University)](http://startupclass.samaltman.com/)
+* [How to Build a Startup: The Lean LaunchPad - Steve Blank](https://www.udacity.com/course/how-to-build-a-startup--ep245)
+* [SteveBlank.com](http://steveblank.com/slides/#Videos)
 * [James Altucher interview podcasts](http://www.stansberryradio.com/James-Altucher/Latest-Episodes)
 * [Observatory of Economic Complexity (interactive international trade data displayed using D3)](http://atlas.media.mit.edu/en/visualize/tree_map/hs92/export/usa/all/show/2013/)
 
@@ -704,7 +706,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELM
 
-* Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform)
+* Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [debugger](http://debug.elm-lang.org/try)
 * [My adventure with Elm - Yan Cui (New Developers Conference 2015)](https://www.youtube.com/watch?v=cBVXyxt-9_Q)
 * [Climbing into Elm - Murphy Randle (Utah Javascript Meetup 2014)](https://www.youtube.com/watch?v=-JlC2Q89yg4)
 * [Elm on the Functional Frontier - Richard Feldman](https://presentate.com/rtfeldman/talks/the-functional-frontier-elm)
@@ -719,6 +721,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Let's be mainstream! User focused design in Elm - Evan Czaplicki (Curry On Prague 2015)](https://www.youtube.com/watch?v=oYk8CKH7OhE)
 * [Effects As Data - Richard Feldman (Reactive 2015)](https://www.youtube.com/watch?v=9cIEtC-V2XE&t=2h50m15s)
 * [Elm architecture tutorial - Evan Czaplicki](https://github.com/evancz/elm-architecture-tutorial)
+* [elm-d3: Front-end Development Without Frameworks (C◦mp◦se :: Conference 2015)](https://www.youtube.com/watch?v=pTlOLO7Qhls)
 * [Building Web Apps in Elm - Jivago Alves (PolyConf 2015)](https://www.youtube.com/watch?v=fq4l6C935Bg)
 * [Controlling Time and Space: Understanding the Many Formulations of FRP - Evan Czaplicki (StrangeLoop 2014)](https://www.youtube.com/watch?v=Agu6jipKfYw)
 * [Intro to the Elm Programming Language - Ryan Levick (Strange Group Meetup 2014)](https://www.youtube.com/watch?v=iseogSMdQYI)
@@ -863,6 +866,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional Thinking - Neal Ford](http://www.youtube.com/watch?v=JeK979aqqqc) & [OSCON 2013](https://www.youtube.com/watch?v=7aYS9PcAITQ)
 * [Simple and Elegant Rails Code with Functional Style - Attila Domokos (RailsConf 2013)](http://confreaks.tv/videos/2431-railsconf2013-simple-and-elegant-rails-code-with-functional-style)
 * Brian Lonsdorf: [Functors](http://forwardjs.com/university/functors) | [F-Algebras, Pt 1](http://forwardjs.com/university/f-algebras-part-1) | [F-Algebras, Pt 2](http://forwardjs.com/university/f-algebras-part-2) | [F-Algebras, Pt 3](http://forwardjs.com/university/f-algebras-part-3)
+
+### FUNCTIONAL PROGRAMMING - CONFERENCE VIDEOS
+
+* [Compose Conference 2015](http://www.composeconference.org/2015/summary/)
 
 ## GIT
 
@@ -1286,6 +1293,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### JAVASCRIPT - FUNCTIONAL PROGRAMMING
 
 * Professor Frisby's Mostly Adequate Guide to Functional Programming: [Webpage](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [Online](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html) | [PDF](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [ePUB](https://www.gitbook.com/download/epub/book/drboolean/mostly-adequate-guide) | [MOBI](https://www.gitbook.com/download/mobi/book/drboolean/mostly-adequate-guide)
+* [We Will All Be Game Programmers - Hunter Loftis](https://www.youtube.com/watch?v=avwDj3KRuLc)
 
 #### JAVASCRIPT - FUNCTIONAL PROGRAMMING - IMMUTABLE.JS
 
@@ -1856,7 +1864,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## PURESCRIPT
 
+* [main](http://www.purescript.org/) | [learn](http://www.purescript.org/learn/) | [wiki](https://github.com/purescript/purescript/wiki) | [Github](https://github.com/purescript/purescript)
 * [PureScript by Example - Phil Freeman](https://leanpub.com/purescript/read)
+
+### PURESCRIPT - HELP
+
+* [Google group](https://groups.google.com/forum/#!forum/purescript)
 
 ## PYTHON
 
@@ -3551,6 +3564,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Scala for the Impatient (free PDF; requires registration)](http://typesafe.com/resources/book/scala-for-the-impatient)
 * [Scala in Depth (free PDF; requires registration)](http://typesafe.com/resources/book/scala-in-depth)
 * [Scala Tutorial (PDF) - TutorialsPoint.com](http://tutorialspoint.com/scala/scala_tutorial.pdf)
+
+## SHOPPING TOOLS
+
+* [CamelCamelCamel](http://camelcamelcamel.com/)
+* [Nifti](http://www.nifti.com/)
+* [PriceGrabber](http://www.pricegrabber.com/)
+* [ShopSavvy](http://shopsavvy.com/)
 
 ## STATISTICAL ANALYSIS
 
