@@ -579,6 +579,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=elixir&commit=go)
 * [ElixirConf 2014 videos](http://www.confreaks.tv/events/elixirconf2014)
 * [ElixirStatus.com](http://elixirstatus.com/)
+* [Elixir Koans - Nicolas Deverge](https://github.com/dojo-toulouse/elixir-koans)
 * [Introducing reducees - José Valim](http://blog.plataformatec.com.br/2015/05/introducing-reducees/)
 * Elixir Express: [Workshop - Chris McCord (RailsConf 2014)](http://www.youtube.com/watch?v=5kYmOyJjGDM) & [Basic documentation](https://github.com/chrismccord/elixir_express/tree/master/basics) & [Advanced documentation](https://github.com/chrismccord/elixir_express/tree/master/advanced)
 * [Elixir With José Valim - HowIStart.org](https://howistart.org/posts/elixir/1)
@@ -780,11 +781,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ERLANG
 
-* [Learn You Some Erlang - Fred Hebert](http://learnyousomeerlang.com/)
+* [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/)
 * [That's "Billion" With a "B": Scaling to the Next Level at WhatsApp - Rick Reed (Erlang Factory SF 2014)](https://www.youtube.com/watch?v=c12cYAUTXXs)
 * [Erlang Master Classes](https://www.youtube.com/watch?v=gKRyAb7d8lo&list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5&index=1)
 * [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
-* [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/content)
+* [Erlang Koans - Patrick Gombert](https://github.com/patrickgombert/erlang-koans)
 * [Solving the Stable Marriage problem with Erlang](https://www.airpair.com/erlang/posts/solving-the-stable-marriage-problem-with-erlang)
 * [Thinking in a Highly Concurrent, Mostly-functional Language - Francesco Cesarini (ElixirConf 2014)](https://www.youtube.com/watch?v=d5G3P2iosmA)
 * [Advanced-Erlang.com](http://advanced-erlang.com/videos/)
@@ -917,6 +918,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Haskell: [main site](https://www.haskell.org/) | [wiki](https://wiki.haskell.org/Haskell) | [learning resources](https://wiki.haskell.org/Learning_Haskell) | [tryhaskell.org](http://tryhaskell.org/)
 * [PlanetHaskell](http://planet.haskell.org/)
+* [Haskell Koans - Vancouver Haskell Meetup](https://github.com/HaskVan/HaskellKoans)
 
 ### HASKELL - BOOKS
 
@@ -1012,6 +1014,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Javascript Show (podcasts)](http://javascriptshow.com/episodes)
 * [Codepen.io](http://codepen.io/)
 * [You Don't Know JS - Kyle Simpson](http://youdontknowjs.com)
+* [Javascript Koans - Liam McLennan](https://github.com/liammclennan/JavaScript-Koans)
 * [Advanced Introduction to JavaScript (Yakov Fain screencast)](http://www.youtube.com/watch?v=X1J0oMayvC0)
 * [Advanced Scoping & Other Puzzles (Vincenzo Tilotta)](http://www.youtube.com/watch?v=RnpPDoSzpYs)
 * [Nice discussion of scope chains, hoisting, self-executing anonymous functions, execution context, closures & module pattern (starting 28 minutes in)](http://www.youtube.com/watch?v=OrIFaWJ9Glo)
@@ -1140,6 +1143,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Smooth Coffeescript](http://autotelicum.github.com/Smooth-CoffeeScript/) [HTML doc](http://autotelicum.github.io/Smooth-CoffeeScript/SmoothCoffeeScript.html) | [PDF doc](http://autotelicum.github.io/Smooth-CoffeeScript/Smooth%20CoffeeScript%20Web%20Optimized.pdf) | [HTML interactive](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
 * [Coffeescript Cookbook](http://coffeescriptcookbook.com/)
 * [Coffeescript talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=coffeescript&commit=go)
+* [Coffeescript Koans - sleepyfox](https://github.com/sleepyfox/coffeescript-koans)
 * [Intro to Coffeescript - Aseem Kishore](http://aseemk.com/talks/intro-to-coffeescript#/80)
 * [PencilCode.net (really fun!)](http://pencilcode.net/)
 * [CoffeeScript Ristretto Online](http://ristrettolo.gy/)
@@ -1494,6 +1498,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Advanced Bash Scripting Guide](tldp.org/LDP/abs/abs-guide.pdf)
 * [Bash Hackers Wiki](http://wiki.bash-hackers.org/doku.php)
+* [Bash Koans - Marcin Bunsch](https://github.com/marcinbunsch/bash_koans)
 * [Better Bash Scripting in 15 Minutes - Robert Muth](http://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html)
 * [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.pdf)
 * [Command Line Fu](http://www.commandlinefu.com/commands/browse/sort-by-votes)
@@ -3024,6 +3029,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## RUBY
 
+* [Learn Ruby - Ruby Koans - Jim Weirich & friends](http://rubykoans.com/)
 * [Visualize Ruby code execution](http://www.pythontutor.com/visualize.html)
 * [Ruby Bookmarks - Alex Musayev](https://github.com/dreikanter/ruby-bookmarks)
 * [Github's style guide](https://github.com/styleguide/ruby)
