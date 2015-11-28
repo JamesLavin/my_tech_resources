@@ -707,12 +707,14 @@ Links to resources I have found useful or think might be helpful to future me or
 ## ELM
 
 * Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [debugger](http://debug.elm-lang.org/try)
+* [What to do with your new Elm install - Claudia Doppioslash](http://www.lambdacat.com/what-to-do-with-your-new-elm-install/)
 * [My adventure with Elm - Yan Cui (New Developers Conference 2015)](https://www.youtube.com/watch?v=cBVXyxt-9_Q)
 * [Climbing into Elm - Murphy Randle (Utah Javascript Meetup 2014)](https://www.youtube.com/watch?v=-JlC2Q89yg4)
 * [Elm on the Functional Frontier - Richard Feldman](https://presentate.com/rtfeldman/talks/the-functional-frontier-elm)
 * [Elm - Evan Czaplicki](https://www.youtube.com/watch?v=ZTliDiWDV0k)
 * [Functional Reactive Programming in Elm - Evan Czaplicki (Philly ETE 2014)](https://www.youtube.com/watch?v=F-nTU3Wy26I)
 * [Accidentally Concurrent - Evan Czaplicki (CodeMesh London 2015)](https://www.youtube.com/watch?v=DfLvDFxcAIA)
+* Elm Friday - Bastian Krol: [What Is Elm?](https://blog.codecentric.de/en/2015/11/elm-friday-part-01-what-is-elm/) | [Installing Elm](https://blog.codecentric.de/en/2015/11/elm-friday-part-02-installing-elm/) | [Hello World](https://blog.codecentric.de/en/2015/11/elm-friday-part-03-hello-world/) | [Hello World 2.0](https://blog.codecentric.de/en/2015/11/elm-friday-part-04-hello-world-2-0/) | [Functions](https://blog.codecentric.de/en/2015/11/elm-friday-part-05-functions/) | [Type Annotations](https://blog.codecentric.de/en/2015/11/elm-friday-part-06-type-annotations/)
 * [Composing Styles in Elm (Beginners) - Devan Stormont](https://voyageintech.wordpress.com/2015/10/25/composing-styles-in-elm/)
 * [Make the Back-End Team Jealous: Elm in Production - Richard Feldman (StrangeLoop 2015)](https://www.youtube.com/watch?v=FV0DXNB94NE) & [Building a Live-Validated Signup Form in Elm](http://noredinktech.tumblr.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 * [Shipping a Production Web App in Elm - Richard Feldman (Lambda Jam 2015)](https://www.youtube.com/watch?v=W9HDueiaIJ4)
@@ -774,7 +776,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - SERVER-SIDE
 
-* [servelm](https://github.com/eeue56/servel://github.com/eeue56/servelm)
+* [servelm](https://github.com/eeue56/servelm)
 
 ## ERLANG
 
@@ -3495,6 +3497,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### RUBY - TESTING - MINITEST
 
+* [Getting Started with Minitest - Ilija Eftimov](https://semaphoreci.com/community/tutorials/getting-started-with-minitest)
 * [A Big Look at MiniTest - Mark Bates (Ruby Australia 2014)](http://vimeo.com/88934438)
 * [MiniTest: Refactoring Test Unit and RSpec back to version 0.0.1 - Jared Ning (RailsConf 2012)](http://confreaks.tv/videos/913-railsconf2012-minitest-refactoring-test-unit-and-rspec-back-to-version-0-0-1)
 * [MiniTest: Write Awesome Tests - Michael J.I. Jackson (MountainWest RubyConf 2012)](http://confreaks.tv/videos/962-mwrc2012-minitest-write-awesome-tests)
