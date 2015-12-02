@@ -707,7 +707,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELM
 
-* Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [debugger](http://debug.elm-lang.org/try)
+* Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [debugger](http://debug.elm-lang.org/try)
 * [What to do with your new Elm install - Claudia Doppioslash](http://www.lambdacat.com/what-to-do-with-your-new-elm-install/)
 * [My adventure with Elm - Yan Cui (New Developers Conference 2015)](https://www.youtube.com/watch?v=cBVXyxt-9_Q)
 * [Climbing into Elm - Murphy Randle (Utah Javascript Meetup 2014)](https://www.youtube.com/watch?v=-JlC2Q89yg4)
@@ -716,10 +716,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional Reactive Programming in Elm - Evan Czaplicki (Philly ETE 2014)](https://www.youtube.com/watch?v=F-nTU3Wy26I)
 * [Accidentally Concurrent - Evan Czaplicki (CodeMesh London 2015)](https://www.youtube.com/watch?v=DfLvDFxcAIA)
 * Elm Friday - Bastian Krol: [What Is Elm?](https://blog.codecentric.de/en/2015/11/elm-friday-part-01-what-is-elm/) | [Installing Elm](https://blog.codecentric.de/en/2015/11/elm-friday-part-02-installing-elm/) | [Hello World](https://blog.codecentric.de/en/2015/11/elm-friday-part-03-hello-world/) | [Hello World 2.0](https://blog.codecentric.de/en/2015/11/elm-friday-part-04-hello-world-2-0/) | [Functions](https://blog.codecentric.de/en/2015/11/elm-friday-part-05-functions/) | [Type Annotations](https://blog.codecentric.de/en/2015/11/elm-friday-part-06-type-annotations/)
+* NON-FREE: Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
 * [Composing Styles in Elm (Beginners) - Devan Stormont](https://voyageintech.wordpress.com/2015/10/25/composing-styles-in-elm/)
 * [Make the Back-End Team Jealous: Elm in Production - Richard Feldman (StrangeLoop 2015)](https://www.youtube.com/watch?v=FV0DXNB94NE) & [Building a Live-Validated Signup Form in Elm](http://noredinktech.tumblr.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 * [Shipping a Production Web App in Elm - Richard Feldman (Lambda Jam 2015)](https://www.youtube.com/watch?v=W9HDueiaIJ4)
 * Building a Game in Elm - Brad Urani: [1a](https://www.livecoding.tv/video/building-a-game-in-elm-pt-1a/) | [1b](https://www.livecoding.tv/video/building-a-game-in-elm-pt-1b/) | [2](https://www.livecoding.tv/video/building-a-game-in-elm-2/) | [3](https://www.livecoding.tv/video/building-a-game-in-elm-3/)
+* Developing Games in Elm - Laurence Roberts: [Functional Programming](http://gelatindesign.co.uk/developing-games-in-elm/functional-programming/) | [Signals](http://gelatindesign.co.uk/developing-games-in-elm/signals/)
 * [Learning FP the hard way: Experiences on the Elm language - Ossi Hanhinen](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
 * [Let's be mainstream! User focused design in Elm - Evan Czaplicki (Curry On Prague 2015)](https://www.youtube.com/watch?v=oYk8CKH7OhE)
 * [Effects As Data - Richard Feldman (Reactive 2015)](https://www.youtube.com/watch?v=9cIEtC-V2XE&t=2h50m15s)
@@ -746,7 +748,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm Workshop (LambdaConf 2015) - Richard Feldman](https://github.com/rtfeldman/lambdaconf-2015-elm-workshop)
 * [Minesweeper - a brief journey from JavaScript/React to Elm - Magnus Rundberget](http://rundis.github.io/blog/2015/elm_sweeper.html)
 * [Elm-missile-command](https://github.com/theburningmonk/elm-missile-command)
-* [Elm-snake (game) - Yan Cui](https://github.com/theburningmonk/elm-snake)
+* [Elm-snake (game) - Yan Cui](https://github.com/theburningmonk/elm-snake) & [Snake in Elm - Joel Chelliah](https://github.com/joelchelliah/snake_in_elm)
 * [Preselm - Grzegorz Balcerek](https://github.com/grzegorzbalcerek/Preselm)
 * [Vessel](https://github.com/slawrence/vessel)
 * [Zombie Dice Score Card in Elm - James Hughes](https://yobriefca.se/blog/2015/07/29/zombie-dice-score-card-in-elm/) | [source code](https://github.com/kouphax/zombie-dice-elm)
@@ -2830,8 +2832,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Debugging Rails Applications (RailsGuides)](http://edgeguides.rubyonrails.org/debugging_rails_applications.html)
 * [RUBY - DEBUGGING](https://github.com/jameslavin/my_tech_resources#ruby---debugging)
 
-### RAILS - ENGINES & COMPONENTS
+### RAILS - ENGINES, COMPONENTS & SERVICES, OH, MY!
 
+* [An Incremental Migration from Rails Monolithic to Microservices - Erin Swenson-Healey](http://blog.carbonfive.com/2014/05/29/an-incremental-migration-from-rails-monolithic-to-microservices/)
 * [Rails Engines - BostonRb.org](http://bostonrb.org/presentations/rails-engines)
 * [Component-Based Rails Applications Resources](http://cbra.info/)
 * [Ruby-Toolbox - Testing Rails Engines](https://www.ruby-toolbox.com/categories/Testing_Rails_Engines)
@@ -3580,6 +3583,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Nifti](http://www.nifti.com/)
 * [PriceGrabber](http://www.pricegrabber.com/)
 * [ShopSavvy](http://shopsavvy.com/)
+* [TheWireCutter](http://thewirecutter.com/deals/)
 
 ## STATISTICAL ANALYSIS
 
