@@ -31,6 +31,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [SteveBlank.com](http://steveblank.com/slides/#Videos)
 * [James Altucher interview podcasts](http://www.stansberryradio.com/James-Altucher/Latest-Episodes)
 * [Observatory of Economic Complexity (interactive international trade data displayed using D3)](http://atlas.media.mit.edu/en/visualize/tree_map/hs92/export/usa/all/show/2013/)
+* [Startup Success Podcast](http://startupsuccesspodcast.com/)
 
 ## CHARACTERS
 
@@ -1861,6 +1862,22 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Phaser.io](http://phaser.io/)
 * [Game Editor (cross-platform game creator)](http://game-editor.com/)
+
+### PROGRAMMING - PODCASTS
+
+* [The Changelog](https://changelog.com/podcast/)
+* [The Cloudcast](http://www.thecloudcast.net/)
+* [Dr. Dobbs TV](http://www.drdobbs.com/tv/) (Video)
+* [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
+* [Hansel Minutes](http://www.hanselminutes.com/)
+* [Herding Code](http://herdingcode.com/)
+* [On Computing](http://www.computer.org/portal/web/computingnow/oncomputing)
+* [PathToPerf](http://pathtoperf.com/)
+* [Programming Throwdown](http://www.programmingthrowdown.com/)
+* [Shop Talk](http://shoptalkshow.com/)
+* [Software Engineering Radio](http://www.se-radio.net/)
+* [Toolsday.io](http://toolsday.io/)
+* [Turing-Incomplete](http://turing.cool/)
 
 ### PROGRAMMING - VIDEOS
 
