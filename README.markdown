@@ -727,14 +727,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Learning FP the hard way: Experiences on the Elm language - Ossi Hanhinen](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
 * [Let's be mainstream! User focused design in Elm - Evan Czaplicki (Curry On Prague 2015)](https://www.youtube.com/watch?v=oYk8CKH7OhE)
 * Phoenix with Elm - Alan Gardner: [Video (ElixirConf 2015)](http://confreaks.tv/videos/elixirconf2015-phoenix-with-elm) | [Blog Pt 1](http://www.cultivatehq.com/posts/phoenix-elm-1/) | [Blog Pt 2](http://www.cultivatehq.com/posts/phoenix-elm-2/) | [Blog Pt 3](http://www.cultivatehq.com/posts/phoenix-elm-3/) | [Blog Pt 4](http://www.cultivatehq.com/posts/phoenix-elm-4/) | [Blog Pt 5](http://www.cultivatehq.com/posts/phoenix-elm-5/) | [Blog Pt 6](http://www.cultivatehq.com/posts/phoenix-elm-6/) | [Blog Pt 7](http://www.cultivatehq.com/posts/phoenix-elm-7/) | [Blog Pt 8](http://www.cultivatehq.com/posts/phoenix-elm-8/) | [Blog Pt 9](http://www.cultivatehq.com/posts/phoenix-elm-9/) | [Blog Pt 10](http://www.cultivatehq.com/posts/phoenix-elm-10/)
-* [Effects As Data - Richard Feldman (Reactive 2015)](https://www.youtube.com/watch?v=9cIEtC-V2XE&t=2h50m15s)
+* [Effects As Data - Richard Feldman (Reactive 2015)](https://www.youtube.com/watch?v=6EdXaWfoslc)
 * [Elm architecture tutorial - Evan Czaplicki](https://github.com/evancz/elm-architecture-tutorial)
 * [elm-d3: Front-end Development Without Frameworks (C◦mp◦se :: Conference 2015)](https://www.youtube.com/watch?v=pTlOLO7Qhls)
 * [Building Web Apps in Elm - Jivago Alves (PolyConf 2015)](https://www.youtube.com/watch?v=fq4l6C935Bg)
 * [Controlling Time and Space: Understanding the Many Formulations of FRP - Evan Czaplicki (StrangeLoop 2014)](https://www.youtube.com/watch?v=Agu6jipKfYw)
 * [Intro to the Elm Programming Language - Ryan Levick (Strange Group Meetup 2014)](https://www.youtube.com/watch?v=iseogSMdQYI)
-* [Functional Reactive UIs with Elm - Shashi Gowda (Agile India 2014)](https://www.youtube.com/watch?v=EPIczPVnx3s)
+* [Functional Reactive UIs with Elm - Shashi Gowda (Agile India 2014)](https://www.youtube.com/watch?v=EPIczPVnx3s) & [Slides](https://docs.google.com/presentation/d/16Xfqd-xU8y2JEN0TIcacDoYnp0b5-W7ESDB5v1SmcXs/edit)
 * [Elm Style Guide - NoRedInk](https://github.com/NoRedInk/elm-rails/wiki/NoRedInk's-Elm-Style-Guide)
+* Real World Elm - Michael Rijnders: [Part 1](http://engineering.truqu.com/2015/08/19/real-world-elm-part-1.html) | [Part 2](http://engineering.truqu.com/2015/09/25/real-world-elm-part-2.html)
 * [Elmcast.io](http://elmcast.io)
 
 ### ELM - CODE EXAMPLES
@@ -831,10 +832,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Let's Encrypt - "lets site operators turn on and manage HTTPS with simple commands"](https://letsencrypt.org/howitworks/)
 * [Encryption Works: How to Protect Your Privacy in the Age of NSA Surveillance - Micha Leee (Freedom of the Press Foundation)](https://freedom.press/encryption-works)
 
-## EVENT SOURCING/STREAMS
+## EVENT SOURCING/STREAMS/REACTIVE PROGRAMMING
 
 * [Event Sourcing - Martin Fowler](http://martinfowler.com/eaaDev/EventSourcing.html)
 * [Event Sourcing - Bryan Reinero (GoRuCo 2015)](http://confreaks.tv/videos/goruco2015-event-sourcing)
+* [An Event-driven and Reactive Future - Jonathan Worthington (FooCafe 2014)](https://www.youtube.com/watch?v=_VdIQTtRkb8)
 * [Polyglot Data - Greg Young (GOTO Conference 2014)](https://www.youtube.com/watch?v=hv2dKtPq0ME)
 * [CQRS and Event Sourcing - Greg Young (Code on the Beach 2014)](https://www.youtube.com/watch?v=JHGkaShoyNs)
 * [Querying Event Streams - Greg Young (React 2014)](https://www.youtube.com/watch?v=DWhQggR13u8)
@@ -1121,8 +1123,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [JavaScript Playground](http://javascriptplayground.com/blog)
 * [ModernWeb.com](http://modernweb.com/category/web/javascript/)
 
-### JAVASCRIPT - BOWER & BROCCOLI
+### JAVASCRIPT - BUILD TOOLS
 
+* [Brunch.io](https://github.com/brunch/brunch-guide#readme)
 * [Bower (package manager)](http://bower.io/)
 * [Broccoli (asset pipeline / build tool)](https://github.com/broccolijs/broccoli)
 * [No More 'Grunt Watch': Modern build workflows with Broccoli (EmberConf 2014)](https://www.youtube.com/watch?v=PEb4BiXH4bE)
@@ -1303,6 +1306,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - FUNCTIONAL PROGRAMMING
 
+* [Functional Layout - Updating the DOM at 60FPS - David Valdman (JS Conf EU 2015)](http://confreaks.tv/videos/jsconfeu2015-functional-layout-updating-the-dom-at-60fps)
+* [Functional programming and curry cooking in JS - Stefanie Schirmer (JS Conf EU 2015)](http://confreaks.tv/videos/jsconfeu2015-functional-programming-and-curry-cooking-in-js)
 * Professor Frisby's Mostly Adequate Guide to Functional Programming: [Webpage](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [Online](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html) | [PDF](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [ePUB](https://www.gitbook.com/download/epub/book/drboolean/mostly-adequate-guide) | [MOBI](https://www.gitbook.com/download/mobi/book/drboolean/mostly-adequate-guide)
 * [We Will All Be Game Programmers - Hunter Loftis](https://www.youtube.com/watch?v=avwDj3KRuLc)
 
@@ -1328,6 +1333,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### JAVASCRIPT - FUNCTIONAL REACTIVE PROGRAMMING - REACT.JS
 
+* Learn React, Flux, and Flow - Colin Megill: [Part 1](https://www.youtube.com/watch?v=Pd6Ub7Ju2RM) | [Part 2](https://www.youtube.com/watch?v=iR22EWW-CVc)
 * [React and Flux: Building Applications with a Unidirectional Data Flow - Bill Fisher and Jing Chen (Forward.JS 2014)](https://www.youtube.com/watch?v=i__969noyAM)
 * [Secrets of the Virtual DOM - Pete Hunt (Barcelona Future Javascript)](https://www.youtube.com/watch?v=-DX3vJiqxm4)
 * [React and Rails](http://rny.io/rails/react/2014/07/31/reactjs-and-rails.html)
@@ -1438,6 +1444,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### JAVASCRIPT - TOOLS
 
 * [CreateJS (Javascript libraries & tools for building rich, interactive experiences with HTML5)](http://createjs.com/)
+
+### JAVASCRIPT - VIDEOS
+
+* [JS Conf EU 2015](http://confreaks.tv/events/jsconfeu2015)
 
 ## JEKYLL
 
@@ -1865,6 +1875,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Phaser.io](http://phaser.io/)
 * [Game Editor (cross-platform game creator)](http://game-editor.com/)
 
+### PROGRAMMING - MESSAGING & QUEUES
+
+* [Decouple all the things: Asynchronous messaging keeps it simple - Kerstin Puschke (ArrrrCamp 2015)](http://confreaks.tv/videos/arrrrcamp2015-decouple-all-the-things-asynchronous-messaging-keeps-it-simple)
+
 ### PROGRAMMING - PODCASTS
 
 * [The Changelog](https://changelog.com/podcast/)
@@ -2064,6 +2078,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Pandas Pivot Table Explained - Chris Moffitt](http://pbpython.com/pandas-pivot-table-explained.html)
 * [Openpyxl: library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files](https://bitbucket.org/openpyxl/openpyxl)
 
+##### PYTHON - DATA ANALYSIS - PANDAS - PERFORMANCE
+
+* [Performance Pandas - Jeff Reback](https://www.youtube.com/watch?v=2RW9zSQF1Sk)
+
 #### PYTHON - DATA ANALYSIS - PYBRAIN
 
 * [PyBrain](http://www.pybrain.org/)
@@ -2158,6 +2176,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### PYTHON - DATA ANALYSIS - VIDEOS
 
+* [PyData NYC 2015 conference videos](https://www.youtube.com/playlist?list=PLGVZCDnMOq0ourWlul1F7aYE30VQPaMRL)
 * [PyData conference videos](https://www.youtube.com/user/PyDataTV)
 
 #### PYTHON - DATA ANALYSIS - XRAY
@@ -2348,8 +2367,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to Pandas and Vincent](http://neckbeardrepublic.com/screencasts/pandas-vincent)
 * [Mapping Data in Python with Pandas and Vincent](http://wrobstory.github.io/2013/10/mapping-data-python.html)
 
-### PYTHON - IPYTHON NOTEBOOK
+### PYTHON - IPYTHON NOTEBOOK / Jupyter
 
+* [All About Jupyter - Brian Granger](https://www.youtube.com/watch?v=GMKZD1Ohlzk)
 * [iPython](http://ipython.org/)
 * [Documentation](http://ipython.org/ipython-doc/dev/notebook/index.html) & [Keyboard Shortcuts](http://ipython.org/ipython-doc/1/interactive/notebook.html#keyboard-shortcuts) & [Cookbook](https://github.com/ipython/ipython/wiki/Cookbook%3A-Index)
 * [Quick reference sheets](http://damontallen.github.io/IPython-quick-ref-sheets/)
@@ -3221,6 +3241,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - DEBUGGING
 
+* [Peeking into Ruby: Tracing Running Code - Jason Clark (ArrrrCamp 2015)](http://confreaks.tv/videos/arrrrcamp2015-peeking-into-ruby-tracing-running-code)
 * [What’s happening in your Rails app? Introduction to Introspection features of Ruby - Koichi Sasada (RailsConf 2015)](http://confreaks.tv/videos/railsconf2015-what-s-happening-in-your-rails-app-introduction-to-introspection-features-of-ruby)
 * [The Scientific Method of Troubleshooting - Blithe Rocher (GoGaRuCo 2014)](http://www.confreaks.tv/videos/4161-gogaruco2014-the-scientific-method-of-troubleshooting)
 * [We're sorry, but something went wrong - Aja Hammerly (CascadiaRuby 2013)](http://confreaks.tv/videos/2783-cascadiaruby2013-we-re-sorry-but-something-went-wrong)
