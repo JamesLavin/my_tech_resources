@@ -627,6 +627,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - DEPLOYMENT
 
+* exrm: [source](https://github.com/bitwalker/exrm) & [documentation](https://hexdocs.pm/exrm/extra-getting-started.html)
 * [Fast Continuous Deployment of an Elixir Gameserver - Martin Kavalar & Martin Schurrer](https://www.youtube.com/watch?v=RoT8RnQHvgo)
 
 ### ELIXIR - EARMARK
