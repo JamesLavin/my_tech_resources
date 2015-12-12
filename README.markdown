@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-Links to resources I have found useful or think might be helpful to future me or Ruby/Javascript/Python/Elixir developers like me.
+Links to resources I have found useful or think might be helpful to future me or Ruby/Javascript/Python/Elixir/Elm developers like me.
 
 ## MAJOR CATEGORIES
 
@@ -573,7 +573,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELIXIR
 
-* Elixir: [Docs](http://elixir-lang.org/docs.html) & [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html)
+* Elixir: [Docs](http://elixir-lang.org/docs.html) & [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html) & [Elixir-lang-talk group](https://groups.google.com/forum/?fromgroups#!forum/elixir-lang-talk) & [Elixir Core mailing list](https://groups.google.com/forum/#!forum/elixir-lang-core)
 * [What Elixir is About - José Valim (Erlang Factory SF 2015)](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
 * [Elixir with José Valim](http://howistart.org/posts/elixir/1)
 * [Sweet Elixir! - Ryan Cromwell](http://www.infoq.com/presentations/elixir) & [full notes](https://github.com/cromwellryan/sweetelixir)
@@ -604,7 +604,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [High Availability - Saša Jurić](https://www.youtube.com/watch?v=wYttHG3S76Y)
 * [Ruby and Elixir - Casey Rosenthal (Portland Ruby Brigade Jan 2015)](http://confreaks.tv/videos/pdxrbjan2015-ruby-and-elixir)
 * [Hex: How it was built - Eric Meadows–Jönsson (ElixirConf 2014](https://www.youtube.com/watch?v=VAa7YnZo0hU)
-* [Elixir Sips (non-free)](http://elixirsips.com)
+* [Elixir Sips (non-free)](http://elixirsips.com) & [Sipper (downloader) - Henrik Nyh](https://github.com/henrik/sipper)
+* [Elixir Starters](http://elixirstarters.github.io/)
 * [Elixir Freenode IRC](http://irc.lc/freenode/elixir)
 * [Awesome Elixir - Curated list of Elixir/Erlang libraries, resources & shiny things](https://github.com/h4cc/awesome-elixir)
 * [Writing Command Line Applications with Elixir - James Smith (ElixirConf 2014)](https://www.youtube.com/watch?v=7l_fDU86pr4)
@@ -924,6 +925,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## HASKELL
 
 * Haskell: [main site](https://www.haskell.org/) | [wiki](https://wiki.haskell.org/Haskell) | [learning resources](https://wiki.haskell.org/Learning_Haskell) | [tryhaskell.org](http://tryhaskell.org/)
+* [Write You a Haskell: Building a modern functional compiler from first principles - Stephen Diehl](http://dev.stephendiehl.com/fun/WYAH.pdf)
 * [PlanetHaskell](http://planet.haskell.org/)
 * [Haskell Koans - Vancouver Haskell Meetup](https://github.com/HaskVan/HaskellKoans)
 
@@ -1732,6 +1734,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ## OOP
 
 * [OOP and Philosophy - Steve Klabnik (RubyMidwest 2013)](http://confreaks.tv/videos/2370-rmw2013-oop-and-philosophy)
+
+## PERL
+
+* [Modern Perl, 4th ed (free ebook)](https://pragprog.com/book/swperl/modern-perl-fourth-edition)
 
 ## POSTGRESQL
 
@@ -3097,6 +3103,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - 2.1
 
+* [Ruby keyword args and the options hash, from the parser to the virtual machine - Étienne Barrié (ArrrrCamp 2015)](https://www.youtube.com/watch?v=e4t9dts_07g)
 * [Why I am excited about Ruby 2.1 - Sam Saffron (Ruby Australia 2014)](http://vimeo.com/89491942)
 * [New Ruby 2.1 Awesomeness: Pro Object Allocation Tracing - Sam Rawlins (MountainWest Ruby 2014)](http://confreaks.tv/videos/3272-mwrc-new-ruby-2-1-awesomeness-pro-object-allocation-tracing)
 
