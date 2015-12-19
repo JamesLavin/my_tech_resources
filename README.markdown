@@ -414,6 +414,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Docker Remote API](https://docs.docker.com/reference/api/docker_remote_api/)
 * [Docker-api Ruby gem](https://github.com/swipely/docker-api)
 
+### DEVOPS - DOKKU
+
+* Dokku: [Github](https://github.com/dokku/dokku) | [website](http://dokku.viewdocs.io/dokku/) | [documentation](http://dokku.viewdocs.io/dokku/installation/)
+* [One-click install-and-deploy Dokku on DigitalOcean](https://www.digitalocean.com/features/one-click-apps/dokku/)
+* [Running Dokku on Digital Ocean - Henrik Nyh](https://gist.github.com/henrik/26bb73091712aa42abf2)
+
 ### DEVOPS - LOGGING
 
 #### DEVOPS - LOGGING - ELK (Elasticsearch + Logstash + Kibana)
@@ -684,6 +690,8 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ELIXIR - PHOENIX - DEPLOYMENT
 
 * [Phoenix Flying High: Deploying Phoenix The Final Part](http://www.elixirdose.com/post/phoenix_part_5_deploying_phoenix_the_final_part)
+* [One-Click Install Elixir on Ubuntu 14.04 with DigitalOcean](https://www.digitalocean.com/community/tutorials/one-click-install-elixir-on-ubuntu-14-04-with-digitalocean)
+* [Deploying Phoenix on Dokku - Henrik Nyh](https://gist.github.com/henrik/c70e32544e09c1a79841)
 * [Deploying a Phoenix application using ansible-elixir-stack - Johan Wärlander](http://blog.johanwarlander.com/2015/07/30/deploying-a-phoenix-application-using-ansible-elixir-stack.html)
 * [Ansible-elixir-stack](https://github.com/HashNuke/ansible-elixir-stack)
 
