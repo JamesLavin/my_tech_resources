@@ -855,6 +855,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Let's Encrypt - "lets site operators turn on and manage HTTPS with simple commands"](https://letsencrypt.org/howitworks/)
 * [Encryption Works: How to Protect Your Privacy in the Age of NSA Surveillance - Micha Leee (Freedom of the Press Foundation)](https://freedom.press/encryption-works)
 
+### - ENCRYPTION - FREE CERTS
+
+* [LetsEncrypt.org](https://letsencrypt.org/) | [Github](https://github.com/letsencrypt/letsencrypt) | [Twitter](https://twitter.com/letsencrypt)
+* [Free HTTPS certs for all – Let's Encrypt opens doors to world+dog](http://www.theregister.co.uk/2015/12/03/letsencrypt_public_beta/)
+
 ## EVENT SOURCING/STREAMS/REACTIVE PROGRAMMING
 
 * [Event Sourcing - Martin Fowler](http://martinfowler.com/eaaDev/EventSourcing.html)
