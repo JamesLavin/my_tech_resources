@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Elm](#elm) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Learning](#learning) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [MongoDB](#mongodb) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free), [data analysis](#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Elm](#elm) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Learning](#learning) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free), [data analysis](#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## ANIMATION
 
@@ -418,6 +418,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Dokku: [Github](https://github.com/dokku/dokku) | [website](http://dokku.viewdocs.io/dokku/) | [documentation](http://dokku.viewdocs.io/dokku/installation/)
 * [One-click install-and-deploy Dokku on DigitalOcean](https://www.digitalocean.com/features/one-click-apps/dokku/)
+* [Make Your Own Heroku with Dokku and DigitalOcean - Roger Stringer](http://rogerstringer.com/2015/05/13/make-your-own-heroku/)
+* [Create Your Own Heroku Using Dokku-alt on DigitalOcean - Samudra Harapan Bekti](http://bekti.io/create-your-own-heroku-using-dokku-alt-on-digitalocean/)
+* [Deploying Dokku to DigitalOcean for excellent deploying goodness - Pam Selle](http://thewebivore.com/tutorial-deploying-dokku-to-digitalocean-for-excellent-deploying-goodness/)
 * [Running Dokku on Digital Ocean - Henrik Nyh](https://gist.github.com/henrik/26bb73091712aa42abf2)
 
 ### DEVOPS - LOGGING
@@ -748,7 +751,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Building Web Apps in Elm - Jivago Alves (PolyConf 2015)](https://www.youtube.com/watch?v=fq4l6C935Bg)
 * [Controlling Time and Space: Understanding the Many Formulations of FRP - Evan Czaplicki (StrangeLoop 2014)](https://www.youtube.com/watch?v=Agu6jipKfYw)
 * [Intro to the Elm Programming Language - Ryan Levick (Strange Group Meetup 2014)](https://www.youtube.com/watch?v=iseogSMdQYI)
-* [Functional Reactive UIs with Elm - Shashi Gowda (Agile India 2014)](https://www.youtube.com/watch?v=EPIczPVnx3s) & [Slides](https://docs.google.com/presentation/d/16Xfqd-xU8y2JEN0TIcacDoYnp0b5-W7ESDB5v1SmcXs/edit)
+* [Functional Reactive UIs with Elm - Shashi Gowda (Agile India 2014)](https://www.youtube.com/watch?v=EPIczPVnx3s) & [Slides](https://docs.google.com/presentation/d/16Xfqd-xU8y2JEN0TIcacDoYnp0b5-W7ESDB5v1SmcXs/edit) & [FunctionalConf 2014](https://confengine.com/functional-conf-2014/proposal/329/functional-reactive-uis-with-elm)
 * [Elm Style Guide - NoRedInk](https://github.com/NoRedInk/elm-rails/wiki/NoRedInk's-Elm-Style-Guide)
 * Real World Elm - Michael Rijnders: [Part 1](http://engineering.truqu.com/2015/08/19/real-world-elm-part-1.html) | [Part 2](http://engineering.truqu.com/2015/09/25/real-world-elm-part-2.html)
 * [Elmcast.io](http://elmcast.io)
@@ -804,9 +807,6 @@ Links to resources I have found useful or think might be helpful to future me or
 ## ERLANG
 
 * [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/)
-* [That's "Billion" With a "B": Scaling to the Next Level at WhatsApp - Rick Reed (Erlang Factory SF 2014)](https://www.youtube.com/watch?v=c12cYAUTXXs)
-* [Erlang Master Classes](https://www.youtube.com/watch?v=gKRyAb7d8lo&list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5&index=1)
-* [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
 * [Erlang Koans - Patrick Gombert](https://github.com/patrickgombert/erlang-koans)
 * [Solving the Stable Marriage problem with Erlang](https://www.airpair.com/erlang/posts/solving-the-stable-marriage-problem-with-erlang)
 * [Thinking in a Highly Concurrent, Mostly-functional Language - Francesco Cesarini (ElixirConf 2014)](https://www.youtube.com/watch?v=d5G3P2iosmA)
@@ -836,6 +836,13 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ERLANG - PERFORMANCE
 
 * [Comparison of Erlang Runtime System and Java Virtual Machine - Tõnis Pool](http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf)
+
+### ERLANG - VIDEOS
+
+* [That's "Billion" With a "B": Scaling to the Next Level at WhatsApp - Rick Reed (Erlang Factory SF 2014)](https://www.youtube.com/watch?v=c12cYAUTXXs)
+* [Erlang Master Classes](https://www.youtube.com/watch?v=gKRyAb7d8lo&list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5&index=1)
+* [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
+* [An Introduction to Erlang (for Python programmers) - Paul Barry](https://www.youtube.com/watch?v=yRJZxV8uPhg)
 
 ## EMERGING TECHNOLOGIES
 
@@ -1350,6 +1357,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### JAVASCRIPT - FUNCTIONAL REACTIVE PROGRAMMING - REACT.JS
 
+* [Thinking in React - Pete Hunt](https://facebook.github.io/react/docs/thinking-in-react.html)
 * Learn React, Flux, and Flow - Colin Megill: [Part 1](https://www.youtube.com/watch?v=Pd6Ub7Ju2RM) | [Part 2](https://www.youtube.com/watch?v=iR22EWW-CVc)
 * [React and Flux: Building Applications with a Unidirectional Data Flow - Bill Fisher and Jing Chen (Forward.JS 2014)](https://www.youtube.com/watch?v=i__969noyAM)
 * [Secrets of the Virtual DOM - Pete Hunt (Barcelona Future Javascript)](https://www.youtube.com/watch?v=-DX3vJiqxm4)
