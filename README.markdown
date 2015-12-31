@@ -44,7 +44,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## CHINESE
 
-* [InfoQ Chinese news](http://www.infoq.com/cn/news/)
+* [InfoQ Chinese news](http://www.infoq.com/cn/)
 * [Peking Univesity EdX courses](https://www.edx.org/school/pekingx)
     * [魅力机器人 | The Fascinating World of Robots and Robotics](https://www.edx.org/course/mei-li-ji-qi-ren-fascinating-world-pekingx-00330280x-0)
     * [数据结构与算法第一部分 | Data Structures and Algorithms Part 1 (Beijing University)](https://www.edx.org/course/pekingx/pekingx-04830050x-shu-ju-jie-gou-yu-suan-2061) & [Part 2](https://www.edx.org/course/shu-ju-jie-gou-yu-suan-fa-di-er-bu-fen-pekingx-04830050-2x)
@@ -72,7 +72,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### CHINESE - SCIENCE FICTION
 
-* [刘慈欣：科学中的故事资源](https://www.youtube.com/watch?v=NdYYc6IOAgc)
+* [刘慈欣：科学中的故事资源](https://www.youtube.com/watch?v=NdYYc6IOAgc) & [full list](https://www.youtube.com/results?search_query=%E5%88%98%E6%85%88%E6%AC%A3%EF%BC%9A%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E6%95%85%E4%BA%8B%E8%B5%84%E6%BA%90)
 
 ## CLEAN CODE
 
@@ -414,6 +414,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Docker Remote API](https://docs.docker.com/reference/api/docker_remote_api/)
 * [Docker-api Ruby gem](https://github.com/swipely/docker-api)
 
+#### DEVOPS - DOCKER - VIDEOS
+
+* [DockerCon Online Meetup 2015](http://confreaks.tv/events/dockeronlinemeetup2015)
+* [DockerCon EU 2015](http://confreaks.tv/events/dockerconeu2015)
+* [DockerCon & Co](http://confreaks.tv/events/docker&co2015)
+
 ### DEVOPS - DOKKU
 
 * Dokku: [Github](https://github.com/dokku/dokku) | [website](http://dokku.viewdocs.io/dokku/) | [documentation](http://dokku.viewdocs.io/dokku/installation/)
@@ -624,6 +630,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Closures: Elixir vs. Ruby vs. JavaScript - Hubert Łępicki](https://www.amberbit.com/blog/2015/6/14/closures-elixir-vs-ruby-vs-javascript/)
 * [Embedding Elixir Structs in Ecto Models - Josh Steiner](https://robots.thoughtbot.com/embedding-elixir-structs-in-ecto-models)
 * [ExMachina for Elixir: Factories with a Functional Twist - Josh Steiner & Paul Smith](https://robots.thoughtbot.com/announcing-ex-machina)
+* [RED:4 - Learn Elixir The Fun Way (NOT FREE: $40) - Rob Conery](http://www.redfour.io/)
 
 ### ELIXIR - ATLAS
 
@@ -676,6 +683,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Real time web applications with Elixir and Phoenix - Eoin Shanaghy (CorkDev 2015)](https://www.youtube.com/watch?v=DKGqJpT5pvU)
 * [Phoenix: A web framework for the new web - José Valim (PolyConf 2015)](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
 * [Phoenix - A Framework for the Modern Web - Chris McCord](https://vimeo.com/131633172)
+* [Live With Elixir & Phoenix (& React)- @mrwade](https://www.youtube.com/watch?v=quRwsJuP1uc)
 * Phoenix with Elm - Alan Gardner: [Video (ElixirConf 2015)](http://confreaks.tv/videos/elixirconf2015-phoenix-with-elm) | [Blog Pt 1](http://www.cultivatehq.com/posts/phoenix-elm-1/) | [Blog Pt 2](http://www.cultivatehq.com/posts/phoenix-elm-2/) | [Blog Pt 3](http://www.cultivatehq.com/posts/phoenix-elm-3/) | [Blog Pt 4](http://www.cultivatehq.com/posts/phoenix-elm-4/) | [Blog Pt 5](http://www.cultivatehq.com/posts/phoenix-elm-5/) | [Blog Pt 6](http://www.cultivatehq.com/posts/phoenix-elm-6/) | [Blog Pt 7](http://www.cultivatehq.com/posts/phoenix-elm-7/) | [Blog Pt 8](http://www.cultivatehq.com/posts/phoenix-elm-8/) | [Blog Pt 9](http://www.cultivatehq.com/posts/phoenix-elm-9/) | [Blog Pt 10](http://www.cultivatehq.com/posts/phoenix-elm-10/)
 * Brandon Richey: [Writing a Blog in Phoenix and Elixir, Part 1](https://medium.com/@diamondgfx/introduction-fe138ac6079d) | [Part 2: Authorization](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-part-2-authorization-814c06fa7c0) | [Debugging Phoenix with IEx.pry](https://medium.com/@diamondgfx/debugging-phoenix-with-iex-pry-5417256e1d11) | [Testing Validations in Elixir and Ecto](https://medium.com/@diamondgfx/testing-validations-in-elixir-and-ecto-677bd8a071a1) | [Writing a Blog Engine in Phoenix and Elixir: Part 4, Adding Roles to our Controllers](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-part-4-adding-roles-to-our-controllers-9f4678b48468#.ngm5g5vnt) | [Errata 1](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-errata-1-b370269b66c7)
 * Elixirdose.com Phoenix tutorial: [Part 1](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix) | [Part 2](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix_2) | [Part 3](http://www.elixirdose.com/post/Phoenix%20Part%203) | [Part 4](http://www.elixirdose.com/post/Phoenix%20Part%204) | [Part 5](http://www.elixirdose.com/post/phoenix_part_5_deploying_phoenix_the_final_part)
@@ -816,7 +824,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ERLANG - DOCUMENTATION
 
-* [Erlang.org](http://erlang.org/doc/)
+* [Erlang.org](http://erlang.org/doc/) | [erlang-questions (Google group)](https://groups.google.com/forum/#!forum/erlang-questions)
 * [ErlDocs.com](http://erldocs.com/)
 * [Getting Started with Erlang User's Guide - Ericsson](http://erlang.org/doc/getting_started/users_guide.html)
 * [Erlang Reference Manual User's Guide - Ericsson ](http://erlang.org/doc/reference_manual/users_guide.html)
@@ -839,6 +847,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ERLANG - VIDEOS
 
+* [Introduction to Erlang - Steven Proctor (LambdaConf 2015)](https://www.youtube.com/watch?v=0YpCBRJJtPg)
 * [That's "Billion" With a "B": Scaling to the Next Level at WhatsApp - Rick Reed (Erlang Factory SF 2014)](https://www.youtube.com/watch?v=c12cYAUTXXs)
 * [Erlang Master Classes](https://www.youtube.com/watch?v=gKRyAb7d8lo&list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5&index=1)
 * [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
@@ -907,6 +916,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - CONFERENCE VIDEOS
 
+* [LambdaConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
 * [Compose Conference 2015](http://www.composeconference.org/2015/summary/)
 
 ## GIT
@@ -955,6 +965,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Write You a Haskell: Building a modern functional compiler from first principles - Stephen Diehl](http://dev.stephendiehl.com/fun/WYAH.pdf)
 * [PlanetHaskell](http://planet.haskell.org/)
 * [Haskell Koans - Vancouver Haskell Meetup](https://github.com/HaskVan/HaskellKoans)
+* [Modeling Data in Haskell for Beginners - Chris Allen (LambdaConf 2015)](https://www.youtube.com/watch?v=p-NBJm0kIYU)
 
 ### HASKELL - BOOKS
 
@@ -1512,6 +1523,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## LEARNING
 
+* [Learning How to Learn - Drs. Barbara Oakley & Terrence Sejnowski (Coursera)](https://www.coursera.org/learn/learning-how-to-learn/)
 * [Carnegie Mellon Open Learning Initiative](http://oli.cmu.edu/learn-with-oli/see-our-free-open-courses/)
 * [Coursera.org](https://www.coursera.org/)
 * [EdX.org](https://www.edx.org/)
@@ -1567,7 +1579,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## MACHINE LEARNING
 
 * [Un-Artificial Intelligence - Melinda Seckington (GoRuCo 2015)](https://www.youtube.com/watch?v=7Y1Bv2BJDLs)
-* [Machine Learning (online Coursera class with Stanford professor Andrew Ng)](https://www.coursera.org/course/ml)
+* [Machine Learning (online Coursera class with Stanford professor Andrew Ng)](https://www.coursera.org/learn/machine-learning)
 * [Machine Learning (online course from University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 * [Intro to Machine Learning: Pattern Recognition for Fun and Profit - Sebastian Thrun and Katie Malone (Udacity)]()
 * [Artificial Intelligence (online EdX.org class from UC Berkeley)](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs188-1x-artificial-579)
@@ -1819,6 +1831,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PRODUCT DEVELOPMENT - PEOPLE & PROCESS
 
 * [Humane Development - Ernie Miller (RailsConf 2015)](https://www.youtube.com/watch?v=-ZLYxLjwNWo) & [(RubyOnAles 2015](https://www.youtube.com/watch?v=SsReC-u--gg)
+* [What We Actually Know About Software Development, and Why We Believe It’s True - Greg Wilson](https://vimeo.com/9270320)
 * [Amelia Bedelia Learns to Code - Kylie Stradley (RailsConf 2015)](https://www.youtube.com/watch?v=bSbla50tqZE)
 * [Lessons from Theater and Software - Kevin Stevens (Rocky Mountain Ruby 2013)](http://confreaks.tv/videos/2771-rockymountainruby2013-lightning-talk-lessons-from-theater-and-software)
 * [5 Things I Wish Someone Had Told Me About Programming Before I Started - Kerri Miller (RubyConf 2014)](http://confreaks.tv/videos/rubyconf2014-5-things-i-wish-someone-had-told-me-about-programming-before-i-started)
@@ -1941,6 +1954,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## PURESCRIPT
 
 * [main](http://www.purescript.org/) | [learn](http://www.purescript.org/learn/) | [wiki](https://github.com/purescript/purescript/wiki) | [Github](https://github.com/purescript/purescript)
+* [Learn Functional Programming with PureScript - John A De Goes (LambdaConf 2015)](https://www.youtube.com/watch?v=LqYfdmb0eUU)
 * [PureScript by Example - Phil Freeman](https://leanpub.com/purescript/read)
 
 ### PURESCRIPT - HELP
@@ -2458,11 +2472,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Programming Foundations with Python: Learn Object-Oriented Programming - Kunal Chawla (Udacity)](https://www.udacity.com/course/ud036)
 * [Python for Informatics: Exploring Information - Charles Severance](http://www.pythonlearn.com/book.php), [PDF](http://www.pythonlearn.com/book_008.pdf) & [videos](http://pythonlearn.com/)
 * [Intro to Python - Keven Sheppard](http://www.kevinsheppard.com/Python_Course#YouTube_Catch-up)
+* [Programming for Everybody (Getting Started with Python) - Charles Severance (University of Michigan)](https://www.coursera.org/learn/python)
 * [Let's Learn Python - Trevor Payne](https://www.youtube.com/user/TPayneExperience/playlists?sort=dd&shelf_id=2&view=50)
 * [Hello, Little Turtles!](http://interactivepython.org/runestone/static/thinkcspy/PythonTurtle/helloturtle.html)
 * [Python Programming - Introduction - TDChannel](https://www.youtube.com/watch?v=72RKMMyLxS8)
 * Google's Python Class: [Website](https://developers.google.com/edu/python/), [Google Python Class Day 1, Pt 1: Intro & Strings](https://www.youtube.com/watch?v=tKTZoB2Vjuk), [Day 1, Pt 2: Lists, Sorting and Tuples](https://www.youtube.com/watch?v=EPYupizJYQI), [Day 1, Pt 3](https://www.youtube.com/watch?v=haycL41dAhg), [Day 2, Pt 1: Regular Expressions](https://www.youtube.com/watch?v=kWyoYtvJpe4), [Day 2, Pt 2: Utilities: OS & Commands](https://www.youtube.com/watch?v=uKZ8GBKmeDM), [Day 2, Pt 3: Utilities: URLs, and HTTP, Exceptions](https://www.youtube.com/watch?v=Nn2KQmVF5Og), [Day 2, Pt 4: Closing Thoughts](https://www.youtube.com/watch?v=IcteAbMC1Ok)
-* [An Introduction to Interactive Programming in Python - Rice University (Coursera)](https://www.coursera.org/course/interactivepython)
+* [An Introduction to Interactive Programming in Python - Rice University (Coursera)](https://www.coursera.org/course/interactivepython1) & [Course 2](https://www.coursera.org/course/interactivepython2)
 * [Short Python tutorials - Bucky Roberts](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
 * [Python for Programmers: A Project-Based Tutorial - Alexandra Strong, Kantharine Jarmul and Christine Cheung](https://www.youtube.com/watch?v=Nc16qeGBtMU)
 * [Documentation, Testing, and Packaging - Jake Vanderplas](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/20_DocsAndTesting.html)
@@ -2651,6 +2666,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Data Analysis videos - Jeff Leek's Coursera course](http://www.youtube.com/playlist?list=PLXBDYmaCbeL8efhOZS4g9W6Z3m9_hFSnT) & [lecture notes](https://github.com/jtleek/dataanalysis) & [Coursera course](https://www.coursera.org/course/dataanalysis)
 * [Beginner's guide to R: (6-part) Introduction (ComputerWorld)](http://www.computerworld.com/s/article/print/9239625/Beginner_s_guide_to_R_Introduction?taxonomyName=Business+Intelligence%2FAnalytics&taxonomyId=9) & [Beginner's guide to R: Useful resources](http://www.computerworld.com/s/article/print/9239799/Beginner_s_guide_to_R_Useful_resources?taxonomyName=Business+Intelligence%2FAnalytics&taxonomyId=9)
 * [Quick-R](http://www.statmethods.net)
+* [R Programming - Johns Hopkins University (Coursera)](https://www.coursera.org/learn/r-programming)
+* [The Data Scientist’s Toolbox - Jeff Leek, Roger Peng, Brian Caffo](https://www.coursera.org/learn/data-scientists-tools)
 * [The Little Book of R for Time Series](https://media.readthedocs.org/pdf/a-little-book-of-r-for-time-series/latest/a-little-book-of-r-for-time-series.pdf)
 * [One Page R](http://onepager.togaware.com/)
 * [Rtips - Paul E. Johnson - HTML](http://pj.freefaculty.org/R/Rtips.html) & [PDF]()
@@ -3651,6 +3668,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Scala for the Impatient (free PDF; requires registration)](http://typesafe.com/resources/book/scala-for-the-impatient)
 * [Scala in Depth (free PDF; requires registration)](http://typesafe.com/resources/book/scala-in-depth)
 * [Scala Tutorial (PDF) - TutorialsPoint.com](http://tutorialspoint.com/scala/scala_tutorial.pdf)
+
+## SCRATCH
+
+* [Programming in Scratch - Harvey Mudd College (edX)](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-0)
 
 ## SHOPPING TOOLS
 
