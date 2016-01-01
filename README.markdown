@@ -168,6 +168,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [How To Make a Slide Out Navigation with HTML/CSS (No JavaScript)](https://www.youtube.com/watch?v=d4P8s-mkMvs)
 
+### CSS - FLEXBOX
+
+* [A Complete Guide to Flexbox - Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Solved By Flexbox - Philip Walton](http://philipwalton.github.io/solved-by-flexbox/)
+* [W3C spec](http://www.w3.org/TR/css3-flexbox/)
+
 ### CSS - RESPONSIVE DESIGN
 
 * [Laziness in the Time of Responsive Design - Ethan Marcotte (Constant Contact 2014)](http://www.confreaks.tv/videos/4605-e4e2014-laziness-in-the-time-of-responsive-design)
@@ -773,6 +779,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Connect Four - Brad Urani](https://github.com/bradurani/connect-four-elm)
 * [Dreamwriter - Richard Feldman](https://github.com/rtfeldman/dreamwriter)
 * [Elm Checkerboard Tutorial - Hassan Hayat](https://github.com/TheSeamau5/elm-checkerboardgrid-tutorial)
+* Elm-Hedley: [Thinking (And Choosing) Elm](http://www.gizra.com/content/thinking-choosing-elm/) | [App Overview](http://www.gizra.com/content/elm-hedley-overview/)
 * [Elmtris - Joseph Collard](https://github.com/jcollard/elmtris)
 * [Game of Life - Juan Lulkin](https://github.com/joaomilho/game-of-life-elm)
 * [Gravity](https://github.com/stephenbalaban/Gravity)
@@ -799,8 +806,13 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - PACKAGES
 
 * [elm-audio](https://github.com/jcollard/elm-audio)
+* [elm-core](https://github.com/elm-lang/core)
+* [elm-html](https://github.com/evancz/elm-html)
+* [elm-http](https://github.com/evancz/elm-http)
 * [elm-router - Hassan Hayat](https://github.com/TheSeamau5/elm-router)
+* [elm-route-hash - Ryan Rempel](https://github.com/rgrempel/elm-route-hash)
 * [elm-undo-redo - Hassan Hayat](https://github.com/TheSeamau5/elm-undo-redo)
+* [elm-web-api - Ryan Rempel](https://github.com/rgrempel/elm-web-api)
 
 ### ELM - PODCASTS
 
