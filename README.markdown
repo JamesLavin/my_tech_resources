@@ -642,6 +642,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Atlas (ORM)](https://github.com/chrismccord/atlas)
 
+### ELIXIR - BLOGS
+
+* [The Pug Automatic - Henrik Nyh](http://thepugautomatic.com/)
+
 ### ELIXIR - BOOKS
 
 * [Elixir Documentation (PDF)](https://media.readthedocs.org/pdf/elixir-lang/latest/elixir-lang.pdf)
@@ -803,12 +807,19 @@ Links to resources I have found useful or think might be helpful to future me or
 * [elm-dev Google group](https://groups.google.com/forum/#!forum/elm-dev)
 * [Reddit Elm](https://www.reddit.com/r/elm)
 
+### ELM - INTERACTING WITH JAVASCRIPT & HTML
+
+* [Example of how to integrate Elm with HTML and JS - Evan Czaplicki](https://github.com/evancz/elm-html-and-js)
+* [Interop(erability)](http://elm-lang.org/guide/interop) & [code example](https://gist.github.com/evancz/8521339)
+
 ### ELM - PACKAGES
 
+* [Elm package repository](http://package.elm-lang.org/)
 * [elm-audio](https://github.com/jcollard/elm-audio)
 * [elm-core](https://github.com/elm-lang/core)
 * [elm-html](https://github.com/evancz/elm-html)
 * [elm-http](https://github.com/evancz/elm-http)
+* [elm-make](https://github.com/elm-lang/elm-make)
 * [elm-router - Hassan Hayat](https://github.com/TheSeamau5/elm-router)
 * [elm-route-hash - Ryan Rempel](https://github.com/rgrempel/elm-route-hash)
 * [elm-undo-redo - Hassan Hayat](https://github.com/TheSeamau5/elm-undo-redo)
@@ -982,6 +993,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### HASKELL - BOOKS
 
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
+* [Lazy Evaluation Illustrated for Haskell Divers - Takenobu T.](https://takenobu-hs.github.io/downloads/haskell_lazy_evaluation.pdf)
 
 ## HTTP
 
