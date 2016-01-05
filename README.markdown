@@ -30,6 +30,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How to Build a Startup: The Lean LaunchPad - Steve Blank](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 * [SteveBlank.com](http://steveblank.com/slides/#Videos)
 * [James Altucher interview podcasts](http://www.stansberryradio.com/James-Altucher/Latest-Episodes)
+* [Kauffmann Founders School](http://www.entrepreneurship.org/Founders-School)
 * [Observatory of Economic Complexity (interactive international trade data displayed using D3)](http://atlas.media.mit.edu/en/visualize/tree_map/hs92/export/usa/all/show/2013/)
 * [Startup Success Podcast](http://startupsuccesspodcast.com/)
 
@@ -687,23 +688,11 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PHOENIX
 
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
-* [Phoenix Takes Flight - Chris McCord (ElixirConf EU 2015)](https://www.youtube.com/watch?v=fLlItGWiVFc)
-* [What's Next for Phoenix - Chris McCord (ElixirConf 2015)](http://confreaks.tv/videos/elixirconf2015-what-s-next-for-phoenix)
-* [Phoenix: Productive. Reliable. Fast. - Chris McCord (LoneStarRuby 2015)](https://www.youtube.com/watch?v=STO-uN0xHDQ)
-* [Real time web applications with Elixir and Phoenix - Eoin Shanaghy (CorkDev 2015)](https://www.youtube.com/watch?v=DKGqJpT5pvU)
-* [Phoenix: A web framework for the new web - José Valim (PolyConf 2015)](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
-* [Phoenix - A Framework for the Modern Web - Chris McCord](https://vimeo.com/131633172)
-* [Live With Elixir & Phoenix (& React)- @mrwade](https://www.youtube.com/watch?v=quRwsJuP1uc)
-* Phoenix with Elm - Alan Gardner: [Video (ElixirConf 2015)](http://confreaks.tv/videos/elixirconf2015-phoenix-with-elm) | [Blog Pt 1](http://www.cultivatehq.com/posts/phoenix-elm-1/) | [Blog Pt 2](http://www.cultivatehq.com/posts/phoenix-elm-2/) | [Blog Pt 3](http://www.cultivatehq.com/posts/phoenix-elm-3/) | [Blog Pt 4](http://www.cultivatehq.com/posts/phoenix-elm-4/) | [Blog Pt 5](http://www.cultivatehq.com/posts/phoenix-elm-5/) | [Blog Pt 6](http://www.cultivatehq.com/posts/phoenix-elm-6/) | [Blog Pt 7](http://www.cultivatehq.com/posts/phoenix-elm-7/) | [Blog Pt 8](http://www.cultivatehq.com/posts/phoenix-elm-8/) | [Blog Pt 9](http://www.cultivatehq.com/posts/phoenix-elm-9/) | [Blog Pt 10](http://www.cultivatehq.com/posts/phoenix-elm-10/)
 * Brandon Richey: [Writing a Blog in Phoenix and Elixir, Part 1](https://medium.com/@diamondgfx/introduction-fe138ac6079d) | [Part 2: Authorization](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-part-2-authorization-814c06fa7c0) | [Debugging Phoenix with IEx.pry](https://medium.com/@diamondgfx/debugging-phoenix-with-iex-pry-5417256e1d11) | [Testing Validations in Elixir and Ecto](https://medium.com/@diamondgfx/testing-validations-in-elixir-and-ecto-677bd8a071a1) | [Writing a Blog Engine in Phoenix and Elixir: Part 4, Adding Roles to our Controllers](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-part-4-adding-roles-to-our-controllers-9f4678b48468#.ngm5g5vnt) | [Errata 1](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-errata-1-b370269b66c7)
 * Elixirdose.com Phoenix tutorial: [Part 1](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix) | [Part 2](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix_2) | [Part 3](http://www.elixirdose.com/post/Phoenix%20Part%203) | [Part 4](http://www.elixirdose.com/post/Phoenix%20Part%204) | [Part 5](http://www.elixirdose.com/post/phoenix_part_5_deploying_phoenix_the_final_part)
-* [Individualized Content at Web-Scale - Michael Schaefermeyer (ElixirConf EU 2015)](https://www.youtube.com/watch?v=xT8vDHIvurs)
-* [Creating a chat application in 15 minutes with Phoenix - Darko Fabijan (PolyConf 14)](https://www.youtube.com/watch?v=tdLJvuQkTNE)
-* [Rise of The Phoenix: Building an Elixir Web Framework - Chris McCord (ElixirConf 2014)](https://www.youtube.com/watch?v=3jMbzGv_6tA)
 * [Elixir Cocktails (blog)](https://www.amberbit.com/elixir-cocktails)
 * [PhoenixFramework.org](http://www.phoenixframework.org)
 * [Build and test a blazing fast JSON API with Phoenix, an Elixir framework - Paul Smith](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
-* [Phoenix asset handling with brunch - Chris McCord](https://www.youtube.com/watch?v=CgSjuCRHKvg)
 * [The Changelog: "Elixir and Phoenix with Chris McCord"](http://5by5.tv/changelog/147)
 * [Basic web app with Phoenix - Michael Eatherly](http://meatherly.github.io/2015/05/04/phoenixlivelikeawarrior/) & [Phoenix app with authentication - Michael Eatherly](http://meatherly.github.io/2015/05/11/phoenixauthentication/)
 * [Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide)
@@ -720,6 +709,28 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Elixir vs Ruby Showdown - Phoenix vs Rails - Chris McCord](http://www.littlelines.com/blog/2014/07/08/elixir-vs-ruby-showdown-phoenix-vs-rails/)
 * [Benchmarking Phoenix vs Rails vs Sinatra vs Express vs Martini - Matthew Rothenberg](https://github.com/mroth/phoenix-showdown)
+
+#### ELIXIR - PHOENIX - PLUGS
+
+* [Überauth - Elixir Authentication System for Plug-based Web Applications](https://github.com/ueberauth/ueberauth)
+* Simple Guardian: [Github](https://github.com/ueberauth/guardian) | [Browser login](http://blog.overstuffedgorilla.com/simple-guardian/) | [API authentication](http://blog.overstuffedgorilla.com/simple-guardian-api-authentication/) | [User permissions](http://blog.overstuffedgorilla.com/simple-guardian-permissions/) | [Multiple sessions](http://blog.overstuffedgorilla.com/simple-guardian-multiple-sessions/)
+
+#### ELIXIR - PHOENIX - VIDEOS
+
+* [Arisen from the Ashes: Phoenix.js and Websockets - Max Beizer](https://www.youtube.com/watch?v=AvKnYO7yo_g)
+* [Phoenix Takes Flight - Chris McCord (ElixirConf EU 2015)](https://www.youtube.com/watch?v=fLlItGWiVFc)
+* [What's Next for Phoenix - Chris McCord (ElixirConf 2015)](http://confreaks.tv/videos/elixirconf2015-what-s-next-for-phoenix)
+* [Phoenix: Productive. Reliable. Fast. - Chris McCord (LoneStarRuby 2015)](https://www.youtube.com/watch?v=STO-uN0xHDQ)
+* [Real time web applications with Elixir and Phoenix - Eoin Shanaghy (CorkDev 2015)](https://www.youtube.com/watch?v=DKGqJpT5pvU)
+* [Phoenix: A web framework for the new web - José Valim (PolyConf 2015)](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
+* [Elixir, Phoenix and the PEEP Stack - Chris Nelson (Cincy Web Tech Summit)](https://www.youtube.com/watch?v=ynPdqqoHNuk)
+* [Phoenix - A Framework for the Modern Web - Chris McCord](https://vimeo.com/131633172)
+* [Live With Elixir & Phoenix (& React)- @mrwade](https://www.youtube.com/watch?v=quRwsJuP1uc)
+* Phoenix with Elm - Alan Gardner: [Video (ElixirConf 2015)](http://confreaks.tv/videos/elixirconf2015-phoenix-with-elm) & Blog: [Pt 1](http://www.cultivatehq.com/posts/phoenix-elm-1/) | [Pt 2](http://www.cultivatehq.com/posts/phoenix-elm-2/) | [Pt 3](http://www.cultivatehq.com/posts/phoenix-elm-3/) | [Pt 4](http://www.cultivatehq.com/posts/phoenix-elm-4/) | [Pt 5](http://www.cultivatehq.com/posts/phoenix-elm-5/) | [Pt 6](http://www.cultivatehq.com/posts/phoenix-elm-6/) | [Pt 7](http://www.cultivatehq.com/posts/phoenix-elm-7/) | [Pt 8](http://www.cultivatehq.com/posts/phoenix-elm-8/) | [Pt 9](http://www.cultivatehq.com/posts/phoenix-elm-9/) | [Pt 10](http://www.cultivatehq.com/posts/phoenix-elm-10/) | [Pt 11](http://www.cultivatehq.com/posts/phoenix-elm-11/)
+* [Phoenix asset handling with brunch - Chris McCord](https://www.youtube.com/watch?v=CgSjuCRHKvg)
+* [Individualized Content at Web-Scale - Michael Schaefermeyer (ElixirConf EU 2015)](https://www.youtube.com/watch?v=xT8vDHIvurs)
+* [Creating a chat application in 15 minutes with Phoenix - Darko Fabijan (PolyConf 14)](https://www.youtube.com/watch?v=tdLJvuQkTNE)
+* [Rise of The Phoenix: Building an Elixir Web Framework - Chris McCord (ElixirConf 2014)](https://www.youtube.com/watch?v=3jMbzGv_6tA)
 
 ### ELIXIR - STREAMS
 
@@ -765,6 +776,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Phoenix with Elm - Alan Gardner: [Video (ElixirConf 2015)](http://confreaks.tv/videos/elixirconf2015-phoenix-with-elm) | [Blog Pt 1](http://www.cultivatehq.com/posts/phoenix-elm-1/) | [Blog Pt 2](http://www.cultivatehq.com/posts/phoenix-elm-2/) | [Blog Pt 3](http://www.cultivatehq.com/posts/phoenix-elm-3/) | [Blog Pt 4](http://www.cultivatehq.com/posts/phoenix-elm-4/) | [Blog Pt 5](http://www.cultivatehq.com/posts/phoenix-elm-5/) | [Blog Pt 6](http://www.cultivatehq.com/posts/phoenix-elm-6/) | [Blog Pt 7](http://www.cultivatehq.com/posts/phoenix-elm-7/) | [Blog Pt 8](http://www.cultivatehq.com/posts/phoenix-elm-8/) | [Blog Pt 9](http://www.cultivatehq.com/posts/phoenix-elm-9/) | [Blog Pt 10](http://www.cultivatehq.com/posts/phoenix-elm-10/)
 * [Effects As Data - Richard Feldman (Reactive 2015)](https://www.youtube.com/watch?v=6EdXaWfoslc)
 * [Elm architecture tutorial - Evan Czaplicki](https://github.com/evancz/elm-architecture-tutorial)
+* Brandon Richey: [Getting Started with Elm](https://medium.com/@diamondgfx/getting-started-with-elm-11d7a53b1a78#.fxuq1zojk) | [Signals, Mailboxes, Addresses, and Actions](https://medium.com/@diamondgfx/understanding-elm-signals-mailboxes-addresses-and-actions-7932781396ef#.soi3267gk)
 * [elm-d3: Front-end Development Without Frameworks (C◦mp◦se :: Conference 2015)](https://www.youtube.com/watch?v=pTlOLO7Qhls)
 * [Building Web Apps in Elm - Jivago Alves (PolyConf 2015)](https://www.youtube.com/watch?v=fq4l6C935Bg)
 * [Controlling Time and Space: Understanding the Many Formulations of FRP - Evan Czaplicki (StrangeLoop 2014)](https://www.youtube.com/watch?v=Agu6jipKfYw)
@@ -994,6 +1006,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
 * [Lazy Evaluation Illustrated for Haskell Divers - Takenobu T.](https://takenobu-hs.github.io/downloads/haskell_lazy_evaluation.pdf)
+
+## HIRING
+
+* [The Best Way to Hire Developers - Erik Dietrich](http://www.daedtech.com/best-way-hire-developers/)
 
 ## HTTP
 
