@@ -683,6 +683,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - PACKAGES
 
+* [Apex: Awesome Print for Elixir](https://github.com/BjRo/apex)
 * [BEAM Toolbox: categorized catalog of Hex packages for Elixir and Erlang - Henrik Nyh](http://toolbox.elixir.pm/)
 
 ### ELIXIR - PHOENIX
@@ -776,12 +777,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * Phoenix with Elm - Alan Gardner: [Video (ElixirConf 2015)](http://confreaks.tv/videos/elixirconf2015-phoenix-with-elm) | [Blog Pt 1](http://www.cultivatehq.com/posts/phoenix-elm-1/) | [Blog Pt 2](http://www.cultivatehq.com/posts/phoenix-elm-2/) | [Blog Pt 3](http://www.cultivatehq.com/posts/phoenix-elm-3/) | [Blog Pt 4](http://www.cultivatehq.com/posts/phoenix-elm-4/) | [Blog Pt 5](http://www.cultivatehq.com/posts/phoenix-elm-5/) | [Blog Pt 6](http://www.cultivatehq.com/posts/phoenix-elm-6/) | [Blog Pt 7](http://www.cultivatehq.com/posts/phoenix-elm-7/) | [Blog Pt 8](http://www.cultivatehq.com/posts/phoenix-elm-8/) | [Blog Pt 9](http://www.cultivatehq.com/posts/phoenix-elm-9/) | [Blog Pt 10](http://www.cultivatehq.com/posts/phoenix-elm-10/)
 * [Effects As Data - Richard Feldman (Reactive 2015)](https://www.youtube.com/watch?v=6EdXaWfoslc)
 * [Elm architecture tutorial - Evan Czaplicki](https://github.com/evancz/elm-architecture-tutorial)
-* Brandon Richey: [Getting Started with Elm](https://medium.com/@diamondgfx/getting-started-with-elm-11d7a53b1a78#.fxuq1zojk) | [Signals, Mailboxes, Addresses, and Actions](https://medium.com/@diamondgfx/understanding-elm-signals-mailboxes-addresses-and-actions-7932781396ef#.soi3267gk)
+* Brandon Richey: [Getting Started with Elm](https://medium.com/@diamondgfx/getting-started-with-elm-11d7a53b1a78#.fxuq1zojk) | [Signals, Mailboxes, Addresses, and Actions](https://medium.com/@diamondgfx/understanding-elm-signals-mailboxes-addresses-and-actions-7932781396ef#.soi3267gk) | [Applying Signals and Actions to our App](https://medium.com/@diamondgfx/e1c649bd0d96#.7542im727)
 * [elm-d3: Front-end Development Without Frameworks (C◦mp◦se :: Conference 2015)](https://www.youtube.com/watch?v=pTlOLO7Qhls)
 * [Building Web Apps in Elm - Jivago Alves (PolyConf 2015)](https://www.youtube.com/watch?v=fq4l6C935Bg)
 * [Controlling Time and Space: Understanding the Many Formulations of FRP - Evan Czaplicki (StrangeLoop 2014)](https://www.youtube.com/watch?v=Agu6jipKfYw)
 * [Intro to the Elm Programming Language - Ryan Levick (Strange Group Meetup 2014)](https://www.youtube.com/watch?v=iseogSMdQYI)
 * [Functional Reactive UIs with Elm - Shashi Gowda (Agile India 2014)](https://www.youtube.com/watch?v=EPIczPVnx3s) & [Slides](https://docs.google.com/presentation/d/16Xfqd-xU8y2JEN0TIcacDoYnp0b5-W7ESDB5v1SmcXs/edit) & [FunctionalConf 2014](https://confengine.com/functional-conf-2014/proposal/329/functional-reactive-uis-with-elm)
+* [Shipping a Production Web App in Elm - Richard Feldman (LambdaConf 2015)](https://www.youtube.com/watch?v=B7Iwreo1ReU)
 * [Elm Style Guide - NoRedInk](https://github.com/NoRedInk/elm-rails/wiki/NoRedInk's-Elm-Style-Guide)
 * Real World Elm - Michael Rijnders: [Part 1](http://engineering.truqu.com/2015/08/19/real-world-elm-part-1.html) | [Part 2](http://engineering.truqu.com/2015/09/25/real-world-elm-part-2.html)
 * [Elmcast.io](http://elmcast.io)
@@ -3549,6 +3551,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - REFACTORING
 
+* [Scientist: A Ruby library for carefully refactoring critical paths (open-sourced by Github)](https://github.com/github/scientist) & [explanatory article](http://githubengineering.com/move-fast/)
 * [Refactoring - SourceMaking.com](http://sourcemaking.com/refactoring)
 * [Live Refactoring - Ben Orenstein (BathRuby 2015)](https://www.youtube.com/watch?v=gr97FrX2WiQ)
 * [Data-Driven Refactoring - Coraline Ada Ehmke (MountainWest RubyConf 2015)](http://confreaks.tv/videos/mwrc2015-data-driven-refactoring)
