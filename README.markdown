@@ -689,6 +689,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PHOENIX
 
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
+* [Phoenix is not Rails - Chris McCord](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails)
 * Brandon Richey: [Writing a Blog in Phoenix and Elixir, Part 1](https://medium.com/@diamondgfx/introduction-fe138ac6079d) | [Part 2: Authorization](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-part-2-authorization-814c06fa7c0) | [Debugging Phoenix with IEx.pry](https://medium.com/@diamondgfx/debugging-phoenix-with-iex-pry-5417256e1d11) | [Testing Validations in Elixir and Ecto](https://medium.com/@diamondgfx/testing-validations-in-elixir-and-ecto-677bd8a071a1) | [Writing a Blog Engine in Phoenix and Elixir: Part 4, Adding Roles to our Controllers](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-part-4-adding-roles-to-our-controllers-9f4678b48468#.ngm5g5vnt) | [Errata 1](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-errata-1-b370269b66c7)
 * Elixirdose.com Phoenix tutorial: [Part 1](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix) | [Part 2](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix_2) | [Part 3](http://www.elixirdose.com/post/Phoenix%20Part%203) | [Part 4](http://www.elixirdose.com/post/Phoenix%20Part%204) | [Part 5](http://www.elixirdose.com/post/phoenix_part_5_deploying_phoenix_the_final_part)
 * [Elixir Cocktails (blog)](https://www.amberbit.com/elixir-cocktails)
@@ -700,6 +701,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - DEPLOYMENT
 
+* [Deploying Phoenix Applications with Exrm - Brandon Richey](https://medium.com/@diamondgfx/deploying-phoenix-applications-with-exrm-97a3867ebd04?source=tw-5dbe5bfa021a-1446130465757)
 * [Phoenix Flying High: Deploying Phoenix The Final Part](http://www.elixirdose.com/post/phoenix_part_5_deploying_phoenix_the_final_part)
 * [One-Click Install Elixir on Ubuntu 14.04 with DigitalOcean](https://www.digitalocean.com/community/tutorials/one-click-install-elixir-on-ubuntu-14-04-with-digitalocean)
 * [Deploying Phoenix on Dokku - Henrik Nyh](https://gist.github.com/henrik/c70e32544e09c1a79841)
@@ -732,6 +734,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Individualized Content at Web-Scale - Michael Schaefermeyer (ElixirConf EU 2015)](https://www.youtube.com/watch?v=xT8vDHIvurs)
 * [Creating a chat application in 15 minutes with Phoenix - Darko Fabijan (PolyConf 14)](https://www.youtube.com/watch?v=tdLJvuQkTNE)
 * [Rise of The Phoenix: Building an Elixir Web Framework - Chris McCord (ElixirConf 2014)](https://www.youtube.com/watch?v=3jMbzGv_6tA)
+* [Phoenix Book Club - Michael Ries](https://www.youtube.com/playlist?list=PLItFDtW5mcKonA-3LD5UY0gYiMRZUj20V)
+
+#### ELIXIR - PODCASTS
+
+* [Elixir Fountain](https://soundcloud.com/elixirfountain)
 
 ### ELIXIR - STREAMS
 
