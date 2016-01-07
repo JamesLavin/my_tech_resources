@@ -777,6 +777,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Phoenix with Elm - Alan Gardner: [Video (ElixirConf 2015)](http://confreaks.tv/videos/elixirconf2015-phoenix-with-elm) | [Blog Pt 1](http://www.cultivatehq.com/posts/phoenix-elm-1/) | [Blog Pt 2](http://www.cultivatehq.com/posts/phoenix-elm-2/) | [Blog Pt 3](http://www.cultivatehq.com/posts/phoenix-elm-3/) | [Blog Pt 4](http://www.cultivatehq.com/posts/phoenix-elm-4/) | [Blog Pt 5](http://www.cultivatehq.com/posts/phoenix-elm-5/) | [Blog Pt 6](http://www.cultivatehq.com/posts/phoenix-elm-6/) | [Blog Pt 7](http://www.cultivatehq.com/posts/phoenix-elm-7/) | [Blog Pt 8](http://www.cultivatehq.com/posts/phoenix-elm-8/) | [Blog Pt 9](http://www.cultivatehq.com/posts/phoenix-elm-9/) | [Blog Pt 10](http://www.cultivatehq.com/posts/phoenix-elm-10/)
 * [Effects As Data - Richard Feldman (Reactive 2015)](https://www.youtube.com/watch?v=6EdXaWfoslc)
 * [Elm architecture tutorial - Evan Czaplicki](https://github.com/evancz/elm-architecture-tutorial)
+* Geocoding With Elm and ArcGIS - Kris Jenkins: [Part 1](http://blog.jenkster.com/2015/09/geocoding-with-elm-and-arcgis-part-1.html) | [Part 2](http://blog.jenkster.com/2015/09/geocoding-with-elm-and-arcgis-part-2.html) | [Part 3](http://blog.jenkster.com/2015/10/geocoding-with-elm-and-arcgis-part-3.html)
 * Brandon Richey: [Getting Started with Elm](https://medium.com/@diamondgfx/getting-started-with-elm-11d7a53b1a78#.fxuq1zojk) | [Signals, Mailboxes, Addresses, and Actions](https://medium.com/@diamondgfx/understanding-elm-signals-mailboxes-addresses-and-actions-7932781396ef#.soi3267gk) | [Applying Signals and Actions to our App](https://medium.com/@diamondgfx/e1c649bd0d96#.7542im727)
 * [elm-d3: Front-end Development Without Frameworks (C◦mp◦se :: Conference 2015)](https://www.youtube.com/watch?v=pTlOLO7Qhls)
 * [Building Web Apps in Elm - Jivago Alves (PolyConf 2015)](https://www.youtube.com/watch?v=fq4l6C935Bg)
@@ -932,6 +933,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## FUNCTIONAL PROGRAMMING
 
+* [What is functional programming? - Kris Jenkins](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 * [Changing the Unchangeable: The Hows and Whys of Immutable Data Structures - Brad Urani (RubyConf 2015)](https://www.youtube.com/watch?v=gTClDj9Zl1g)
 * [Carefully Composing Logic: Functional JavaScript - Brad Urani (JS.la 2015)](http://fractalbanana.com/blog/2015/09/16/carefully-composing-logic-functional-javascript-video/)
 * Professor Frisby's Mostly Adequate Guide to Functional Programming: [Webpage](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [Online](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html) | [PDF](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [ePUB](https://www.gitbook.com/download/epub/book/drboolean/mostly-adequate-guide) | [MOBI](https://www.gitbook.com/download/mobi/book/drboolean/mostly-adequate-guide)
@@ -1000,6 +1002,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Haskell: [main site](https://www.haskell.org/) | [wiki](https://wiki.haskell.org/Haskell) | [learning resources](https://wiki.haskell.org/Learning_Haskell) | [tryhaskell.org](http://tryhaskell.org/)
 * [Write You a Haskell: Building a modern functional compiler from first principles - Stephen Diehl](http://dev.stephendiehl.com/fun/WYAH.pdf)
+* [Learn Haskell](https://github.com/bitemyapp/learnhaskell) | [Specific topics for Haskell users](https://github.com/bitemyapp/learnhaskell/blob/master/specific_topics.md)
 * [PlanetHaskell](http://planet.haskell.org/)
 * [Haskell Koans - Vancouver Haskell Meetup](https://github.com/HaskVan/HaskellKoans)
 * [Modeling Data in Haskell for Beginners - Chris Allen (LambdaConf 2015)](https://www.youtube.com/watch?v=p-NBJm0kIYU)
