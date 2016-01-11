@@ -95,6 +95,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### CLEAN CODE - APIS
 
+* [APIs: The Good, The Bad, The Ugly - MicheleTitolo (Ruby Remote Conf 2015)](https://www.youtube.com/watch?v=k0FYm4scLlc)
 * [HTTP API Design Guide](https://github.com/interagent/http-api-design)
 * [Beautiful REST & JSON APIs - Les Hazelwood (Jax Conference 2013)](https://www.youtube.com/watch?v=mZ8_QgJ5mbs)
 * [Building the Great Wall: API Driven Applications by Scott Parker, Dan Melnick (Madison Ruby 2012)](http://www.youtube.com/watch?v=AoRkqMgX-4Q)
@@ -702,6 +703,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ELIXIR - PHOENIX - DEPLOYMENT
 
 * [Deploying Phoenix Applications with Exrm - Brandon Richey](https://medium.com/@diamondgfx/deploying-phoenix-applications-with-exrm-97a3867ebd04?source=tw-5dbe5bfa021a-1446130465757)
+* [Setting Up Phoenix/Elixir With Nginx and LetsEncrypt - Andrew Forward](https://medium.com/@a4word/setting-up-phoenix-elixir-with-nginx-and-letsencrypt-ada9398a9b2c#.fnrxau4z0)
 * [Phoenix Flying High: Deploying Phoenix The Final Part](http://www.elixirdose.com/post/phoenix_part_5_deploying_phoenix_the_final_part)
 * [One-Click Install Elixir on Ubuntu 14.04 with DigitalOcean](https://www.digitalocean.com/community/tutorials/one-click-install-elixir-on-ubuntu-14-04-with-digitalocean)
 * [Deploying Phoenix on Dokku - Henrik Nyh](https://gist.github.com/henrik/c70e32544e09c1a79841)
@@ -764,9 +766,11 @@ Links to resources I have found useful or think might be helpful to future me or
 ## ELM
 
 * Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
+* [awesome-elm - Ruslan Ismagilov](https://github.com/isRuslan/awesome-elm)
 * [Growing the Oasis: Elm in Production - Richard Feldman (June 2015)](http://www.ustream.tv/recorded/64112108)
 * [What to do with your new Elm install - Claudia Doppioslash](http://www.lambdacat.com/what-to-do-with-your-new-elm-install/)
 * [My adventure with Elm - Yan Cui (New Developers Conference 2015)](https://www.youtube.com/watch?v=cBVXyxt-9_Q)
+* [Elm in the real world - Ossi Hanhinen](http://futurice.com/blog/elm-in-the-real-world)
 * [Climbing into Elm - Murphy Randle (Utah Javascript Meetup 2014)](https://www.youtube.com/watch?v=-JlC2Q89yg4)
 * [Elm on the Functional Frontier - Richard Feldman](https://presentate.com/rtfeldman/talks/the-functional-frontier-elm)
 * [Elm - Evan Czaplicki](https://www.youtube.com/watch?v=ZTliDiWDV0k)
@@ -1401,6 +1405,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional Layout - Updating the DOM at 60FPS - David Valdman (JS Conf EU 2015)](http://confreaks.tv/videos/jsconfeu2015-functional-layout-updating-the-dom-at-60fps)
 * [Functional programming and curry cooking in JS - Stefanie Schirmer (JS Conf EU 2015)](http://confreaks.tv/videos/jsconfeu2015-functional-programming-and-curry-cooking-in-js)
 * Professor Frisby's Mostly Adequate Guide to Functional Programming: [Webpage](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [Online](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html) | [PDF](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [ePUB](https://www.gitbook.com/download/epub/book/drboolean/mostly-adequate-guide) | [MOBI](https://www.gitbook.com/download/mobi/book/drboolean/mostly-adequate-guide)
+* [Introducing Reduce: Reducing an Array into an Object - Mykola Bilokonsky](https://egghead.io/lessons/javascript-introducing-reduce-reducing-an-array-into-an-object?pl=understand-how-to-use-reduce-e7bd12ab)
 * [We Will All Be Game Programmers - Hunter Loftis](https://www.youtube.com/watch?v=avwDj3KRuLc)
 
 #### JAVASCRIPT - FUNCTIONAL PROGRAMMING - IMMUTABLE.JS
@@ -1681,6 +1686,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Maker Movement Reinvents Education (Newsweek](http://www.newsweek.com/2014/09/19/maker-movement-reinvents-education-268739.html)
 * [The Maker movement makes its mark (USA Today)](http://www.usatoday.com/story/tech/2014/08/04/the-maker-movement-makes-its-mark/13567521/)
 
+### MAKER MOVEMENT - JASPER
+
+* [Jasper: Open-source platform for developing always-on, voice-controlled applications](http://jasperproject.github.io/)
+* [Info/documentation](https://github.com/jasperproject/jasperproject.github.io)
+* [Client](https://github.com/jasperproject/jasper-client)
+
+### MAKER MOVEMENT - RASPBERRY PI
+
+* [Official Rasperry Pi Projects Book](https://www.raspberrypi.org/magpi-issues/Projects_Book_v1.pdf)
+
 ## MATH
 
 * [BetterExplained.com](http://betterexplained.com/cheatsheet/)
@@ -1782,6 +1797,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Mashable](http://mashable.com/category/tech/)
 * [The Next Web](http://thenextweb.com/section/tech/)
 * [NPR](http://www.npr.org/sections/technology/ )
+* [PC Mag](http://www.pcmag.com/news)
 * [Re/Code](http://recode.net)
 * [Reuters](http://www.reuters.com/news/technology)
 * [ScienceDaily](http://www.sciencedaily.com/news/matter_energy/technology/)
