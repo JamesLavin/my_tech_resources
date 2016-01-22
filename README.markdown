@@ -168,6 +168,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### CSS - COOL STUFF
 
+* [CSS-Tricks.com](https://css-tricks.com/)
 * [How To Make a Slide Out Navigation with HTML/CSS (No JavaScript)](https://www.youtube.com/watch?v=d4P8s-mkMvs)
 
 ### CSS - FLEXBOX
@@ -196,6 +197,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Where can I find large datasets open to the public?](http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 * [Comprehensive List of Free Historical Market Data Sources](http://computeraidedfinance.com/2012/05/02/comprehensive-list-of-free-historical-market-data-sources/)
 * [Datahub.io](http://datahub.io/)
+
+## DATA - ANALYSIS
+
+* [Data Driven NYC videos (Nov 2014)](https://www.youtube.com/channel/UCQID78IY6EOojr5RUdD47MQ/videos)
 
 ### DATA - APIS
 
@@ -427,6 +432,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [DockerCon Online Meetup 2015](http://confreaks.tv/events/dockeronlinemeetup2015)
 * [DockerCon EU 2015](http://confreaks.tv/events/dockerconeu2015)
 * [DockerCon & Co](http://confreaks.tv/events/docker&co2015)
+
+### DEVOPS - DOCKER - VOLUMES
+
+* [Understanding Volumes in Docker - Adrian Mouat](http://container-solutions.com/understanding-volumes-docker/)
+* [Manage Data in Containers](https://docs.docker.com/engine/userguide/dockervolumes/)
 
 ### DEVOPS - DOKKU
 
@@ -686,6 +696,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Apex: Awesome Print for Elixir](https://github.com/BjRo/apex)
 * [BEAM Toolbox: categorized catalog of Hex packages for Elixir and Erlang - Henrik Nyh](http://toolbox.elixir.pm/)
+* [Jolt: REST JSON API with zero coding (Mike Clark)](https://github.com/clarkware/jolt)
 
 ### ELIXIR - PHOENIX
 
@@ -742,6 +753,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Elixir Fountain](https://soundcloud.com/elixirfountain)
 
+#### ELIXIR - ROBOTIC BRAIN
+
+* [Building a non-trivial robotic brain in Elixir - Jean F. Cloutier (Boston Elixir - January 2016)](https://www.youtube.com/watch?v=K4od_XhuMrk) & [Robot.ex blog](http://jfcloutier.github.io/robotex/)
+
 ### ELIXIR - STREAMS
 
 * [How to build Streams in Elixir easily with Stream.resource/3 Awesomeness - Benjamin Tan](http://benjamintan.io/blog/2015/02/05/how-to-build-streams-in-elixir-easily-with-stream-resource-awesomeness/)
@@ -768,6 +783,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [awesome-elm - Ruslan Ismagilov](https://github.com/isRuslan/awesome-elm)
 * [Growing the Oasis: Elm in Production - Richard Feldman (June 2015)](http://www.ustream.tv/recorded/64112108)
+* [Elm Programming Language - Jesse Williamson](https://www.youtube.com/watch?v=jrkLrm4Oh2s)
 * [What to do with your new Elm install - Claudia Doppioslash](http://www.lambdacat.com/what-to-do-with-your-new-elm-install/)
 * [My adventure with Elm - Yan Cui (New Developers Conference 2015)](https://www.youtube.com/watch?v=cBVXyxt-9_Q)
 * [Elm in the real world - Ossi Hanhinen](http://futurice.com/blog/elm-in-the-real-world)
@@ -853,6 +869,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - PODCASTS
 
+* [Elm and Functional Programming with Richard Feldman - Changelog](https://overcast.fm/+I_roOY_I)
 * [Elm with Richard Feldman and Evan Czaplicki (Ruby Rogues)](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki)
 * [Elm with Evan Czaplicki and Richard Feldman (Javascript Jabber)](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman)
 * [Elm with Evan Czaplicki (MostlyErlang)](http://mostlyerlang.com/2014/03/24/032-elm-with-evan-czaplicki/)
@@ -873,7 +890,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ERLANG - DOCUMENTATION
 
-* [Erlang.org](http://erlang.org/doc/) | [erlang-questions (Google group)](https://groups.google.com/forum/#!forum/erlang-questions)
+* [User's Guide](http://www.erlang.org/doc/apps/stdlib/users_guide.html) | [Reference Manual](http://www.erlang.org/doc/apps/stdlib/index.html)
+* [Erlang.org docs](http://erlang.org/doc/) | [erlang-questions (Google group)](https://groups.google.com/forum/#!forum/erlang-questions)
 * [ErlDocs.com](http://erldocs.com/)
 * [Getting Started with Erlang User's Guide - Ericsson](http://erlang.org/doc/getting_started/users_guide.html)
 * [Erlang Reference Manual User's Guide - Ericsson ](http://erlang.org/doc/reference_manual/users_guide.html)
@@ -1100,6 +1118,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## INFLUXDB
 
+* [InfluxDB: Open-Source Time Series Database - Paul Dix (Data Driven NYC / FirstMark Capital)](https://www.youtube.com/watch?v=GzIYRr40QO4)
 * [InfluxDB workshop - Paul Dix (Monitorama PDX 2014)](http://vimeo.com/95311877)
 * [Grafana workshop - Torkel Ödegaard (Monitorama PDX 2014)](http://vimeo.com/95316672)
 * [All Monitorama PDX 2014 talks](http://vimeo.com/monitorama/videos)
@@ -1545,6 +1564,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - VIDEOS
 
+* [JS Remote Conf 2015](https://www.youtube.com/watch?v=sIWekh32LG4&list=PLt8NYnKC3dzL95z5xksIZHxFjErPlC3Xq)
 * [JS Conf EU 2015](http://confreaks.tv/events/jsconfeu2015)
 
 ## JEKYLL
@@ -1777,6 +1797,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [TED Science](http://www.ted.com/talks?topics[]=science)
 * [Wired](http://www.wired.com/category/science)
 * [World Science Festival](http://www.worldsciencefestival.com/)
+
+### NEWS - SECURITY
+
+* [Infosecurity](http://www.infosecurity-magazine.com/news/)
+* [(In)Secure](http://www.net-security.org/)
 
 ### NEWS - TECH
 
@@ -3045,6 +3070,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Rack-Mini-Profiler](https://github.com/MiniProfiler/rack-mini-profiler) & [Flamegraph](https://github.com/SamSaffron/flamegraph)
 * [Rails Panel](https://github.com/dejan/rails_panel)
 * [Rspec-Rails](https://github.com/rspec/rspec-rails)
+* [Scenic](https://github.com/thoughtbot/scenic) & [Announcing Scenic - Versioned Database Views for Rails - Derek Prior](https://robots.thoughtbot.com/announcing-scenic--versioned-database-views-for-rails)
 * [SimpleForm](https://github.com/plataformatec/simple_form)
 * [Spring](https://github.com/rails/spring) & [spring-commands-rspec](https://github.com/jonleighton/spring-commands-rspec)
 * [Virtus](https://github.com/solnic/virtus) & [Be nice to others and your future-self: use Data Objects - Philippe Creux](http://brewhouse.io/2015/07/31/be-nice-to-others-and-your-future-self-use-data-objects.html)
@@ -3716,6 +3742,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - VIDEOS
 
+* [Ruby Remote Conf 2015](https://www.youtube.com/playlist?list=PLJesql-aSfX5wDU8ALH2bRd_xvw27klTQ)
 * [Tropical Ruby 2015](http://tropicalrb.com/en/videos/)
 * [BostonRB videos](http://www.youtube.com/channel/UCVMoyi_TUOJ0qVZRt42_ltA)
 * [Ruby Manor 4.0 videos - 2012](http://vimeo.com/album/2596602)
