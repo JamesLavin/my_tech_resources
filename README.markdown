@@ -717,7 +717,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - DEPLOYMENT
 
-* exrm: [source](https://github.com/bitwalker/exrm) & [documentation](https://hexdocs.pm/exrm/extra-getting-started.html)
+* exrm: [source](https://github.com/bitwalker/exrm) | [docs](https://github.com/bitwalker/exrm/tree/master/docs) | [more docs](https://hexdocs.pm/exrm/extra-getting-started.html)
 * conform: [source](https://github.com/bitwalker/conform)
 * [Deploying Phoenix Applications with Exrm [and Conform] - Brandon Richey](https://medium.com/@diamondgfx/deploying-phoenix-applications-with-exrm-97a3867ebd04#.ke7uldpb4)
 * [Fast Continuous Deployment of an Elixir Gameserver - Martin Kavalar & Martin Schurrer](https://www.youtube.com/watch?v=RoT8RnQHvgo)
@@ -1890,6 +1890,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## LINUX
 
 * [dotfiles.github.com](http://dotfiles.github.com/)
+* [Thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles)
 * [Unixmen.com](http://www.unixmen.com/)
 * [Cheat Sheet (Cheatography)](http://www.cheatography.com/davechild/cheat-sheets/linux-command-line/)
 * [LESS](http://linux.die.net/man/1/less)
@@ -2565,6 +2566,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [API](http://scikit-learn.org/stable/modules/classes.html)
 * [Documentation](http://scikit-learn.org/stable/documentation.html)
 * [User Guide](http://scikit-learn.org/stable/user_guide.html)
+* scikit-learn video: [ #1: Intro to machine learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/) | [#2: Setting up Python for machine learning](http://blog.kaggle.com/2015/04/15/scikit-learn-video-2-setting-up-python-for-machine-learning/) | [#3: Machine learning first steps with the Iris dataset](http://blog.kaggle.com/2015/04/22/scikit-learn-video-3-machine-learning-first-steps-with-the-iris-dataset/) | [#4: Model training and prediction with K-nearest neighbors](http://blog.kaggle.com/2015/04/30/scikit-learn-video-4-model-training-and-prediction-with-k-nearest-neighbors/) | [#5: Choosing a machine learning model](http://blog.kaggle.com/2015/05/14/scikit-learn-video-5-choosing-a-machine-learning-model/) | [#6: Linear regression (plus pandas & seaborn)](http://blog.kaggle.com/2015/05/28/scikit-learn-video-6-linear-regression-plus-pandas-seaborn/) | [#7: Optimizing your model with cross-validation](http://blog.kaggle.com/2015/06/29/scikit-learn-video-7-optimizing-your-model-with-cross-validation/) | [#8: Efficiently searching for optimal tuning parameters](http://blog.kaggle.com/2015/07/16/scikit-learn-video-8-efficiently-searching-for-optimal-tuning-parameters/) | [#9: Better evaluation of classification models](http://blog.kaggle.com/2015/10/23/scikit-learn-video-9-better-evaluation-of-classification-models/)
 * [Realtime Predictive Analytics Using scikit-learn and RabbitMQ - Michael Becker (PyCon 2014)](https://www.youtube.com/watch?v=WPyNdHygBD0)
 * [Know Thy Neighbor: Scikit and the K-Nearest Nearest Neighbor Algorithm - Portia Burton (PyCon 2014)](https://www.youtube.com/watch?v=tQNZRfsZF3g)
 * [Intro to Machine Learning: Pattern Recognition for Fun and Profit - Sebastian Thrun and Katie Malone (Udacity)]()
