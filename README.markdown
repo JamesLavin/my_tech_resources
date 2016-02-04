@@ -38,10 +38,17 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Characters, Symbols and the Unicode Miracle - Computerphile](https://www.youtube.com/watch?v=MijmeoH9LT4) + [other cool Computerphile videos](https://www.youtube.com/user/Computerphile/videos)
 
-## CHESS ANALYSIS
+## CHESS
+
+### CHESS - ANALYSIS
 
 * [When Grandmasters Blunder - Joe Doliner](https://medium.com/pachyderm-data/when-grandmasters-blunder-a819860b883d), [code underlying the analysis](https://github.com/pachyderm/chess), [The Pachyderm Stack (a completely new MapReduce engine built on top of modern tools)](https://medium.com/pachyderm-data/lets-build-a-modern-hadoop-4fc160f8d74f) & [Pachyderm Single Node Mode](https://medium.com/pachyderm-data/pachyderm-v0-5-release-a-more-tightly-pached-derm-25023bc51f8e)
 * [ChessGames.com (746,000 chess games)](http://www.chessgames.com/)
+
+### CHESS - TOOLS
+
+* [Chessboard.js](http://chessboardjs.com/)
+* [Chess.js](https://github.com/jhlywa/chess.js)
 
 ## CHINESE
 
@@ -293,6 +300,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [SQL Developer](http://sqldeveloper.solyp.com/)
 * [SQL Power Architect](http://www.sqlpower.ca/page/architect)
 
+### DATABASES - GRAPHQL
+
+* [GraphQL: Data query language and runtime](http://graphql.org/)
+* [Getting started (documentation)](http://graphql.org/docs/getting-started/)
+* [GraphQL-Ruby](https://github.com/rmosolgo/graphql-ruby)
+* [Learn GraphQL](https://learngraphql.com/)
+* [GraphiQL: Graphical interactive in-browser GraphQL IDE](https://github.com/graphql/graphiql)
+
 ### DATABASES - HOW THEY WORK
 
 * [How does a relational database work - Christophe Kalenzaga](http://coding-geek.com/how-databases-work/)
@@ -404,12 +419,18 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Build Your Own Shipyard - Andreas Tiefenthaler (Kod.io 2014)](http://confreaks.tv/videos/3252-kodio_2014-build-your-own-shipyard)
 * [Dockerising a Rails App - Graeme Mathieson](http://woss.name/articles/dockerising-a-rails-app/)
 * [Docker's Youtube channel](https://www.youtube.com/channel/UC76AVf2JkrwjxNKMuPpscHQ)
+* [Developing Ruby Applications With Docker - Laura Frank (ArrrrCamp 2015)](https://www.youtube.com/watch?v=hiiPMgZbzcA)
 * [Immutable Infrastructure with Docker and EC2 - Michael Bryzek (Gilt) (DockerCon 2014)](https://www.youtube.com/watch?v=GaHzdqFithc)
 * [3 hours to Docker fundamentals: Jumpstart your Docker knowledge](https://www.youtube.com/watch?v=ddhU3NMrhX4)
 * [Be a happier developer with Docker: Tricks of the trade - Nicola Paolucci](https://www.youtube.com/watch?v=XCVOxht34Hs)
 * [Pachyderm.io (MapReduce without Hadoop using a git-like distributed file system and Dockerized MapReduce)](http://www.pachyderm.io/) & [Github](https://github.com/pachyderm/pfs)
 * [Docker isn’t just for deployment - Ben Dixon (RailsConf 2015)](https://www.youtube.com/watch?v=NGcT0dGivoM)
 * [TheNewStack.io](http://thenewstack.io/)
+
+#### DEVOPS - DOCKER - MICROCONTAINERS
+
+* [Microcontainers – Tiny, Portable Docker Containers - Iron.io](http://www.iron.io/blog/2016/01/microcontainers-tiny-portable-containers.html)
+* [Uber tiny Docker images for all the things (Ruby, Elixir, Python, etc.) - Iron.io](https://github.com/iron-io/dockers)
 
 #### DEVOPS - DOCKER - MULTIHOST ORCHESTRATION
 
@@ -753,9 +774,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Elixir Fountain](https://soundcloud.com/elixirfountain)
 
-#### ELIXIR - ROBOTIC BRAIN
+#### ELIXIR - PROJECTS
 
 * [Building a non-trivial robotic brain in Elixir - Jean F. Cloutier (Boston Elixir - January 2016)](https://www.youtube.com/watch?v=K4od_XhuMrk) & [Robot.ex blog](http://jfcloutier.github.io/robotex/)
+* [ExSamples: Initializes lists of maps, structs or keyword lists using tabular data in Elixir - Marlus Saraiva](https://github.com/msaraiva/exsamples)
 
 ### ELIXIR - STREAMS
 
@@ -782,8 +804,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [awesome-elm - Ruslan Ismagilov](https://github.com/isRuslan/awesome-elm)
+* [6 Months of Elm in Production - Richard Feldman (Forward University)](http://forwardjs.com/university/elm-in-production)
 * [Growing the Oasis: Elm in Production - Richard Feldman (June 2015)](http://www.ustream.tv/recorded/64112108)
-* [Elm Programming Language - Jesse Williamson](https://www.youtube.com/watch?v=jrkLrm4Oh2s)
+* [Elm Programming Language - Jesse Williamson (FullStack Talks)](https://www.youtube.com/watch?v=jrkLrm4Oh2s)
 * [What to do with your new Elm install - Claudia Doppioslash](http://www.lambdacat.com/what-to-do-with-your-new-elm-install/)
 * [My adventure with Elm - Yan Cui (New Developers Conference 2015)](https://www.youtube.com/watch?v=cBVXyxt-9_Q)
 * [Elm in the real world - Ossi Hanhinen](http://futurice.com/blog/elm-in-the-real-world)
@@ -813,13 +836,19 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional Reactive UIs with Elm - Shashi Gowda (Agile India 2014)](https://www.youtube.com/watch?v=EPIczPVnx3s) & [Slides](https://docs.google.com/presentation/d/16Xfqd-xU8y2JEN0TIcacDoYnp0b5-W7ESDB5v1SmcXs/edit) & [FunctionalConf 2014](https://confengine.com/functional-conf-2014/proposal/329/functional-reactive-uis-with-elm)
 * [Shipping a Production Web App in Elm - Richard Feldman (LambdaConf 2015)](https://www.youtube.com/watch?v=B7Iwreo1ReU)
 * [Elm Style Guide - NoRedInk](https://github.com/NoRedInk/elm-rails/wiki/NoRedInk's-Elm-Style-Guide)
+* [Functional reactive programming in Elm - Sergei Winitzki](https://www.youtube.com/watch?v=DiZ1CfLQvIU) & [slides (PDF)](https://github.com/winitzki/talks/blob/master/elm-talk/elm_talk.pdf)
 * Real World Elm - Michael Rijnders: [Part 1](http://engineering.truqu.com/2015/08/19/real-world-elm-part-1.html) | [Part 2](http://engineering.truqu.com/2015/09/25/real-world-elm-part-2.html)
+* [Elm: Functional, Reactive, for the Web - Grzegorz Balcerek (LambdaDays 2015)](https://www.youtube.com/watch?v=Ftl_qajbMYE)
+* [Elm Tutorial (5 talks) - Goran Milovanovic](https://www.youtube.com/playlist?list=PLtdCJGSpculbDT_p4ED9oLTJQrzoM1QEL)
+* [N Languages in N Months: Functional Fall: Elm - John Mayer (Hakka Labs)](https://www.youtube.com/watch?v=e_pw9YMzCMM)
+* [Functional programming for the Web: Elm (Kris Jenkins), Haskell (Christian Takle), Clojurescript (Sonny To)](https://www.youtube.com/watch?v=de-bbvzsr6U)
 * [Elmcast.io](http://elmcast.io)
 * [Built With Elm](http://builtwithelm.co/)
 
 ### ELM - CODE EXAMPLES
 
 * [Start app - Evan Czaplicki](https://github.com/evancz/start-app)
+* [sketch-n-sketch - Ravi Chugh et al.](http://ravichugh.github.io/sketch-n-sketch/)
 * [Celestia - John P. Mayer](https://github.com/johnpmayer/celestia)
 * [Chess - Grzegorz Balcerek](https://github.com/grzegorzbalcerek/chess-elm/tree/master/Chess)
 * [Connect Four - Brad Urani](https://github.com/bradurani/connect-four-elm)
@@ -842,6 +871,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [lambdatoast/elm.vim](https://github.com/lambdatoast/elm.vim) & [ElmCast/elm-vim](https://github.com/ElmCast/elm-vim)
 * [jcollard/elm-mode (Emacs, if you're into that kind of kinky stuff)](https://github.com/jcollard/elm-mode)
+* [elm-format formats Elm source code according to a standard set of rules based on the official Elm Style Guide](https://github.com/avh4/elm-format)
 
 ### ELM - HELP
 
@@ -963,6 +993,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## FUNCTIONAL PROGRAMMING
 
 * [What is functional programming? - Kris Jenkins](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
+* [Why I Like Functional Programming - Adelbert Chang (LambdaConf 2015)](https://www.youtube.com/watch?v=tsHQEB_ftxc)
 * [Changing the Unchangeable: The Hows and Whys of Immutable Data Structures - Brad Urani (RubyConf 2015)](https://www.youtube.com/watch?v=gTClDj9Zl1g)
 * [Carefully Composing Logic: Functional JavaScript - Brad Urani (JS.la 2015)](http://fractalbanana.com/blog/2015/09/16/carefully-composing-logic-functional-javascript-video/)
 * Professor Frisby's Mostly Adequate Guide to Functional Programming: [Webpage](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [Online](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html) | [PDF](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [ePUB](https://www.gitbook.com/download/epub/book/drboolean/mostly-adequate-guide) | [MOBI](https://www.gitbook.com/download/mobi/book/drboolean/mostly-adequate-guide)
@@ -1787,11 +1818,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ReadWrite](http://readwrite.com/code)
 * [The Register](http://www.theregister.co.uk/software/)
 * ScienceDaily: [Computer programming](http://www.sciencedaily.com/news/computers_math/computer_programming/) | [Hacking](http://www.sciencedaily.com/news/computers_math/hacking/) | [Software](http://www.sciencedaily.com/news/computers_math/software/)
+* [Software Development Times](http://sdtimes.com/)
 * [Sitepoint](http://www.sitepoint.com/)
 * [TutsPlus](http://code.tutsplus.com/)
 
 ### NEWS - SCIENCE
 
+* [Aeon](https://aeon.co/science)
 * [Quanta Magazine](https://www.quantamagazine.org)
 * [Science Daily](http://www.sciencedaily.com/)
 * [TED Science](http://www.ted.com/talks?topics[]=science)
@@ -1819,7 +1852,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Guardian](http://www.theguardian.com/us/technology)
 * [Huffington Post](http://www.huffingtonpost.com/tech/)
 * [Live Science](http://www.livescience.com/technology/)
-* [Mashable](http://mashable.com/category/tech/)
+* [Mashable](http://mashable.com/tech/)
 * [The Next Web](http://thenextweb.com/section/tech/)
 * [NPR](http://www.npr.org/sections/technology/ )
 * [PC Mag](http://www.pcmag.com/news)
@@ -1831,6 +1864,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Stack](https://thestack.com/)
 * [Star Talk Radio](http://www.startalkradio.net)
 * [TechCrunch](http://techcrunch.com/)
+* [Tech Radar](http://www.techradar.com/us/news)
 * [TechHive](http://www.techhive.com/news)
 * [TechNewsWorld](http://www.technewsworld.com/)
 * [VentureBeat](http://venturebeat.com/)
@@ -2004,6 +2038,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The introduction to Reactive Programming you've been missing - Andre Staltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 * [An Event-driven and Reactive Future - Jonathan Worthington (FooCafe)](https://www.youtube.com/watch?v=_VdIQTtRkb8)
 * [What does it mean to be Reactive? - Erik Meijer (React 2014)](https://www.youtube.com/watch?v=sTSQlYX5DU0)
+* [K Things I Know About Building Resilient Reactive Systems - Joe Armstrong (React 2014)](https://www.youtube.com/watch?v=rQIE22e0cW8)
 
 ### PROGRAMMING - LEARNING
 
@@ -2018,6 +2053,12 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PROGRAMMING - MESSAGING & QUEUES
 
 * [Decouple all the things: Asynchronous messaging keeps it simple - Kerstin Puschke (ArrrrCamp 2015)](http://confreaks.tv/videos/arrrrcamp2015-decouple-all-the-things-asynchronous-messaging-keeps-it-simple)
+
+#### PROGRAMMING - MESSAGING & QUEUES - RABBITMQ
+
+* [Reliable Messaging With RabbitMQ - Part 1 - JimOnDemand](https://www.youtube.com/watch?v=XjuiZM7JzPw)
+* [RabbitMQ Simulator](http://tryrabbitmq.com/)
+* [RabbitMQ is the new king - Alvaro Videla & Jan Machacek](https://www.youtube.com/watch?v=kA8rPIDa388)
 
 ### PROGRAMMING - PODCASTS
 
@@ -2934,6 +2975,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RAILS - 5
 
+* [Building a chess server in Rails 5 with Action Cable-powered WebSockets - Joey Schoblaska](http://jargon.io/joeyschoblaska/rails-5-chess-with-action-cable-websockets)
 * ["OMG Ruby and Rails Performance!!!" - Aaron Patterson 2015](https://www.youtube.com/watch?v=JMGmaRZtgM8)
 
 ### RAILS - 6+
@@ -3206,6 +3248,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * Getting Started With Redis: [Part 1](https://www.youtube.com/watch?v=7W1n_SwTw14) | [Part 2](https://www.youtube.com/watch?v=nSW4xaQ4eEI) | [Part 3](https://www.youtube.com/watch?v=h-jB2jpywnE) | [Part 4](https://www.youtube.com/watch?v=rXQRqek3kLw) | [Part 5](https://www.youtube.com/watch?v=YB62-F31l1c)
 * [Fun with Ruby and Redis - Javier Ramirez (ArrrCamp 2013)](https://www.youtube.com/watch?v=eVnvQULI1Cc)
 
+### REDIS - GUIS
+
+* Medis (currently Mac-only): [GetMedis.com](http://getmedis.com/) | [Github](https://github.com/luin/medis)
+
 ## REGULAR EXPRESSIONS
 
 * [RegEx101.com](https://regex101.com/)
@@ -3267,6 +3313,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Just in Time SQL Queries - Richard Schneeman](https://www.youtube.com/watch?v=8JhKYbxdgck)
 * [Advanced aRel: When ActiveRecord Just Isn't Enough - Cameron Dutro (RailsConf 2014)](https://www.youtube.com/watch?v=ShPAxNcLm3o)
 * [Preventing SQL Injection Attacks - Richard Schneeman](https://www.youtube.com/watch?v=s4QxOxGL1tI)
+* [Eager Loading - Railscasts](https://www.youtube.com/watch?v=s2EPVMqOsTQ)
+* [N+1 Problem: Eager Loading with Active Record - Codemy School](https://www.youtube.com/watch?v=wLMRzdOztUY)
 
 ### RUBY - AI, NATURAL LANGUAGE PROCESSING, STATISTICAL ANALYSIS, ETC.
 
