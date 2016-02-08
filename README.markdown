@@ -671,12 +671,18 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ExMachina for Elixir: Factories with a Functional Twist - Josh Steiner & Paul Smith](https://robots.thoughtbot.com/announcing-ex-machina)
 * [RED:4 - Learn Elixir The Fun Way (NOT FREE: $40) - Rob Conery](http://www.redfour.io/)
 
+### ELIXIR - 1.2
+
+* [Elixir v1.2 released](http://elixir-lang.org/blog/2016/01/03/elixir-v1-2-0-released/)
+* [Elixir 1.2 and Elixir in Action](http://theerlangelist.com/article/eia_elixir_12)
+
 ### ELIXIR - ATLAS
 
 * [Atlas (ORM)](https://github.com/chrismccord/atlas)
 
 ### ELIXIR - BLOGS
 
+* [The Erlang eList](http://theerlangelist.com/)
 * [The Pug Automatic - Henrik Nyh](http://thepugautomatic.com/)
 
 ### ELIXIR - BOOKS
@@ -752,6 +758,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Überauth - Elixir Authentication System for Plug-based Web Applications](https://github.com/ueberauth/ueberauth)
 * Simple Guardian: [Github](https://github.com/ueberauth/guardian) | [Browser login](http://blog.overstuffedgorilla.com/simple-guardian/) | [API authentication](http://blog.overstuffedgorilla.com/simple-guardian-api-authentication/) | [User permissions](http://blog.overstuffedgorilla.com/simple-guardian-permissions/) | [Multiple sessions](http://blog.overstuffedgorilla.com/simple-guardian-multiple-sessions/)
 
+#### ELIXIR - PHOENIX - SOCKETS
+
+* [Driving Phoenix sockets - Saša Jurić](http://theerlangelist.com/article/driving_phoenix_sockets)
+
 #### ELIXIR - PHOENIX - VIDEOS
 
 * [Arisen from the Ashes: Phoenix.js and Websockets - Max Beizer](https://www.youtube.com/watch?v=AvKnYO7yo_g)
@@ -803,6 +813,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## ELM
 
 * Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
+* [elm-tutorial.org - Sebastian Porto](http://www.elm-tutorial.org/) | [other formats](https://www.gitbook.com/book/sporto/elm-tutorial/details)
 * [awesome-elm - Ruslan Ismagilov](https://github.com/isRuslan/awesome-elm)
 * [6 Months of Elm in Production - Richard Feldman (Forward University)](http://forwardjs.com/university/elm-in-production)
 * [Growing the Oasis: Elm in Production - Richard Feldman (June 2015)](http://www.ustream.tv/recorded/64112108)
@@ -848,6 +859,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - CODE EXAMPLES
 
 * [Start app - Evan Czaplicki](https://github.com/evancz/start-app)
+* [elm-tutorial-app: example Elm single page application - Sebastian Porto](https://github.com/sporto/elm-tutorial-app)
 * [sketch-n-sketch - Ravi Chugh et al.](http://ravichugh.github.io/sketch-n-sketch/)
 * [Celestia - John P. Mayer](https://github.com/johnpmayer/celestia)
 * [Chess - Grzegorz Balcerek](https://github.com/grzegorzbalcerek/chess-elm/tree/master/Chess)
@@ -911,6 +923,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## ERLANG
 
 * [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/)
+* [Spawned Shelter: Collection of articles, videos & books for learning Erlang](http://spawnedshelter.com/)
 * [Erlang Koans - Patrick Gombert](https://github.com/patrickgombert/erlang-koans)
 * [Solving the Stable Marriage problem with Erlang](https://www.airpair.com/erlang/posts/solving-the-stable-marriage-problem-with-erlang)
 * [Thinking in a Highly Concurrent, Mostly-functional Language - Francesco Cesarini (ElixirConf 2014)](https://www.youtube.com/watch?v=d5G3P2iosmA)
@@ -1601,6 +1614,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ## JEKYLL
 
 * Jekyll: [Main](http://jekyllrb.com/) | [Docs](http://jekyllrb.com/docs/home/) | [Tips](http://jekyll.tips/) | [Twitter](https://twitter.com/jekyllrb) | [News](http://jekyllrb.com/news/) | [Talk](http://talk.jekyllrb.com/) | [Github](https://github.com/jekyll/jekyll)
+* [Jekyll Documentation - Tom Preston-Werner, Nick Quaranto, Parker Moore, et al](http://planetjekyll.github.io/book/)
+* [Planet Jekyll](http://planetjekyll.github.io/)
 * [Getting Started With Jekyll, The Static Site Generator - phpacademy](https://www.youtube.com/watch?v=iWowJBRMtpc)
 * [JekyllConf 2015](https://www.youtube.com/watch?v=wnQriozXBZI&list=PLrxYIq_0LFJcXlsRZD-JCdITfZexwvqsQ)
 
