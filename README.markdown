@@ -311,6 +311,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [SQL Developer](http://sqldeveloper.solyp.com/)
 * [SQL Power Architect](http://www.sqlpower.ca/page/architect)
 
+### DATABASES - DATOMIC
+
+* [Datomic.com](http://www.datomic.com/)
+
 ### DATABASES - GRAPHQL
 
 * [GraphQL: Data query language and runtime](http://graphql.org/)
@@ -1103,6 +1107,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## FINANCE
 
+* [Intro to Computational Finance and Financial Econometrics - Eric Zivot (University of Washington)](https://www.coursera.org/course/compfinance)
 * [Topics in Mathematics With Applications in Finance (MIT)](http://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/)
 
 ## FUNCTIONAL PROGRAMMING
@@ -4238,6 +4243,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Vim graphical cheat sheet-based tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
 * [Buffers, windows & tabs](http://blog.sanctum.geek.nz/buffers-windows-tabs/)
 * [Write code faster: expert-level vim - Ben Orenstein (Railsberry 2012)](http://www.youtube.com/watch?v=SkdrYWhh-8s)
+* [Vim Tips With Ben (Orenstein)](https://www.briefs.fm/vim-tips-with-ben)
 * [Derek Wyatt videos - Novice](http://www.derekwyatt.org/vim/vim-tutorial-videos/vim-novice-tutorial-videos/), [Intermediate](http://www.derekwyatt.org/vim/vim-tutorial-videos/vim-intermediate-tutorial-videos/) and [Advanced](http://www.derekwyatt.org/vim/vim-tutorial-videos/vim-advanced-tutorial-videos/)
 * [Impressive Ruby Productivity with Vim and Tmux](http://confreaks.tv/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux)
 * [Vim Commands Cheat Sheet](http://www.fprintf.net/vimCheatSheet.html)
