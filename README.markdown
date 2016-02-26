@@ -201,6 +201,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
 * [Freebase.com](http://www.freebase.com/)
 * [Public datasets - ScaleUnlimited.com](http://www.scaleunlimited.com/datasets/public-datasets/)
+* [UCL Data Science Student Challenge 2016](http://kenji.azurewebsites.net/?p=301)
 * [Where can I find large datasets open to the public?](http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 * [Comprehensive List of Free Historical Market Data Sources](http://computeraidedfinance.com/2012/05/02/comprehensive-list-of-free-historical-market-data-sources/)
 * [Datahub.io](http://datahub.io/)
@@ -693,6 +694,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - DEPLOYMENT
 
 * exrm: [source](https://github.com/bitwalker/exrm) & [documentation](https://hexdocs.pm/exrm/extra-getting-started.html)
+* conform: [source](https://github.com/bitwalker/conform)
+* [Deploying Phoenix Applications with Exrm [and Conform] - Brandon Richey](https://medium.com/@diamondgfx/deploying-phoenix-applications-with-exrm-97a3867ebd04#.ke7uldpb4)
 * [Fast Continuous Deployment of an Elixir Gameserver - Martin Kavalar & Martin Schurrer](https://www.youtube.com/watch?v=RoT8RnQHvgo)
 
 ### ELIXIR - EARMARK
@@ -704,6 +707,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ecto: A language integrated query for Elixir - José Valim](https://www.youtube.com/watch?v=SJRfujy9vLA)
 * [Ecto - Eric Meadows-Jönsson (ElixirConf EU 2015)](https://www.youtube.com/watch?v=snka1bAtZS0)
 * [PostgreSQL indexing with Ecto - Richard Nyström](http://rny.io/elixir/ecto/postgresql/2015/08/31/postgresql-indexing-with-ecto.html)
+* [Composable Queries with Ecto - Drew Olson (ElixirConf 2015)](https://www.youtube.com/watch?v=g84TDHt9MDc)
 
 ### ELIXIR - ELASTICSEARCH
 
@@ -724,11 +728,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Apex: Awesome Print for Elixir](https://github.com/BjRo/apex)
 * [BEAM Toolbox: categorized catalog of Hex packages for Elixir and Erlang - Henrik Nyh](http://toolbox.elixir.pm/)
 * [Jolt: REST JSON API with zero coding (Mike Clark)](https://github.com/clarkware/jolt)
+* [Scrivener: Paginate your Ecto queries (Drew Olson)](https://github.com/drewolson/scrivener)
 
 ### ELIXIR - PHOENIX
 
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
 * [Phoenix is not Rails - Chris McCord](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails)
+* [Intro to Phoenix - José Valim (Elixir Warsaw Meetup)](https://www.youtube.com/watch?v=3LiLjVCDEpU)
+* [Phoenix: A web framework for the new web - José Valim (PolyConf 2015)](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
+* [Phoenix - a framework for the modern web - Chris McCord (NDC Conference Norway 2015)](https://vimeo.com/131633172)
 * Brandon Richey: [Writing a Blog in Phoenix and Elixir, Part 1](https://medium.com/@diamondgfx/introduction-fe138ac6079d) | [Part 2: Authorization](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-part-2-authorization-814c06fa7c0) | [Debugging Phoenix with IEx.pry](https://medium.com/@diamondgfx/debugging-phoenix-with-iex-pry-5417256e1d11) | [Testing Validations in Elixir and Ecto](https://medium.com/@diamondgfx/testing-validations-in-elixir-and-ecto-677bd8a071a1) | [Writing a Blog Engine in Phoenix and Elixir: Part 4, Adding Roles to our Controllers](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-part-4-adding-roles-to-our-controllers-9f4678b48468#.ngm5g5vnt) | [Errata 1](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-errata-1-b370269b66c7) | [Part 5, Adding ExMachina](https://medium.com/@diamondgfx/mixology-exmachina-92a08dc3e954#.lnae8ygzq) | [Part 6, Markdown Support](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-part-5-markdown-support-fde72badd8e1#.3bwzvyrnq) | [Part 7, Adding Comments Support](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-part-7-adding-comments-support-7dfc17dd474e#.phe0zit5://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-part-7-adding-comments-support-7dfc17dd474e#.phe0zit5x)
 * Elixirdose.com Phoenix tutorial: [Part 1](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix) | [Part 2](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix_2) | [Part 3](http://www.elixirdose.com/post/Phoenix%20Part%203) | [Part 4](http://www.elixirdose.com/post/Phoenix%20Part%204) | [Part 5](http://www.elixirdose.com/post/phoenix_part_5_deploying_phoenix_the_final_part)
 * [Elixir Cocktails (blog)](https://www.amberbit.com/elixir-cocktails)
@@ -814,6 +822,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [elm-tutorial.org - Sebastian Porto](http://www.elm-tutorial.org/) | [other formats](https://www.gitbook.com/book/sporto/elm-tutorial/details)
+* How to Create Tetris in Elm - Captain Coder: [All videos](https://www.youtube.com/playlist?list=PL7C8fMD-89DKhlerIE3BrYNd0PlhA6Zch) | [1: Basics](https://www.youtube.com/watch?v=GMSXYnMH1gg) | [2: Block](https://www.youtube.com/watch?v=KkZji-xY3kw) | [3: Tetromino](https://www.youtube.com/watch?v=iJL1YKCicMc) | [4: Rotate](https://www.youtube.com/watch?v=OBrFYiRGz1Q) | [5: Shift](https://www.youtube.com/watch?v=xk2j9D-wd-A) | [6: Input & Signals](https://www.youtube.com/watch?v=JMkPqS2mcsw) | [7: State & foldp](https://www.youtube.com/watch?v=KLMY79rtk0M) | [8: Tick and merge](https://www.youtube.com/watch?v=jiJQvo-O4RQ) | [9: More Ticking](https://www.youtube.com/watch?v=gXKx7A4ct1Y) | [10: Board](https://www.youtube.com/watch?v=d6QqhgGYgNE&spfreload=1) | [11: Clearing Lines](https://www.youtube.com/watch?v=sbL7X8jnnhc) | [12: Board Rules](https://www.youtube.com/watch?v=C5p5ESGWkJs) | [13: Kick It!](https://www.youtube.com/watch?v=oKbFIpgT5O8) | [14: Random Values](https://www.youtube.com/watch?v=WINCSMZl8E0) | [15: Stateful Bag](https://www.youtube.com/watch?v=929zOW95Y0k)
 * [awesome-elm - Ruslan Ismagilov](https://github.com/isRuslan/awesome-elm)
 * [6 Months of Elm in Production - Richard Feldman (Forward University)](http://forwardjs.com/university/elm-in-production)
 * [Growing the Oasis: Elm in Production - Richard Feldman (June 2015)](http://www.ustream.tv/recorded/64112108)
@@ -826,8 +835,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm - Evan Czaplicki](https://www.youtube.com/watch?v=ZTliDiWDV0k)
 * [Functional Reactive Programming in Elm - Evan Czaplicki (Philly ETE 2014)](https://www.youtube.com/watch?v=F-nTU3Wy26I)
 * [Accidentally Concurrent - Evan Czaplicki (CodeMesh London 2015)](https://www.youtube.com/watch?v=DfLvDFxcAIA)
-* Elm Friday - Bastian Krol: [What Is Elm?](https://blog.codecentric.de/en/2015/11/elm-friday-part-01-what-is-elm/) | [Installing Elm](https://blog.codecentric.de/en/2015/11/elm-friday-part-02-installing-elm/) | [Hello World](https://blog.codecentric.de/en/2015/11/elm-friday-part-03-hello-world/) | [Hello World 2.0](https://blog.codecentric.de/en/2015/11/elm-friday-part-04-hello-world-2-0/) | [Functions](https://blog.codecentric.de/en/2015/11/elm-friday-part-05-functions/) | [Type Annotations](https://blog.codecentric.de/en/2015/11/elm-friday-part-06-type-annotations/)
+* Elm Friday - Bastian Krol: [What Is Elm?](https://blog.codecentric.de/en/2015/11/elm-friday-part-01-what-is-elm/) | [Installing Elm](https://blog.codecentric.de/en/2015/11/elm-friday-part-02-installing-elm/) | [Hello World](https://blog.codecentric.de/en/2015/11/elm-friday-part-03-hello-world/) | [Hello World 2.0](https://blog.codecentric.de/en/2015/11/elm-friday-part-04-hello-world-2-0/) | [Functions](https://blog.codecentric.de/en/2015/11/elm-friday-part-05-functions/) | [Type Annotations](https://blog.codecentric.de/en/2015/11/elm-friday-part-06-type-annotations/) | [Lists](https://blog.codecentric.de/en/2015/12/elm-friday-part-07-lists/) | [Imports](https://blog.codecentric.de/en/2015/12/elm-friday-part-08-imports/) | [Type System Basics: Tuples, Type Aliases and Records](https://blog.codecentric.de/en/2016/01/elm-friday-part-09-type-system-basics/)
 * NON-FREE (but excellent): Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
+* Typed up CRUD SPA with Haskell and Elm - Magnus Rundberget: [Part 1: Spike time](http://rundis.github.io/blog/2015/haskell_elm_spa_part1.html) | [Part 2: Persistence up and running](http://rundis.github.io/blog/2016/haskel_elm_spa_part2.html) | [ Part 3: Routing](http://rundis.github.io/blog/2016/haskel_elm_spa_part3.html)
 * [Composing Styles in Elm (Beginners) - Devan Stormont](https://voyageintech.wordpress.com/2015/10/25/composing-styles-in-elm/)
 * [Make the Back-End Team Jealous: Elm in Production - Richard Feldman (StrangeLoop 2015)](https://www.youtube.com/watch?v=FV0DXNB94NE) & [Building a Live-Validated Signup Form in Elm](http://noredinktech.tumblr.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 * [Shipping a Production Web App in Elm - Richard Feldman (Lambda Jam 2015)](https://www.youtube.com/watch?v=W9HDueiaIJ4)
@@ -896,6 +906,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Example of how to integrate Elm with HTML and JS - Evan Czaplicki](https://github.com/evancz/elm-html-and-js)
 * [Interop(erability)](http://elm-lang.org/guide/interop) & [code example](https://gist.github.com/evancz/8521339)
 
+### ELM - ELM-NATIVE-UI
+
+* [Elm Native UI: Writing a React Native app in Elm - Ossi Hanhinen](http://ohanhi.github.io/elm-native-ui.html)
+* [elm-native-ui: Building mobile apps with Elm powered by React Native](https://github.com/elm-native-ui/elm-native-ui)
+
 ### ELM - PACKAGES
 
 * [Elm package repository](http://package.elm-lang.org/)
@@ -950,6 +965,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Erlang: The Movie](https://www.youtube.com/watch?t=113&v=xrIjfIjssLE)
 * [Erlang: The Movie II: The Sequel](https://www.youtube.com/watch?v=rRbY3TMUcgQ)
+
+### ERLANG - OTP
+
+* [OTP Has Done It - Nick DeMonner (ElixirConf 2015)](https://www.youtube.com/watch?v=yBReonQlfL4)
+* [Erlang Design Principles](http://erlang.org/doc/design_principles/users_guide.html)
 
 ### ERLANG - PERFORMANCE
 
@@ -1007,6 +1027,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [What is functional programming? - Kris Jenkins](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 * [Why I Like Functional Programming - Adelbert Chang (LambdaConf 2015)](https://www.youtube.com/watch?v=tsHQEB_ftxc)
+* [Functional programming design patterns - Scott Wlaschin (New Developers Conference London 2014](https://www.youtube.com/watch?v=E8I19uA-wGY)
 * [Changing the Unchangeable: The Hows and Whys of Immutable Data Structures - Brad Urani (RubyConf 2015)](https://www.youtube.com/watch?v=gTClDj9Zl1g)
 * [Carefully Composing Logic: Functional JavaScript - Brad Urani (JS.la 2015)](http://fractalbanana.com/blog/2015/09/16/carefully-composing-logic-functional-javascript-video/)
 * Professor Frisby's Mostly Adequate Guide to Functional Programming: [Webpage](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [Online](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html) | [PDF](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [ePUB](https://www.gitbook.com/download/epub/book/drboolean/mostly-adequate-guide) | [MOBI](https://www.gitbook.com/download/mobi/book/drboolean/mostly-adequate-guide)
@@ -1083,6 +1104,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### HASKELL - BOOKS
 
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
+* [Real World Haskell - Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/read/)
 * [Lazy Evaluation Illustrated for Haskell Divers - Takenobu T.](https://takenobu-hs.github.io/downloads/haskell_lazy_evaluation.pdf)
 
 ## HIRING
@@ -1868,6 +1890,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Huffington Post](http://www.huffingtonpost.com/tech/)
 * [Live Science](http://www.livescience.com/technology/)
 * [Mashable](http://mashable.com/tech/)
+* [Motherboard](http://motherboard.vice.com/en_us)
 * [The Next Web](http://thenextweb.com/section/tech/)
 * [NPR](http://www.npr.org/sections/technology/ )
 * [PC Mag](http://www.pcmag.com/news)
