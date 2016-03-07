@@ -8,6 +8,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Elm](#elm) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Learning](#learning) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free), [data analysis](#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
+## ALGORITHMS
+
+* [Algorithms, Part I - Kevin Wayne & Robert Sedgewick (Princeton University)](https://www.coursera.org/course/algs4partI) & [Part II](https://www.coursera.org/course/algs4partII)
+
 ## ANIMATION
 
 * [Algorithms for Animation - Courtney Hemphill](https://youtu.be/GrloJWKBGtg)
@@ -308,6 +312,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [GraphQL-Ruby](https://github.com/rmosolgo/graphql-ruby)
 * [Learn GraphQL](https://learngraphql.com/)
 * [GraphiQL: Graphical interactive in-browser GraphQL IDE](https://github.com/graphql/graphiql)
+
+#### DATABASES - GRAPHQL - IMPLEMENTATIONS
+
+* [graphql-elixir: Elixir implementation](https://github.com/joshprice/graphql-elixir) & [website](http://graphql-elixir.org/)
+* [Python implementation](https://github.com/graphql-python/graphene)
+* [Ruby implementation](https://github.com/rmosolgo/graphql-ruby)
+* [Sangria: Scala implementation](http://sangria-graphql.org/)
+* [Graph for Scala](http://scala-graph.org/)
 
 ### DATABASES - HOW THEY WORK
 
@@ -738,6 +750,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Phoenix: A web framework for the new web - José Valim (PolyConf 2015)](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
 * [Phoenix - a framework for the modern web - Chris McCord (NDC Conference Norway 2015)](https://vimeo.com/131633172)
 * Brandon Richey: [Writing a Blog in Phoenix and Elixir, Part 1](https://medium.com/@diamondgfx/introduction-fe138ac6079d) | [Part 2: Authorization](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-part-2-authorization-814c06fa7c0) | [Debugging Phoenix with IEx.pry](https://medium.com/@diamondgfx/debugging-phoenix-with-iex-pry-5417256e1d11) | [Testing Validations in Elixir and Ecto](https://medium.com/@diamondgfx/testing-validations-in-elixir-and-ecto-677bd8a071a1) | [Writing a Blog Engine in Phoenix and Elixir: Part 4, Adding Roles to our Controllers](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-part-4-adding-roles-to-our-controllers-9f4678b48468#.ngm5g5vnt) | [Errata 1](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-errata-1-b370269b66c7) | [Part 5, Adding ExMachina](https://medium.com/@diamondgfx/mixology-exmachina-92a08dc3e954#.lnae8ygzq) | [Part 6, Markdown Support](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-part-5-markdown-support-fde72badd8e1#.3bwzvyrnq) | [Part 7, Adding Comments Support](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-part-7-adding-comments-support-7dfc17dd474e#.phe0zit5://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-part-7-adding-comments-support-7dfc17dd474e#.phe0zit5x)
+* [Trello clone with Phoenix and React - Ricardo García Vega](https://blog.diacode.com/trello-clone-with-phoenix-and-react-pt-1)
 * Elixirdose.com Phoenix tutorial: [Part 1](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix) | [Part 2](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix_2) | [Part 3](http://www.elixirdose.com/post/Phoenix%20Part%203) | [Part 4](http://www.elixirdose.com/post/Phoenix%20Part%204) | [Part 5](http://www.elixirdose.com/post/phoenix_part_5_deploying_phoenix_the_final_part)
 * [Elixir Cocktails (blog)](https://www.amberbit.com/elixir-cocktails)
 * [PhoenixFramework.org](http://www.phoenixframework.org)
@@ -822,7 +835,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [elm-tutorial.org - Sebastian Porto](http://www.elm-tutorial.org/) | [other formats](https://www.gitbook.com/book/sporto/elm-tutorial/details)
+* [elm-by-example.org - Grzegorz Balcerek](http://elm-by-example.org/) | [code examples](https://github.com/grzegorzbalcerek/ElmByExample)
 * How to Create Tetris in Elm - Captain Coder: [All videos](https://www.youtube.com/playlist?list=PL7C8fMD-89DKhlerIE3BrYNd0PlhA6Zch) | [1: Basics](https://www.youtube.com/watch?v=GMSXYnMH1gg) | [2: Block](https://www.youtube.com/watch?v=KkZji-xY3kw) | [3: Tetromino](https://www.youtube.com/watch?v=iJL1YKCicMc) | [4: Rotate](https://www.youtube.com/watch?v=OBrFYiRGz1Q) | [5: Shift](https://www.youtube.com/watch?v=xk2j9D-wd-A) | [6: Input & Signals](https://www.youtube.com/watch?v=JMkPqS2mcsw) | [7: State & foldp](https://www.youtube.com/watch?v=KLMY79rtk0M) | [8: Tick and merge](https://www.youtube.com/watch?v=jiJQvo-O4RQ) | [9: More Ticking](https://www.youtube.com/watch?v=gXKx7A4ct1Y) | [10: Board](https://www.youtube.com/watch?v=d6QqhgGYgNE&spfreload=1) | [11: Clearing Lines](https://www.youtube.com/watch?v=sbL7X8jnnhc) | [12: Board Rules](https://www.youtube.com/watch?v=C5p5ESGWkJs) | [13: Kick It!](https://www.youtube.com/watch?v=oKbFIpgT5O8) | [14: Random Values](https://www.youtube.com/watch?v=WINCSMZl8E0) | [15: Stateful Bag](https://www.youtube.com/watch?v=929zOW95Y0k)
+* [London Elm Meetup at Plumbee Games](https://www.youtube.com/watch?v=OphstSQhyRM)
 * [awesome-elm - Ruslan Ismagilov](https://github.com/isRuslan/awesome-elm)
 * [6 Months of Elm in Production - Richard Feldman (Forward University)](http://forwardjs.com/university/elm-in-production)
 * [Growing the Oasis: Elm in Production - Richard Feldman (June 2015)](http://www.ustream.tv/recorded/64112108)
@@ -835,6 +850,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm - Evan Czaplicki](https://www.youtube.com/watch?v=ZTliDiWDV0k)
 * [Functional Reactive Programming in Elm - Evan Czaplicki (Philly ETE 2014)](https://www.youtube.com/watch?v=F-nTU3Wy26I)
 * [Accidentally Concurrent - Evan Czaplicki (CodeMesh London 2015)](https://www.youtube.com/watch?v=DfLvDFxcAIA)
+* Martin Janiczek: [Programming Projector in Elm - Routing, history 1/2](https://www.youtube.com/watch?v=D9hW8G31Dy0)
 * Elm Friday - Bastian Krol: [What Is Elm?](https://blog.codecentric.de/en/2015/11/elm-friday-part-01-what-is-elm/) | [Installing Elm](https://blog.codecentric.de/en/2015/11/elm-friday-part-02-installing-elm/) | [Hello World](https://blog.codecentric.de/en/2015/11/elm-friday-part-03-hello-world/) | [Hello World 2.0](https://blog.codecentric.de/en/2015/11/elm-friday-part-04-hello-world-2-0/) | [Functions](https://blog.codecentric.de/en/2015/11/elm-friday-part-05-functions/) | [Type Annotations](https://blog.codecentric.de/en/2015/11/elm-friday-part-06-type-annotations/) | [Lists](https://blog.codecentric.de/en/2015/12/elm-friday-part-07-lists/) | [Imports](https://blog.codecentric.de/en/2015/12/elm-friday-part-08-imports/) | [Type System Basics: Tuples, Type Aliases and Records](https://blog.codecentric.de/en/2016/01/elm-friday-part-09-type-system-basics/)
 * NON-FREE (but excellent): Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
 * Typed up CRUD SPA with Haskell and Elm - Magnus Rundberget: [Part 1: Spike time](http://rundis.github.io/blog/2015/haskell_elm_spa_part1.html) | [Part 2: Persistence up and running](http://rundis.github.io/blog/2016/haskel_elm_spa_part2.html) | [ Part 3: Routing](http://rundis.github.io/blog/2016/haskel_elm_spa_part3.html)
@@ -863,8 +879,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm Tutorial (5 talks) - Goran Milovanovic](https://www.youtube.com/playlist?list=PLtdCJGSpculbDT_p4ED9oLTJQrzoM1QEL)
 * [N Languages in N Months: Functional Fall: Elm - John Mayer (Hakka Labs)](https://www.youtube.com/watch?v=e_pw9YMzCMM)
 * [Functional programming for the Web: Elm (Kris Jenkins), Haskell (Christian Takle), Clojurescript (Sonny To)](https://www.youtube.com/watch?v=de-bbvzsr6U)
-* [Elmcast.io](http://elmcast.io)
 * [Built With Elm](http://builtwithelm.co/)
+* [Elmcast.io](http://elmcast.io): [Elm Toolbox #1: Platform](http://www.ajhager.com/elm-toolings/) | [Elm Toolbox #2: Utilities](http://www.ajhager.com/elm-toolbox-part-2-utilities/)
 
 ### ELM - CODE EXAMPLES
 
@@ -931,9 +947,22 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm with Evan Czaplicki and Richard Feldman (Javascript Jabber)](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman)
 * [Elm with Evan Czaplicki (MostlyErlang)](http://mostlyerlang.com/2014/03/24/032-elm-with-evan-czaplicki/)
 
+### ELM - PORTS
+
+* [Ports in Elm - Daniel Bachler](http://danielbachler.de/2016/02/26/ports-in-elm.html)
+
 ### ELM - SERVER-SIDE
 
 * [servelm](https://github.com/eeue56/servelm)
+
+### ELM - SIGNALS
+
+* [A Step-to-step Guide to Elm Signals - Yang Wei](https://yang-wei.github.io/blog/2016/02/04/a-step-to-step-guide-to-elm-signal/)
+* [Signals in Elm - Daniel Bachler](http://danielbachler.de/2016/02/12/signals-in-elm.html)
+
+### ELM - TASKS & EFFECTS
+
+* [Tasks and Effects in Elm - Daniel Bachler](http://danielbachler.de/2016/02/19/tasks-and-effects-in-elm.html)
 
 ## ERLANG
 
@@ -999,8 +1028,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [LetsEncrypt.org](https://letsencrypt.org/) | [Github](https://github.com/letsencrypt/letsencrypt) | [Twitter](https://twitter.com/letsencrypt)
 * [Free HTTPS certs for all – Let's Encrypt opens doors to world+dog](http://www.theregister.co.uk/2015/12/03/letsencrypt_public_beta/)
 
-## EVENT SOURCING/STREAMS/REACTIVE PROGRAMMING
+## EVENT SOURCING/STREAMS/SIGNALS/REACTIVE PROGRAMMING
 
+* [RXMarbles.com - Interactive diagrams of Rx Observables](http://rxmarbles.com/)
 * [Event Sourcing - Martin Fowler](http://martinfowler.com/eaaDev/EventSourcing.html)
 * [Event Sourcing - Bryan Reinero (GoRuCo 2015)](http://confreaks.tv/videos/goruco2015-event-sourcing)
 * [An Event-driven and Reactive Future - Jonathan Worthington (FooCafe 2014)](https://www.youtube.com/watch?v=_VdIQTtRkb8)
@@ -1107,6 +1137,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Real World Haskell - Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/read/)
 * [Lazy Evaluation Illustrated for Haskell Divers - Takenobu T.](https://takenobu-hs.github.io/downloads/haskell_lazy_evaluation.pdf)
 
+### HASKELL - VIDEOS
+
+* [A History of Haskell: Being Lazy With Class - Arthur Vard](https://www.youtube.com/watch?v=3bjXGrycMhQ)
+* [Many videos on Purescript & Haskell - kritzcreek](https://www.livecoding.tv/kritzcreek/videos/)
+* [Learn Haskell in One Vide - Derek Banas](https://www.youtube.com/watch?v=02_H3LjqMr8)
+* [Writing a Game in Haskell - Elise Huard](https://www.youtube.com/watch?v=1MNTerD8IuI)
+* [A Year of Haskell - Justin Leitgeb (Lambda Days 2015)](https://www.youtube.com/watch?v=wZ0RQG3mFPw)
+* The Haskell Cast [#2 - Don Stewart on Real World Haskell](https://www.youtube.com/watch?v=4YfkwfZ7AV4) | [#4 - Simon Marlow on Parallelism and Concurrency](https://www.youtube.com/watch?v=73B1uc3xkvo)
+* Haskell Talks: Erik Hinton, Programmer with New York Times: [Part 1](https://www.youtube.com/watch?v=6ciJv9Bb928) | [Part 2](https://www.youtube.com/watch?v=BBm6yfkjkPw)
+
 ## HIRING
 
 * [The Best Way to Hire Developers - Erik Dietrich](http://www.daedtech.com/best-way-hire-developers/)
@@ -1172,6 +1212,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### HTML5 - PERFORMANCE
 
 * [High Performance in the Critical Rendering Path - Nicolas Bevacqua](http://forwardjs.com/university/high-performance-in-the-critical-rendering-path)
+
+### HTML5 - SERVICEWORKERS
+
+* [There is a client-side proxy (ServiceWorker) in your browser! - Ilya Grigorik (Velocity NYC 2015)](https://www.youtube.com/watch?v=etACK2qbHfc)
 
 ### HTML5 - WEB SOCKETS
 
@@ -1493,6 +1537,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Introducing Reduce: Reducing an Array into an Object - Mykola Bilokonsky](https://egghead.io/lessons/javascript-introducing-reduce-reducing-an-array-into-an-object?pl=understand-how-to-use-reduce-e7bd12ab)
 * [We Will All Be Game Programmers - Hunter Loftis](https://www.youtube.com/watch?v=avwDj3KRuLc)
 
+#### JAVASCRIPT - FUNCTIONAL PROGRAMMING - CYCLE.JS
+
+* [Cycle.js](http://cycle.js.org/)
+* [Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals)
+
 #### JAVASCRIPT - FUNCTIONAL PROGRAMMING - IMMUTABLE.JS
 
 * [Immutable.js](https://github.com/facebook/immutable-js)
@@ -1521,6 +1570,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Secrets of the Virtual DOM - Pete Hunt (Barcelona Future Javascript)](https://www.youtube.com/watch?v=-DX3vJiqxm4)
 * [React and Rails](http://rny.io/rails/react/2014/07/31/reactjs-and-rails.html)
 * [React & Flux - Christian Lilley (JSChannel 2015)](http://confreaks.tv/videos/jschannelconf2015-react-flux)
+
+#### JAVASCRIPT - FUNCTIONAL REACTIVE PROGRAMMING - Rx.JS
+
+* [Reactive programming library for JavaScript (Github)](https://github.com/ReactiveX/RxJS) & [Website](https://rxjs.codeplex.com/)
+* [Intro to Reactive Programming](https://egghead.io/series/introduction-to-reactive-programming)
 
 ### JAVASCRIPT - FUNDAMENTAL CONCEPTS
 
@@ -1888,6 +1942,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Google](https://news.google.com/news/section?topic=tc)
 * [Guardian](http://www.theguardian.com/us/technology)
 * [Huffington Post](http://www.huffingtonpost.com/tech/)
+* [Inhabit](http://inhabitat.com/news/)
 * [Live Science](http://www.livescience.com/technology/)
 * [Mashable](http://mashable.com/tech/)
 * [Motherboard](http://motherboard.vice.com/en_us)
@@ -1930,6 +1985,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Package Managers: An Introductory Guide (covers NPM & Bower)](http://tech.pro/tutorial/1190/package-managers-an-introductory-guide-for-the-uninitiated-front-end-developer)
 
+## OCAML
+
+* [Caml Trading - Yaron Minsky (Jane Street Capital)](https://www.youtube.com/watch?v=hKcOkWzj0_s)
+
 ## OCTAVE
 
 * [Machine Learning - Andrew Ng (Coursera)](https://class.coursera.org/ml-006/lecture)
@@ -1963,6 +2022,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Range Types in PostgreSQL 9.2 - Your Life Will Never Be the Same - Jonathan S. Katz (Postgres Open)](https://www.youtube.com/watch?v=XIcOf7r0dG4)
 * [Full-Text Search: Seek and Ye Shall Find - Dan Scott (Postgres Open)](https://www.youtube.com/watch?v=R6nT6UgY7k4)
 * [Using PostgreSQL and jsonb with Ruby on Rails - Nando Vieira](http://nandovieira.com/using-postgresql-and-jsonb-with-ruby-on-rails)
+
+### POSTGRESQL - POSTGREST
+
+* [PostgREST - REST API for any Postgres database](https://github.com/begriffs/postgrest)
 
 ### POSTGRESQL - VIDEOS
 
@@ -2133,6 +2196,11 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PURESCRIPT - HELP
 
 * [Google group](https://groups.google.com/forum/#!forum/purescript)
+
+### PURESCRIPT - VIDEOS
+
+* [Many videos on Purescript & Haskell - kritzcreek](https://www.livecoding.tv/kritzcreek/videos/)
+* [PureScript Community](https://www.youtube.com/channel/UCPtHLGu_WXh-OvX8NAVtDEw)
 
 ## PYTHON
 
@@ -3840,17 +3908,29 @@ Links to resources I have found useful or think might be helpful to future me or
 ## SCALA
 
 * [Official documentation](http://scala-lang.org/documentation/)
-* Scala talks: [Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=scala&commit=go) & [Youtube](https://www.youtube.com/results?q=scala+language)
 * [Scala School - Twitter](http://twitter.github.io/scala_school/)
 * [Effective Scala - Marius Eriksen](http://twitter.github.io/effectivescala/)
-* [Why Scala? - Venkat Subramaniam](http://www.youtube.com/watch?v=LH75sJAR0hc)
-* [Scala for the Intrigued - Venkat Subramaniam](http://www.youtube.com/watch?v=grvvKURwGNg)
 * [Scala with Style - Martin Odersky](http://www.youtube.com/watch?v=kkTFx3-duc8)
-* [Tim Cowlishaw - From Ruby to Scala and back again: Better living through type-checking - Tim Colishaw (Ruby Manor 4.0)](http://vimeo.com/79180652)
-* [Scala: The Simple Parts - Martin Odersky (GOTO Conf 2014)](https://www.youtube.com/watch?v=P8jrvyxHodU)
 * [Scala for the Impatient (free PDF; requires registration)](http://typesafe.com/resources/book/scala-for-the-impatient)
 * [Scala in Depth (free PDF; requires registration)](http://typesafe.com/resources/book/scala-in-depth)
 * [Scala Tutorial (PDF) - TutorialsPoint.com](http://tutorialspoint.com/scala/scala_tutorial.pdf)
+
+### SCALA - FUNCTIONAL PROGRAMMING
+
+* [Functional Programming Principles in Scala - Scala creator Martin Odersky (École Polytechnique Fédérale de Lausanne) Coursera](https://www.coursera.org/course/progfun)
+* [Principles of Reactive Programming - Scala creator Martin Odersky, Erik Meijer & Roland Kuhn](https://www.coursera.org/course/reactive)
+* [Functional Programming with Scala - Jacek Laskowski (JEE Conf 2015)](https://www.youtube.com/watch?v=9qwmuEIScB0)
+* [Cats - A Fresh Look at Functional Programming in Scala - Mike Stew (LambdaConf 2015)](https://www.youtube.com/watch?v=hIwdaP3-U6I)
+* [Intro to Functional Programming in Scala - Joe Barnes](https://www.youtube.com/watch?v=2Ji5i0x2gJI)
+
+### SCALA - VIDEOS
+
+* [Learn Scala in One Video - Derek Banas](https://www.youtube.com/watch?v=DzFt0YkZo8M)
+* [Scala for the Intrigued - Dr. Venkat Subramaniam](https://www.youtube.com/watch?v=grvvKURwGNg)
+* [Why Scala? - Venkat Subramaniam](http://www.youtube.com/watch?v=LH75sJAR0hc)
+* [Tim Cowlishaw - From Ruby to Scala and back again: Better living through type-checking - Tim Colishaw (Ruby Manor 4.0)](http://vimeo.com/79180652)
+* [Scala: The Simple Parts - Martin Odersky (GOTO Conf 2014)](https://www.youtube.com/watch?v=P8jrvyxHodU)
+* Scala talks: [Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=scala&commit=go) & [Youtube](https://www.youtube.com/results?q=scala+language)
 
 ## SCRATCH
 
