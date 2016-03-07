@@ -6,11 +6,17 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Elm](#elm) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Learning](#learning) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free), [data analysis](#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Elm](#elm) | [Erlang](#erlang)| [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Learning](#learning) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free), [data analysis](#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## ALGORITHMS
 
-* [Algorithms, Part I - Kevin Wayne & Robert Sedgewick (Princeton University)](https://www.coursera.org/course/algs4partI) & [Part II](https://www.coursera.org/course/algs4partII)
+* Algorithms: Kevin Wayne & Robert Sedgewick (Princeton University): [Part I](https://www.coursera.org/course/algs4partI) & [Part II](https://www.coursera.org/course/algs4partII)
+* Algorithms: Design and Analysis - Tim Roughgarden (Stanford University): [Part 1](https://www.coursera.org/course/algo) & [Part 2](https://www.coursera.org/course/algo2)
+* [Automata: finite automata, context-free grammars, Turing machines, undecidable problems, and intractable problems (NP-completeness) - Jeff Ullman (Stanford University)](https://www.coursera.org/course/automata)
+* [Analysis of Algorithms - Robert Sedgewick (Princeton University)](https://www.coursera.org/course/aofa)
+* Algorithmic Thinking (Rice University): [Part 1](https://www.coursera.org/learn/algorithmic-thinking-1) & [Part 2](https://www.coursera.org/learn/algorithmic-thinking-2)
+* [Algorithmic Toolbox - UC San Diego](https://www.coursera.org/learn/algorithmic-toolbox)
+* [Algorithms on Strings - UC San Diego](https://www.coursera.org/learn/algorithms-on-strings)
 
 ## ANIMATION
 
@@ -1139,9 +1145,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### HASKELL - VIDEOS
 
+* [Introduction to Functional Programming - Erik Meijer](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 * [A History of Haskell: Being Lazy With Class - Arthur Vard](https://www.youtube.com/watch?v=3bjXGrycMhQ)
 * [Many videos on Purescript & Haskell - kritzcreek](https://www.livecoding.tv/kritzcreek/videos/)
-* [Learn Haskell in One Vide - Derek Banas](https://www.youtube.com/watch?v=02_H3LjqMr8)
+* [Learn Haskell in One Video - Derek Banas](https://www.youtube.com/watch?v=02_H3LjqMr8)
 * [Writing a Game in Haskell - Elise Huard](https://www.youtube.com/watch?v=1MNTerD8IuI)
 * [A Year of Haskell - Justin Leitgeb (Lambda Days 2015)](https://www.youtube.com/watch?v=wZ0RQG3mFPw)
 * The Haskell Cast [#2 - Don Stewart on Real World Haskell](https://www.youtube.com/watch?v=4YfkwfZ7AV4) | [#4 - Simon Marlow on Parallelism and Concurrency](https://www.youtube.com/watch?v=73B1uc3xkvo)
@@ -1781,6 +1788,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Machine Learning (online Coursera class with Stanford professor Andrew Ng)](https://www.coursera.org/learn/machine-learning)
 * [Machine Learning (online course from University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 * [Intro to Machine Learning: Pattern Recognition for Fun and Profit - Sebastian Thrun and Katie Malone (Udacity)]()
+* [Neural Networks for Machine Learning - Geoffrey Hinton (University of Toronto)](https://www.coursera.org/course/neuralnets)
 * [Artificial Intelligence (online EdX.org class from UC Berkeley)](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs188-1x-artificial-579)
 * [MLOSS.org (Machine Learning Open Source Software)](http://mloss.org/software/)
 * [KD Nuggets](http://www.kdnuggets.com/)
@@ -2192,6 +2200,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [main](http://www.purescript.org/) | [learn](http://www.purescript.org/learn/) | [wiki](https://github.com/purescript/purescript/wiki) | [Github](https://github.com/purescript/purescript)
 * [Learn Functional Programming with PureScript - John A De Goes (LambdaConf 2015)](https://www.youtube.com/watch?v=LqYfdmb0eUU)
 * [PureScript by Example - Phil Freeman](https://leanpub.com/purescript/read)
+* [kRITZCREEK blog](https://kritzcreek.github.io/)
 
 ### PURESCRIPT - HELP
 
@@ -2714,6 +2723,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Python for Informatics: Exploring Information - Charles Severance](http://www.pythonlearn.com/book.php), [PDF](http://www.pythonlearn.com/book_008.pdf) & [videos](http://pythonlearn.com/)
 * [Intro to Python - Keven Sheppard](http://www.kevinsheppard.com/Python_Course#YouTube_Catch-up)
 * [Programming for Everybody (Getting Started with Python) - Charles Severance (University of Michigan)](https://www.coursera.org/learn/python)
+* [Python Data Structures - Charles Severance (University of Michigan)](https://www.coursera.org/learn/python-data)
+* [Using Python to Access Web Data - Charles Severance (University of Michigan)](https://www.coursera.org/learn/python-network-data)
+* [Using Databases With Python - Charles Severance (University of Michigan)](https://www.coursera.org/learn/python-databases)
 * [Let's Learn Python - Trevor Payne](https://www.youtube.com/user/TPayneExperience/playlists?sort=dd&shelf_id=2&view=50)
 * [Hello, Little Turtles!](http://interactivepython.org/runestone/static/thinkcspy/PythonTurtle/helloturtle.html)
 * [Python Programming - Introduction - TDChannel](https://www.youtube.com/watch?v=72RKMMyLxS8)
