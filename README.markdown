@@ -911,6 +911,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Zombie Dice Score Card in Elm - James Hughes](https://yobriefca.se/blog/2015/07/29/zombie-dice-score-card-in-elm/) | [source code](https://github.com/kouphax/zombie-dice-elm)
 * [Sydron: github events visualized - Jessica Kerr](https://github.com/jessitron/elm-sydron)
 
+### ELM - DATA STRUCTURES
+
+* [Data Structures in Elm - NoRedInk.com](http://tech.noredink.com/post/140646140878/data-structures-in-elm)
+
 ### ELM - EDITORS
 
 * [lambdatoast/elm.vim](https://github.com/lambdatoast/elm.vim) & [ElmCast/elm-vim](https://github.com/ElmCast/elm-vim)
@@ -963,6 +967,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - SIGNALS
 
+* [Elm Flux: Visualization of Elm Signals - Yang Wei](https://yang-wei.github.io/elmflux/)
 * [A Step-to-step Guide to Elm Signals - Yang Wei](https://yang-wei.github.io/blog/2016/02/04/a-step-to-step-guide-to-elm-signal/)
 * [Signals in Elm - Daniel Bachler](http://danielbachler.de/2016/02/12/signals-in-elm.html)
 
@@ -1073,6 +1078,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional Programming: The Failure of State - Robert C. Martin (NDC 2014)](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
 * [Don't fear the monad - Brian Beckman](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
 * [Improving your Web App with Functional Object-Oriented Design - Brad Urani](https://medium.com/@bradurani/improving-your-web-app-with-functional-object-oriented-design-5218f9732b74)
+* [Things That Matter - Bruce Tate (Lambda Days 2016)](https://www.youtube.com/watch?v=YjoVc5KFjaQ)
+* Lambda Days: [2016](ihttps://www.youtube.com/watch?v=1aEEGyJxz3A&list=PLWbHc_FXPo2izLmnqYbI5DZ4ArUe3vp1d) | [2015](https://www.youtube.com/results?search_query=lambda+days+2015)
 * (Updated) Functional Principles for OO Devs (Ordina 2015): [Part 1](https://www.youtube.com/watch?v=cpyrTkzXeL8) & [Part 2: Property-Based Testing for Better Code](https://www.youtube.com/watch?v=z4WyLZIdi08)
 * [Functional Principles for OO Development - Jessica Kerr (GOTO Conference 2014)](https://www.youtube.com/watch?v=GpXsQ-NIKXY) & [(Ruby MidWest 2013)](http://confreaks.tv/videos/2382-rmw2013-functional-principles-for-oo-development)
 * [Functional Programming and Ruby - Pat Shaughnessy (GoRuCo 2013)](http://confreaks.tv/videos/2557-goruco2013-functional-programming-and-ruby)
