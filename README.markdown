@@ -842,6 +842,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [elm-tutorial.org - Sebastian Porto](http://www.elm-tutorial.org/) | [other formats](https://www.gitbook.com/book/sporto/elm-tutorial/details)
 * [elm-by-example.org - Grzegorz Balcerek](http://elm-by-example.org/) | [code examples](https://github.com/grzegorzbalcerek/ElmByExample)
+* [Making the Web Functional - Chris McCord & Evan Czaplicki (Erlang Factory 2016)](https://www.youtube.com/watch?v=XJ9ckqCMiKk&feature=youtu.be)
 * How to Create Tetris in Elm - Captain Coder: [All videos](https://www.youtube.com/playlist?list=PL7C8fMD-89DKhlerIE3BrYNd0PlhA6Zch) | [1: Basics](https://www.youtube.com/watch?v=GMSXYnMH1gg) | [2: Block](https://www.youtube.com/watch?v=KkZji-xY3kw) | [3: Tetromino](https://www.youtube.com/watch?v=iJL1YKCicMc) | [4: Rotate](https://www.youtube.com/watch?v=OBrFYiRGz1Q) | [5: Shift](https://www.youtube.com/watch?v=xk2j9D-wd-A) | [6: Input & Signals](https://www.youtube.com/watch?v=JMkPqS2mcsw) | [7: State & foldp](https://www.youtube.com/watch?v=KLMY79rtk0M) | [8: Tick and merge](https://www.youtube.com/watch?v=jiJQvo-O4RQ) | [9: More Ticking](https://www.youtube.com/watch?v=gXKx7A4ct1Y) | [10: Board](https://www.youtube.com/watch?v=d6QqhgGYgNE&spfreload=1) | [11: Clearing Lines](https://www.youtube.com/watch?v=sbL7X8jnnhc) | [12: Board Rules](https://www.youtube.com/watch?v=C5p5ESGWkJs) | [13: Kick It!](https://www.youtube.com/watch?v=oKbFIpgT5O8) | [14: Random Values](https://www.youtube.com/watch?v=WINCSMZl8E0) | [15: Stateful Bag](https://www.youtube.com/watch?v=929zOW95Y0k)
 * [London Elm Meetup at Plumbee Games](https://www.youtube.com/watch?v=OphstSQhyRM)
 * [awesome-elm - Ruslan Ismagilov](https://github.com/isRuslan/awesome-elm)
@@ -872,6 +873,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm architecture tutorial - Evan Czaplicki](https://github.com/evancz/elm-architecture-tutorial)
 * Geocoding With Elm and ArcGIS - Kris Jenkins: [Part 1](http://blog.jenkster.com/2015/09/geocoding-with-elm-and-arcgis-part-1.html) | [Part 2](http://blog.jenkster.com/2015/09/geocoding-with-elm-and-arcgis-part-2.html) | [Part 3](http://blog.jenkster.com/2015/10/geocoding-with-elm-and-arcgis-part-3.html)
 * Brandon Richey: [Getting Started with Elm](https://medium.com/@diamondgfx/getting-started-with-elm-11d7a53b1a78#.fxuq1zojk) | [Understanding Elm: Signals, Mailboxes, Addresses, and Actions](https://medium.com/@diamondgfx/understanding-elm-signals-mailboxes-addresses-and-actions-7932781396ef#.soi3267gk) | [Applying Signals and Actions to our App](https://medium.com/@diamondgfx/e1c649bd0d96#.7542im727)
+* Dennis Reimann: [Elm Modules and Imports](https://dennisreimann.de/articles/elm-modules-import.html) | [Functions](https://dennisreimann.de/articles/elm-functions.html)
 * [elm-d3: Front-end Development Without Frameworks (C◦mp◦se :: Conference 2015)](https://www.youtube.com/watch?v=pTlOLO7Qhls)
 * [Building Web Apps in Elm - Jivago Alves (PolyConf 2015)](https://www.youtube.com/watch?v=fq4l6C935Bg)
 * [Controlling Time and Space: Understanding the Many Formulations of FRP - Evan Czaplicki (StrangeLoop 2014)](https://www.youtube.com/watch?v=Agu6jipKfYw)
@@ -885,8 +887,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm Tutorial (5 talks) - Goran Milovanovic](https://www.youtube.com/playlist?list=PLtdCJGSpculbDT_p4ED9oLTJQrzoM1QEL)
 * [N Languages in N Months: Functional Fall: Elm - John Mayer (Hakka Labs)](https://www.youtube.com/watch?v=e_pw9YMzCMM)
 * [Functional programming for the Web: Elm (Kris Jenkins), Haskell (Christian Takle), Clojurescript (Sonny To)](https://www.youtube.com/watch?v=de-bbvzsr6U)
+* Road to Elm - LamdaCat: [Index](http://www.lambdacat.com/road-to-elm-index/) | [Currying, The Unknown](http://www.lambdacat.com/road-to-elm-currying-the-unknown/) | [Lists, Arrays, Sets, and Dictionaries](https://dennisreimann.de/articles/elm-data-structures-list-array-set-dict.html) | [Records & Tuples](https://dennisreimann.de/articles/elm-data-structures-record-tuple.html) | [Destructuring](http://www.lambdacat.com/road-to-elm-destructuring/)
+* [Elm Explained - Nik Silver](https://github.com/niksilver/elm-explained)
 * [Built With Elm](http://builtwithelm.co/)
 * [Elmcast.io](http://elmcast.io): [Elm Toolbox #1: Platform](http://www.ajhager.com/elm-toolings/) | [Elm Toolbox #2: Utilities](http://www.ajhager.com/elm-toolbox-part-2-utilities/)
+
+### ELM - BLOGS
+
+* [elm-lang.org/blog](http://elm-lang.org/blog)
 
 ### ELM - CODE EXAMPLES
 
@@ -914,12 +922,20 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - DATA STRUCTURES
 
 * [Data Structures in Elm - NoRedInk.com](http://tech.noredink.com/post/140646140878/data-structures-in-elm)
+* [Decoding JSON Structures With Elm - Josh Clayton](https://robots.thoughtbot.com/decoding-json-structures-with-elm)
+* [json-to-elm - Noah Hall](https://github.com/eeue56/json-to-elm)
+* [Json.Decode cheatsheet - Yang Wei](https://gist.github.com/yang-wei/0a1cea1194a244aa9be6)
 
 ### ELM - EDITORS
 
 * [lambdatoast/elm.vim](https://github.com/lambdatoast/elm.vim) & [ElmCast/elm-vim](https://github.com/ElmCast/elm-vim)
 * [jcollard/elm-mode (Emacs, if you're into that kind of kinky stuff)](https://github.com/jcollard/elm-mode)
 * [elm-format formats Elm source code according to a standard set of rules based on the official Elm Style Guide](https://github.com/avh4/elm-format)
+
+### ELM - ELM-NATIVE-UI
+
+* [Elm Native UI: Writing a React Native app in Elm - Ossi Hanhinen](http://ohanhi.github.io/elm-native-ui.html)
+* [elm-native-ui: Building mobile apps with Elm powered by React Native](https://github.com/elm-native-ui/elm-native-ui)
 
 ### ELM - HELP
 
@@ -931,11 +947,6 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Example of how to integrate Elm with HTML and JS - Evan Czaplicki](https://github.com/evancz/elm-html-and-js)
 * [Interop(erability)](http://elm-lang.org/guide/interop) & [code example](https://gist.github.com/evancz/8521339)
-
-### ELM - ELM-NATIVE-UI
-
-* [Elm Native UI: Writing a React Native app in Elm - Ossi Hanhinen](http://ohanhi.github.io/elm-native-ui.html)
-* [elm-native-ui: Building mobile apps with Elm powered by React Native](https://github.com/elm-native-ui/elm-native-ui)
 
 ### ELM - PACKAGES
 
@@ -1017,6 +1028,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ERLANG - VIDEOS
 
+* [ErlangSolutions Youtube videos](https://www.youtube.com/user/ErlangSolutions)
 * [Introduction to Erlang - Steven Proctor (LambdaConf 2015)](https://www.youtube.com/watch?v=0YpCBRJJtPg)
 * [That's "Billion" With a "B": Scaling to the Next Level at WhatsApp - Rick Reed (Erlang Factory SF 2014)](https://www.youtube.com/watch?v=c12cYAUTXXs)
 * [Erlang Master Classes](https://www.youtube.com/watch?v=gKRyAb7d8lo&list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5&index=1)
@@ -1094,6 +1106,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [LambdaConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
 * [Compose Conference 2015](http://www.composeconference.org/2015/summary/)
+
+### FUNCTIONAL PROGRAMMING - MONADS
+
+* [Monads Asking the Right Question - Pawel Szulc (LambdaConf 2015)](https://www.youtube.com/watch?v=FvZ_QhcbTCc)
 
 ## GIT
 
@@ -3941,6 +3957,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional Programming with Scala - Jacek Laskowski (JEE Conf 2015)](https://www.youtube.com/watch?v=9qwmuEIScB0)
 * [Cats - A Fresh Look at Functional Programming in Scala - Mike Stew (LambdaConf 2015)](https://www.youtube.com/watch?v=hIwdaP3-U6I)
 * [Intro to Functional Programming in Scala - Joe Barnes](https://www.youtube.com/watch?v=2Ji5i0x2gJI)
+* [Programs as Values: Pure Composable Database Access in Scala - Rob Norris](https://www.youtube.com/watch?v=XHiTK4UOIf0)
 
 ### SCALA - VIDEOS
 
