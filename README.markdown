@@ -318,6 +318,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [GraphQL-Ruby](https://github.com/rmosolgo/graphql-ruby)
 * [Learn GraphQL](https://learngraphql.com/)
 * [GraphiQL: Graphical interactive in-browser GraphQL IDE](https://github.com/graphql/graphiql)
+* [Intro to GraphQL - Lee Byron (0REDEV 2015)](https://www.youtube.com/watch?v=Wq02BNrN1dU)
+* [Exploring GraphQL - Nick Schrock (Dev Tools @ Scale)](https://www.youtube.com/watch?v=_9RgHXqH8J0)
 
 #### DATABASES - GRAPHQL - IMPLEMENTATIONS
 
@@ -751,6 +753,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PHOENIX
 
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
+* [Taking Off With Phoenix - Sonny Scroggin (Erlang Factory SF 2016)](https://www.youtube.com/watch?v=eSWNi5vRxU8)
+* [Phoenix a web framework for the new web - José Valim (Lambda Days 2016)](https://www.youtube.com/watch?v=MD3P7Qan3pw)
 * [Phoenix is not Rails - Chris McCord](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails)
 * [Intro to Phoenix - José Valim (Elixir Warsaw Meetup)](https://www.youtube.com/watch?v=3LiLjVCDEpU)
 * [Phoenix: A web framework for the new web - José Valim (PolyConf 2015)](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
@@ -835,6 +839,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [What Elixir Is About - José Valim (Erlang User Conference 2015)](https://www.youtube.com/watch?v=QXcedVc2LQM)
 * [Rewriting a Ruby application in Elixir - Claudio Ortolina (ElixirConf 2015)](https://www.youtube.com/watch?v=lho1e04Gzzs)
 * [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
+* [Idioms for Building Distributed Fault-tolerant Applications with Elixir - José Valim (goto; conference)](https://www.youtube.com/watch?v=B4rOG9Bc65Q)
 * ["Elixir and the Internet of Things" - Doug Rohrer (Strangeloop 2014)](https://www.youtube.com/watch?v=a-OCorBXX7M)
 
 ## ELM
@@ -1079,11 +1084,15 @@ Links to resources I have found useful or think might be helpful to future me or
 ## FUNCTIONAL PROGRAMMING
 
 * [What is functional programming? - Kris Jenkins](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
+* [Why Bother With FP? - Tomek Borek (Lambda Days 2015)](https://www.youtube.com/watch?v=_bYkRXcf9sA)
+* [An Invitation to Functional Programming - Rúnar Bjarnason (Lambda Days 2015)](https://www.youtube.com/watch?v=aa7jh1J4xNs)
 * [Why I Like Functional Programming - Adelbert Chang (LambdaConf 2015)](https://www.youtube.com/watch?v=tsHQEB_ftxc)
+* [Modeling your domain - Norbert Wojtowicz (Lambda Days 2016)](https://www.youtube.com/watch?v=UrGJHfB21Ok)
 * [Functional programming design patterns - Scott Wlaschin (New Developers Conference London 2014](https://www.youtube.com/watch?v=E8I19uA-wGY)
 * [Changing the Unchangeable: The Hows and Whys of Immutable Data Structures - Brad Urani (RubyConf 2015)](https://www.youtube.com/watch?v=gTClDj9Zl1g)
 * [Carefully Composing Logic: Functional JavaScript - Brad Urani (JS.la 2015)](http://fractalbanana.com/blog/2015/09/16/carefully-composing-logic-functional-javascript-video/)
 * Professor Frisby's Mostly Adequate Guide to Functional Programming: [Webpage](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [Online](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html) | [PDF](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [ePUB](https://www.gitbook.com/download/epub/book/drboolean/mostly-adequate-guide) | [MOBI](https://www.gitbook.com/download/mobi/book/drboolean/mostly-adequate-guide)
+* [A purely functional approach to building large applications - Noel Markham (Lambda Days 2015)](https://www.youtube.com/watch?v=V1d3OYYez7s)
 * [Functional programming patterns for the non-mathematician - Brian Lonsdorf (FluentConf 2014)](https://www.youtube.com/watch?v=AvgwKjTPMmM)
 * [A Million Ways to Fold in JS - Brian Lonsdorf (Forward Summit 2015)](http://forwardjs.com/university/a-million-ways-to-fold-in-js)
 * [An Introduction to Functional Programming - Andrew Smith & Noah Sluss (Code School)](https://www.youtube.com/watch?v=FueU3sehY_://www.youtube.com/watch?v=FueU3sehY_4)
@@ -1101,11 +1110,24 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional Thinking - Neal Ford](http://www.youtube.com/watch?v=JeK979aqqqc) & [OSCON 2013](https://www.youtube.com/watch?v=7aYS9PcAITQ)
 * [Simple and Elegant Rails Code with Functional Style - Attila Domokos (RailsConf 2013)](http://confreaks.tv/videos/2431-railsconf2013-simple-and-elegant-rails-code-with-functional-style)
 * Brian Lonsdorf: [Functors](http://forwardjs.com/university/functors) | [F-Algebras, Pt 1](http://forwardjs.com/university/f-algebras-part-1) | [F-Algebras, Pt 2](http://forwardjs.com/university/f-algebras-part-2) | [F-Algebras, Pt 3](http://forwardjs.com/university/f-algebras-part-3)
+* [Truth About Types - Bartosz Milewski (Lambda Days 2016)](https://www.youtube.com/watch?v=dgrucfgv2Tw)
+* [Propositions as Types - Philip Wadler (Lambda Days 2016)](https://www.youtube.com/watch?v=aeRVdYN6fE8)
 
 ### FUNCTIONAL PROGRAMMING - CONFERENCE VIDEOS
 
 * [LambdaConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
+* Lambda Days (Erlang Solutions): [2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2izLmnqYbI5DZ4ArUe3vp1d) | [2015](https://www.youtube.com/results?search_query=lambda+days+2015)
 * [Compose Conference 2015](http://www.composeconference.org/2015/summary/)
+
+### FUNCTIONAL PROGRAMMING - EXAMPLES
+
+* [Dissecting the Rabbit: RabbitMQ Internal Architecture - Alvaro Videla (Lambda Days 2015)](https://www.youtube.com/watch?v=WPischLIe8Q)
+
+### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
+
+* [Fun With the Lambda Calculus - Corey Haines (goto; conference 2015)](https://www.youtube.com/watch?v=QPqoFCHpLF4)
+* [Lambda Calculus - Jim Grandpre (Code Genius)](https://www.youtube.com/watch?v=peOk3W7KZ4o)
+* [Lambda Calculus - Dustin Mulcahey (Hakka Labs)](https://www.youtube.com/watch?v=E5DwIxGOu1E)
 
 ### FUNCTIONAL PROGRAMMING - MONADS
 
@@ -2191,6 +2213,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Reliable Messaging With RabbitMQ - Part 1 - JimOnDemand](https://www.youtube.com/watch?v=XjuiZM7JzPw)
 * [RabbitMQ Simulator](http://tryrabbitmq.com/)
 * [RabbitMQ is the new king - Alvaro Videla & Jan Machacek](https://www.youtube.com/watch?v=kA8rPIDa388)
+* [Dissecting the Rabbit: RabbitMQ Internal Architecture - Alvaro Videla (Lambda Days 2015)](https://www.youtube.com/watch?v=WPischLIe8Q)
 
 ### PROGRAMMING - PODCASTS
 
@@ -3949,6 +3972,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Scala for the Impatient (free PDF; requires registration)](http://typesafe.com/resources/book/scala-for-the-impatient)
 * [Scala in Depth (free PDF; requires registration)](http://typesafe.com/resources/book/scala-in-depth)
 * [Scala Tutorial (PDF) - TutorialsPoint.com](http://tutorialspoint.com/scala/scala_tutorial.pdf)
+
+### SCALA - AKKA
+
+* [Implementing the Reactive Manifesto with Akka - Adam Warski (Lambda Days 2015)](https://www.youtube.com/watch?v=kFH3_OF9EW8)
 
 ### SCALA - FUNCTIONAL PROGRAMMING
 
