@@ -1086,6 +1086,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [What is functional programming? - Kris Jenkins](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 * [Why Bother With FP? - Tomek Borek (Lambda Days 2015)](https://www.youtube.com/watch?v=_bYkRXcf9sA)
 * [An Invitation to Functional Programming - Rúnar Bjarnason (Lambda Days 2015)](https://www.youtube.com/watch?v=aa7jh1J4xNs)
+* [Functional Programming from First Principles - Erik Meijer (goto; conference)](https://www.youtube.com/watch?v=a-RAltgH8tw)
 * [Why I Like Functional Programming - Adelbert Chang (LambdaConf 2015)](https://www.youtube.com/watch?v=tsHQEB_ftxc)
 * [Modeling your domain - Norbert Wojtowicz (Lambda Days 2016)](https://www.youtube.com/watch?v=UrGJHfB21Ok)
 * [Functional programming design patterns - Scott Wlaschin (New Developers Conference London 2014](https://www.youtube.com/watch?v=E8I19uA-wGY)
@@ -1125,6 +1126,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
 
+* [Category Theory: The essence of interface-based design - Erik Meijer (goto; conference 2012)](https://www.youtube.com/watch?v=JMP6gI5mLHc)
 * [Fun With the Lambda Calculus - Corey Haines (goto; conference 2015)](https://www.youtube.com/watch?v=QPqoFCHpLF4)
 * [Lambda Calculus - Jim Grandpre (Code Genius)](https://www.youtube.com/watch?v=peOk3W7KZ4o)
 * [Lambda Calculus - Dustin Mulcahey (Hakka Labs)](https://www.youtube.com/watch?v=E5DwIxGOu1E)
@@ -1175,12 +1177,13 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## HASKELL
 
-* Haskell: [main site](https://www.haskell.org/) | [wiki](https://wiki.haskell.org/Haskell) | [learning resources](https://wiki.haskell.org/Learning_Haskell) | [tryhaskell.org](http://tryhaskell.org/)
+* Haskell: [main site](https://www.haskell.org/) | [wiki](https://wiki.haskell.org/Haskell) | [learning resources](https://wiki.haskell.org/Learning_Haskell) | [tryhaskell.org](http://tryhaskell.org/) | [Hoogle (Haskell API search engine)](https://www.haskell.org/hoogle/) | [Hackage (Haskell package archive)](http://hackage.haskell.org/) | [GHC user's guide](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/) | [Haskell libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/)
 * [Write You a Haskell: Building a modern functional compiler from first principles - Stephen Diehl](http://dev.stephendiehl.com/fun/WYAH.pdf)
 * [Learn Haskell](https://github.com/bitemyapp/learnhaskell) | [Specific topics for Haskell users](https://github.com/bitemyapp/learnhaskell/blob/master/specific_topics.md)
 * [PlanetHaskell](http://planet.haskell.org/)
 * [Haskell Koans - Vancouver Haskell Meetup](https://github.com/HaskVan/HaskellKoans)
 * [Modeling Data in Haskell for Beginners - Chris Allen (LambdaConf 2015)](https://www.youtube.com/watch?v=p-NBJm0kIYU)
+* [Type Classes Vs the World - Edward Kmett (Boston Haskell 2015)](https://www.youtube.com/watch?v=hIZxTQP1ifo)
 
 ### HASKELL - BOOKS
 
@@ -1188,12 +1191,18 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Real World Haskell - Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/read/)
 * [Lazy Evaluation Illustrated for Haskell Divers - Takenobu T.](https://takenobu-hs.github.io/downloads/haskell_lazy_evaluation.pdf)
 
+### HASKELL - HAKYLL
+
+* [Hakyll: Haskell library for generating static sites](https://jaspervdj.be/hakyll/)
+
 ### HASKELL - VIDEOS
 
 * [Introduction to Functional Programming - Erik Meijer](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
-* [A History of Haskell: Being Lazy With Class - Arthur Vard](https://www.youtube.com/watch?v=3bjXGrycMhQ)
-* [Many videos on Purescript & Haskell - kritzcreek](https://www.livecoding.tv/kritzcreek/videos/)
 * [Learn Haskell in One Video - Derek Banas](https://www.youtube.com/watch?v=02_H3LjqMr8)
+* [A History of Haskell: Being Lazy With Class - Arthur Vard](https://www.youtube.com/watch?v=3bjXGrycMhQ)
+* [Adventure With Types in Haskell (Lecture 1) - Simon Peyton Jones](https://www.youtube.com/watch?v=6COvD8oynmI)
+* [Haskell Amuse-Bouche (GoogleTechTalks 2011)](https://www.youtube.com/watch?v=b9FagOVqxmI)
+* [Many videos on Purescript & Haskell - kritzcreek](https://www.livecoding.tv/kritzcreek/videos/)
 * [Writing a Game in Haskell - Elise Huard](https://www.youtube.com/watch?v=1MNTerD8IuI)
 * [A Year of Haskell - Justin Leitgeb (Lambda Days 2015)](https://www.youtube.com/watch?v=wZ0RQG3mFPw)
 * The Haskell Cast [#2 - Don Stewart on Real World Haskell](https://www.youtube.com/watch?v=4YfkwfZ7AV4) | [#4 - Simon Marlow on Parallelism and Concurrency](https://www.youtube.com/watch?v=73B1uc3xkvo)
@@ -2193,6 +2202,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [An Event-driven and Reactive Future - Jonathan Worthington (FooCafe)](https://www.youtube.com/watch?v=_VdIQTtRkb8)
 * [What does it mean to be Reactive? - Erik Meijer (React 2014)](https://www.youtube.com/watch?v=sTSQlYX5DU0)
 * [K Things I Know About Building Resilient Reactive Systems - Joe Armstrong (React 2014)](https://www.youtube.com/watch?v=rQIE22e0cW8)
+* [Functional Reactive Programming: Cleanly Abstracted Interactivity - BoostCon](https://www.youtube.com/watch?v=tyaYLGQSr4g)
 
 ### PROGRAMMING - LEARNING
 
