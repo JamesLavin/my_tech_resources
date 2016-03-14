@@ -847,52 +847,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [elm-tutorial.org - Sebastian Porto](http://www.elm-tutorial.org/) | [other formats](https://www.gitbook.com/book/sporto/elm-tutorial/details)
 * [elm-by-example.org - Grzegorz Balcerek](http://elm-by-example.org/) | [code examples](https://github.com/grzegorzbalcerek/ElmByExample)
-* [Making the Web Functional - Chris McCord & Evan Czaplicki (Erlang Factory 2016)](https://www.youtube.com/watch?v=XJ9ckqCMiKk&feature=youtu.be)
-* How to Create Tetris in Elm - Captain Coder: [All videos](https://www.youtube.com/playlist?list=PL7C8fMD-89DKhlerIE3BrYNd0PlhA6Zch) | [1: Basics](https://www.youtube.com/watch?v=GMSXYnMH1gg) | [2: Block](https://www.youtube.com/watch?v=KkZji-xY3kw) | [3: Tetromino](https://www.youtube.com/watch?v=iJL1YKCicMc) | [4: Rotate](https://www.youtube.com/watch?v=OBrFYiRGz1Q) | [5: Shift](https://www.youtube.com/watch?v=xk2j9D-wd-A) | [6: Input & Signals](https://www.youtube.com/watch?v=JMkPqS2mcsw) | [7: State & foldp](https://www.youtube.com/watch?v=KLMY79rtk0M) | [8: Tick and merge](https://www.youtube.com/watch?v=jiJQvo-O4RQ) | [9: More Ticking](https://www.youtube.com/watch?v=gXKx7A4ct1Y) | [10: Board](https://www.youtube.com/watch?v=d6QqhgGYgNE&spfreload=1) | [11: Clearing Lines](https://www.youtube.com/watch?v=sbL7X8jnnhc) | [12: Board Rules](https://www.youtube.com/watch?v=C5p5ESGWkJs) | [13: Kick It!](https://www.youtube.com/watch?v=oKbFIpgT5O8) | [14: Random Values](https://www.youtube.com/watch?v=WINCSMZl8E0) | [15: Stateful Bag](https://www.youtube.com/watch?v=929zOW95Y0k)
 * [London Elm Meetup at Plumbee Games](https://www.youtube.com/watch?v=OphstSQhyRM)
 * [awesome-elm - Ruslan Ismagilov](https://github.com/isRuslan/awesome-elm)
-* [6 Months of Elm in Production - Richard Feldman (Forward University)](http://forwardjs.com/university/elm-in-production)
-* [Growing the Oasis: Elm in Production - Richard Feldman (June 2015)](http://www.ustream.tv/recorded/64112108)
-* [Elm Programming Language - Jesse Williamson (FullStack Talks)](https://www.youtube.com/watch?v=jrkLrm4Oh2s)
-* [What to do with your new Elm install - Claudia Doppioslash](http://www.lambdacat.com/what-to-do-with-your-new-elm-install/)
-* [My adventure with Elm - Yan Cui (New Developers Conference 2015)](https://www.youtube.com/watch?v=cBVXyxt-9_Q)
 * [Elm in the real world - Ossi Hanhinen](http://futurice.com/blog/elm-in-the-real-world)
-* [Climbing into Elm - Murphy Randle (Utah Javascript Meetup 2014)](https://www.youtube.com/watch?v=-JlC2Q89yg4)
-* [Elm on the Functional Frontier - Richard Feldman](https://presentate.com/rtfeldman/talks/the-functional-frontier-elm)
-* [Elm - Evan Czaplicki](https://www.youtube.com/watch?v=ZTliDiWDV0k)
-* [Functional Reactive Programming in Elm - Evan Czaplicki (Philly ETE 2014)](https://www.youtube.com/watch?v=F-nTU3Wy26I)
-* [Accidentally Concurrent - Evan Czaplicki (CodeMesh London 2015)](https://www.youtube.com/watch?v=DfLvDFxcAIA)
-* Martin Janiczek: [Programming Projector in Elm - Routing, history 1/2](https://www.youtube.com/watch?v=D9hW8G31Dy0)
 * Elm Friday - Bastian Krol: [What Is Elm?](https://blog.codecentric.de/en/2015/11/elm-friday-part-01-what-is-elm/) | [Installing Elm](https://blog.codecentric.de/en/2015/11/elm-friday-part-02-installing-elm/) | [Hello World](https://blog.codecentric.de/en/2015/11/elm-friday-part-03-hello-world/) | [Hello World 2.0](https://blog.codecentric.de/en/2015/11/elm-friday-part-04-hello-world-2-0/) | [Functions](https://blog.codecentric.de/en/2015/11/elm-friday-part-05-functions/) | [Type Annotations](https://blog.codecentric.de/en/2015/11/elm-friday-part-06-type-annotations/) | [Lists](https://blog.codecentric.de/en/2015/12/elm-friday-part-07-lists/) | [Imports](https://blog.codecentric.de/en/2015/12/elm-friday-part-08-imports/) | [Type System Basics: Tuples, Type Aliases and Records](https://blog.codecentric.de/en/2016/01/elm-friday-part-09-type-system-basics/)
-* NON-FREE (but excellent): Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
 * Typed up CRUD SPA with Haskell and Elm - Magnus Rundberget: [Part 1: Spike time](http://rundis.github.io/blog/2015/haskell_elm_spa_part1.html) | [Part 2: Persistence up and running](http://rundis.github.io/blog/2016/haskel_elm_spa_part2.html) | [ Part 3: Routing](http://rundis.github.io/blog/2016/haskel_elm_spa_part3.html)
-* [Composing Styles in Elm (Beginners) - Devan Stormont](https://voyageintech.wordpress.com/2015/10/25/composing-styles-in-elm/)
-* [Make the Back-End Team Jealous: Elm in Production - Richard Feldman (StrangeLoop 2015)](https://www.youtube.com/watch?v=FV0DXNB94NE) & [Building a Live-Validated Signup Form in Elm](http://noredinktech.tumblr.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
-* [Shipping a Production Web App in Elm - Richard Feldman (Lambda Jam 2015)](https://www.youtube.com/watch?v=W9HDueiaIJ4)
-* Building a Game in Elm - Brad Urani: [1a](https://www.livecoding.tv/video/building-a-game-in-elm-pt-1a/) | [1b](https://www.livecoding.tv/video/building-a-game-in-elm-pt-1b/) | [2](https://www.livecoding.tv/video/building-a-game-in-elm-2/) | [3](https://www.livecoding.tv/video/building-a-game-in-elm-3/)
-* Developing Games in Elm - Laurence Roberts: [Functional Programming](http://gelatindesign.co.uk/developing-games-in-elm/functional-programming/) | [Signals](http://gelatindesign.co.uk/developing-games-in-elm/signals/)
-* [Learning FP the hard way: Experiences on the Elm language - Ossi Hanhinen](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
-* [Let's be mainstream! User focused design in Elm - Evan Czaplicki (Curry On Prague 2015)](https://www.youtube.com/watch?v=oYk8CKH7OhE)
-* Phoenix with Elm - Alan Gardner: [Video (ElixirConf 2015)](http://confreaks.tv/videos/elixirconf2015-phoenix-with-elm) | [Blog Pt 1](http://www.cultivatehq.com/posts/phoenix-elm-1/) | [Blog Pt 2](http://www.cultivatehq.com/posts/phoenix-elm-2/) | [Blog Pt 3](http://www.cultivatehq.com/posts/phoenix-elm-3/) | [Blog Pt 4](http://www.cultivatehq.com/posts/phoenix-elm-4/) | [Blog Pt 5](http://www.cultivatehq.com/posts/phoenix-elm-5/) | [Blog Pt 6](http://www.cultivatehq.com/posts/phoenix-elm-6/) | [Blog Pt 7](http://www.cultivatehq.com/posts/phoenix-elm-7/) | [Blog Pt 8](http://www.cultivatehq.com/posts/phoenix-elm-8/) | [Blog Pt 9](http://www.cultivatehq.com/posts/phoenix-elm-9/) | [Blog Pt 10](http://www.cultivatehq.com/posts/phoenix-elm-10/)
-* [Effects As Data - Richard Feldman (Reactive 2015)](https://www.youtube.com/watch?v=6EdXaWfoslc)
-* [Elm architecture tutorial - Evan Czaplicki](https://github.com/evancz/elm-architecture-tutorial)
-* Geocoding With Elm and ArcGIS - Kris Jenkins: [Part 1](http://blog.jenkster.com/2015/09/geocoding-with-elm-and-arcgis-part-1.html) | [Part 2](http://blog.jenkster.com/2015/09/geocoding-with-elm-and-arcgis-part-2.html) | [Part 3](http://blog.jenkster.com/2015/10/geocoding-with-elm-and-arcgis-part-3.html)
-* Brandon Richey: [Getting Started with Elm](https://medium.com/@diamondgfx/getting-started-with-elm-11d7a53b1a78#.fxuq1zojk) | [Understanding Elm: Signals, Mailboxes, Addresses, and Actions](https://medium.com/@diamondgfx/understanding-elm-signals-mailboxes-addresses-and-actions-7932781396ef#.soi3267gk) | [Applying Signals and Actions to our App](https://medium.com/@diamondgfx/e1c649bd0d96#.7542im727)
-* Dennis Reimann: [Elm Modules and Imports](https://dennisreimann.de/articles/elm-modules-import.html) | [Functions](https://dennisreimann.de/articles/elm-functions.html)
-* [elm-d3: Front-end Development Without Frameworks (C◦mp◦se :: Conference 2015)](https://www.youtube.com/watch?v=pTlOLO7Qhls)
-* [Building Web Apps in Elm - Jivago Alves (PolyConf 2015)](https://www.youtube.com/watch?v=fq4l6C935Bg)
-* [Controlling Time and Space: Understanding the Many Formulations of FRP - Evan Czaplicki (StrangeLoop 2014)](https://www.youtube.com/watch?v=Agu6jipKfYw)
-* [Intro to the Elm Programming Language - Ryan Levick (Strange Group Meetup 2014)](https://www.youtube.com/watch?v=iseogSMdQYI)
-* [Functional Reactive UIs with Elm - Shashi Gowda (Agile India 2014)](https://www.youtube.com/watch?v=EPIczPVnx3s) & [Slides](https://docs.google.com/presentation/d/16Xfqd-xU8y2JEN0TIcacDoYnp0b5-W7ESDB5v1SmcXs/edit) & [FunctionalConf 2014](https://confengine.com/functional-conf-2014/proposal/329/functional-reactive-uis-with-elm)
-* [Shipping a Production Web App in Elm - Richard Feldman (LambdaConf 2015)](https://www.youtube.com/watch?v=B7Iwreo1ReU)
-* [Elm Style Guide - NoRedInk](https://github.com/NoRedInk/elm-rails/wiki/NoRedInk's-Elm-Style-Guide)
-* [Functional reactive programming in Elm - Sergei Winitzki](https://www.youtube.com/watch?v=DiZ1CfLQvIU) & [slides (PDF)](https://github.com/winitzki/talks/blob/master/elm-talk/elm_talk.pdf)
 * Real World Elm - Michael Rijnders: [Part 1](http://engineering.truqu.com/2015/08/19/real-world-elm-part-1.html) | [Part 2](http://engineering.truqu.com/2015/09/25/real-world-elm-part-2.html)
-* [Elm: Functional, Reactive, for the Web - Grzegorz Balcerek (LambdaDays 2015)](https://www.youtube.com/watch?v=Ftl_qajbMYE)
-* [Elm Tutorial (5 talks) - Goran Milovanovic](https://www.youtube.com/playlist?list=PLtdCJGSpculbDT_p4ED9oLTJQrzoM1QEL)
-* [N Languages in N Months: Functional Fall: Elm - John Mayer (Hakka Labs)](https://www.youtube.com/watch?v=e_pw9YMzCMM)
-* [Functional programming for the Web: Elm (Kris Jenkins), Haskell (Christian Takle), Clojurescript (Sonny To)](https://www.youtube.com/watch?v=de-bbvzsr6U)
-* Road to Elm - LamdaCat: [Index](http://www.lambdacat.com/road-to-elm-index/) | [Currying, The Unknown](http://www.lambdacat.com/road-to-elm-currying-the-unknown/) | [Lists, Arrays, Sets, and Dictionaries](https://dennisreimann.de/articles/elm-data-structures-list-array-set-dict.html) | [Records & Tuples](https://dennisreimann.de/articles/elm-data-structures-record-tuple.html) | [Destructuring](http://www.lambdacat.com/road-to-elm-destructuring/)
 * [Elm Explained - Nik Silver](https://github.com/niksilver/elm-explained)
 * [Built With Elm](http://builtwithelm.co/)
 * [Elmcast.io](http://elmcast.io): [Elm Toolbox #1: Platform](http://www.ajhager.com/elm-toolings/) | [Elm Toolbox #2: Utilities](http://www.ajhager.com/elm-toolbox-part-2-utilities/)
@@ -991,6 +951,51 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Tasks and Effects in Elm - Daniel Bachler](http://danielbachler.de/2016/02/19/tasks-and-effects-in-elm.html)
 
+### ELM - VIDEOS - ABOUT
+
+* [6 Months of Elm in Production - Richard Feldman (Forward University)](http://forwardjs.com/university/elm-in-production)
+* [Growing the Oasis: Elm in Production - Richard Feldman (June 2015)](http://www.ustream.tv/recorded/64112108)
+* [Elm Programming Language - Jesse Williamson (FullStack Talks)](https://www.youtube.com/watch?v=jrkLrm4Oh2s)
+* [Making the Web Functional - Chris McCord & Evan Czaplicki (Erlang Factory 2016)](https://www.youtube.com/watch?v=XJ9ckqCMiKk&feature=youtu.be)
+* [Make the Back-End Team Jealous: Elm in Production - Richard Feldman (StrangeLoop 2015)](https://www.youtube.com/watch?v=FV0DXNB94NE) & [Building a Live-Validated Signup Form in Elm](http://noredinktech.tumblr.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
+* Shipping a Production Web App in Elm - Richard Feldman: [Lambda Jam 2015](https://www.youtube.com/watch?v=W9HDueiaIJ4) & [LambdaConf 2015](https://www.youtube.com/watch?v=B7Iwreo1ReU)
+* [Let's be mainstream! User focused design in Elm - Evan Czaplicki (Curry On Prague 2015)](https://www.youtube.com/watch?v=oYk8CKH7OhE)
+* [Accidentally Concurrent - Evan Czaplicki (CodeMesh London 2015)](https://www.youtube.com/watch?v=DfLvDFxcAIA)
+
+### ELM - VIDEOS - LEARNING
+
+* NON-FREE (but excellent): Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
+* [Climbing into Elm - Murphy Randle (Utah Javascript Meetup 2014)](https://www.youtube.com/watch?v=-JlC2Q89yg4)
+* [What to do with your new Elm install - Claudia Doppioslash](http://www.lambdacat.com/what-to-do-with-your-new-elm-install/)
+* [My adventure with Elm - Yan Cui (New Developers Conference 2015)](https://www.youtube.com/watch?v=cBVXyxt-9_Q)
+* [Elm on the Functional Frontier - Richard Feldman](https://presentate.com/rtfeldman/talks/the-functional-frontier-elm)
+* [Composing Styles in Elm (Beginners) - Devan Stormont](https://voyageintech.wordpress.com/2015/10/25/composing-styles-in-elm/)
+* Building a Game in Elm - Brad Urani: [1a](https://www.livecoding.tv/video/building-a-game-in-elm-pt-1a/) | [1b](https://www.livecoding.tv/video/building-a-game-in-elm-pt-1b/) | [2](https://www.livecoding.tv/video/building-a-game-in-elm-2/) | [3](https://www.livecoding.tv/video/building-a-game-in-elm-3/)
+* Developing Games in Elm - Laurence Roberts: [Functional Programming](http://gelatindesign.co.uk/developing-games-in-elm/functional-programming/) | [Signals](http://gelatindesign.co.uk/developing-games-in-elm/signals/)
+* [Learning FP the hard way: Experiences on the Elm language - Ossi Hanhinen](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
+* [Elm: Functional, Reactive, for the Web - Grzegorz Balcerek (LambdaDays 2015)](https://www.youtube.com/watch?v=Ftl_qajbMYE)
+* [Elm Tutorial (5 talks) - Goran Milovanovic](https://www.youtube.com/playlist?list=PLtdCJGSpculbDT_p4ED9oLTJQrzoM1QEL)
+* [N Languages in N Months: Functional Fall: Elm - John Mayer (Hakka Labs)](https://www.youtube.com/watch?v=e_pw9YMzCMM)
+* [Functional programming for the Web: Elm (Kris Jenkins), Haskell (Christian Takle), Clojurescript (Sonny To)](https://www.youtube.com/watch?v=de-bbvzsr6U)
+* Road to Elm - LamdaCat: [Index](http://www.lambdacat.com/road-to-elm-index/) | [Currying, The Unknown](http://www.lambdacat.com/road-to-elm-currying-the-unknown/) | [Lists, Arrays, Sets, and Dictionaries](https://dennisreimann.de/articles/elm-data-structures-list-array-set-dict.html) | [Records & Tuples](https://dennisreimann.de/articles/elm-data-structures-record-tuple.html) | [Destructuring](http://www.lambdacat.com/road-to-elm-destructuring/)
+* [Functional reactive programming in Elm - Sergei Winitzki](https://www.youtube.com/watch?v=DiZ1CfLQvIU) & [slides (PDF)](https://github.com/winitzki/talks/blob/master/elm-talk/elm_talk.pdf)
+* [Elm - Evan Czaplicki](https://www.youtube.com/watch?v=ZTliDiWDV0k)
+* Phoenix with Elm - Alan Gardner: [Video (ElixirConf 2015)](http://confreaks.tv/videos/elixirconf2015-phoenix-with-elm) | [Blog Pt 1](http://www.cultivatehq.com/posts/phoenix-elm-1/) | [Blog Pt 2](http://www.cultivatehq.com/posts/phoenix-elm-2/) | [Blog Pt 3](http://www.cultivatehq.com/posts/phoenix-elm-3/) | [Blog Pt 4](http://www.cultivatehq.com/posts/phoenix-elm-4/) | [Blog Pt 5](http://www.cultivatehq.com/posts/phoenix-elm-5/) | [Blog Pt 6](http://www.cultivatehq.com/posts/phoenix-elm-6/) | [Blog Pt 7](http://www.cultivatehq.com/posts/phoenix-elm-7/) | [Blog Pt 8](http://www.cultivatehq.com/posts/phoenix-elm-8/) | [Blog Pt 9](http://www.cultivatehq.com/posts/phoenix-elm-9/) | [Blog Pt 10](http://www.cultivatehq.com/posts/phoenix-elm-10/)
+* [Effects As Data - Richard Feldman (Reactive 2015)](https://www.youtube.com/watch?v=6EdXaWfoslc)
+* [Introduction to Functional Reactive Programming with Elm - Isaac Shapira](https://www.youtube.com/watch?v=bx3mOTGRvs4)
+* [Elm architecture tutorial - Evan Czaplicki](https://github.com/evancz/elm-architecture-tutorial)
+* Geocoding With Elm and ArcGIS - Kris Jenkins: [Part 1](http://blog.jenkster.com/2015/09/geocoding-with-elm-and-arcgis-part-1.html) | [Part 2](http://blog.jenkster.com/2015/09/geocoding-with-elm-and-arcgis-part-2.html) | [Part 3](http://blog.jenkster.com/2015/10/geocoding-with-elm-and-arcgis-part-3.html)
+* Brandon Richey: [Getting Started with Elm](https://medium.com/@diamondgfx/getting-started-with-elm-11d7a53b1a78#.fxuq1zojk) | [Understanding Elm: Signals, Mailboxes, Addresses, and Actions](https://medium.com/@diamondgfx/understanding-elm-signals-mailboxes-addresses-and-actions-7932781396ef#.soi3267gk) | [Applying Signals and Actions to our App](https://medium.com/@diamondgfx/e1c649bd0d96#.7542im727)
+* Dennis Reimann: [Elm Modules and Imports](https://dennisreimann.de/articles/elm-modules-import.html) | [Functions](https://dennisreimann.de/articles/elm-functions.html)
+* [elm-d3: Front-end Development Without Frameworks (C◦mp◦se :: Conference 2015)](https://www.youtube.com/watch?v=pTlOLO7Qhls)
+* [Building Web Apps in Elm - Jivago Alves (PolyConf 2015)](https://www.youtube.com/watch?v=fq4l6C935Bg)
+* How to Create Tetris in Elm - Captain Coder: [All videos](https://www.youtube.com/playlist?list=PL7C8fMD-89DKhlerIE3BrYNd0PlhA6Zch) | [1: Basics](https://www.youtube.com/watch?v=GMSXYnMH1gg) | [2: Block](https://www.youtube.com/watch?v=KkZji-xY3kw) | [3: Tetromino](https://www.youtube.com/watch?v=iJL1YKCicMc) | [4: Rotate](https://www.youtube.com/watch?v=OBrFYiRGz1Q) | [5: Shift](https://www.youtube.com/watch?v=xk2j9D-wd-A) | [6: Input & Signals](https://www.youtube.com/watch?v=JMkPqS2mcsw) | [7: State & foldp](https://www.youtube.com/watch?v=KLMY79rtk0M) | [8: Tick and merge](https://www.youtube.com/watch?v=jiJQvo-O4RQ) | [9: More Ticking](https://www.youtube.com/watch?v=gXKx7A4ct1Y) | [10: Board](https://www.youtube.com/watch?v=d6QqhgGYgNE&spfreload=1) | [11: Clearing Lines](https://www.youtube.com/watch?v=sbL7X8jnnhc) | [12: Board Rules](https://www.youtube.com/watch?v=C5p5ESGWkJs) | [13: Kick It!](https://www.youtube.com/watch?v=oKbFIpgT5O8) | [14: Random Values](https://www.youtube.com/watch?v=WINCSMZl8E0) | [15: Stateful Bag](https://www.youtube.com/watch?v=929zOW95Y0k)
+* [Intro to the Elm Programming Language - Ryan Levick (Strange Group Meetup 2014)](https://www.youtube.com/watch?v=iseogSMdQYI)
+* [Functional Reactive UIs with Elm - Shashi Gowda (Agile India 2014)](https://www.youtube.com/watch?v=EPIczPVnx3s) & [Slides](https://docs.google.com/presentation/d/16Xfqd-xU8y2JEN0TIcacDoYnp0b5-W7ESDB5v1SmcXs/edit) & [FunctionalConf 2014](https://confengine.com/functional-conf-2014/proposal/329/functional-reactive-uis-with-elm)
+* [Elm Style Guide - NoRedInk](https://github.com/NoRedInk/elm-rails/wiki/NoRedInk's-Elm-Style-Guide)
+* [Functional Reactive Programming in Elm - Evan Czaplicki (Philly ETE 2014)](https://www.youtube.com/watch?v=F-nTU3Wy26I)
+* Martin Janiczek: [Programming Projector in Elm - Routing, history 1/2](https://www.youtube.com/watch?v=D9hW8G31Dy0)
+
 ## ERLANG
 
 * [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/)
@@ -1083,6 +1088,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## FUNCTIONAL PROGRAMMING
 
+* [Selfish Purity: How Functional Programming Makes Every-Day Jobs Easier - Daniel Spiewak (Jfokus 2015)](https://www.youtube.com/watch?v=WupzbiMZrl8)
 * [What is functional programming? - Kris Jenkins](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 * [Why Bother With FP? - Tomek Borek (Lambda Days 2015)](https://www.youtube.com/watch?v=_bYkRXcf9sA)
 * [An Invitation to Functional Programming - Rúnar Bjarnason (Lambda Days 2015)](https://www.youtube.com/watch?v=aa7jh1J4xNs)
@@ -1120,9 +1126,19 @@ Links to resources I have found useful or think might be helpful to future me or
 * Lambda Days (Erlang Solutions): [2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2izLmnqYbI5DZ4ArUe3vp1d) | [2015](https://www.youtube.com/results?search_query=lambda+days+2015)
 * [Compose Conference 2015](http://www.composeconference.org/2015/summary/)
 
+### FUNCTIONAL PROGRAMMING - DATA PIPELINES
+
+* [Data pipelines from zero to solid - Lars Albertsson (Jfokus 2016)](https://www.youtube.com/watch?v=IVEl0bsTbdg)
+* [Scalable real-time processing techniques - Lars Albertsson (SICS)](https://www.youtube.com/watch?v=ayUqumHNBWY)
+* [Data pipelines - Lars Albertsson (NightHacking)](https://www.youtube.com/watch?v=888ApSPzuxo)
+
 ### FUNCTIONAL PROGRAMMING - EXAMPLES
 
 * [Dissecting the Rabbit: RabbitMQ Internal Architecture - Alvaro Videla (Lambda Days 2015)](https://www.youtube.com/watch?v=WPischLIe8Q)
+
+### FUNCTIONAL PROGRAMMING - FUNCTIONAL REACTIVE PROGRAMMING (FRP)
+
+* [Controlling Time and Space: Understanding the Many Formulations of FRP - Evan Czaplicki (StrangeLoop 2014)](https://www.youtube.com/watch?v=Agu6jipKfYw)
 
 ### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
 
@@ -1168,6 +1184,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Git Interactive Rebase, Squash, Amend and Other Ways of Rewriting History - Tute Costa](http://robots.thoughtbot.com/git-interactive-rebase-squash-amend-rewriting-history)
 * [Git: Checkout multiple branches at the same time](http://blog.jessitron.com/2013/10/git-checkout-multiple-branches-at-same.html)
 * [Tracking method history in git](http://urbanautomaton.com/blog/2014/09/22/tracking-method-history-in-git/) & [method_log Ruby gem](https://github.com/freerange/method_log)
+* [Git From the Bits Up - Tim Berglund (Jfokus 2016)](https://www.youtube.com/watch?v=mdvlu_R8EWE)
 
 ### GIT - GITHUB
 
@@ -1191,22 +1208,34 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Real World Haskell - Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/read/)
 * [Lazy Evaluation Illustrated for Haskell Divers - Takenobu T.](https://takenobu-hs.github.io/downloads/haskell_lazy_evaluation.pdf)
 
+### HASKELL - FREGE
+
+* [Github](https://github.com/Frege/frege)
+* [Frege: purely functional programming for the JVM - Dierk König](https://www.youtube.com/watch?v=b8-OV7wA7sw)
+
 ### HASKELL - HAKYLL
 
 * [Hakyll: Haskell library for generating static sites](https://jaspervdj.be/hakyll/)
+
+### HASKELL - SPOCK
+
+* Spock: lightweight Haskell web framework inspired by Ruby's Sinatra: [website](https://www.spock.li/) | [Github](https://github.com/agrafix/Spock) | [tutorial](https://www.spock.li/tutorial/)
+* [Spock – Powerful Elegant Web Applications using Haskell - Alexander Thiemann (f(by)15)](https://www.youtube.com/watch?v=kNqsOBrCbLo)
 
 ### HASKELL - VIDEOS
 
 * [Introduction to Functional Programming - Erik Meijer](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 * [Learn Haskell in One Video - Derek Banas](https://www.youtube.com/watch?v=02_H3LjqMr8)
+* [A Practical Introduction to Haskell GADTs - Richard Eisenberg (LambdaConf 2015)](https://www.youtube.com/watch?v=6snteFntvjM)
 * [A History of Haskell: Being Lazy With Class - Arthur Vard](https://www.youtube.com/watch?v=3bjXGrycMhQ)
-* [Adventure With Types in Haskell (Lecture 1) - Simon Peyton Jones](https://www.youtube.com/watch?v=6COvD8oynmI)
+* Adventure With Types in Haskell - Simon Peyton Jones: [Lecture 1](https://www.youtube.com/watch?v=6COvD8oynmI) | [Lecture 2](https://www.youtube.com/watch?v=brE_dyedGm0)
 * [Haskell Amuse-Bouche (GoogleTechTalks 2011)](https://www.youtube.com/watch?v=b9FagOVqxmI)
 * [Many videos on Purescript & Haskell - kritzcreek](https://www.livecoding.tv/kritzcreek/videos/)
 * [Writing a Game in Haskell - Elise Huard](https://www.youtube.com/watch?v=1MNTerD8IuI)
 * [A Year of Haskell - Justin Leitgeb (Lambda Days 2015)](https://www.youtube.com/watch?v=wZ0RQG3mFPw)
 * The Haskell Cast [#2 - Don Stewart on Real World Haskell](https://www.youtube.com/watch?v=4YfkwfZ7AV4) | [#4 - Simon Marlow on Parallelism and Concurrency](https://www.youtube.com/watch?v=73B1uc3xkvo)
 * Haskell Talks: Erik Hinton, Programmer with New York Times: [Part 1](https://www.youtube.com/watch?v=6ciJv9Bb928) | [Part 2](https://www.youtube.com/watch?v=BBm6yfkjkPw)
+* [Developing Web Applications with Haskell - Alejandro Serrano (LambdaConf 2015)](https://www.youtube.com/watch?v=FnaD4xS_hHY)
 
 ## HIRING
 
@@ -1836,7 +1865,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Sysadmincasts.com](http://sysadmincasts.com/)
 
-## MACHINE LEARNING
+## MACHINE LEARNING & AI
 
 * [Un-Artificial Intelligence - Melinda Seckington (GoRuCo 2015)](https://www.youtube.com/watch?v=7Y1Bv2BJDLs)
 * [Machine Learning (online Coursera class with Stanford professor Andrew Ng)](https://www.coursera.org/learn/machine-learning)
@@ -1848,6 +1877,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [KD Nuggets](http://www.kdnuggets.com/)
 * [Artificial Stupidity: Adding Smarts to Yer Kode - Randall Thomas](http://www.sdruby.org/podcast/79)
 * [Weathering the Data Storm - Claudia Perlich (QConn New York 2014)](http://www.infoq.com/presentations/display-advertising-big-data)
+* [Google DeepMind: What is it, how does it work and should you be scared? - Sam Shead](http://www.techworld.com/personal-tech/google-deepmind-what-is-it-how-it-works-should-you-be-scared-3615354/)
 
 ## MAIL SERVER
 
@@ -2022,6 +2052,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Tech Radar](http://www.techradar.com/us/news)
 * [TechHive](http://www.techhive.com/news)
 * [TechNewsWorld](http://www.technewsworld.com/)
+* [TechWorld](http://www.techworld.com/)
 * [VentureBeat](http://venturebeat.com/)
 * [The Verge](http://www.theverge.com/tech)
 * [Wait But Why](http://waitbutwhy.com/)
@@ -2246,6 +2277,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [SkillsMatter.com/Skillscasts](https://skillsmatter.com/skillscasts)
 * [InfoQ.com videos](http://www.infoq.com/presentations/)
+* Jfokus: [2016](https://www.youtube.com/playlist?list=PLUQORQEatnJdV2Ib4Edw3jLQJk5b8Rxcd) | [2015](https://www.youtube.com/playlist?list=PLklQqdqnBkPjVWKihmEAchC2kksnNoqIi)
 * [OSCON 2014](https://www.youtube.com/playlist?list=PL055Epbe6d5Y3njTzpWt0VepR1B7tcRFH)
 * [FutureTalks - NewRelic](https://www.youtube.com/playlist?list=PLmhYj7Jl81JGTfSgMeya2R-zcISDZ9utg)
 * [Forward University](http://forwardjs.com/university)
