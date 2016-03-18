@@ -865,6 +865,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Start app - Evan Czaplicki](https://github.com/evancz/start-app)
 * [elm-tutorial-app: example Elm single page application - Sebastian Porto](https://github.com/sporto/elm-tutorial-app)
+* elm-goban: [Play](http://mclauia.github.io/elm-goban/) | [Github](https://github.com/mclauia/elm-goban)
 * [sketch-n-sketch - Ravi Chugh et al.](http://ravichugh.github.io/sketch-n-sketch/)
 * [Celestia - John P. Mayer](https://github.com/johnpmayer/celestia)
 * [Chess - Grzegorz Balcerek](https://github.com/grzegorzbalcerek/chess-elm/tree/master/Chess)
@@ -1142,6 +1143,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
 
+* [Introduction to Lambda Calculus - Henk Barendregt & Erik Barendsen (2000)](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf)
+* [Lecture Notes on the Lambda Calculus - Peter Selinger](http://www.mscs.dal.ca/~selinger/papers/lambdanotes.pdf)
 * [Category Theory: The essence of interface-based design - Erik Meijer (goto; conference 2012)](https://www.youtube.com/watch?v=JMP6gI5mLHc)
 * [Fun With the Lambda Calculus - Corey Haines (goto; conference 2015)](https://www.youtube.com/watch?v=QPqoFCHpLF4)
 * [Lambda Calculus - Jim Grandpre (Code Genius)](https://www.youtube.com/watch?v=peOk3W7KZ4o)
@@ -1217,6 +1220,15 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Hakyll: Haskell library for generating static sites](https://jaspervdj.be/hakyll/)
 
+### HASKELL - HAXL
+
+* [HAXL: Haskell library that simplifies access to remote data, such as databases or web-based services](https://github.com/facebook/Haxl)
+* [Dropbox Hack Week: GraphQL Server in Haskell - Chad Austin](https://chadaustin.me/2016/02/dropbox-hack-week-graphql-server-in-haskell/) | [Datagraph code](https://github.com/dropbox/datagraph)
+
+### HASKELL - HEDIS
+
+* Hedis: Haskell client for the Redis datastore: [Github](https://github.com/informatikr/hedis) | [Hackage](https://hackage.haskell.org/package/hedis)
+
 ### HASKELL - SPOCK
 
 * Spock: lightweight Haskell web framework inspired by Ruby's Sinatra: [website](https://www.spock.li/) | [Github](https://github.com/agrafix/Spock) | [tutorial](https://www.spock.li/tutorial/)
@@ -1224,6 +1236,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### HASKELL - VIDEOS
 
+* [Haskell is Not For Production and Other Tales - Katie Miller (Linux.conf.au 2016)](https://www.youtube.com/watch?v=mlTO510zO78) | [slides](http://www.slideshare.net/KatieAtie/haskell-is-not-for-production-and-other-tales)
 * [Introduction to Functional Programming - Erik Meijer](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 * [Learn Haskell in One Video - Derek Banas](https://www.youtube.com/watch?v=02_H3LjqMr8)
 * [A Practical Introduction to Haskell GADTs - Richard Eisenberg (LambdaConf 2015)](https://www.youtube.com/watch?v=6snteFntvjM)
