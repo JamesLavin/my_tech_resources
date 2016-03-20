@@ -651,6 +651,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Elixir: [Docs](http://elixir-lang.org/docs.html) & [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html) & [Elixir-lang-talk group](https://groups.google.com/forum/?fromgroups#!forum/elixir-lang-talk) & [Elixir Core mailing list](https://groups.google.com/forum/#!forum/elixir-lang-core)
 * [What Elixir is About - José Valim (Erlang Factory SF 2015)](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
 * [Elixir with José Valim](http://howistart.org/posts/elixir/1)
+* [Building a web framework from scratch in Elixir - Robert Lord](https://codewords.recurse.com/issues/five/building-a-web-framework-from-scratch-in-elixir)
 * [Sweet Elixir! - Ryan Cromwell](http://www.infoq.com/presentations/elixir) & [full notes](https://github.com/cromwellryan/sweetelixir)
 * [Elixir talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=elixir&commit=go)
 * [ElixirConf 2014 videos](http://www.confreaks.tv/events/elixirconf2014)
@@ -711,6 +712,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Documentation (PDF)](https://media.readthedocs.org/pdf/elixir-lang/latest/elixir-lang.pdf)
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) & [Github](https://github.com/oreillymedia/etudes-for-elixir)
 
+### ELIXIR - COWBOY
+
+* Cowboy: [Github](https://github.com/ninenines/cowboy) | [User Guide](http://ninenines.eu/docs/en/cowboy/HEAD/guide/)
+
 ### ELIXIR - DEPLOYMENT
 
 * exrm: [source](https://github.com/bitwalker/exrm) & [documentation](https://hexdocs.pm/exrm/extra-getting-started.html)
@@ -745,6 +750,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - PACKAGES
 
+* [Hex.pm (Erlang package manager)](https://hex.pm/)
 * [Apex: Awesome Print for Elixir](https://github.com/BjRo/apex)
 * [BEAM Toolbox: categorized catalog of Hex packages for Elixir and Erlang - Henrik Nyh](http://toolbox.elixir.pm/)
 * [Jolt: REST JSON API with zero coding (Mike Clark)](https://github.com/clarkware/jolt)
@@ -1089,6 +1095,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## FUNCTIONAL PROGRAMMING
 
+* [An introduction to functional programming - Mary Rose Cook](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
+* [Functional Programming and Functional Thinking - Tony Morris](https://channel9.msdn.com/Blogs/Charles/YOW-2011-Tony-Morris-Functional-Programming-and-Functional-Thinking?ocid=relatedentry)
 * [Selfish Purity: How Functional Programming Makes Every-Day Jobs Easier - Daniel Spiewak (Jfokus 2015)](https://www.youtube.com/watch?v=WupzbiMZrl8)
 * [What is functional programming? - Kris Jenkins](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 * [Why Bother With FP? - Tomek Borek (Lambda Days 2015)](https://www.youtube.com/watch?v=_bYkRXcf9sA)
@@ -1120,6 +1128,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Brian Lonsdorf: [Functors](http://forwardjs.com/university/functors) | [F-Algebras, Pt 1](http://forwardjs.com/university/f-algebras-part-1) | [F-Algebras, Pt 2](http://forwardjs.com/university/f-algebras-part-2) | [F-Algebras, Pt 3](http://forwardjs.com/university/f-algebras-part-3)
 * [Truth About Types - Bartosz Milewski (Lambda Days 2016)](https://www.youtube.com/watch?v=dgrucfgv2Tw)
 * [Propositions as Types - Philip Wadler (Lambda Days 2016)](https://www.youtube.com/watch?v=aeRVdYN6fE8)
+* [C9 functional programming lectures - Dr. Ralf Lämmel](https://channel9.msdn.com/Tags/ralf-laemmel)
 
 ### FUNCTIONAL PROGRAMMING - CONFERENCE VIDEOS
 
@@ -1143,6 +1152,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
 
+* [Category Theory: The essence of interface-based design - Erik Meijer (Foo Cafe 2015)](https://www.youtube.com/watch?v=JMP6gI5mLHc)
 * [Introduction to Lambda Calculus - Henk Barendregt & Erik Barendsen (2000)](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf)
 * [Lecture Notes on the Lambda Calculus - Peter Selinger](http://www.mscs.dal.ca/~selinger/papers/lambdanotes.pdf)
 * [Category Theory: The essence of interface-based design - Erik Meijer (goto; conference 2012)](https://www.youtube.com/watch?v=JMP6gI5mLHc)
@@ -1153,6 +1163,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### FUNCTIONAL PROGRAMMING - MONADS
 
 * [Monads Asking the Right Question - Pawel Szulc (LambdaConf 2015)](https://www.youtube.com/watch?v=FvZ_QhcbTCc)
+* [Monadic Design Patterns for the Web - Greg Meredith](https://channel9.msdn.com/Series/C9-Lectures-Greg-Meredith-Monadic-Design-Patterns-for-the-Web)
 
 ## GIT
 
@@ -1198,6 +1209,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ## HASKELL
 
 * Haskell: [main site](https://www.haskell.org/) | [wiki](https://wiki.haskell.org/Haskell) | [learning resources](https://wiki.haskell.org/Learning_Haskell) | [tryhaskell.org](http://tryhaskell.org/) | [Hoogle (Haskell API search engine)](https://www.haskell.org/hoogle/) | [Hackage (Haskell package archive)](http://hackage.haskell.org/) | [GHC user's guide](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/) | [Haskell libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/)
+* [Facebook’s New Spam-Killer Hints at the Future of Coding - Cade Metz (Wired)](http://www.wired.com/2015/09/facebooks-new-anti-spam-system-hints-future-coding/)
+* [Type introduction illustrated for casual Haskellers - Takenobu T.](http://takenobu-hs.github.io/downloads/type_introduction_illustrated.pdf)
 * [Write You a Haskell: Building a modern functional compiler from first principles - Stephen Diehl](http://dev.stephendiehl.com/fun/WYAH.pdf)
 * [Learn Haskell](https://github.com/bitemyapp/learnhaskell) | [Specific topics for Haskell users](https://github.com/bitemyapp/learnhaskell/blob/master/specific_topics.md)
 * [PlanetHaskell](http://planet.haskell.org/)
@@ -1209,7 +1222,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
 * [Real World Haskell - Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/read/)
+* GHC User Guide: [PDF](https://downloads.haskell.org/~ghc/latest/docs/users_guide.pdf) | [HTML](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/index.html)
 * [Lazy Evaluation Illustrated for Haskell Divers - Takenobu T.](https://takenobu-hs.github.io/downloads/haskell_lazy_evaluation.pdf)
+* [Introduction to Haskell (lecture notes & code) - Noam Zilberstein (UPenn, Spring 2015)](http://www.seas.upenn.edu/~cis194/lectures.html)
 
 ### HASKELL - FREGE
 
@@ -2221,6 +2236,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### PROGRAMMING - BLOGS
 
 * [AListApart.com](http://alistapart.com/)
+* [Code Words](https://codewords.recurse.com/issues)
 * [Dr. Dobbs](http://www.drdobbs.com/blogs/)
 * [TheGeekStuff.com](http://www.thegeekstuff.com/)
 * [Jeff Atwood - "Coding Horror"](http://blog.codinghorror.com/)
