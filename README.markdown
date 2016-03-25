@@ -689,7 +689,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Fountain - bi-weekly podcast](https://soundcloud.com/elixirfountain)
 * [Elixir in times of microservices - José Valim](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/)
 * [Closures: Elixir vs. Ruby vs. JavaScript - Hubert Łępicki](https://www.amberbit.com/blog/2015/6/14/closures-elixir-vs-ruby-vs-javascript/)
-* [Embedding Elixir Structs in Ecto Models - Josh Steiner](https://robots.thoughtbot.com/embedding-elixir-structs-in-ecto-models)
 * [ExMachina for Elixir: Factories with a Functional Twist - Josh Steiner & Paul Smith](https://robots.thoughtbot.com/announcing-ex-machina)
 * [RED:4 - Learn Elixir The Fun Way (NOT FREE: $40) - Rob Conery](http://www.redfour.io/)
 
@@ -729,10 +728,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - ECTO
 
+* Ecto: [documentation](https://hexdocs.pm/ecto/Ecto.html) | [Github](https://github.com/elixir-lang/ecto) | [discussion forum](https://groups.google.com/forum/#!forum/elixir-ecto)
 * [Ecto: A language integrated query for Elixir - José Valim](https://www.youtube.com/watch?v=SJRfujy9vLA)
 * [Ecto - Eric Meadows-Jönsson (ElixirConf EU 2015)](https://www.youtube.com/watch?v=snka1bAtZS0)
 * [PostgreSQL indexing with Ecto - Richard Nyström](http://rny.io/elixir/ecto/postgresql/2015/08/31/postgresql-indexing-with-ecto.html)
 * [Composable Queries with Ecto - Drew Olson (ElixirConf 2015)](https://www.youtube.com/watch?v=g84TDHt9MDc)
+* [Embedding Elixir Structs in Ecto Models - Josh Steiner](https://robots.thoughtbot.com/embedding-elixir-structs-in-ecto-models)
 
 ### ELIXIR - ELASTICSEARCH
 
@@ -760,6 +761,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
 * [Taking Off With Phoenix - Sonny Scroggin (Erlang Factory SF 2016)](https://www.youtube.com/watch?v=eSWNi5vRxU8)
+* [New Heights - Chris McCord (ElixirDaze 2016)](https://www.youtube.com/watch?v=E6RTBlO9TZQ)
 * [Phoenix a web framework for the new web - José Valim (Lambda Days 2016)](https://www.youtube.com/watch?v=MD3P7Qan3pw)
 * [Phoenix is not Rails - Chris McCord](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails)
 * [Intro to Phoenix - José Valim (Elixir Warsaw Meetup)](https://www.youtube.com/watch?v=3LiLjVCDEpU)
@@ -823,6 +825,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PROJECTS
 
+* [Learn Elixir: Building a Neural Network from Scratch - Karmen Blake (ElixirDaze 2016)](https://www.youtube.com/watch?v=YE0h9DURSOo)
+* [Adventures in Robotics with Elixir by Jean-François Cloutier (ElixirDaze 2016)](https://www.youtube.com/watch?v=N_PXas9LtzU)
 * [Building a non-trivial robotic brain in Elixir - Jean F. Cloutier (Boston Elixir - January 2016)](https://www.youtube.com/watch?v=K4od_XhuMrk) & [Robot.ex blog](http://jfcloutier.github.io/robotex/)
 * [ExSamples: Initializes lists of maps, structs or keyword lists using tabular data in Elixir - Marlus Saraiva](https://github.com/msaraiva/exsamples)
 
@@ -838,6 +842,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - VIDEOS
 
+* [ElixirDaze 2016](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH)
 * [ElixirConf 2015 videos](http://confreaks.tv/events/elixirconf2015)
     * [Keynote: The Pendulum - Bruce Tate](https://www.youtube.com/watch?v=X8rWK-g8kCQ)
     * [Confident Elixir - Lance Halvorsen](https://www.youtube.com/watch?v=9YCg9xaG47s)
@@ -856,7 +861,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [London Elm Meetup at Plumbee Games](https://www.youtube.com/watch?v=OphstSQhyRM)
 * [awesome-elm - Ruslan Ismagilov](https://github.com/isRuslan/awesome-elm)
 * [Elm in the real world - Ossi Hanhinen](http://futurice.com/blog/elm-in-the-real-world)
-* Elm Friday - Bastian Krol: [What Is Elm?](https://blog.codecentric.de/en/2015/11/elm-friday-part-01-what-is-elm/) | [Installing Elm](https://blog.codecentric.de/en/2015/11/elm-friday-part-02-installing-elm/) | [Hello World](https://blog.codecentric.de/en/2015/11/elm-friday-part-03-hello-world/) | [Hello World 2.0](https://blog.codecentric.de/en/2015/11/elm-friday-part-04-hello-world-2-0/) | [Functions](https://blog.codecentric.de/en/2015/11/elm-friday-part-05-functions/) | [Type Annotations](https://blog.codecentric.de/en/2015/11/elm-friday-part-06-type-annotations/) | [Lists](https://blog.codecentric.de/en/2015/12/elm-friday-part-07-lists/) | [Imports](https://blog.codecentric.de/en/2015/12/elm-friday-part-08-imports/) | [Type System Basics: Tuples, Type Aliases and Records](https://blog.codecentric.de/en/2016/01/elm-friday-part-09-type-system-basics/)
+* Elm Friday - Bastian Krol: [What Is Elm?](https://blog.codecentric.de/en/2015/11/elm-friday-part-01-what-is-elm/) | [Installing Elm](https://blog.codecentric.de/en/2015/11/elm-friday-part-02-installing-elm/) | [Hello World](https://blog.codecentric.de/en/2015/11/elm-friday-part-03-hello-world/) | [Hello World 2.0](https://blog.codecentric.de/en/2015/11/elm-friday-part-04-hello-world-2-0/) | [Functions](https://blog.codecentric.de/en/2015/11/elm-friday-part-05-functions/) | [Type Annotations](https://blog.codecentric.de/en/2015/11/elm-friday-part-06-type-annotations/) | [Lists](https://blog.codecentric.de/en/2015/12/elm-friday-part-07-lists/) | [Imports](https://blog.codecentric.de/en/2015/12/elm-friday-part-08-imports/) | [Type System Basics: Tuples, Type Aliases and Records](https://blog.codecentric.de/en/2016/01/elm-friday-part-09-type-system-basics/) | [Type System Basics: Union Types and Tagged Unions](https://blog.codecentric.de/en/2016/03/elm-friday-part-10-union-types/)
 * Typed up CRUD SPA with Haskell and Elm - Magnus Rundberget: [Part 1: Spike time](http://rundis.github.io/blog/2015/haskell_elm_spa_part1.html) | [Part 2: Persistence up and running](http://rundis.github.io/blog/2016/haskel_elm_spa_part2.html) | [ Part 3: Routing](http://rundis.github.io/blog/2016/haskel_elm_spa_part3.html)
 * Real World Elm - Michael Rijnders: [Part 1](http://engineering.truqu.com/2015/08/19/real-world-elm-part-1.html) | [Part 2](http://engineering.truqu.com/2015/09/25/real-world-elm-part-2.html)
 * [Elm Explained - Nik Silver](https://github.com/niksilver/elm-explained)
@@ -866,6 +871,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - BLOGS
 
 * [elm-lang.org/blog](http://elm-lang.org/blog)
+* [Gizra](http://www.gizra.com/tags.html#Elm-ref)
 
 ### ELM - CODE EXAMPLES
 
@@ -973,6 +979,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * NON-FREE (but excellent): Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
 * [Climbing into Elm - Murphy Randle (Utah Javascript Meetup 2014)](https://www.youtube.com/watch?v=-JlC2Q89yg4)
+* [How to Think Elm - Amitai Burstein (Gizra)](http://www.gizra.com/content/how-think-elm/)
 * [What to do with your new Elm install - Claudia Doppioslash](http://www.lambdacat.com/what-to-do-with-your-new-elm-install/)
 * [My adventure with Elm - Yan Cui (New Developers Conference 2015)](https://www.youtube.com/watch?v=cBVXyxt-9_Q)
 * [Elm on the Functional Frontier - Richard Feldman](https://presentate.com/rtfeldman/talks/the-functional-frontier-elm)
@@ -1074,6 +1081,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Event Sourcing - Martin Fowler](http://martinfowler.com/eaaDev/EventSourcing.html)
 * [Event Sourcing - Bryan Reinero (GoRuCo 2015)](http://confreaks.tv/videos/goruco2015-event-sourcing)
 * [An Event-driven and Reactive Future - Jonathan Worthington (FooCafe 2014)](https://www.youtube.com/watch?v=_VdIQTtRkb8)
+* [How To Be More Productive (With Streams) - Graham Hutton (C9 Lectures)](https://channel9.msdn.com/Shows/Going+Deep/C9-Lectures-Graham-Hutton-How-To-Be-More-Productive) | [PDF](http://www.cs.nott.ac.uk/~gmh/contractive.pdf) | [PPT](http://www.cs.nott.ac.uk/~gmh/contractive.ppt)
 * [Polyglot Data - Greg Young (GOTO Conference 2014)](https://www.youtube.com/watch?v=hv2dKtPq0ME)
 * [CQRS and Event Sourcing - Greg Young (Code on the Beach 2014)](https://www.youtube.com/watch?v=JHGkaShoyNs)
 * [Querying Event Streams - Greg Young (React 2014)](https://www.youtube.com/watch?v=DWhQggR13u8)
@@ -1096,6 +1104,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## FUNCTIONAL PROGRAMMING
 
 * [An introduction to functional programming - Mary Rose Cook](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
+* Why Functional Programming Matters - John Hughes: [PDF](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf) | [Postscript](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.ps) | [Chinese](http://www.nirvanastudio.org/functional-programming/why-functional-programming-matters.html)
 * [Functional Programming and Functional Thinking - Tony Morris](https://channel9.msdn.com/Blogs/Charles/YOW-2011-Tony-Morris-Functional-Programming-and-Functional-Thinking?ocid=relatedentry)
 * [Selfish Purity: How Functional Programming Makes Every-Day Jobs Easier - Daniel Spiewak (Jfokus 2015)](https://www.youtube.com/watch?v=WupzbiMZrl8)
 * [What is functional programming? - Kris Jenkins](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
@@ -1121,6 +1130,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional Principles for OO Development - Jessica Kerr (GOTO Conference 2014)](https://www.youtube.com/watch?v=GpXsQ-NIKXY) & [(Ruby MidWest 2013)](http://confreaks.tv/videos/2382-rmw2013-functional-principles-for-oo-development)
 * [Functional Programming and Ruby - Pat Shaughnessy (GoRuCo 2013)](http://confreaks.tv/videos/2557-goruco2013-functional-programming-and-ruby)
 * [Immutable Ruby - Michael Fairley (MountainWest RubyConf 2013)](http://confreaks.tv/videos/2337-mwrc2013-immutable-ruby)
+* The Database as a Value - Rich Hickey: [GOTO Chicago talk](https://channel9.msdn.com/posts/Rich-Hickey-The-Database-as-a-Value) | [Out of the Tar Pit - Ben Moseley & Peter Marks](http://shaffner.us/cs/papers/tarpit.pdf) | [QConn NY talk](http://www.infoq.com/presentations/Datomic-Database-Value)
 * [Functional Programming and Ruby - Pat Shaughnessy (BostonRB.org)](http://bostonrb.org/presentations/functional-programming-and-ruby)
 * [Y Not? - Adventures in Functional Programming - Jim Weirich (ScotlandJS 2012)](https://vimeo.com/45140590) [RubyConf 2012](http://confreaks.tv/videos/1287-rubyconf2012-y-not-adventures-in-functional-programming)
 * [Functional Thinking - Neal Ford](http://www.youtube.com/watch?v=JeK979aqqqc) & [OSCON 2013](https://www.youtube.com/watch?v=7aYS9PcAITQ)
@@ -1129,6 +1139,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Truth About Types - Bartosz Milewski (Lambda Days 2016)](https://www.youtube.com/watch?v=dgrucfgv2Tw)
 * [Propositions as Types - Philip Wadler (Lambda Days 2016)](https://www.youtube.com/watch?v=aeRVdYN6fE8)
 * [C9 functional programming lectures - Dr. Ralf Lämmel](https://channel9.msdn.com/Tags/ralf-laemmel)
+* [Functional Programming From First Principles - Erik Meijer (GOTO Chicago 2012)](https://channel9.msdn.com/posts/Erik-Meijer-Functional-Programming-From-First-Principles)
 
 ### FUNCTIONAL PROGRAMMING - CONFERENCE VIDEOS
 
@@ -1149,12 +1160,15 @@ Links to resources I have found useful or think might be helpful to future me or
 ### FUNCTIONAL PROGRAMMING - FUNCTIONAL REACTIVE PROGRAMMING (FRP)
 
 * [Controlling Time and Space: Understanding the Many Formulations of FRP - Evan Czaplicki (StrangeLoop 2014)](https://www.youtube.com/watch?v=Agu6jipKfYw)
+* [Observables Everywhere - Jeremy Foster (2016)](https://channel9.msdn.com/Blogs/seattlejs/2016-01-14-01)
 
 ### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
 
+* [The Lambda Calculus, General Term Rewriting and Food Nutrition - Brian Beckman and Erik Meijer](https://channel9.msdn.com/Series/Beckman-Meijer-Overdrive/Beckman-Meijer-Overdrive-The-Lambda-Calculus-and-Food-Nutrition)
 * [Category Theory: The essence of interface-based design - Erik Meijer (Foo Cafe 2015)](https://www.youtube.com/watch?v=JMP6gI5mLHc)
 * [Introduction to Lambda Calculus - Henk Barendregt & Erik Barendsen (2000)](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf)
 * [Lecture Notes on the Lambda Calculus - Peter Selinger](http://www.mscs.dal.ca/~selinger/papers/lambdanotes.pdf)
+* [Intro to Lambda Calculus - Cristian Giumale](http://andrei.clubcisco.ro/cursuri/2pp/01.Lambda_calculus.pdf)
 * [Category Theory: The essence of interface-based design - Erik Meijer (goto; conference 2012)](https://www.youtube.com/watch?v=JMP6gI5mLHc)
 * [Fun With the Lambda Calculus - Corey Haines (goto; conference 2015)](https://www.youtube.com/watch?v=QPqoFCHpLF4)
 * [Lambda Calculus - Jim Grandpre (Code Genius)](https://www.youtube.com/watch?v=peOk3W7KZ4o)
@@ -1162,6 +1176,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - MONADS
 
+* [Functors, Applicatives, And Monads In Pictures - Aditya Y. Bhargava](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+* [A Fistful of Monads (Learn You a Haskell)](http://learnyouahaskell.com/a-fistful-of-monads)
 * [Monads Asking the Right Question - Pawel Szulc (LambdaConf 2015)](https://www.youtube.com/watch?v=FvZ_QhcbTCc)
 * [Monadic Design Patterns for the Web - Greg Meredith](https://channel9.msdn.com/Series/C9-Lectures-Greg-Meredith-Monadic-Design-Patterns-for-the-Web)
 
@@ -1209,7 +1225,6 @@ Links to resources I have found useful or think might be helpful to future me or
 ## HASKELL
 
 * Haskell: [main site](https://www.haskell.org/) | [wiki](https://wiki.haskell.org/Haskell) | [learning resources](https://wiki.haskell.org/Learning_Haskell) | [tryhaskell.org](http://tryhaskell.org/) | [Hoogle (Haskell API search engine)](https://www.haskell.org/hoogle/) | [Hackage (Haskell package archive)](http://hackage.haskell.org/) | [GHC user's guide](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/) | [Haskell libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/)
-* [Facebook’s New Spam-Killer Hints at the Future of Coding - Cade Metz (Wired)](http://www.wired.com/2015/09/facebooks-new-anti-spam-system-hints-future-coding/)
 * [Type introduction illustrated for casual Haskellers - Takenobu T.](http://takenobu-hs.github.io/downloads/type_introduction_illustrated.pdf)
 * [Write You a Haskell: Building a modern functional compiler from first principles - Stephen Diehl](http://dev.stephendiehl.com/fun/WYAH.pdf)
 * [Learn Haskell](https://github.com/bitemyapp/learnhaskell) | [Specific topics for Haskell users](https://github.com/bitemyapp/learnhaskell/blob/master/specific_topics.md)
@@ -1217,6 +1232,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Haskell Koans - Vancouver Haskell Meetup](https://github.com/HaskVan/HaskellKoans)
 * [Modeling Data in Haskell for Beginners - Chris Allen (LambdaConf 2015)](https://www.youtube.com/watch?v=p-NBJm0kIYU)
 * [Type Classes Vs the World - Edward Kmett (Boston Haskell 2015)](https://www.youtube.com/watch?v=hIZxTQP1ifo)
+
+### HASKELL - BENEFITS
+
+* [Facebook’s New Spam-Killer Hints at the Future of Coding - Cade Metz (Wired)](http://www.wired.com/2015/09/facebooks-new-anti-spam-system-hints-future-coding/)
+* [The Road to Running Haskell at Facebook Scale - Jon Coens (Code Mesh London 2015)](https://www.youtube.com/watch?v=sl2zo7tzrO8)
+* [Simon Peyton-Jones and John Hughes - It's Raining Haskell](https://channel9.msdn.com/Blogs/Charles/YOW-2011-Simon-Peyton-Jones-and-John-Hughes-Its-Raining-Haskell)
 
 ### HASKELL - BOOKS
 
@@ -1253,17 +1274,22 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Haskell is Not For Production and Other Tales - Katie Miller (Linux.conf.au 2016)](https://www.youtube.com/watch?v=mlTO510zO78) | [slides](http://www.slideshare.net/KatieAtie/haskell-is-not-for-production-and-other-tales)
 * [Introduction to Functional Programming - Erik Meijer](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
+* [Functional Programming Fundamentals - Erik Meijer](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals)
 * [Learn Haskell in One Video - Derek Banas](https://www.youtube.com/watch?v=02_H3LjqMr8)
 * [A Practical Introduction to Haskell GADTs - Richard Eisenberg (LambdaConf 2015)](https://www.youtube.com/watch?v=6snteFntvjM)
 * [A History of Haskell: Being Lazy With Class - Arthur Vard](https://www.youtube.com/watch?v=3bjXGrycMhQ)
 * Adventure With Types in Haskell - Simon Peyton Jones: [Lecture 1](https://www.youtube.com/watch?v=6COvD8oynmI) | [Lecture 2](https://www.youtube.com/watch?v=brE_dyedGm0)
-* [Haskell Amuse-Bouche (GoogleTechTalks 2011)](https://www.youtube.com/watch?v=b9FagOVqxmI)
+* [Classes, Jim, but not as we know them - Simon Peyton Jones (Microsoft Development Center Copenhagen TechTalk)](https://channel9.msdn.com/posts/MDCC-TechTalk-Classes-Jim-but-not-as-we-know-them)
+* [Fun with type functions - Simon Peyton Jones (Microsoft Development Center Copenhagen TechTalk)](https://channel9.msdn.com/posts/MDCC-TechTalk-Fun-with-type-functions)
+* [Haskell Amuse-Bouche - Mark Lentczner (GoogleTechTalks 2011)](https://www.youtube.com/watch?v=b9FagOVqxmI)
 * [Many videos on Purescript & Haskell - kritzcreek](https://www.livecoding.tv/kritzcreek/videos/)
 * [Writing a Game in Haskell - Elise Huard](https://www.youtube.com/watch?v=1MNTerD8IuI)
 * [A Year of Haskell - Justin Leitgeb (Lambda Days 2015)](https://www.youtube.com/watch?v=wZ0RQG3mFPw)
+* [Haskell for Everyday Programmers - Venkat Subramaniam (Functional Conf Bangalore 2014)](https://www.youtube.com/watch?v=VGCE_3fjzU4)
 * The Haskell Cast [#2 - Don Stewart on Real World Haskell](https://www.youtube.com/watch?v=4YfkwfZ7AV4) | [#4 - Simon Marlow on Parallelism and Concurrency](https://www.youtube.com/watch?v=73B1uc3xkvo)
 * Haskell Talks: Erik Hinton, Programmer with New York Times: [Part 1](https://www.youtube.com/watch?v=6ciJv9Bb928) | [Part 2](https://www.youtube.com/watch?v=BBm6yfkjkPw)
 * [Developing Web Applications with Haskell - Alejandro Serrano (LambdaConf 2015)](https://www.youtube.com/watch?v=FnaD4xS_hHY)
+* [Exact Real Arithmetic in Haskell - Mitchell Riley (Brisbane Functional Programming Group, May 2015)](https://www.youtube.com/watch?v=LJQgYBQFtSE)
 
 ## HIRING
 
