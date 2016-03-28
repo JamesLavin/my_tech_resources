@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Elm](#elm) | [Erlang](#erlang)| [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Learning](#learning) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free), [data analysis](#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Elm](#elm) | [Erlang](#erlang) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Learning](#learning) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free), [data analysis](#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## ALGORITHMS
 
@@ -877,6 +877,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Start app - Evan Czaplicki](https://github.com/evancz/start-app)
 * [elm-tutorial-app: example Elm single page application - Sebastian Porto](https://github.com/sporto/elm-tutorial-app)
+* Composing Features and Behaviours in the Elm Architecture - Fred Daoud: [0: Intro](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture) | [1: Creating a Feature](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-010-todolist-feature/client-elm#creating-a-feature) | [2: Connecting Features Together](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-020-todoform-feature/client-elm#connecting-features-together) | [3: Multiple Listeners](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-030-todosummary-feature/client-elm#multiple-listeners) | [4: Composing Features](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-040-todominmax-feature/client-elm#composing-features)
 * elm-goban: [Play](http://mclauia.github.io/elm-goban/) | [Github](https://github.com/mclauia/elm-goban)
 * [sketch-n-sketch - Ravi Chugh et al.](http://ravichugh.github.io/sketch-n-sketch/)
 * [Celestia - John P. Mayer](https://github.com/johnpmayer/celestia)
@@ -918,6 +919,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - HELP
 
 * [elm-discuss Google group](https://groups.google.com/forum/#!forum/elm-discuss)
+* [Elm Slack](http://elmlang.herokuapp.com/) & [Freenode](http://webchat.freenode.net/?channels=elm)
 * [elm-dev Google group](https://groups.google.com/forum/#!forum/elm-dev)
 * [Reddit Elm](https://www.reddit.com/r/elm)
 
@@ -949,6 +951,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - PORTS
 
 * [Ports in Elm - Daniel Bachler](http://danielbachler.de/2016/02/26/ports-in-elm.html)
+* [elm-colors: Phoenix + Elm + Webpack + Heroku Example App - Joshua Clayton](https://github.com/joshuaclayton/elm-colors) & [live code example](http://colors.joshuaclayton.me/)
 
 ### ELM - SERVER-SIDE
 
@@ -1052,6 +1055,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ERLANG - VIDEOS
 
+* [Erlang videos (InfoQ)](http://www.infoq.com/erlang/presentations/)
 * [ErlangSolutions Youtube videos](https://www.youtube.com/user/ErlangSolutions)
 * [Introduction to Erlang - Steven Proctor (LambdaConf 2015)](https://www.youtube.com/watch?v=0YpCBRJJtPg)
 * [That's "Billion" With a "B": Scaling to the Next Level at WhatsApp - Rick Reed (Erlang Factory SF 2014)](https://www.youtube.com/watch?v=c12cYAUTXXs)
@@ -1272,6 +1276,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### HASKELL - VIDEOS
 
+* [Haskell video collection (InfoQ)](http://www.infoq.com/haskell/)
 * [Haskell is Not For Production and Other Tales - Katie Miller (Linux.conf.au 2016)](https://www.youtube.com/watch?v=mlTO510zO78) | [slides](http://www.slideshare.net/KatieAtie/haskell-is-not-for-production-and-other-tales)
 * [Introduction to Functional Programming - Erik Meijer](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 * [Functional Programming Fundamentals - Erik Meijer](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals)
@@ -1285,7 +1290,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Many videos on Purescript & Haskell - kritzcreek](https://www.livecoding.tv/kritzcreek/videos/)
 * [Writing a Game in Haskell - Elise Huard](https://www.youtube.com/watch?v=1MNTerD8IuI)
 * [A Year of Haskell - Justin Leitgeb (Lambda Days 2015)](https://www.youtube.com/watch?v=wZ0RQG3mFPw)
-* [Haskell for Everyday Programmers - Venkat Subramaniam (Functional Conf Bangalore 2014)](https://www.youtube.com/watch?v=VGCE_3fjzU4)
+* [Haskell for Everyday Programmers - Venkat Subramaniam (Functional Conf Bangalore 2014)](https://www.youtube.com/watch?v=VGCE_3fjzU4) & [code examples](http://www.agiledeveloper.com/presentations/haskell_for_java_programmers.zip)
 * The Haskell Cast [#2 - Don Stewart on Real World Haskell](https://www.youtube.com/watch?v=4YfkwfZ7AV4) | [#4 - Simon Marlow on Parallelism and Concurrency](https://www.youtube.com/watch?v=73B1uc3xkvo)
 * Haskell Talks: Erik Hinton, Programmer with New York Times: [Part 1](https://www.youtube.com/watch?v=6ciJv9Bb928) | [Part 2](https://www.youtube.com/watch?v=BBm6yfkjkPw)
 * [Developing Web Applications with Haskell - Alejandro Serrano (LambdaConf 2015)](https://www.youtube.com/watch?v=FnaD4xS_hHY)
