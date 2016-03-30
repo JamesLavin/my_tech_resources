@@ -1058,6 +1058,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ERLANG - PERFORMANCE
 
 * [Comparison of Erlang Runtime System and Java Virtual Machine - Tõnis Pool](http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf)
+* [Faults, Scaling, and Erlang concurrency - Joe Armstrong](https://www.youtube.com/watch?v=YaUPdgtUYko)
 
 ### ERLANG - VIDEOS
 
