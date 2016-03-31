@@ -437,6 +437,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 * [Docs.Docker.com](https://docs.docker.com/)
 * [Docker Tutorials - DarkZebra](https://www.youtube.com/playlist?list=PLfpPfDziPdMIbc7p-_siXYwqsRnd3jrLM)
+* Docker Overview - Rimantas Mocevicius: [Part 1](https://deis.com/blog/2016/docker-overview-pt-1/) | [Part 2](https://deis.com/blog/2016/docker-overview-pt-2/)
 * [Intro to Docker - Amjith Ramanujam (PyCon 2014)](https://www.youtube.com/watch?v=9bvdc55xYdo)
 * [Docker and the Future of Modern Software - Solomon Hyke (FutureStack14)](http://blog.newrelic.com/2014/11/24/fs14-video-docker-modern-software/)
 * [Containerized Ruby Applications with Docker - Laura Frank (RubyConf 2014)](http://confreaks.tv/videos/4964-RubyConf2014-containerized-ruby-applications-with-docker)
@@ -861,8 +862,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ## ELM
 
 * Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
+* [Elm Cheat Sheet - Sergey Keller](https://github.com/izdi/elm-cheat-sheet)
 * [elm-tutorial.org - Sebastian Porto](http://www.elm-tutorial.org/) | [other formats](https://www.gitbook.com/book/sporto/elm-tutorial/details)
 * [elm-by-example.org - Grzegorz Balcerek](http://elm-by-example.org/) | [code examples](https://github.com/grzegorzbalcerek/ElmByExample)
+* [Elm by Example: Soup to Nuts - Part 1 - Dorian Karter (Hashrocket)](https://hashrocket.com/blog/posts/elm-by-example-soup-to-nuts-part-1)
 * [London Elm Meetup at Plumbee Games](https://www.youtube.com/watch?v=OphstSQhyRM)
 * [awesome-elm - Ruslan Ismagilov](https://github.com/isRuslan/awesome-elm)
 * [Elm in the real world - Ossi Hanhinen](http://futurice.com/blog/elm-in-the-real-world)
@@ -913,8 +916,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - EDITORS
 
-* [lambdatoast/elm.vim](https://github.com/lambdatoast/elm.vim) & [ElmCast/elm-vim](https://github.com/ElmCast/elm-vim)
-* [jcollard/elm-mode (Emacs, if you're into that kind of kinky stuff)](https://github.com/jcollard/elm-mode)
+* [elm-light](https://github.com/rundis/elm-light) for [LightTable](http://lighttable.com/) & [demo video](http://rundis.github.io/blog/2015/elm_light.html)
+* [lambdatoast/elm.vim](https://github.com/lambdatoast/elm.vim) & [ElmCast/elm-vim](https://github.com/ElmCast/elm-vim) for [vim](http://www.vim.org/docs.php)
+* [jcollard/elm-mode](https://github.com/jcollard/elm-mode) for [Emacs](https://www.gnu.org/software/emacs/tour/) (if you're into that kind of kinky stuff)
 * [elm-format formats Elm source code according to a standard set of rules based on the official Elm Style Guide](https://github.com/avh4/elm-format)
 
 ### ELM - ELM-NATIVE-UI
@@ -1099,6 +1103,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [CQRS Class - Greg Young](https://www.youtube.com/watch?v=whCk1Q87_ZI)
 * [Building and deploying microservices with event sourcing, CQRS and Docker - Chris Richardson](https://www.youtube.com/watch?v=I4A5ntHeoxU)
 * [Immutability Changes Everything - Pat Helland](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
+* [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
 * Konrad Garus: [Intro to Event Sourcing and Command-Query Responsibility Segregation](http://squirrel.pl/blog/2015/08/31/introduction-to-event-sourcing-and-command-query-responsibility-segregation/) | [Achieving Consistency in CQRS with Linear Event Store](http://squirrel.pl/blog/2015/09/14/achieving-consistency-in-cqrs-with-linear-event-store/) | [Writing an Event-Sourced CQRS Read Model](http://squirrel.pl/blog/2015/09/22/writing-an-event-sourced-cqrs-read-model/) | [Persistence in CQRS Read Models](http://squirrel.pl/blog/2015/09/28/persistence-in-cqrs-read-models/)
 
 ## EXERCISE
@@ -2091,6 +2096,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### NEWS - TECH
 
 * [Aeon](http://aeon.co/magazine/technology/)
+* [Ars Technica](http://arstechnica.com/)
 * [BBC](http://www.bbc.com/news/technology)
 * [Business Insider](http://www.businessinsider.com/sai)
 * [Cnet](http://www.cnet.com/news/)
