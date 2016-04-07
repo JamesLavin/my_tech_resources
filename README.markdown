@@ -429,7 +429,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - DOCKER
 
-* Docker docs: [User Guide](https://docs.docker.com/userguide/) | [Articles](https://docs.docker.com/articles/) | [Examples](https://docs.docker.com/examples/nodejs_web_app/) | [Installation](https://docs.docker.com/installation/) | [Linking Containers Together](Linking Containers Togethe://docs.docker.com/userguide/dockerlinks/)
+* Docker docs: [User Guide](https://docs.docker.com/userguide/) | [Articles](https://docs.docker.com/articles/) | [Examples](https://docs.docker.com/examples/nodejs_web_app/) | [Installation](https://docs.docker.com/installation/) | [Linking Containers Together](Linking Containers Togethe://docs.docker.com/userguide/dockerlinks/) | 
+* Docker Tutorials: [1: Installing Docker](https://www.youtube.com/watch?v=bV5vbNK3Uhw) | [2: Docker Run Basics](https://www.youtube.com/watch?v=uTe08FxoKrU) | [3: Fun With Volumes](https://www.youtube.com/watch?v=rlK1JYsM6Aw) | [4: More Run With Extra Goodies](https://www.youtube.com/watch?v=ZgjHM1XmAKI) | [5: Basic Networking](https://www.youtube.com/watch?v=3uvqEC8fWV0) | [6: Dockerfiles (Part 1)](https://www.youtube.com/watch?v=gG_x28rDxus) | [7: Dockerfiles (Part 2)](https://www.youtube.com/watch?v=L6bjTlVdc6U) | [8: Troubleshooting with Sysdig](https://www.youtube.com/watch?v=S-fYCOMnsbY) | [9: Docker Machine](https://www.youtube.com/watch?v=3zXe3uXQnSY) | [10: Docker Compose](https://www.youtube.com/watch?v=gtoT0By8yh4) | [11: Docker Swarm](ihttps://www.youtube.com/watch?v=zTKGfPfhg78) | [12: Kitematic](https://www.youtube.com/watch?v=50IZ-AHPKo0) | [13: Getting Started with experimental Docker Networking](https://www.youtube.com/watch?v=gZ6UKym9ZIs) | [Full List](https://www.youtube.com/playlist?list=PLkA60AVN3hh_6cAz8TUGtkYbJSL2bdZ4h)
 * Docker videos: [Youtube](https://www.youtube.com/user/dockerrun) | [Confreaks](http://confreaks.tv/search?utf8=%E2%9C%93&query=Docker&commit=go)
 * [DockerCon 2015](https://www.youtube.com/watch?v=DfHcN3ZvjjU&list=PLenh213llmcbpJ78mZdh5pnJ_feVT9bez)
 * [Docker 101: Introduction to Docker - Andrew T. Baker (PyCon 2015)](https://www.youtube.com/watch?v=YiZkHUbE6N0) & [Demystifying Docker - Andrew T. Baker (PyCon 2015)](https://www.youtube.com/watch?v=GVVtR_hrdKI)
@@ -440,6 +441,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Docker Overview - Rimantas Mocevicius: [Part 1](https://deis.com/blog/2016/docker-overview-pt-1/) | [Part 2](https://deis.com/blog/2016/docker-overview-pt-2/)
 * [Intro to Docker - Amjith Ramanujam (PyCon 2014)](https://www.youtube.com/watch?v=9bvdc55xYdo)
 * [Docker and the Future of Modern Software - Solomon Hyke (FutureStack14)](http://blog.newrelic.com/2014/11/24/fs14-video-docker-modern-software/)
+* [Container Hacks and Fun Images - Jess Frazelle (DockerConf 2015)](https://www.youtube.com/watch?v=1qlLUf7KtAw) | [Jess Frazelle's .dockerfunc](https://github.com/jfrazelle/dotfiles/blob/master/.dockerfunc)
 * [Containerized Ruby Applications with Docker - Laura Frank (RubyConf 2014)](http://confreaks.tv/videos/4964-RubyConf2014-containerized-ruby-applications-with-docker)
 * [Shipping Ruby Apps with Docker - Bryan Helmkamp (RedDot Ruby 2014](http://confreaks.tv/videos/3853-rdrc2014-shipping-ruby-apps-with-docker)
 * [Build Your Own Shipyard - Andreas Tiefenthaler (Kod.io 2014)](http://confreaks.tv/videos/3252-kodio_2014-build-your-own-shipyard)
@@ -462,12 +464,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Compose](http://docs.docker.com/compose/)
 * [Dacker Ruby gem](https://github.com/talkingquickly/dacker)
+* [Tools Built on Top of The Docker API - Vassili Van Der Mersch](http://nordicapis.com/tools-built-on-top-of-the-docker-api/)
 
 #### DEVOPS - DOCKER - OSX
 
-* [Installation](https://docs.docker.com/installation/mac/)
-* [boot2docker](https://github.com/boot2docker/boot2docker)
-* [How to Use Docker on OS X: The Missing Guide - Chris Jones](http://viget.com/extend/how-to-use-docker-on-os-x-the-missing-guide)
+* [Installation](https://docs.docker.com/engine/installation/mac/)
+* [Docker Machine](https://docs.docker.com/machine/)
 
 #### DEVOPS - DOCKER - REMOTE API
 
@@ -861,6 +863,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELM
 
+* [Intro to Elm - Richard Feldman (2016)](https://www.youtube.com/watch?v=3_M2G9U51GA)
 * Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [Elm Cheat Sheet - Sergey Keller](https://github.com/izdi/elm-cheat-sheet)
 * [elm-tutorial.org - Sebastian Porto](http://www.elm-tutorial.org/) | [other formats](https://www.gitbook.com/book/sporto/elm-tutorial/details)
@@ -887,6 +890,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How to Create Tetris in Elm - Captain Coder](https://www.youtube.com/playlist?list=PL7C8fMD-89DKhlerIE3BrYNd0PlhA6Zch)
 * [elm-tutorial-app: example Elm single page application - Sebastian Porto](https://github.com/sporto/elm-tutorial-app)
 * Composing Features and Behaviours in the Elm Architecture - Fred Daoud: [0: Intro](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture) | [1: Creating a Feature](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-010-todolist-feature/client-elm#creating-a-feature) | [2: Connecting Features Together](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-020-todoform-feature/client-elm#connecting-features-together) | [3: Multiple Listeners](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-030-todosummary-feature/client-elm#multiple-listeners) | [4: Composing Features](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-040-todominmax-feature/client-elm#composing-features)
+* [Investments calculator](https://github.com/joshuaclayton/investments-elm) | [live example](http://joshuaclayton.me/investments-elm/)
 * elm-goban: [Play](http://mclauia.github.io/elm-goban/) | [Github](https://github.com/mclauia/elm-goban)
 * [sketch-n-sketch - Ravi Chugh et al.](http://ravichugh.github.io/sketch-n-sketch/)
 * [Celestia - John P. Mayer](https://github.com/johnpmayer/celestia)
@@ -1026,6 +1030,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## ERLANG
 
 * [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/)
+* [Erlang in Anger - Fred Hebert](http://www.erlang-in-anger.com/)
 * [Spawned Shelter: Collection of articles, videos & books for learning Erlang](http://spawnedshelter.com/)
 * [Erlang Koans - Patrick Gombert](https://github.com/patrickgombert/erlang-koans)
 * [Solving the Stable Marriage problem with Erlang](https://www.airpair.com/erlang/posts/solving-the-stable-marriage-problem-with-erlang)
@@ -1122,6 +1127,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [An introduction to functional programming - Mary Rose Cook](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 * Why Functional Programming Matters - John Hughes: [PDF](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf) | [Postscript](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.ps) | [Chinese](http://www.nirvanastudio.org/functional-programming/why-functional-programming-matters.html)
+* [Awesome Functional Programming [Links]- Denis Stoyanov](https://github.com/xgrommx/awesome-functional-programming)
 * [Functional Programming and Functional Thinking - Tony Morris](https://channel9.msdn.com/Blogs/Charles/YOW-2011-Tony-Morris-Functional-Programming-and-Functional-Thinking?ocid=relatedentry)
 * [Selfish Purity: How Functional Programming Makes Every-Day Jobs Easier - Daniel Spiewak (Jfokus 2015)](https://www.youtube.com/watch?v=WupzbiMZrl8)
 * [What is functional programming? - Kris Jenkins](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
@@ -1176,6 +1182,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - FUNCTIONAL REACTIVE PROGRAMMING (FRP)
 
+* [Functional Reactive Programming - Riccardo Terrell (Lambda Days 2016)](https://www.youtube.com/watch?v=UJH8sAnpBL4)
 * [Controlling Time and Space: Understanding the Many Formulations of FRP - Evan Czaplicki (StrangeLoop 2014)](https://www.youtube.com/watch?v=Agu6jipKfYw)
 * [Observables Everywhere - Jeremy Foster (2016)](https://channel9.msdn.com/Blogs/seattlejs/2016-01-14-01)
 
@@ -1693,6 +1700,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - FUNCTIONAL PROGRAMMING
 
+* [Functional Javascript - Dr. Gleb Bahmutov](https://glebbahmutov.com/blog/tags/functional/)
 * [Functional Layout - Updating the DOM at 60FPS - David Valdman (JS Conf EU 2015)](http://confreaks.tv/videos/jsconfeu2015-functional-layout-updating-the-dom-at-60fps)
 * [Functional programming and curry cooking in JS - Stefanie Schirmer (JS Conf EU 2015)](http://confreaks.tv/videos/jsconfeu2015-functional-programming-and-curry-cooking-in-js)
 * Professor Frisby's Mostly Adequate Guide to Functional Programming: [Webpage](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [Online](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html) | [PDF](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [ePUB](https://www.gitbook.com/download/epub/book/drboolean/mostly-adequate-guide) | [MOBI](https://www.gitbook.com/download/mobi/book/drboolean/mostly-adequate-guide)
@@ -1736,7 +1744,9 @@ Links to resources I have found useful or think might be helpful to future me or
 #### JAVASCRIPT - FUNCTIONAL REACTIVE PROGRAMMING - Rx.JS
 
 * [Reactive programming library for JavaScript (Github)](https://github.com/ReactiveX/RxJS) & [Website](https://rxjs.codeplex.com/)
+* [Intro to Functional Reactive Programming with RxJS - Florian Rappl](http://www.sitepoint.com/functional-reactive-programming-rxjs/)
 * [Intro to Reactive Programming](https://egghead.io/series/introduction-to-reactive-programming)
+* [Rx Book - Denis Stoyanov](http://xgrommx.github.io/rx-book/)
 
 ### JAVASCRIPT - FUNDAMENTAL CONCEPTS
 
@@ -1896,6 +1906,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Stanford Engineering Everywhere](http://see.stanford.edu/see/courses.aspx)
 * [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php)
 * [TED Talks](http://www.ted.com/talks)
+* [TutsPlus](http://code.tutsplus.com/) (Non-free)
 * [UC Berkeley webcasts](http://webcast.berkeley.edu/series#c,s)
 * [Udacity](https://www.udacity.com/courses#!/all) (Lectures are free)
 * [Udemy](https://www.udemy.com/) (Non-free)
@@ -2071,12 +2082,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [InfoWorld](http://www.infoworld.com/)
 * [IT World](http://www.itworld.com/)
 * [Programmable Web](http://www.programmableweb.com/)
-* [ReadWrite](http://readwrite.com/code)
 * [The Register](http://www.theregister.co.uk/software/)
 * ScienceDaily: [Computer programming](http://www.sciencedaily.com/news/computers_math/computer_programming/) | [Hacking](http://www.sciencedaily.com/news/computers_math/hacking/) | [Software](http://www.sciencedaily.com/news/computers_math/software/)
 * [Software Development Times](http://sdtimes.com/)
 * [Sitepoint](http://www.sitepoint.com/)
-* [TutsPlus](http://code.tutsplus.com/)
 
 ### NEWS - SCIENCE
 
@@ -2090,8 +2099,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### NEWS - SECURITY
 
+* [CNBC](http://www.cnbc.com/cybersecurity/)
 * [Infosecurity](http://www.infosecurity-magazine.com/news/)
 * [(In)Secure](http://www.net-security.org/)
+* [ReadWrite](http://readwrite.com/category/data-and-security/)
 
 ### NEWS - TECH
 
@@ -2099,6 +2110,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ars Technica](http://arstechnica.com/)
 * [BBC](http://www.bbc.com/news/technology)
 * [Business Insider](http://www.businessinsider.com/sai)
+* [CNBC](http://www.cnbc.com/technology/)
 * [Cnet](http://www.cnet.com/news/)
 * [CNN](http://www.cnn.com/TECH/)
 * [Discovery](http://news.discovery.com/tech)
@@ -2118,6 +2130,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [PC Mag](http://www.pcmag.com/news)
 * [Phys.org](http://phys.org/technology-news/)
 * [Re/Code](http://recode.net)
+* [ReadWrite](http://readwrite.com)
 * [Reuters](http://www.reuters.com/news/technology)
 * [ScienceDaily](http://www.sciencedaily.com/news/matter_energy/technology/)
 * [Singularity Hub](http://singularityhub.com/)
