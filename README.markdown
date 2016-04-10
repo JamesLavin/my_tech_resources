@@ -883,6 +883,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [elm-lang.org/blog](http://elm-lang.org/blog)
 * [Gizra](http://www.gizra.com/tags.html#Elm-ref)
+* [Magnus Rundberget](http://rundis.github.io/blog/)
 
 ### ELM - CODE EXAMPLES
 
@@ -1202,6 +1203,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Functors, Applicatives, And Monads In Pictures - Aditya Y. Bhargava](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 * [A Fistful of Monads (Learn You a Haskell)](http://learnyouahaskell.com/a-fistful-of-monads)
+* [All About Monads](https://wiki.haskell.org/All_About_Monads) | [PDF version](http://www.cs.rit.edu/~swm/cs561/All_About_Monads.pdf)
 * [Monads Asking the Right Question - Pawel Szulc (LambdaConf 2015)](https://www.youtube.com/watch?v=FvZ_QhcbTCc)
 * [Monadic Design Patterns for the Web - Greg Meredith](https://channel9.msdn.com/Series/C9-Lectures-Greg-Meredith-Monadic-Design-Patterns-for-the-Web)
 
@@ -2348,17 +2350,21 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PROGRAMMING - PODCASTS
 
+* [The Bikeshed](http://bikeshed.fm/)
 * [The Changelog](https://changelog.com/podcast/)
 * [The Cloudcast](http://www.thecloudcast.net/)
 * [Code Podcast](https://soundcloud.com/podcastcode)
 * [Dr. Dobbs TV](http://www.drdobbs.com/tv/) (Video)
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
+* [Giant Robots](http://giantrobots.fm/)
 * [Hansel Minutes](http://www.hanselminutes.com/)
 * [Herding Code](http://herdingcode.com/)
 * [On Computing](http://www.computer.org/portal/web/computingnow/oncomputing)
 * [PathToPerf](http://pathtoperf.com/)
 * [Programming Throwdown](http://www.programmingthrowdown.com/)
+* [Ruby Rogues](https://devchat.tv/ruby-rogues)
 * [Shop Talk](http://shoptalkshow.com/)
+* [Software Engineering Daily](http://softwareengineeringdaily.com/) | [iTunes](https://itunes.apple.com/us/podcast/software-engineering-daily/id1019576853)
 * [Software Engineering Radio](http://www.se-radio.net/)
 * [Toolsday.io](http://toolsday.io/)
 * [Turing-Incomplete](http://turing.cool/)
