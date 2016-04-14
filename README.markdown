@@ -723,6 +723,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Cowboy: [Github](https://github.com/ninenines/cowboy) | [User Guide](http://ninenines.eu/docs/en/cowboy/HEAD/guide/)
 
+### ELIXIR - DEBUGGING
+
+* [Debugging techniques in Elixir - Erich Kist](http://blog.plataformatec.com.br/2016/04/debugging-techniques-in-elixir-lang/)
+
 ### ELIXIR - DEPLOYMENT
 
 * exrm: [source](https://github.com/bitwalker/exrm) | [docs](https://github.com/bitwalker/exrm/tree/master/docs) | [more docs](https://hexdocs.pm/exrm/extra-getting-started.html)
@@ -756,6 +760,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - MACROS
 
 * [Understanding Elixir Macros, Part 1 - Basics - Saša Jurić](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-1.html), [Part 2 - Micro theory](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-2.html), [Part 3 - Getting into the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-3.html), [Part 4 - Diving Deeper](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-4.html), [Part 5 - Reshaping the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-5.html), [Part 6 - In-place code generation](http://www.theerlangelist.com/2014/07/understanding-elixir-macros-part-6.html)
+* [Writing a simple macro in Elixir - Dave Thomas](https://www.youtube.com/watch?v=LsLWezjV9Fo)
 
 ### ELIXIR - PACKAGES
 
@@ -860,6 +865,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
 * [Idioms for Building Distributed Fault-tolerant Applications with Elixir - José Valim (goto; conference)](https://www.youtube.com/watch?v=B4rOG9Bc65Q)
 * ["Elixir and the Internet of Things" - Doug Rohrer (Strangeloop 2014)](https://www.youtube.com/watch?v=a-OCorBXX7M)
+* [The Climb Experiencing the Rise of Elixir from the Inside - Bruce Tate & Dave Thomas (Erlang Factory SF 2016)](https://www.youtube.com/watch?v=fklep3sUSWo)
 
 ## ELM
 
@@ -1269,6 +1275,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
 * [Real World Haskell - Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/read/)
+* [Haskell Programming From First Principles - Christopher Allen & Julie Moronuki](http://haskellbook.com/) [NON-FREE but excellent] | [Exercises and notes for book "Haskell Programming from first principles" - Lukas Lehner](http://lukleh.github.io/haskell-book-excercises/)
 * GHC User Guide: [PDF](https://downloads.haskell.org/~ghc/latest/docs/users_guide.pdf) | [HTML](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/index.html)
 * [Lazy Evaluation Illustrated for Haskell Divers - Takenobu T.](https://takenobu-hs.github.io/downloads/haskell_lazy_evaluation.pdf)
 * [Introduction to Haskell (lecture notes & code) - Noam Zilberstein (UPenn, Spring 2015)](http://www.seas.upenn.edu/~cis194/lectures.html)
