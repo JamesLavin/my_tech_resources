@@ -855,7 +855,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - VIDEOS
 
-* [ElixirDaze 2016](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH)
+* ElixirDaze 2016: [On Youtube](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH) & [On Confreaks](http://confreaks.tv/events/elixirdaze2016)
 * [ElixirConf 2015 videos](http://confreaks.tv/events/elixirconf2015)
     * [Keynote: The Pendulum - Bruce Tate](https://www.youtube.com/watch?v=X8rWK-g8kCQ)
     * [Confident Elixir - Lance Halvorsen](https://www.youtube.com/watch?v=9YCg9xaG47s)
@@ -1219,6 +1219,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Git Reference](http://gitref.org/)
 * [Git from the inside out - Mary Rose Cook](http://maryrosecook.com/blog/post/git-from-the-inside-out)
 * [Pro Git](http://git-scm.com/book) [PDF](https://github.s3.amazonaws.com/media/progit.en.pdf) [mobi](https://github.s3.amazonaws.com/media/pro-git.en.mobi) [ePub](https://github.s3.amazonaws.com/media/progit.epub)
+* Atlassian: [Getting Started](https://www.atlassian.com/git/tutorials/what-is-version-control) | [Tutorials](https://www.atlassian.com/git/tutorials) | [Collaborating](https://www.atlassian.com/git/tutorials/syncing) | [Advanced Git](https://www.atlassian.com/git/tutorials/advanced-overview)
 * [Wrapping Your Head Around Git - Paolo Perrotta (Garden City Ruby 2015)](http://confreaks.tv/videos/gardencityrb2015-keynote-wrapping-your-head-around-git)
 * [Git/Github open source training resources](http://training.github.com/kit/)
 * [Explain Git With D3 (interactive visual demos of Git commands)](http://www.wei-wang.com/ExplainGitWithD3/#)
@@ -3769,6 +3770,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### RUBY - DEBUGGING - PRY
 
 * Pry: [Website](http://pryrepl.org/) | [API docs](http://www.rubydoc.info/github/pry/pry/master/Pry) | [Screencasts](http://pryrepl.org/screencasts.html) | [Github](https://github.com/pry/pry) | [Pry Wiki](https://github.com/pry/pry/wiki) | [Documentation browsing](https://github.com/pry/pry/wiki/Documentation-browsing) | [Source browsing](https://github.com/pry/pry/wiki/Source-browsing) | [Shell access](https://github.com/pry/pry/wiki/Shell-Integration) | [Live help](https://github.com/pry/pry/wiki/Live-help)
+* [State navigation](https://github.com/pry/pry/wiki/State-navigation)
 * [Prying Open The Black Box - Godfrey Chan (RailsConf 2015)](https://youtu.be/IjbYhE9mWuk)
 * [Debugger Driven Developement with Pry - Joel Turnbull (RailsConf 2014)](https://www.youtube.com/watch?v=4hfMUP5iTq8)
 * [Pry Railscast](http://railscasts.com/episodes/280-pry-with-rails)
@@ -4101,6 +4103,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - VIDEOS
 
+* [RubyConf 2015](http://confreaks.tv/events/rubyconf2015)
 * [Ruby Remote Conf 2015](https://www.youtube.com/playlist?list=PLJesql-aSfX5wDU8ALH2bRd_xvw27klTQ)
 * [Tropical Ruby 2015](http://tropicalrb.com/en/videos/)
 * [BostonRB videos](http://www.youtube.com/channel/UCVMoyi_TUOJ0qVZRt42_ltA)
