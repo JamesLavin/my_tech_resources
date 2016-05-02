@@ -2280,6 +2280,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Aeon](http://aeon.co/magazine/technology/)
 * [Ars Technica](http://arstechnica.com/)
 * [BBC](http://www.bbc.com/news/technology)
+* [Bloomberg](http://www.bloomberg.com/technology)
 * [Business Insider](http://www.businessinsider.com/sai)
 * [CNBC](http://www.cnbc.com/technology/)
 * [Cnet](http://www.cnet.com/news/)
