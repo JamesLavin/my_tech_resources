@@ -302,6 +302,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DATA - VISUALIZATION
 
 * [VizWiz: Data visualization done right (blog)](http://vizwiz.blogspot.com/)
+* [OpenVis Conference videos (Boston 2016)](https://openvisconf.com/#videos)
 
 ## DATABASES
 
@@ -455,6 +456,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Docker isn’t just for deployment - Ben Dixon (RailsConf 2015)](https://www.youtube.com/watch?v=NGcT0dGivoM)
 * [TheNewStack.io](http://thenewstack.io/)
 
+#### DEVOPS - DOCKER - CONFIGURATION
+
+* [The Challenges of Container Configuration - Gareth Rushgrove (Craft Conference 2016)](http://www.ustream.tv/recorded/86186490)
+
 #### DEVOPS - DOCKER - MICROCONTAINERS
 
 * [Microcontainers – Tiny, Portable Docker Containers - Iron.io](http://www.iron.io/blog/2016/01/microcontainers-tiny-portable-containers.html)
@@ -471,6 +476,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Installation](https://docs.docker.com/engine/installation/mac/)
 * [Docker Machine](https://docs.docker.com/machine/)
 
+#### DEVOPS - DOCKER - POSTGRESQL
+
+* [Official Postgres Docker repo](https://hub.docker.com/_/postgres/)
+
 #### DEVOPS - DOCKER - REMOTE API
 
 * [Docker Remote API](https://docs.docker.com/reference/api/docker_remote_api/)
@@ -478,6 +487,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - DOCKER - VIDEOS
 
+* ContainerSummit.io: [2016 New York](http://containersummit.io/events/nyc-2016/videos) | [San Francisco 2015](http://containersummit.io/events/sf-2015/videos)
 * [DockerCon Online Meetup 2015](http://confreaks.tv/events/dockeronlinemeetup2015)
 * [DockerCon EU 2015](http://confreaks.tv/events/dockerconeu2015)
 * [DockerCon & Co](http://confreaks.tv/events/docker&co2015)
@@ -551,6 +561,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - VAGRANT
 
 * [Vagrant, Packer, Serf: Maximum Potency DevOps - Mitchell Hashimoto (Kod.io 2014)](http://confreaks.tv/videos/3251-kodio_2014-vagrant-packer-serf-maximum-potency-devops)
+
+### DEVOPS - VIDEOS
+
+[DevOpsDays Rockies 2016](http://confreaks.tv/events/devopsdaysrox2016)
 
 ## DOCUMENTATION
 
@@ -849,6 +863,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - TESTING
 
+#### ELIXIR - TESTING - WALLABY
+
+* [Introducing Wallaby – Concurrent Feature Tests for Elixir and Phoenix - Chris Keathley](http://blog.carbonfive.com/2016/04/16/introducing-wallaby-concurrent-feature-tests-for-elixir-and-phoenix/)
+
 #### ELIXIR - TESTING - QUICKCHECK
 
 * [QuickCheck for Elixir - Generate Tests Automatically - Thomas Arts (ElixirConf 2015)](https://www.youtube.com/watch?v=nbpZRm9gl50)
@@ -874,6 +892,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm Cheat Sheet - Sergey Keller](https://github.com/izdi/elm-cheat-sheet)
 * [elm-tutorial.org - Sebastian Porto](http://www.elm-tutorial.org/) | [other formats](https://www.gitbook.com/book/sporto/elm-tutorial/details)
 * [elm-by-example.org - Grzegorz Balcerek](http://elm-by-example.org/) | [code examples](https://github.com/grzegorzbalcerek/ElmByExample)
+* [jsbin-style Glot.io](https://glot.io/new/elm)
 * [Elm by Example: Soup to Nuts - Part 1 - Dorian Karter (Hashrocket)](https://hashrocket.com/blog/posts/elm-by-example-soup-to-nuts-part-1)
 * [London Elm Meetup at Plumbee Games](https://www.youtube.com/watch?v=OphstSQhyRM)
 * [awesome-elm - Ruslan Ismagilov](https://github.com/isRuslan/awesome-elm)
@@ -896,14 +915,18 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Start app - Evan Czaplicki](https://github.com/evancz/start-app)
 * [How to Create Tetris in Elm - Captain Coder](https://www.youtube.com/playlist?list=PL7C8fMD-89DKhlerIE3BrYNd0PlhA6Zch)
 * [elm-tutorial-app: example Elm single page application - Sebastian Porto](https://github.com/sporto/elm-tutorial-app)
-* Composing Features and Behaviours in the Elm Architecture - Fred Daoud: [0: Intro](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture) | [1: Creating a Feature](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-010-todolist-feature/client-elm#creating-a-feature) | [2: Connecting Features Together](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-020-todoform-feature/client-elm#connecting-features-together) | [3: Multiple Listeners](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-030-todosummary-feature/client-elm#multiple-listeners) | [4: Composing Features](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-040-todominmax-feature/client-elm#composing-features)
+* Composing Features and Behaviours in the Elm Architecture - Fred Daoud: [0: Intro](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture) | [1: Creating a Feature](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-010-todolist-feature/client-elm#creating-a-feature) | [2: Connecting Features Together](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-020-todoform-feature/client-elm#connecting-features-together) | [3: Multiple Listeners](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-030-todosummary-feature/client-elm#multiple-listeners) | [4: Composing Features](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-040-todominmax-feature/client-elm#composing-features) & [Summary of Daoud's ideas - LambdaCat](http://www.lambdacat.com/road-to-elm-structuring-your-application/)
+* [Exploring Elm with a Typeahead - Aristides Staffieri](https://medium.com/denver-devs/exploring-elm-with-a-typeahead-5a846511e810#.71h40ys9y)
 * [Investments calculator](https://github.com/joshuaclayton/investments-elm) | [live example](http://joshuaclayton.me/investments-elm/)
+* [Landscape: architecture diagramming - Jessica Kerr](https://github.com/satellite-of-love/landscape)
 * elm-goban: [Play](http://mclauia.github.io/elm-goban/) | [Github](https://github.com/mclauia/elm-goban)
 * [sketch-n-sketch - Ravi Chugh et al.](http://ravichugh.github.io/sketch-n-sketch/)
+* [elm-flatris - Andrey Kuzmin](https://github.com/w0rm/elm-flatris)
 * [Celestia - John P. Mayer](https://github.com/johnpmayer/celestia)
 * [Chess - Grzegorz Balcerek](https://github.com/grzegorzbalcerek/chess-elm/tree/master/Chess)
 * [Connect Four - Brad Urani](https://github.com/bradurani/connect-four-elm)
 * [Dreamwriter - Richard Feldman](https://github.com/rtfeldman/dreamwriter)
+* [Using Elm to Create a Fun Game in Just Five Days - Kolja Wilcke & Andrey Kuzmin](https://tech.zalando.com/blog/using-elm-to-create-a-fun-game-in-just-five-days/) & [Progress recap: Elm Street 404 - ](https://tech.zalando.com/blog/progress-recap-elm-street-404/)
 * [Elm Checkerboard Tutorial - Hassan Hayat](https://github.com/TheSeamau5/elm-checkerboardgrid-tutorial)
 * Elm-Hedley: [Thinking (And Choosing) Elm](http://www.gizra.com/content/thinking-choosing-elm/) | [App Overview](http://www.gizra.com/content/elm-hedley-overview/)
 * [Elmtris - Joseph Collard](https://github.com/jcollard/elmtris)
@@ -914,9 +937,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm-missile-command](https://github.com/theburningmonk/elm-missile-command)
 * [Elm-snake (game) - Yan Cui](https://github.com/theburningmonk/elm-snake) & [Snake in Elm - Joel Chelliah](https://github.com/joelchelliah/snake_in_elm)
 * [Preselm - Grzegorz Balcerek](https://github.com/grzegorzbalcerek/Preselm)
+* [Rolling Random Romans - Joël Quenneville](https://robots.thoughtbot.com/rolling-random-romans)
 * [Vessel](https://github.com/slawrence/vessel)
 * [Zombie Dice Score Card in Elm - James Hughes](https://yobriefca.se/blog/2015/07/29/zombie-dice-score-card-in-elm/) | [source code](https://github.com/kouphax/zombie-dice-elm)
 * [Sydron: github events visualized - Jessica Kerr](https://github.com/jessitron/elm-sydron)
+
+### ELM - CODE STRUCTURE
+
+* [How I Structure Elm Apps - Kris Jenkins](http://blog.jenkster.com/2016/04/how-i-structure-elm-apps.html)
 
 ### ELM - DATA STRUCTURES
 
@@ -924,9 +952,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Decoding JSON Structures With Elm - Josh Clayton](https://robots.thoughtbot.com/decoding-json-structures-with-elm)
 * [json-to-elm - Noah Hall](https://github.com/eeue56/json-to-elm)
 * [Json.Decode cheatsheet - Yang Wei](https://gist.github.com/yang-wei/0a1cea1194a244aa9be6)
+* [Maybe Thinking - Josh Clayton](https://robots.thoughtbot.com/maybe-thinking)
 
 ### ELM - EDITORS
 
+* [HTML to Elm (webpage for inputting HTML and outputting Elm)](http://mbylstra.github.io/html-to-elm/)
 * [elm-light](https://github.com/rundis/elm-light) for [LightTable](http://lighttable.com/) & [demo video](http://rundis.github.io/blog/2015/elm_light.html)
 * [lambdatoast/elm.vim](https://github.com/lambdatoast/elm.vim) & [ElmCast/elm-vim](https://github.com/ElmCast/elm-vim) for [vim](http://www.vim.org/docs.php)
 * [jcollard/elm-mode](https://github.com/jcollard/elm-mode) for [Emacs](https://www.gnu.org/software/emacs/tour/) (if you're into that kind of kinky stuff)
@@ -1105,6 +1135,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## EVENT SOURCING/STREAMS/SIGNALS/REACTIVE PROGRAMMING
 
 * [RXMarbles.com - Interactive diagrams of Rx Observables](http://rxmarbles.com/)
+* [Stream processing, Event sourcing, Reactive, CEP… and making sense of it all - Martin Kleppmann](http://www.confluent.io/blog/making-sense-of-stream-processing/)
 * [Event Sourcing - Martin Fowler](http://martinfowler.com/eaaDev/EventSourcing.html)
 * [Event Sourcing - Bryan Reinero (GoRuCo 2015)](http://confreaks.tv/videos/goruco2015-event-sourcing)
 * [An Event-driven and Reactive Future - Jonathan Worthington (FooCafe 2014)](https://www.youtube.com/watch?v=_VdIQTtRkb8)
@@ -1210,6 +1241,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functors, Applicatives, And Monads In Pictures - Aditya Y. Bhargava](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 * [A Fistful of Monads (Learn You a Haskell)](http://learnyouahaskell.com/a-fistful-of-monads)
 * [All About Monads](https://wiki.haskell.org/All_About_Monads) | [PDF version](http://www.cs.rit.edu/~swm/cs561/All_About_Monads.pdf)
+* [The Monad Challenges - Doug Beardsley](http://mightybyte.github.io/monad-challenges/)
 * [Monads Asking the Right Question - Pawel Szulc (LambdaConf 2015)](https://www.youtube.com/watch?v=FvZ_QhcbTCc)
 * [Monadic Design Patterns for the Web - Greg Meredith](https://channel9.msdn.com/Series/C9-Lectures-Greg-Meredith-Monadic-Design-Patterns-for-the-Web)
 
@@ -1272,10 +1304,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Road to Running Haskell at Facebook Scale - Jon Coens (Code Mesh London 2015)](https://www.youtube.com/watch?v=sl2zo7tzrO8)
 * [Simon Peyton-Jones and John Hughes - It's Raining Haskell](https://channel9.msdn.com/Blogs/Charles/YOW-2011-Simon-Peyton-Jones-and-John-Hughes-Its-Raining-Haskell)
 
+### HASKELL - BLOGS
+
+* [Chris Done](http://chrisdone.com/tags/haskell)
+
 ### HASKELL - BOOKS
 
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
 * [Real World Haskell - Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/read/)
+* [Gentle Introduction to Haskell 98 - Paul Hudak, John Peterson & Joseph Fasel](https://www.haskell.org/tutorial/haskell-98-tutorial.pdf)
 * [Haskell Programming From First Principles - Christopher Allen & Julie Moronuki](http://haskellbook.com/) [NON-FREE but excellent] | [Exercises and notes for book "Haskell Programming from first principles" - Lukas Lehner](http://lukleh.github.io/haskell-book-excercises/)
 * GHC User Guide: [PDF](https://downloads.haskell.org/~ghc/latest/docs/users_guide.pdf) | [HTML](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/index.html)
 * [Lazy Evaluation Illustrated for Haskell Divers - Takenobu T.](https://takenobu-hs.github.io/downloads/haskell_lazy_evaluation.pdf)
@@ -1704,6 +1741,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [EmberScript](http://emberscript.com/)
 * [QUnit](http://qunitjs.com/)
 
+#### JAVASCRIPT - EMBER.JS - VIDEO
+
+* [EmberConf 2016 videos](http://confreaks.tv/events/emberconf2016)
+
 ### JAVASCRIPT - FRAMEWORKS
 
 * [TodoMVC](http://todomvc.com/) & [Github](https://github.com/addyosmani/todomvc)
@@ -1744,6 +1785,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### JAVASCRIPT - FUNCTIONAL REACTIVE PROGRAMMING - REACT.JS
 
+* [React + Redux + Webpack videos - Kurt Weiberth](https://www.youtube.com/playlist?list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg)
+* [Intro to Webpack, ES6, Babel, React, React-Router, Redux, and React-Redux - Brad Westfall](https://www.youtube.com/watch?v=DfRibIkjhew)
+* [React tutorial series - LearnCode.academy](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 * [Thinking in React - Pete Hunt](https://facebook.github.io/react/docs/thinking-in-react.html)
 * Learn React, Flux, and Flow - Colin Megill: [Part 1](https://www.youtube.com/watch?v=Pd6Ub7Ju2RM) | [Part 2](https://www.youtube.com/watch?v=iR22EWW-CVc)
 * [React and Flux: Building Applications with a Unidirectional Data Flow - Bill Fisher and Jing Chen (Forward.JS 2014)](https://www.youtube.com/watch?v=i__969noyAM)
@@ -1875,7 +1919,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Jekyll Documentation - Tom Preston-Werner, Nick Quaranto, Parker Moore, et al](http://planetjekyll.github.io/book/)
 * [Planet Jekyll](http://planetjekyll.github.io/)
 * [Getting Started With Jekyll, The Static Site Generator - phpacademy](https://www.youtube.com/watch?v=iWowJBRMtpc)
-* [JekyllConf 2015](https://www.youtube.com/watch?v=wnQriozXBZI&list=PLrxYIq_0LFJcXlsRZD-JCdITfZexwvqsQ)
+* [JekyllConf](https://www.youtube.com/results?search_query=jekyllconf)
 
 ## JRUBY
 
@@ -1961,6 +2005,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MACHINE LEARNING & AI
 
+* [OpenAI Gym](https://gym.openai.com/) | [Github](https://github.com/openai/gym)
 * [Un-Artificial Intelligence - Melinda Seckington (GoRuCo 2015)](https://www.youtube.com/watch?v=7Y1Bv2BJDLs)
 * [Machine Learning (online Coursera class with Stanford professor Andrew Ng)](https://www.coursera.org/learn/machine-learning)
 * [Machine Learning (online course from University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
@@ -2125,6 +2170,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [CNN](http://www.cnn.com/TECH/)
 * [Discovery](http://news.discovery.com/tech)
 * [Engadget](http://www.engadget.com/)
+* [Extreme Tech](http://www.extremetech.com/)
 * [Forbes](http://www.forbes.com/technology/)
 * [GeekWire](http://www.geekwire.com/)
 * [Gizmodo](http://gizmodo.com/)
@@ -3532,6 +3578,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Rails-Upgrade-Checklist](www.rails-upgrade-checklist.com)
 * [Tips and Strategies for Upgrading Ruby Gems](https://hackhands.com/tips-strategies-upgrading-ruby-gems/)
 
+### RAILS - VIDEOS
+
+* [RailsConf 2016](http://confreaks.tv/events/railsconf2016)
+
 ### RAILS - VIEWS
 
 * [Concerns, Decorators, Presenters, Service Objects, Helpers, Help Me Decide! - Justin Gordon (RailsConf 2014)](https://www.youtube.com/watch?v=bHpVdOzrvkE)
@@ -3771,6 +3821,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Pry: [Website](http://pryrepl.org/) | [API docs](http://www.rubydoc.info/github/pry/pry/master/Pry) | [Screencasts](http://pryrepl.org/screencasts.html) | [Github](https://github.com/pry/pry) | [Pry Wiki](https://github.com/pry/pry/wiki) | [Documentation browsing](https://github.com/pry/pry/wiki/Documentation-browsing) | [Source browsing](https://github.com/pry/pry/wiki/Source-browsing) | [Shell access](https://github.com/pry/pry/wiki/Shell-Integration) | [Live help](https://github.com/pry/pry/wiki/Live-help)
 * [State navigation](https://github.com/pry/pry/wiki/State-navigation)
+* [The Great Cheatsheet for Pry - Rico Sta. Cruz](http://ricostacruz.com/cheatsheets/pry.html)
 * [Prying Open The Black Box - Godfrey Chan (RailsConf 2015)](https://youtu.be/IjbYhE9mWuk)
 * [Debugger Driven Developement with Pry - Joel Turnbull (RailsConf 2014)](https://www.youtube.com/watch?v=4hfMUP5iTq8)
 * [Pry Railscast](http://railscasts.com/episodes/280-pry-with-rails)
@@ -4049,6 +4100,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### RUBY - TESTING - CUCUMBER
 
 * [Cucumber backgrounder](https://github.com/cucumber/cucumber/wiki/Cucumber-Backgrounder)
+* [Keynote: Kind of Green - Aslak Helleoy](https://skillsmatter.com/skillscasts/7361-keynote-kind-of-green)
 * [The Cucumber/RSpec cycle](http://www.youtube.com/watch?v=8ZmawOCDeyo&list=PLAD5A45605AEDDA40)
 * [Intro to Outside-In Development With Cucumber - Charles Wood](http://www.youtube.com/watch?v=8I1_siXLTN0)
 
@@ -4103,7 +4155,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### RUBY - VIDEOS
 
+* [Ruby On Ales 2016](http://confreaks.tv/events/roa2016)
+* [MountainWest RubyConf 2016](http://confreaks.tv/events/mwrc2016)
 * [RubyConf 2015](http://confreaks.tv/events/rubyconf2015)
+* [LA Ruby Conf 2015](http://confreaks.tv/events/larubyconf2015)
 * [Ruby Remote Conf 2015](https://www.youtube.com/playlist?list=PLJesql-aSfX5wDU8ALH2bRd_xvw27klTQ)
 * [Tropical Ruby 2015](http://tropicalrb.com/en/videos/)
 * [BostonRB videos](http://www.youtube.com/channel/UCVMoyi_TUOJ0qVZRt42_ltA)
