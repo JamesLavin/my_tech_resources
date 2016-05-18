@@ -458,7 +458,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - DOCKER - CONFIGURATION
 
-* [The Challenges of Container Configuration - Gareth Rushgrove (Craft Conference 2016)](http://www.ustream.tv/recorded/86186490)
+* [The Challenges of Container Configuration - Gareth Rushgrove (Craft Conference 2016)](http://www.ustream.tv/recorded/86186490) & [slides](https://speakerdeck.com/garethr/the-challenges-of-container-configuration)
 
 #### DEVOPS - DOCKER - MICROCONTAINERS
 
@@ -669,7 +669,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELIXIR
 
-* Elixir: [Docs](http://elixir-lang.org/docs.html) & [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html) & [Elixir-lang-talk group](https://groups.google.com/forum/?fromgroups#!forum/elixir-lang-talk) & [Elixir Core mailing list](https://groups.google.com/forum/#!forum/elixir-lang-core)
+* Elixir: [Docs](http://elixir-lang.org/docs.html) & [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html) & [Elixir-lang-talk group](https://groups.google.com/forum/?fromgroups#!forum/elixir-lang-talk) & [Elixir Core mailing list](https://groups.google.com/forum/#!forum/elixir-lang-core) & [ElixirForum.com](http://elixirforum.com/)
 * [What Elixir is About - José Valim (Erlang Factory SF 2015)](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
 * [Elixir with José Valim](http://howistart.org/posts/elixir/1)
 * [Building a web framework from scratch in Elixir - Robert Lord](https://codewords.recurse.com/issues/five/building-a-web-framework-from-scratch-in-elixir)
@@ -766,6 +766,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Tirexs - Elixir DSL for Elasticsearch](https://github.com/roundscope/tirexs)
 * [erlastic_search (Erlang client for Elasticsearch)](https://github.com/tsloughter/erlastic_search)
 * [Elasticsearch from Elixir and Docker - Zohaib Rauf](http://zohaib.me/elasticsearch-from-elixir-and-docker/)
+
+### ELIXIR - EVENT SOURCING/CQRS
+
+* [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
+* [Event Sourcing and CQRS in Elixir - ElixirForum.com](http://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519/4)
 
 ### ELIXIR - EXDOC
 
@@ -888,6 +893,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## ELM
 
 * [Intro to Elm - Richard Feldman (2016)](https://www.youtube.com/watch?v=3_M2G9U51GA)
+* [Intro to Elm - Alan Gardner (2016)](https://vimeo.com/167092863)
 * Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [Elm Cheat Sheet - Sergey Keller](https://github.com/izdi/elm-cheat-sheet)
 * [elm-tutorial.org - Sebastian Porto](http://www.elm-tutorial.org/) | [other formats](https://www.gitbook.com/book/sporto/elm-tutorial/details)
@@ -920,6 +926,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Investments calculator](https://github.com/joshuaclayton/investments-elm) | [live example](http://joshuaclayton.me/investments-elm/)
 * [Landscape: architecture diagramming - Jessica Kerr](https://github.com/satellite-of-love/landscape)
 * elm-goban: [Play](http://mclauia.github.io/elm-goban/) | [Github](https://github.com/mclauia/elm-goban)
+* [capodicis-notes: Chrome extension that allows you to make notes on webpages & mark them as "done" and summarize pages - mcapodici](https://github.com/mcapodici/capodicis-notes)
 * [sketch-n-sketch - Ravi Chugh et al.](http://ravichugh.github.io/sketch-n-sketch/)
 * [elm-flatris - Andrey Kuzmin](https://github.com/w0rm/elm-flatris)
 * [Celestia - John P. Mayer](https://github.com/johnpmayer/celestia)
@@ -1053,7 +1060,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Introduction to Functional Reactive Programming with Elm - Isaac Shapira](https://www.youtube.com/watch?v=bx3mOTGRvs4)
 * [Elm architecture tutorial - Evan Czaplicki](https://github.com/evancz/elm-architecture-tutorial)
 * Geocoding With Elm and ArcGIS - Kris Jenkins: [Part 1](http://blog.jenkster.com/2015/09/geocoding-with-elm-and-arcgis-part-1.html) | [Part 2](http://blog.jenkster.com/2015/09/geocoding-with-elm-and-arcgis-part-2.html) | [Part 3](http://blog.jenkster.com/2015/10/geocoding-with-elm-and-arcgis-part-3.html)
-* Brandon Richey: [Getting Started with Elm](https://medium.com/@diamondgfx/getting-started-with-elm-11d7a53b1a78#.fxuq1zojk) | [Understanding Elm: Signals, Mailboxes, Addresses, and Actions](https://medium.com/@diamondgfx/understanding-elm-signals-mailboxes-addresses-and-actions-7932781396ef#.soi3267gk) | [Applying Signals and Actions to our App](https://medium.com/@diamondgfx/e1c649bd0d96#.7542im727)
+* Brandon Richey: [Getting Started with Elm](https://medium.com/@diamondgfx/getting-started-with-elm-11d7a53b1a78#.fxuq1zojk) | [Understanding Elm: Signals, Mailboxes, Addresses, and Actions](https://medium.com/@diamondgfx/understanding-elm-signals-mailboxes-addresses-and-actions-7932781396ef#.soi3267gk) | [Applying Signals and Actions to our App](https://medium.com/@diamondgfx/e1c649bd0d96#.7542im727) | [Setting Up Elm With Phoenix](https://medium.com/@diamondgfx/setting-up-elm-with-phoenix-be3a9f55bac2#.pzwf70emn)
 * Dennis Reimann: [Elm Modules and Imports](https://dennisreimann.de/articles/elm-modules-import.html) | [Functions](https://dennisreimann.de/articles/elm-functions.html)
 * [elm-d3: Front-end Development Without Frameworks (C◦mp◦se :: Conference 2015)](https://www.youtube.com/watch?v=pTlOLO7Qhls)
 * [Building Web Apps in Elm - Jivago Alves (PolyConf 2015)](https://www.youtube.com/watch?v=fq4l6C935Bg)
@@ -1104,7 +1111,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ERLANG - PERFORMANCE
 
 * [Comparison of Erlang Runtime System and Java Virtual Machine - Tõnis Pool](http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf)
-* [Faults, Scaling, and Erlang concurrency - Joe Armstrong](https://www.youtube.com/watch?v=YaUPdgtUYko)
+* [Faults, Scaling, and Erlang concurrency - Joe Armstrong (Stanford University seminar 2014)](https://www.youtube.com/watch?v=YaUPdgtUYko)
 
 ### ERLANG - VIDEOS
 
@@ -1317,6 +1324,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * GHC User Guide: [PDF](https://downloads.haskell.org/~ghc/latest/docs/users_guide.pdf) | [HTML](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/index.html)
 * [Lazy Evaluation Illustrated for Haskell Divers - Takenobu T.](https://takenobu-hs.github.io/downloads/haskell_lazy_evaluation.pdf)
 * [Introduction to Haskell (lecture notes & code) - Noam Zilberstein (UPenn, Spring 2015)](http://www.seas.upenn.edu/~cis194/lectures.html)
+
+### HASKELL - CODE EXAMPLES
+
+* [Haskell Everywhere! - Todo apps in Haskell](https://github.com/jyrimatti/hseverywhere)
 
 ### HASKELL - FREGE
 
@@ -1783,18 +1794,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional Reactive Programming with Bacon.js](http://sean.voisen.org/blog/2013/09/intro-to-functional-reactive-programming/)
 * [Implementing Snake in Bacon.js](http://philipnilsson.github.io/badness/)
 
-#### JAVASCRIPT - FUNCTIONAL REACTIVE PROGRAMMING - REACT.JS
-
-* [React + Redux + Webpack videos - Kurt Weiberth](https://www.youtube.com/playlist?list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg)
-* [Intro to Webpack, ES6, Babel, React, React-Router, Redux, and React-Redux - Brad Westfall](https://www.youtube.com/watch?v=DfRibIkjhew)
-* [React tutorial series - LearnCode.academy](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
-* [Thinking in React - Pete Hunt](https://facebook.github.io/react/docs/thinking-in-react.html)
-* Learn React, Flux, and Flow - Colin Megill: [Part 1](https://www.youtube.com/watch?v=Pd6Ub7Ju2RM) | [Part 2](https://www.youtube.com/watch?v=iR22EWW-CVc)
-* [React and Flux: Building Applications with a Unidirectional Data Flow - Bill Fisher and Jing Chen (Forward.JS 2014)](https://www.youtube.com/watch?v=i__969noyAM)
-* [Secrets of the Virtual DOM - Pete Hunt (Barcelona Future Javascript)](https://www.youtube.com/watch?v=-DX3vJiqxm4)
-* [React and Rails](http://rny.io/rails/react/2014/07/31/reactjs-and-rails.html)
-* [React & Flux - Christian Lilley (JSChannel 2015)](http://confreaks.tv/videos/jschannelconf2015-react-flux)
-
 #### JAVASCRIPT - FUNCTIONAL REACTIVE PROGRAMMING - Rx.JS
 
 * [Reactive programming library for JavaScript (Github)](https://github.com/ReactiveX/RxJS) & [Website](https://rxjs.codeplex.com/)
@@ -1874,6 +1873,31 @@ Links to resources I have found useful or think might be helpful to future me or
 * [JavaScript Promises: There and Back Again - Jake Archibald](http://www.html5rocks.com/en/tutorials/es6/promises/)
 * [You're Missing the Point of Promises - Domenic Denicola](https://blog.domenic.me/youre-missing-the-point-of-promises/)
 
+### JAVASCRIPT - REACT.JS
+
+* [Getting Started](https://facebook.github.io/react/docs/getting-started.html) | [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html) | [Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+* [React + Redux + Webpack videos - Kurt Weiberth](https://www.youtube.com/playlist?list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg)
+* [Intro to Webpack, ES6, Babel, React, React-Router, Redux, and React-Redux - Brad Westfall](https://www.youtube.com/watch?v=DfRibIkjhew)
+* [React tutorial series - LearnCode.academy](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
+* [Thinking in React - Pete Hunt](https://facebook.github.io/react/docs/thinking-in-react.html)
+* Learn React, Flux, and Flow - Colin Megill: [Part 1](https://www.youtube.com/watch?v=Pd6Ub7Ju2RM) | [Part 2](https://www.youtube.com/watch?v=iR22EWW-CVc)
+* [React and Flux: Building Applications with a Unidirectional Data Flow - Bill Fisher and Jing Chen (Forward.JS 2014)](https://www.youtube.com/watch?v=i__969noyAM)
+* [Secrets of the Virtual DOM - Pete Hunt (Barcelona Future Javascript)](https://www.youtube.com/watch?v=-DX3vJiqxm4)
+* [React and Rails](http://rny.io/rails/react/2014/07/31/reactjs-and-rails.html)
+* [React & Flux - Christian Lilley (JSChannel 2015)](http://confreaks.tv/videos/jschannelconf2015-react-flux)
+
+#### JAVASCRIPT - REACT.JS - JSX
+
+* [JSX in Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
+
+#### JAVASCRIPT - REACT.JS - REACT NATIVE
+
+* [React Native](https://facebook.github.io/react-native/)
+
+#### JAVASCRIPT - REACT.JS - VIDEOS
+
+* [React.js Conf 2015](https://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr)
+
 ### JAVASCRIPT - TESTING
 
 * [Zero to Testing in Javascript - Pamela Selle (QConn New York 2014)](http://www.infoq.com/presentations/tdd-javascript-2014)
@@ -1946,6 +1970,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Complex Made Simple: Sleep Better with TorqueBox - Lance Ball (RailsConf 2012)](http://confreaks.tv/videos/912-railsconf2012-complex-made-simple-sleep-better-with-torquebox)
 * [TorqueBox - Kevin Menard (BostonRB.org)](http://bostonrb.org/presentations/torquebox)
 
+## JULIA
+
+* [Julia: high-level, high-performance dynamic programming language for technical computing](http://julialang.org/)
+
+## LEGAL
+
+* [ChooseALicense.com - Advice on selecting an open source license - Github](http://choosealicense.com/)
+* [Chart showing what each license allows and disallows - ChooseALicense.com & Github](http://choosealicense.com/appendix/)
+
 ## LEARNING
 
 * [Learning How to Learn - Drs. Barbara Oakley & Terrence Sejnowski (Coursera)](https://www.coursera.org/learn/learning-how-to-learn/)
@@ -2003,6 +2036,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Sysadmincasts.com](http://sysadmincasts.com/)
 
+## LISP
+
+* The Structure and Interpretation of Computer Programs - Hal Abelson & Gerald Jay Sussman: [Video lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures) | [online book](https://mitpress.mit.edu/sicp/full-text/book/book.html) | [PDF](http://web.mit.edu/alexmv/6.037/sicp.pdf)
+
 ## MACHINE LEARNING & AI
 
 * [OpenAI Gym](https://gym.openai.com/) | [Github](https://github.com/openai/gym)
@@ -2017,6 +2054,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Artificial Stupidity: Adding Smarts to Yer Kode - Randall Thomas](http://www.sdruby.org/podcast/79)
 * [Weathering the Data Storm - Claudia Perlich (QConn New York 2014)](http://www.infoq.com/presentations/display-advertising-big-data)
 * [Google DeepMind: What is it, how does it work and should you be scared? - Sam Shead](http://www.techworld.com/personal-tech/google-deepmind-what-is-it-how-it-works-should-you-be-scared-3615354/)
+
+## MACHINE LEARNING & AI - VIDEOS
+
+* [The Future of Artificial Intelligence - DeepMind CEO Demis Hassabis](https://www.youtube.com/watch?v=4fjmnOQuqao)
 
 ## MAIL SERVER
 
