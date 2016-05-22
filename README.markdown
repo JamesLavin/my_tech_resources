@@ -547,6 +547,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Logstash Google Forum](https://groups.google.com/forum/?fromgroups#%21forum/logstash-users)
 * [Logstash Freenode IRC](http://irc.lc/freenode/logstash/t4nk@@@)
 
+### DEVOPS - NEWS
+
+* [The Register](http://www.theregister.co.uk/infrastructure/)
+
 ### DEVOPS - OPENSTACK
 
 * [OpenStack.org](https://www.openstack.org/): [Overview](https://www.openstack.org/software/)
@@ -756,6 +760,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Ecto: [documentation](https://hexdocs.pm/ecto/Ecto.html) | [Github](https://github.com/elixir-lang/ecto) | [discussion forum](https://groups.google.com/forum/#!forum/elixir-ecto)
 * [Ecto: A language integrated query for Elixir - José Valim](https://www.youtube.com/watch?v=SJRfujy9vLA)
+* [Ecto - the Past, the Present, the Future - Michał Muskała (ElixirConf2016]() | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/087/original/Ecto_-_the_past__the_present__the_future%281%29.pdf?1463063539)
 * [Ecto - Eric Meadows-Jönsson (ElixirConf EU 2015)](https://www.youtube.com/watch?v=snka1bAtZS0)
 * [PostgreSQL indexing with Ecto - Richard Nyström](http://rny.io/elixir/ecto/postgresql/2015/08/31/postgresql-indexing-with-ecto.html)
 * [Composable Queries with Ecto - Drew Olson (ElixirConf 2015)](https://www.youtube.com/watch?v=g84TDHt9MDc)
@@ -835,6 +840,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - VIDEOS
 
+* [Phoenix 1.2 and Beyond - Chris McCord (ElixirConfEU 2016)](https://www.youtube.com/watch?v=n338leKvqnA)
 * [Arisen from the Ashes: Phoenix.js and Websockets - Max Beizer](https://www.youtube.com/watch?v=AvKnYO7yo_g)
 * [Phoenix Takes Flight - Chris McCord (ElixirConf EU 2015)](https://www.youtube.com/watch?v=fLlItGWiVFc)
 * [What's Next for Phoenix - Chris McCord (ElixirConf 2015)](http://confreaks.tv/videos/elixirconf2015-what-s-next-for-phoenix)
@@ -883,6 +889,10 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Keynote: The Pendulum - Bruce Tate](https://www.youtube.com/watch?v=X8rWK-g8kCQ)
     * [Confident Elixir - Lance Halvorsen](https://www.youtube.com/watch?v=9YCg9xaG47s)
 * [ElixirConf EU 2015 videos](https://www.youtube.com/watch?v=fLlItGWiVFc&list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
+* [Discovering Processes - Saša Jurić (ElixirConfEU 2016)](https://www.youtube.com/watch?v=y_b6RTes83c)
+* [What's Ahead for Elixir? - José Valim (ElixirConfEU 2016)](https://www.youtube.com/watch?v=A60nxws_iVs) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/160/original/Jose_Valim-_What's_ahead_of_Elixir.pdf?1463594498)
+* [Building Multiplayer Games with Phoenix and Phaser - Keith Salisbury (ElixirConfEU 2016](https://www.youtube.com/watch?v=I5L9_cXwBcU)
+* [Concurrent and Resilient Connections to Outside the BEAM - Andrea Leopardi (ElixirConfEU 2016)](https://www.youtube.com/watch?v=U1Ry7STEFiY) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/149/original/Andrea_Leopardi_Concurrent-and-resilient-connections-to-outside-the-beam.pdf?1463389064)
 * [What Elixir Is About - José Valim (Erlang User Conference 2015)](https://www.youtube.com/watch?v=QXcedVc2LQM)
 * [Rewriting a Ruby application in Elixir - Claudio Ortolina (ElixirConf 2015)](https://www.youtube.com/watch?v=lho1e04Gzzs)
 * [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
@@ -892,11 +902,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELM
 
+* An Introduction to Elm - Evan Czaplicki: [downloadable ebook/PDF](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
+* Elm Tutorial - Sebastian Porto: [downloadable ebook/PDF](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
+* Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [Intro to Elm - Richard Feldman (2016)](https://www.youtube.com/watch?v=3_M2G9U51GA)
 * [Intro to Elm - Alan Gardner (2016)](https://vimeo.com/167092863)
-* Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [Elm Cheat Sheet - Sergey Keller](https://github.com/izdi/elm-cheat-sheet)
-* [elm-tutorial.org - Sebastian Porto](http://www.elm-tutorial.org/) | [other formats](https://www.gitbook.com/book/sporto/elm-tutorial/details)
 * [elm-by-example.org - Grzegorz Balcerek](http://elm-by-example.org/) | [code examples](https://github.com/grzegorzbalcerek/ElmByExample)
 * [jsbin-style Glot.io](https://glot.io/new/elm)
 * [Elm by Example: Soup to Nuts - Part 1 - Dorian Karter (Hashrocket)](https://hashrocket.com/blog/posts/elm-by-example-soup-to-nuts-part-1)
@@ -955,6 +966,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - DATA STRUCTURES
 
+* [JSON-to-Elm generator - NoRedInk.com](http://noredink.github.io/json-to-elm/)
 * [Data Structures in Elm - NoRedInk.com](http://tech.noredink.com/post/140646140878/data-structures-in-elm)
 * [Decoding JSON Structures With Elm - Josh Clayton](https://robots.thoughtbot.com/decoding-json-structures-with-elm)
 * [json-to-elm - Noah Hall](https://github.com/eeue56/json-to-elm)
@@ -1119,6 +1131,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ErlangSolutions Youtube videos](https://www.youtube.com/user/ErlangSolutions)
 * [Introduction to Erlang - Steven Proctor (LambdaConf 2015)](https://www.youtube.com/watch?v=0YpCBRJJtPg)
 * [That's "Billion" With a "B": Scaling to the Next Level at WhatsApp - Rick Reed (Erlang Factory SF 2014)](https://www.youtube.com/watch?v=c12cYAUTXXs)
+* [Scaling Distributed Erlang - Zandra Norman (ElixirConfEU 2016)](https://www.youtube.com/watch?v=usEs3GPnZDg) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/074/original/Zandra_Norman_ScalingDistributedErlang.pdf?1462891793)
 * [Erlang Master Classes](https://www.youtube.com/watch?v=gKRyAb7d8lo&list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5&index=1)
 * [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
 * [An Introduction to Erlang (for Python programmers) - Paul Barry](https://www.youtube.com/watch?v=yRJZxV8uPhg)
@@ -1881,6 +1894,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [React tutorial series - LearnCode.academy](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 * [Thinking in React - Pete Hunt](https://facebook.github.io/react/docs/thinking-in-react.html)
 * Learn React, Flux, and Flow - Colin Megill: [Part 1](https://www.youtube.com/watch?v=Pd6Ub7Ju2RM) | [Part 2](https://www.youtube.com/watch?v=iR22EWW-CVc)
+* [React Tutorial - Hackerati.us](https://www.gitbook.com/book/hackerati/react-tutorial/details)
 * [React and Flux: Building Applications with a Unidirectional Data Flow - Bill Fisher and Jing Chen (Forward.JS 2014)](https://www.youtube.com/watch?v=i__969noyAM)
 * [Secrets of the Virtual DOM - Pete Hunt (Barcelona Future Javascript)](https://www.youtube.com/watch?v=-DX3vJiqxm4)
 * [React and Rails](http://rny.io/rails/react/2014/07/31/reactjs-and-rails.html)
@@ -2010,6 +2024,16 @@ Links to resources I have found useful or think might be helpful to future me or
 ### LINUX - AWK
 
 * [Awk in 20 Minutes - Fred T-H](http://ferd.ca/awk-in-20-minutes.html)
+
+### LINUX - NETWORKING
+
+#### LINUX - NETWORKING - SOCAT
+
+* [Documentation (man page)](http://www.dest-unreach.org/socat/doc/socat.html)
+* [HOWTO: Crafting arbitrary network packets with socat - Julian Oliver](https://discourse.criticalengineering.org/t/howto-crafting-arbitrary-network-packets-with-socat/51)
+* [Socat: A very powerful networking tool - Jesus Castello](https://www.blackbytes.info/2012/07/socat-cheatsheet/)
+* [Hands-on learning about network protocols using socat - Volker Schatz](http://www.volkerschatz.com/net/socatproc.html)
+* [Securing Traffic Between two Socat Instances Using SSL - Gerhard Rieger](http://www.dest-unreach.org/socat/doc/socat-openssltunnel.html)
 
 ### LINUX - SHELL SCRIPTING (BASH)
 
@@ -2190,6 +2214,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Quanta Magazine](https://www.quantamagazine.org)
 * [Science Daily](http://www.sciencedaily.com/)
 * [TED Science](http://www.ted.com/talks?topics[]=science)
+* [The Register](http://www.theregister.co.uk/science/)
 * [Wired](http://www.wired.com/category/science)
 * [World Science Festival](http://www.worldsciencefestival.com/)
 
@@ -2199,6 +2224,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Infosecurity](http://www.infosecurity-magazine.com/news/)
 * [(In)Secure](http://www.net-security.org/)
 * [ReadWrite](http://readwrite.com/category/data-and-security/)
+* [The Register](http://www.theregister.co.uk/security/)
 
 ### NEWS - TECH
 
@@ -2221,6 +2247,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Inhabit](http://inhabitat.com/news/)
 * [Live Science](http://www.livescience.com/technology/)
 * [Mashable](http://mashable.com/tech/)
+* [Medium](https://medium.com/browse/b3ee72d38ca4)
 * [Motherboard](http://motherboard.vice.com/en_us)
 * [The Next Web](http://thenextweb.com/section/tech/)
 * [NPR](http://www.npr.org/sections/technology/ )
@@ -2228,12 +2255,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Phys.org](http://phys.org/technology-news/)
 * [Re/Code](http://recode.net)
 * [ReadWrite](http://readwrite.com)
+* [The Register](http://www.theregister.co.uk/)
 * [Reuters](http://www.reuters.com/news/technology)
 * [ScienceDaily](http://www.sciencedaily.com/news/matter_energy/technology/)
 * [Singularity Hub](http://singularityhub.com/)
 * [Slashdot](http://slashdot.org/)
 * [The Stack](https://thestack.com/)
 * [Star Talk Radio](http://www.startalkradio.net)
+* [Tech.co](http://tech.co/)
 * [TechCrunch](http://techcrunch.com/)
 * [Tech Radar](http://www.techradar.com/us/news)
 * [TechHive](http://www.techhive.com/news)
@@ -2386,6 +2415,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Codeless Code - Qi](http://thecodelesscode.com/contents)
 * [Essential Coding Theory - Venkatesan Guruswami, Atri Rudra and Madhu Sudan](http://www.cse.buffalo.edu/faculty/atri/courses/coding-theory/book/)
 * [Foundations of Computer Science - Al Aho and Jeff Ullman](http://infolab.stanford.edu/~ullman/focs.html)
+* [GitBook.com](https://www.gitbook.com/explore/topics)
 * [How to Design Programs - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi](http://htdp.org/2003-09-26/)
 * [Introduction to Computing: Explorations in Language, Logic and Machines - David Evans](http://www.computingbook.org/) | [PDF](http://www.computingbook.org/FullText.pdf) | [Read online](https://www.otexts.org/book/intro-computing)
 * [Patterns of Software - Richard P. Gabriel](http://dreamsongs.com/Files/PatternsOfSoftware.pdf)
