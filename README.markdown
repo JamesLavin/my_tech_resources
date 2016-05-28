@@ -27,11 +27,20 @@ Links to resources I have found useful or think might be helpful to future me or
 * [List of free programming books (many languages)](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [List of free programming books - CodeInfo.info](http://isn.codelab.info/ressources/livres-numeriques/free-programming-books/)
 
-## BROWSER AUTOMATION
+## BROWSERS
+
+### BROWSERS - AUTOMATION
 
 * [Nightmare](https://github.com/segmentio/nightmare)
 * [Phantom.js](http://phantomjs.org/)
 * [Selenium](http://docs.seleniumhq.org/)
+
+### BROWSERS - PLUGINS/EXTENSIONS
+
+#### BROWSERS - PLUGINS/EXTENSIONS - CHROME
+
+* [Documentation](https://developer.chrome.com/extensions) | [Overview](https://developer.chrome.com/extensions/overview) | [Examples](https://developer.chrome.com/extensions/samples) | [CodeLab](https://developer.chrome.com/apps/app_codelab_intro) | [Developer's Guide](https://developer.chrome.com/extensions/devguide)
+* [Javascript APIs](https://developer.chrome.com/extensions/api_index)
 
 ## BUSINESS
 
@@ -962,7 +971,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * elm-goban: [Play](http://mclauia.github.io/elm-goban/) | [Github](https://github.com/mclauia/elm-goban)
 * [capodicis-notes: Chrome extension that allows you to make notes on webpages & mark them as "done" and summarize pages - mcapodici](https://github.com/mcapodici/capodicis-notes)
 * [sketch-n-sketch - Ravi Chugh et al.](http://ravichugh.github.io/sketch-n-sketch/)
+* [take-home: open-source project with every server-side and client-side component written in Elm - NoRedInk](https://github.com/NoRedInk/take-home) | [Wiki (with good notes about Elm Native](https://github.com/NoRedInk/take-home/wiki)
 * [elm-flatris - Andrey Kuzmin](https://github.com/w0rm/elm-flatris)
+* [Highcharts.js integration in Elm - San Gillis](http://sgillis.github.io/posts/2016-03-25-highcharts-integration-in-elm.html)
 * [Celestia - John P. Mayer](https://github.com/johnpmayer/celestia)
 * [Chess - Grzegorz Balcerek](https://github.com/grzegorzbalcerek/chess-elm/tree/master/Chess)
 * Connect Four: [Jack Franklin](https://github.com/jackfranklin/elm-connect-four) | [Brad Urani](https://github.com/bradurani/connect-four-elm)
@@ -2106,6 +2117,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### LINUX - SYSTEM ADMINISTRATION
 
 * [Sysadmincasts.com](http://sysadmincasts.com/)
+
+### LINUX - UBUNTU
+
+* [UpUbuntu](http://www.upubuntu.com/)
 
 ## LISP
 
