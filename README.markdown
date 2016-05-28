@@ -210,6 +210,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Data Repositories - Jerry Smith](http://datascientistinsights.com/2013/10/07/data-repositories-mothers-milk-for-data-scientists/#!)
 * [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
 * [Freebase.com](http://www.freebase.com/)
+* [Kaggle.com Datasets](https://www.kaggle.com/datasets)
 * [Public datasets - ScaleUnlimited.com](http://www.scaleunlimited.com/datasets/public-datasets/)
 * [UCL Data Science Student Challenge 2016](http://kenji.azurewebsites.net/?p=301)
 * [Where can I find large datasets open to the public?](http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
@@ -218,6 +219,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## DATA - ANALYSIS
 
+* [Kaggle.com](https://www.kaggle.com/)
 * [Data Driven NYC videos (Nov 2014)](https://www.youtube.com/channel/UCQID78IY6EOojr5RUdD47MQ/videos)
 
 ### DATA - APIS
@@ -430,9 +432,21 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - DOCKER
 
-* Docker docs: [User Guide](https://docs.docker.com/userguide/) | [Articles](https://docs.docker.com/articles/) | [Examples](https://docs.docker.com/examples/nodejs_web_app/) | [Installation](https://docs.docker.com/installation/) | [Linking Containers Together](Linking Containers Togethe://docs.docker.com/userguide/dockerlinks/) | 
+* Docker docs:
+    * [User Guide](https://docs.docker.com/userguide/)
+    * [Articles](https://docs.docker.com/articles/)
+    * [Examples](https://docs.docker.com/examples/nodejs_web_app/)
+    * [Installation](https://docs.docker.com/installation/)
+    * [Linking Containers Together](Linking Containers Togethe://docs.docker.com/userguide/dockerlinks/)
+    * [Docker Engine](https://docs.docker.com/engine/quickstart/)
+    * [Docker Swarm](Understanding the architecture](https://docs.docker.com/engine/understanding-docker/)
+    * [Docker Compose](https://docs.docker.com/compose/overview/)
+    * [Docker Hub](https://docs.docker.com/docker-hub/overview/)
+    * [Docker Machine](https://docs.docker.com/machine/overview/)
+    * [Docker Cloud](https://docs.docker.com/docker-cloud/overview/)
 * Docker Tutorials: [1: Installing Docker](https://www.youtube.com/watch?v=bV5vbNK3Uhw) | [2: Docker Run Basics](https://www.youtube.com/watch?v=uTe08FxoKrU) | [3: Fun With Volumes](https://www.youtube.com/watch?v=rlK1JYsM6Aw) | [4: More Run With Extra Goodies](https://www.youtube.com/watch?v=ZgjHM1XmAKI) | [5: Basic Networking](https://www.youtube.com/watch?v=3uvqEC8fWV0) | [6: Dockerfiles (Part 1)](https://www.youtube.com/watch?v=gG_x28rDxus) | [7: Dockerfiles (Part 2)](https://www.youtube.com/watch?v=L6bjTlVdc6U) | [8: Troubleshooting with Sysdig](https://www.youtube.com/watch?v=S-fYCOMnsbY) | [9: Docker Machine](https://www.youtube.com/watch?v=3zXe3uXQnSY) | [10: Docker Compose](https://www.youtube.com/watch?v=gtoT0By8yh4) | [11: Docker Swarm](ihttps://www.youtube.com/watch?v=zTKGfPfhg78) | [12: Kitematic](https://www.youtube.com/watch?v=50IZ-AHPKo0) | [13: Getting Started with experimental Docker Networking](https://www.youtube.com/watch?v=gZ6UKym9ZIs) | [Full List](https://www.youtube.com/playlist?list=PLkA60AVN3hh_6cAz8TUGtkYbJSL2bdZ4h)
 * Docker videos: [Youtube](https://www.youtube.com/user/dockerrun) | [Confreaks](http://confreaks.tv/search?utf8=%E2%9C%93&query=Docker&commit=go)
+* [Docker for Data Scientists - Michelangelo D'Agostino (Strata 2016)](https://www.youtube.com/watch?v=GOW6yQpxOIg)
 * [DockerCon 2015](https://www.youtube.com/watch?v=DfHcN3ZvjjU&list=PLenh213llmcbpJ78mZdh5pnJ_feVT9bez)
 * [Docker 101: Introduction to Docker - Andrew T. Baker (PyCon 2015)](https://www.youtube.com/watch?v=YiZkHUbE6N0) & [Demystifying Docker - Andrew T. Baker (PyCon 2015)](https://www.youtube.com/watch?v=GVVtR_hrdKI)
 * [The Docker Book - James Turnbull](http://dockerbook.com/)
@@ -674,6 +688,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## ELIXIR
 
 * Elixir: [Docs](http://elixir-lang.org/docs.html) & [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html) & [Elixir-lang-talk group](https://groups.google.com/forum/?fromgroups#!forum/elixir-lang-talk) & [Elixir Core mailing list](https://groups.google.com/forum/#!forum/elixir-lang-core) & [ElixirForum.com](http://elixirforum.com/)
+* [Cheatsheet](https://www.dropbox.com/s/lr1t87rw4wfnyb3/elixir-cheat-sheet-v2.pdf?dl=0)
 * [What Elixir is About - José Valim (Erlang Factory SF 2015)](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
 * [Elixir with José Valim](http://howistart.org/posts/elixir/1)
 * [Building a web framework from scratch in Elixir - Robert Lord](https://codewords.recurse.com/issues/five/building-a-web-framework-from-scratch-in-elixir)
@@ -685,6 +700,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Koans - Nicolas Deverge](https://github.com/dojo-toulouse/elixir-koans)
 * [Introducing reducees - José Valim](http://blog.plataformatec.com.br/2015/05/introducing-reducees/)
 * Elixir Express: [Workshop - Chris McCord (RailsConf 2014)](http://www.youtube.com/watch?v=5kYmOyJjGDM) & [Basic documentation](https://github.com/chrismccord/elixir_express/tree/master/basics) & [Advanced documentation](https://github.com/chrismccord/elixir_express/tree/master/advanced)
+* [Elixir for the Rubyist - Hal Fulton (RubyDay 2015)](https://www.youtube.com/watch?v=UNWPp5YSDXQ)
 * [Elixir With José Valim - HowIStart.org](https://howistart.org/posts/elixir/1)
 * [What's Ahead for Elixir? - José Valim (ElixirConf EU 2015)](https://www.youtube.com/watch?v=EaP0y4pdKD0)
 * [Elixir: Power of Erlang, Joy of Ruby - Dave Thomas (LoneStarRuby 2013)](https://www.youtube.com/watch?v=KQwEmdOH-GM)
@@ -797,8 +813,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PHOENIX
 
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
+* [Rails to Phoenix - Brian Cardarella (RailsConf 2016)](https://www.youtube.com/watch?v=OxhTQdcieQE)
 * [Taking Off With Phoenix - Sonny Scroggin (Erlang Factory SF 2016)](https://www.youtube.com/watch?v=eSWNi5vRxU8)
 * [New Heights - Chris McCord (ElixirDaze 2016)](https://www.youtube.com/watch?v=E6RTBlO9TZQ)
+* Building Phoenix Battleships - Ricardo García Vega: [1: Designing the game mechanics](http://codeloveandboards.com/blog/2016/04/29/building-phoenix-battleship-pt-1/) | [2: Lobby Channel & Game Supervision](http://codeloveandboards.com/blog/2016/05/03/building-phoenix-battleship-pt-2/) | [3: Game setup](http://codeloveandboards.com/blog/2016/05/21/building-phoenix-battleship-pt-3/)
 * [Phoenix a web framework for the new web - José Valim (Lambda Days 2016)](https://www.youtube.com/watch?v=MD3P7Qan3pw)
 * [Phoenix is not Rails - Chris McCord](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails)
 * [Intro to Phoenix - José Valim (Elixir Warsaw Meetup)](https://www.youtube.com/watch?v=3LiLjVCDEpU)
@@ -868,6 +886,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Building a non-trivial robotic brain in Elixir - Jean F. Cloutier (Boston Elixir - January 2016)](https://www.youtube.com/watch?v=K4od_XhuMrk) & [Robot.ex blog](http://jfcloutier.github.io/robotex/)
 * [ExSamples: Initializes lists of maps, structs or keyword lists using tabular data in Elixir - Marlus Saraiva](https://github.com/msaraiva/exsamples)
 
+### ELIXIR - SECURITY
+
+* [Securing Elixir Applications - Bram Verburg (ElixirConfEU 2016)](https://www.youtube.com/watch?v=r0DuAse9tK8) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/078/original/Bram_Verburg_-_Securing_Elixir_Applications.pdf?1462946275)
+
 ### ELIXIR - STREAMS
 
 * [How to build Streams in Elixir easily with Stream.resource/3 Awesomeness - Benjamin Tan](http://benjamintan.io/blog/2015/02/05/how-to-build-streams-in-elixir-easily-with-stream-resource-awesomeness/)
@@ -926,6 +948,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [elm-lang.org/blog](http://elm-lang.org/blog)
 * [Gizra](http://www.gizra.com/tags.html#Elm-ref)
 * [Magnus Rundberget](http://rundis.github.io/blog/)
+* [Simon Hampton](http://simonh1000.github.io/blog/)
 
 ### ELM - CODE EXAMPLES
 
@@ -942,7 +965,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [elm-flatris - Andrey Kuzmin](https://github.com/w0rm/elm-flatris)
 * [Celestia - John P. Mayer](https://github.com/johnpmayer/celestia)
 * [Chess - Grzegorz Balcerek](https://github.com/grzegorzbalcerek/chess-elm/tree/master/Chess)
-* [Connect Four - Brad Urani](https://github.com/bradurani/connect-four-elm)
+* Connect Four: [Jack Franklin](https://github.com/jackfranklin/elm-connect-four) | [Brad Urani](https://github.com/bradurani/connect-four-elm)
 * [Dreamwriter - Richard Feldman](https://github.com/rtfeldman/dreamwriter)
 * [Using Elm to Create a Fun Game in Just Five Days - Kolja Wilcke & Andrey Kuzmin](https://tech.zalando.com/blog/using-elm-to-create-a-fun-game-in-just-five-days/) & [Progress recap: Elm Street 404 - ](https://tech.zalando.com/blog/progress-recap-elm-street-404/)
 * [Elm Checkerboard Tutorial - Hassan Hayat](https://github.com/TheSeamau5/elm-checkerboardgrid-tutorial)
@@ -1010,6 +1033,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [elm-route-hash - Ryan Rempel](https://github.com/rgrempel/elm-route-hash)
 * [elm-undo-redo - Hassan Hayat](https://github.com/TheSeamau5/elm-undo-redo)
 * [elm-web-api - Ryan Rempel](https://github.com/rgrempel/elm-web-api)
+
+### ELM - PHOENIX & ELM
+
+* [Connecting Elm with Phoenix using Channels - Simon Hampton](http://simonh1000.github.io/2016/05/elm-phoenix-channels/)
 
 ### ELM - PODCASTS
 
@@ -1260,6 +1287,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Functors, Applicatives, And Monads In Pictures - Aditya Y. Bhargava](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 * [A Fistful of Monads (Learn You a Haskell)](http://learnyouahaskell.com/a-fistful-of-monads)
+* [Understand Monads with this One Weird Trick - Andy Bartholomew](https://realm.io/news/slug-andy-bartholomew-understand-monads-one-weird-trick/)
 * [All About Monads](https://wiki.haskell.org/All_About_Monads) | [PDF version](http://www.cs.rit.edu/~swm/cs561/All_About_Monads.pdf)
 * [The Monad Challenges - Doug Beardsley](http://mightybyte.github.io/monad-challenges/)
 * [Monads Asking the Right Question - Pawel Szulc (LambdaConf 2015)](https://www.youtube.com/watch?v=FvZ_QhcbTCc)
@@ -1479,6 +1507,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Javascript.com](https://www.javascript.com/resources)
 * [Learning JavaScript Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Essential JavaScript Links - Eric Elliott](https://github.com/ericelliott/essential-javascript-links/)
 * [JavaScript tips](https://code.google.com/p/jslibs/wiki/JavascriptTips)
 * [Visualize JavaScript code execution](http://www.pythontutor.com/visualize.html)
 * [SuperheroJS - curated JavaScript links](http://superherojs.com/)
@@ -1912,6 +1941,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [React.js Conf 2015](https://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr)
 
+### JAVASCRIPT - REDUX
+
+* [The Problem with Redux... And How to Fix It - Matthew Gertner](http://blog.javascripting.com/2016/05/21/the-problem-with-redux-and-how-to-fix-it/)
+* [redux-elm: The Elm Architecture in JavaScript - Matthew Gertner](https://github.com/salsita/redux-el://github.com/salsita/redux-elm) | [online book of example code](http://salsita.github.io/redux-elm/)
+
 ### JAVASCRIPT - TESTING
 
 * [Zero to Testing in Javascript - Pamela Selle (QConn New York 2014)](http://www.infoq.com/presentations/tdd-javascript-2014)
@@ -1987,6 +2021,19 @@ Links to resources I have found useful or think might be helpful to future me or
 ## JULIA
 
 * [Julia: high-level, high-performance dynamic programming language for technical computing](http://julialang.org/)
+
+## KIDS
+
+* [Scratch](https://scratch.mit.edu/)
+* [Scratch Jr.](https://www.scratchjr.org/)
+* [Star Wars - Code.org](https://code.org/starwars)
+* [Minecraft - Code.org](https://code.org/mc)
+* [Free kids courses - Pluralsight.com](https://www.pluralsight.com/kids-courses)
+* [Pencilcode.net](http://pencilcode.net/)
+* [Free Code Camp](https://www.freecodecamp.com/map#nested-collapseBasicJavaScript)
+* [Tynker](https://www.tynker.com) (NOT FREE: [Access to everything requires a paid subscription](https://www.tynker.com/courses/))
+* [Cool Coding Apps and Websites for Kids - CommonsenseMedia.org](https://www.commonsensemedia.org/lists/coding-apps-and-websites)
+* [Coding for Kids: Free Websites That Teach Kids Programming](http://mommypoppins.com/coding-kids-free-websites-teach-learn-programming)
 
 ## LEGAL
 
@@ -2210,11 +2257,13 @@ Links to resources I have found useful or think might be helpful to future me or
 ### NEWS - SCIENCE
 
 * [Aeon](https://aeon.co/science)
+* [Neuroscience News](http://neurosciencenews.com/neuroscience-topics/featured/)
 * [Phys.org](http://phys.org/)
 * [Quanta Magazine](https://www.quantamagazine.org)
 * [Science Daily](http://www.sciencedaily.com/)
 * [TED Science](http://www.ted.com/talks?topics[]=science)
 * [The Register](http://www.theregister.co.uk/science/)
+* [The Verge](http://www.theverge.com/science)
 * [Wired](http://www.wired.com/category/science)
 * [World Science Festival](http://www.worldsciencefestival.com/)
 
@@ -2249,6 +2298,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Mashable](http://mashable.com/tech/)
 * [Medium](https://medium.com/browse/b3ee72d38ca4)
 * [Motherboard](http://motherboard.vice.com/en_us)
+* [Neuroscience News - Robotics](http://neurosciencenews.com/neuroscience-topics/robotics-2/)
+* [New Scientist](https://www.newscientist.com/subject/technology/)
 * [The Next Web](http://thenextweb.com/section/tech/)
 * [NPR](http://www.npr.org/sections/technology/ )
 * [PC Mag](http://www.pcmag.com/news)
@@ -2653,6 +2704,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Comparison With R / R Libraries](http://pandas.pydata.org/pandas-docs/stable/comparison_with_r.html)
     * [Comparison With SQL](http://pandas.pydata.org/pandas-docs/stable/comparison_with_sql.html)
     * [API Reference](http://pandas.pydata.org/pandas-docs/stable/api.html)
+* [Modern Pandas (7-part series) - Tom Augspurger](https://tomaugspurger.github.io/modern-1.html)
 * [Visual Guide to Pandas - Jason Wirth (ChiPy 2013)](https://www.youtube.com/watch?v=9d5-Ti6onew)
 * [Pandas tutorials - PyData.org](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
 * [Things in Pandas I Wish I'd Had Known Earlier - Sebastian Raschka](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb)
