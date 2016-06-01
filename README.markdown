@@ -490,9 +490,27 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - DOCKER - MULTIHOST ORCHESTRATION
 
-* [Compose](http://docs.docker.com/compose/)
 * [Dacker Ruby gem](https://github.com/talkingquickly/dacker)
 * [Tools Built on Top of The Docker API - Vassili Van Der Mersch](http://nordicapis.com/tools-built-on-top-of-the-docker-api/)
+
+##### DEVOPS - DOCKER - MULTIHOST ORCHESTRATION - CENTURION
+
+* [Centurion - NewRelic](https://github.com/newrelic/centurion)
+
+##### DEVOPS - DOCKER - MULTIHOST ORCHESTRATION - COMPOSE & SWARM
+
+* [Compose - Docker](http://docs.docker.com/compose/)
+* Sebastien Goasguen: [Intro to Docker Compose Tool for Multi-Container Applications](https://www.linux.com/learn/introduction-docker-compose-tool-multi-container-applications) | [Docker Volumes and Networks with Compose](https://www.linux.com/learn/docker-volumes-and-networks-compose)
+* [Webinar Recording: Docker Compose: Simplifying Container Automation - Shawn Powers & Nathan Bank](https://www.youtube.com/watch?v=11jfxkuI0l4)
+* [How To Install Wordpress and PhpMyAdmin with Docker Compose on Ubuntu 14.04 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-and-phpmyadmin-with-docker-compose-on-ubuntu-14-04)
+* [How To Configure a Continuous Integration Testing Environment with Docker and Docker Compose on Ubuntu 14.04 - Pablo Chico de Guzmán](https://www.digitalocean.com/community/tutorials/how-to-configure-a-continuous-integration-testing-environment-with-docker-and-docker-compose-on-ubuntu-14-04)
+* [Docker Compose & Networking - Mano Marks](https://www.youtube.com/watch?v=rFQqiuFIjms)
+* [Docker Compose Files Version 2](https://www.youtube.com/watch?v=EReEOMS7gsk)
+* [Docker Swarm Part 1: Overview](https://www.youtube.com/watch?v=sg9wNcdMhbU) | [Part 2: Discovery](https://www.youtube.com/watch?v=4t7nej89dk4) | [Part 3: Scheduling](https://www.youtube.com/watch?v=7B_bX3czq-Y) | [Part 4: High Availability](https://www.youtube.com/watch?v=YjlH8ypkXOM) | [Part 5: Networking](https://www.youtube.com/watch?v=XemATdk8mY4) | [Part 6: Volumes](https://www.youtube.com/watch?v=Zxe0WAzPcjY)
+
+##### DEVOPS - DOCKER - MULTIHOST ORCHESTRATION - MESOS
+
+* [Mesos - Apache](http://mesos.apache.org/)
 
 #### DEVOPS - DOCKER - OSX
 
@@ -938,6 +956,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [Intro to Elm - Richard Feldman (2016)](https://www.youtube.com/watch?v=3_M2G9U51GA)
 * [Intro to Elm - Alan Gardner (2016)](https://vimeo.com/167092863)
+* [Understanding the Elm type system - Adam Waselnuk](http://www.adamwaselnuk.com/elm/2016/05/27/understanding-the-elm-type-system.html)
 * [Elm Cheat Sheet - Sergey Keller](https://github.com/izdi/elm-cheat-sheet)
 * [elm-by-example.org - Grzegorz Balcerek](http://elm-by-example.org/) | [code examples](https://github.com/grzegorzbalcerek/ElmByExample)
 * [jsbin-style Glot.io](https://glot.io/new/elm)
@@ -1065,7 +1084,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [servelm](https://github.com/eeue56/servelm)
 
-### ELM - SIGNALS
+### ELM - SIGNALS (REMOVED IN 0.17)
 
 * [Elm Flux: Visualization of Elm Signals - Yang Wei](https://yang-wei.github.io/elmflux/)
 * [A Step-to-step Guide to Elm Signals - Yang Wei](https://yang-wei.github.io/blog/2016/02/04/a-step-to-step-guide-to-elm-signal/)
