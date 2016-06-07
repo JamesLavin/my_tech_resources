@@ -1254,7 +1254,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional programming design patterns - Scott Wlaschin (New Developers Conference London 2014](https://www.youtube.com/watch?v=E8I19uA-wGY)
 * [Changing the Unchangeable: The Hows and Whys of Immutable Data Structures - Brad Urani (RubyConf 2015)](https://www.youtube.com/watch?v=gTClDj9Zl1g)
 * [Carefully Composing Logic: Functional JavaScript - Brad Urani (JS.la 2015)](http://fractalbanana.com/blog/2015/09/16/carefully-composing-logic-functional-javascript-video/)
-* Professor Frisby's Mostly Adequate Guide to Functional Programming: [Webpage](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [Online](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html) | [PDF](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [ePUB](https://www.gitbook.com/download/epub/book/drboolean/mostly-adequate-guide) | [MOBI](https://www.gitbook.com/download/mobi/book/drboolean/mostly-adequate-guide)
+* Professor Frisby's Mostly Adequate Guide to Functional Programming: [Webpage](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [Online](http://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html) | [PDF](https://www.gitbook.com/download/pdf/book/drboolean/mostly-adequate-guide) | [ePUB](https://www.gitbook.com/download/epub/book/drboolean/mostly-adequate-guide) | [MOBI](https://www.gitbook.com/download/mobi/book/drboolean/mostly-adequate-guide) | [Videos](https://www.youtube.com/playlist?list=PLK_hdtAJ4KqX0JOs_KMAmUNTNMRYhWEaC)
 * [A purely functional approach to building large applications - Noel Markham (Lambda Days 2015)](https://www.youtube.com/watch?v=V1d3OYYez7s)
 * [Functional programming patterns for the non-mathematician - Brian Lonsdorf (FluentConf 2014)](https://www.youtube.com/watch?v=AvgwKjTPMmM)
 * [A Million Ways to Fold in JS - Brian Lonsdorf (Forward Summit 2015)](http://forwardjs.com/university/a-million-ways-to-fold-in-js)
@@ -1322,6 +1322,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Monad Challenges - Doug Beardsley](http://mightybyte.github.io/monad-challenges/)
 * [Monads Asking the Right Question - Pawel Szulc (LambdaConf 2015)](https://www.youtube.com/watch?v=FvZ_QhcbTCc)
 * [Monadic Design Patterns for the Web - Greg Meredith](https://channel9.msdn.com/Series/C9-Lectures-Greg-Meredith-Monadic-Design-Patterns-for-the-Web)
+
+### FUNCTIONAL PROGRAMMING - PODCASTS
+
+* [FunctionalGeekery.com](https://www.functionalgeekery.com)
 
 ## GIT
 
@@ -2566,7 +2570,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Cloudcast](http://www.thecloudcast.net/)
 * [Code Podcast](https://soundcloud.com/podcastcode)
 * [Dr. Dobbs TV](http://www.drdobbs.com/tv/) (Video)
+* [Elixir Fountain](https://soundcloud.com/elixirfountain)
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
+* [FunctionalGeekery.com](https://www.functionalgeekery.com)
 * [Giant Robots](http://giantrobots.fm/)
 * [Hansel Minutes](http://www.hanselminutes.com/)
 * [Herding Code](http://herdingcode.com/)
@@ -3170,6 +3176,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### PYTHON - LEARNING - VIDEOS
 
 * [PyVideo.org](http://www.pyvideo.org/category)
+* [PyCon 2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw/videos)
 * [Khan Academy](http://www.khanacademy.org/science/computer-science/v/introduction-to-programs-data-types-and-variables)
 * [Introduction to Computational Thinking and Data Science - MIT](https://www.edx.org/course/mitx/mitx-6-00-2x-introduction-computational-1505)
 * [Python Fundamentals Training](http://www.youtube.com/playlist?list=PL26BA8B9FC33789FF&feature=plcp)
@@ -4543,6 +4550,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [vim-ruby-refactoring](https://raw.githubusercontent.com/ecomba/vim-ruby-refactoring/master/doc/rubyrefactoring.txt) & [Check out this excellent refactoring plugin - Justin Ram](https://justinram.wordpress.com/2010/12/30/vim-ruby-refactoring-series/)
 * [vim-surround](https://raw.githubusercontent.com/tpope/vim-surround/master/doc/surround.txt)
 * [vim-textobj-rubyblock](https://github.com/nelstrom/vim-textobj-rubyblock) & [A text-object for ruby blocks - Drew Neil](http://vimcasts.org/blog/2010/12/a-text-object-for-ruby-blocks/)
+* [vim-unimpaired](https://github.com/tpope/vim-unimpaired) | [Unimpaired Cheatsheet](http://mindonmind.github.io/notes/vim/unimpaired.html)
 * [vundle](https://raw.githubusercontent.com/gmarik/vundle/master/doc/vundle.txt)
 
 ### VIM - JAVASCRIPT
