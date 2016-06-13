@@ -75,12 +75,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Peking Univesity EdX courses](https://www.edx.org/school/pekingx)
     * [魅力机器人 | The Fascinating World of Robots and Robotics](https://www.edx.org/course/mei-li-ji-qi-ren-fascinating-world-pekingx-00330280x-0)
     * [数据结构与算法第一部分 | Data Structures and Algorithms Part 1 (Beijing University)](https://www.edx.org/course/pekingx/pekingx-04830050x-shu-ju-jie-gou-yu-suan-2061) & [Part 2](https://www.edx.org/course/shu-ju-jie-gou-yu-suan-fa-di-er-bu-fen-pekingx-04830050-2x)
+    * [算法基础－Fundamental Algorithms](https://www.edx.org/course/fundamental-algorithms-suan-fa-ji-chu-pekingx-04831750-2x)
     * [Principles and Practice of Computer Aided Translation 计算机辅助翻译原理与实践](https://www.edx.org/course/pekingx/pekingx-01718330x-principles-practice-1484)
     * [人群与网络 | Networks and Crowds](https://www.edx.org/course/pekingx/pekingx-03131840x-ren-qun-yu-wang-luo-2536)
     * [程序设计基础 | Fundamentals of Programming](https://www.edx.org/course/pekingx/pekingx-532001x-cheng-xu-she-ji-ji-chu-2046)
     * [理论计算机科学基础 | Introduction to Theoretical Computer Science](https://www.edx.org/course/pekingx/pekingx-04830260x-li-lun-ji-suan-ji-ke-3011)
-* [Tsinghua University](https://www.edx.org/course/shu-ju-jie-gou-yu-suan-fa-di-er-bu-fen-pekingx-04830050-2x)
-    * [Data Structures • 数据结构](https://www.edx.org/course/data-structures-shu-ju-jie-gou-tsinghuax-30240184x-0) & [2014 course](https://www.edx.org/course/data-structures-shu-ju-jie-gou-tsinghuax-30240184x-0)
+* Tsinghua University
+    * [Data Structures and Algorithm Design Part I 数据结构与算法设计(上)](https://www.edx.org/course/data-structures-algorithm-design-part-i-tsinghuax-30240184-1x) | [Data Structures and Algorithm Design Part II 数据结构与算法设计(下)](https://www.edx.org/course/data-structures-algorithm-design-part-ii-tsinghuax-30240184-2x) | [Data Structures • 数据结构](https://www.edx.org/course/data-structures-shu-ju-jie-gou-tsinghuax-30240184x-0) | [2015 course - Data Structures and Algorithm Design 数据结构与算法设计](https://www.edx.org/course/data-structures-algorithm-design-shu-ju-tsinghuax-30240184x) | [2014 course](https://www.edx.org/course/data-structures-shu-ju-jie-gou-tsinghuax-30240184x-0)
 * [Elixir入门文档中文](https://github.com/elixir-lang-china/elixir_guide_cn)
 
 ### CHINESE - AUDIO
@@ -96,6 +97,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [The Chairman's Bao - Simplified Chinese newspaper](http://www.thechairmansbao.com/)
 * [JustLearnChinese.com](http://justlearnchinese.com/)
+
+* [HanziJS is a Chinese character and NLP module for Chinese language processing for Node.js](http://www.hanzijs.com/) | [Github](https://github.com/nieldlr/Hanzi)
 
 ### CHINESE - SCIENCE FICTION
 
@@ -507,6 +510,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Docker Compose & Networking - Mano Marks](https://www.youtube.com/watch?v=rFQqiuFIjms)
 * [Docker Compose Files Version 2](https://www.youtube.com/watch?v=EReEOMS7gsk)
 * [Docker Swarm Part 1: Overview](https://www.youtube.com/watch?v=sg9wNcdMhbU) | [Part 2: Discovery](https://www.youtube.com/watch?v=4t7nej89dk4) | [Part 3: Scheduling](https://www.youtube.com/watch?v=7B_bX3czq-Y) | [Part 4: High Availability](https://www.youtube.com/watch?v=YjlH8ypkXOM) | [Part 5: Networking](https://www.youtube.com/watch?v=XemATdk8mY4) | [Part 6: Volumes](https://www.youtube.com/watch?v=Zxe0WAzPcjY)
+* [Docker swarm cluster in AWS - Rafael Benevides](https://www.youtube.com/watch?v=JgUyI-MIKZ0)
 
 ##### DEVOPS - DOCKER - MULTIHOST ORCHESTRATION - MESOS
 
@@ -773,6 +777,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - BLOGS
 
 * [The Erlang eList](http://theerlangelist.com/)
+* [Plataformatec](http://blog.plataformatec.com.br/tag/elixir/)
 * [The Pug Automatic - Henrik Nyh](http://thepugautomatic.com/)
 
 ### ELIXIR - BOOKS
@@ -791,6 +796,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - DEPLOYMENT
 
 * exrm: [source](https://github.com/bitwalker/exrm) | [docs](https://github.com/bitwalker/exrm/tree/master/docs) | [more docs](https://hexdocs.pm/exrm/extra-getting-started.html)
+* Edeliver: [Github](https://github.com/boldpoker/edeliver) | [Deploying Elixir applications with Edeliver - Igor Florian](http://blog.plataformatec.com.br/2016/06/deploying-elixir-applications-with-edeliver/)
 * conform: [source](https://github.com/bitwalker/conform)
 * [Deploying Phoenix Applications with Exrm [and Conform] - Brandon Richey](https://medium.com/@diamondgfx/deploying-phoenix-applications-with-exrm-97a3867ebd04#.ke7uldpb4)
 * [Fast Continuous Deployment of an Elixir Gameserver - Martin Kavalar & Martin Schurrer](https://www.youtube.com/watch?v=RoT8RnQHvgo)
@@ -1395,10 +1401,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
 * [Real World Haskell - Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/read/)
 * [Gentle Introduction to Haskell 98 - Paul Hudak, John Peterson & Joseph Fasel](https://www.haskell.org/tutorial/haskell-98-tutorial.pdf)
-* [Haskell Programming From First Principles - Christopher Allen & Julie Moronuki](http://haskellbook.com/) [NON-FREE but excellent] | [Exercises and notes for book "Haskell Programming from first principles" - Lukas Lehner](http://lukleh.github.io/haskell-book-excercises/)
+* [Haskell Programming From First Principles - Christopher Allen & Julie Moronuki](http://haskellbook.com/) [NON-FREE but excellent] | [Exercises and notes for book "Haskell Programming from first principles" - Lukas Lehner](http://lukleh.github.io/haskell-book-excercises/) | [Git repo with PDFs of all follow-up resources mentioned in HaskellBook](https://github.com/pushcx/hpffp-resources)
 * GHC User Guide: [PDF](https://downloads.haskell.org/~ghc/latest/docs/users_guide.pdf) | [HTML](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/index.html)
 * [Lazy Evaluation Illustrated for Haskell Divers - Takenobu T.](https://takenobu-hs.github.io/downloads/haskell_lazy_evaluation.pdf)
 * [Introduction to Haskell (lecture notes & code) - Noam Zilberstein (UPenn, Spring 2015)](http://www.seas.upenn.edu/~cis194/lectures.html)
+* [Parallel and Concurrent Programming in Haskell - Simon Marlow](http://chimera.labs.oreilly.com/books/1230000000929/index.html)
 
 ### HASKELL - CODE EXAMPLES
 
@@ -1434,10 +1441,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Introduction to Functional Programming - Erik Meijer](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 * [Functional Programming Fundamentals - Erik Meijer](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals)
 * [Learn Haskell in One Video - Derek Banas](https://www.youtube.com/watch?v=02_H3LjqMr8)
+* [Haskell Basics - FunFunFunction #35](https://www.youtube.com/watch?v=j5a9l1Td2Lo)
+* [Haskell Stack Mega-Tutorial - Christopher Allen](https://www.youtube.com/watch?v=sRonIB8ZStw)
 * [A Practical Introduction to Haskell GADTs - Richard Eisenberg (LambdaConf 2015)](https://www.youtube.com/watch?v=6snteFntvjM)
 * [A History of Haskell: Being Lazy With Class - Arthur Vard](https://www.youtube.com/watch?v=3bjXGrycMhQ)
 * Adventure With Types in Haskell - Simon Peyton Jones: [Lecture 1](https://www.youtube.com/watch?v=6COvD8oynmI) | [Lecture 2](https://www.youtube.com/watch?v=brE_dyedGm0)
 * [Classes, Jim, but not as we know them - Simon Peyton Jones (Microsoft Development Center Copenhagen TechTalk)](https://channel9.msdn.com/posts/MDCC-TechTalk-Classes-Jim-but-not-as-we-know-them)
+* [Beginner's Guide to Exceptions in Haskell - Erin Swenson-Healey](https://www.youtube.com/watch?v=PWS0Whf6-wc)
 * [Fun with type functions - Simon Peyton Jones (Microsoft Development Center Copenhagen TechTalk)](https://channel9.msdn.com/posts/MDCC-TechTalk-Fun-with-type-functions)
 * [Haskell Amuse-Bouche - Mark Lentczner (GoogleTechTalks 2011)](https://www.youtube.com/watch?v=b9FagOVqxmI)
 * [Many videos on Purescript & Haskell - kritzcreek](https://www.livecoding.tv/kritzcreek/videos/)
@@ -1526,6 +1536,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### HTML5 - WEB WORKERS
 
+* [Fundamentals of HTML5 Web Workers - Craig Shoemaker](https://www.youtube.com/playlist?list=PLTGuLY9dBAgCEpYU_qWvoHIihbZILSQ9D)
 * [Using Web Workers (Mozilla MDN)](https://developer.mozilla.org/en-US/docs/Web/Guide/Performance/Using_web_workers)
 
 ## INFLUXDB
@@ -1541,6 +1552,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Javascript.com](https://www.javascript.com/resources)
 * [Learning JavaScript Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Learn JavaScript - Codecademy](https://www.codecademy.com/learn/javascript)
 * [Essential JavaScript Links - Eric Elliott](https://github.com/ericelliott/essential-javascript-links/)
 * [JavaScript tips](https://code.google.com/p/jslibs/wiki/JavascriptTips)
 * [Visualize JavaScript code execution](http://www.pythontutor.com/visualize.html)
@@ -1838,6 +1850,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - FUNCTIONAL PROGRAMMING
 
+* [Functional programming in JavaScript - Mattias Petter Johansson](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 * [Functional Javascript - Dr. Gleb Bahmutov](https://glebbahmutov.com/blog/tags/functional/)
 * [Functional Layout - Updating the DOM at 60FPS - David Valdman (JS Conf EU 2015)](http://confreaks.tv/videos/jsconfeu2015-functional-layout-updating-the-dom-at-60fps)
 * [Functional programming and curry cooking in JS - Stefanie Schirmer (JS Conf EU 2015)](http://confreaks.tv/videos/jsconfeu2015-functional-programming-and-curry-cooking-in-js)
@@ -2016,8 +2029,15 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - VIDEOS
 
+* [FunFunFunction](https://www.youtube.com/playlist?list=PL0zVEGEvSaeFSwPn06GKArptSxiP1Gff8)
 * [JS Remote Conf 2015](https://www.youtube.com/watch?v=sIWekh32LG4&list=PLt8NYnKC3dzL95z5xksIZHxFjErPlC3Xq)
 * [JS Conf EU 2015](http://confreaks.tv/events/jsconfeu2015)
+
+### JAVSCRIPT - WEB SCRAPING
+
+* [JavaScript Web Scraping - Gregory Petukhov](https://github.com/lorien/awesome-web-scraping/blob/master/javascript.md)
+* [Web scraping with JavaScript - Igor Savinkin](http://scraping.pro/web-scraping-with-javascript-load-html-page/)
+* [Artoo.js: client-side scraping companion](https://medialab.github.io/artoo/)
 
 ## JEKYLL
 
@@ -2565,6 +2585,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### PROGRAMMING - PODCASTS
 
+* [a16z - Andreessen Horowitz](http://a16z.com/podcasts/)
 * [The Bikeshed](http://bikeshed.fm/)
 * [The Changelog](https://changelog.com/podcast/)
 * [The Cloudcast](http://www.thecloudcast.net/)
