@@ -42,6 +42,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Documentation](https://developer.chrome.com/extensions) | [Overview](https://developer.chrome.com/extensions/overview) | [Examples](https://developer.chrome.com/extensions/samples) | [CodeLab](https://developer.chrome.com/apps/app_codelab_intro) | [Developer's Guide](https://developer.chrome.com/extensions/devguide)
 * [Javascript APIs](https://developer.chrome.com/extensions/api_index)
 * [How to Make a Chrome Extension - Gabe Berke-Williams](https://robots.thoughtbot.com/how-to-make-a-chrome-extension)
+* [Extensionizr: Start a Chrome extension in 15 seconds](http://extensionizr.com)
 
 ## BUSINESS
 
@@ -461,7 +462,9 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Docker Hub](https://docs.docker.com/docker-hub/overview/)
     * [Docker Machine](https://docs.docker.com/machine/overview/)
     * [Docker Cloud](https://docs.docker.com/docker-cloud/overview/)
+* [Docker Self-Paced Training videos](https://training.docker.com/self-paced-training)
 * Docker Tutorials: [1: Installing Docker](https://www.youtube.com/watch?v=bV5vbNK3Uhw) | [2: Docker Run Basics](https://www.youtube.com/watch?v=uTe08FxoKrU) | [3: Fun With Volumes](https://www.youtube.com/watch?v=rlK1JYsM6Aw) | [4: More Run With Extra Goodies](https://www.youtube.com/watch?v=ZgjHM1XmAKI) | [5: Basic Networking](https://www.youtube.com/watch?v=3uvqEC8fWV0) | [6: Dockerfiles (Part 1)](https://www.youtube.com/watch?v=gG_x28rDxus) | [7: Dockerfiles (Part 2)](https://www.youtube.com/watch?v=L6bjTlVdc6U) | [8: Troubleshooting with Sysdig](https://www.youtube.com/watch?v=S-fYCOMnsbY) | [9: Docker Machine](https://www.youtube.com/watch?v=3zXe3uXQnSY) | [10: Docker Compose](https://www.youtube.com/watch?v=gtoT0By8yh4) | [11: Docker Swarm](ihttps://www.youtube.com/watch?v=zTKGfPfhg78) | [12: Kitematic](https://www.youtube.com/watch?v=50IZ-AHPKo0) | [13: Getting Started with experimental Docker Networking](https://www.youtube.com/watch?v=gZ6UKym9ZIs) | [Full List](https://www.youtube.com/playlist?list=PLkA60AVN3hh_6cAz8TUGtkYbJSL2bdZ4h)
+* [Docker tutorial videos - Scott Turnbull](https://www.youtube.com/playlist?list=PLLOtMDswK0Iu0m0wseAXTzavCWji7qso7)
 * Docker videos: [Youtube](https://www.youtube.com/user/dockerrun) | [Confreaks](http://confreaks.tv/search?utf8=%E2%9C%93&query=Docker&commit=go)
 * [Docker for Data Scientists - Michelangelo D'Agostino (Strata 2016)](https://www.youtube.com/watch?v=GOW6yQpxOIg)
 * [DockerCon 2015](https://www.youtube.com/watch?v=DfHcN3ZvjjU&list=PLenh213llmcbpJ78mZdh5pnJ_feVT9bez)
@@ -509,15 +512,20 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ##### DEVOPS - DOCKER - MULTIHOST ORCHESTRATION - COMPOSE & SWARM
 
+* [Docker 1.12 Release Candidate 2](https://www.youtube.com/watch?v=F7hoq0KwHD4)
+* [Introducing the Docker for AWS and Azure Beta - Michael Friis](https://blog.docker.com/2016/06/azure-aws-beta/)
 * [Compose - Docker](http://docs.docker.com/compose/)
 * Sebastien Goasguen: [Intro to Docker Compose Tool for Multi-Container Applications](https://www.linux.com/learn/introduction-docker-compose-tool-multi-container-applications) | [Docker Volumes and Networks with Compose](https://www.linux.com/learn/docker-volumes-and-networks-compose)
 * [Webinar Recording: Docker Compose: Simplifying Container Automation - Shawn Powers & Nathan Bank](https://www.youtube.com/watch?v=11jfxkuI0l4)
 * [How To Install Wordpress and PhpMyAdmin with Docker Compose on Ubuntu 14.04 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-and-phpmyadmin-with-docker-compose-on-ubuntu-14-04)
+* [Use Docker Swarm with a data persistence layer - Jonas Rosland](https://blog.emccode.com/2015/11/03/use-docker-swarm-with-a-data-persistence-layer/)
 * [How To Configure a Continuous Integration Testing Environment with Docker and Docker Compose on Ubuntu 14.04 - Pablo Chico de Guzmán](https://www.digitalocean.com/community/tutorials/how-to-configure-a-continuous-integration-testing-environment-with-docker-and-docker-compose-on-ubuntu-14-04)
 * [Docker Compose & Networking - Mano Marks](https://www.youtube.com/watch?v=rFQqiuFIjms)
 * [Docker Compose Files Version 2](https://www.youtube.com/watch?v=EReEOMS7gsk)
 * [Docker Swarm Part 1: Overview](https://www.youtube.com/watch?v=sg9wNcdMhbU) | [Part 2: Discovery](https://www.youtube.com/watch?v=4t7nej89dk4) | [Part 3: Scheduling](https://www.youtube.com/watch?v=7B_bX3czq-Y) | [Part 4: High Availability](https://www.youtube.com/watch?v=YjlH8ypkXOM) | [Part 5: Networking](https://www.youtube.com/watch?v=XemATdk8mY4) | [Part 6: Volumes](https://www.youtube.com/watch?v=Zxe0WAzPcjY)
+* Docker Swarm: [Create and Join Node](https://www.youtube.com/watch?v=x843GyFRIIY) | [Setting up HA](https://www.youtube.com/watch?v=rCWki35Qk2M) | [Set up TLS](https://www.youtube.com/watch?v=PFw1GTx1XOQ) | [Container Rescheduling](https://www.youtube.com/watch?v=Bf7N6won3Eg)
 * [Docker swarm cluster in AWS - Rafael Benevides](https://www.youtube.com/watch?v=JgUyI-MIKZ0)
+* [From Local Docker Development to Production Deployments - Jérôme Petazzoni (AWS re:Invent 2015)](https://www.youtube.com/watch?v=7CZFpHUPqXw)
 
 ##### DEVOPS - DOCKER - MULTIHOST ORCHESTRATION - MESOS
 
@@ -842,6 +850,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Understanding Elixir Macros, Part 1 - Basics - Saša Jurić](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-1.html), [Part 2 - Micro theory](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-2.html), [Part 3 - Getting into the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-3.html), [Part 4 - Diving Deeper](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-4.html), [Part 5 - Reshaping the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-5.html), [Part 6 - In-place code generation](http://www.theerlangelist.com/2014/07/understanding-elixir-macros-part-6.html)
 * [Writing a simple macro in Elixir - Dave Thomas](https://www.youtube.com/watch?v=LsLWezjV9Fo)
+
+### ELIXIR - OTP
+
+* [OTP in Elixir - Part 1 - Christian Di Lorenzo (Triangle Elixir 2016)](https://www.youtube.com/watch?v=_WgrfEaAM4Y)
 
 ### ELIXIR - PACKAGES
 
@@ -1554,6 +1566,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Fundamentals of HTML5 Web Workers - Craig Shoemaker](https://www.youtube.com/playlist?list=PLTGuLY9dBAgCEpYU_qWvoHIihbZILSQ9D)
 * [Using Web Workers (Mozilla MDN)](https://developer.mozilla.org/en-US/docs/Web/Guide/Performance/Using_web_workers)
+* [JavaScript for Experienced Developers: Web Workers - Microsoft Virtual Academy](https://www.youtube.com/watch?v=LrK5HudphWY)
 
 ## INFLUXDB
 
@@ -1753,6 +1766,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - ES 2015 / ES6 / ECMASCRIPT 6
 
+* [ES6 Part 1: Destructuring - funfunfunction](https://www.youtube.com/watch?v=PB_d3uBkQPs)
 * [Learn ES2015: A detailed overview of ECMAScript 6 features - Babeljs.io](http://babeljs.io/docs/learn-es2015/)
 * [ES6 In Depth Articles - Mozilla](https://hacks.mozilla.org/category/es6-in-depth/)
 * [Using JavaScript from the Future in Your Rails App Today - Steve Kinney (RailsConf 2015)](https://www.youtube.com/watch?v=Ayj1kgQNhAg)
@@ -1866,6 +1880,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - FUNCTIONAL PROGRAMMING
 
+* [Learning Functional Programming with JavaScript - Anjana Vakil (JSUnconf 2016)](https://www.youtube.com/watch?v=e-5obm1G_FY)
 * [Functional programming in JavaScript - Mattias Petter Johansson](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 * [Functional Javascript - Dr. Gleb Bahmutov](https://glebbahmutov.com/blog/tags/functional/)
 * [Functional Layout - Updating the DOM at 60FPS - David Valdman (JS Conf EU 2015)](http://confreaks.tv/videos/jsconfeu2015-functional-layout-updating-the-dom-at-60fps)
@@ -2370,7 +2385,9 @@ Peter R. Egli:
 ### NEWS - SCIENCE
 
 * [Aeon](https://aeon.co/science)
+* [Digital Journal](http://www.digitaljournal.com/science)
 * [Neuroscience News](http://neurosciencenews.com/neuroscience-topics/featured/)
+* [NOVA](http://www.pbs.org/wgbh/nova/)
 * [Phys.org](http://phys.org/)
 * [Quanta Magazine](https://www.quantamagazine.org)
 * [Science Daily](http://www.sciencedaily.com/)
@@ -2392,12 +2409,14 @@ Peter R. Egli:
 
 * [Aeon](http://aeon.co/magazine/technology/)
 * [Ars Technica](http://arstechnica.com/)
+* [Back Channel](https://backchannel.com/)
 * [BBC](http://www.bbc.com/news/technology)
 * [Bloomberg](http://www.bloomberg.com/technology)
 * [Business Insider](http://www.businessinsider.com/sai)
 * [CNBC](http://www.cnbc.com/technology/)
 * [Cnet](http://www.cnet.com/news/)
 * [CNN](http://www.cnn.com/TECH/)
+* [Digital Journal](http://www.digitaljournal.com/technology)
 * [Discovery](http://news.discovery.com/tech)
 * [Engadget](http://www.engadget.com/)
 * [Extreme Tech](http://www.extremetech.com/)
@@ -2407,6 +2426,7 @@ Peter R. Egli:
 * [Google](https://news.google.com/news/section?topic=tc)
 * [Guardian](http://www.theguardian.com/us/technology)
 * [Huffington Post](http://www.huffingtonpost.com/tech/)
+* [IAAA Spectrum](http://spectrum.ieee.org/)
 * [Inhabit](http://inhabitat.com/news/)
 * [Live Science](http://www.livescience.com/technology/)
 * [Mashable](http://mashable.com/tech/)
