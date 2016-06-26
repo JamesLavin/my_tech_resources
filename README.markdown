@@ -41,6 +41,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Documentation](https://developer.chrome.com/extensions) | [Overview](https://developer.chrome.com/extensions/overview) | [Examples](https://developer.chrome.com/extensions/samples) | [CodeLab](https://developer.chrome.com/apps/app_codelab_intro) | [Developer's Guide](https://developer.chrome.com/extensions/devguide)
 * [Javascript APIs](https://developer.chrome.com/extensions/api_index)
+* [How to Make a Chrome Extension - Gabe Berke-Williams](https://robots.thoughtbot.com/how-to-make-a-chrome-extension)
 
 ## BUSINESS
 
@@ -378,6 +379,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Ansible - Your First Step Into Server Provisioning - Ben Turner (Ruby Australia 2014)](http://vimeo.com/90171333)
 
+### DEVOPS - BLOGS & PODCASTS
+
+* [The New Stack](http://thenewstack.io/)
+
 ### DEVOPS - CHAOS MONKEY, ETC
 
 * [Simian Army](https://github.com/Netflix/SimianArmy/wiki) & [Quick start guide](https://github.com/Netflix/SimianArmy/wiki/Quick-Start-Guide):
@@ -493,6 +498,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - DOCKER - MULTIHOST ORCHESTRATION
 
+* [Compose](http://docs.docker.com/compose/)
+* Sebastien Goasguen: [Intro to Docker Compose Tool for Multi-Container Applications](https://www.linux.com/learn/introduction-docker-compose-tool-multi-container-applications) | [Docker Volumes and Networks with Compose](https://www.linux.com/learn/docker-volumes-and-networks-compose) | [How to Use Docker Machine to Create a Swarm Cluster](https://www.linux.com/learn/how-use-docker-machine-create-swarm-cluster) | [Using Docker Swarm to Create an Overlay Network](https://www.linux.com/learn/using-docker-swarm-create-overlay-network)
 * [Dacker Ruby gem](https://github.com/talkingquickly/dacker)
 * [Tools Built on Top of The Docker API - Vassili Van Der Mersch](http://nordicapis.com/tools-built-on-top-of-the-docker-api/)
 
@@ -718,7 +725,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELIXIR
 
-* Elixir: [Docs](http://elixir-lang.org/docs.html) & [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html) & [Elixir-lang-talk group](https://groups.google.com/forum/?fromgroups#!forum/elixir-lang-talk) & [Elixir Core mailing list](https://groups.google.com/forum/#!forum/elixir-lang-core) & [ElixirForum.com](http://elixirforum.com/)
+* Elixir: [Docs](http://elixir-lang.org/docs.html) & [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html) & [Erlang/Elixir Syntax Crash Course](http://elixir-lang.org/crash-course.html) & [Elixir-lang-talk group](https://groups.google.com/forum/?fromgroups#!forum/elixir-lang-talk) & [Elixir Core mailing list](https://groups.google.com/forum/#!forum/elixir-lang-core) & [ElixirForum.com](http://elixirforum.com/)
 * [Cheatsheet](https://www.dropbox.com/s/lr1t87rw4wfnyb3/elixir-cheat-sheet-v2.pdf?dl=0)
 * [What Elixir is About - José Valim (Erlang Factory SF 2015)](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
 * [Elixir with José Valim](http://howistart.org/posts/elixir/1)
@@ -799,6 +806,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Edeliver: [Github](https://github.com/boldpoker/edeliver) | [Deploying Elixir applications with Edeliver - Igor Florian](http://blog.plataformatec.com.br/2016/06/deploying-elixir-applications-with-edeliver/)
 * conform: [source](https://github.com/bitwalker/conform)
 * [Deploying Phoenix Applications with Exrm [and Conform] - Brandon Richey](https://medium.com/@diamondgfx/deploying-phoenix-applications-with-exrm-97a3867ebd04#.ke7uldpb4)
+* [How to config environment variables with Elixir and Exrm - Igor Florian](http://blog.plataformatec.com.br/2016/05/how-to-config-environment-variables-with-elixir-and-exrm/)
 * [Fast Continuous Deployment of an Elixir Gameserver - Martin Kavalar & Martin Schurrer](https://www.youtube.com/watch?v=RoT8RnQHvgo)
 
 ### ELIXIR - EARMARK
@@ -847,6 +855,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
 * [Rails to Phoenix - Brian Cardarella (RailsConf 2016)](https://www.youtube.com/watch?v=OxhTQdcieQE)
+* [Phoenix: The Firehose Project: Hands-On Intro to Building Modern Web Applications With Elixir and Phoenix](http://phoenix.thefirehoseproject.com/)
 * [Taking Off With Phoenix - Sonny Scroggin (Erlang Factory SF 2016)](https://www.youtube.com/watch?v=eSWNi5vRxU8)
 * [New Heights - Chris McCord (ElixirDaze 2016)](https://www.youtube.com/watch?v=E6RTBlO9TZQ)
 * Building Phoenix Battleships - Ricardo García Vega: [1: Designing the game mechanics](http://codeloveandboards.com/blog/2016/04/29/building-phoenix-battleship-pt-1/) | [2: Lobby Channel & Game Supervision](http://codeloveandboards.com/blog/2016/05/03/building-phoenix-battleship-pt-2/) | [3: Game setup](http://codeloveandboards.com/blog/2016/05/21/building-phoenix-battleship-pt-3/)
@@ -870,6 +879,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Deploying Phoenix Applications with Exrm - Brandon Richey](https://medium.com/@diamondgfx/deploying-phoenix-applications-with-exrm-97a3867ebd04?source=tw-5dbe5bfa021a-1446130465757)
 * [Setting Up Phoenix/Elixir With Nginx and LetsEncrypt - Andrew Forward](https://medium.com/@a4word/setting-up-phoenix-elixir-with-nginx-and-letsencrypt-ada9398a9b2c#.fnrxau4z0)
 * [Phoenix Flying High: Deploying Phoenix The Final Part](http://www.elixirdose.com/post/phoenix_part_5_deploying_phoenix_the_final_part)
+* [Using Phoenix With Docker, Part 3: Containerization - Florian Kraft](https://floriank.github.io/post/using-phoenix-with-docker-part-3-containerization/)
 * [One-Click Install Elixir on Ubuntu 14.04 with DigitalOcean](https://www.digitalocean.com/community/tutorials/one-click-install-elixir-on-ubuntu-14-04-with-digitalocean)
 * [Deploying Phoenix on Dokku - Henrik Nyh](https://gist.github.com/henrik/c70e32544e09c1a79841)
 * [Deploying a Phoenix application using ansible-elixir-stack - Johan Wärlander](http://blog.johanwarlander.com/2015/07/30/deploying-a-phoenix-application-using-ansible-elixir-stack.html)
@@ -957,8 +967,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELM
 
-* An Introduction to Elm - Evan Czaplicki: [downloadable ebook/PDF](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
-* Elm Tutorial - Sebastian Porto: [downloadable ebook/PDF](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
+* An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
+* Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
 * Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [Intro to Elm - Richard Feldman (2016)](https://www.youtube.com/watch?v=3_M2G9U51GA)
 * [Intro to Elm - Alan Gardner (2016)](https://vimeo.com/167092863)
@@ -990,6 +1000,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How to Create Tetris in Elm - Captain Coder](https://www.youtube.com/playlist?list=PL7C8fMD-89DKhlerIE3BrYNd0PlhA6Zch)
 * [elm-tutorial-app: example Elm single page application - Sebastian Porto](https://github.com/sporto/elm-tutorial-app)
 * Composing Features and Behaviours in the Elm Architecture - Fred Daoud: [0: Intro](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture) | [1: Creating a Feature](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-010-todolist-feature/client-elm#creating-a-feature) | [2: Connecting Features Together](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-020-todoform-feature/client-elm#connecting-features-together) | [3: Multiple Listeners](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-030-todosummary-feature/client-elm#multiple-listeners) | [4: Composing Features](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-040-todominmax-feature/client-elm#composing-features) & [Summary of Daoud's ideas - LambdaCat](http://www.lambdacat.com/road-to-elm-structuring-your-application/)
+* [elm-slice-show - Andrey Kuzmin](https://github.com/w0rm/elm-slice-show)
+* [orbital-game - Joakim Kolsjö](https://github.com/joakimk/orbital-game)
 * [Exploring Elm with a Typeahead - Aristides Staffieri](https://medium.com/denver-devs/exploring-elm-with-a-typeahead-5a846511e810#.71h40ys9y)
 * [Investments calculator](https://github.com/joshuaclayton/investments-elm) | [live example](http://joshuaclayton.me/investments-elm/)
 * [Landscape: architecture diagramming - Jessica Kerr](https://github.com/satellite-of-love/landscape)
@@ -1243,6 +1255,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Intro to Computational Finance and Financial Econometrics - Eric Zivot (University of Washington)](https://www.coursera.org/course/compfinance)
 * [Topics in Mathematics With Applications in Finance (MIT)](http://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/)
+
+## FONTS & TYPOGRAPHY
+
+* [Awesome Font and Typography Resources for Web Designers - Steven Snell](http://www.vandelaydesign.com/font-resources/)
 
 ## FUNCTIONAL PROGRAMMING
 
@@ -2126,7 +2142,42 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Awk in 20 Minutes - Fred T-H](http://ferd.ca/awk-in-20-minutes.html)
 
+### LINUX - DEBIAN
+
+* [The Debian Administrator's Handbook - Raphaël Hertzog & Roland Mas](https://debian-handbook.info/browse/stable/index.html) & [PDF](https://debian-handbook.info/download/stable/debian-handbook.pdf)
+
 ### LINUX - NETWORKING
+
+Peter R. Egli:
+  * [Data Networking Concepts](http://www.indigoo.com/dox/itdp/01_Intro/Data-Networking-Concepts.pdf)
+  * [Transport Protocols](http://www.indigoo.com/dox/itdp/02_Transport/Transport-Protocols.pdf)
+    * [TCP](http://www.indigoo.com/dox/itdp/02_Transport/TCP.pdf)
+    * [UDP](http://www.indigoo.com/dox/itdp/02_Transport/UDP.pdf)
+    * [SCTP](http://www.indigoo.com/dox/itdp/02_Transport/SCTP.pdf)
+  * [Network Sockets](http://www.indigoo.com/dox/itdp/03_Sockets/Sockets.pdf)
+  * [Email](http://www.indigoo.com/dox/itdp/04_Email/Email.pdf)
+  * [Comet, HTML5, Websockets](http://www.indigoo.com/dox/itdp/05_WWW/Comet-WebSockets-HTML5.pdf)
+  * [HTTP / HTML / WWW](http://www.indigoo.com/dox/itdp/05_WWW/HTTP-HTML-Web.pdf)
+  * [DNS](http://www.indigoo.com/dox/itdp/06_DNS/DNS.pdf)
+  * [DNSSEC](http://www.indigoo.com/dox/itdp/06_DNS/DNSSEC.pdf)
+  * [FTP](http://www.indigoo.com/dox/itdp/07_FTP-TFTP/FTP.pdf)
+  * [RARP, BOOTP, DHCP](http://www.indigoo.com/dox/itdp/08_DHCP/RARP-BOOTP-DHCP.pdf)
+  * [Internet Security](http://www.indigoo.com/dox/itdp/10_Security/Internet-Security.pdf)
+  * [VPN](http://www.indigoo.com/dox/itdp/11_VPN/VPN.pdf)
+  * [Mobile & Wireless Networks](http://www.indigoo.com/dox/itdp/12_MobileWireless/Mobile-Wireless-Networks.pdf)
+  * [Internet Organization](http://www.indigoo.com/dox/itdp/13_Management&Backbone/Internet-Organization.pdf)
+  * [QoS](http://www.indigoo.com/dox/itdp/13_Management&Backbone/QoS.pdf)
+  * [IP Routing](http://www.indigoo.com/dox/itdp/15_IPv4&IPv6/IP-Routing.pdf)
+  * [IPv6](http://www.indigoo.com/dox/itdp/15_IPv4&IPv6/IPv6.pdf)
+  * [SSH](http://www.indigoo.com/dox/itdp/16_Telnet&SSH/SSH.pdf)
+  * [Telnet](http://www.indigoo.com/dox/itdp/16_Telnet&SSH/TELNET.pdf)
+  * [STP & RSTP](http://www.indigoo.com/dox/itdp/17_LAN-Layer2/STP-RSTP.pdf)
+  * [Communication Middleware](http://www.indigoo.com/dox/wsmw/1_Middleware/Communication-Middleware.pdf)
+  * [Cloud Computing](http://www.indigoo.com/dox/wsmw/1_Middleware/Cloud-Computing.pdf)
+  * [JSON-RPC](http://www.indigoo.com/dox/wsmw/1_Middleware/JSON-RPC.pdf)
+  * [REST](http://www.indigoo.com/dox/wsmw/2_WebServices/REST.pdf)
+  * [Web Services](http://www.indigoo.com/dox/wsmw/2_WebServices/Web-Services.pdf)
+  * [Android NDK](http://www.indigoo.com/dox/mobdev/01_Android/Android-NDK.pdf)
 
 #### LINUX - NETWORKING - SOCAT
 
@@ -2290,6 +2341,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## NEWS
 
+### NEWS - EDUCATION
+
+* [EdSurge](https://www.edsurge.com/)
+
 ### NEWS - HARDWARE
 
 * [Hot Hardware](http://hothardware.com/)
@@ -2437,6 +2492,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### POSTGRESQL - ADVANCED FEATURES
 
 * [Is PostgreSQL Your Next JSON Database? - Dj Walker-Morgan](https://www.compose.io/articles/is-postgresql-your-next-json-database/)
+* [PostgreSQL’s Powerful New Join Type: LATERAL - Dan Robinson](http://blog.heapanalytics.com/postgresqls-powerful-new-join-type-lateral/)
 * [Range Types in PostgreSQL 9.2 - Your Life Will Never Be the Same - Jonathan S. Katz (Postgres Open)](https://www.youtube.com/watch?v=XIcOf7r0dG4)
 * [Full-Text Search: Seek and Ye Shall Find - Dan Scott (Postgres Open)](https://www.youtube.com/watch?v=R6nT6UgY7k4)
 * [Using PostgreSQL and jsonb with Ruby on Rails - Nando Vieira](http://nandovieira.com/using-postgresql-and-jsonb-with-ruby-on-rails)
@@ -2590,6 +2646,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Changelog](https://changelog.com/podcast/)
 * [The Cloudcast](http://www.thecloudcast.net/)
 * [Code Podcast](https://soundcloud.com/podcastcode)
+* [Cognicast](http://blog.cognitect.com/cognicast/)
 * [Dr. Dobbs TV](http://www.drdobbs.com/tv/) (Video)
 * [Elixir Fountain](https://soundcloud.com/elixirfountain)
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
