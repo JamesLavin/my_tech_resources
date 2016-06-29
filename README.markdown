@@ -463,8 +463,8 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Docker Machine](https://docs.docker.com/machine/overview/)
     * [Docker Cloud](https://docs.docker.com/docker-cloud/overview/)
 * [Docker Self-Paced Training videos](https://training.docker.com/self-paced-training)
-* Docker Tutorials: [1: Installing Docker](https://www.youtube.com/watch?v=bV5vbNK3Uhw) | [2: Docker Run Basics](https://www.youtube.com/watch?v=uTe08FxoKrU) | [3: Fun With Volumes](https://www.youtube.com/watch?v=rlK1JYsM6Aw) | [4: More Run With Extra Goodies](https://www.youtube.com/watch?v=ZgjHM1XmAKI) | [5: Basic Networking](https://www.youtube.com/watch?v=3uvqEC8fWV0) | [6: Dockerfiles (Part 1)](https://www.youtube.com/watch?v=gG_x28rDxus) | [7: Dockerfiles (Part 2)](https://www.youtube.com/watch?v=L6bjTlVdc6U) | [8: Troubleshooting with Sysdig](https://www.youtube.com/watch?v=S-fYCOMnsbY) | [9: Docker Machine](https://www.youtube.com/watch?v=3zXe3uXQnSY) | [10: Docker Compose](https://www.youtube.com/watch?v=gtoT0By8yh4) | [11: Docker Swarm](ihttps://www.youtube.com/watch?v=zTKGfPfhg78) | [12: Kitematic](https://www.youtube.com/watch?v=50IZ-AHPKo0) | [13: Getting Started with experimental Docker Networking](https://www.youtube.com/watch?v=gZ6UKym9ZIs) | [Full List](https://www.youtube.com/playlist?list=PLkA60AVN3hh_6cAz8TUGtkYbJSL2bdZ4h)
 * [Docker tutorial videos - Scott Turnbull](https://www.youtube.com/playlist?list=PLLOtMDswK0Iu0m0wseAXTzavCWji7qso7)
+* Docker Tutorials: [1: Installing Docker](https://www.youtube.com/watch?v=bV5vbNK3Uhw) | [2: Docker Run Basics](https://www.youtube.com/watch?v=uTe08FxoKrU) | [3: Fun With Volumes](https://www.youtube.com/watch?v=rlK1JYsM6Aw) | [4: More Run With Extra Goodies](https://www.youtube.com/watch?v=ZgjHM1XmAKI) | [5: Basic Networking](https://www.youtube.com/watch?v=3uvqEC8fWV0) | [6: Dockerfiles (Part 1)](https://www.youtube.com/watch?v=gG_x28rDxus) | [7: Dockerfiles (Part 2)](https://www.youtube.com/watch?v=L6bjTlVdc6U) | [8: Troubleshooting with Sysdig](https://www.youtube.com/watch?v=S-fYCOMnsbY) | [9: Docker Machine](https://www.youtube.com/watch?v=3zXe3uXQnSY) | [10: Docker Compose](https://www.youtube.com/watch?v=gtoT0By8yh4) | [11: Docker Swarm](ihttps://www.youtube.com/watch?v=zTKGfPfhg78) | [12: Kitematic](https://www.youtube.com/watch?v=50IZ-AHPKo0) | [13: Getting Started with experimental Docker Networking](https://www.youtube.com/watch?v=gZ6UKym9ZIs) | [Full List](https://www.youtube.com/playlist?list=PLkA60AVN3hh_6cAz8TUGtkYbJSL2bdZ4h)
 * Docker videos: [Youtube](https://www.youtube.com/user/dockerrun) | [Confreaks](http://confreaks.tv/search?utf8=%E2%9C%93&query=Docker&commit=go)
 * [Docker for Data Scientists - Michelangelo D'Agostino (Strata 2016)](https://www.youtube.com/watch?v=GOW6yQpxOIg)
 * [DockerCon 2015](https://www.youtube.com/watch?v=DfHcN3ZvjjU&list=PLenh213llmcbpJ78mZdh5pnJ_feVT9bez)
@@ -851,6 +851,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Understanding Elixir Macros, Part 1 - Basics - Saša Jurić](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-1.html), [Part 2 - Micro theory](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-2.html), [Part 3 - Getting into the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-3.html), [Part 4 - Diving Deeper](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-4.html), [Part 5 - Reshaping the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-5.html), [Part 6 - In-place code generation](http://www.theerlangelist.com/2014/07/understanding-elixir-macros-part-6.html)
 * [Writing a simple macro in Elixir - Dave Thomas](https://www.youtube.com/watch?v=LsLWezjV9Fo)
 
+### ELIXIR - METAPROGRAMMING
+
+* [Metaprogramming Elixir - Chris McCord (NDC Oslo 2015)](https://vimeo.com/131643017)
+
 ### ELIXIR - OTP
 
 * [OTP in Elixir - Part 1 - Christian Di Lorenzo (Triangle Elixir 2016)](https://www.youtube.com/watch?v=_WgrfEaAM4Y)
@@ -868,7 +872,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
 * [Rails to Phoenix - Brian Cardarella (RailsConf 2016)](https://www.youtube.com/watch?v=OxhTQdcieQE)
 * [Phoenix: The Firehose Project: Hands-On Intro to Building Modern Web Applications With Elixir and Phoenix](http://phoenix.thefirehoseproject.com/)
-* [Taking Off With Phoenix - Sonny Scroggin (Erlang Factory SF 2016)](https://www.youtube.com/watch?v=eSWNi5vRxU8)
+* [Taking Off With Phoenix - Sonny Scroggin (Erlang Factory SF 2016)](https://www.youtube.com/watch?v=eSWNi5vRxU8) & [(NDC London 2016](https://vimeo.com/162047653)
 * [New Heights - Chris McCord (ElixirDaze 2016)](https://www.youtube.com/watch?v=E6RTBlO9TZQ)
 * Building Phoenix Battleships - Ricardo García Vega: [1: Designing the game mechanics](http://codeloveandboards.com/blog/2016/04/29/building-phoenix-battleship-pt-1/) | [2: Lobby Channel & Game Supervision](http://codeloveandboards.com/blog/2016/05/03/building-phoenix-battleship-pt-2/) | [3: Game setup](http://codeloveandboards.com/blog/2016/05/21/building-phoenix-battleship-pt-3/)
 * [Phoenix a web framework for the new web - José Valim (Lambda Days 2016)](https://www.youtube.com/watch?v=MD3P7Qan3pw)
@@ -961,12 +965,15 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - VIDEOS
 
+* [Elixir videos (Vimeo)](https://vimeo.com/search?q=Elixir)
 * ElixirDaze 2016: [On Youtube](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH) & [On Confreaks](http://confreaks.tv/events/elixirdaze2016)
 * [ElixirConf 2015 videos](http://confreaks.tv/events/elixirconf2015)
     * [Keynote: The Pendulum - Bruce Tate](https://www.youtube.com/watch?v=X8rWK-g8kCQ)
     * [Confident Elixir - Lance Halvorsen](https://www.youtube.com/watch?v=9YCg9xaG47s)
 * [ElixirConf EU 2015 videos](https://www.youtube.com/watch?v=fLlItGWiVFc&list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
 * [Discovering Processes - Saša Jurić (ElixirConfEU 2016)](https://www.youtube.com/watch?v=y_b6RTes83c)
+* [Three and a Half Ways Elixir Changed Me (and Other Hyperbole) - Rob Conery (NDC London 2016)](https://vimeo.com/161001513)
+* [Elixir Is Neat But What Can You Actually Do With It? - Rob Conery (NDC Oslo 2016)](https://vimeo.com/171317253)
 * [What's Ahead for Elixir? - José Valim (ElixirConfEU 2016)](https://www.youtube.com/watch?v=A60nxws_iVs) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/160/original/Jose_Valim-_What's_ahead_of_Elixir.pdf?1463594498)
 * [Building Multiplayer Games with Phoenix and Phaser - Keith Salisbury (ElixirConfEU 2016](https://www.youtube.com/watch?v=I5L9_cXwBcU)
 * [Concurrent and Resilient Connections to Outside the BEAM - Andrea Leopardi (ElixirConfEU 2016)](https://www.youtube.com/watch?v=U1Ry7STEFiY) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/149/original/Andrea_Leopardi_Concurrent-and-resilient-connections-to-outside-the-beam.pdf?1463389064)
@@ -976,6 +983,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Idioms for Building Distributed Fault-tolerant Applications with Elixir - José Valim (goto; conference)](https://www.youtube.com/watch?v=B4rOG9Bc65Q)
 * ["Elixir and the Internet of Things" - Doug Rohrer (Strangeloop 2014)](https://www.youtube.com/watch?v=a-OCorBXX7M)
 * [The Climb Experiencing the Rise of Elixir from the Inside - Bruce Tate & Dave Thomas (Erlang Factory SF 2016)](https://www.youtube.com/watch?v=fklep3sUSWo)
+* [Elixir - A modern approach to programming for the Erlang VM - José Valim](https://vimeo.com/53221562) (old but still informative)
 
 ## ELM
 
@@ -1216,12 +1224,15 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Erlang videos (InfoQ)](http://www.infoq.com/erlang/presentations/)
 * [ErlangSolutions Youtube videos](https://www.youtube.com/user/ErlangSolutions)
+* [Erlang videos (Vimeo)](https://vimeo.com/search?q=Erlang)
+* [Concurrency + Distribution = Scalability + Availability, a Journey architecting Erlang Systems - Francesco Cesarini (NDC London 2016)](https://vimeo.com/162206436)
 * [Introduction to Erlang - Steven Proctor (LambdaConf 2015)](https://www.youtube.com/watch?v=0YpCBRJJtPg)
 * [That's "Billion" With a "B": Scaling to the Next Level at WhatsApp - Rick Reed (Erlang Factory SF 2014)](https://www.youtube.com/watch?v=c12cYAUTXXs)
 * [Scaling Distributed Erlang - Zandra Norman (ElixirConfEU 2016)](https://www.youtube.com/watch?v=usEs3GPnZDg) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/074/original/Zandra_Norman_ScalingDistributedErlang.pdf?1462891793)
 * [Erlang Master Classes](https://www.youtube.com/watch?v=gKRyAb7d8lo&list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5&index=1)
 * [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
 * [An Introduction to Erlang (for Python programmers) - Paul Barry](https://www.youtube.com/watch?v=yRJZxV8uPhg)
+* [Intro to Distributed Erlang - Bryan Hunter](https://vimeo.com/39257971)
 
 ## EMERGING TECHNOLOGIES
 
@@ -1315,6 +1326,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - CONFERENCE VIDEOS
 
+* [All the FP Talks at NDC Oslo 2016](http://theburningmonk.com/2016/06/all-the-fp-talks-at-ndc-oslo-2016/)
 * [LambdaConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
 * Lambda Days (Erlang Solutions): [2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2izLmnqYbI5DZ4ArUe3vp1d) | [2015](https://www.youtube.com/results?search_query=lambda+days+2015)
 * [Compose Conference 2015](http://www.composeconference.org/2015/summary/)
@@ -2686,6 +2698,7 @@ Peter R. Egli:
 
 ### PROGRAMMING - VIDEOS
 
+* [NDC Conferences (Over 1,100 conference videos)](https://vimeo.com/ndcconferences)
 * [SkillsMatter.com/Skillscasts](https://skillsmatter.com/skillscasts)
 * [InfoQ.com videos](http://www.infoq.com/presentations/)
 * Jfokus: [2016](https://www.youtube.com/playlist?list=PLUQORQEatnJdV2Ib4Edw3jLQJk5b8Rxcd) | [2015](https://www.youtube.com/playlist?list=PLklQqdqnBkPjVWKihmEAchC2kksnNoqIi)
