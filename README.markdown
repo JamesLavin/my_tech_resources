@@ -880,6 +880,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to Phoenix - José Valim (Elixir Warsaw Meetup)](https://www.youtube.com/watch?v=3LiLjVCDEpU)
 * [Phoenix: A web framework for the new web - José Valim (PolyConf 2015)](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
 * [Phoenix - a framework for the modern web - Chris McCord (NDC Conference Norway 2015)](https://vimeo.com/131633172)
+* [ExCasts](https://excasts.com/episodes) (requires free registration)
 * Brandon Richey: [Writing a Blog in Phoenix and Elixir, Part 1](https://medium.com/@diamondgfx/introduction-fe138ac6079d) | [Part 2: Authorization](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-part-2-authorization-814c06fa7c0) | [Debugging Phoenix with IEx.pry](https://medium.com/@diamondgfx/debugging-phoenix-with-iex-pry-5417256e1d11) | [Testing Validations in Elixir and Ecto](https://medium.com/@diamondgfx/testing-validations-in-elixir-and-ecto-677bd8a071a1) | [Writing a Blog Engine in Phoenix and Elixir: Part 4, Adding Roles to our Controllers](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-part-4-adding-roles-to-our-controllers-9f4678b48468#.ngm5g5vnt) | [Errata 1](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-errata-1-b370269b66c7) | [Part 5, Adding ExMachina](https://medium.com/@diamondgfx/mixology-exmachina-92a08dc3e954#.lnae8ygzq) | [Part 6, Markdown Support](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-part-5-markdown-support-fde72badd8e1#.3bwzvyrnq) | [Part 7, Adding Comments Support](https://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-part-7-adding-comments-support-7dfc17dd474e#.phe0zit5://medium.com/@diamondgfx/writing-a-blog-engine-in-phoenix-and-elixir-part-7-adding-comments-support-7dfc17dd474e#.phe0zit5x) | [Part 8, Finishing Comments](https://medium.com/elixir-magic/writing-a-blog-engine-in-phoenix-and-elixir-part-8-finishing-comments-30ff95d44cea) | [Part 9, Live Comments](https://medium.com/elixir-magic/writing-a-blog-engine-in-phoenix-and-elixir-part-9-live-comments-9269669a6941) | [Part 10, Testing Channels](https://medium.com/elixir-magic/writing-a-blog-engine-in-phoenix-and-elixir-part-10-testing-channels-e6371ce4cfbe) | [Part 11, Better UI](https://medium.com/elixir-magic/writing-a-blog-engine-in-phoenix-and-elixir-part-11-better-ui-f17f3d7efa85#.gbwhihmus)
 * [Trello clone with Phoenix and React - Ricardo García Vega](https://blog.diacode.com/trello-clone-with-phoenix-and-react-pt-1)
 * Elixirdose.com Phoenix tutorial: [Part 1](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix) | [Part 2](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix_2) | [Part 3](http://www.elixirdose.com/post/Phoenix%20Part%203) | [Part 4](http://www.elixirdose.com/post/Phoenix%20Part%204) | [Part 5](http://www.elixirdose.com/post/phoenix_part_5_deploying_phoenix_the_final_part)
@@ -2513,6 +2514,7 @@ Peter R. Egli:
 * [Official manuals](http://www.postgresql.org/docs/manuals/)
 * [Official FAQ](http://wiki.postgresql.org/wiki/FAQ)
 * [PostgresWeekly.com](http://postgresweekly.com/)
+* [PGCasts.com](https://www.pgcasts.com/)
 * [PostgreSQL awesomeness for Rails developers](http://www.amberbit.com/blog/2014/2/4/postgresql-awesomeness-for-rails-developers/)
 * [Redis in my Postgres (linking multiple Postgres dbs or Postgres and Redis/MySQL/Oracle/Twitter/ODBC/etc.)](http://www.craigkerstiens.com/2012/10/18/connecting_to_redis_from_postgres/)
 * [Postgres FTW: Postgres Is Just Easier - Guyren Howe](http://www.sdruby.org/podcast/120)
@@ -2650,10 +2652,35 @@ Peter R. Egli:
 * [K Things I Know About Building Resilient Reactive Systems - Joe Armstrong (React 2014)](https://www.youtube.com/watch?v=rQIE22e0cW8)
 * [Functional Reactive Programming: Cleanly Abstracted Interactivity - BoostCon](https://www.youtube.com/watch?v=tyaYLGQSr4g)
 
-### PROGRAMMING - LEARNING
+### PROGRAMMING - LEARNING (FREE)
 
 * [Code Studio](http://studio.code.org/)
+* [Codecademy](https://www.codecademy.com/) (Registration required)
 * [CS50: Intro to Computer Science - David J. Malan (Harvard)](http://cs50.tv/)
+* [Fun Fun Function - Mattias Petter Johansson, a.k.a. "mpj"](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [I Love Coding](https://ilovecoding.org/) (Registration required)
+* [WatchMeCode.net](https://sub.watchmecode.net/) (Registration required)
+
+### PROGRAMMING - LEARNING (PAYMENT REQUIRED)
+
+* [Daily Drip](https://www.dailydrip.com/)
+* [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
+* [Egghead.io](https://egghead.io/)
+* [Evented Mind](https://www.eventedmind.com/)
+* [Frontend Masters](https://frontendmasters.com/)
+* [Go Rails](https://gorails.com/)
+* [InformIT](http://www.informit.com/)
+* [LearnElixir.tv - Daniel Berkompas](https://www.learnelixir.tv/)
+* [LearnPhoenix.tv - Daniel Berkompas](https://www.learnphoenix.tv/)
+* [Lynda.com](https://www.lynda.com/)
+* [PeerToPeer.io](http://peertopeer.io/)
+* [Pluralsight](https://www.pluralsight.com/)
+* [Sitepoint](https://www.sitepoint.com/)
+* [Treehouse](https://teamtreehouse.com/)
+* [Tuts+](http://tutsplus.com/)
+* [Udacity](https://www.udacity.com/)
+* [Udemy](https://www.udemy.com/)
+* [Upcase - Thoughtbot](https://thoughtbot.com/upcase/)
 
 #### PROGRAMMING - LEARNING - GAMES
 
@@ -2674,11 +2701,13 @@ Peter R. Egli:
 ### PROGRAMMING - PODCASTS
 
 * [a16z - Andreessen Horowitz](http://a16z.com/podcasts/)
+* [The Big Web Show](http://5by5.tv/bigwebshow)
 * [The Bikeshed](http://bikeshed.fm/)
 * [The Changelog](https://changelog.com/podcast/)
 * [The Cloudcast](http://www.thecloudcast.net/)
 * [Code Podcast](https://soundcloud.com/podcastcode)
 * [Cognicast](http://blog.cognitect.com/cognicast/)
+* [CTRL+ClickCast](http://ctrlclickcast.com/)
 * [Dr. Dobbs TV](http://www.drdobbs.com/tv/) (Video)
 * [Elixir Fountain](https://soundcloud.com/elixirfountain)
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
@@ -2686,6 +2715,7 @@ Peter R. Egli:
 * [Giant Robots](http://giantrobots.fm/)
 * [Hansel Minutes](http://www.hanselminutes.com/)
 * [Herding Code](http://herdingcode.com/)
+* [Javascript Jabber](https://devchat.tv/js-jabber)
 * [On Computing](http://www.computer.org/portal/web/computingnow/oncomputing)
 * [PathToPerf](http://pathtoperf.com/)
 * [Programming Throwdown](http://www.programmingthrowdown.com/)
@@ -2695,6 +2725,7 @@ Peter R. Egli:
 * [Software Engineering Radio](http://www.se-radio.net/)
 * [Toolsday.io](http://toolsday.io/)
 * [Turing-Incomplete](http://turing.cool/)
+* [The Web Ahead](http://5by5.tv/webahead)
 
 ### PROGRAMMING - VIDEOS
 
@@ -3580,6 +3611,7 @@ Peter R. Egli:
     * [Rack on Rails](http://guides.rubyonrails.org/rails_on_rack.html)
     * [Creating/Customizing Rails Generators & Templates](http://guides.rubyonrails.org/generators.html)
     * [Upgrading](http://guides.rubyonrails.org/upgrading_ruby_on_rails.html)
+* [RailsCamp](http://rails.devcamp.com/syllabus)
 * Stefan Wintermeyer: [Ruby on Rails 3.2](http://www.xyzpub.com/en/ruby-on-rails/3.2/index.html) & [Ruby on Rails 4.0](http://www.amazon.com/Ruby-on-Rails-4-0-ebook/dp/B00E25KVLW?tag=xyzpubcom02-20)
 * [Rails posts - Thoughtbot](https://robots.thoughtbot.com/tags/rails) & [Bikeshed.fm](http://bikeshed.fm)
 * [Software as a Service, Part 1 - UC Berkeley](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-1x-engineering-1377)
