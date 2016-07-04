@@ -49,7 +49,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Startup Playbook -Sam Altman](http://playbook.samaltman.com)
 * [Lectures (by successful entrepreneurs) on "How to Start a Startup" (Stanford University)](http://startupclass.samaltman.com/)
 * [How to Build a Startup: The Lean LaunchPad - Steve Blank](https://www.udacity.com/course/how-to-build-a-startup--ep245)
+* [Startup (podcast)](https://gimletmedia.com/show/startup/episodes/)
 * [SteveBlank.com](http://steveblank.com/slides/#Videos)
+* [The Tim Ferriss Show](http://fourhourworkweek.com/podcast/)
 * [James Altucher interview podcasts](http://www.stansberryradio.com/James-Altucher/Latest-Episodes)
 * [Kauffmann Founders School](http://www.entrepreneurship.org/Founders-School)
 * [Observatory of Economic Complexity (interactive international trade data displayed using D3)](http://atlas.media.mit.edu/en/visualize/tree_map/hs92/export/usa/all/show/2013/)
@@ -846,6 +848,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [ExDoc](https://github.com/elixir-lang/ex_doc)
 
+### ELIXIR - GEN-STAGE
+
+* [GenStage - José Valim (Elixir London June 2016))](https://www.youtube.com/watch?v=aZuY5-2lwW4)
+
 ### ELIXIR - MACROS
 
 * [Understanding Elixir Macros, Part 1 - Basics - Saša Jurić](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-1.html), [Part 2 - Micro theory](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-2.html), [Part 3 - Getting into the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-3.html), [Part 4 - Diving Deeper](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-4.html), [Part 5 - Reshaping the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-5.html), [Part 6 - In-place code generation](http://www.theerlangelist.com/2014/07/understanding-elixir-macros-part-6.html)
@@ -990,6 +996,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
+* [Elm-Live (development server)](https://github.com/tomekwi/elm-live)
 * Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [Intro to Elm - Richard Feldman (2016)](https://www.youtube.com/watch?v=3_M2G9U51GA)
 * [Intro to Elm - Alan Gardner (2016)](https://vimeo.com/167092863)
@@ -1223,6 +1230,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ERLANG - VIDEOS
 
+* Erlang Master Class (University of Kent): [Class 1: Functional Programming](https://www.youtube.com/watch?v=gKRyAb7d8lo&list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5) | [Class 2: Concurrent Programming](https://www.youtube.com/watch?v=nYgEny1goCY&list=PLR812eVbehlwq4qbqswOWH7NLKjodnTIn) | [Class 3: OTP Behaviours & Releases](https://www.youtube.com/watch?v=9HVvzSsdW9k&list=PLR812eVbehlx6vgWGf2FLHjkksAEDmFjc)
 * [Erlang videos (InfoQ)](http://www.infoq.com/erlang/presentations/)
 * [ErlangSolutions Youtube videos](https://www.youtube.com/user/ErlangSolutions)
 * [Erlang videos (Vimeo)](https://vimeo.com/search?q=Erlang)
@@ -2382,6 +2390,7 @@ Peter R. Egli:
 * [Application Development Trends](https://adtmag.com)
 * [Computerworld](http://www.computerworld.com/)
 * [Dr. Dobb's](http://www.drdobbs.com/)
+* [DZone](https://dzone.com/)
 * [Enterprise Apps Today](http://www.enterpriseappstoday.com/)
 * [Huffington Post](http://www.huffingtonpost.com/news/computer-programming/)
 * [I Programmer](http://www.i-programmer.info/)
@@ -2407,6 +2416,7 @@ Peter R. Egli:
 * [TED Science](http://www.ted.com/talks?topics[]=science)
 * [The Register](http://www.theregister.co.uk/science/)
 * [The Verge](http://www.theverge.com/science)
+* [Tumble Science Podcast For Kids](https://itunes.apple.com/us/podcast/tumble-science-podcast-for/id984771479)
 * [Wired](http://www.wired.com/category/science)
 * [World Science Festival](http://www.worldsciencefestival.com/)
 
