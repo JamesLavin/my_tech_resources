@@ -1200,10 +1200,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ERLANG - DOCUMENTATION
 
-* [User's Guide](http://www.erlang.org/doc/apps/stdlib/users_guide.html) | [Reference Manual](http://www.erlang.org/doc/apps/stdlib/index.html)
+* [User's Guide](http://www.erlang.org/doc/apps/stdlib/users_guide.html) | [Reference Manual](http://www.erlang.org/doc/apps/stdlib/index.html) | [OTP Modules](http://erlang.org/doc/man_index.html)
+* [An Erlang Course](http://www.erlang.org/course)
 * [Erlang.org docs](http://erlang.org/doc/) | [erlang-questions (Google group)](https://groups.google.com/forum/#!forum/erlang-questions)
 * [ErlDocs.com](http://erldocs.com/)
 * [Getting Started with Erlang User's Guide - Ericsson](http://erlang.org/doc/getting_started/users_guide.html)
+* [System Principles User's Guide - Ericsson](http://erlang.org/doc/system_principles/system_principles.html)
 * [Erlang Reference Manual User's Guide - Ericsson ](http://erlang.org/doc/reference_manual/users_guide.html)
 * [Erlang/OTP System Documentation - Ericsson (PDF)](http://erlang.org/doc/pdf/otp-system-documentation.pdf)
 * [Programming Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml)
@@ -1230,6 +1232,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ERLANG - VIDEOS
 
+* [Intro to Erlang - Philip Clarke](https://www.youtube.com/watch?v=1QQSTayocdA)
+* [Functional Programming with Erlang](https://www.youtube.com/playlist?list=PLlML6SMLMRgAooeL26mW502jCgWikqx_n)
 * Erlang Master Class (University of Kent): [Class 1: Functional Programming](https://www.youtube.com/watch?v=gKRyAb7d8lo&list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5) | [Class 2: Concurrent Programming](https://www.youtube.com/watch?v=nYgEny1goCY&list=PLR812eVbehlwq4qbqswOWH7NLKjodnTIn) | [Class 3: OTP Behaviours & Releases](https://www.youtube.com/watch?v=9HVvzSsdW9k&list=PLR812eVbehlx6vgWGf2FLHjkksAEDmFjc)
 * [Erlang videos (InfoQ)](http://www.infoq.com/erlang/presentations/)
 * [ErlangSolutions Youtube videos](https://www.youtube.com/user/ErlangSolutions)
@@ -2042,6 +2046,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - REDUX
 
+* [Intro to Redux - Alex Bachux](https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/)
 * [The Problem with Redux... And How to Fix It - Matthew Gertner](http://blog.javascripting.com/2016/05/21/the-problem-with-redux-and-how-to-fix-it/)
 * [redux-elm: The Elm Architecture in JavaScript - Matthew Gertner](https://github.com/salsita/redux-el://github.com/salsita/redux-elm) | [online book of example code](http://salsita.github.io/redux-elm/)
 
@@ -2432,7 +2437,7 @@ Peter R. Egli:
 
 * [Aeon](http://aeon.co/magazine/technology/)
 * [Ars Technica](http://arstechnica.com/)
-* [Back Channel](https://backchannel.com/)
+* [Backchannel](https://backchannel.com/)
 * [BBC](http://www.bbc.com/news/technology)
 * [Bloomberg](http://www.bloomberg.com/technology)
 * [Business Insider](http://www.businessinsider.com/sai)
@@ -2718,6 +2723,7 @@ Peter R. Egli:
 * [Code Podcast](https://soundcloud.com/podcastcode)
 * [Cognicast](http://blog.cognitect.com/cognicast/)
 * [CTRL+ClickCast](http://ctrlclickcast.com/)
+* [Developer On Fire](http://developeronfire.com/)
 * [Dr. Dobbs TV](http://www.drdobbs.com/tv/) (Video)
 * [Elixir Fountain](https://soundcloud.com/elixirfountain)
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
