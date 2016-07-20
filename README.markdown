@@ -736,6 +736,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## ELIXIR
 
 * Elixir: [Docs](http://elixir-lang.org/docs.html) & [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html) & [Erlang/Elixir Syntax Crash Course](http://elixir-lang.org/crash-course.html) & [Elixir-lang-talk group](https://groups.google.com/forum/?fromgroups#!forum/elixir-lang-talk) & [Elixir Core mailing list](https://groups.google.com/forum/#!forum/elixir-lang-core) & [ElixirForum.com](http://elixirforum.com/)
+* [Awesome Elixir - Curated list of Elixir/Erlang libraries, resources & shiny things](https://github.com/h4cc/awesome-elixir)
 * [Cheatsheet](https://www.dropbox.com/s/lr1t87rw4wfnyb3/elixir-cheat-sheet-v2.pdf?dl=0)
 * [What Elixir is About - José Valim (Erlang Factory SF 2015)](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
 * [Elixir with José Valim](http://howistart.org/posts/elixir/1)
@@ -773,7 +774,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Sips (non-free)](http://elixirsips.com) & [Sipper (downloader) - Henrik Nyh](https://github.com/henrik/sipper)
 * [Elixir Starters](http://elixirstarters.github.io/)
 * [Elixir Freenode IRC](http://irc.lc/freenode/elixir)
-* [Awesome Elixir - Curated list of Elixir/Erlang libraries, resources & shiny things](https://github.com/h4cc/awesome-elixir)
 * [Writing Command Line Applications with Elixir - James Smith (ElixirConf 2014)](https://www.youtube.com/watch?v=7l_fDU86pr4)
 * [Elixir Code Reading: Blacksmith](https://www.zweitag.de/en/blog/technology/elixir-code-reading-blacksmith)
 * [Elixir Fountain - bi-weekly podcast](https://soundcloud.com/elixirfountain)
@@ -812,6 +812,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - DEPLOYMENT
 
+* [Elixir in the times of microservices - José Valim](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/)
 * exrm: [source](https://github.com/bitwalker/exrm) | [docs](https://github.com/bitwalker/exrm/tree/master/docs) | [more docs](https://hexdocs.pm/exrm/extra-getting-started.html)
 * Edeliver: [Github](https://github.com/boldpoker/edeliver) | [Deploying Elixir applications with Edeliver - Igor Florian](http://blog.plataformatec.com.br/2016/06/deploying-elixir-applications-with-edeliver/)
 * conform: [source](https://github.com/bitwalker/conform)
@@ -1156,9 +1157,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * NON-FREE (but excellent): Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
 * [Climbing into Elm - Murphy Randle (Utah Javascript Meetup 2014)](https://www.youtube.com/watch?v=-JlC2Q89yg4)
 * [How to Think Elm - Amitai Burstein (Gizra)](http://www.gizra.com/content/how-think-elm/)
+* [Elm Remote Meetup #2 - Josh Adams](https://www.youtube.com/watch?v=qmQo9jtXMSo)
 * [What to do with your new Elm install - Claudia Doppioslash](http://www.lambdacat.com/what-to-do-with-your-new-elm-install/)
 * [My adventure with Elm - Yan Cui (New Developers Conference 2015)](https://www.youtube.com/watch?v=cBVXyxt-9_Q)
 * [Elm on the Functional Frontier - Richard Feldman](https://presentate.com/rtfeldman/talks/the-functional-frontier-elm)
+* [Elm Is Coming - Kris Jenkins](https://www.youtube.com/watch?v=xN1-mtw1Fns)
 * [Composing Styles in Elm (Beginners) - Devan Stormont](https://voyageintech.wordpress.com/2015/10/25/composing-styles-in-elm/)
 * Building a Game in Elm - Brad Urani: [1a](https://www.livecoding.tv/video/building-a-game-in-elm-pt-1a/) | [1b](https://www.livecoding.tv/video/building-a-game-in-elm-pt-1b/) | [2](https://www.livecoding.tv/video/building-a-game-in-elm-2/) | [3](https://www.livecoding.tv/video/building-a-game-in-elm-3/)
 * Developing Games in Elm - Laurence Roberts: [Functional Programming](http://gelatindesign.co.uk/developing-games-in-elm/functional-programming/) | [Signals](http://gelatindesign.co.uk/developing-games-in-elm/signals/)
@@ -1299,7 +1302,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## FUNCTIONAL PROGRAMMING
 
 * [An introduction to functional programming - Mary Rose Cook](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
-* Why Functional Programming Matters - John Hughes: [PDF](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf) | [Postscript](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.ps) | [Chinese](http://www.nirvanastudio.org/functional-programming/why-functional-programming-matters.html)
+* [What Is Functional Programming? - Kris Jenkins](https://www.youtube.com/watch?v=xN1-mtw1Fns)
 * [Awesome Functional Programming [Links]- Denis Stoyanov](https://github.com/xgrommx/awesome-functional-programming)
 * [Functional Programming and Functional Thinking - Tony Morris](https://channel9.msdn.com/Blogs/Charles/YOW-2011-Tony-Morris-Functional-Programming-and-Functional-Thinking?ocid=relatedentry)
 * [Selfish Purity: How Functional Programming Makes Every-Day Jobs Easier - Daniel Spiewak (Jfokus 2015)](https://www.youtube.com/watch?v=WupzbiMZrl8)
@@ -1327,6 +1330,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional Programming and Ruby - Pat Shaughnessy (GoRuCo 2013)](http://confreaks.tv/videos/2557-goruco2013-functional-programming-and-ruby)
 * [Immutable Ruby - Michael Fairley (MountainWest RubyConf 2013)](http://confreaks.tv/videos/2337-mwrc2013-immutable-ruby)
 * The Database as a Value - Rich Hickey: [GOTO Chicago talk](https://channel9.msdn.com/posts/Rich-Hickey-The-Database-as-a-Value) | [Out of the Tar Pit - Ben Moseley & Peter Marks](http://shaffner.us/cs/papers/tarpit.pdf) | [QConn NY talk](http://www.infoq.com/presentations/Datomic-Database-Value)
+* Why Functional Programming Matters - John Hughes: [Video (Erlang Factory 2016)](https://www.infoq.com/presentations/functional-history-highlights) | [PDF](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf) | [Postscript](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.ps) | [Chinese](http://www.nirvanastudio.org/functional-programming/why-functional-programming-matters.html)
 * [Functional Programming and Ruby - Pat Shaughnessy (BostonRB.org)](http://bostonrb.org/presentations/functional-programming-and-ruby)
 * [Y Not? - Adventures in Functional Programming - Jim Weirich (ScotlandJS 2012)](https://vimeo.com/45140590) [RubyConf 2012](http://confreaks.tv/videos/1287-rubyconf2012-y-not-adventures-in-functional-programming)
 * [Functional Thinking - Neal Ford](http://www.youtube.com/watch?v=JeK979aqqqc) & [OSCON 2013](https://www.youtube.com/watch?v=7aYS9PcAITQ)
@@ -1343,6 +1347,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [LambdaConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
 * Lambda Days (Erlang Solutions): [2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2izLmnqYbI5DZ4ArUe3vp1d) | [2015](https://www.youtube.com/results?search_query=lambda+days+2015)
 * [Compose Conference 2015](http://www.composeconference.org/2015/summary/)
+* [Functional Works](https://www.youtube.com/channel/UCE6NivlVPGUn3TMtDAeL2vQ)
 
 ### FUNCTIONAL PROGRAMMING - DATA PIPELINES
 
@@ -1431,6 +1436,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## HASKELL
 
 * Haskell: [main site](https://www.haskell.org/) | [wiki](https://wiki.haskell.org/Haskell) | [learning resources](https://wiki.haskell.org/Learning_Haskell) | [tryhaskell.org](http://tryhaskell.org/) | [Hoogle (Haskell API search engine)](https://www.haskell.org/hoogle/) | [Hackage (Haskell package archive)](http://hackage.haskell.org/) | [GHC user's guide](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/) | [Haskell libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/)
+* [Hackr.io Haskell resources](https://hackr.io/tutorials/haskell)
 * [Type introduction illustrated for casual Haskellers - Takenobu T.](http://takenobu-hs.github.io/downloads/type_introduction_illustrated.pdf)
 * [Write You a Haskell: Building a modern functional compiler from first principles - Stephen Diehl](http://dev.stephendiehl.com/fun/WYAH.pdf)
 * [Learn Haskell](https://github.com/bitemyapp/learnhaskell) | [Specific topics for Haskell users](https://github.com/bitemyapp/learnhaskell/blob/master/specific_topics.md)
@@ -2020,6 +2026,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - REACT.JS
 
+* [Hackr.io React resource list](https://hackr.io/tutorials/react)
 * [Getting Started](https://facebook.github.io/react/docs/getting-started.html) | [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html) | [Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [React + Redux + Webpack videos - Kurt Weiberth](https://www.youtube.com/playlist?list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg)
 * [Intro to Webpack, ES6, Babel, React, React-Router, Redux, and React-Redux - Brad Westfall](https://www.youtube.com/watch?v=DfRibIkjhew)
@@ -2159,6 +2166,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [EdX.org](https://www.edx.org/)
 * [Khan Academy](https://www.khanacademy.org/)
 * [MIT OpenCourseware](http://ocw.mit.edu/index.htm)
+* [MOOC List](https://www.mooc-list.com/)
 * [National Programme on Technology Enhanced Learning (India)](https://onlinecourses.nptel.ac.in/explorer)
 * [No Excuse List (The best place on the web to learn anything, free)](http://www.noexcuselist.com/)
 * [Open Yale courses](http://oyc.yale.edu/courses)
@@ -2449,6 +2457,7 @@ Peter R. Egli:
 * [Engadget](http://www.engadget.com/)
 * [Extreme Tech](http://www.extremetech.com/)
 * [Forbes](http://www.forbes.com/technology/)
+* [Future Tense (Slate)](http://www.slate.com/articles/technology/future_tense.html)
 * [GeekWire](http://www.geekwire.com/)
 * [Gizmodo](http://gizmodo.com/)
 * [Google](https://news.google.com/news/section?topic=tc)
@@ -3271,7 +3280,11 @@ Peter R. Egli:
 
 #### PYTHON - LEARNING - BASICS
 
+* [Simple programs](https://wiki.python.org/moin/SimplePrograms)
 * [Programming for Absolute Beginners: Building Skills in Programming - Steven F. Lott](http://buildingskills.itmaybeahack.com/book/programming-2.6/latex/ProgrammingforNon-Programmers.pdf)
+* Beginner's Guide: [For Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers) | [For Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+* [Google's Python Class](https://developers.google.com/edu/python/)
+* [Hackr.io Python resources list](https://hackr.io/tutorials/python)
 * [Introduction to Programming With Python - Microsoft Virtual Academy (Jumpstart)](https://www.youtube.com/watch?v=9uq3w6JJS00)
 * [Coursera.org Python courses](https://www.coursera.org/courses?query=Python)
 * [EdX.org Python courses](https://www.edx.org/course?search_query=Python)
