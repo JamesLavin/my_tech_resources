@@ -26,6 +26,15 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Algorithms for Animation - Courtney Hemphill](https://youtu.be/GrloJWKBGtg)
 
+## BLOCKCHAINS
+
+* [What the #?!* is Bitcoin? - Jeremy Rubin (TEDxBeaconStreet)](https://www.youtube.com/watch?v=Vzjtvt77mgc)
+* [Blockchain Disruption: How Bitcoin Technology Creates a Sharing Economy - Thomas Ramge (TEDxHamburg)](https://www.youtube.com/watch?v=ZF0iCdYkXTM)
+
+### BLOCKCHAINS - BITCOIN
+
+* [Bitcoin -- distributing power & trust - Eric Spano (TEDxConcordia)](https://www.youtube.com/watch?v=WI1pbHi1fww)
+
 ## BOOKS
 
 * [List of free programming books (many languages)](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
@@ -255,6 +264,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [New York Times](http://developer.nytimes.com/docs)
 * [OpenStreetMap](http://wiki.openstreetmap.org/wiki/API)
 * [OpenWeatherMap](http://openweathermap.org/api) (weather)
+* [ProPublica](https://projects.propublica.org/data-store/)
 * [Quandl](http://www.quandl.com/help/python), [Github](https://github.com/quandl/Python) & [example iPython notebook](http://nbviewer.ipython.org/url/www.logilab.org/file/187482/raw/quandl-data-with-pandas.ipynb)
 * [Reuters](https://customers.reuters.com/developer/apis_tech.aspx)
 * [Salesforce](http://www.salesforce.com/us/developer/docs/api/), [pyforce](https://pypi.python.org/pypi/pyforce/1.4), [simple-salesforce](https://pypi.python.org/pypi/simple-salesforce), [salesforce-python-toolkit](https://code.google.com/p/salesforce-python-toolkit/) & [example](https://developer.salesforce.com/blogs/developer-relations/2014/01/python-and-the-force-com-rest-api-simple-simple-salesforce-example.html)
@@ -301,6 +311,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ICPSR](http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp)
 * [Medicare.gov](http://www.medicare.gov/download/downloaddb.asp)
 * [NationalMap.gov](http://nationalmap.gov)
+* [NIH (National Institutes of Health) Data Sharing Repositories](https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html)
+* [National Library of Medicine](https://www.nlm.nih.gov/)
 * [NOAA National Climatic Data Center](http://www.ncdc.noaa.gov)
 * [Quality of Government data](http://qog.pol.gu.se/data/datadownloads/qogstandarddata)
 * [Sunlight Labs](https://data.sunlightlabs.com/)
@@ -817,12 +829,20 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - DEPLOYMENT
 
 * [Elixir in the times of microservices - José Valim](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/)
-* exrm: [source](https://github.com/bitwalker/exrm) | [docs](https://github.com/bitwalker/exrm/tree/master/docs) | [more docs](https://hexdocs.pm/exrm/extra-getting-started.html)
+* [Elixir Deployment Tools - General Discussion, Blog Posts, Wiki - ElixirForum.com](https://elixirforum.com/t/elixir-deployment-tools-general-discussion-blog-posts-wiki/827)
+* exrm: [source](https://github.com/bitwalker/exrm) | [docs](https://github.com/bitwalker/exrm/tree/master/docs) | [package docs (hexdocs.pm)](https://hexdocs.pm/exrm/extra-getting-started.html)
 * Edeliver: [Github](https://github.com/boldpoker/edeliver) | [Deploying Elixir applications with Edeliver - Igor Florian](http://blog.plataformatec.com.br/2016/06/deploying-elixir-applications-with-edeliver/)
 * conform: [source](https://github.com/bitwalker/conform)
 * [Deploying Phoenix Applications with Exrm [and Conform] - Brandon Richey](https://medium.com/@diamondgfx/deploying-phoenix-applications-with-exrm-97a3867ebd04#.ke7uldpb4)
 * [How to config environment variables with Elixir and Exrm - Igor Florian](http://blog.plataformatec.com.br/2016/05/how-to-config-environment-variables-with-elixir-and-exrm/)
 * [Fast Continuous Deployment of an Elixir Gameserver - Martin Kavalar & Martin Schurrer](https://www.youtube.com/watch?v=RoT8RnQHvgo)
+
+#### ELIXIR - DEPLOYMENT - AWS
+
+* [Elixir on AWS Lambda - ElixirForum.com](https://elixirforum.com/t/elixir-on-aws-lambda/553)
+* [Deploying Elixir to AWS Elastic Beanstalk with Docker - James Robert Somers](https://robots.thoughtbot.com/deploying-elixir-to-aws-elastic-beanstalk-with-docker)
+* [Easy Elixir auto scaling deployment with AWS and Travis CI - Nicklas Ramhöj](https://www.varvet.com/blog/easy-auto-scaling-elixir-deployment-with-aws-and-travis-ci/)
+* [Deploy Elixir Application To AWS Elastic Beanstalk - Michal Kalbarczyk](https://medium.com/@fazibear/deploy-elixir-application-74e1bce100c6#.hkmdp7i75)
 
 ### ELIXIR - EARMARK
 
@@ -831,6 +851,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - ECTO
 
 * Ecto: [documentation](https://hexdocs.pm/ecto/Ecto.html) | [Github](https://github.com/elixir-lang/ecto) | [discussion forum](https://groups.google.com/forum/#!forum/elixir-ecto)
+* Understanding Elixir’s Ecto Querying DSL - Thomas Punt: [The Basics](https://www.sitepoint.com/understanding-elixirs-ecto-querying-dsl-the-basics/) | [Beyond the Basics](https://www.sitepoint.com/elixirs-ecto-querying-dsl-beyond-the-basics/)
 * [Abandoning models and embracing data - exploring Ecto - Michal Muskala (Elixir Warsaw)](https://www.youtube.com/watch?v=dejHBBW9qXI)
 * [Ecto: A language integrated query for Elixir - José Valim](https://www.youtube.com/watch?v=SJRfujy9vLA)
 * [Ecto - the Past, the Present, the Future - Michał Muskała (ElixirConf2016]() | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/087/original/Ecto_-_the_past__the_present__the_future%281%29.pdf?1463063539)
@@ -858,6 +879,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [GenStage - José Valim (Elixir London June 2016))](https://www.youtube.com/watch?v=aZuY5-2lwW4)
 
+### ELIXIR - HEX
+
+* [Writing and Publishing an Elixir Library - Nithin Bekal](http://nithinbekal.com/posts/elixir-publish-package/)
+* [Publishing a package - Hex.pm](https://hex.pm/docs/publish)
+
 ### ELIXIR - MACROS
 
 * [Understanding Elixir Macros, Part 1 - Basics - Saša Jurić](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-1.html), [Part 2 - Micro theory](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-2.html), [Part 3 - Getting into the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-3.html), [Part 4 - Diving Deeper](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-4.html), [Part 5 - Reshaping the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-5.html), [Part 6 - In-place code generation](http://www.theerlangelist.com/2014/07/understanding-elixir-macros-part-6.html)
@@ -867,14 +893,19 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Metaprogramming Elixir - Chris McCord (NDC Oslo 2015)](https://vimeo.com/131643017)
 
+### ELIXIR - MIX
+
+* [Intro to Mix](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
+
 ### ELIXIR - OTP
 
+* [The Mix and OTP Guide](http://elixir-lang.org/getting-started/mix-otp/agent.html)
 * [OTP in Elixir - Part 1 - Christian Di Lorenzo (Triangle Elixir 2016)](https://www.youtube.com/watch?v=_WgrfEaAM4Y)
 * [Chat Bot: A Practical Walkthrough of the powerful Features Elixir/Erlang/OTP - Jeff Weiss](https://www.youtube.com/watch?v=NrrUyRt_B1w)
 
 ### ELIXIR - PACKAGES
 
-* [Hex.pm (Erlang package manager)](https://hex.pm/)
+* [Hex.pm (Erlang & Elixir package manager)](https://hex.pm/)
 * [Apex: Awesome Print for Elixir](https://github.com/BjRo/apex)
 * [BEAM Toolbox: categorized catalog of Hex packages for Elixir and Erlang - Henrik Nyh](http://toolbox.elixir.pm/)
 * [Jolt: REST JSON API with zero coding (Mike Clark)](https://github.com/clarkware/jolt)
@@ -1000,6 +1031,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Is Neat But What Can You Actually Do With It? - Rob Conery (NDC Oslo 2016)](https://vimeo.com/171317253)
 * [What's Ahead for Elixir? - José Valim (ElixirConfEU 2016)](https://www.youtube.com/watch?v=A60nxws_iVs) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/160/original/Jose_Valim-_What's_ahead_of_Elixir.pdf?1463594498)
 * [Building Multiplayer Games with Phoenix and Phaser - Keith Salisbury (ElixirConfEU 2016](https://www.youtube.com/watch?v=I5L9_cXwBcU)
+* [Indy Elixir First (Virtual) Meetup!](https://www.youtube.com/watch?v=U-bZpPehiRk)
 * [Concurrent and Resilient Connections to Outside the BEAM - Andrea Leopardi (ElixirConfEU 2016)](https://www.youtube.com/watch?v=U1Ry7STEFiY) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/149/original/Andrea_Leopardi_Concurrent-and-resilient-connections-to-outside-the-beam.pdf?1463389064)
 * [What Elixir Is About - José Valim (Erlang User Conference 2015)](https://www.youtube.com/watch?v=QXcedVc2LQM)
 * [Rewriting a Ruby application in Elixir - Claudio Ortolina (ElixirConf 2015)](https://www.youtube.com/watch?v=lho1e04Gzzs)
@@ -1017,6 +1049,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [Intro to Elm - Richard Feldman (2016)](https://www.youtube.com/watch?v=3_M2G9U51GA)
 * [Intro to Elm - Alan Gardner (2016)](https://vimeo.com/167092863)
+* [ElmLive (video tutorial series) - Aaron VonderHaar](https://www.youtube.com/user/gruen0/videos): [Lights Out, Pt 1](https://www.youtube.com/watch?v=R6vuO547DC8) | [Lights Out, Pt 2](https://www.youtube.com/watch?v=OAgF2uUnKcg) | [Drag'N'Drop, Pt 1](https://www.youtube.com/watch?v=Rzz78cR0hPw) | [Drag'N'Drop, Pt 2](https://www.youtube.com/watch?v=DkOS0QqDUIY) | [Drag'N'Drop, Pt 3](https://www.youtube.com/watch?v=HgCMdjoSWnQ) | [Drag'N'Drop, Pt 4](https://www.youtube.com/watch?v=eFJiwPW3dwI) | [#BlackLivesMatter, Pt 1](https://www.youtube.com/watch?v=t9pOVSmNeR0) | [#BlackLivesMatter, Pt 2](https://www.youtube.com/watch?v=DgeIOk7JoqE)
 * [Understanding the Elm type system - Adam Waselnuk](http://www.adamwaselnuk.com/elm/2016/05/27/understanding-the-elm-type-system.html)
 * [Elm Cheat Sheet - Sergey Keller](https://github.com/izdi/elm-cheat-sheet)
 * [elm-by-example.org - Grzegorz Balcerek](http://elm-by-example.org/) | [code examples](https://github.com/grzegorzbalcerek/ElmByExample)
@@ -1174,6 +1207,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - VIDEOS - LEARNING
 
 * NON-FREE (but excellent): Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
+* [Elm: Frontend with Guarantees - Amitai Burstein](https://www.youtube.com/watch?v=FgaoOgJ5CAU)
 * [Climbing into Elm - Murphy Randle (Utah Javascript Meetup 2014)](https://www.youtube.com/watch?v=-JlC2Q89yg4)
 * [How to Think Elm - Amitai Burstein (Gizra)](http://www.gizra.com/content/how-think-elm/)
 * [Elm Remote Meetup #2 - Luke Westby & Josh Adams](https://www.youtube.com/watch?v=qmQo9jtXMSo) | [slides](https://slides.com/lukewestby/elm-stuff) | [code](https://github.com/lukewestby/elm-remote-meetup-july-2016)
@@ -1190,6 +1224,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [N Languages in N Months: Functional Fall: Elm - John Mayer (Hakka Labs)](https://www.youtube.com/watch?v=e_pw9YMzCMM)
 * [Functional programming for the Web: Elm (Kris Jenkins), Haskell (Christian Takle), Clojurescript (Sonny To)](https://www.youtube.com/watch?v=de-bbvzsr6U)
 * Road to Elm - LamdaCat: [Index](http://www.lambdacat.com/road-to-elm-index/) | [Currying, The Unknown](http://www.lambdacat.com/road-to-elm-currying-the-unknown/) | [Lists, Arrays, Sets, and Dictionaries](https://dennisreimann.de/articles/elm-data-structures-list-array-set-dict.html) | [Records & Tuples](https://dennisreimann.de/articles/elm-data-structures-record-tuple.html) | [Destructuring](http://www.lambdacat.com/road-to-elm-destructuring/)
+* [Richard Feldman - Twitch.TV](https://www.twitch.tv/rtfeldman)
 * [Functional reactive programming in Elm - Sergei Winitzki](https://www.youtube.com/watch?v=DiZ1CfLQvIU) & [slides (PDF)](https://github.com/winitzki/talks/blob/master/elm-talk/elm_talk.pdf)
 * [Elm - Evan Czaplicki](https://www.youtube.com/watch?v=ZTliDiWDV0k)
 * Phoenix with Elm - Alan Gardner: [Video (ElixirConf 2015)](http://confreaks.tv/videos/elixirconf2015-phoenix-with-elm) | [Blog Pt 1](http://www.cultivatehq.com/posts/phoenix-elm-1/) | [Blog Pt 2](http://www.cultivatehq.com/posts/phoenix-elm-2/) | [Blog Pt 3](http://www.cultivatehq.com/posts/phoenix-elm-3/) | [Blog Pt 4](http://www.cultivatehq.com/posts/phoenix-elm-4/) | [Blog Pt 5](http://www.cultivatehq.com/posts/phoenix-elm-5/) | [Blog Pt 6](http://www.cultivatehq.com/posts/phoenix-elm-6/) | [Blog Pt 7](http://www.cultivatehq.com/posts/phoenix-elm-7/) | [Blog Pt 8](http://www.cultivatehq.com/posts/phoenix-elm-8/) | [Blog Pt 9](http://www.cultivatehq.com/posts/phoenix-elm-9/) | [Blog Pt 10](http://www.cultivatehq.com/posts/phoenix-elm-10/) | [Blog Pt 11](http://www.cultivatehq.com/posts/phoenix-elm-11/) | [Blog Pt 12](http://www.cultivatehq.com/posts/phoenix-elm-12/) | [Blog Pt 13](http://www.cultivatehq.com/posts/phoenix-elm-13/)
@@ -1329,6 +1364,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Selfish Purity: How Functional Programming Makes Every-Day Jobs Easier - Daniel Spiewak (Jfokus 2015)](https://www.youtube.com/watch?v=WupzbiMZrl8)
 * [What is functional programming? - Kris Jenkins](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 * [Why Bother With FP? - Tomek Borek (Lambda Days 2015)](https://www.youtube.com/watch?v=_bYkRXcf9sA)
+* [Currying vs Partial Application - Dave Atchley](http://www.datchley.name/currying-vs-partial-application/)
 * [An Invitation to Functional Programming - Rúnar Bjarnason (Lambda Days 2015)](https://www.youtube.com/watch?v=aa7jh1J4xNs)
 * [Functional Programming from First Principles - Erik Meijer (goto; conference)](https://www.youtube.com/watch?v=a-RAltgH8tw)
 * [Why I Like Functional Programming - Adelbert Chang (LambdaConf 2015)](https://www.youtube.com/watch?v=tsHQEB_ftxc)
@@ -1386,6 +1422,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional Reactive Programming - Riccardo Terrell (Lambda Days 2016)](https://www.youtube.com/watch?v=UJH8sAnpBL4)
 * [Controlling Time and Space: Understanding the Many Formulations of FRP - Evan Czaplicki (StrangeLoop 2014)](https://www.youtube.com/watch?v=Agu6jipKfYw)
 * [Observables Everywhere - Jeremy Foster (2016)](https://channel9.msdn.com/Blogs/seattlejs/2016-01-14-01)
+* [Incremental computations and the web (OCaml) - Yaron Minsky (Jane Street)](http://blog.functionalworks.com/building-web-applications-without-really-trying)
 
 ### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
 
@@ -1412,6 +1449,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### FUNCTIONAL PROGRAMMING - PODCASTS
 
 * [FunctionalGeekery.com](https://www.functionalgeekery.com)
+
+### FUNCTIONAL PROGRAMMING - VIDEOS
+
+* [LDN Functionals (Functional Works)](https://www.youtube.com/channel/UCE6NivlVPGUn3TMtDAeL2vQ)
 
 ## GIT
 
@@ -2254,6 +2295,7 @@ Peter R. Egli:
   * [REST](http://www.indigoo.com/dox/wsmw/2_WebServices/REST.pdf)
   * [Web Services](http://www.indigoo.com/dox/wsmw/2_WebServices/Web-Services.pdf)
   * [Android NDK](http://www.indigoo.com/dox/mobdev/01_Android/Android-NDK.pdf)
+* [Ping! Are you there? - Lydia Gu (!!Con 2016)](https://www.youtube.com/watch?v=nSB53WRGY_0)
 
 #### LINUX - NETWORKING - SOCAT
 
@@ -2457,6 +2499,7 @@ Peter R. Egli:
 * [The Register](http://www.theregister.co.uk/science/)
 * [The Verge](http://www.theverge.com/science)
 * [Tumble Science Podcast For Kids](https://itunes.apple.com/us/podcast/tumble-science-podcast-for/id984771479)
+* [The Verge](http://www.theverge.com/science)
 * [Wired](http://www.wired.com/category/science)
 * [World Science Festival](http://www.worldsciencefestival.com/)
 
@@ -2951,6 +2994,7 @@ Peter R. Egli:
 * [Keynote - Wes McKinney (PyCon Singapore 2013)](https://www.youtube.com/watch?v=Jm73dKlYHZw)
 * [Data Analysis in Python with Pandas - Wes McKinney (2012 PyData Workshop)](https://www.youtube.com/watch?v=MxRMXhjXZos)
 * [Time Series Data Analysis with Pandas - Wes McKinney (ciPy 2012)](https://www.youtube.com/watch?v=0unf-C-pBYE)
+* [Applied Time Series Econometrics in Python and R - Jeffrey Yau (PyData 2016)](https://www.youtube.com/watch?v=tJ-O3hk1vRw)
 * [Python Data Visualization Cookbook](http://lubossabol.sk/manual/Python27/Python_Data_Visualization_Cookbook.pdf)
 * [Python Pandas Tutorial - Mikhail Semeniuk](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)
 * [Remote Data Access](http://pandas.pydata.org/pandas-docs/stable/remote_data.html)
@@ -3200,6 +3244,7 @@ Peter R. Egli:
 
 #### PYTHON - GRAPHICS - BOKEH
 
+* [Data Applications with Bokeh - Bryan Van De Ven (PyData 2016)](https://www.youtube.com/watch?v=M1-MVYLONZc)
 * [Bokeh in iPython Notebook - ContinuumIO](http://nbviewer.ipython.org/github/ContinuumIO/bokeh-notebooks/blob/master/index.ipynb)
 * [Tutorial](http://bokeh.pydata.org/tutorial/index.html)
 * [Gallery](http://bokeh.pydata.org/docs/gallery.html)
