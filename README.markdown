@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-Links to resources I have found useful or think might be helpful to future me or Ruby/Javascript/Python/Elixir/Elm developers like me.
+Links to resources I have found useful or think might be helpful to future me or Ruby/Javascript/Python/Erlang/Elixir/Elm developers like me.
 
 ## MAJOR CATEGORIES
 
@@ -89,16 +89,28 @@ Links to resources I have found useful or think might be helpful to future me or
 ## CHINESE
 
 * [InfoQ Chinese news](http://www.infoq.com/cn/)
-* [Peking Univesity EdX courses](https://www.edx.org/school/pekingx)
+* [Chinese university courses on Coursera](https://www.coursera.org/about/partners/cn)
+* Fudan University: [Coursera courses](https://www.coursera.org/fudan)
+* Nanjing University: [Coursera courses](https://www.coursera.org/nanjing)
+    * [计算机操作系统](https://www.coursera.org/learn/jisuanji-caozuo-xitong)
+    * [计算机系统基础（一） ：程序的表示、转换与链接](https://www.coursera.org/learn/jisuanji-xiton://www.coursera.org/learn/jisuanji-xitong)
+    * [软件测试 (Software Testing)](https://www.coursera.org/learn/ruanjian-ceshi)
+    * [用Python玩转数据 Data Processing Using Python](https://www.coursera.org/learn/hipython)
+* Peking Univesity: [Coursera courses](https://www.coursera.org/pku) | [EdX courses](https://www.edx.org/school/pekingx)
     * [魅力机器人 | The Fascinating World of Robots and Robotics](https://www.edx.org/course/mei-li-ji-qi-ren-fascinating-world-pekingx-00330280x-0)
+    * [操作系统与虚拟化安全](https://www.coursera.org/learn/os-virtsecurity)
+    * [软件工程](https://www.coursera.org/learn/ruanjian-gongcheng)
     * [数据结构与算法第一部分 | Data Structures and Algorithms Part 1 (Beijing University)](https://www.edx.org/course/pekingx/pekingx-04830050x-shu-ju-jie-gou-yu-suan-2061) & [Part 2](https://www.edx.org/course/shu-ju-jie-gou-yu-suan-fa-di-er-bu-fen-pekingx-04830050-2x)
     * [算法基础－Fundamental Algorithms](https://www.edx.org/course/fundamental-algorithms-suan-fa-ji-chu-pekingx-04831750-2x)
     * [Principles and Practice of Computer Aided Translation 计算机辅助翻译原理与实践](https://www.edx.org/course/pekingx/pekingx-01718330x-principles-practice-1484)
     * [人群与网络 | Networks and Crowds](https://www.edx.org/course/pekingx/pekingx-03131840x-ren-qun-yu-wang-luo-2536)
     * [程序设计基础 | Fundamentals of Programming](https://www.edx.org/course/pekingx/pekingx-532001x-cheng-xu-she-ji-ji-chu-2046)
     * [理论计算机科学基础 | Introduction to Theoretical Computer Science](https://www.edx.org/course/pekingx/pekingx-04830260x-li-lun-ji-suan-ji-ke-3011)
-* Tsinghua University
+* Shanghai Jiaotong University: [Coursera courses](https://www.coursera.org/sjtu)
+* Tsinghua University: [EdX courses](https://www.edx.org/school/tsinghuax)
     * [Data Structures and Algorithm Design Part I 数据结构与算法设计(上)](https://www.edx.org/course/data-structures-algorithm-design-part-i-tsinghuax-30240184-1x) | [Data Structures and Algorithm Design Part II 数据结构与算法设计(下)](https://www.edx.org/course/data-structures-algorithm-design-part-ii-tsinghuax-30240184-2x) | [Data Structures • 数据结构](https://www.edx.org/course/data-structures-shu-ju-jie-gou-tsinghuax-30240184x-0) | [2015 course - Data Structures and Algorithm Design 数据结构与算法设计](https://www.edx.org/course/data-structures-algorithm-design-shu-ju-tsinghuax-30240184x) | [2014 course](https://www.edx.org/course/data-structures-shu-ju-jie-gou-tsinghuax-30240184x-0)
+* USTC: [Coursera courses](https://www.coursera.org/ustc)
+* Xian Jiaotong University: [Coursera courses](https://www.coursera.org/xjtu)
 * [Elixir入门文档中文](https://github.com/elixir-lang-china/elixir_guide_cn)
 
 ### CHINESE - AUDIO
@@ -260,6 +272,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Facebook](https://developers.facebook.com/docs/graph-api)
 * [Forecast.io](https://developer.forecast.io/) (weather)
 * [Hotwire](http://developer.hotwire.com/)
+* [Kaggle](http://blog.kaggle.com/2016/08/17/making-kaggle-the-home-of-open-data/)
 * [MapQuest](http://developer.mapquest.com/web/products/open) (maps)
 * [New York Times](http://developer.nytimes.com/docs)
 * [OpenStreetMap](http://wiki.openstreetmap.org/wiki/API)
@@ -469,17 +482,15 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - DOCKER
 
 * Docker docs:
-    * [User Guide](https://docs.docker.com/userguide/)
-    * [Articles](https://docs.docker.com/articles/)
-    * [Examples](https://docs.docker.com/examples/nodejs_web_app/)
-    * [Installation](https://docs.docker.com/installation/)
-    * [Linking Containers Together](Linking Containers Togethe://docs.docker.com/userguide/dockerlinks/)
-    * [Docker Engine](https://docs.docker.com/engine/quickstart/)
-    * [Docker Swarm](Understanding the architecture](https://docs.docker.com/engine/understanding-docker/)
+    * [User Guide](https://docs.docker.com/engine/userguide/)
+    * [Documentation & Installation](https://docs.docker.com)
+    * [Docker Container Networks](https://docs.docker.com/engine/userguide/networking/)
+    * [Docker Engine](https://docs.docker.com/engine/understanding-docker/)
+    * [Docker Swarm](https://docs.docker.com/swarm/)
     * [Docker Compose](https://docs.docker.com/compose/overview/)
-    * [Docker Hub](https://docs.docker.com/docker-hub/overview/)
-    * [Docker Machine](https://docs.docker.com/machine/overview/)
-    * [Docker Cloud](https://docs.docker.com/docker-cloud/overview/)
+    * [Docker Hub](https://docs.docker.com/docker-hub/)
+    * [Docker Machine](https://docs.docker.com/machine/)
+    * [Docker Cloud](https://docs.docker.com/docker-cloud/)
 * [Docker Self-Paced Training videos](https://training.docker.com/self-paced-training)
 * [Docker tutorial videos - Scott Turnbull](https://www.youtube.com/playlist?list=PLLOtMDswK0Iu0m0wseAXTzavCWji7qso7)
 * Docker Tutorials: [1: Installing Docker](https://www.youtube.com/watch?v=bV5vbNK3Uhw) | [2: Docker Run Basics](https://www.youtube.com/watch?v=uTe08FxoKrU) | [3: Fun With Volumes](https://www.youtube.com/watch?v=rlK1JYsM6Aw) | [4: More Run With Extra Goodies](https://www.youtube.com/watch?v=ZgjHM1XmAKI) | [5: Basic Networking](https://www.youtube.com/watch?v=3uvqEC8fWV0) | [6: Dockerfiles (Part 1)](https://www.youtube.com/watch?v=gG_x28rDxus) | [7: Dockerfiles (Part 2)](https://www.youtube.com/watch?v=L6bjTlVdc6U) | [8: Troubleshooting with Sysdig](https://www.youtube.com/watch?v=S-fYCOMnsbY) | [9: Docker Machine](https://www.youtube.com/watch?v=3zXe3uXQnSY) | [10: Docker Compose](https://www.youtube.com/watch?v=gtoT0By8yh4) | [11: Docker Swarm](ihttps://www.youtube.com/watch?v=zTKGfPfhg78) | [12: Kitematic](https://www.youtube.com/watch?v=50IZ-AHPKo0) | [13: Getting Started with experimental Docker Networking](https://www.youtube.com/watch?v=gZ6UKym9ZIs) | [Full List](https://www.youtube.com/playlist?list=PLkA60AVN3hh_6cAz8TUGtkYbJSL2bdZ4h)
@@ -834,8 +845,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Elixir in the times of microservices - José Valim](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/)
 * [Elixir Deployment Tools - General Discussion, Blog Posts, Wiki - ElixirForum.com](https://elixirforum.com/t/elixir-deployment-tools-general-discussion-blog-posts-wiki/827)
+* [Understanding deps and applications in your Mixfile - João Britto](http://blog.plataformatec.com.br/2016/07/understanding-deps-and-applications-in-your-mixfile/)
 * exrm: [source](https://github.com/bitwalker/exrm) | [docs](https://github.com/bitwalker/exrm/tree/master/docs) | [package docs (hexdocs.pm)](https://hexdocs.pm/exrm/extra-getting-started.html)
 * Edeliver: [Github](https://github.com/boldpoker/edeliver) | [Deploying Elixir applications with Edeliver - Igor Florian](http://blog.plataformatec.com.br/2016/06/deploying-elixir-applications-with-edeliver/)
+* [Easy Elixir auto scaling deployment with AWS and Travis CI - Nicklas Ramhöj](https://www.varvet.com/blog/easy-auto-scaling-elixir-deployment-with-aws-and-travis-ci/)
 * conform: [source](https://github.com/bitwalker/conform)
 * [Deploying Phoenix Applications with Exrm [and Conform] - Brandon Richey](https://medium.com/@diamondgfx/deploying-phoenix-applications-with-exrm-97a3867ebd04#.ke7uldpb4)
 * [How to config environment variables with Elixir and Exrm - Igor Florian](http://blog.plataformatec.com.br/2016/05/how-to-config-environment-variables-with-elixir-and-exrm/)
@@ -1074,6 +1087,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [elm-lang.org/blog](http://elm-lang.org/blog)
 * [Gizra](http://www.gizra.com/tags.html#Elm-ref)
+* [LambdaCat](http://www.lambdacat.com/)
 * [Magnus Rundberget](http://rundis.github.io/blog/)
 * [Simon Hampton](http://simonh1000.github.io/blog/)
 
@@ -1210,10 +1224,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - VIDEOS - LEARNING
 
+* [Intro to Elm - Claudia Doppioslash](https://www.youtube.com/watch?v=gJ9DSVnZKhk)
 * NON-FREE (but excellent): Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
-* [ElmLive (video tutorial series) - Aaron VonderHaar](https://www.youtube.com/user/gruen0/videos): [Lights Out, Pt 1](https://www.youtube.com/watch?v=R6vuO547DC8) | [Lights Out, Pt 2](https://www.youtube.com/watch?v=OAgF2uUnKcg) | [Drag'N'Drop, Pt 1](https://www.youtube.com/watch?v=Rzz78cR0hPw) | [Drag'N'Drop, Pt 2](https://www.youtube.com/watch?v=DkOS0QqDUIY) | [Drag'N'Drop, Pt 3](https://www.youtube.com/watch?v=HgCMdjoSWnQ) | [Drag'N'Drop, Pt 4](https://www.youtube.com/watch?v=eFJiwPW3dwI) | [#BlackLivesMatter, Pt 1](https://www.youtube.com/watch?v=t9pOVSmNeR0) | [#BlackLivesMatter, Pt 2](https://www.youtube.com/watch?v=DgeIOk7JoqE) | [AWS Cognito - Pt 1](https://www.youtube.com/watch?v=seLD59KsHJk) | [AWS Cognito - Pt 2](https://www.youtube.com/watch?v=X6e8KpPWHg0) | [Mandelbrot Magic, Pt 1](https://www.youtube.com/watch?v=kObuBHIeYBE) | [Mandelbrot Magic, Pt 2](https://www.youtube.com/watch?v=8gQBiMxIJEQ)
+* [ElmLive (video tutorial series) - Aaron VonderHaar](https://www.youtube.com/user/gruen0/videos): [Lights Out, Pt 1](https://www.youtube.com/watch?v=R6vuO547DC8) | [Lights Out, Pt 2](https://www.youtube.com/watch?v=OAgF2uUnKcg) | [Lights Out (Code)](https://gist.github.com/avh4/dda1523ed8fc7bc3790b20150c1f0f22) | [Drag'N'Drop, Pt 1](https://www.youtube.com/watch?v=Rzz78cR0hPw) | [Drag'N'Drop, Pt 2](https://www.youtube.com/watch?v=DkOS0QqDUIY) | [Drag'N'Drop, Pt 3](https://www.youtube.com/watch?v=HgCMdjoSWnQ) | [Drag'N'Drop, Pt 4](https://www.youtube.com/watch?v=eFJiwPW3dwI) | [#BlackLivesMatter, Pt 1](https://www.youtube.com/watch?v=t9pOVSmNeR0) | [#BlackLivesMatter, Pt 2](https://www.youtube.com/watch?v=DgeIOk7JoqE) | [AWS Cognito - Pt 1](https://www.youtube.com/watch?v=seLD59KsHJk) | [AWS Cognito - Pt 2](https://www.youtube.com/watch?v=X6e8KpPWHg0) | [Mandelbrot Magic, Pt 1](https://www.youtube.com/watch?v=kObuBHIeYBE) | [Mandelbrot Magic, Pt 2](https://www.youtube.com/watch?v=8gQBiMxIJEQ)
 * [Elm Solitaire game #1 - Martin Janiczek](https://www.youtube.com/watch?v=dDZb46sN3yM)
 * [Elm: Frontend with Guarantees - Amitai Burstein](https://www.youtube.com/watch?v=FgaoOgJ5CAU)
+* Writing A Full Site in Phoenix and Elm - Brandon Richey: [Part 1](https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-a100804c9499#.3tzhbd8nt) | [Part 2: Making HTTP Calls From Elm](https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-a4622c5130f5#.rezd1mhxi) | [Part 3: Navigation From the Ground Up](https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-8f50ba4382a3#.ffhrag5da)
 * [Climbing into Elm - Murphy Randle (Utah Javascript Meetup 2014)](https://www.youtube.com/watch?v=-JlC2Q89yg4)
 * [How to Think Elm - Amitai Burstein (Gizra)](http://www.gizra.com/content/how-think-elm/)
 * [Elm Remote Meetup #2 - Luke Westby & Josh Adams](https://www.youtube.com/watch?v=qmQo9jtXMSo) | [slides](https://slides.com/lukewestby/elm-stuff) | [code](https://github.com/lukewestby/elm-remote-meetup-july-2016)
