@@ -818,6 +818,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Documentation (PDF)](https://media.readthedocs.org/pdf/elixir-lang/latest/elixir-lang.pdf)
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) & [Github](https://github.com/oreillymedia/etudes-for-elixir)
 
+### ELIXIR - CODE EXAMPLES
+
+* [Simulations - James Edward Gray II](https://github.com/JEG2/simulations)
+
 ### ELIXIR - COWBOY
 
 * Cowboy: [Github](https://github.com/ninenines/cowboy) | [User Guide](http://ninenines.eu/docs/en/cowboy/HEAD/guide/)
@@ -853,7 +857,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Ecto: [documentation](https://hexdocs.pm/ecto/Ecto.html) | [Github](https://github.com/elixir-lang/ecto) | [discussion forum](https://groups.google.com/forum/#!forum/elixir-ecto)
 * Understanding Elixir’s Ecto Querying DSL - Thomas Punt: [The Basics](https://www.sitepoint.com/understanding-elixirs-ecto-querying-dsl-the-basics/) | [Beyond the Basics](https://www.sitepoint.com/elixirs-ecto-querying-dsl-beyond-the-basics/)
 * [Abandoning models and embracing data - exploring Ecto - Michal Muskala (Elixir Warsaw)](https://www.youtube.com/watch?v=dejHBBW9qXI)
-* [Ecto: A language integrated query for Elixir - José Valim](https://www.youtube.com/watch?v=SJRfujy9vLA)
+* [Ecto: A language integrated query for Elixir - José Valim (CodeMesh Londong 2013)](https://www.youtube.com/watch?v=SJRfujy9vLA)
 * [Ecto - the Past, the Present, the Future - Michał Muskała (ElixirConf2016]() | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/087/original/Ecto_-_the_past__the_present__the_future%281%29.pdf?1463063539)
 * [Ecto - Eric Meadows-Jönsson (ElixirConf EU 2015)](https://www.youtube.com/watch?v=snka1bAtZS0)
 * [PostgreSQL indexing with Ecto - Richard Nyström](http://rny.io/elixir/ecto/postgresql/2015/08/31/postgresql-indexing-with-ecto.html)
@@ -875,8 +879,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [ExDoc](https://github.com/elixir-lang/ex_doc)
 
-### ELIXIR - GEN-STAGE
+### ELIXIR - GENSTAGE
 
+* [Announcing GenStage - José Valim](http://elixir-lang.org/blog/2016/07/14/announcing-genstage/)
 * [GenStage - José Valim (Elixir London June 2016))](https://www.youtube.com/watch?v=aZuY5-2lwW4)
 
 ### ELIXIR - HEX
@@ -1049,7 +1054,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [Intro to Elm - Richard Feldman (2016)](https://www.youtube.com/watch?v=3_M2G9U51GA)
 * [Intro to Elm - Alan Gardner (2016)](https://vimeo.com/167092863)
-* [ElmLive (video tutorial series) - Aaron VonderHaar](https://www.youtube.com/user/gruen0/videos): [Lights Out, Pt 1](https://www.youtube.com/watch?v=R6vuO547DC8) | [Lights Out, Pt 2](https://www.youtube.com/watch?v=OAgF2uUnKcg) | [Drag'N'Drop, Pt 1](https://www.youtube.com/watch?v=Rzz78cR0hPw) | [Drag'N'Drop, Pt 2](https://www.youtube.com/watch?v=DkOS0QqDUIY) | [Drag'N'Drop, Pt 3](https://www.youtube.com/watch?v=HgCMdjoSWnQ) | [Drag'N'Drop, Pt 4](https://www.youtube.com/watch?v=eFJiwPW3dwI) | [#BlackLivesMatter, Pt 1](https://www.youtube.com/watch?v=t9pOVSmNeR0) | [#BlackLivesMatter, Pt 2](https://www.youtube.com/watch?v=DgeIOk7JoqE)
 * [Understanding the Elm type system - Adam Waselnuk](http://www.adamwaselnuk.com/elm/2016/05/27/understanding-the-elm-type-system.html)
 * [Elm Cheat Sheet - Sergey Keller](https://github.com/izdi/elm-cheat-sheet)
 * [elm-by-example.org - Grzegorz Balcerek](http://elm-by-example.org/) | [code examples](https://github.com/grzegorzbalcerek/ElmByExample)
@@ -1207,6 +1211,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - VIDEOS - LEARNING
 
 * NON-FREE (but excellent): Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
+* [ElmLive (video tutorial series) - Aaron VonderHaar](https://www.youtube.com/user/gruen0/videos): [Lights Out, Pt 1](https://www.youtube.com/watch?v=R6vuO547DC8) | [Lights Out, Pt 2](https://www.youtube.com/watch?v=OAgF2uUnKcg) | [Drag'N'Drop, Pt 1](https://www.youtube.com/watch?v=Rzz78cR0hPw) | [Drag'N'Drop, Pt 2](https://www.youtube.com/watch?v=DkOS0QqDUIY) | [Drag'N'Drop, Pt 3](https://www.youtube.com/watch?v=HgCMdjoSWnQ) | [Drag'N'Drop, Pt 4](https://www.youtube.com/watch?v=eFJiwPW3dwI) | [#BlackLivesMatter, Pt 1](https://www.youtube.com/watch?v=t9pOVSmNeR0) | [#BlackLivesMatter, Pt 2](https://www.youtube.com/watch?v=DgeIOk7JoqE) | [AWS Cognito - Pt 1](https://www.youtube.com/watch?v=seLD59KsHJk) | [AWS Cognito - Pt 2](https://www.youtube.com/watch?v=X6e8KpPWHg0) | [Mandelbrot Magic, Pt 1](https://www.youtube.com/watch?v=kObuBHIeYBE) | [Mandelbrot Magic, Pt 2](https://www.youtube.com/watch?v=8gQBiMxIJEQ)
+* [Elm Solitaire game #1 - Martin Janiczek](https://www.youtube.com/watch?v=dDZb46sN3yM)
 * [Elm: Frontend with Guarantees - Amitai Burstein](https://www.youtube.com/watch?v=FgaoOgJ5CAU)
 * [Climbing into Elm - Murphy Randle (Utah Javascript Meetup 2014)](https://www.youtube.com/watch?v=-JlC2Q89yg4)
 * [How to Think Elm - Amitai Burstein (Gizra)](http://www.gizra.com/content/how-think-elm/)
@@ -2721,6 +2727,7 @@ Peter R. Egli:
 * [AListApart.com](http://alistapart.com/)
 * [Code Words](https://codewords.recurse.com/issues)
 * [Dr. Dobbs](http://www.drdobbs.com/blogs/)
+* [The Effective Engineer - Edmond Lau](http://www.theeffectiveengineer.com/)
 * [TheGeekStuff.com](http://www.thegeekstuff.com/)
 * [Jeff Atwood - "Coding Horror"](http://blog.codinghorror.com/)
 * [Joel Spolsky - JoelOnSoftware.com](http://www.joelonsoftware.com/)
