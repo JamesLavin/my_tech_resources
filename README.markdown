@@ -868,6 +868,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - ECTO
 
 * Ecto: [documentation](https://hexdocs.pm/ecto/Ecto.html) | [Github](https://github.com/elixir-lang/ecto) | [discussion forum](https://groups.google.com/forum/#!forum/elixir-ecto)
+* [An Intro to Ecto: Using Ecto in Non-Phoenix Elixir Projects - Geo Lessel (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=8j3DLfNI6Jw)
 * Understanding Elixir’s Ecto Querying DSL - Thomas Punt: [The Basics](https://www.sitepoint.com/understanding-elixirs-ecto-querying-dsl-the-basics/) | [Beyond the Basics](https://www.sitepoint.com/elixirs-ecto-querying-dsl-beyond-the-basics/)
 * [Abandoning models and embracing data - exploring Ecto - Michal Muskala (Elixir Warsaw)](https://www.youtube.com/watch?v=dejHBBW9qXI)
 * [Ecto: A language integrated query for Elixir - José Valim (CodeMesh Londong 2013)](https://www.youtube.com/watch?v=SJRfujy9vLA)
@@ -917,6 +918,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - OTP
 
+* [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir)
 * [The Mix and OTP Guide](http://elixir-lang.org/getting-started/mix-otp/agent.html)
 * [OTP in Elixir - Part 1 - Christian Di Lorenzo (Triangle Elixir 2016)](https://www.youtube.com/watch?v=_WgrfEaAM4Y)
 * [Chat Bot: A Practical Walkthrough of the powerful Features Elixir/Erlang/OTP - Jeff Weiss](https://www.youtube.com/watch?v=NrrUyRt_B1w)
@@ -1224,6 +1226,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - VIDEOS - LEARNING
 
+* [Adventures in Elm - Jessica Kerr (GOTO 2016)](https://www.youtube.com/watch?v=cgXhMc8M4X4)
 * [Intro to Elm - Claudia Doppioslash](https://www.youtube.com/watch?v=gJ9DSVnZKhk)
 * NON-FREE (but excellent): Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
 * [ElmLive (video tutorial series) - Aaron VonderHaar](https://www.youtube.com/user/gruen0/videos): [Lights Out, Pt 1](https://www.youtube.com/watch?v=R6vuO547DC8) | [Lights Out, Pt 2](https://www.youtube.com/watch?v=OAgF2uUnKcg) | [Lights Out (Code)](https://gist.github.com/avh4/dda1523ed8fc7bc3790b20150c1f0f22) | [Drag'N'Drop, Pt 1](https://www.youtube.com/watch?v=Rzz78cR0hPw) | [Drag'N'Drop, Pt 2](https://www.youtube.com/watch?v=DkOS0QqDUIY) | [Drag'N'Drop, Pt 3](https://www.youtube.com/watch?v=HgCMdjoSWnQ) | [Drag'N'Drop, Pt 4](https://www.youtube.com/watch?v=eFJiwPW3dwI) | [#BlackLivesMatter, Pt 1](https://www.youtube.com/watch?v=t9pOVSmNeR0) | [#BlackLivesMatter, Pt 2](https://www.youtube.com/watch?v=DgeIOk7JoqE) | [AWS Cognito - Pt 1](https://www.youtube.com/watch?v=seLD59KsHJk) | [AWS Cognito - Pt 2](https://www.youtube.com/watch?v=X6e8KpPWHg0) | [Mandelbrot Magic, Pt 1](https://www.youtube.com/watch?v=kObuBHIeYBE) | [Mandelbrot Magic, Pt 2](https://www.youtube.com/watch?v=8gQBiMxIJEQ)
@@ -1482,7 +1485,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Git Reference](http://gitref.org/)
 * [Git from the inside out - Mary Rose Cook](http://maryrosecook.com/blog/post/git-from-the-inside-out)
 * [Pro Git](http://git-scm.com/book) [PDF](https://github.s3.amazonaws.com/media/progit.en.pdf) [mobi](https://github.s3.amazonaws.com/media/pro-git.en.mobi) [ePub](https://github.s3.amazonaws.com/media/progit.epub)
-* Atlassian: [Getting Started](https://www.atlassian.com/git/tutorials/what-is-version-control) | [Tutorials](https://www.atlassian.com/git/tutorials) | [Collaborating](https://www.atlassian.com/git/tutorials/syncing) | [Advanced Git](https://www.atlassian.com/git/tutorials/advanced-overview)
+* Atlassian: [Getting Git Right](https://www.atlassian.com/git/) | [Getting Started](https://www.atlassian.com/git/tutorials/what-is-version-control) | [Tutorials](https://www.atlassian.com/git/tutorials) | [Collaborating](https://www.atlassian.com/git/tutorials/syncing) | [Advanced Git](https://www.atlassian.com/git/tutorials/advanced-overview)
 * [Wrapping Your Head Around Git - Paolo Perrotta (Garden City Ruby 2015)](http://confreaks.tv/videos/gardencityrb2015-keynote-wrapping-your-head-around-git)
 * [Git/Github open source training resources](http://training.github.com/kit/)
 * [Explain Git With D3 (interactive visual demos of Git commands)](http://www.wei-wang.com/ExplainGitWithD3/#)
