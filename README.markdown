@@ -868,7 +868,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - ECTO
 
 * Ecto: [documentation](https://hexdocs.pm/ecto/Ecto.html) | [Github](https://github.com/elixir-lang/ecto) | [discussion forum](https://groups.google.com/forum/#!forum/elixir-ecto)
-* [An Intro to Ecto: Using Ecto in Non-Phoenix Elixir Projects - Geo Lessel (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=8j3DLfNI6Jw)
+* [An Intro to Ecto: Using Ecto in Non-Phoenix Elixir Projects - Geoffrey Lessel (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=8j3DLfNI6Jw)
 * Understanding Elixir’s Ecto Querying DSL - Thomas Punt: [The Basics](https://www.sitepoint.com/understanding-elixirs-ecto-querying-dsl-the-basics/) | [Beyond the Basics](https://www.sitepoint.com/elixirs-ecto-querying-dsl-beyond-the-basics/)
 * [Abandoning models and embracing data - exploring Ecto - Michal Muskala (Elixir Warsaw)](https://www.youtube.com/watch?v=dejHBBW9qXI)
 * [Ecto: A language integrated query for Elixir - José Valim (CodeMesh Londong 2013)](https://www.youtube.com/watch?v=SJRfujy9vLA)
@@ -916,12 +916,19 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Intro to Mix](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 
+### ELIXIR - NEURAL NETWORKS
+
+* [AutomatingTheFuture.com - Quentin Thomas](http://www.automatingthefuture.com/)
+  * [Artificial Neural Networks, Elixir, and You - Quentin Thomas](http://www.automatingthefuture.com/blog/2016/9/7/artificial-neural-networks-elixir-and-you?utm_content=buffer9dea0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
 ### ELIXIR - OTP
 
 * [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir)
 * [The Mix and OTP Guide](http://elixir-lang.org/getting-started/mix-otp/agent.html)
 * [OTP in Elixir - Part 1 - Christian Di Lorenzo (Triangle Elixir 2016)](https://www.youtube.com/watch?v=_WgrfEaAM4Y)
 * [Chat Bot: A Practical Walkthrough of the powerful Features Elixir/Erlang/OTP - Jeff Weiss](https://www.youtube.com/watch?v=NrrUyRt_B1w)
+* [Finding the needle in the Haystack: Breadth First Search... The Elixir Way - Quentin Thomas](http://www.automatingthefuture.com/blog/2016/4/8/finding-the-needle-in-the-haystack-breadth-first-search)
+* [Re-architecting with Elixir/OTP and Pattern Matching - Mustafa Turan](https://medium.com/@mustafaturan/re-architecting-with-elixir-otp-and-pattern-matching-b452213c7947#.igjky3yv7)
 
 ### ELIXIR - PACKAGES
 
@@ -4452,6 +4459,7 @@ Peter R. Egli:
 
 ### RUBY - REFACTORING
 
+* [Suture: Ruby gem that helps you refactor legacy code](https://github.com/testdouble/suture) | [Surgical Refactors (slides) - Justin Searls](https://speakerdeck.com/searls/surgical-refactors)
 * [Scientist: A Ruby library for carefully refactoring critical paths (open-sourced by Github)](https://github.com/github/scientist) & [explanatory article](http://githubengineering.com/move-fast/)
 * [Refactoring - SourceMaking.com](http://sourcemaking.com/refactoring)
 * [Live Refactoring - Ben Orenstein (BathRuby 2015)](https://www.youtube.com/watch?v=gr97FrX2WiQ)
