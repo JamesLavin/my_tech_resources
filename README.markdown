@@ -365,10 +365,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DATABASES - GRAPHQL
 
-* [GraphQL: Data query language and runtime](http://graphql.org/)
+* [GraphQL: Data query language and runtime](http://graphql.org/) | [GitHub](https://github.com/graphql)
 * [Getting started (documentation)](http://graphql.org/docs/getting-started/)
 * [GraphQL-Ruby](https://github.com/rmosolgo/graphql-ruby)
 * [Learn GraphQL](https://learngraphql.com/)
+* [The GitHub GraphQL API - GitHub](http://githubengineering.com/the-github-graphql-api/)
 * [GraphiQL: Graphical interactive in-browser GraphQL IDE](https://github.com/graphql/graphiql)
 * [Intro to GraphQL - Lee Byron (0REDEV 2015)](https://www.youtube.com/watch?v=Wq02BNrN1dU)
 * [Exploring GraphQL - Nick Schrock (Dev Tools @ Scale)](https://www.youtube.com/watch?v=_9RgHXqH8J0)
@@ -376,6 +377,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### DATABASES - GRAPHQL - IMPLEMENTATIONS
 
 * [graphql-elixir: Elixir implementation](https://github.com/joshprice/graphql-elixir) & [website](http://graphql-elixir.org/)
+* [graphql-js](https://github.com/graphql/graphql-js)
 * [Python implementation](https://github.com/graphql-python/graphene)
 * [Ruby implementation](https://github.com/rmosolgo/graphql-ruby)
 * [Sangria: Scala implementation](http://sangria-graphql.org/)
@@ -795,7 +797,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Tooling - Eric Meadows-Jönsson (Berlin Erlang Factory Lite)](https://www.youtube.com/watch?v=7_0iOlJCL9E)
 * [Idioms for building distributed fault-tolerant applications with Elixir - José Valim (GOTO Conferences 2015)](https://www.youtube.com/watch?v=B4rOG9Bc65Q)
 * [Keynote: "Think Different" - Dave Thomas (ElixirConf 2014)](http://confreaks.tv/videos/4119-elixirconf2014-opening-keynote-think-different)
-* [High Availability - Saša Jurić](https://www.youtube.com/watch?v=wYttHG3S76Y)
 * [Ruby and Elixir - Casey Rosenthal (Portland Ruby Brigade Jan 2015)](http://confreaks.tv/videos/pdxrbjan2015-ruby-and-elixir)
 * [Hex: How it was built - Eric Meadows–Jönsson (ElixirConf 2014](https://www.youtube.com/watch?v=VAa7YnZo0hU)
 * [Elixir Sips (non-free)](http://elixirsips.com) & [Sipper (downloader) - Henrik Nyh](https://github.com/henrik/sipper)
@@ -843,6 +844,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - DEPLOYMENT
 
+* Distillery: [Github](https://github.com/bitwalker/distillery) | [Documentation](https://hexdocs.pm/distillery/getting-started.html)
 * [Elixir in the times of microservices - José Valim](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/)
 * [Elixir Deployment Tools - General Discussion, Blog Posts, Wiki - ElixirForum.com](https://elixirforum.com/t/elixir-deployment-tools-general-discussion-blog-posts-wiki/827)
 * [Understanding deps and applications in your Mixfile - João Britto](http://blog.plataformatec.com.br/2016/07/understanding-deps-and-applications-in-your-mixfile/)
@@ -870,10 +872,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * Ecto: [documentation](https://hexdocs.pm/ecto/Ecto.html) | [Github](https://github.com/elixir-lang/ecto) | [discussion forum](https://groups.google.com/forum/#!forum/elixir-ecto)
 * [An Intro to Ecto: Using Ecto in Non-Phoenix Elixir Projects - Geoffrey Lessel (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=8j3DLfNI6Jw)
 * Understanding Elixir’s Ecto Querying DSL - Thomas Punt: [The Basics](https://www.sitepoint.com/understanding-elixirs-ecto-querying-dsl-the-basics/) | [Beyond the Basics](https://www.sitepoint.com/elixirs-ecto-querying-dsl-beyond-the-basics/)
+* [Connecting to Multiple Databases with Ecto - Geoffrey Lessel](http://geoffreylessel.com/2016/connecting-to-multiple-databases-with-ecto/)
 * [Abandoning models and embracing data - exploring Ecto - Michal Muskala (Elixir Warsaw)](https://www.youtube.com/watch?v=dejHBBW9qXI)
 * [Ecto: A language integrated query for Elixir - José Valim (CodeMesh Londong 2013)](https://www.youtube.com/watch?v=SJRfujy9vLA)
 * [Ecto - the Past, the Present, the Future - Michał Muskała (ElixirConf2016]() | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/087/original/Ecto_-_the_past__the_present__the_future%281%29.pdf?1463063539)
 * [Ecto - Eric Meadows-Jönsson (ElixirConf EU 2015)](https://www.youtube.com/watch?v=snka1bAtZS0)
+* [Making Sense of Ecto 2 SQL.Sandbox and Connection Ownership Modes - Piotr Włodarek](https://medium.com/@qertoip/making-sense-of-ecto-2-sql-sandbox-and-connection-ownership-modes-b45c5337c6b7#.7ene51y3q)
 * [PostgreSQL indexing with Ecto - Richard Nyström](http://rny.io/elixir/ecto/postgresql/2015/08/31/postgresql-indexing-with-ecto.html)
 * [Composable Queries with Ecto - Drew Olson (ElixirConf 2015)](https://www.youtube.com/watch?v=g84TDHt9MDc)
 * [Embedding Elixir Structs in Ecto Models - Josh Steiner](https://robots.thoughtbot.com/embedding-elixir-structs-in-ecto-models)
@@ -905,6 +909,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - MACROS
 
+* [Using Functions in Elixir Guard Clauses - Chris Keathley](http://keathley.io/2016/04/09/elixir-guard-clauses.html)
 * [Understanding Elixir Macros, Part 1 - Basics - Saša Jurić](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-1.html), [Part 2 - Micro theory](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-2.html), [Part 3 - Getting into the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-3.html), [Part 4 - Diving Deeper](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-4.html), [Part 5 - Reshaping the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-5.html), [Part 6 - In-place code generation](http://www.theerlangelist.com/2014/07/understanding-elixir-macros-part-6.html)
 * [Writing a simple macro in Elixir - Dave Thomas](https://www.youtube.com/watch?v=LsLWezjV9Fo)
 
@@ -924,6 +929,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - OTP
 
 * [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir)
+* [High availability with Elixir and Erlang - Saša Jurić (Full Stack Fest 2016)](https://www.youtube.com/watch?v=Ba3aCm3A0o8) & [High Availability - Saša Jurić](https://www.youtube.com/watch?v=wYttHG3S76Y)
 * [The Mix and OTP Guide](http://elixir-lang.org/getting-started/mix-otp/agent.html)
 * [OTP in Elixir - Part 1 - Christian Di Lorenzo (Triangle Elixir 2016)](https://www.youtube.com/watch?v=_WgrfEaAM4Y)
 * [Chat Bot: A Practical Walkthrough of the powerful Features Elixir/Erlang/OTP - Jeff Weiss](https://www.youtube.com/watch?v=NrrUyRt_B1w)
@@ -969,6 +975,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - DEPLOYMENT
 
+* [Distillery: Phoenix Walkthrough](https://hexdocs.pm/distillery/phoenix-walkthrough.html)
 * [Deploying Phoenix Applications with Exrm - Brandon Richey](https://medium.com/@diamondgfx/deploying-phoenix-applications-with-exrm-97a3867ebd04?source=tw-5dbe5bfa021a-1446130465757)
 * [Setting Up Phoenix/Elixir With Nginx and LetsEncrypt - Andrew Forward](https://medium.com/@a4word/setting-up-phoenix-elixir-with-nginx-and-letsencrypt-ada9398a9b2c#.fnrxau4z0)
 * [Phoenix Flying High: Deploying Phoenix The Final Part](http://www.elixirdose.com/post/phoenix_part_5_deploying_phoenix_the_final_part)
@@ -1288,6 +1295,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ErlangCentral Wiki](http://erlangcentral.org/wiki/index.php/)
 * [MostlyErlang.com](http://mostlyerlang.com/)
 
+### ERLANG - BEAM
+
+* [BEAM Wisdoms: collection of easy to read (ELI5) articles as well as in-depth knowledge such as VM internals, memory layout, opcodes](http://beam-wisdoms.clau.se/en/latest/)
+
 ### ERLANG - DOCUMENTATION
 
 * [User's Guide](http://www.erlang.org/doc/apps/stdlib/users_guide.html) | [Reference Manual](http://www.erlang.org/doc/apps/stdlib/index.html) | [OTP Modules](http://erlang.org/doc/man_index.html)
@@ -1472,6 +1483,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Functors, Applicatives, And Monads In Pictures - Aditya Y. Bhargava](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 * [A Fistful of Monads (Learn You a Haskell)](http://learnyouahaskell.com/a-fistful-of-monads)
+* [Monads, Haskell, and Elm: A Socratic Dialogue](https://medium.com/@dailydrip/monads-haskell-and-elm-a-socratic-dialogue-c0a1b4f6acb2#.has9mq6cj)
 * [Understand Monads with this One Weird Trick - Andy Bartholomew](https://realm.io/news/slug-andy-bartholomew-understand-monads-one-weird-trick/)
 * [All About Monads](https://wiki.haskell.org/All_About_Monads) | [PDF version](http://www.cs.rit.edu/~swm/cs561/All_About_Monads.pdf)
 * [The Monad Challenges - Doug Beardsley](http://mightybyte.github.io/monad-challenges/)
@@ -2373,6 +2385,7 @@ Peter R. Egli:
 ## MACHINE LEARNING & AI
 
 * [OpenAI Gym](https://gym.openai.com/) | [Github](https://github.com/openai/gym)
+* [What did AlphaGo do to beat the strongest human Go player? - Tobias Pfeiffer (Full Stack Fest 2016)](https://www.youtube.com/watch?v=b9H9AtbxpPM) | [slides PDF](https://pragtob.files.wordpress.com/2016/09/full_stack_fest.pdf) | [slides Speakerdeck](https://speakerdeck.com/pragtob/what-did-alphago-do-to-beat-the-strongest-human-go-player-1) | [slides Slideshare](http://www.slideshare.net/PragTob/what-did-alphago-do-to-beat-the-strongest-human-go-player)
 * [Un-Artificial Intelligence - Melinda Seckington (GoRuCo 2015)](https://www.youtube.com/watch?v=7Y1Bv2BJDLs)
 * [Machine Learning (online Coursera class with Stanford professor Andrew Ng)](https://www.coursera.org/learn/machine-learning)
 * [Machine Learning (online course from University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
