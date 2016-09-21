@@ -373,6 +373,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [GraphiQL: Graphical interactive in-browser GraphQL IDE](https://github.com/graphql/graphiql)
 * [Intro to GraphQL - Lee Byron (0REDEV 2015)](https://www.youtube.com/watch?v=Wq02BNrN1dU)
 * [Exploring GraphQL - Nick Schrock (Dev Tools @ Scale)](https://www.youtube.com/watch?v=_9RgHXqH8J0)
+* [GraphQL: Designing a Data Language - Lee Byron (StrangeLoop 2016)](https://www.youtube.com/watch?v=Oh5oC98ztvI)
 
 #### DATABASES - GRAPHQL - IMPLEMENTATIONS
 
@@ -519,7 +520,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Be a happier developer with Docker: Tricks of the trade - Nicola Paolucci](https://www.youtube.com/watch?v=XCVOxht34Hs)
 * [Pachyderm.io (MapReduce without Hadoop using a git-like distributed file system and Dockerized MapReduce)](http://www.pachyderm.io/) & [Github](https://github.com/pachyderm/pfs)
 * [Docker isn’t just for deployment - Ben Dixon (RailsConf 2015)](https://www.youtube.com/watch?v=NGcT0dGivoM)
-* [TheNewStack.io](http://thenewstack.io/)
 
 #### DEVOPS - DOCKER - CONFIGURATION
 
@@ -942,6 +942,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Apex: Awesome Print for Elixir](https://github.com/BjRo/apex)
 * [BEAM Toolbox: categorized catalog of Hex packages for Elixir and Erlang - Henrik Nyh](http://toolbox.elixir.pm/)
 * [Jolt: REST JSON API with zero coding (Mike Clark)](https://github.com/clarkware/jolt)
+* [Quantum: Cron-like job scheduler](https://github.com/c-rack/quantum-elixir)
 * [Scrivener: Paginate your Ecto queries (Drew Olson)](https://github.com/drewolson/scrivener)
 
 ### ELIXIR - PHOENIX
@@ -1031,6 +1032,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - SECURITY
 
+* [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography#elixir)
 * [Securing Elixir Applications - Bram Verburg (ElixirConfEU 2016)](https://www.youtube.com/watch?v=r0DuAse9tK8) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/078/original/Bram_Verburg_-_Securing_Elixir_Applications.pdf?1462946275)
 
 ### ELIXIR - STREAMS
@@ -1186,6 +1188,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - PACKAGES
 
+* [Elm search (by function name or approximate type signature)](http://klaftertief.github.io/elm-search/)
 * [Elm package repository](http://package.elm-lang.org/)
 * [elm-audio](https://github.com/jcollard/elm-audio)
 * [elm-core](https://github.com/elm-lang/core)
@@ -1240,6 +1243,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - VIDEOS - LEARNING
 
+* [Elm Conf 2016 videos](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
 * [Adventures in Elm - Jessica Kerr (GOTO 2016)](https://www.youtube.com/watch?v=cgXhMc8M4X4)
 * [Intro to Elm - Claudia Doppioslash](https://www.youtube.com/watch?v=gJ9DSVnZKhk)
 * NON-FREE (but excellent): Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
@@ -1358,6 +1362,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Crypto101 (free in-depth cryptography book) - Laurens Van Houtven](https://www.crypto101.io/) & [PyCon US 2013 talk](https://www.youtube.com/watch?t=8&v=3rmCGsCYJF8)
 * [Cryptography Tutorial - Joe Armstrong](https://github.com/joearms/crypto_tutorial/raw/master/crypto_tutorial.pdf)
 * [Let's Encrypt - "lets site operators turn on and manage HTTPS with simple commands"](https://letsencrypt.org/howitworks/)
+* [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
 * [Encryption Works: How to Protect Your Privacy in the Age of NSA Surveillance - Micha Leee (Freedom of the Press Foundation)](https://freedom.press/encryption-works)
 
 ### - ENCRYPTION - FREE CERTS
@@ -1367,6 +1372,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## EVENT SOURCING/STREAMS/SIGNALS/REACTIVE PROGRAMMING
 
+* [Building microservices with event sourcing and CQRS - Michael Ploed](https://www.youtube.com/watch?v=A0goyZ9F4bg)
+* [Event Store and Web Applications - Greg Young](https://www.infoq.com/presentations/event-store-web-apps)
+* [Event Sourcing and Stream Processing at Scale - Martin Kleppmann](https://www.youtube.com/watch?v=avi-TZI9t2I)
+* [CQRS/DDD by Greg Young (Professional.NET 2011)](https://www.youtube.com/watch?v=KXqrBySgX-s)
 * [RXMarbles.com - Interactive diagrams of Rx Observables](http://rxmarbles.com/)
 * [Stream processing, Event sourcing, Reactive, CEP… and making sense of it all - Martin Kleppmann](http://www.confluent.io/blog/making-sense-of-stream-processing/)
 * [Event Sourcing - Martin Fowler](http://martinfowler.com/eaaDev/EventSourcing.html)
@@ -1402,6 +1411,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [An introduction to functional programming - Mary Rose Cook](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 * [What Is Functional Programming? - Kris Jenkins](https://www.youtube.com/watch?v=xN1-mtw1Fns)
+* [How to Get Started With Functional Programming - Julia Gao (StrangeLoop 2016)](https://www.youtube.com/watch?v=fbrG3hvWA3E)
 * [Awesome Functional Programming [Links]- Denis Stoyanov](https://github.com/xgrommx/awesome-functional-programming)
 * [Functional Programming and Functional Thinking - Tony Morris](https://channel9.msdn.com/Blogs/Charles/YOW-2011-Tony-Morris-Functional-Programming-and-Functional-Thinking?ocid=relatedentry)
 * [Selfish Purity: How Functional Programming Makes Every-Day Jobs Easier - Daniel Spiewak (Jfokus 2015)](https://www.youtube.com/watch?v=WupzbiMZrl8)
@@ -2687,6 +2697,7 @@ Peter R. Egli:
 
 ### PRODUCT DEVELOPMENT - PROFESSIONALISM / EXCELLENCE / EFFICIENCY
 
+* [10 Philosophies for Engineers - Jeff Meyerson](http://softwareengineeringdaily.com/2016/02/12/10-philosophies-for-developers/)
 * [Building a Culture of Learning - Joe Mastey (MountainWest RubyConf 2015)](http://confreaks.tv/videos/mwrc2015-building-a-culture-of-learning)
 * [Code Club - Saron Yitbarek (LoneStarRuby 2015)](http://confreaks.tv/videos/lonestarruby2015-code-club)
 * [Real Developers Ship (a.k.a Tenets for Software Delivery) - Sebastian von Conrad (Ruby Australia 2014)](http://vimeo.com/90173903)
@@ -2859,12 +2870,13 @@ Peter R. Egli:
 * [Hansel Minutes](http://www.hanselminutes.com/)
 * [Herding Code](http://herdingcode.com/)
 * [Javascript Jabber](https://devchat.tv/js-jabber)
+* [The New Stack](http://thenewstack.io/)
 * [On Computing](http://www.computer.org/portal/web/computingnow/oncomputing)
 * [PathToPerf](http://pathtoperf.com/)
 * [Programming Throwdown](http://www.programmingthrowdown.com/)
 * [Ruby Rogues](https://devchat.tv/ruby-rogues)
 * [Shop Talk](http://shoptalkshow.com/)
-* [Software Engineering Daily](http://softwareengineeringdaily.com/) | [iTunes](https://itunes.apple.com/us/podcast/software-engineering-daily/id1019576853)
+* [Software Engineering Daily](http://softwareengineeringdaily.com/) | [iTunes](https://itunes.apple.com/us/podcast/software-engineering-daily/id1019576853) | [Slack](http://softwaredaily.herokuapp.com/)
 * [Software Engineering Radio](http://www.se-radio.net/)
 * [Toolsday.io](http://toolsday.io/)
 * [Turing-Incomplete](http://turing.cool/)
