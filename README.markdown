@@ -1101,6 +1101,18 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Built With Elm](http://builtwithelm.co/)
 * [Elmcast.io](http://elmcast.io): [Elm Toolbox #1: Platform](http://www.ajhager.com/elm-toolings/) | [Elm Toolbox #2: Utilities](http://www.ajhager.com/elm-toolbox-part-2-utilities/)
 
+### ELM - ABOUT
+
+* [6 Months of Elm in Production - Richard Feldman (Forward University)](http://forwardjs.com/university/elm-in-production)
+* [Growing the Oasis: Elm in Production - Richard Feldman (June 2015)](http://www.ustream.tv/recorded/64112108)
+* [Elm Programming Language - Jesse Williamson (FullStack Talks)](https://www.youtube.com/watch?v=jrkLrm4Oh2s)
+* [Move fast and don’t break things. Running a startup on Elm - Nils Eriksson](https://medium.com/the-ahead-story/move-fast-and-dont-break-things-running-a-startup-on-elm-b5491082fe8b#.r1324tptn)
+* [Making the Web Functional - Chris McCord & Evan Czaplicki (Erlang Factory 2016)](https://www.youtube.com/watch?v=XJ9ckqCMiKk&feature=youtu.be)
+* [Make the Back-End Team Jealous: Elm in Production - Richard Feldman (StrangeLoop 2015)](https://www.youtube.com/watch?v=FV0DXNB94NE) & [Building a Live-Validated Signup Form in Elm](http://noredinktech.tumblr.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
+* Shipping a Production Web App in Elm - Richard Feldman: [Lambda Jam 2015](https://www.youtube.com/watch?v=W9HDueiaIJ4) & [LambdaConf 2015](https://www.youtube.com/watch?v=B7Iwreo1ReU)
+* [Let's be mainstream! User focused design in Elm - Evan Czaplicki (Curry On Prague 2015)](https://www.youtube.com/watch?v=oYk8CKH7OhE)
+* [Accidentally Concurrent - Evan Czaplicki (CodeMesh London 2015)](https://www.youtube.com/watch?v=DfLvDFxcAIA)
+
 ### ELM - BLOGS
 
 * [elm-lang.org/blog](http://elm-lang.org/blog)
@@ -1206,6 +1218,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - PODCASTS
 
+* [Elm Town Podcasts](https://elmtown.github.io/)
 * [Elm and Functional Programming with Richard Feldman - Changelog](https://overcast.fm/+I_roOY_I)
 * [Elm with Richard Feldman and Evan Czaplicki (Ruby Rogues)](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki)
 * [Elm with Evan Czaplicki and Richard Feldman (Javascript Jabber)](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman)
@@ -1230,20 +1243,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Tasks and Effects in Elm - Daniel Bachler](http://danielbachler.de/2016/02/19/tasks-and-effects-in-elm.html)
 
-### ELM - VIDEOS - ABOUT
-
-* [6 Months of Elm in Production - Richard Feldman (Forward University)](http://forwardjs.com/university/elm-in-production)
-* [Growing the Oasis: Elm in Production - Richard Feldman (June 2015)](http://www.ustream.tv/recorded/64112108)
-* [Elm Programming Language - Jesse Williamson (FullStack Talks)](https://www.youtube.com/watch?v=jrkLrm4Oh2s)
-* [Making the Web Functional - Chris McCord & Evan Czaplicki (Erlang Factory 2016)](https://www.youtube.com/watch?v=XJ9ckqCMiKk&feature=youtu.be)
-* [Make the Back-End Team Jealous: Elm in Production - Richard Feldman (StrangeLoop 2015)](https://www.youtube.com/watch?v=FV0DXNB94NE) & [Building a Live-Validated Signup Form in Elm](http://noredinktech.tumblr.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
-* Shipping a Production Web App in Elm - Richard Feldman: [Lambda Jam 2015](https://www.youtube.com/watch?v=W9HDueiaIJ4) & [LambdaConf 2015](https://www.youtube.com/watch?v=B7Iwreo1ReU)
-* [Let's be mainstream! User focused design in Elm - Evan Czaplicki (Curry On Prague 2015)](https://www.youtube.com/watch?v=oYk8CKH7OhE)
-* [Accidentally Concurrent - Evan Czaplicki (CodeMesh London 2015)](https://www.youtube.com/watch?v=DfLvDFxcAIA)
-
-### ELM - VIDEOS - LEARNING
+### ELM - VIDEOS
 
 * [Elm Conf 2016 videos](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
+* [Exploring Elm Lang - Jack Franklin (JSCamp Romania 2016)](https://www.youtube.com/watch?v=0LTjVSXvKX4)
 * [Adventures in Elm - Jessica Kerr (GOTO 2016)](https://www.youtube.com/watch?v=cgXhMc8M4X4)
 * [Intro to Elm - Claudia Doppioslash](https://www.youtube.com/watch?v=gJ9DSVnZKhk)
 * NON-FREE (but excellent): Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
