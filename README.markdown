@@ -659,7 +659,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - VIDEOS
 
-[DevOpsDays Rockies 2016](http://confreaks.tv/events/devopsdaysrox2016)
+* [DevOpsDays (Boston 2016)](http://confreaks.tv/events/devopsdaysboston2016)
+* [DevOpsDays Rockies 2016](http://confreaks.tv/events/devopsdaysrox2016)
 
 ## DOCUMENTATION
 
@@ -821,6 +822,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - BLOGS
 
+* [Elixir Weekly](https://elixirweekly.net/)
 * [The Erlang eList](http://theerlangelist.com/)
 * [Plataformatec](http://blog.plataformatec.com.br/tag/elixir/)
 * [The Pug Automatic - Henrik Nyh](http://thepugautomatic.com/)
@@ -833,6 +835,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - CODE EXAMPLES
 
 * [Simulations - James Edward Gray II](https://github.com/JEG2/simulations)
+* [a-little-elixir-goes-a-long-way (Elixir version of code examples from The Little Schemer)](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way/tree/master/lib/schemer)
 
 ### ELIXIR - COWBOY
 
@@ -863,6 +866,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Easy Elixir auto scaling deployment with AWS and Travis CI - Nicklas Ramhöj](https://www.varvet.com/blog/easy-auto-scaling-elixir-deployment-with-aws-and-travis-ci/)
 * [Deploy Elixir Application To AWS Elastic Beanstalk - Michal Kalbarczyk](https://medium.com/@fazibear/deploy-elixir-application-74e1bce100c6#.hkmdp7i75)
 
+### ELIXIR - DISTRIBUTION
+
+* [pg2 and You: Getting Distributed with Elixir - Eric Entin (ElixirConf 2016)](https://www.youtube.com/watch?v=_O-bLuVhcCA) | [Slides](https://speakerdeck.com/antipax/pg2-and-you-getting-distributed-with-elixir)
+
 ### ELIXIR - EARMARK
 
 * [Earmark—A Pure Elixir Markdown Processor](https://github.com/pragdave/earmark)
@@ -875,7 +882,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Connecting to Multiple Databases with Ecto - Geoffrey Lessel](http://geoffreylessel.com/2016/connecting-to-multiple-databases-with-ecto/)
 * [Abandoning models and embracing data - exploring Ecto - Michal Muskala (Elixir Warsaw)](https://www.youtube.com/watch?v=dejHBBW9qXI)
 * [Ecto: A language integrated query for Elixir - José Valim (CodeMesh Londong 2013)](https://www.youtube.com/watch?v=SJRfujy9vLA)
-* [Ecto - the Past, the Present, the Future - Michał Muskała (ElixirConf2016]() | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/087/original/Ecto_-_the_past__the_present__the_future%281%29.pdf?1463063539)
+* [Ecto - the Past, the Present, the Future - Michał Muskała (ElixirConfEU 2016](https://www.youtube.com/watch?v=msdYuidWYQA) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/087/original/Ecto_-_the_past__the_present__the_future%281%29.pdf?1463063539)
 * [Ecto - Eric Meadows-Jönsson (ElixirConf EU 2015)](https://www.youtube.com/watch?v=snka1bAtZS0)
 * [Making Sense of Ecto 2 SQL.Sandbox and Connection Ownership Modes - Piotr Włodarek](https://medium.com/@qertoip/making-sense-of-ecto-2-sql-sandbox-and-connection-ownership-modes-b45c5337c6b7#.7ene51y3q)
 * [PostgreSQL indexing with Ecto - Richard Nyström](http://rny.io/elixir/ecto/postgresql/2015/08/31/postgresql-indexing-with-ecto.html)
@@ -892,6 +899,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
 * [Event Sourcing and CQRS in Elixir - ElixirForum.com](http://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519/4)
+* [DDD/CQRS/ES/NoSQL and functional programming](https://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519)
+* [CQRS with Erlang - Bryan Hunter (NDC Conference 2014)](https://vimeo.com/97318824)
 
 ### ELIXIR - EXDOC
 
@@ -944,6 +953,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Jolt: REST JSON API with zero coding (Mike Clark)](https://github.com/clarkware/jolt)
 * [Quantum: Cron-like job scheduler](https://github.com/c-rack/quantum-elixir)
 * [Scrivener: Paginate your Ecto queries (Drew Olson)](https://github.com/drewolson/scrivener)
+
+### ELIXIR - PERFORMANCE
+
+* [Measuring your Elixir Application - Renan Ranelli (ElixirConf 2016)](https://www.youtube.com/watch?v=3KhzyDDju0Q) | [Blog post: "A guide to measuring your Elixir app](http://milhouseonsoftware.com/2016/05/08/measuring-your-elixir-application/)
+* [vmstats: gathers metrics on the Erlang VM and sends them to a configurable sink - Fred Hebert](https://github.com/ferd/vmstats)
+* [Gathering metrics in Elixir applications - Andrea Leopardi](http://tech.footballaddicts.com/blog/gathering-metrics-in-elixir-applications)
 
 ### ELIXIR - PHOENIX
 
@@ -1055,6 +1070,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - VIDEOS
 
+* [ElixirConf 2016](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYoiEKWny0Jj72iu564bVFD)
 * [Empire City Elixir Conf (EmpEx 2016)](https://www.youtube.com/watch?v=0SRBqHUGe28&list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
 * [Elixir videos (Vimeo)](https://vimeo.com/search?q=Elixir)
 * ElixirDaze 2016: [On Youtube](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH) & [On Confreaks](http://confreaks.tv/events/elixirdaze2016)
@@ -1066,6 +1082,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Three and a Half Ways Elixir Changed Me (and Other Hyperbole) - Rob Conery (NDC London 2016)](https://vimeo.com/161001513)
 * [Elixir Is Neat But What Can You Actually Do With It? - Rob Conery (NDC Oslo 2016)](https://vimeo.com/171317253)
 * [What's Ahead for Elixir? - José Valim (ElixirConfEU 2016)](https://www.youtube.com/watch?v=A60nxws_iVs) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/160/original/Jose_Valim-_What's_ahead_of_Elixir.pdf?1463594498)
+* [Explore Elixir Using Board Game Logic - Torben Hoffmann](https://www.youtube.com/watch?v=xEfTyfBf9SE) | [source code (Github)](https://github.com/lehoff/acquirex)
 * [Building Multiplayer Games with Phoenix and Phaser - Keith Salisbury (ElixirConfEU 2016](https://www.youtube.com/watch?v=I5L9_cXwBcU)
 * [Indy Elixir First (Virtual) Meetup!](https://www.youtube.com/watch?v=U-bZpPehiRk)
 * [Concurrent and Resilient Connections to Outside the BEAM - Andrea Leopardi (ElixirConfEU 2016)](https://www.youtube.com/watch?v=U1Ry7STEFiY) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/149/original/Andrea_Leopardi_Concurrent-and-resilient-connections-to-outside-the-beam.pdf?1463389064)
@@ -1252,6 +1269,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Exploring Elm Lang - Jack Franklin (JSCamp Romania 2016)](https://www.youtube.com/watch?v=0LTjVSXvKX4)
 * [Adventures in Elm - Jessica Kerr (GOTO 2016)](https://www.youtube.com/watch?v=cgXhMc8M4X4)
 * [Intro to Elm - Claudia Doppioslash](https://www.youtube.com/watch?v=gJ9DSVnZKhk)
+* [Code Therapy - Danny O'Brien](https://www.youtube.com/playlist?list=PL7RY3c_PbOzGbrUb8w97LX085PSl0c8lU)
 * NON-FREE (but excellent): Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
 * [ElmLive (video tutorial series) - Aaron VonderHaar](https://www.youtube.com/user/gruen0/videos): [Lights Out, Pt 1](https://www.youtube.com/watch?v=R6vuO547DC8) | [Lights Out, Pt 2](https://www.youtube.com/watch?v=OAgF2uUnKcg) | [Lights Out (Code)](https://gist.github.com/avh4/dda1523ed8fc7bc3790b20150c1f0f22) | [Drag'N'Drop, Pt 1](https://www.youtube.com/watch?v=Rzz78cR0hPw) | [Drag'N'Drop, Pt 2](https://www.youtube.com/watch?v=DkOS0QqDUIY) | [Drag'N'Drop, Pt 3](https://www.youtube.com/watch?v=HgCMdjoSWnQ) | [Drag'N'Drop, Pt 4](https://www.youtube.com/watch?v=eFJiwPW3dwI) | [#BlackLivesMatter, Pt 1](https://www.youtube.com/watch?v=t9pOVSmNeR0) | [#BlackLivesMatter, Pt 2](https://www.youtube.com/watch?v=DgeIOk7JoqE) | [AWS Cognito - Pt 1](https://www.youtube.com/watch?v=seLD59KsHJk) | [AWS Cognito - Pt 2](https://www.youtube.com/watch?v=X6e8KpPWHg0) | [Mandelbrot Magic, Pt 1](https://www.youtube.com/watch?v=kObuBHIeYBE) | [Mandelbrot Magic, Pt 2](https://www.youtube.com/watch?v=8gQBiMxIJEQ)
 * [Elm Solitaire game #1 - Martin Janiczek](https://www.youtube.com/watch?v=dDZb46sN3yM)
@@ -1420,6 +1438,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How to Get Started With Functional Programming - Julia Gao (StrangeLoop 2016)](https://www.youtube.com/watch?v=fbrG3hvWA3E)
 * [Awesome Functional Programming [Links]- Denis Stoyanov](https://github.com/xgrommx/awesome-functional-programming)
 * [Functional Programming and Functional Thinking - Tony Morris](https://channel9.msdn.com/Blogs/Charles/YOW-2011-Tony-Morris-Functional-Programming-and-Functional-Thinking?ocid=relatedentry)
+* [Point-Free or Die - Tacit Programming in Haskell and Beyond - Amar Shah](https://www.youtube.com/watch?v=seVSlKazsNk)
 * [Selfish Purity: How Functional Programming Makes Every-Day Jobs Easier - Daniel Spiewak (Jfokus 2015)](https://www.youtube.com/watch?v=WupzbiMZrl8)
 * [What is functional programming? - Kris Jenkins](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 * [Why Bother With FP? - Tomek Borek (Lambda Days 2015)](https://www.youtube.com/watch?v=_bYkRXcf9sA)
@@ -3197,6 +3216,7 @@ Peter R. Egli:
 
 ### PYTHON - DJANGO
 
+* [DjangoCon.us 2016 videos](http://confreaks.tv/events/djancoconus2016)
 * [DjangoCon 2014 videos](http://www.confreaks.tv/events/DjangoCon2014)
 
 ### PYTHON - DOCUMENTATION
