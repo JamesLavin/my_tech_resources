@@ -57,6 +57,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How to Make a Chrome Extension - Gabe Berke-Williams](https://robots.thoughtbot.com/how-to-make-a-chrome-extension)
 * [Extensionizr: Start a Chrome extension in 15 seconds](http://extensionizr.com)
 
+### BROWSERS - WEBRTC
+
+* [High Performance Browser Networking](https://hpbn.co/)
+* [WebRTC.org](https://webrtc.org/)
+* [WebRTCHacks.com](https://webrtchacks.com/)
+
 ## BUSINESS
 
 * [The Startup Playbook -Sam Altman](http://playbook.samaltman.com)
@@ -1060,8 +1066,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - TESTING
 
+#### ELIXIR - TESTING - HOUND
+
+* [Concurrent Feature Tests with Phoenix and Hound - Kevin Rockwood](http://rockwood.me/2016/concurrent-feature-tests-with-phoenix/)
+
 #### ELIXIR - TESTING - WALLABY
 
+* Wallaby: [Docs](https://hexdocs.pm/wallaby/readme.html) | [Github](https://github.com/keathley/wallaby)
+* [Concurrent Feature Testing with Wallaby by Chris Keathley (ElixirConf 2016)](https://www.youtube.com/watch?v=TjOXbDJ-yw8) | [slides](https://speakerdeck.com/keathley/concurrent-feature-tests-with-wallaby)
 * [Introducing Wallaby – Concurrent Feature Tests for Elixir and Phoenix - Chris Keathley](http://blog.carbonfive.com/2016/04/16/introducing-wallaby-concurrent-feature-tests-for-elixir-and-phoenix/)
 
 #### ELIXIR - TESTING - QUICKCHECK
@@ -1093,6 +1105,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * ["Elixir and the Internet of Things" - Doug Rohrer (Strangeloop 2014)](https://www.youtube.com/watch?v=a-OCorBXX7M)
 * [The Climb Experiencing the Rise of Elixir from the Inside - Bruce Tate & Dave Thomas (Erlang Factory SF 2016)](https://www.youtube.com/watch?v=fklep3sUSWo)
 * [Elixir - A modern approach to programming for the Erlang VM - José Valim](https://vimeo.com/53221562) (old but still informative)
+
+### ELIXIR - WEBRTC
+
+* [WebRTC and Phoenix, when μ Seconds aren't Fast Enough - Jason Stiebs (ElixirConf 2016)](https://www.youtube.com/watch?v=yI5J2P9kcBQ) | [phoenix_webrtc code](https://github.com/jeregrine/phoenix_webrtc)
+* [simple-peer: Simple WebRTC video/voice and data channels](https://github.com/feross/simple-peer)
 
 ## ELM
 
