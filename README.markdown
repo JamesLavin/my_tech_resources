@@ -884,8 +884,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Ecto: [documentation](https://hexdocs.pm/ecto/Ecto.html) | [Github](https://github.com/elixir-lang/ecto) | [discussion forum](https://groups.google.com/forum/#!forum/elixir-ecto)
 * [An Intro to Ecto: Using Ecto in Non-Phoenix Elixir Projects - Geoffrey Lessel (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=8j3DLfNI6Jw)
+* [Leveling Up With Ecto - Darin Wilson (ElixirConf 2016)](https://www.youtube.com/watch?v=QE7bpqpDoKo) | [code](https://github.com/darinwilson/music_db)
+* Lew Parker: [Diving into Ecto - 1](http://www.glydergun.com/diving-into-ecto/) | [Diving into Ecto - 2](http://www.glydergun.com/diving-into-ecto-part-2/) | [Ecto Query Library](http://www.glydergun.com/the-ecto-query-library/)
 * Understanding Elixir’s Ecto Querying DSL - Thomas Punt: [The Basics](https://www.sitepoint.com/understanding-elixirs-ecto-querying-dsl-the-basics/) | [Beyond the Basics](https://www.sitepoint.com/elixirs-ecto-querying-dsl-beyond-the-basics/)
 * [Connecting to Multiple Databases with Ecto - Geoffrey Lessel](http://geoffreylessel.com/2016/connecting-to-multiple-databases-with-ecto/)
+* [Ecto’s insert_all and schemaless queries - José Valim](http://blog.plataformatec.com.br/2016/05/ectos-insert_all-and-schemaless-queries/?utm_source=elixir-status&utm_medium=social&utm_campaign=blog-post-promotion)
+* [Replace Callbacks with Ecto.Multi - Daniel Berkompas](http://blog.danielberkompas.com/2016/09/27/ecto-multi-services.html)
 * [Abandoning models and embracing data - exploring Ecto - Michal Muskala (Elixir Warsaw)](https://www.youtube.com/watch?v=dejHBBW9qXI)
 * [Ecto: A language integrated query for Elixir - José Valim (CodeMesh Londong 2013)](https://www.youtube.com/watch?v=SJRfujy9vLA)
 * [Ecto - the Past, the Present, the Future - Michał Muskała (ElixirConfEU 2016](https://www.youtube.com/watch?v=msdYuidWYQA) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/087/original/Ecto_-_the_past__the_present__the_future%281%29.pdf?1463063539)
@@ -1080,9 +1084,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [QuickCheck for Elixir - Generate Tests Automatically - Thomas Arts (ElixirConf 2015)](https://www.youtube.com/watch?v=nbpZRm9gl50)
 
+#### ELIXIR - UMBRELLA PROJECTS
+
+* [Building Umbrella Projects - Wojtek Mach (ElixirConf 2016)](https://www.youtube.com/watch?v=6NTmUQClHrU)
+
 ### ELIXIR - VIDEOS
 
 * [ElixirConf 2016](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYoiEKWny0Jj72iu564bVFD)
+* [Elixir.LDN 2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ivlIjzcaHS9N_Swe_0hWj0)
 * [Empire City Elixir Conf (EmpEx 2016)](https://www.youtube.com/watch?v=0SRBqHUGe28&list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
 * [Elixir videos (Vimeo)](https://vimeo.com/search?q=Elixir)
 * ElixirDaze 2016: [On Youtube](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH) & [On Confreaks](http://confreaks.tv/events/elixirdaze2016)
@@ -1115,6 +1124,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
+* Andy Balaam: [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) & [Elm makes me happy](https://www.youtube.com/watch?v=8pPO9kM2N5I)
+* [Elm, putting the fun in functional - Philip Poots (LondonJS 2016)](https://www.youtube.com/watch?v=oejptx252W8)
 * [Elm-Live (development server)](https://github.com/tomekwi/elm-live)
 * Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [Intro to Elm - Richard Feldman (2016)](https://www.youtube.com/watch?v=3_M2G9U51GA)
@@ -1380,6 +1391,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ERLANG - VIDEOS
 
 * [Intro to Erlang - Philip Clarke](https://www.youtube.com/watch?v=1QQSTayocdA)
+* [Erlang User Conf 2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ijLaWEw-L2xtTVMQ5chWcp)
 * [Functional Programming with Erlang](https://www.youtube.com/playlist?list=PLlML6SMLMRgAooeL26mW502jCgWikqx_n)
 * Erlang Master Class (University of Kent): [Class 1: Functional Programming](https://www.youtube.com/watch?v=gKRyAb7d8lo&list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5) | [Class 2: Concurrent Programming](https://www.youtube.com/watch?v=nYgEny1goCY&list=PLR812eVbehlwq4qbqswOWH7NLKjodnTIn) | [Class 3: OTP Behaviours & Releases](https://www.youtube.com/watch?v=9HVvzSsdW9k&list=PLR812eVbehlx6vgWGf2FLHjkksAEDmFjc)
 * [Erlang videos (InfoQ)](http://www.infoq.com/erlang/presentations/)
@@ -1495,6 +1507,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - CONFERENCE VIDEOS
 
+* [LambdaConf 2016 (λC 2016)](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos)
 * [All the FP Talks at NDC Oslo 2016](http://theburningmonk.com/2016/06/all-the-fp-talks-at-ndc-oslo-2016/)
 * [Curry On 2016](http://www.curry-on.org/2016/)
 * [LambdaConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
@@ -2637,6 +2650,7 @@ Peter R. Egli:
 * [Mashable](http://mashable.com/tech/)
 * [Medium](https://medium.com/browse/b3ee72d38ca4)
 * [Motherboard](http://motherboard.vice.com/en_us)
+* [Network World](http://www.networkworld.com/news/)
 * [Neuroscience News - Robotics](http://neurosciencenews.com/neuroscience-topics/robotics-2/)
 * [New Scientist](https://www.newscientist.com/subject/technology/)
 * [The Next Web](http://thenextweb.com/section/tech/)
@@ -2648,6 +2662,7 @@ Peter R. Egli:
 * [The Register](http://www.theregister.co.uk/)
 * [Reuters](http://www.reuters.com/news/technology)
 * [ScienceDaily](http://www.sciencedaily.com/news/matter_energy/technology/)
+* [Seattle Times](http://www.seattletimes.com/business/technology/)
 * [Singularity Hub](http://singularityhub.com/)
 * [Slashdot](http://slashdot.org/)
 * [The Stack](https://thestack.com/)
