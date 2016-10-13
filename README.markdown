@@ -774,11 +774,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * Elixir: [Docs](http://elixir-lang.org/docs.html) & [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html) & [Erlang/Elixir Syntax Crash Course](http://elixir-lang.org/crash-course.html) & [Elixir-lang-talk group](https://groups.google.com/forum/?fromgroups#!forum/elixir-lang-talk) & [Elixir Core mailing list](https://groups.google.com/forum/#!forum/elixir-lang-core) & [ElixirForum.com](http://elixirforum.com/)
 * [Awesome Elixir - Curated list of Elixir/Erlang libraries, resources & shiny things](https://github.com/h4cc/awesome-elixir)
 * [Cheatsheet](https://www.dropbox.com/s/lr1t87rw4wfnyb3/elixir-cheat-sheet-v2.pdf?dl=0)
+* [Explicit Elixir - Paul Lamb (ElixirDaze 2016)](https://www.youtube.com/watch?v=sr5I5ncg0kU)
 * [What Elixir is About - José Valim (Erlang Factory SF 2015)](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
 * [Elixir with José Valim](http://howistart.org/posts/elixir/1)
 * [Building a web framework from scratch in Elixir - Robert Lord](https://codewords.recurse.com/issues/five/building-a-web-framework-from-scratch-in-elixir)
 * [Elixir School](https://elixirschool.com/)
 * [Sweet Elixir! - Ryan Cromwell](http://www.infoq.com/presentations/elixir) & [full notes](https://github.com/cromwellryan/sweetelixir)
+* [Exercism.io Elixir](http://exercism.io/languages/elixir)
 * [Elixir talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=elixir&commit=go)
 * [ElixirConf 2014 videos](http://www.confreaks.tv/events/elixirconf2014)
 * [ElixirStatus.com](http://elixirstatus.com/)
@@ -1018,6 +1020,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - PLUGS
 
+* [Phoenix: Plug.Conn](http://ricostacruz.com/cheatsheets/phoenix-conn.html)
 * [Überauth - Elixir Authentication System for Plug-based Web Applications](https://github.com/ueberauth/ueberauth)
 * Simple Guardian: [Github](https://github.com/ueberauth/guardian) | [Browser login](http://blog.overstuffedgorilla.com/simple-guardian/) | [API authentication](http://blog.overstuffedgorilla.com/simple-guardian-api-authentication/) | [User permissions](http://blog.overstuffedgorilla.com/simple-guardian-permissions/) | [Multiple sessions](http://blog.overstuffedgorilla.com/simple-guardian-multiple-sessions/)
 
@@ -1171,12 +1174,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - CODE EXAMPLES
 
+* [elm-autocomplete - Greg Ziegan](https://github.com/thebritican/elm-autocomplete)
 * [Creating a Fun Game with Elm - Andrey Kuzmin & Kolja Wilcke (Curry On 2016)](https://www.youtube.com/watch?v=En2BKs8unnQ)
 * [Start app - Evan Czaplicki](https://github.com/evancz/start-app)
 * [How to Create Tetris in Elm - Captain Coder](https://www.youtube.com/playlist?list=PL7C8fMD-89DKhlerIE3BrYNd0PlhA6Zch)
 * [API Design Session: elm-autocomplete - Evan Czaplicki](https://www.youtube.com/watch?v=KSuCYUqY058)
 * [elm-tutorial-app: example Elm single page application - Sebastian Porto](https://github.com/sporto/elm-tutorial-app)
 * Composing Features and Behaviours in the Elm Architecture - Fred Daoud: [0: Intro](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture) | [1: Creating a Feature](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-010-todolist-feature/client-elm#creating-a-feature) | [2: Connecting Features Together](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-020-todoform-feature/client-elm#connecting-features-together) | [3: Multiple Listeners](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-030-todosummary-feature/client-elm#multiple-listeners) | [4: Composing Features](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-040-todominmax-feature/client-elm#composing-features) & [Summary of Daoud's ideas - LambdaCat](http://www.lambdacat.com/road-to-elm-structuring-your-application/)
+* [svgbob: Converts ascii scribbles to svg - Ivan Ceras](https://github.com/ivanceras/svgbob)
 * [elm-slice-show - Andrey Kuzmin](https://github.com/w0rm/elm-slice-show)
 * [orbital-game - Joakim Kolsjö](https://github.com/joakimk/orbital-game)
 * [Exploring Elm with a Typeahead - Aristides Staffieri](https://medium.com/denver-devs/exploring-elm-with-a-typeahead-5a846511e810#.71h40ys9y)
@@ -1255,6 +1260,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [elm-html](https://github.com/evancz/elm-html)
 * [elm-http](https://github.com/evancz/elm-http)
 * [elm-make](https://github.com/elm-lang/elm-make)
+* [elm-lang/navigation - SPA routing / managing browser navigation](https://github.com/elm-lang/navigation)
 * [elm-router - Hassan Hayat](https://github.com/TheSeamau5/elm-router)
 * [elm-route-hash - Ryan Rempel](https://github.com/rgrempel/elm-route-hash)
 * [elm-undo-redo - Hassan Hayat](https://github.com/TheSeamau5/elm-undo-redo)
@@ -1300,6 +1306,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Code Therapy - Danny O'Brien](https://www.youtube.com/playlist?list=PL7RY3c_PbOzGbrUb8w97LX085PSl0c8lU)
 * NON-FREE (but excellent): Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
 * [ElmLive (video tutorial series) - Aaron VonderHaar](https://www.youtube.com/user/gruen0/videos): [Lights Out, Pt 1](https://www.youtube.com/watch?v=R6vuO547DC8) | [Lights Out, Pt 2](https://www.youtube.com/watch?v=OAgF2uUnKcg) | [Lights Out (Code)](https://gist.github.com/avh4/dda1523ed8fc7bc3790b20150c1f0f22) | [Drag'N'Drop, Pt 1](https://www.youtube.com/watch?v=Rzz78cR0hPw) | [Drag'N'Drop, Pt 2](https://www.youtube.com/watch?v=DkOS0QqDUIY) | [Drag'N'Drop, Pt 3](https://www.youtube.com/watch?v=HgCMdjoSWnQ) | [Drag'N'Drop, Pt 4](https://www.youtube.com/watch?v=eFJiwPW3dwI) | [#BlackLivesMatter, Pt 1](https://www.youtube.com/watch?v=t9pOVSmNeR0) | [#BlackLivesMatter, Pt 2](https://www.youtube.com/watch?v=DgeIOk7JoqE) | [AWS Cognito - Pt 1](https://www.youtube.com/watch?v=seLD59KsHJk) | [AWS Cognito - Pt 2](https://www.youtube.com/watch?v=X6e8KpPWHg0) | [Mandelbrot Magic, Pt 1](https://www.youtube.com/watch?v=kObuBHIeYBE) | [Mandelbrot Magic, Pt 2](https://www.youtube.com/watch?v=8gQBiMxIJEQ)
+* [ElmLive: Building an RPG Framework - Greg Ziegan](https://www.twitch.tv/gregziegan/videos/all) & [code](https://github.com/thebritican/rpg-framework)
 * [Elm Solitaire game #1 - Martin Janiczek](https://www.youtube.com/watch?v=dDZb46sN3yM)
 * [Elm: Frontend with Guarantees - Amitai Burstein](https://www.youtube.com/watch?v=FgaoOgJ5CAU)
 * Writing A Full Site in Phoenix and Elm - Brandon Richey: [Part 1](https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-a100804c9499#.3tzhbd8nt) | [Part 2: Making HTTP Calls From Elm](https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-a4622c5130f5#.rezd1mhxi) | [Part 3: Navigation From the Ground Up](https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-8f50ba4382a3#.ffhrag5da)
@@ -1425,6 +1432,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## EVENT SOURCING/STREAMS/SIGNALS/REACTIVE PROGRAMMING
 
+* [Events Are Not Just for Notifications - Greg Young (QCon 2011)](https://www.infoq.com/presentations/Events-Are-Not-Just-for-Notifications)
 * [Building microservices with event sourcing and CQRS - Michael Ploed](https://www.youtube.com/watch?v=A0goyZ9F4bg)
 * [Event Store and Web Applications - Greg Young](https://www.infoq.com/presentations/event-store-web-apps)
 * [Event Sourcing and Stream Processing at Scale - Martin Kleppmann](https://www.youtube.com/watch?v=avi-TZI9t2I)
@@ -2209,6 +2217,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to Webpack, ES6, Babel, React, React-Router, Redux, and React-Redux - Brad Westfall](https://www.youtube.com/watch?v=DfRibIkjhew)
 * [React tutorial series - LearnCode.academy](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 * [Thinking in React - Pete Hunt](https://facebook.github.io/react/docs/thinking-in-react.html)
+* [Advanced tutorial on how React is implemented - Dan Abramov](https://facebook.github.io/react/contributing/implementation-notes.html)
 * Learn React, Flux, and Flow - Colin Megill: [Part 1](https://www.youtube.com/watch?v=Pd6Ub7Ju2RM) | [Part 2](https://www.youtube.com/watch?v=iR22EWW-CVc)
 * [React Tutorial - Hackerati.us](https://www.gitbook.com/book/hackerati/react-tutorial/details)
 * [React and Flux: Building Applications with a Unidirectional Data Flow - Bill Fisher and Jing Chen (Forward.JS 2014)](https://www.youtube.com/watch?v=i__969noyAM)
@@ -4931,6 +4940,15 @@ Peter R. Egli:
 * [vim-rspec](https://github.com/thoughtbot/vim-rspec)
 * [vim-ruby-refactoring tutorials](https://justinram.wordpress.com/2010/12/30/vim-ruby-refactoring-series/)
 * [vim-textobj-rubyblock](https://github.com/nelstrom/vim-textobj-rubyblock)
+
+### VIM - SPACEMACS
+
+* [Spacemacs Documentation](https://github.com/syl20bnr/spacemacs/blob/master/doc/DOCUMENTATION.org)
+* [Migrating from Vim](https://github.com/syl20bnr/spacemacs/blob/master/doc/VIMUSERS.org)
+* [Quick Start](https://github.com/syl20bnr/spacemacs/blob/master/doc/QUICK_START.org) | [FAQ](https://github.com/syl20bnr/spacemacs/blob/master/doc/FAQ.org)
+* [Evil-Tutor](https://github.com/syl20bnr/evil-tutor)
+* [Alchemist docs](http://alchemist.readthedocs.io/en/latest/)
+* [Elixir With Alchemist](http://spacemacs.org/layers/+lang/elixir/README.html)
 
 ### VIM - TMUX
 
