@@ -975,6 +975,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PHOENIX
 
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
+* [ElixirConf 2016 Keynote on Phoenix 1.3- Chris McCord](https://www.youtube.com/watch?v=qPiZTxUAaVM)
 * [Rails to Phoenix - Brian Cardarella (RailsConf 2016)](https://www.youtube.com/watch?v=OxhTQdcieQE)
 * [Phoenix: The Firehose Project: Hands-On Intro to Building Modern Web Applications With Elixir and Phoenix](http://phoenix.thefirehoseproject.com/)
 * Photo Album: A Phoenix/Elixir web app - Khaja Minhajuddin: [Part 1](https://www.youtube.com/watch?v=uHQ3tJqiEho) | [Part 2](https://www.youtube.com/watch?v=DOmTHaA8jyI)
@@ -1127,6 +1128,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
+* Elmbridge Curriculum: [PDF](https://www.gitbook.com/download/pdf/book/raorao/elmbridge-curriculum) | [website](https://raorao.gitbooks.io/elmbridge-curriculum/content/)
 * Andy Balaam: [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) & [Elm makes me happy](https://www.youtube.com/watch?v=8pPO9kM2N5I)
 * [Elm, putting the fun in functional - Philip Poots (LondonJS 2016)](https://www.youtube.com/watch?v=oejptx252W8)
 * [Elm-Live (development server)](https://github.com/tomekwi/elm-live)
@@ -1166,6 +1168,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - BLOGS
 
+* [Elm Weekly](http://www.elmweekly.nl/archive)
 * [elm-lang.org/blog](http://elm-lang.org/blog)
 * [Gizra](http://www.gizra.com/tags.html#Elm-ref)
 * [LambdaCat](http://www.lambdacat.com/)
@@ -1184,6 +1187,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [svgbob: Converts ascii scribbles to svg - Ivan Ceras](https://github.com/ivanceras/svgbob)
 * [elm-slice-show - Andrey Kuzmin](https://github.com/w0rm/elm-slice-show)
 * [orbital-game - Joakim Kolsjö](https://github.com/joakimk/orbital-game)
+* [rocket-elm - Jamon Holmgren](https://github.com/jamonholmgren/rocket-elm)
 * [Exploring Elm with a Typeahead - Aristides Staffieri](https://medium.com/denver-devs/exploring-elm-with-a-typeahead-5a846511e810#.71h40ys9y)
 * [Investments calculator](https://github.com/joshuaclayton/investments-elm) | [live example](http://joshuaclayton.me/investments-elm/)
 * [Landscape: architecture diagramming - Jessica Kerr](https://github.com/satellite-of-love/landscape)
@@ -1229,10 +1233,15 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - EDITORS
 
 * [HTML to Elm (webpage for inputting HTML and outputting Elm)](http://mbylstra.github.io/html-to-elm/)
-* [elm-light](https://github.com/rundis/elm-light) for [LightTable](http://lighttable.com/) & [demo video](http://rundis.github.io/blog/2015/elm_light.html)
 * [lambdatoast/elm.vim](https://github.com/lambdatoast/elm.vim) & [ElmCast/elm-vim](https://github.com/ElmCast/elm-vim) for [vim](http://www.vim.org/docs.php)
 * [jcollard/elm-mode](https://github.com/jcollard/elm-mode) for [Emacs](https://www.gnu.org/software/emacs/tour/) (if you're into that kind of kinky stuff)
 * [elm-format formats Elm source code according to a standard set of rules based on the official Elm Style Guide](https://github.com/avh4/elm-format)
+
+#### ELM - EDITORS - LIGHTTABLE
+
+* [elm-light - Elm language plugin for Light Table- Magnus Rundberget](https://github.com/rundis/elm-light) & [docs](https://libraries.io/github/rundis/elm-light)
+* Elm Light Guide: [download PDF](https://www.gitbook.com/book/rundis/elm-light-guide/details) | [online](https://rundis.gitbooks.io/elm-light-guide/content/)
+* [LightTable](http://lighttable.com/) & [demo video](http://rundis.github.io/blog/2015/elm_light.html)
 
 ### ELM - ELM-NATIVE-UI
 
@@ -1246,10 +1255,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [elm-dev Google group](https://groups.google.com/forum/#!forum/elm-dev)
 * [Reddit Elm](https://www.reddit.com/r/elm)
 
-### ELM - INTERACTING WITH JAVASCRIPT & HTML
+### ELM - INTERACTING WITH JAVASCRIPT, JSON & HTML
 
 * [Example of how to integrate Elm with HTML and JS - Evan Czaplicki](https://github.com/evancz/elm-html-and-js)
 * [Interop(erability)](http://elm-lang.org/guide/interop) & [code example](https://gist.github.com/evancz/8521339)
+* [Decoding JSON With Dynamic Keys - Brian Hicks](https://www.brianthicks.com/post/2016/10/03/decoding-json-with-dynamic-keys/)
 
 ### ELM - PACKAGES
 
@@ -1268,6 +1278,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - PHOENIX & ELM
 
+* [Creating a Chatroom Using Phoenix, Elm, and Websockets - Jeremy Bellows](http://www.jeremybellows.com/blog/Creating-a-Chatroom-Using-Phoenix-Elm-And-Websockets)
 * [Connecting Elm with Phoenix using Channels - Simon Hampton](http://simonh1000.github.io/2016/05/elm-phoenix-channels/)
 
 ### ELM - PODCASTS
@@ -1293,6 +1304,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [A Step-to-step Guide to Elm Signals - Yang Wei](https://yang-wei.github.io/blog/2016/02/04/a-step-to-step-guide-to-elm-signal/)
 * [Signals in Elm - Daniel Bachler](http://danielbachler.de/2016/02/12/signals-in-elm.html)
 
+### ELM - SPA
+
+* [Building a Single-Page App with Elm - Dave Thomas](http://7sharpnine.com/2016/10/03/building-an-spa-with-elm/)
+
 ### ELM - TASKS & EFFECTS
 
 * [Tasks and Effects in Elm - Daniel Bachler](http://danielbachler.de/2016/02/19/tasks-and-effects-in-elm.html)
@@ -1300,6 +1315,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - VIDEOS
 
 * [Elm Conf 2016 videos](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
+    * ["Beyond Hello World and Todo Lists" by Ossi Hanhinen](https://www.youtube.com/watch?v=vpc80c5iC6k)
+    * []()
 * [Exploring Elm Lang - Jack Franklin (JSCamp Romania 2016)](https://www.youtube.com/watch?v=0LTjVSXvKX4)
 * [Adventures in Elm - Jessica Kerr (GOTO 2016)](https://www.youtube.com/watch?v=cgXhMc8M4X4)
 * [Intro to Elm - Claudia Doppioslash](https://www.youtube.com/watch?v=gJ9DSVnZKhk)
@@ -1473,6 +1490,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [An introduction to functional programming - Mary Rose Cook](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 * [What Is Functional Programming? - Kris Jenkins](https://www.youtube.com/watch?v=xN1-mtw1Fns)
 * [How to Get Started With Functional Programming - Julia Gao (StrangeLoop 2016)](https://www.youtube.com/watch?v=fbrG3hvWA3E)
+* [What does it mean when code is “easy to reason about”? - Preethi Kasireddy](https://medium.freecodecamp.com/what-does-it-mean-when-code-is-easy-to-reason-about-4e6f63eb386f#.f900iegve)
+* [Why Programmers Need Limits - Charles Scalfani](https://medium.com/@cscalfani/why-programmers-need-limits-3d96e1a0a6db#.im759kdjs)
+* So You Want to be a Functional Programmer - Charles Scalfani: [Part 1](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.bksmmhgtj) | [Part 2](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a) | [Part 3](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a) | [Part 4](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49) | [Part 5](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a) | [Part 6](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403)
 * [Awesome Functional Programming [Links]- Denis Stoyanov](https://github.com/xgrommx/awesome-functional-programming)
 * [Functional Programming and Functional Thinking - Tony Morris](https://channel9.msdn.com/Blogs/Charles/YOW-2011-Tony-Morris-Functional-Programming-and-Functional-Thinking?ocid=relatedentry)
 * [Point-Free or Die - Tacit Programming in Haskell and Beyond - Amar Shah](https://www.youtube.com/watch?v=seVSlKazsNk)
