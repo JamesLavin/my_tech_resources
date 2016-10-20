@@ -1154,10 +1154,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Built With Elm](http://builtwithelm.co/)
 * [Elmcast.io](http://elmcast.io): [Elm Toolbox #1: Platform](http://www.ajhager.com/elm-toolings/) | [Elm Toolbox #2: Utilities](http://www.ajhager.com/elm-toolbox-part-2-utilities/)
 
+### ELM - 0.17
+
+* [Upgrading to 0.17](https://github.com/elm-lang/elm-platform/blob/master/upgrade-docs/0.17.md)
+
 ### ELM - ABOUT
 
 * [6 Months of Elm in Production - Richard Feldman (Forward University)](http://forwardjs.com/university/elm-in-production)
 * [Growing the Oasis: Elm in Production - Richard Feldman (June 2015)](http://www.ustream.tv/recorded/64112108)
+* [Why I think Elm is the Future of Front End Development - Rishi Goomar](https://medium.com/@rgoomar/why-i-think-elm-is-the-future-of-front-end-development-21e9b091fa05#.g3rivrvzs)
 * [Elm Programming Language - Jesse Williamson (FullStack Talks)](https://www.youtube.com/watch?v=jrkLrm4Oh2s)
 * [Move fast and don’t break things. Running a startup on Elm - Nils Eriksson](https://medium.com/the-ahead-story/move-fast-and-dont-break-things-running-a-startup-on-elm-b5491082fe8b#.r1324tptn)
 * [Making the Web Functional - Chris McCord & Evan Czaplicki (Erlang Factory 2016)](https://www.youtube.com/watch?v=XJ9ckqCMiKk&feature=youtu.be)
@@ -1170,6 +1175,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Elm Weekly](http://www.elmweekly.nl/archive)
 * [elm-lang.org/blog](http://elm-lang.org/blog)
+* [Brian Hicks](https://www.brianthicks.com/)
 * [Gizra](http://www.gizra.com/tags.html#Elm-ref)
 * [LambdaCat](http://www.lambdacat.com/)
 * [Magnus Rundberget](http://rundis.github.io/blog/)
@@ -1185,6 +1191,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [elm-tutorial-app: example Elm single page application - Sebastian Porto](https://github.com/sporto/elm-tutorial-app)
 * Composing Features and Behaviours in the Elm Architecture - Fred Daoud: [0: Intro](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture) | [1: Creating a Feature](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-010-todolist-feature/client-elm#creating-a-feature) | [2: Connecting Features Together](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-020-todoform-feature/client-elm#connecting-features-together) | [3: Multiple Listeners](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-030-todosummary-feature/client-elm#multiple-listeners) | [4: Composing Features](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-040-todominmax-feature/client-elm#composing-features) & [Summary of Daoud's ideas - LambdaCat](http://www.lambdacat.com/road-to-elm-structuring-your-application/)
 * [svgbob: Converts ascii scribbles to svg - Ivan Ceras](https://github.com/ivanceras/svgbob)
+* [recall-elm - Will Mruzek](https://github.com/mruzekw/recall-elm)
 * [elm-slice-show - Andrey Kuzmin](https://github.com/w0rm/elm-slice-show)
 * [orbital-game - Joakim Kolsjö](https://github.com/joakimk/orbital-game)
 * [rocket-elm - Jamon Holmgren](https://github.com/jamonholmgren/rocket-elm)
@@ -1226,6 +1233,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [JSON-to-Elm generator - NoRedInk.com](http://noredink.github.io/json-to-elm/)
 * [Data Structures in Elm - NoRedInk.com](http://tech.noredink.com/post/140646140878/data-structures-in-elm)
 * [Decoding JSON Structures With Elm - Josh Clayton](https://robots.thoughtbot.com/decoding-json-structures-with-elm)
+* [Debugging JSON - Brian Hicks](https://www.brianthicks.com/post/2016/10/10/debugging-json)
+* [Composing Decoders Like LEGO - Brian Hicks](https://www.brianthicks.com/post/2016/10/17/composing-decoders-like-lego/)
+* [Decoding Large JSON Objects: A Summary - Brian Hicks](https://www.brianthicks.com/post/2016/08/22/decoding-large-json-objects-a-summary/)
 * [json-to-elm - Noah Hall](https://github.com/eeue56/json-to-elm)
 * [Json.Decode cheatsheet - Yang Wei](https://gist.github.com/yang-wei/0a1cea1194a244aa9be6)
 * [Maybe Thinking - Josh Clayton](https://robots.thoughtbot.com/maybe-thinking)
@@ -1240,6 +1250,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ELM - EDITORS - LIGHTTABLE
 
 * [elm-light - Elm language plugin for Light Table- Magnus Rundberget](https://github.com/rundis/elm-light) & [docs](https://libraries.io/github/rundis/elm-light)
+* [elm-light demo](http://rundis.github.io/blog/2015/elm_light.html)
 * Elm Light Guide: [download PDF](https://www.gitbook.com/book/rundis/elm-light-guide/details) | [online](https://rundis.gitbooks.io/elm-light-guide/content/)
 * [LightTable](http://lighttable.com/) & [demo video](http://rundis.github.io/blog/2015/elm_light.html)
 
@@ -1267,6 +1278,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm package repository](http://package.elm-lang.org/)
 * [elm-audio](https://github.com/jcollard/elm-audio)
 * [elm-core](https://github.com/elm-lang/core)
+* [elm-graphql](https://github.com/jahewson/elm-graphql)
 * [elm-html](https://github.com/evancz/elm-html)
 * [elm-http](https://github.com/evancz/elm-http)
 * [elm-make](https://github.com/elm-lang/elm-make)
@@ -1315,8 +1327,15 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - VIDEOS
 
 * [Elm Conf 2016 videos](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
-    * ["Beyond Hello World and Todo Lists" by Ossi Hanhinen](https://www.youtube.com/watch?v=vpc80c5iC6k)
-    * []()
+    * [Making Impossible States Impossible - Richard Feldman](https://www.youtube.com/watch?v=IcgmSRJHu_8)
+    * [Beyond Hello World and Todo Lists - Ossi Hanhinen](https://www.youtube.com/watch?v=vpc80c5iC6k)
+    * [Code Is the Easy Part - Evan Czaplicki](https://www.youtube.com/watch?v=DSjbTC-hvqQ)
+    * [Rolling Random Romans - Joël Quenneville](https://www.youtube.com/watch?v=YxGWQdFo2Yc)
+    * [Building an Interactive Storytelling Framework in Elm - Jeff Schomay](https://www.youtube.com/watch?v=t8RSxzpw1Yw)
+    * [The Clockwork Gardener: Growing an Elm App With Templates - Jessica Kerr](https://www.youtube.com/watch?v=jJ4e6cIBgYM)
+    * [0-60 in 15 Minutes: Building a Real-time App with Elm and Horizon - Abadi Kurniawaan](https://www.youtube.com/watch?v=fTHHn7NhU3w)
+    * [Q&A Panel](https://www.youtube.com/watch?v=LCNs92YQjhw)
+* [Elm Meetup Videos (recorded/hosted by Josh Adams' DailyDrip.com)](https://www.dailydrip.com/topics/elm-remote-meetup)
 * [Exploring Elm Lang - Jack Franklin (JSCamp Romania 2016)](https://www.youtube.com/watch?v=0LTjVSXvKX4)
 * [Adventures in Elm - Jessica Kerr (GOTO 2016)](https://www.youtube.com/watch?v=cgXhMc8M4X4)
 * [Intro to Elm - Claudia Doppioslash](https://www.youtube.com/watch?v=gJ9DSVnZKhk)
