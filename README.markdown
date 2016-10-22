@@ -783,7 +783,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Exercism.io Elixir](http://exercism.io/languages/elixir)
 * [Elixir talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=elixir&commit=go)
 * [ElixirConf 2014 videos](http://www.confreaks.tv/events/elixirconf2014)
-* [ElixirStatus.com](http://elixirstatus.com/)
 * [Elixir Koans - Nicolas Deverge](https://github.com/dojo-toulouse/elixir-koans)
 * [Introducing reducees - José Valim](http://blog.plataformatec.com.br/2015/05/introducing-reducees/)
 * Elixir Express: [Workshop - Chris McCord (RailsConf 2014)](http://www.youtube.com/watch?v=5kYmOyJjGDM) & [Basic documentation](https://github.com/chrismccord/elixir_express/tree/master/basics) & [Advanced documentation](https://github.com/chrismccord/elixir_express/tree/master/advanced)
@@ -830,6 +829,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - BLOGS
 
+* [Elixir Radar](http://plataformatec.com.br/elixir-radar)
+* [ElixirStatus.com](http://elixirstatus.com/)
 * [Elixir Weekly](https://elixirweekly.net/)
 * [The Erlang eList](http://theerlangelist.com/)
 * [Plataformatec](http://blog.plataformatec.com.br/tag/elixir/)
@@ -848,6 +849,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - COWBOY
 
 * Cowboy: [Github](https://github.com/ninenines/cowboy) | [User Guide](http://ninenines.eu/docs/en/cowboy/HEAD/guide/)
+
+### ELIXIR - COURSES (NON-FREE)
+
+* [DailyDrip.com - Elixir](https://www.dailydrip.com/topics/elixir)
 
 ### ELIXIR - DEBUGGING
 
@@ -922,6 +927,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Announcing GenStage - José Valim](http://elixir-lang.org/blog/2016/07/14/announcing-genstage/)
 * [GenStage - José Valim (Elixir London June 2016))](https://www.youtube.com/watch?v=aZuY5-2lwW4)
+* [How Do I GenStage? - Adrian Dunston](http://engineering.spreedly.com/blog/how-do-i-genstage.html)
+* [Reactive Tweets with Elixir GenStage - Mario Flach](https://almightycouch.org/blog/reactive-tweets-elixir-genstage/)
 
 ### ELIXIR - HEX
 
@@ -1014,6 +1021,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Deploying a Phoenix application using ansible-elixir-stack - Johan Wärlander](http://blog.johanwarlander.com/2015/07/30/deploying-a-phoenix-application-using-ansible-elixir-stack.html)
 * [Ansible-elixir-stack](https://github.com/HashNuke/ansible-elixir-stack)
 
+#### ELIXIR - PHOENIX - JSON
+
+* [Building and testing a Phoenix JSON API - Paul Smith (Thoughtbot)](https://robots.thoughtbot.com/building-a-phoenix-json-api)
+
 #### ELIXIR - PHOENIX - PERFORMANCE
 
 * [Elixir vs Ruby Showdown - Phoenix vs Rails - Chris McCord](http://www.littlelines.com/blog/2014/07/08/elixir-vs-ruby-showdown-phoenix-vs-rails/)
@@ -1090,7 +1101,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - UMBRELLA PROJECTS
 
-* [Building Umbrella Projects - Wojtek Mach (ElixirConf 2016)](https://www.youtube.com/watch?v=6NTmUQClHrU)
+* [Building Umbrella Projects - Wojtek Mach (ElixirConf 2016)](https://www.youtube.com/watch?v=6NTmUQClHrU) & [Acme Bank is an example project to explore and experiment with building modular and maintainable Elixir/Phoenix applications](https://github.com/wojtekmach/acme_bank)
 
 ### ELIXIR - VIDEOS
 
@@ -1104,6 +1115,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Confident Elixir - Lance Halvorsen](https://www.youtube.com/watch?v=9YCg9xaG47s)
 * [ElixirConf EU 2015 videos](https://www.youtube.com/watch?v=fLlItGWiVFc&list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
 * [Discovering Processes - Saša Jurić (ElixirConfEU 2016)](https://www.youtube.com/watch?v=y_b6RTes83c)
+* [Elixir Remote Meetup - DailyDrip.com](https://www.dailydrip.com/topics/elixir-remote-meetup)
 * [Three and a Half Ways Elixir Changed Me (and Other Hyperbole) - Rob Conery (NDC London 2016)](https://vimeo.com/161001513)
 * [Elixir Is Neat But What Can You Actually Do With It? - Rob Conery (NDC Oslo 2016)](https://vimeo.com/171317253)
 * [What's Ahead for Elixir? - José Valim (ElixirConfEU 2016)](https://www.youtube.com/watch?v=A60nxws_iVs) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/160/original/Jose_Valim-_What's_ahead_of_Elixir.pdf?1463594498)
@@ -1166,6 +1178,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm Programming Language - Jesse Williamson (FullStack Talks)](https://www.youtube.com/watch?v=jrkLrm4Oh2s)
 * [Move fast and don’t break things. Running a startup on Elm - Nils Eriksson](https://medium.com/the-ahead-story/move-fast-and-dont-break-things-running-a-startup-on-elm-b5491082fe8b#.r1324tptn)
 * [Making the Web Functional - Chris McCord & Evan Czaplicki (Erlang Factory 2016)](https://www.youtube.com/watch?v=XJ9ckqCMiKk&feature=youtu.be)
+* NewMountain: [A fun first app with Elm](https://medium.com/@NewMountain/a-fun-first-app-with-elm-c68019b50822#.pkz0b8ace) | [Some thoughts on Elm Development - NewMountain](https://medium.com/@NewMountain/some-thoughts-on-elm-development-39a0f8a9002a#.gjw0gkjz9) | [Let's Build a Productivity Timer App With Elm](https://medium.com/@NewMountain/lets-build-a-productivity-timer-app-with-elm-81718a1b4329#.lzg9nas07)
 * [Make the Back-End Team Jealous: Elm in Production - Richard Feldman (StrangeLoop 2015)](https://www.youtube.com/watch?v=FV0DXNB94NE) & [Building a Live-Validated Signup Form in Elm](http://noredinktech.tumblr.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 * Shipping a Production Web App in Elm - Richard Feldman: [Lambda Jam 2015](https://www.youtube.com/watch?v=W9HDueiaIJ4) & [LambdaConf 2015](https://www.youtube.com/watch?v=B7Iwreo1ReU)
 * [Let's be mainstream! User focused design in Elm - Evan Czaplicki (Curry On Prague 2015)](https://www.youtube.com/watch?v=oYk8CKH7OhE)
@@ -1173,13 +1186,15 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - BLOGS
 
+* [Brian Hicks](https://www.brianthicks.com/)
 * [Elm Weekly](http://www.elmweekly.nl/archive)
 * [elm-lang.org/blog](http://elm-lang.org/blog)
-* [Brian Hicks](https://www.brianthicks.com/)
 * [Gizra](http://www.gizra.com/tags.html#Elm-ref)
 * [LambdaCat](http://www.lambdacat.com/)
+* [NoRedInk](http://tech.noredink.com/)
 * [Magnus Rundberget](http://rundis.github.io/blog/)
 * [Simon Hampton](http://simonh1000.github.io/blog/)
+* [Twitter - elmlang](https://twitter.com/elmlang?lang=en)
 
 ### ELM - CODE EXAMPLES
 
@@ -1228,10 +1243,23 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [How I Structure Elm Apps - Kris Jenkins](http://blog.jenkster.com/2016/04/how-i-structure-elm-apps.html)
 
+### ELM - COURSES
+
+* [Elm - Ronn Ross & Murphy Randle (EggHead.io)](https://egghead.io/technologies/elm)
+* [Elm Meetup (DailyDrip.com)](https://www.dailydrip.com/topics/elm-remote-meetup)
+
+#### ELM - COURSES - NON-FREE
+
+* (Excellent! I highly recommend!): Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
+* [DailyDrip.com - Elm](https://www.dailydrip.com/topics/elm)
+* [Elm for Beginners - KnowThen.com](http://courses.knowthen.com/p/elm-for-beginners)
+* [Functional Programming in Elm - John Kelly (CodeHS.com)](https://codehs.com/info/curriculum/elm)
+
 ### ELM - DATA STRUCTURES
 
 * [JSON-to-Elm generator - NoRedInk.com](http://noredink.github.io/json-to-elm/)
 * [Data Structures in Elm - NoRedInk.com](http://tech.noredink.com/post/140646140878/data-structures-in-elm)
+* [Writing Friendly Elm Code - NoRedInk.com](http://tech.noredink.com/post/146963432518/writing-friendly-elm-code)
 * [Decoding JSON Structures With Elm - Josh Clayton](https://robots.thoughtbot.com/decoding-json-structures-with-elm)
 * [Debugging JSON - Brian Hicks](https://www.brianthicks.com/post/2016/10/10/debugging-json)
 * [Composing Decoders Like LEGO - Brian Hicks](https://www.brianthicks.com/post/2016/10/17/composing-decoders-like-lego/)
@@ -1271,6 +1299,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Example of how to integrate Elm with HTML and JS - Evan Czaplicki](https://github.com/evancz/elm-html-and-js)
 * [Interop(erability)](http://elm-lang.org/guide/interop) & [code example](https://gist.github.com/evancz/8521339)
 * [Decoding JSON With Dynamic Keys - Brian Hicks](https://www.brianthicks.com/post/2016/10/03/decoding-json-with-dynamic-keys/)
+* [json-server (Get a full fake REST API with zero coding in less than 30 seconds (useful for development)](https://github.com/typicode/json-server)
 
 ### ELM - PACKAGES
 
@@ -1331,7 +1360,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Beyond Hello World and Todo Lists - Ossi Hanhinen](https://www.youtube.com/watch?v=vpc80c5iC6k)
     * [Code Is the Easy Part - Evan Czaplicki](https://www.youtube.com/watch?v=DSjbTC-hvqQ)
     * [Rolling Random Romans - Joël Quenneville](https://www.youtube.com/watch?v=YxGWQdFo2Yc)
-    * [Building an Interactive Storytelling Framework in Elm - Jeff Schomay](https://www.youtube.com/watch?v=t8RSxzpw1Yw)
+    * [Building an Interactive Storytelling Framework in Elm - Jeff Schomay](https://www.youtube.com/watch?v=t8RSxzpw1Yw) & [API Design Session - Elm Narrative Engine with Jeff Schomay & Evan Czaplicki](https://www.youtube.com/watch?v=De1c85B4Zxs)
     * [The Clockwork Gardener: Growing an Elm App With Templates - Jessica Kerr](https://www.youtube.com/watch?v=jJ4e6cIBgYM)
     * [0-60 in 15 Minutes: Building a Real-time App with Elm and Horizon - Abadi Kurniawaan](https://www.youtube.com/watch?v=fTHHn7NhU3w)
     * [Q&A Panel](https://www.youtube.com/watch?v=LCNs92YQjhw)
@@ -1340,7 +1369,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Adventures in Elm - Jessica Kerr (GOTO 2016)](https://www.youtube.com/watch?v=cgXhMc8M4X4)
 * [Intro to Elm - Claudia Doppioslash](https://www.youtube.com/watch?v=gJ9DSVnZKhk)
 * [Code Therapy - Danny O'Brien](https://www.youtube.com/playlist?list=PL7RY3c_PbOzGbrUb8w97LX085PSl0c8lU)
-* NON-FREE (but excellent): Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
 * [ElmLive (video tutorial series) - Aaron VonderHaar](https://www.youtube.com/user/gruen0/videos): [Lights Out, Pt 1](https://www.youtube.com/watch?v=R6vuO547DC8) | [Lights Out, Pt 2](https://www.youtube.com/watch?v=OAgF2uUnKcg) | [Lights Out (Code)](https://gist.github.com/avh4/dda1523ed8fc7bc3790b20150c1f0f22) | [Drag'N'Drop, Pt 1](https://www.youtube.com/watch?v=Rzz78cR0hPw) | [Drag'N'Drop, Pt 2](https://www.youtube.com/watch?v=DkOS0QqDUIY) | [Drag'N'Drop, Pt 3](https://www.youtube.com/watch?v=HgCMdjoSWnQ) | [Drag'N'Drop, Pt 4](https://www.youtube.com/watch?v=eFJiwPW3dwI) | [#BlackLivesMatter, Pt 1](https://www.youtube.com/watch?v=t9pOVSmNeR0) | [#BlackLivesMatter, Pt 2](https://www.youtube.com/watch?v=DgeIOk7JoqE) | [AWS Cognito - Pt 1](https://www.youtube.com/watch?v=seLD59KsHJk) | [AWS Cognito - Pt 2](https://www.youtube.com/watch?v=X6e8KpPWHg0) | [Mandelbrot Magic, Pt 1](https://www.youtube.com/watch?v=kObuBHIeYBE) | [Mandelbrot Magic, Pt 2](https://www.youtube.com/watch?v=8gQBiMxIJEQ)
 * [ElmLive: Building an RPG Framework - Greg Ziegan](https://www.twitch.tv/gregziegan/videos/all) & [code](https://github.com/thebritican/rpg-framework)
 * [Elm Solitaire game #1 - Martin Janiczek](https://www.youtube.com/watch?v=dDZb46sN3yM)
@@ -4982,12 +5010,13 @@ Peter R. Egli:
 
 ### VIM - SPACEMACS
 
-* [Spacemacs Documentation](https://github.com/syl20bnr/spacemacs/blob/master/doc/DOCUMENTATION.org)
+* [Spacemacs Documentation](https://github.com/syl20bnr/spacemacs/blob/master/doc/DOCUMENTATION.org) & [Github](https://github.com/syl20bnr/spacemacs)
 * [Migrating from Vim](https://github.com/syl20bnr/spacemacs/blob/master/doc/VIMUSERS.org)
 * [Quick Start](https://github.com/syl20bnr/spacemacs/blob/master/doc/QUICK_START.org) | [FAQ](https://github.com/syl20bnr/spacemacs/blob/master/doc/FAQ.org)
 * [Evil-Tutor](https://github.com/syl20bnr/evil-tutor)
 * [Alchemist docs](http://alchemist.readthedocs.io/en/latest/)
 * [Elixir With Alchemist](http://spacemacs.org/layers/+lang/elixir/README.html)
+* [Alchemist Quick Reference Card (Spacemacs Version)](https://github.com/syl20bnr/spacemacs/blob/master/layers/%2Blang/elixir/alchemist-refcard.pdf)
 
 ### VIM - TMUX
 
