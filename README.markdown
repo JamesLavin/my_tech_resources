@@ -1245,6 +1245,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - COURSES
 
+* [Elm for Beginners - KnowThen.com](http://courses.knowthen.com/p/elm-for-beginners)
 * [Elm - Ronn Ross & Murphy Randle (EggHead.io)](https://egghead.io/technologies/elm)
 * [Elm Meetup (DailyDrip.com)](https://www.dailydrip.com/topics/elm-remote-meetup)
 
@@ -1252,7 +1253,6 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * (Excellent! I highly recommend!): Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
 * [DailyDrip.com - Elm](https://www.dailydrip.com/topics/elm)
-* [Elm for Beginners - KnowThen.com](http://courses.knowthen.com/p/elm-for-beginners)
 * [Functional Programming in Elm - John Kelly (CodeHS.com)](https://codehs.com/info/curriculum/elm)
 
 ### ELM - DATA STRUCTURES
