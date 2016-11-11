@@ -2211,6 +2211,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### HASKELL - VIDEOS
 
 * [Haskell video collection (InfoQ)](http://www.infoq.com/haskell/)
+* [Modeling Data in Haskell for Beginners - Chris Allen (LambdaConf 2015)](https://www.youtube.com/watch?v=p-NBJm0kIYU)
 * [Haskell is Not For Production and Other Tales - Katie Miller (Linux.conf.au 2016)](https://www.youtube.com/watch?v=mlTO510zO78) | [slides](http://www.slideshare.net/KatieAtie/haskell-is-not-for-production-and-other-tales)
 * [Introduction to Functional Programming - Erik Meijer](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 * [Functional Programming Fundamentals - Erik Meijer](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals)
