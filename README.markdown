@@ -75,6 +75,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Kauffmann Founders School](http://www.entrepreneurship.org/Founders-School)
 * [Observatory of Economic Complexity (interactive international trade data displayed using D3)](http://atlas.media.mit.edu/en/visualize/tree_map/hs92/export/usa/all/show/2013/)
 * [Startup Success Podcast](http://startupsuccesspodcast.com/)
+* [First Round Review](http://firstround.com/review/)
 
 ## CHARACTERS
 
@@ -835,6 +836,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Erlang eList](http://theerlangelist.com/)
 * [Plataformatec](http://blog.plataformatec.com.br/tag/elixir/)
 * [The Pug Automatic - Henrik Nyh](http://thepugautomatic.com/)
+* [Red Shift](https://shift.infinite.red/tagged/elixir)
 
 ### ELIXIR - BOOKS
 
@@ -926,6 +928,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - GENSTAGE
 
 * [Announcing GenStage - José Valim](http://elixir-lang.org/blog/2016/07/14/announcing-genstage/)
+* [GenStage in the Kitchen - Claudio Ortolina (Elixir.LDN 2016)](https://www.youtube.com/watch?v=M78r_PDlw2c)
 * [GenStage - José Valim (Elixir London June 2016))](https://www.youtube.com/watch?v=aZuY5-2lwW4)
 * [How Do I GenStage? - Adrian Dunston](http://engineering.spreedly.com/blog/how-do-i-genstage.html)
 * [Reactive Tweets with Elixir GenStage - Mario Flach](https://almightycouch.org/blog/reactive-tweets-elixir-genstage/)
@@ -959,6 +962,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir)
 * [High availability with Elixir and Erlang - Saša Jurić (Full Stack Fest 2016)](https://www.youtube.com/watch?v=Ba3aCm3A0o8) & [High Availability - Saša Jurić](https://www.youtube.com/watch?v=wYttHG3S76Y)
 * [The Mix and OTP Guide](http://elixir-lang.org/getting-started/mix-otp/agent.html)
+* [Creating Elixir libraries as OTP applications - Hubert Łępicki](https://www.amberbit.com/blog/2016/5/10/creating-elixir-libraries-as-otp-applications/)
 * [OTP in Elixir - Part 1 - Christian Di Lorenzo (Triangle Elixir 2016)](https://www.youtube.com/watch?v=_WgrfEaAM4Y)
 * [Chat Bot: A Practical Walkthrough of the powerful Features Elixir/Erlang/OTP - Jeff Weiss](https://www.youtube.com/watch?v=NrrUyRt_B1w)
 * [Finding the needle in the Haystack: Breadth First Search... The Elixir Way - Quentin Thomas](http://www.automatingthefuture.com/blog/2016/4/8/finding-the-needle-in-the-haystack-breadth-first-search)
@@ -1175,9 +1179,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [6 Months of Elm in Production - Richard Feldman (Forward University)](http://forwardjs.com/university/elm-in-production)
 * [Growing the Oasis: Elm in Production - Richard Feldman (June 2015)](http://www.ustream.tv/recorded/64112108)
 * [Why I think Elm is the Future of Front End Development - Rishi Goomar](https://medium.com/@rgoomar/why-i-think-elm-is-the-future-of-front-end-development-21e9b091fa05#.g3rivrvzs)
+* [Elm: The Game-Changer - Bastian Krol (RuhrJS 2016)](https://www.youtube.com/watch?v=BQ3fMqwC0zE)
+* [Elm: Awesomesauce or just yet another language for the Front-end? - Magnus Rundberget](https://vimeo.com/181814362)
 * [Elm Programming Language - Jesse Williamson (FullStack Talks)](https://www.youtube.com/watch?v=jrkLrm4Oh2s)
+* [Elm Revisited - Web Platform Podcast](https://www.youtube.com/watch?v=UMMxAcqgwos)
 * [Move fast and don’t break things. Running a startup on Elm - Nils Eriksson](https://medium.com/the-ahead-story/move-fast-and-dont-break-things-running-a-startup-on-elm-b5491082fe8b#.r1324tptn)
 * [Making the Web Functional - Chris McCord & Evan Czaplicki (Erlang Factory 2016)](https://www.youtube.com/watch?v=XJ9ckqCMiKk&feature=youtu.be)
+* [Using Elm in the newsroom - Elliot Davies](https://medium.com/digital-times/using-elm-in-the-newsroom-d16fbf636a8e#.ul0o5a4kq)
 * NewMountain: [A fun first app with Elm](https://medium.com/@NewMountain/a-fun-first-app-with-elm-c68019b50822#.pkz0b8ace) | [Some thoughts on Elm Development - NewMountain](https://medium.com/@NewMountain/some-thoughts-on-elm-development-39a0f8a9002a#.gjw0gkjz9) | [Let's Build a Productivity Timer App With Elm](https://medium.com/@NewMountain/lets-build-a-productivity-timer-app-with-elm-81718a1b4329#.lzg9nas07)
 * [Make the Back-End Team Jealous: Elm in Production - Richard Feldman (StrangeLoop 2015)](https://www.youtube.com/watch?v=FV0DXNB94NE) & [Building a Live-Validated Signup Form in Elm](http://noredinktech.tumblr.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 * Shipping a Production Web App in Elm - Richard Feldman: [Lambda Jam 2015](https://www.youtube.com/watch?v=W9HDueiaIJ4) & [LambdaConf 2015](https://www.youtube.com/watch?v=B7Iwreo1ReU)
@@ -1207,6 +1215,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Composing Features and Behaviours in the Elm Architecture - Fred Daoud: [0: Intro](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture) | [1: Creating a Feature](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-010-todolist-feature/client-elm#creating-a-feature) | [2: Connecting Features Together](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-020-todoform-feature/client-elm#connecting-features-together) | [3: Multiple Listeners](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-030-todosummary-feature/client-elm#multiple-listeners) | [4: Composing Features](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-040-todominmax-feature/client-elm#composing-features) & [Summary of Daoud's ideas - LambdaCat](http://www.lambdacat.com/road-to-elm-structuring-your-application/)
 * [svgbob: Converts ascii scribbles to svg - Ivan Ceras](https://github.com/ivanceras/svgbob)
 * [recall-elm - Will Mruzek](https://github.com/mruzekw/recall-elm)
+* [haskell-elm-todo-app - Jens Krause](https://github.com/sectore/haskell-elm-todo-app)
 * [elm-slice-show - Andrey Kuzmin](https://github.com/w0rm/elm-slice-show)
 * [orbital-game - Joakim Kolsjö](https://github.com/joakimk/orbital-game)
 * [rocket-elm - Jamon Holmgren](https://github.com/jamonholmgren/rocket-elm)
@@ -1255,6 +1264,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [DailyDrip.com - Elm](https://www.dailydrip.com/topics/elm)
 * [Functional Programming in Elm - John Kelly (CodeHS.com)](https://codehs.com/info/curriculum/elm)
 
+### ELM - CSS & UI
+
+* [Elm UI - opinionated UI library and application framework for the web in Elm, following the Elm Architecture](https://github.com/gdotdesign/elm-ui)
+
 ### ELM - DATA STRUCTURES
 
 * [JSON-to-Elm generator - NoRedInk.com](http://noredink.github.io/json-to-elm/)
@@ -1267,6 +1280,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [json-to-elm - Noah Hall](https://github.com/eeue56/json-to-elm)
 * [Json.Decode cheatsheet - Yang Wei](https://gist.github.com/yang-wei/0a1cea1194a244aa9be6)
 * [Maybe Thinking - Josh Clayton](https://robots.thoughtbot.com/maybe-thinking)
+
+#### ELM - DATA STRUCTURES - JSON
+
+* [json-to-elm](https://github.com/eeue56/json-to-elm) & [JSON2Elm.com](http://noredink.github.io/json-to-elm/)
 
 ### ELM - EDITORS
 
@@ -1312,10 +1329,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [elm-http](https://github.com/evancz/elm-http)
 * [elm-make](https://github.com/elm-lang/elm-make)
 * [elm-lang/navigation - SPA routing / managing browser navigation](https://github.com/elm-lang/navigation)
+* [elm-plot](https://github.com/terezka/elm-plot)
 * [elm-router - Hassan Hayat](https://github.com/TheSeamau5/elm-router)
 * [elm-route-hash - Ryan Rempel](https://github.com/rgrempel/elm-route-hash)
 * [elm-undo-redo - Hassan Hayat](https://github.com/TheSeamau5/elm-undo-redo)
 * [elm-web-api - Ryan Rempel](https://github.com/rgrempel/elm-web-api)
+* [generator-elmlang (for Yeoman) - Gizra](https://github.com/Gizra/generator-elmlang)
 
 ### ELM - PHOENIX & ELM
 
@@ -1366,10 +1385,12 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Q&A Panel](https://www.youtube.com/watch?v=LCNs92YQjhw)
 * [Elm Meetup Videos (recorded/hosted by Josh Adams' DailyDrip.com)](https://www.dailydrip.com/topics/elm-remote-meetup)
 * [Exploring Elm Lang - Jack Franklin (JSCamp Romania 2016)](https://www.youtube.com/watch?v=0LTjVSXvKX4)
+* [Building a Graphical IDE in Elm - Claudia Doppioslash](https://www.youtube.com/watch?v=Cfeneg48POY)
 * [Adventures in Elm - Jessica Kerr (GOTO 2016)](https://www.youtube.com/watch?v=cgXhMc8M4X4)
 * [Intro to Elm - Claudia Doppioslash](https://www.youtube.com/watch?v=gJ9DSVnZKhk)
 * [Code Therapy - Danny O'Brien](https://www.youtube.com/playlist?list=PL7RY3c_PbOzGbrUb8w97LX085PSl0c8lU)
-* [ElmLive (video tutorial series) - Aaron VonderHaar](https://www.youtube.com/user/gruen0/videos): [Lights Out, Pt 1](https://www.youtube.com/watch?v=R6vuO547DC8) | [Lights Out, Pt 2](https://www.youtube.com/watch?v=OAgF2uUnKcg) | [Lights Out (Code)](https://gist.github.com/avh4/dda1523ed8fc7bc3790b20150c1f0f22) | [Drag'N'Drop, Pt 1](https://www.youtube.com/watch?v=Rzz78cR0hPw) | [Drag'N'Drop, Pt 2](https://www.youtube.com/watch?v=DkOS0QqDUIY) | [Drag'N'Drop, Pt 3](https://www.youtube.com/watch?v=HgCMdjoSWnQ) | [Drag'N'Drop, Pt 4](https://www.youtube.com/watch?v=eFJiwPW3dwI) | [#BlackLivesMatter, Pt 1](https://www.youtube.com/watch?v=t9pOVSmNeR0) | [#BlackLivesMatter, Pt 2](https://www.youtube.com/watch?v=DgeIOk7JoqE) | [AWS Cognito - Pt 1](https://www.youtube.com/watch?v=seLD59KsHJk) | [AWS Cognito - Pt 2](https://www.youtube.com/watch?v=X6e8KpPWHg0) | [Mandelbrot Magic, Pt 1](https://www.youtube.com/watch?v=kObuBHIeYBE) | [Mandelbrot Magic, Pt 2](https://www.youtube.com/watch?v=8gQBiMxIJEQ)
+* [Elm in Purescript - Ryan Rempel](https://www.youtube.com/watch?v=O_kWwaghZ9U)
+* [ElmLive (video tutorial series) - Aaron VonderHaar](https://www.youtube.com/playlist?list=PLDA4wlOlLJvWSYo3KiEa4q4ETkXpTaKlw): [Lights Out, Pt 1](https://www.youtube.com/watch?v=R6vuO547DC8) | [Lights Out, Pt 2](https://www.youtube.com/watch?v=OAgF2uUnKcg) | [Lights Out (Code)](https://gist.github.com/avh4/dda1523ed8fc7bc3790b20150c1f0f22) | [Drag'N'Drop, Pt 1](https://www.youtube.com/watch?v=Rzz78cR0hPw) | [Drag'N'Drop, Pt 2](https://www.youtube.com/watch?v=DkOS0QqDUIY) | [Drag'N'Drop, Pt 3](https://www.youtube.com/watch?v=HgCMdjoSWnQ) | [Drag'N'Drop, Pt 4](https://www.youtube.com/watch?v=eFJiwPW3dwI) | [#BlackLivesMatter, Pt 1](https://www.youtube.com/watch?v=t9pOVSmNeR0) | [#BlackLivesMatter, Pt 2](https://www.youtube.com/watch?v=DgeIOk7JoqE) | [AWS Cognito - Pt 1](https://www.youtube.com/watch?v=seLD59KsHJk) | [AWS Cognito - Pt 2](https://www.youtube.com/watch?v=X6e8KpPWHg0) | [Mandelbrot Magic, Pt 1](https://www.youtube.com/watch?v=kObuBHIeYBE) | [Mandelbrot Magic, Pt 2](https://www.youtube.com/watch?v=8gQBiMxIJEQ)
 * [ElmLive: Building an RPG Framework - Greg Ziegan](https://www.twitch.tv/gregziegan/videos/all) & [code](https://github.com/thebritican/rpg-framework)
 * [Elm Solitaire game #1 - Martin Janiczek](https://www.youtube.com/watch?v=dDZb46sN3yM)
 * [Elm: Frontend with Guarantees - Amitai Burstein](https://www.youtube.com/watch?v=FgaoOgJ5CAU)
@@ -1452,6 +1473,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Essential Erlang/OTP - Garrett Smith](https://www.youtube.com/watch?v=0ZGHzI9F5YE)
 * [OTP Has Done It - Nick DeMonner (ElixirConf 2015)](https://www.youtube.com/watch?v=yBReonQlfL4)
+* [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM)
+* [OTP in Elixir: Part 1 - Christian Di Lorenzo (Triangle |> Elixir)](https://www.youtube.com/watch?v=_WgrfEaAM4Y)
 * [Erlang Design Principles](http://erlang.org/doc/design_principles/users_guide.html)
 
 ### ERLANG - PERFORMANCE
@@ -1462,6 +1485,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ERLANG - VIDEOS
 
 * [Intro to Erlang - Philip Clarke](https://www.youtube.com/watch?v=1QQSTayocdA)
+* [Writing Quality Code in Erlang - Garrett Smith (2014)](https://www.youtube.com/watch?v=CQyt9Vlkbis)
 * [Erlang User Conf 2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ijLaWEw-L2xtTVMQ5chWcp)
 * [Functional Programming with Erlang](https://www.youtube.com/playlist?list=PLlML6SMLMRgAooeL26mW502jCgWikqx_n)
 * Erlang Master Class (University of Kent): [Class 1: Functional Programming](https://www.youtube.com/watch?v=gKRyAb7d8lo&list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5) | [Class 2: Concurrent Programming](https://www.youtube.com/watch?v=nYgEny1goCY&list=PLR812eVbehlwq4qbqswOWH7NLKjodnTIn) | [Class 3: OTP Behaviours & Releases](https://www.youtube.com/watch?v=9HVvzSsdW9k&list=PLR812eVbehlx6vgWGf2FLHjkksAEDmFjc)
@@ -1470,8 +1494,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Erlang videos (Vimeo)](https://vimeo.com/search?q=Erlang)
 * [Concurrency + Distribution = Scalability + Availability, a Journey architecting Erlang Systems - Francesco Cesarini (NDC London 2016)](https://vimeo.com/162206436)
 * [Introduction to Erlang - Steven Proctor (LambdaConf 2015)](https://www.youtube.com/watch?v=0YpCBRJJtPg)
+* [Faults, Scaling, and Erlang Concurrency - Joe Armstrong (Stanford Seminar)](https://www.youtube.com/watch?v=YaUPdgtUYko)
 * [That's "Billion" With a "B": Scaling to the Next Level at WhatsApp - Rick Reed (Erlang Factory SF 2014)](https://www.youtube.com/watch?v=c12cYAUTXXs)
 * [Scaling Distributed Erlang - Zandra Norman (ElixirConfEU 2016)](https://www.youtube.com/watch?v=usEs3GPnZDg) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/074/original/Zandra_Norman_ScalingDistributedErlang.pdf?1462891793)
+* [Rackspace interviews Erlang creators Joe Armstrong and Robert Virding](https://www.youtube.com/watch?v=u41GEwIq2mE)
 * [Erlang Master Classes](https://www.youtube.com/watch?v=gKRyAb7d8lo&list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5&index=1)
 * [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
 * [An Introduction to Erlang (for Python programmers) - Paul Barry](https://www.youtube.com/watch?v=yRJZxV8uPhg)
@@ -1580,6 +1606,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [C9 functional programming lectures - Dr. Ralf Lämmel](https://channel9.msdn.com/Tags/ralf-laemmel)
 * [Functional Programming From First Principles - Erik Meijer (GOTO Chicago 2012)](https://channel9.msdn.com/posts/Erik-Meijer-Functional-Programming-From-First-Principles)
 
+### FUNCTIONAL PROGRAMMING - BOOKS
+
+* [The Implementation of Functional Programming Languages - Simon Peyton Jones (1987)](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/)
+* [Implementing Lazy Functional Languages on Stock Hardware: The Spineless Tagless G-machine - Simon Peyton Jones (1992)](https://www.microsoft.com/en-us/research/publication/implementing-lazy-functional-languages-on-stock-hardware-the-spineless-tagless-g-machine/)
+
 ### FUNCTIONAL PROGRAMMING - CONFERENCE VIDEOS
 
 * [LambdaConf 2016 (λC 2016)](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos)
@@ -1609,6 +1640,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
 
+* [Category Theory for the Working Hacker - Philip Wadler](https://www.infoq.com/presentations/category-theory-propositions-principle)
 * [The Lambda Calculus, General Term Rewriting and Food Nutrition - Brian Beckman and Erik Meijer](https://channel9.msdn.com/Series/Beckman-Meijer-Overdrive/Beckman-Meijer-Overdrive-The-Lambda-Calculus-and-Food-Nutrition)
 * [Category Theory: The essence of interface-based design - Erik Meijer (Foo Cafe 2015)](https://www.youtube.com/watch?v=JMP6gI5mLHc)
 * [Introduction to Lambda Calculus - Henk Barendregt & Erik Barendsen (2000)](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf)
@@ -1831,8 +1863,17 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [High Performance in the Critical Rendering Path - Nicolas Bevacqua](http://forwardjs.com/university/high-performance-in-the-critical-rendering-path)
 
+### HTML5 - PROGRESSIVE WEB APPS
+
+* [A Beginner’s Guide To Progressive Web Apps - Kevin Farrugia](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/)
+* [What are Progressive Web Apps? - Max Lynch](http://blog.ionic.io/what-is-a-progressive-web-app/)
+* [Everything You Should Know About Progressive Web Apps - Danny Markov](http://tutorialzine.com/2016/09/everything-you-should-know-about-progressive-web-apps/)
+* [Your First Progressive Web App - Google](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/(
+* [The Building Blocks Of Progressive Web Apps - Ada Rose Edwards](https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/)
+
 ### HTML5 - SERVICEWORKERS
 
+* [ServiceWorke.rs (Mozilla)](https://serviceworke.rs/)
 * [There is a client-side proxy (ServiceWorker) in your browser! - Ilya Grigorik (Velocity NYC 2015)](https://www.youtube.com/watch?v=etACK2qbHfc)
 
 ### HTML5 - WEB SOCKETS
@@ -2592,6 +2633,7 @@ Peter R. Egli:
 
 ### MAKER MOVEMENT - RASPBERRY PI
 
+* [Raspberry Pi Resources](https://www.raspberrypi.org/resources/)
 * [Official Rasperry Pi Projects Book](https://www.raspberrypi.org/magpi-issues/Projects_Book_v1.pdf)
 
 ## MATH
@@ -2938,6 +2980,10 @@ Peter R. Egli:
 * [K Things I Know About Building Resilient Reactive Systems - Joe Armstrong (React 2014)](https://www.youtube.com/watch?v=rQIE22e0cW8)
 * [Functional Reactive Programming: Cleanly Abstracted Interactivity - BoostCon](https://www.youtube.com/watch?v=tyaYLGQSr4g)
 
+### PROGRAMMING - LANGUAGE CREATION
+
+* [Designing With Passion -  Joe Armstrong, Evan Czaplicki, Bruce Tate, Dave Thomas, John Hughes (Erlang Solutions 2016)](https://www.infoq.com/presentations/panel-erlang-haskell-elm-ruby)
+
 ### PROGRAMMING - LEARNING (FREE)
 
 * [Code Studio](http://studio.code.org/)
@@ -2970,6 +3016,7 @@ Peter R. Egli:
 
 #### PROGRAMMING - LEARNING - GAMES
 
+* [Games on Github - Lee Reilly](https://github.com/leereilly/games)
 * [Phaser.io](http://phaser.io/)
 * [Game Editor (cross-platform game creator)](http://game-editor.com/)
 
@@ -5011,6 +5058,8 @@ Peter R. Egli:
 ### VIM - SPACEMACS
 
 * [Spacemacs Documentation](https://github.com/syl20bnr/spacemacs/blob/master/doc/DOCUMENTATION.org) & [Github](https://github.com/syl20bnr/spacemacs)
+* [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs - Aaron Bieber](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
+* [Spacemacs ABC videos - Eivind Fonn](https://www.youtube.com/playlist?list=PLrJ2YN5y27KLhd3yNs2dR8_inqtEiEweE)
 * [Migrating from Vim](https://github.com/syl20bnr/spacemacs/blob/master/doc/VIMUSERS.org)
 * [Quick Start](https://github.com/syl20bnr/spacemacs/blob/master/doc/QUICK_START.org) | [FAQ](https://github.com/syl20bnr/spacemacs/blob/master/doc/FAQ.org)
 * [Evil-Tutor](https://github.com/syl20bnr/evil-tutor)
