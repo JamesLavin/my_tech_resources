@@ -398,6 +398,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DATABASES - SQL
 
+* [Learn SQL: 50+ of the Best Online Educational Resources to Learn SQL and Relational Database Management - HackerLists.com](https://hackerlists.com/learn-sql-online/)
 * [SQLTeaching.com](https://www.sqlteaching.com/)
 * [SQL Tutorial - 1KeyData.com](http://www.1keydata.com/sql/sql.html)
 * [PostgreSQL documentation: The SQL Language](http://www.postgresql.org/docs/9.4/interactive/sql.html)
@@ -1044,6 +1045,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Driving Phoenix sockets - Saša Jurić](http://theerlangelist.com/article/driving_phoenix_sockets)
 
+#### ELIXIR - PHOENIX - TESTING
+
+* [Running Your Phoenix Tests Using Docker - Jason Kriss](https://blog.codeship.com/running-your-phoenix-tests-using-docker/)
+
 #### ELIXIR - PHOENIX - VIDEOS
 
 * [Phoenix 1.2 and Beyond - Chris McCord (ElixirConfEU 2016)](https://www.youtube.com/watch?v=n338leKvqnA)
@@ -1122,6 +1127,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Remote Meetup - DailyDrip.com](https://www.dailydrip.com/topics/elixir-remote-meetup)
 * [Three and a Half Ways Elixir Changed Me (and Other Hyperbole) - Rob Conery (NDC London 2016)](https://vimeo.com/161001513)
 * [Elixir Is Neat But What Can You Actually Do With It? - Rob Conery (NDC Oslo 2016)](https://vimeo.com/171317253)
+* [Elixir Should Take Over the World - Jessica Kerr (ElixirConf 2015)](https://www.youtube.com/watch?v=X25xOhntr6s)
 * [What's Ahead for Elixir? - José Valim (ElixirConfEU 2016)](https://www.youtube.com/watch?v=A60nxws_iVs) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/160/original/Jose_Valim-_What's_ahead_of_Elixir.pdf?1463594498)
 * [Explore Elixir Using Board Game Logic - Torben Hoffmann](https://www.youtube.com/watch?v=xEfTyfBf9SE) | [source code (Github)](https://github.com/lehoff/acquirex)
 * [Building Multiplayer Games with Phoenix and Phaser - Keith Salisbury (ElixirConfEU 2016](https://www.youtube.com/watch?v=I5L9_cXwBcU)
@@ -1144,17 +1150,21 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
+* [Start Using Elm to Build Web Applications - Murphy Randle](https://egghead.io/courses/start-using-elm-to-build-web-applications)
 * Elmbridge Curriculum: [PDF](https://www.gitbook.com/download/pdf/book/raorao/elmbridge-curriculum) | [website](https://raorao.gitbooks.io/elmbridge-curriculum/content/)
 * Andy Balaam: [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) & [Elm makes me happy](https://www.youtube.com/watch?v=8pPO9kM2N5I)
 * [Elm, putting the fun in functional - Philip Poots (LondonJS 2016)](https://www.youtube.com/watch?v=oejptx252W8)
+* [Awesome Elm](https://github.com/isRuslan/awesome-elm)
 * [Elm-Live (development server)](https://github.com/tomekwi/elm-live)
-* Elm: [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
+* Elm: [Try Elm (online editor)](http://elm-lang.org/try) | [Online Elm repl](http://elmrepl.cuberoot.in/) | [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [Intro to Elm - Richard Feldman (2016)](https://www.youtube.com/watch?v=3_M2G9U51GA)
 * [Elm for Javascript Developers - Jack Franklin (PolyConf 16)](https://www.youtube.com/watch?v=tOkOmWgDLOM)
 * [Confident Frontend with Elm - Jack Franklin (Full Stack Fest)](https://www.youtube.com/watch?v=rDQ22Yg3Fms)
 * [Intro to Elm - Alan Gardner (2016)](https://vimeo.com/167092863)
 * [Understanding the Elm type system - Adam Waselnuk](http://www.adamwaselnuk.com/elm/2016/05/27/understanding-the-elm-type-system.html)
 * [Elm Cheat Sheet - Sergey Keller](https://github.com/izdi/elm-cheat-sheet)
+* [Elm Style Guide - NoRedInk](https://github.com/NoRedInk/elm-style-guide)
+* [Elm FAQ](http://faq.elm-community.org/)
 * [elm-by-example.org - Grzegorz Balcerek](http://elm-by-example.org/) | [code examples](https://github.com/grzegorzbalcerek/ElmByExample)
 * [jsbin-style Glot.io](https://glot.io/new/elm)
 * [Elm by Example: Soup to Nuts - Part 1 - Dorian Karter (Hashrocket)](https://hashrocket.com/blog/posts/elm-by-example-soup-to-nuts-part-1)
@@ -1169,6 +1179,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm Explained - Nik Silver](https://github.com/niksilver/elm-explained)
 * [Built With Elm](http://builtwithelm.co/)
 * [Elmcast.io](http://elmcast.io): [Elm Toolbox #1: Platform](http://www.ajhager.com/elm-toolings/) | [Elm Toolbox #2: Utilities](http://www.ajhager.com/elm-toolbox-part-2-utilities/)
+
+### ELM - 0.18
+
+* [The Perfect Bug Report: Debugging With Elm 0.18 - Evan Czaplicki](http://elm-lang.org/blog/the-perfect-bug-report)
 
 ### ELM - 0.17
 
@@ -1252,13 +1266,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [How I Structure Elm Apps - Kris Jenkins](http://blog.jenkster.com/2016/04/how-i-structure-elm-apps.html)
 
-### ELM - COURSES
+### ELM - COURSES (FREE)
 
-* [Elm for Beginners - KnowThen.com](http://courses.knowthen.com/p/elm-for-beginners)
+* [Elm for Beginners - KnowThen.com (James Moore)](http://courses.knowthen.com/p/elm-for-beginners)
+* [Elm Koans - Robert J. Looby](https://github.com/robertjlooby/elm-koans)
 * [Elm - Ronn Ross & Murphy Randle (EggHead.io)](https://egghead.io/technologies/elm)
 * [Elm Meetup (DailyDrip.com)](https://www.dailydrip.com/topics/elm-remote-meetup)
 
-#### ELM - COURSES - NON-FREE
+### ELM - COURSES (NON-FREE)
 
 * (Excellent! I highly recommend!): Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
 * [DailyDrip.com - Elm](https://www.dailydrip.com/topics/elm)
@@ -1270,20 +1285,21 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - DATA STRUCTURES
 
-* [JSON-to-Elm generator - NoRedInk.com](http://noredink.github.io/json-to-elm/)
+* [HTML-to-Elm: Interactively generates Elm code from your HTML](https://mbylstra.github.io/html-to-elm/)
 * [Data Structures in Elm - NoRedInk.com](http://tech.noredink.com/post/140646140878/data-structures-in-elm)
 * [Writing Friendly Elm Code - NoRedInk.com](http://tech.noredink.com/post/146963432518/writing-friendly-elm-code)
-* [Decoding JSON Structures With Elm - Josh Clayton](https://robots.thoughtbot.com/decoding-json-structures-with-elm)
-* [Debugging JSON - Brian Hicks](https://www.brianthicks.com/post/2016/10/10/debugging-json)
-* [Composing Decoders Like LEGO - Brian Hicks](https://www.brianthicks.com/post/2016/10/17/composing-decoders-like-lego/)
-* [Decoding Large JSON Objects: A Summary - Brian Hicks](https://www.brianthicks.com/post/2016/08/22/decoding-large-json-objects-a-summary/)
-* [json-to-elm - Noah Hall](https://github.com/eeue56/json-to-elm)
-* [Json.Decode cheatsheet - Yang Wei](https://gist.github.com/yang-wei/0a1cea1194a244aa9be6)
 * [Maybe Thinking - Josh Clayton](https://robots.thoughtbot.com/maybe-thinking)
 
 #### ELM - DATA STRUCTURES - JSON
 
 * [json-to-elm](https://github.com/eeue56/json-to-elm) & [JSON2Elm.com](http://noredink.github.io/json-to-elm/)
+* [json-to-elm - Noah Hall](https://github.com/eeue56/json-to-elm)
+* [JSON-to-Elm generator - NoRedInk.com](http://noredink.github.io/json-to-elm/)
+* [Decoding JSON Structures With Elm - Josh Clayton](https://robots.thoughtbot.com/decoding-json-structures-with-elm)
+* [Debugging JSON - Brian Hicks](https://www.brianthicks.com/post/2016/10/10/debugging-json)
+* [Composing Decoders Like LEGO - Brian Hicks](https://www.brianthicks.com/post/2016/10/17/composing-decoders-like-lego/)
+* [Decoding Large JSON Objects: A Summary - Brian Hicks](https://www.brianthicks.com/post/2016/08/22/decoding-large-json-objects-a-summary/)
+* [Json.Decode cheatsheet - Yang Wei](https://gist.github.com/yang-wei/0a1cea1194a244aa9be6)
 
 ### ELM - EDITORS
 
@@ -1320,6 +1336,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - PACKAGES
 
+* [Trending packages on Github](https://github.com/trending/elm?since=daily)
 * [Elm search (by function name or approximate type signature)](http://klaftertief.github.io/elm-search/)
 * [Elm package repository](http://package.elm-lang.org/)
 * [elm-audio](https://github.com/jcollard/elm-audio)
@@ -1328,13 +1345,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * [elm-html](https://github.com/evancz/elm-html)
 * [elm-http](https://github.com/evancz/elm-http)
 * [elm-make](https://github.com/elm-lang/elm-make)
+* [elm-new: Generates a project scaffolding for rapid prototyping of Elm apps - Simone Vittori](https://github.com/simonewebdesign/elm-new)
 * [elm-lang/navigation - SPA routing / managing browser navigation](https://github.com/elm-lang/navigation)
 * [elm-plot](https://github.com/terezka/elm-plot)
 * [elm-router - Hassan Hayat](https://github.com/TheSeamau5/elm-router)
 * [elm-route-hash - Ryan Rempel](https://github.com/rgrempel/elm-route-hash)
+* [elm-tutorial-app - Sebastian Porto](https://github.com/sporto/elm-tutorial-app)
 * [elm-undo-redo - Hassan Hayat](https://github.com/TheSeamau5/elm-undo-redo)
 * [elm-web-api - Ryan Rempel](https://github.com/rgrempel/elm-web-api)
 * [generator-elmlang (for Yeoman) - Gizra](https://github.com/Gizra/generator-elmlang)
+* [react-elm-components: Write React components in Elm - Evan Czaplicki](https://github.com/evancz/react-elm-components)
 
 ### ELM - PHOENIX & ELM
 
@@ -1506,19 +1526,6 @@ Links to resources I have found useful or think might be helpful to future me or
 ## EMERGING TECHNOLOGIES
 
 * [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/#/)
-
-## ENCRYPTION
-
-* [Crypto101 (free in-depth cryptography book) - Laurens Van Houtven](https://www.crypto101.io/) & [PyCon US 2013 talk](https://www.youtube.com/watch?t=8&v=3rmCGsCYJF8)
-* [Cryptography Tutorial - Joe Armstrong](https://github.com/joearms/crypto_tutorial/raw/master/crypto_tutorial.pdf)
-* [Let's Encrypt - "lets site operators turn on and manage HTTPS with simple commands"](https://letsencrypt.org/howitworks/)
-* [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
-* [Encryption Works: How to Protect Your Privacy in the Age of NSA Surveillance - Micha Leee (Freedom of the Press Foundation)](https://freedom.press/encryption-works)
-
-### - ENCRYPTION - FREE CERTS
-
-* [LetsEncrypt.org](https://letsencrypt.org/) | [Github](https://github.com/letsencrypt/letsencrypt) | [Twitter](https://twitter.com/letsencrypt)
-* [Free HTTPS certs for all – Let's Encrypt opens doors to world+dog](http://www.theregister.co.uk/2015/12/03/letsencrypt_public_beta/)
 
 ## EVENT SOURCING/STREAMS/SIGNALS/REACTIVE PROGRAMMING
 
@@ -1868,6 +1875,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [A Beginner’s Guide To Progressive Web Apps - Kevin Farrugia](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/)
 * [What are Progressive Web Apps? - Max Lynch](http://blog.ionic.io/what-is-a-progressive-web-app/)
 * [Everything You Should Know About Progressive Web Apps - Danny Markov](http://tutorialzine.com/2016/09/everything-you-should-know-about-progressive-web-apps/)
+* [Building Progressive Web Apps Today - Thao Tran (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=U52dD0tegsA)
+* [Instant Loading: Building offline-first Progressive Web Apps - Google I/O 2016 - Jake Archibald](https://www.youtube.com/watch?v=cmGr0RszHc8)
 * [Your First Progressive Web App - Google](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/(
 * [The Building Blocks Of Progressive Web Apps - Ada Rose Edwards](https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/)
 
@@ -1901,6 +1910,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Javascript.com](https://www.javascript.com/resources)
 * [Learning JavaScript Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Learn JavaScript - Codecademy](https://www.codecademy.com/learn/javascript)
+* [23 Free JavaScript Books - HackerLists.com](https://hackerlists.com/free-javascript-books/)
 * [Essential JavaScript Links - Eric Elliott](https://github.com/ericelliott/essential-javascript-links/)
 * [JavaScript tips](https://code.google.com/p/jslibs/wiki/JavascriptTips)
 * [Visualize JavaScript code execution](http://www.pythontutor.com/visualize.html)
@@ -3033,6 +3043,7 @@ Peter R. Egli:
 
 ### PROGRAMMING - PODCASTS
 
+* [85 Podcasts for Developers, Programmers & Software Engineers - HackerLists.com](https://hackerlists.com/programming-podcasts/)
 * [a16z - Andreessen Horowitz](http://a16z.com/podcasts/)
 * [The Big Web Show](http://5by5.tv/bigwebshow)
 * [The Bikeshed](http://bikeshed.fm/)
@@ -4863,6 +4874,23 @@ Peter R. Egli:
 ## SCRATCH
 
 * [Programming in Scratch - Harvey Mudd College (edX)](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-0)
+
+## SECURITY
+
+* [Awesome Hacking: A collection of awesome lists for hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hackin://github.com/Hack-with-Github/Awesome-Hacking)
+
+### SECURITY - ENCRYPTION
+
+* [Crypto101 (free in-depth cryptography book) - Laurens Van Houtven](https://www.crypto101.io/) & [PyCon US 2013 talk](https://www.youtube.com/watch?t=8&v=3rmCGsCYJF8)
+* [Cryptography Tutorial - Joe Armstrong](https://github.com/joearms/crypto_tutorial/raw/master/crypto_tutorial.pdf)
+* [Let's Encrypt - "lets site operators turn on and manage HTTPS with simple commands"](https://letsencrypt.org/howitworks/)
+* [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
+* [Encryption Works: How to Protect Your Privacy in the Age of NSA Surveillance - Micha Leee (Freedom of the Press Foundation)](https://freedom.press/encryption-works)
+
+#### SECURITY - ENCRYPTION - FREE CERTS
+
+* [LetsEncrypt.org](https://letsencrypt.org/) | [Github](https://github.com/letsencrypt/letsencrypt) | [Twitter](https://twitter.com/letsencrypt)
+* [Free HTTPS certs for all – Let's Encrypt opens doors to world+dog](http://www.theregister.co.uk/2015/12/03/letsencrypt_public_beta/)
 
 ## SHOPPING TOOLS
 
