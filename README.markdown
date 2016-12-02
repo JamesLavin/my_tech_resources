@@ -213,6 +213,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## CSS
 
+* [CSS Reference - Visual guide to the most popular CSS properties](http://cssreference.io/)
 * [How to Master CSS - Christopher Harrison & Helen Zeng (Microsoft Virtual Academy - Jumpstart)](https://www.youtube.com/watch?v=Vafp5xr_bxk)
 * [HTML and CSS Tutorial for Beginners: The Ultimate Guide to Learning HTML and CSS](https://www.youtube.com/watch?v=sEo8ci9Lfmw)
 * [CSS3 Tutorial - Derek Banas](https://www.youtube.com/watch?v=CUxH_rWSI1k)
@@ -421,6 +422,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - ANSIBLE
 
 * [Ansible - Your First Step Into Server Provisioning - Ben Turner (Ruby Australia 2014)](http://vimeo.com/90171333)
+
+### DEVOPS - AWS (AMAZON WEB SERVICES)
+
+* [Getting Started with Managed Database Services on AWS - September 2016 Webinar Series](https://www.youtube.com/watch?v=nvh3XypRSq0)
 
 ### DEVOPS - BLOGS & PODCASTS
 
@@ -778,6 +783,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Cheatsheet](https://www.dropbox.com/s/lr1t87rw4wfnyb3/elixir-cheat-sheet-v2.pdf?dl=0)
 * [Explicit Elixir - Paul Lamb (ElixirDaze 2016)](https://www.youtube.com/watch?v=sr5I5ncg0kU)
 * [What Elixir is About - José Valim (Erlang Factory SF 2015)](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
+* [A Completely Unbiased Showcase of Elixir - Andrea Leopardi (EUC 2016)](https://www.youtube.com/watch?v=EPXZ6VLiZuo)
 * [Elixir with José Valim](http://howistart.org/posts/elixir/1)
 * [Building a web framework from scratch in Elixir - Robert Lord](https://codewords.recurse.com/issues/five/building-a-web-framework-from-scratch-in-elixir)
 * [Elixir School](https://elixirschool.com/)
@@ -860,19 +866,16 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - DEBUGGING
 
 * [Debugging techniques in Elixir - Erich Kist](http://blog.plataformatec.com.br/2016/04/debugging-techniques-in-elixir-lang/)
+* [Credo: A static code analysis tool for the Elixir language with a focus on code consistency and teaching - René Föhring](https://github.com/rrrene/credo)
 
 ### ELIXIR - DEPLOYMENT
 
-* Distillery: [Github](https://github.com/bitwalker/distillery) | [Documentation](https://hexdocs.pm/distillery/getting-started.html)
+* [Deployment - ElixirForum.com](https://elixirforum.com/c/elixir-help/deployment)
 * [Elixir in the times of microservices - José Valim](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/)
 * [Elixir Deployment Tools - General Discussion, Blog Posts, Wiki - ElixirForum.com](https://elixirforum.com/t/elixir-deployment-tools-general-discussion-blog-posts-wiki/827)
+* [Is Phoenix deployment really that hard? - Karol Słuszniak](http://cloudless.studio/articles/29-is-phoenix-deployment-really-that-hard)
 * [Understanding deps and applications in your Mixfile - João Britto](http://blog.plataformatec.com.br/2016/07/understanding-deps-and-applications-in-your-mixfile/)
-* exrm: [source](https://github.com/bitwalker/exrm) | [docs](https://github.com/bitwalker/exrm/tree/master/docs) | [package docs (hexdocs.pm)](https://hexdocs.pm/exrm/extra-getting-started.html)
-* Edeliver: [Github](https://github.com/boldpoker/edeliver) | [Deploying Elixir applications with Edeliver - Igor Florian](http://blog.plataformatec.com.br/2016/06/deploying-elixir-applications-with-edeliver/)
-* [Easy Elixir auto scaling deployment with AWS and Travis CI - Nicklas Ramhöj](https://www.varvet.com/blog/easy-auto-scaling-elixir-deployment-with-aws-and-travis-ci/)
 * conform: [source](https://github.com/bitwalker/conform)
-* [Deploying Phoenix Applications with Exrm [and Conform] - Brandon Richey](https://medium.com/@diamondgfx/deploying-phoenix-applications-with-exrm-97a3867ebd04#.ke7uldpb4)
-* [How to config environment variables with Elixir and Exrm - Igor Florian](http://blog.plataformatec.com.br/2016/05/how-to-config-environment-variables-with-elixir-and-exrm/)
 * [Fast Continuous Deployment of an Elixir Gameserver - Martin Kavalar & Martin Schurrer](https://www.youtube.com/watch?v=RoT8RnQHvgo)
 
 #### ELIXIR - DEPLOYMENT - AWS
@@ -881,6 +884,26 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Deploying Elixir to AWS Elastic Beanstalk with Docker - James Robert Somers](https://robots.thoughtbot.com/deploying-elixir-to-aws-elastic-beanstalk-with-docker)
 * [Easy Elixir auto scaling deployment with AWS and Travis CI - Nicklas Ramhöj](https://www.varvet.com/blog/easy-auto-scaling-elixir-deployment-with-aws-and-travis-ci/)
 * [Deploy Elixir Application To AWS Elastic Beanstalk - Michal Kalbarczyk](https://medium.com/@fazibear/deploy-elixir-application-74e1bce100c6#.hkmdp7i75)
+* [How to Set up a Distributed Elixir Cluster on Amazon EC2 - Benjamin Tan Wei Hao](http://engineering.pivotal.io/post/how-to-set-up-an-elixir-cluster-on-amazon-ec2/)
+
+#### ELIXIR - DEPLOYMENT - DISTILLERY
+
+* Distillery: [Github](https://github.com/bitwalker/distillery) | [Documentation](https://hexdocs.pm/distillery/getting-started.html)
+
+#### ELIXIR - DEPLOYMENT - EDELIVER
+
+* Edeliver: [Github](https://github.com/boldpoker/edeliver) | [Deploying Elixir applications with Edeliver - Igor Florian](http://blog.plataformatec.com.br/2016/06/deploying-elixir-applications-with-edeliver/)
+* [Real World Elixir Deployment - Pete Gamache (Empire City Elixir Conf 2016)](https://www.youtube.com/watch?v=H686MDn4Lo8&t=79s)
+* [Fast Continuous Deployment of an Elixir Gameserver - Martin Kavalar and Martin Schurrer](https://www.youtube.com/watch?v=RoT8RnQHvgo)
+* [Serving Phoenix and Continuous Deployment - Dustin Farris](https://www.gitbook.com/book/dustinfarris/phoenix-continuous-deployment/details)
+* [Getting Elixir / Phoenix running on Digital Ocean with edeliver - Matt Weldon](https://gist.github.com/mattweldon/2e8ecb953216438ad168)
+* [Getting Elixir / Phoenix running on Digital Ocean with edeliver - davoclavo](https://gist.github.com/davoclavo/61b9d84f2248f182c95ae7738490ddd1)
+
+#### ELIXIR - DEPLOYMENT - EXRM
+
+* exrm: [source](https://github.com/bitwalker/exrm) | [docs](https://github.com/bitwalker/exrm/tree/master/docs) | [package docs (hexdocs.pm)](https://hexdocs.pm/exrm/extra-getting-started.html)
+* [Deploying Phoenix Applications with Exrm [and Conform] - Brandon Richey](https://medium.com/@diamondgfx/deploying-phoenix-applications-with-exrm-97a3867ebd04#.ke7uldpb4)
+* [How to config environment variables with Elixir and Exrm - Igor Florian](http://blog.plataformatec.com.br/2016/05/how-to-config-environment-variables-with-elixir-and-exrm/)
 
 ### ELIXIR - DISTRIBUTION
 
@@ -974,6 +997,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Hex.pm (Erlang & Elixir package manager)](https://hex.pm/)
 * [Apex: Awesome Print for Elixir](https://github.com/BjRo/apex)
 * [BEAM Toolbox: categorized catalog of Hex packages for Elixir and Erlang - Henrik Nyh](http://toolbox.elixir.pm/)
+* [CSV: CSV Decoding and Encoding](https://github.com/beatrichartz/csv)
+* [ExActor: Simplifies implementation of GenServer based processes](https://github.com/sasa1977/exactor)
 * [Jolt: REST JSON API with zero coding (Mike Clark)](https://github.com/clarkware/jolt)
 * [Quantum: Cron-like job scheduler](https://github.com/c-rack/quantum-elixir)
 * [Scrivener: Paginate your Ecto queries (Drew Olson)](https://github.com/drewolson/scrivener)
@@ -1150,13 +1175,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
+* [Commanding the Elm Architecture - Kyle Kress (Sept 2016)](https://www.bigmarker.com/joncfoo/Commanding-the-Elm-Architecture)
 * [Start Using Elm to Build Web Applications - Murphy Randle](https://egghead.io/courses/start-using-elm-to-build-web-applications)
 * Elmbridge Curriculum: [PDF](https://www.gitbook.com/download/pdf/book/raorao/elmbridge-curriculum) | [website](https://raorao.gitbooks.io/elmbridge-curriculum/content/)
 * Andy Balaam: [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) & [Elm makes me happy](https://www.youtube.com/watch?v=8pPO9kM2N5I)
 * [Elm, putting the fun in functional - Philip Poots (LondonJS 2016)](https://www.youtube.com/watch?v=oejptx252W8)
 * [Awesome Elm](https://github.com/isRuslan/awesome-elm)
 * [Elm-Live (development server)](https://github.com/tomekwi/elm-live)
-* Elm: [Try Elm (online editor)](http://elm-lang.org/try) | [Online Elm repl](http://elmrepl.cuberoot.in/) | [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
+* Elm: [Try Elm (online editor)](http://elm-lang.org/try) | [RunElm.io](https://runelm.io/new) | [Online Elm repl](http://elmrepl.cuberoot.in/) | [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [Intro to Elm - Richard Feldman (2016)](https://www.youtube.com/watch?v=3_M2G9U51GA)
 * [Elm for Javascript Developers - Jack Franklin (PolyConf 16)](https://www.youtube.com/watch?v=tOkOmWgDLOM)
 * [Confident Frontend with Elm - Jack Franklin (Full Stack Fest)](https://www.youtube.com/watch?v=rDQ22Yg3Fms)
@@ -1182,7 +1208,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - 0.18
 
+* [Tasks in Elm 0.18: Changes for the Better - Bill Peregoy](https://becoming-functional.com/tasks-in-elm-0-18-2b64a35fd82e#.gvgsf5s9t)
 * [The Perfect Bug Report: Debugging With Elm 0.18 - Evan Czaplicki](http://elm-lang.org/blog/the-perfect-bug-report)
+* [Typed up CRUD SPA with Haskell and Elm - Part 6: Elm 0.18 Upgrade - Magnus Rundberget](http://rundis.github.io/blog/2016/haskel_elm_spa_part6.html)
 
 ### ELM - 0.17
 
@@ -1208,6 +1236,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - BLOGS
 
+* [Becoming-Functional (Bill Peregoy)](https://becoming-functional.com/)
 * [Brian Hicks](https://www.brianthicks.com/)
 * [Elm Weekly](http://www.elmweekly.nl/archive)
 * [elm-lang.org/blog](http://elm-lang.org/blog)
@@ -1466,6 +1495,11 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ERLANG - BEAM
 
 * [BEAM Wisdoms: collection of easy to read (ELI5) articles as well as in-depth knowledge such as VM internals, memory layout, opcodes](http://beam-wisdoms.clau.se/en/latest/)
+* [The Erlang VM or How I Stopped Worrying & Started Loving Parallel Programming - E.Stenman (GOTO 2013)](https://www.youtube.com/watch?v=ArRr4trTCjQ)
+
+### ERLANG - DISTRIBUTION
+
+* [Scaling Distributed Erlang - Zandra Norman (ElixirConfEu 2016)](https://www.youtube.com/watch?v=usEs3GPnZDg)
 
 ### ERLANG - DOCUMENTATION
 
@@ -1496,6 +1530,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM)
 * [OTP in Elixir: Part 1 - Christian Di Lorenzo (Triangle |> Elixir)](https://www.youtube.com/watch?v=_WgrfEaAM4Y)
 * [Erlang Design Principles](http://erlang.org/doc/design_principles/users_guide.html)
+
+### ERLANG - PACKAGES
+
+* [Poolboy - Worker pool factory](https://github.com/devinus/poolboy)
 
 ### ERLANG - PERFORMANCE
 
@@ -1647,9 +1685,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
 
-* [Category Theory for the Working Hacker - Philip Wadler](https://www.infoq.com/presentations/category-theory-propositions-principle)
 * [The Lambda Calculus, General Term Rewriting and Food Nutrition - Brian Beckman and Erik Meijer](https://channel9.msdn.com/Series/Beckman-Meijer-Overdrive/Beckman-Meijer-Overdrive-The-Lambda-Calculus-and-Food-Nutrition)
 * [Category Theory: The essence of interface-based design - Erik Meijer (Foo Cafe 2015)](https://www.youtube.com/watch?v=JMP6gI5mLHc)
+* [Category Theory for the Working Hacker - Philip Wadler](https://www.infoq.com/presentations/category-theory-propositions-principle)
 * [Introduction to Lambda Calculus - Henk Barendregt & Erik Barendsen (2000)](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf)
 * [Lecture Notes on the Lambda Calculus - Peter Selinger](http://www.mscs.dal.ca/~selinger/papers/lambdanotes.pdf)
 * [Intro to Lambda Calculus - Cristian Giumale](http://andrei.clubcisco.ro/cursuri/2pp/01.Lambda_calculus.pdf)
@@ -1681,6 +1719,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Official documentation](http://git-scm.com/documentation)
 * [Git Reference](http://gitref.org/)
+* [How to Use Git and GitHub - Caroline Buckey & Sarah Spikes (Udacity.com)](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 * [Git from the inside out - Mary Rose Cook](http://maryrosecook.com/blog/post/git-from-the-inside-out)
 * [Pro Git](http://git-scm.com/book) [PDF](https://github.s3.amazonaws.com/media/progit.en.pdf) [mobi](https://github.s3.amazonaws.com/media/pro-git.en.mobi) [ePub](https://github.s3.amazonaws.com/media/progit.epub)
 * Atlassian: [Getting Git Right](https://www.atlassian.com/git/) | [Getting Started](https://www.atlassian.com/git/tutorials/what-is-version-control) | [Tutorials](https://www.atlassian.com/git/tutorials) | [Collaborating](https://www.atlassian.com/git/tutorials/syncing) | [Advanced Git](https://www.atlassian.com/git/tutorials/advanced-overview)
@@ -1883,6 +1922,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### HTML5 - SERVICEWORKERS
 
 * [ServiceWorke.rs (Mozilla)](https://serviceworke.rs/)
+* [Offline Web Applications Using IndexedDb & Service Worker - Google (Udacity)](https://www.udacity.com/course/offline-web-applications--ud899)
 * [There is a client-side proxy (ServiceWorker) in your browser! - Ilya Grigorik (Velocity NYC 2015)](https://www.youtube.com/watch?v=etACK2qbHfc)
 
 ### HTML5 - WEB SOCKETS
@@ -2733,6 +2773,7 @@ Peter R. Egli:
 * [Phys.org](http://phys.org/)
 * [Quanta Magazine](https://www.quantamagazine.org)
 * [Science Daily](http://www.sciencedaily.com/)
+* [STAT: Reporting from frontiers of health & medicine](https://www.statnews.com/)
 * [TED Science](http://www.ted.com/talks?topics[]=science)
 * [The Register](http://www.theregister.co.uk/science/)
 * [The Verge](http://www.theverge.com/science)
@@ -3038,12 +3079,14 @@ Peter R. Egli:
 
 * [Reliable Messaging With RabbitMQ - Part 1 - JimOnDemand](https://www.youtube.com/watch?v=XjuiZM7JzPw)
 * [RabbitMQ Simulator](http://tryrabbitmq.com/)
+* A Transmuting Journey: From a Ruby on Rails Monolith to Elixir and Elm Microservices - Volker Rabe: [Video](https://www.youtube.com/watch?v=ZCYEX6ZIJgM) | [Slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/152/original/From_a_Ruby_on_Rails_Monolith_to_Elixir_and_Elm_Microservices_%281%29.pdf?1463482715)
 * [RabbitMQ is the new king - Alvaro Videla & Jan Machacek](https://www.youtube.com/watch?v=kA8rPIDa388)
 * [Dissecting the Rabbit: RabbitMQ Internal Architecture - Alvaro Videla (Lambda Days 2015)](https://www.youtube.com/watch?v=WPischLIe8Q)
 
 ### PROGRAMMING - PODCASTS
 
 * [85 Podcasts for Developers, Programmers & Software Engineers - HackerLists.com](https://hackerlists.com/programming-podcasts/)
+* [Ultimate List Of Developer Podcasts - John Sonmez](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/)
 * [a16z - Andreessen Horowitz](http://a16z.com/podcasts/)
 * [The Big Web Show](http://5by5.tv/bigwebshow)
 * [The Bikeshed](http://bikeshed.fm/)
@@ -4878,6 +4921,7 @@ Peter R. Egli:
 ## SECURITY
 
 * [Awesome Hacking: A collection of awesome lists for hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hackin://github.com/Hack-with-Github/Awesome-Hacking)
+* [BadSSL.com - See how your browser behaves when SSL is incorrectly configured](https://badssl.com/)
 
 ### SECURITY - ENCRYPTION
 
