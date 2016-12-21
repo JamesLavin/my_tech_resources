@@ -826,6 +826,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ExMachina for Elixir: Factories with a Functional Twist - Josh Steiner & Paul Smith](https://robots.thoughtbot.com/announcing-ex-machina)
 * [RED:4 - Learn Elixir The Fun Way (NOT FREE: $40) - Rob Conery](http://www.redfour.io/)
 
+### ELIXIR - 1.4
+
+* [Changelog](https://github.com/elixir-lang/elixir/blob/v1.4/CHANGELOG.md)
+
+### ELIXIR - 1.3
+
+* [Changelog](https://github.com/elixir-lang/elixir/blob/v1.3/CHANGELOG.md)
+
 ### ELIXIR - 1.2
 
 * [Elixir v1.2 released](http://elixir-lang.org/blog/2016/01/03/elixir-v1-2-0-released/)
@@ -844,6 +852,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Plataformatec](http://blog.plataformatec.com.br/tag/elixir/)
 * [The Pug Automatic - Henrik Nyh](http://thepugautomatic.com/)
 * [Red Shift](https://shift.infinite.red/tagged/elixir)
+* [Thoughtbot](https://robots.thoughtbot.com/tags/elixir)
 
 ### ELIXIR - BOOKS
 
@@ -889,6 +898,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ELIXIR - DEPLOYMENT - DISTILLERY
 
 * Distillery: [Github](https://github.com/bitwalker/distillery) | [Documentation](https://hexdocs.pm/distillery/getting-started.html)
+* [Storing Elixir Release Configuration in Environment Variables with Distillery - Brendan A R Sechter](http://sgeos.github.io/phoenix/elixir/erlang/ecto/distillery/postgresql/mysql/2016/09/18/storing-elixir-release-configuration-in-environment-variables-with-distillery.html)
 
 #### ELIXIR - DEPLOYMENT - EDELIVER
 
@@ -907,6 +917,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - DISTRIBUTION
 
+* [Idioms for Building Distributed Fault–Tolerant Applications with Elixir - José Valim (EuRuKo 2016)](https://www.youtube.com/watch?v=xhwnHovnq_0)
 * [pg2 and You: Getting Distributed with Elixir - Eric Entin (ElixirConf 2016)](https://www.youtube.com/watch?v=_O-bLuVhcCA) | [Slides](https://speakerdeck.com/antipax/pg2-and-you-getting-distributed-with-elixir)
 
 ### ELIXIR - EARMARK
@@ -1036,6 +1047,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Changelog: "Elixir and Phoenix with Chris McCord"](http://5by5.tv/changelog/147)
 * [Basic web app with Phoenix - Michael Eatherly](http://meatherly.github.io/2015/05/04/phoenixlivelikeawarrior/) & [Phoenix app with authentication - Michael Eatherly](http://meatherly.github.io/2015/05/11/phoenixauthentication/)
 * [Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide)
+
+* [Authentication in Phoenix/Elixir app with Ueberauth and Guardian - Ulan Abdurazakov](https://www.youtube.com/watch?v=X6Z-sDSJ3sE)
+
+#### ELIXIR - PHOENIX - AUTHENTICATION
 
 * [Authentication in Phoenix/Elixir app with Ueberauth and Guardian - Ulan Abdurazakov](https://www.youtube.com/watch?v=X6Z-sDSJ3sE)
 
@@ -1179,6 +1194,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Start Using Elm to Build Web Applications - Murphy Randle](https://egghead.io/courses/start-using-elm-to-build-web-applications)
 * Elmbridge Curriculum: [PDF](https://www.gitbook.com/download/pdf/book/raorao/elmbridge-curriculum) | [website](https://raorao.gitbooks.io/elmbridge-curriculum/content/)
 * Andy Balaam: [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) & [Elm makes me happy](https://www.youtube.com/watch?v=8pPO9kM2N5I)
+* [Elm and Web Components - Richard Feldman (React Vienna 2016)](https://www.youtube.com/watch?list=PLwuxQEGOXhN5v6E-mzqujkWlq8ZY0dxCR&v=ar3TakwE8o0) & [elm-google-maps - Richard Feldman](https://github.com/rtfeldman/elm-google-maps) & [elm-polymer-calendar - Fred Yankowski](https://github.com/fredcy/elm-polymer-calendar)
 * [Elm, putting the fun in functional - Philip Poots (LondonJS 2016)](https://www.youtube.com/watch?v=oejptx252W8)
 * [Awesome Elm](https://github.com/isRuslan/awesome-elm)
 * [Elm-Live (development server)](https://github.com/tomekwi/elm-live)
@@ -1245,6 +1261,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [NoRedInk](http://tech.noredink.com/)
 * [Magnus Rundberget](http://rundis.github.io/blog/)
 * [Simon Hampton](http://simonh1000.github.io/blog/)
+* [Thoughtbot](https://robots.thoughtbot.com/tags/elm)
 * [Twitter - elmlang](https://twitter.com/elmlang?lang=en)
 
 ### ELM - CODE EXAMPLES
@@ -1484,6 +1501,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/)
 * [Erlang in Anger - Fred Hebert](http://www.erlang-in-anger.com/)
 * [Spawned Shelter: Collection of articles, videos & books for learning Erlang](http://spawnedshelter.com/)
+* [Erlang Quick Reference Card v1.0, 2011-11-13, Pawel Stolowsk](https://github.com/stolowski/Erlang-Quick-Reference-Card/blob/master/erlang-quickref.pdf)
 * [Awesome Erlang - Curated list of libraries, resources & more - David Robakowski](https://github.com/drobakowski/awesome-erlang)
 * [Erlang Koans - Patrick Gombert](https://github.com/patrickgombert/erlang-koans)
 * [Solving the Stable Marriage problem with Erlang](https://www.airpair.com/erlang/posts/solving-the-stable-marriage-problem-with-erlang)
@@ -1530,6 +1548,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM)
 * [OTP in Elixir: Part 1 - Christian Di Lorenzo (Triangle |> Elixir)](https://www.youtube.com/watch?v=_WgrfEaAM4Y)
 * [Erlang Design Principles](http://erlang.org/doc/design_principles/users_guide.html)
+* [It's About the Guarantees - Fred Hébert](http://ferd.ca/it-s-about-the-guarantees.html)
 
 ### ERLANG - PACKAGES
 
@@ -1658,6 +1677,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - CONFERENCE VIDEOS
 
+* [MoonConf 2016](https://www.youtube.com/playlist?list=PLWYAdh9hA7geMRCgwDomlHAdwlsno32LU&spfreload=10)
 * [LambdaConf 2016 (λC 2016)](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos)
 * [All the FP Talks at NDC Oslo 2016](http://theburningmonk.com/2016/06/all-the-fp-talks-at-ndc-oslo-2016/)
 * [Curry On 2016](http://www.curry-on.org/2016/)
@@ -1794,6 +1814,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### HASKELL - CODE EXAMPLES
 
 * [Haskell Everywhere! - Todo apps in Haskell](https://github.com/jyrimatti/hseverywhere)
+
+### HASKELL - COMPILERS
+
+* [G53CMP Compilers 2016/17 (University of Nottingham)](http://www.cs.nott.ac.uk/~psznhn/G53CMP/)
 
 ### HASKELL - FREGE
 
@@ -3122,6 +3146,7 @@ Peter R. Egli:
 * [SkillsMatter.com/Skillscasts](https://skillsmatter.com/skillscasts)
 * [InfoQ.com videos](http://www.infoq.com/presentations/)
 * Jfokus: [2016](https://www.youtube.com/playlist?list=PLUQORQEatnJdV2Ib4Edw3jLQJk5b8Rxcd) | [2015](https://www.youtube.com/playlist?list=PLklQqdqnBkPjVWKihmEAchC2kksnNoqIi)
+* [O'Reilly](https://www.youtube.com/user/OreillyMedia/playlists)
 * [OSCON 2014](https://www.youtube.com/playlist?list=PL055Epbe6d5Y3njTzpWt0VepR1B7tcRFH)
 * [FutureTalks - NewRelic](https://www.youtube.com/playlist?list=PLmhYj7Jl81JGTfSgMeya2R-zcISDZ9utg)
 * [Forward University](http://forwardjs.com/university)
@@ -5135,9 +5160,13 @@ Peter R. Egli:
 * [Migrating from Vim](https://github.com/syl20bnr/spacemacs/blob/master/doc/VIMUSERS.org)
 * [Quick Start](https://github.com/syl20bnr/spacemacs/blob/master/doc/QUICK_START.org) | [FAQ](https://github.com/syl20bnr/spacemacs/blob/master/doc/FAQ.org)
 * [Evil-Tutor](https://github.com/syl20bnr/evil-tutor)
-* [Alchemist docs](http://alchemist.readthedocs.io/en/latest/)
+* [Cheat Sheet](https://ontologicalblog.files.wordpress.com/2016/11/spacemacs_cheat_sheet_compact_1-1.pdf)
+
+#### VIM - SPACEMACS - ALCHEMIST (ELIXIR)
+
+* [Alchemist docs](http://alchemist.readthedocs.io/en/latest/) | [Alchemist (Github)](https://github.com/tonini/alchemist.el)
 * [Elixir With Alchemist](http://spacemacs.org/layers/+lang/elixir/README.html)
-* [Alchemist Quick Reference Card (Spacemacs Version)](https://github.com/syl20bnr/spacemacs/blob/master/layers/%2Blang/elixir/alchemist-refcard.pdf)
+* [Alchemist Quick Reference Card (Spacemacs Version)](https://github.com/syl20bnr/spacemacs/blob/master/layers/+lang/elixir/alchemist-refcard.pdf)
 
 ### VIM - TMUX
 
