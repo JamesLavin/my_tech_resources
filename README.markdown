@@ -803,6 +803,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional and concurrent programming with Elixir - Gabriele Lana](https://www.youtube.com/watch?v=7GGxJbBk-oU)
 * [Rubyists, have a sip of Elixir! - Benjamin Tan (RubyConf 2014)](http://confreaks.tv/videos/5078-RubyConf2014-rubyists-have-a-sip-of-elixir)
 * [Intro to Elixir for Rubyists - Josh Adams & Robby Clements (ExlirConf 2014)](http://confreaks.tv/videos/4121-elixirconf2014-introduction-to-elixir-for-rubyists)
+* [Elixir Foundations for Ruby Devs: Transforming Data - Tomasz Kowal](http://blog.scoutapp.com/articles/2016/12/08/elixir-foundations-for-ruby-devs-transforming-data)
 * [Intro to Elixir - SolutionStreet.com](https://www.youtube.com/watch?v=lly-1UYmnFI)
 * [Where I Got Stuck Using IEx.pry in Elixir - Jesse Trimble](http://www.jessetrimble.net/iex-pry-elixir/)
 * [Programming Elixir: The magic of today's tonic - Katie Miller (Linux.conf.au Jan 2014)](https://www.youtube.com/watch?v=uWSGBpW3xEQ)
@@ -895,6 +896,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Deploy Elixir Application To AWS Elastic Beanstalk - Michal Kalbarczyk](https://medium.com/@fazibear/deploy-elixir-application-74e1bce100c6#.hkmdp7i75)
 * [How to Set up a Distributed Elixir Cluster on Amazon EC2 - Benjamin Tan Wei Hao](http://engineering.pivotal.io/post/how-to-set-up-an-elixir-cluster-on-amazon-ec2/)
 
+#### ELIXIR - DEPLOYMENT - CONFORM
+
+* [Conform: library to adapt your application to its deployed environment](https://github.com/bitwalker/conform)
+
 #### ELIXIR - DEPLOYMENT - DISTILLERY
 
 * Distillery: [Github](https://github.com/bitwalker/distillery) | [Documentation](https://hexdocs.pm/distillery/getting-started.html)
@@ -931,6 +936,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Leveling Up With Ecto - Darin Wilson (ElixirConf 2016)](https://www.youtube.com/watch?v=QE7bpqpDoKo) | [code](https://github.com/darinwilson/music_db)
 * Lew Parker: [Diving into Ecto - 1](http://www.glydergun.com/diving-into-ecto/) | [Diving into Ecto - 2](http://www.glydergun.com/diving-into-ecto-part-2/) | [Ecto Query Library](http://www.glydergun.com/the-ecto-query-library/)
 * Understanding Elixir’s Ecto Querying DSL - Thomas Punt: [The Basics](https://www.sitepoint.com/understanding-elixirs-ecto-querying-dsl-the-basics/) | [Beyond the Basics](https://www.sitepoint.com/elixirs-ecto-querying-dsl-beyond-the-basics/)
+* [Refactoring Techniques for Elixir, Ecto, and Phoenix - Gary Rennie (ElixirConf 2016)](https://www.youtube.com/watch?v=V21DAKtY31Q)
 * [Connecting to Multiple Databases with Ecto - Geoffrey Lessel](http://geoffreylessel.com/2016/connecting-to-multiple-databases-with-ecto/)
 * [Ecto’s insert_all and schemaless queries - José Valim](http://blog.plataformatec.com.br/2016/05/ectos-insert_all-and-schemaless-queries/?utm_source=elixir-status&utm_medium=social&utm_campaign=blog-post-promotion)
 * [Replace Callbacks with Ecto.Multi - Daniel Berkompas](http://blog.danielberkompas.com/2016/09/27/ecto-multi-services.html)
@@ -1023,6 +1029,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PHOENIX
 
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
+* [What the fuss about Phoenix - Saša Jurić (WebCamp Zagreb 2016)](https://www.youtube.com/watch?v=3uJCwcBwfh4) & [slides](https://speakerdeck.com/sasajuric/whats-the-fuss-about-phoenix)
 * [ElixirConf 2016 Keynote on Phoenix 1.3- Chris McCord](https://www.youtube.com/watch?v=qPiZTxUAaVM)
 * [Rails to Phoenix - Brian Cardarella (RailsConf 2016)](https://www.youtube.com/watch?v=OxhTQdcieQE)
 * [Phoenix: The Firehose Project: Hands-On Intro to Building Modern Web Applications With Elixir and Phoenix](http://phoenix.thefirehoseproject.com/)
@@ -1057,6 +1064,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ELIXIR - PHOENIX - DEPLOYMENT
 
 * [Distillery: Phoenix Walkthrough](https://hexdocs.pm/distillery/phoenix-walkthrough.html)
+* [Exrm Releases (also applies to Distillery) - PhoenixFramework.org](http://www.phoenixframework.org/docs/advanced-deployment)
 * [Deploying Phoenix Applications with Exrm - Brandon Richey](https://medium.com/@diamondgfx/deploying-phoenix-applications-with-exrm-97a3867ebd04?source=tw-5dbe5bfa021a-1446130465757)
 * [Setting Up Phoenix/Elixir With Nginx and LetsEncrypt - Andrew Forward](https://medium.com/@a4word/setting-up-phoenix-elixir-with-nginx-and-letsencrypt-ada9398a9b2c#.fnrxau4z0)
 * [Phoenix Flying High: Deploying Phoenix The Final Part](http://www.elixirdose.com/post/phoenix_part_5_deploying_phoenix_the_final_part)
@@ -1254,6 +1262,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Becoming-Functional (Bill Peregoy)](https://becoming-functional.com/)
 * [Brian Hicks](https://www.brianthicks.com/)
+* [Dennis Reimann](https://dennisreimann.de/articles/elm.html)
 * [Elm Weekly](http://www.elmweekly.nl/archive)
 * [elm-lang.org/blog](http://elm-lang.org/blog)
 * [Gizra](http://www.gizra.com/tags.html#Elm-ref)
@@ -1505,6 +1514,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Awesome Erlang - Curated list of libraries, resources & more - David Robakowski](https://github.com/drobakowski/awesome-erlang)
 * [Erlang Koans - Patrick Gombert](https://github.com/patrickgombert/erlang-koans)
 * [Solving the Stable Marriage problem with Erlang](https://www.airpair.com/erlang/posts/solving-the-stable-marriage-problem-with-erlang)
+* [Erlang - TutorialsPoint](https://www.tutorialspoint.com/erlang/erlang_tutorial.pdf)
 * [Thinking in a Highly Concurrent, Mostly-functional Language - Francesco Cesarini (ElixirConf 2014)](https://www.youtube.com/watch?v=d5G3P2iosmA)
 * [Advanced-Erlang.com](http://advanced-erlang.com/videos/)
 * [ErlangCentral Wiki](http://erlangcentral.org/wiki/index.php/)
@@ -2636,7 +2646,38 @@ Peter R. Egli:
 
 ## LISP
 
+### LISP - BOOKS
+
 * The Structure and Interpretation of Computer Programs - Hal Abelson & Gerald Jay Sussman: [Video lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures) | [online book](https://mitpress.mit.edu/sicp/full-text/book/book.html) | [PDF](http://web.mit.edu/alexmv/6.037/sicp.pdf)
+* [Common Lisp: A Gentle Introduction to Symbolic Computation - David S. Touretzky](https://www.cs.cmu.edu/~dst/LispBook/book.pdf)
+* [Common Lisp HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Front/Contents.htm)
+* Common Lisp the Language, 2nd Ed - Guy L. Steele Jr: [PDF](http://www.lispmachine.net/books/common_lisp_the_language.pdf) |[HTML](http://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node1.html#SECTION00100000000000000000)
+* [Practical Common Lisp - Peter Seibel](http://www.gigamonkeys.com/book/)
+* [Basic Lisp Techniques - David J Cooper, Jr](http://franz.com/resources/educational_resources/cooper.book.pdf)
+* [Successful Lisp - David Lamkins](http://successful-lisp.blogspot.com/)
+* On Lisp - Paul Graham: [main page](http://www.paulgraham.com/onlisptext.html) | [PDF](http://ep.yimg.com/ty/cdn/paulgraham/onlisp.pdf) | [Postscript](http://lib.store.yahoo.net/lib/paulgraham/onlisp.ps)
+* [Common Lisp Cookbook](http://cl-cookbook.sourceforge.net/)
+* [Casting SPELs in Lisp - Conrad Barski](http://www.lisperati.com/casting_spels.pdf) (Not Common Lisp)
+* [Lisp in Small Parts - ](http://lisp.plasticki.com/show?14F)
+* [Common Lisp Wikibooks](https://en.wikibooks.org/wiki/Common_Lisp)
+* [Lisp Tutorial - TutorialsPoint.com](https://www.tutorialspoint.com/lisp/lisp_tutorial.pdf)
+* [Common Lisp Hints - Geoffrey J. Gordon](http://www.n-a-n-o.com/lisp/cmucl-tutorials/LISP-tutorial.html)
+* Steel Bank Common Lisp: [webpage](http://www.sbcl.org/) | [PDF documentation](http://www.sbcl.org/manual/sbcl.pdf) | [HTML documentation](http://www.sbcl.org/manual/index.html)
+* SLIME Lisp: [webpage](http://www.cliki.net/slime-howto) | [PDF documentation](http://common-lisp.net/project/slime/doc/slime.pdf) | [HTML documentation](http://common-lisp.net/project/slime/doc/html/)
+* [LISP 1.5 Programmer's Manual - MIT](http://www.lispmachine.net/books/LISP_1.5_Programmers_Manual.pdf)
+* [Brief Guide to CLOS - Jeff Dalton](http://www.aiai.ed.ac.uk/~jeff/clos-guide.html)
+* [Performance and Evaluation of Lisp Systems - Richard P. Gabriel](http://www.lispmachine.net/books/Performance_And_Evaluation_of_Lisp_Systems.pdf)
+
+### LISP - COMMON LISP
+
+* [Common-Lisp.net](https://www.common-lisp.net/)
+* [Planet Lisp](http://planet.lisp.org/)
+* [Emacs Common Lisp Emulation](https://www.gnu.org/software/emacs/manual/cl.html)
+
+### LISP - EMACS LISP
+
+* [Emacs Lisp Guide - Chris Done](https://github.com/chrisdone/elisp-guide)
+* [Intro to Programming in Emacs Lisp - Robert J. Chassell](https://www.gnu.org/software/emacs/manual/pdf/eintr.pdf)
 
 ## MACHINE LEARNING & AI
 
@@ -2798,6 +2839,7 @@ Peter R. Egli:
 * [Quanta Magazine](https://www.quantamagazine.org)
 * [Science Daily](http://www.sciencedaily.com/)
 * [STAT: Reporting from frontiers of health & medicine](https://www.statnews.com/)
+* [Tech Times](http://www.techtimes.com/science)
 * [TED Science](http://www.ted.com/talks?topics[]=science)
 * [The Register](http://www.theregister.co.uk/science/)
 * [The Verge](http://www.theverge.com/science)
@@ -2861,11 +2903,12 @@ Peter R. Egli:
 * [The Stack](https://thestack.com/)
 * [Star Talk Radio](http://www.startalkradio.net)
 * [Tech.co](http://tech.co/)
-* [TechCrunch](http://techcrunch.com/)
-* [Tech Radar](http://www.techradar.com/us/news)
-* [TechHive](http://www.techhive.com/news)
+* [Tech Crunch](http://techcrunch.com/)
+* [Tech Hive](http://www.techhive.com/news)
 * [TechNewsWorld](http://www.technewsworld.com/)
-* [TechWorld](http://www.techworld.com/)
+* [Tech Radar](http://www.techradar.com/us/news)
+* [Tech Times](http://www.techtimes.com/personaltech)
+* [Tech World](http://www.techworld.com/)
 * [VentureBeat](http://venturebeat.com/)
 * [The Verge](http://www.theverge.com/tech)
 * [Wait But Why](http://waitbutwhy.com/)
@@ -3021,6 +3064,7 @@ Peter R. Egli:
 * [Introduction to Computing: Explorations in Language, Logic and Machines - David Evans](http://www.computingbook.org/) | [PDF](http://www.computingbook.org/FullText.pdf) | [Read online](https://www.otexts.org/book/intro-computing)
 * [Patterns of Software - Richard P. Gabriel](http://dreamsongs.com/Files/PatternsOfSoftware.pdf)
 * [Producing Open Source Software: How to Run a Successful Free Software Project - Karl Fogel](http://producingoss.com/)
+* [Programming Models for Distributed Computing - Northeastern University CS7680](https://github.com/heathermiller/dist-prog-book)
 
 ### PROGRAMMING - BLOGS
 
@@ -3035,6 +3079,10 @@ Peter R. Egli:
 * [Medium.com - Software Development](https://medium.com/tag/software-development)
 * [Scott Hanselman](http://www.hanselman.com/)
 * [StackOverflow](http://blog.stackoverflow.com/)
+
+### PROGRAMMING - CODE REVIEWS
+
+* [Code Review in Remote Teams - Sean Hammond](https://www.seanh.cc/posts/code-review)
 
 ### PROGRAMMING - DCI (DATA, CONTEXT, INTERACTIONS)
 
