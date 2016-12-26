@@ -1350,6 +1350,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [json-to-elm](https://github.com/eeue56/json-to-elm) & [JSON2Elm.com](http://noredink.github.io/json-to-elm/)
 * [json-to-elm - Noah Hall](https://github.com/eeue56/json-to-elm)
 * [JSON-to-Elm generator - NoRedInk.com](http://noredink.github.io/json-to-elm/)
+* [Banish Type Tedium with JSON to Elm - Brian Hicks](https://www.brianthicks.com/post/2016/12/26/banish-type-tedium-with-json-to-elm/)
 * [Decoding JSON Structures With Elm - Josh Clayton](https://robots.thoughtbot.com/decoding-json-structures-with-elm)
 * [Debugging JSON - Brian Hicks](https://www.brianthicks.com/post/2016/10/10/debugging-json)
 * [Composing Decoders Like LEGO - Brian Hicks](https://www.brianthicks.com/post/2016/10/17/composing-decoders-like-lego/)
@@ -1504,6 +1505,29 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm Style Guide - NoRedInk](https://github.com/NoRedInk/elm-rails/wiki/NoRedInk's-Elm-Style-Guide)
 * [Functional Reactive Programming in Elm - Evan Czaplicki (Philly ETE 2014)](https://www.youtube.com/watch?v=F-nTU3Wy26I)
 * Martin Janiczek: [Programming Projector in Elm - Routing, history 1/2](https://www.youtube.com/watch?v=D9hW8G31Dy0)
+
+## EMACS
+
+* [Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
+* [Emacs Manual](https://www.gnu.org/software/emacs/manual/emacs-formats.html): [PDF](https://www.gnu.org/software/emacs/manual/pdf/emacs.pdf) | [HTML - 1 page](https://www.gnu.org/software/emacs/manual/emacs.html) | [HTML - page-per-node](https://www.gnu.org/software/emacs/manual/emacs.html_node.tar.gz) | [compressed Postscript](https://www.gnu.org/software/emacs/manual/ps/emacs.ps.gz)
+
+### EMACS - EMACS LISP
+
+* [Emacs Lisp Guide - Chris Done](https://github.com/chrisdone/elisp-guide)
+* [Intro to Programming in Emacs Lisp - Robert J. Chassell](https://www.gnu.org/software/emacs/manual/pdf/eintr.pdf)
+
+### EMACS - MAGIT
+
+* Magit User Manual: [PDF](https://magit.vc/manual/magit.pdf)
+* Magit-Popup User Manual - Jonas Bernoulli: [main page](https://magit.vc/manual/) | [PDF](https://magit.vc/manual/magit-popup.pdf)
+* [Visual Walk-through with screenshots](https://magit.vc/screenshots/)
+* [Screencasts](https://magit.vc/screencasts/)
+* [Magit: Git in Emacs - Jason Milkins (Grumpy Gits SG)](https://www.youtube.com/watch?v=OMIxZhLU71U)
+* [Youtube screencasts](https://www.youtube.com/results?search_query=git+magit+emacs)
+* [Wiki](https://github.com/magit/magit/wiki)
+* [Forum](https://emacs.stackexchange.com/questions/tagged/magit)
+* [Cheatsheet](https://github.com/magit/magit/wiki/Cheatsheet)
+* [Magit Reference Card](https://magit.vc/manual/magit-refcard.pdf)
 
 ## ERLANG
 
@@ -2676,8 +2700,7 @@ Peter R. Egli:
 
 ### LISP - EMACS LISP
 
-* [Emacs Lisp Guide - Chris Done](https://github.com/chrisdone/elisp-guide)
-* [Intro to Programming in Emacs Lisp - Robert J. Chassell](https://www.gnu.org/software/emacs/manual/pdf/eintr.pdf)
+[See EMACS - EMACS LISP](#emacs---emacs-lisp)
 
 ## MACHINE LEARNING & AI
 
