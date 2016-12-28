@@ -5232,6 +5232,7 @@ Peter R. Egli:
 * [Quick Start](https://github.com/syl20bnr/spacemacs/blob/master/doc/QUICK_START.org) | [FAQ](https://github.com/syl20bnr/spacemacs/blob/master/doc/FAQ.org)
 * [Evil-Tutor](https://github.com/syl20bnr/evil-tutor)
 * [Cheat Sheet](https://ontologicalblog.files.wordpress.com/2016/11/spacemacs_cheat_sheet_compact_1-1.pdf)
+* [Spacemacs (Vim mode) Cheatsheet - Jason J](https://simpletutorials.com/c/3016/Spacemacs%20Cheatsheet)
 
 #### VIM - SPACEMACS - ALCHEMIST (ELIXIR)
 
