@@ -214,6 +214,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## CSS
 
 * [CSS Reference - Visual guide to the most popular CSS properties](http://cssreference.io/)
+* [MarkSheet: Free HTML & CSS tutorial](http://marksheet.io/)
 * [How to Master CSS - Christopher Harrison & Helen Zeng (Microsoft Virtual Academy - Jumpstart)](https://www.youtube.com/watch?v=Vafp5xr_bxk)
 * [HTML and CSS Tutorial for Beginners: The Ultimate Guide to Learning HTML and CSS](https://www.youtube.com/watch?v=sEo8ci9Lfmw)
 * [CSS3 Tutorial - Derek Banas](https://www.youtube.com/watch?v=CUxH_rWSI1k)
@@ -783,6 +784,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Cheatsheet](https://www.dropbox.com/s/lr1t87rw4wfnyb3/elixir-cheat-sheet-v2.pdf?dl=0)
 * [Explicit Elixir - Paul Lamb (ElixirDaze 2016)](https://www.youtube.com/watch?v=sr5I5ncg0kU)
 * [What Elixir is About - José Valim (Erlang Factory SF 2015)](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
+* [Elixir: Easy fun for busy developers - David Schmitz (Devoxx 2016)](https://www.youtube.com/watch?v=naNN_gJas2A)
 * [A Completely Unbiased Showcase of Elixir - Andrea Leopardi (EUC 2016)](https://www.youtube.com/watch?v=EPXZ6VLiZuo)
 * [Elixir with José Valim](http://howistart.org/posts/elixir/1)
 * [Building a web framework from scratch in Elixir - Robert Lord](https://codewords.recurse.com/issues/five/building-a-web-framework-from-scratch-in-elixir)
@@ -846,6 +848,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - BLOGS
 
+* [Big Nerd Ranch](https://www.bignerdranch.com/blog/?q=Elixir)
 * [Elixir Radar](http://plataformatec.com.br/elixir-radar)
 * [ElixirStatus.com](http://elixirstatus.com/)
 * [Elixir Weekly](https://elixirweekly.net/)
@@ -908,6 +911,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ELIXIR - DEPLOYMENT - EDELIVER
 
 * Edeliver: [Github](https://github.com/boldpoker/edeliver) | [Deploying Elixir applications with Edeliver - Igor Florian](http://blog.plataformatec.com.br/2016/06/deploying-elixir-applications-with-edeliver/)
+* Bruce Pomeroy: [Create an Elixir umbrella project containing a Phoenix app and build a release with Distillery](https://medium.com/@brucepomeroy/create-an-elixir-umbrella-project-containing-a-phoenix-app-and-build-a-release-with-distillery-46371f2617df#.nw550t924) & [Deploying an Elixir Umbrella project using Distillery and Edeliver](https://medium.com/@brucepomeroy/deploying-an-elixir-umbrella-project-using-distillery-and-edeliver-b0e8528569e3#.tyd2h9wg5)
 * [Real World Elixir Deployment - Pete Gamache (Empire City Elixir Conf 2016)](https://www.youtube.com/watch?v=H686MDn4Lo8&t=79s)
 * [Fast Continuous Deployment of an Elixir Gameserver - Martin Kavalar and Martin Schurrer](https://www.youtube.com/watch?v=RoT8RnQHvgo)
 * [Serving Phoenix and Continuous Deployment - Dustin Farris](https://www.gitbook.com/book/dustinfarris/phoenix-continuous-deployment/details)
@@ -982,6 +986,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - MACROS
 
 * [Using Functions in Elixir Guard Clauses - Chris Keathley](http://keathley.io/2016/04/09/elixir-guard-clauses.html)
+* [Elixir in Elixir - Jay Hayes (Elixir & Phoenix Conf 2016](https://www.youtube.com/watch?v=p8MGNw045AE) & [Getting Started with Elixir Metaprogramming (blog post)](https://www.bignerdranch.com/blog/getting-started-with-elixir-metaprogramming/)
 * [Understanding Elixir Macros, Part 1 - Basics - Saša Jurić](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-1.html), [Part 2 - Micro theory](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-2.html), [Part 3 - Getting into the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-3.html), [Part 4 - Diving Deeper](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-4.html), [Part 5 - Reshaping the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-5.html), [Part 6 - In-place code generation](http://www.theerlangelist.com/2014/07/understanding-elixir-macros-part-6.html)
 * [Writing a simple macro in Elixir - Dave Thomas](https://www.youtube.com/watch?v=LsLWezjV9Fo)
 
@@ -1001,7 +1006,9 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - OTP
 
 * [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir)
+* Michael @ omgneering: [GenServer basics](https://www.youtube.com/watch?v=zC7TcrRi46Q) | [GenServer Callbacks and concurrency](Elixir GenServer callbacks and concurrency) | [Supervisor](https://www.youtube.com/watch?v=Gdf8JXeaPjw)
 * [High availability with Elixir and Erlang - Saša Jurić (Full Stack Fest 2016)](https://www.youtube.com/watch?v=Ba3aCm3A0o8) & [High Availability - Saša Jurić](https://www.youtube.com/watch?v=wYttHG3S76Y)
+* [Per-user workers with custom queue processing (using GenServer and Supervisor) - Adam Hodowany](https://www.youtube.com/watch?v=19JakddwsV8)
 * [The Mix and OTP Guide](http://elixir-lang.org/getting-started/mix-otp/agent.html)
 * [Creating Elixir libraries as OTP applications - Hubert Łępicki](https://www.amberbit.com/blog/2016/5/10/creating-elixir-libraries-as-otp-applications/)
 * [OTP in Elixir - Part 1 - Christian Di Lorenzo (Triangle Elixir 2016)](https://www.youtube.com/watch?v=_WgrfEaAM4Y)
@@ -1041,6 +1048,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Building Phoenix Battleships - Ricardo García Vega: [1: Designing the game mechanics](http://codeloveandboards.com/blog/2016/04/29/building-phoenix-battleship-pt-1/) | [2: Lobby Channel & Game Supervision](http://codeloveandboards.com/blog/2016/05/03/building-phoenix-battleship-pt-2/) | [3: Game setup](http://codeloveandboards.com/blog/2016/05/21/building-phoenix-battleship-pt-3/)
 * [Phoenix a web framework for the new web - José Valim (Lambda Days 2016)](https://www.youtube.com/watch?v=MD3P7Qan3pw) | [#pivorak Lviv Ruby MeetUp](https://www.youtube.com/watch?v=Toluc5MCQWs)
 * [Phoenix is not Rails - Chris McCord](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails)
+* [Ecto 2 and Phoenix Presence with José Valim and Chris McCord (Changelog)](https://changelog.com/podcast/208)
 * [Intro to Phoenix - José Valim (Elixir Warsaw Meetup)](https://www.youtube.com/watch?v=3LiLjVCDEpU)
 * [Phoenix: A web framework for the new web - José Valim (PolyConf 2015)](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
 * [Phoenix - a framework for the modern web - Chris McCord (NDC Conference Norway 2015)](https://vimeo.com/131633172)
@@ -1142,6 +1150,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - TESTING
 
+* [Mocks and explicit contracts - José Valim](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
+
 #### ELIXIR - TESTING - HOUND
 
 * [Concurrent Feature Tests with Phoenix and Hound - Kevin Rockwood](http://rockwood.me/2016/concurrent-feature-tests-with-phoenix/)
@@ -1198,6 +1208,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
+* [Beginning Elm - Pawan Poudel](http://elmprogramming.com/)
 * [Commanding the Elm Architecture - Kyle Kress (Sept 2016)](https://www.bigmarker.com/joncfoo/Commanding-the-Elm-Architecture)
 * [Start Using Elm to Build Web Applications - Murphy Randle](https://egghead.io/courses/start-using-elm-to-build-web-applications)
 * Elmbridge Curriculum: [PDF](https://www.gitbook.com/download/pdf/book/raorao/elmbridge-curriculum) | [website](https://raorao.gitbooks.io/elmbridge-curriculum/content/)
@@ -1206,11 +1217,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm, putting the fun in functional - Philip Poots (LondonJS 2016)](https://www.youtube.com/watch?v=oejptx252W8)
 * [Awesome Elm](https://github.com/isRuslan/awesome-elm)
 * [Elm-Live (development server)](https://github.com/tomekwi/elm-live)
-* Elm: [Try Elm (online editor)](http://elm-lang.org/try) | [RunElm.io](https://runelm.io/new) | [Online Elm repl](http://elmrepl.cuberoot.in/) | [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
+* Elm: [RunElm.io: JSBin for Elm](https://runelm.io) | [Try Elm (online editor)](http://elm-lang.org/try) | [RunElm.io](https://runelm.io/new) | [Online Elm repl](http://elmrepl.cuberoot.in/) | [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [Intro to Elm - Richard Feldman (2016)](https://www.youtube.com/watch?v=3_M2G9U51GA)
 * [Elm for Javascript Developers - Jack Franklin (PolyConf 16)](https://www.youtube.com/watch?v=tOkOmWgDLOM)
 * [Confident Frontend with Elm - Jack Franklin (Full Stack Fest)](https://www.youtube.com/watch?v=rDQ22Yg3Fms)
 * [Intro to Elm - Alan Gardner (2016)](https://vimeo.com/167092863)
+* [Elm for the Frontend, Right Now (Updated for Elm 0.18) - Brad Grzesiak](http://bendyworks.com/blog/elm-frontend-right-now-updated-for-0-18)
 * [Understanding the Elm type system - Adam Waselnuk](http://www.adamwaselnuk.com/elm/2016/05/27/understanding-the-elm-type-system.html)
 * [Elm Cheat Sheet - Sergey Keller](https://github.com/izdi/elm-cheat-sheet)
 * [Elm Style Guide - NoRedInk](https://github.com/NoRedInk/elm-style-guide)
@@ -1395,6 +1407,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Trending packages on Github](https://github.com/trending/elm?since=daily)
 * [Elm search (by function name or approximate type signature)](http://klaftertief.github.io/elm-search/)
 * [Elm package repository](http://package.elm-lang.org/)
+* [A Form Validation Library for Elm: My First Published Library for Elm - Bill Peregoy](https://becoming-functional.com/a-form-validation-library-for-elm-82ef8c7c39d9#.jxqwhpwxb)
 * [elm-audio](https://github.com/jcollard/elm-audio)
 * [elm-core](https://github.com/elm-lang/core)
 * [elm-graphql](https://github.com/jahewson/elm-graphql)
@@ -1420,7 +1433,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - PODCASTS
 
 * [Elm Town Podcasts](https://elmtown.github.io/)
-* [Elm and Functional Programming with Richard Feldman - Changelog](https://overcast.fm/+I_roOY_I)
+* [Elm and Functional Programming with Evan Czaplicki and Richard Feldman (Changelog)](https://changelog.com/podcast/218)
+* [Elm and Functional Programming with Richard Feldman (Changelog)](https://changelog.com/podcast/191)
 * [Elm with Richard Feldman and Evan Czaplicki (Ruby Rogues)](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki)
 * [Elm with Evan Czaplicki and Richard Feldman (Javascript Jabber)](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman)
 * [Elm with Evan Czaplicki (MostlyErlang)](http://mostlyerlang.com/2014/03/24/032-elm-with-evan-czaplicki/)
@@ -1450,6 +1464,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - VIDEOS
 
+* [Elm and React in production - Richard Feldman (ReactiveConf 2016)](https://www.youtube.com/watch?v=3FNKaGm3gk0)
 * [Elm Conf 2016 videos](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
     * [Making Impossible States Impossible - Richard Feldman](https://www.youtube.com/watch?v=IcgmSRJHu_8)
     * [Beyond Hello World and Todo Lists - Ossi Hanhinen](https://www.youtube.com/watch?v=vpc80c5iC6k)
@@ -1465,7 +1480,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Adventures in Elm - Jessica Kerr (GOTO 2016)](https://www.youtube.com/watch?v=cgXhMc8M4X4)
 * [Intro to Elm - Claudia Doppioslash](https://www.youtube.com/watch?v=gJ9DSVnZKhk)
 * [Code Therapy - Danny O'Brien](https://www.youtube.com/playlist?list=PL7RY3c_PbOzGbrUb8w97LX085PSl0c8lU)
-* [Elm in Purescript - Ryan Rempel](https://www.youtube.com/watch?v=O_kWwaghZ9U)
 * [ElmLive (video tutorial series) - Aaron VonderHaar](https://www.youtube.com/playlist?list=PLDA4wlOlLJvWSYo3KiEa4q4ETkXpTaKlw): [Lights Out, Pt 1](https://www.youtube.com/watch?v=R6vuO547DC8) | [Lights Out, Pt 2](https://www.youtube.com/watch?v=OAgF2uUnKcg) | [Lights Out (Code)](https://gist.github.com/avh4/dda1523ed8fc7bc3790b20150c1f0f22) | [Drag'N'Drop, Pt 1](https://www.youtube.com/watch?v=Rzz78cR0hPw) | [Drag'N'Drop, Pt 2](https://www.youtube.com/watch?v=DkOS0QqDUIY) | [Drag'N'Drop, Pt 3](https://www.youtube.com/watch?v=HgCMdjoSWnQ) | [Drag'N'Drop, Pt 4](https://www.youtube.com/watch?v=eFJiwPW3dwI) | [#BlackLivesMatter, Pt 1](https://www.youtube.com/watch?v=t9pOVSmNeR0) | [#BlackLivesMatter, Pt 2](https://www.youtube.com/watch?v=DgeIOk7JoqE) | [AWS Cognito - Pt 1](https://www.youtube.com/watch?v=seLD59KsHJk) | [AWS Cognito - Pt 2](https://www.youtube.com/watch?v=X6e8KpPWHg0) | [Mandelbrot Magic, Pt 1](https://www.youtube.com/watch?v=kObuBHIeYBE) | [Mandelbrot Magic, Pt 2](https://www.youtube.com/watch?v=8gQBiMxIJEQ)
 * [ElmLive: Building an RPG Framework - Greg Ziegan](https://www.twitch.tv/gregziegan/videos/all) & [code](https://github.com/thebritican/rpg-framework)
 * [Elm Solitaire game #1 - Martin Janiczek](https://www.youtube.com/watch?v=dDZb46sN3yM)
@@ -1750,6 +1764,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Lambda Calculus - Jim Grandpre (Code Genius)](https://www.youtube.com/watch?v=peOk3W7KZ4o)
 * [Lambda Calculus - Dustin Mulcahey (Hakka Labs)](https://www.youtube.com/watch?v=E5DwIxGOu1E)
 
+### FUNCTIONAL PROGRAMMING - MAYBE/OPTION, EITHER/RESULT
+
+* Kyle J. Kress: [Anatomy of Maybe — Part I: Introduction](https://toast.al/posts/2016-12-30-anatomy-of-maybe-part-i-introduction.html) | [Anatomy of Maybe — Part II: Functor](https://toast.al/posts/2017-01-01-anatomy-of-maybe-part-ii-functor.html)
+
 ### FUNCTIONAL PROGRAMMING - MONADS
 
 * [Functors, Applicatives, And Monads In Pictures - Aditya Y. Bhargava](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
@@ -1928,6 +1946,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## HTML5
 
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+* [MarkSheet: Free HTML & CSS tutorial](http://marksheet.io/)
 * [CodePen.io](http://codepen.io/)
 * [Smashing Magazine](http://www.smashingmagazine.com/)
 * [Dive into HTML 5 - Mark Pilgrim](http://diveintohtml5.info/)
@@ -2825,6 +2844,10 @@ Peter R. Egli:
 
 ## NEWS
 
+### NEWS - ARTIFICIAL INTELLIGENCE (AI)
+
+* [The Register](http://www.theregister.co.uk/emergent_tech/artificial_intelligence/)
+
 ### NEWS - EDUCATION
 
 * [EdSurge](https://www.edsurge.com/)
@@ -2832,6 +2855,7 @@ Peter R. Egli:
 ### NEWS - HARDWARE
 
 * [Hot Hardware](http://hothardware.com/)
+* [The Register: Internet of Things](http://www.theregister.co.uk/emergent_tech/internet_of_things/)
 
 ### NEWS - PROGRAMMING
 
@@ -2846,11 +2870,19 @@ Peter R. Egli:
 * [InfoStor](http://www.infostor.com/)
 * [InfoWorld](http://www.infoworld.com/)
 * [IT World](http://www.itworld.com/)
+* [Phys.org](http://phys.org/technology-news/computer-sciences/)
 * [Programmable Web](http://www.programmableweb.com/)
+* [Quanta](https://www.quantamagazine.org/category/computer-science-2/)
 * [The Register](http://www.theregister.co.uk/software/)
 * ScienceDaily: [Computer programming](http://www.sciencedaily.com/news/computers_math/computer_programming/) | [Hacking](http://www.sciencedaily.com/news/computers_math/hacking/) | [Software](http://www.sciencedaily.com/news/computers_math/software/)
 * [Software Development Times](http://sdtimes.com/)
 * [Sitepoint](http://www.sitepoint.com/)
+
+### NEWS - ROBOTICS
+
+* [Motherboard](http://motherboard.vice.com/en_us/tag/machines)
+* [Neuroscience News](http://neurosciencenews.com/neuroscience-topics/robotics-2/)
+* [Phys.org](http://phys.org/technology-news/robotics/)
 
 ### NEWS - SCIENCE
 
@@ -3230,9 +3262,17 @@ Peter R. Egli:
 * [PureScript by Example - Phil Freeman](https://leanpub.com/purescript/read)
 * [kRITZCREEK blog](https://kritzcreek.github.io/)
 
+### PURESCRIPT - ELM
+
+* [Elm in Purescript - Ryan Rempel](https://www.youtube.com/watch?v=O_kWwaghZ9U)
+
 ### PURESCRIPT - HELP
 
 * [Google group](https://groups.google.com/forum/#!forum/purescript)
+
+### PURESCRIPT - PUX (INTERFACE TO REACT)
+
+* [PureScript & Pux - Jesse Williamson (Front End Authority, Oct 2016)](https://www.youtube.com/watch?v=NmT5-j3-xzg)
 
 ### PURESCRIPT - VIDEOS
 
