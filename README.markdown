@@ -906,6 +906,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ELIXIR - DEPLOYMENT - DISTILLERY
 
 * Distillery: [Github](https://github.com/bitwalker/distillery) | [Documentation](https://hexdocs.pm/distillery/getting-started.html)
+* [Deploying Elixir Applications With Distillery - Pete Corey](http://www.east5th.co/blog/2016/12/26/deploying-elixir-applications-with-distillery/)
 * [Storing Elixir Release Configuration in Environment Variables with Distillery - Brendan A R Sechter](http://sgeos.github.io/phoenix/elixir/erlang/ecto/distillery/postgresql/mysql/2016/09/18/storing-elixir-release-configuration-in-environment-variables-with-distillery.html)
 
 #### ELIXIR - DEPLOYMENT - EDELIVER
@@ -1063,10 +1064,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Basic web app with Phoenix - Michael Eatherly](http://meatherly.github.io/2015/05/04/phoenixlivelikeawarrior/) & [Phoenix app with authentication - Michael Eatherly](http://meatherly.github.io/2015/05/11/phoenixauthentication/)
 * [Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide)
 
-* [Authentication in Phoenix/Elixir app with Ueberauth and Guardian - Ulan Abdurazakov](https://www.youtube.com/watch?v=X6Z-sDSJ3sE)
-
 #### ELIXIR - PHOENIX - AUTHENTICATION
 
+* [Elixir/Phoenix — Build a simple chat room - Stephan Bakkelund Valois](https://medium.com/@Stephanbv/elixir-phoenix-build-a-simple-chat-room-7f20ee8e8f9c#.gduhrghi2)
 * [Authentication in Phoenix/Elixir app with Ueberauth and Guardian - Ulan Abdurazakov](https://www.youtube.com/watch?v=X6Z-sDSJ3sE)
 
 #### ELIXIR - PHOENIX - DEPLOYMENT
@@ -1356,6 +1356,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Data Structures in Elm - NoRedInk.com](http://tech.noredink.com/post/140646140878/data-structures-in-elm)
 * [Writing Friendly Elm Code - NoRedInk.com](http://tech.noredink.com/post/146963432518/writing-friendly-elm-code)
 * [Maybe Thinking - Josh Clayton](https://robots.thoughtbot.com/maybe-thinking)
+* [Elm Maybe - Dealing with null/Nothing - Magnus Rundberget](http://rundis.github.io/blog/2016/elm_maybe.html)
 
 #### ELM - DATA STRUCTURES - JSON
 
@@ -1367,6 +1368,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Debugging JSON - Brian Hicks](https://www.brianthicks.com/post/2016/10/10/debugging-json)
 * [Composing Decoders Like LEGO - Brian Hicks](https://www.brianthicks.com/post/2016/10/17/composing-decoders-like-lego/)
 * [Decoding Large JSON Objects: A Summary - Brian Hicks](https://www.brianthicks.com/post/2016/08/22/decoding-large-json-objects-a-summary/)
+* [Create Custom JSON Decoders in Elm 0.18 - Brian Hicks](https://www.brianthicks.com/post/2017/01/13/create-custom-json-decoders-in-elm-018/)
 * [Json.Decode cheatsheet - Yang Wei](https://gist.github.com/yang-wei/0a1cea1194a244aa9be6)
 
 ### ELM - EDITORS
@@ -1457,6 +1459,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - SPA
 
 * [Building a Single-Page App with Elm - Dave Thomas](http://7sharpnine.com/2016/10/03/building-an-spa-with-elm/)
+* [More on SPA navigation in Elm - Wouter In t Velt](https://medium.com/elm-shorts/more-on-spa-navigation-in-elm-31a066c6b9ae#.5xrtn02be)
 
 ### ELM - TASKS & EFFECTS
 
@@ -3310,6 +3313,7 @@ Peter R. Egli:
 * [Dataquest.io missions](https://www.dataquest.io/missions)
 * Harvard CS109: Data Science (2013): [slides](https://drive.google.com/folderview?id=0BxYkKyLxfsNVd0xicUVDS1dIS0k&usp=sharing), [video lectures](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) & [labs and solutions](https://github.com/cs109/content)
 * [Harvard CS109: Data Science (2014)](http://cs109.github.io/2014/)
+* [Open Courses: Free Data Science Training Courses (DataCamp.com)](https://www.datacamp.com/community/open-courses)
 * [Intro to Python for Econometrics, Statistics and Data Analysis - Kevin Sheppard](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf)
 * [Data Mining With Python - Finn Arup Nielsen](http://www2.compute.dtu.dk/pubdb/views/edoc_download.php/6814/pdf/imm6814.pdf)
 * [Clustering US Senators with K-Means - Dataquest.io](http://blog.dataquest.io/blog/plotting-senators/)
@@ -3984,6 +3988,7 @@ Peter R. Egli:
 * [The Five Colleges Guide to Statistics With R](http://www3.amherst.edu/~nhorton/FiveCollegeR.pdf)
 * [Swirl ("Statistics With Interactive R Learning")](http://swirlstats.com/students.html)
 * [The Undergraduate Guide to R - Trevor Martin](https://sites.google.com/site/undergraduateguidetor/manual-files)
+* [Open Courses: Free Data Science Training Courses (DataCamp.com)](https://www.datacamp.com/community/open-courses)
 * [Rabbit: Intro to R - Nicola Sturaro](http://www.quantide.com/R/r-training/r-web-books/rabbit-introduction-to-r/)
 * [Ramarro: R for Developers (advanced R) - Andrea Spanò](http://www.quantide.com/R/r-training/r-web-books/ramarro-r-for-developers/)
 * [Resources to Help You Learn and Use R - UCLA](http://www.ats.ucla.edu/stat/r/)
@@ -5063,6 +5068,7 @@ Peter R. Egli:
 
 * [Crypto101 (free in-depth cryptography book) - Laurens Van Houtven](https://www.crypto101.io/) & [PyCon US 2013 talk](https://www.youtube.com/watch?t=8&v=3rmCGsCYJF8)
 * [Cryptography Tutorial - Joe Armstrong](https://github.com/joearms/crypto_tutorial/raw/master/crypto_tutorial.pdf)
+* [How Hash Algorithms Work - ?](http://www.metamorphosite.com/one-way-hash-encryption-sha1-data-software)
 * [Let's Encrypt - "lets site operators turn on and manage HTTPS with simple commands"](https://letsencrypt.org/howitworks/)
 * [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
 * [Encryption Works: How to Protect Your Privacy in the Age of NSA Surveillance - Micha Leee (Freedom of the Press Foundation)](https://freedom.press/encryption-works)
