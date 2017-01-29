@@ -909,6 +909,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Deploying Elixir Applications With Distillery - Pete Corey](http://www.east5th.co/blog/2016/12/26/deploying-elixir-applications-with-distillery/)
 * [Storing Elixir Release Configuration in Environment Variables with Distillery - Brendan A R Sechter](http://sgeos.github.io/phoenix/elixir/erlang/ecto/distillery/postgresql/mysql/2016/09/18/storing-elixir-release-configuration-in-environment-variables-with-distillery.html)
 
+#### ELIXIR - DEPLOYMENT - DOCKER
+
+* [Bottling Elixir with Docker - Part 1 - Paul Lamb](https://paullamb.exposed/blog/2017/1/11/bottling-elixir-with-docker-part-1)
+
 #### ELIXIR - DEPLOYMENT - EDELIVER
 
 * Edeliver: [Github](https://github.com/boldpoker/edeliver) | [Deploying Elixir applications with Edeliver - Igor Florian](http://blog.plataformatec.com.br/2016/06/deploying-elixir-applications-with-edeliver/)
@@ -1166,6 +1170,17 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [QuickCheck for Elixir - Generate Tests Automatically - Thomas Arts (ElixirConf 2015)](https://www.youtube.com/watch?v=nbpZRm9gl50)
 
+### ELIXIR - TYPES
+
+* [Typespecs - Elixir docs](http://elixir-lang.org/docs/stable/elixir/typespecs.html)
+* [Type Specifications and Erlang](http://learnyousomeerlang.com/dialyzer)
+
+### ELIXIR - TYPES - DIALYZER/DIALYXIR
+
+* [Dialyxir](https://github.com/jeremyjh/dialyxir) & [Dialyzer](http://erlang.org/doc/man/dialyzer.html)
+* Dialyzer Optimistic Type Checking for Erlang and Elixir - Jason Voegele: [ElixirConf 2016](https://www.youtube.com/watch?v=JT0ECYZ9FaQ) | [λC 2016](https://www.youtube.com/watch?v=FXCMiQWnWu0)
+* [Practical Type Inference Based on Success Typings - Tobias Lindahl & Konstantinos Sagonas](http://user.it.uu.se/~kostis/Papers/succ_types.pdf)
+
 #### ELIXIR - UMBRELLA PROJECTS
 
 * [Building Umbrella Projects - Wojtek Mach (ElixirConf 2016)](https://www.youtube.com/watch?v=6NTmUQClHrU) & [Acme Bank is an example project to explore and experiment with building modular and maintainable Elixir/Phoenix applications](https://github.com/wojtekmach/acme_bank)
@@ -1357,6 +1372,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Writing Friendly Elm Code - NoRedInk.com](http://tech.noredink.com/post/146963432518/writing-friendly-elm-code)
 * [Maybe Thinking - Josh Clayton](https://robots.thoughtbot.com/maybe-thinking)
 * [Elm Maybe - Dealing with null/Nothing - Magnus Rundberget](http://rundis.github.io/blog/2016/elm_maybe.html)
+* [Functional Sets, Part 1: Construction](https://www.brianthicks.com/post/2016/11/13/functional-sets-part-1-construction/)
+* [Functional Sets, Part 6: Union and Remove](https://www.brianthicks.com/post/2017/01/16/functional-sets-part-6-union-and-remove/)
 
 #### ELM - DATA STRUCTURES - JSON
 
@@ -1484,7 +1501,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to Elm - Claudia Doppioslash](https://www.youtube.com/watch?v=gJ9DSVnZKhk)
 * [Code Therapy - Danny O'Brien](https://www.youtube.com/playlist?list=PL7RY3c_PbOzGbrUb8w97LX085PSl0c8lU)
 * [ElmLive (video tutorial series) - Aaron VonderHaar](https://www.youtube.com/playlist?list=PLDA4wlOlLJvWSYo3KiEa4q4ETkXpTaKlw): [Lights Out, Pt 1](https://www.youtube.com/watch?v=R6vuO547DC8) | [Lights Out, Pt 2](https://www.youtube.com/watch?v=OAgF2uUnKcg) | [Lights Out (Code)](https://gist.github.com/avh4/dda1523ed8fc7bc3790b20150c1f0f22) | [Drag'N'Drop, Pt 1](https://www.youtube.com/watch?v=Rzz78cR0hPw) | [Drag'N'Drop, Pt 2](https://www.youtube.com/watch?v=DkOS0QqDUIY) | [Drag'N'Drop, Pt 3](https://www.youtube.com/watch?v=HgCMdjoSWnQ) | [Drag'N'Drop, Pt 4](https://www.youtube.com/watch?v=eFJiwPW3dwI) | [#BlackLivesMatter, Pt 1](https://www.youtube.com/watch?v=t9pOVSmNeR0) | [#BlackLivesMatter, Pt 2](https://www.youtube.com/watch?v=DgeIOk7JoqE) | [AWS Cognito - Pt 1](https://www.youtube.com/watch?v=seLD59KsHJk) | [AWS Cognito - Pt 2](https://www.youtube.com/watch?v=X6e8KpPWHg0) | [Mandelbrot Magic, Pt 1](https://www.youtube.com/watch?v=kObuBHIeYBE) | [Mandelbrot Magic, Pt 2](https://www.youtube.com/watch?v=8gQBiMxIJEQ)
-* [ElmLive: Building an RPG Framework - Greg Ziegan](https://www.twitch.tv/gregziegan/videos/all) & [code](https://github.com/thebritican/rpg-framework)
+* [Elm live coding sessions - Greg Ziegan](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA)
 * [Elm Solitaire game #1 - Martin Janiczek](https://www.youtube.com/watch?v=dDZb46sN3yM)
 * [Elm: Frontend with Guarantees - Amitai Burstein](https://www.youtube.com/watch?v=FgaoOgJ5CAU)
 * Writing A Full Site in Phoenix and Elm - Brandon Richey: [Part 1](https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-a100804c9499#.3tzhbd8nt) | [Part 2: Making HTTP Calls From Elm](https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-a4622c5130f5#.rezd1mhxi) | [Part 3: Navigation From the Ground Up](https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-8f50ba4382a3#.ffhrag5da)
@@ -1596,6 +1613,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Essential Erlang/OTP - Garrett Smith](https://www.youtube.com/watch?v=0ZGHzI9F5YE)
 * [OTP Has Done It - Nick DeMonner (ElixirConf 2015)](https://www.youtube.com/watch?v=yBReonQlfL4)
+* [The Zen of Erlang - Fred Hebert (Reactive Summit 2016)](https://www.youtube.com/watch?v=4ZIPijEqrNI)
 * [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM)
 * [OTP in Elixir: Part 1 - Christian Di Lorenzo (Triangle |> Elixir)](https://www.youtube.com/watch?v=_WgrfEaAM4Y)
 * [Erlang Design Principles](http://erlang.org/doc/design_principles/users_guide.html)
@@ -1932,15 +1950,32 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Token-based security in a REST API - Andy Balaam](https://www.youtube.com/watch?v=3c9KDf5p_Vc)
 
+#### HTTP - AUTHENTICATION - JAVASCRIPT WEB TOKENS (JWT)
+
+* [Introduction to JWT (JSON Web Token) - Securing apps & services - Tech CBT](https://www.youtube.com/watch?v=oXxbB5kv9OA)
+
+### HTTP - HEADERS
+
+* [Everything you need to know about HTTP security headers - Max Veytsman](https://blog.appcanary.com/2017/http-security-headers.html)
+
 ## HTML
 
 ### HTML - BASICS
 
 * [Constructing the Object Model - Ilya Grigorik](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/constructing-the-object-model?hl=en)
 
+### HTML - CORS
+
+* HTML5 Security: [Part 1 - Same Origin Policy Basics](https://www.youtube.com/watch?v=jDE0cntjOq8) | [Part 2 - postMessage Vulnerabilities](https://www.youtube.com/watch?v=XTKqQ9mhcgM) | [Part 3 - CORS](https://www.youtube.com/watch?v=9_BFGgfAHD8)
+
 ### HTML - HAML
 
 * [Tutorial](http://haml.info/tutorial.html) & [Reference](http://haml.info/docs/yardoc/file.REFERENCE.html)
+
+### HTML - IFRAMES
+
+* [HTML Iframes, iframe Tag With All Attributes Explained - PJ Codingschool](https://www.youtube.com/watch?v=A3yBDVwODUc)
+* [IFrames in HTML for Code Reuse - Eli the Computer Guy](https://www.youtube.com/watch?v=d44cads61LA)
 
 ### HTML - SLIM
 
@@ -3369,6 +3404,7 @@ Peter R. Egli:
 
 #### PYTHON - DATA ANALYSIS - NUMPY
 
+* [Python For Data Science Cheat Sheet: NumPy Basics (DataCamp.com)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 * [(Tentative) NumPy Tutorial](http://wiki.scipy.org/Tentative_NumPy_Tutorial)
 * [Numpy User Guide](http://docs.scipy.org/doc/numpy/user/index.html) & [PDF](http://docs.scipy.org/doc/numpy/numpy-user-1.9.1.pdf)
 * [Numpy Reference Guide](http://docs.scipy.org/doc/numpy/reference/) & [PDF](http://docs.scipy.org/doc/numpy/numpy-ref-1.9.1.pdf)
@@ -3384,6 +3420,7 @@ Peter R. Egli:
 
 #### PYTHON - DATA ANALYSIS - PANDAS
 
+* [Python For Data Science Cheat Sheet - Pandas Basics (DataCamp.com)](https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)
 * [Pandas documentation (PDF)](http://pandas.pydata.org/pandas-docs/stable/pandas.pdf)
     * [Installation](http://pandas.pydata.org/pandas-docs/stable/install.html)
     * [FAQ](http://pandas.pydata.org/pandas-docs/stable/faq.html)
@@ -3419,6 +3456,7 @@ Peter R. Egli:
 * [Modern Pandas (7-part series) - Tom Augspurger](https://tomaugspurger.github.io/modern-1.html)
 * [Visual Guide to Pandas - Jason Wirth (ChiPy 2013)](https://www.youtube.com/watch?v=9d5-Ti6onew)
 * [Pandas tutorials - PyData.org](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
+* [Tidy Data in Python Mini-Course - Vincent Lan](https://www.datacamp.com/community/open-courses/tidy-data-in-python-mini-course#gs.nRRlcOU)
 * [Things in Pandas I Wish I'd Had Known Earlier - Sebastian Raschka](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb)
 * [Cheat Sheet: The Pandas DataFrame Object](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
 * [Intro to PANDAS Data Structures - Greg Reda](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/), [Working With DataFrames](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/) & [Using PANDAS on the MovieLens Database](http://www.gregreda.com/2013/10/26/using-pandas-on-the-movielens-dataset/)
@@ -3485,6 +3523,10 @@ Peter R. Egli:
 * [RMagic for iPython Notebook](http://ipython.org/ipython-doc/dev/config/extensions/rmagic.html)
 * [Using R Within the iPython Notebook](http://nbviewer.ipython.org/github/ipython/ipython/blob/1.x/examples/notebooks/R%20Magics.ipynb)
 * [RMagic Functions Extension](http://nbviewer.ipython.org/github/ipython/ipython/blob/1.x/examples/notebooks/Cell%20Magics.ipynb#Rmagic-Functions-Extension)
+
+### PYTHON - DATA ANALYSIS
+
+* [Introduction to Python & Machine Learning (with Analytics Vidhya Hackathons) - Kunal Jain](https://www.datacamp.com/community/open-courses/introduction-to-python-machine-learning-with-analytics-vidhya-hackathons)
 
 #### PYTHON - DATA ANALYSIS - SCIKIT-LEARN
 
@@ -3742,10 +3784,11 @@ Peter R. Egli:
 * [Intro to Pandas and Vincent](http://neckbeardrepublic.com/screencasts/pandas-vincent)
 * [Mapping Data in Python with Pandas and Vincent](http://wrobstory.github.io/2013/10/mapping-data-python.html)
 
-### PYTHON - IPYTHON NOTEBOOK / Jupyter
+### PYTHON - IPYTHON NOTEBOOK / JUPYTER
 
 * [All About Jupyter - Brian Granger](https://www.youtube.com/watch?v=GMKZD1Ohlzk)
 * [iPython](http://ipython.org/)
+* [Documentation](http://jupyter-notebook.readthedocs.io/en/latest/notebook.html)
 * [Documentation](http://ipython.org/ipython-doc/dev/notebook/index.html) & [Keyboard Shortcuts](http://ipython.org/ipython-doc/1/interactive/notebook.html#keyboard-shortcuts) & [Cookbook](https://github.com/ipython/ipython/wiki/Cookbook%3A-Index)
 * [Quick reference sheets](http://damontallen.github.io/IPython-quick-ref-sheets/)
 * [The iPython Notebook Revolution - Catherine Devlin (2013)](https://www.youtube.com/watch?v=t_TzRaK9kpU)
@@ -5063,6 +5106,7 @@ Peter R. Egli:
 
 * [Awesome Hacking: A collection of awesome lists for hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hackin://github.com/Hack-with-Github/Awesome-Hacking)
 * [BadSSL.com - See how your browser behaves when SSL is incorrectly configured](https://badssl.com/)
+* [Computer Systems Security - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
 
 ### SECURITY - ENCRYPTION
 
