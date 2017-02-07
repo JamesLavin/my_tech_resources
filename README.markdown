@@ -1223,6 +1223,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
+* [Toward a Better Front End Architecture: Elm - Jeremy Fairbank (Codemash 2017)](https://www.youtube.com/watch?v=EDp6UmaA9CM)
 * [Beginning Elm - Pawan Poudel](http://elmprogramming.com/)
 * [Commanding the Elm Architecture - Kyle Kress (Sept 2016)](https://www.bigmarker.com/joncfoo/Commanding-the-Elm-Architecture)
 * [Start Using Elm to Build Web Applications - Murphy Randle](https://egghead.io/courses/start-using-elm-to-build-web-applications)
@@ -1269,8 +1270,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - ABOUT
 
+* [Using Elm in Production at Pivotal Tracker - Jeff Schomay](https://www.pivotaltracker.com/blog/Elm-pivotal-tracker)
 * [6 Months of Elm in Production - Richard Feldman (Forward University)](http://forwardjs.com/university/elm-in-production)
 * [Growing the Oasis: Elm in Production - Richard Feldman (June 2015)](http://www.ustream.tv/recorded/64112108)
+* [What does it mean to use Elm? - Max Goldstein](https://hackernoon.com/what-does-it-mean-to-use-elm-cbf00d6bdfa5#.l6tde1si6)
+* [Elm-Friendly Functional Programming For The Web - Luke Westby (GOTO 2016)](https://www.youtube.com/watch?v=tN5UmM2yZPY)
 * [Why I think Elm is the Future of Front End Development - Rishi Goomar](https://medium.com/@rgoomar/why-i-think-elm-is-the-future-of-front-end-development-21e9b091fa05#.g3rivrvzs)
 * [Elm: The Game-Changer - Bastian Krol (RuhrJS 2016)](https://www.youtube.com/watch?v=BQ3fMqwC0zE)
 * [Elm: Awesomesauce or just yet another language for the Front-end? - Magnus Rundberget](https://vimeo.com/181814362)
@@ -2364,6 +2368,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - FUNCTIONAL PROGRAMMING
 
+* [Functional Programming Basics in ES6 (JavaScript) - Jeremy Fairbank (Scenic City Summit 2016)](https://www.youtube.com/watch?v=HvMemAgOw6I)
 * [Learning Functional Programming with JavaScript - Anjana Vakil (JSUnconf 2016)](https://www.youtube.com/watch?v=e-5obm1G_FY)
 * [Functional programming in JavaScript - Mattias Petter Johansson](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 * [Functional Javascript - Dr. Gleb Bahmutov](https://glebbahmutov.com/blog/tags/functional/)
@@ -3840,6 +3845,7 @@ Peter R. Egli:
 * [EdX.org Python courses](https://www.edx.org/course?search_query=Python)
 * [Udemy.com Python courses](https://www.udemy.com/courses/search/?q=Python&p=1&price=price-free&view=grid) & [non-free](https://www.udemy.com/courses/search/?ref=home&q=Python)
 * [Python Notes/Cheatsheet](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
+* [Introduction to Computing using Python - David Joyner (Georgia Institute of Technology & EdX)](https://www.edx.org/course/introduction-computing-using-python-gtx-cs1301x)
 * [Beginner Python 3+ tutorials - Harrison Kinsley](http://pythonprogramming.net/beginner-python-programming-tutorials/) & [All tutorials](http://pythonprogramming.net/dashboard/)
 * [Python 3 Tutorial - Bernd Klein](http://www.python-course.eu/python3_course.php) or [Python 2 Tutorial](http://www.python-course.eu/course.php)
 * [Learn to Program: The Fundamentals - Jennifer Campbell and Paul Gries - U of Toronto (Coursera)](https://www.coursera.org/course/programming1)
@@ -4509,6 +4515,20 @@ Peter R. Egli:
 * [LearnPython.org](http://www.learnpython.org/en/Regular_Expressions)
 * [EloquentJavascript.net](http://eloquentjavascript.net/09_regexp.html)
 * [Ruby regular expressions cheatsheet](http://doc.infosnel.nl/ruby_regular_expressions.html)
+
+## ROBOTICS
+
+### ROBOTICS - COZMO
+
+* [Cozmo Python SDK - Anki](https://github.com/anki/cozmo-python-sdk)
+* [cozmo-tools - Dave Touretzky (Carnegie Mellon University)](https://github.com/touretzkyds/cozmo-tools)
+* [Cozmo Voice Commands (CvC) - Riccardo Sallusti](https://github.com/rizal72/Cozmo-Voice-Commands)
+* [Cozmo Challenge: Playfully learning how to program - GrinningHermit](https://github.com/GrinningHermit/Cozmo-Challenge)
+* [Cozmo Animation Explorer - GrinningHermit](https://github.com/GrinningHermit/Cozmo-Animation-Explorer)
+* [Cozmo Scratch SDK - Konnor Andrews](https://github.com/madfrog54321/ScratchCozmoSDK)
+* [Cozmo Beyond: Collection of projects built with Cozmo SDK - Peter Mitrano](https://github.com/PeterMitrano/cozmo_beyond)
+* [Cozmo Weather: I taught Cozmo to read the weather forecast - Daniel Wilches](https://github.com/DWilches/CozmoWeather)
+* [Cozplay demos - Cozmo games taking advantage of Cozmo's capabilities in unique and engaging ways](https://github.com/cozplay/cozplay-demos)
 
 ## RUBY
 
