@@ -861,8 +861,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - BOOKS
 
 * [Elixir Documentation (PDF)](https://media.readthedocs.org/pdf/elixir-lang/latest/elixir-lang.pdf)
-* Elixir Getting Started Guide: [EPUB](https://github.com/JamesLavin/my_tech_resources/blob/master/elixir-getting-started-guide.epub) | [Online](http://elixir-lang.org/getting-started/introduction.html)
-* [Elixir Meta-Programming Guide (EPUB)](https://github.com/JamesLavin/my_tech_resources/blob/master/meta-programming-in-elixir.epub)
+* Elixir Getting Started Guide: [EPUB](https://github.com/JamesLavin/my_tech_resources/raw/master/elixir-getting-started-guide.epub) | [Online](http://elixir-lang.org/getting-started/introduction.html)
+* [Elixir Meta-Programming Guide (EPUB)](https://github.com/JamesLavin/my_tech_resources/raw/master/meta-programming-in-elixir.epub)
 * The Mix & OTP Guide: [(EPUB)](https://github.com/JamesLavin/my_tech_resources/raw/master/mix-and-otp.epub) | [Online](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) & [Github](https://github.com/oreillymedia/etudes-for-elixir)
 
