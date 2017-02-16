@@ -861,6 +861,9 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - BOOKS
 
 * [Elixir Documentation (PDF)](https://media.readthedocs.org/pdf/elixir-lang/latest/elixir-lang.pdf)
+* Elixir Getting Started Guide: [EPUB](https://github.com/JamesLavin/my_tech_resources/blob/master/elixir-getting-started-guide.epub) | [Online](http://elixir-lang.org/getting-started/introduction.html)
+* [Elixir Meta-Programming Guide (EPUB)](https://github.com/JamesLavin/my_tech_resources/blob/master/meta-programming-in-elixir.epub)
+* The Mix & OTP Guide: [(EPUB)](https://github.com/JamesLavin/my_tech_resources/blob/master/mix-and-otp.epub) | [Online](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) & [Github](https://github.com/oreillymedia/etudes-for-elixir)
 
 ### ELIXIR - CODE EXAMPLES
@@ -983,6 +986,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How Do I GenStage? - Adrian Dunston](http://engineering.spreedly.com/blog/how-do-i-genstage.html)
 * [Reactive Tweets with Elixir GenStage - Mario Flach](https://almightycouch.org/blog/reactive-tweets-elixir-genstage/)
 
+### ELIXIR - GRAPHQL
+
+* [Phoenix GraphQL Tutorial with Absinthe - Ryan Swapp](https://ryanswapp.com/2016/11/29/phoenix-graphql-tutorial-with-absinthe/)
+
 ### ELIXIR - HEX
 
 * [Writing and Publishing an Elixir Library - Nithin Bekal](http://nithinbekal.com/posts/elixir-publish-package/)
@@ -1002,6 +1009,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - MIX
 
 * [Intro to Mix](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
+* The Mix & OTP Guide: [(EPUB)](https://github.com/JamesLavin/my_tech_resources/blob/master/mix-and-otp.epub) | [Online](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 
 ### ELIXIR - NEURAL NETWORKS
 
@@ -1011,10 +1019,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - OTP
 
 * [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir)
-* Michael @ omgneering: [GenServer basics](https://www.youtube.com/watch?v=zC7TcrRi46Q) | [GenServer Callbacks and concurrency](Elixir GenServer callbacks and concurrency) | [Supervisor](https://www.youtube.com/watch?v=Gdf8JXeaPjw)
+* Michael @ omgneering: [GenServer basics](https://www.youtube.com/watch?v=zC7TcrRi46Q) | [GenServer Callbacks and concurrency](Elixir GenServer callbacks and concurrency) | [Supervisor](https://www.youtube.com/watch?v=Gdf8JXeaPjw) | [Application (Part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM) | [Application (Part 2)](https://www.youtube.com/watch?v=rMwEQZewDyk)
 * [High availability with Elixir and Erlang - Saša Jurić (Full Stack Fest 2016)](https://www.youtube.com/watch?v=Ba3aCm3A0o8) & [High Availability - Saša Jurić](https://www.youtube.com/watch?v=wYttHG3S76Y)
 * [Per-user workers with custom queue processing (using GenServer and Supervisor) - Adam Hodowany](https://www.youtube.com/watch?v=19JakddwsV8)
-* [The Mix and OTP Guide](http://elixir-lang.org/getting-started/mix-otp/agent.html)
+* The Mix & OTP Guide: [(EPUB)](https://github.com/JamesLavin/my_tech_resources/blob/master/mix-and-otp.epub) | [Online](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 * [Creating Elixir libraries as OTP applications - Hubert Łępicki](https://www.amberbit.com/blog/2016/5/10/creating-elixir-libraries-as-otp-applications/)
 * [OTP in Elixir - Part 1 - Christian Di Lorenzo (Triangle Elixir 2016)](https://www.youtube.com/watch?v=_WgrfEaAM4Y)
 * [Chat Bot: A Practical Walkthrough of the powerful Features Elixir/Erlang/OTP - Jeff Weiss](https://www.youtube.com/watch?v=NrrUyRt_B1w)
@@ -1241,7 +1249,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm for the Frontend, Right Now (Updated for Elm 0.18) - Brad Grzesiak](http://bendyworks.com/blog/elm-frontend-right-now-updated-for-0-18)
 * [Understanding the Elm type system - Adam Waselnuk](http://www.adamwaselnuk.com/elm/2016/05/27/understanding-the-elm-type-system.html)
 * [Elm Cheat Sheet - Sergey Keller](https://github.com/izdi/elm-cheat-sheet)
-* [Elm Style Guide - NoRedInk](https://github.com/NoRedInk/elm-style-guide)
+* Elm Style Guides [NoRedInk](https://github.com/NoRedInk/elm-style-guide) | [Ossi Hanhinen](https://github.com/ohanhi/elm-style-guide)
 * [Elm FAQ](http://faq.elm-community.org/)
 * [elm-by-example.org - Grzegorz Balcerek](http://elm-by-example.org/) | [code examples](https://github.com/grzegorzbalcerek/ElmByExample)
 * [jsbin-style Glot.io](https://glot.io/new/elm)
@@ -1350,6 +1358,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - CODE STRUCTURE
 
+* [elm-taco: a simple concept for managing common information in large Elm SPAs - Ossi Hanhinen](https://github.com/ohanhi/elm-taco)
 * [How I Structure Elm Apps - Kris Jenkins](http://blog.jenkster.com/2016/04/how-i-structure-elm-apps.html)
 
 ### ELM - COURSES (FREE)
@@ -1394,6 +1403,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - EDITORS
 
+* [Ellie (Elm Live Editor)](https://ellie-app.com/new)
 * [HTML to Elm (webpage for inputting HTML and outputting Elm)](http://mbylstra.github.io/html-to-elm/)
 * [lambdatoast/elm.vim](https://github.com/lambdatoast/elm.vim) & [ElmCast/elm-vim](https://github.com/ElmCast/elm-vim) for [vim](http://www.vim.org/docs.php)
 * [jcollard/elm-mode](https://github.com/jcollard/elm-mode) for [Emacs](https://www.gnu.org/software/emacs/tour/) (if you're into that kind of kinky stuff)
@@ -1409,7 +1419,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - ELM-NATIVE-UI
 
 * [Elm Native UI: Writing a React Native app in Elm - Ossi Hanhinen](http://ohanhi.github.io/elm-native-ui.html)
-* [elm-native-ui: Building mobile apps with Elm powered by React Native](https://github.com/elm-native-ui/elm-native-ui)
+* [elm-native-ui: Building mobile apps with Elm powered by React Native](https://github.com/ohanhi/elm-native-ui)
 
 ### ELM - HELP
 
@@ -1659,6 +1669,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## EVENT SOURCING/STREAMS/SIGNALS/REACTIVE PROGRAMMING
 
+* Developing Transactional Microservices Using Aggregates, Event Sourcing and CQRS - Chris Richardson: [Part 1](https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-1-richardson) & [Part 2](https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-2-richardson)
 * [Events Are Not Just for Notifications - Greg Young (QCon 2011)](https://www.infoq.com/presentations/Events-Are-Not-Just-for-Notifications)
 * [Building microservices with event sourcing and CQRS - Michael Ploed](https://www.youtube.com/watch?v=A0goyZ9F4bg)
 * [Event Store and Web Applications - Greg Young](https://www.infoq.com/presentations/event-store-web-apps)
@@ -2769,6 +2780,7 @@ Peter R. Egli:
 * [OpenAI Gym](https://gym.openai.com/) | [Github](https://github.com/openai/gym)
 * [What did AlphaGo do to beat the strongest human Go player? - Tobias Pfeiffer (Full Stack Fest 2016)](https://www.youtube.com/watch?v=b9H9AtbxpPM) | [slides PDF](https://pragtob.files.wordpress.com/2016/09/full_stack_fest.pdf) | [slides Speakerdeck](https://speakerdeck.com/pragtob/what-did-alphago-do-to-beat-the-strongest-human-go-player-1) | [slides Slideshare](http://www.slideshare.net/PragTob/what-did-alphago-do-to-beat-the-strongest-human-go-player)
 * [Un-Artificial Intelligence - Melinda Seckington (GoRuCo 2015)](https://www.youtube.com/watch?v=7Y1Bv2BJDLs)
+* [InfoQ talks](https://www.infoq.com/machinelearning/)
 * [Machine Learning (online Coursera class with Stanford professor Andrew Ng)](https://www.coursera.org/learn/machine-learning)
 * [Machine Learning (online course from University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 * [Intro to Machine Learning: Pattern Recognition for Fun and Profit - Sebastian Thrun and Katie Malone (Udacity)]()
