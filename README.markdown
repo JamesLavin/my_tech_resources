@@ -785,12 +785,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Explicit Elixir - Paul Lamb (ElixirDaze 2016)](https://www.youtube.com/watch?v=sr5I5ncg0kU)
 * [What Elixir is About - José Valim (Erlang Factory SF 2015)](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
 * [Elixir: Easy fun for busy developers - David Schmitz (Devoxx 2016)](https://www.youtube.com/watch?v=naNN_gJas2A)
-* [A Completely Unbiased Showcase of Elixir - Andrea Leopardi (EUC 2016)](https://www.youtube.com/watch?v=EPXZ6VLiZuo)
+* [A Completely Unbiased Showcase of Elixir - Andrea Leopardi (Erlang User Conference 2016)](https://www.youtube.com/watch?v=EPXZ6VLiZuo)
 * [Elixir with José Valim](http://howistart.org/posts/elixir/1)
 * [Building a web framework from scratch in Elixir - Robert Lord](https://codewords.recurse.com/issues/five/building-a-web-framework-from-scratch-in-elixir)
 * [Elixir School](https://elixirschool.com/)
 * [Sweet Elixir! - Ryan Cromwell](http://www.infoq.com/presentations/elixir) & [full notes](https://github.com/cromwellryan/sweetelixir)
 * [Exercism.io Elixir](http://exercism.io/languages/elixir)
+* [Basic Design in Functional Programming Languages - Tomasz Kowal (ElixirLive 2016)](https://www.youtube.com/watch?v=arYOSYrjC8s)
 * [Elixir talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=elixir&commit=go)
 * [ElixirConf 2014 videos](http://www.confreaks.tv/events/elixirconf2014)
 * [Elixir Koans - Nicolas Deverge](https://github.com/dojo-toulouse/elixir-koans)
@@ -889,6 +890,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Deployment - ElixirForum.com](https://elixirforum.com/c/elixir-help/deployment)
 * [Elixir in the times of microservices - José Valim](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/)
 * [Elixir Deployment Tools - General Discussion, Blog Posts, Wiki - ElixirForum.com](https://elixirforum.com/t/elixir-deployment-tools-general-discussion-blog-posts-wiki/827)
+* [Elixir App Releasing Model - Sebastian Gębski (ElixirLive 2016)](https://www.youtube.com/watch?v=PFhOoQ4uyWc)
 * [Is Phoenix deployment really that hard? - Karol Słuszniak](http://cloudless.studio/articles/29-is-phoenix-deployment-really-that-hard)
 * [Understanding deps and applications in your Mixfile - João Britto](http://blog.plataformatec.com.br/2016/07/understanding-deps-and-applications-in-your-mixfile/)
 * conform: [source](https://github.com/bitwalker/conform)
@@ -1025,6 +1027,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * The Mix & OTP Guide: [(EPUB)](https://github.com/JamesLavin/my_tech_resources/raw/master/mix-and-otp.epub) | [Online](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 * [Creating Elixir libraries as OTP applications - Hubert Łępicki](https://www.amberbit.com/blog/2016/5/10/creating-elixir-libraries-as-otp-applications/)
 * [OTP in Elixir - Part 1 - Christian Di Lorenzo (Triangle Elixir 2016)](https://www.youtube.com/watch?v=_WgrfEaAM4Y)
+* [Extending OTP with Custom Behaviours - Michał Muskała (ElixirLive 2016)](https://www.youtube.com/watch?v=YCOmYsQCZEI)
 * [Chat Bot: A Practical Walkthrough of the powerful Features Elixir/Erlang/OTP - Jeff Weiss](https://www.youtube.com/watch?v=NrrUyRt_B1w)
 * [Finding the needle in the Haystack: Breadth First Search... The Elixir Way - Quentin Thomas](http://www.automatingthefuture.com/blog/2016/4/8/finding-the-needle-in-the-haystack-breadth-first-search)
 * [Re-architecting with Elixir/OTP and Pattern Matching - Mustafa Turan](https://medium.com/@mustafaturan/re-architecting-with-elixir-otp-and-pattern-matching-b452213c7947#.igjky3yv7)
@@ -1049,6 +1052,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PHOENIX
 
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
+* [Phoenix: an Intro to Elixir's Web Framework - Sonny Scroggin (NDC {London} 2017)](https://www.youtube.com/watch?v=F-7MX_Az6_4)
+* [Crowd-controlling a game with Elixir and Phoenix - Andrea Leopardi (NoSlidesConf Dec 2016)](https://www.youtube.com/watch?v=lYQ3WwCMTJI)
 * [What the fuss about Phoenix - Saša Jurić (WebCamp Zagreb 2016)](https://www.youtube.com/watch?v=3uJCwcBwfh4) & [slides](https://speakerdeck.com/sasajuric/whats-the-fuss-about-phoenix)
 * [ElixirConf 2016 Keynote on Phoenix 1.3- Chris McCord](https://www.youtube.com/watch?v=qPiZTxUAaVM)
 * [Rails to Phoenix - Brian Cardarella (RailsConf 2016)](https://www.youtube.com/watch?v=OxhTQdcieQE)
@@ -1058,7 +1063,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How We Replaced React With Phoenix - Blake Williams (Thoughtbot)](https://robots.thoughtbot.com/how-we-replaced-react-with-phoenix)
 * [Taking Off With Phoenix - Sonny Scroggin (Erlang Factory SF 2016)](https://www.youtube.com/watch?v=eSWNi5vRxU8) & [(NDC London 2016](https://vimeo.com/162047653)
 * [New Heights - Chris McCord (ElixirDaze 2016)](https://www.youtube.com/watch?v=E6RTBlO9TZQ)
-* Building Phoenix Battleships - Ricardo García Vega: [1: Designing the game mechanics](http://codeloveandboards.com/blog/2016/04/29/building-phoenix-battleship-pt-1/) | [2: Lobby Channel & Game Supervision](http://codeloveandboards.com/blog/2016/05/03/building-phoenix-battleship-pt-2/) | [3: Game setup](http://codeloveandboards.com/blog/2016/05/21/building-phoenix-battleship-pt-3/)
+* Building Phoenix Battleships - Ricardo García Vega: [1: Designing the game mechanics](http://codeloveandboards.com/blog/2016/04/29/building-phoenix-battleship-pt-1/) | [2: Lobby Channel & Game Supervision](http://codeloveandboards.com/blog/2016/05/03/building-phoenix-battleship-pt-2/) | [3: Game setup](http://codeloveandboards.com/blog/2016/05/21/building-phoenix-battleship-pt-3/) | [4: Placing ships on board](http://codeloveandboards.com/blog/2016/07/28/building-phoenix-battleship-pt-4/) | [5: Let the battle begin!](http://codeloveandboards.com/blog/2016/08/08/building-phoenix-battleship-pt-5/)
 * [Phoenix a web framework for the new web - José Valim (Lambda Days 2016)](https://www.youtube.com/watch?v=MD3P7Qan3pw) | [#pivorak Lviv Ruby MeetUp](https://www.youtube.com/watch?v=Toluc5MCQWs)
 * [Phoenix is not Rails - Chris McCord](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails)
 * [Ecto 2 and Phoenix Presence with José Valim and Chris McCord (Changelog)](https://changelog.com/podcast/208)
@@ -1460,6 +1465,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - PHOENIX & ELM
 
+* Phoenix and Elm, a real use case - Ricardo García Vega: [Part 1: Introduction to creating a SPA with Phoenix and Elm](http://codeloveandboards.com/blog/2017/02/02/phoenix-and-elm-a-real-use-case-pt-1/) | [Part 2: Rendering the initial contact list](http://codeloveandboards.com/blog/2017/02/08/phoenix-and-elm-a-real-use-case-pt-2/) | [Part 3: Adding full text search and pagination navigation to the contact list](http://codeloveandboards.com/blog/2017/02/14/phoenix-and-elm-a-real-use-case-pt-3/)
 * [Creating a Chatroom Using Phoenix, Elm, and Websockets - Jeremy Bellows](http://www.jeremybellows.com/blog/Creating-a-Chatroom-Using-Phoenix-Elm-And-Websockets)
 * [Connecting Elm with Phoenix using Channels - Simon Hampton](http://simonh1000.github.io/2016/05/elm-phoenix-channels/)
 
@@ -1772,6 +1778,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - DATA PIPELINES
 
+* [Basic Design in Functional Programming Languages - Tomasz Kowal (ElixirLive 2016)](https://www.youtube.com/watch?v=arYOSYrjC8s)
 * [Data pipelines from zero to solid - Lars Albertsson (Jfokus 2016)](https://www.youtube.com/watch?v=IVEl0bsTbdg)
 * [Scalable real-time processing techniques - Lars Albertsson (SICS)](https://www.youtube.com/watch?v=ayUqumHNBWY)
 * [Data pipelines - Lars Albertsson (NightHacking)](https://www.youtube.com/watch?v=888ApSPzuxo)
