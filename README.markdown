@@ -74,8 +74,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [James Altucher interview podcasts](http://www.stansberryradio.com/James-Altucher/Latest-Episodes)
 * [Kauffmann Founders School](http://www.entrepreneurship.org/Founders-School)
 * [Observatory of Economic Complexity (interactive international trade data displayed using D3)](http://atlas.media.mit.edu/en/visualize/tree_map/hs92/export/usa/all/show/2013/)
-* [Startup Success Podcast](http://startupsuccesspodcast.com/)
 * [First Round Review](http://firstround.com/review/)
+
+### BUSINESS - PODCASTS
+
+* [Startup Success Podcast](http://startupsuccesspodcast.com/)
+* [The Tim Ferriss Show](http://tim.blog/podcast/)
 
 ## CHARACTERS
 
@@ -783,6 +787,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Awesome Elixir - Curated list of Elixir/Erlang libraries, resources & shiny things](https://github.com/h4cc/awesome-elixir)
 * [Cheatsheet](https://www.dropbox.com/s/lr1t87rw4wfnyb3/elixir-cheat-sheet-v2.pdf?dl=0)
 * [Explicit Elixir - Paul Lamb (ElixirDaze 2016)](https://www.youtube.com/watch?v=sr5I5ncg0kU)
+* Elixir Examples: [Categorized](https://elixir-examples.github.io/) | [Single page](https://elixir-examples.github.io/single-page)
 * [What Elixir is About - José Valim (Erlang Factory SF 2015)](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
 * [Elixir: Easy fun for busy developers - David Schmitz (Devoxx 2016)](https://www.youtube.com/watch?v=naNN_gJas2A)
 * [A Completely Unbiased Showcase of Elixir - Andrea Leopardi (Erlang User Conference 2016)](https://www.youtube.com/watch?v=EPXZ6VLiZuo)
@@ -850,6 +855,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - BLOGS
 
 * [Big Nerd Ranch](https://www.bignerdranch.com/blog/?q=Elixir)
+* [East 5th](http://www.east5th.co/blog/)
 * [Elixir Radar](http://plataformatec.com.br/elixir-radar)
 * [ElixirStatus.com](http://elixirstatus.com/)
 * [Elixir Weekly](https://elixirweekly.net/)
@@ -911,7 +917,8 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ELIXIR - DEPLOYMENT - DISTILLERY
 
 * Distillery: [Github](https://github.com/bitwalker/distillery) | [Documentation](https://hexdocs.pm/distillery/getting-started.html)
-* [Deploying Elixir Applications With Distillery - Pete Corey](http://www.east5th.co/blog/2016/12/26/deploying-elixir-applications-with-distillery/)
+* [Elixir/Phoenix deployments using Distillery - Yuva](http://crypt.codemancers.com/posts/2016-10-06-elixir-phoenix-distillery/)
+* Pete Corey: [Deploying Elixir Applications With Distillery](http://www.east5th.co/blog/2016/12/26/deploying-elixir-applications-with-distillery/) | [Upgrade Releases With Distillery](http://www.east5th.co/blog/2017/01/09/upgrade-releases-with-distillery/) | [Simplifying Elixir Releases With eDeliver](http://www.east5th.co/blog/2017/01/16/simplifying-elixir-releases-with-edeliver/) | [Upgrade Releases With eDeliver](http://www.east5th.co/blog/2017/01/23/upgrade-releases-with-edeliver/)
 * [Storing Elixir Release Configuration in Environment Variables with Distillery - Brendan A R Sechter](http://sgeos.github.io/phoenix/elixir/erlang/ecto/distillery/postgresql/mysql/2016/09/18/storing-elixir-release-configuration-in-environment-variables-with-distillery.html)
 
 #### ELIXIR - DEPLOYMENT - DOCKER
@@ -946,7 +953,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - ECTO
 
 * Ecto: [documentation](https://hexdocs.pm/ecto/Ecto.html) | [Github](https://github.com/elixir-lang/ecto) | [discussion forum](https://groups.google.com/forum/#!forum/elixir-ecto)
-* [An Intro to Ecto: Using Ecto in Non-Phoenix Elixir Projects - Geoffrey Lessel (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=8j3DLfNI6Jw)
+* [Using Ecto outside of Phoenix by Geoffrey Lessel (Lonestar ElixirConf 2017)](https://www.youtube.com/watch?v=PWJpSRUJDwk) & [An Intro to Ecto: Using Ecto in Non-Phoenix Elixir Projects - Geoffrey Lessel (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=8j3DLfNI6Jw)
 * [Leveling Up With Ecto - Darin Wilson (ElixirConf 2016)](https://www.youtube.com/watch?v=QE7bpqpDoKo) | [code](https://github.com/darinwilson/music_db)
 * Lew Parker: [Diving into Ecto - 1](http://www.glydergun.com/diving-into-ecto/) | [Diving into Ecto - 2](http://www.glydergun.com/diving-into-ecto-part-2/) | [Ecto Query Library](http://www.glydergun.com/the-ecto-query-library/)
 * Understanding Elixir’s Ecto Querying DSL - Thomas Punt: [The Basics](https://www.sitepoint.com/understanding-elixirs-ecto-querying-dsl-the-basics/) | [Beyond the Basics](https://www.sitepoint.com/elixirs-ecto-querying-dsl-beyond-the-basics/)
@@ -982,6 +989,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - GENSTAGE
 
+* [GenStage and Flow - José Valim (Lambda Days 2017)](https://www.youtube.com/watch?v=XPlXNUXmcgE)
 * [Announcing GenStage - José Valim](http://elixir-lang.org/blog/2016/07/14/announcing-genstage/)
 * [GenStage in the Kitchen - Claudio Ortolina (Elixir.LDN 2016)](https://www.youtube.com/watch?v=M78r_PDlw2c)
 * [GenStage - José Valim (Elixir London June 2016))](https://www.youtube.com/watch?v=aZuY5-2lwW4)
@@ -1035,6 +1043,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PACKAGES
 
 * [Hex.pm (Erlang & Elixir package manager)](https://hex.pm/)
+* [Elixir Package Building & Publishing - Step by Step Guide From Scratch - Blackode](https://www.youtube.com/watch?v=Fh1fKF2tHk0)
 * [Apex: Awesome Print for Elixir](https://github.com/BjRo/apex)
 * [BEAM Toolbox: categorized catalog of Hex packages for Elixir and Erlang - Henrik Nyh](http://toolbox.elixir.pm/)
 * [CSV: CSV Decoding and Encoding](https://github.com/beatrichartz/csv)
@@ -1052,6 +1061,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PHOENIX
 
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
+* [Keynote: Phoenix 1.3 - Chris McCord (Lonestar ElixirConf 2017)](https://www.youtube.com/watch?v=tMO28ar0lW8) & [discussion](https://elixirforum.com/t/lonestar-elixirconf-2017-keynote-phoenix-1-3-by-chris-mccord/3908/12)
 * [Phoenix: an Intro to Elixir's Web Framework - Sonny Scroggin (NDC {London} 2017)](https://www.youtube.com/watch?v=F-7MX_Az6_4)
 * [Crowd-controlling a game with Elixir and Phoenix - Andrea Leopardi (NoSlidesConf Dec 2016)](https://www.youtube.com/watch?v=lYQ3WwCMTJI)
 * [What the fuss about Phoenix - Saša Jurić (WebCamp Zagreb 2016)](https://www.youtube.com/watch?v=3uJCwcBwfh4) & [slides](https://speakerdeck.com/sasajuric/whats-the-fuss-about-phoenix)
@@ -1110,6 +1120,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - PLUGS
 
+* [The Story of Conn in the world of Phoenix - Shankar Devy](http://shankardevy.github.io/code/elixir-phoenix-conn-request-life-cycle/)
 * [Phoenix: Plug.Conn](http://ricostacruz.com/cheatsheets/phoenix-conn.html)
 * [Überauth - Elixir Authentication System for Plug-based Web Applications](https://github.com/ueberauth/ueberauth)
 * Simple Guardian: [Github](https://github.com/ueberauth/guardian) | [Browser login](http://blog.overstuffedgorilla.com/simple-guardian/) | [API authentication](http://blog.overstuffedgorilla.com/simple-guardian-api-authentication/) | [User permissions](http://blog.overstuffedgorilla.com/simple-guardian-permissions/) | [Multiple sessions](http://blog.overstuffedgorilla.com/simple-guardian-multiple-sessions/)
@@ -1156,6 +1167,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography#elixir)
 * [Securing Elixir Applications - Bram Verburg (ElixirConfEU 2016)](https://www.youtube.com/watch?v=r0DuAse9tK8) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/078/original/Bram_Verburg_-_Securing_Elixir_Applications.pdf?1462946275)
+* [Paladin: JWT-based service to service protector for Elixir umbrella apps](https://github.com/opendoor-labs/paladin)
 
 ### ELIXIR - STREAMS
 
@@ -1200,6 +1212,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - VIDEOS
 
+* [Lone Star Elixir 2017](http://confreaks.tv/events/lonestarelixir2017)
+* [ElixirDaze 2017](http://confreaks.tv/events/elixirdaze2017)
 * [ElixirConf 2016](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYoiEKWny0Jj72iu564bVFD)
 * [Elixir.LDN 2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ivlIjzcaHS9N_Swe_0hWj0)
 * [Empire City Elixir Conf (EmpEx 2016)](https://www.youtube.com/watch?v=0SRBqHUGe28&list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
@@ -1796,6 +1810,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
 
+* [Practical Lambda Calculus - Jonas Winje, Einar Høst (Lambda Days 2017)](https://www.youtube.com/watch?v=G__eoJZB-zk)
 * [The Lambda Calculus, General Term Rewriting and Food Nutrition - Brian Beckman and Erik Meijer](https://channel9.msdn.com/Series/Beckman-Meijer-Overdrive/Beckman-Meijer-Overdrive-The-Lambda-Calculus-and-Food-Nutrition)
 * [Category Theory: The essence of interface-based design - Erik Meijer (Foo Cafe 2015)](https://www.youtube.com/watch?v=JMP6gI5mLHc)
 * [Category Theory for the Working Hacker - Philip Wadler](https://www.infoq.com/presentations/category-theory-propositions-principle)
@@ -2799,7 +2814,12 @@ Peter R. Egli:
 * [Weathering the Data Storm - Claudia Perlich (QConn New York 2014)](http://www.infoq.com/presentations/display-advertising-big-data)
 * [Google DeepMind: What is it, how does it work and should you be scared? - Sam Shead](http://www.techworld.com/personal-tech/google-deepmind-what-is-it-how-it-works-should-you-be-scared-3615354/)
 
-## MACHINE LEARNING & AI - VIDEOS
+### MACHINE LEARNING & AI - NEURAL NETWORKS
+
+* [How convolutional neural networks work - Brandon Rohrer](https://www.youtube.com/watch?v=FmpDIaiMIeA)
+* [How deep neural networks work - Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)
+
+### MACHINE LEARNING & AI - VIDEOS
 
 * [The Future of Artificial Intelligence - DeepMind CEO Demis Hassabis](https://www.youtube.com/watch?v=4fjmnOQuqao)
 
@@ -2976,6 +2996,7 @@ Peter R. Egli:
 ### NEWS - TECH
 
 * [Aeon](http://aeon.co/magazine/technology/)
+* [All Tech Considered](http://www.npr.org/sections/alltechconsidered/)
 * [Ars Technica](http://arstechnica.com/)
 * [Backchannel](https://backchannel.com/)
 * [BBC](http://www.bbc.com/news/technology)
@@ -2984,6 +3005,7 @@ Peter R. Egli:
 * [CNBC](http://www.cnbc.com/technology/)
 * [Cnet](http://www.cnet.com/news/)
 * [CNN](http://www.cnn.com/TECH/)
+* [The Conversation](http://theconversation.com/us/technology)
 * [Digital Journal](http://www.digitaljournal.com/technology)
 * [Discovery](http://news.discovery.com/tech)
 * [Engadget](http://www.engadget.com/)
