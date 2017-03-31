@@ -1363,6 +1363,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - 0.18
 
+* [Upgrading to 0.18](https://github.com/elm-lang/elm-platform/blob/master/upgrade-docs/0.18.md)
 * [Tasks in Elm 0.18: Changes for the Better - Bill Peregoy](https://becoming-functional.com/tasks-in-elm-0-18-2b64a35fd82e#.gvgsf5s9t)
 * [The Perfect Bug Report: Debugging With Elm 0.18 - Evan Czaplicki](http://elm-lang.org/blog/the-perfect-bug-report)
 * [Typed up CRUD SPA with Haskell and Elm - Part 6: Elm 0.18 Upgrade - Magnus Rundberget](http://rundis.github.io/blog/2016/haskel_elm_spa_part6.html)
@@ -1407,6 +1408,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Simon Hampton](http://simonh1000.github.io/blog/)
 * [Thoughtbot](https://robots.thoughtbot.com/tags/elm)
 * [Twitter - elmlang](https://twitter.com/elmlang?lang=en)
+
+### ELM - CHROME EXTENSIONS
+
+* [Writing a Chrome extension with Elm - Cezar Halmagean](https://mixandgo.com/blog/writing-a-chrome-extension-with-el://mixandgo.com/blog/writing-a-chrome-extension-with-elm)
 
 ### ELM - CODE EXAMPLES
 
@@ -1547,7 +1552,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [elm-make](https://github.com/elm-lang/elm-make)
 * [elm-new: Generates a project scaffolding for rapid prototyping of Elm apps - Simone Vittori](https://github.com/simonewebdesign/elm-new)
 * [elm-lang/navigation - SPA routing / managing browser navigation](https://github.com/elm-lang/navigation)
-* [elm-plot](https://github.com/terezka/elm-plot)
+* [elm-plot](https://github.com/terezka/elm-plot) & [examples](https://terezka.github.io/elm-plot/)
 * [elm-router - Hassan Hayat](https://github.com/TheSeamau5/elm-router)
 * [elm-route-hash - Ryan Rempel](https://github.com/rgrempel/elm-route-hash)
 * [elm-tutorial-app - Sebastian Porto](https://github.com/sporto/elm-tutorial-app)
@@ -1555,6 +1560,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [elm-web-api - Ryan Rempel](https://github.com/rgrempel/elm-web-api)
 * [generator-elmlang (for Yeoman) - Gizra](https://github.com/Gizra/generator-elmlang)
 * [react-elm-components: Write React components in Elm - Evan Czaplicki](https://github.com/evancz/react-elm-components)
+* [WebGL](http://package.elm-lang.org/packages/elm-community/webgl/2.0.0/WebGL)
 
 ### ELM - PHOENIX & ELM
 
