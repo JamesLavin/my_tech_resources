@@ -790,6 +790,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Elixir Examples: [Categorized](https://elixir-examples.github.io/) | [Single page](https://elixir-examples.github.io/single-page)
 * [What Elixir is About - José Valim (Erlang Factory SF 2015)](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
 * [Elixir: Easy fun for busy developers - David Schmitz (Devoxx 2016)](https://www.youtube.com/watch?v=naNN_gJas2A)
+* [Transforming Programming - Dave Thomas (Erlang & Elixir Factory 2017)](https://www.youtube.com/watch?v=A76hM3MpEKo)
 * [A Completely Unbiased Showcase of Elixir - Andrea Leopardi (Erlang User Conference 2016)](https://www.youtube.com/watch?v=EPXZ6VLiZuo)
 * [Elixir with José Valim](http://howistart.org/posts/elixir/1)
 * [Building a web framework from scratch in Elixir - Robert Lord](https://codewords.recurse.com/issues/five/building-a-web-framework-from-scratch-in-elixir)
@@ -856,10 +857,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Big Nerd Ranch](https://www.bignerdranch.com/blog/?q=Elixir)
 * [East 5th](http://www.east5th.co/blog/)
+* [Elixir Dose](http://www.elixirdose.com/)
 * [Elixir Radar](http://plataformatec.com.br/elixir-radar)
 * [ElixirStatus.com](http://elixirstatus.com/)
 * [Elixir Weekly](https://elixirweekly.net/)
 * [The Erlang eList](http://theerlangelist.com/)
+* [Hashrocket](https://til.hashrocket.com/elixir)
 * [Plataformatec](http://blog.plataformatec.com.br/tag/elixir/)
 * [The Pug Automatic - Henrik Nyh](http://thepugautomatic.com/)
 * [Red Shift](https://shift.infinite.red/tagged/elixir)
@@ -954,6 +957,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Ecto: [documentation](https://hexdocs.pm/ecto/Ecto.html) | [Github](https://github.com/elixir-lang/ecto) | [discussion forum](https://groups.google.com/forum/#!forum/elixir-ecto)
 * [Using Ecto outside of Phoenix by Geoffrey Lessel (Lonestar ElixirConf 2017)](https://www.youtube.com/watch?v=PWJpSRUJDwk) & [An Intro to Ecto: Using Ecto in Non-Phoenix Elixir Projects - Geoffrey Lessel (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=8j3DLfNI6Jw)
+* [Embrace the Database With Ecto - Josh Branchaud (ElixirDaze 2017)](https://www.youtube.com/watch?v=fFqsMWmONN4)
 * [Leveling Up With Ecto - Darin Wilson (ElixirConf 2016)](https://www.youtube.com/watch?v=QE7bpqpDoKo) | [code](https://github.com/darinwilson/music_db)
 * Lew Parker: [Diving into Ecto - 1](http://www.glydergun.com/diving-into-ecto/) | [Diving into Ecto - 2](http://www.glydergun.com/diving-into-ecto-part-2/) | [Ecto Query Library](http://www.glydergun.com/the-ecto-query-library/)
 * Understanding Elixir’s Ecto Querying DSL - Thomas Punt: [The Basics](https://www.sitepoint.com/understanding-elixirs-ecto-querying-dsl-the-basics/) | [Beyond the Basics](https://www.sitepoint.com/elixirs-ecto-querying-dsl-beyond-the-basics/)
@@ -1028,7 +1032,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - OTP
 
-* [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir)
+* [The ABCs of OTP - Jesse J Anderson (ElixirDaze 2017)](https://www.youtube.com/watch?v=8X0IWW2GJoQ) | [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir) | [resource links](https://gist.github.com/jessejanderson/16cbc0614e9194fa1b64460f775777ab)
 * Michael @ omgneering: [GenServer basics](https://www.youtube.com/watch?v=zC7TcrRi46Q) | [GenServer Callbacks and concurrency](Elixir GenServer callbacks and concurrency) | [Supervisor](https://www.youtube.com/watch?v=Gdf8JXeaPjw) | [Application (Part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM) | [Application (Part 2)](https://www.youtube.com/watch?v=rMwEQZewDyk)
 * [High availability with Elixir and Erlang - Saša Jurić (Full Stack Fest 2016)](https://www.youtube.com/watch?v=Ba3aCm3A0o8) & [High Availability - Saša Jurić](https://www.youtube.com/watch?v=wYttHG3S76Y)
 * [Per-user workers with custom queue processing (using GenServer and Supervisor) - Adam Hodowany](https://www.youtube.com/watch?v=19JakddwsV8)
@@ -1062,6 +1066,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
 * [Keynote: Phoenix 1.3 - Chris McCord (Lonestar ElixirConf 2017)](https://www.youtube.com/watch?v=tMO28ar0lW8) & [discussion](https://elixirforum.com/t/lonestar-elixirconf-2017-keynote-phoenix-1-3-by-chris-mccord/3908/12)
+* [Stateful Web Apps with Phoenix and OTP - Hannah Howard (Erlang & Elixir Factory SF 2017)](https://www.youtube.com/watch?v=rX6tC5K_XaI)
 * [Phoenix: an Intro to Elixir's Web Framework - Sonny Scroggin (NDC {London} 2017)](https://www.youtube.com/watch?v=F-7MX_Az6_4)
 * [Crowd-controlling a game with Elixir and Phoenix - Andrea Leopardi (NoSlidesConf Dec 2016)](https://www.youtube.com/watch?v=lYQ3WwCMTJI)
 * [What the fuss about Phoenix - Saša Jurić (WebCamp Zagreb 2016)](https://www.youtube.com/watch?v=3uJCwcBwfh4) & [slides](https://speakerdeck.com/sasajuric/whats-the-fuss-about-phoenix)
@@ -1212,6 +1217,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - VIDEOS
 
+* [Erlang & Elixir Factory SF 2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jtviHbf3fbBRWcaGDBC2u0)
 * [Lone Star Elixir 2017](http://confreaks.tv/events/lonestarelixir2017)
 * [ElixirDaze 2017](http://confreaks.tv/events/elixirdaze2017)
 * [ElixirConf 2016](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYoiEKWny0Jj72iu564bVFD)
@@ -1251,6 +1257,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
 * [Toward a Better Front End Architecture: Elm - Jeremy Fairbank (Codemash 2017)](https://www.youtube.com/watch?v=EDp6UmaA9CM)
+* [Elm: A Beginners' Guide to Elm and Data - Luke Westby & Jeff Schomay](https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940)
 * [Beginning Elm - Pawan Poudel](http://elmprogramming.com/)
 * [Commanding the Elm Architecture - Kyle Kress (Sept 2016)](https://www.bigmarker.com/joncfoo/Commanding-the-Elm-Architecture)
 * [Start Using Elm to Build Web Applications - Murphy Randle](https://egghead.io/courses/start-using-elm-to-build-web-applications)
@@ -1321,6 +1328,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Becoming-Functional (Bill Peregoy)](https://becoming-functional.com/)
 * [Brian Hicks](https://www.brianthicks.com/)
 * [Dennis Reimann](https://dennisreimann.de/articles/elm.html)
+* [Elm Shorts](https://medium.com/elm-shorts)
 * [Elm Weekly](http://www.elmweekly.nl/archive)
 * [elm-lang.org/blog](http://elm-lang.org/blog)
 * [Gizra](http://www.gizra.com/tags.html#Elm-ref)
@@ -1617,20 +1625,51 @@ Links to resources I have found useful or think might be helpful to future me or
 * [BEAM Wisdoms: collection of easy to read (ELI5) articles as well as in-depth knowledge such as VM internals, memory layout, opcodes](http://beam-wisdoms.clau.se/en/latest/)
 * [The Erlang VM or How I Stopped Worrying & Started Loving Parallel Programming - E.Stenman (GOTO 2013)](https://www.youtube.com/watch?v=ArRr4trTCjQ)
 
+### ERLANG - DEPLOYMENT
+
+#### ERLANG - DEPLOYMENT - AWS
+
+* [erlcloud: AWS APIs library for Erlang (Amazon EC2, S3, SQS, DDB, ELB and etc)](https://github.com/erlcloud/erlcloud)
+
 ### ERLANG - DISTRIBUTION
 
 * [Scaling Distributed Erlang - Zandra Norman (ElixirConfEu 2016)](https://www.youtube.com/watch?v=usEs3GPnZDg)
 
 ### ERLANG - DOCUMENTATION
 
-* [User's Guide](http://www.erlang.org/doc/apps/stdlib/users_guide.html) | [Reference Manual](http://www.erlang.org/doc/apps/stdlib/index.html) | [OTP Modules](http://erlang.org/doc/man_index.html)
+* Erlang/OTP System Documentation: [PDF](http://erlang.org/doc/pdf/otp-system-documentation.pdf) (includes both the _Getting Started_ guide and the _Reference Manual_)
+* Getting Started With Erlang User's Guide: [HTML](http://erlang.org/doc/getting_started/users_guide.html)
+* Erlang Reference Manual User's Guide: [HTML](http://erlang.org/doc/reference_manual/users_guide.html)
+* Applications:
+  * Crypto: [HTML](http://erlang.org/doc/apps/crypto/) & [PDF](http://erlang.org/doc/apps/crypto/crypto.pdf)
+  * Dialyzer: [HTML](http://erlang.org/doc/apps/dialyzer/) & [PDF](http://erlang.org/doc/apps/dialyzer/dialyzer.pdf)
+  * Diameter: [HTML](http://erlang.org/doc/apps/diameter/) & [PDF](http://erlang.org/doc/apps/diameter/diameter.pdf)
+  * Erlang Run-Time System App (ERTS): [HTML](http://erlang.org/doc/apps/erts/) & [PDF](http://erlang.org/doc/apps/erts/erts.pdf)
+  * Inets: [HTML](http://erlang.org/doc/apps/inets/) & [PDF](http://erlang.org/doc/apps/inets/inets.pdf)
+  * Kernel: [HTML](http://erlang.org/doc/apps/kernel/) & [PDF](http://erlang.org/doc/apps/kernel/kernel.pdf)
+  * Mnesia: [HTML](http://erlang.org/doc/apps/mnesia/) & [PDF](http://erlang.org/doc/apps/mnesia/mnesia.pdf)
+  * Observer: [HTML](http://erlang.org/doc/apps/observer/) & [PDF](http://erlang.org/doc/apps/observer/observer.pdf)
+  * ODBC: [HTML](http://erlang.org/doc/apps/odbc/) & [PDF](http://erlang.org/doc/apps/odbc/odbc.pdf)
+  * OS Mon: [HTML](http://erlang.org/doc/apps/os_mon/) & [PDF](http://erlang.org/doc/apps/os_mon/os_mon.pdf)
+  * ParseTools: [HTML](http://erlang.org/doc/apps/parsetools/) & [PDF](http://erlang.org/doc/apps/parsetools/parsetools.pdf)
+  * RelTool: [HTML](http://erlang.org/doc/apps/reltool/) & [PDF](http://erlang.org/doc/apps/reltool/reltool.pdf)
+  * RuntimeTools: [HTML](http://erlang.org/doc/apps/runtime_tools/) & [PDF](http://erlang.org/doc/apps/runtime_tools/runtime_tools.pdf)
+  * SASL (System Architecture Support Libraries): [HTML](http://erlang.org/doc/apps/sasl/) & [PDF](http://erlang.org/doc/apps/sasl/sasl.pdf)
+  * SSL: [HTML](http://erlang.org/doc/apps/ssl/) & [PDF](http://erlang.org/doc/apps/ssl/ssl.pdf)
+  * Std Lib User's Guide: [HTML](http://erlang.org/doc/apps/stdlib/users_guide.html) & [PDF](http://erlang.org/doc/apps/stdlib/stdlib.pdf)
+  * Std Lib Reference Manual: [HTML](http://erlang.org/doc/apps/stdlib/index.html) & PDF (I can't find the PDF for this)
+  * Tools: [HTML](http://erlang.org/doc/apps/tools/) & [PDF](http://erlang.org/doc/apps/tools/tools.pdf)
+  * Wx: [HTML](http://erlang.org/doc/apps/wx/) & [PDF](http://erlang.org/doc/apps/wx/wx.pdf)
+  * Xmerl: [HTML](http://erlang.org/doc/apps/xmerl/) & [PDF](http://erlang.org/doc/apps/xmerl/xmerl.pdf)
+  * [More docs](http://erlang.org/doc/apps/)
+  * [More modules](http://erlang.org/doc/man_index.html)
+  * [More library docs](http://erlang.org/documentation/doc-8.3/lib/)
 * [An Erlang Course](http://www.erlang.org/course)
 * [Erlang.org docs](http://erlang.org/doc/) | [erlang-questions (Google group)](https://groups.google.com/forum/#!forum/erlang-questions)
 * [ErlDocs.com](http://erldocs.com/)
 * [Getting Started with Erlang User's Guide - Ericsson](http://erlang.org/doc/getting_started/users_guide.html)
 * [System Principles User's Guide - Ericsson](http://erlang.org/doc/system_principles/system_principles.html)
 * [Erlang Reference Manual User's Guide - Ericsson ](http://erlang.org/doc/reference_manual/users_guide.html)
-* [Erlang/OTP System Documentation - Ericsson (PDF)](http://erlang.org/doc/pdf/otp-system-documentation.pdf)
 * [Programming Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml)
 * [Time in Elixir](http://learnyousomeerlang.com/time)
 
@@ -1643,10 +1682,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Erlang: The Movie](https://www.youtube.com/watch?t=113&v=xrIjfIjssLE)
 * [Erlang: The Movie II: The Sequel](https://www.youtube.com/watch?v=rRbY3TMUcgQ)
 
+### ERLANG - MONITORING & PERFORMANCE
+
+* Erlang Performance Lab (developer tool, not production monitoring): [website](http://www.erlang.pl/) | [Youtube](https://www.youtube.com/channel/UCGkcbu799cC1rtMaQtAajpg) | [Github](https://github.com/erlanglab/erlangpl) | [Twitter](https://twitter.com/erlanglab)
+* [Erlang Performance Lab - Michal Slaski (Erlang & Elixir Factory SF 2017)](https://www.youtube.com/watch?v=ncedupb-Rqw)
+
 ### ERLANG - OTP
 
 * [Essential Erlang/OTP - Garrett Smith](https://www.youtube.com/watch?v=0ZGHzI9F5YE)
 * [OTP Has Done It - Nick DeMonner (ElixirConf 2015)](https://www.youtube.com/watch?v=yBReonQlfL4)
+* [The Pooler Story: How I Learned OTP by Writing a Connection Pool - Seth Falcon (Erlang Factory SF 2013)](https://www.youtube.com/watch?v=BTuJtqvbpI8)
 * [The Zen of Erlang - Fred Hebert (Reactive Summit 2016)](https://www.youtube.com/watch?v=4ZIPijEqrNI)
 * [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM)
 * [OTP in Elixir: Part 1 - Christian Di Lorenzo (Triangle |> Elixir)](https://www.youtube.com/watch?v=_WgrfEaAM4Y)
@@ -1807,6 +1852,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Controlling Time and Space: Understanding the Many Formulations of FRP - Evan Czaplicki (StrangeLoop 2014)](https://www.youtube.com/watch?v=Agu6jipKfYw)
 * [Observables Everywhere - Jeremy Foster (2016)](https://channel9.msdn.com/Blogs/seattlejs/2016-01-14-01)
 * [Incremental computations and the web (OCaml) - Yaron Minsky (Jane Street)](http://blog.functionalworks.com/building-web-applications-without-really-trying)
+
+### FUNCTIONAL PROGRAMMING - HISTORY
+
+* [Keynote: Why Functional Programming Matters - John Hughes, Mary Sheeran (Lambda Days 2017)](https://www.youtube.com/watch?v=1qBHf8DrWR8)
+* [Some History of Functional Programming Languages - David Turner (Lambda Days 2017)](https://www.youtube.com/watch?v=QVwm9jlBTik)
 
 ### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
 
@@ -3037,6 +3087,7 @@ Peter R. Egli:
 * [Reuters](http://www.reuters.com/news/technology)
 * [ScienceDaily](http://www.sciencedaily.com/news/matter_energy/technology/)
 * [Seattle Times](http://www.seattletimes.com/business/technology/)
+* [Second Nexus](http://secondnexus.com/category/technology-and-innovation/)
 * [Singularity Hub](http://singularityhub.com/)
 * [Slashdot](http://slashdot.org/)
 * [The Stack](https://thestack.com/)
@@ -3212,6 +3263,7 @@ Peter R. Egli:
 * [Dr. Dobbs](http://www.drdobbs.com/blogs/)
 * [The Effective Engineer - Edmond Lau](http://www.theeffectiveengineer.com/)
 * [TheGeekStuff.com](http://www.thegeekstuff.com/)
+* [Hacker Noon](https://hackernoon.com/)
 * [Jeff Atwood - "Coding Horror"](http://blog.codinghorror.com/)
 * [Joel Spolsky - JoelOnSoftware.com](http://www.joelonsoftware.com/)
 * [MartinFowler.com](http://martinfowler.com/)
