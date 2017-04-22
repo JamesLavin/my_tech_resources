@@ -27,10 +27,6 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Algorithms for Animation - Courtney Hemphill](https://youtu.be/GrloJWKBGtg)
 
-## ARCHITECTURE
-
-* [DevOps @ Amazon: Microservices, 2 Pizza Teams, & 50 Million Deploys a Year - Chris Munns (Canadian Executive Cloud & DevOps Summit 2016)](https://www.youtube.com/watch?v=DBluxFsvksk)
-
 ## BLOCKCHAINS
 
 * [What the #?!* is Bitcoin? - Jeremy Rubin (TEDxBeaconStreet)](https://www.youtube.com/watch?v=Vzjtvt77mgc)
@@ -426,7 +422,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Acquiring DevOps Skills - Pavel Suchman (DevCon TLV 2014)](http://confreaks.tv/videos/3293-devcontlvjan2014-acquiring-devops-skills)
 * [Configuration Management ROI - Evgeny Zislis (DevCon TLV 2014)](http://confreaks.tv/videos/3294-devcontlvjan2014-configuration-management-roi)
 * [Continuous Deployment - Matt White (MountainWest RubyConf 2012)](http://confreaks.tv/videos/967-mwrc2012-continuous-deployment)
-* [Enabling Microservices @ Orbitz by Steve Hoffman (DevOpsDays Chicago 2015)](https://www.youtube.com/watch?t=342&v=-hrleJ2TVAI)
 * FutureStack conference videos: [14](https://www.youtube.com/playlist?list=PLmhYj7Jl81JGhEQnFGbWVLkGWEzFXzdzr) | [13](https://www.youtube.com/playlist?list=PLmhYj7Jl81JEMKm0LFHjn25GV6gUUU9IR)
 
 ### DEVOPS - ANSIBLE
@@ -552,6 +547,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Microcontainers – Tiny, Portable Docker Containers - Iron.io](http://www.iron.io/blog/2016/01/microcontainers-tiny-portable-containers.html)
 * [Uber tiny Docker images for all the things (Ruby, Elixir, Python, etc.) - Iron.io](https://github.com/iron-io/dockers)
+* [LinuxKit: Toolkit for building secure, portable and lean operating systems for containers](https://github.com/linuxkit/linuxkit)
 
 #### DEVOPS - DOCKER - MULTIHOST ORCHESTRATION
 
@@ -1009,8 +1005,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Function Currying in Elixir - Patrik Storm](http://blog.patrikstorm.com/function-currying-in-elixir)
 * [Currying packages](https://hex.pm/packages?search=curry&sort=downloads)
 
-### ELIXIR - GENSTAGE
+### ELIXIR - GENSTAGE & FLOW
 
+* [Small data with Elixir - José Valim](http://blog.plataformatec.com.br/2017/03/small-data-with-elixir/)
 * [GenStage and Flow - José Valim (Lambda Days 2017)](https://www.youtube.com/watch?v=XPlXNUXmcgE)
 * [Announcing GenStage - José Valim](http://elixir-lang.org/blog/2016/07/14/announcing-genstage/)
 * [GenStage in the Kitchen - Claudio Ortolina (Elixir.LDN 2016)](https://www.youtube.com/watch?v=M78r_PDlw2c)
@@ -1769,14 +1766,19 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/#/)
 
-## EVENT SOURCING & CQRS
+## EVENT SOURCING, CQRS & MICROSERVICES
 
 * [CQRS Journey - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
 * Developing Transactional Microservices Using Aggregates, Event Sourcing and CQRS - Chris Richardson: [Part 1](https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-1-richardson) & [Part 2](https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-2-richardson)
 * [Events Are Not Just for Notifications - Greg Young (QCon 2011)](https://www.infoq.com/presentations/Events-Are-Not-Just-for-Notifications)
 * [Commander: Better Distributed Applications through CQRS and Event Sourcing - Bobby Calderwood](https://www.youtube.com/watch?v=B1-gS0oEtYc)
+* [Intro to CQRS and Event Sourcing Patterns - Mathew McLoughlin](https://www.youtube.com/watch?v=9a1PqwFrMP0)
+* [Intro to CQRS - Event Sourcing, Distributed Systems, & CQRS - Sebastian Daschner](https://www.youtube.com/watch?v=qJA6MaQ90YY)
 * [Distributed Commit Log: Application Techniques for Transaction Processing - David McNeil](https://www.youtube.com/watch?v=X2g0FFOV2e0)
+* [A Decade of DDD, CQRS, Event Sourcing - Greg Young (Domain-Driven Design Europe)](https://www.youtube.com/watch?v=LDW0QWie21s)
+* [What if we stored events instead of state? - Jef Claes](https://www.slideshare.net/jclaes/what-if-we-stored-events-instead-of-state)
 * [Building Microservices with Event Sourcing and CQRS - Michael Ploed](https://www.youtube.com/watch?v=A0goyZ9F4bg)
+* [Microservices Resource Guidei - Martin Fowler](https://martinfowler.com/microservices/)
 * [Event Store and Web Applications - Greg Young](https://www.infoq.com/presentations/event-store-web-apps)
 * [Event Sourcing and Stream Processing at Scale - Martin Kleppmann](https://www.youtube.com/watch?v=avi-TZI9t2I)
 * [CQRS/DDD by Greg Young (Professional.NET 2011)](https://www.youtube.com/watch?v=KXqrBySgX-s)
@@ -1791,13 +1793,46 @@ Links to resources I have found useful or think might be helpful to future me or
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
 * Konrad Garus: [Intro to Event Sourcing and Command-Query Responsibility Segregation](http://squirrel.pl/blog/2015/08/31/introduction-to-event-sourcing-and-command-query-responsibility-segregation/) | [Achieving Consistency in CQRS with Linear Event Store](http://squirrel.pl/blog/2015/09/14/achieving-consistency-in-cqrs-with-linear-event-store/) | [Writing an Event-Sourced CQRS Read Model](http://squirrel.pl/blog/2015/09/22/writing-an-event-sourced-cqrs-read-model/) | [Persistence in CQRS Read Models](http://squirrel.pl/blog/2015/09/28/persistence-in-cqrs-read-models/)
 
-### EVENT SOURCING & CQRS - PROCESS MANAGERS & SAGAS
+### EVENT SOURCING, CQRS & MICROSERVICES - KAFKA
+
+* [kafka.apache.org](http://kafka.apache.org/)
+    * [Intro](http://kafka.apache.org/intro)
+    * [Quickstart](http://kafka.apache.org/quickstart)
+    * [Use Cases](http://kafka.apache.org/uses)
+    * [Documentation](http://kafka.apache.org/documentation/)
+    * [Performance](http://kafka.apache.org/performance)
+    * [Powered By](http://kafka.apache.org/powered-by)
+    * [Papers & Presentations](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations)
+    * [Wiki](https://cwiki.apache.org/confluence/display/KAFKA/Index)
+    * [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
+* Confluent.io: [Blog](https://www.confluent.io/blog/) | [Resources](https://www.confluent.io/resources/)
+* [Apache Kafka and the Next 700 Stream Processing Systems - Jay Kreps](https://www.youtube.com/watch?v=9RMOc0SwRro)
+* [Reducing Microservice Complexity with Kafka and Reactive Streams - Jim Riecken (Scala Days New York 2016)](https://www.youtube.com/watch?v=k_Y5ieFHGbs)
+* [Understanding Kafka with Legos - Jesse Anderson](https://www.youtube.com/watch?v=Q5wOegcVa8E)
+* [ETL Is Dead, Long Live Streams: real-time streams w/ Apache Kafka - Neha Narkhede](https://www.youtube.com/watch?v=I32hmY4diFY)
+
+### EVENT SOURCING, CQRS & MICROSERVICES - PROCESS MANAGERS & SAGAS
 
 * [A Saga on Sagas - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/jj591569.aspx)
 * [Applying the Saga Pattern - Caitie McCaffrey (GOTO 2015)](https://www.youtube.com/watch?v=xDuwrtwYHu8)
 * [Failing (and recovering) asynchronously: a saga - Daniel Solano Gómez](https://www.youtube.com/watch?v=YYIluVvqQH8)
 * [Long Running Processes with Event Sourcing and CQRS - Andriy Drozdyuk](https://medium.com/@drozzy/long-running-processes-event-sourcing-cqrs-c87fbb2ca644)
+* [Microservices + Events + Docker = A Perfect Trio - Chris Richardson](https://www.youtube.com/watch?v=pD0rEtEEwck)
 * [The Saga Pattern - Robert Pankowecki (wroc_love.rb 2016)](https://www.youtube.com/watch?v=ECvDJ5ULgN8)
+
+## EVENT SOURCING, CQRS & MICROSERVICES - STORIES
+
+* [DevOps @ Amazon: Microservices, 2 Pizza Teams, & 50 Million Deploys a Year - Chris Munns (Canadian Executive Cloud & DevOps Summit 2016)](https://www.youtube.com/watch?v=DBluxFsvksk) & [slides](https://www.slideshare.net/TriNimbus/chris-munns-devops-amazon-microservices-2-pizza-teams-50-million-deploys-a-year)
+* [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned - R. Meshenberg (GOTO Amsterdam 2016)](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+* [Enabling Microservices @ Orbitz by Steve Hoffman (DevOpsDays Chicago 2015)](https://www.youtube.com/watch?t=342&v=-hrleJ2TVAI)
+* [What I Wish I Had Known Before Scaling Uber to 1000 Services - Matt Ranney (GOTO Conf)](https://www.youtube.com/watch?v=kb-m2fasdDY)
+* [Mastering Chaos - A Netflix Guide to Microservices - Josh Evans](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+* [Microservices @ Spotify - Kevin Goldsmith](https://www.youtube.com/watch?v=7LGPeBgNFuU)
+* [Messaging and Microservices - Clemens Vasters (GOTO Amsterdam 2016)](https://www.youtube.com/watch?v=rXi5CLjIQ9k)
+* [From Monolith to Microservices at Zalando - Rodrigue Schaefer (GOTO Stockholm 2016)](https://www.youtube.com/watch?v=gEeHZwjwehs)
+* [The Microservices Journey from a Startup Perspective - Susanne Kaiser (GOTO Berlin 2016)](https://www.youtube.com/watch?v=1BKp616GPQE)
+* [The Frontend Taboo: a Story of Full Stack Microservices - Luis Mineiro & Moritz Grauel (GOTO Berlin 2016)](https://www.youtube.com/watch?v=vCzTK4XPfX8)
+* [DDD & Microservices: At Last, Some Boundaries! - Eric Evans (GOTO Berlin 2015)](https://www.youtube.com/watch?v=yPvef9R3k-M)
 
 ## EXERCISE
 
@@ -5360,14 +5395,20 @@ Peter R. Egli:
 
 * [Tmux Quickstart Guide - Sam Livingston-Gray](https://www.youtube.com/watch?v=wKEGA8oEWXw)
 * [Humans Present: tmux - Thoughtbot](https://www.youtube.com/watch?v=CKC8Ph-s2F4)
+* Keegan Lowenstein: [Benefits of using tmux - lessons from streamlining a dev environment](https://blog.bugsnag.com/benefits-of-using-tmux/) & [Tmux & Vim - even better together](https://blog.bugsnag.com/tmux-and-vim/)
 * [A tmux Primer (on persistent remote sessions) - Daniel Miessler](https://danielmiessler.com/study/tmux/)
 * [ArchLinux Tmux wiki](https://wiki.archlinux.org/index.php/Tmux)
-* [The Tao of Tmux](http://tmuxp.readthedocs.org/en/latest/about_tmux.html)
+* [The Tao of Tmux](https://leanpub.com/the-tao-of-tmux/read)
 * [10 Killer Tmux Tips - Benjamin Tan Wei Hao](http://www.sitepoint.com/10-killer-tmux-tips/)
 * [Impressive Ruby Productivity with Vim and Tmux - Chris Hunt](http://confreaks.tv/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux) & [Ancient City Ruby 2013](https://www.youtube.com/watch?v=9jzWDr24UHQ)
 * [man page](http://www.openbsd.org/cgi-bin/man.cgi?query=tmux&sektion=1)
 * [FAQ](http://sourceforge.net/p/tmux/tmux-code/ci/master/tree/FAQ)
 * [Pair Programming With Tmux - Flaviu Simihaian](http://www.youtube.com/watch?v=za8FMIWYtUc)
+
+### TMUX - AUTOMATION / SCRIPTING
+
+* [tmuxp](https://github.com/tony/tmuxp)
+* [TmuxP documentation](http://tmuxp.readthedocs.org/en/latest/about_tmux.html)
 
 ### TMUX - BASICS
 
