@@ -179,6 +179,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Understanding JSON Schema - Michael Droettboom et al.](http://spacetelescope.github.io/understanding-json-schema/) & [PDF](http://spacetelescope.github.io/understanding-json-schema/UnderstandingJSONSchema.pdf)
 * [prmd - JSON Schema tools and doc generation for HTTP APIs](https://github.com/interagent/prmd)
 
+##### CLEAN CODE - APIS - DOCUMENTING - SWAGGER / OPENAPI
+
+* [Swagger.io](http://swagger.io/) | [Swagger Editor](http://swagger.io/swagger-editor/) | [Specification](http://swagger.io/specification/) | [Explanatory docs](http://swagger.io/docs/specification/what-is-swagger/) | [Github](https://github.com/OAI/OpenAPI-Specification)
+* PetStore example: [Running](http://petstore.swagger.io/) | [JSON files](https://github.com/OAI/OpenAPI-Specification/tree/master/examples/v2.0/json) | [YAML files](https://github.com/OAI/OpenAPI-Specification/tree/master/examples/v2.0/yaml)
+* OpenAPI Specification Journey - Arnaud Lauret: [1 - Intro](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/) | [2 - Basics](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-2-the-basics/) | [3 - Simplifying spec file](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-3-simplifying-specification-file/) | [4 - Advanced Data](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-4-advanced-data-modeling/) | [5 - Advanced Input & Output Modeling](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-5-advanced-input-and-output-modeling/) | [6 - Defining Security](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-6-defining-security/) | [7 - Documentation](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-7-documentation/) | [8 - Splitting the spec file](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-8-splitting-specification-file/) | [9 - Extending the OpenAPI Spec](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-9-extending-the-openapi-specification/)
+* [Learn API Doc - Tom Johnson](http://idratherbewriting.com/learnapidoc/)
+
 ### CLEAN CODE - CODE CLIMATE
 
 * Code Climate: [Open source projects](https://codeclimate.com/oss) | [Platform](https://codeclimate.com/platform) | [Free service for open source projects](https://codeclimate.com/github/signup)
@@ -292,6 +299,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [OpenStreetMap](http://wiki.openstreetmap.org/wiki/API)
 * [OpenWeatherMap](http://openweathermap.org/api) (weather)
 * [ProPublica](https://projects.propublica.org/data-store/)
+* [Public APIs](https://public.apis.zone/)
 * [Quandl](http://www.quandl.com/help/python), [Github](https://github.com/quandl/Python) & [example iPython notebook](http://nbviewer.ipython.org/url/www.logilab.org/file/187482/raw/quandl-data-with-pandas.ipynb)
 * [Reuters](https://customers.reuters.com/developer/apis_tech.aspx)
 * [Salesforce](http://www.salesforce.com/us/developer/docs/api/), [pyforce](https://pypi.python.org/pypi/pyforce/1.4), [simple-salesforce](https://pypi.python.org/pypi/simple-salesforce), [salesforce-python-toolkit](https://code.google.com/p/salesforce-python-toolkit/) & [example](https://developer.salesforce.com/blogs/developer-relations/2014/01/python-and-the-force-com-rest-api-simple-simple-salesforce-example.html)
@@ -1283,7 +1291,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Beginning Elm - Pawan Poudel](http://elmprogramming.com/)
 * [Commanding the Elm Architecture - Kyle Kress (Sept 2016)](https://www.bigmarker.com/joncfoo/Commanding-the-Elm-Architecture)
 * [Start Using Elm to Build Web Applications - Murphy Randle](https://egghead.io/courses/start-using-elm-to-build-web-applications)
+* [Exercism.io](http://exercism.io/languages/elm/about)
 * Elmbridge Curriculum: [PDF](https://www.gitbook.com/download/pdf/book/raorao/elmbridge-curriculum) | [website](https://raorao.gitbooks.io/elmbridge-curriculum/content/)
+* [Branching Out with Elm - Dave Fancher (NDC Conferences 2017)](https://www.youtube.com/watch?v=Rjy3W5LqBeM)
 * Andy Balaam: [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) & [Elm makes me happy](https://www.youtube.com/watch?v=8pPO9kM2N5I)
 * [Elm and Web Components - Richard Feldman (React Vienna 2016)](https://www.youtube.com/watch?list=PLwuxQEGOXhN5v6E-mzqujkWlq8ZY0dxCR&v=ar3TakwE8o0) & [elm-google-maps - Richard Feldman](https://github.com/rtfeldman/elm-google-maps) & [elm-polymer-calendar - Fred Yankowski](https://github.com/fredcy/elm-polymer-calendar)
 * [Elm, putting the fun in functional - Philip Poots (LondonJS 2016)](https://www.youtube.com/watch?v=oejptx252W8)
@@ -1769,9 +1779,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ## EVENT SOURCING, CQRS & MICROSERVICES
 
 * [CQRS Journey - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
+* [Introduction to CQRS and Event Sourcing Patterns - Mathew McLoughlin (NDC Conference 2017)](https://www.youtube.com/watch?v=9a1PqwFrMP0) & [example code](https://github.com/mat-mcloughlin/PatientMangement)
 * Developing Transactional Microservices Using Aggregates, Event Sourcing and CQRS - Chris Richardson: [Part 1](https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-1-richardson) & [Part 2](https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-2-richardson)
 * [Events Are Not Just for Notifications - Greg Young (QCon 2011)](https://www.infoq.com/presentations/Events-Are-Not-Just-for-Notifications)
-* [Commander: Better Distributed Applications through CQRS and Event Sourcing - Bobby Calderwood](https://www.youtube.com/watch?v=B1-gS0oEtYc)
+* [Commander: Better Distributed Applications through CQRS and Event Sourcing - Bobby Calderwood](https://www.youtube.com/watch?v=B1-gS0oEtYc) & [code](https://github.com/capitalone/cqrs-manager-for-distributed-reactive-services)
 * [Intro to CQRS and Event Sourcing Patterns - Mathew McLoughlin](https://www.youtube.com/watch?v=9a1PqwFrMP0)
 * [Intro to CQRS - Event Sourcing, Distributed Systems, & CQRS - Sebastian Daschner](https://www.youtube.com/watch?v=qJA6MaQ90YY)
 * [Distributed Commit Log: Application Techniques for Transaction Processing - David McNeil](https://www.youtube.com/watch?v=X2g0FFOV2e0)
@@ -1781,6 +1792,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Microservices Resource Guidei - Martin Fowler](https://martinfowler.com/microservices/)
 * [Event Store and Web Applications - Greg Young](https://www.infoq.com/presentations/event-store-web-apps)
 * [Event Sourcing and Stream Processing at Scale - Martin Kleppmann](https://www.youtube.com/watch?v=avi-TZI9t2I)
+* Developing Microservices With Aggregates - Chris Richardson: [(SpringOne Platform 2016)](https://www.youtube.com/watch?v=7kX3fs0pWwc) & [(Devox US 2017)](https://www.youtube.com/watch?v=gR_EGN86fvg) & [slides (SpringOne Platform 2016](https://www.slideshare.net/chris.e.richardson/developing-microservices-with-aggregates-springone-platform-s1p) & [slides (DevNexus 2017)](https://www.slideshare.net/chris.e.richardson/developing-microservices-with-aggregates-devnexus2017) & [slides (Munich Microservices Meetup 2015)](https://www.slideshare.net/chris.e.richardson/building-and-deploying-microservices-with-event-sourcing-cqrs-and-docker-microxchg-munich-microservices-meetup-2015)
 * [CQRS/DDD by Greg Young (Professional.NET 2011)](https://www.youtube.com/watch?v=KXqrBySgX-s)
 * [Event Sourcing - Martin Fowler](http://martinfowler.com/eaaDev/EventSourcing.html)
 * [Event Sourcing - Bryan Reinero (GoRuCo 2015)](http://confreaks.tv/videos/goruco2015-event-sourcing)
@@ -1809,6 +1821,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Apache Kafka and the Next 700 Stream Processing Systems - Jay Kreps](https://www.youtube.com/watch?v=9RMOc0SwRro)
 * [Reducing Microservice Complexity with Kafka and Reactive Streams - Jim Riecken (Scala Days New York 2016)](https://www.youtube.com/watch?v=k_Y5ieFHGbs)
 * [Understanding Kafka with Legos - Jesse Anderson](https://www.youtube.com/watch?v=Q5wOegcVa8E)
+* [Developing Real-Time Data Pipelines with Apache Kafka - Joe Stein](https://www.youtube.com/watch?v=GRPLRONVDWY)
+* [Reactive Kafka - Rajini Sivaram (SpringOne Platform 2016)](https://www.youtube.com/watch?v=-ioxYn9Vlao)
 * [ETL Is Dead, Long Live Streams: real-time streams w/ Apache Kafka - Neha Narkhede](https://www.youtube.com/watch?v=I32hmY4diFY)
 
 ### EVENT SOURCING, CQRS & MICROSERVICES - PROCESS MANAGERS & SAGAS
@@ -1820,7 +1834,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Microservices + Events + Docker = A Perfect Trio - Chris Richardson](https://www.youtube.com/watch?v=pD0rEtEEwck)
 * [The Saga Pattern - Robert Pankowecki (wroc_love.rb 2016)](https://www.youtube.com/watch?v=ECvDJ5ULgN8)
 
-## EVENT SOURCING, CQRS & MICROSERVICES - STORIES
+### EVENT SOURCING, CQRS & MICROSERVICES - PRODUCTS/SERVICES
+
+* [Eventuate.io](http://eventuate.io/) \ [Github](https://github.com/eventuate-local/eventuate-local)
+* [GetEventStore.com](https://geteventstore.com/)
+
+### EVENT SOURCING, CQRS & MICROSERVICES - STORIES
 
 * [DevOps @ Amazon: Microservices, 2 Pizza Teams, & 50 Million Deploys a Year - Chris Munns (Canadian Executive Cloud & DevOps Summit 2016)](https://www.youtube.com/watch?v=DBluxFsvksk) & [slides](https://www.slideshare.net/TriNimbus/chris-munns-devops-amazon-microservices-2-pizza-teams-50-million-deploys-a-year)
 * [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned - R. Meshenberg (GOTO Amsterdam 2016)](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
@@ -1968,7 +1987,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - PODCASTS
 
+* [FPCasts.com: list of FP podcasts](https://www.fpcasts.com/)
 * [FunctionalGeekery.com](https://www.functionalgeekery.com)
+* LambdaCast: [SoundCloud](https://soundcloud.com/lambda-cast) & [iTunes](https://itunes.apple.com/us/podcast/lambdacast/id1133087254?mt=2)
 
 ### FUNCTIONAL PROGRAMMING - VIDEOS
 
@@ -5318,6 +5339,10 @@ Peter R. Egli:
 
 * [LetsEncrypt.org](https://letsencrypt.org/) | [Github](https://github.com/letsencrypt/letsencrypt) | [Twitter](https://twitter.com/letsencrypt)
 * [Free HTTPS certs for all – Let's Encrypt opens doors to world+dog](http://www.theregister.co.uk/2015/12/03/letsencrypt_public_beta/)
+
+### SECURITY - WEB
+
+* [Defense Against the Dark Arts: CSRF Attacks - Richard Feldman](https://dev.to/rtfeldman/defense-against-the-dark-arts-csrf-attacks)
 
 ## SHOPPING TOOLS
 
