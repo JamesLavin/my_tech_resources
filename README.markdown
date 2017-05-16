@@ -998,6 +998,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - EVENT SOURCING/CQRS
 
+* [Building CQRS/ES web applications in Elixir using Phoenix - Ben Smith](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/)
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
 * [Event Sourcing and CQRS in Elixir - ElixirForum.com](http://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519/4)
 * [DDD/CQRS/ES/NoSQL and functional programming](https://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519)
@@ -1498,8 +1499,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - PACKAGES
 
-* [Trending packages on Github](https://github.com/trending/elm?since=daily)
+* [Elm package documentation](http://package.elm-lang.org/packages/elm-lang/core/latest)
 * [Elm search (by function name or approximate type signature)](http://klaftertief.github.io/elm-search/)
+* [Elmalytics: view the Elm package and project ecosystem at a high level](http://elmalytics.xyz/)
+* [Trending packages on Github](https://github.com/trending/elm?since=daily)
 * [Elm package repository](http://package.elm-lang.org/)
 * [A Form Validation Library for Elm: My First Published Library for Elm - Bill Peregoy](https://becoming-functional.com/a-form-validation-library-for-elm-82ef8c7c39d9#.jxqwhpwxb)
 * [elm-audio](https://github.com/jcollard/elm-audio)
@@ -1778,7 +1781,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/#/)
 
-## EVENT SOURCING, CQRS & MICROSERVICES
+## EVENT SOURCING, CQRS, DDD, & MICROSERVICES
 
 * [Event Sourcing, Distributed Systems & CQRS - Sebastian Daschner](https://www.youtube.com/watch?v=CYocFQvl6s0&list=PLEV9ul4qfGOZ5gWIPMlFGMUpenSs1EvxZ)
 * [CQRS Journey - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
@@ -1787,11 +1790,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Events Are Not Just for Notifications - Greg Young (QCon 2011)](https://www.infoq.com/presentations/Events-Are-Not-Just-for-Notifications)
 * [The Evolution of Microservices - Adrian Cockcroft (Association for Computing Machinery (ACM) 2016)](https://www.youtube.com/watch?v=Mg4Cs2K7f98)
 * [Principles Of Microservices - Sam Newman (Devoxx US 2015)](https://www.youtube.com/watch?v=PFQnNFe27kU)
+* [DDD-CQRS-ES Slack group](http://ddd-cqrs-es.herokuapp.com/)
+* [DDD/CQRS/Event Sourcing/Whatever Google group](https://groups.google.com/forum/#!forum/dddcqrs)
 * InfoQ: [Microservices resources](https://www.infoq.com/microservices/) | [CQRS resources](https://www.infoq.com/cqrs/) | [Reactive programming resources](https://www.infoq.com/reactive-programming/) | [Streaming resources](https://www.infoq.com/streaming/) | [Container resources](https://www.infoq.com/containers/)
 * [Steve Yegge's Google Platforms Rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX?hl=en)
 * [CQRS & Event Sourcing blog - Daniel Whittaker](http://danielwhittaker.me/)
 * [The 6 Rules for Modernizing Your Legacy Java Monolith with Microservices - Kevin Webber (Lightbend)](https://www.youtube.com/watch?v=A-IMfF15FZA)
 * [Commander: Better Distributed Applications through CQRS and Event Sourcing - Bobby Calderwood](https://www.youtube.com/watch?v=B1-gS0oEtYc) & [code](https://github.com/capitalone/cqrs-manager-for-distributed-reactive-services)
+* [Built to last: A domain-driven approach to beautiful systems - Andrew Hao](https://www.youtube.com/watch?v=52qChRS4M0Y)
 * [Conflict Resolution for Eventual Consistency - Martin Kleppmann (GOTO 2016)](https://www.youtube.com/watch?v=yCcWpzY8dIA)
 * [Intro to CQRS and Event Sourcing Patterns - Mathew McLoughlin](https://www.youtube.com/watch?v=9a1PqwFrMP0)
 * [Intro to CQRS - Event Sourcing, Distributed Systems, & CQRS - Sebastian Daschner](https://www.youtube.com/watch?v=qJA6MaQ90YY)
@@ -1802,6 +1808,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Microservices Resource Guidei - Martin Fowler](https://martinfowler.com/microservices/)
 * [Event Store and Web Applications - Greg Young](https://www.infoq.com/presentations/event-store-web-apps)
 * [Event Sourcing and Stream Processing at Scale - Martin Kleppmann](https://www.youtube.com/watch?v=avi-TZI9t2I)
+* [DDD & REST - Domain Driven APIs for the web - Oliver Gierke (SpringOne Platform 2016)](https://www.youtube.com/watch?v=NdZqeAAIHzc)
 * Developing Microservices With Aggregates - Chris Richardson: [(SpringOne Platform 2016)](https://www.youtube.com/watch?v=7kX3fs0pWwc) & [(Devox US 2017)](https://www.youtube.com/watch?v=gR_EGN86fvg) & [slides (SpringOne Platform 2016](https://www.slideshare.net/chris.e.richardson/developing-microservices-with-aggregates-springone-platform-s1p) & [slides (DevNexus 2017)](https://www.slideshare.net/chris.e.richardson/developing-microservices-with-aggregates-devnexus2017) & [slides (Munich Microservices Meetup 2015)](https://www.slideshare.net/chris.e.richardson/building-and-deploying-microservices-with-event-sourcing-cqrs-and-docker-microxchg-munich-microservices-meetup-2015)
 * [CQRS/DDD by Greg Young (Professional.NET 2011)](https://www.youtube.com/watch?v=KXqrBySgX-s)
 * [Event Sourcing - Martin Fowler](http://martinfowler.com/eaaDev/EventSourcing.html)
@@ -1817,7 +1824,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
 * Konrad Garus: [Intro to Event Sourcing and Command-Query Responsibility Segregation](http://squirrel.pl/blog/2015/08/31/introduction-to-event-sourcing-and-command-query-responsibility-segregation/) | [Achieving Consistency in CQRS with Linear Event Store](http://squirrel.pl/blog/2015/09/14/achieving-consistency-in-cqrs-with-linear-event-store/) | [Writing an Event-Sourced CQRS Read Model](http://squirrel.pl/blog/2015/09/22/writing-an-event-sourced-cqrs-read-model/) | [Persistence in CQRS Read Models](http://squirrel.pl/blog/2015/09/28/persistence-in-cqrs-read-models/)
 
-### EVENT SOURCING, CQRS & MICROSERVICES - KAFKA
+### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA
 
 * [kafka.apache.org](http://kafka.apache.org/)
     * [Intro](http://kafka.apache.org/intro)
@@ -1839,7 +1846,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Introduction to Apache Kafka - James Ward (DevoxxUS 2017)](https://www.youtube.com/watch?v=UEg40Te8pnE)
 * [ETL Is Dead, Long Live Streams: real-time streams w/ Apache Kafka - Neha Narkhede](https://www.youtube.com/watch?v=I32hmY4diFY)
 
-### EVENT SOURCING, CQRS & MICROSERVICES - PROCESS MANAGERS & SAGAS
+#### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - SECURITY
+
+* [Apache Kafka Security: SSL, Kerberos & Authorization - Sriharsha Chintalapani & Parth Brahmbhatt (2016 Hadoop Summit San Jose)](https://www.youtube.com/watch?v=y6XvNEInPZ0)
+
+#### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA STREAMS
+
+* [Interactive Queries in Apache Kafka Streams - Florian Troßbach](https://blog.codecentric.de/en/2017/03/interactive-queries-in-apache-kafka-streams/)
+
+### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - PROCESS MANAGERS & SAGAS
 
 * [A Saga on Sagas - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/jj591569.aspx)
 * [Applying the Saga Pattern - Caitie McCaffrey (GOTO 2015)](https://www.youtube.com/watch?v=xDuwrtwYHu8)
@@ -1848,12 +1863,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Microservices + Events + Docker = A Perfect Trio - Chris Richardson](https://www.youtube.com/watch?v=pD0rEtEEwck)
 * [The Saga Pattern - Robert Pankowecki (wroc_love.rb 2016)](https://www.youtube.com/watch?v=ECvDJ5ULgN8)
 
-### EVENT SOURCING, CQRS & MICROSERVICES - PRODUCTS/SERVICES
+### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - PRODUCTS/SERVICES
 
 * [Eventuate.io](http://eventuate.io/) \ [Github](https://github.com/eventuate-local/eventuate-local)
 * [GetEventStore.com](https://geteventstore.com/)
 
-### EVENT SOURCING, CQRS & MICROSERVICES - STORIES
+### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - STORIES
 
 * [DevOps @ Amazon: Microservices, 2 Pizza Teams, & 50 Million Deploys a Year - Chris Munns (Canadian Executive Cloud & DevOps Summit 2016)](https://www.youtube.com/watch?v=DBluxFsvksk) & [slides](https://www.slideshare.net/TriNimbus/chris-munns-devops-amazon-microservices-2-pizza-teams-50-million-deploys-a-year)
 * [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned - R. Meshenberg (GOTO Amsterdam 2016)](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
