@@ -624,6 +624,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Deploying Dokku to DigitalOcean for excellent deploying goodness - Pam Selle](http://thewebivore.com/tutorial-deploying-dokku-to-digitalocean-for-excellent-deploying-goodness/)
 * [Running Dokku on Digital Ocean - Henrik Nyh](https://gist.github.com/henrik/26bb73091712aa42abf2)
 
+### DEVOPS - KUBERNETES
+
+* Kubernetes: [Docs](https://kubernetes.io/) | [Tutorials](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Tasks](https://kubernetes.io/docs/tasks/) | [Concepts](https://kubernetes.io/docs/concepts/) | [Github](https://github.com/kubernetes/kubernetes)
+* kubectl: [Cheatsheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/) | [Overview](https://kubernetes.io/docs/user-guide/kubectl-overview/)
+* [Kubernetes 101 for Developers - Ross Kukulinski](https://github.com/rosskukulinski/kubernetes-101-for-devs)
+
 ### DEVOPS - LOGGING
 
 #### DEVOPS - LOGGING - ELK (Elasticsearch + Logstash + Kibana)
@@ -1120,6 +1126,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Basic web app with Phoenix - Michael Eatherly](http://meatherly.github.io/2015/05/04/phoenixlivelikeawarrior/) & [Phoenix app with authentication - Michael Eatherly](http://meatherly.github.io/2015/05/11/phoenixauthentication/)
 * [Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide)
 
+#### ELIXIR - PHOENIX - 1.3
+
+* [Phoenix 1.2.x to 1.3.0 Upgrade Instructions - Chris McCord](https://gist.github.com/chrismccord/71ab10d433c98b714b75c886eff17357)
+* [Why changes in Phoenix 1.3 are so important? - Nikita Sobolev](https://medium.com/wemake-services/why-changes-in-phoenix-1-3-are-so-important-2d50c9bdabb9)
+
 #### ELIXIR - PHOENIX - AUTHENTICATION
 
 * [Elixir/Phoenix — Build a simple chat room - Stephan Bakkelund Valois](https://medium.com/@Stephanbv/elixir-phoenix-build-a-simple-chat-room-7f20ee8e8f9c#.gduhrghi2)
@@ -1287,6 +1298,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
+* [Developer Happiness on the Front End with Elm - Kevin Yank (RailsConf 2017)](https://www.youtube.com/watch?v=C2npla7DwVk)
 * [Elm in production - Richard Feldman (Devoxx 2017)](https://www.youtube.com/watch?v=XsNk5aOpqUc)
 * [Elm in Production: Surprises & Pain Points - Kevin Yank (2017)](https://www.youtube.com/watch?v=LZj_1qVURL0)
 * [Toward a Better Front End Architecture: Elm - Jeremy Fairbank (Codemash 2017)](https://www.youtube.com/watch?v=EDp6UmaA9CM)
@@ -1659,6 +1671,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ERLANG - BEAM
 
+* The Erlang Runtime System (a.k.a., The BEAM Book): [Github (source)](https://github.com/happi/theBeamBook) & [PDF](https://github.com/happi/theBeamBook/releases)
 * [BEAM Wisdoms: collection of easy to read (ELI5) articles as well as in-depth knowledge such as VM internals, memory layout, opcodes](http://beam-wisdoms.clau.se/en/latest/)
 * [The Erlang VM or How I Stopped Worrying & Started Loving Parallel Programming - E.Stenman (GOTO 2013)](https://www.youtube.com/watch?v=ArRr4trTCjQ)
 
@@ -1799,6 +1812,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Commander: Better Distributed Applications through CQRS and Event Sourcing - Bobby Calderwood](https://www.youtube.com/watch?v=B1-gS0oEtYc) & [code](https://github.com/capitalone/cqrs-manager-for-distributed-reactive-services)
 * [Built to last: A domain-driven approach to beautiful systems - Andrew Hao](https://www.youtube.com/watch?v=52qChRS4M0Y)
 * [Conflict Resolution for Eventual Consistency - Martin Kleppmann (GOTO 2016)](https://www.youtube.com/watch?v=yCcWpzY8dIA)
+* [Microservices and the Inverse Conway Manoeuvre - James Lewis (NDC {London} 2017)](https://www.youtube.com/watch?v=uamh7xppO3E)
 * [Intro to CQRS and Event Sourcing Patterns - Mathew McLoughlin](https://www.youtube.com/watch?v=9a1PqwFrMP0)
 * [Intro to CQRS - Event Sourcing, Distributed Systems, & CQRS - Sebastian Daschner](https://www.youtube.com/watch?v=qJA6MaQ90YY)
 * [Distributed Commit Log: Application Techniques for Transaction Processing - David McNeil](https://www.youtube.com/watch?v=X2g0FFOV2e0)
@@ -1819,10 +1833,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Querying Event Streams - Greg Young (React 2014)](https://www.youtube.com/watch?v=DWhQggR13u8)
 * [CQRS Class - Greg Young](https://www.youtube.com/watch?v=whCk1Q87_ZI)
 * [Building and Deploying Microservices with Event Sourcing, CQRS and Docker - Chris Richardson](https://www.youtube.com/watch?v=I4A5ntHeoxU)
+* [Microservices Evolution: How to break your monolithic database - Edson Yanaga (Devoxx Belgium)](https://www.youtube.com/watch?v=6dfBd-2Oq1M)
 * [Powering Microservices with Docker, Kubernetes, Kafka and MongoDB - Andrew Morgan (MongoDB Europe 2016)](https://www.youtube.com/watch?v=F_BuRIAnvqE)
 * [Immutability Changes Everything - Pat Helland](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
 * Konrad Garus: [Intro to Event Sourcing and Command-Query Responsibility Segregation](http://squirrel.pl/blog/2015/08/31/introduction-to-event-sourcing-and-command-query-responsibility-segregation/) | [Achieving Consistency in CQRS with Linear Event Store](http://squirrel.pl/blog/2015/09/14/achieving-consistency-in-cqrs-with-linear-event-store/) | [Writing an Event-Sourced CQRS Read Model](http://squirrel.pl/blog/2015/09/22/writing-an-event-sourced-cqrs-read-model/) | [Persistence in CQRS Read Models](http://squirrel.pl/blog/2015/09/28/persistence-in-cqrs-read-models/)
+
+### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - DOMAIN-DRIVEN DESIGN
+
+* [DDD & Microservices: At Last, Some Boundaries! - Eric Evans (GOTO 2015)](https://www.youtube.com/watch?v=yPvef9R3k-M)
+* [Modeling With Aggregates - Pieter Koornhof](http://sneakycode.net/modeling-with-aggregates/)
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA
 
@@ -1838,12 +1858,16 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
 * Ben Stopford (Confluent): [The Data Dichotomy- Rethinking the Way We Treat Data and Services](https://vimeo.com/205275868/4f90eb476f) | [Building Event-Driven Services with Apache Kafka](https://vimeo.com/210647286/91a0bf8cb5) | [Putting the Micro into Microservices with Stateful Stream Processing](https://vimeo.com/214730078/d2c85c9227)
 * Confluent.io: [Blog](https://www.confluent.io/blog/) | [Resources](https://www.confluent.io/resources/)
+* [When Microservices Meet Event Sourcing - Vinicius Gomes (O'Reilly Software Architecture Conference NYC 2017)](https://www.youtube.com/watch?v=cISNDnwlSgw)
 * [Apache Kafka and the Next 700 Stream Processing Systems - Jay Kreps](https://www.youtube.com/watch?v=9RMOc0SwRro)
 * [Reducing Microservice Complexity with Kafka and Reactive Streams - Jim Riecken (Scala Days New York 2016)](https://www.youtube.com/watch?v=k_Y5ieFHGbs)
+* [A practical introduction to event sourcing and CQRS - Robert Lemke (Neos CMS 2017)](https://www.youtube.com/watch?v=cUXi9fUqWQ0) (discusses Neos Flow for PHP)
 * [Understanding Kafka with Legos - Jesse Anderson](https://www.youtube.com/watch?v=Q5wOegcVa8E)
 * [Developing Real-Time Data Pipelines with Apache Kafka - Joe Stein](https://www.youtube.com/watch?v=GRPLRONVDWY)
 * [Reactive Kafka - Rajini Sivaram (SpringOne Platform 2016)](https://www.youtube.com/watch?v=-ioxYn9Vlao)
 * [Introduction to Apache Kafka - James Ward (DevoxxUS 2017)](https://www.youtube.com/watch?v=UEg40Te8pnE)
+* [Processing Streaming Data at a Large Scale with Kafka - Thijs Cadier (RailsConf 2017)](https://www.youtube.com/watch?v=-NMDqqW1uCE)
+* [Event sourcing in practise - lessons learned - Jfokus 2017](https://www.youtube.com/watch?v=_d4mAi3qkDA)
 * [ETL Is Dead, Long Live Streams: real-time streams w/ Apache Kafka - Neha Narkhede](https://www.youtube.com/watch?v=I32hmY4diFY)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - SECURITY
@@ -3403,6 +3427,10 @@ Peter R. Egli:
 ### PROGRAMMING - CODE REVIEWS
 
 * [Code Review in Remote Teams - Sean Hammond](https://www.seanh.cc/posts/code-review)
+
+### PROGRAMMING - CONCURRENCY
+
+* [Thinking Outside the Synchronisation Quadrant - Kevlin Henney (NDC {London} 2017)](https://www.youtube.com/watch?v=2yXtZ8x7TXw)
 
 ### PROGRAMMING - DCI (DATA, CONTEXT, INTERACTIONS)
 
