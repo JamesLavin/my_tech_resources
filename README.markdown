@@ -419,6 +419,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [PostgreSQL documentation: The SQL Language](http://www.postgresql.org/docs/9.4/interactive/sql.html)
 * [TutorialsPoint.com](http://www.tutorialspoint.com/sql/index.htm)
 
+### DATABASES - STREAMING REPLICATION
+
+* [Open-Sourcing Yelp's Data Pipeline - Yelp](https://engineeringblog.yelp.com/2016/11/open-sourcing-yelps-data-pipeline.html) | [MySQL Streamer](https://github.com/Yelp/mysql_streamer) | [Schematizer](https://github.com/Yelp/schematizer) | [Data pipeline client](https://github.com/Yelp/data_pipeline) | [Data pipeline Avro util](https://github.com/Yelp/data_pipeline_avro_util) | [Kafka library](https://github.com/Yelp/yelp_kafka)
+* [Debezium: Change data capture for a variety of databases](https://github.com/debezium/debezium) & [Debezium.io](http://debezium.io/)
+* [BottledWater: Change data capture from PostgreSQL into Kafka (Confluent.com)](https://github.com/confluentinc/bottledwater-pg)
+* [Lapidus: Stream your PostgreSQL, MySQL or MongoDB databases anywhere, fast](https://github.com/JarvusInnovations/lapidus)
+
 ## DEVOPS
 
 * [BOSH](https://github.com/cloudfoundry/bosh)
@@ -629,6 +636,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * Kubernetes: [Docs](https://kubernetes.io/) | [Tutorials](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Tasks](https://kubernetes.io/docs/tasks/) | [Concepts](https://kubernetes.io/docs/concepts/) | [Github](https://github.com/kubernetes/kubernetes)
 * kubectl: [Cheatsheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/) | [Overview](https://kubernetes.io/docs/user-guide/kubectl-overview/)
 * [Kubernetes 101 for Developers - Ross Kukulinski](https://github.com/rosskukulinski/kubernetes-101-for-devs)
+
+### DEVOPS - ISTIO.IO
+
+* [Istio: Open Platform to Connect, Manage, and Secure Microservices](https://istio.io/) | [Github](https://github.com/istio/istio) | [Twitter](https://twitter.com/IstioMesh)
 
 ### DEVOPS - LOGGING
 
@@ -1304,6 +1315,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Toward a Better Front End Architecture: Elm - Jeremy Fairbank (Codemash 2017)](https://www.youtube.com/watch?v=EDp6UmaA9CM)
 * [Elm: A Beginners' Guide to Elm and Data - Luke Westby & Jeff Schomay](https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940)
 * [Beginning Elm - Pawan Poudel](http://elmprogramming.com/)
+* [Putting the Fun in Functional With Elm - Tereza Sokol (ReactEurope 2017)](https://www.youtube.com/watch?v=a0039_JRAQo)
 * [Commanding the Elm Architecture - Kyle Kress (Sept 2016)](https://www.bigmarker.com/joncfoo/Commanding-the-Elm-Architecture)
 * [Start Using Elm to Build Web Applications - Murphy Randle](https://egghead.io/courses/start-using-elm-to-build-web-applications)
 * [Exercism.io](http://exercism.io/languages/elm/about)
@@ -1801,6 +1813,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Introduction to CQRS and Event Sourcing Patterns - Mathew McLoughlin (NDC Conference 2017)](https://www.youtube.com/watch?v=9a1PqwFrMP0) & [example code](https://github.com/mat-mcloughlin/PatientMangement)
 * Developing Transactional Microservices Using Aggregates, Event Sourcing and CQRS - Chris Richardson: [Part 1](https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-1-richardson) & [Part 2](https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-2-richardson)
 * [Events Are Not Just for Notifications - Greg Young (QCon 2011)](https://www.infoq.com/presentations/Events-Are-Not-Just-for-Notifications)
+* [Reactive Microservices Architecture (Jonas Bonér) (free book from O'Reilly)](http://www.oreilly.com/programming/free/reactive-microservices-architecture-orm.csp)
 * [The Evolution of Microservices - Adrian Cockcroft (Association for Computing Machinery (ACM) 2016)](https://www.youtube.com/watch?v=Mg4Cs2K7f98)
 * [Principles Of Microservices - Sam Newman (Devoxx US 2015)](https://www.youtube.com/watch?v=PFQnNFe27kU)
 * [DDD-CQRS-ES Slack group](http://ddd-cqrs-es.herokuapp.com/)
@@ -1808,6 +1821,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * InfoQ: [Microservices resources](https://www.infoq.com/microservices/) | [CQRS resources](https://www.infoq.com/cqrs/) | [Reactive programming resources](https://www.infoq.com/reactive-programming/) | [Streaming resources](https://www.infoq.com/streaming/) | [Container resources](https://www.infoq.com/containers/)
 * [Steve Yegge's Google Platforms Rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX?hl=en)
 * [CQRS & Event Sourcing blog - Daniel Whittaker](http://danielwhittaker.me/)
+* [When, Why, and How to CQRS - Sebastian Daschner (2017)](https://www.youtube.com/watch?v=iK8x1mUPwCE)
 * [The 6 Rules for Modernizing Your Legacy Java Monolith with Microservices - Kevin Webber (Lightbend)](https://www.youtube.com/watch?v=A-IMfF15FZA)
 * [Commander: Better Distributed Applications through CQRS and Event Sourcing - Bobby Calderwood](https://www.youtube.com/watch?v=B1-gS0oEtYc) & [code](https://github.com/capitalone/cqrs-manager-for-distributed-reactive-services)
 * [Built to last: A domain-driven approach to beautiful systems - Andrew Hao](https://www.youtube.com/watch?v=52qChRS4M0Y)
@@ -1826,7 +1840,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * Developing Microservices With Aggregates - Chris Richardson: [(SpringOne Platform 2016)](https://www.youtube.com/watch?v=7kX3fs0pWwc) & [(Devox US 2017)](https://www.youtube.com/watch?v=gR_EGN86fvg) & [slides (SpringOne Platform 2016](https://www.slideshare.net/chris.e.richardson/developing-microservices-with-aggregates-springone-platform-s1p) & [slides (DevNexus 2017)](https://www.slideshare.net/chris.e.richardson/developing-microservices-with-aggregates-devnexus2017) & [slides (Munich Microservices Meetup 2015)](https://www.slideshare.net/chris.e.richardson/building-and-deploying-microservices-with-event-sourcing-cqrs-and-docker-microxchg-munich-microservices-meetup-2015)
 * [CQRS/DDD by Greg Young (Professional.NET 2011)](https://www.youtube.com/watch?v=KXqrBySgX-s)
 * [Event Sourcing - Martin Fowler](http://martinfowler.com/eaaDev/EventSourcing.html)
+* [Patterns and practices for real-world event-driven microservices - Rachel Reese (NDC Conferences 2016)](https://www.youtube.com/watch?v=pyudECD-AfQ) (middle section is long digression on F#)
 * [Event Sourcing - Bryan Reinero (GoRuCo 2015)](http://confreaks.tv/videos/goruco2015-event-sourcing)
+* [Introduction to Event Sourcing - Duncan Jones, HedgeFacts](https://www.youtube.com/watch?v=WYShrMYl1ww)
 * [Develop faster with an open source microservices platform - James Strachan (Devoxx 2016)](https://www.youtube.com/watch?v=bERRJksRB1A)
 * [Polyglot Data - Greg Young (GOTO Conference 2014)](https://www.youtube.com/watch?v=hv2dKtPq0ME)
 * [CQRS and Event Sourcing - Greg Young (Code on the Beach 2014)](https://www.youtube.com/watch?v=JHGkaShoyNs)
@@ -1857,6 +1873,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Wiki](https://cwiki.apache.org/confluence/display/KAFKA/Index)
     * [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
 * Ben Stopford (Confluent): [The Data Dichotomy- Rethinking the Way We Treat Data and Services](https://vimeo.com/205275868/4f90eb476f) | [Building Event-Driven Services with Apache Kafka](https://vimeo.com/210647286/91a0bf8cb5) | [Putting the Micro into Microservices with Stateful Stream Processing](https://vimeo.com/214730078/d2c85c9227)
+* [Build Services on a Backbone of Events - Ben Stopford](https://www.confluent.io/blog/build-services-backbone-events/)
 * Confluent.io: [Blog](https://www.confluent.io/blog/) | [Resources](https://www.confluent.io/resources/)
 * [When Microservices Meet Event Sourcing - Vinicius Gomes (O'Reilly Software Architecture Conference NYC 2017)](https://www.youtube.com/watch?v=cISNDnwlSgw)
 * [Apache Kafka and the Next 700 Stream Processing Systems - Jay Kreps](https://www.youtube.com/watch?v=9RMOc0SwRro)
@@ -1877,6 +1894,10 @@ Links to resources I have found useful or think might be helpful to future me or
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA STREAMS
 
 * [Interactive Queries in Apache Kafka Streams - Florian Troßbach](https://blog.codecentric.de/en/2017/03/interactive-queries-in-apache-kafka-streams/)
+
+#### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - LOG PERSISTENCE
+
+* [Secor: Service implementing Kafka log persistence](https://github.com/pinterest/secor)
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - PROCESS MANAGERS & SAGAS
 
@@ -1999,6 +2020,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - FUNCTIONAL REACTIVE PROGRAMMING (FRP)
 
+* [Functional && Reactive - Preethi Kasireddy aka @iam_preethi (ReactEurope 2017)](https://www.youtube.com/watch?v=yYze0gCBtvY)
 * [Functional Reactive Programming - Riccardo Terrell (Lambda Days 2016)](https://www.youtube.com/watch?v=UJH8sAnpBL4)
 * [Controlling Time and Space: Understanding the Many Formulations of FRP - Evan Czaplicki (StrangeLoop 2014)](https://www.youtube.com/watch?v=Agu6jipKfYw)
 * [Observables Everywhere - Jeremy Foster (2016)](https://channel9.msdn.com/Blogs/seattlejs/2016-01-14-01)
@@ -2090,6 +2112,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Help](https://help.github.com/)
 * [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [Developer docs](http://developer.github.com)
+* [gitsuggest: suggests Github repositories based on repositories you've shown interest in](https://github.com/csurfer/gitsuggest)
 
 ## HASKELL
 
@@ -2136,6 +2159,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Github](https://github.com/Frege/frege)
 * [Frege: purely functional programming for the JVM - Dierk König](https://www.youtube.com/watch?v=b8-OV7wA7sw)
+
+### HASKELL - GRENADE
+
+* [Grenade: Practical Machine Learning in Haskell, aka "💣 Machine learning which might blow up in your face 💣"](https://github.com/HuwCampbell/grenade)
 
 ### HASKELL - HAKYLL
 
@@ -3321,6 +3348,13 @@ Peter R. Egli:
 
 * [PostgREST - REST API for any Postgres database](https://github.com/begriffs/postgrest)
 
+### POSTGRESQL - REPLICATION
+
+* [Streaming Replication (Postgresql.org)](https://wiki.postgresql.org/wiki/Streaming_Replication)
+* [Debezium: Change data capture for a variety of databases](https://github.com/debezium/debezium) & [Debezium.io](http://debezium.io/)
+* [BottledWater: Change data capture from PostgreSQL into Kafka (Confluent.com)](https://github.com/confluentinc/bottledwater-pg)
+* [repmgr: Replication Manager for PostgreSQL](https://github.com/2ndQuadrant/repmgr)
+
 ### POSTGRESQL - VIDEOS
 
 * [PGCon 2015 videos](https://www.citusdata.com/resources/citus-data-videos)
@@ -3606,6 +3640,8 @@ Peter R. Egli:
 
 ### PYTHON - DATA ANALYSIS
 
+* [AnacondaCON 2017](https://www.youtube.com/playlist?list=PLGB9meziqbzqvly8Skj3qTieC-fSXeR8T)
+* [Introduction to Python & Machine Learning (with Analytics Vidhya Hackathons) - Kunal Jain](https://www.datacamp.com/community/open-courses/introduction-to-python-machine-learning-with-analytics-vidhya-hackathons)
 * [Dataquest.io missions](https://www.dataquest.io/missions)
 * Harvard CS109: Data Science (2013): [slides](https://drive.google.com/folderview?id=0BxYkKyLxfsNVd0xicUVDS1dIS0k&usp=sharing), [video lectures](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) & [labs and solutions](https://github.com/cs109/content)
 * [Harvard CS109: Data Science (2014)](http://cs109.github.io/2014/)
@@ -3784,10 +3820,6 @@ Peter R. Egli:
 * [RMagic for iPython Notebook](http://ipython.org/ipython-doc/dev/config/extensions/rmagic.html)
 * [Using R Within the iPython Notebook](http://nbviewer.ipython.org/github/ipython/ipython/blob/1.x/examples/notebooks/R%20Magics.ipynb)
 * [RMagic Functions Extension](http://nbviewer.ipython.org/github/ipython/ipython/blob/1.x/examples/notebooks/Cell%20Magics.ipynb#Rmagic-Functions-Extension)
-
-### PYTHON - DATA ANALYSIS
-
-* [Introduction to Python & Machine Learning (with Analytics Vidhya Hackathons) - Kunal Jain](https://www.datacamp.com/community/open-courses/introduction-to-python-machine-learning-with-analytics-vidhya-hackathons)
 
 #### PYTHON - DATA ANALYSIS - SCIKIT-LEARN
 
@@ -4730,6 +4762,7 @@ Peter R. Egli:
 
 ### RAILS - VIDEOS
 
+* [RailsConf 2017](http://railsconf.com/program)
 * [RailsConf 2016](http://confreaks.tv/events/railsconf2016)
 
 ### RAILS - VIEWS
