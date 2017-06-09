@@ -183,6 +183,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Swagger.io](http://swagger.io/) | [Swagger Editor](http://swagger.io/swagger-editor/) | [Specification](http://swagger.io/specification/) | [Explanatory docs](http://swagger.io/docs/specification/what-is-swagger/) | [Github](https://github.com/OAI/OpenAPI-Specification)
 * PetStore example: [Running](http://petstore.swagger.io/) | [JSON files](https://github.com/OAI/OpenAPI-Specification/tree/master/examples/v2.0/json) | [YAML files](https://github.com/OAI/OpenAPI-Specification/tree/master/examples/v2.0/yaml)
+* [Swagger tutorial - Learn API Doc](http://idratherbewriting.com/learnapidoc/pubapis_swagger.html)
 * OpenAPI Specification Journey - Arnaud Lauret: [1 - Intro](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/) | [2 - Basics](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-2-the-basics/) | [3 - Simplifying spec file](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-3-simplifying-specification-file/) | [4 - Advanced Data](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-4-advanced-data-modeling/) | [5 - Advanced Input & Output Modeling](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-5-advanced-input-and-output-modeling/) | [6 - Defining Security](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-6-defining-security/) | [7 - Documentation](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-7-documentation/) | [8 - Splitting the spec file](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-8-splitting-specification-file/) | [9 - Extending the OpenAPI Spec](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-9-extending-the-openapi-specification/)
 * [Learn API Doc - Tom Johnson](http://idratherbewriting.com/learnapidoc/)
 
@@ -425,6 +426,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Debezium: Change data capture for a variety of databases](https://github.com/debezium/debezium) & [Debezium.io](http://debezium.io/)
 * [BottledWater: Change data capture from PostgreSQL into Kafka (Confluent.com)](https://github.com/confluentinc/bottledwater-pg)
 * [Lapidus: Stream your PostgreSQL, MySQL or MongoDB databases anywhere, fast](https://github.com/JarvusInnovations/lapidus)
+* [Databus: Source-agnostic distributed change data capture system (LinkedIn)](https://github.com/linkedin/databus)
 
 ## DEVOPS
 
@@ -868,6 +870,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - 1.4
 
+* [Using the Registry in Elixir 1.4 - Adam Mokan](https://medium.com/@adammokan/registry-in-elixir-1-4-0-d6750fb5aeb)
 * [Changelog](https://github.com/elixir-lang/elixir/blob/v1.4/CHANGELOG.md)
 
 ### ELIXIR - 1.3
@@ -1113,6 +1116,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [What the fuss about Phoenix - Saša Jurić (WebCamp Zagreb 2016)](https://www.youtube.com/watch?v=3uJCwcBwfh4) & [slides](https://speakerdeck.com/sasajuric/whats-the-fuss-about-phoenix)
 * [ElixirConf 2016 Keynote on Phoenix 1.3- Chris McCord](https://www.youtube.com/watch?v=qPiZTxUAaVM)
 * [Rails to Phoenix - Brian Cardarella (RailsConf 2016)](https://www.youtube.com/watch?v=OxhTQdcieQE)
+* [Building a Chat App with Elixir and Phoenix Presence - Steve Grossi](http://work.stevegrossi.com/2016/07/11/building-a-chat-app-with-elixir-and-phoenix-presence/)
 * [Phoenix: The Firehose Project: Hands-On Intro to Building Modern Web Applications With Elixir and Phoenix](http://phoenix.thefirehoseproject.com/)
 * Photo Album: A Phoenix/Elixir web app - Khaja Minhajuddin: [Part 1](https://www.youtube.com/watch?v=uHQ3tJqiEho) | [Part 2](https://www.youtube.com/watch?v=DOmTHaA8jyI)
 * [Elixir on the Web: Phoenix Rising - Artem Chernyak](https://www.youtube.com/watch?v=h4z7WnMLXKI)
@@ -1144,6 +1148,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - AUTHENTICATION
 
+* [Passwordless login with phoenix - Thiago Borges (July 2016)](http://inaka.net/blog/2016/07/27/passwordless-login-with-phoenix/)
 * [Elixir/Phoenix — Build a simple chat room - Stephan Bakkelund Valois](https://medium.com/@Stephanbv/elixir-phoenix-build-a-simple-chat-room-7f20ee8e8f9c#.gduhrghi2)
 * [Authentication in Phoenix/Elixir app with Ueberauth and Guardian - Ulan Abdurazakov](https://www.youtube.com/watch?v=X6Z-sDSJ3sE)
 
@@ -1159,6 +1164,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Deploying Phoenix on Dokku - Henrik Nyh](https://gist.github.com/henrik/c70e32544e09c1a79841)
 * [Deploying a Phoenix application using ansible-elixir-stack - Johan Wärlander](http://blog.johanwarlander.com/2015/07/30/deploying-a-phoenix-application-using-ansible-elixir-stack.html)
 * [Ansible-elixir-stack](https://github.com/HashNuke/ansible-elixir-stack)
+
+#### ELIXIR - PHOENIX - EXAMPLE APPLICATIONS
+
+* [phoenix-trello](https://github.com/bigardone/phoenix-trello)
 
 #### ELIXIR - PHOENIX - JSON
 
@@ -1321,6 +1330,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Exercism.io](http://exercism.io/languages/elm/about)
 * Elmbridge Curriculum: [PDF](https://www.gitbook.com/download/pdf/book/raorao/elmbridge-curriculum) | [website](https://raorao.gitbooks.io/elmbridge-curriculum/content/)
 * [Branching Out with Elm - Dave Fancher (NDC Conferences 2017)](https://www.youtube.com/watch?v=Rjy3W5LqBeM)
+* [Avoiding the Nightmare on Elm Street - Thomas Anagrius (GOTO Stockholm 2017)](https://www.youtube.com/watch?v=Qhx81eI5FPs)
 * Andy Balaam: [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) & [Elm makes me happy](https://www.youtube.com/watch?v=8pPO9kM2N5I)
 * [Elm and Web Components - Richard Feldman (React Vienna 2016)](https://www.youtube.com/watch?list=PLwuxQEGOXhN5v6E-mzqujkWlq8ZY0dxCR&v=ar3TakwE8o0) & [elm-google-maps - Richard Feldman](https://github.com/rtfeldman/elm-google-maps) & [elm-polymer-calendar - Fred Yankowski](https://github.com/fredcy/elm-polymer-calendar)
 * [Elm, putting the fun in functional - Philip Poots (LondonJS 2016)](https://www.youtube.com/watch?v=oejptx252W8)
@@ -1549,7 +1559,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - PHOENIX & ELM
 
 * Phoenix and Elm, a real use case - Ricardo García Vega: [Part 1: Introduction to creating a SPA with Phoenix and Elm](http://codeloveandboards.com/blog/2017/02/02/phoenix-and-elm-a-real-use-case-pt-1/) | [Part 2: Rendering the initial contact list](http://codeloveandboards.com/blog/2017/02/08/phoenix-and-elm-a-real-use-case-pt-2/) | [Part 3: Adding full text search and pagination navigation to the contact list](http://codeloveandboards.com/blog/2017/02/14/phoenix-and-elm-a-real-use-case-pt-3/)
-* [Creating a Chatroom Using Phoenix, Elm, and Websockets - Jeremy Bellows](http://www.jeremybellows.com/blog/Creating-a-Chatroom-Using-Phoenix-Elm-And-Websockets)
+* [Creating a Chatroom Using Phoenix, Elm, and Websockets - Jeremy Bellows (Oct 2016)](http://www.jeremybellows.com/blog/Creating-a-Chatroom-Using-Phoenix-Elm-And-Websockets)
 * [Connecting Elm with Phoenix using Channels - Simon Hampton](http://simonh1000.github.io/2016/05/elm-phoenix-channels/)
 
 ### ELM - PODCASTS
@@ -1674,6 +1684,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Erlang Quick Reference Card v1.0, 2011-11-13, Pawel Stolowsk](https://github.com/stolowski/Erlang-Quick-Reference-Card/blob/master/erlang-quickref.pdf)
 * [Awesome Erlang - Curated list of libraries, resources & more - David Robakowski](https://github.com/drobakowski/awesome-erlang)
 * [Erlang Koans - Patrick Gombert](https://github.com/patrickgombert/erlang-koans)
+* [Why We Chose Erlang over Java, Scala, Go, C - Colin Hemmings (QCon 2017)](https://www.infoq.com/presentations/erlang-java-scala-go-c)
 * [Solving the Stable Marriage problem with Erlang](https://www.airpair.com/erlang/posts/solving-the-stable-marriage-problem-with-erlang)
 * [Erlang - TutorialsPoint](https://www.tutorialspoint.com/erlang/erlang_tutorial.pdf)
 * [Thinking in a Highly Concurrent, Mostly-functional Language - Francesco Cesarini (ElixirConf 2014)](https://www.youtube.com/watch?v=d5G3P2iosmA)
@@ -1809,11 +1820,14 @@ Links to resources I have found useful or think might be helpful to future me or
 ## EVENT SOURCING, CQRS, DDD, & MICROSERVICES
 
 * [Event Sourcing, Distributed Systems & CQRS - Sebastian Daschner](https://www.youtube.com/watch?v=CYocFQvl6s0&list=PLEV9ul4qfGOZ5gWIPMlFGMUpenSs1EvxZ)
-* [CQRS Journey - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
+* [Exploring CQRS and Event Sourcing - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
 * [Introduction to CQRS and Event Sourcing Patterns - Mathew McLoughlin (NDC Conference 2017)](https://www.youtube.com/watch?v=9a1PqwFrMP0) & [example code](https://github.com/mat-mcloughlin/PatientMangement)
+* [Domain-Driven Design Quickly - Abel Avram and with Floyd Marinescu (free book from InfoQ)](https://www.infoq.com/minibooks/domain-driven-design-quickly)
 * Developing Transactional Microservices Using Aggregates, Event Sourcing and CQRS - Chris Richardson: [Part 1](https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-1-richardson) & [Part 2](https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-2-richardson)
 * [Events Are Not Just for Notifications - Greg Young (QCon 2011)](https://www.infoq.com/presentations/Events-Are-Not-Just-for-Notifications)
 * [Reactive Microservices Architecture (Jonas Bonér) (free book from O'Reilly)](http://www.oreilly.com/programming/free/reactive-microservices-architecture-orm.csp)
+* [The Many Meanings of Event-Driven Architecture - Martin Fowler (GOTO Chicago 2017)](https://www.youtube.com/watch?v=STKCRSUsyP0)
+* [Migrating to Microservice Databases: From Relational Monolith to Distributed Data - Edson Yanaga (free book from O'Reilly)](http://www.oreilly.com/programming/free/files/migrating-to-microservice-databases.pdf)
 * [The Evolution of Microservices - Adrian Cockcroft (Association for Computing Machinery (ACM) 2016)](https://www.youtube.com/watch?v=Mg4Cs2K7f98)
 * [Principles Of Microservices - Sam Newman (Devoxx US 2015)](https://www.youtube.com/watch?v=PFQnNFe27kU)
 * [DDD-CQRS-ES Slack group](http://ddd-cqrs-es.herokuapp.com/)
@@ -1824,6 +1838,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [When, Why, and How to CQRS - Sebastian Daschner (2017)](https://www.youtube.com/watch?v=iK8x1mUPwCE)
 * [The 6 Rules for Modernizing Your Legacy Java Monolith with Microservices - Kevin Webber (Lightbend)](https://www.youtube.com/watch?v=A-IMfF15FZA)
 * [Commander: Better Distributed Applications through CQRS and Event Sourcing - Bobby Calderwood](https://www.youtube.com/watch?v=B1-gS0oEtYc) & [code](https://github.com/capitalone/cqrs-manager-for-distributed-reactive-services)
+* [Domain-Driven Design for the Database Driven Mind - Julie Lerman (2015)](https://www.youtube.com/watch?v=CjNBnkMHjh4)
 * [Built to last: A domain-driven approach to beautiful systems - Andrew Hao](https://www.youtube.com/watch?v=52qChRS4M0Y)
 * [Conflict Resolution for Eventual Consistency - Martin Kleppmann (GOTO 2016)](https://www.youtube.com/watch?v=yCcWpzY8dIA)
 * [Microservices and the Inverse Conway Manoeuvre - James Lewis (NDC {London} 2017)](https://www.youtube.com/watch?v=uamh7xppO3E)
@@ -1853,6 +1868,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Powering Microservices with Docker, Kubernetes, Kafka and MongoDB - Andrew Morgan (MongoDB Europe 2016)](https://www.youtube.com/watch?v=F_BuRIAnvqE)
 * [Immutability Changes Everything - Pat Helland](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
+* [Functional and Reactive Event Sourced Applications - Renato Cavalcanti ({codemotion Amsterdam 2016})](https://www.youtube.com/watch?v=A-oAFV5__4k)
 * Konrad Garus: [Intro to Event Sourcing and Command-Query Responsibility Segregation](http://squirrel.pl/blog/2015/08/31/introduction-to-event-sourcing-and-command-query-responsibility-segregation/) | [Achieving Consistency in CQRS with Linear Event Store](http://squirrel.pl/blog/2015/09/14/achieving-consistency-in-cqrs-with-linear-event-store/) | [Writing an Event-Sourced CQRS Read Model](http://squirrel.pl/blog/2015/09/22/writing-an-event-sourced-cqrs-read-model/) | [Persistence in CQRS Read Models](http://squirrel.pl/blog/2015/09/28/persistence-in-cqrs-read-models/)
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - DOMAIN-DRIVEN DESIGN
@@ -1894,10 +1910,14 @@ Links to resources I have found useful or think might be helpful to future me or
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA STREAMS
 
 * [Interactive Queries in Apache Kafka Streams - Florian Troßbach](https://blog.codecentric.de/en/2017/03/interactive-queries-in-apache-kafka-streams/)
+* [Apache Samza: Distributed stream processing framework](http://samza.apache.org/)
+* [Pinot: Realtime distributed OLAP datastore (LinkedIn)](https://github.com/linkedin/pinot)
+* [Streaming Data Pipelines with Brooklin - Samarth Shetty, LinkedIn (5/24/17)](https://www.youtube.com/watch?v=VUF1oazVEuU)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - LOG PERSISTENCE
 
 * [Secor: Service implementing Kafka log persistence](https://github.com/pinterest/secor)
+* [Bifrost: Safely archive data from Apache Kafka to S3 with no Hadoop dependencies](https://github.com/uswitch/bifrost)
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - PROCESS MANAGERS & SAGAS
 
@@ -1907,6 +1927,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Long Running Processes with Event Sourcing and CQRS - Andriy Drozdyuk](https://medium.com/@drozzy/long-running-processes-event-sourcing-cqrs-c87fbb2ca644)
 * [Microservices + Events + Docker = A Perfect Trio - Chris Richardson](https://www.youtube.com/watch?v=pD0rEtEEwck)
 * [The Saga Pattern - Robert Pankowecki (wroc_love.rb 2016)](https://www.youtube.com/watch?v=ECvDJ5ULgN8)
+* [Commands, Queries and Consistency - Udi Dahan (Norwegian Developers Conference (NDC) 2012)](https://www.youtube.com/watch?v=2EDyxoS5N7M)
+* [Sagas (the original paper) - Hector Garcia-Molina & Kenneth Salem (1987)](https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
+
+#### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - PROCESS MANAGERS & SAGAS - IMPLEMENTATIONS
+
+* [Gisla: library that implements the sagas pattern for Erlang (Mark Allen)](https://github.com/mrallen1/gisla)
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - PRODUCTS/SERVICES
 
@@ -3351,6 +3377,7 @@ Peter R. Egli:
 ### POSTGRESQL - REPLICATION
 
 * [Streaming Replication (Postgresql.org)](https://wiki.postgresql.org/wiki/Streaming_Replication)
+* [WAL-E: Continuous Archiving for Postgres](https://github.com/wal-e/wal-e)
 * [Debezium: Change data capture for a variety of databases](https://github.com/debezium/debezium) & [Debezium.io](http://debezium.io/)
 * [BottledWater: Change data capture from PostgreSQL into Kafka (Confluent.com)](https://github.com/confluentinc/bottledwater-pg)
 * [repmgr: Replication Manager for PostgreSQL](https://github.com/2ndQuadrant/repmgr)
@@ -3385,9 +3412,10 @@ Peter R. Egli:
 * [The Most Important Optimization: Happiness (BigRuby 2013)](http://confreaks.tv/videos/2311-bigruby2013-the-most-important-optimization-happiness)
 * [The War For Talent: How To Succeed As an Employer or Engineer - Allan Grant (RailsConf 2013)](http://confreaks.tv/videos/2523-railsconf2013-the-war-for-talent-how-to-succeed-as-an-employer-or-engineer)
 
-### PRODUCT DEVELOPMENT - PEOPLE & PROCESS
+### PRODUCT DEVELOPMENT - PEOPLE, PROCESS & TEAMS
 
 * [Humane Development - Ernie Miller (RailsConf 2015)](https://www.youtube.com/watch?v=-ZLYxLjwNWo) & [(RubyOnAles 2015](https://www.youtube.com/watch?v=SsReC-u--gg)
+* [Patterns of Effective Teams - Dan North (GOTO Chicago 2017)](https://www.youtube.com/watch?v=lvs7VEsQzKY)
 * [What We Actually Know About Software Development, and Why We Believe It’s True - Greg Wilson](https://vimeo.com/9270320)
 * [Amelia Bedelia Learns to Code - Kylie Stradley (RailsConf 2015)](https://www.youtube.com/watch?v=bSbla50tqZE)
 * [Lessons from Theater and Software - Kevin Stevens (Rocky Mountain Ruby 2013)](http://confreaks.tv/videos/2771-rockymountainruby2013-lightning-talk-lessons-from-theater-and-software)
