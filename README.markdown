@@ -1321,6 +1321,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Developer Happiness on the Front End with Elm - Kevin Yank (RailsConf 2017)](https://www.youtube.com/watch?v=C2npla7DwVk)
 * [Elm in production - Richard Feldman (Devoxx 2017)](https://www.youtube.com/watch?v=XsNk5aOpqUc)
 * [Elm in Production: Surprises & Pain Points - Kevin Yank (2017)](https://www.youtube.com/watch?v=LZj_1qVURL0)
+* [Ninety-nine Problems, Solved in Elm - John Crane](https://www.gitbook.com/book/johncrane/ninety-nine-elm-problems/details)
 * [Toward a Better Front End Architecture: Elm - Jeremy Fairbank (Codemash 2017)](https://www.youtube.com/watch?v=EDp6UmaA9CM)
 * [Elm: A Beginners' Guide to Elm and Data - Luke Westby & Jeff Schomay](https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940)
 * [Beginning Elm - Pawan Poudel](http://elmprogramming.com/)
@@ -2156,6 +2157,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [PlanetHaskell](http://planet.haskell.org/)
 * [Haskell Koans - Vancouver Haskell Meetup](https://github.com/HaskVan/HaskellKoans)
 * [Modeling Data in Haskell for Beginners - Chris Allen (LambdaConf 2015)](https://www.youtube.com/watch?v=p-NBJm0kIYU)
+* [StackBuilers.com tutorials](https://stackbuilders.com/tutorials://stackbuilders.com/tutorials/) & [Github](https://github.com/stackbuilders/tutorial://github.com/stackbuilders/tutorials)
 * [Type Classes Vs the World - Edward Kmett (Boston Haskell 2015)](https://www.youtube.com/watch?v=hIZxTQP1ifo)
 
 ### HASKELL - BENEFITS
