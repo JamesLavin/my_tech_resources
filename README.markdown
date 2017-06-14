@@ -838,7 +838,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Exercism.io Elixir](http://exercism.io/languages/elixir)
 * [Basic Design in Functional Programming Languages - Tomasz Kowal (ElixirLive 2016)](https://www.youtube.com/watch?v=arYOSYrjC8s)
 * [Elixir talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=elixir&commit=go)
-* [ElixirConf 2014 videos](http://www.confreaks.tv/events/elixirconf2014)
 * [Elixir Koans - Nicolas Deverge](https://github.com/dojo-toulouse/elixir-koans)
 * [Introducing reducees - José Valim](http://blog.plataformatec.com.br/2015/05/introducing-reducees/)
 * Elixir Express: [Workshop - Chris McCord (RailsConf 2014)](http://www.youtube.com/watch?v=5kYmOyJjGDM) & [Basic documentation](https://github.com/chrismccord/elixir_express/tree/master/basics) & [Advanced documentation](https://github.com/chrismccord/elixir_express/tree/master/advanced)
@@ -857,7 +856,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Programming Elixir: The magic of today's tonic - Katie Miller (Linux.conf.au Jan 2014)](https://www.youtube.com/watch?v=uWSGBpW3xEQ)
 * [Ohai, Elixir! - Benjamin Tan (GeekCampsG 2014)](https://www.youtube.com/watch?v=vS47DS3tn0k)
 * [Elixir - A modern approach to programming for the Erlang VM - Jose Valim (RuPy 2012)](https://www.youtube.com/watch?v=q2Hxt0tOR0k)
-* ElixirConf: [ElixirConf 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H) | [ElixirConf 2014 videos](http://confreaks.tv/events/elixirconf2014)
 * [Keynote - José Valim (ElixirConf 2014)](http://confreaks.tv/videos/4134-elixirconf2014-keynote-elixir)
 * [Elixir Tooling - Eric Meadows-Jönsson (Berlin Erlang Factory Lite)](https://www.youtube.com/watch?v=7_0iOlJCL9E)
 * [Idioms for building distributed fault-tolerant applications with Elixir - José Valim (GOTO Conferences 2015)](https://www.youtube.com/watch?v=B4rOG9Bc65Q)
@@ -1026,6 +1024,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - EVENT SOURCING/CQRS
 
 * [Building CQRS/ES web applications in Elixir using Phoenix - Ben Smith](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/)
+* Derek Kraan: [Event Sourcing in Elixir](https://tech.zilverline.com/2017/04/07/elixir_event_sourcing) & [Event Sourcing: Invariants spanning multiple aggregates](https://tech.zilverline.com/2017/04/21/event-sourcing-invariants-spanning-multiple-aggregates)
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
 * [Event Sourcing and CQRS in Elixir - ElixirForum.com](http://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519/4)
 * [DDD/CQRS/ES/NoSQL and functional programming](https://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519)
@@ -1289,16 +1288,15 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Erlang & Elixir Factory SF 2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jtviHbf3fbBRWcaGDBC2u0)
 * [Lone Star Elixir 2017](http://confreaks.tv/events/lonestarelixir2017)
-* [ElixirDaze 2017](http://confreaks.tv/events/elixirdaze2017)
-* [ElixirConf 2016](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYoiEKWny0Jj72iu564bVFD)
+* ElixirDaze: [2017 videos](http://confreaks.tv/events/elixirdaze2017) | [2016 videos (Youtube)](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH) | [2016 videos (Confreaks)](http://confreaks.tv/events/elixirdaze2016)
+* ElixirConf: [2016 videos](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYoiEKWny0Jj72iu564bVFD) | [2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H) | [2014 videos](http://confreaks.tv/events/elixirconf2014)
+* ElixirConf EU: [2017 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jV6N5XEjbUQe2GkYcRkZdD) | [2016 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2gB7HUE-2H61HAEyszAph3H) | [2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
 * [Elixir.LDN 2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ivlIjzcaHS9N_Swe_0hWj0)
 * [Empire City Elixir Conf (EmpEx 2016)](https://www.youtube.com/watch?v=0SRBqHUGe28&list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
 * [Elixir videos (Vimeo)](https://vimeo.com/search?q=Elixir)
-* ElixirDaze 2016: [On Youtube](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH) & [On Confreaks](http://confreaks.tv/events/elixirdaze2016)
 * [ElixirConf 2015 videos](http://confreaks.tv/events/elixirconf2015)
     * [Keynote: The Pendulum - Bruce Tate](https://www.youtube.com/watch?v=X8rWK-g8kCQ)
     * [Confident Elixir - Lance Halvorsen](https://www.youtube.com/watch?v=9YCg9xaG47s)
-* [ElixirConf EU 2015 videos](https://www.youtube.com/watch?v=fLlItGWiVFc&list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
 * [Discovering Processes - Saša Jurić (ElixirConfEU 2016)](https://www.youtube.com/watch?v=y_b6RTes83c)
 * [Elixir Remote Meetup - DailyDrip.com](https://www.dailydrip.com/topics/elixir-remote-meetup)
 * [Three and a Half Ways Elixir Changed Me (and Other Hyperbole) - Rob Conery (NDC London 2016)](https://vimeo.com/161001513)
@@ -1929,10 +1927,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Processing Streaming Data at a Large Scale with Kafka - Thijs Cadier (RailsConf 2017)](https://www.youtube.com/watch?v=-NMDqqW1uCE)
 * [Event sourcing in practise - lessons learned - Jfokus 2017](https://www.youtube.com/watch?v=_d4mAi3qkDA)
 * [ETL Is Dead, Long Live Streams: real-time streams w/ Apache Kafka - Neha Narkhede](https://www.youtube.com/watch?v=I32hmY4diFY)
-
-#### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - SECURITY
-
-* [Apache Kafka Security: SSL, Kerberos & Authorization - Sriharsha Chintalapani & Parth Brahmbhatt (2016 Hadoop Summit San Jose)](https://www.youtube.com/watch?v=y6XvNEInPZ0)
+* [Intro to Apache Kafka and Real-Time ETL for DBAs - Gwen Shapira and Jignesh Shah](https://www.youtube.com/watch?v=DRCu3ro1g9U)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA STREAMS
 
@@ -1940,6 +1935,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Apache Samza: Distributed stream processing framework](http://samza.apache.org/)
 * [Pinot: Realtime distributed OLAP datastore (LinkedIn)](https://github.com/linkedin/pinot)
 * [Streaming Data Pipelines with Brooklin - Samarth Shetty, LinkedIn (5/24/17)](https://www.youtube.com/watch?v=VUF1oazVEuU)
+
+#### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - SECURITY
+
+* [Apache Kafka Security: SSL, Kerberos & Authorization - Sriharsha Chintalapani & Parth Brahmbhatt (2016 Hadoop Summit San Jose)](https://www.youtube.com/watch?v=y6XvNEInPZ0)
+
+#### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - PRODUCTIONIZING
+
+* [Things We Wish We Knew Before Operationalising Kafka - Sreekanth Ramakrishnan (BigData.SG & Hadoop.SG)](https://www.youtube.com/watch?v=MhyW1FUdN8I)
+* [Tuning Kafka for low latency guaranteed messaging -- Jiangjie (Becket) Qin (LinkedIn), 6/15/16](https://www.youtube.com/watch?v=oQe7PpDDdzA)
+* [Running Kafka in Production: lessons learned - Ivan Dyachkov (Klarna the KonferenSE 2016)](https://www.youtube.com/watch?v=xZ8qy5eDS48)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - LOG PERSISTENCE
 
