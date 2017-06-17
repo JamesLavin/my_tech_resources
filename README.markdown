@@ -1053,6 +1053,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - GRAPHQL
 
 * [Phoenix GraphQL Tutorial with Absinthe - Ryan Swapp](https://ryanswapp.com/2016/11/29/phoenix-graphql-tutorial-with-absinthe/)
+* [GraphQL in Practice - Bruce Williams & Benjamin Wilson (ElixirConf.EU 2017)](https://www.youtube.com/watch?v=d2qNlXtpWXM)
 
 ### ELIXIR - HEX
 
@@ -1148,6 +1149,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Basic web app with Phoenix - Michael Eatherly](http://meatherly.github.io/2015/05/04/phoenixlivelikeawarrior/) & [Phoenix app with authentication - Michael Eatherly](http://meatherly.github.io/2015/05/11/phoenixauthentication/)
 * [Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide)
 
+#### ELIXIR - PHOENIX - 1.4
+
+* [Keynote: Phoenix - Gauging Progress - Chris McCord](https://www.youtube.com/watch?v=pfFpIjFOL-I)
+
 #### ELIXIR - PHOENIX - 1.3
 
 * [Phoenix 1.2.x to 1.3.0 Upgrade Instructions - Chris McCord](https://gist.github.com/chrismccord/71ab10d433c98b714b75c886eff17357)
@@ -1187,6 +1192,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - PLUGS
 
+* [Just Enough Plug to Build a Web server - Ole Michaelis (ElixirConf.EU 2017)](https://www.youtube.com/watch?v=ESzZCaaCzyg)
 * [The Story of Conn in the world of Phoenix - Shankar Devy](http://shankardevy.github.io/code/elixir-phoenix-conn-request-life-cycle/)
 * [Phoenix: Plug.Conn](http://ricostacruz.com/cheatsheets/phoenix-conn.html)
 * [Überauth - Elixir Authentication System for Plug-based Web Applications](https://github.com/ueberauth/ueberauth)
@@ -1230,6 +1236,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Adventures in Robotics with Elixir by Jean-François Cloutier (ElixirDaze 2016)](https://www.youtube.com/watch?v=N_PXas9LtzU)
 * [Building a non-trivial robotic brain in Elixir - Jean F. Cloutier (Boston Elixir - January 2016)](https://www.youtube.com/watch?v=K4od_XhuMrk) & [Robot.ex blog](http://jfcloutier.github.io/robotex/)
 * [ExSamples: Initializes lists of maps, structs or keyword lists using tabular data in Elixir - Marlus Saraiva](https://github.com/msaraiva/exsamples)
+
+### ELIXIR - PROTOCOLS
+
+* [A Practical Guide to Elixir Protocols - Kevin Rockwood (ElixirConfEU 2017)](https://www.youtube.com/watch?v=sJvfCE6PFxY)
 
 ### ELIXIR - RIAK CORE
 
@@ -1616,7 +1626,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Q&A Panel](https://www.youtube.com/watch?v=LCNs92YQjhw)
 * [Elm Meetup Videos (recorded/hosted by Josh Adams' DailyDrip.com)](https://www.dailydrip.com/topics/elm-remote-meetup)
 * [Exploring Elm Lang - Jack Franklin (JSCamp Romania 2016)](https://www.youtube.com/watch?v=0LTjVSXvKX4)
-* [Building a Graphical IDE in Elm - Claudia Doppioslash](https://www.youtube.com/watch?v=Cfeneg48POY)
+* [Building a Graphical IDE in Elm - Claudia Doppioslash](https://www.youtube.com/watch?v=Cfeneg48POY) & [ElixirConf.EU 2017](https://www.youtube.com/watch?v=ngWo5e-294o)
 * [Adventures in Elm - Jessica Kerr (GOTO 2016)](https://www.youtube.com/watch?v=cgXhMc8M4X4)
 * [Intro to Elm - Claudia Doppioslash](https://www.youtube.com/watch?v=gJ9DSVnZKhk)
 * [Code Therapy - Danny O'Brien](https://www.youtube.com/playlist?list=PL7RY3c_PbOzGbrUb8w97LX085PSl0c8lU)
@@ -1858,6 +1868,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Event Store and Web Applications - Greg Young](https://www.infoq.com/presentations/event-store-web-apps)
 * [Event Sourcing is actually just functional code - Greg Young](https://www.youtube.com/watch?v=kZL41SMXWdM)
 * [Event Sourcing and Stream Processing at Scale - Martin Kleppmann](https://www.youtube.com/watch?v=avi-TZI9t2I)
+* [Event Sourcing & Functional Programming: a pair made in heaven - Paul Szulc (Devoxx Poland 2015)](https://www.youtube.com/watch?v=1rFY2SfdDoE)
+* [Developing Functional Domain Models with Event Sourcing - Chris Richardson (Scala By The Bay 2015)](https://www.youtube.com/watch?v=kQO0WnPo4sw)
 * [DDD & REST - Domain Driven APIs for the web - Oliver Gierke (SpringOne Platform 2016)](https://www.youtube.com/watch?v=NdZqeAAIHzc)
 * Developing Microservices With Aggregates - Chris Richardson: [(SpringOne Platform 2016)](https://www.youtube.com/watch?v=7kX3fs0pWwc) & [(Devox US 2017)](https://www.youtube.com/watch?v=gR_EGN86fvg) & [slides (SpringOne Platform 2016](https://www.slideshare.net/chris.e.richardson/developing-microservices-with-aggregates-springone-platform-s1p) & [slides (DevNexus 2017)](https://www.slideshare.net/chris.e.richardson/developing-microservices-with-aggregates-devnexus2017) & [slides (Munich Microservices Meetup 2015)](https://www.slideshare.net/chris.e.richardson/building-and-deploying-microservices-with-event-sourcing-cqrs-and-docker-microxchg-munich-microservices-meetup-2015)
 * [CQRS/DDD by Greg Young (Professional.NET 2011)](https://www.youtube.com/watch?v=KXqrBySgX-s)
@@ -1873,6 +1885,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Building and Deploying Microservices with Event Sourcing, CQRS and Docker - Chris Richardson](https://www.youtube.com/watch?v=I4A5ntHeoxU)
 * [Microservices Evolution: How to break your monolithic database - Edson Yanaga (Devoxx Belgium)](https://www.youtube.com/watch?v=6dfBd-2Oq1M)
 * [Powering Microservices with Docker, Kubernetes, Kafka and MongoDB - Andrew Morgan (MongoDB Europe 2016)](https://www.youtube.com/watch?v=F_BuRIAnvqE)
+* [Event Sourcing and CQRS - Joe McBride](https://www.youtube.com/watch?v=0cOJwYP0rss)
+* [Event Sourcing and CQRS From the Trenches - Sidney Shek (YOW! Lambda Jam 2016)](https://www.youtube.com/watch?v=d1zFoFlIneo)
 * [Immutability Changes Everything - Pat Helland](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
 * [Functional and Reactive Event Sourced Applications - Renato Cavalcanti ({codemotion Amsterdam 2016})](https://www.youtube.com/watch?v=A-oAFV5__4k)
@@ -1922,6 +1936,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [A practical introduction to event sourcing and CQRS - Robert Lemke (Neos CMS 2017)](https://www.youtube.com/watch?v=cUXi9fUqWQ0) (discusses Neos Flow for PHP)
 * [Understanding Kafka with Legos - Jesse Anderson](https://www.youtube.com/watch?v=Q5wOegcVa8E)
 * [Developing Real-Time Data Pipelines with Apache Kafka - Joe Stein](https://www.youtube.com/watch?v=GRPLRONVDWY)
+* [Rethinking Stream Processing with Apache Kafka - Michael Noll (Berlin Buzzwords 2017)](https://www.youtube.com/watch?v=ACwnrnVJXuE)
 * [Reactive Kafka - Rajini Sivaram (SpringOne Platform 2016)](https://www.youtube.com/watch?v=-ioxYn9Vlao)
 * [Introduction to Apache Kafka - James Ward (DevoxxUS 2017)](https://www.youtube.com/watch?v=UEg40Te8pnE)
 * [Processing Streaming Data at a Large Scale with Kafka - Thijs Cadier (RailsConf 2017)](https://www.youtube.com/watch?v=-NMDqqW1uCE)
