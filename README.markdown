@@ -154,6 +154,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Treat Your Code as a Crime Scene - Adam Tornhill](http://www.infoq.com/presentations/code-bugs-legacy-pitfalls)
 * [Code review advice from Thoughtbot](https://github.com/thoughtbot/guides/tree/master/code-review)
 * [Keynote: Architecture the Lost Years - Robert Martin (Ruby Midwest 2011)](http://confreaks.tv/videos/759-rubymidwest2011-keynote-architecture-the-lost-years)
+* [Talking Architecture: Small Is Beautiful - Kevlin Henney (Wix Engineering Tech Talks 2016)](https://www.youtube.com/watch?v=Y6B4jYBR4Y8)
 * [Cruft and Technical Debt: A Long View - Yehuda Katz (GoGaRuCo 2012)](http://confreaks.tv/videos/1121-gogaruco2012-cruft-and-technical-debt-a-long-view)
 * [Grasping Complexity with Both Hands - Glenn Vandenurg (GoGaRuCo 2012)](http://confreaks.tv/videos/1123-gogaruco2012-grasping-complexity-with-both-hands)
 * [Behind the Curtain: Applying lessons learned from years in the Theatre to crafting software applications - Nell Shamrell (MaidosnRuby 2012)](http://confreaks.tv/videos/1093-madisonruby2012-behind-the-curtain-applying-lessons-learned-from-years-in-the-theatre-to-crafting-software-applications)
@@ -1024,6 +1025,9 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - EVENT SOURCING/CQRS
 
 * [Building CQRS/ES web applications in Elixir using Phoenix - Ben Smith](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/)
+* [Eventstore: CQRS event store using PostgreSQL for persistence - Ben Smith](https://github.com/slashdotdash/eventstore)
+* [Commanded: Use Commanded to build Elixir CQRS/ES applications - Ben Smith](https://github.com/slashdotdash/commanded)
+* [EventSourced: Functional domain models with event sourcing in Elixir - Ben Smith](https://github.com/slashdotdash/eventsourced)
 * Derek Kraan: [Event Sourcing in Elixir](https://tech.zilverline.com/2017/04/07/elixir_event_sourcing) & [Event Sourcing: Invariants spanning multiple aggregates](https://tech.zilverline.com/2017/04/21/event-sourcing-invariants-spanning-multiple-aggregates)
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
 * [Event Sourcing and CQRS in Elixir - ElixirForum.com](http://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519/4)
@@ -1099,6 +1103,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PACKAGES
 
 * [Hex.pm (Erlang & Elixir package manager)](https://hex.pm/)
+* [Vex: Data Validation for Elixir - CargoSense](https://github.com/CargoSense/vex)
 * [Elixir Package Building & Publishing - Step by Step Guide From Scratch - Blackode](https://www.youtube.com/watch?v=Fh1fKF2tHk0)
 * [Apex: Awesome Print for Elixir](https://github.com/BjRo/apex)
 * [BEAM Toolbox: categorized catalog of Hex packages for Elixir and Erlang - Henrik Nyh](http://toolbox.elixir.pm/)
@@ -1444,6 +1449,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Landscape: architecture diagramming - Jessica Kerr](https://github.com/satellite-of-love/landscape)
 * elm-goban: [Play](http://mclauia.github.io/elm-goban/) | [Github](https://github.com/mclauia/elm-goban)
 * [capodicis-notes: Chrome extension that allows you to make notes on webpages & mark them as "done" and summarize pages - mcapodici](https://github.com/mcapodici/capodicis-notes) | [Writing a Chrome extension with Elm - Cezar Halmagean](https://mixandgo.com/blog/writing-a-chrome-extension-with-elm) | [chrome-query-params - Oliver Ash](https://github.com/OliverJAsh/chrome-query-params)
+* Richard Feldman's Elm Workshop: [2016](https://github.com/rtfeldman/elm-workshop/) | [LambdaConf 2015](https://github.com/rtfeldman/lambdaconf-2015-elm-workshop)
 * [sketch-n-sketch - Ravi Chugh et al.](http://ravichugh.github.io/sketch-n-sketch/)
 * [take-home: open-source project with every server-side and client-side component written in Elm - NoRedInk](https://github.com/NoRedInk/take-home) | [Wiki (with good notes about Elm Native](https://github.com/NoRedInk/take-home/wiki)
 * [elm-flatris - Andrey Kuzmin](https://github.com/w0rm/elm-flatris)
@@ -1458,7 +1464,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elmtris - Joseph Collard](https://github.com/jcollard/elmtris)
 * [Game of Life - Juan Lulkin](https://github.com/joaomilho/game-of-life-elm)
 * [Gravity](https://github.com/stephenbalaban/Gravity)
-* [Elm Workshop (LambdaConf 2015) - Richard Feldman](https://github.com/rtfeldman/lambdaconf-2015-elm-workshop)
 * [Minesweeper - a brief journey from JavaScript/React to Elm - Magnus Rundberget](http://rundis.github.io/blog/2015/elm_sweeper.html)
 * [Elm-missile-command](https://github.com/theburningmonk/elm-missile-command)
 * [Elm-snake (game) - Yan Cui](https://github.com/theburningmonk/elm-snake) & [Snake in Elm - Joel Chelliah](https://github.com/joelchelliah/snake_in_elm)
@@ -1552,6 +1557,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm package documentation](http://package.elm-lang.org/packages/elm-lang/core/latest)
 * [Elm search (by function name or approximate type signature)](http://klaftertief.github.io/elm-search/)
 * [Elm devtool: attempt to use Elm's (time-traveling) debugger on Chrome DevTools](https://github.com/jinjor/elm-devtool)
+* [elm-verify-examples (doctests)](https://github.com/stoeffel/elm-verify-examples)
 * [Elmalytics: view the Elm package and project ecosystem at a high level](http://elmalytics.xyz/)
 * [Trending packages on Github](https://github.com/trending/elm?since=daily)
 * [Elm package repository](http://package.elm-lang.org/)
@@ -1766,6 +1772,7 @@ Links to resources I have found useful or think might be helpful to future me or
   * [More docs](http://erlang.org/doc/apps/)
   * [More modules](http://erlang.org/doc/man_index.html)
   * [More library docs](http://erlang.org/documentation/doc-8.3/lib/)
+* [Erlang/OTP 20.0](http://erlang.org/doc/search/)
 * [An Erlang Course](http://www.erlang.org/course)
 * [Erlang.org docs](http://erlang.org/doc/) | [erlang-questions (Google group)](https://groups.google.com/forum/#!forum/erlang-questions)
 * [ErlDocs.com](http://erldocs.com/)
@@ -1843,6 +1850,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Developing Transactional Microservices Using Aggregates, Event Sourcing and CQRS - Chris Richardson: [Part 1](https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-1-richardson) & [Part 2](https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-2-richardson)
 * [Events Are Not Just for Notifications - Greg Young (QCon 2011)](https://www.infoq.com/presentations/Events-Are-Not-Just-for-Notifications)
 * [Reactive Microservices Architecture (Jonas Bonér) (free book from O'Reilly)](http://www.oreilly.com/programming/free/reactive-microservices-architecture-orm.csp)
+* [The evolution of scalable microservices - Jonas Bonér](https://www.oreilly.com/ideas/the-evolution-of-scalable-microservices)
 * [The Many Meanings of Event-Driven Architecture - Martin Fowler (GOTO Chicago 2017)](https://www.youtube.com/watch?v=STKCRSUsyP0)
 * [Migrating to Microservice Databases: From Relational Monolith to Distributed Data - Edson Yanaga (free book from O'Reilly)](http://www.oreilly.com/programming/free/files/migrating-to-microservice-databases.pdf)
 * [The Evolution of Microservices - Adrian Cockcroft (Association for Computing Machinery (ACM) 2016)](https://www.youtube.com/watch?v=Mg4Cs2K7f98)
@@ -1936,7 +1944,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [A practical introduction to event sourcing and CQRS - Robert Lemke (Neos CMS 2017)](https://www.youtube.com/watch?v=cUXi9fUqWQ0) (discusses Neos Flow for PHP)
 * [Understanding Kafka with Legos - Jesse Anderson](https://www.youtube.com/watch?v=Q5wOegcVa8E)
 * [Developing Real-Time Data Pipelines with Apache Kafka - Joe Stein](https://www.youtube.com/watch?v=GRPLRONVDWY)
-* [Rethinking Stream Processing with Apache Kafka - Michael Noll (Berlin Buzzwords 2017)](https://www.youtube.com/watch?v=ACwnrnVJXuE)
 * [Reactive Kafka - Rajini Sivaram (SpringOne Platform 2016)](https://www.youtube.com/watch?v=-ioxYn9Vlao)
 * [Introduction to Apache Kafka - James Ward (DevoxxUS 2017)](https://www.youtube.com/watch?v=UEg40Te8pnE)
 * [Processing Streaming Data at a Large Scale with Kafka - Thijs Cadier (RailsConf 2017)](https://www.youtube.com/watch?v=-NMDqqW1uCE)
@@ -1946,6 +1953,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA STREAMS
 
+* [Rethinking Stream Processing with Apache Kafka - Michael Noll (Berlin Buzzwords 2017)](https://www.youtube.com/watch?v=ACwnrnVJXuE)
 * [Interactive Queries in Apache Kafka Streams - Florian Troßbach](https://blog.codecentric.de/en/2017/03/interactive-queries-in-apache-kafka-streams/)
 * [Apache Samza: Distributed stream processing framework](http://samza.apache.org/)
 * [Pinot: Realtime distributed OLAP datastore (LinkedIn)](https://github.com/linkedin/pinot)
@@ -1968,6 +1976,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - PROCESS MANAGERS & SAGAS
 
+* Distributed Sagas: A Protocol for Coordinating Microservices - Caitie McAffrey: [(.NET Fringe 2017)](https://www.youtube.com/watch?v=1H6tounpnG8) | [On the Beach 2017 (Malaga, Spain)](https://www.youtube.com/watch?v=0UTOLRTwOX0)
 * [A Saga on Sagas - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/jj591569.aspx)
 * [Using sagas to maintain data consistency in a microservice architecture - Chris Richardson (DevoxxUK 2017)](https://www.youtube.com/watch?v=YPbGW3Fnmbc)
 * [Applying the Saga Pattern - Caitie McCaffrey (GOTO 2015)](https://www.youtube.com/watch?v=xDuwrtwYHu8)
@@ -5487,6 +5496,10 @@ Peter R. Egli:
 * [Tim Cowlishaw - From Ruby to Scala and back again: Better living through type-checking - Tim Colishaw (Ruby Manor 4.0)](http://vimeo.com/79180652)
 * [Scala: The Simple Parts - Martin Odersky (GOTO Conf 2014)](https://www.youtube.com/watch?v=P8jrvyxHodU)
 * Scala talks: [Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=scala&commit=go) & [Youtube](https://www.youtube.com/results?q=scala+language)
+
+## SCIENCE FICTION (SCI FI)
+
+* [Mindwebs: Science Fiction stories read by Michael Hanson](https://archive.org/details/MindWebs_201410/)
 
 ## SCRATCH
 
