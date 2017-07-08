@@ -29,6 +29,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## BLOCKCHAINS
 
+* [Blockchain: The Slowest (and most Fascinating) Database in the World - Stefan Tilkov (GOTO Amsterdam 2017)](https://www.youtube.com/watch?v=li3rfBAP_fE)
 * [What the #?!* is Bitcoin? - Jeremy Rubin (TEDxBeaconStreet)](https://www.youtube.com/watch?v=Vzjtvt77mgc)
 * [Blockchain Disruption: How Bitcoin Technology Creates a Sharing Economy - Thomas Ramge (TEDxHamburg)](https://www.youtube.com/watch?v=ZF0iCdYkXTM)
 
@@ -291,6 +292,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## DATA - ANALYSIS
 
 * [Kaggle.com](https://www.kaggle.com/)
+* [Dataconomy](http://dataconomy.com/)
 * [Data Driven NYC videos (Nov 2014)](https://www.youtube.com/channel/UCQID78IY6EOojr5RUdD47MQ/videos)
 
 ### DATA - APIS
@@ -547,6 +549,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Docker 101: Introduction to Docker - Andrew T. Baker (PyCon 2015)](https://www.youtube.com/watch?v=YiZkHUbE6N0) & [Demystifying Docker - Andrew T. Baker (PyCon 2015)](https://www.youtube.com/watch?v=GVVtR_hrdKI)
 * [The Docker Book - James Turnbull](http://dockerbook.com/)
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
+* [Docker Youtube channel](https://www.youtube.com/user/dockerrun)
 * [Docs.Docker.com](https://docs.docker.com/)
 * [Docker Tutorials - DarkZebra](https://www.youtube.com/playlist?list=PLfpPfDziPdMIbc7p-_siXYwqsRnd3jrLM)
 * Docker Overview - Rimantas Mocevicius: [Part 1](https://deis.com/blog/2016/docker-overview-pt-1/) | [Part 2](https://deis.com/blog/2016/docker-overview-pt-2/)
@@ -623,9 +626,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - DOCKER - VIDEOS
 
+* DockerCon: [2017](https://www.youtube.com/playlist?list=PLkA60AVN3hh_nihZ1mh6cO3n-uMdF7UlV) | [2016](https://www.youtube.com/playlist?list=PLkA60AVN3hh9gnrYwNO6zTb9U3i1Y9FMY) | [2015](https://www.youtube.com/playlist?list=PLkA60AVN3hh94tm0_6_rGxamkuHOLr30l)
 * ContainerSummit.io: [2016 New York](http://containersummit.io/events/nyc-2016/videos) | [San Francisco 2015](http://containersummit.io/events/sf-2015/videos)
 * [DockerCon Online Meetup 2015](http://confreaks.tv/events/dockeronlinemeetup2015)
-* [DockerCon EU 2015](http://confreaks.tv/events/dockerconeu2015)
+* [DockerCon EU 2015](https://www.youtube.com/playlist?list=PLLt1Xd0I4hRB5hWCjEQhZw2pwY8GTCyDA)
 * [DockerCon & Co](http://confreaks.tv/events/docker&co2015)
 
 ### DEVOPS - DOCKER - VOLUMES
@@ -645,6 +649,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - KUBERNETES
 
 * Kubernetes: [Docs](https://kubernetes.io/) | [Tutorials](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Tasks](https://kubernetes.io/docs/tasks/) | [Concepts](https://kubernetes.io/docs/concepts/) | [Github](https://github.com/kubernetes/kubernetes)
+* [Kubernetes Youtube channel](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg)
 * kubectl: [Cheatsheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/) | [Overview](https://kubernetes.io/docs/user-guide/kubectl-overview/)
 * [Kubernetes 101 for Developers - Ross Kukulinski](https://github.com/rosskukulinski/kubernetes-101-for-devs)
 
@@ -944,6 +949,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - DEPLOYMENT
 
+* A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes - Rohan Relan: [Part 1: Setting up Distillery](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-1-setting-up-d88b35b64dcd) | [Part 2: Docker and Minikube](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-2-docker-and-81e934c3fceb) | [Part 3: Deploying to Kubernetes](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-3-deploying-to-bd5b1fcbef87) | [Part 4: Secret Management](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-4-secret-f851d575bdd1) | [Part 5: Clustering Elixir & Phoenix Channels](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-5-clustering-6c30fcd35ce1)
 * Deploy Early and Often: Deploying Phoenix with Edeliver and Distillery - Zek Interactive: [Part 1](https://medium.com/@zek/deploy-early-and-often-deploying-phoenix-with-edeliver-and-distillery-part-one-5e91cac8d4bd) & [Part 2](https://medium.com/@zek/deploy-early-and-often-deploying-phoenix-with-edeliver-and-distillery-part-two-f361ef36aa10)
 * [State of the art in deploying Elixir / Phoenix applications - Piotr Włodarek](https://hackernoon.com/state-of-the-art-in-deploying-elixir-phoenix-applications-fe72a4563cd8)
 * [Deployment - ElixirForum.com](https://elixirforum.com/c/elixir-help/deployment)
@@ -1356,10 +1362,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
 * [Developer Happiness on the Front End with Elm - Kevin Yank (RailsConf 2017)](https://www.youtube.com/watch?v=C2npla7DwVk)
 * [Elm in production - Richard Feldman (Devoxx 2017)](https://www.youtube.com/watch?v=XsNk5aOpqUc)
+* [Introducing Elm to a JavaScript App - Richard Feldman (GOTO Chicago 2017)](https://www.youtube.com/watch?v=28aJOb1A34o)
 * [Elm in Production: Surprises & Pain Points - Kevin Yank (2017)](https://www.youtube.com/watch?v=LZj_1qVURL0)
 * [Ninety-nine Problems, Solved in Elm - John Crane](https://www.gitbook.com/book/johncrane/ninety-nine-elm-problems/details)
 * [Toward a Better Front End Architecture: Elm - Jeremy Fairbank (Codemash 2017)](https://www.youtube.com/watch?v=EDp6UmaA9CM)
 * [Elm: A Beginners' Guide to Elm and Data - Luke Westby & Jeff Schomay](https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940)
+* James Kolce: [Why Elm? (And How To Get Started With It)](https://css-tricks.com/elm-get-started/) | [Intro to The Elm Architecture and How to Build our First App](https://css-tricks.com/introduction-elm-architecture-build-first-application/) | [The Structure of an Elm Application](https://css-tricks.com/structure-elm-application/)
 * [Beginning Elm - Pawan Poudel](http://elmprogramming.com/)
 * [Putting the Fun in Functional With Elm - Tereza Sokol (ReactEurope 2017)](https://www.youtube.com/watch?v=a0039_JRAQo)
 * [Commanding the Elm Architecture - Kyle Kress (Sept 2016)](https://www.bigmarker.com/joncfoo/Commanding-the-Elm-Architecture)
@@ -1888,6 +1896,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [CQRS & Event Sourcing blog - Daniel Whittaker](http://danielwhittaker.me/)
 * [When, Why, and How to CQRS - Sebastian Daschner (2017)](https://www.youtube.com/watch?v=iK8x1mUPwCE)
 * [The 6 Rules for Modernizing Your Legacy Java Monolith with Microservices - Kevin Webber (Lightbend)](https://www.youtube.com/watch?v=A-IMfF15FZA)
+* [The Seven (More) Deadly Sins of Microservices - Daniel Bryant (GOTO Chicago 2017)](https://www.youtube.com/watch?v=NP189MPfR7Q)
 * [Commander: Better Distributed Applications through CQRS and Event Sourcing - Bobby Calderwood](https://www.youtube.com/watch?v=B1-gS0oEtYc) & [code](https://github.com/capitalone/cqrs-manager-for-distributed-reactive-services)
 * [Domain-Driven Design for the Database Driven Mind - Julie Lerman (2015)](https://www.youtube.com/watch?v=CjNBnkMHjh4)
 * [Built to last: A domain-driven approach to beautiful systems - Andrew Hao](https://www.youtube.com/watch?v=52qChRS4M0Y)
@@ -1967,6 +1976,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [When Microservices Meet Event Sourcing - Vinicius Gomes (O'Reilly Software Architecture Conference NYC 2017)](https://www.youtube.com/watch?v=cISNDnwlSgw)
 * [Apache Kafka and the Next 700 Stream Processing Systems - Jay Kreps](https://www.youtube.com/watch?v=9RMOc0SwRro)
 * [Reducing Microservice Complexity with Kafka and Reactive Streams - Jim Riecken (Scala Days New York 2016)](https://www.youtube.com/watch?v=k_Y5ieFHGbs)
+* [Stream All Things - Patterns of Modern Data Integration - Gwen Shapira (GOTO Chicago 2017)](https://www.youtube.com/watch?v=Hjae0Cw9oew)
 * [A practical introduction to event sourcing and CQRS - Robert Lemke (Neos CMS 2017)](https://www.youtube.com/watch?v=cUXi9fUqWQ0) (discusses Neos Flow for PHP)
 * [Understanding Kafka with Legos - Jesse Anderson](https://www.youtube.com/watch?v=Q5wOegcVa8E)
 * [Developing Real-Time Data Pipelines with Apache Kafka - Joe Stein](https://www.youtube.com/watch?v=GRPLRONVDWY)
@@ -3697,6 +3707,13 @@ Peter R. Egli:
 
 ### PROGRAMMING - VIDEOS
 
+* [GOTO channel](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
+  * [GOTO Chicago 2017](https://www.youtube.com/playlist?list=PLEx5khR4g7PJ94PpgvNx6WohYcGQHY9UJ)
+  * [GOTO Amsterdam 2017](https://www.youtube.com/playlist?list=PLEx5khR4g7PLcjLdaugk3GndelpTGbYDS)
+  * [GOTO Berlin 2016](https://www.youtube.com/playlist?list=PLEx5khR4g7PLS61IPnBCbpB3XjPfVGm-Q)
+  * [GOTO London 2016](https://www.youtube.com/playlist?list=PLEx5khR4g7PKoaARvtC9b2xLcnX_lKgHS)
+  * [GOTO Stockholm Nights: Data-Driven Decisions](https://www.youtube.com/playlist?list=PLEx5khR4g7PLoyjuEC4IKj_2-p48YshUc)
+  * [GOTO Copenhagen 2016](https://www.youtube.com/playlist?list=PLEx5khR4g7PIu7g3dXpwnGFdV69Wp-wce)
 * [NDC Conferences (Over 1,100 conference videos)](https://vimeo.com/ndcconferences)
 * [SkillsMatter.com/Skillscasts](https://skillsmatter.com/skillscasts)
 * [InfoQ.com videos](http://www.infoq.com/presentations/)
@@ -5715,6 +5732,7 @@ Peter R. Egli:
 ### VIM - PLUGIN DOCS
 
 * [ack.vim](https://raw.githubusercontent.com/mileszs/ack.vim/master/doc/ack.txt)
+* [Asynchronous Lint Engine (A.L.E.)](https://github.com/w0rp/ale)
 * [Command-T](https://github.com/wincent/Command-T)
 * [ctags](http://ctags.sourceforge.net/) & [Using Vim and Exuberant CTags for easy source navigation](http://benoithamelin.tumblr.com/post/15101202004/using-vim-exuberant-ctags-easy-source-navigation) [Manual](http://ctags.sourceforge.net/ctags.html) & [FAQ](http://ctags.sourceforge.net/faq.html)
 * [ctrlp.vim](https://github.com/kien/ctrlp.vim/blob/master/readme.md#readme)
@@ -5743,6 +5761,10 @@ Peter R. Egli:
 ### VIM - JAVASCRIPT
 
 * [jslint.vim](https://github.com/hallettj/jslint.vim)
+
+### VIM - NEOVIM
+
+* [NeoVim.io](https://neovim.io/)
 
 ### VIM - PYTHON
 
