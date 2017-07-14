@@ -1181,6 +1181,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - AUTHENTICATION
 
+* [User Authentication in Phoenix with Guardian & Überauth - Ulan Abdurazakov](http://screencasts.tech/posts/user-authentication-in-phoenix-with-guardian-uberauth)
 * [Passwordless login with phoenix - Thiago Borges (July 2016)](http://inaka.net/blog/2016/07/27/passwordless-login-with-phoenix/)
 * [Elixir/Phoenix — Build a simple chat room - Stephan Bakkelund Valois](https://medium.com/@Stephanbv/elixir-phoenix-build-a-simple-chat-room-7f20ee8e8f9c#.gduhrghi2)
 * [Authentication in Phoenix/Elixir app with Ueberauth and Guardian - Ulan Abdurazakov](https://www.youtube.com/watch?v=X6Z-sDSJ3sE)
@@ -1461,6 +1462,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - CODE EXAMPLES
 
 * [25 Elm examples - starting from an static view and gradually progressing to an interactive web app with routing - Bryan Jennings](https://github.com/bryanjenningz/25-elm-examples)
+* [Phoenix Elm Battleship - Ricardo García Vega](https://github.com/bigardone/phoenix-elm-battleship)
 * [elm-autocomplete - Greg Ziegan](https://github.com/thebritican/elm-autocomplete)
 * [Creating a Fun Game with Elm - Andrey Kuzmin & Kolja Wilcke (Curry On 2016)](https://www.youtube.com/watch?v=En2BKs8unnQ)
 * [Start app - Evan Czaplicki](https://github.com/evancz/start-app)
@@ -1653,7 +1655,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - VIDEOS
 
 * [Elm and React in production - Richard Feldman (ReactiveConf 2016)](https://www.youtube.com/watch?v=3FNKaGm3gk0)
-* [Elm Conf 2016 videos](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
+* [Elm Europe 2017](https://www.youtube.com/playlist?list=PL-cYi7I913S8cGyZWdN6YVZ028iS9BfpM)
+* [Elm Conf 2016](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
     * [Making Impossible States Impossible - Richard Feldman](https://www.youtube.com/watch?v=IcgmSRJHu_8)
     * [Beyond Hello World and Todo Lists - Ossi Hanhinen](https://www.youtube.com/watch?v=vpc80c5iC6k)
     * [Code Is the Easy Part - Evan Czaplicki](https://www.youtube.com/watch?v=DSjbTC-hvqQ)
@@ -1675,6 +1678,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Writing A Full Site in Phoenix and Elm - Brandon Richey: [Part 1](https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-a100804c9499#.3tzhbd8nt) | [Part 2: Making HTTP Calls From Elm](https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-a4622c5130f5#.rezd1mhxi) | [Part 3: Navigation From the Ground Up](https://medium.com/@diamondgfx/writing-a-full-site-in-phoenix-and-elm-8f50ba4382a3#.ffhrag5da)
 * [Climbing into Elm - Murphy Randle (Utah Javascript Meetup 2014)](https://www.youtube.com/watch?v=-JlC2Q89yg4)
 * [How to Think Elm - Amitai Burstein (Gizra)](http://www.gizra.com/content/how-think-elm/)
+* [Skillscasts](https://skillsmatter.com/explore?content=skillscasts&location=&q=Elm)
 * [Elm Remote Meetup #2 - Luke Westby & Josh Adams](https://www.youtube.com/watch?v=qmQo9jtXMSo) | [slides](https://slides.com/lukewestby/elm-stuff) | [code](https://github.com/lukewestby/elm-remote-meetup-july-2016)
 * [What to do with your new Elm install - Claudia Doppioslash](http://www.lambdacat.com/what-to-do-with-your-new-elm-install/)
 * [My adventure with Elm - Yan Cui (New Developers Conference 2015)](https://www.youtube.com/watch?v=cBVXyxt-9_Q)
@@ -1878,6 +1882,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Event Sourcing, Distributed Systems & CQRS - Sebastian Daschner](https://www.youtube.com/watch?v=CYocFQvl6s0&list=PLEV9ul4qfGOZ5gWIPMlFGMUpenSs1EvxZ) & [scalable-coffee-shop (event-driven example app in Java)](https://github.com/sdaschner/scalable-coffee-shop)
 * [Exploring CQRS and Event Sourcing - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
 * [Introduction to CQRS and Event Sourcing Patterns - Mathew McLoughlin (NDC Conference 2017)](https://www.youtube.com/watch?v=9a1PqwFrMP0) & [example code](https://github.com/mat-mcloughlin/PatientMangement)
+* [Effective Microservices in a Data-Centric World - Randy Shoup (GOTO Chicago 2017)](https://www.youtube.com/watch?v=whi0T1a4cWU)
 * [Domain-Driven Design Quickly - Abel Avram and with Floyd Marinescu (free book from InfoQ)](https://www.infoq.com/minibooks/domain-driven-design-quickly)
 * Developing Transactional Microservices Using Aggregates, Event Sourcing and CQRS - Chris Richardson: [Part 1](https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-1-richardson) & [Part 2](https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-2-richardson)
 * [Events Are Not Just for Notifications - Greg Young (QCon 2011)](https://www.infoq.com/presentations/Events-Are-Not-Just-for-Notifications)
@@ -1935,6 +1940,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional and Reactive Event Sourced Applications - Renato Cavalcanti ({codemotion Amsterdam 2016})](https://www.youtube.com/watch?v=A-oAFV5__4k)
 * [Panel: "DDD/CQRS/ES" (wroc_love.rb 2015)](https://www.youtube.com/watch?v=Rh2A96rpGpY)
 * Konrad Garus: [Intro to Event Sourcing and Command-Query Responsibility Segregation](http://squirrel.pl/blog/2015/08/31/introduction-to-event-sourcing-and-command-query-responsibility-segregation/) | [Achieving Consistency in CQRS with Linear Event Store](http://squirrel.pl/blog/2015/09/14/achieving-consistency-in-cqrs-with-linear-event-store/) | [Writing an Event-Sourced CQRS Read Model](http://squirrel.pl/blog/2015/09/22/writing-an-event-sourced-cqrs-read-model/) | [Persistence in CQRS Read Models](http://squirrel.pl/blog/2015/09/28/persistence-in-cqrs-read-models/)
+* [Advanced Topics in Event Sourcing / CQRS / DDD - Sebastian Harko](https://github.com/sebastianharko/adv-es-cqrs-ddd)
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - BOOKS (NON-FREE)
 
@@ -1968,6 +1974,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Papers & Presentations](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations)
     * [Wiki](https://cwiki.apache.org/confluence/display/KAFKA/Index)
     * [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
+* [Kafka Summit NYC 2017 videos & slides](https://www.confluent.io/kafka-summit-nyc17/resource/)
 * Ben Stopford (Confluent): [The Data Dichotomy- Rethinking the Way We Treat Data and Services](https://vimeo.com/205275868/4f90eb476f) | [Building Event-Driven Services with Apache Kafka](https://vimeo.com/210647286/91a0bf8cb5) | [Putting the Micro into Microservices with Stateful Stream Processing](https://vimeo.com/214730078/d2c85c9227)
 * [Build Services on a Backbone of Events - Ben Stopford](https://www.confluent.io/blog/build-services-backbone-events/)
 * [Distributed Commit Log: Application Techniques for Transaction Processing - David McNeil](https://www.youtube.com/watch?v=X2g0FFOV2e0)
@@ -2014,6 +2021,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Distributed Sagas: A Protocol for Coordinating Microservices - Caitie McAffrey: [(.NET Fringe 2017)](https://www.youtube.com/watch?v=1H6tounpnG8) | [On the Beach 2017 (Malaga, Spain)](https://www.youtube.com/watch?v=0UTOLRTwOX0)
 * [A Saga on Sagas - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/jj591569.aspx)
+* [If (domain logic) then CQRS, or Saga? - Udi Dahan (Domain-Driven Design Europe 2017)](https://www.youtube.com/watch?v=fWU8ZK0Dmxs)
 * [Using sagas to maintain data consistency in a microservice architecture - Chris Richardson (DevoxxUK 2017)](https://www.youtube.com/watch?v=YPbGW3Fnmbc)
 * [Applying the Saga Pattern - Caitie McCaffrey (GOTO 2015)](https://www.youtube.com/watch?v=xDuwrtwYHu8)
 * [Failing (and recovering) asynchronously: a saga - Daniel Solano Gómez](https://www.youtube.com/watch?v=YYIluVvqQH8)
@@ -2024,6 +2032,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Distributed Sagas: A Protocol for Coordinating Microservices - Caitie McCaffrey](https://speakerdeck.com/caitiem20/distributed-sagas-a-protocol-for-coordinating-microservices)
 * [If (domain logic) then CQRS, or Saga? - Udi Dahan (Domain-Driven Design Europe 2017)](https://www.youtube.com/watch?v=fWU8ZK0Dmxs)
 * [Sagas (the original paper) - Hector Garcia-Molina & Kenneth Salem (1987)](https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
+* [We Hear You Like Papers: Eventual Consistency - Caitie McCaffrey](https://speakerdeck.com/caitiem20/we-hear-you-like-papers-eventual-consistency)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - PROCESS MANAGERS & SAGAS - IMPLEMENTATIONS
 
@@ -2033,6 +2042,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Eventuate.io](http://eventuate.io/) \ [Github](https://github.com/eventuate-local/eventuate-local)
 * [GetEventStore.com](https://geteventstore.com/)
+
+### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - SCHEMAS
+
+* [The Elephant in the Room - Greg Young (DDD eXchange 2017)](https://skillsmatter.com/skillscasts/9652-the-elephant-in-the-room)
+* [The Dark Side of Event Sourcing: Managing Data Conversion - Michiel Overeem, Marten Spoor, and Slinger Jansen](http://files.movereem.nl/2017saner-eventsourcing.pdf)
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - STORIES
 
@@ -2115,6 +2129,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - BOOKS
 
+* [Type Theory and Functional Programming - Simon Thompson](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) | [PDF](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
 * [The Implementation of Functional Programming Languages - Simon Peyton Jones (1987)](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/)
 * [Implementing Lazy Functional Languages on Stock Hardware: The Spineless Tagless G-machine - Simon Peyton Jones (1992)](https://www.microsoft.com/en-us/research/publication/implementing-lazy-functional-languages-on-stock-hardware-the-spineless-tagless-g-machine/)
 
@@ -3135,6 +3150,7 @@ Peter R. Egli:
 * [Lisp in Small Parts - ](http://lisp.plasticki.com/show?14F)
 * [Common Lisp Wikibooks](https://en.wikibooks.org/wiki/Common_Lisp)
 * [Lisp Tutorial - TutorialsPoint.com](https://www.tutorialspoint.com/lisp/lisp_tutorial.pdf)
+* [Intro to LISP - Milos Hauskrecht](https://people.cs.pitt.edu/~milos/courses/cs2740/Lectures/LispTutorial.pdf)
 * [Common Lisp Hints - Geoffrey J. Gordon](http://www.n-a-n-o.com/lisp/cmucl-tutorials/LISP-tutorial.html)
 * Steel Bank Common Lisp: [webpage](http://www.sbcl.org/) | [PDF documentation](http://www.sbcl.org/manual/sbcl.pdf) | [HTML documentation](http://www.sbcl.org/manual/index.html)
 * SLIME Lisp: [webpage](http://www.cliki.net/slime-howto) | [PDF documentation](http://common-lisp.net/project/slime/doc/slime.pdf) | [HTML documentation](http://common-lisp.net/project/slime/doc/html/)
