@@ -543,7 +543,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Docker Self-Paced Training videos](https://training.docker.com/self-paced-training)
 * [Docker tutorial videos - Scott Turnbull](https://www.youtube.com/playlist?list=PLLOtMDswK0Iu0m0wseAXTzavCWji7qso7)
 * Docker Tutorials: [1: Installing Docker](https://www.youtube.com/watch?v=bV5vbNK3Uhw) | [2: Docker Run Basics](https://www.youtube.com/watch?v=uTe08FxoKrU) | [3: Fun With Volumes](https://www.youtube.com/watch?v=rlK1JYsM6Aw) | [4: More Run With Extra Goodies](https://www.youtube.com/watch?v=ZgjHM1XmAKI) | [5: Basic Networking](https://www.youtube.com/watch?v=3uvqEC8fWV0) | [6: Dockerfiles (Part 1)](https://www.youtube.com/watch?v=gG_x28rDxus) | [7: Dockerfiles (Part 2)](https://www.youtube.com/watch?v=L6bjTlVdc6U) | [8: Troubleshooting with Sysdig](https://www.youtube.com/watch?v=S-fYCOMnsbY) | [9: Docker Machine](https://www.youtube.com/watch?v=3zXe3uXQnSY) | [10: Docker Compose](https://www.youtube.com/watch?v=gtoT0By8yh4) | [11: Docker Swarm](ihttps://www.youtube.com/watch?v=zTKGfPfhg78) | [12: Kitematic](https://www.youtube.com/watch?v=50IZ-AHPKo0) | [13: Getting Started with experimental Docker Networking](https://www.youtube.com/watch?v=gZ6UKym9ZIs) | [Full List](https://www.youtube.com/playlist?list=PLkA60AVN3hh_6cAz8TUGtkYbJSL2bdZ4h)
-* Docker videos: [Youtube](https://www.youtube.com/user/dockerrun) | [Confreaks](http://confreaks.tv/search?utf8=%E2%9C%93&query=Docker&commit=go)
+* [Awesome Docker - curated resources](https://github.com/veggiemonk/awesome-docker)
 * [Docker for Data Scientists - Michelangelo D'Agostino (Strata 2016)](https://www.youtube.com/watch?v=GOW6yQpxOIg)
 * [DockerCon 2015](https://www.youtube.com/watch?v=DfHcN3ZvjjU&list=PLenh213llmcbpJ78mZdh5pnJ_feVT9bez)
 * [Docker 101: Introduction to Docker - Andrew T. Baker (PyCon 2015)](https://www.youtube.com/watch?v=YiZkHUbE6N0) & [Demystifying Docker - Andrew T. Baker (PyCon 2015)](https://www.youtube.com/watch?v=GVVtR_hrdKI)
@@ -610,6 +610,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Mesos - Apache](http://mesos.apache.org/)
 
+##### DEVOPS - DOCKER - NETWORKING
+
+* Networking for Docker Containers (a Primer) - Fernando Sanchez: [Part I](https://mesosphere.com/blog/2017/03/23/networking-docker-containers/) | [Part 2](https://mesosphere.com/blog/2017/04/25/networking-docker-containers-part-ii-service-discovery-traditional-apps-microservices/?utm_source=mesosphere&utm_medium=blog&utm_content=part1)
+
 #### DEVOPS - DOCKER - OSX
 
 * [Installation](https://docs.docker.com/engine/installation/mac/)
@@ -628,6 +632,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * DockerCon: [2017](https://www.youtube.com/playlist?list=PLkA60AVN3hh_nihZ1mh6cO3n-uMdF7UlV) | [2016](https://www.youtube.com/playlist?list=PLkA60AVN3hh9gnrYwNO6zTb9U3i1Y9FMY) | [2015](https://www.youtube.com/playlist?list=PLkA60AVN3hh94tm0_6_rGxamkuHOLr30l)
 * ContainerSummit.io: [2016 New York](http://containersummit.io/events/nyc-2016/videos) | [San Francisco 2015](http://containersummit.io/events/sf-2015/videos)
+* [Youtube](https://www.youtube.com/user/dockerrun)
+* [Confreaks](http://confreaks.tv/search?utf8=%E2%9C%93&query=Docker&commit=go)
 * [DockerCon Online Meetup 2015](http://confreaks.tv/events/dockeronlinemeetup2015)
 * [DockerCon EU 2015](https://www.youtube.com/playlist?list=PLLt1Xd0I4hRB5hWCjEQhZw2pwY8GTCyDA)
 * [DockerCon & Co](http://confreaks.tv/events/docker&co2015)
@@ -901,6 +907,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir v1.2 released](http://elixir-lang.org/blog/2016/01/03/elixir-v1-2-0-released/)
 * [Elixir 1.2 and Elixir in Action](http://theerlangelist.com/article/eia_elixir_12)
 
+### ELIXIR - ALGEBRAIC DATA TYPES
+
+* [Algae: Bootstrapped algebraic data types](https://github.com/expede/algae)
+* [Witchcraft: library providing common algebraic & categorical abstractions (monoids, functors, monads, arrows, & categories)](https://github.com/expede/witchcraft)
+
 ### ELIXIR - ATLAS
 
 * [Atlas (ORM)](https://github.com/chrismccord/atlas)
@@ -915,6 +926,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Weekly](https://elixirweekly.net/)
 * [The Erlang eList](http://theerlangelist.com/)
 * Hashrocket: [TIL](https://til.hashrocket.com/elixir) & [blog](https://hashrocket.com/blog/tags/elixir)
+* [Iacobson.net](http://iacobson.net/index?tag=elixir)
 * [Plataformatec](http://blog.plataformatec.com.br/tag/elixir/)
 * [The Pug Automatic - Henrik Nyh](http://thepugautomatic.com/)
 * [Red Shift](https://shift.infinite.red/tagged/elixir)
@@ -969,6 +981,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Deploy Elixir Application To AWS Elastic Beanstalk - Michal Kalbarczyk](https://medium.com/@fazibear/deploy-elixir-application-74e1bce100c6#.hkmdp7i75)
 * [How to Set up a Distributed Elixir Cluster on Amazon EC2 - Benjamin Tan Wei Hao](http://engineering.pivotal.io/post/how-to-set-up-an-elixir-cluster-on-amazon-ec2/)
 
+#### ELIXIR - DEPLOYMENT - BOOTLEG
+
+* [Docs](https://hexdocs.pm/bootleg/readme.html) | [Github](https://github.com/labzero/bootleg)
+
 #### ELIXIR - DEPLOYMENT - CONFORM
 
 * [Conform: library to adapt your application to its deployed environment](https://github.com/bitwalker/conform)
@@ -982,6 +998,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - DEPLOYMENT - DOCKER
 
+* [How to use Elixir with Docker? - Kamil Lelonek](https://blog.lelonek.me/how-to-use-elixir-with-docker-836c9b4a25b0)
 * [Bottling Elixir with Docker - Part 1 - Paul Lamb](https://paullamb.exposed/blog/2017/1/11/bottling-elixir-with-docker-part-1)
 
 #### ELIXIR - DEPLOYMENT - EDELIVER
@@ -1134,6 +1151,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Measuring your Elixir Application - Renan Ranelli (ElixirConf 2016)](https://www.youtube.com/watch?v=3KhzyDDju0Q) | [Blog post: "A guide to measuring your Elixir app](http://milhouseonsoftware.com/2016/05/08/measuring-your-elixir-application/)
 * [vmstats: gathers metrics on the Erlang VM and sends them to a configurable sink - Fred Hebert](https://github.com/ferd/vmstats)
 * [Gathering metrics in Elixir applications - Andrea Leopardi](http://tech.footballaddicts.com/blog/gathering-metrics-in-elixir-applications)
+* [The Elixir Bottleneck - Dorian Iacobescu](http://iacobson.net/the-elixir-bottleneck/)
 
 ### ELIXIR - PHOENIX
 
@@ -1364,6 +1382,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Developer Happiness on the Front End with Elm - Kevin Yank (RailsConf 2017)](https://www.youtube.com/watch?v=C2npla7DwVk)
 * [Elm in production - Richard Feldman (Devoxx 2017)](https://www.youtube.com/watch?v=XsNk5aOpqUc)
 * [Introducing Elm to a JavaScript App - Richard Feldman (GOTO Chicago 2017)](https://www.youtube.com/watch?v=28aJOb1A34o)
+* [Tame the Frontend with Elm - Jeremy Fairbank (FluentConf June 2017)](https://www.youtube.com/watch?v=D740qUZVcr4)
 * [Elm in Production: Surprises & Pain Points - Kevin Yank (2017)](https://www.youtube.com/watch?v=LZj_1qVURL0)
 * [Ninety-nine Problems, Solved in Elm - John Crane](https://www.gitbook.com/book/johncrane/ninety-nine-elm-problems/details)
 * [Toward a Better Front End Architecture: Elm - Jeremy Fairbank (Codemash 2017)](https://www.youtube.com/watch?v=EDp6UmaA9CM)
@@ -1534,8 +1553,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Writing Friendly Elm Code - NoRedInk.com](http://tech.noredink.com/post/146963432518/writing-friendly-elm-code)
 * [Maybe Thinking - Josh Clayton](https://robots.thoughtbot.com/maybe-thinking)
 * [Elm Maybe - Dealing with null/Nothing - Magnus Rundberget](http://rundis.github.io/blog/2016/elm_maybe.html)
-* [Functional Sets, Part 1: Construction](https://www.brianthicks.com/post/2016/11/13/functional-sets-part-1-construction/)
-* [Functional Sets, Part 6: Union and Remove](https://www.brianthicks.com/post/2017/01/16/functional-sets-part-6-union-and-remove/)
+* Functional Sets - Brian Hicks: [Part 1: Construction](https://www.brianthicks.com/post/2016/11/13/functional-sets-part-1-construction/) | [Part 2: Rotation](https://www.brianthicks.com/post/2016/11/21/functional-sets-part-2-rotation/) | [Part 3: Balancing](https://www.brianthicks.com/post/2016/11/27/functional-sets-part-3-balancing/) | [Part 4: Membership and Size](https://www.brianthicks.com/post/2016/12/05/functional-sets-part-4-membership-and-size/) | [Part 5: Folds](https://www.brianthicks.com/post/2016/12/19/functional-sets-part-5-folds/) | [Part 6: Union and Remove](https://www.brianthicks.com/post/2017/01/16/functional-sets-part-6-union-and-remove/) | [Part 7: Filter, Diff, and Intersect](https://www.brianthicks.com/post/2017/01/23/functional-sets-part-7-filter-diff-and-intersect/) | [Part 8: Map](https://www.brianthicks.com/post/2017/01/30/functional-sets-part-8-map/) | [Part 9: Wrap-Up](https://www.brianthicks.com/post/2017/02/06/functional-sets-part-9-wrap-up/)
 
 #### ELM - DATA STRUCTURES - JSON
 
@@ -1584,11 +1602,17 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Decoding JSON With Dynamic Keys - Brian Hicks](https://www.brianthicks.com/post/2016/10/03/decoding-json-with-dynamic-keys/)
 * [json-server (Get a full fake REST API with zero coding in less than 30 seconds (useful for development)](https://github.com/typicode/json-server)
 
+### ELM - LIVE CODING
+
+* [Live Coding an Instagram Clone Using Elm - Rudolf Olah (CodeMentor)](https://www.youtube.com/watch?v=C4LU4_heFrs)
+* [Coding the A* Pathfinding Algorithm - Jamon Holmgren and Chris Krycho](https://www.youtube.com/watch?v=s8dH7k0Zggo)
+
 ### ELM - PACKAGES
 
 * [Elm package documentation](http://package.elm-lang.org/packages/elm-lang/core/latest)
 * [Elm search (by function name or approximate type signature)](http://klaftertief.github.io/elm-search/)
 * [Elm devtool: attempt to use Elm's (time-traveling) debugger on Chrome DevTools](https://github.com/jinjor/elm-devtool)
+* [create-elm-app: Create Elm apps with zero configuration](https://github.com/halfzebra/create-elm-app)
 * [elm-verify-examples (doctests)](https://github.com/stoeffel/elm-verify-examples)
 * [Elmalytics: view the Elm package and project ecosystem at a high level](http://elmalytics.xyz/)
 * [Trending packages on Github](https://github.com/trending/elm?since=daily)
@@ -1614,6 +1638,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - PHOENIX & ELM
 
+* [phoenix-elm-scaffold - Andrew MacMurray](https://github.com/andrewMacmurray/phoenix-elm-scaffold)
 * Bill Peregoy: Integrating Phoenix and Elm [Part 1](https://becoming-functional.com/integrating-phoenix-and-elm-part-1-b66cf4294d13) & [Part 2](https://becoming-functional.com/integrating-phoenix-and-elm-part-2-b611871cd70f) & [elm-divide Github repo](https://github.com/billperegoy/elm-divide)
 * Phoenix and Elm, a real use case - Ricardo García Vega: [Part 1: Introduction to creating a SPA with Phoenix and Elm](http://codeloveandboards.com/blog/2017/02/02/phoenix-and-elm-a-real-use-case-pt-1/) | [Part 2: Rendering the initial contact list](http://codeloveandboards.com/blog/2017/02/08/phoenix-and-elm-a-real-use-case-pt-2/) | [Part 3: Adding full text search and pagination navigation to the contact list](http://codeloveandboards.com/blog/2017/02/14/phoenix-and-elm-a-real-use-case-pt-3/)
 * [Creating a Chatroom Using Phoenix, Elm, and Websockets - Jeremy Bellows (Oct 2016)](http://www.jeremybellows.com/blog/Creating-a-Chatroom-Using-Phoenix-Elm-And-Websockets)
@@ -1737,6 +1762,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ERLANG
 
+* [Spawned Shelter: collection of the best articles, videos and books for learning Erlang, the internals of its VM and other languages that run on top of it](http://spawnedshelter.com/)
 * [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/)
 * [Erlang in Anger - Fred Hebert](http://www.erlang-in-anger.com/)
 * [Spawned Shelter: Collection of articles, videos & books for learning Erlang](http://spawnedshelter.com/)
@@ -1750,10 +1776,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Advanced-Erlang.com](http://advanced-erlang.com/videos/)
 * [ErlangCentral Wiki](http://erlangcentral.org/wiki/index.php/)
 * [MostlyErlang.com](http://mostlyerlang.com/)
+* [Erlang: the Power of Functional Programming - Simon Thompson (EFLBA2017)](https://www.youtube.com/watch?v=pJwfyPV_V_o)
 
 ### ERLANG - BEAM
 
 * The Erlang Runtime System (a.k.a., The BEAM Book): [Github (source)](https://github.com/happi/theBeamBook) & [PDF](https://github.com/happi/theBeamBook/releases)
+* [Hitchhiker's Tour of the BEAM - Robert Virding](https://www.youtube.com/watch?v=_Pwlvy3zz9M)
 * [BEAM Wisdoms: collection of easy to read (ELI5) articles as well as in-depth knowledge such as VM internals, memory layout, opcodes](http://beam-wisdoms.clau.se/en/latest/)
 * [The Erlang VM or How I Stopped Worrying & Started Loving Parallel Programming - E.Stenman (GOTO 2013)](https://www.youtube.com/watch?v=ArRr4trTCjQ)
 
@@ -1845,7 +1873,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ERLANG - PACKAGES
 
+#### ERLANG - PACKAGES - POOLBOY
+
 * [Poolboy - Worker pool factory](https://github.com/devinus/poolboy)
+* [Managing processes with Poolboy in Elixir - Akash Manohar](http://hashnuke.com/2013/10/03/managing-processes-with-poolboy-in-elixir.html)
+* [Elixir Poolboy Example - TheStoneFox](https://github.com/thestonefox/elixir_poolboy_example)
 
 ### ERLANG - PERFORMANCE
 
@@ -1934,6 +1966,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Microservices Evolution: How to break your monolithic database - Edson Yanaga (Devoxx Belgium)](https://www.youtube.com/watch?v=6dfBd-2Oq1M)
 * [Powering Microservices with Docker, Kubernetes, Kafka and MongoDB - Andrew Morgan (MongoDB Europe 2016)](https://www.youtube.com/watch?v=F_BuRIAnvqE)
 * [Event Sourcing and CQRS - Joe McBride](https://www.youtube.com/watch?v=0cOJwYP0rss)
+* [How to Write Applications Using Event Souring and CQRS: X Crash Course - X-Team](https://www.youtube.com/watch?v=zujuOE_tiwc)
 * [Event Sourcing and CQRS From the Trenches - Sidney Shek (YOW! Lambda Jam 2016)](https://www.youtube.com/watch?v=d1zFoFlIneo)
 * [Immutability Changes Everything - Pat Helland](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
@@ -1986,6 +2019,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Stream All Things - Patterns of Modern Data Integration - Gwen Shapira (GOTO Chicago 2017)](https://www.youtube.com/watch?v=Hjae0Cw9oew)
 * [A practical introduction to event sourcing and CQRS - Robert Lemke (Neos CMS 2017)](https://www.youtube.com/watch?v=cUXi9fUqWQ0) (discusses Neos Flow for PHP)
 * [Understanding Kafka with Legos - Jesse Anderson](https://www.youtube.com/watch?v=Q5wOegcVa8E)
+* [Using Apache Kafka as a Scalable, Event Driven Backbone for Service Architectures - Ben Stopford](https://www.confluent.io/blog/apache-kafka-for-service-architectures/)
 * [Developing Real-Time Data Pipelines with Apache Kafka - Joe Stein](https://www.youtube.com/watch?v=GRPLRONVDWY)
 * [Reactive Kafka - Rajini Sivaram (SpringOne Platform 2016)](https://www.youtube.com/watch?v=-ioxYn9Vlao)
 * [Introduction to Apache Kafka - James Ward (DevoxxUS 2017)](https://www.youtube.com/watch?v=UEg40Te8pnE)
@@ -1999,6 +2033,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Rethinking Stream Processing with Apache Kafka - Michael Noll (Berlin Buzzwords 2017)](https://www.youtube.com/watch?v=ACwnrnVJXuE)
 * [Interactive Queries in Apache Kafka Streams - Florian Troßbach](https://blog.codecentric.de/en/2017/03/interactive-queries-in-apache-kafka-streams/)
 * [Apache Samza: Distributed stream processing framework](http://samza.apache.org/)
+* [Real-time Financial Alerts at Rabobank with Apache Kafka’s Streams API - Jeroen van Disseldorp](https://www.confluent.io/blog/real-time-financial-alerts-rabobank-apache-kafkas-streams-api/)
 * [Pinot: Realtime distributed OLAP datastore (LinkedIn)](https://github.com/linkedin/pinot)
 * [Streaming Data Pipelines with Brooklin - Samarth Shetty, LinkedIn (5/24/17)](https://www.youtube.com/watch?v=VUF1oazVEuU)
 
@@ -2288,6 +2323,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### HASKELL - CODE EXAMPLES
 
 * [Haskell Everywhere! - Todo apps in Haskell](https://github.com/jyrimatti/hseverywhere)
+
+### HASKELL - CODE.WORLD
+
+* [Educational computer programming environment. By using a simple mathematical model for geometric shapes and transformations, you can create drawings, animations, and even single-player and multi-player video games! The programming language used is a variation of Haskell, but you can think of it as just talking to the computer using mathematics](https://code.world/)
 
 ### HASKELL - COMPILERS
 
@@ -3606,6 +3645,7 @@ Peter R. Egli:
 ### PROGRAMMING - CODE REVIEWS
 
 * [Code Review in Remote Teams - Sean Hammond](https://www.seanh.cc/posts/code-review)
+* [Goldilocks And The Three Code Reviews - Vaidehi Joshi (RailsConf 2017)](http://confreaks.tv/videos/railsconf2017-goldilocks-and-the-three-code-reviews)
 
 ### PROGRAMMING - CONCURRENCY
 
@@ -3743,8 +3783,11 @@ Peter R. Egli:
 ## PURESCRIPT
 
 * [main](http://www.purescript.org/) | [learn](http://www.purescript.org/learn/) | [wiki](https://github.com/purescript/purescript/wiki) | [Github](https://github.com/purescript/purescript)
+* [Pursuit: Purescript package documentation](https://pursuit.purescript.org/)
 * [Learn Functional Programming with PureScript - John A De Goes (LambdaConf 2015)](https://www.youtube.com/watch?v=LqYfdmb0eUU)
+* John A De Goes: The Easy Peasy Lemon Squeezy, Statically Typed, Purely Functional Programming For All [Part 1 (skip first 13 mins)](https://www.youtube.com/watch?v=daFLRG_OjEA) & [Part 2](https://www.youtube.com/watch?v=6OahiNp_CXc)
 * [Getting Started With Purescript](https://speakerdeck.com/michaelficarra/getting-started-with-purescript)
+* [Building Single Page Web Applications with Purescript and Erlang - Claudia Doppioslash (EUC17)](https://www.youtube.com/watch?v=HQkxm2P2xbY)
 * [PureScript by Example - Phil Freeman](https://leanpub.com/purescript/read)
 * [kRITZCREEK blog](https://kritzcreek.github.io/)
 
@@ -3759,6 +3802,10 @@ Peter R. Egli:
 ### PURESCRIPT - PUX (INTERFACE TO REACT)
 
 * [PureScript & Pux - Jesse Williamson (Front End Authority, Oct 2016)](https://www.youtube.com/watch?v=NmT5-j3-xzg)
+
+### PURESCRIPT - TYPES
+
+* [PureScript's Type System - Phil Freeman (Haskell Santa Monica 2017)](https://www.youtube.com/watch?v=SPpIbiZFPRY)
 
 ### PURESCRIPT - VIDEOS
 
