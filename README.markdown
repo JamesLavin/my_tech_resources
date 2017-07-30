@@ -34,7 +34,21 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Artificial Intelligence is the New Electricity - Andrew Ng (January 2017)](https://www.youtube.com/watch?v=21EiKfQYZXc)
 * [How AI detectives are cracking open the black box of deep learning - Science Mag](http://www.sciencemag.org/news/2017/07/how-ai-detectives-are-cracking-open-black-box-deep-learning)
 * [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
+* [Using Machine Learning to Explore Neural Network Architecture - Quoc Le & Barret Zoph (Google Brain team)](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
 * [Artificial Intelligence Is Stuck. Here’s How to Move It Forward - Gary Marcus (NY Times)](https://www.nytimes.com/2017/07/29/opinion/sunday/artificial-intelligence-is-stuck-heres-how-to-move-it-forward.html)
+
+### ARTIFICIAL INTELLIGENCE (AI) - CONVOLUTIONAL NEURAL NETS
+
+* [Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python - EliteDataScience.com](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
+* [CS231n: Convolutional Neural Networks for Visual Recognition - Stanford University](http://cs231n.stanford.edu/)
+
+### ARTIFICIAL INTELLIGENCE (AI) - MACHINE LEARNING
+
+* [CS229: Machine Learning - Andrew Ng (Stanford University)](https://see.stanford.edu/Course/CS229)
+
+### ARTIFICIAL INTELLIGENCE (AI) - PYTHON
+
+* [5 Genius Python Deep Learning Libraries - EliteDataScience.com](https://elitedatascience.com/python-deep-learning-libraries)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - NEWS
 
@@ -44,9 +58,13 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ARTIFICIAL INTELLIGENCE (AI) - REAL-WORLD EXAMPLES
 
 * [Facebook Shut Down AI After It Invented Its Own Language](http://www.theepochtimes.com/n3/2274480-facebook-shut-down-ai-after-it-invented-its-own-language/)
-* [Google Has Started Adding Imagination to Its DeepMind AI - ScienceAlert.com](https://www.sciencealert.com/google-has-started-adding-imagination-to-its-deepmind-ai)
+* [Google Has Started Adding Imagination to Its DeepMind AI - ScienceAlert.com](https://www.sciencealert.com/google-has-started-adding-imagination-to-its-deepmind-ai) & [Imagination-Augmented Agents for Deep Reinforcement Learning - DeepMind](https://arxiv.org/pdf/1707.06203.pdf)
 * [These AI bots are so believable, they get asked out on dates (CNBC)](https://www.cnbc.com/2017/07/27/these-ai-bots-are-so-believable-they-get-asked-out-on-dates.html)
 * [Maybe the A.I. dystopia is already here - Anne Applebaum (Washington Post)](https://www.washingtonpost.com/opinions/global-opinions/maybe-the-ai-dystopia-is-already-here/2017/07/28/d0b4c8ae-7392-11e7-8f39-eeb7d3a2d304_story.html)
+* [How PayPal Is Taking a Chance on AI to Fight Fraud - American Banker](https://www.americanbanker.com/news/how-paypal-is-taking-a-chance-on-ai-to-fight-fraud)
+* [Goldman Sacked: How Artificial Intelligence Will Transform Wall Street - Newsweek](http://www.newsweek.com/2017/03/10/how-artificial-intelligence-transform-wall-street-560637.html)
+* [The Rise of the Artificially Intelligent Hedge Fund - Wired](https://www.wired.com/2016/01/the-rise-of-the-artificially-intelligent-hedge-fund/)
+* [The Robots Are Coming for Wall Street - Nathaniel Popper (NY Times)](https://www.nytimes.com/2016/02/28/magazine/the-robots-are-coming-for-wall-street.html)
 
 ## BLOCKCHAINS
 
