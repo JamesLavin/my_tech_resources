@@ -27,6 +27,27 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Algorithms for Animation - Courtney Hemphill](https://youtu.be/GrloJWKBGtg)
 
+## ARTIFICIAL INTELLIGENCE (AI)
+
+* [Artificial Intelligence in Industry With Dan Faggella (podcast series)](https://itunes.apple.com/us/podcast/artificial-intelligence-in-industry-with-dan-faggella/id670771965)
+* [Artificial Intelligence (AI) Turns Images & Videos into Gold - Fei-Fei Li](https://www.youtube.com/watch?v=qLCKtc9moks)
+* [Artificial Intelligence is the New Electricity - Andrew Ng (January 2017)](https://www.youtube.com/watch?v=21EiKfQYZXc)
+* [How AI detectives are cracking open the black box of deep learning - Science Mag](http://www.sciencemag.org/news/2017/07/how-ai-detectives-are-cracking-open-black-box-deep-learning)
+* [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
+* [Artificial Intelligence Is Stuck. Here’s How to Move It Forward - Gary Marcus (NY Times)](https://www.nytimes.com/2017/07/29/opinion/sunday/artificial-intelligence-is-stuck-heres-how-to-move-it-forward.html)
+
+### ARTIFICIAL INTELLIGENCE (AI) - NEWS
+
+* [The Register](http://www.theregister.co.uk/emergent_tech/artificial_intelligence/)
+* [Science](http://search.sciencemag.org/?q=artificial%20intelligence)
+
+### ARTIFICIAL INTELLIGENCE (AI) - REAL-WORLD EXAMPLES
+
+* [Facebook Shut Down AI After It Invented Its Own Language](http://www.theepochtimes.com/n3/2274480-facebook-shut-down-ai-after-it-invented-its-own-language/)
+* [Google Has Started Adding Imagination to Its DeepMind AI - ScienceAlert.com](https://www.sciencealert.com/google-has-started-adding-imagination-to-its-deepmind-ai)
+* [These AI bots are so believable, they get asked out on dates (CNBC)](https://www.cnbc.com/2017/07/27/these-ai-bots-are-so-believable-they-get-asked-out-on-dates.html)
+* [Maybe the A.I. dystopia is already here - Anne Applebaum (Washington Post)](https://www.washingtonpost.com/opinions/global-opinions/maybe-the-ai-dystopia-is-already-here/2017/07/28/d0b4c8ae-7392-11e7-8f39-eeb7d3a2d304_story.html)
+
 ## BLOCKCHAINS
 
 * [Blockchain: The Slowest (and most Fascinating) Database in the World - Stefan Tilkov (GOTO Amsterdam 2017)](https://www.youtube.com/watch?v=li3rfBAP_fE)
@@ -75,6 +96,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Tim Ferriss Show](http://fourhourworkweek.com/podcast/)
 * [James Altucher interview podcasts](http://www.stansberryradio.com/James-Altucher/Latest-Episodes)
 * [Kauffmann Founders School](http://www.entrepreneurship.org/Founders-School)
+* [A Culture of Experimentation - Jeff Bezos (2005)](http://constantbetasoftware.com/2015/12/11/bezos-amazon-culture-of-experimentation.html)
 * [Observatory of Economic Complexity (interactive international trade data displayed using D3)](http://atlas.media.mit.edu/en/visualize/tree_map/hs92/export/usa/all/show/2013/)
 * [First Round Review](http://firstround.com/review/)
 
@@ -466,8 +488,13 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - CHAOS MONKEY, ETC
 
-* [Simian Army](https://github.com/Netflix/SimianArmy/wiki) & [Quick start guide](https://github.com/Netflix/SimianArmy/wiki/Quick-Start-Guide):
+* [Principles of Chaos](http://principlesofchaos.org/)
+* [Precision Chaos - Aaron Blohowiak (O'Reilly Velocity San Jose 2017)](https://www.youtube.com/watch?v=C11LNUEaHuo)
+* [ChAP: Chaos Automation Platform - Netflix](https://medium.com/netflix-techblog/chap-chaos-automation-platform-53e6d528371f)
+* [Chaos Engineering - Netflix](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
+* [Simian Army](https://github.com/Netflix/SimianArmy/wiki) & [Quick start guide](https://github.com/Netflix/SimianArmy/wiki/Quick-Start-Guide)
 * [Chaos Monkey](https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey)
+* [Chaos Community Google group](https://groups.google.com/forum/#!forum/chaos-community)
 * [Conformity Monkey](https://github.com/Netflix/SimianArmy/wiki/Conformity-Home)
 * [Janitor Monkey](https://github.com/Netflix/SimianArmy/wiki/Janitor-Home)
 * [AWS outage: How Netflix weathered the storm by preparing for the worst - Nick Heath](http://www.techrepublic.com/article/aws-outage-how-netflix-weathered-the-storm-by-preparing-for-the-worst/)
@@ -1392,6 +1419,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Putting the Fun in Functional With Elm - Tereza Sokol (ReactEurope 2017)](https://www.youtube.com/watch?v=a0039_JRAQo)
 * [Commanding the Elm Architecture - Kyle Kress (Sept 2016)](https://www.bigmarker.com/joncfoo/Commanding-the-Elm-Architecture)
 * [Start Using Elm to Build Web Applications - Murphy Randle](https://egghead.io/courses/start-using-elm-to-build-web-applications)
+* [Elm: Delightful Web Development - Amir Barylko](https://www.youtube.com/watch?v=0_0ABLgJ_Zg)
 * [Exercism.io](http://exercism.io/languages/elm/about)
 * Elmbridge Curriculum: [PDF](https://www.gitbook.com/download/pdf/book/raorao/elmbridge-curriculum) | [website](https://raorao.gitbooks.io/elmbridge-curriculum/content/)
 * [Branching Out with Elm - Dave Fancher (NDC Conferences 2017)](https://www.youtube.com/watch?v=Rjy3W5LqBeM)
@@ -2365,7 +2393,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Modeling Data in Haskell for Beginners - Chris Allen (LambdaConf 2015)](https://www.youtube.com/watch?v=p-NBJm0kIYU)
 * [Haskell is Not For Production and Other Tales - Katie Miller (Linux.conf.au 2016)](https://www.youtube.com/watch?v=mlTO510zO78) | [slides](http://www.slideshare.net/KatieAtie/haskell-is-not-for-production-and-other-tales)
 * [Introduction to Functional Programming - Erik Meijer](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
-* [Functional Programming Fundamentals - Erik Meijer](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals)
+* [Functional Programming Fundamentals - Erik Meijer](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals) & [Youtube](https://www.youtube.com/watch?v=UIUlFQH4Cvo)
 * [Learn Haskell in One Video - Derek Banas](https://www.youtube.com/watch?v=02_H3LjqMr8)
 * [Haskell Basics - FunFunFunction #35](https://www.youtube.com/watch?v=j5a9l1Td2Lo)
 * [Haskell Stack Mega-Tutorial - Christopher Allen](https://www.youtube.com/watch?v=sRonIB8ZStw)
@@ -3336,10 +3364,6 @@ Peter R. Egli:
 
 ## NEWS
 
-### NEWS - ARTIFICIAL INTELLIGENCE (AI)
-
-* [The Register](http://www.theregister.co.uk/emergent_tech/artificial_intelligence/)
-
 ### NEWS - EDUCATION
 
 * [EdSurge](https://www.edsurge.com/)
@@ -3376,6 +3400,7 @@ Peter R. Egli:
 * [Motherboard](http://motherboard.vice.com/en_us/tag/machines)
 * [Neuroscience News](http://neurosciencenews.com/neuroscience-topics/robotics-2/)
 * [Phys.org](http://phys.org/technology-news/robotics/)
+* [Science Mag](http://www.sciencemag.org/topic/robots)
 
 ### NEWS - SCIENCE
 
@@ -3385,6 +3410,7 @@ Peter R. Egli:
 * [NOVA](http://www.pbs.org/wgbh/nova/)
 * [Phys.org](http://phys.org/)
 * [Quanta Magazine](https://www.quantamagazine.org)
+* [Science](http://www.sciencemag.org/news)
 * [Science Daily](http://www.sciencedaily.com/)
 * [STAT: Reporting from frontiers of health & medicine](https://www.statnews.com/)
 * [Tech Times](http://www.techtimes.com/science)
@@ -3950,6 +3976,7 @@ Peter R. Egli:
     * [Comparison With R / R Libraries](http://pandas.pydata.org/pandas-docs/stable/comparison_with_r.html)
     * [Comparison With SQL](http://pandas.pydata.org/pandas-docs/stable/comparison_with_sql.html)
     * [API Reference](http://pandas.pydata.org/pandas-docs/stable/api.html)
+* [Easier data analysis in Python with pandas (video series) - Kevin Markham (DataSchool.io)](http://www.dataschool.io/easier-data-analysis-with-pandas/) & [iPython notebooks](https://github.com/justmarkham/scikit-learn-videos)
 * [Modern Pandas (7-part series) - Tom Augspurger](https://tomaugspurger.github.io/modern-1.html)
 * [Visual Guide to Pandas - Jason Wirth (ChiPy 2013)](https://www.youtube.com/watch?v=9d5-Ti6onew)
 * [Pandas tutorials - PyData.org](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
@@ -4026,6 +4053,7 @@ Peter R. Egli:
 * [API](http://scikit-learn.org/stable/modules/classes.html)
 * [Documentation](http://scikit-learn.org/stable/documentation.html)
 * [User Guide](http://scikit-learn.org/stable/user_guide.html)
+* [Machine Learning in Python with Scikit-Learn - DataSchool.io](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
 * scikit-learn video: [ #1: Intro to machine learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/) | [#2: Setting up Python for machine learning](http://blog.kaggle.com/2015/04/15/scikit-learn-video-2-setting-up-python-for-machine-learning/) | [#3: Machine learning first steps with the Iris dataset](http://blog.kaggle.com/2015/04/22/scikit-learn-video-3-machine-learning-first-steps-with-the-iris-dataset/) | [#4: Model training and prediction with K-nearest neighbors](http://blog.kaggle.com/2015/04/30/scikit-learn-video-4-model-training-and-prediction-with-k-nearest-neighbors/) | [#5: Choosing a machine learning model](http://blog.kaggle.com/2015/05/14/scikit-learn-video-5-choosing-a-machine-learning-model/) | [#6: Linear regression (plus pandas & seaborn)](http://blog.kaggle.com/2015/05/28/scikit-learn-video-6-linear-regression-plus-pandas-seaborn/) | [#7: Optimizing your model with cross-validation](http://blog.kaggle.com/2015/06/29/scikit-learn-video-7-optimizing-your-model-with-cross-validation/) | [#8: Efficiently searching for optimal tuning parameters](http://blog.kaggle.com/2015/07/16/scikit-learn-video-8-efficiently-searching-for-optimal-tuning-parameters/) | [#9: Better evaluation of classification models](http://blog.kaggle.com/2015/10/23/scikit-learn-video-9-better-evaluation-of-classification-models/)
 * [Realtime Predictive Analytics Using scikit-learn and RabbitMQ - Michael Becker (PyCon 2014)](https://www.youtube.com/watch?v=WPyNdHygBD0)
 * [Know Thy Neighbor: Scikit and the K-Nearest Nearest Neighbor Algorithm - Portia Burton (PyCon 2014)](https://www.youtube.com/watch?v=tQNZRfsZF3g)
@@ -5652,6 +5680,8 @@ Peter R. Egli:
 ### STATISTICAL ANALYSIS - INTRO TO
 
 * Intro to Statistics - Thomas Haslwanter: [HTML](http://work.thaslwanter.at/Stats/html/) | [PDF](http://work.thaslwanter.at/Stats/StatsIntro.pdf) | [Github (with full sourcecode)](https://github.com/thomas-haslwanter/statsintro)
+* [An Introduction to Statistical Learning With Applications in R - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/) & [PDF](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) & [Videos](https://www.alsharif.info/iom530)
+* [Elements of Statistical Learning, 2nd ed](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 * [Learning Statistics will Save Your Life - John Paul Ashenfelter (MountainWest RubyConf 2015)](http://confreaks.tv/videos/mwrc2015-learning-statistics-will-save-your-life)
 
 ### STATISTICAL ANALYSIS - TIME SERIES
