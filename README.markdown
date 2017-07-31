@@ -31,40 +31,81 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Artificial Intelligence in Industry With Dan Faggella (podcast series)](https://itunes.apple.com/us/podcast/artificial-intelligence-in-industry-with-dan-faggella/id670771965)
 * [Artificial Intelligence (AI) Turns Images & Videos into Gold - Fei-Fei Li](https://www.youtube.com/watch?v=qLCKtc9moks)
+* [Artificial Intelligence (AI) invents new knowledge and teaches human new theories - Demis Hassabis](https://www.youtube.com/watch?v=dTGthmNmrK4)
+* [Artificial Intelligence (AI) is the Tech Renaissance to Business and Society - Jeff Bezos](https://www.youtube.com/watch?v=0Cy_VOHbXzk)
+* [How AI Startups Must Compete with Google - Dr Fei-Fei Li (Google Cloud) & Mike Abbott (KPCB)](https://www.youtube.com/watch?v=Mu3scWZvZKo)
 * [Artificial Intelligence is the New Electricity - Andrew Ng (January 2017)](https://www.youtube.com/watch?v=21EiKfQYZXc)
 * [How AI detectives are cracking open the black box of deep learning - Science Mag](http://www.sciencemag.org/news/2017/07/how-ai-detectives-are-cracking-open-black-box-deep-learning)
-* [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
+* [Google's Great AI Awakening: We didn't even know we hired the best AI scientists in Google - Eric Schmidt](https://www.youtube.com/watch?v=ynZ8_CFRDgE)
+* [The Frontier in Artificial Intelligence (AI): General-Purpose Learning AGI - Mustafa Suleyman](https://www.youtube.com/watch?v=Ui7dLJT5Kp0)
 * [Using Machine Learning to Explore Neural Network Architecture - Quoc Le & Barret Zoph (Google Brain team)](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
+* [The Compound Effect of Artificial Intelligence (AI) & Silicon-Based Technologies - Steve Jurvetson](https://www.youtube.com/watch?v=n2UU3pOE0WY)
+* [How We Teach Computers to Understand Pictures - Fei-Fei Li](https://www.youtube.com/watch?v=40riCqvRoMs)
+* [Engineers' Guide to the Artificial Intelligence Galaxy - Kai-Fu Lee Columbia University commencement address](https://www.youtube.com/watch?v=ZXa8G-Z2CCw)
+* [AI Expert Kai-Fu Lee, "Don't Miss the Boat of Artificial Intelligence in the Age of AI"](https://www.youtube.com/watch?v=gSgV4P2qpf4)
+* [Google's DeepMind CEO: Future & Capabilities of Artificial Intelligence - Demis Hassabis](https://www.youtube.com/watch?v=PSZw8egM2Is)
+* [Amazon Jeff Bezos on Artificial Intelligence (AI), Staffless Store, Self-Driving Car & Donald Trump - Walt Mossberg interview](https://www.youtube.com/watch?v=VAM6b0UkEYw)
+* [The Future of Artificial Intelligence Documentary 2017](https://www.youtube.com/watch?v=UzT3Tkwx17A)
 * [Artificial Intelligence Is Stuck. Here’s How to Move It Forward - Gary Marcus (NY Times)](https://www.nytimes.com/2017/07/29/opinion/sunday/artificial-intelligence-is-stuck-heres-how-to-move-it-forward.html)
+* [Half of All Jobs Will Be Replaced by Artificial Intelligence (AI) in 10 Years, AI Expert Kai-Fu Lee](https://www.youtube.com/watch?v=2Pc4HhhW0Xo)
+* [How AI & Computer Vision will Drive our Future - Fei-Fei Li](https://www.youtube.com/watch?v=WHQS35IT75c)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - CONVOLUTIONAL NEURAL NETS
 
+* [How Convolutional Neural Networks Work - Brandon Rohrer](https://www.youtube.com/watch?v=FmpDIaiMIeA)
+* [Friendly Introduction to Convolutional Neural Networks and Image Recognition - Luis Serrano](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
+* [Intro to Different Types of Convolutions in Deep Learning - Paul-Louis Pröve](https://medium.com/towards-data-science/types-of-convolutions-in-deep-learning-717013397f4d)
+* [Convolutional Neural Networks (TensorFlow)](https://www.tensorflow.org/tutorials/deep_cnn)
 * [Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python - EliteDataScience.com](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
 * [CS231n: Convolutional Neural Networks for Visual Recognition - Stanford University](http://cs231n.stanford.edu/)
 
+### ARTIFICIAL INTELLIGENCE (AI) - DEEP NEURAL NETS
+
+* [How Deep Neural Networks Work - Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)
+* [Deep Learning Demystified - Brandon Rohrer](https://www.youtube.com/watch?v=Q9Z20HCPnww)
+* [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
+* [TensorFlow Wide & Deep Learning Tutorial (TensorFlow)](https://www.tensorflow.org/tutorials/wide_and_deep)
+* [Friendly Introduction to Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw)
+* [Visualizing and Understanding Deep Neural Networks - Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw)
+
 ### ARTIFICIAL INTELLIGENCE (AI) - MACHINE LEARNING
 
+* [What Is Machine Learning? - Luis Serrano](https://www.youtube.com/watch?v=IpGxLWOIZy4)
 * [CS229: Machine Learning - Andrew Ng (Stanford University)](https://see.stanford.edu/Course/CS229)
+
+### ARTIFICIAL INTELLIGENCE (AI) - SEQUENCE MODELS (RNN, LSTM, GRM)
+
+* [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) - Brandon Rohrer](https://www.youtube.com/watch?v=WCUNPb-5EYI)
+* [Recurrent Neural Networks (TensorFlow)](https://www.tensorflow.org/tutorials/recurrent)
+* [Sequence-to-Sequence Models (TensorFlow)](https://www.tensorflow.org/tutorials/seq2seq)
+
+### ARTIFICIAL INTELLIGENCE (AI) - NEWS
+
+* [The Next Web](https://thenextweb.com/artificial-intelligence/#.tnw_urviI0GS)
+* [The Register](http://www.theregister.co.uk/emergent_tech/artificial_intelligence/)
+* [Science](http://search.sciencemag.org/?q=artificial%20intelligence)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - PYTHON
 
 * [5 Genius Python Deep Learning Libraries - EliteDataScience.com](https://elitedatascience.com/python-deep-learning-libraries)
-
-### ARTIFICIAL INTELLIGENCE (AI) - NEWS
-
-* [The Register](http://www.theregister.co.uk/emergent_tech/artificial_intelligence/)
-* [Science](http://search.sciencemag.org/?q=artificial%20intelligence)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - REAL-WORLD EXAMPLES
 
 * [Facebook Shut Down AI After It Invented Its Own Language](http://www.theepochtimes.com/n3/2274480-facebook-shut-down-ai-after-it-invented-its-own-language/)
 * [Google Has Started Adding Imagination to Its DeepMind AI - ScienceAlert.com](https://www.sciencealert.com/google-has-started-adding-imagination-to-its-deepmind-ai) & [Imagination-Augmented Agents for Deep Reinforcement Learning - DeepMind](https://arxiv.org/pdf/1707.06203.pdf)
 * [These AI bots are so believable, they get asked out on dates (CNBC)](https://www.cnbc.com/2017/07/27/these-ai-bots-are-so-believable-they-get-asked-out-on-dates.html)
+* [Artificial Intelligence (AI) Software and Robots are Replacing White-Collar Workers](https://www.youtube.com/watch?v=31IOoZ5c_9c)
+* [IBM CEO: "Watson AI will change everything in Healthcare. Radiologists will lose jobs soon"](https://www.youtube.com/watch?v=YkEYuoa_ooo)
+* [IBM Watson: Smartest Machine Ever Built Documentary (NOVA)](https://www.youtube.com/watch?v=3zQI-LMcDnA)
 * [Maybe the A.I. dystopia is already here - Anne Applebaum (Washington Post)](https://www.washingtonpost.com/opinions/global-opinions/maybe-the-ai-dystopia-is-already-here/2017/07/28/d0b4c8ae-7392-11e7-8f39-eeb7d3a2d304_story.html)
 * [How PayPal Is Taking a Chance on AI to Fight Fraud - American Banker](https://www.americanbanker.com/news/how-paypal-is-taking-a-chance-on-ai-to-fight-fraud)
 * [Goldman Sacked: How Artificial Intelligence Will Transform Wall Street - Newsweek](http://www.newsweek.com/2017/03/10/how-artificial-intelligence-transform-wall-street-560637.html)
 * [The Rise of the Artificially Intelligent Hedge Fund - Wired](https://www.wired.com/2016/01/the-rise-of-the-artificially-intelligent-hedge-fund/)
 * [The Robots Are Coming for Wall Street - Nathaniel Popper (NY Times)](https://www.nytimes.com/2016/02/28/magazine/the-robots-are-coming-for-wall-street.html)
+
+### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW
+
+* [Tensorflow and Deep Learning Without a PhD - Martin Görner](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
 
 ## BLOCKCHAINS
 
@@ -3394,6 +3435,7 @@ Peter R. Egli:
 ### NEWS - PROGRAMMING
 
 * [Application Development Trends](https://adtmag.com)
+* [arXiv.org - 1.3 million e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics](https://arxiv.org/)
 * [Computerworld](http://www.computerworld.com/)
 * [Dr. Dobb's](http://www.drdobbs.com/)
 * [DZone](https://dzone.com/)
@@ -5788,14 +5830,18 @@ Peter R. Egli:
 
 ### TMUX - CHEATSHEETS
 
+* [Terminal Multiplexers: Screen, Tmux](http://hyperpolyglot.org/multiplexers)
 * [Tmux Cheatsheet (Mohamed Alaa)](https://gist.github.com/MohamedAlaa/2961058)
 * [Tmux Cheatsheet (Niklas Ottoson)](http://blog.niklasottosson.com/?p=574)
+* [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
 * [Tmux Cheatsheet (Alvin Alexander)](http://alvinalexander.com/linux-unix/tmux-cheat-sheet-commands-pdf) & [PDF](http://alvinalexander.com/downloads/linux/tmux-cheat-sheet.pdf)
 * [Tmux Cheatsheet (Andrey Vit)](https://gist.github.com/andreyvit/2921703)
 
 ### TMUX - PLUGINS
 
 * [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
+* [Tmux Plugins & Tools](https://tmuxcheatsheet.com/tmux-plugins-tools/)
+* [vim-tmux-navigator - Chris Toomey](https://github.com/christoomey/vim-tmux-navigator) & [cheatsheet](https://tmuxcheatsheet.com/tmux-plugins-tools/?full_name=christoomey%2Fvim-tmux-navigator)
 
 ## UML
 
