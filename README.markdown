@@ -29,10 +29,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ARTIFICIAL INTELLIGENCE (AI)
 
+* Deep Learning - Ian Goodfellow, Yoshua Bengio, and Aaron Courville (MIT Press): [Chapters](http://www.deeplearningbook.org/) | [Lectures](http://www.deeplearningbook.org/lecture_slides.html)
 * [Artificial Intelligence in Industry With Dan Faggella (podcast series)](https://itunes.apple.com/us/podcast/artificial-intelligence-in-industry-with-dan-faggella/id670771965)
 * [Artificial Intelligence (AI) Turns Images & Videos into Gold - Fei-Fei Li](https://www.youtube.com/watch?v=qLCKtc9moks)
 * [Artificial Intelligence (AI) invents new knowledge and teaches human new theories - Demis Hassabis](https://www.youtube.com/watch?v=dTGthmNmrK4)
 * [Artificial Intelligence (AI) is the Tech Renaissance to Business and Society - Jeff Bezos](https://www.youtube.com/watch?v=0Cy_VOHbXzk)
+* [How Will Artificial Intelligence Affect Your Life - Jeff Dean (TEDxLA)](https://www.youtube.com/watch?v=BfDQNrVphLQ)
 * [How AI Startups Must Compete with Google - Dr Fei-Fei Li (Google Cloud) & Mike Abbott (KPCB)](https://www.youtube.com/watch?v=Mu3scWZvZKo)
 * [Artificial Intelligence is the New Electricity - Andrew Ng (January 2017)](https://www.youtube.com/watch?v=21EiKfQYZXc)
 * [How AI detectives are cracking open the black box of deep learning - Science Mag](http://www.sciencemag.org/news/2017/07/how-ai-detectives-are-cracking-open-black-box-deep-learning)
@@ -49,6 +51,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Artificial Intelligence Is Stuck. Here’s How to Move It Forward - Gary Marcus (NY Times)](https://www.nytimes.com/2017/07/29/opinion/sunday/artificial-intelligence-is-stuck-heres-how-to-move-it-forward.html)
 * [Half of All Jobs Will Be Replaced by Artificial Intelligence (AI) in 10 Years, AI Expert Kai-Fu Lee](https://www.youtube.com/watch?v=2Pc4HhhW0Xo)
 * [How AI & Computer Vision will Drive our Future - Fei-Fei Li](https://www.youtube.com/watch?v=WHQS35IT75c)
+* [International Conference on Learning Representations 2015](https://www.youtube.com/playlist?list=PLhiWXaTdsWB8PnrVZquVyqlRFWXM4ijYz)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - CONVOLUTIONAL NEURAL NETS
 
@@ -69,10 +72,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Deep End of Deep Learning - Hugo Larochelle (TEDxBoston)](https://www.youtube.com/watch?v=dz_jeuWx3j0)
 * [Friendly Introduction to Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw)
 * [Visualizing and Understanding Deep Neural Networks - Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw)
+* [The Rise of Artificial Intelligence through Deep Learning - Yoshua Bangio (TEDxMontreal)](https://www.youtube.com/watch?v=uawLjkSI7Mo)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - GENERAL INTELLIGENCE
 
 * [DeepMind’s founder says to build better computer brains, we need to look at our own - James Vincent (The Verge)](https://www.theverge.com/2017/7/19/15998610/ai-neuroscience-machine-learning-deepmind-demis-hassabis-interview)
+* [When Machines Have Ideas - Ben Vigoda (TEDxBoston)](https://www.youtube.com/watch?v=PCs3vsoMZfY)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - MACHINE LEARNING
 
@@ -119,8 +124,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Goldman Sacked: How Artificial Intelligence Will Transform Wall Street - Newsweek](http://www.newsweek.com/2017/03/10/how-artificial-intelligence-transform-wall-street-560637.html)
 * [The Rise of the Artificially Intelligent Hedge Fund - Wired](https://www.wired.com/2016/01/the-rise-of-the-artificially-intelligent-hedge-fund/)
 * [The Robots Are Coming for Wall Street - Nathaniel Popper (NY Times)](https://www.nytimes.com/2016/02/28/magazine/the-robots-are-coming-for-wall-street.html)
+* [Neural Networks for Language and Understanding - Geoff Hinton](https://www.youtube.com/watch?v=o8otywnWwKc)
 * [Machine Learning in Health Care - Antonio Criminisi](https://www.youtube.com/watch?v=XQsHPuXKmO4)
 * [Big Data and Machine Learning in Healthcare: How, Why, and When - Dr. Leonard D'Avolio (HIMSS Big Data and Analytics Conference)](https://www.youtube.com/watch?v=kqdfkkAdwxw)
+
+### ARTIFICIAL INTELLIGENCE (AI) - SUPERINTELLIGENCE
+
+* [Not If, But How Artificial Intelligence Might Take Over the World - Hugh Baillie](https://www.youtube.com/watch?v=mDMP2t6lUjo)
+* [Artificial Intelligence: it will kill us - Jay Tuck (TEDxHamburgSalon)](https://www.youtube.com/watch?v=BrNs0M77Pd4)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW
 
