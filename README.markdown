@@ -57,6 +57,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to Different Types of Convolutions in Deep Learning - Paul-Louis Pröve](https://medium.com/towards-data-science/types-of-convolutions-in-deep-learning-717013397f4d)
 * [Convolutional Neural Networks (TensorFlow)](https://www.tensorflow.org/tutorials/deep_cnn)
 * [Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python - EliteDataScience.com](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
+* [A Keras multithreaded DataFrame generator for millions of image files - Ryan Woodard](https://techblog.appnexus.com/a-keras-multithreaded-dataframe-generator-for-millions-of-image-files-84d3027f6f43)
+* Francois Chollet: [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html) & [The future of deep learning](https://blog.keras.io/the-future-of-deep-learning.html)
 * [CS231n: Convolutional Neural Networks for Visual Recognition - Stanford University](http://cs231n.stanford.edu/)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - DEEP NEURAL NETS
@@ -64,12 +66,17 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How Deep Neural Networks Work - Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)
 * [Deep Learning Demystified - Brandon Rohrer](https://www.youtube.com/watch?v=Q9Z20HCPnww)
 * [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
-* [TensorFlow Wide & Deep Learning Tutorial (TensorFlow)](https://www.tensorflow.org/tutorials/wide_and_deep)
+* [The Deep End of Deep Learning - Hugo Larochelle (TEDxBoston)](https://www.youtube.com/watch?v=dz_jeuWx3j0)
 * [Friendly Introduction to Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw)
 * [Visualizing and Understanding Deep Neural Networks - Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw)
 
+### ARTIFICIAL INTELLIGENCE (AI) - GENERAL INTELLIGENCE
+
+* [DeepMind’s founder says to build better computer brains, we need to look at our own - James Vincent (The Verge)](https://www.theverge.com/2017/7/19/15998610/ai-neuroscience-machine-learning-deepmind-demis-hassabis-interview)
+
 ### ARTIFICIAL INTELLIGENCE (AI) - MACHINE LEARNING
 
+* [This Week in Machine Learning](https://medium.com/@david.joyner)
 * [What Is Machine Learning? - Luis Serrano](https://www.youtube.com/watch?v=IpGxLWOIZy4)
 * [CS229: Machine Learning - Andrew Ng (Stanford University)](https://see.stanford.edu/Course/CS229)
 
@@ -81,6 +88,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - NEWS
 
+* [Futurism](https://futurism.com/artificialintelligence/)
 * [The Next Web](https://thenextweb.com/artificial-intelligence/#.tnw_urviI0GS)
 * [The Register](http://www.theregister.co.uk/emergent_tech/artificial_intelligence/)
 * [Science](http://search.sciencemag.org/?q=artificial%20intelligence)
@@ -91,21 +99,35 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - REAL-WORLD EXAMPLES
 
-* [Facebook Shut Down AI After It Invented Its Own Language](http://www.theepochtimes.com/n3/2274480-facebook-shut-down-ai-after-it-invented-its-own-language/)
+* [Artificial intelligence goes deep to beat humans at poker - Tonya Riley (Science)](http://www.sciencemag.org/news/2017/03/artificial-intelligence-goes-deep-beat-humans-poker)
+* [A.I. is Progressing Faster Than You Think - ColdFusion](https://www.youtube.com/watch?v=mQO2PcEW9BY)
+* [Case Study: TensorFlow in Medicine - Retinal Imaging - Lily Peng (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=oOeZ7IgEN4o)
+* [Facebook’s Language-Creating AI Bots Are Now Required to Negotiate in English - Futurism](https://futurism.com/facebooks-language-creating-ai-bots-are-now-required-to-negotiate-in-english/) | [Facebook Shut Down AI After It Invented Its Own Language](http://www.theepochtimes.com/n3/2274480-facebook-shut-down-ai-after-it-invented-its-own-language/)
 * [Google Has Started Adding Imagination to Its DeepMind AI - ScienceAlert.com](https://www.sciencealert.com/google-has-started-adding-imagination-to-its-deepmind-ai) & [Imagination-Augmented Agents for Deep Reinforcement Learning - DeepMind](https://arxiv.org/pdf/1707.06203.pdf)
 * [These AI bots are so believable, they get asked out on dates (CNBC)](https://www.cnbc.com/2017/07/27/these-ai-bots-are-so-believable-they-get-asked-out-on-dates.html)
 * [Artificial Intelligence (AI) Software and Robots are Replacing White-Collar Workers](https://www.youtube.com/watch?v=31IOoZ5c_9c)
+* [Google's Deep Mind Explained! - Self-Learning A.I. - ColdFusion](https://www.youtube.com/watch?v=TnUYcTuZJpM)
 * [IBM CEO: "Watson AI will change everything in Healthcare. Radiologists will lose jobs soon"](https://www.youtube.com/watch?v=YkEYuoa_ooo)
+* [Chinese chatbots apparently re-educated after political faux pas](http://www.reuters.com/article/us-china-robots-idUSKBN1AK0G1)
 * [IBM Watson: Smartest Machine Ever Built Documentary (NOVA)](https://www.youtube.com/watch?v=3zQI-LMcDnA)
+* [Deep Learning in Medical Imaging - Ben Glocker (#reworkDL)](https://www.youtube.com/watch?v=2_Jv11VpOF4)
+* [Deep Learning for Predicting Glioblastoma Subtypes from MRI. Peter Chang, MD](https://www.youtube.com/watch?v=LVJbvK_HAbY)
 * [Maybe the A.I. dystopia is already here - Anne Applebaum (Washington Post)](https://www.washingtonpost.com/opinions/global-opinions/maybe-the-ai-dystopia-is-already-here/2017/07/28/d0b4c8ae-7392-11e7-8f39-eeb7d3a2d304_story.html)
 * [How PayPal Is Taking a Chance on AI to Fight Fraud - American Banker](https://www.americanbanker.com/news/how-paypal-is-taking-a-chance-on-ai-to-fight-fraud)
+* [Better Medicine Through Machine Learning - Suchi Saria (TEDxBoston)](https://www.youtube.com/watch?v=Nj2YSLPn6OY)
+* [A.I. Learns Nobel Prize Experiment in Just 1 Hour! - ColdFusion](https://www.youtube.com/watch?v=lJcGzmsLRUo)
 * [Goldman Sacked: How Artificial Intelligence Will Transform Wall Street - Newsweek](http://www.newsweek.com/2017/03/10/how-artificial-intelligence-transform-wall-street-560637.html)
 * [The Rise of the Artificially Intelligent Hedge Fund - Wired](https://www.wired.com/2016/01/the-rise-of-the-artificially-intelligent-hedge-fund/)
 * [The Robots Are Coming for Wall Street - Nathaniel Popper (NY Times)](https://www.nytimes.com/2016/02/28/magazine/the-robots-are-coming-for-wall-street.html)
+* [Machine Learning in Health Care - Antonio Criminisi](https://www.youtube.com/watch?v=XQsHPuXKmO4)
+* [Big Data and Machine Learning in Healthcare: How, Why, and When - Dr. Leonard D'Avolio (HIMSS Big Data and Analytics Conference)](https://www.youtube.com/watch?v=kqdfkkAdwxw)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW
 
 * [Tensorflow and Deep Learning Without a PhD - Martin Görner](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
+* [TensorFlow Dev Summit 2017](https://www.youtube.com/watch?v=mWl45NkFBOc&list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
+* [TensorFlow at DeepMind - Daniel Visentin (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=VdDmhOCw6J0)
+* [TensorFlow Wide & Deep Learning Tutorial (TensorFlow)](https://www.tensorflow.org/tutorials/wide_and_deep)
 
 ## BLOCKCHAINS
 
@@ -1474,6 +1496,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Toward a Better Front End Architecture: Elm - Jeremy Fairbank (Codemash 2017)](https://www.youtube.com/watch?v=EDp6UmaA9CM)
 * [Elm: A Beginners' Guide to Elm and Data - Luke Westby & Jeff Schomay](https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940)
 * James Kolce: [Why Elm? (And How To Get Started With It)](https://css-tricks.com/elm-get-started/) | [Intro to The Elm Architecture and How to Build our First App](https://css-tricks.com/introduction-elm-architecture-build-first-application/) | [The Structure of an Elm Application](https://css-tricks.com/structure-elm-application/)
+* [Elm In Production: 25,000 Lines Later - Christian Charukiewicz](https://charukiewi.cz/posts/elm/)
 * [Beginning Elm - Pawan Poudel](http://elmprogramming.com/)
 * [Putting the Fun in Functional With Elm - Tereza Sokol (ReactEurope 2017)](https://www.youtube.com/watch?v=a0039_JRAQo)
 * [Commanding the Elm Architecture - Kyle Kress (Sept 2016)](https://www.bigmarker.com/joncfoo/Commanding-the-Elm-Architecture)
@@ -3232,6 +3255,7 @@ Peter R. Egli:
 
 ### LINUX - SHELL SCRIPTING (BASH)
 
+* [Shell Scripts Matter - Thibaut Rousseau](https://dev.to/thiht/shell-scripts-matter)
 * [Advanced Bash Scripting Guide](tldp.org/LDP/abs/abs-guide.pdf)
 * [Bash Hackers Wiki](http://wiki.bash-hackers.org/doku.php)
 * [Bash Koans - Marcin Bunsch](https://github.com/marcinbunsch/bash_koans)
@@ -3250,6 +3274,10 @@ Peter R. Egli:
 
 * [Bash Automated Test System (BATS)](https://github.com/sstephenson/bats) & [tutorial](https://blog.engineyard.com/2014/bats-test-command-line-tools)
 * [How to use Bats to test your command line tools - Ross Duggan](https://blog.engineyard.com/2014/bats-test-command-line-tools?eymktci=70170000000hHEC)
+
+#### LINUX - SHELL SCRIPTING (BASH) - SHUNIT2
+
+* [shunit2: xUnit unit test framework for Bourne based shell scripts - Kate Ward](https://github.com/kward/shunit2)
 
 ### LINUX - SYSTEM ADMINISTRATION
 
@@ -3333,7 +3361,7 @@ Peter R. Egli:
 * [EmailTalk.org](http://www.emailtalk.org/MailServerConfig.aspx)
 * [Getting delisted by Microsoft (which will list you for absolutely no reason)](http://community.spiceworks.com/how_to/show/67285-getting-delisted-by-microsoft-delist-messaging-microsoft-com)
 
-## MAKER MOVEMENT
+## MAKER MOVEMENT / INTERNET OF THINGS (IOT)
 
 * [Adafruit](https://learn.adafruit.com/)
 * [CardboardChallenge](http://cardboardchallenge.com/)
@@ -3341,6 +3369,7 @@ Peter R. Egli:
 * [DS106.us](http://ds106.us/)
 * [Exploratorium](http://tinkering.exploratorium.edu/) & [blog](http://tinkering.exploratorium.edu/blog)
 * [GlassLabGames](http://www.glasslabgames.org/)
+* [Hackster.io](https://www.hackster.io/)
 * [Howtoons](http://www.howtoons.com/)
 * [Instructables.com](http://www.instructables.com/)
 * [Little Bits (non-free)](http://littlebits.cc/)
@@ -3476,7 +3505,6 @@ Peter R. Egli:
 * [Tech Times](http://www.techtimes.com/science)
 * [TED Science](http://www.ted.com/talks?topics[]=science)
 * [The Register](http://www.theregister.co.uk/science/)
-* [The Verge](http://www.theverge.com/science)
 * [Tumble Science Podcast For Kids](https://itunes.apple.com/us/podcast/tumble-science-podcast-for/id984771479)
 * [The Verge](http://www.theverge.com/science)
 * [Wired](http://www.wired.com/category/science)
@@ -3574,6 +3602,7 @@ Peter R. Egli:
 
 ## OCAML
 
+* [Real-World OCaml - Yaron Minsky, Anil Madhavapeddy, and Jason Hickey](http://dev.realworldocaml.org/) & [Table of Contents (HTML)](http://dev.realworldocaml.org/toc.html)
 * [Caml Trading - Yaron Minsky (Jane Street Capital)](https://www.youtube.com/watch?v=hKcOkWzj0_s)
 
 ## OCTAVE
