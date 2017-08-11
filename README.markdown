@@ -79,11 +79,23 @@ Links to resources I have found useful or think might be helpful to future me or
 * [DeepMind’s founder says to build better computer brains, we need to look at our own - James Vincent (The Verge)](https://www.theverge.com/2017/7/19/15998610/ai-neuroscience-machine-learning-deepmind-demis-hassabis-interview)
 * [When Machines Have Ideas - Ben Vigoda (TEDxBoston)](https://www.youtube.com/watch?v=PCs3vsoMZfY)
 
+### ARTIFICIAL INTELLIGENCE (AI) - HARDWARE
+
+* [First demonstration of brain-inspired device to power artificial systems - University of Southampton](https://www.southampton.ac.uk/news/2016/09/memristor-brain.page)
+* [Machine Learning Infrastructure - TechEmergence.com](https://www.techemergence.com/category/industries/ml-infrastructure/)
+
 ### ARTIFICIAL INTELLIGENCE (AI) - MACHINE LEARNING
 
 * [This Week in Machine Learning](https://medium.com/@david.joyner)
 * [What Is Machine Learning? - Luis Serrano](https://www.youtube.com/watch?v=IpGxLWOIZy4)
 * [CS229: Machine Learning - Andrew Ng (Stanford University)](https://see.stanford.edu/Course/CS229)
+
+### ARTIFICIAL INTELLIGENCE (AI) - PODCASTS
+
+* [Artificial Intelligence in Industry](https://www.techemergence.com/category/primary-content-type/artificial-intelligence-podcast/)
+* [Machine Learning Guide - Tyler Renelle](http://ocdevel.com/podcasts/machine-learning)
+* [Talking Machines](http://www.thetalkingmachines.com/blog/)
+* [This Week in Machine Learning & AI](https://twimlai.com/shows/)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - SEQUENCE MODELS (RNN, LSTM, GRM)
 
@@ -97,6 +109,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Next Web](https://thenextweb.com/artificial-intelligence/#.tnw_urviI0GS)
 * [The Register](http://www.theregister.co.uk/emergent_tech/artificial_intelligence/)
 * [Science](http://search.sciencemag.org/?q=artificial%20intelligence)
+* Tech Emergence: [Guides](https://www.techemergence.com/category/primary-content-type/guides/) | [Research](https://www.techemergence.com/category/primary-content-type/research/) | [Expert Interviews](https://www.techemergence.com/category/expert-interviews/) | [Companies](https://www.techemergence.com/companies/)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - PYTHON
 
@@ -136,6 +149,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW
 
 * [Tensorflow and Deep Learning Without a PhD - Martin Görner](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
+* [TensorFlow Tutorial For Beginners - Karlijn Willems](https://www.datacamp.com/community/tutorials/tensorflow-tutorial#gs.x6XtYOU)
 * [TensorFlow Dev Summit 2017](https://www.youtube.com/watch?v=mWl45NkFBOc&list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
 * [TensorFlow at DeepMind - Daniel Visentin (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=VdDmhOCw6J0)
 * [TensorFlow Wide & Deep Learning Tutorial (TensorFlow)](https://www.tensorflow.org/tutorials/wide_and_deep)
@@ -3761,6 +3775,7 @@ Peter R. Egli:
 * [The Effective Engineer - Edmond Lau](http://www.theeffectiveengineer.com/)
 * [TheGeekStuff.com](http://www.thegeekstuff.com/)
 * [Hacker Noon](https://hackernoon.com/)
+* [Indie Hackers](https://www.indiehackers.com/)
 * [Jeff Atwood - "Coding Horror"](http://blog.codinghorror.com/)
 * [Joel Spolsky - JoelOnSoftware.com](http://www.joelonsoftware.com/)
 * [MartinFowler.com](http://martinfowler.com/)
