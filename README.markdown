@@ -39,6 +39,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Artificial Intelligence is the New Electricity - Andrew Ng (January 2017)](https://www.youtube.com/watch?v=21EiKfQYZXc)
 * [How AI detectives are cracking open the black box of deep learning - Science Mag](http://www.sciencemag.org/news/2017/07/how-ai-detectives-are-cracking-open-black-box-deep-learning)
 * [Google's Great AI Awakening: We didn't even know we hired the best AI scientists in Google - Eric Schmidt](https://www.youtube.com/watch?v=ynZ8_CFRDgE)
+* [Lecture for YC AI - Jeff Dean](https://www.youtube.com/watch?v=HcStlHGpjN8) & [slides](https://blog.ycombinator.com/jeff-deans-lecture-for-yc-ai/)
 * [The Frontier in Artificial Intelligence (AI): General-Purpose Learning AGI - Mustafa Suleyman](https://www.youtube.com/watch?v=Ui7dLJT5Kp0)
 * [Using Machine Learning to Explore Neural Network Architecture - Quoc Le & Barret Zoph (Google Brain team)](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
 * [The Compound Effect of Artificial Intelligence (AI) & Silicon-Based Technologies - Steve Jurvetson](https://www.youtube.com/watch?v=n2UU3pOE0WY)
@@ -59,6 +60,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Friendly Introduction to Convolutional Neural Networks and Image Recognition - Luis Serrano](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 * [Intro to Different Types of Convolutions in Deep Learning - Paul-Louis Pröve](https://medium.com/towards-data-science/types-of-convolutions-in-deep-learning-717013397f4d)
 * [Convolutional Neural Networks (TensorFlow)](https://www.tensorflow.org/tutorials/deep_cnn)
+* [pixel-cnn+ - OpenAI](https://github.com/openai/pixel-cnn) & [PixelCNN++: Improving the PixelCNN With Discretized Logistic Mixture Likelihood and Other Modifications](https://arxiv.org/pdf/1701.05517.pdf)
 * [Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python - EliteDataScience.com](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
 * [A Keras multithreaded DataFrame generator for millions of image files - Ryan Woodard](https://techblog.appnexus.com/a-keras-multithreaded-dataframe-generator-for-millions-of-image-files-84d3027f6f43)
 * Francois Chollet: [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html) & [The future of deep learning](https://blog.keras.io/the-future-of-deep-learning.html)
@@ -76,11 +78,17 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - GENERAL INTELLIGENCE
 
+* [Neuroscience-Inspired Artificial Intelligence - Demis Hassabis, et al. ("Neuron," June 2017)](https://deepmind.com/documents/113/Neuron.pdf)
 * [DeepMind’s founder says to build better computer brains, we need to look at our own - James Vincent (The Verge)](https://www.theverge.com/2017/7/19/15998610/ai-neuroscience-machine-learning-deepmind-demis-hassabis-interview)
 * [AI and Neuroscience: A virtuous circle - DeepMind](https://deepmind.com/blog/ai-and-neuroscience-virtuous-circle/)
 * [Agents that imagine and plan - DeepMind](https://deepmind.com/blog/agents-imagine-and-plan/)
 * [DARLA: Improving Zero-Shot Transfer in Reinforcement Learning - Irina Higgins, et al. (2017)](https://arxiv.org/pdf/1707.08475.pdf)
 * [When Machines Have Ideas - Ben Vigoda (TEDxBoston)](https://www.youtube.com/watch?v=PCs3vsoMZfY)
+
+### ARTIFICIAL INTELLIGENCE (AI) - GENERATIVE ADVERSARIAL NETWORKS
+
+* [Generative Models - OpenAI](https://blog.openai.com/generative-models/)
+* [Image Synthesis From Text With Deep Learning | Two Minute Papers #116](https://www.youtube.com/watch?v=rAbhypxs1qQ)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - HARDWARE
 
@@ -115,6 +123,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Chipin](https://www.chipin.com/artificial-intelligence/)
 * [Futurism](https://futurism.com/artificialintelligence/)
 * [The Next Web](https://thenextweb.com/artificial-intelligence/#.tnw_urviI0GS)
+* [Open AI](https://blog.openai.com/)
 * [The Register](http://www.theregister.co.uk/emergent_tech/artificial_intelligence/)
 * [Science](http://search.sciencemag.org/?q=artificial%20intelligence)
 * Tech Emergence: [Guides](https://www.techemergence.com/category/primary-content-type/guides/) | [Research](https://www.techemergence.com/category/primary-content-type/research/) | [Expert Interviews](https://www.techemergence.com/category/expert-interviews/) | [Companies](https://www.techemergence.com/companies/)
@@ -132,9 +141,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How computers learn to recognize objects instantly - Joseph Redmon (TED Talk 2017)](https://www.youtube.com/watch?v=Cgxsv1riJhI)
 * [Google’s speech recognition is now almost as accurate as humans - 9-to-5 Google](https://9to5google.com/2017/06/01/google-speech-recognition-humans/)
 * [A.I. is Progressing Faster Than You Think - ColdFusion](https://www.youtube.com/watch?v=mQO2PcEW9BY)
+* [The world’s best Dota 2 players just got destroyed by a killer AI from Elon Musk’s startup - T.C. Sottek (The Verge)](https://www.theverge.com/2017/8/11/16137388/dota-2-dendi-open-ai-elon-musk)
 * [Case Study: TensorFlow in Medicine - Retinal Imaging - Lily Peng (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=oOeZ7IgEN4o)
 * [Facebook’s Language-Creating AI Bots Are Now Required to Negotiate in English - Futurism](https://futurism.com/facebooks-language-creating-ai-bots-are-now-required-to-negotiate-in-english/) | [Facebook Shut Down AI After It Invented Its Own Language](http://www.theepochtimes.com/n3/2274480-facebook-shut-down-ai-after-it-invented-its-own-language/)
 * [Google Has Started Adding Imagination to Its DeepMind AI - ScienceAlert.com](https://www.sciencealert.com/google-has-started-adding-imagination-to-its-deepmind-ai) & [Imagination-Augmented Agents for Deep Reinforcement Learning - DeepMind](https://arxiv.org/pdf/1707.06203.pdf)
+* [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 * [These AI bots are so believable, they get asked out on dates (CNBC)](https://www.cnbc.com/2017/07/27/these-ai-bots-are-so-believable-they-get-asked-out-on-dates.html)
 * [Artificial Intelligence (AI) Software and Robots are Replacing White-Collar Workers](https://www.youtube.com/watch?v=31IOoZ5c_9c)
 * [Google's Deep Mind Explained! - Self-Learning A.I. - ColdFusion](https://www.youtube.com/watch?v=TnUYcTuZJpM)
@@ -144,6 +155,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [IBM Watson: Smartest Machine Ever Built Documentary (NOVA)](https://www.youtube.com/watch?v=3zQI-LMcDnA)
 * [Deep Learning in Medical Imaging - Ben Glocker (#reworkDL)](https://www.youtube.com/watch?v=2_Jv11VpOF4)
 * [Deep Learning for Predicting Glioblastoma Subtypes from MRI. Peter Chang, MD](https://www.youtube.com/watch?v=LVJbvK_HAbY)
+* [BuzzFeed News Trained A Computer To Search For Hidden Spy Planes. This Is What We Found](https://www.buzzfeed.com/peteraldhous/hidden-spy-planes)
 * [Maybe the A.I. dystopia is already here - Anne Applebaum (Washington Post)](https://www.washingtonpost.com/opinions/global-opinions/maybe-the-ai-dystopia-is-already-here/2017/07/28/d0b4c8ae-7392-11e7-8f39-eeb7d3a2d304_story.html)
 * [How PayPal Is Taking a Chance on AI to Fight Fraud - American Banker](https://www.americanbanker.com/news/how-paypal-is-taking-a-chance-on-ai-to-fight-fraud)
 * [China's big bet on domination in AI is no longer a long shot (National Post)](http://nationalpost.com/news/world/chinas-big-bet-on-domination-in-ai-is-no-longer-a-long-shot/wcm/07026820-58d0-4b91-a084-a49d177b009c)
@@ -3534,6 +3546,7 @@ Peter R. Egli:
 ### NEWS - SCIENCE
 
 * [Aeon](https://aeon.co/science)
+* [Axios](https://www.axios.com/science)
 * [Digital Journal](http://www.digitaljournal.com/science)
 * [Neuroscience News](http://neurosciencenews.com/neuroscience-topics/featured/)
 * [NOVA](http://www.pbs.org/wgbh/nova/)
@@ -4532,7 +4545,10 @@ Peter R. Egli:
 
 #### PYTHON - LEARNING - BOOKS (FREE)
 
+* [Automate the Boring Stuff - Al Sweigart](https://automatetheboringstuff.com/#toc)
 * [A Byte of Python](http://files.swaroopch.com/python/byte_of_python.pdf)
+* [Functional Programming in Python - David Mertz](http://www.oreilly.com/programming/free/files/functional-programming-python.pdf)
+* [Fundamentals of Python - Richard L. Halterman](http://python.cs.southern.edu/pythonbook/pythonbook.pdf)
 * [Python Programming](http://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf)
 * [Python Tutorial (TutorialsPoint.com)](http://www.tutorialspoint.com/python/python_tutorial.pdf)
 * [The Python Tutorial (Python 3)](http://docs.python.org/3.4/tutorial/index.html) & [Python 2](http://docs.python.org/2/tutorial/index.html)
