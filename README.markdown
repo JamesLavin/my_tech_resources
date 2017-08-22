@@ -48,6 +48,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [AI Expert Kai-Fu Lee, "Don't Miss the Boat of Artificial Intelligence in the Age of AI"](https://www.youtube.com/watch?v=gSgV4P2qpf4)
 * [Google's DeepMind CEO: Future & Capabilities of Artificial Intelligence - Demis Hassabis](https://www.youtube.com/watch?v=PSZw8egM2Is)
 * [Amazon Jeff Bezos on Artificial Intelligence (AI), Staffless Store, Self-Driving Car & Donald Trump - Walt Mossberg interview](https://www.youtube.com/watch?v=VAM6b0UkEYw)
+* [Large-Scale Deep Learning with TensorFlow for Building Intelligent Systems - Jeff Dean (Google)](https://learning.acm.org/webinar_pdfs/JeffDean_WebinarSlides.pdf)
 * [The Future of Artificial Intelligence Documentary 2017](https://www.youtube.com/watch?v=UzT3Tkwx17A)
 * [Artificial Intelligence Is Stuck. Here’s How to Move It Forward - Gary Marcus (NY Times)](https://www.nytimes.com/2017/07/29/opinion/sunday/artificial-intelligence-is-stuck-heres-how-to-move-it-forward.html)
 * [Half of All Jobs Will Be Replaced by Artificial Intelligence (AI) in 10 Years, AI Expert Kai-Fu Lee](https://www.youtube.com/watch?v=2Pc4HhhW0Xo)
@@ -134,6 +135,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [5 Genius Python Deep Learning Libraries - EliteDataScience.com](https://elitedatascience.com/python-deep-learning-libraries)
 
+#### ARTIFICIAL INTELLIGENCE (AI) - PYTHON - PYTORCH
+
+* [PyTorch vs TensorFlow — spotting the difference - Kirill Dubovikov](https://medium.com/towards-data-science/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)
+
 ### ARTIFICIAL INTELLIGENCE (AI) - REAL-WORLD EXAMPLES
 
 * [Artificial intelligence goes deep to beat humans at poker - Tonya Riley (Science)](http://www.sciencemag.org/news/2017/03/artificial-intelligence-goes-deep-beat-humans-poker)
@@ -144,6 +149,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The world’s best Dota 2 players just got destroyed by a killer AI from Elon Musk’s startup - T.C. Sottek (The Verge)](https://www.theverge.com/2017/8/11/16137388/dota-2-dendi-open-ai-elon-musk)
 * [Case Study: TensorFlow in Medicine - Retinal Imaging - Lily Peng (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=oOeZ7IgEN4o)
 * [Facebook’s Language-Creating AI Bots Are Now Required to Negotiate in English - Futurism](https://futurism.com/facebooks-language-creating-ai-bots-are-now-required-to-negotiate-in-english/) | [Facebook Shut Down AI After It Invented Its Own Language](http://www.theepochtimes.com/n3/2274480-facebook-shut-down-ai-after-it-invented-its-own-language/)
+* [AI learns from professional gamers — then crushes them - Peter Holley (Washington Post)](http://www.bendbulletin.com/business/5521413-151/ai-learns-from-professional-gamers-then-crushes)
 * [Google Has Started Adding Imagination to Its DeepMind AI - ScienceAlert.com](https://www.sciencealert.com/google-has-started-adding-imagination-to-its-deepmind-ai) & [Imagination-Augmented Agents for Deep Reinforcement Learning - DeepMind](https://arxiv.org/pdf/1707.06203.pdf)
 * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 * [These AI bots are so believable, they get asked out on dates (CNBC)](https://www.cnbc.com/2017/07/27/these-ai-bots-are-so-believable-they-get-asked-out-on-dates.html)
@@ -151,6 +157,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Google's Deep Mind Explained! - Self-Learning A.I. - ColdFusion](https://www.youtube.com/watch?v=TnUYcTuZJpM)
 * [IBM CEO: "Watson AI will change everything in Healthcare. Radiologists will lose jobs soon"](https://www.youtube.com/watch?v=YkEYuoa_ooo)
 * [The incredible inventions of intuitive AI - Maurice Conti (TED Talks)](https://www.youtube.com/watch?v=aR5N2Jl8k14)
+* [How Google is making music with artificial intelligence (Science)](http://www.sciencemag.org/news/2017/08/how-google-making-music-artificial-intelligence)
 * [Chinese chatbots apparently re-educated after political faux pas](http://www.reuters.com/article/us-china-robots-idUSKBN1AK0G1)
 * [IBM Watson: Smartest Machine Ever Built Documentary (NOVA)](https://www.youtube.com/watch?v=3zQI-LMcDnA)
 * [Deep Learning in Medical Imaging - Ben Glocker (#reworkDL)](https://www.youtube.com/watch?v=2_Jv11VpOF4)
@@ -175,6 +182,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW
 
+* [Intro to TensorFlow - Alejandro Solano (EuroPython 2017)](https://ep2017.europython.eu/media/conference/slides/introduction-to-tensorflow.pdf)
 * [Tensorflow and Deep Learning Without a PhD - Martin Görner](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
 * [TensorFlow Tutorial For Beginners - Karlijn Willems](https://www.datacamp.com/community/tutorials/tensorflow-tutorial#gs.x6XtYOU)
 * [TensorFlow Dev Summit 2017](https://www.youtube.com/watch?v=mWl45NkFBOc&list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
@@ -184,7 +192,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## BLOCKCHAINS
 
 * [Blockchain: The Slowest (and most Fascinating) Database in the World - Stefan Tilkov (GOTO Amsterdam 2017)](https://www.youtube.com/watch?v=li3rfBAP_fE)
-* [What the #?!* is Bitcoin? - Jeremy Rubin (TEDxBeaconStreet)](https://www.youtube.com/watch?v=Vzjtvt77mgc)
+* [What the #?!\* is Bitcoin? - Jeremy Rubin (TEDxBeaconStreet)](https://www.youtube.com/watch?v=Vzjtvt77mgc)
 * [Blockchain Disruption: How Bitcoin Technology Creates a Sharing Economy - Thomas Ramge (TEDxHamburg)](https://www.youtube.com/watch?v=ZF0iCdYkXTM)
 
 ### BLOCKCHAINS - BITCOIN
@@ -1555,6 +1563,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Start Using Elm to Build Web Applications - Murphy Randle](https://egghead.io/courses/start-using-elm-to-build-web-applications)
 * [Elm: Delightful Web Development - Amir Barylko](https://www.youtube.com/watch?v=0_0ABLgJ_Zg)
 * [Exercism.io](http://exercism.io/languages/elm/about)
+* [Scaling Elm Apps - Richard Feldman (Elm Europe 2017)](https://www.youtube.com/watch?v=DoA4Txr4GUs&app=desktop)
 * Elmbridge Curriculum: [PDF](https://www.gitbook.com/download/pdf/book/raorao/elmbridge-curriculum) | [website](https://raorao.gitbooks.io/elmbridge-curriculum/content/)
 * [Branching Out with Elm - Dave Fancher (NDC Conferences 2017)](https://www.youtube.com/watch?v=Rjy3W5LqBeM)
 * [Avoiding the Nightmare on Elm Street - Thomas Anagrius (GOTO Stockholm 2017)](https://www.youtube.com/watch?v=Qhx81eI5FPs)
@@ -1566,6 +1575,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Elm: [RunElm.io: JSBin for Elm](https://runelm.io) | [Try Elm (online editor)](http://elm-lang.org/try) | [RunElm.io](https://runelm.io/new) | [Online Elm repl](http://elmrepl.cuberoot.in/) | [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [Intro to Elm - Richard Feldman (2016)](https://www.youtube.com/watch?v=3_M2G9U51GA)
 * [Elm for Javascript Developers - Jack Franklin (PolyConf 16)](https://www.youtube.com/watch?v=tOkOmWgDLOM)
+* [How to create a SPA application in Elm 0.18 (from scratch) - Adrián Ribao](https://medium.com/@adrian_ribao/how-to-create-a-spa-application-in-elm-0-18-from-scratch-68d25e0631f6)
 * [Confident Frontend with Elm - Jack Franklin (Full Stack Fest)](https://www.youtube.com/watch?v=rDQ22Yg3Fms)
 * [Intro to Elm - Alan Gardner (2016)](https://vimeo.com/167092863)
 * [Elm for the Frontend, Right Now (Updated for Elm 0.18) - Brad Grzesiak](http://bendyworks.com/blog/elm-frontend-right-now-updated-for-0-18)
@@ -1643,6 +1653,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - CODE EXAMPLES
 
 * [25 Elm examples - starting from an static view and gradually progressing to an interactive web app with routing - Bryan Jennings](https://github.com/bryanjenningz/25-elm-examples)
+* [Elm SPA example - Richard T Feldman](https://github.com/rtfeldman/elm-spa-example)
 * [Phoenix Elm Battleship - Ricardo García Vega](https://github.com/bigardone/phoenix-elm-battleship)
 * [elm-autocomplete - Greg Ziegan](https://github.com/thebritican/elm-autocomplete)
 * [Creating a Fun Game with Elm - Andrey Kuzmin & Kolja Wilcke (Curry On 2016)](https://www.youtube.com/watch?v=En2BKs8unnQ)
@@ -1754,6 +1765,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [elm-discuss Google group](https://groups.google.com/forum/#!forum/elm-discuss)
 * [Elm Slack](http://elmlang.herokuapp.com/) & [Freenode](http://webchat.freenode.net/?channels=elm)
+* [Elm Slack archive](https://elmlang.slackarchive.io/general/page-100)
 * [elm-dev Google group](https://groups.google.com/forum/#!forum/elm-dev)
 * [Reddit Elm](https://www.reddit.com/r/elm)
 
