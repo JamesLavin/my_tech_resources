@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Elm](#elm) | [Erlang](#erlang) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Learning](#learning) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free), [data analysis](#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Elm](#elm) | [Erlang](#erlang) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Learning](#learning) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free), [data analysis](#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## ALGORITHMS
 
@@ -62,6 +62,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to Different Types of Convolutions in Deep Learning - Paul-Louis Pröve](https://medium.com/towards-data-science/types-of-convolutions-in-deep-learning-717013397f4d)
 * [Convolutional Neural Networks (TensorFlow)](https://www.tensorflow.org/tutorials/deep_cnn)
 * [pixel-cnn+ - OpenAI](https://github.com/openai/pixel-cnn) & [PixelCNN++: Improving the PixelCNN With Discretized Logistic Mixture Likelihood and Other Modifications](https://arxiv.org/pdf/1701.05517.pdf)
+* [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN - Dhruv Parthasarathy](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
 * [Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python - EliteDataScience.com](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
 * [A Keras multithreaded DataFrame generator for millions of image files - Ryan Woodard](https://techblog.appnexus.com/a-keras-multithreaded-dataframe-generator-for-millions-of-image-files-84d3027f6f43)
 * Francois Chollet: [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html) & [The future of deep learning](https://blog.keras.io/the-future-of-deep-learning.html)
@@ -71,6 +72,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [How Deep Neural Networks Work - Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)
 * [Deep Learning Demystified - Brandon Rohrer](https://www.youtube.com/watch?v=Q9Z20HCPnww)
+* [Deep Neural Networks with Tensorboard - Arpan Chakraborty & Luis Serrano (ODSC East 2017)](https://www.youtube.com/watch?v=QVeszB-4Zik)
 * [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
 * [The Deep End of Deep Learning - Hugo Larochelle (TEDxBoston)](https://www.youtube.com/watch?v=dz_jeuWx3j0)
 * [Friendly Introduction to Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw)
@@ -96,6 +98,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [First demonstration of brain-inspired device to power artificial systems - University of Southampton](https://www.southampton.ac.uk/news/2016/09/memristor-brain.page)
 * [Machine Learning Infrastructure - TechEmergence.com](https://www.techemergence.com/category/industries/ml-infrastructure/)
 
+### ARTIFICIAL INTELLIGENCE (AI) - KERAS
+
+* [The Keras Blog - Francois Chollet](https://blog.keras.io/)
+
 ### ARTIFICIAL INTELLIGENCE (AI) - MACHINE LEARNING
 
 * [This Week in Machine Learning](https://medium.com/@david.joyner)
@@ -112,9 +118,11 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ARTIFICIAL INTELLIGENCE (AI) - REINFORCEMENT LEARNING
 
 * [Human-level control through Deep Reinforcement Learning - Deep Mind](https://deepmind.com/research/dqn/)
+* [Deep Q Learning for Video Games - The Math of Intelligence #9 - Siraj Raval](https://www.youtube.com/watch?v=79pmNdyxEGo)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - SEQUENCE MODELS (RNN, LSTM, GRM)
 
+* [A friendly introduction to Recurrent Neural Networks - Luis Serrano](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 * [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) - Brandon Rohrer](https://www.youtube.com/watch?v=WCUNPb-5EYI)
 * [Recurrent Neural Networks (TensorFlow)](https://www.tensorflow.org/tutorials/recurrent)
 * [Sequence-to-Sequence Models (TensorFlow)](https://www.tensorflow.org/tutorials/seq2seq)
@@ -153,10 +161,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Google Has Started Adding Imagination to Its DeepMind AI - ScienceAlert.com](https://www.sciencealert.com/google-has-started-adding-imagination-to-its-deepmind-ai) & [Imagination-Augmented Agents for Deep Reinforcement Learning - DeepMind](https://arxiv.org/pdf/1707.06203.pdf)
 * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 * [These AI bots are so believable, they get asked out on dates (CNBC)](https://www.cnbc.com/2017/07/27/these-ai-bots-are-so-believable-they-get-asked-out-on-dates.html)
+* [TensorKart: Self-driving MarioKart with TensorFlow - Kevin Hughes](https://kevinhughes.ca/blog/tensor-kart)
 * [Artificial Intelligence (AI) Software and Robots are Replacing White-Collar Workers](https://www.youtube.com/watch?v=31IOoZ5c_9c)
+* [Baidu Deep Voice explained: Part 1 — the Inference Pipeline](https://blog.athelas.com/paper-1-baidus-deep-voice-675a323705df)
 * [Google's Deep Mind Explained! - Self-Learning A.I. - ColdFusion](https://www.youtube.com/watch?v=TnUYcTuZJpM)
 * [IBM CEO: "Watson AI will change everything in Healthcare. Radiologists will lose jobs soon"](https://www.youtube.com/watch?v=YkEYuoa_ooo)
 * [The incredible inventions of intuitive AI - Maurice Conti (TED Talks)](https://www.youtube.com/watch?v=aR5N2Jl8k14)
+* [AI Experiments: Explore machine learning in simple, hands-on ways (Google)](https://experiments.withgoogle.com/ai)
 * [How Google is making music with artificial intelligence (Science)](http://www.sciencemag.org/news/2017/08/how-google-making-music-artificial-intelligence)
 * [Chinese chatbots apparently re-educated after political faux pas](http://www.reuters.com/article/us-china-robots-idUSKBN1AK0G1)
 * [IBM Watson: Smartest Machine Ever Built Documentary (NOVA)](https://www.youtube.com/watch?v=3zQI-LMcDnA)
@@ -182,6 +193,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW
 
+* [Awesome-Tensorflow (curated list of resources)](https://github.com/jtoy/awesome-tensorflow)
+* [First Contact With Tensorflow - Jordi Torres](http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/)
+* [TensorFlow in 5 Minutes - Siraj Raval](https://www.youtube.com/watch?v=2FmcHiLCwTU)
 * [Intro to TensorFlow - Alejandro Solano (EuroPython 2017)](https://ep2017.europython.eu/media/conference/slides/introduction-to-tensorflow.pdf)
 * [Tensorflow and Deep Learning Without a PhD - Martin Görner](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
 * [TensorFlow Tutorial For Beginners - Karlijn Willems](https://www.datacamp.com/community/tutorials/tensorflow-tutorial#gs.x6XtYOU)
@@ -3405,6 +3419,7 @@ Peter R. Egli:
 
 ### MACHINE LEARNING & AI - NEURAL NETWORKS
 
+* [A friendly introduction to Deep Learning and Neural Networks - Luis Serrano](https://www.youtube.com/watch?v=BR9h47Jtqyw)
 * [How convolutional neural networks work - Brandon Rohrer](https://www.youtube.com/watch?v=FmpDIaiMIeA)
 * [How deep neural networks work - Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)
 
