@@ -72,7 +72,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [How Deep Neural Networks Work - Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)
 * [Deep Learning Demystified - Brandon Rohrer](https://www.youtube.com/watch?v=Q9Z20HCPnww)
-* [Deep Neural Networks with Tensorboard - Arpan Chakraborty & Luis Serrano (ODSC East 2017)](https://www.youtube.com/watch?v=QVeszB-4Zik)
+* [Deep Neural Networks with Tensorboard - Arpan Chakraborty & Luis Serrano (ODSC East 2017)](https://www.youtube.com/watch?v=QVeszB-4Zik) & [Tensorboard demos (Github)](https://github.com/PythonWorkshop/tensorboard_demos)
 * [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
 * [The Deep End of Deep Learning - Hugo Larochelle (TEDxBoston)](https://www.youtube.com/watch?v=dz_jeuWx3j0)
 * [Friendly Introduction to Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw)
@@ -155,7 +155,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Google’s speech recognition is now almost as accurate as humans - 9-to-5 Google](https://9to5google.com/2017/06/01/google-speech-recognition-humans/)
 * [A.I. is Progressing Faster Than You Think - ColdFusion](https://www.youtube.com/watch?v=mQO2PcEW9BY)
 * [The world’s best Dota 2 players just got destroyed by a killer AI from Elon Musk’s startup - T.C. Sottek (The Verge)](https://www.theverge.com/2017/8/11/16137388/dota-2-dendi-open-ai-elon-musk)
+* [A Spatial-Temporal Modeling Framework for Large-scale Video Understanding - Xiao Liu and Shilei Wen (Baidu Research)](http://research.baidu.com/spatial-temporal-modeling-framework-large-scale-video-understanding/) | [Revisiting the Effectiveness of Off-the-shelf Temporal Modeling Approaches for Large-scale Video Classification - Yunlong Bian et al.](https://arxiv.org/pdf/1708.03805.pdf) | [Activity-Net.org](http://activity-net.org/)
 * [Case Study: TensorFlow in Medicine - Retinal Imaging - Lily Peng (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=oOeZ7IgEN4o)
+* [Predictive Analytics, NLP Flag Psychosis with 100% Accuracy - Jennifer Bresnick (Health IT Analytics, 2015)](https://healthitanalytics.com/news/predictive-analytics-nlp-flag-psychosis-with-100-accuracy)
 * [Facebook’s Language-Creating AI Bots Are Now Required to Negotiate in English - Futurism](https://futurism.com/facebooks-language-creating-ai-bots-are-now-required-to-negotiate-in-english/) | [Facebook Shut Down AI After It Invented Its Own Language](http://www.theepochtimes.com/n3/2274480-facebook-shut-down-ai-after-it-invented-its-own-language/)
 * [AI learns from professional gamers — then crushes them - Peter Holley (Washington Post)](http://www.bendbulletin.com/business/5521413-151/ai-learns-from-professional-gamers-then-crushes)
 * [Google Has Started Adding Imagination to Its DeepMind AI - ScienceAlert.com](https://www.sciencealert.com/google-has-started-adding-imagination-to-its-deepmind-ai) & [Imagination-Augmented Agents for Deep Reinforcement Learning - DeepMind](https://arxiv.org/pdf/1707.06203.pdf)
@@ -178,10 +180,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How PayPal Is Taking a Chance on AI to Fight Fraud - American Banker](https://www.americanbanker.com/news/how-paypal-is-taking-a-chance-on-ai-to-fight-fraud)
 * [China's big bet on domination in AI is no longer a long shot (National Post)](http://nationalpost.com/news/world/chinas-big-bet-on-domination-in-ai-is-no-longer-a-long-shot/wcm/07026820-58d0-4b91-a084-a49d177b009c)
 * [Better Medicine Through Machine Learning - Suchi Saria (TEDxBoston)](https://www.youtube.com/watch?v=Nj2YSLPn6OY)
+* [Defining a Patient Population With Cirrhosis: An Automated Algorithm With Natural Language Processing - E.K. Chang, et al., Journal of Clinical Gastroenterology 2016](https://www.ncbi.nlm.nih.gov/pubmed/27348317)
+* [Efficient identification of nationally mandated reportable cancer cases using natural language processing and machine learning - John D Osborne, et al. (Journal of Informatics in Health and Biomedicine, 2016)](https://academic.oup.com/jamia/article/23/6/1077/2399248/Efficient-identification-of-nationally-mandated)
 * [A.I. Learns Nobel Prize Experiment in Just 1 Hour! - ColdFusion](https://www.youtube.com/watch?v=lJcGzmsLRUo)
 * [Goldman Sacked: How Artificial Intelligence Will Transform Wall Street - Newsweek](http://www.newsweek.com/2017/03/10/how-artificial-intelligence-transform-wall-street-560637.html)
 * [The Rise of the Artificially Intelligent Hedge Fund - Wired](https://www.wired.com/2016/01/the-rise-of-the-artificially-intelligent-hedge-fund/)
 * [The Robots Are Coming for Wall Street - Nathaniel Popper (NY Times)](https://www.nytimes.com/2016/02/28/magazine/the-robots-are-coming-for-wall-street.html)
+* [Epic to use NLP to aid documentation, decision support](https://www.healthdatamanagement.com/news/epic-to-use-nlp-to-aid-documentation-decision-support)
 * [Neural Networks for Language and Understanding - Geoff Hinton](https://www.youtube.com/watch?v=o8otywnWwKc)
 * [Machine Learning in Health Care - Antonio Criminisi](https://www.youtube.com/watch?v=XQsHPuXKmO4)
 * [Big Data and Machine Learning in Healthcare: How, Why, and When - Dr. Leonard D'Avolio (HIMSS Big Data and Analytics Conference)](https://www.youtube.com/watch?v=kqdfkkAdwxw)
@@ -196,6 +201,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Awesome-Tensorflow (curated list of resources)](https://github.com/jtoy/awesome-tensorflow)
 * [First Contact With Tensorflow - Jordi Torres](http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/)
 * [TensorFlow in 5 Minutes - Siraj Raval](https://www.youtube.com/watch?v=2FmcHiLCwTU)
+* [Effective TensorFlow for Non-Experts - Martin Wicke (Google I/O '17)](https://www.youtube.com/watch?v=5DknTFbcGVM)
 * [Intro to TensorFlow - Alejandro Solano (EuroPython 2017)](https://ep2017.europython.eu/media/conference/slides/introduction-to-tensorflow.pdf)
 * [Tensorflow and Deep Learning Without a PhD - Martin Görner](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
 * [TensorFlow Tutorial For Beginners - Karlijn Willems](https://www.datacamp.com/community/tutorials/tensorflow-tutorial#gs.x6XtYOU)
@@ -577,6 +583,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [GraphQL: Data query language and runtime](http://graphql.org/) | [GitHub](https://github.com/graphql)
 * [Getting started (documentation)](http://graphql.org/docs/getting-started/)
+* [Goodbye REST… GraphQL Is Better! (SFNode 2017)](https://www.youtube.com/watch?v=9wiepxb8qPc)
 * [GraphQL-Ruby](https://github.com/rmosolgo/graphql-ruby)
 * [Learn GraphQL](https://learngraphql.com/)
 * [The GitHub GraphQL API - GitHub](http://githubengineering.com/the-github-graphql-api/)
@@ -1246,6 +1253,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Derek Kraan: [Event Sourcing in Elixir](https://tech.zilverline.com/2017/04/07/elixir_event_sourcing) & [Event Sourcing: Invariants spanning multiple aggregates](https://tech.zilverline.com/2017/04/21/event-sourcing-invariants-spanning-multiple-aggregates)
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
 * [Event Sourcing and CQRS in Elixir - ElixirForum.com](http://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519/4)
+* Christian Posta: [Why Microservices Should Be Event Driven: Autonomy vs Authority](http://blog.christianposta.com/microservices/why-microservices-should-be-event-driven-autonomy-vs-authority/) | [3 Easy Things to Do to Make Your Microservices More Resilient](http://blog.christianposta.com/microservices/3-easy-things-to-do-to-make-your-microservices-more-resilient/) | [Carving the Java EE Monolith Into Microservices: Prefer Verticals Not Layers](http://blog.christianposta.com/microservices/carving-the-java-ee-monolith-into-microservices-perfer-verticals-not-layers/) | [The Hardest Part About Microservices: Your Data](http://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data/)
 * [DDD/CQRS/ES/NoSQL and functional programming](https://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519)
 * [CQRS with Erlang - Bryan Hunter (NDC Conference 2014)](https://vimeo.com/97318824)
 
@@ -1562,6 +1570,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
 * [Developer Happiness on the Front End with Elm - Kevin Yank (RailsConf 2017)](https://www.youtube.com/watch?v=C2npla7DwVk)
+* Jessica Kerr: [Pure Functional Programming in Elm](https://www.youtube.com/watch?time_continue=1&v=PRV0mpFWqqQ) & [Conquering Elm Boilerplate](https://www.youtube.com/watch?v=kDF1gKJDq6s)
 * [Elm in production - Richard Feldman (Devoxx 2017)](https://www.youtube.com/watch?v=XsNk5aOpqUc)
 * [Introducing Elm to a JavaScript App - Richard Feldman (GOTO Chicago 2017)](https://www.youtube.com/watch?v=28aJOb1A34o)
 * [Tame the Frontend with Elm - Jeremy Fairbank (FluentConf June 2017)](https://www.youtube.com/watch?v=D740qUZVcr4)
@@ -1586,6 +1595,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm, putting the fun in functional - Philip Poots (LondonJS 2016)](https://www.youtube.com/watch?v=oejptx252W8)
 * [Awesome Elm](https://github.com/isRuslan/awesome-elm)
 * [Elm-Live (development server)](https://github.com/tomekwi/elm-live)
+* [Elmcast.io](http://elmcast.io): [Elm Toolbox #1: Platform](http://www.ajhager.com/elm-toolings/) | [Elm Toolbox #2: Utilities](http://www.ajhager.com/elm-toolbox-part-2-utilities/)
 * Elm: [RunElm.io: JSBin for Elm](https://runelm.io) | [Try Elm (online editor)](http://elm-lang.org/try) | [RunElm.io](https://runelm.io/new) | [Online Elm repl](http://elmrepl.cuberoot.in/) | [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [Intro to Elm - Richard Feldman (2016)](https://www.youtube.com/watch?v=3_M2G9U51GA)
 * [Elm for Javascript Developers - Jack Franklin (PolyConf 16)](https://www.youtube.com/watch?v=tOkOmWgDLOM)
@@ -1610,7 +1620,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Real World Elm - Michael Rijnders: [Part 1](http://engineering.truqu.com/2015/08/19/real-world-elm-part-1.html) | [Part 2](http://engineering.truqu.com/2015/09/25/real-world-elm-part-2.html)
 * [Elm Explained - Nik Silver](https://github.com/niksilver/elm-explained)
 * [Built With Elm](http://builtwithelm.co/)
-* [Elmcast.io](http://elmcast.io): [Elm Toolbox #1: Platform](http://www.ajhager.com/elm-toolings/) | [Elm Toolbox #2: Utilities](http://www.ajhager.com/elm-toolbox-part-2-utilities/)
+* [Elm: In Theory and In Practice - Mark Wunsch, Harry's (FirstMark's Code Driven)](https://www.youtube.com/watch?v=O_Lsp_woGXk)
 
 ### ELM - 0.18
 
@@ -2419,6 +2429,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Monad Challenges - Doug Beardsley](http://mightybyte.github.io/monad-challenges/)
 * [Monads Asking the Right Question - Pawel Szulc (LambdaConf 2015)](https://www.youtube.com/watch?v=FvZ_QhcbTCc)
 * [Monadic Design Patterns for the Web - Greg Meredith](https://channel9.msdn.com/Series/C9-Lectures-Greg-Meredith-Monadic-Design-Patterns-for-the-Web)
+
+### FUNCTIONAL PROGRAMMING - ON THE JVM
+
+* ETA (Haskell-like language on the JVM): [eta-lang.org](http://eta-lang.org/) | [Tour of ETA](https://tour.eta-lang.org/) | [Github](https://github.com/typelead/eta) | [Documentation](http://eta-lang.org/docs/html/)
+
+* [Frega](https://github.com/Frege/frege)
 
 ### FUNCTIONAL PROGRAMMING - PODCASTS
 
@@ -6085,6 +6101,7 @@ Peter R. Egli:
 ## WEB ASSEMBLY
 
 * [Compiling for the Web with WebAssembly (Google I/O '17)](https://www.youtube.com/watch?v=6v4E6oksar0)
+* [Will WebAssembly overtake JavaScript in Web Development? - Seth Samuel (Empire Node 2016)](https://www.youtube.com/watch?v=Q-4WauNGRSo)
 
 ## WEB COMPONENTS
 
