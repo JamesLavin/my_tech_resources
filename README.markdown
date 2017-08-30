@@ -39,7 +39,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Artificial Intelligence is the New Electricity - Andrew Ng (January 2017)](https://www.youtube.com/watch?v=21EiKfQYZXc)
 * [How AI detectives are cracking open the black box of deep learning - Science Mag](http://www.sciencemag.org/news/2017/07/how-ai-detectives-are-cracking-open-black-box-deep-learning)
 * [Google's Great AI Awakening: We didn't even know we hired the best AI scientists in Google - Eric Schmidt](https://www.youtube.com/watch?v=ynZ8_CFRDgE)
+* [Probabilistic Machine Learning and AI - Zoubin Ghahramani](https://www.youtube.com/watch?v=-47G_ULKAHk)
 * [Lecture for YC AI - Jeff Dean](https://www.youtube.com/watch?v=HcStlHGpjN8) & [slides](https://blog.ycombinator.com/jeff-deans-lecture-for-yc-ai/)
+* [Machines With Brains - Qz.com](https://qz.com/se/machines-with-brains/)
 * [The Frontier in Artificial Intelligence (AI): General-Purpose Learning AGI - Mustafa Suleyman](https://www.youtube.com/watch?v=Ui7dLJT5Kp0)
 * [Using Machine Learning to Explore Neural Network Architecture - Quoc Le & Barret Zoph (Google Brain team)](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)
 * [The Compound Effect of Artificial Intelligence (AI) & Silicon-Based Technologies - Steve Jurvetson](https://www.youtube.com/watch?v=n2UU3pOE0WY)
@@ -92,6 +94,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Generative Models - OpenAI](https://blog.openai.com/generative-models/)
 * [Image Synthesis From Text With Deep Learning | Two Minute Papers #116](https://www.youtube.com/watch?v=rAbhypxs1qQ)
+* [Amazon has an algorithm that designs clothes by replicating human creativity - Qz.com](https://qz.com/1062257/amazons-new-ai-algorithm-designs-clothes-without-human-designers/)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - HARDWARE
 
@@ -115,8 +118,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Talking Machines](http://www.thetalkingmachines.com/blog/)
 * [This Week in Machine Learning & AI](https://twimlai.com/shows/)
 
+### ARTIFICIAL INTELLIGENCE (AI) - QUANTUM AI
+
+* [Quantum AI: The Next Frontier (Applied AI Conference 2017)](https://www.youtube.com/watch?v=DGTv-rVGb_M)
+
 ### ARTIFICIAL INTELLIGENCE (AI) - REINFORCEMENT LEARNING
 
+* [A Brief Survey of Deep Reinforcement Learning - Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath](https://arxiv.org/pdf/1708.05866.pdf)
+* [Elon Musk’s A.I. Destroys Champion Gamer! - ColdFusion](https://www.youtube.com/watch?v=XbDmxEOj9OY)
 * [Human-level control through Deep Reinforcement Learning - Deep Mind](https://deepmind.com/research/dqn/)
 * [Deep Q Learning for Video Games - The Math of Intelligence #9 - Siraj Raval](https://www.youtube.com/watch?v=79pmNdyxEGo)
 
@@ -170,6 +179,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [IBM CEO: "Watson AI will change everything in Healthcare. Radiologists will lose jobs soon"](https://www.youtube.com/watch?v=YkEYuoa_ooo)
 * [The incredible inventions of intuitive AI - Maurice Conti (TED Talks)](https://www.youtube.com/watch?v=aR5N2Jl8k14)
 * [AI Experiments: Explore machine learning in simple, hands-on ways (Google)](https://experiments.withgoogle.com/ai)
+* [An internet company has found a single manager for 60,000 employees - Dave Gershgorn (Quartz)](https://qz.com/se/machines-with-brains/1017298/rainforest-qa-manages-its-60000-remote-employees-exclusively-through-a-series-of-algorithms/)
 * [How Google is making music with artificial intelligence (Science)](http://www.sciencemag.org/news/2017/08/how-google-making-music-artificial-intelligence)
 * [Chinese chatbots apparently re-educated after political faux pas](http://www.reuters.com/article/us-china-robots-idUSKBN1AK0G1)
 * [IBM Watson: Smartest Machine Ever Built Documentary (NOVA)](https://www.youtube.com/watch?v=3zQI-LMcDnA)
@@ -189,6 +199,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Epic to use NLP to aid documentation, decision support](https://www.healthdatamanagement.com/news/epic-to-use-nlp-to-aid-documentation-decision-support)
 * [Neural Networks for Language and Understanding - Geoff Hinton](https://www.youtube.com/watch?v=o8otywnWwKc)
 * [Machine Learning in Health Care - Antonio Criminisi](https://www.youtube.com/watch?v=XQsHPuXKmO4)
+* [Researchers built an invisible backdoor to hack AI’s decisions - Dave Gershgorn (qz.com)](https://qz.com/1061560/researchers-built-an-invisible-back-door-to-hack-ais-decisions/)
 * [Big Data and Machine Learning in Healthcare: How, Why, and When - Dr. Leonard D'Avolio (HIMSS Big Data and Analytics Conference)](https://www.youtube.com/watch?v=kqdfkkAdwxw)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - SUPERINTELLIGENCE
@@ -226,11 +237,22 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## BROWSERS
 
+### BROWSERS - APIS
+
+* [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
+* [JavaScript APIs](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API)
+* [Tabs](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/tabs)
+
 ### BROWSERS - AUTOMATION
 
 * [Nightmare](https://github.com/segmentio/nightmare)
 * [Phantom.js](http://phantomjs.org/)
 * [Selenium](http://docs.seleniumhq.org/)
+
+### BROWSERS - CHROME
+
+* [Extensions](https://developer.chrome.com/extensions)
+* [Extensions APIs](https://developer.chrome.com/extensions/api_index)
 
 ### BROWSERS - PLUGINS/EXTENSIONS
 
@@ -415,6 +437,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Digital Electronics: The Half Adder and Full Adder - Derek Molloy](https://www.youtube.com/watch?v=mZ9VWA4cTbE)
 * [An Introduction to Logic Gates - DrPhysicsA](https://www.youtube.com/watch?v=95kv5BF2Z9E)
 * [Making Your Own 4-bit Computer From Transistors - Simon Inns](https://www.youtube.com/watch?v=xISG4nGTQYE)
+
+## COMPUTING BASICS - QUANTUM COMPUTING
+
+* [Quantum Computing 2017 Update - ExplainingComputers](https://www.youtube.com/watch?v=iYESkqXVWa0)
+* [Unboxing a Quantum Computer - Holy $hit Episode 19 - Linus Tech Tips](https://www.youtube.com/watch?v=60OkanvToFI)
+* [A Beginner’s Guide to Quantum Computing - Talia Gershon (IBM)](https://www.youtube.com/watch?v=S52rxZG-zi0)
 
 ## CSS
 
@@ -1047,7 +1075,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Basic Design in Functional Programming Languages - Tomasz Kowal (ElixirLive 2016)](https://www.youtube.com/watch?v=arYOSYrjC8s)
 * [Elixir talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=elixir&commit=go)
 * [Elixir Koans - Nicolas Deverge](https://github.com/dojo-toulouse/elixir-koans)
-* [Exploring Elixir (Youtube screencasts) - Aaron Seigo](https://www.youtube.com/channel/UCFKQ85T69sYhifDHF7dnPgw)
 * [Introducing reducees - José Valim](http://blog.plataformatec.com.br/2015/05/introducing-reducees/)
 * Elixir Express: [Workshop - Chris McCord (RailsConf 2014)](http://www.youtube.com/watch?v=5kYmOyJjGDM) & [Basic documentation](https://github.com/chrismccord/elixir_express/tree/master/basics) & [Advanced documentation](https://github.com/chrismccord/elixir_express/tree/master/advanced)
 * [Elixir for the Rubyist - Hal Fulton (RubyDay 2015)](https://www.youtube.com/watch?v=UNWPp5YSDXQ)
@@ -1133,6 +1160,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Simulations - James Edward Gray II](https://github.com/JEG2/simulations)
 * [a-little-elixir-goes-a-long-way (Elixir version of code examples from The Little Schemer)](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way/tree/master/lib/schemer)
+* [Rebuilding the Mission Impossible security system in Elixir on RaspberryPi - Ju Liu](https://www.erlang-solutions.com/blog/rebuilding-the-mission-impossible-security-system-in-elixir-on-raspberrypi.html)
 * [Elixir Deep Dive: Evercam, a 10K LOC Phoenix app - Derek Haynes](https://hackernoon.com/elixir-deep-dive-evercam-a-10k-loc-phoenix-app-bd84bc20345d#.28z6nirlc)
 
 ### ELIXIR - COWBOY
@@ -1164,6 +1192,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - DEPLOYMENT - AWS
 
+* [Elixir deployments on AWS - Ed Ellson](https://medium.com/mint-digital/elixir-deployments-on-aws-ee787aa02a9d)
 * [Elixir on AWS Lambda - ElixirForum.com](https://elixirforum.com/t/elixir-on-aws-lambda/553)
 * [Deploying Elixir to AWS Elastic Beanstalk with Docker - James Robert Somers](https://robots.thoughtbot.com/deploying-elixir-to-aws-elastic-beanstalk-with-docker)
 * [Easy Elixir auto scaling deployment with AWS and Travis CI - Nicklas Ramhöj](https://www.varvet.com/blog/easy-auto-scaling-elixir-deployment-with-aws-and-travis-ci/)
@@ -1189,6 +1218,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [How to use Elixir with Docker? - Kamil Lelonek](https://blog.lelonek.me/how-to-use-elixir-with-docker-836c9b4a25b0)
 * [Bottling Elixir with Docker - Part 1 - Paul Lamb](https://paullamb.exposed/blog/2017/1/11/bottling-elixir-with-docker-part-1)
+* [Dockerizing Elixir and Phoenix Applications - Cody Boggs](https://semaphoreci.com/community/tutorials/dockerizing-elixir-and-phoenix-applications)
 
 #### ELIXIR - DEPLOYMENT - EDELIVER
 
@@ -1246,13 +1276,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - EVENT SOURCING/CQRS
 
-* [Building CQRS/ES web applications in Elixir using Phoenix - Ben Smith](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/)
+* [Building CQRS/ES web applications in Elixir using Phoenix - Ben Smith](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/) & [Building a CQRS/ES web application in Elixir using Phoenix](https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/) & [PDF](https://10consulting.com/presentations/2017-03-23-building-cqrs-web-applications-in-elixir.pdf)
 * [Eventstore: CQRS event store using PostgreSQL for persistence - Ben Smith](https://github.com/slashdotdash/eventstore)
 * [Commanded: Use Commanded to build Elixir CQRS/ES applications - Ben Smith](https://github.com/slashdotdash/commanded)
 * [EventSourced: Functional domain models with event sourcing in Elixir - Ben Smith](https://github.com/slashdotdash/eventsourced)
 * Derek Kraan: [Event Sourcing in Elixir](https://tech.zilverline.com/2017/04/07/elixir_event_sourcing) & [Event Sourcing: Invariants spanning multiple aggregates](https://tech.zilverline.com/2017/04/21/event-sourcing-invariants-spanning-multiple-aggregates)
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
 * [Event Sourcing and CQRS in Elixir - ElixirForum.com](http://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519/4)
+* [Intro to implementing Command Query Responsibility Segregation (CQRS) in Elixir applications - Ben Smith](https://github.com/slashdotdash/implementing-cqrs-in-elixir)
 * Christian Posta: [Why Microservices Should Be Event Driven: Autonomy vs Authority](http://blog.christianposta.com/microservices/why-microservices-should-be-event-driven-autonomy-vs-authority/) | [3 Easy Things to Do to Make Your Microservices More Resilient](http://blog.christianposta.com/microservices/3-easy-things-to-do-to-make-your-microservices-more-resilient/) | [Carving the Java EE Monolith Into Microservices: Prefer Verticals Not Layers](http://blog.christianposta.com/microservices/carving-the-java-ee-monolith-into-microservices-perfer-verticals-not-layers/) | [The Hardest Part About Microservices: Your Data](http://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data/)
 * [DDD/CQRS/ES/NoSQL and functional programming](https://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519)
 * [CQRS with Erlang - Bryan Hunter (NDC Conference 2014)](https://vimeo.com/97318824)
@@ -1326,6 +1357,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PACKAGES
 
 * [Hex.pm (Erlang & Elixir package manager)](https://hex.pm/)
+* [ExActor: Simplifies implementation of GenServer-based processes - Saša Jurić](https://github.com/sasa1977/exactor)
+* [con_cache: ETS-based key/value cache with row level isolated writes and ttl support - Saša Jurić](https://github.com/sasa1977/con_cache)
 * [Vex: Data Validation for Elixir - CargoSense](https://github.com/CargoSense/vex)
 * [Elixir Package Building & Publishing - Step by Step Guide From Scratch - Blackode](https://www.youtube.com/watch?v=Fh1fKF2tHk0)
 * [Apex: Awesome Print for Elixir](https://github.com/BjRo/apex)
@@ -1439,6 +1472,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - VIDEOS
 
+* [Exploring Elixir (Youtube screencasts) - Aaron Seigo](https://www.youtube.com/channel/UCFKQ85T69sYhifDHF7dnPgw)
 * [Phoenix 1.2 and Beyond - Chris McCord (ElixirConfEU 2016)](https://www.youtube.com/watch?v=n338leKvqnA)
 * [Arisen from the Ashes: Phoenix.js and Websockets - Max Beizer](https://www.youtube.com/watch?v=AvKnYO7yo_g)
 * [Phoenix Takes Flight - Chris McCord (ElixirConf EU 2015)](https://www.youtube.com/watch?v=fLlItGWiVFc)
@@ -1604,12 +1638,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to Elm - Alan Gardner (2016)](https://vimeo.com/167092863)
 * [Elm for the Frontend, Right Now (Updated for Elm 0.18) - Brad Grzesiak](http://bendyworks.com/blog/elm-frontend-right-now-updated-for-0-18)
 * [Understanding the Elm type system - Adam Waselnuk](http://www.adamwaselnuk.com/elm/2016/05/27/understanding-the-elm-type-system.html)
+* [Elm: Commands and Subscriptions and Ports. Oh My! - Bill StClair](https://steemit.com/elm/@billstclair/elm-commands-and-subscriptions-and-ports-oh-my)
 * [Elm Cheat Sheet - Sergey Keller](https://github.com/izdi/elm-cheat-sheet)
 * Elm Style Guides [NoRedInk](https://github.com/NoRedInk/elm-style-guide) | [Ossi Hanhinen](https://github.com/ohanhi/elm-style-guide)
 * [Elm FAQ](http://faq.elm-community.org/)
 * [elm-by-example.org - Grzegorz Balcerek](http://elm-by-example.org/) | [code examples](https://github.com/grzegorzbalcerek/ElmByExample)
 * [jsbin-style Glot.io](https://glot.io/new/elm)
 * [Elm by Example: Soup to Nuts - Part 1 - Dorian Karter (Hashrocket)](https://hashrocket.com/blog/posts/elm-by-example-soup-to-nuts-part-1)
+* [create-elm-app: Create Elm apps with zero configuration - Eduard Kyvenko](https://github.com/halfzebra/create-elm-app)
 * [London Elm Meetup at Plumbee Games](https://www.youtube.com/watch?v=OphstSQhyRM)
 * [Elm or how I learned to love front end development - Marco Perone](https://www.youtube.com/watch?v=DX28Hyn8gQw)
 * [awesome-elm - Ruslan Ismagilov](https://github.com/isRuslan/awesome-elm)
@@ -1677,6 +1713,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - CODE EXAMPLES
 
 * [25 Elm examples - starting from an static view and gradually progressing to an interactive web app with routing - Bryan Jennings](https://github.com/bryanjenningz/25-elm-examples)
+* [elm-examples: Practical Elm examples - Eduard Kyvenko](https://github.com/halfzebra/elm-examples)
 * [Elm SPA example - Richard T Feldman](https://github.com/rtfeldman/elm-spa-example)
 * [Phoenix Elm Battleship - Ricardo García Vega](https://github.com/bigardone/phoenix-elm-battleship)
 * [elm-autocomplete - Greg Ziegan](https://github.com/thebritican/elm-autocomplete)
@@ -1741,6 +1778,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - CSS & UI
 
+* [elm-css: Define CSS in Elm](http://package.elm-lang.org/packages/rtfeldman/elm-css/latest/)
 * [Elm UI - opinionated UI library and application framework for the web in Elm, following the Elm Architecture](https://github.com/gdotdesign/elm-ui)
 
 ### ELM - DATA STRUCTURES
@@ -1750,6 +1788,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Writing Friendly Elm Code - NoRedInk.com](http://tech.noredink.com/post/146963432518/writing-friendly-elm-code)
 * [Maybe Thinking - Josh Clayton](https://robots.thoughtbot.com/maybe-thinking)
 * [Elm Maybe - Dealing with null/Nothing - Magnus Rundberget](http://rundis.github.io/blog/2016/elm_maybe.html)
+* [Intro to Records in Elm - Wouter In t Velt](https://medium.com/elm-shorts/intro-to-records-in-elm-51bc5e933a57)
 * Functional Sets - Brian Hicks: [Part 1: Construction](https://www.brianthicks.com/post/2016/11/13/functional-sets-part-1-construction/) | [Part 2: Rotation](https://www.brianthicks.com/post/2016/11/21/functional-sets-part-2-rotation/) | [Part 3: Balancing](https://www.brianthicks.com/post/2016/11/27/functional-sets-part-3-balancing/) | [Part 4: Membership and Size](https://www.brianthicks.com/post/2016/12/05/functional-sets-part-4-membership-and-size/) | [Part 5: Folds](https://www.brianthicks.com/post/2016/12/19/functional-sets-part-5-folds/) | [Part 6: Union and Remove](https://www.brianthicks.com/post/2017/01/16/functional-sets-part-6-union-and-remove/) | [Part 7: Filter, Diff, and Intersect](https://www.brianthicks.com/post/2017/01/23/functional-sets-part-7-filter-diff-and-intersect/) | [Part 8: Map](https://www.brianthicks.com/post/2017/01/30/functional-sets-part-8-map/) | [Part 9: Wrap-Up](https://www.brianthicks.com/post/2017/02/06/functional-sets-part-9-wrap-up/)
 
 #### ELM - DATA STRUCTURES - JSON
@@ -1759,6 +1798,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [JSON-to-Elm generator - NoRedInk.com](http://noredink.github.io/json-to-elm/)
 * [Banish Type Tedium with JSON to Elm - Brian Hicks](https://www.brianthicks.com/post/2016/12/26/banish-type-tedium-with-json-to-elm/)
 * [Decoding JSON Structures With Elm - Josh Clayton](https://robots.thoughtbot.com/decoding-json-structures-with-elm)
+* [elm-demystify-decoders - Ilias Van Peer](https://github.com/zwilias/elm-demystify-decoders)
 * [Debugging JSON - Brian Hicks](https://www.brianthicks.com/post/2016/10/10/debugging-json)
 * [Composing Decoders Like LEGO - Brian Hicks](https://www.brianthicks.com/post/2016/10/17/composing-decoders-like-lego/)
 * [Decoding Large JSON Objects: A Summary - Brian Hicks](https://www.brianthicks.com/post/2016/08/22/decoding-large-json-objects-a-summary/)
@@ -1772,6 +1812,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [lambdatoast/elm.vim](https://github.com/lambdatoast/elm.vim) & [ElmCast/elm-vim](https://github.com/ElmCast/elm-vim) for [vim](http://www.vim.org/docs.php)
 * [jcollard/elm-mode](https://github.com/jcollard/elm-mode) for [Emacs](https://www.gnu.org/software/emacs/tour/) (if you're into that kind of kinky stuff)
 * [elm-format formats Elm source code according to a standard set of rules based on the official Elm Style Guide](https://github.com/avh4/elm-format)
+
+#### ELM - EDITORS - ATOM
+
+* [elmjitsu - bag of tricks for developing with Elm (Autocompletion, Go To Definition, Find Usages, Rename Symbol, etc)](https://atom.io/packages/elmjutsu)
 
 #### ELM - EDITORS - LIGHTTABLE
 
@@ -1818,6 +1862,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [A Form Validation Library for Elm: My First Published Library for Elm - Bill Peregoy](https://becoming-functional.com/a-form-validation-library-for-elm-82ef8c7c39d9#.jxqwhpwxb)
 * [elm-audio](https://github.com/jcollard/elm-audio)
 * [elm-core](https://github.com/elm-lang/core)
+* [elm-decode-pipeline](https://github.com/NoRedInk/elm-decode-pipeline)
 * [elm-graphql](https://github.com/jahewson/elm-graphql)
 * [elm-html](https://github.com/evancz/elm-html)
 * [elm-http](https://github.com/evancz/elm-http)
@@ -1836,6 +1881,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - PHOENIX & ELM
 
+* [firestorm: open-source forum engine with Elixir+Phoenix backend and Elm frontend - Josh Adams](https://github.com/dailydrip/firestorm)
 * [phoenix-elm-scaffold - Andrew MacMurray](https://github.com/andrewMacmurray/phoenix-elm-scaffold)
 * Bill Peregoy: Integrating Phoenix and Elm [Part 1](https://becoming-functional.com/integrating-phoenix-and-elm-part-1-b66cf4294d13) & [Part 2](https://becoming-functional.com/integrating-phoenix-and-elm-part-2-b611871cd70f) & [elm-divide Github repo](https://github.com/billperegoy/elm-divide)
 * Phoenix and Elm, a real use case - Ricardo García Vega: [Part 1: Introduction to creating a SPA with Phoenix and Elm](http://codeloveandboards.com/blog/2017/02/02/phoenix-and-elm-a-real-use-case-pt-1/) | [Part 2: Rendering the initial contact list](http://codeloveandboards.com/blog/2017/02/08/phoenix-and-elm-a-real-use-case-pt-2/) | [Part 3: Adding full text search and pagination navigation to the contact list](http://codeloveandboards.com/blog/2017/02/14/phoenix-and-elm-a-real-use-case-pt-3/)
@@ -2216,8 +2262,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Reducing Microservice Complexity with Kafka and Reactive Streams - Jim Riecken (Scala Days New York 2016)](https://www.youtube.com/watch?v=k_Y5ieFHGbs)
 * [Stream All Things - Patterns of Modern Data Integration - Gwen Shapira (GOTO Chicago 2017)](https://www.youtube.com/watch?v=Hjae0Cw9oew)
 * [A practical introduction to event sourcing and CQRS - Robert Lemke (Neos CMS 2017)](https://www.youtube.com/watch?v=cUXi9fUqWQ0) (discusses Neos Flow for PHP)
+* [fast-data-dev: Kafka Docker for development. Kafka, Zookeeper, Schema Registry, Kafka-Connect, Landoop Tools, 20+ connectors - Landoop](https://github.com/Landoop/fast-data-dev)
 * [Understanding Kafka with Legos - Jesse Anderson](https://www.youtube.com/watch?v=Q5wOegcVa8E)
-* [Using Apache Kafka as a Scalable, Event Driven Backbone for Service Architectures - Ben Stopford](https://www.confluent.io/blog/apache-kafka-for-service-architectures/)
+* [Using Apache Kafka as a Scalable, Event-Driven Backbone for Service Architectures - Ben Stopford](https://www.confluent.io/blog/apache-kafka-for-service-architectures/)
+* [Apache Kafka and the Rise of Stream Processing - Guozhang Wang](https://www.slideshare.net/GuozhangWang/apache-kafka-and-the-rise-of-stream-processing)
 * [Developing Real-Time Data Pipelines with Apache Kafka - Joe Stein](https://www.youtube.com/watch?v=GRPLRONVDWY)
 * [Reactive Kafka - Rajini Sivaram (SpringOne Platform 2016)](https://www.youtube.com/watch?v=-ioxYn9Vlao)
 * [Introduction to Apache Kafka - James Ward (DevoxxUS 2017)](https://www.youtube.com/watch?v=UEg40Te8pnE)
@@ -3015,6 +3063,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### JAVASCRIPT - FUNCTIONAL PROGRAMMING
 
 * [Functional Programming Basics in ES6 (JavaScript) - Jeremy Fairbank (Scenic City Summit 2016)](https://www.youtube.com/watch?v=HvMemAgOw6I)
+* [Gentle Intro to Functional Javascript - James Sinclair](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style/)
 * [Learning Functional Programming with JavaScript - Anjana Vakil (JSUnconf 2016)](https://www.youtube.com/watch?v=e-5obm1G_FY)
 * [Functional programming in JavaScript - Mattias Petter Johansson](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 * [Functional Javascript - Dr. Gleb Bahmutov](https://glebbahmutov.com/blog/tags/functional/)
@@ -3307,6 +3356,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### LINUX - NETWORKING
 
+* [Intro to DNS Terminology, Components, and Concepts - Justin Ellingwood (DigitalOcean)](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
 Peter R. Egli:
   * [Data Networking Concepts](http://www.indigoo.com/dox/itdp/01_Intro/Data-Networking-Concepts.pdf)
   * [Transport Protocols](http://www.indigoo.com/dox/itdp/02_Transport/Transport-Protocols.pdf)
@@ -3762,10 +3812,12 @@ Peter R. Egli:
 
 ### PRODUCT DEVELOPMENT - PROFESSIONALISM / EXCELLENCE / EFFICIENCY
 
+* [The Twelve-Factor App - Adam Wiggins](https://12factor.net/)
 * [10 Philosophies for Engineers - Jeff Meyerson](http://softwareengineeringdaily.com/2016/02/12/10-philosophies-for-developers/)
 * [Building a Culture of Learning - Joe Mastey (MountainWest RubyConf 2015)](http://confreaks.tv/videos/mwrc2015-building-a-culture-of-learning)
 * [Code Club - Saron Yitbarek (LoneStarRuby 2015)](http://confreaks.tv/videos/lonestarruby2015-code-club)
 * [Real Developers Ship (a.k.a Tenets for Software Delivery) - Sebastian von Conrad (Ruby Australia 2014)](http://vimeo.com/90173903)
+* [Software is Details - Kevlin Henney (SATURN 2017)](https://www.youtube.com/watch?v=MS3c9hz0bRg)
 * [Great Developers Steal - Ben Scofield (Scotland Ruby Conf 2011)](http://confreaks.tv/videos/545-scotlandruby2011-great-developers-steal)
 * [Being an Excellent Software Developer - Michael Norton (WindyCityRails2012)](http://vimeo.com/49882901)
 * [Cultures of Effective Learning - Jeff Cohen (WindyCityRails2012)](http://vimeo.com/49951365)
@@ -5126,6 +5178,7 @@ Peter R. Egli:
 
 ### RAILS - SESSIONS
 
+* [A Deep Dive Into Sessions - Justin Weiss (RailsConf 2017)](https://www.youtube.com/watch?v=mqUbnZIY3OQ)
 * [How Rails Sessions Work - Justin Weiss](http://www.justinweiss.com/blog/2015/03/17/how-rails-sessions-work/)
 
 ### RAILS - TESTING
@@ -6078,7 +6131,7 @@ Peter R. Egli:
 
 #### VIM - SPACEMACS - ALCHEMIST (ELIXIR)
 
-* [Alchemist docs](http://alchemist.readthedocs.io/en/latest/) | [Alchemist (Github)](https://github.com/tonini/alchemist.el)
+* [Alchemist docs](http://alchemist.readthedocs.io/en/latest/) | [Alchemist (Github)](https://github.com/tonini/alchemist.el) | [Wiki](https://github.com/slashmili/alchemist.vim/wiki)
 * [Elixir With Alchemist](http://spacemacs.org/layers/+lang/elixir/README.html)
 * [Alchemist Quick Reference Card (Spacemacs Version)](https://github.com/syl20bnr/spacemacs/blob/master/layers/+lang/elixir/alchemist-refcard.pdf)
 
