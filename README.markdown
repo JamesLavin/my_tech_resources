@@ -160,9 +160,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Artificial intelligence goes deep to beat humans at poker - Tonya Riley (Science)](http://www.sciencemag.org/news/2017/03/artificial-intelligence-goes-deep-beat-humans-poker)
 * [Meet Spot, the robot dog that can run, hop and open doors - Marc Raibert (TED Talk 2017)](https://www.youtube.com/watch?v=AO4In7d6X-c)
+* [A new t-shirt sewing robot can make as many shirts per hour as 17 factory workers - Marc Bain](https://qz.com/1064679/a-new-t-shirt-sewing-robot-can-make-as-many-shirts-per-hour-as-17-factory-workers/)
 * [How computers learn to recognize objects instantly - Joseph Redmon (TED Talk 2017)](https://www.youtube.com/watch?v=Cgxsv1riJhI)
 * [Google’s speech recognition is now almost as accurate as humans - 9-to-5 Google](https://9to5google.com/2017/06/01/google-speech-recognition-humans/)
 * [A.I. is Progressing Faster Than You Think - ColdFusion](https://www.youtube.com/watch?v=mQO2PcEW9BY)
+* [Artificial intelligence is great at predicting the size of hurricanes, but humans still need to figure out their impact - Dave Gershgorn](https://qz.com/1072215/artificial-intelligence-is-great-at-predicting-the-size-of-hurricanes-but-humans-still-need-to-figure-out-their-impact/)
 * [The world’s best Dota 2 players just got destroyed by a killer AI from Elon Musk’s startup - T.C. Sottek (The Verge)](https://www.theverge.com/2017/8/11/16137388/dota-2-dendi-open-ai-elon-musk)
 * [A Spatial-Temporal Modeling Framework for Large-scale Video Understanding - Xiao Liu and Shilei Wen (Baidu Research)](http://research.baidu.com/spatial-temporal-modeling-framework-large-scale-video-understanding/) | [Revisiting the Effectiveness of Off-the-shelf Temporal Modeling Approaches for Large-scale Video Classification - Yunlong Bian et al.](https://arxiv.org/pdf/1708.03805.pdf) | [Activity-Net.org](http://activity-net.org/)
 * [Case Study: TensorFlow in Medicine - Retinal Imaging - Lily Peng (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=oOeZ7IgEN4o)
@@ -759,6 +761,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Docker Cloud](https://docs.docker.com/docker-cloud/)
 * [Docker Self-Paced Training videos](https://training.docker.com/self-paced-training)
 * [Docker tutorial videos - Scott Turnbull](https://www.youtube.com/playlist?list=PLLOtMDswK0Iu0m0wseAXTzavCWji7qso7)
+* [KataCoda (interactive browser-based labs, courses, & playgrounds)](https://katacoda.com/learn)
 * Docker Tutorials: [1: Installing Docker](https://www.youtube.com/watch?v=bV5vbNK3Uhw) | [2: Docker Run Basics](https://www.youtube.com/watch?v=uTe08FxoKrU) | [3: Fun With Volumes](https://www.youtube.com/watch?v=rlK1JYsM6Aw) | [4: More Run With Extra Goodies](https://www.youtube.com/watch?v=ZgjHM1XmAKI) | [5: Basic Networking](https://www.youtube.com/watch?v=3uvqEC8fWV0) | [6: Dockerfiles (Part 1)](https://www.youtube.com/watch?v=gG_x28rDxus) | [7: Dockerfiles (Part 2)](https://www.youtube.com/watch?v=L6bjTlVdc6U) | [8: Troubleshooting with Sysdig](https://www.youtube.com/watch?v=S-fYCOMnsbY) | [9: Docker Machine](https://www.youtube.com/watch?v=3zXe3uXQnSY) | [10: Docker Compose](https://www.youtube.com/watch?v=gtoT0By8yh4) | [11: Docker Swarm](ihttps://www.youtube.com/watch?v=zTKGfPfhg78) | [12: Kitematic](https://www.youtube.com/watch?v=50IZ-AHPKo0) | [13: Getting Started with experimental Docker Networking](https://www.youtube.com/watch?v=gZ6UKym9ZIs) | [Full List](https://www.youtube.com/playlist?list=PLkA60AVN3hh_6cAz8TUGtkYbJSL2bdZ4h)
 * [Awesome Docker - curated resources](https://github.com/veggiemonk/awesome-docker)
 * [Docker for Data Scientists - Michelangelo D'Agostino (Strata 2016)](https://www.youtube.com/watch?v=GOW6yQpxOIg)
@@ -872,9 +875,11 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - KUBERNETES
 
 * Kubernetes: [Docs](https://kubernetes.io/) | [Tutorials](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Tasks](https://kubernetes.io/docs/tasks/) | [Concepts](https://kubernetes.io/docs/concepts/) | [Github](https://github.com/kubernetes/kubernetes)
+* [Awesome-Kubernetes](https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/details)
 * [Kubernetes Youtube channel](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg)
 * kubectl: [Cheatsheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/) | [Overview](https://kubernetes.io/docs/user-guide/kubectl-overview/)
 * [Kubernetes 101 for Developers - Ross Kukulinski](https://github.com/rosskukulinski/kubernetes-101-for-devs)
+* [KataCoda (interactive browser-based labs, courses, & playgrounds)](https://katacoda.com/learn)
 
 ### DEVOPS - ISTIO.IO
 
@@ -925,6 +930,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [The Register](http://www.theregister.co.uk/infrastructure/)
 
+### DEVOPS - OPEN CONTAINER INITIATIVE (OCI)
+
+* [Open Container Initiative (OCI)](https://www.opencontainers.org)
+
 ### DEVOPS - OPENSTACK
 
 * [OpenStack.org](https://www.openstack.org/): [Overview](https://www.openstack.org/software/)
@@ -935,6 +944,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [@OpenStack (Twitter)](https://twitter.com/openstack)
 * [OpenStack blog](https://www.openstack.org/blog/)
 * [Ubuntu on OpenStack](http://www.ubuntu.com/cloud/openstack)
+
+### DEVOPS - RKT
+
+* [Rkt: CLI for running application containers on Linux](https://github.com/rkt/rkt)
 
 ### DEVOPS - STATEFUL SERVICES
 
@@ -3752,6 +3765,10 @@ Peter R. Egli:
 * [Real-World OCaml - Yaron Minsky, Anil Madhavapeddy, and Jason Hickey](http://dev.realworldocaml.org/) & [Table of Contents (HTML)](http://dev.realworldocaml.org/toc.html)
 * [Caml Trading - Yaron Minsky (Jane Street Capital)](https://www.youtube.com/watch?v=hKcOkWzj0_s)
 
+### OCAML - REASON
+
+* [Reason](https://reasonml.github.io/)
+
 ## OCTAVE
 
 * [Machine Learning - Andrew Ng (Coursera)](https://class.coursera.org/ml-006/lecture)
@@ -3874,6 +3891,7 @@ Peter R. Egli:
 
 ### PROGRAMMING - ACTOR MODEL
 
+* [Get to know the Actor Model - Roberto Dip](https://dev.to/roperzh/get-to-know-the-actor-model)
 * [Thinking in actors - Saša Jurić (WebCamp Zagreb 2014)](https://www.youtube.com/watch?v=g5JJZuxrW_k)
 * [Hewitt, Meijer and Szyperski: The Actor Model (everything you wanted to know...)](https://www.youtube.com/watch?v=7erJ1DV_Tlo)
 
