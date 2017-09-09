@@ -47,14 +47,17 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Compound Effect of Artificial Intelligence (AI) & Silicon-Based Technologies - Steve Jurvetson](https://www.youtube.com/watch?v=n2UU3pOE0WY)
 * [How We Teach Computers to Understand Pictures - Fei-Fei Li](https://www.youtube.com/watch?v=40riCqvRoMs)
 * [Engineers' Guide to the Artificial Intelligence Galaxy - Kai-Fu Lee Columbia University commencement address](https://www.youtube.com/watch?v=ZXa8G-Z2CCw)
+* [The Dark Secret at the Heart of AI - Will Knight](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
 * [AI Expert Kai-Fu Lee, "Don't Miss the Boat of Artificial Intelligence in the Age of AI"](https://www.youtube.com/watch?v=gSgV4P2qpf4)
 * [Google's DeepMind CEO: Future & Capabilities of Artificial Intelligence - Demis Hassabis](https://www.youtube.com/watch?v=PSZw8egM2Is)
+* [The Future of Robotics & Artificial Intelligence - Rodney Brooks](http://rodneybrooks.com/forai-future-of-robotics-and-artificial-intelligence/)
 * [Amazon Jeff Bezos on Artificial Intelligence (AI), Staffless Store, Self-Driving Car & Donald Trump - Walt Mossberg interview](https://www.youtube.com/watch?v=VAM6b0UkEYw)
 * [Large-Scale Deep Learning with TensorFlow for Building Intelligent Systems - Jeff Dean (Google)](https://learning.acm.org/webinar_pdfs/JeffDean_WebinarSlides.pdf)
 * [The Future of Artificial Intelligence Documentary 2017](https://www.youtube.com/watch?v=UzT3Tkwx17A)
 * [Artificial Intelligence Is Stuck. Here’s How to Move It Forward - Gary Marcus (NY Times)](https://www.nytimes.com/2017/07/29/opinion/sunday/artificial-intelligence-is-stuck-heres-how-to-move-it-forward.html)
 * [Half of All Jobs Will Be Replaced by Artificial Intelligence (AI) in 10 Years, AI Expert Kai-Fu Lee](https://www.youtube.com/watch?v=2Pc4HhhW0Xo)
 * [How AI & Computer Vision will Drive our Future - Fei-Fei Li](https://www.youtube.com/watch?v=WHQS35IT75c)
+* [Explainable Artificial Intelligence (XAI) - David Gunning (DARPA)](https://www.darpa.mil/program/explainable-artificial-intelligence)
 * [International Conference on Learning Representations 2015](https://www.youtube.com/playlist?list=PLhiWXaTdsWB8PnrVZquVyqlRFWXM4ijYz)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - CONVOLUTIONAL NEURAL NETS
@@ -128,11 +131,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elon Musk’s A.I. Destroys Champion Gamer! - ColdFusion](https://www.youtube.com/watch?v=XbDmxEOj9OY)
 * [Human-level control through Deep Reinforcement Learning - Deep Mind](https://deepmind.com/research/dqn/)
 * [Deep Q Learning for Video Games - The Math of Intelligence #9 - Siraj Raval](https://www.youtube.com/watch?v=79pmNdyxEGo)
+* [Teaching a Neural Network to play a game using Q-learning - Soren D](https://www.practicalai.io/teaching-a-neural-network-to-play-a-game-with-q-learning/)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - SEQUENCE MODELS (RNN, LSTM, GRM)
 
 * [A friendly introduction to Recurrent Neural Networks - Luis Serrano](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 * [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) - Brandon Rohrer](https://www.youtube.com/watch?v=WCUNPb-5EYI)
+* [Introduction to LSTMs in Tensorflow - Harini Suresh and Nicholas Locascio (MIT Center for Brains, Minds + Machines)](https://www.youtube.com/watch?v=l4X-kZjl1gs)
 * [Recurrent Neural Networks (TensorFlow)](https://www.tensorflow.org/tutorials/recurrent)
 * [Sequence-to-Sequence Models (TensorFlow)](https://www.tensorflow.org/tutorials/seq2seq)
 
@@ -158,7 +163,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - REAL-WORLD EXAMPLES
 
-* [Artificial intelligence goes deep to beat humans at poker - Tonya Riley (Science)](http://www.sciencemag.org/news/2017/03/artificial-intelligence-goes-deep-beat-humans-poker)
+* [Artificial intelligence goes deep to beat humans at poker - Tonya Riley (Science)](http://www.sciencemag.org/news/2017/03/artificial-intelligence-goes-deep-beat-humans-poker) & [How an AI took down four world-class poker pros - Chris Valazco (Engadget)](https://www.engadget.com/2017/02/10/libratus-ai-poker-winner/)
 * [Meet Spot, the robot dog that can run, hop and open doors - Marc Raibert (TED Talk 2017)](https://www.youtube.com/watch?v=AO4In7d6X-c)
 * [A new t-shirt sewing robot can make as many shirts per hour as 17 factory workers - Marc Bain](https://qz.com/1064679/a-new-t-shirt-sewing-robot-can-make-as-many-shirts-per-hour-as-17-factory-workers/)
 * [How computers learn to recognize objects instantly - Joseph Redmon (TED Talk 2017)](https://www.youtube.com/watch?v=Cgxsv1riJhI)
@@ -178,7 +183,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Artificial Intelligence (AI) Software and Robots are Replacing White-Collar Workers](https://www.youtube.com/watch?v=31IOoZ5c_9c)
 * [Baidu Deep Voice explained: Part 1 — the Inference Pipeline](https://blog.athelas.com/paper-1-baidus-deep-voice-675a323705df)
 * [Google's Deep Mind Explained! - Self-Learning A.I. - ColdFusion](https://www.youtube.com/watch?v=TnUYcTuZJpM)
-* [IBM CEO: "Watson AI will change everything in Healthcare. Radiologists will lose jobs soon"](https://www.youtube.com/watch?v=YkEYuoa_ooo)
+* [IBM pitched its Watson supercomputer as a revolution in cancer care. It’s nowhere close - Casey Ross & Ike Swetlitz (STAT)](https://www.statnews.com/2017/09/05/watson-ibm-cancer/) vs. [IBM CEO: "Watson AI will change everything in Healthcare. Radiologists will lose jobs soon"](https://www.youtube.com/watch?v=YkEYuoa_ooo)
+* [Nvidia Lets You Peer Inside the Black Box of Its Self-Driving AI - Will Knight](https://www.technologyreview.com/s/604324/nvidia-lets-you-peer-inside-the-black-box-of-its-self-driving-ai/)
 * [The incredible inventions of intuitive AI - Maurice Conti (TED Talks)](https://www.youtube.com/watch?v=aR5N2Jl8k14)
 * [AI Experiments: Explore machine learning in simple, hands-on ways (Google)](https://experiments.withgoogle.com/ai)
 * [An internet company has found a single manager for 60,000 employees - Dave Gershgorn (Quartz)](https://qz.com/se/machines-with-brains/1017298/rainforest-qa-manages-its-60000-remote-employees-exclusively-through-a-series-of-algorithms/)
@@ -433,6 +439,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## COMPUTING BASICS
 
+* [Logic Components - 0612 TV w/ NERDfirst](https://www.youtube.com/playlist?list=PLJse9iV6Reqj1M8p1jzvv6Zzj0js_gawl)
 * [See How Computers Add Numbers in One Lesson - In One Lesson](https://www.youtube.com/watch?v=VBDoT8o4q00)
 * Computerphile: [AND OR NOT - Logic Gates Explained](https://www.youtube.com/watch?v=UvI-AMAtrvE) & [XOR & the Half Adder](https://www.youtube.com/watch?v=VPw9vPN-3ac)
 * [Logic Components - "lcc0612"](https://www.youtube.com/playlist?list=PLJse9iV6Reqj1M8p1jzvv6Zzj0js_gawl)
@@ -1531,6 +1538,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - STREAMS
 
+* [Test-Driving a Stream-powered Elixir Library - Thiago Araújo Silva](https://semaphoreci.com/community/tutorials/test-driving-a-stream-powered-elixir-library)
 * [How to build Streams in Elixir easily with Stream.resource/3 Awesomeness - Benjamin Tan](http://benjamintan.io/blog/2015/02/05/how-to-build-streams-in-elixir-easily-with-stream-resource-awesomeness/)
 
 ### ELIXIR - STRINGS
@@ -1577,6 +1585,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - VIDEOS
 
+* [ElixirConf 2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * [Erlang & Elixir Factory SF 2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jtviHbf3fbBRWcaGDBC2u0)
 * [Lone Star Elixir 2017](http://confreaks.tv/events/lonestarelixir2017)
 * ElixirDaze: [2017 videos](http://confreaks.tv/events/elixirdaze2017) | [2016 videos (Youtube)](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH) | [2016 videos (Confreaks)](http://confreaks.tv/events/elixirdaze2016)
@@ -1809,6 +1818,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [json-to-elm](https://github.com/eeue56/json-to-elm) & [JSON2Elm.com](http://noredink.github.io/json-to-elm/)
 * [json-to-elm - Noah Hall](https://github.com/eeue56/json-to-elm)
 * [JSON-to-Elm generator - NoRedInk.com](http://noredink.github.io/json-to-elm/)
+* [Breaking Down Decoders From the Bottom Up - Brian Hicks](https://www.brianthicks.com/post/2017/09/05/breaking-down-decoders-from-the-bottom-up/)
 * [Banish Type Tedium with JSON to Elm - Brian Hicks](https://www.brianthicks.com/post/2016/12/26/banish-type-tedium-with-json-to-elm/)
 * [Decoding JSON Structures With Elm - Josh Clayton](https://robots.thoughtbot.com/decoding-json-structures-with-elm)
 * [elm-demystify-decoders - Ilias Van Peer](https://github.com/zwilias/elm-demystify-decoders)
@@ -2264,6 +2274,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Papers & Presentations](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations)
     * [Wiki](https://cwiki.apache.org/confluence/display/KAFKA/Index)
     * [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
+* [Publishing with Apache Kafka at The New York Times - Boerge Svingen (Confluent)](https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/)
 * [Kafka Summit NYC 2017 videos & slides](https://www.confluent.io/kafka-summit-nyc17/resource/)
 * Ben Stopford (Confluent): [The Data Dichotomy- Rethinking the Way We Treat Data and Services](https://vimeo.com/205275868/4f90eb476f) | [Building Event-Driven Services with Apache Kafka](https://vimeo.com/210647286/91a0bf8cb5) | [Putting the Micro into Microservices with Stateful Stream Processing](https://vimeo.com/214730078/d2c85c9227)
 * [Build Services on a Backbone of Events - Ben Stopford](https://www.confluent.io/blog/build-services-backbone-events/)
@@ -3889,6 +3900,8 @@ Peter R. Egli:
 
 ## PROGRAMMING
 
+* [Every Programmer Should Know - Alexey Migutsky](https://github.com/mr-mig/every-programmer-should-know/)
+
 ### PROGRAMMING - ACTOR MODEL
 
 * [Get to know the Actor Model - Roberto Dip](https://dev.to/roperzh/get-to-know-the-actor-model)
@@ -4125,6 +4138,7 @@ Peter R. Egli:
 
 * [AnacondaCON 2017](https://www.youtube.com/playlist?list=PLGB9meziqbzqvly8Skj3qTieC-fSXeR8T)
 * [Introduction to Python & Machine Learning (with Analytics Vidhya Hackathons) - Kunal Jain](https://www.datacamp.com/community/open-courses/introduction-to-python-machine-learning-with-analytics-vidhya-hackathons)
+* [Statistics and Machine Learning in Python - Edouard Duchesnay, Tommy Löfstedt (PDF)](ftp://ftp.cea.fr/pub/unati/people/educhesnay/pystatml/StatisticsMachineLearningPythonDraft.pdf)
 * [Dataquest.io missions](https://www.dataquest.io/missions)
 * Harvard CS109: Data Science (2013): [slides](https://drive.google.com/folderview?id=0BxYkKyLxfsNVd0xicUVDS1dIS0k&usp=sharing), [video lectures](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) & [labs and solutions](https://github.com/cs109/content)
 * [Harvard CS109: Data Science (2014)](http://cs109.github.io/2014/)
@@ -4132,6 +4146,7 @@ Peter R. Egli:
 * [Intro to Python for Econometrics, Statistics and Data Analysis - Kevin Sheppard](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf)
 * [Data Mining With Python - Finn Arup Nielsen](http://www2.compute.dtu.dk/pubdb/views/edoc_download.php/6814/pdf/imm6814.pdf)
 * [Clustering US Senators with K-Means - Dataquest.io](http://blog.dataquest.io/blog/plotting-senators/)
+* [A Complete Tutorial to Learn Data Science with Python from Scratch - Kunal Jain](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
 * [Python: Getting Started With Data Analysis - Al-Ahmadgaid Asaad](http://alstatr.blogspot.com.au/2015/02/python-getting-started-with-data.html)
 * [Quantitative Economics - Thomas Sargent & John Stachurski](http://quant-econ.net/_static/pdfs/py-quant-econ.pdf) & [Python index](http://quant-econ.net/py/index.html)
 * [Think Stats: Probability and Statistics for Programmers](http://thinkstats.com/thinkstats.pdf)
@@ -4153,6 +4168,10 @@ Peter R. Egli:
 * [Python as Super Glue for the Modern Scientific Workflow - Joshua Bloom (SciPy 2012)](https://www.youtube.com/watch?v=mLuIB8aW2KA)
 * [Intro to Prediction Using Python - Luke Gotszling](https://www.youtube.com/watch?v=YeIWV9KOofU)
 * [R vs Python - Round 1](http://www.theswarmlab.com/r-vs-python-round-1/) [Round 2](http://www.theswarmlab.com/r-vs-python-round-2-22/) [Round 3](http://www.theswarmlab.com/r-vs-python-round-3/)
+
+#### PYTHON - DATA ANALYSIS - AIRFLOW
+
+* [Apache Airflow: Platform to programmatically author, schedule and monitor workflows](https://airflow.incubator.apache.org/)
 
 #### PYTHON - DATA ANALYSIS - BLAZE
 
@@ -4200,7 +4219,9 @@ Peter R. Egli:
 
 #### PYTHON - DATA ANALYSIS - PANDAS
 
+* [Data Analysis with PANDAS (cheatsheet)](http://datasciencefree.com/pandas.pdf)
 * [Python For Data Science Cheat Sheet - Pandas Basics (DataCamp.com)](https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)
+* [Python PANDAS Tutorial - TutorialsPoint.com (PDF)](https://www.tutorialspoint.com/python_pandas/python_pandas_tutorial.pdf)
 * [Pandas documentation (PDF)](http://pandas.pydata.org/pandas-docs/stable/pandas.pdf)
     * [Installation](http://pandas.pydata.org/pandas-docs/stable/install.html)
     * [FAQ](http://pandas.pydata.org/pandas-docs/stable/faq.html)
@@ -4608,6 +4629,7 @@ Peter R. Egli:
 
 #### PYTHON - LEARNING - BASICS
 
+* [Python Programming Tutorials - Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 * [Simple programs](https://wiki.python.org/moin/SimplePrograms)
 * [Programming for Absolute Beginners: Building Skills in Programming - Steven F. Lott](http://buildingskills.itmaybeahack.com/book/programming-2.6/latex/ProgrammingforNon-Programmers.pdf)
 * Beginner's Guide: [For Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers) | [For Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
@@ -5941,9 +5963,14 @@ Peter R. Egli:
 ### STATISTICAL ANALYSIS - INTRO TO
 
 * Intro to Statistics - Thomas Haslwanter: [HTML](http://work.thaslwanter.at/Stats/html/) | [PDF](http://work.thaslwanter.at/Stats/StatsIntro.pdf) | [Github (with full sourcecode)](https://github.com/thomas-haslwanter/statsintro)
+* [Learning From Data - Yaser Abu-Mostafa (Caltech)](https://www.youtube.com/playlist?list=PLCA2C1469EA777F9A)
 * [An Introduction to Statistical Learning With Applications in R - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/) & [PDF](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) & [Videos](https://www.alsharif.info/iom530)
 * [Elements of Statistical Learning, 2nd ed](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 * [Learning Statistics will Save Your Life - John Paul Ashenfelter (MountainWest RubyConf 2015)](http://confreaks.tv/videos/mwrc2015-learning-statistics-will-save-your-life)
+
+### STATISTICAL ANALYSIS - SUPPORT VECTOR MACHINES (SVMS)
+
+* [Support Vector Machine (SVM) Tutorial - Abhishek Ghose](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93)
 
 ### STATISTICAL ANALYSIS - TIME SERIES
 
