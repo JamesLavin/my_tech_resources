@@ -30,6 +30,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ## ARTIFICIAL INTELLIGENCE (AI)
 
 * Deep Learning - Ian Goodfellow, Yoshua Bengio, and Aaron Courville (MIT Press): [Chapters](http://www.deeplearningbook.org/) | [Lectures](http://www.deeplearningbook.org/lecture_slides.html)
+* [Siraj Raval's "Artificial Intelligence Education" videos](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)
+* [AI and Deep Learning - Two Minute Papers - Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2) & [Two Minute Papers](https://www.youtube.com/playlist?list=PLujxSBD-JXgnqDD1n-V30pKtp6Q886x7e)
 * [Artificial Intelligence in Industry With Dan Faggella (podcast series)](https://itunes.apple.com/us/podcast/artificial-intelligence-in-industry-with-dan-faggella/id670771965)
 * [Artificial Intelligence (AI) Turns Images & Videos into Gold - Fei-Fei Li](https://www.youtube.com/watch?v=qLCKtc9moks)
 * [Artificial Intelligence (AI) invents new knowledge and teaches human new theories - Demis Hassabis](https://www.youtube.com/watch?v=dTGthmNmrK4)
@@ -50,6 +52,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Dark Secret at the Heart of AI - Will Knight](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/)
 * [AI Expert Kai-Fu Lee, "Don't Miss the Boat of Artificial Intelligence in the Age of AI"](https://www.youtube.com/watch?v=gSgV4P2qpf4)
 * [Google's DeepMind CEO: Future & Capabilities of Artificial Intelligence - Demis Hassabis](https://www.youtube.com/watch?v=PSZw8egM2Is)
+* [Intro to DeepMind - Juan Silviera (GDD Europe '17)](https://www.youtube.com/watch?v=hzB1SdDvnq8)
 * [The Future of Robotics & Artificial Intelligence - Rodney Brooks](http://rodneybrooks.com/forai-future-of-robotics-and-artificial-intelligence/)
 * [Amazon Jeff Bezos on Artificial Intelligence (AI), Staffless Store, Self-Driving Car & Donald Trump - Walt Mossberg interview](https://www.youtube.com/watch?v=VAM6b0UkEYw)
 * [Large-Scale Deep Learning with TensorFlow for Building Intelligent Systems - Jeff Dean (Google)](https://learning.acm.org/webinar_pdfs/JeffDean_WebinarSlides.pdf)
@@ -96,8 +99,13 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ARTIFICIAL INTELLIGENCE (AI) - GENERATIVE ADVERSARIAL NETWORKS
 
 * [Generative Models - OpenAI](https://blog.openai.com/generative-models/)
+* [Generative Adversarial Networks for Style Transfer - Siraj Raval](https://www.youtube.com/watch?v=MgdAe-T8obE)
 * [Image Synthesis From Text With Deep Learning | Two Minute Papers #116](https://www.youtube.com/watch?v=rAbhypxs1qQ)
 * [Amazon has an algorithm that designs clothes by replicating human creativity - Qz.com](https://qz.com/1062257/amazons-new-ai-algorithm-designs-clothes-without-human-designers/)
+
+### ARTIFICIAL INTELLIGENCE (AI) - GOOGLE APIS
+
+* [Machine Learning APIs by Example - Sara Robinson (Google I/O '17)](https://www.youtube.com/watch?v=ETeeSYMGZn0)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - HARDWARE
 
@@ -110,6 +118,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - MACHINE LEARNING
 
+* [arXiv.org machine learning articles](https://arxiv.org/list/stat.ML/recent)
 * [This Week in Machine Learning](https://medium.com/@david.joyner)
 * [What Is Machine Learning? - Luis Serrano](https://www.youtube.com/watch?v=IpGxLWOIZy4)
 * [CS229: Machine Learning - Andrew Ng (Stanford University)](https://see.stanford.edu/Course/CS229)
@@ -137,8 +146,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [A friendly introduction to Recurrent Neural Networks - Luis Serrano](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 * [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) - Brandon Rohrer](https://www.youtube.com/watch?v=WCUNPb-5EYI)
-* [Introduction to LSTMs in Tensorflow - Harini Suresh and Nicholas Locascio (MIT Center for Brains, Minds + Machines)](https://www.youtube.com/watch?v=l4X-kZjl1gs)
+* [Introduction to LSTMs in Tensorflow - Harini Suresh and Nicholas Locascio (MIT Center for Brains, Minds + Machines)](https://www.youtube.com/watch?v=l4X-kZjl1gs) & [Tensorflow code (LSTM Sentiment Classifier)](https://github.com/nicholaslocascio/bcs-lstm)
 * [Recurrent Neural Networks (TensorFlow)](https://www.tensorflow.org/tutorials/recurrent)
+* [LSTM Networks - The Math of Intelligence - Siraj Raval](https://www.youtube.com/watch?v=9zhrxE5PQgY)
 * [Sequence-to-Sequence Models (TensorFlow)](https://www.tensorflow.org/tutorials/seq2seq)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - NEWS
@@ -159,6 +169,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ARTIFICIAL INTELLIGENCE (AI) - PYTHON - PYTORCH
 
+* [Github](https://github.com/pytorch/pytorch) | [Pytorch.org](http://pytorch.org/)
+* [Introducing Pytorch for fast.ai](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/)
 * [PyTorch vs TensorFlow — spotting the difference - Kirill Dubovikov](https://medium.com/towards-data-science/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - REAL-WORLD EXAMPLES
@@ -212,12 +224,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - SUPERINTELLIGENCE
 
+* [Myths and Facts About Superintelligent AI (With MIT's Max Tegmark) - minutephysics](https://www.youtube.com/watch?v=3Om9ssTm194)
 * [Not If, But How Artificial Intelligence Might Take Over the World - Hugh Baillie](https://www.youtube.com/watch?v=mDMP2t6lUjo)
 * [Artificial Intelligence: it will kill us - Jay Tuck (TEDxHamburgSalon)](https://www.youtube.com/watch?v=BrNs0M77Pd4)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW
 
 * [Awesome-Tensorflow (curated list of resources)](https://github.com/jtoy/awesome-tensorflow)
+* [Machine Learning with TensorFlow - Andrew Gasparovic (GDD Europe '17)](https://www.youtube.com/watch?v=2zWSr-3gkWY)
 * [First Contact With Tensorflow - Jordi Torres](http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/)
 * [TensorFlow in 5 Minutes - Siraj Raval](https://www.youtube.com/watch?v=2FmcHiLCwTU)
 * [Effective TensorFlow for Non-Experts - Martin Wicke (Google I/O '17)](https://www.youtube.com/watch?v=5DknTFbcGVM)
@@ -227,6 +241,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [TensorFlow Dev Summit 2017](https://www.youtube.com/watch?v=mWl45NkFBOc&list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
 * [TensorFlow at DeepMind - Daniel Visentin (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=VdDmhOCw6J0)
 * [TensorFlow Wide & Deep Learning Tutorial (TensorFlow)](https://www.tensorflow.org/tutorials/wide_and_deep)
+
+#### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW - MOBILE
+
+* [On-device machine learning: TensorFlow on Android - Yufeng Guo (Google Cloud Next '17)](https://www.youtube.com/watch?v=EnFyneRScQ8)
 
 ## BLOCKCHAINS
 
@@ -1640,6 +1658,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Putting the Fun in Functional With Elm - Tereza Sokol (ReactEurope 2017)](https://www.youtube.com/watch?v=a0039_JRAQo)
 * [Commanding the Elm Architecture - Kyle Kress (Sept 2016)](https://www.bigmarker.com/joncfoo/Commanding-the-Elm-Architecture)
 * [Start Using Elm to Build Web Applications - Murphy Randle](https://egghead.io/courses/start-using-elm-to-build-web-applications)
+* [Functional Programming for the Web with Elm - Austin Bingham (ACCU 2017)](https://www.youtube.com/watch?v=u3lUh1x72ao)
 * [Elm: Delightful Web Development - Amir Barylko](https://www.youtube.com/watch?v=0_0ABLgJ_Zg)
 * [Exercism.io](http://exercism.io/languages/elm/about)
 * [Scaling Elm Apps - Richard Feldman (Elm Europe 2017)](https://www.youtube.com/watch?v=DoA4Txr4GUs&app=desktop)
@@ -2475,6 +2494,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
 
+* [Category Theory for Programmers: The Preface - Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) & [Youtube lectures](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 * [Practical Lambda Calculus - Jonas Winje, Einar Høst (Lambda Days 2017)](https://www.youtube.com/watch?v=G__eoJZB-zk)
 * [The Lambda Calculus, General Term Rewriting and Food Nutrition - Brian Beckman and Erik Meijer](https://channel9.msdn.com/Series/Beckman-Meijer-Overdrive/Beckman-Meijer-Overdrive-The-Lambda-Calculus-and-Food-Nutrition)
 * [Category Theory: The essence of interface-based design - Erik Meijer (Foo Cafe 2015)](https://www.youtube.com/watch?v=JMP6gI5mLHc)
@@ -3683,6 +3703,7 @@ Peter R. Egli:
 ### NEWS - SECURITY
 
 * [CNBC](http://www.cnbc.com/cybersecurity/)
+* [Healthcare Information Security Podcast](https://player.fm/series/healthcare-information-security-podcast)
 * [Infosecurity](http://www.infosecurity-magazine.com/news/)
 * [(In)Secure](http://www.net-security.org/)
 * [ReadWrite](http://readwrite.com/category/data-and-security/)
@@ -4388,6 +4409,10 @@ Peter R. Egli:
 * [Symbolic Computing With SymPy (SciPy 2013) - 1](http://www.youtube.com/watch?v=dAgShwIx72c) [2](http://www.youtube.com/watch?v=trhmGmyTNuo) [3](http://www.youtube.com/watch?v=JDztSdQqh0o) [4](http://www.youtube.com/watch?v=q9DUdZ3flfk) [5](http://www.youtube.com/watch?v=PC1GPUteZs0) & [6](http://www.youtube.com/watch?v=wPD7Y0sCO4I)
 * [Sympy - Symbolic algebra in Python - JR Johansson](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-5-Sympy.ipynb)
 
+#### PYTHON - DATA ANALYSIS - TPOT
+
+* TPot: Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming: [Documentation](http://rhiever.github.io/tpot/) | [Github](https://github.com/rhiever/tpot)
+
 #### PYTHON - DATA ANALYSIS - VIDEOS
 
 * [PyData NYC 2015 conference videos](https://www.youtube.com/playlist?list=PLGVZCDnMOq0ourWlul1F7aYE30VQPaMRL)
@@ -4454,6 +4479,9 @@ Peter R. Egli:
 * [Zipline - algorithmic trading library](https://github.com/quantopian/zipline) & [docs](http://zipline.readthedocs.org/en/latest/)
 
 ### PYTHON - FUNCTIONAL PROGRAMMING
+
+* [Functional Programming in Python - Daniel Kirsch (PyData Berlin 2016)](https://www.youtube.com/watch?v=r2eZ7lhqzNE)
+* [Learning Data Science Using Functional Python - Joel Grus](https://www.youtube.com/watch?v=ThS4juptJjQ)
 
 #### PYTHON - FUNCTIONAL PROGRAMMING - MOCHI
 
@@ -4531,6 +4559,7 @@ Peter R. Egli:
 
 #### PYTHON - GRAPHICS - GGPLOT
 
+* [Data Visualization for Social Science - Kieran Healy (Duke)](http://socviz.co/)
 * [Ggplot for Python - Greg Lamp (PyData 2014 Silicon Valley)](https://www.youtube.com/watch?v=pHrwqLhAaMw), [Github tutorial](https://github.com/glamp/ggplot-tutorial) & [slides](http://www.slideshare.net/Yhat/ggplot-for-python)
 * [Analyzing MLB data with ggplot - Greg Lamp](http://blog.yhathq.com/posts/facebook-ggplot-tutorial.html) & [slides](http://www.slideshare.net/Yhat/analyzing-mlb-data-with-ggplot)
 
