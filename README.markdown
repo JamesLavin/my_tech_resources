@@ -176,13 +176,18 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Chipin](https://www.chipin.com/artificial-intelligence/)
 * [Futurism](https://futurism.com/artificialintelligence/)
+* [Import AI Newsletter - Jack Clark](http://us13.campaign-archive1.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
+* [Kate Crawford](https://twitter.com/katecrawford)
 * [The Next Web](https://thenextweb.com/artificial-intelligence/#.tnw_urviI0GS)
 * [Open AI](https://blog.openai.com/)
+* [Quartz - Dave Gershgorn](https://qz.com/author/dgershgornqz/)
 * [The Register](http://www.theregister.co.uk/emergent_tech/artificial_intelligence/)
 * [Science](http://search.sciencemag.org/?q=artificial%20intelligence)
 * Tech Emergence: [Guides](https://www.techemergence.com/category/primary-content-type/guides/) | [Research](https://www.techemergence.com/category/primary-content-type/research/) | [Expert Interviews](https://www.techemergence.com/category/expert-interviews/) | [Companies](https://www.techemergence.com/companies/)
 * [This Week in Machine Learning & AI](https://twimlai.com/blog/)
+* [Topbots - Mariya Yao](https://www.topbots.com/author/mariya/) & [Forbes](https://www.forbes.com/sites/mariyayao/people/mariyayao/#4d2c1d1e3dae)
 * [VentureBeat](https://venturebeat.com/category/ai/)
+* [Wired - Tom Simonite](https://www.wired.com/author/tom-simonite/)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - OPEN AI
 
@@ -252,6 +257,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Machine Learning in Health Care - Antonio Criminisi](https://www.youtube.com/watch?v=XQsHPuXKmO4)
 * [Big Data and Machine Learning in Healthcare: How, Why, and When - Dr. Leonard D'Avolio (HIMSS Big Data and Analytics Conference)](https://www.youtube.com/watch?v=kqdfkkAdwxw)
 * [Epic to use NLP to aid documentation, decision support](https://www.healthdatamanagement.com/news/epic-to-use-nlp-to-aid-documentation-decision-support)
+* [AI can detect Alzheimer's 10 years before symptoms show up - Mariella Moon](https://www.engadget.com/2017/09/17/ai-alzheimers-early-detection/)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - SUPERINTELLIGENCE
 
@@ -1380,6 +1386,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Composing Elixir Functions - Jay Hayes](https://www.bignerdranch.com/blog/composing-elixir-functions/)
 * [Function Currying in Elixir - Patrik Storm](http://blog.patrikstorm.com/function-currying-in-elixir)
+* [Lenses and Pattern Matching - Travis Poulsen](https://www.travispoulsen.com/blog/posts/2017-09-07-lenses-and-pattern-matching.html)
+* [Focus, an Elixir library for functional lenses - Travis Poulsen](https://www.travispoulsen.com/blog/posts/2017-02-19-Focus-and-Functional-Lenses.html)
 * [Currying packages](https://hex.pm/packages?search=curry&sort=downloads)
 
 ### ELIXIR - GENSTAGE & FLOW
@@ -3620,6 +3628,10 @@ Peter R. Egli:
 * [BetterExplained.com](http://betterexplained.com/cheatsheet/)
 * [Immersive Math - Jacob Ström, Kalle Åström, and Tomas Akenine-Möller](http://immersivemath.com/ila/learnmore.html)
 
+### MATH - IMAGINARY NUMBERS
+
+* [Imaginary Numbers Are Real - Welch Labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9g6KIvZ_703G3KJXapKkNaF)
+
 ### MATH - LINEAR ALGEBRA
 
 * [The Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -4430,7 +4442,7 @@ Peter R. Egli:
 
 #### PYTHON - DATA ANALYSIS - SCIPY
 
-* [SciPy Reference Guide](http://docs.scipy.org/doc/scipy/reference/) & [PDF](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf)
+* [SciPy Reference Guide](http://docs.scipy.org/doc/scipy/reference/) & [PDF](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf) & [Github](https://github.com/scipy/scipy)
 * [SciPy Cookbook](http://wiki.scipy.org/Cookbook)
 * [Scientific Python lecture notes - EuroScipy tutorial team](http://scipy-lectures.github.io/) & [PDF](http://scipy-lectures.github.io/_downloads/PythonScientific-simple.pdf)
 * [SciPy: Library of scientific algorithms for Python - JR Johansson](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb)
