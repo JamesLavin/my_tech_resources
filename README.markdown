@@ -33,6 +33,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Siraj Raval's "Artificial Intelligence Education" videos](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)
 * [AI and Deep Learning - Two Minute Papers - Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2) & [Two Minute Papers](https://www.youtube.com/playlist?list=PLujxSBD-JXgnqDD1n-V30pKtp6Q886x7e)
 * [Artificial Intelligence in Industry With Dan Faggella (podcast series)](https://itunes.apple.com/us/podcast/artificial-intelligence-in-industry-with-dan-faggella/id670771965)
+* [InfoQ talks](https://www.infoq.com/machinelearning/)
+* [Machine Learning (online Coursera class with Stanford professor Andrew Ng)](https://www.coursera.org/learn/machine-learning)
+* [Machine Learning (online course from University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+* [Intro to Machine Learning: Pattern Recognition for Fun and Profit - Sebastian Thrun and Katie Malone (Udacity)](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 * [Artificial Intelligence (AI) Turns Images & Videos into Gold - Fei-Fei Li](https://www.youtube.com/watch?v=qLCKtc9moks)
 * [Artificial Intelligence (AI) invents new knowledge and teaches human new theories - Demis Hassabis](https://www.youtube.com/watch?v=dTGthmNmrK4)
 * [Artificial Intelligence (AI) is the Tech Renaissance to Business and Society - Jeff Bezos](https://www.youtube.com/watch?v=0Cy_VOHbXzk)
@@ -62,6 +66,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How AI & Computer Vision will Drive our Future - Fei-Fei Li](https://www.youtube.com/watch?v=WHQS35IT75c)
 * [Explainable Artificial Intelligence (XAI) - David Gunning (DARPA)](https://www.darpa.mil/program/explainable-artificial-intelligence)
 * [International Conference on Learning Representations 2015](https://www.youtube.com/playlist?list=PLhiWXaTdsWB8PnrVZquVyqlRFWXM4ijYz)
+* [The Future of Artificial Intelligence - DeepMind CEO Demis Hassabis](https://www.youtube.com/watch?v=4fjmnOQuqao)
+* [Google DeepMind: What is it, how does it work and should you be scared? - Sam Shead](http://www.techworld.com/personal-tech/google-deepmind-what-is-it-how-it-works-should-you-be-scared-3615354/)
+* [What did AlphaGo do to beat the strongest human Go player? - Tobias Pfeiffer (Full Stack Fest 2016)](https://www.youtube.com/watch?v=b9H9AtbxpPM) | [slides PDF](https://pragtob.files.wordpress.com/2016/09/full_stack_fest.pdf) | [slides Speakerdeck](https://speakerdeck.com/pragtob/what-did-alphago-do-to-beat-the-strongest-human-go-player-1) | [slides Slideshare](http://www.slideshare.net/PragTob/what-did-alphago-do-to-beat-the-strongest-human-go-player)
+* [Un-Artificial Intelligence - Melinda Seckington (GoRuCo 2015)](https://www.youtube.com/watch?v=7Y1Bv2BJDLs)
+* [Neural Networks for Machine Learning - Geoffrey Hinton (University of Toronto)](https://www.coursera.org/course/neuralnets)
+* [Artificial Intelligence (online EdX.org class from UC Berkeley)](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs188-1x-artificial-579)
+* [MLOSS.org (Machine Learning Open Source Software)](http://mloss.org/software/)
+* [Artificial Stupidity: Adding Smarts to Yer Kode - Randall Thomas](http://www.sdruby.org/podcast/79)
+* [Weathering the Data Storm - Claudia Perlich (QConn New York 2014)](http://www.infoq.com/presentations/display-advertising-big-data)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - CONVOLUTIONAL NEURAL NETS
 
@@ -79,6 +92,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ARTIFICIAL INTELLIGENCE (AI) - DEEP NEURAL NETS
 
 * [How Deep Neural Networks Work - Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)
+* [A friendly introduction to Deep Learning and Neural Networks - Luis Serrano](https://www.youtube.com/watch?v=BR9h47Jtqyw)
 * [Deep Learning Demystified - Brandon Rohrer](https://www.youtube.com/watch?v=Q9Z20HCPnww)
 * [Deep Neural Networks with Tensorboard - Arpan Chakraborty & Luis Serrano (ODSC East 2017)](https://www.youtube.com/watch?v=QVeszB-4Zik) & [Tensorboard demos (Github)](https://github.com/PythonWorkshop/tensorboard_demos)
 * [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
@@ -92,6 +106,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Neuroscience-Inspired Artificial Intelligence - Demis Hassabis, et al. ("Neuron," June 2017)](https://deepmind.com/documents/113/Neuron.pdf)
 * [DeepMind’s founder says to build better computer brains, we need to look at our own - James Vincent (The Verge)](https://www.theverge.com/2017/7/19/15998610/ai-neuroscience-machine-learning-deepmind-demis-hassabis-interview)
 * [AI and Neuroscience: A virtuous circle - DeepMind](https://deepmind.com/blog/ai-and-neuroscience-virtuous-circle/)
+* [A Path to AI - Yann LeCun](https://www.youtube.com/watch?v=bub58oYJTm0)
+* [Creating Human-Level AI - Yoshua Bengio](https://www.youtube.com/watch?v=ZHYXp3gJCaI)
 * [Agents that imagine and plan - DeepMind](https://deepmind.com/blog/agents-imagine-and-plan/)
 * [DARLA: Improving Zero-Shot Transfer in Reinforcement Learning - Irina Higgins, et al. (2017)](https://arxiv.org/pdf/1707.08475.pdf)
 * [When Machines Have Ideas - Ben Vigoda (TEDxBoston)](https://www.youtube.com/watch?v=PCs3vsoMZfY)
@@ -115,6 +131,11 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ARTIFICIAL INTELLIGENCE (AI) - KERAS
 
 * [The Keras Blog - Francois Chollet](https://blog.keras.io/)
+
+### ARTIFICIAL INTELLIGENCE (AI) - LINEAR ALGEBRA
+
+* [All the Linear Algebra You Need for AI - Rachel Thomas](https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb)
+* [MATH - LINEAR ALGEBRA](https://github.com/JamesLavin/my_tech_resources#math---linear-algebra)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - MACHINE LEARNING
 
@@ -163,6 +184,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [This Week in Machine Learning & AI](https://twimlai.com/blog/)
 * [VentureBeat](https://venturebeat.com/category/ai/)
 
+### ARTIFICIAL INTELLIGENCE (AI) - OPEN AI
+
+* [OpenAI Gym](https://gym.openai.com/) | [Github](https://github.com/openai/gym)
+
 ### ARTIFICIAL INTELLIGENCE (AI) - PYTHON
 
 * [5 Genius Python Deep Learning Libraries - EliteDataScience.com](https://elitedatascience.com/python-deep-learning-libraries)
@@ -184,8 +209,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Artificial intelligence is great at predicting the size of hurricanes, but humans still need to figure out their impact - Dave Gershgorn](https://qz.com/1072215/artificial-intelligence-is-great-at-predicting-the-size-of-hurricanes-but-humans-still-need-to-figure-out-their-impact/)
 * [The world’s best Dota 2 players just got destroyed by a killer AI from Elon Musk’s startup - T.C. Sottek (The Verge)](https://www.theverge.com/2017/8/11/16137388/dota-2-dendi-open-ai-elon-musk)
 * [A Spatial-Temporal Modeling Framework for Large-scale Video Understanding - Xiao Liu and Shilei Wen (Baidu Research)](http://research.baidu.com/spatial-temporal-modeling-framework-large-scale-video-understanding/) | [Revisiting the Effectiveness of Off-the-shelf Temporal Modeling Approaches for Large-scale Video Classification - Yunlong Bian et al.](https://arxiv.org/pdf/1708.03805.pdf) | [Activity-Net.org](http://activity-net.org/)
-* [Case Study: TensorFlow in Medicine - Retinal Imaging - Lily Peng (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=oOeZ7IgEN4o)
-* [Predictive Analytics, NLP Flag Psychosis with 100% Accuracy - Jennifer Bresnick (Health IT Analytics, 2015)](https://healthitanalytics.com/news/predictive-analytics-nlp-flag-psychosis-with-100-accuracy)
+* [Automated Crowdturfing Attacks and Defenses in Online Review Systems - Yuanshun Yao, et al.(2017)](https://arxiv.org/pdf/1708.08151.pdf)
 * [Facebook’s Language-Creating AI Bots Are Now Required to Negotiate in English - Futurism](https://futurism.com/facebooks-language-creating-ai-bots-are-now-required-to-negotiate-in-english/) | [Facebook Shut Down AI After It Invented Its Own Language](http://www.theepochtimes.com/n3/2274480-facebook-shut-down-ai-after-it-invented-its-own-language/)
 * [AI learns from professional gamers — then crushes them - Peter Holley (Washington Post)](http://www.bendbulletin.com/business/5521413-151/ai-learns-from-professional-gamers-then-crushes)
 * [Google Has Started Adding Imagination to Its DeepMind AI - ScienceAlert.com](https://www.sciencealert.com/google-has-started-adding-imagination-to-its-deepmind-ai) & [Imagination-Augmented Agents for Deep Reinforcement Learning - DeepMind](https://arxiv.org/pdf/1707.06203.pdf)
@@ -195,7 +219,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Artificial Intelligence (AI) Software and Robots are Replacing White-Collar Workers](https://www.youtube.com/watch?v=31IOoZ5c_9c)
 * [Baidu Deep Voice explained: Part 1 — the Inference Pipeline](https://blog.athelas.com/paper-1-baidus-deep-voice-675a323705df)
 * [Google's Deep Mind Explained! - Self-Learning A.I. - ColdFusion](https://www.youtube.com/watch?v=TnUYcTuZJpM)
-* [IBM pitched its Watson supercomputer as a revolution in cancer care. It’s nowhere close - Casey Ross & Ike Swetlitz (STAT)](https://www.statnews.com/2017/09/05/watson-ibm-cancer/) vs. [IBM CEO: "Watson AI will change everything in Healthcare. Radiologists will lose jobs soon"](https://www.youtube.com/watch?v=YkEYuoa_ooo)
 * [Nvidia Lets You Peer Inside the Black Box of Its Self-Driving AI - Will Knight](https://www.technologyreview.com/s/604324/nvidia-lets-you-peer-inside-the-black-box-of-its-self-driving-ai/)
 * [The incredible inventions of intuitive AI - Maurice Conti (TED Talks)](https://www.youtube.com/watch?v=aR5N2Jl8k14)
 * [AI Experiments: Explore machine learning in simple, hands-on ways (Google)](https://experiments.withgoogle.com/ai)
@@ -203,24 +226,32 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How Google is making music with artificial intelligence (Science)](http://www.sciencemag.org/news/2017/08/how-google-making-music-artificial-intelligence)
 * [Chinese chatbots apparently re-educated after political faux pas](http://www.reuters.com/article/us-china-robots-idUSKBN1AK0G1)
 * [IBM Watson: Smartest Machine Ever Built Documentary (NOVA)](https://www.youtube.com/watch?v=3zQI-LMcDnA)
-* [Deep Learning in Medical Imaging - Ben Glocker (#reworkDL)](https://www.youtube.com/watch?v=2_Jv11VpOF4)
-* [Deep Learning for Predicting Glioblastoma Subtypes from MRI. Peter Chang, MD](https://www.youtube.com/watch?v=LVJbvK_HAbY)
 * [BuzzFeed News Trained A Computer To Search For Hidden Spy Planes. This Is What We Found](https://www.buzzfeed.com/peteraldhous/hidden-spy-planes)
 * [Maybe the A.I. dystopia is already here - Anne Applebaum (Washington Post)](https://www.washingtonpost.com/opinions/global-opinions/maybe-the-ai-dystopia-is-already-here/2017/07/28/d0b4c8ae-7392-11e7-8f39-eeb7d3a2d304_story.html)
 * [How PayPal Is Taking a Chance on AI to Fight Fraud - American Banker](https://www.americanbanker.com/news/how-paypal-is-taking-a-chance-on-ai-to-fight-fraud)
 * [China's big bet on domination in AI is no longer a long shot (National Post)](http://nationalpost.com/news/world/chinas-big-bet-on-domination-in-ai-is-no-longer-a-long-shot/wcm/07026820-58d0-4b91-a084-a49d177b009c)
-* [Better Medicine Through Machine Learning - Suchi Saria (TEDxBoston)](https://www.youtube.com/watch?v=Nj2YSLPn6OY)
-* [Defining a Patient Population With Cirrhosis: An Automated Algorithm With Natural Language Processing - E.K. Chang, et al., Journal of Clinical Gastroenterology 2016](https://www.ncbi.nlm.nih.gov/pubmed/27348317)
-* [Efficient identification of nationally mandated reportable cancer cases using natural language processing and machine learning - John D Osborne, et al. (Journal of Informatics in Health and Biomedicine, 2016)](https://academic.oup.com/jamia/article/23/6/1077/2399248/Efficient-identification-of-nationally-mandated)
 * [A.I. Learns Nobel Prize Experiment in Just 1 Hour! - ColdFusion](https://www.youtube.com/watch?v=lJcGzmsLRUo)
 * [Goldman Sacked: How Artificial Intelligence Will Transform Wall Street - Newsweek](http://www.newsweek.com/2017/03/10/how-artificial-intelligence-transform-wall-street-560637.html)
 * [The Rise of the Artificially Intelligent Hedge Fund - Wired](https://www.wired.com/2016/01/the-rise-of-the-artificially-intelligent-hedge-fund/)
 * [The Robots Are Coming for Wall Street - Nathaniel Popper (NY Times)](https://www.nytimes.com/2016/02/28/magazine/the-robots-are-coming-for-wall-street.html)
-* [Epic to use NLP to aid documentation, decision support](https://www.healthdatamanagement.com/news/epic-to-use-nlp-to-aid-documentation-decision-support)
 * [Neural Networks for Language and Understanding - Geoff Hinton](https://www.youtube.com/watch?v=o8otywnWwKc)
-* [Machine Learning in Health Care - Antonio Criminisi](https://www.youtube.com/watch?v=XQsHPuXKmO4)
 * [Researchers built an invisible backdoor to hack AI’s decisions - Dave Gershgorn (qz.com)](https://qz.com/1061560/researchers-built-an-invisible-back-door-to-hack-ais-decisions/)
+
+#### ARTIFICIAL INTELLIGENCE (AI) - REAL-WORLD EXAMPLES - HEALTHCARE
+
+* [Heart Disease Diagnosis with Deep Learning - Chuck-Hou Yee](https://blog.insightdatascience.com/heart-disease-diagnosis-with-deep-learning-c2d92c27e730)
+* [Deep Learning in Medical Imaging - Ben Glocker (#reworkDL)](https://www.youtube.com/watch?v=2_Jv11VpOF4)
+* [Deep Learning for Predicting Glioblastoma Subtypes from MRI. Peter Chang, MD](https://www.youtube.com/watch?v=LVJbvK_HAbY)
+* [Defining a Patient Population With Cirrhosis: An Automated Algorithm With Natural Language Processing - E.K. Chang, et al., Journal of Clinical Gastroenterology 2016](https://www.ncbi.nlm.nih.gov/pubmed/27348317)
+* [Predictive Analytics, NLP Flag Psychosis with 100% Accuracy - Jennifer Bresnick (Health IT Analytics, 2015)](https://healthitanalytics.com/news/predictive-analytics-nlp-flag-psychosis-with-100-accuracy)
+* [Case Study: TensorFlow in Medicine - Retinal Imaging - Lily Peng (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=oOeZ7IgEN4o)
+* [Better Medicine Through Machine Learning - Suchi Saria (TEDxBoston)](https://www.youtube.com/watch?v=Nj2YSLPn6OY)
+* [Efficient identification of nationally mandated reportable cancer cases using natural language processing and machine learning - John D Osborne, et al. (Journal of Informatics in Health and Biomedicine, 2016)](https://academic.oup.com/jamia/article/23/6/1077/2399248/Efficient-identification-of-nationally-mandated)
+* [IBM CEO: "Watson AI will change everything in Healthcare. Radiologists will lose jobs soon"](https://www.youtube.com/watch?v=YkEYuoa_ooo)
+* [IBM pitched its Watson supercomputer as a revolution in cancer care. It’s nowhere close - Casey Ross & Ike Swetlitz (STAT)](https://www.statnews.com/2017/09/05/watson-ibm-cancer/) vs. [IBM CEO: "Watson AI will change everything in Healthcare. Radiologists will lose jobs soon"](https://www.youtube.com/watch?v=YkEYuoa_ooo)
+* [Machine Learning in Health Care - Antonio Criminisi](https://www.youtube.com/watch?v=XQsHPuXKmO4)
 * [Big Data and Machine Learning in Healthcare: How, Why, and When - Dr. Leonard D'Avolio (HIMSS Big Data and Analytics Conference)](https://www.youtube.com/watch?v=kqdfkkAdwxw)
+* [Epic to use NLP to aid documentation, decision support](https://www.healthdatamanagement.com/news/epic-to-use-nlp-to-aid-documentation-decision-support)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - SUPERINTELLIGENCE
 
@@ -242,9 +273,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [TensorFlow at DeepMind - Daniel Visentin (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=VdDmhOCw6J0)
 * [TensorFlow Wide & Deep Learning Tutorial (TensorFlow)](https://www.tensorflow.org/tutorials/wide_and_deep)
 
+
 #### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW - MOBILE
 
 * [On-device machine learning: TensorFlow on Android - Yufeng Guo (Google Cloud Next '17)](https://www.youtube.com/watch?v=EnFyneRScQ8)
+
+### ARTIFICIAL INTELLIGENCE (AI) - WEBSITES
+
+* [Insight Data Science](https://blog.insightdatascience.com/)
+* [KD Nuggets](http://www.kdnuggets.com/)
 
 ## BLOCKCHAINS
 
@@ -612,6 +649,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [New York State](https://data.ny.gov/)
 * [San Francisco, CA](https://data.sfgov.org/)
 * [Seattle, WA](https://data.seattle.gov/)
+
+### DATA - PODCASTS
+
+* [O'Reilly Data Show Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast)
 
 ### DATA - SCRAPING
 
@@ -1126,6 +1167,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to Elixir for Rubyists - Josh Adams & Robby Clements (ExlirConf 2014)](http://confreaks.tv/videos/4121-elixirconf2014-introduction-to-elixir-for-rubyists)
 * [Elixir Foundations for Ruby Devs: Transforming Data - Tomasz Kowal](http://blog.scoutapp.com/articles/2016/12/08/elixir-foundations-for-ruby-devs-transforming-data)
 * [Intro to Elixir - SolutionStreet.com](https://www.youtube.com/watch?v=lly-1UYmnFI)
+* [Elixir: The only Sane Choice in an Insane World - Brian Cardarella (GOTO Chicago 2017)](https://www.youtube.com/watch?v=gom6nEvtl3U)
 * [Where I Got Stuck Using IEx.pry in Elixir - Jesse Trimble](http://www.jessetrimble.net/iex-pry-elixir/)
 * [Programming Elixir: The magic of today's tonic - Katie Miller (Linux.conf.au Jan 2014)](https://www.youtube.com/watch?v=uWSGBpW3xEQ)
 * [Ohai, Elixir! - Benjamin Tan (GeekCampsG 2014)](https://www.youtube.com/watch?v=vS47DS3tn0k)
@@ -1146,6 +1188,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Closures: Elixir vs. Ruby vs. JavaScript - Hubert Łępicki](https://www.amberbit.com/blog/2015/6/14/closures-elixir-vs-ruby-vs-javascript/)
 * [ExMachina for Elixir: Factories with a Functional Twist - Josh Steiner & Paul Smith](https://robots.thoughtbot.com/announcing-ex-machina)
 * [RED:4 - Learn Elixir The Fun Way (NOT FREE: $40) - Rob Conery](http://www.redfour.io/)
+
+### ELIXIR - 1.5
+
+* [The Feature That No One Knew About in Elixir 1.5 - José Valim (Elixir.LDN 2017)](https://www.youtube.com/watch?v=p4uE-jTB_Uk)
 
 ### ELIXIR - 1.4
 
@@ -2200,6 +2246,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Event Sourcing, Distributed Systems & CQRS - Sebastian Daschner](https://www.youtube.com/watch?v=CYocFQvl6s0&list=PLEV9ul4qfGOZ5gWIPMlFGMUpenSs1EvxZ) & [scalable-coffee-shop (event-driven example app in Java)](https://github.com/sdaschner/scalable-coffee-shop)
 * [Exploring CQRS and Event Sourcing - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
 * [Introduction to CQRS and Event Sourcing Patterns - Mathew McLoughlin (NDC Conference 2017)](https://www.youtube.com/watch?v=9a1PqwFrMP0) & [example code](https://github.com/mat-mcloughlin/PatientMangement)
+* Scaling Event Sourcing for Netflix Downloads - Karen Casella, et al.: [Part 1](https://medium.com/netflix-techblog/scaling-event-sourcing-for-netflix-downloads-episode-1-6bc1595c5595) | [Episode 2](https://medium.com/netflix-techblog/scaling-event-sourcing-for-netflix-downloads-episode-2-ce1b54d46eec)
 * [Effective Microservices in a Data-Centric World - Randy Shoup (GOTO Chicago 2017)](https://www.youtube.com/watch?v=whi0T1a4cWU)
 * [Domain-Driven Design Quickly - Abel Avram and with Floyd Marinescu (free book from InfoQ)](https://www.infoq.com/minibooks/domain-driven-design-quickly)
 * Developing Transactional Microservices Using Aggregates, Event Sourcing and CQRS - Chris Richardson: [Part 1](https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-1-richardson) & [Part 2](https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-2-richardson)
@@ -2320,6 +2367,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA STREAMS
 
 * [Rethinking Stream Processing with Apache Kafka - Michael Noll (Berlin Buzzwords 2017)](https://www.youtube.com/watch?v=ACwnrnVJXuE)
+* [Crossing the Streams: Joins in Apache Kafka - Florian Troßbach & Matthias J Sax](https://www.confluent.io/blog/crossing-streams-joins-apache-kafka/)
 * [Interactive Queries in Apache Kafka Streams - Florian Troßbach](https://blog.codecentric.de/en/2017/03/interactive-queries-in-apache-kafka-streams/)
 * [Apache Samza: Distributed stream processing framework](http://samza.apache.org/)
 * [Real-time Financial Alerts at Rabobank with Apache Kafka’s Streams API - Jeroen van Disseldorp](https://www.confluent.io/blog/real-time-financial-alerts-rabobank-apache-kafkas-streams-api/)
@@ -2510,6 +2558,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### FUNCTIONAL PROGRAMMING - MAYBE/OPTION, EITHER/RESULT
 
 * Kyle J. Kress: [Anatomy of Maybe — Part I: Introduction](https://toast.al/posts/2016-12-30-anatomy-of-maybe-part-i-introduction.html) | [Anatomy of Maybe — Part II: Functor](https://toast.al/posts/2017-01-01-anatomy-of-maybe-part-ii-functor.html)
+
+### FUNCTIONAL PROGRAMMING - ML
+
+* [ML for the Working Programmer, 2nd Ed - Lawrence C. Paulson](http://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html)
 
 ### FUNCTIONAL PROGRAMMING - MONADS
 
@@ -3510,33 +3562,6 @@ Peter R. Egli:
 
 [See EMACS - EMACS LISP](#emacs---emacs-lisp)
 
-## MACHINE LEARNING & AI
-
-* [OpenAI Gym](https://gym.openai.com/) | [Github](https://github.com/openai/gym)
-* [What did AlphaGo do to beat the strongest human Go player? - Tobias Pfeiffer (Full Stack Fest 2016)](https://www.youtube.com/watch?v=b9H9AtbxpPM) | [slides PDF](https://pragtob.files.wordpress.com/2016/09/full_stack_fest.pdf) | [slides Speakerdeck](https://speakerdeck.com/pragtob/what-did-alphago-do-to-beat-the-strongest-human-go-player-1) | [slides Slideshare](http://www.slideshare.net/PragTob/what-did-alphago-do-to-beat-the-strongest-human-go-player)
-* [Un-Artificial Intelligence - Melinda Seckington (GoRuCo 2015)](https://www.youtube.com/watch?v=7Y1Bv2BJDLs)
-* [InfoQ talks](https://www.infoq.com/machinelearning/)
-* [Machine Learning (online Coursera class with Stanford professor Andrew Ng)](https://www.coursera.org/learn/machine-learning)
-* [Machine Learning (online course from University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
-* [Intro to Machine Learning: Pattern Recognition for Fun and Profit - Sebastian Thrun and Katie Malone (Udacity)]()
-* [Neural Networks for Machine Learning - Geoffrey Hinton (University of Toronto)](https://www.coursera.org/course/neuralnets)
-* [Artificial Intelligence (online EdX.org class from UC Berkeley)](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs188-1x-artificial-579)
-* [MLOSS.org (Machine Learning Open Source Software)](http://mloss.org/software/)
-* [KD Nuggets](http://www.kdnuggets.com/)
-* [Artificial Stupidity: Adding Smarts to Yer Kode - Randall Thomas](http://www.sdruby.org/podcast/79)
-* [Weathering the Data Storm - Claudia Perlich (QConn New York 2014)](http://www.infoq.com/presentations/display-advertising-big-data)
-* [Google DeepMind: What is it, how does it work and should you be scared? - Sam Shead](http://www.techworld.com/personal-tech/google-deepmind-what-is-it-how-it-works-should-you-be-scared-3615354/)
-
-### MACHINE LEARNING & AI - NEURAL NETWORKS
-
-* [A friendly introduction to Deep Learning and Neural Networks - Luis Serrano](https://www.youtube.com/watch?v=BR9h47Jtqyw)
-* [How convolutional neural networks work - Brandon Rohrer](https://www.youtube.com/watch?v=FmpDIaiMIeA)
-* [How deep neural networks work - Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)
-
-### MACHINE LEARNING & AI - VIDEOS
-
-* [The Future of Artificial Intelligence - DeepMind CEO Demis Hassabis](https://www.youtube.com/watch?v=4fjmnOQuqao)
-
 ## MAIL SERVER
 
 ### MAIL SERVER - DIAGNOSTICS
@@ -3595,6 +3620,18 @@ Peter R. Egli:
 * [BetterExplained.com](http://betterexplained.com/cheatsheet/)
 * [Immersive Math - Jacob Ström, Kalle Åström, and Tomas Akenine-Möller](http://immersivemath.com/ila/learnmore.html)
 
+### MATH - LINEAR ALGEBRA
+
+* [The Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* [Linear Algebra - KhanAcademy.org](https://www.khanacademy.org/math/linear-algebra)
+* [Immersive Linear Algebra - J. Ström, K. Åström, and T. Akenine-Möller](http://immersivemath.com/ila/)
+* [Linear Algebra chapter in "Deep Learning," Ian Goodfellow, Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/contents/linear_algebra.html)
+* [Computational Linear Algebra for Coders course - fast.ai](http://www.fast.ai/2017/07/17/num-lin-alg/) | [textbook & videos](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
+
+### MATH - STATISTICS
+
+* [Statistics - KhanAcademy.org](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
+
 ## MISCELLANEOUS
 
 * [AirConf 2014](http://www.airpair.com/airconf2014)
@@ -3649,6 +3686,22 @@ Peter R. Egli:
 
 * [Hot Hardware](http://hothardware.com/)
 * [The Register: Internet of Things](http://www.theregister.co.uk/emergent_tech/internet_of_things/)
+
+### NEWS - HEALTHCARE
+
+* [Axios](https://www.axios.com/health-care)
+* [Clinician Today](http://cliniciantoday.com/tech/)
+* [Health Data Management](https://www.healthdatamanagement.com/)
+* [Health IT Outcomes](https://www.healthitoutcomes.com/solution/health-it-news)
+* [Healthcare Informatics](https://www.healthcare-informatics.com/news)
+* [Healthcare IT News](http://www.healthcareitnews.com/)
+* [Health Management Technology](https://www.healthmgttech.com/)
+* [HIT Consultant](http://hitconsultant.net/)
+* [Modern Healthcare](http://www.modernhealthcare.com/section/articles?tagID=308)
+* [NueMD](https://www.nuemd.com/news/healthcare-technology)
+* [Search Health IT](http://searchhealthit.techtarget.com/)
+* [US News & World Report](https://www.usnews.com/topics/subjects/medical_technology)
+* [Wall Street Journal](https://www.wsj.com/news/types/journal-reports-health-care)
 
 ### NEWS - PROGRAMMING
 
