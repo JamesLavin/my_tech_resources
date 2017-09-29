@@ -33,6 +33,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Siraj Raval's "Artificial Intelligence Education" videos](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)
 * [AI and Deep Learning - Two Minute Papers - Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2) & [Two Minute Papers](https://www.youtube.com/playlist?list=PLujxSBD-JXgnqDD1n-V30pKtp6Q886x7e)
 * [Artificial Intelligence in Industry With Dan Faggella (podcast series)](https://itunes.apple.com/us/podcast/artificial-intelligence-in-industry-with-dan-faggella/id670771965)
+* [The Code That Runs Our Lives - Geoffrey Hinton](https://www.youtube.com/watch?v=XG-dwZMc7Ng)
 * [InfoQ talks](https://www.infoq.com/machinelearning/)
 * [Machine Learning (online Coursera class with Stanford professor Andrew Ng)](https://www.coursera.org/learn/machine-learning)
 * [Machine Learning (online course from University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
@@ -78,20 +79,24 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - CONVOLUTIONAL NEURAL NETS
 
+* [What is wrong with convolutional neural nets? - Geoffrey Hinton](https://www.youtube.com/watch?v=rTawFwUvnLE)
 * [How Convolutional Neural Networks Work - Brandon Rohrer](https://www.youtube.com/watch?v=FmpDIaiMIeA)
 * [Friendly Introduction to Convolutional Neural Networks and Image Recognition - Luis Serrano](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 * [Intro to Different Types of Convolutions in Deep Learning - Paul-Louis Pröve](https://medium.com/towards-data-science/types-of-convolutions-in-deep-learning-717013397f4d)
 * [Convolutional Neural Networks (TensorFlow)](https://www.tensorflow.org/tutorials/deep_cnn)
+* [Chihuahua Or Muffin? Searching for the Best Computer Vision API - Mariya Yao](https://www.topbots.com/comparison-enterprise-image-recognition-computer-vision-api/)
 * [pixel-cnn+ - OpenAI](https://github.com/openai/pixel-cnn) & [PixelCNN++: Improving the PixelCNN With Discretized Logistic Mixture Likelihood and Other Modifications](https://arxiv.org/pdf/1701.05517.pdf)
 * [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN - Dhruv Parthasarathy](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
 * [Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python - EliteDataScience.com](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
 * [A Keras multithreaded DataFrame generator for millions of image files - Ryan Woodard](https://techblog.appnexus.com/a-keras-multithreaded-dataframe-generator-for-millions-of-image-files-84d3027f6f43)
 * Francois Chollet: [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html) & [The future of deep learning](https://blog.keras.io/the-future-of-deep-learning.html)
+* [Deep Neural Networks are Easily Fooled - Evolving AI Lab](https://www.youtube.com/watch?v=M2IebCN9Ht4)
 * [CS231n: Convolutional Neural Networks for Visual Recognition - Stanford University](http://cs231n.stanford.edu/)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - DEEP NEURAL NETS
 
 * [How Deep Neural Networks Work - Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)
+* [How Neural Networks Really Work - Geoffrey Hinton](https://www.youtube.com/watch?v=EInQoVLg_UY)
 * [A friendly introduction to Deep Learning and Neural Networks - Luis Serrano](https://www.youtube.com/watch?v=BR9h47Jtqyw)
 * [Deep Learning Demystified - Brandon Rohrer](https://www.youtube.com/watch?v=Q9Z20HCPnww)
 * [Deep Neural Networks with Tensorboard - Arpan Chakraborty & Luis Serrano (ODSC East 2017)](https://www.youtube.com/watch?v=QVeszB-4Zik) & [Tensorboard demos (Github)](https://github.com/PythonWorkshop/tensorboard_demos)
@@ -105,6 +110,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Neuroscience-Inspired Artificial Intelligence - Demis Hassabis, et al. ("Neuron," June 2017)](https://deepmind.com/documents/113/Neuron.pdf)
 * [DeepMind’s founder says to build better computer brains, we need to look at our own - James Vincent (The Verge)](https://www.theverge.com/2017/7/19/15998610/ai-neuroscience-machine-learning-deepmind-demis-hassabis-interview)
+* [Artificial Intelligence: Turning Our Understanding of the Mind Upside Down - Geoffrey Hinton](https://www.youtube.com/watch?v=fDR1I2Shw_E)
+* [Can sensory cortex do backpropagation? - Geoffery Hinton](https://www.youtube.com/watch?v=cBLk5baHbZ8)
 * [AI and Neuroscience: A virtuous circle - DeepMind](https://deepmind.com/blog/ai-and-neuroscience-virtuous-circle/)
 * [A Path to AI - Yann LeCun](https://www.youtube.com/watch?v=bub58oYJTm0)
 * [Creating Human-Level AI - Yoshua Bengio](https://www.youtube.com/watch?v=ZHYXp3gJCaI)
@@ -125,6 +132,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - HARDWARE
 
+* [Tesla is working with AMD to develop its own A.I. chip for self-driving cars, says source - Jordan Novet](https://www.cnbc.com/2017/09/20/tesla-building-an-ai-chip-for-its-cars-with-amd-globalfoundries.html)
 * [First demonstration of brain-inspired device to power artificial systems - University of Southampton](https://www.southampton.ac.uk/news/2016/09/memristor-brain.page)
 * [Machine Learning Infrastructure - TechEmergence.com](https://www.techemergence.com/category/industries/ml-infrastructure/)
 
@@ -189,6 +197,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [VentureBeat](https://venturebeat.com/category/ai/)
 * [Wired - Tom Simonite](https://www.wired.com/author/tom-simonite/)
 
+### ARTIFICIAL INTELLIGENCE (AI) - NOVELTY LEARNING
+
+* [Why Greatness Cannot Be Planned: The Myth of the Objective - Kenneth Stanley](https://www.youtube.com/watch?v=dXQPL9GooyI)
+
 ### ARTIFICIAL INTELLIGENCE (AI) - OPEN AI
 
 * [OpenAI Gym](https://gym.openai.com/) | [Github](https://github.com/openai/gym)
@@ -219,6 +231,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [AI learns from professional gamers — then crushes them - Peter Holley (Washington Post)](http://www.bendbulletin.com/business/5521413-151/ai-learns-from-professional-gamers-then-crushes)
 * [Google Has Started Adding Imagination to Its DeepMind AI - ScienceAlert.com](https://www.sciencealert.com/google-has-started-adding-imagination-to-its-deepmind-ai) & [Imagination-Augmented Agents for Deep Reinforcement Learning - DeepMind](https://arxiv.org/pdf/1707.06203.pdf)
 * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+* [Twitter taught Microsoft’s AI chatbot to be a racist asshole in less than a day - James Vincent](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist)
 * [These AI bots are so believable, they get asked out on dates (CNBC)](https://www.cnbc.com/2017/07/27/these-ai-bots-are-so-believable-they-get-asked-out-on-dates.html)
 * [TensorKart: Self-driving MarioKart with TensorFlow - Kevin Hughes](https://kevinhughes.ca/blog/tensor-kart)
 * [Artificial Intelligence (AI) Software and Robots are Replacing White-Collar Workers](https://www.youtube.com/watch?v=31IOoZ5c_9c)
@@ -230,6 +243,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [An internet company has found a single manager for 60,000 employees - Dave Gershgorn (Quartz)](https://qz.com/se/machines-with-brains/1017298/rainforest-qa-manages-its-60000-remote-employees-exclusively-through-a-series-of-algorithms/)
 * [How Google is making music with artificial intelligence (Science)](http://www.sciencemag.org/news/2017/08/how-google-making-music-artificial-intelligence)
 * [Chinese chatbots apparently re-educated after political faux pas](http://www.reuters.com/article/us-china-robots-idUSKBN1AK0G1)
+* [Mark Sagar Made a Baby in His Lab. Now It Plays the Piano](https://www.bloomberg.com/news/features/2017-09-07/this-startup-is-making-virtual-people-who-look-and-act-impossibly-real)
 * [IBM Watson: Smartest Machine Ever Built Documentary (NOVA)](https://www.youtube.com/watch?v=3zQI-LMcDnA)
 * [BuzzFeed News Trained A Computer To Search For Hidden Spy Planes. This Is What We Found](https://www.buzzfeed.com/peteraldhous/hidden-spy-planes)
 * [Maybe the A.I. dystopia is already here - Anne Applebaum (Washington Post)](https://www.washingtonpost.com/opinions/global-opinions/maybe-the-ai-dystopia-is-already-here/2017/07/28/d0b4c8ae-7392-11e7-8f39-eeb7d3a2d304_story.html)
@@ -656,6 +670,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [San Francisco, CA](https://data.sfgov.org/)
 * [Seattle, WA](https://data.seattle.gov/)
 
+### DATA - NATURAL LANGUAGE PROCESSING (NLP)
+
+* [Datasets for Natural Language Processing - Jason Brownlee](https://machinelearningmastery.com/datasets-natural-language-processing/)
+
 ### DATA - PODCASTS
 
 * [O'Reilly Data Show Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast)
@@ -943,6 +961,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Create Your Own Heroku Using Dokku-alt on DigitalOcean - Samudra Harapan Bekti](http://bekti.io/create-your-own-heroku-using-dokku-alt-on-digitalocean/)
 * [Deploying Dokku to DigitalOcean for excellent deploying goodness - Pam Selle](http://thewebivore.com/tutorial-deploying-dokku-to-digitalocean-for-excellent-deploying-goodness/)
 * [Running Dokku on Digital Ocean - Henrik Nyh](https://gist.github.com/henrik/26bb73091712aa42abf2)
+
+### DEVOPS - DUCKTAPE
+
+* [Ducktape: Distributed System Integration & Performance Testing Library - Confluent](https://github.com/confluentinc/ducktape)
 
 ### DEVOPS - KUBERNETES
 
@@ -2382,12 +2404,18 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Pinot: Realtime distributed OLAP datastore (LinkedIn)](https://github.com/linkedin/pinot)
 * [Streaming Data Pipelines with Brooklin - Samarth Shetty, LinkedIn (5/24/17)](https://www.youtube.com/watch?v=VUF1oazVEuU)
 
+##### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA STREAMS - KSQL
+
+* [Introducing KSQL: Open Source Streaming SQL for Apache Kafka - Neha Narkhede](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
+* [KSQL: A Streaming SQL Engine for Apache Kafka - Tim Berglund](https://www.youtube.com/watch?v=A45uRzJiv7I)
+
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - SECURITY
 
 * [Apache Kafka Security: SSL, Kerberos & Authorization - Sriharsha Chintalapani & Parth Brahmbhatt (2016 Hadoop Summit San Jose)](https://www.youtube.com/watch?v=y6XvNEInPZ0)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - PRODUCTIONIZING
 
+* [Disaster Recovery for Multi-Datacenter Apache Kafka Deployments - Yeva Byzek](https://www.confluent.io/blog/disaster-recovery-multi-datacenter-apache-kafka-deployments)
 * [Things We Wish We Knew Before Operationalising Kafka - Sreekanth Ramakrishnan (BigData.SG & Hadoop.SG)](https://www.youtube.com/watch?v=MhyW1FUdN8I)
 * [Tuning Kafka for low latency guaranteed messaging -- Jiangjie (Becket) Qin (LinkedIn), 6/15/16](https://www.youtube.com/watch?v=oQe7PpDDdzA)
 * [Running Kafka in Production: lessons learned - Ivan Dyachkov (Klarna the KonferenSE 2016)](https://www.youtube.com/watch?v=xZ8qy5eDS48)
@@ -2641,6 +2669,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [Developer docs](http://developer.github.com)
 * [gitsuggest: suggests Github repositories based on repositories you've shown interest in](https://github.com/csurfer/gitsuggest)
+
+## HAPPINESS
+
+* [The Science of Happiness - BerkeleyX: GG101x](https://courses.edx.org/courses/course-v1:BerkeleyX+GG101x+3T2017/course/)
 
 ## HASKELL
 
@@ -4225,6 +4257,7 @@ Peter R. Egli:
 * [AnacondaCON 2017](https://www.youtube.com/playlist?list=PLGB9meziqbzqvly8Skj3qTieC-fSXeR8T)
 * [Introduction to Python & Machine Learning (with Analytics Vidhya Hackathons) - Kunal Jain](https://www.datacamp.com/community/open-courses/introduction-to-python-machine-learning-with-analytics-vidhya-hackathons)
 * [Statistics and Machine Learning in Python - Edouard Duchesnay, Tommy Löfstedt (PDF)](ftp://ftp.cea.fr/pub/unati/people/educhesnay/pystatml/StatisticsMachineLearningPythonDraft.pdf)
+* [Code for "Python for Data Analysis, 2nd ed" - Wes McKinney](https://github.com/wesm/pydata-book)
 * [Dataquest.io missions](https://www.dataquest.io/missions)
 * Harvard CS109: Data Science (2013): [slides](https://drive.google.com/folderview?id=0BxYkKyLxfsNVd0xicUVDS1dIS0k&usp=sharing), [video lectures](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) & [labs and solutions](https://github.com/cs109/content)
 * [Harvard CS109: Data Science (2014)](http://cs109.github.io/2014/)
@@ -4378,6 +4411,7 @@ Peter R. Egli:
 
 ##### PYTHON - DATA ANALYSIS - PANDAS - PERFORMANCE
 
+* [Apache Arrow and the "10 Things I Hate About pandas" - Wes McKinney](http://wesmckinney.com/blog/apache-arrow-pandas-internals/)
 * [Performance Pandas - Jeff Reback](https://www.youtube.com/watch?v=2RW9zSQF1Sk)
 
 #### PYTHON - DATA ANALYSIS - PYBRAIN
@@ -6064,6 +6098,7 @@ Peter R. Egli:
 
 ### STATISTICAL ANALYSIS - SUPPORT VECTOR MACHINES (SVMS)
 
+* [How Support Vector Machines work / How to open a black box - Brandon Rohrer](https://www.youtube.com/watch?v=-Z4aojJ-pdg)
 * [Support Vector Machine (SVM) Tutorial - Abhishek Ghose](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93)
 
 ### STATISTICAL ANALYSIS - TIME SERIES
