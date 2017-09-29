@@ -103,6 +103,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - GENERAL INTELLIGENCE
 
+* [Is AI Riding a One-Trick Pony? - James Somers](https://www.technologyreview.com/s/608911/is-ai-riding-a-one-trick-pony/)
 * [Neuroscience-Inspired Artificial Intelligence - Demis Hassabis, et al. ("Neuron," June 2017)](https://deepmind.com/documents/113/Neuron.pdf)
 * [DeepMind’s founder says to build better computer brains, we need to look at our own - James Vincent (The Verge)](https://www.theverge.com/2017/7/19/15998610/ai-neuroscience-machine-learning-deepmind-demis-hassabis-interview)
 * [AI and Neuroscience: A virtuous circle - DeepMind](https://deepmind.com/blog/ai-and-neuroscience-virtuous-circle/)
@@ -144,12 +145,44 @@ Links to resources I have found useful or think might be helpful to future me or
 * [What Is Machine Learning? - Luis Serrano](https://www.youtube.com/watch?v=IpGxLWOIZy4)
 * [CS229: Machine Learning - Andrew Ng (Stanford University)](https://see.stanford.edu/Course/CS229)
 
+### ARTIFICIAL INTELLIGENCE (AI) - NEWS
+
+* [Chipin](https://www.chipin.com/artificial-intelligence/)
+* [Futurism](https://futurism.com/artificialintelligence/)
+* [Import AI Newsletter - Jack Clark](http://us13.campaign-archive1.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
+* [Kate Crawford](https://twitter.com/katecrawford)
+* [Machine Learnings](https://machinelearnings.co/)
+* [The Next Web](https://thenextweb.com/artificial-intelligence/#.tnw_urviI0GS)
+* [Open AI](https://blog.openai.com/)
+* [Quartz - Dave Gershgorn](https://qz.com/author/dgershgornqz/)
+* [The Register](http://www.theregister.co.uk/emergent_tech/artificial_intelligence/)
+* [Science](http://search.sciencemag.org/?q=artificial%20intelligence)
+* Tech Emergence: [Guides](https://www.techemergence.com/category/primary-content-type/guides/) | [Research](https://www.techemergence.com/category/primary-content-type/research/) | [Expert Interviews](https://www.techemergence.com/category/expert-interviews/) | [Companies](https://www.techemergence.com/companies/)
+* [This Week in Machine Learning & AI](https://twimlai.com/blog/)
+* [Topbots - Mariya Yao](https://www.topbots.com/author/mariya/) & [Forbes](https://www.forbes.com/sites/mariyayao/people/mariyayao/#4d2c1d1e3dae)
+* [VentureBeat](https://venturebeat.com/category/ai/)
+* [Wired - Tom Simonite](https://www.wired.com/author/tom-simonite/)
+
+### ARTIFICIAL INTELLIGENCE (AI) - OPEN AI
+
+* [OpenAI Gym](https://gym.openai.com/) | [Github](https://github.com/openai/gym)
+
 ### ARTIFICIAL INTELLIGENCE (AI) - PODCASTS
 
 * [Artificial Intelligence in Industry](https://www.techemergence.com/category/primary-content-type/artificial-intelligence-podcast/)
 * [Machine Learning Guide - Tyler Renelle](http://ocdevel.com/podcasts/machine-learning)
 * [Talking Machines](http://www.thetalkingmachines.com/blog/)
 * [This Week in Machine Learning & AI](https://twimlai.com/shows/)
+
+### ARTIFICIAL INTELLIGENCE (AI) - PYTHON
+
+* [5 Genius Python Deep Learning Libraries - EliteDataScience.com](https://elitedatascience.com/python-deep-learning-libraries)
+
+#### ARTIFICIAL INTELLIGENCE (AI) - PYTHON - PYTORCH
+
+* [Github](https://github.com/pytorch/pytorch) | [Pytorch.org](http://pytorch.org/)
+* [Introducing Pytorch for fast.ai](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/)
+* [PyTorch vs TensorFlow — spotting the difference - Kirill Dubovikov](https://medium.com/towards-data-science/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - QUANTUM AI
 
@@ -172,37 +205,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [LSTM Networks - The Math of Intelligence - Siraj Raval](https://www.youtube.com/watch?v=9zhrxE5PQgY)
 * [Sequence-to-Sequence Models (TensorFlow)](https://www.tensorflow.org/tutorials/seq2seq)
 
-### ARTIFICIAL INTELLIGENCE (AI) - NEWS
-
-* [Chipin](https://www.chipin.com/artificial-intelligence/)
-* [Futurism](https://futurism.com/artificialintelligence/)
-* [Import AI Newsletter - Jack Clark](http://us13.campaign-archive1.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
-* [Kate Crawford](https://twitter.com/katecrawford)
-* [The Next Web](https://thenextweb.com/artificial-intelligence/#.tnw_urviI0GS)
-* [Open AI](https://blog.openai.com/)
-* [Quartz - Dave Gershgorn](https://qz.com/author/dgershgornqz/)
-* [The Register](http://www.theregister.co.uk/emergent_tech/artificial_intelligence/)
-* [Science](http://search.sciencemag.org/?q=artificial%20intelligence)
-* Tech Emergence: [Guides](https://www.techemergence.com/category/primary-content-type/guides/) | [Research](https://www.techemergence.com/category/primary-content-type/research/) | [Expert Interviews](https://www.techemergence.com/category/expert-interviews/) | [Companies](https://www.techemergence.com/companies/)
-* [This Week in Machine Learning & AI](https://twimlai.com/blog/)
-* [Topbots - Mariya Yao](https://www.topbots.com/author/mariya/) & [Forbes](https://www.forbes.com/sites/mariyayao/people/mariyayao/#4d2c1d1e3dae)
-* [VentureBeat](https://venturebeat.com/category/ai/)
-* [Wired - Tom Simonite](https://www.wired.com/author/tom-simonite/)
-
-### ARTIFICIAL INTELLIGENCE (AI) - OPEN AI
-
-* [OpenAI Gym](https://gym.openai.com/) | [Github](https://github.com/openai/gym)
-
-### ARTIFICIAL INTELLIGENCE (AI) - PYTHON
-
-* [5 Genius Python Deep Learning Libraries - EliteDataScience.com](https://elitedatascience.com/python-deep-learning-libraries)
-
-#### ARTIFICIAL INTELLIGENCE (AI) - PYTHON - PYTORCH
-
-* [Github](https://github.com/pytorch/pytorch) | [Pytorch.org](http://pytorch.org/)
-* [Introducing Pytorch for fast.ai](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/)
-* [PyTorch vs TensorFlow — spotting the difference - Kirill Dubovikov](https://medium.com/towards-data-science/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)
-
 ### ARTIFICIAL INTELLIGENCE (AI) - REAL-WORLD EXAMPLES
 
 * [Artificial intelligence goes deep to beat humans at poker - Tonya Riley (Science)](http://www.sciencemag.org/news/2017/03/artificial-intelligence-goes-deep-beat-humans-poker) & [How an AI took down four world-class poker pros - Chris Valazco (Engadget)](https://www.engadget.com/2017/02/10/libratus-ai-poker-winner/)
@@ -214,6 +216,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Artificial intelligence is great at predicting the size of hurricanes, but humans still need to figure out their impact - Dave Gershgorn](https://qz.com/1072215/artificial-intelligence-is-great-at-predicting-the-size-of-hurricanes-but-humans-still-need-to-figure-out-their-impact/)
 * [The world’s best Dota 2 players just got destroyed by a killer AI from Elon Musk’s startup - T.C. Sottek (The Verge)](https://www.theverge.com/2017/8/11/16137388/dota-2-dendi-open-ai-elon-musk)
 * [A Spatial-Temporal Modeling Framework for Large-scale Video Understanding - Xiao Liu and Shilei Wen (Baidu Research)](http://research.baidu.com/spatial-temporal-modeling-framework-large-scale-video-understanding/) | [Revisiting the Effectiveness of Off-the-shelf Temporal Modeling Approaches for Large-scale Video Classification - Yunlong Bian et al.](https://arxiv.org/pdf/1708.03805.pdf) | [Activity-Net.org](http://activity-net.org/)
+* [Microsoft Dynamics 365 now offers service chatbots as part of AI push](https://venturebeat.com/2017/09/25/microsoft-dynamics-365-customers-get-service-chatbots-as-part-of-ai-push/)
 * [Automated Crowdturfing Attacks and Defenses in Online Review Systems - Yuanshun Yao, et al.(2017)](https://arxiv.org/pdf/1708.08151.pdf)
 * [Facebook’s Language-Creating AI Bots Are Now Required to Negotiate in English - Futurism](https://futurism.com/facebooks-language-creating-ai-bots-are-now-required-to-negotiate-in-english/) | [Facebook Shut Down AI After It Invented Its Own Language](http://www.theepochtimes.com/n3/2274480-facebook-shut-down-ai-after-it-invented-its-own-language/)
 * [AI learns from professional gamers — then crushes them - Peter Holley (Washington Post)](http://www.bendbulletin.com/business/5521413-151/ai-learns-from-professional-gamers-then-crushes)
@@ -249,6 +252,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Deep Learning for Predicting Glioblastoma Subtypes from MRI. Peter Chang, MD](https://www.youtube.com/watch?v=LVJbvK_HAbY)
 * [Defining a Patient Population With Cirrhosis: An Automated Algorithm With Natural Language Processing - E.K. Chang, et al., Journal of Clinical Gastroenterology 2016](https://www.ncbi.nlm.nih.gov/pubmed/27348317)
 * [Predictive Analytics, NLP Flag Psychosis with 100% Accuracy - Jennifer Bresnick (Health IT Analytics, 2015)](https://healthitanalytics.com/news/predictive-analytics-nlp-flag-psychosis-with-100-accuracy)
+* [Chinese robot dentist is first to fit implants in patient’s mouth without any human involvement - Alice Yan](http://www.scmp.com/news/china/article/2112197/chinese-robot-dentist-first-fit-implants-patients-mouth-without-any-human)
 * [Case Study: TensorFlow in Medicine - Retinal Imaging - Lily Peng (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=oOeZ7IgEN4o)
 * [Better Medicine Through Machine Learning - Suchi Saria (TEDxBoston)](https://www.youtube.com/watch?v=Nj2YSLPn6OY)
 * [Efficient identification of nationally mandated reportable cancer cases using natural language processing and machine learning - John D Osborne, et al. (Journal of Informatics in Health and Biomedicine, 2016)](https://academic.oup.com/jamia/article/23/6/1077/2399248/Efficient-identification-of-nationally-mandated)
@@ -584,6 +588,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Expedia](http://developer.ean.com/)
 * [Facebook](https://developers.facebook.com/docs/graph-api)
 * [Forecast.io](https://developer.forecast.io/) (weather)
+* [Google Public Data](https://www.google.com/publicdata/directory)
+* [HealthData.gov](https://www.healthdata.gov/search/type/dataset)
 * [Hotwire](http://developer.hotwire.com/)
 * [Kaggle](http://blog.kaggle.com/2016/08/17/making-kaggle-the-home-of-open-data/)
 * [MapQuest](http://developer.mapquest.com/web/products/open) (maps)
@@ -2128,6 +2134,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ERLANG - BLOGS
 
 * [Erlang Solutions](https://www.erlang-solutions.com/blog.html)
+* [This Week in Erlang - Sasan Gootik](https://gootik.github.io/this-week-in-erlang/)
 
 ### ERLANG - DEPLOYMENT
 
@@ -6056,6 +6063,7 @@ Peter R. Egli:
 
 ### STATISTICAL ANALYSIS - INTRO TO
 
+* Data Science Masters: [Github](https://github.com/datasciencemasters/go) & [website](http://datasciencemasters.org/)
 * Intro to Statistics - Thomas Haslwanter: [HTML](http://work.thaslwanter.at/Stats/html/) | [PDF](http://work.thaslwanter.at/Stats/StatsIntro.pdf) | [Github (with full sourcecode)](https://github.com/thomas-haslwanter/statsintro)
 * [Learning From Data - Yaser Abu-Mostafa (Caltech)](https://www.youtube.com/playlist?list=PLCA2C1469EA777F9A)
 * [An Introduction to Statistical Learning With Applications in R - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/) & [PDF](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) & [Videos](https://www.alsharif.info/iom530)
