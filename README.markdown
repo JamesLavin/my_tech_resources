@@ -137,6 +137,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [First demonstration of brain-inspired device to power artificial systems - University of Southampton](https://www.southampton.ac.uk/news/2016/09/memristor-brain.page)
 * [Machine Learning Infrastructure - TechEmergence.com](https://www.techemergence.com/category/industries/ml-infrastructure/)
 
+### ARTIFICIAL INTELLIGENCE (AI) - H2O.AI
+
+* [H2O.ai](https://www.h2o.ai/)
+
 ### ARTIFICIAL INTELLIGENCE (AI) - KERAS
 
 * [The Keras Blog - Francois Chollet](https://blog.keras.io/)
@@ -226,6 +230,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Google’s speech recognition is now almost as accurate as humans - 9-to-5 Google](https://9to5google.com/2017/06/01/google-speech-recognition-humans/)
 * [A.I. is Progressing Faster Than You Think - ColdFusion](https://www.youtube.com/watch?v=mQO2PcEW9BY)
 * [Artificial intelligence is great at predicting the size of hurricanes, but humans still need to figure out their impact - Dave Gershgorn](https://qz.com/1072215/artificial-intelligence-is-great-at-predicting-the-size-of-hurricanes-but-humans-still-need-to-figure-out-their-impact/)
+* [Voyage's first self-driving car deployment](https://news.voyage.auto/voyages-first-self-driving-car-deployment-29c7688c6a1)
 * [The world’s best Dota 2 players just got destroyed by a killer AI from Elon Musk’s startup - T.C. Sottek (The Verge)](https://www.theverge.com/2017/8/11/16137388/dota-2-dendi-open-ai-elon-musk)
 * [A Spatial-Temporal Modeling Framework for Large-scale Video Understanding - Xiao Liu and Shilei Wen (Baidu Research)](http://research.baidu.com/spatial-temporal-modeling-framework-large-scale-video-understanding/) | [Revisiting the Effectiveness of Off-the-shelf Temporal Modeling Approaches for Large-scale Video Classification - Yunlong Bian et al.](https://arxiv.org/pdf/1708.03805.pdf) | [Activity-Net.org](http://activity-net.org/)
 * [Microsoft Dynamics 365 now offers service chatbots as part of AI push](https://venturebeat.com/2017/09/25/microsoft-dynamics-365-customers-get-service-chatbots-as-part-of-ai-push/)
@@ -277,6 +282,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Epic to use NLP to aid documentation, decision support](https://www.healthdatamanagement.com/news/epic-to-use-nlp-to-aid-documentation-decision-support)
 * [AI can detect Alzheimer's 10 years before symptoms show up - Mariella Moon](https://www.engadget.com/2017/09/17/ai-alzheimers-early-detection/)
 
+### ARTIFICIAL INTELLIGENCE (AI) - SIMULATION
+
+* [Running Programs In Reverse for Deeper A.I. - Zenna Tavares](https://www.youtube.com/watch?v=JnonBxKKZsg)
+
 ### ARTIFICIAL INTELLIGENCE (AI) - SUPERINTELLIGENCE
 
 * [Myths and Facts About Superintelligent AI (With MIT's Max Tegmark) - minutephysics](https://www.youtube.com/watch?v=3Om9ssTm194)
@@ -301,6 +310,10 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW - MOBILE
 
 * [On-device machine learning: TensorFlow on Android - Yufeng Guo (Google Cloud Next '17)](https://www.youtube.com/watch?v=EnFyneRScQ8)
+
+### ARTIFICIAL INTELLIGENCE (AI) - UNSUPERVISED LEARNING
+
+* [The Next Frontier in AI: Unsupervised Learning - Yann LeCun](https://www.youtube.com/watch?v=IbjF5VjniVE)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - WEBSITES
 
@@ -1843,6 +1856,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Creating a Fun Game with Elm - Andrey Kuzmin & Kolja Wilcke (Curry On 2016)](https://www.youtube.com/watch?v=En2BKs8unnQ)
 * [Start app - Evan Czaplicki](https://github.com/evancz/start-app)
 * [How to Create Tetris in Elm - Captain Coder](https://www.youtube.com/playlist?list=PL7C8fMD-89DKhlerIE3BrYNd0PlhA6Zch)
+* [Elm in the wild: A Sandwich Delivery Game - Matthias Putz](https://www.innoq.com/en/blog/sandwich-delivery-game/)
 * [API Design Session: elm-autocomplete - Evan Czaplicki](https://www.youtube.com/watch?v=KSuCYUqY058)
 * [elm-tutorial-app: example Elm single page application - Sebastian Porto](https://github.com/sporto/elm-tutorial-app)
 * Composing Features and Behaviours in the Elm Architecture - Fred Daoud: [0: Intro](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture) | [1: Creating a Feature](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-010-todolist-feature/client-elm#creating-a-feature) | [2: Connecting Features Together](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-020-todoform-feature/client-elm#connecting-features-together) | [3: Multiple Listeners](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-030-todosummary-feature/client-elm#multiple-listeners) | [4: Composing Features](https://github.com/foxdonut/adventures-reactive-web-dev/tree/elm-040-todominmax-feature/client-elm#composing-features) & [Summary of Daoud's ideas - LambdaCat](http://www.lambdacat.com/road-to-elm-structuring-your-application/)
@@ -1971,7 +1985,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - LIVE CODING
 
 * [Live Coding an Instagram Clone Using Elm - Rudolf Olah (CodeMentor)](https://www.youtube.com/watch?v=C4LU4_heFrs)
-* [Coding the A* Pathfinding Algorithm - Jamon Holmgren and Chris Krycho](https://www.youtube.com/watch?v=s8dH7k0Zggo)
+* [Coding the A\* Pathfinding Algorithm - Jamon Holmgren and Chris Krycho](https://www.youtube.com/watch?v=s8dH7k0Zggo)
 
 ### ELM - PACKAGES
 
@@ -2047,9 +2061,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - VIDEOS
 
+* [ElmConf 2017](https://www.youtube.com/playlist?list=PLglJM3BYAMPFTT61A0Axo_8n0s9n9CixA)
 * [Elm and React in production - Richard Feldman (ReactiveConf 2016)](https://www.youtube.com/watch?v=3FNKaGm3gk0)
 * [Elm Europe 2017](https://www.youtube.com/playlist?list=PL-cYi7I913S8cGyZWdN6YVZ028iS9BfpM)
-* [Elm Conf 2016](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
+* [ElmConf 2016](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
     * [Making Impossible States Impossible - Richard Feldman](https://www.youtube.com/watch?v=IcgmSRJHu_8)
     * [Beyond Hello World and Todo Lists - Ossi Hanhinen](https://www.youtube.com/watch?v=vpc80c5iC6k)
     * [Code Is the Easy Part - Evan Czaplicki](https://www.youtube.com/watch?v=DSjbTC-hvqQ)
@@ -2384,11 +2399,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Distributed Commit Log: Application Techniques for Transaction Processing - David McNeil](https://www.youtube.com/watch?v=X2g0FFOV2e0)
 * [Distributed Commit Logs with Apache Kafka - James Ward (Devoxx Belgium 2016)](https://www.youtube.com/watch?v=ElilYxUOjOQ)
 * Confluent.io: [Blog](https://www.confluent.io/blog/) | [Resources](https://www.confluent.io/resources/)
+* [Exactly-Once Semantics in Kafka: Listen up, I will only say this once! - Jason Gustafson](https://www.youtube.com/watch?v=WscozkoXLHM)
 * [When Microservices Meet Event Sourcing - Vinicius Gomes (O'Reilly Software Architecture Conference NYC 2017)](https://www.youtube.com/watch?v=cISNDnwlSgw)
 * [Apache Kafka and the Next 700 Stream Processing Systems - Jay Kreps](https://www.youtube.com/watch?v=9RMOc0SwRro)
 * [Reducing Microservice Complexity with Kafka and Reactive Streams - Jim Riecken (Scala Days New York 2016)](https://www.youtube.com/watch?v=k_Y5ieFHGbs)
 * [Stream All Things - Patterns of Modern Data Integration - Gwen Shapira (GOTO Chicago 2017)](https://www.youtube.com/watch?v=Hjae0Cw9oew)
 * [A practical introduction to event sourcing and CQRS - Robert Lemke (Neos CMS 2017)](https://www.youtube.com/watch?v=cUXi9fUqWQ0) (discusses Neos Flow for PHP)
+* [How to Build and Deploy Scalable Machine Learning in Production with Apache Kafka - Kai Waehner](https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/)
 * [fast-data-dev: Kafka Docker for development. Kafka, Zookeeper, Schema Registry, Kafka-Connect, Landoop Tools, 20+ connectors - Landoop](https://github.com/Landoop/fast-data-dev)
 * [Understanding Kafka with Legos - Jesse Anderson](https://www.youtube.com/watch?v=Q5wOegcVa8E)
 * [Using Apache Kafka as a Scalable, Event-Driven Backbone for Service Architectures - Ben Stopford](https://www.confluent.io/blog/apache-kafka-for-service-architectures/)
@@ -6066,6 +6083,7 @@ Peter R. Egli:
 * [Awesome Hacking: A collection of awesome lists for hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hackin://github.com/Hack-with-Github/Awesome-Hacking)
 * [BadSSL.com - See how your browser behaves when SSL is incorrectly configured](https://badssl.com/)
 * [Computer Systems Security - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
+* [Critical Code in Millions of Macs Isn't Getting Apple's Updates](https://www.wired.com/story/critical-efi-code-in-millions-of-macs-is-not-getting-apple-updates/)
 
 ### SECURITY - ENCRYPTION
 
