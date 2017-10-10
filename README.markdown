@@ -63,7 +63,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Large-Scale Deep Learning with TensorFlow for Building Intelligent Systems - Jeff Dean (Google)](https://learning.acm.org/webinar_pdfs/JeffDean_WebinarSlides.pdf)
 * [The Future of Artificial Intelligence Documentary 2017](https://www.youtube.com/watch?v=UzT3Tkwx17A)
 * [Artificial Intelligence Is Stuck. Here’s How to Move It Forward - Gary Marcus (NY Times)](https://www.nytimes.com/2017/07/29/opinion/sunday/artificial-intelligence-is-stuck-heres-how-to-move-it-forward.html)
-* [Half of All Jobs Will Be Replaced by Artificial Intelligence (AI) in 10 Years, AI Expert Kai-Fu Lee](https://www.youtube.com/watch?v=2Pc4HhhW0Xo)
+* [Half of All Jobs Will Be Replaced by Artificial Intelligence (AI) in 10 Years, AI Expert Kai-Fu Lee](https://www.youtube.com/watch?v=hOZuCdZS7-o)
 * [How AI & Computer Vision will Drive our Future - Fei-Fei Li](https://www.youtube.com/watch?v=WHQS35IT75c)
 * [Explainable Artificial Intelligence (XAI) - David Gunning (DARPA)](https://www.darpa.mil/program/explainable-artificial-intelligence)
 * [International Conference on Learning Representations 2015](https://www.youtube.com/playlist?list=PLhiWXaTdsWB8PnrVZquVyqlRFWXM4ijYz)
@@ -224,6 +224,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ARTIFICIAL INTELLIGENCE (AI) - REAL-WORLD EXAMPLES
 
 * [Artificial intelligence goes deep to beat humans at poker - Tonya Riley (Science)](http://www.sciencemag.org/news/2017/03/artificial-intelligence-goes-deep-beat-humans-poker) & [How an AI took down four world-class poker pros - Chris Valazco (Engadget)](https://www.engadget.com/2017/02/10/libratus-ai-poker-winner/)
+* [The AI Race - Australian Broadcasting Corporation](https://www.youtube.com/watch?v=gLeuCj0ZFo4)
 * [Meet Spot, the robot dog that can run, hop and open doors - Marc Raibert (TED Talk 2017)](https://www.youtube.com/watch?v=AO4In7d6X-c)
 * [A new t-shirt sewing robot can make as many shirts per hour as 17 factory workers - Marc Bain](https://qz.com/1064679/a-new-t-shirt-sewing-robot-can-make-as-many-shirts-per-hour-as-17-factory-workers/)
 * [How computers learn to recognize objects instantly - Joseph Redmon (TED Talk 2017)](https://www.youtube.com/watch?v=Cgxsv1riJhI)
@@ -455,6 +456,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## CLEAN CODE
 
 * [Is Your Code Too SOLID? - Sarah Mei](http://forwardjs.com/university/is-your-code-too-solid)
+* [The Mediator Pattern - Brandur](https://brandur.org/mediator)
 * ["The Mess We're In" - Joe Armstrong (StrangeLoop 2014)](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [The Failures of "Intro to TDD" - Justin Searls](http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html)
 * [Treat Your Code as a Crime Scene - Adam Tornhill](http://www.infoq.com/presentations/code-bugs-legacy-pitfalls)
@@ -993,6 +995,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * kubectl: [Cheatsheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/) | [Overview](https://kubernetes.io/docs/user-guide/kubectl-overview/)
 * [Kubernetes 101 for Developers - Ross Kukulinski](https://github.com/rosskukulinski/kubernetes-101-for-devs)
 * [KataCoda (interactive browser-based labs, courses, & playgrounds)](https://katacoda.com/learn)
+* [Kubernetes in production - blue-green deployment, auto scaling and deployment automation - Paul Bakker (Devoxx UK 2016)](https://www.youtube.com/watch?v=-Ci4vd4rh4M)
 
 ### DEVOPS - ISTIO.IO
 
@@ -1079,6 +1082,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## DISTRIBUTED PROGRAMMING
 
+* [Distributed Systems and the End of the API - Chas Emerick](https://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/) & [talk slides](https://speakerdeck.com/cemerick/distributed-systems-and-the-end-of-the-api)
+* [Distributed Systems and the End of the API - Chas Emerick](https://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/) & [talk slides](https://speakerdeck.com/cemerick/distributed-systems-and-the-end-of-the-api)
 * [Readings in distributed systems - Christopher Meiklejohn](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 
 ## DOCUMENTATION
@@ -1266,6 +1271,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - BLOGS
 
 * [Big Nerd Ranch](https://www.bignerdranch.com/blog/?q=Elixir)
+* [Dockyard](https://dockyard.com/blog/categories/elixir)
 * [East 5th](http://www.east5th.co/blog/)
 * [Elixir Dose](http://www.elixirdose.com/)
 * [Elixir Radar](http://plataformatec.com.br/elixir-radar)
@@ -1305,7 +1311,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - DEBUGGING
 
 * [Debugging techniques in Elixir - Erich Kist](http://blog.plataformatec.com.br/2016/04/debugging-techniques-in-elixir-lang/)
-* [Credo: A static code analysis tool for the Elixir language with a focus on code consistency and teaching - René Föhring](https://github.com/rrrene/credo)
+* Credo: [Website](http://credo-ci.org/) | [Github](https://github.com/rrrene/credo) | [Credo: A static code analysis tool for the Elixir language with a focus on code consistency and teaching - René Föhring](https://github.com/rrrene/credo)
 
 ### ELIXIR - DEPLOYMENT
 
@@ -1367,8 +1373,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Deploying Phoenix Applications with Exrm [and Conform] - Brandon Richey](https://medium.com/@diamondgfx/deploying-phoenix-applications-with-exrm-97a3867ebd04#.ke7uldpb4)
 * [How to config environment variables with Elixir and Exrm - Igor Florian](http://blog.plataformatec.com.br/2016/05/how-to-config-environment-variables-with-elixir-and-exrm/)
 
+#### ELIXIR - DEPLOYMENT - GATLING
+
+* [Deploying a Phoenix App With Gatling - Josh Adams](https://www.dailydrip.com/topics/elixir/drips/deploying-a-phoenix-app-with-gatling)
+* [Deploying Phoenix on Ubuntu with Gatling - Dennis Reimann](https://dennisreimann.de/articles/phoenix-deployment-gatling-ubuntu-digital-ocean.html)
+
 ### ELIXIR - DISTRIBUTION
 
+* [Always Available - Claudio Ortolina (ElixirConf EU 2017)](https://www.youtube.com/watch?v=UTXYiV7nOpM)
+* [Elixir and Money - Tomasz Kowal (ElixirConf EU 2017)](https://www.youtube.com/watch?v=TZPG8b-Novw)
 * [Idioms for Building Distributed Fault–Tolerant Applications with Elixir - José Valim (EuRuKo 2016)](https://www.youtube.com/watch?v=xhwnHovnq_0)
 * [pg2 and You: Getting Distributed with Elixir - Eric Entin (ElixirConf 2016)](https://www.youtube.com/watch?v=_O-bLuVhcCA) | [Slides](https://speakerdeck.com/antipax/pg2-and-you-getting-distributed-with-elixir)
 
@@ -1407,10 +1420,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - EVENT SOURCING/CQRS
 
-* [Building CQRS/ES web applications in Elixir using Phoenix - Ben Smith](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/) & [Building a CQRS/ES web application in Elixir using Phoenix](https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/) & [PDF](https://10consulting.com/presentations/2017-03-23-building-cqrs-web-applications-in-elixir.pdf)
+* [Building CQRS/ES web applications in Elixir using Phoenix - Ben Smith](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/) | [Building a CQRS/ES web application in Elixir using Phoenix](https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/) | [PDF](https://10consulting.com/presentations/2017-03-23-building-cqrs-web-applications-in-elixir.pdf)
+* [Dealing with eventual consistency in a CQRS/ES application - Ben Smith](https://10consulting.com/2017/10/06/dealing-with-eventual-consistency/)
 * [Eventstore: CQRS event store using PostgreSQL for persistence - Ben Smith](https://github.com/slashdotdash/eventstore)
 * [Commanded: Use Commanded to build Elixir CQRS/ES applications - Ben Smith](https://github.com/slashdotdash/commanded)
 * [EventSourced: Functional domain models with event sourcing in Elixir - Ben Smith](https://github.com/slashdotdash/eventsourced)
+* [Supporting multiple event stores in Commanded using an adapter based approach for Elixir - Ben Smith](https://10consulting.com/2017/05/17/supporting-multiple-event-stores-in-commanded/)
 * Derek Kraan: [Event Sourcing in Elixir](https://tech.zilverline.com/2017/04/07/elixir_event_sourcing) & [Event Sourcing: Invariants spanning multiple aggregates](https://tech.zilverline.com/2017/04/21/event-sourcing-invariants-spanning-multiple-aggregates)
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
 * [Event Sourcing and CQRS in Elixir - ElixirForum.com](http://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519/4)
@@ -1427,6 +1442,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Composing Elixir Functions - Jay Hayes](https://www.bignerdranch.com/blog/composing-elixir-functions/)
 * [Function Currying in Elixir - Patrik Storm](http://blog.patrikstorm.com/function-currying-in-elixir)
+* [Follow-up: Function currying in Elixir - Milton Mazzarri](https://milmazz.uno/article/2017/09/19/function-currying-in-elixir/)
 * [Lenses and Pattern Matching - Travis Poulsen](https://www.travispoulsen.com/blog/posts/2017-09-07-lenses-and-pattern-matching.html)
 * [Focus, an Elixir library for functional lenses - Travis Poulsen](https://www.travispoulsen.com/blog/posts/2017-02-19-Focus-and-Functional-Lenses.html)
 * [Currying packages](https://hex.pm/packages?search=curry&sort=downloads)
@@ -1454,9 +1470,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - MACROS
 
 * [Using Functions in Elixir Guard Clauses - Chris Keathley](http://keathley.io/2016/04/09/elixir-guard-clauses.html)
+* [Down the Rabbit Hole: Defining a guard-safe modulo operation in Elixir - Wiebe-Marten](https://medium.com/@W_Mcode/down-the-rabbit-hole-defining-a-guard-safe-modulo-operation-in-elixir-6335ade7c078)
 * [Elixir in Elixir - Jay Hayes (Elixir & Phoenix Conf 2016](https://www.youtube.com/watch?v=p8MGNw045AE) & [Getting Started with Elixir Metaprogramming (blog post)](https://www.bignerdranch.com/blog/getting-started-with-elixir-metaprogramming/)
 * [Macros - Jason Cummings (ElixirDaze 2017)](https://www.youtube.com/watch?v=9CkZJ2kgNNs)
-* [Understanding Elixir Macros, Part 1 - Basics - Saša Jurić](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-1.html), [Part 2 - Micro theory](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-2.html), [Part 3 - Getting into the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-3.html), [Part 4 - Diving Deeper](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-4.html), [Part 5 - Reshaping the AST](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-5.html), [Part 6 - In-place code generation](http://www.theerlangelist.com/2014/07/understanding-elixir-macros-part-6.html)
+* [Understanding Elixir Macros, Part 1 - Basics - Saša Jurić](http://www.theerlangelist.com/article/macros_1), [Part 2 - Micro theory](http://www.theerlangelist.com/article/macros_2), [Part 3 - Getting into the AST](http://www.theerlangelist.com/article/macros_3), [Part 4 - Diving Deeper](http://www.theerlangelist.com/article/macros_4), [Part 5 - Reshaping the AST](http://www.theerlangelist.com/article/macros_5), [Part 6 - In-place code generation](http://www.theerlangelist.com/article/macros_6)
 * [Writing a simple macro in Elixir - Dave Thomas](https://www.youtube.com/watch?v=LsLWezjV9Fo)
 
 ### ELIXIR - METAPROGRAMMING
@@ -1477,6 +1494,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [The ABCs of OTP - Jesse J Anderson (ElixirDaze 2017)](https://www.youtube.com/watch?v=8X0IWW2GJoQ) | [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir) | [resource links](https://gist.github.com/jessejanderson/16cbc0614e9194fa1b64460f775777ab)
 * Michael @ omgneering: [GenServer basics](https://www.youtube.com/watch?v=zC7TcrRi46Q) | [GenServer Callbacks and concurrency](Elixir GenServer callbacks and concurrency) | [Supervisor](https://www.youtube.com/watch?v=Gdf8JXeaPjw) | [Application (Part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM) | [Application (Part 2)](https://www.youtube.com/watch?v=rMwEQZewDyk)
+* [To spawn, or not to spawn? - Saša Jurić](http://www.theerlangelist.com/article/spawn_or_not)
 * [High availability with Elixir and Erlang - Saša Jurić (Full Stack Fest 2016)](https://www.youtube.com/watch?v=Ba3aCm3A0o8) & [High Availability - Saša Jurić](https://www.youtube.com/watch?v=wYttHG3S76Y)
 * [Per-user workers with custom queue processing (using GenServer and Supervisor) - Adam Hodowany](https://www.youtube.com/watch?v=19JakddwsV8)
 * The Mix & OTP Guide: [(EPUB)](https://github.com/JamesLavin/my_tech_resources/raw/master/mix-and-otp.epub) | [Online](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
@@ -1519,7 +1537,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [What the fuss about Phoenix - Saša Jurić (WebCamp Zagreb 2016)](https://www.youtube.com/watch?v=3uJCwcBwfh4) & [slides](https://speakerdeck.com/sasajuric/whats-the-fuss-about-phoenix)
 * [ElixirConf 2016 Keynote on Phoenix 1.3- Chris McCord](https://www.youtube.com/watch?v=qPiZTxUAaVM)
 * [Rails to Phoenix - Brian Cardarella (RailsConf 2016)](https://www.youtube.com/watch?v=OxhTQdcieQE)
-* [Building a Chat App with Elixir and Phoenix Presence - Steve Grossi](http://work.stevegrossi.com/2016/07/11/building-a-chat-app-with-elixir-and-phoenix-presence/)
 * [Phoenix: The Firehose Project: Hands-On Intro to Building Modern Web Applications With Elixir and Phoenix](http://phoenix.thefirehoseproject.com/)
 * Photo Album: A Phoenix/Elixir web app - Khaja Minhajuddin: [Part 1](https://www.youtube.com/watch?v=uHQ3tJqiEho) | [Part 2](https://www.youtube.com/watch?v=DOmTHaA8jyI)
 * [Elixir on the Web: Phoenix Rising - Artem Chernyak](https://www.youtube.com/watch?v=h4z7WnMLXKI)
@@ -1529,7 +1546,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * Building Phoenix Battleships - Ricardo García Vega: [1: Designing the game mechanics](http://codeloveandboards.com/blog/2016/04/29/building-phoenix-battleship-pt-1/) | [2: Lobby Channel & Game Supervision](http://codeloveandboards.com/blog/2016/05/03/building-phoenix-battleship-pt-2/) | [3: Game setup](http://codeloveandboards.com/blog/2016/05/21/building-phoenix-battleship-pt-3/) | [4: Placing ships on board](http://codeloveandboards.com/blog/2016/07/28/building-phoenix-battleship-pt-4/) | [5: Let the battle begin!](http://codeloveandboards.com/blog/2016/08/08/building-phoenix-battleship-pt-5/)
 * [Phoenix a web framework for the new web - José Valim (Lambda Days 2016)](https://www.youtube.com/watch?v=MD3P7Qan3pw) | [#pivorak Lviv Ruby MeetUp](https://www.youtube.com/watch?v=Toluc5MCQWs)
 * [Phoenix is not Rails - Chris McCord](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails)
-* [Ecto 2 and Phoenix Presence with José Valim and Chris McCord (Changelog)](https://changelog.com/podcast/208)
 * [Intro to Phoenix - José Valim (Elixir Warsaw Meetup)](https://www.youtube.com/watch?v=3LiLjVCDEpU)
 * [Phoenix: A web framework for the new web - José Valim (PolyConf 2015)](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
 * [Phoenix - a framework for the modern web - Chris McCord (NDC Conference Norway 2015)](https://vimeo.com/131633172)
@@ -1579,12 +1595,19 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - JSON
 
+* A Phoenix and Elixir REST API - Bill Peregoy: [Part 1](https://becoming-functional.com/building-a-rest-api-with-phoenix-and-elixir-b12dcec302c5) | [Part 2](https://becoming-functional.com/a-phoenix-and-elixir-rest-api-part-2-dc00e8b73c9d)
 * [Building and testing a Phoenix JSON API - Paul Smith (Thoughtbot)](https://robots.thoughtbot.com/building-a-phoenix-json-api)
 
 #### ELIXIR - PHOENIX - PERFORMANCE
 
 * [Elixir vs Ruby Showdown - Phoenix vs Rails - Chris McCord](http://www.littlelines.com/blog/2014/07/08/elixir-vs-ruby-showdown-phoenix-vs-rails/)
 * [Benchmarking Phoenix vs Rails vs Sinatra vs Express vs Martini - Matthew Rothenberg](https://github.com/mroth/phoenix-showdown)
+
+#### ELIXIR - PHOENIX - PHOENIX PRESENCE
+
+* [Elm Phoenix.Presence Demo - Josh Adams](https://www.dailydrip.com/blog/elm-phoenix-presence-demo)
+* [Building a Chat App with Elixir and Phoenix Presence - Steve Grossi](http://work.stevegrossi.com/2016/07/11/building-a-chat-app-with-elixir-and-phoenix-presence/)
+* [Ecto 2 and Phoenix Presence with José Valim and Chris McCord (Changelog)](https://changelog.com/podcast/208)
 
 #### ELIXIR - PHOENIX - PLUGS
 
@@ -1653,6 +1676,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Test-Driving a Stream-powered Elixir Library - Thiago Araújo Silva](https://semaphoreci.com/community/tutorials/test-driving-a-stream-powered-elixir-library)
 * [How to build Streams in Elixir easily with Stream.resource/3 Awesomeness - Benjamin Tan](http://benjamintan.io/blog/2015/02/05/how-to-build-streams-in-elixir-easily-with-stream-resource-awesomeness/)
+* [Elixir Stream Patterns - Joseph Kain](http://learningelixir.joekain.com/stream-patterns-in-elixir/)
 
 ### ELIXIR - STRINGS
 
@@ -1661,6 +1685,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - TESTING
 
 * [Mocks and explicit contracts - José Valim](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
+* [Testing function delegation in Elixir without stubbing - Brian Cardarella](https://dockyard.com/blog/2016/03/24/testing-function-delegation-in-elixir-without-stubbing)
 
 #### ELIXIR - TESTING - HOUND
 
@@ -1712,6 +1737,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Keynote: The Pendulum - Bruce Tate](https://www.youtube.com/watch?v=X8rWK-g8kCQ)
     * [Confident Elixir - Lance Halvorsen](https://www.youtube.com/watch?v=9YCg9xaG47s)
 * [Discovering Processes - Saša Jurić (ElixirConfEU 2016)](https://www.youtube.com/watch?v=y_b6RTes83c)
+* [Elixir Adoption at Scale: A Comprehensive Guide - Ben Marx - EFLBA2017](https://www.youtube.com/watch?v=11waNNAiFDk)
 * [Elixir Remote Meetup - DailyDrip.com](https://www.dailydrip.com/topics/elixir-remote-meetup)
 * [Three and a Half Ways Elixir Changed Me (and Other Hyperbole) - Rob Conery (NDC London 2016)](https://vimeo.com/161001513)
 * [Elixir Is Neat But What Can You Actually Do With It? - Rob Conery (NDC Oslo 2016)](https://vimeo.com/171317253)
@@ -1920,6 +1946,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - DATA STRUCTURES
 
+* [Type Bombs in Elm - Kris Jenkins](http://blog.jenkster.com/2016/11/type-bombs-in-elm.html)
 * [HTML-to-Elm: Interactively generates Elm code from your HTML](https://mbylstra.github.io/html-to-elm/)
 * [Data Structures in Elm - NoRedInk.com](http://tech.noredink.com/post/140646140878/data-structures-in-elm)
 * [Writing Friendly Elm Code - NoRedInk.com](http://tech.noredink.com/post/146963432518/writing-friendly-elm-code)
@@ -2022,7 +2049,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [firestorm: open-source forum engine with Elixir+Phoenix backend and Elm frontend - Josh Adams](https://github.com/dailydrip/firestorm)
 * [phoenix-elm-scaffold - Andrew MacMurray](https://github.com/andrewMacmurray/phoenix-elm-scaffold)
 * Bill Peregoy: Integrating Phoenix and Elm [Part 1](https://becoming-functional.com/integrating-phoenix-and-elm-part-1-b66cf4294d13) & [Part 2](https://becoming-functional.com/integrating-phoenix-and-elm-part-2-b611871cd70f) & [elm-divide Github repo](https://github.com/billperegoy/elm-divide)
-* Phoenix and Elm, a real use case - Ricardo García Vega: [Part 1: Introduction to creating a SPA with Phoenix and Elm](http://codeloveandboards.com/blog/2017/02/02/phoenix-and-elm-a-real-use-case-pt-1/) | [Part 2: Rendering the initial contact list](http://codeloveandboards.com/blog/2017/02/08/phoenix-and-elm-a-real-use-case-pt-2/) | [Part 3: Adding full text search and pagination navigation to the contact list](http://codeloveandboards.com/blog/2017/02/14/phoenix-and-elm-a-real-use-case-pt-3/)
+* Phoenix and Elm, a real use case - Ricardo García Vega: [Part 1: Introduction to creating a SPA with Phoenix and Elm](http://codeloveandboards.com/blog/2017/02/02/phoenix-and-elm-a-real-use-case-pt-1/) | [Part 2: Rendering the initial contact list](http://codeloveandboards.com/blog/2017/02/08/phoenix-and-elm-a-real-use-case-pt-2/) | [Part 3: Adding full text search and pagination navigation to the contact list](http://codeloveandboards.com/blog/2017/02/14/phoenix-and-elm-a-real-use-case-pt-3/) | [Part 4: Better state with union types, search resetting and keyed notes](http://codeloveandboards.com/blog/2017/02/23/phoenix-and-elm-a-real-use-case-pt-4/) | [Part 5: Implementing Elm routing](http://codeloveandboards.com/blog/2017/03/07/phoenix-and-elm-a-real-use-case-pt-5/) | [Part 6: Phoenix and Elm communication through WebSockets](http://codeloveandboards.com/blog/2017/03/19/phoenix-and-elm-a-real-use-case-pt-6/)
 * [Creating a Chatroom Using Phoenix, Elm, and Websockets - Jeremy Bellows (Oct 2016)](http://www.jeremybellows.com/blog/Creating-a-Chatroom-Using-Phoenix-Elm-And-Websockets)
 * [Connecting Elm with Phoenix using Channels - Simon Hampton](http://simonh1000.github.io/2016/05/elm-phoenix-channels/)
 
@@ -2120,6 +2147,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional Reactive Programming in Elm - Evan Czaplicki (Philly ETE 2014)](https://www.youtube.com/watch?v=F-nTU3Wy26I)
 * Martin Janiczek: [Programming Projector in Elm - Routing, history 1/2](https://www.youtube.com/watch?v=D9hW8G31Dy0)
 
+### ELM - WEBSOCKETS
+
+* [Elm Websockets examples](http://elm-lang.org/examples/websockets)
+
 ## EMACS
 
 * [Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
@@ -2145,6 +2176,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ERLANG
 
+* [Functional Programming in Erlang - Simon Thompson (University of Kent (UK))](https://www.futurelearn.com/courses/functional-programming-erlang)
 * [Spawned Shelter: collection of the best articles, videos and books for learning Erlang, the internals of its VM and other languages that run on top of it](http://spawnedshelter.com/)
 * [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/)
 * [Erlang in Anger - Fred Hebert](http://www.erlang-in-anger.com/)
@@ -2700,7 +2732,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## HASKELL
 
-* Haskell: [main site](https://www.haskell.org/) | [wiki](https://wiki.haskell.org/Haskell) | [learning resources](https://wiki.haskell.org/Learning_Haskell) | [tryhaskell.org](http://tryhaskell.org/) | [Hoogle (Haskell API search engine)](https://www.haskell.org/hoogle/) | [Hackage (Haskell package archive)](http://hackage.haskell.org/) | [GHC user's guide](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/) | [Haskell libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/)
+* Haskell: [main site](https://www.haskell.org/) | [wiki](https://wiki.haskell.org/Haskell) | [learning resources](https://wiki.haskell.org/Learning_Haskell) | [tryhaskell.org](http://tryhaskell.org/) | [Hoogle (Haskell API search engine)](https://www.haskell.org/hoogle/) | [Hackage (Haskell package archive)](http://hackage.haskell.org/) | [GHC user's guide](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/) | [Tutorials](https://wiki.haskell.org/Tutorials) | [Haskell libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/)
 * [Hackr.io Haskell resources](https://hackr.io/tutorials/haskell)
 * [Type introduction illustrated for casual Haskellers - Takenobu T.](http://takenobu-hs.github.io/downloads/type_introduction_illustrated.pdf)
 * [Write You a Haskell: Building a modern functional compiler from first principles - Stephen Diehl](http://dev.stephendiehl.com/fun/WYAH.pdf)
@@ -3225,6 +3257,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional Programming Basics in ES6 (JavaScript) - Jeremy Fairbank (Scenic City Summit 2016)](https://www.youtube.com/watch?v=HvMemAgOw6I)
 * [Gentle Intro to Functional Javascript - James Sinclair](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style/)
 * [Learning Functional Programming with JavaScript - Anjana Vakil (JSUnconf 2016)](https://www.youtube.com/watch?v=e-5obm1G_FY)
+* Functional Programming In JavaScript — With Practical Examples: [Part 1](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276#.8dao66cag) | [Part 2](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-2-429d2e8ccc9e)
 * [Functional programming in JavaScript - Mattias Petter Johansson](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 * [Functional Javascript - Dr. Gleb Bahmutov](https://glebbahmutov.com/blog/tags/functional/)
 * [Functional Layout - Updating the DOM at 60FPS - David Valdman (JS Conf EU 2015)](http://confreaks.tv/videos/jsconfeu2015-functional-layout-updating-the-dom-at-60fps)
@@ -3847,6 +3880,7 @@ Peter R. Egli:
 * [Discovery](http://news.discovery.com/tech)
 * [Engadget](http://www.engadget.com/)
 * [Extreme Tech](http://www.extremetech.com/)
+* [Fast Company](https://www.fastcompany.com/technology)
 * [Forbes](http://www.forbes.com/technology/)
 * [Future Tense (Slate)](http://www.slate.com/articles/technology/future_tense.html)
 * [Futurism](http://futurism.com/)
