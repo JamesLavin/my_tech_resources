@@ -221,6 +221,17 @@ Links to resources I have found useful or think might be helpful to future me or
 * [LSTM Networks - The Math of Intelligence - Siraj Raval](https://www.youtube.com/watch?v=9zhrxE5PQgY)
 * [Sequence-to-Sequence Models (TensorFlow)](https://www.tensorflow.org/tutorials/seq2seq)
 
+### ARTIFICIAL INTELLIGENCE (AI) - SPARK
+
+* [Spark Summit 2017 - Machine Learning](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWT8jkKT4gbsHopPKG8Dy16)
+* [Spark Summit 2017 - Data Science](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWoFiTf-SwxvmVySIeXGPoA)
+* [Spark Summit 2017 - Spark Ecosystem](https://www.youtube.com/playlist?list=PLTPXxbhUt-YXcDEapM9rEzGqnETi1qJZF)
+* [Spark Summit 2017 - General](https://www.youtube.com/playlist?list=PLTPXxbhUt-YV6RdCNARfSKs3-3Old6XTk)
+* [Spark Summit 2017 - Spark Experience && Use Cases](https://www.youtube.com/playlist?list=PLTPXxbhUt-YW_MI7HWgAXxpualRshHRuc)
+* [Spark Summit 2017 - Developer](https://www.youtube.com/playlist?list=PLTPXxbhUt-YUACA5z51j4fVEpjPMh4cZE)
+* [TensorFrames: Deep Learning with TensorFlow on Apache Spark - Tim Hunter](https://www.youtube.com/watch?v=gXItObf-qaI)
+* [TensorFlow On Spark: Scalable TensorFlow Learning on Spark Clusters - Andy Feng & Lee Yang](https://www.youtube.com/watch?v=IxWfAcrZQhc)
+
 ### ARTIFICIAL INTELLIGENCE (AI) - REAL-WORLD EXAMPLES
 
 * [Artificial intelligence goes deep to beat humans at poker - Tonya Riley (Science)](http://www.sciencemag.org/news/2017/03/artificial-intelligence-goes-deep-beat-humans-poker) & [How an AI took down four world-class poker pros - Chris Valazco (Engadget)](https://www.engadget.com/2017/02/10/libratus-ai-poker-winner/)
@@ -229,6 +240,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [A new t-shirt sewing robot can make as many shirts per hour as 17 factory workers - Marc Bain](https://qz.com/1064679/a-new-t-shirt-sewing-robot-can-make-as-many-shirts-per-hour-as-17-factory-workers/)
 * [How computers learn to recognize objects instantly - Joseph Redmon (TED Talk 2017)](https://www.youtube.com/watch?v=Cgxsv1riJhI)
 * [Google’s speech recognition is now almost as accurate as humans - 9-to-5 Google](https://9to5google.com/2017/06/01/google-speech-recognition-humans/)
+* [Using Machine Learning to predict parking difficulty - James Cook, et al. (Google)](https://research.googleblog.com/2017/02/using-machine-learning-to-predict.html)
 * [A.I. is Progressing Faster Than You Think - ColdFusion](https://www.youtube.com/watch?v=mQO2PcEW9BY)
 * [Artificial intelligence is great at predicting the size of hurricanes, but humans still need to figure out their impact - Dave Gershgorn](https://qz.com/1072215/artificial-intelligence-is-great-at-predicting-the-size-of-hurricanes-but-humans-still-need-to-figure-out-their-impact/)
 * [Voyage's first self-driving car deployment](https://news.voyage.auto/voyages-first-self-driving-car-deployment-29c7688c6a1)
@@ -333,6 +345,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## BOOKS
 
+* [Mind-Expanding-Books - Vishnu Ks](https://github.com/hackerkid/Mind-Expanding-Books)
 * [List of free programming books (many languages)](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [List of free programming books - CodeInfo.info](http://isn.codelab.info/ressources/livres-numeriques/free-programming-books/)
 
@@ -993,6 +1006,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Awesome-Kubernetes](https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/details)
 * [Kubernetes Youtube channel](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg)
 * kubectl: [Cheatsheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/) | [Overview](https://kubernetes.io/docs/user-guide/kubectl-overview/)
+* [Running Kubernetes in Production - Zalendo Tech](http://kubernetes-on-aws.readthedocs.io/en/latest/admin-guide/kubernetes-in-production.html) & [Kubernetes on AWS @Zalando - David Aronchick](https://www.youtube.com/watch?time_continue=2671&v=XmnhzEoengI)
 * [Kubernetes 101 for Developers - Ross Kukulinski](https://github.com/rosskukulinski/kubernetes-101-for-devs)
 * [KataCoda (interactive browser-based labs, courses, & playgrounds)](https://katacoda.com/learn)
 * [Kubernetes in production - blue-green deployment, auto scaling and deployment automation - Paul Bakker (Devoxx UK 2016)](https://www.youtube.com/watch?v=-Ci4vd4rh4M)
@@ -1522,6 +1536,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - PERFORMANCE
 
+* [Monitoring Production Elixir Applications - John Kelly (EMPEX 2017)](https://www.youtube.com/watch?v=nIRGF61_Go8)
 * [Measuring your Elixir Application - Renan Ranelli (ElixirConf 2016)](https://www.youtube.com/watch?v=3KhzyDDju0Q) | [Blog post: "A guide to measuring your Elixir app](http://milhouseonsoftware.com/2016/05/08/measuring-your-elixir-application/)
 * [vmstats: gathers metrics on the Erlang VM and sends them to a configurable sink - Fred Hebert](https://github.com/ferd/vmstats)
 * [Gathering metrics in Elixir applications - Andrea Leopardi](http://tech.footballaddicts.com/blog/gathering-metrics-in-elixir-applications)
@@ -1723,6 +1738,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - VIDEOS
 
+* [Empex 2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS)
 * [ElixirConf 2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * [Erlang & Elixir Factory SF 2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jtviHbf3fbBRWcaGDBC2u0)
 * [Lone Star Elixir 2017](http://confreaks.tv/events/lonestarelixir2017)
@@ -1766,12 +1782,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
 * [Developer Happiness on the Front End with Elm - Kevin Yank (RailsConf 2017)](https://www.youtube.com/watch?v=C2npla7DwVk)
 * Jessica Kerr: [Pure Functional Programming in Elm](https://www.youtube.com/watch?time_continue=1&v=PRV0mpFWqqQ) & [Conquering Elm Boilerplate](https://www.youtube.com/watch?v=kDF1gKJDq6s)
+* [Teaching Elm to Beginners - Richard Feldman (Elm Conf 2017)](https://www.youtube.com/watch?v=G-GhUxeYc1U)
 * [Elm in production - Richard Feldman (Devoxx 2017)](https://www.youtube.com/watch?v=XsNk5aOpqUc)
 * [Introducing Elm to a JavaScript App - Richard Feldman (GOTO Chicago 2017)](https://www.youtube.com/watch?v=28aJOb1A34o)
 * [Tame the Frontend with Elm - Jeremy Fairbank (FluentConf June 2017)](https://www.youtube.com/watch?v=D740qUZVcr4)
 * [Elm in Production: Surprises & Pain Points - Kevin Yank (2017)](https://www.youtube.com/watch?v=LZj_1qVURL0)
 * [Ninety-nine Problems, Solved in Elm - John Crane](https://www.gitbook.com/book/johncrane/ninety-nine-elm-problems/details)
-* [Toward a Better Front End Architecture: Elm - Jeremy Fairbank (Codemash 2017)](https://www.youtube.com/watch?v=EDp6UmaA9CM)
+* [Toward a Better Front End Architecture: Elm - Jeremy Fairbank (Codemash 2017)](https://www.youtube.com/watch?v=EDp6UmaA9CM) & [Coding Tech](https://www.youtube.com/watch?v=aNour03V98E)
 * [Elm: A Beginners' Guide to Elm and Data - Luke Westby & Jeff Schomay](https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940)
 * James Kolce: [Why Elm? (And How To Get Started With It)](https://css-tricks.com/elm-get-started/) | [Intro to The Elm Architecture and How to Build our First App](https://css-tricks.com/introduction-elm-architecture-build-first-application/) | [The Structure of an Elm Application](https://css-tricks.com/structure-elm-application/)
 * [Elm In Production: 25,000 Lines Later - Christian Charukiewicz](https://charukiewi.cz/posts/elm/)
@@ -2303,6 +2320,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ERLANG - VIDEOS
 
 * [Intro to Erlang - Philip Clarke](https://www.youtube.com/watch?v=1QQSTayocdA)
+* Erlang Express - Simon Thompson: [1: Basic Erlang I](https://www.youtube.com/watch?v=aEyQcZg-Njs) | [2: Basic Erlang II](https://www.youtube.com/watch?v=eAGfNVNZstE) | [3: Sequential Erlang](https://www.youtube.com/watch?v=fccuCKpBkV4)
 * [Writing Quality Code in Erlang - Garrett Smith (2014)](https://www.youtube.com/watch?v=CQyt9Vlkbis)
 * [Erlang User Conf 2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ijLaWEw-L2xtTVMQ5chWcp)
 * [Functional Programming with Erlang](https://www.youtube.com/playlist?list=PLlML6SMLMRgAooeL26mW502jCgWikqx_n)
@@ -2405,6 +2423,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - DOMAIN-DRIVEN DESIGN
 
+* [Tackling Complexity in the Heart of Software - Eric Evans (Explore DDD Conference 2017)](https://www.youtube.com/watch?v=kIKwPNKXaLU)
 * [DDD & Microservices: At Last, Some Boundaries! - Eric Evans (GOTO 2015)](https://www.youtube.com/watch?v=yPvef9R3k-M)
 * [Modeling With Aggregates - Pieter Koornhof](http://sneakycode.net/modeling-with-aggregates/)
 * [Domain-Driven Design Europe 2017](https://www.youtube.com/playlist?list=PLf9p-N3ltMTtAhyGupYWGVPpxUqrgsXgs)
@@ -2438,6 +2457,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Stream All Things - Patterns of Modern Data Integration - Gwen Shapira (GOTO Chicago 2017)](https://www.youtube.com/watch?v=Hjae0Cw9oew)
 * [A practical introduction to event sourcing and CQRS - Robert Lemke (Neos CMS 2017)](https://www.youtube.com/watch?v=cUXi9fUqWQ0) (discusses Neos Flow for PHP)
 * [How to Build and Deploy Scalable Machine Learning in Production with Apache Kafka - Kai Waehner](https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/)
+* [Standing on the Distributed Shoulders of Giants - Pat Helland (Kafka Summit 2017)](https://www.youtube.com/watch?v=p9LBi11KR2c)
 * [fast-data-dev: Kafka Docker for development. Kafka, Zookeeper, Schema Registry, Kafka-Connect, Landoop Tools, 20+ connectors - Landoop](https://github.com/Landoop/fast-data-dev)
 * [Understanding Kafka with Legos - Jesse Anderson](https://www.youtube.com/watch?v=Q5wOegcVa8E)
 * [Using Apache Kafka as a Scalable, Event-Driven Backbone for Service Architectures - Ben Stopford](https://www.confluent.io/blog/apache-kafka-for-service-architectures/)
@@ -2447,12 +2467,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Introduction to Apache Kafka - James Ward (DevoxxUS 2017)](https://www.youtube.com/watch?v=UEg40Te8pnE)
 * [Processing Streaming Data at a Large Scale with Kafka - Thijs Cadier (RailsConf 2017)](https://www.youtube.com/watch?v=-NMDqqW1uCE)
 * [Event sourcing in practise - lessons learned - Jfokus 2017](https://www.youtube.com/watch?v=_d4mAi3qkDA)
-* [ETL Is Dead, Long Live Streams: real-time streams w/ Apache Kafka - Neha Narkhede](https://www.youtube.com/watch?v=I32hmY4diFY)
 * [Intro to Apache Kafka and Real-Time ETL for DBAs - Gwen Shapira and Jignesh Shah](https://www.youtube.com/watch?v=DRCu3ro1g9U)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA STREAMS
 
+* Apache Kafka Streams API - Tim Berglund (Confluent): [1. Intro to Streams](https://www.youtube.com/watch?v=Z3JKCLG3VP4) | [2. Creating a Streams Application](https://www.youtube.com/watch?v=LxxeXI1mPKo) | [3. Transforming Data, Part I](https://www.youtube.com/watch?v=7JYEEx7SBuE) | [4. Transforming Data II](https://www.youtube.com/watch?v=3kJgYIkAeHs)
+* [Kafka Streams documentation](https://kafka.apache.org/documentation/streams/)
+* [Kafka’s Streams API for Highly Scalable Machine Learning & Deep Learning in Real Time - Kai Waehner (Confluent)](https://www.youtube.com/watch?v=-q7CyIExBKM)
 * [Rethinking Stream Processing with Apache Kafka - Michael Noll (Berlin Buzzwords 2017)](https://www.youtube.com/watch?v=ACwnrnVJXuE)
+* [Introducing Kafka Streams the New Stream Processing Library of Apache Kafka](https://www.youtube.com/watch?v=QkDYkB6Q16Q)
+* [ETL Is Dead, Long Live Streams: real-time streams w/ Apache Kafka - Neha Narkhede](https://www.youtube.com/watch?v=I32hmY4diFY)
 * [Crossing the Streams: Joins in Apache Kafka - Florian Troßbach & Matthias J Sax](https://www.confluent.io/blog/crossing-streams-joins-apache-kafka/)
 * [Interactive Queries in Apache Kafka Streams - Florian Troßbach](https://blog.codecentric.de/en/2017/03/interactive-queries-in-apache-kafka-streams/)
 * [Apache Samza: Distributed stream processing framework](http://samza.apache.org/)
@@ -2599,11 +2623,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - CONFERENCE VIDEOS
 
+* LambdaConf (λC): [2017](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos) | [2016](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos) | [2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
 * [MoonConf 2016](https://www.youtube.com/playlist?list=PLWYAdh9hA7geMRCgwDomlHAdwlsno32LU&spfreload=10)
-* [LambdaConf 2016 (λC 2016)](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos)
 * [All the FP Talks at NDC Oslo 2016](http://theburningmonk.com/2016/06/all-the-fp-talks-at-ndc-oslo-2016/)
 * [Curry On 2016](http://www.curry-on.org/2016/)
-* [LambdaConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
 * Lambda Days (Erlang Solutions): [2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2izLmnqYbI5DZ4ArUe3vp1d) | [2015](https://www.youtube.com/results?search_query=lambda+days+2015)
 * [Compose Conference 2015](http://www.composeconference.org/2015/summary/)
 * [Functional Works](https://www.youtube.com/channel/UCE6NivlVPGUn3TMtDAeL2vQ)
@@ -6064,8 +6087,12 @@ Peter R. Egli:
 
 ## SCALA
 
-* [Official documentation](http://scala-lang.org/documentation/)
+* [Awesome Scala (curated Scala resources) - Lauris Dzilums](https://github.com/lauris/awesome-scala)
+* [Scala School](https://twitter.github.io/scala_school/)
+* [Official documentation](http://docs.scala-lang.org/) | [Cheatsheet](http://docs.scala-lang.org/cheatsheets/index.html)
 * [Scala School - Twitter](http://twitter.github.io/scala_school/)
+* [All About Scala](http://allaboutscala.com/)
+* [21 Steps to Get Started with Apache Spark using Scala - Ankit Gupta](https://www.analyticsvidhya.com/blog/2017/01/scala/)
 * [Effective Scala - Marius Eriksen](http://twitter.github.io/effectivescala/)
 * [Scala with Style - Martin Odersky](http://www.youtube.com/watch?v=kkTFx3-duc8)
 * [Tim Cowlishaw - From Ruby to Scala and back again: Better living through type-checking - Tim Colishaw (Ruby Manor 4.0)](http://vimeo.com/79180652)
@@ -6074,6 +6101,7 @@ Peter R. Egli:
 ### SCALA - AKKA
 
 * [Akka.io](http://akka.io/)
+* [Implementing the Reactive Manifesto with Akka - Adam Warski (Lambda Days 2015)](https://www.youtube.com/watch?v=kFH3_OF9EW8)
 
 ### SCALA - BOOKS
 
@@ -6082,12 +6110,10 @@ Peter R. Egli:
 * [Scala in Depth (free PDF; requires registration)](http://typesafe.com/resources/book/scala-in-depth)
 * [Scala Tutorial (PDF) - TutorialsPoint.com](http://tutorialspoint.com/scala/scala_tutorial.pdf)
 
-### SCALA - AKKA
-
-* [Implementing the Reactive Manifesto with Akka - Adam Warski (Lambda Days 2015)](https://www.youtube.com/watch?v=kFH3_OF9EW8)
-
 ### SCALA - FUNCTIONAL PROGRAMMING
 
+* Intro to FP in Scala: Exploring a Toolbox for Solving Problems - Pawel Szulc (LambdaConf λC 2017): [Part 1](https://www.youtube.com/watch?v=jQ65HiG5m3c) | [Part 2](https://www.youtube.com/watch?v=ezCiPda6dzc) | [Part 3](https://www.youtube.com/watch?v=Lj0xDErblvk) | [Part 4](https://www.youtube.com/watch?v=xv7cVNFnGLU) | [Part 5](https://www.youtube.com/watch?v=TaFBNs7reeU) | [Part 6](https://www.youtube.com/watch?v=Og789wIwjvw)
+* Scala Tutorial - LearningJournal.in: [Elements of Functional Programming, Part 1](https://www.youtube.com/watch?v=jyKVtaOx_sQ) | [Elements of Functional Programming, Part 2](https://www.youtube.com/watch?v=ULt1_peq33E) | [Full playlist](https://www.youtube.com/playlist?list=PLkz1SCf5iB4dZ2RNKCu7W9o2OtZweGY6x)
 * [Functional Programming Principles in Scala - Scala creator Martin Odersky (École Polytechnique Fédérale de Lausanne) Coursera](https://www.coursera.org/course/progfun)
 * [Principles of Reactive Programming - Scala creator Martin Odersky, Erik Meijer & Roland Kuhn](https://www.coursera.org/course/reactive)
 * [Functional Programming with Scala - Jacek Laskowski (JEE Conf 2015)](https://www.youtube.com/watch?v=9qwmuEIScB0)
@@ -6099,6 +6125,7 @@ Peter R. Egli:
 
 * [Learn Scala in One Video - Derek Banas](https://www.youtube.com/watch?v=DzFt0YkZo8M)
 * [Scala for the Intrigued - Dr. Venkat Subramaniam](https://www.youtube.com/watch?v=grvvKURwGNg)
+* Big Data Pipelines With Scala - Gleb Kanterov (λC 2017)- [Part 1](https://www.youtube.com/watch?v=C6MlPaox5EI) | [Part 2](https://www.youtube.com/watch?v=IcS8u9_LWOY)
 * [Why Scala? - Venkat Subramaniam](http://www.youtube.com/watch?v=LH75sJAR0hc)
 * [Tim Cowlishaw - From Ruby to Scala and back again: Better living through type-checking - Tim Colishaw (Ruby Manor 4.0)](http://vimeo.com/79180652)
 * [Scala: The Simple Parts - Martin Odersky (GOTO Conf 2014)](https://www.youtube.com/watch?v=P8jrvyxHodU)
