@@ -255,6 +255,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Artificial intelligence goes deep to beat humans at poker - Tonya Riley (Science)](http://www.sciencemag.org/news/2017/03/artificial-intelligence-goes-deep-beat-humans-poker) & [How an AI took down four world-class poker pros - Chris Valazco (Engadget)](https://www.engadget.com/2017/02/10/libratus-ai-poker-winner/)
 * [The AI Race - Australian Broadcasting Corporation](https://www.youtube.com/watch?v=gLeuCj0ZFo4)
+* [Google's Learning Software Learns to Write Learning Software - Tom Simonite (Wired)](https://www.wired.com/story/googles-learning-software-learns-to-write-learning-software)
 * [Meet Spot, the robot dog that can run, hop and open doors - Marc Raibert (TED Talk 2017)](https://www.youtube.com/watch?v=AO4In7d6X-c)
 * [A new t-shirt sewing robot can make as many shirts per hour as 17 factory workers - Marc Bain](https://qz.com/1064679/a-new-t-shirt-sewing-robot-can-make-as-many-shirts-per-hour-as-17-factory-workers/)
 * [How computers learn to recognize objects instantly - Joseph Redmon (TED Talk 2017)](https://www.youtube.com/watch?v=Cgxsv1riJhI)
@@ -269,12 +270,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [A Spatial-Temporal Modeling Framework for Large-scale Video Understanding - Xiao Liu and Shilei Wen (Baidu Research)](http://research.baidu.com/spatial-temporal-modeling-framework-large-scale-video-understanding/) | [Revisiting the Effectiveness of Off-the-shelf Temporal Modeling Approaches for Large-scale Video Classification - Yunlong Bian et al.](https://arxiv.org/pdf/1708.03805.pdf) | [Activity-Net.org](http://activity-net.org/)
 * [Microsoft Dynamics 365 now offers service chatbots as part of AI push](https://venturebeat.com/2017/09/25/microsoft-dynamics-365-customers-get-service-chatbots-as-part-of-ai-push/)
 * [Automated Crowdturfing Attacks and Defenses in Online Review Systems - Yuanshun Yao, et al.(2017)](https://arxiv.org/pdf/1708.08151.pdf)
+* [A.I. Experiments: Visualizing High-Dimensional Space - Google Developers](https://www.youtube.com/watch?v=wvsE8jm1GzE)
 * [Facebook’s Language-Creating AI Bots Are Now Required to Negotiate in English - Futurism](https://futurism.com/facebooks-language-creating-ai-bots-are-now-required-to-negotiate-in-english/) | [Facebook Shut Down AI After It Invented Its Own Language](http://www.theepochtimes.com/n3/2274480-facebook-shut-down-ai-after-it-invented-its-own-language/)
 * [AI learns from professional gamers — then crushes them - Peter Holley (Washington Post)](http://www.bendbulletin.com/business/5521413-151/ai-learns-from-professional-gamers-then-crushes)
 * [Google Has Started Adding Imagination to Its DeepMind AI - ScienceAlert.com](https://www.sciencealert.com/google-has-started-adding-imagination-to-its-deepmind-ai) & [Imagination-Augmented Agents for Deep Reinforcement Learning - DeepMind](https://arxiv.org/pdf/1707.06203.pdf)
 * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 * [Twitter taught Microsoft’s AI chatbot to be a racist asshole in less than a day - James Vincent](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist)
 * [These AI bots are so believable, they get asked out on dates (CNBC)](https://www.cnbc.com/2017/07/27/these-ai-bots-are-so-believable-they-get-asked-out-on-dates.html)
+* [How the NSA identified Satoshi Nakamoto (Not really AI but big data + machine learning)](https://medium.com/cryptomuse/how-the-nsa-caught-satoshi-nakamoto-868affcef595)
 * [TensorKart: Self-driving MarioKart with TensorFlow - Kevin Hughes](https://kevinhughes.ca/blog/tensor-kart)
 * [Artificial Intelligence (AI) Software and Robots are Replacing White-Collar Workers](https://www.youtube.com/watch?v=31IOoZ5c_9c)
 * [Baidu Deep Voice explained: Part 1 — the Inference Pipeline](https://blog.athelas.com/paper-1-baidus-deep-voice-675a323705df)
@@ -491,6 +494,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## CLEAN CODE
 
 * [Is Your Code Too SOLID? - Sarah Mei](http://forwardjs.com/university/is-your-code-too-solid)
+* [Why Senior Devs Write Dumb Code and How to Spot a Junior From A Mile Away - Scott Shipp](https://hackernoon.com/why-senior-devs-write-dumb-code-and-how-to-spot-a-junior-from-a-mile-away-27fa263b101a)
 * [The Mediator Pattern - Brandur](https://brandur.org/mediator)
 * ["The Mess We're In" - Joe Armstrong (StrangeLoop 2014)](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [The Failures of "Intro to TDD" - Justin Searls](http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html)
@@ -694,6 +698,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Google public data directory](http://www.google.com/publicdata/directory)
 * [IMF](http://www.imf.org/external/data.htm)
 * [International Social Survey Programme](http://www.issp.org/page.php?pageId=4)
+* [Merchant Fleet of Late Medieval and Tudor England, 1400–1580](http://medievalandtudorships.org/)
 * [Stanford Large Network Dataset Collection (SNAP)](http://snap.stanford.edu/data/)
 * [United Nations](http://data.un.org/)
 * [World Bank](http://data.worldbank.org/)
@@ -1048,6 +1053,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Kubernetes 101 for Developers - Ross Kukulinski](https://github.com/rosskukulinski/kubernetes-101-for-devs)
 * [KataCoda (interactive browser-based labs, courses, & playgrounds)](https://katacoda.com/learn)
 * [Kubernetes in production - blue-green deployment, auto scaling and deployment automation - Paul Bakker (Devoxx UK 2016)](https://www.youtube.com/watch?v=-Ci4vd4rh4M)
+
+#### DEVOPS - KUBERNETES - KUBECTX
+
+* [kubectx - Switch between Kubernetes contexts/namespaces](https://github.com/ahmetb/kubectx)
 
 ### DEVOPS - ISTIO.IO
 
@@ -1714,6 +1723,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - PROTOCOLS
 
+* [Polymorphism With Protocols in Elixir - Ilya Bodrov](https://code.tutsplus.com/articles/polymorphism-with-protocols-in-elixir--cms-29081)
 * [A Practical Guide to Elixir Protocols - Kevin Rockwood (ElixirConfEU 2017)](https://www.youtube.com/watch?v=sJvfCE6PFxY)
 
 ### ELIXIR - RIAK CORE
