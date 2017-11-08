@@ -94,6 +94,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Deep Neural Networks are Easily Fooled - Evolving AI Lab](https://www.youtube.com/watch?v=M2IebCN9Ht4)
 * [CS231n: Convolutional Neural Networks for Visual Recognition - Stanford University](http://cs231n.stanford.edu/)
 
+### ARTIFICIAL INTELLIGENCE (AI) - CAPSULE NETWORKS
+
+* [Capsule Networks: An Improvement to Convolutional Networks - Siraj Raval](https://www.youtube.com/watch?v=VKoLGnq15RM)
+* [What is a CapsNet or Capsule Network? - Debarko De](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)
+
 ### ARTIFICIAL INTELLIGENCE (AI) - DEEP NEURAL NETS
 
 * [How Deep Neural Networks Work - Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)
@@ -190,6 +195,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [OpenAI Gym](https://gym.openai.com/) | [Github](https://github.com/openai/gym)
 
+### ARTIFICIAL INTELLIGENCE (AI) - OPTIMIZATION
+
+* [Deep Learning as a Mixed Convex-Combinatorial Optimization Problem - Abram L. Friesen and Pedro Domingos](https://arxiv.org/pdf/1710.11573.pdf)
+
 ### ARTIFICIAL INTELLIGENCE (AI) - PODCASTS
 
 * [Artificial Intelligence in Industry](https://www.techemergence.com/category/primary-content-type/artificial-intelligence-podcast/)
@@ -204,6 +213,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ARTIFICIAL INTELLIGENCE (AI) - PYTHON - PYTORCH
 
 * [Github](https://github.com/pytorch/pytorch) | [Pytorch.org](http://pytorch.org/)
+* ML/DL for Everyone With PyTorch - Sung Kim: [Videos](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) & [Slides](https://drive.google.com/drive/folders/0B41Zbb4c8HVyUndGdGdJSXd5d3M)
 * [Introducing Pytorch for fast.ai](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/)
 * [PyTorch vs TensorFlow — spotting the difference - Kirill Dubovikov](https://medium.com/towards-data-science/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)
 
@@ -215,6 +225,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [A Brief Survey of Deep Reinforcement Learning - Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath](https://arxiv.org/pdf/1708.05866.pdf)
 * [Elon Musk’s A.I. Destroys Champion Gamer! - ColdFusion](https://www.youtube.com/watch?v=XbDmxEOj9OY)
+* [How Does DeepMind's AlphaGo Zero Work? - Siraj Raval](https://www.youtube.com/watch?v=vC66XFoN4DE)
 * [Human-level control through Deep Reinforcement Learning - Deep Mind](https://deepmind.com/research/dqn/)
 * [Deep Q Learning for Video Games - The Math of Intelligence #9 - Siraj Raval](https://www.youtube.com/watch?v=79pmNdyxEGo)
 * [Teaching a Neural Network to play a game using Q-learning - Soren D](https://www.practicalai.io/teaching-a-neural-network-to-play-a-game-with-q-learning/)
@@ -247,9 +258,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Meet Spot, the robot dog that can run, hop and open doors - Marc Raibert (TED Talk 2017)](https://www.youtube.com/watch?v=AO4In7d6X-c)
 * [A new t-shirt sewing robot can make as many shirts per hour as 17 factory workers - Marc Bain](https://qz.com/1064679/a-new-t-shirt-sewing-robot-can-make-as-many-shirts-per-hour-as-17-factory-workers/)
 * [How computers learn to recognize objects instantly - Joseph Redmon (TED Talk 2017)](https://www.youtube.com/watch?v=Cgxsv1riJhI)
+* [The ultimate promise of artificial intelligence lies in sorting cucumbers - Dave Gershgorn](https://qz.com/771921/the-ultimate-promise-of-artificial-intelligence-lies-in-sorting-cucumbers/)
 * [Google’s speech recognition is now almost as accurate as humans - 9-to-5 Google](https://9to5google.com/2017/06/01/google-speech-recognition-humans/)
 * [Using Machine Learning to predict parking difficulty - James Cook, et al. (Google)](https://research.googleblog.com/2017/02/using-machine-learning-to-predict.html)
 * [A.I. is Progressing Faster Than You Think - ColdFusion](https://www.youtube.com/watch?v=mQO2PcEW9BY)
+* [The era of easily faked, AI-generated photos is quickly emerging - Dave Gershgorn](https://qz.com/1115353/new-research-from-nvidia-shows-that-the-era-of-easily-faked-ai-generated-photos-is-quickly-emerging/)
 * [Artificial intelligence is great at predicting the size of hurricanes, but humans still need to figure out their impact - Dave Gershgorn](https://qz.com/1072215/artificial-intelligence-is-great-at-predicting-the-size-of-hurricanes-but-humans-still-need-to-figure-out-their-impact/)
 * [Voyage's first self-driving car deployment](https://news.voyage.auto/voyages-first-self-driving-car-deployment-29c7688c6a1)
 * [The world’s best Dota 2 players just got destroyed by a killer AI from Elon Musk’s startup - T.C. Sottek (The Verge)](https://www.theverge.com/2017/8/11/16137388/dota-2-dendi-open-ai-elon-musk)
@@ -429,6 +442,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## CHINESE
 
 * [InfoQ Chinese news](http://www.infoq.com/cn/)
+* Python - Mofan Zhou:  [Tutorials collection](https://morvanzhou.github.io/tutorials/) | [PyTorch tutorials](https://www.youtube.com/watch?v=wnKgOd3NdzA&list=PLXO45tsB95cJxT0mL0P3-G0rBcLSvVkKH)
 * [Chinese university courses on Coursera](https://www.coursera.org/about/partners/cn)
 * [卷积神经网络的运作原理](https://brohrer.mcknote.com/zh-Hans/how_machine_learning_works/how_convolutional_neural_networks_work.html)
 * Fudan University: [Coursera courses](https://www.coursera.org/fudan)
@@ -497,6 +511,21 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Grand Unification Theory: Writing and Running Code, by Brian Ford (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=iub8zWID4yk)
 * [Programming and minimalism: lessons from Orwell and the Clash - Jonathan Dahl (RubyConf 2010)](http://www.confreaks.tv/videos/460-rubyconf2010-programming-and-minimalism-lessons-from-orwell-and-the-clash)
 * [States and Nomads: Handling Software Complexity - Zach Tellman](http://forwardjs.com/university/states-and-nomads)
+
+### CLEAN CODE - AGILE
+
+* [Why Scaling Agile Doesn't Work • Jez Humble (GOTO 2015)](https://www.youtube.com/watch?v=2zYxWEZ0gYg)
+* [Beyond Scope, Schedule, and Cost: The Agile Triangle - Jim Highsmith (ThoughtWorks)](https://dfwscrum.files.wordpress.com/2011/07/dfwscrum_20110726_jimhighsmith.pdf)
+* [Business Decision Maturity Model (BDMM) - Dr. Knut Hinkelmann](http://knut.hinkelmann.ch/lectures/bpm2015-16/08_BDMM.pdf)
+* [Managing IT for Business Value: The New Gold Standard - BCG](https://www.bcgperspectives.com/content/articles/information_technology_information_technology_strategy_managing_it_for_business_value/)
+* [The Business Decision Maturity Model](http://www.kpiusa.com/index.php/The-Decision-Model/business-decision-maturity-model-bdmm.html)
+* [Black Swan Farming](http://blackswanfarming.com/cost-of-delay/)
+* [Management & Measurement & Business Value – “Oh My”: Creating Solutions with Measurement in Changing Times - Dan Galorath](http://www.ifpug.org/ISMA6/Galorath-Keynote%20Measurement%20Management%20Business%20Value-Sept%2014.pdf)
+
+#### CLEAN CODE - AGILE - KANBAN
+
+* [Agile Project Management with Kanban - Eric Brechner](https://www.youtube.com/watch?v=CD0y-aU1sXo)
+* [Agile Project Management with Kanban - Eric Brechner](https://www.youtube.com/watch?v=CKWvmiY7f_g)
 
 ### CLEAN CODE - APIS
 
@@ -1013,6 +1042,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Kubernetes: [Docs](https://kubernetes.io/) | [Tutorials](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Tasks](https://kubernetes.io/docs/tasks/) | [Concepts](https://kubernetes.io/docs/concepts/) | [Github](https://github.com/kubernetes/kubernetes)
 * [Awesome-Kubernetes](https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/details)
 * [Kubernetes Youtube channel](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg)
+* [Kubernetes Webinars - Janakiram & Associates](https://www.youtube.com/playlist?list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ)
 * kubectl: [Cheatsheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/) | [Overview](https://kubernetes.io/docs/user-guide/kubectl-overview/)
 * [Running Kubernetes in Production - Zalendo Tech](http://kubernetes-on-aws.readthedocs.io/en/latest/admin-guide/kubernetes-in-production.html) & [Kubernetes on AWS @Zalando - David Aronchick](https://www.youtube.com/watch?time_continue=2671&v=XmnhzEoengI)
 * [Kubernetes 101 for Developers - Ross Kukulinski](https://github.com/rosskukulinski/kubernetes-101-for-devs)
@@ -1462,6 +1492,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - FUNCTIONAL PROGRAMMING
 
+* [Let's Get Functional With Elixir! - Nate Taylor](https://www.youtube.com/watch?v=wVrnoxNbOts)
 * [Composing Elixir Functions - Jay Hayes](https://www.bignerdranch.com/blog/composing-elixir-functions/)
 * [Function Currying in Elixir - Patrik Storm](http://blog.patrikstorm.com/function-currying-in-elixir)
 * [Follow-up: Function currying in Elixir - Milton Mazzarri](https://milmazz.uno/article/2017/09/19/function-currying-in-elixir/)
@@ -1654,6 +1685,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Exploring Elixir (Youtube screencasts) - Aaron Seigo](https://www.youtube.com/channel/UCFKQ85T69sYhifDHF7dnPgw)
 * [Phoenix 1.2 and Beyond - Chris McCord (ElixirConfEU 2016)](https://www.youtube.com/watch?v=n338leKvqnA)
 * [Arisen from the Ashes: Phoenix.js and Websockets - Max Beizer](https://www.youtube.com/watch?v=AvKnYO7yo_g)
+* [Working with HTTP/2 in Elixir - Peter Saxton (Elixir.LDN 2017)](https://www.youtube.com/watch?v=zqzkrUVfv-k)
 * [Phoenix Takes Flight - Chris McCord (ElixirConf EU 2015)](https://www.youtube.com/watch?v=fLlItGWiVFc)
 * [What's Next for Phoenix - Chris McCord (ElixirConf 2015)](http://confreaks.tv/videos/elixirconf2015-what-s-next-for-phoenix)
 * [Phoenix: Productive. Reliable. Fast. - Chris McCord (LoneStarRuby 2015)](https://www.youtube.com/watch?v=STO-uN0xHDQ)
@@ -1788,10 +1820,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
+* Jump starting Your Elm Skills - Murphy Randle (LambdaConf λC 2017): [Lecture Part 1](https://www.youtube.com/watch?v=hzXA5ytGYWI) | [Lecture Part 2](https://www.youtube.com/watch?v=5KpznaReVfQ) | [Hipstore documentation](https://hipstore.sploding.rocks/) | [Example Hipstore website](http://app.hipstore.sploding.rocks/)
 * [Developer Happiness on the Front End with Elm - Kevin Yank (RailsConf 2017)](https://www.youtube.com/watch?v=C2npla7DwVk)
-* Jessica Kerr: [Pure Functional Programming in Elm](https://www.youtube.com/watch?time_continue=1&v=PRV0mpFWqqQ) & [Conquering Elm Boilerplate](https://www.youtube.com/watch?v=kDF1gKJDq6s)
+* Jessica Kerr: [Pure Functional Programming in Elm](https://www.youtube.com/watch?v=PRV0mpFWqqQ) & [Conquering Elm Boilerplate](https://www.youtube.com/watch?v=kDF1gKJDq6s)
 * [Teaching Elm to Beginners - Richard Feldman (Elm Conf 2017)](https://www.youtube.com/watch?v=G-GhUxeYc1U)
 * [Elm in production - Richard Feldman (Devoxx 2017)](https://www.youtube.com/watch?v=XsNk5aOpqUc)
+* [The Life of a File - Evan Czaplicki (Elm Europe 2017)](https://www.youtube.com/watch?v=XpDsk374LDE)
 * [Introducing Elm to a JavaScript App - Richard Feldman (GOTO Chicago 2017)](https://www.youtube.com/watch?v=28aJOb1A34o)
 * [Tame the Frontend with Elm - Jeremy Fairbank (FluentConf June 2017)](https://www.youtube.com/watch?v=D740qUZVcr4)
 * [Elm in Production: Surprises & Pain Points - Kevin Yank (2017)](https://www.youtube.com/watch?v=LZj_1qVURL0)
@@ -1807,6 +1841,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional Programming for the Web with Elm - Austin Bingham (ACCU 2017)](https://www.youtube.com/watch?v=u3lUh1x72ao)
 * [Elm: Delightful Web Development - Amir Barylko](https://www.youtube.com/watch?v=0_0ABLgJ_Zg)
 * [Exercism.io](http://exercism.io/languages/elm/about)
+* [Did You Get The Message?: Commanding the Elm Architecture - Kyle Kress (Develop Denver)](https://www.youtube.com/watch?v=4l6SjMOneyw)
 * [Scaling Elm Apps - Richard Feldman (Elm Europe 2017)](https://www.youtube.com/watch?v=DoA4Txr4GUs&app=desktop)
 * Elmbridge Curriculum: [PDF](https://www.gitbook.com/download/pdf/book/raorao/elmbridge-curriculum) | [website](https://raorao.gitbooks.io/elmbridge-curriculum/content/)
 * [Branching Out with Elm - Dave Fancher (NDC Conferences 2017)](https://www.youtube.com/watch?v=Rjy3W5LqBeM)
@@ -1967,6 +2002,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - CSS & UI
 
+* [The Design Evolution of elm-css and elm-test - Richard Feldman (Oslo Elm Day 2017)](ihttps://www.youtube.com/watch?v=n5faeSW71ko)
 * [elm-css: Define CSS in Elm](http://package.elm-lang.org/packages/rtfeldman/elm-css/latest/)
 * [Elm UI - opinionated UI library and application framework for the web in Elm, following the Elm Architecture](https://github.com/gdotdesign/elm-ui)
 
@@ -2031,6 +2067,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - INTERACTING WITH JAVASCRIPT, JSON & HTML
 
+* [elm-decode-pipeline](https://github.com/NoRedInk/elm-decode-pipeline)
 * [Example of how to integrate Elm with HTML and JS - Evan Czaplicki](https://github.com/evancz/elm-html-and-js)
 * [Interop(erability)](http://elm-lang.org/guide/interop) & [code example](https://gist.github.com/evancz/8521339)
 * [Decoding JSON With Dynamic Keys - Brian Hicks](https://www.brianthicks.com/post/2016/10/03/decoding-json-with-dynamic-keys/)
@@ -2054,7 +2091,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [A Form Validation Library for Elm: My First Published Library for Elm - Bill Peregoy](https://becoming-functional.com/a-form-validation-library-for-elm-82ef8c7c39d9#.jxqwhpwxb)
 * [elm-audio](https://github.com/jcollard/elm-audio)
 * [elm-core](https://github.com/elm-lang/core)
-* [elm-decode-pipeline](https://github.com/NoRedInk/elm-decode-pipeline)
 * [elm-graphql](https://github.com/jahewson/elm-graphql)
 * [elm-html](https://github.com/evancz/elm-html)
 * [elm-http](https://github.com/evancz/elm-http)
@@ -2116,6 +2152,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - VIDEOS
 
 * [ElmConf 2017](https://www.youtube.com/playlist?list=PLglJM3BYAMPFTT61A0Axo_8n0s9n9CixA)
+* [Oslo Elm Day 2017](https://www.youtube.com/channel/UCe8Jqmf-R82Zm0nPOxFLqkg)
 * [Elm and React in production - Richard Feldman (ReactiveConf 2016)](https://www.youtube.com/watch?v=3FNKaGm3gk0)
 * [Elm Europe 2017](https://www.youtube.com/playlist?list=PL-cYi7I913S8cGyZWdN6YVZ028iS9BfpM)
 * [ElmConf 2016](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
@@ -2439,8 +2476,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Modeling With Aggregates - Pieter Koornhof](http://sneakycode.net/modeling-with-aggregates/)
 * [Domain-Driven Design Europe 2017](https://www.youtube.com/playlist?list=PLf9p-N3ltMTtAhyGupYWGVPpxUqrgsXgs)
 * [Domain-Driven Design Europe 2016](https://www.youtube.com/playlist?list=PLf9p-N3ltMTttHHPbCJ0NpD-D50Qpam7z)
+* [Functional Patterns in Domain Modeling — Debasish Ghosh (Scala World)](https://www.youtube.com/watch?v=U0Rk9Knq8Vk)
 * [Domain Driven Design: The Good Parts - Jimmy Bogard {NDC Sydney 2016}](https://www.youtube.com/watch?v=U6CeaA-Phqo)
 * [Event Storming - Alberto Brandolini (wroc_love.rb 2015)](https://www.youtube.com/watch?v=veTVAN0oEkQ)
+* [How To Distill The Core Domain From Your Legacy App (Live Coding) - Thomas Pierrain & Bruno Boucard (Explore DDD 2017)](https://www.youtube.com/watch?v=mZzPwt9vhHM)
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA
 
@@ -2650,7 +2689,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [MoonConf 2016](https://www.youtube.com/playlist?list=PLWYAdh9hA7geMRCgwDomlHAdwlsno32LU&spfreload=10)
 * [All the FP Talks at NDC Oslo 2016](http://theburningmonk.com/2016/06/all-the-fp-talks-at-ndc-oslo-2016/)
 * [Curry On 2016](http://www.curry-on.org/2016/)
-* Lambda Days (Erlang Solutions): [2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2izLmnqYbI5DZ4ArUe3vp1d) | [2015](https://www.youtube.com/results?search_query=lambda+days+2015)
+* Lambda Days (Erlang Solutions): [2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2gaE8KWPbj0FMoT9DZL4Yuq) | [2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2izLmnqYbI5DZ4ArUe3vp1d) | [2015](https://www.youtube.com/results?search_query=lambda+days+2015)
 * [Compose Conference 2015](http://www.composeconference.org/2015/summary/)
 * [Functional Works](https://www.youtube.com/channel/UCE6NivlVPGUn3TMtDAeL2vQ)
 
@@ -4137,6 +4176,8 @@ Peter R. Egli:
 ## PROGRAMMING
 
 * [Every Programmer Should Know - Alexey Migutsky](https://github.com/mr-mig/every-programmer-should-know/)
+* [Core Design Principles for Software Developers - Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
+* [Design Patterns in the Light of Lambda Expressions - Venkat Subramaniam](https://www.youtube.com/watch?v=e4MT_OguDKg)
 
 ### PROGRAMMING - ACTOR MODEL
 
@@ -4162,6 +4203,7 @@ Peter R. Egli:
 
 * [AListApart.com](http://alistapart.com/)
 * [Code Words](https://codewords.recurse.com/issues)
+* [Dev.to](https://dev.to/)
 * [Dr. Dobbs](http://www.drdobbs.com/blogs/)
 * [The Effective Engineer - Edmond Lau](http://www.theeffectiveengineer.com/)
 * [TheGeekStuff.com](http://www.thegeekstuff.com/)
@@ -4264,6 +4306,7 @@ Peter R. Egli:
 * [85 Podcasts for Developers, Programmers & Software Engineers - HackerLists.com](https://hackerlists.com/programming-podcasts/)
 * [Ultimate List Of Developer Podcasts - John Sonmez](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/)
 * [a16z - Andreessen Horowitz](http://a16z.com/podcasts/)
+* [Advance Tech Podcasts](https://advancetechmedia.org/)
 * [The Big Web Show](http://5by5.tv/bigwebshow)
 * [The Bikeshed](http://bikeshed.fm/)
 * [The Changelog](https://changelog.com/podcast/)
@@ -4292,6 +4335,22 @@ Peter R. Egli:
 * [Toolsday.io](http://toolsday.io/)
 * [Turing-Incomplete](http://turing.cool/)
 * [The Web Ahead](http://5by5.tv/webahead)
+
+### PROGRAMMING - TECHNICAL DEBT
+
+* [Tech Debt - MPJ's Musings - Fun Fun Function](https://www.youtube.com/watch?v=YBJFirHSS5Q)
+* [Representing Your Technical Debt - Ipek Ozkaya](https://www.youtube.com/watch?v=l4a1A64exok)
+* [Managing Technical Debt - Steve McConnell 2008](http://www.construx.com/uploadedFiles/Construx/Construx_Content/Resources/Documents/Managing%20Technical%20Debt.pdf)
+* [Technical Debt: From Metaphor to Theory and Practice - Philippe Kruchten, Robert L. Nord, and Ipek Ozkaya](https://www.sei.cmu.edu/library/assets/whitepapers/Technical%20Debt-From%20Metaphor%20to%20Theory%20and%20Practice.pdf)
+* [Managing Technical Debt - Steve McConnell 2013](http://2013.icse-conferences.org/documents/publicity/MTD-WS-McConnell-slides.pdf) & [Construx Webinar](https://www.youtube.com/watch?v=lEKvzEyNtbk)
+* [Technical Debt - Martin Fowler](https://martinfowler.com/bliki/TechnicalDebt.html)
+* [Technical debt and system architecture: The impact of coupling on defect-related activity - Alan MacCormack and Daniel J. Sturtevant](http://www.hbs.edu/faculty/Publication%20Files/2016-JSS%20Technical%20Debt_d793c712-5160-4aa9-8761-781b444cc75f.pdf)
+* [Technical Debt - The code monster in everyone's closet - Nina Zakharenko (PyCon 2015)](https://www.youtube.com/watch?v=JKYktDRoRxw)
+* [The Practical Approach to Reducing Technical Debt - Spencer Greene](https://www.youtube.com/watch?v=OfFvtVXduk4)
+* [Escaping the Technical Debt Cycle - Michael Feathers](https://www.youtube.com/watch?v=7hL6g1aTGvo)
+* [Don’t Start Up With Hidden Debt: Understanding and Managing Technical Debt - eBags](https://www.youtube.com/watch?v=5cyaTTHXVps)
+* [Technical debt using dynamic indicators: NVP and IRR - Francisco Miguel García](http://fmiguelgarcia.github.io/pmp/Technical_debt_en/)
+* Architecture Wars - The competition between Features and Technical Debt: [Part 1](https://www.youtube.com/watch?v=4tz2LQsouT0) & [Part 2](https://www.youtube.com/watch?v=lKq_o3dsnwA)
 
 ### PROGRAMMING - VIDEOS
 
@@ -4392,6 +4451,7 @@ Peter R. Egli:
 * [Practical Data Science in Python - Radim Řehůřek](http://radimrehurek.com/data_science_python/)
 * [scientific-python-lectures - JR Johansson](https://github.com/jrjohansson/scientific-python-lectures)
 * [Learn Python Through Public Data Hacking](http://www.youtube.com/watch?v=RrPZza_vZ3w) & [slides](http://dabeaz.com/pydata/LearnPyData.pdf)
+* [iPython notebooks for Wes McKinney's "PyData" 2nd ed](https://hub.mybinder.org/user/wesm-pydata-book-89hiaf1z/tree)
 * [Bayesian Statistics Made (As) Simple (As Possible) - Allen Downey (2012)](https://www.youtube.com/watch?v=bobeo5kFz1g)
 * [Social Network Analysis With Python - Maksim Tsvetovat (2012)](http://www.youtube.com/watch?v=qgGqaBAEy3Q)
 * [Web Scraping: Reliably and Efficiently Pull Data From Pages That Don't Expect It - Asheesh Laroia (PyCon 2012)](https://www.youtube.com/watch?v=52wxGESwQSA)
@@ -6133,10 +6193,12 @@ Peter R. Egli:
 * [Effective Scala - Marius Eriksen](http://twitter.github.io/effectivescala/)
 * [Tim Cowlishaw - From Ruby to Scala and back again: Better living through type-checking - Tim Colishaw (Ruby Manor 4.0)](http://vimeo.com/79180652)
 * [Scala: The Simple Parts - Martin Odersky (GOTO Conf 2014)](https://www.youtube.com/watch?v=P8jrvyxHodU)
+* [Typeclasses in Scala - Dan Rosen](https://www.youtube.com/watch?v=sVMES4RZF-8)
 
 ### SCALA - AKKA
 
 * [Akka.io](http://akka.io/)
+* [A Practical Introduction to Akka Streams - Jacek Kunicki (Lambda Days 2017)](https://www.youtube.com/watch?v=O_2J6dPSHSo)
 * [Implementing the Reactive Manifesto with Akka - Adam Warski (Lambda Days 2015)](https://www.youtube.com/watch?v=kFH3_OF9EW8)
 
 ### SCALA - BOOKS
@@ -6159,6 +6221,7 @@ Peter R. Egli:
 * [Functional Programming Principles in Scala - Scala creator Martin Odersky (École Polytechnique Fédérale de Lausanne) Coursera](https://www.coursera.org/course/progfun)
 * [Principles of Reactive Programming - Scala creator Martin Odersky, Erik Meijer & Roland Kuhn](https://www.coursera.org/course/reactive)
 * [Functional Programming with Scala - Jacek Laskowski (JEE Conf 2015)](https://www.youtube.com/watch?v=9qwmuEIScB0)
+* [Full Stack Type-safety: Elm with Scala - Choucri Fahed (Lambda Days 2017)](https://www.youtube.com/watch?v=MAWovYATpEw)
 * [Cats - A Fresh Look at Functional Programming in Scala - Mike Stew (LambdaConf 2015)](https://www.youtube.com/watch?v=hIwdaP3-U6I)
 * [Intro to Functional Programming in Scala - Joe Barnes](https://www.youtube.com/watch?v=2Ji5i0x2gJI)
 * [Programs as Values: Pure Composable Database Access in Scala - Rob Norris](https://www.youtube.com/watch?v=XHiTK4UOIf0)
@@ -6166,13 +6229,16 @@ Peter R. Egli:
 ### SCALA - VIDEOS
 
 * Scala Days: [2017](https://www.youtube.com/playlist?list=PLLMLOC3WM2r5Ei2mnSHCD-ZD04AXovttL) | [2016](https://www.youtube.com/playlist?list=PLLMLOC3WM2r4aQCKJxxPlrEhJ8tdGWjXj)
+* [Scalawags](https://www.youtube.com/channel/UCHxNwi3l5CGZo1kG47k7i2Q)
 * [Learn Scala in One Video - Derek Banas](https://www.youtube.com/watch?v=DzFt0YkZo8M)
 * [Scala for the Intrigued - Dr. Venkat Subramaniam](https://www.youtube.com/watch?v=grvvKURwGNg)
 * Big Data Pipelines With Scala - Gleb Kanterov (λC 2017)- [Part 1](https://www.youtube.com/watch?v=C6MlPaox5EI) | [Part 2](https://www.youtube.com/watch?v=IcS8u9_LWOY)
 * [Scala: The Simple Parts - Martin Odersky (SF Scala)](https://www.youtube.com/watch?v=ecekSCX3B4Q)
+* [Essential Scala: Six Core Principles for Learning Scala - Noel Welsh (Scala Days 2015 Amsterdam)](https://www.youtube.com/watch?v=J8wUy1XxL5o)
 * [Why Scala? - Venkat Subramaniam](http://www.youtube.com/watch?v=LH75sJAR0hc)
 * [Scala with Style - Martin Odersky](http://www.youtube.com/watch?v=kkTFx3-duc8)
 * [Demystifying Scala - Kelley Robinson (GOTO 2017)](https://www.youtube.com/watch?v=IayQ7lxPUP4)
+* [Effective Scala - Josh Suereth (DEVOXX 2016)](https://www.youtube.com/watch?v=TNSe0QzLx4E)
 * [Tim Cowlishaw - From Ruby to Scala and back again: Better living through type-checking - Tim Colishaw (Ruby Manor 4.0)](http://vimeo.com/79180652)
 * [Scala: The Simple Parts - Martin Odersky (GOTO Conf 2014)](https://www.youtube.com/watch?v=P8jrvyxHodU)
 * Scala talks: [Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=scala&commit=go) & [Youtube](https://www.youtube.com/results?q=scala+language)
