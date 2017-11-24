@@ -29,6 +29,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ARTIFICIAL INTELLIGENCE (AI)
 
+* [Software 2.0 - Andrej Karpathy](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 * Deep Learning - Ian Goodfellow, Yoshua Bengio, and Aaron Courville (MIT Press): [Chapters](http://www.deeplearningbook.org/) | [Lectures](http://www.deeplearningbook.org/lecture_slides.html)
 * [Siraj Raval's "Artificial Intelligence Education" videos](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)
 * [AI and Deep Learning - Two Minute Papers - Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2) & [Two Minute Papers](https://www.youtube.com/playlist?list=PLujxSBD-JXgnqDD1n-V30pKtp6Q886x7e)
@@ -223,6 +224,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - REINFORCEMENT LEARNING
 
+* [Reinforcement Learning: An Introduction, 2nd ed (in progress - complete draft)- Richard S. Sutton & Andrew G. Barto](http://incompleteideas.net/sutton/book/bookdraft2017nov5.pdf)
 * [A Brief Survey of Deep Reinforcement Learning - Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath](https://arxiv.org/pdf/1708.05866.pdf)
 * [Elon Musk’s A.I. Destroys Champion Gamer! - ColdFusion](https://www.youtube.com/watch?v=XbDmxEOj9OY)
 * [How Does DeepMind's AlphaGo Zero Work? - Siraj Raval](https://www.youtube.com/watch?v=vC66XFoN4DE)
@@ -253,6 +255,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - REAL-WORLD EXAMPLES
 
+* [CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning - Stanford ML Group](https://stanfordmlgroup.github.io/projects/chexnet/)
 * [Artificial intelligence goes deep to beat humans at poker - Tonya Riley (Science)](http://www.sciencemag.org/news/2017/03/artificial-intelligence-goes-deep-beat-humans-poker) & [How an AI took down four world-class poker pros - Chris Valazco (Engadget)](https://www.engadget.com/2017/02/10/libratus-ai-poker-winner/)
 * [The AI Race - Australian Broadcasting Corporation](https://www.youtube.com/watch?v=gLeuCj0ZFo4)
 * [Google's Learning Software Learns to Write Learning Software - Tom Simonite (Wired)](https://www.wired.com/story/googles-learning-software-learns-to-write-learning-software)
@@ -1831,6 +1834,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
 * Jump starting Your Elm Skills - Murphy Randle (LambdaConf λC 2017): [Lecture Part 1](https://www.youtube.com/watch?v=hzXA5ytGYWI) | [Lecture Part 2](https://www.youtube.com/watch?v=5KpznaReVfQ) | [Hipstore documentation](https://hipstore.sploding.rocks/) | [Example Hipstore website](http://app.hipstore.sploding.rocks/)
+* [Why Elm? - Matthew Griffith](https://www.safaribooksonline.com/library/view/why-elm/9781491990728/)
+* [Elmseeds - Erik Person](https://elmseeds.thaterikperson.com) & [All episodes](https://elmseeds.thaterikperson.com/archive/)
 * [Developer Happiness on the Front End with Elm - Kevin Yank (RailsConf 2017)](https://www.youtube.com/watch?v=C2npla7DwVk)
 * Jessica Kerr: [Pure Functional Programming in Elm](https://www.youtube.com/watch?v=PRV0mpFWqqQ) & [Conquering Elm Boilerplate](https://www.youtube.com/watch?v=kDF1gKJDq6s)
 * [Teaching Elm to Beginners - Richard Feldman (Elm Conf 2017)](https://www.youtube.com/watch?v=G-GhUxeYc1U)
@@ -1882,7 +1887,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [London Elm Meetup at Plumbee Games](https://www.youtube.com/watch?v=OphstSQhyRM)
 * [Elm or how I learned to love front end development - Marco Perone](https://www.youtube.com/watch?v=DX28Hyn8gQw)
 * [awesome-elm - Ruslan Ismagilov](https://github.com/isRuslan/awesome-elm)
-* [Elmseeds - Erik Person](https://elmseeds.thaterikperson.com)
 * [Elm in the real world - Ossi Hanhinen](http://futurice.com/blog/elm-in-the-real-world)
 * Elm Friday - Bastian Krol: [What Is Elm?](https://blog.codecentric.de/en/2015/11/elm-friday-part-01-what-is-elm/) | [Installing Elm](https://blog.codecentric.de/en/2015/11/elm-friday-part-02-installing-elm/) | [Hello World](https://blog.codecentric.de/en/2015/11/elm-friday-part-03-hello-world/) | [Hello World 2.0](https://blog.codecentric.de/en/2015/11/elm-friday-part-04-hello-world-2-0/) | [Functions](https://blog.codecentric.de/en/2015/11/elm-friday-part-05-functions/) | [Type Annotations](https://blog.codecentric.de/en/2015/11/elm-friday-part-06-type-annotations/) | [Lists](https://blog.codecentric.de/en/2015/12/elm-friday-part-07-lists/) | [Imports](https://blog.codecentric.de/en/2015/12/elm-friday-part-08-imports/) | [Type System Basics: Tuples, Type Aliases and Records](https://blog.codecentric.de/en/2016/01/elm-friday-part-09-type-system-basics/) | [Type System Basics: Union Types and Tagged Unions](https://blog.codecentric.de/en/2016/03/elm-friday-part-10-union-types/)
 * Typed up CRUD SPA with Haskell and Elm - Magnus Rundberget: [Part 1: Spike time](http://rundis.github.io/blog/2015/haskell_elm_spa_part1.html) | [Part 2: Persistence up and running](http://rundis.github.io/blog/2016/haskel_elm_spa_part2.html) | [ Part 3: Routing](http://rundis.github.io/blog/2016/haskel_elm_spa_part3.html)
@@ -2012,6 +2016,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - CSS & UI
 
+* [CSS As Bytecode - Richard Feldman (ReactiveConf 2017)](https://www.youtube.com/watch?v=bt1TzVngOqY)
+* Matthew Griffith: [Understanding Style - Elm Europe 2017](https://www.youtube.com/watch?v=NYb2GDWMIm0) | [style-elements: Create styles that don't mysteriously break!](https://github.com/mdgriffith/style-elements) | [elm-style-animation: The style animation library for Elm!](https://github.com/mdgriffith/elm-style-animation)
 * [The Design Evolution of elm-css and elm-test - Richard Feldman (Oslo Elm Day 2017)](ihttps://www.youtube.com/watch?v=n5faeSW71ko)
 * [elm-css: Define CSS in Elm](http://package.elm-lang.org/packages/rtfeldman/elm-css/latest/)
 * [Elm UI - opinionated UI library and application framework for the web in Elm, following the Elm Architecture](https://github.com/gdotdesign/elm-ui)
@@ -2029,6 +2035,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELM - DATA STRUCTURES - JSON
 
+* [Turn a JSON string Into Typed Data in Elm - Murphy Randle](https://egghead.io/lessons/turn-a-json-string-into-typed-data-in-elm)
 * [Bridging Elm and JavaScript with Ports - Josh Clayton](https://robots.thoughtbot.com/bridging-elm-and-javascript-with-ports)
 * [json-to-elm](https://github.com/eeue56/json-to-elm) & [JSON2Elm.com](http://noredink.github.io/json-to-elm/)
 * [json-to-elm - Noah Hall](https://github.com/eeue56/json-to-elm)
@@ -2129,6 +2136,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - PODCASTS
 
 * [Elm Town Podcasts](https://elmtown.github.io/)
+* [JS to Elm - John Otander](http://jstoelm.com/)
 * [Elm and Functional Programming with Evan Czaplicki and Richard Feldman (Changelog)](https://changelog.com/podcast/218)
 * [Elm and Functional Programming with Richard Feldman (Changelog)](https://changelog.com/podcast/191)
 * [Elm with Richard Feldman and Evan Czaplicki (Ruby Rogues)](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki)
@@ -2161,7 +2169,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - VIDEOS
 
-* [ElmConf 2017](https://www.youtube.com/playlist?list=PLglJM3BYAMPFTT61A0Axo_8n0s9n9CixA)
+* ElmConf: [2017](https://www.youtube.com/playlist?list=PLglJM3BYAMPFTT61A0Axo_8n0s9n9CixA) | [2016](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
 * [Oslo Elm Day 2017](https://www.youtube.com/channel/UCe8Jqmf-R82Zm0nPOxFLqkg)
 * [Elm and React in production - Richard Feldman (ReactiveConf 2016)](https://www.youtube.com/watch?v=3FNKaGm3gk0)
 * [Elm Europe 2017](https://www.youtube.com/playlist?list=PL-cYi7I913S8cGyZWdN6YVZ028iS9BfpM)
@@ -2480,6 +2488,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - DOMAIN-DRIVEN DESIGN
 
+* [Explore DDD Conference 2017](https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag/videos)
 * [Domain Driven Design and Onion Architecture in Scala - Wade Waldron (Scala Days 2016)](https://www.youtube.com/watch?v=MnNeDXg3Qao)
 * [Tackling Complexity in the Heart of Software - Eric Evans (Explore DDD Conference 2017)](https://www.youtube.com/watch?v=kIKwPNKXaLU)
 * [DDD & Microservices: At Last, Some Boundaries! - Eric Evans (GOTO 2015)](https://www.youtube.com/watch?v=yPvef9R3k-M)
@@ -2866,6 +2875,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### HASKELL - CODE EXAMPLES
 
 * [Haskell Everywhere! - Todo apps in Haskell](https://github.com/jyrimatti/hseverywhere)
+* [Finite-State Machines, Part 1: Modeling with Haskell Data Types - Oskar Wickström](https://wickstrom.tech/finite-state-machines/2017/11/10/finite-state-machines-part-1-modeling-with-haskell.html)
 
 ### HASKELL - CODE.WORLD
 
@@ -2971,6 +2981,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## HTML5
 
+* [HTML Crash Course for Absolute Beginners - Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE)
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 * [MarkSheet: Free HTML & CSS tutorial](http://marksheet.io/)
 * [CodePen.io](http://codepen.io/)
@@ -2981,6 +2992,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [HTML5 Doctor](http://html5doctor.com/)
 * [HTML5 Developer Conference](http://www.youtube.com/playlist?list=PL2679A5F392A01722&feature=plcp)
 * [HTML5 Please](http://html5please.com/)
+* [Build An HTML5 Website With A Responsive Layout - Traversy Media](https://www.youtube.com/watch?v=Wm6CUkswsNw)
+* [Web Development In 2017 - A Practical Guide - Traversy Media](https://www.youtube.com/watch?v=9hDKfBKuXjI)
 * [Box shadows](http://codepen.io/bphillips201/details/JygKB)
 * [Can I Use?](http://caniuse.com/)
 * [Datalists](http://demo.agektmr.com/datalist/)
@@ -3232,6 +3245,16 @@ Links to resources I have found useful or think might be helpful to future me or
 ### JAVASCRIPT - DEPENDENCY INJECTION
 
 * [Sam Breed - Dependency Injection for Fun and Profit](http://www.youtube.com/watch?v=Lm05e5sJaE8)
+
+### JAVASCRIPT - DOM
+
+* Javascript DOM Crash Course - Traversy Media: [Part 1](https://www.youtube.com/watch?v=0ik6X4DJKCc) | [Part 2](https://www.youtube.com/watch?v=mPd2aJXCZ2g) | [Part 3](https://www.youtube.com/watch?v=wK2cBMcDTss) | [Part 4](https://www.youtube.com/watch?v=i37KVt_IcXw)
+* [Learn JavaScript By Building a Bookmarker Application - Traversy Media](https://www.youtube.com/watch?v=DIVfDZZeGxM)
+* [JavaScript DOM Tutorial - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V)
+
+#### JAVASCRIPT - DOM - EVENTS
+
+* [JavaScript DOM Tutorial #9 - Events - Net Ninja](https://www.youtube.com/watch?v=ndz6iH6o1ms)
 
 ### JAVASCRIPT - ES 2016
 
@@ -4063,6 +4086,12 @@ Peter R. Egli:
 ### OCAML - REASON
 
 * [Reason](https://reasonml.github.io/)
+
+### OCAML - REASON - REASON REACT
+
+* [ReasonReact](https://reasonml.github.io/reason-react/)
+* [A ReasonReact Tutorial - Jared Forsyth](https://jaredforsyth.com/2017/07/05/a-reason-react-tutorial/)
+* [Advanced ReasonReact: Higher Order Components - Jared Forsyth](https://jaredforsyth.com/2017/11/12/advanced-reasonreact-hider-order-components/)
 
 ## OCTAVE
 
