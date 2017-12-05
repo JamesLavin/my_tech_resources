@@ -109,6 +109,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Deep Neural Networks with Tensorboard - Arpan Chakraborty & Luis Serrano (ODSC East 2017)](https://www.youtube.com/watch?v=QVeszB-4Zik) & [Tensorboard demos (Github)](https://github.com/PythonWorkshop/tensorboard_demos)
 * [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
 * [The Deep End of Deep Learning - Hugo Larochelle (TEDxBoston)](https://www.youtube.com/watch?v=dz_jeuWx3j0)
+* [Neural Nets for NLP - Graham Neubig (Carnegie Mellon University)](https://www.youtube.com/user/neubig)
 * [Friendly Introduction to Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw)
 * [Visualizing and Understanding Deep Neural Networks - Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw)
 * [The Rise of Artificial Intelligence through Deep Learning - Yoshua Bangio (TEDxMontreal)](https://www.youtube.com/watch?v=uawLjkSI7Mo)
@@ -498,6 +499,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Is Your Code Too SOLID? - Sarah Mei](http://forwardjs.com/university/is-your-code-too-solid)
 * [Why Senior Devs Write Dumb Code and How to Spot a Junior From A Mile Away - Scott Shipp](https://hackernoon.com/why-senior-devs-write-dumb-code-and-how-to-spot-a-junior-from-a-mile-away-27fa263b101a)
+* [Ideology - Gary Bernhardt (StrangeLoop 2015)](https://www.destroyallsoftware.com/talks/ideology)
 * [The Mediator Pattern - Brandur](https://brandur.org/mediator)
 * ["The Mess We're In" - Joe Armstrong (StrangeLoop 2014)](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [The Failures of "Intro to TDD" - Justin Searls](http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html)
@@ -1389,6 +1391,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Is Phoenix deployment really that hard? - Karol Słuszniak](http://cloudless.studio/articles/29-is-phoenix-deployment-really-that-hard)
 * [Understanding deps and applications in your Mixfile - João Britto](http://blog.plataformatec.com.br/2016/07/understanding-deps-and-applications-in-your-mixfile/)
 * conform: [source](https://github.com/bitwalker/conform)
+* [Deferred_config: Seamless runtime config for otp apps with one line of code - Luc Fueston](https://github.com/mrluc/deferred_config)
+* [Peerage: Easy Elixir clusters, pluggable discovery. DNS-based (Kubernetes, Weave), UDP multicast, others - Luc Fueston](https://github.com/mrluc/peerage)
 * [Fast Continuous Deployment of an Elixir Gameserver - Martin Kavalar & Martin Schurrer](https://www.youtube.com/watch?v=RoT8RnQHvgo)
 
 #### ELIXIR - DEPLOYMENT - AWS
@@ -1544,11 +1548,14 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - METAPROGRAMMING
 
 * [Metaprogramming Elixir - Chris McCord (NDC Oslo 2015)](https://vimeo.com/131643017)
+* [Mex: Elixir Shell helper for previewing macroexpansion - Luc Fueston](https://github.com/mrluc/mex)
 
 ### ELIXIR - MIX
 
 * [Intro to Mix](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 * The Mix & OTP Guide: [(EPUB)](https://github.com/JamesLavin/my_tech_resources/raw/master/mix-and-otp.epub) | [Online](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
+* [Mix Templates - Dave Thomas](https://github.com/pragdave/mix_templates)
+* [Mix Test.Watch: Automatically run your Elixir project's tests each time you save a file](https://github.com/lpil/mix-test.watch)
 
 ### ELIXIR - NEURAL NETWORKS
 
@@ -2101,6 +2108,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm search (by function name or approximate type signature)](http://klaftertief.github.io/elm-search/)
 * [Elm devtool: attempt to use Elm's (time-traveling) debugger on Chrome DevTools](https://github.com/jinjor/elm-devtool)
 * [create-elm-app: Create Elm apps with zero configuration](https://github.com/halfzebra/create-elm-app)
+* [elm-vega: Elm-Vega/Lite integration for functional declarative visualization](https://github.com/gicentre/elm-vega)
 * [elm-verify-examples (doctests)](https://github.com/stoeffel/elm-verify-examples)
 * [Elmalytics: view the Elm package and project ecosystem at a high level](http://elmalytics.xyz/)
 * [Trending packages on Github](https://github.com/trending/elm?since=daily)
@@ -2122,10 +2130,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [elm-web-api - Ryan Rempel](https://github.com/rgrempel/elm-web-api)
 * [generator-elmlang (for Yeoman) - Gizra](https://github.com/Gizra/generator-elmlang)
 * [react-elm-components: Write React components in Elm - Evan Czaplicki](https://github.com/evancz/react-elm-components)
+* [tasksched - An opinionated Taskwarrior web UI. Great for scheduling when to do your tasks - Kamila Součková](https://github.com/AnotherKamila/tasksched)
 * [WebGL](http://package.elm-lang.org/packages/elm-community/webgl/2.0.0/WebGL)
 
 ### ELM - PHOENIX & ELM
 
+* [Phoenix & Elm landing page (pt.1) - Ricardo García Vega](http://codeloveandboards.com/blog/2017/12/02/phoenix-elm-landing-page-pt-1/)
 * [firestorm: open-source forum engine with Elixir+Phoenix backend and Elm frontend - Josh Adams](https://github.com/dailydrip/firestorm)
 * [phoenix-elm-scaffold - Andrew MacMurray](https://github.com/andrewMacmurray/phoenix-elm-scaffold)
 * Bill Peregoy: Integrating Phoenix and Elm [Part 1](https://becoming-functional.com/integrating-phoenix-and-elm-part-1-b66cf4294d13) & [Part 2](https://becoming-functional.com/integrating-phoenix-and-elm-part-2-b611871cd70f) & [elm-divide Github repo](https://github.com/billperegoy/elm-divide)
@@ -2491,6 +2501,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Explore DDD Conference 2017](https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag/videos)
 * [Domain Driven Design and Onion Architecture in Scala - Wade Waldron (Scala Days 2016)](https://www.youtube.com/watch?v=MnNeDXg3Qao)
 * [Tackling Complexity in the Heart of Software - Eric Evans (Explore DDD Conference 2017)](https://www.youtube.com/watch?v=kIKwPNKXaLU)
+* [Domain Modeling Made Functional - Scott Wlaschin (NDC {Sydney} 2017)](https://www.youtube.com/watch?v=1pSH8kElmM4) & [NDC {Oslo}](https://www.youtube.com/watch?v=Up7LcbGZFuo)
 * [DDD & Microservices: At Last, Some Boundaries! - Eric Evans (GOTO 2015)](https://www.youtube.com/watch?v=yPvef9R3k-M)
 * [Modeling With Aggregates - Pieter Koornhof](http://sneakycode.net/modeling-with-aggregates/)
 * [Domain-Driven Design Europe 2017](https://www.youtube.com/playlist?list=PLf9p-N3ltMTtAhyGupYWGVPpxUqrgsXgs)
@@ -2643,6 +2654,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [An introduction to functional programming - Mary Rose Cook](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 * [What Is Functional Programming? - Kris Jenkins](https://www.youtube.com/watch?v=xN1-mtw1Fns)
+* [Functional Programming Patterns for Mere Mortals - Daniel Chambers (NDC {Sydney} 2017)](https://www.youtube.com/watch?v=v9QGWbGppis)
 * [How to Get Started With Functional Programming - Julia Gao (StrangeLoop 2016)](https://www.youtube.com/watch?v=fbrG3hvWA3E)
 * [What does it mean when code is “easy to reason about”? - Preethi Kasireddy](https://medium.freecodecamp.com/what-does-it-mean-when-code-is-easy-to-reason-about-4e6f63eb386f#.f900iegve)
 * [Why Programmers Need Limits - Charles Scalfani](https://medium.com/@cscalfani/why-programmers-need-limits-3d96e1a0a6db#.im759kdjs)
@@ -2650,6 +2662,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Awesome Functional Programming [Links]- Denis Stoyanov](https://github.com/xgrommx/awesome-functional-programming)
 * [Functional Programming and Functional Thinking - Tony Morris](https://channel9.msdn.com/Blogs/Charles/YOW-2011-Tony-Morris-Functional-Programming-and-Functional-Thinking?ocid=relatedentry)
 * [Point-Free or Die - Tacit Programming in Haskell and Beyond - Amar Shah](https://www.youtube.com/watch?v=seVSlKazsNk)
+* [Designing with Capabilities - Scott Wlaschin](https://www.youtube.com/watch?v=fi1FsDW1QeY)
+* [Thirteen ways of looking at a Turtle - Scott Wlaschin (NDC {London} 2017)](https://www.youtube.com/watch?v=AG3KuqDbmhM)
 * [Selfish Purity: How Functional Programming Makes Every-Day Jobs Easier - Daniel Spiewak (Jfokus 2015)](https://www.youtube.com/watch?v=WupzbiMZrl8)
 * [What is functional programming? - Kris Jenkins](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 * [Why Bother With FP? - Tomek Borek (Lambda Days 2015)](https://www.youtube.com/watch?v=_bYkRXcf9sA)
@@ -2658,6 +2672,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional Programming from First Principles - Erik Meijer (goto; conference)](https://www.youtube.com/watch?v=a-RAltgH8tw)
 * [Why I Like Functional Programming - Adelbert Chang (LambdaConf 2015)](https://www.youtube.com/watch?v=tsHQEB_ftxc)
 * [Modeling your domain - Norbert Wojtowicz (Lambda Days 2016)](https://www.youtube.com/watch?v=UrGJHfB21Ok)
+* [Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
 * [Functional programming design patterns - Scott Wlaschin (New Developers Conference London 2014](https://www.youtube.com/watch?v=E8I19uA-wGY)
 * [F# for Fun and Profit: "I hope to open your mind to the joys of functional programming" - Scott Wlaschin](http://fsharpforfunandprofit.com/)
 * [Changing the Unchangeable: The Hows and Whys of Immutable Data Structures - Brad Urani (RubyConf 2015)](https://www.youtube.com/watch?v=gTClDj9Zl1g)
@@ -2738,7 +2753,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
 
-* [Category Theory for Programmers: The Preface - Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) & [Youtube lectures](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
+* [Category Theory for Programmers: The Preface - Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) | [PDF](https://github.com/hmemcpy/milewski-ctfp-pdf/releases/download/v0.4/category-theory-for-programmers.pdf) | [Youtube lectures](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 * [Practical Lambda Calculus - Jonas Winje, Einar Høst (Lambda Days 2017)](https://www.youtube.com/watch?v=G__eoJZB-zk)
 * [The Lambda Calculus, General Term Rewriting and Food Nutrition - Brian Beckman and Erik Meijer](https://channel9.msdn.com/Series/Beckman-Meijer-Overdrive/Beckman-Meijer-Overdrive-The-Lambda-Calculus-and-Food-Nutrition)
 * [Category Theory: The essence of interface-based design - Erik Meijer (Foo Cafe 2015)](https://www.youtube.com/watch?v=JMP6gI5mLHc)
@@ -2784,7 +2799,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - VIDEOS
 
+* International Conference on Functional Programming (ICFP): [2017](https://www.youtube.com/playlist?list=PLnqUlCo055hW7kU-SBQEhC_87etA5Gqlq) | [2016](https://www.youtube.com/playlist?list=PLnqUlCo055hV-Yb_88YYUC2ucaBKCWCsa) | [2015](https://www.youtube.com/playlist?list=PLnqUlCo055hWNtUo1Haoq347VhCqIjs7u)
+* Commercial Users of Functional Programming (CUFP): [2016](https://www.youtube.com/playlist?list=PLnqUlCo055hUaidgipB5HjDpUnskXgGJ1) | [2015](https://www.youtube.com/playlist?list=PLnqUlCo055hXArE00SkORNiK9fk54de2a)
+* Compose Conference: [2017](https://www.youtube.com/playlist?list=PLNoHgLVTxtaoolkQo4hLy4ZsA1prUJ51m) | [2016](https://www.youtube.com/playlist?list=PLNoHgLVTxtaqlT4xVx6_39jzcDe-ZF9V2)
+* Compose Conference Melbourne: [2017](https://www.youtube.com/playlist?list=PLNoHgLVTxtarRJWmMAs3RSy9BbB_TGlgj) | [2016](https://www.youtube.com/playlist?list=PLNoHgLVTxtaqo1c_V2I-8wkDrCGImb9v5)
 * [LDN Functionals (Functional Works)](https://www.youtube.com/channel/UCE6NivlVPGUn3TMtDAeL2vQ)
+* [All ICFP videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw/playlists)
 
 ## GIT
 
@@ -2846,6 +2866,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Modeling Data in Haskell for Beginners - Chris Allen (LambdaConf 2015)](https://www.youtube.com/watch?v=p-NBJm0kIYU)
 * [StackBuilers.com tutorials](https://stackbuilders.com/tutorials://stackbuilders.com/tutorials/) & [Github](https://github.com/stackbuilders/tutorial://github.com/stackbuilders/tutorials)
 * [Type Classes Vs the World - Edward Kmett (Boston Haskell 2015)](https://www.youtube.com/watch?v=hIZxTQP1ifo)
+* [Reflecting on Haskell in 2017 - Stephen Diehl](http://www.stephendiehl.com/posts/haskell_2018.html)
 
 ### HASKELL - BENEFITS
 
@@ -2914,6 +2935,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### HASKELL - VIDEOS
 
+* [Haskell eXchange 2017](https://skillsmatter.com/conferences/8522-haskell-exchange-2017#program)
+* Haskell Implementors' Workshop (HIW): [2017](https://www.youtube.com/playlist?list=PLnqUlCo055hX1F0PCi9FjdllYQMwCQvps)
+* [Haskell 2016 (Japan)](https://www.youtube.com/playlist?list=PLnqUlCo055hX8RkgLEjBYnETx6NuiL756)
+* [Haskell Keynotes ZuriHac 2017](https://www.youtube.com/playlist?list=PLOvRW_utVPVkoZ5GuodkejFU8MiH6_SB7)
 * [Haskell video collection (InfoQ)](http://www.infoq.com/haskell/)
 * [Modeling Data in Haskell for Beginners - Chris Allen (LambdaConf 2015)](https://www.youtube.com/watch?v=p-NBJm0kIYU)
 * [Haskell is Not For Production and Other Tales - Katie Miller (Linux.conf.au 2016)](https://www.youtube.com/watch?v=mlTO510zO78) | [slides](http://www.slideshare.net/KatieAtie/haskell-is-not-for-production-and-other-tales)
@@ -2994,6 +3019,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [HTML5 Please](http://html5please.com/)
 * [Build An HTML5 Website With A Responsive Layout - Traversy Media](https://www.youtube.com/watch?v=Wm6CUkswsNw)
 * [Web Development In 2017 - A Practical Guide - Traversy Media](https://www.youtube.com/watch?v=9hDKfBKuXjI)
+* [Web APIs You [Probably] Didn't Know Existed - (NEJS Conf)](https://www.youtube.com/watch?v=EZpdEljk5dY)
 * [Box shadows](http://codepen.io/bphillips201/details/JygKB)
 * [Can I Use?](http://caniuse.com/)
 * [Datalists](http://demo.agektmr.com/datalist/)
@@ -3007,6 +3033,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### HTML5 - INDEXED DB
 
+* [HTML5: How to Build Progressive Web Apps with Local Storage and IndexedDB - Brian Greig](https://www.youtube.com/watch?v=0S0FC-08VGA)
 * [Working With IndexedDB - Raymond Camden - Part 1](http://net.tutsplus.com/tutorials/javascript-ajax/working-with-indexeddb/) [Part 2](http://net.tutsplus.com/tutorials/javascript-ajax/working-with-indexeddb-part-2/) [Part 3](http://net.tutsplus.com/tutorials/javascript-ajax/working-with-indexeddb-part-3/)
 * [db.js (wrapper for IndexedDB)](http://aaronpowell.github.io/db.js/)
 * [indexeddb-backbonejs-adapter](https://github.com/superfeedr/indexeddb-backbonejs-adapter)
@@ -3037,6 +3064,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### HTML5 - SERVICEWORKERS
 
+* [Going offline with Service Workers - Phil Nash](https://www.youtube.com/watch?v=sTgN5rDC49A)
+* [How to Setup a Basic Service Worker (with Caching) - bitsofcode](https://www.youtube.com/watch?v=BfL3pprhnms)
 * [ServiceWorke.rs (Mozilla)](https://serviceworke.rs/)
 * [Offline Web Applications Using IndexedDb & Service Worker - Google (Udacity)](https://www.udacity.com/course/offline-web-applications--ud899)
 * [There is a client-side proxy (ServiceWorker) in your browser! - Ilya Grigorik (Velocity NYC 2015)](https://www.youtube.com/watch?v=etACK2qbHfc)
@@ -3256,16 +3285,27 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [JavaScript DOM Tutorial #9 - Events - Net Ninja](https://www.youtube.com/watch?v=ndz6iH6o1ms)
 
-### JAVASCRIPT - ES 2016
+### JAVASCRIPT - ES 2017 / ES8 / ECMASCRIPT 8
 
-* [ES 2016: The Evolution of Javascript - Jafar Husain (MountainWest JavaScript 2015)](http://confreaks.tv/videos/mwjs2015-javascript-7-the-evolution-of-javascript)
+* [JavaScript Editions ES7, ES8 and ES9 vs V8 - Rafael Casuso Romate](https://www.slideshare.net/RafaelCasusoRomate/javascript-editions-es7-es8-and-es9-vs-v8)
+* [3 Features of ES7 (and Beyond) That You Should Be Using, Now - Derick Bailey](https://derickbailey.com/2017/06/06/3-features-of-es7-and-beyond-that-you-should-be-using-now/)
+* [Getting Started with ES2017/ES8 - Roland Guijt (Pluralsight)](https://www.youtube.com/watch?v=vKhj2zoptMQ)
+* [Say Hello to ES2017 - Ryan H. Lewis](https://www.youtube.com/watch?v=LsynbD9gwqg)
+* [JavaScript Patterns for 2017 - Scott Allen](https://www.youtube.com/watch?v=hO7mzO83N1Q)
+
+### JAVASCRIPT - ES 2016 / ES7 / ECMASCRIPT 7
+
+* [Introducing the new features that ECMAScript 2016 (ES7) adds to JavaScript - Senket Meghani](https://medium.freecodecamp.org/ecmascript-2016-es7-features-86903c5cab70)
 
 ### JAVASCRIPT - ES 2015 / ES6 / ECMASCRIPT 6
 
+* [ES6 Cheatsheet - David Leonard](https://github.com/DrkSephy/es6-cheatsheet)
+* [Modern JavaScript Cheatsheet - Manuel Beaudru](https://github.com/mbeaudru/modern-js-cheatsheet)
 * [ES6 Part 1: Destructuring - funfunfunction](https://www.youtube.com/watch?v=PB_d3uBkQPs)
 * [Learn ES2015: A detailed overview of ECMAScript 6 features - Babeljs.io](http://babeljs.io/docs/learn-es2015/)
 * [ES6 In Depth Articles - Mozilla](https://hacks.mozilla.org/category/es6-in-depth/)
 * [Using JavaScript from the Future in Your Rails App Today - Steve Kinney (RailsConf 2015)](https://www.youtube.com/watch?v=Ayj1kgQNhAg)
+* [ES 2016: The Evolution of Javascript - Jafar Husain (MountainWest JavaScript 2015)](http://confreaks.tv/videos/mwjs2015-javascript-7-the-evolution-of-javascript)
 * [Essential ES6 / ES2015 JavaScript - Kyle Robinson Young](https://www.youtube.com/watch?v=CozSF5abcTA)
 * [ES6 Katas](http://es6katas.org/)
 * [Using ECMAScript 6 today - Dr. Axel Rauschmayer (RollingScopesConf 2015) - Part 1](https://www.youtube.com/watch?v=Fg3bEZIcnUw) & [Part 2](https://www.youtube.com/watch?v=Vhhq1WpzsnM) & [ECMAScript 6: what's next for JavaScript? (Frontendconf Zürich)](https://www.youtube.com/watch?v=G21rdWfa_as)
@@ -3445,6 +3485,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Hammer.js](http://hammerjs.github.io/)
 
+### JAVASCRIPT - HISTORY API
+
+* [JavaScript History API Basics - CodeCourse](https://www.youtube.com/watch?v=WwngGtboldU)
+
 ### JAVASCRIPT - JQUERY
 
 * [Official documentation](http://docs.jquery.com/)
@@ -3499,6 +3543,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - REACT.JS
 
+* Kent C. Dodds: [The Beginner's Guide to ReactJS](https://egghead.io/courses/the-beginner-s-guide-to-reactjs) & [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
 * [Hackr.io React resource list](https://hackr.io/tutorials/react)
 * [Getting Started](https://facebook.github.io/react/docs/getting-started.html) | [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html) | [Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [React + Redux + Webpack videos - Kurt Weiberth](https://www.youtube.com/playlist?list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg)
@@ -3668,6 +3713,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### LINUX - DEBIAN
 
 * [The Debian Administrator's Handbook - Raphaël Hertzog & Roland Mas](https://debian-handbook.info/browse/stable/index.html) & [PDF](https://debian-handbook.info/download/stable/debian-handbook.pdf)
+
+### LINUX - COMMAND LINE
+
+* TLDR Pages: Simplified and community-driven man pages: [website](http://tldr.sh) | [live demo](https://tldr.ostera.io/) | [installation](http://tldr.sh/#installation) | [PDF](http://tldr.sh/assets/tldr-book.pdf)
 
 ### LINUX - NETWORKING
 
@@ -4214,6 +4263,7 @@ Peter R. Egli:
 
 ## PROGRAMMING
 
+* [24-page zine collection of linux/systems comics - Julia Evans](https://jvns.ca/linux-comics-zine.pdf)
 * [Every Programmer Should Know - Alexey Migutsky](https://github.com/mr-mig/every-programmer-should-know/)
 * [Core Design Principles for Software Developers - Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
 * [Design Patterns in the Light of Lambda Expressions - Venkat Subramaniam](https://www.youtube.com/watch?v=e4MT_OguDKg)
