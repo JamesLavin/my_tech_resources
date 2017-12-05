@@ -6024,7 +6024,7 @@ Peter R. Egli:
 ### RUBY - FUTURE (AND CURRENT PROBLEMS)
 
 * [Keynote: The Soul of Software - Avdi Grimm (Tropical Ruby 2015)](http://tropicalrb.com/en/videos/) & [LoneStarRuby 2015](https://www.youtube.com/watch?v=zs0E4E83_X8)
-* [3 Reasons Not to Use Ruby - Sarah Allen (GoGaRuCo 2014)](http://confreaks.tv/videos/gogaruco2014-3-reasons-not-to-use-ruby)
+* [Three Reasons Not to Use Ruby - Sarah Allen (GoGaRuCo 2014)](http://confreaks.tv/videos/gogaruco2014-3-reasons-not-to-use-ruby)
 * [Panel: The Future of Ruby - Mark Bates, Sandi Metz, Ernie Miller, and Johnny Bourisquot (Burlington Ruby Conf 2014)](http://vimeo.com/album/2996485/video/103590400)
 * [Keynote - Ernie Miller (Burlington Ruby Conference 2014)](http://vimeo.com/album/2996485/video/103529608)
 * [Panel: Future of Rails Jobs - Obie Fernandez, Allan Grant, Chad Pytel, Jeff Casimir and Corey Haines (RailsConf 2014)](https://www.youtube.com/watch?v=4OCnxb0CoUo)
