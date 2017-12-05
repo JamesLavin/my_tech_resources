@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Elm](#elm) | [Erlang](#erlang) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Learning](#learning) | [Linux](#linux) | [Machine learning](#machine-learning) | [Maker movement](#maker) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free), [data analysis](#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Elm](#elm) | [Erlang](#erlang) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [HTML5](#html5) | [Javascript](#javascript) | [JRuby](#jruby) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](#python), [getting started](#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources#python---learning---books-free), [data analysis](#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](#rails) | [Ruby](#ruby) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## ALGORITHMS
 
@@ -413,7 +413,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## BUSINESS
 
-* [The Startup Playbook -Sam Altman](http://playbook.samaltman.com)
+* [The Startup Playbook - Sam Altman](http://playbook.samaltman.com)
 * [Lectures (by successful entrepreneurs) on "How to Start a Startup" (Stanford University)](http://startupclass.samaltman.com/)
 * [How to Build a Startup: The Lean LaunchPad - Steve Blank](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 * [Startup (podcast)](https://gimletmedia.com/show/startup/episodes/)
@@ -498,6 +498,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## CLEAN CODE
 
 * [Is Your Code Too SOLID? - Sarah Mei](http://forwardjs.com/university/is-your-code-too-solid)
+* [Move Slow and Mend Things - Kevlin Henney (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=1kklyq4XYpw)
 * [Why Senior Devs Write Dumb Code and How to Spot a Junior From A Mile Away - Scott Shipp](https://hackernoon.com/why-senior-devs-write-dumb-code-and-how-to-spot-a-junior-from-a-mile-away-27fa263b101a)
 * [Ideology - Gary Bernhardt (StrangeLoop 2015)](https://www.destroyallsoftware.com/talks/ideology)
 * [The Mediator Pattern - Brandur](https://brandur.org/mediator)
@@ -1052,6 +1053,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Kubernetes: [Docs](https://kubernetes.io/) | [Tutorials](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Tasks](https://kubernetes.io/docs/tasks/) | [Concepts](https://kubernetes.io/docs/concepts/) | [Github](https://github.com/kubernetes/kubernetes)
 * [Awesome-Kubernetes](https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/details)
 * [Kubernetes Youtube channel](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg)
+* [Kubernetes in Real Life - Ian Crosby (GOTO Conference 2017)](https://www.youtube.com/watch?v=UUt7SuG3nW4)
 * [Kubernetes Webinars - Janakiram & Associates](https://www.youtube.com/playlist?list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ)
 * kubectl: [Cheatsheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/) | [Overview](https://kubernetes.io/docs/user-guide/kubectl-overview/)
 * [Running Kubernetes in Production - Zalendo Tech](http://kubernetes-on-aws.readthedocs.io/en/latest/admin-guide/kubernetes-in-production.html) & [Kubernetes on AWS @Zalando - David Aronchick](https://www.youtube.com/watch?time_continue=2671&v=XmnhzEoengI)
@@ -1366,6 +1368,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Rebuilding the Mission Impossible security system in Elixir on RaspberryPi - Ju Liu](https://www.erlang-solutions.com/blog/rebuilding-the-mission-impossible-security-system-in-elixir-on-raspberrypi.html)
 * [Elixir Deep Dive: Evercam, a 10K LOC Phoenix app - Derek Haynes](https://hackernoon.com/elixir-deep-dive-evercam-a-10k-loc-phoenix-app-bd84bc20345d#.28z6nirlc)
 
+### ELIXIR - CODE QUALITY
+
+* [Keeping Code Consistent - Ben Marx (ElixirConf EU 2017)](https://www.youtube.com/watch?v=W1EzF4FdUxM)
+* [Refactoring Elixir: Lessons Learned from a Year on Exercism.io](https://www.youtube.com/watch?v=tJJMrtJEK1A)
+
 ### ELIXIR - COWBOY
 
 * Cowboy: [Github](https://github.com/ninenines/cowboy) | [User Guide](http://ninenines.eu/docs/en/cowboy/HEAD/guide/)
@@ -1373,6 +1380,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - COURSES (NON-FREE)
 
 * [DailyDrip.com - Elixir](https://www.dailydrip.com/topics/elixir)
+* [Pragmatic Studio](https://pragmaticstudio.com/courses/elixir)
 
 ### ELIXIR - DEBUGGING
 
@@ -1568,6 +1576,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Michael @ omgneering: [GenServer basics](https://www.youtube.com/watch?v=zC7TcrRi46Q) | [GenServer Callbacks and concurrency](Elixir GenServer callbacks and concurrency) | [Supervisor](https://www.youtube.com/watch?v=Gdf8JXeaPjw) | [Application (Part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM) | [Application (Part 2)](https://www.youtube.com/watch?v=rMwEQZewDyk)
 * [To spawn, or not to spawn? - Saša Jurić](http://www.theerlangelist.com/article/spawn_or_not)
 * [High availability with Elixir and Erlang - Saša Jurić (Full Stack Fest 2016)](https://www.youtube.com/watch?v=Ba3aCm3A0o8) & [High Availability - Saša Jurić](https://www.youtube.com/watch?v=wYttHG3S76Y)
+* [Elixir/Erlang OTP in Microservice Architecture - Thomas Newton (Microservices Day New York 2017](https://www.youtube.com/watch?v=-CIMUwX1OZY)
 * [Per-user workers with custom queue processing (using GenServer and Supervisor) - Adam Hodowany](https://www.youtube.com/watch?v=19JakddwsV8)
 * The Mix & OTP Guide: [(EPUB)](https://github.com/JamesLavin/my_tech_resources/raw/master/mix-and-otp.epub) | [Online](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 * [Creating Elixir libraries as OTP applications - Hubert Łępicki](https://www.amberbit.com/blog/2016/5/10/creating-elixir-libraries-as-otp-applications/)
@@ -1733,6 +1742,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - PROTOCOLS
 
+* [A Practical Guide to Elixir Protocols - Kevin Rockwood](https://www.youtube.com/watch?v=sJvfCE6PFxY)
 * [Polymorphism With Protocols in Elixir - Ilya Bodrov](https://code.tutsplus.com/articles/polymorphism-with-protocols-in-elixir--cms-29081)
 * [A Practical Guide to Elixir Protocols - Kevin Rockwood (ElixirConfEU 2017)](https://www.youtube.com/watch?v=sJvfCE6PFxY)
 
@@ -1794,6 +1804,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - UMBRELLA PROJECTS
 
+* [Umbrella Apps-Winter is coming - Luis Ferreira (Functional Conf 2017)](https://www.youtube.com/watch?v=vXTrLYAzOd0)
 * [Building Umbrella Projects - Wojtek Mach (ElixirConf 2016)](https://www.youtube.com/watch?v=6NTmUQClHrU) & [Acme Bank is an example project to explore and experiment with building modular and maintainable Elixir/Phoenix applications](https://github.com/wojtekmach/acme_bank)
 
 ### ELIXIR - VIDEOS
@@ -1917,6 +1928,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Using Elm in Production at Pivotal Tracker - Jeff Schomay](https://www.pivotaltracker.com/blog/Elm-pivotal-tracker)
 * [6 Months of Elm in Production - Richard Feldman (Forward University)](http://forwardjs.com/university/elm-in-production)
+* Integrating Elm at Clarity Voice - PragmaticStudio: [Part 1](https://pragmaticstudio.com/blog/2017/3/22/integrating-elm-at-clarity-voice-part1) & [Part 2](https://pragmaticstudio.com/blog/2017/4/5/integrating-elm-at-clarity-voice-part2)
+* [Web is ready for you, Elm - Birowsky](https://medium.freecodecamp.org/web-is-ready-for-you-on-line-elm-d3aa14dbf95)
 * [Growing the Oasis: Elm in Production - Richard Feldman (June 2015)](http://www.ustream.tv/recorded/64112108)
 * [What does it mean to use Elm? - Max Goldstein](https://hackernoon.com/what-does-it-mean-to-use-elm-cbf00d6bdfa5#.l6tde1si6)
 * [Elm-Friendly Functional Programming For The Web - Luke Westby (GOTO 2016)](https://www.youtube.com/watch?v=tN5UmM2yZPY)
@@ -2375,8 +2388,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Pooler Story: How I Learned OTP by Writing a Connection Pool - Seth Falcon (Erlang Factory SF 2013)](https://www.youtube.com/watch?v=BTuJtqvbpI8)
 * [The Zen of Erlang - Fred Hebert (Reactive Summit 2016)](https://www.youtube.com/watch?v=4ZIPijEqrNI)
 * [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM)
+* [Erlang Micro-Services with all the Buzzwords - Chad Gibbons (Erlang Users Conference 17](https://www.youtube.com/watch?v=9o-2K-5SaGw)
 * [OTP in Elixir: Part 1 - Christian Di Lorenzo (Triangle |> Elixir)](https://www.youtube.com/watch?v=_WgrfEaAM4Y)
 * [Erlang Design Principles](http://erlang.org/doc/design_principles/users_guide.html)
+* [A Peek Inside Erlang's OTP - Steve Vinoski(https://www.youtube.com/watch?v=PkHZPTn1brc)]
 * [It's About the Guarantees - Fred Hébert](http://ferd.ca/it-s-about-the-guarantees.html)
 
 ### ERLANG - PACKAGES
@@ -2420,7 +2435,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## EVENT SOURCING, CQRS, DDD, & MICROSERVICES
 
+* [How Events Are Reshaping Modern Systems - Jonas Bonér (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=3V3pHm2Cpks)
+* [Rethinking Microservices with Stateful Streams - Ben Stopford (Devoxx Poland 2017)](https://www.youtube.com/watch?v=hqt9QIhwAW8)
 * [Event Sourcing, Distributed Systems & CQRS - Sebastian Daschner](https://www.youtube.com/watch?v=CYocFQvl6s0&list=PLEV9ul4qfGOZ5gWIPMlFGMUpenSs1EvxZ) & [scalable-coffee-shop (event-driven example app in Java)](https://github.com/sdaschner/scalable-coffee-shop)
+* [How to build an event driven, dynamically re configurable micro services platform - Sven Beauprez (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=1D8hyLWMtfM)
 * [Exploring CQRS and Event Sourcing - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
 * [Introduction to CQRS and Event Sourcing Patterns - Mathew McLoughlin (NDC Conference 2017)](https://www.youtube.com/watch?v=9a1PqwFrMP0) & [example code](https://github.com/mat-mcloughlin/PatientMangement)
 * Scaling Event Sourcing for Netflix Downloads - Karen Casella, et al.: [Part 1](https://medium.com/netflix-techblog/scaling-event-sourcing-for-netflix-downloads-episode-1-6bc1595c5595) | [Episode 2](https://medium.com/netflix-techblog/scaling-event-sourcing-for-netflix-downloads-episode-2-ce1b54d46eec)
@@ -2447,6 +2465,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Commander: Better Distributed Applications through CQRS and Event Sourcing - Bobby Calderwood](https://www.youtube.com/watch?v=B1-gS0oEtYc) & [code](https://github.com/capitalone/cqrs-manager-for-distributed-reactive-services)
 * [Domain-Driven Design for the Database Driven Mind - Julie Lerman (2015)](https://www.youtube.com/watch?v=CjNBnkMHjh4)
 * [Built to last: A domain-driven approach to beautiful systems - Andrew Hao](https://www.youtube.com/watch?v=52qChRS4M0Y)
+* [Implementing an Event-Driven Microservices Architecture: A Case Study of Jet.com - Nikhil Barthwal (LambdaDays 2017)](https://www.youtube.com/watch?v=I7vdlpuRw5c)
 * [Conflict Resolution for Eventual Consistency - Martin Kleppmann (GOTO 2016)](https://www.youtube.com/watch?v=yCcWpzY8dIA)
 * [Microservices and the Inverse Conway Manoeuvre - James Lewis (NDC {London} 2017)](https://www.youtube.com/watch?v=uamh7xppO3E)
 * [Intro to CQRS and Event Sourcing Patterns - Mathew McLoughlin](https://www.youtube.com/watch?v=9a1PqwFrMP0)
@@ -2548,6 +2567,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Processing Streaming Data at a Large Scale with Kafka - Thijs Cadier (RailsConf 2017)](https://www.youtube.com/watch?v=-NMDqqW1uCE)
 * [Event sourcing in practise - lessons learned - Jfokus 2017](https://www.youtube.com/watch?v=_d4mAi3qkDA)
 * [Intro to Apache Kafka and Real-Time ETL for DBAs - Gwen Shapira and Jignesh Shah](https://www.youtube.com/watch?v=DRCu3ro1g9U)
+
+#### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - DELETING DATA
+
+* [Handling GDPR: How to make Kafka Forget - Ben Stopford](http://www.benstopford.com/2017/12/04/handling-gdpr-make-kafka-forget/)
+* [Delete Arbitrary Messages from a Kafka - Ben Stopford](http://www.benstopford.com/2017/10/06/confluent-schema-registry-failover-failback/)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA STREAMS
 
@@ -2652,6 +2676,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## FUNCTIONAL PROGRAMMING
 
+* [Plain Functional Programming - Martin Odersky (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=YXDm3WHZT5g)
 * [An introduction to functional programming - Mary Rose Cook](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 * [What Is Functional Programming? - Kris Jenkins](https://www.youtube.com/watch?v=xN1-mtw1Fns)
 * [Functional Programming Patterns for Mere Mortals - Daniel Chambers (NDC {Sydney} 2017)](https://www.youtube.com/watch?v=v9QGWbGppis)
@@ -2753,11 +2778,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
 
-* [Category Theory for Programmers: The Preface - Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) | [PDF](https://github.com/hmemcpy/milewski-ctfp-pdf/releases/download/v0.4/category-theory-for-programmers.pdf) | [Youtube lectures](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
+* Category Theory for Programmers - Bartosz Milewski: [Book PDF](https://github.com/hmemcpy/milewski-ctfp-pdf) & [Youtube lectures](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
+* [A Pragmatic Introduction to Category Theory - Daniela Sfregola (Lambda.World 2017)](https://www.youtube.com/watch?v=MvQxNm5gn8g)
+* [Category Theory in Life - Eugenia Cheng (Lambda.World 2017](https://www.youtube.com/watch?v=ho7oagHeqNc)
 * [Practical Lambda Calculus - Jonas Winje, Einar Høst (Lambda Days 2017)](https://www.youtube.com/watch?v=G__eoJZB-zk)
 * [The Lambda Calculus, General Term Rewriting and Food Nutrition - Brian Beckman and Erik Meijer](https://channel9.msdn.com/Series/Beckman-Meijer-Overdrive/Beckman-Meijer-Overdrive-The-Lambda-Calculus-and-Food-Nutrition)
 * [Category Theory: The essence of interface-based design - Erik Meijer (Foo Cafe 2015)](https://www.youtube.com/watch?v=JMP6gI5mLHc)
-* [Category Theory for the Working Hacker - Philip Wadler](https://www.infoq.com/presentations/category-theory-propositions-principle)
+* Category Theory for the Working Hacker - Philip Wadler: [InfoQ](https://www.infoq.com/presentations/category-theory-propositions-principle) & [Lambda.World 2016](https://www.youtube.com/watch?v=V10hzjgoklA)
+* [Cats Infographic - Rob Norris](https://github.com/tpolecat/cats-infographic)
 * [Introduction to Lambda Calculus - Henk Barendregt & Erik Barendsen (2000)](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf)
 * [Lecture Notes on the Lambda Calculus - Peter Selinger](http://www.mscs.dal.ca/~selinger/papers/lambdanotes.pdf)
 * [Intro to Lambda Calculus - Cristian Giumale](http://andrei.clubcisco.ro/cursuri/2pp/01.Lambda_calculus.pdf)
@@ -2803,6 +2831,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * Commercial Users of Functional Programming (CUFP): [2016](https://www.youtube.com/playlist?list=PLnqUlCo055hUaidgipB5HjDpUnskXgGJ1) | [2015](https://www.youtube.com/playlist?list=PLnqUlCo055hXArE00SkORNiK9fk54de2a)
 * Compose Conference: [2017](https://www.youtube.com/playlist?list=PLNoHgLVTxtaoolkQo4hLy4ZsA1prUJ51m) | [2016](https://www.youtube.com/playlist?list=PLNoHgLVTxtaqlT4xVx6_39jzcDe-ZF9V2)
 * Compose Conference Melbourne: [2017](https://www.youtube.com/playlist?list=PLNoHgLVTxtarRJWmMAs3RSy9BbB_TGlgj) | [2016](https://www.youtube.com/playlist?list=PLNoHgLVTxtaqo1c_V2I-8wkDrCGImb9v5)
+* Functional Conference (Bangalore): [2017 - FnConf2017](https://www.youtube.com/playlist?list=PL9Z-JgiTsOYRRnQ8iWIIQr01q_2euSyfD) | [2016 - FnConf2016](https://www.youtube.com/playlist?list=PL9Z-JgiTsOYTdi91N_DlcpWqkCYvMrhA4) | [2015 - FnConf2015](https://www.youtube.com/playlist?list=PL9Z-JgiTsOYSQRYRZixKd_HZ8_9ZWZMZR) | [2014 - FnConf2014](https://www.youtube.com/playlist?list=PL9Z-JgiTsOYQtmkFCroDGWTi8CJAKsTg8)
+* Lambda.World: [2017](https://www.youtube.com/watch?v=ho7oagHeqNc&list=PL4yAk3UBuBSrQXe_mZkR4khTNtQ_z5baQ) | [2016](https://www.youtube.com/watch?v=v354UNs57zQ&list=PL4yAk3UBuBSoH7MfYTGHYlKKeLb2b7QNe) | [2015](https://www.youtube.com/watch?v=oqES4x9NF08&list=PL4yAk3UBuBSobwxE4M_2V9DGMOUrkZGfa)
 * [LDN Functionals (Functional Works)](https://www.youtube.com/channel/UCE6NivlVPGUn3TMtDAeL2vQ)
 * [All ICFP videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw/playlists)
 
@@ -3280,6 +3310,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * Javascript DOM Crash Course - Traversy Media: [Part 1](https://www.youtube.com/watch?v=0ik6X4DJKCc) | [Part 2](https://www.youtube.com/watch?v=mPd2aJXCZ2g) | [Part 3](https://www.youtube.com/watch?v=wK2cBMcDTss) | [Part 4](https://www.youtube.com/watch?v=i37KVt_IcXw)
 * [Learn JavaScript By Building a Bookmarker Application - Traversy Media](https://www.youtube.com/watch?v=DIVfDZZeGxM)
 * [JavaScript DOM Tutorial - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V)
+* JavaScript and the DOM - @adamrecvlohe: [Part 1](https://www.youtube.com/watch?v=hM9h1wN4rfU) | [Part 2](https://www.youtube.com/watch?v=V2xVkb-_ySY)
+* [Intro to the Document Object Model - Stefan Mischook](https://www.youtube.com/watch?v=-0ZcldkGlt8)
 
 #### JAVASCRIPT - DOM - EVENTS
 
@@ -3417,6 +3449,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### JAVASCRIPT - FUNCTIONAL PROGRAMMING
 
 * [Functional Programming Basics in ES6 (JavaScript) - Jeremy Fairbank (Scenic City Summit 2016)](https://www.youtube.com/watch?v=HvMemAgOw6I)
+* [Functional-Light JavaScript - Kyle Simpson](https://github.com/getify/Functional-Light-JS)
 * [Gentle Intro to Functional Javascript - James Sinclair](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style/)
 * [Learning Functional Programming with JavaScript - Anjana Vakil (JSUnconf 2016)](https://www.youtube.com/watch?v=e-5obm1G_FY)
 * Functional Programming In JavaScript — With Practical Examples: [Part 1](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276#.8dao66cag) | [Part 2](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-2-429d2e8ccc9e)
@@ -3958,6 +3991,8 @@ Peter R. Egli:
 
 ## NEWS
 
+* [Unpaywall - "Legal, fair, and sustainable" Chrome plugin for "read[ing] over 52% of research papers for free"](http://unpaywall.org/)
+
 ### NEWS - EDUCATION
 
 * [EdSurge](https://www.edsurge.com/)
@@ -3986,7 +4021,7 @@ Peter R. Egli:
 ### NEWS - PROGRAMMING
 
 * [Application Development Trends](https://adtmag.com)
-* [arXiv.org - 1.3 million e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics](https://arxiv.org/)
+* [arXiv.org - 1.3 million e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics](https://arxiv.org/) | [Librarian: Chrome plugin for comments on arXiv papers](https://fermatslibrary.com/librarian)
 * [Computerworld](http://www.computerworld.com/)
 * [Dr. Dobb's](http://www.drdobbs.com/)
 * [DZone](https://dzone.com/)
@@ -4443,6 +4478,7 @@ Peter R. Egli:
 
 ### PROGRAMMING - VIDEOS
 
+* Devoxx: [Belgium 2017](https://www.youtube.com/playlist?list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo) | [Poland 2017](https://www.youtube.com/playlist?list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH)
 * [GOTO channel](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
   * [GOTO Chicago 2017](https://www.youtube.com/playlist?list=PLEx5khR4g7PJ94PpgvNx6WohYcGQHY9UJ)
   * [GOTO Amsterdam 2017](https://www.youtube.com/playlist?list=PLEx5khR4g7PLcjLdaugk3GndelpTGbYDS)
@@ -6017,6 +6053,11 @@ Peter R. Egli:
 * [Jubilee](https://github.com/isaiah/jubilee)
 * [6 Reasons Jubilee Could be a Rubyist's New Best Friend - Forrest Chang (RubyConf 2014)](http://confreaks.tv/videos/5014-RubyConf2014-6-reasons-jubilee-could-be-a-rubyist-s-new-best-friend)
 
+### RUBY - KAFKA
+
+* [Karafka - Framework for Apache Kafka based Ruby and Rails applications development](https://github.com/karafka/karafka)
+* [WaterDrop - Gem used to send messages to Kafka in an easy way with an extra validation layer](https://github.com/karafka/waterdrop)
+
 ### RUBY - LOGGING & PROBLEM DETECTION
 
 * [It’s Not in Production Unless it’s Monitored - Joseph Ruscio (RailsConf 2012)](http://confreaks.tv/videos/906-railsconf2012-its-not-in-production-unless-its-monitored)
@@ -6303,6 +6344,7 @@ Peter R. Egli:
 
 ### SCALA - FUNCTIONAL PROGRAMMING
 
+* [Cats: Lightweight, modular, and extensible library for functional programming](https://typelevel.org/cats/)
 * Intro to FP in Scala: Exploring a Toolbox for Solving Problems - Pawel Szulc (LambdaConf λC 2017): [Part 1](https://www.youtube.com/watch?v=jQ65HiG5m3c) | [Part 2](https://www.youtube.com/watch?v=ezCiPda6dzc) | [Part 3](https://www.youtube.com/watch?v=Lj0xDErblvk) | [Part 4](https://www.youtube.com/watch?v=xv7cVNFnGLU) | [Part 5](https://www.youtube.com/watch?v=TaFBNs7reeU) | [Part 6](https://www.youtube.com/watch?v=Og789wIwjvw)
 * [Real-World Functional Scala - Chris Birchall (Lambda World 2016)](https://www.youtube.com/watch?v=STPkPUPYDeg)
 * [Functional Programming Essentials - Kelley Robinson (GOTO 2017)](https://www.youtube.com/watch?v=Yc6nJZK39mU)
