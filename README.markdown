@@ -2050,7 +2050,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - COURSES (FREE)
 
-* [Elm for Beginners - KnowThen.com (James Moore)](http://courses.knowthen.com/p/elm-for-beginners)
+* KnowThen.com - James Moore: [Elm for Beginners](http://courses.knowthen.com/p/elm-for-beginners) | [Elm Beyond the Basics (non-free)](https://courses.knowthen.com/p/elm-beyond-the-basics) | [Beyond the Basics source companion](https://github.com/knowthen/elm-beyond-basics)
 * [Elm Koans - Robert J. Looby](https://github.com/robertjlooby/elm-koans)
 * [Elm - Ronn Ross & Murphy Randle (EggHead.io)](https://egghead.io/technologies/elm)
 * [Elm Meetup (DailyDrip.com)](https://www.dailydrip.com/topics/elm-remote-meetup)
@@ -2330,6 +2330,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * The Erlang Runtime System (a.k.a., The BEAM Book): [Github (source)](https://github.com/happi/theBeamBook) & [PDF](https://github.com/happi/theBeamBook/releases)
 * [Hitchhiker's Tour of the BEAM - Robert Virding](https://www.youtube.com/watch?v=_Pwlvy3zz9M)
 * [BEAM Wisdoms: collection of easy to read (ELI5) articles as well as in-depth knowledge such as VM internals, memory layout, opcodes](http://beam-wisdoms.clau.se/en/latest/)
+* [Erlang Garbage Collector - Lukas Larsson](https://www.erlang-solutions.com/blog/erlang-garbage-collector.html)
 * [The Erlang VM or How I Stopped Worrying & Started Loving Parallel Programming - E.Stenman (GOTO 2013)](https://www.youtube.com/watch?v=ArRr4trTCjQ)
 
 ### ERLANG - BLOGS
@@ -4641,6 +4642,10 @@ Peter R. Egli:
 * python-excel: [Website](http://www.python-excel.org/) & [Github](https://github.com/python-excel)
 * [pywin32](http://sourceforge.net/projects/pywin32/)
 
+#### PYTHON - DATA ANALYSIS - GENSIM
+
+* Gensim: [Github](https://github.com/RaRe-Technologies/gensim/#gensim--topic-modelling-in-python) | [Tutorials](https://github.com/RaRe-Technologies/gensim/blob/develop/tutorials.md) | [Quick Start Jupyter Notebook](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/gensim%20Quick%20Start.ipynb) | [API docs](http://radimrehurek.com/gensim/apiref.html)
+
 #### PYTHON - DATA ANALYSIS - KAYAK (DEEP NEURAL NETWORKS)
 
 * [Kayak - Library for Deep Neural Networks](https://github.com/HIPS/Kayak)
@@ -6057,7 +6062,7 @@ Peter R. Egli:
 ### RUBY - FUTURE (AND CURRENT PROBLEMS)
 
 * [Keynote: The Soul of Software - Avdi Grimm (Tropical Ruby 2015)](http://tropicalrb.com/en/videos/) & [LoneStarRuby 2015](https://www.youtube.com/watch?v=zs0E4E83_X8)
-* [Three Reasons Not to Use Ruby - Sarah Allen (GoGaRuCo 2014)](http://confreaks.tv/videos/gogaruco2014-3-reasons-not-to-use-ruby)
+* [3 Reasons Not to Use Ruby - Sarah Allen (GoGaRuCo 2014)](http://confreaks.tv/videos/gogaruco2014-3-reasons-not-to-use-ruby)
 * [Panel: The Future of Ruby - Mark Bates, Sandi Metz, Ernie Miller, and Johnny Bourisquot (Burlington Ruby Conf 2014)](http://vimeo.com/album/2996485/video/103590400)
 * [Keynote - Ernie Miller (Burlington Ruby Conference 2014)](http://vimeo.com/album/2996485/video/103529608)
 * [Panel: Future of Rails Jobs - Obie Fernandez, Allan Grant, Chad Pytel, Jeff Casimir and Corey Haines (RailsConf 2014)](https://www.youtube.com/watch?v=4OCnxb0CoUo)
@@ -6710,6 +6715,9 @@ Peter R. Egli:
 
 ## WEB DESIGN
 
+* [Dribbble: Show & tell for designers](https://dribbble.com/)
+* [SpeckyBoy](https://speckyboy.com/)
+* [25 Beautiful & Clean Web Design Examples](https://speckyboy.com/25-beautiful-clean-web-designs/)
 * [Web Fundamentals: Best practices for great multi-device web experiences (Google)](https://developers.google.com/web/fundamentals/?hl=en)
 * [Web Fundamentals: Optimizing Performance (Google)](https://developers.google.com/web/fundamentals/performance/?hl=en)
 
