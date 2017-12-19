@@ -192,6 +192,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ARTIFICIAL INTELLIGENCE (AI) - NOVELTY LEARNING
 
 * [Why Greatness Cannot Be Planned: The Myth of the Objective - Kenneth Stanley](https://www.youtube.com/watch?v=dXQPL9GooyI)
+* [Open-endedness: The last grand challenge you’ve never heard of - Kenneth O. Stanley, Joel Lehman, and Lisa Soros (December 2017)](https://www.oreilly.com/ideas/open-endedness-the-last-grand-challenge-youve-never-heard-of)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - OPEN AI
 
@@ -391,6 +392,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Phantom.js](http://phantomjs.org/)
 * [Selenium](http://docs.seleniumhq.org/)
 
+### BROWSERS - BEAKER BROWSER
+
+* [Beaker Browser - Peer-to-peer browser with tools to create and host websites](https://beakerbrowser.com/)
+* [IPFS.io - Peer-to-peer hypermedia protocol to make the web faster, safer, and more open](https://ipfs.io/)
+* [Dat Project - Data-sharing protocol for applications of the future](https://datproject.org/)
+
 ### BROWSERS - CHROME
 
 * [Extensions](https://developer.chrome.com/extensions)
@@ -503,6 +510,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ideology - Gary Bernhardt (StrangeLoop 2015)](https://www.destroyallsoftware.com/talks/ideology)
 * [The Mediator Pattern - Brandur](https://brandur.org/mediator)
 * ["The Mess We're In" - Joe Armstrong (StrangeLoop 2014)](https://www.youtube.com/watch?v=lKXe3HUG2l4)
+* [Creative Engineering: Promises & Razors - Insights into Rapid Development - Tom Mejias, Bill Robinson and Matteo Vallone](https://www.youtube.com/watch?v=qGieKHujkDY)
 * [The Failures of "Intro to TDD" - Justin Searls](http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html)
 * [Treat Your Code as a Crime Scene - Adam Tornhill](http://www.infoq.com/presentations/code-bugs-legacy-pitfalls)
 * [Code review advice from Thoughtbot](https://github.com/thoughtbot/guides/tree/master/code-review)
@@ -808,6 +816,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How does a relational database work - Christophe Kalenzaga](http://coding-geek.com/how-databases-work/)
 * [Transactions: myths, surprises and opportunities" - Martin Kleppmann (StrangeLoop 2015)](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 
+### DATABASES - NEO4J
+
+* [Website](https://neo4j.com/) | [Documentation](https://neo4j.com/docs/)
+
+#### DATABASES - NEO4J - ELIXIR/ERLANG
+
+* [Using Neo4j from Erlang and Elixir](https://neo4j.com/developer/erlang_elixir/)
+* [bolt_sips - Florin Patrascu](https://github.com/florinpatrascu/bolt_sips)
+* [neo4j_sips - Florin Patrascu](https://github.com/florinpatrascu/neo4j_sips)
+
 ### DATABASES - SQL
 
 * [Learn SQL: 50+ of the Best Online Educational Resources to Learn SQL and Relational Database Management - HackerLists.com](https://hackerlists.com/learn-sql-online/)
@@ -853,6 +871,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - CHAOS MONKEY, ETC
 
 * [Principles of Chaos](http://principlesofchaos.org/)
+* [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 * [Precision Chaos - Aaron Blohowiak (O'Reilly Velocity San Jose 2017)](https://www.youtube.com/watch?v=C11LNUEaHuo)
 * [ChAP: Chaos Automation Platform - Netflix](https://medium.com/netflix-techblog/chap-chaos-automation-platform-53e6d528371f)
 * [Chaos Engineering - Netflix](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
@@ -1064,6 +1083,14 @@ Links to resources I have found useful or think might be helpful to future me or
 #### DEVOPS - KUBERNETES - KUBECTX
 
 * [kubectx - Switch between Kubernetes contexts/namespaces](https://github.com/ahmetb/kubectx)
+
+#### DEVOPS - KUBERNETES - POWERFUL SEAL
+
+* [PowerfulSeal: adds chaos to your Kubernetes clusters, so that you can detect problems in your systems as early as possible. It kills targeted pods and takes VMs up and down - Bloomberg](https://github.com/bloomberg/powerfulseal)
+
+#### DEVOPS - KUBERNETES - VIDEOS
+
+[KubeCon + CloudNativeCon 2017 - Austin](https://www.youtube.com/playlist?list=PLj6h78yzYM2P-3-xqvmWaZbbI1sW-ulZb)
 
 ### DEVOPS - ISTIO.IO
 
@@ -2437,6 +2464,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [How Events Are Reshaping Modern Systems - Jonas Bonér (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=3V3pHm2Cpks)
 * [Rethinking Microservices with Stateful Streams - Ben Stopford (Devoxx Poland 2017)](https://www.youtube.com/watch?v=hqt9QIhwAW8)
+* [Building a Microservices Ecosystem with Kafka Streams and KSQL - Ben Stopford](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
 * [Event Sourcing, Distributed Systems & CQRS - Sebastian Daschner](https://www.youtube.com/watch?v=CYocFQvl6s0&list=PLEV9ul4qfGOZ5gWIPMlFGMUpenSs1EvxZ) & [scalable-coffee-shop (event-driven example app in Java)](https://github.com/sdaschner/scalable-coffee-shop)
 * [How to build an event driven, dynamically re configurable micro services platform - Sven Beauprez (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=1D8hyLWMtfM)
 * [Exploring CQRS and Event Sourcing - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
@@ -2542,6 +2570,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Papers & Presentations](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations)
     * [Wiki](https://cwiki.apache.org/confluence/display/KAFKA/Index)
     * [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
+* [Thorough Introduction to Apache Kafka™ - Stanislav Kozlovski](https://medium.com/@stanislavkozlovski/thorough-introduction-to-apache-kafka-6fbf2989bbc1)
 * [Publishing with Apache Kafka at The New York Times - Boerge Svingen (Confluent)](https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/)
 * [Kafka Summit NYC 2017 videos & slides](https://www.confluent.io/kafka-summit-nyc17/resource/)
 * Ben Stopford (Confluent): [The Data Dichotomy- Rethinking the Way We Treat Data and Services](https://vimeo.com/205275868/4f90eb476f) | [Building Event-Driven Services with Apache Kafka](https://vimeo.com/210647286/91a0bf8cb5) | [Putting the Micro into Microservices with Stateful Stream Processing](https://vimeo.com/214730078/d2c85c9227)
@@ -2606,6 +2635,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Things We Wish We Knew Before Operationalising Kafka - Sreekanth Ramakrishnan (BigData.SG & Hadoop.SG)](https://www.youtube.com/watch?v=MhyW1FUdN8I)
 * [Tuning Kafka for low latency guaranteed messaging -- Jiangjie (Becket) Qin (LinkedIn), 6/15/16](https://www.youtube.com/watch?v=oQe7PpDDdzA)
 * [Running Kafka in Production: lessons learned - Ivan Dyachkov (Klarna the KonferenSE 2016)](https://www.youtube.com/watch?v=xZ8qy5eDS48)
+* [Scaling Slack’s Job Queue - Saroj Yadav, et al. (Slack)](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - LOG PERSISTENCE
 
@@ -2778,6 +2808,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
 
+* [Crash Course in Category Theory - Bartosz Milewski (ScalaIO France 2017)](https://www.youtube.com/watch?v=JH_Ou17_zyU)
 * Category Theory for Programmers - Bartosz Milewski: [Book PDF](https://github.com/hmemcpy/milewski-ctfp-pdf) & [Youtube lectures](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 * [A Pragmatic Introduction to Category Theory - Daniela Sfregola (Lambda.World 2017)](https://www.youtube.com/watch?v=MvQxNm5gn8g)
 * [Category Theory in Life - Eugenia Cheng (Lambda.World 2017](https://www.youtube.com/watch?v=ho7oagHeqNc)
@@ -3577,6 +3608,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### JAVASCRIPT - REACT.JS
 
 * Kent C. Dodds: [The Beginner's Guide to ReactJS](https://egghead.io/courses/the-beginner-s-guide-to-reactjs) & [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
+* [React Starter Kit - Glitch.com](https://glitch.com/react-starter-kit)
 * [Hackr.io React resource list](https://hackr.io/tutorials/react)
 * [Getting Started](https://facebook.github.io/react/docs/getting-started.html) | [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html) | [Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [React + Redux + Webpack videos - Kurt Weiberth](https://www.youtube.com/playlist?list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg)
@@ -4442,6 +4474,7 @@ Peter R. Egli:
 * [Dr. Dobbs TV](http://www.drdobbs.com/tv/) (Video)
 * [Elixir Fountain](https://soundcloud.com/elixirfountain)
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
+* [Full Stack Radio](http://www.fullstackradio.com/episodes)
 * [FunctionalGeekery.com](https://www.functionalgeekery.com)
 * [Giant Robots](http://giantrobots.fm/)
 * [Hansel Minutes](http://www.hanselminutes.com/)
