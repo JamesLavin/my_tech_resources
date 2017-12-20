@@ -81,6 +81,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - CONVOLUTIONAL NEURAL NETS
 
+* [Feature Visualization: How neural networks build up their understanding of images - Chris Olah, Alexander Mordvintsev, and Ludwig Schubert](https://distill.pub/2017/feature-visualization/)
 * [What is wrong with convolutional neural nets? - Geoffrey Hinton](https://www.youtube.com/watch?v=rTawFwUvnLE)
 * [How Convolutional Neural Networks Work - Brandon Rohrer](https://www.youtube.com/watch?v=FmpDIaiMIeA)
 * [Friendly Introduction to Convolutional Neural Networks and Image Recognition - Luis Serrano](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
@@ -106,6 +107,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How Neural Networks Really Work - Geoffrey Hinton](https://www.youtube.com/watch?v=EInQoVLg_UY)
 * [A friendly introduction to Deep Learning and Neural Networks - Luis Serrano](https://www.youtube.com/watch?v=BR9h47Jtqyw)
 * [Deep Learning Demystified - Brandon Rohrer](https://www.youtube.com/watch?v=Q9Z20HCPnww)
+* [Livecoding Madness - Let's Build a Deep Learning Library - Joel Grus](https://www.youtube.com/watch?v=o64FV-ez6Gw)
 * [Deep Neural Networks with Tensorboard - Arpan Chakraborty & Luis Serrano (ODSC East 2017)](https://www.youtube.com/watch?v=QVeszB-4Zik) & [Tensorboard demos (Github)](https://github.com/PythonWorkshop/tensorboard_demos)
 * [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
 * [The Deep End of Deep Learning - Hugo Larochelle (TEDxBoston)](https://www.youtube.com/watch?v=dz_jeuWx3j0)
@@ -168,16 +170,19 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [arXiv.org machine learning articles](https://arxiv.org/list/stat.ML/recent)
 * [This Week in Machine Learning](https://medium.com/@david.joyner)
+* ["Deep Thinking" - Demis Hassabis interviews Garry Kasparov (Talks at Google)](https://www.youtube.com/watch?v=zhkTHkIZJEc)
 * [What Is Machine Learning? - Luis Serrano](https://www.youtube.com/watch?v=IpGxLWOIZy4)
 * [CS229: Machine Learning - Andrew Ng (Stanford University)](https://see.stanford.edu/Course/CS229)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - NEWS
 
 * [Chipin](https://www.chipin.com/artificial-intelligence/)
+* [Distill.pub](https://distill.pub/)
 * [Futurism](https://futurism.com/artificialintelligence/)
 * [Import AI Newsletter - Jack Clark](http://us13.campaign-archive1.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
 * [Kate Crawford](https://twitter.com/katecrawford)
 * [Machine Learnings](https://machinelearnings.co/)
+* [Marketing Artificial Intelligence Network](https://www.marketingaiinstitute.com/blog)
 * [The Next Web](https://thenextweb.com/artificial-intelligence/#.tnw_urviI0GS)
 * [Open AI](https://blog.openai.com/)
 * [Quartz - Dave Gershgorn](https://qz.com/author/dgershgornqz/)
@@ -431,6 +436,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [A Culture of Experimentation - Jeff Bezos (2005)](http://constantbetasoftware.com/2015/12/11/bezos-amazon-culture-of-experimentation.html)
 * [Observatory of Economic Complexity (interactive international trade data displayed using D3)](http://atlas.media.mit.edu/en/visualize/tree_map/hs92/export/usa/all/show/2013/)
 * [First Round Review](http://firstround.com/review/)
+
+### BUSINESS - ENTREPRENEURSHIP
+
+* [The Lean Start-up - Ash Maurya’s keynote speech (Start-up Showcase 2017)](https://www.youtube.com/watch?v=r8PjvpH4yng)
+* [The Lean Startup - Eric Ries (Talks at Google)](https://www.youtube.com/watch?v=fEvKo90qBns)
+* [Beyond the Business Model - Ash Maurya](https://www.youtube.com/watch?v=Qyq3SCxjqgE)
+* [The Customer Factory](https://www.youtube.com/watch?v=5iq3xDul0JY)
+* [Why Products Fail - Ash Maurya](https://www.youtube.com/watch?v=gOOIn7nmYvU)
+* [10 Steps to Product-Market Fit - Ash Maurya](https://www.youtube.com/watch?v=Nhl5nzUNQCA)
 
 ### BUSINESS - PODCASTS
 
@@ -762,7 +776,13 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DATA - NATURAL LANGUAGE PROCESSING (NLP)
 
+* [Common Crawl](http://commoncrawl.org/)
 * [Datasets for Natural Language Processing - Jason Brownlee](https://machinelearningmastery.com/datasets-natural-language-processing/)
+* [List of datasets for machine learning research - Wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research#Text_data)
+* [MC-AFP: machine comprehension dataset based on public available Gigaword dataset (AFP portion)](https://github.com/google/mcafp)
+* [Wikipedia 2014 data (DBpedia)](http://wiki.dbpedia.org/data-set-2014)
+* [DBpedia](http://wiki.dbpedia.org/Datasets)
+* [Wikipedia dataset](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
 
 ### DATA - PODCASTS
 
@@ -816,9 +836,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How does a relational database work - Christophe Kalenzaga](http://coding-geek.com/how-databases-work/)
 * [Transactions: myths, surprises and opportunities" - Martin Kleppmann (StrangeLoop 2015)](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 
+### DATABASES - JANUSGRAPH
+
+* JanusGraph: [Website](http://janusgraph.org/) | [Github](https://github.com/JanusGraph/janusgraph/) | [Documentation](http://docs.janusgraph.org/latest/) | [Getting Started](http://docs.janusgraph.org/latest/getting-started.html)
+
 ### DATABASES - NEO4J
 
 * [Website](https://neo4j.com/) | [Documentation](https://neo4j.com/docs/)
+* [Neo4j Graph Database - TutorialsPoint.com](https://www.tutorialspoint.com/neo4j/neo4j_tutorial.pdf)
 
 #### DATABASES - NEO4J - ELIXIR/ERLANG
 
@@ -862,6 +887,13 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - AWS (AMAZON WEB SERVICES)
 
 * [Getting Started with Managed Database Services on AWS - September 2016 Webinar Series](https://www.youtube.com/watch?v=nvh3XypRSq0)
+
+### DEVOPS - BACKUPS
+
+#### DEVOPS - BACKUPS - RESTIC
+
+* Restic: [Github.io](https://restic.github.io/) | [Documentation](https://restic.readthedocs.io/en/stable/) | [Github](https://github.com/restic/restic)
+* [How to configure Backblaze B2 with Restic on Linux - Roderick (Backblaze)](https://help.backblaze.com/hc/en-us/articles/115002880514-How-to-configure-Backblaze-B2-with-Restic-on-Linux)
 
 ### DEVOPS - BLOGS & PODCASTS
 
@@ -1877,6 +1909,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## ELM
 
 * An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
+* [Functional Programming in Elm - Evan Czaplicki](https://www.gitbook.com/book/evancz/functional-programming-in-elm/details)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
 * Jump starting Your Elm Skills - Murphy Randle (LambdaConf λC 2017): [Lecture Part 1](https://www.youtube.com/watch?v=hzXA5ytGYWI) | [Lecture Part 2](https://www.youtube.com/watch?v=5KpznaReVfQ) | [Hipstore documentation](https://hipstore.sploding.rocks/) | [Example Hipstore website](http://app.hipstore.sploding.rocks/)
 * [Why Elm? - Matthew Griffith](https://www.safaribooksonline.com/library/view/why-elm/9781491990728/)
@@ -2064,7 +2097,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - CSS & UI
 
 * [CSS As Bytecode - Richard Feldman (ReactiveConf 2017)](https://www.youtube.com/watch?v=bt1TzVngOqY)
-* Matthew Griffith: [Understanding Style - Elm Europe 2017](https://www.youtube.com/watch?v=NYb2GDWMIm0) | [style-elements: Create styles that don't mysteriously break!](https://github.com/mdgriffith/style-elements) | [elm-style-animation: The style animation library for Elm!](https://github.com/mdgriffith/elm-style-animation)
+* Matthew Griffith: [Understanding Style - Elm Europe 2017](https://www.youtube.com/watch?v=NYb2GDWMIm0) | [style-elements: Create styles that don't mysteriously break!](https://github.com/mdgriffith/style-elements) | [Introduction to Style Elements for Elm - Matthew D Griffith](https://mdgriffith.gitbooks.io/style-elements/content/) | [elm-style-animation: The style animation library for Elm!](https://github.com/mdgriffith/elm-style-animation)
 * [The Design Evolution of elm-css and elm-test - Richard Feldman (Oslo Elm Day 2017)](ihttps://www.youtube.com/watch?v=n5faeSW71ko)
 * [elm-css: Define CSS in Elm](http://package.elm-lang.org/packages/rtfeldman/elm-css/latest/)
 * [Elm UI - opinionated UI library and application framework for the web in Elm, following the Elm Architecture](https://github.com/gdotdesign/elm-ui)
@@ -2148,7 +2181,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm search (by function name or approximate type signature)](http://klaftertief.github.io/elm-search/)
 * [Elm devtool: attempt to use Elm's (time-traveling) debugger on Chrome DevTools](https://github.com/jinjor/elm-devtool)
 * [create-elm-app: Create Elm apps with zero configuration](https://github.com/halfzebra/create-elm-app)
-* [elm-vega: Elm-Vega/Lite integration for functional declarative visualization](https://github.com/gicentre/elm-vega)
+* [elm-vega: Elm-Vega/Lite integration for functional declarative visualization](https://github.com/gicentre/elm-vega) & [vega-lite](https://vega.github.io/vega-lite/) & [Vega](https://vega.github.io/)
+* [Kanelm - Kanban board](https://github.com/huytd/kanelm)
 * [elm-verify-examples (doctests)](https://github.com/stoeffel/elm-verify-examples)
 * [Elmalytics: view the Elm package and project ecosystem at a high level](http://elmalytics.xyz/)
 * [Trending packages on Github](https://github.com/trending/elm?since=daily)
@@ -2597,6 +2631,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Processing Streaming Data at a Large Scale with Kafka - Thijs Cadier (RailsConf 2017)](https://www.youtube.com/watch?v=-NMDqqW1uCE)
 * [Event sourcing in practise - lessons learned - Jfokus 2017](https://www.youtube.com/watch?v=_d4mAi3qkDA)
 * [Intro to Apache Kafka and Real-Time ETL for DBAs - Gwen Shapira and Jignesh Shah](https://www.youtube.com/watch?v=DRCu3ro1g9U)
+
+#### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - BLOGS
+
+* [Confluent blog](https://www.confluent.io/blog/)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - DELETING DATA
 
@@ -3062,6 +3100,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * [HTML Iframes, iframe Tag With All Attributes Explained - PJ Codingschool](https://www.youtube.com/watch?v=A3yBDVwODUc)
 * [IFrames in HTML for Code Reuse - Eli the Computer Guy](https://www.youtube.com/watch?v=d44cads61LA)
 
+### HTML - INDEXEDDB
+
+* [Working with Indexed DB - Google Chrome Developers](https://www.youtube.com/watch?v=vCumk1sXHcY)
+* [Getting Started with indexedDB - All Things Javascript](https://www.youtube.com/watch?v=g4U5WRzHitM)
+* [An empty database in every pocket - Phil Nash (Devoxx Poland 2017)](https://www.youtube.com/watch?v=_DuwZSXEwDg)
+
+### HTML - LOCALSTORAGE
+
+* [An Introduction to Local Storage with JavaScript - Zac Gordon](https://www.youtube.com/watch?v=T9GWHFDcELQ)
+
 ### HTML - SLIM
 
 * [Slim](http://slim-lang.com/): [Github code + examples](https://github.com/slim-template/slim) | [API docs](www.rubydoc.info/gems/slim/frames)
@@ -3116,6 +3164,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### HTML5 - PROGRESSIVE WEB APPS
 
+* [Progressive Web Apps Course - Google Chrome Developers](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAdnzEsWkg0KpMn2WJwMBmN)
 * [A Beginner’s Guide To Progressive Web Apps - Kevin Farrugia](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/)
 * [What are Progressive Web Apps? - Max Lynch](http://blog.ionic.io/what-is-a-progressive-web-app/)
 * [Everything You Should Know About Progressive Web Apps - Danny Markov](http://tutorialzine.com/2016/09/everything-you-should-know-about-progressive-web-apps/)
@@ -3126,6 +3175,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### HTML5 - SERVICEWORKERS
 
+* [Intro to Service Workers - Google Chrome Developers](https://www.youtube.com/watch?v=jVfXiv03y5c)
 * [Going offline with Service Workers - Phil Nash](https://www.youtube.com/watch?v=sTgN5rDC49A)
 * [How to Setup a Basic Service Worker (with Caching) - bitsofcode](https://www.youtube.com/watch?v=BfL3pprhnms)
 * [ServiceWorke.rs (Mozilla)](https://serviceworke.rs/)
@@ -4119,6 +4169,7 @@ Peter R. Egli:
 * [BBC](http://www.bbc.com/news/technology)
 * [Bloomberg](http://www.bloomberg.com/technology)
 * [Business Insider](http://www.businessinsider.com/sai)
+* [China Money Network](https://www.chinamoneynetwork.com/category/tech)
 * [CNBC](http://www.cnbc.com/technology/)
 * [Cnet](http://www.cnet.com/news/)
 * [CNN](http://www.cnn.com/TECH/)
@@ -4203,6 +4254,7 @@ Peter R. Egli:
 ### OCAML - REASON
 
 * [Reason](https://reasonml.github.io/)
+* [Reasonable App: starter kit for writing Elm apps with Reason on the JS side - Murphy "splodingsocks" Randle](https://github.com/splodingsocks/reasonable-app)
 
 ### OCAML - REASON - REASON REACT
 
@@ -4405,6 +4457,10 @@ Peter R. Egli:
 * [Stream processing, Event sourcing, Reactive, CEP… and making sense of it all - Martin Kleppmann](http://www.confluent.io/blog/making-sense-of-stream-processing/)
 * [An Event-driven and Reactive Future - Jonathan Worthington (FooCafe 2014)](https://www.youtube.com/watch?v=_VdIQTtRkb8)
 * [How To Be More Productive (With Streams) - Graham Hutton (C9 Lectures)](https://channel9.msdn.com/Shows/Going+Deep/C9-Lectures-Graham-Hutton-How-To-Be-More-Productive) | [PDF](http://www.cs.nott.ac.uk/~gmh/contractive.pdf) | [PPT](http://www.cs.nott.ac.uk/~gmh/contractive.ppt)
+
+### PROGRAMMING - HISTORY
+
+* [The Mother of All Demos, presented by Douglas Engelbart (1968)](https://www.youtube.com/watch?time_continue=4&v=yJDv-zdhzMY)
 
 ### PROGRAMMING - LANGUAGE CREATION
 
@@ -6395,6 +6451,10 @@ Peter R. Egli:
 * [Intro to Functional Programming in Scala - Joe Barnes](https://www.youtube.com/watch?v=2Ji5i0x2gJI)
 * [Programs as Values: Pure Composable Database Access in Scala - Rob Norris](https://www.youtube.com/watch?v=XHiTK4UOIf0)
 
+### SCALA - SCALAZ
+
+* [The Design of the Scalaz 8 Effect System - John A. De Goes (scale.bythebay.io)](https://www.youtube.com/watch?v=wi_vLNULh9Y)
+
 ### SCALA - VIDEOS
 
 * Scala Days: [2017](https://www.youtube.com/playlist?list=PLLMLOC3WM2r5Ei2mnSHCD-ZD04AXovttL) | [2016](https://www.youtube.com/playlist?list=PLLMLOC3WM2r4aQCKJxxPlrEhJ8tdGWjXj)
@@ -6422,6 +6482,7 @@ Peter R. Egli:
 
 ## SECURITY
 
+* [Frank Abagnale: "Catch Me If You Can" | Talks at Google](https://www.youtube.com/watch?v=vsMydMDi3rI)
 * [Awesome Hacking: A collection of awesome lists for hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hackin://github.com/Hack-with-Github/Awesome-Hacking)
 * [BadSSL.com - See how your browser behaves when SSL is incorrectly configured](https://badssl.com/)
 * [Computer Systems Security - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
