@@ -262,6 +262,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - REAL-WORLD EXAMPLES
 
+* [Google’s voice-generating AI is now indistinguishable from humans - Dave Gershgorn](https://qz.com/1165775/googles-voice-generating-ai-is-now-indistinguishable-from-humans/)
 * [CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning - Stanford ML Group](https://stanfordmlgroup.github.io/projects/chexnet/)
 * [Artificial intelligence goes deep to beat humans at poker - Tonya Riley (Science)](http://www.sciencemag.org/news/2017/03/artificial-intelligence-goes-deep-beat-humans-poker) & [How an AI took down four world-class poker pros - Chris Valazco (Engadget)](https://www.engadget.com/2017/02/10/libratus-ai-poker-winner/)
 * [The AI Race - Australian Broadcasting Corporation](https://www.youtube.com/watch?v=gLeuCj0ZFo4)
@@ -448,8 +449,16 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### BUSINESS - PODCASTS
 
+* [Business Book of the Month](http://www.businessbookofthemonth.com/)
+* [Freakonomics Radio](http://freakonomics.com/archive/)
+* [Masters of Scale](https://mastersofscale.com/)
+* [Meaningful Show](http://www.meaningfulhq.com/)
+* [Nice Guys on Business](http://www.niceguysonbusiness.com/episodes/)
+* [Rework (Basecamp)](https://rework.fm/)
+* [Simplify](https://www.blinkist.com/simplify)
 * [Startup Success Podcast](http://startupsuccesspodcast.com/)
 * [The Tim Ferriss Show](http://tim.blog/podcast/)
+* [The Tony Robbins Podcast](https://www.tonyrobbins.com/podcasts/)
 
 ## CHARACTERS
 
@@ -1790,6 +1799,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PODCASTS
 
+* [ElixirTalk](https://itunes.apple.com/us/podcast/elixirtalk/id1298287048)
 * [Elixir Fountain](https://soundcloud.com/elixirfountain)
 
 #### ELIXIR - PROJECTS
@@ -1989,6 +1999,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Using Elm in Production at Pivotal Tracker - Jeff Schomay](https://www.pivotaltracker.com/blog/Elm-pivotal-tracker)
 * [6 Months of Elm in Production - Richard Feldman (Forward University)](http://forwardjs.com/university/elm-in-production)
 * Integrating Elm at Clarity Voice - PragmaticStudio: [Part 1](https://pragmaticstudio.com/blog/2017/3/22/integrating-elm-at-clarity-voice-part1) & [Part 2](https://pragmaticstudio.com/blog/2017/4/5/integrating-elm-at-clarity-voice-part2)
+* [On Storytelling - Evan Czaplicki (Deconstruct 2017)](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling)
 * [Web is ready for you, Elm - Birowsky](https://medium.freecodecamp.org/web-is-ready-for-you-on-line-elm-d3aa14dbf95)
 * [Growing the Oasis: Elm in Production - Richard Feldman (June 2015)](http://www.ustream.tv/recorded/64112108)
 * [What does it mean to use Elm? - Max Goldstein](https://hackernoon.com/what-does-it-mean-to-use-elm-cbf00d6bdfa5#.l6tde1si6)
@@ -2098,6 +2109,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [CSS As Bytecode - Richard Feldman (ReactiveConf 2017)](https://www.youtube.com/watch?v=bt1TzVngOqY)
 * Matthew Griffith: [Understanding Style - Elm Europe 2017](https://www.youtube.com/watch?v=NYb2GDWMIm0) | [style-elements: Create styles that don't mysteriously break!](https://github.com/mdgriffith/style-elements) | [Introduction to Style Elements for Elm - Matthew D Griffith](https://mdgriffith.gitbooks.io/style-elements/content/) | [elm-style-animation: The style animation library for Elm!](https://github.com/mdgriffith/elm-style-animation)
+* Bill Peregoy: [Test-Driving the Elm Style Elements Library](https://becoming-functional.com/test-driving-the-elm-style-elements-library-7e7771c4159a) & [Responsive Design with Elm Style Elements](https://becoming-functional.com/responsive-design-with-elm-style-elements-9d0eca8eb9ed)
 * [The Design Evolution of elm-css and elm-test - Richard Feldman (Oslo Elm Day 2017)](ihttps://www.youtube.com/watch?v=n5faeSW71ko)
 * [elm-css: Define CSS in Elm](http://package.elm-lang.org/packages/rtfeldman/elm-css/latest/)
 * [Elm UI - opinionated UI library and application framework for the web in Elm, following the Elm Architecture](https://github.com/gdotdesign/elm-ui)
@@ -4520,6 +4532,7 @@ Peter R. Egli:
 * [Ultimate List Of Developer Podcasts - John Sonmez](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/)
 * [a16z - Andreessen Horowitz](http://a16z.com/podcasts/)
 * [Advance Tech Podcasts](https://advancetechmedia.org/)
+* [Art of Product](http://artofproductpodcast.com/)
 * [The Big Web Show](http://5by5.tv/bigwebshow)
 * [The Bikeshed](http://bikeshed.fm/)
 * [The Changelog](https://changelog.com/podcast/)
@@ -4530,6 +4543,7 @@ Peter R. Egli:
 * [Developer On Fire](http://developeronfire.com/)
 * [Dr. Dobbs TV](http://www.drdobbs.com/tv/) (Video)
 * [Elixir Fountain](https://soundcloud.com/elixirfountain)
+* [Exponent](http://exponent.fm/)
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
 * [Full Stack Radio](http://www.fullstackradio.com/episodes)
 * [FunctionalGeekery.com](https://www.functionalgeekery.com)
