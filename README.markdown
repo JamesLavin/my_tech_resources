@@ -179,6 +179,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Chipin](https://www.chipin.com/artificial-intelligence/)
 * [Distill.pub](https://distill.pub/)
 * [Futurism](https://futurism.com/artificialintelligence/)
+* [HackerNoon.com](https://hackernoon.com/artificial-intelligence/home)
 * [Import AI Newsletter - Jack Clark](http://us13.campaign-archive1.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
 * [Kate Crawford](https://twitter.com/katecrawford)
 * [Machine Learnings](https://machinelearnings.co/)
@@ -263,6 +264,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ARTIFICIAL INTELLIGENCE (AI) - REAL-WORLD EXAMPLES
 
 * [Google’s voice-generating AI is now indistinguishable from humans - Dave Gershgorn](https://qz.com/1165775/googles-voice-generating-ai-is-now-indistinguishable-from-humans/)
+* [AlphaZero: DeepMind's New Chess AI | Two Minute Papers #216](https://www.youtube.com/watch?v=2ciR6rA85tg)
 * [CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning - Stanford ML Group](https://stanfordmlgroup.github.io/projects/chexnet/)
 * [Artificial intelligence goes deep to beat humans at poker - Tonya Riley (Science)](http://www.sciencemag.org/news/2017/03/artificial-intelligence-goes-deep-beat-humans-poker) & [How an AI took down four world-class poker pros - Chris Valazco (Engadget)](https://www.engadget.com/2017/02/10/libratus-ai-poker-winner/)
 * [The AI Race - Australian Broadcasting Corporation](https://www.youtube.com/watch?v=gLeuCj0ZFo4)
@@ -376,6 +378,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### BLOCKCHAINS - BITCOIN
 
+* [Ten years in, nobody has come up with a use for blockchain - Kai Stinchcombe](https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100)
 * [Bitcoin -- distributing power & trust - Eric Spano (TEDxConcordia)](https://www.youtube.com/watch?v=WI1pbHi1fww)
 
 ## BOOKS
@@ -818,6 +821,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Datomic.com](http://www.datomic.com/)
 
+### DATABASES - COUCHDB
+
+* [CouchDB API docs](http://docs.couchdb.org/en/2.1.1/api/index.html) | [Wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Apache+CouchDB+Wiki) | [Blog](https://blog.couchdb.org/)
+* [Running a CouchDB 2.0 Cluster in Production on AWS with Docker - Geoff Cox](https://hackernoon.com/running-a-couchdb-2-0-cluster-in-production-on-aws-with-docker-50f745d4bdbc)
+* [rxjs-couchdb](https://github.com/ponyesteves/rxjs-couchdb)
+
 ### DATABASES - GRAPHQL
 
 * [GraphQL: Data query language and runtime](http://graphql.org/) | [GitHub](https://github.com/graphql)
@@ -849,6 +858,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * JanusGraph: [Website](http://janusgraph.org/) | [Github](https://github.com/JanusGraph/janusgraph/) | [Documentation](http://docs.janusgraph.org/latest/) | [Getting Started](http://docs.janusgraph.org/latest/getting-started.html)
 
+### DATABASES - KINTO
+
+* [Kinto with Alexis Metaireau and Mathieu Leplatre (Podcast.__init__)](https://www.podcastinit.com/episode-86-kinto-with-alexis-metaireau-and-mathieu-leplatre/)
+
 ### DATABASES - NEO4J
 
 * [Website](https://neo4j.com/) | [Documentation](https://neo4j.com/docs/)
@@ -859,6 +872,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Using Neo4j from Erlang and Elixir](https://neo4j.com/developer/erlang_elixir/)
 * [bolt_sips - Florin Patrascu](https://github.com/florinpatrascu/bolt_sips)
 * [neo4j_sips - Florin Patrascu](https://github.com/florinpatrascu/neo4j_sips)
+
+### DATABASES - POUCHDB
+
+* [Intro to PouchDB](https://pouchdb.com/guides/)
+* [PouchDB Tutorial - TutorialsPoint.com](https://www.tutorialspoint.com/pouchdb/pouchdb_tutorial.pdf)
+* [pouchdb-authentication](https://www.npmjs.com/package/pouchdb-authentication)
+* [pouchdb-find](https://www.npmjs.com/package/pouchdb-find)
+* [Getting started with PouchDB and CouchDB - Nolan Lawson](https://www.youtube.com/watch?v=-Z7UF2TuSp0)
+* [Offline-First Apps with PouchDB - Bradley Holt](https://www.youtube.com/watch?v=7L7esHWAjSU)
+* [PouchDB Tutorial - Kaushik Paul](http://knowledgeredbox.com/category/database-tutorial/pouchdb-tutorial/)
 
 ### DATABASES - SQL
 
@@ -1921,6 +1944,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
 * [Functional Programming in Elm - Evan Czaplicki](https://www.gitbook.com/book/evancz/functional-programming-in-elm/details)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
+* [Elm From Scratch - Daniel Bachler](https://www.gitbook.com/book/danyx23/elm-from-scratch/details)
+* [Learn You an Elm - Miran Lipovača](http://learnyouanelm.github.io/)
 * Jump starting Your Elm Skills - Murphy Randle (LambdaConf λC 2017): [Lecture Part 1](https://www.youtube.com/watch?v=hzXA5ytGYWI) | [Lecture Part 2](https://www.youtube.com/watch?v=5KpznaReVfQ) | [Hipstore documentation](https://hipstore.sploding.rocks/) | [Example Hipstore website](http://app.hipstore.sploding.rocks/)
 * [Why Elm? - Matthew Griffith](https://www.safaribooksonline.com/library/view/why-elm/9781491990728/)
 * [Elmseeds - Erik Person](https://elmseeds.thaterikperson.com) & [All episodes](https://elmseeds.thaterikperson.com/archive/)
@@ -2221,7 +2246,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - PHOENIX & ELM
 
-* [Phoenix & Elm landing page (pt.1) - Ricardo García Vega](http://codeloveandboards.com/blog/2017/12/02/phoenix-elm-landing-page-pt-1/)
+* [Phoenix & Elm landing page (pt.1) - Ricardo García Vega](http://codeloveandboards.com/blog/2017/12/02/phoenix-elm-landing-page-pt-1/) & [Part 2](http://codeloveandboards.com/blog/2017/12/23/phoenix-elm-landing-page-pt-2/)
 * [firestorm: open-source forum engine with Elixir+Phoenix backend and Elm frontend - Josh Adams](https://github.com/dailydrip/firestorm)
 * [phoenix-elm-scaffold - Andrew MacMurray](https://github.com/andrewMacmurray/phoenix-elm-scaffold)
 * Bill Peregoy: Integrating Phoenix and Elm [Part 1](https://becoming-functional.com/integrating-phoenix-and-elm-part-1-b66cf4294d13) & [Part 2](https://becoming-functional.com/integrating-phoenix-and-elm-part-2-b611871cd70f) & [elm-divide Github repo](https://github.com/billperegoy/elm-divide)
@@ -3543,6 +3568,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### JAVASCRIPT - FUNCTIONAL PROGRAMMING
 
 * [Functional Programming Basics in ES6 (JavaScript) - Jeremy Fairbank (Scenic City Summit 2016)](https://www.youtube.com/watch?v=HvMemAgOw6I)
+* [Full Stack Functional JavaScript - Tom Wilson (Syntax Conference 2017)](https://www.youtube.com/watch?v=nLzuj66rITk)
 * [Functional-Light JavaScript - Kyle Simpson](https://github.com/getify/Functional-Light-JS)
 * [Gentle Intro to Functional Javascript - James Sinclair](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style/)
 * [Learning Functional Programming with JavaScript - Anjana Vakil (JSUnconf 2016)](https://www.youtube.com/watch?v=e-5obm1G_FY)
@@ -3703,6 +3729,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to Redux - Alex Bachux](https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/)
 * [The Problem with Redux... And How to Fix It - Matthew Gertner](http://blog.javascripting.com/2016/05/21/the-problem-with-redux-and-how-to-fix-it/)
 * [redux-elm: The Elm Architecture in JavaScript - Matthew Gertner](https://github.com/salsita/redux-el://github.com/salsita/redux-elm) | [online book of example code](http://salsita.github.io/redux-elm/)
+
+### JAVASCRIPT - RXJS
+
+* [RxJS - What and Why? - Academind](https://www.youtube.com/watch?v=T9wOu11uU6U)
+* [RxJS Quick Start with Practical Examples](https://www.youtube.com/watch?v=2LCo926NFLI)
 
 ### JAVASCRIPT - TESTING
 
@@ -4121,6 +4152,7 @@ Peter R. Egli:
 * [Dr. Dobb's](http://www.drdobbs.com/)
 * [DZone](https://dzone.com/)
 * [Enterprise Apps Today](http://www.enterpriseappstoday.com/)
+* [HackerNoon.com](https://hackernoon.com/tagged/software-development)
 * [Huffington Post](http://www.huffingtonpost.com/news/computer-programming/)
 * [I Programmer](http://www.i-programmer.info/)
 * [InfoQ](http://www.infoq.com/news/)
@@ -4563,6 +4595,12 @@ Peter R. Egli:
 * [Toolsday.io](http://toolsday.io/)
 * [Turing-Incomplete](http://turing.cool/)
 * [The Web Ahead](http://5by5.tv/webahead)
+
+### PROGRAMMING - STREAM PROCESSING
+
+* [Stream Handbook - Doug McIlroy](https://github.com/substack/stream-handbook)
+* [Learn RxJS - Brian Troncone](https://www.learnrxjs.io/)
+* [RxMarbles.com](http://rxmarbles.com/)
 
 ### PROGRAMMING - TECHNICAL DEBT
 
