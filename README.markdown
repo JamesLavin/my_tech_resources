@@ -4446,6 +4446,10 @@ Peter R. Egli:
 * [BottledWater: Change data capture from PostgreSQL into Kafka (Confluent.com)](https://github.com/confluentinc/bottledwater-pg)
 * [repmgr: Replication Manager for PostgreSQL](https://github.com/2ndQuadrant/repmgr)
 
+### POSTGRESQL - TIMESCALEDB
+
+* TimescaleDB: open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension: [Github](https://github.com/timescale/timescaledb/) | [Timescale.com](http://www.timescale.com/)
+
 ### POSTGRESQL - VIDEOS
 
 * [PGCon 2015 videos](https://www.citusdata.com/resources/citus-data-videos)
