@@ -446,9 +446,16 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### BUSINESS - ENTREPRENEURSHIP
 
+* [13 Reasons My Startup FAILED - Russell Keith-Magee (Djangocon.us 2017)](https://www.youtube.com/watch?v=OOTThZReAdA)
 * [The Lean Start-up - Ash Maurya’s keynote speech (Start-up Showcase 2017)](https://www.youtube.com/watch?v=r8PjvpH4yng)
 * [The Lean Startup - Eric Ries (Talks at Google)](https://www.youtube.com/watch?v=fEvKo90qBns)
+* [The single biggest reason why startups succeed - Bill Gross (TED)](https://www.youtube.com/watch?v=bNpx7gpSqbY)
 * [Beyond the Business Model - Ash Maurya](https://www.youtube.com/watch?v=Qyq3SCxjqgE)
+* [10 Things The Rich Do That The Poor Don't - Why You Are Still Broke - Practical Wisdom](https://www.youtube.com/watch?v=nr76bupxjco)
+* [The surprising habits of original thinkers - Adam Grant (TED)](https://www.youtube.com/watch?v=fxbCHn6gE3U)
+* [Five Lessons I Learned From Failing A Start-Up - Yashash Agarwal (TEDxJGU)](https://www.youtube.com/watch?v=kowJmwHqqOQ)
+* [What college students need to know before starting a business - Jan Bednar (TEDxBocaRaton)](https://www.youtube.com/watch?v=63tVsJI31Tk)
+* [Why Most Entrepreneurs Are Slowly Killing Themselves - Phil Drolet (TEDxMileHigh)](https://www.youtube.com/watch?v=-M9i3-QhWzg)
 * [The Customer Factory](https://www.youtube.com/watch?v=5iq3xDul0JY)
 * [50 Entrepreneurs share priceless advice - Blockshelf](https://www.youtube.com/watch?v=QoqohmccTSc)
 * [Why Products Fail - Ash Maurya](https://www.youtube.com/watch?v=gOOIn7nmYvU)
@@ -971,6 +978,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Deep Dive on Amazon Relational Database Service (RDS) - Brian Welcker (AWS re:Invent 2017)](https://www.youtube.com/watch?v=TJxC-B9Q9tQ)
 * [Announcing Amazon Aurora with PostgreSQL Compatibility - January 2017 AWS Onlin](https://www.youtube.com/watch?v=4jslgOGsBb4)
 * [Using Performance Insights to Analyze Performance of Amazon Aurora PostgreSQL](https://www.youtube.com/watch?v=4462hcfkApM)
+
+### DEVOPS - AWS (AMAZON WEB SERVICES) - EKS (ELASTIC CONTAINER SERVICE FOR KUBERNETES)
+
+* [Introducing Amazon EKS - Brandon Chavis (AWS re:Invent 2017)](https://www.youtube.com/watch?v=WHTejF3W0s4)
+* [Deep Dive Into Amazon EKS - (AWS re:Invent 2017)](https://www.youtube.com/watch?v=vrYLrx-a_Wg)
 
 ### DEVOPS - BACKUPS
 
@@ -1618,6 +1630,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * Ecto: [documentation](https://hexdocs.pm/ecto/Ecto.html) | [Github](https://github.com/elixir-lang/ecto) | [discussion forum](https://groups.google.com/forum/#!forum/elixir-ecto)
 * [Using Ecto outside of Phoenix by Geoffrey Lessel (Lonestar ElixirConf 2017)](https://www.youtube.com/watch?v=PWJpSRUJDwk) & [An Intro to Ecto: Using Ecto in Non-Phoenix Elixir Projects - Geoffrey Lessel (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=8j3DLfNI6Jw)
 * [Embrace the Database With Ecto - Josh Branchaud (ElixirDaze 2017)](https://www.youtube.com/watch?v=fFqsMWmONN4)
+* Thinking in Ecto - Peter de Croos: [Part 1: Schemas and Changesets](http://cultofmetatron.io/2017/04/22/thinking-in-ecto---schemas-and-changesets/) | [Part 2: Queries and Relations](http://cultofmetatron.io/2017/04/25/thinking-in-ecto-part-2/)
+* [Ecto 2.1 Tip and Tricks - (Elixir Sydney)](https://www.youtube.com/watch?v=PGZ94AMMTPs)
 * [Leveling Up With Ecto - Darin Wilson (ElixirConf 2016)](https://www.youtube.com/watch?v=QE7bpqpDoKo) | [code](https://github.com/darinwilson/music_db)
 * Lew Parker: [Diving into Ecto - 1](http://www.glydergun.com/diving-into-ecto/) | [Diving into Ecto - 2](http://www.glydergun.com/diving-into-ecto-part-2/) | [Ecto Query Library](http://www.glydergun.com/the-ecto-query-library/)
 * Understanding Elixir’s Ecto Querying DSL - Thomas Punt: [The Basics](https://www.sitepoint.com/understanding-elixirs-ecto-querying-dsl-the-basics/) | [Beyond the Basics](https://www.sitepoint.com/elixirs-ecto-querying-dsl-beyond-the-basics/)
@@ -2456,6 +2470,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [MostlyErlang.com](http://mostlyerlang.com/)
 * [Erlang: the Power of Functional Programming - Simon Thompson (EFLBA2017)](https://www.youtube.com/watch?v=pJwfyPV_V_o)
 
+### ERLANG - ALPACA
+
+* [Alpaca: Functional programming inspired by ML for the Erlang VM](https://github.com/alpaca-lang/alpaca)
+
 ### ERLANG - BEAM
 
 * The Erlang Runtime System (a.k.a., The BEAM Book): [Github (source)](https://github.com/happi/theBeamBook) & [PDF](https://github.com/happi/theBeamBook/releases)
@@ -2596,6 +2614,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## EVENT SOURCING, CQRS, DDD, & MICROSERVICES
 
 * [How Events Are Reshaping Modern Systems - Jonas Bonér (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=3V3pHm2Cpks)
+* [Building Event Driven Services with Apache Kafka and Kafka Streams - Ben Stopford (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=p9wcx3aTjuo)
 * [Rethinking Microservices with Stateful Streams - Ben Stopford (Devoxx Poland 2017)](https://www.youtube.com/watch?v=hqt9QIhwAW8)
 * [Building a Microservices Ecosystem with Kafka Streams and KSQL - Ben Stopford](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
 * [Event Sourcing, Distributed Systems & CQRS - Sebastian Daschner](https://www.youtube.com/watch?v=CYocFQvl6s0&list=PLEV9ul4qfGOZ5gWIPMlFGMUpenSs1EvxZ) & [scalable-coffee-shop (event-driven example app in Java)](https://github.com/sdaschner/scalable-coffee-shop)
@@ -3016,6 +3035,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Git Reference](http://gitref.org/)
 * [How to Use Git and GitHub - Caroline Buckey & Sarah Spikes (Udacity.com)](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 * [Git from the inside out - Mary Rose Cook](http://maryrosecook.com/blog/post/git-from-the-inside-out)
+* [Real-World Git](https://trevordmiller.com/courses/real-world-git)
 * [Pro Git](http://git-scm.com/book) [PDF](https://github.s3.amazonaws.com/media/progit.en.pdf) [mobi](https://github.s3.amazonaws.com/media/pro-git.en.mobi) [ePub](https://github.s3.amazonaws.com/media/progit.epub)
 * Atlassian: [Getting Git Right](https://www.atlassian.com/git/) | [Getting Started](https://www.atlassian.com/git/tutorials/what-is-version-control) | [Tutorials](https://www.atlassian.com/git/tutorials) | [Collaborating](https://www.atlassian.com/git/tutorials/syncing) | [Advanced Git](https://www.atlassian.com/git/tutorials/advanced-overview)
 * [Wrapping Your Head Around Git - Paolo Perrotta (Garden City Ruby 2015)](http://confreaks.tv/videos/gardencityrb2015-keynote-wrapping-your-head-around-git)
@@ -3786,6 +3806,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Kent C. Dodds: [The Beginner's Guide to ReactJS](https://egghead.io/courses/the-beginner-s-guide-to-reactjs) & [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
 * [React Starter Kit - Glitch.com](https://glitch.com/react-starter-kit)
+* [SurviveJS React Book - Juho Vepsäläinen](https://survivejs.com/react/introduction/)
+* [React’s Five Fingers of Death. Master these five concepts, then master React - Sacha Greif](https://medium.freecodecamp.org/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3)
 * [Hackr.io React resource list](https://hackr.io/tutorials/react)
 * [Getting Started](https://facebook.github.io/react/docs/getting-started.html) | [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html) | [Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [React + Redux + Webpack videos - Kurt Weiberth](https://www.youtube.com/playlist?list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg)
@@ -3863,11 +3885,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [JS Remote Conf 2015](https://www.youtube.com/watch?v=sIWekh32LG4&list=PLt8NYnKC3dzL95z5xksIZHxFjErPlC3Xq)
 * [JS Conf EU 2015](http://confreaks.tv/events/jsconfeu2015)
 
-### JAVSCRIPT - WEB SCRAPING
+### JAVASCRIPT - WEB SCRAPING
 
 * [JavaScript Web Scraping - Gregory Petukhov](https://github.com/lorien/awesome-web-scraping/blob/master/javascript.md)
 * [Web scraping with JavaScript - Igor Savinkin](http://scraping.pro/web-scraping-with-javascript-load-html-page/)
 * [Artoo.js: client-side scraping companion](https://medialab.github.io/artoo/)
+
+### JAVASCRIPT - WEBPACK
+
+* [SurviveJS Webpack book - Juho Vepsäläinen](https://survivejs.com/webpack/introduction/)
 
 ## JEKYLL
 
@@ -4416,6 +4442,7 @@ Peter R. Egli:
 
 * [Official manuals](http://www.postgresql.org/docs/manuals/)
 * [Official FAQ](http://wiki.postgresql.org/wiki/FAQ)
+* [PostgreSQL Exercises](https://pgexercises.com/)
 * [PostgresWeekly.com](http://postgresweekly.com/)
 * [PGCasts.com](https://www.pgcasts.com/)
 * [PostgreSQL awesomeness for Rails developers](http://www.amberbit.com/blog/2014/2/4/postgresql-awesomeness-for-rails-developers/)
@@ -4428,6 +4455,7 @@ Peter R. Egli:
 
 ### POSTGRESQL - ADVANCED FEATURES
 
+* [WITH Queries (Common Table Expressions): Write auxiliary statements for use in a larger query](https://www.postgresql.org/docs/9.6/static/queries-with.html)
 * [Is PostgreSQL Your Next JSON Database? - Dj Walker-Morgan](https://www.compose.io/articles/is-postgresql-your-next-json-database/)
 * [PostgreSQL’s Powerful New Join Type: LATERAL - Dan Robinson](http://blog.heapanalytics.com/postgresqls-powerful-new-join-type-lateral/)
 * [Range Types in PostgreSQL 9.2 - Your Life Will Never Be the Same - Jonathan S. Katz (Postgres Open)](https://www.youtube.com/watch?v=XIcOf7r0dG4)
@@ -4523,6 +4551,8 @@ Peter R. Egli:
 
 ## PROGRAMMING
 
+* [Awesome list of awesome lists - Sindre Sorhus](https://github.com/sindresorhus/awesome)
+* [Programming talks - Veit Heller](https://github.com/hellerve/programming-talks)
 * [24-page zine collection of linux/systems comics - Julia Evans](https://jvns.ca/linux-comics-zine.pdf)
 * [Every Programmer Should Know - Alexey Migutsky](https://github.com/mr-mig/every-programmer-should-know/)
 * [Core Design Principles for Software Developers - Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
@@ -4795,6 +4825,7 @@ Peter R. Egli:
 ### PYTHON - DATA ANALYSIS
 
 * [AnacondaCON 2017](https://www.youtube.com/playlist?list=PLGB9meziqbzqvly8Skj3qTieC-fSXeR8T)
+* [Python Data Science Handbook - Jake VanderPlas](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 * [Introduction to Python & Machine Learning (with Analytics Vidhya Hackathons) - Kunal Jain](https://www.datacamp.com/community/open-courses/introduction-to-python-machine-learning-with-analytics-vidhya-hackathons)
 * [Statistics and Machine Learning in Python - Edouard Duchesnay, Tommy Löfstedt (PDF)](ftp://ftp.cea.fr/pub/unati/people/educhesnay/pystatml/StatisticsMachineLearningPythonDraft.pdf)
 * [Code for "Python for Data Analysis, 2nd ed" - Wes McKinney](https://github.com/wesm/pydata-book)
