@@ -109,6 +109,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How Neural Networks Really Work - Geoffrey Hinton](https://www.youtube.com/watch?v=EInQoVLg_UY)
 * [A friendly introduction to Deep Learning and Neural Networks - Luis Serrano](https://www.youtube.com/watch?v=BR9h47Jtqyw)
 * [Deep Learning Demystified - Brandon Rohrer](https://www.youtube.com/watch?v=Q9Z20HCPnww)
+* [The Matrix Calculus You Need For Deep Learning - Terence Parr and Jeremy Howard](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
 * [Livecoding Madness - Let's Build a Deep Learning Library - Joel Grus](https://www.youtube.com/watch?v=o64FV-ez6Gw)
 * [Beyond Backpropagation: Can We Go Deeper Than Deep Learning? - Mariya Yao](https://www.topbots.com/deeper-than-deep-learning-beyond-backpropagation-geoffrey-hinton/)
 * [Deep Neural Networks with Tensorboard - Arpan Chakraborty & Luis Serrano (ODSC East 2017)](https://www.youtube.com/watch?v=QVeszB-4Zik) & [Tensorboard demos (Github)](https://github.com/PythonWorkshop/tensorboard_demos)
@@ -695,6 +696,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ## CSS
 
 * [CSS Reference - Visual guide to the most popular CSS properties](http://cssreference.io/)
+* [Estelle Weyl](http://estelle.github.io/)
+* [The Shapes of CSS - Chris Coyier](https://css-tricks.com/examples/ShapesOfCSS/)
 * [MarkSheet: Free HTML & CSS tutorial](http://marksheet.io/)
 * [How to Master CSS - Christopher Harrison & Helen Zeng (Microsoft Virtual Academy - Jumpstart)](https://www.youtube.com/watch?v=Vafp5xr_bxk)
 * [HTML and CSS Tutorial for Beginners: The Ultimate Guide to Learning HTML and CSS](https://www.youtube.com/watch?v=sEo8ci9Lfmw)
@@ -726,6 +729,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### CSS - FLEXBOX
 
+* [Flexbox Cheatsheet - Joni Bologna](http://jonibologna.com/content/images/flexboxsheet.pdf)
 * [A Complete Guide to Flexbox - Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Solved By Flexbox - Philip Walton](http://philipwalton.github.io/solved-by-flexbox/)
 * [W3C spec](http://www.w3.org/TR/css3-flexbox/)
@@ -2187,6 +2191,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - CODE EXAMPLES
 
 * [25 Elm examples - starting from an static view and gradually progressing to an interactive web app with routing - Bryan Jennings](https://github.com/bryanjenningz/25-elm-examples)
+* [Exercism exercises in Elm](https://github.com/exercism/elm)
 * [elm-examples: Practical Elm examples - Eduard Kyvenko](https://github.com/halfzebra/elm-examples)
 * [Elm SPA example - Richard T Feldman](https://github.com/rtfeldman/elm-spa-example)
 * [Phoenix Elm Battleship - Ricardo García Vega](https://github.com/bigardone/phoenix-elm-battleship)
@@ -2273,6 +2278,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELM - DATA STRUCTURES - JSON
 
+* [elm-demystify-decoders - Ilias Van Peer](https://github.com/zwilias/elm-demystify-decoders/)
 * [Turn a JSON string Into Typed Data in Elm - Murphy Randle](https://egghead.io/lessons/turn-a-json-string-into-typed-data-in-elm)
 * [Bridging Elm and JavaScript with Ports - Josh Clayton](https://robots.thoughtbot.com/bridging-elm-and-javascript-with-ports)
 * [json-to-elm](https://github.com/eeue56/json-to-elm) & [JSON2Elm.com](http://noredink.github.io/json-to-elm/)
@@ -2775,6 +2781,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Wiki](https://cwiki.apache.org/confluence/display/KAFKA/Index)
     * [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
 * [Kafka: The Definitive Guide - Neha Narkhede, Gwen Shapira & Todd Palino (Confluent)](https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf)
+* [The Log: What every software engineer should know about real-time data's unifying abstraction - Jay Kreps](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [Thorough Introduction to Apache Kafka™ - Stanislav Kozlovski](https://medium.com/@stanislavkozlovski/thorough-introduction-to-apache-kafka-6fbf2989bbc1)
 * [Toward a Functional Programming Analogy for Microservices - Bobby Calderwood](https://www.confluent.io/blog/toward-functional-programming-analogy-microservices/)
 * [Publishing with Apache Kafka at The New York Times - Boerge Svingen (Confluent)](https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/)
@@ -3840,6 +3847,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [JamJS](http://jamjs.org/) [Github](https://github.com/caolan/jam)
 * [Require.js](http://requirejs.org/)
 
+### JAVASCRIPT - PARCEL
+
+* [What is Parcel? - LevelUpTuts](https://www.youtube.com/watch?v=ILHn43wsDv0)
+* [Exploring the Parcel Application Bundler - Traversy Media](https://www.youtube.com/watch?v=DYZTFooDB24)
+* [Intro to ParcelJS](https://www.youtube.com/watch?v=WAViP6WNzx8)
+* [Parcel JS: First Impressions - Meth Meth Method](https://www.youtube.com/watch?v=5bqfXIYkIeg)
+* [Getting Started With Parcel: Next Generation Web App Bundler](https://www.youtube.com/watch?v=41fyV2n4U68)
+
 ### JAVASCRIPT - PERFORMANCE
 
 * [Breaking the Broken Web - Kyle Simpson (Forward 3 Summit 2015)](http://forwardjs.com/university/breaking-the-broken-web)
@@ -3899,6 +3914,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - RXJS
 
+* André Staltz: [RxJS v4.0 book](https://xgrommx.github.io/rx-book/) & [Introduction to Reactive Programming (videos on Egghead.io)](https://egghead.io/courses/introduction-to-reactive-programming)
 * [RxJS - What and Why? - Academind](https://www.youtube.com/watch?v=T9wOu11uU6U)
 * [RxJS Quick Start with Practical Examples](https://www.youtube.com/watch?v=2LCo926NFLI)
 
@@ -5916,6 +5932,7 @@ Peter R. Egli:
 ## TESTING
 
 * [Ruby-Toolbox - Testing tools](https://www.ruby-toolbox.com/#Testing)
+* [Testing of Microservices - André Schaffer](https://labs.spotify.com/2018/01/11/testing-of-microservices/)
 * [Let's Make Testing Fun Again - Noel Rappin (WindyCityRails2012)](http://vimeo.com/49525644)
 * [Test Your Legacy Rails Code - Noel Rappin (Ruby Midwest 2011)](http://confreaks.tv/videos/755-rubymidwest2011-test-your-legacy-rails-code)
 * [Jenkins User Conference San Francisco 2012 videos](http://confreaks.tv/events/jucsf2012)
