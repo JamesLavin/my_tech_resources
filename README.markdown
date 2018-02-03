@@ -33,6 +33,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Deep Learning - Ian Goodfellow, Yoshua Bengio, and Aaron Courville (MIT Press): [Chapters](http://www.deeplearningbook.org/) | [Lectures](http://www.deeplearningbook.org/lecture_slides.html) | [Videos - Part 1](https://www.youtube.com/playlist?list=PLsXu9MHQGs8cshZb3YUdtBhcu3LQp0Ax9) | [Videos - Part 2](https://www.youtube.com/playlist?list=PLsXu9MHQGs8fY0IMmV5OAGTdNP4EGwpj1) | [Companion Videos](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
 * [Siraj Raval's "Artificial Intelligence Education" videos](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)
 * [AI and Deep Learning - Two Minute Papers - Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2) & [Two Minute Papers](https://www.youtube.com/playlist?list=PLujxSBD-JXgnqDD1n-V30pKtp6Q886x7e)
+* [12 Amazing Deep Learning Breakthroughs of 2017 - Mariya Yao](https://www.topbots.com/12-amazing-artificial-intelligence-deep-learning-breakthroughs-2017/)
 * [Artificial Intelligence in Industry With Dan Faggella (podcast series)](https://itunes.apple.com/us/podcast/artificial-intelligence-in-industry-with-dan-faggella/id670771965)
 * [The Code That Runs Our Lives - Geoffrey Hinton](https://www.youtube.com/watch?v=XG-dwZMc7Ng)
 * [InfoQ talks](https://www.infoq.com/machinelearning/)
@@ -175,6 +176,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * ["Deep Thinking" - Demis Hassabis interviews Garry Kasparov (Talks at Google)](https://www.youtube.com/watch?v=zhkTHkIZJEc)
 * [What Is Machine Learning? - Luis Serrano](https://www.youtube.com/watch?v=IpGxLWOIZy4)
 * [CS229: Machine Learning - Andrew Ng (Stanford University)](https://see.stanford.edu/Course/CS229)
+
+### ARTIFICIAL INTELLIGENCE (AI) - NATURAL LANGUAGE PROCESSING (NLP)
+
+* [Natural Language Processing with Deep Learning (Stanford University, Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+* [NLP Newsletter - Sebastian Ruder](http://newsletter.ruder.io/)
+* [4 Approaches to Natural Language Processing & Understanding - Maria Yao](https://www.topbots.com/4-different-approaches-natural-language-processing-understanding/)
+* [Stanford Natural Language Processing Group](https://nlp.stanford.edu/)
+* [Sebastian Ruder blog](http://ruder.io/#open)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - NEWS
 
@@ -446,6 +455,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### BUSINESS - ENTREPRENEURSHIP
 
+* [20 Ways to Blow Up Your Company - Jason Mendelson](https://www.youtube.com/watch?v=I8zHfCqz9qY)
 * [13 Reasons My Startup FAILED - Russell Keith-Magee (Djangocon.us 2017)](https://www.youtube.com/watch?v=OOTThZReAdA)
 * [The Lean Start-up - Ash Maurya’s keynote speech (Start-up Showcase 2017)](https://www.youtube.com/watch?v=r8PjvpH4yng)
 * [The Lean Startup - Eric Ries (Talks at Google)](https://www.youtube.com/watch?v=fEvKo90qBns)
@@ -473,16 +483,36 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### BUSINESS - PODCASTS
 
+* [Acquired - A Podcast About Technology Acquisitions & IPOs - Ben Gilbert and David Rosenthal](https://itunes.apple.com/us/podcast/acquired/id1050462261)
+* [Angel Invest Boston - Sal Daler](https://soundcloud.com/user-982602046)
+* [Balderton Podcast - Balderton Capital](https://itunes.apple.com/us/podcast/balderton-podcast-tech-investment-venture-capital-startup/id1002344923?mt=2)
+* [Bootstrapped VC - Backstage Capital](https://itunes.apple.com/us/podcast/the-bootstrapped-vc-a-backstage-capital-podcast/id1209876096?mt=2)
+* [Bothsides TV - Upfront Ventures](https://itunes.apple.com/us/podcast/bothsides-tv/id893382102?mt=2)
 * [Business Book of the Month](http://www.businessbookofthemonth.com/)
 * [Freakonomics Radio](http://freakonomics.com/archive/)
+* [The Full Ratchet - Nick Moran](https://itunes.apple.com/us/podcast/full-ratchet-vc-venture-capital-angel-investors-startup/id888084300?mt=2)
+* [Greymatter - Greylock Partners](https://itunes.apple.com/us/podcast/greymatter/id1089013200?mt=2)
+* [Healthy Dose]()
 * [Masters of Scale](https://mastersofscale.com/)
 * [Meaningful Show](http://www.meaningfulhq.com/)
 * [Nice Guys on Business](http://www.niceguysonbusiness.com/episodes/)
+* [Notion Capital](https://itunes.apple.com/us/podcast/notion-capital/id1089580380?mt=2)
+* [Origins - Notation Capital](https://itunes.apple.com/us/podcast/origins-podcast-about-limited/id1111792048?mt=2)
+* [The Pitch - Josh Muccio (Gimlet Media)](https://gimletmedia.com/thepitch/)
+* [Product Breakfast Club](https://www.productbreakfastclub.com/)
 * [Rework (Basecamp)](https://rework.fm/)
+* [Running Through Walls - Venrock](https://itunes.apple.com/us/podcast/running-through-walls/id1116751671?mt=2)
 * [Simplify](https://www.blinkist.com/simplify)
 * [Startup Success Podcast](http://startupsuccesspodcast.com/)
+* [The Syndicate - Matt Ward](https://itunes.apple.com/us/podcast/the-syndicate-angel-investing-in-early-stage-tech-startups/id1286329551?mt=2&ls=1<Paste>)
 * [The Tim Ferriss Show](http://tim.blog/podcast/)
 * [The Tony Robbins Podcast](https://www.tonyrobbins.com/podcasts/)
+* [The Twenty-Minute VC - Henry Stebbings](http://www.thetwentyminutevc.com/category/podcast/)
+* [This Week in Startups - Jason Calacanis](http://thisweekinstartups.com/)
+* [This Week in Tech - Leo Laporte](https://twit.tv/episodes?filter[shows]=1635)
+* [Traction: How Startups Start - Next View Ventures](https://itunes.apple.com/us/podcast/traction-how-startups-start-nextview-ventures/id989228163?mt=2)
+* [Venture Studio](https://soundcloud.com/venture-studio)
+* [Ventured - Kleiner Perkins](https://itunes.apple.com/us/podcast/ventured/id895283359?mt=2)
 
 ## CHARACTERS
 
@@ -684,6 +714,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Zen-Coding](http://code.google.com/p/zen-coding/)
 * [CSS Conf videos](http://cssconf.com/talks.html)
 
+### CSS - BULMA
+
+* Bulma: [Bulma.io](https://bulma.io/) | [Documentation](https://bulma.io/documentation/overview/start/)
+* [Bulma CSS Framework Crash Course - Traversy Media](https://www.youtube.com/watch?v=IiPQYQT2-wg)
+
 ### CSS - COOL STUFF
 
 * [CSS-Tricks.com](https://css-tricks.com/)
@@ -720,9 +755,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## DATA - ANALYSIS
 
-* [Kaggle.com](https://www.kaggle.com/)
+* [Analytics Dispatch](https://community.modeanalytics.com/analytics-dispatch/archive/)
+* [Analytics Vidhya](https://www.analyticsvidhya.com/)
 * [Dataconomy](http://dataconomy.com/)
 * [Data Driven NYC videos (Nov 2014)](https://www.youtube.com/channel/UCQID78IY6EOojr5RUdD47MQ/videos)
+* [Data Elixir](https://dataelixir.com/issues)
+* [Data Science Weekly](https://www.datascienceweekly.org/newsletters)
+* [Kaggle.com](https://www.kaggle.com/)
+* [O'Reilly Data Newsletter](https://www.oreilly.com/topics/data)
 
 ### DATA - APIS
 
@@ -1212,6 +1252,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [KataCoda (interactive browser-based labs, courses, & playgrounds)](https://katacoda.com/learn)
 * [Kubernetes in production - blue-green deployment, auto scaling and deployment automation - Paul Bakker (Devoxx UK 2016)](https://www.youtube.com/watch?v=-Ci4vd4rh4M)
 
+#### DEVOPS - KUBERNETES - HELM
+
+* Helm (package manager for Kubernetes): [Website](https://helm.sh/) | [docs](https://docs.helm.sh/) | [Github](https://github.com/kubernetes/helm) | [Twitter](https://twitter.com/helmpack)
+* [Kubeapps.com (Helm charts)](https://hub.kubeapps.com/)
+
 #### DEVOPS - KUBERNETES - KUBECTX
 
 * [kubectx - Switch between Kubernetes contexts/namespaces](https://github.com/ahmetb/kubectx)
@@ -1222,7 +1267,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - KUBERNETES - VIDEOS
 
-[KubeCon + CloudNativeCon 2017 - Austin](https://www.youtube.com/playlist?list=PLj6h78yzYM2P-3-xqvmWaZbbI1sW-ulZb)
+* [CNCF (Cloud Native Computing Foundation) video playlists](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA/playlists)
+* [KubeCon + CloudNativeCon 2017 - Austin](https://www.youtube.com/playlist?list=PLj6h78yzYM2P-3-xqvmWaZbbI1sW-ulZb)
 
 ### DEVOPS - ISTIO.IO
 
@@ -1589,6 +1635,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - DEPLOYMENT - DOCKER
 
+* [Elixir Releases & Docker - The Basics Explained - Philipp](https://medium.com/@pentacent/elixir-releases-docker-the-basics-explained-4c800a5b990b)
 * [How to use Elixir with Docker? - Kamil Lelonek](https://blog.lelonek.me/how-to-use-elixir-with-docker-836c9b4a25b0)
 * [Bottling Elixir with Docker - Part 1 - Paul Lamb](https://paullamb.exposed/blog/2017/1/11/bottling-elixir-with-docker-part-1)
 * [Dockerizing Elixir and Phoenix Applications - Cody Boggs](https://semaphoreci.com/community/tutorials/dockerizing-elixir-and-phoenix-applications)
@@ -1856,6 +1903,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - PLUGS
 
+* [Learning Elixir Plugs by Finding Books - Alex Koppel](http://alexkoppel.com/learning-elixir-plugs/)
 * [Just Enough Plug to Build a Web server - Ole Michaelis (ElixirConf.EU 2017)](https://www.youtube.com/watch?v=ESzZCaaCzyg)
 * [The Story of Conn in the world of Phoenix - Shankar Devy](http://shankardevy.github.io/code/elixir-phoenix-conn-request-life-cycle/)
 * [Phoenix: Plug.Conn](http://ricostacruz.com/cheatsheets/phoenix-conn.html)
@@ -2320,8 +2368,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - PHOENIX & ELM
 
-* [Phoenix & Elm landing page (pt.1) - Ricardo García Vega](http://codeloveandboards.com/blog/2017/12/02/phoenix-elm-landing-page-pt-1/) & [Part 2](http://codeloveandboards.com/blog/2017/12/23/phoenix-elm-landing-page-pt-2/)
+* [Phoenix & Elm landing page (pt.1) - Ricardo García Vega](http://codeloveandboards.com/blog/2017/12/02/phoenix-elm-landing-page-pt-1/) & [Part 2](http://codeloveandboards.com/blog/2017/12/23/phoenix-elm-landing-page-pt-2/) & [Part 3](http://codeloveandboards.com/blog/2018/01/06/phoenix-elm-landing-page-pt-3/)
 * [firestorm: open-source forum engine with Elixir+Phoenix backend and Elm frontend - Josh Adams](https://github.com/dailydrip/firestorm)
+* Alex Koppel: [Launching Projects with Elm and Elixir](http://alexkoppel.com/launching-projects-with-elm-and-elixir/<Paste>) | [How it works: the Elm+Elixir Starter Kit](http://alexkoppel.com/elm-elixir-starter-kit-how-does-it-even-work/) | [elm-elixir-starter](https://github.com/arsduo/elm-elixir-starter)
 * [phoenix-elm-scaffold - Andrew MacMurray](https://github.com/andrewMacmurray/phoenix-elm-scaffold)
 * Bill Peregoy: Integrating Phoenix and Elm [Part 1](https://becoming-functional.com/integrating-phoenix-and-elm-part-1-b66cf4294d13) & [Part 2](https://becoming-functional.com/integrating-phoenix-and-elm-part-2-b611871cd70f) & [elm-divide Github repo](https://github.com/billperegoy/elm-divide)
 * Phoenix and Elm, a real use case - Ricardo García Vega: [Part 1: Introduction to creating a SPA with Phoenix and Elm](http://codeloveandboards.com/blog/2017/02/02/phoenix-and-elm-a-real-use-case-pt-1/) | [Part 2: Rendering the initial contact list](http://codeloveandboards.com/blog/2017/02/08/phoenix-and-elm-a-real-use-case-pt-2/) | [Part 3: Adding full text search and pagination navigation to the contact list](http://codeloveandboards.com/blog/2017/02/14/phoenix-and-elm-a-real-use-case-pt-3/) | [Part 4: Better state with union types, search resetting and keyed notes](http://codeloveandboards.com/blog/2017/02/23/phoenix-and-elm-a-real-use-case-pt-4/) | [Part 5: Implementing Elm routing](http://codeloveandboards.com/blog/2017/03/07/phoenix-and-elm-a-real-use-case-pt-5/) | [Part 6: Phoenix and Elm communication through WebSockets](http://codeloveandboards.com/blog/2017/03/19/phoenix-and-elm-a-real-use-case-pt-6/)
@@ -2340,6 +2389,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - PORTS
 
+* [How Elm Ports Work, With a Picture (just one) - JustGage](https://hackernoon.com/how-elm-ports-work-with-a-picture-just-one-25144ba43cdd)
 * [Ports in Elm - Daniel Bachler](http://danielbachler.de/2016/02/26/ports-in-elm.html)
 * [elm-colors: Phoenix + Elm + Webpack + Heroku Example App - Joshua Clayton](https://github.com/joshuaclayton/elm-colors) & [live code example](http://colors.joshuaclayton.me/)
 
@@ -2699,6 +2749,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - DOMAIN-DRIVEN DESIGN
 
 * [Explore DDD Conference 2017](https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag/videos)
+* [Awesome DDD - Nick Chamberlain](https://github.com/heynickc/awesome-ddd)
 * [Domain Driven Design and Onion Architecture in Scala - Wade Waldron (Scala Days 2016)](https://www.youtube.com/watch?v=MnNeDXg3Qao)
 * [Tackling Complexity in the Heart of Software - Eric Evans (Explore DDD Conference 2017)](https://www.youtube.com/watch?v=kIKwPNKXaLU)
 * [Domain Modeling Made Functional - Scott Wlaschin (NDC {Sydney} 2017)](https://www.youtube.com/watch?v=1pSH8kElmM4) & [NDC {Oslo}](https://www.youtube.com/watch?v=Up7LcbGZFuo)
@@ -2936,7 +2987,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - CONFERENCE VIDEOS
 
-* LambdaConf (λC): [2017](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos) | [2016](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos) | [2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
+* LambdaConf (λC): [2017](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhx5bgmpAgqArzrh0pL-tc3P) | [2017 Winter Retreat](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhy9wMify6MXW6F339W4g4Eo) | [2016](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos) | [2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
 * [MoonConf 2016](https://www.youtube.com/playlist?list=PLWYAdh9hA7geMRCgwDomlHAdwlsno32LU&spfreload=10)
 * [All the FP Talks at NDC Oslo 2016](http://theburningmonk.com/2016/06/all-the-fp-talks-at-ndc-oslo-2016/)
 * [Curry On 2016](http://www.curry-on.org/2016/)
@@ -3200,6 +3251,11 @@ Links to resources I have found useful or think might be helpful to future me or
 #### HTTP - AUTHENTICATION - JAVASCRIPT WEB TOKENS (JWT)
 
 * [Introduction to JWT (JSON Web Token) - Securing apps & services - Tech CBT](https://www.youtube.com/watch?v=oXxbB5kv9OA)
+* [JWT.io](https://jwt.io/)
+
+#### HTTP - AUTHENTICATION - OAUTH2
+
+* [What the Heck is OAuth? - Randall Degges](https://stormpath.com/blog/what-the-heck-is-oauth)
 
 ### HTTP - HEADERS
 
@@ -3836,6 +3892,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### JAVASCRIPT - REDUX
 
+* [Getting Started With Redux - Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
 * [Intro to Redux - Alex Bachux](https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/)
 * [The Problem with Redux... And How to Fix It - Matthew Gertner](http://blog.javascripting.com/2016/05/21/the-problem-with-redux-and-how-to-fix-it/)
 * [redux-elm: The Elm Architecture in JavaScript - Matthew Gertner](https://github.com/salsita/redux-el://github.com/salsita/redux-elm) | [online book of example code](http://salsita.github.io/redux-elm/)
@@ -4445,6 +4502,7 @@ Peter R. Egli:
 * [PostgreSQL Exercises](https://pgexercises.com/)
 * [PostgresWeekly.com](http://postgresweekly.com/)
 * [PGCasts.com](https://www.pgcasts.com/)
+* [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
 * [PostgreSQL awesomeness for Rails developers](http://www.amberbit.com/blog/2014/2/4/postgresql-awesomeness-for-rails-developers/)
 * [Redis in my Postgres (linking multiple Postgres dbs or Postgres and Redis/MySQL/Oracle/Twitter/ODBC/etc.)](http://www.craigkerstiens.com/2012/10/18/connecting_to_redis_from_postgres/)
 * [Postgres FTW: Postgres Is Just Easier - Guyren Howe](http://www.sdruby.org/podcast/120)
@@ -4714,6 +4772,7 @@ Peter R. Egli:
 * [On Computing](http://www.computer.org/portal/web/computingnow/oncomputing)
 * [PathToPerf](http://pathtoperf.com/)
 * [Programming Throwdown](http://www.programmingthrowdown.com/)
+* [Recode/Decode - Kara Swisher](https://www.recode.net/recode-decode-podcast-kara-swisher)
 * [Ruby Rogues](https://devchat.tv/ruby-rogues)
 * [Shop Talk](http://shoptalkshow.com/)
 * [Software Engineering Daily](http://softwareengineeringdaily.com/) | [iTunes](https://itunes.apple.com/us/podcast/software-engineering-daily/id1019576853) | [Slack](http://softwaredaily.herokuapp.com/)
@@ -5685,6 +5744,7 @@ Peter R. Egli:
 
 ## REGULAR EXPRESSIONS
 
+* [Regexper.com](https://regexper.com/)
 * [RegEx101.com](https://regex101.com/)
 * [Rubular.com](http://rubular.com/)
 * [LearnPython.org](http://www.learnpython.org/en/Regular_Expressions)
@@ -5807,6 +5867,7 @@ Peter R. Egli:
 
 ### SECURITY - WEB
 
+* Mobile API Security Techniques - Skip Hovsmith: [Part 1](https://hackernoon.com/mobile-api-security-techniques-682a5da4fe10#.hfqj8zvl2) | [Part 2](https://hackernoon.com/mobile-api-security-techniques-fc1f577840ab) | [Part 3](https://hackernoon.com/mobile-api-security-techniques-part-3-1e1e092aeacd) | [More Skip Hovsmith](https://hackernoon.com/@skiph)
 * [Defense Against the Dark Arts: CSRF Attacks - Richard Feldman](https://dev.to/rtfeldman/defense-against-the-dark-arts-csrf-attacks)
 
 ## SHOPPING TOOLS
@@ -5933,6 +5994,10 @@ Peter R. Egli:
 * [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
 * [Tmux Cheatsheet (Alvin Alexander)](http://alvinalexander.com/linux-unix/tmux-cheat-sheet-commands-pdf) & [PDF](http://alvinalexander.com/downloads/linux/tmux-cheat-sheet.pdf)
 * [Tmux Cheatsheet (Andrey Vit)](https://gist.github.com/andreyvit/2921703)
+
+### TMUX - MACOS
+
+* [A better copy/paste flow for tmux on MacOS - Sidharth Shanker](https://medium.com/@squidarth/a-better-copy-paste-flow-for-tmux-on-macos-5284f82571a2)
 
 ### TMUX - PLUGINS
 
