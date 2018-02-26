@@ -105,6 +105,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - DEEP NEURAL NETS
 
+* [Mostly Complete Chart of Neural Networks - Fjodor van Veen](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
 * [How Deep Neural Networks Work - Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)
 * [How Neural Networks Really Work - Geoffrey Hinton](https://www.youtube.com/watch?v=EInQoVLg_UY)
 * [A friendly introduction to Deep Learning and Neural Networks - Luis Serrano](https://www.youtube.com/watch?v=BR9h47Jtqyw)
@@ -173,6 +174,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ARTIFICIAL INTELLIGENCE (AI) - MACHINE LEARNING
 
 * [arXiv.org machine learning articles](https://arxiv.org/list/stat.ML/recent)
+* [Jupyter notebooks for the book "Hands-on Machine Learning with Scikit-Learn and TensorFlow" - Aurélien Geron](https://github.com/ageron/handson-ml)
+* [Jupyter notebooks for the book "Deep Learning With Python Notebooks" - François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
 * [This Week in Machine Learning](https://medium.com/@david.joyner)
 * ["Deep Thinking" - Demis Hassabis interviews Garry Kasparov (Talks at Google)](https://www.youtube.com/watch?v=zhkTHkIZJEc)
 * [What Is Machine Learning? - Luis Serrano](https://www.youtube.com/watch?v=IpGxLWOIZy4)
@@ -460,9 +463,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [13 Reasons My Startup FAILED - Russell Keith-Magee (Djangocon.us 2017)](https://www.youtube.com/watch?v=OOTThZReAdA)
 * [The Lean Start-up - Ash Maurya’s keynote speech (Start-up Showcase 2017)](https://www.youtube.com/watch?v=r8PjvpH4yng)
 * [The Lean Startup - Eric Ries (Talks at Google)](https://www.youtube.com/watch?v=fEvKo90qBns)
+* [Lean Startup Co. videos](https://www.youtube.com/user/leanstartupconf/playlists)
 * [The single biggest reason why startups succeed - Bill Gross (TED)](https://www.youtube.com/watch?v=bNpx7gpSqbY)
 * [Beyond the Business Model - Ash Maurya](https://www.youtube.com/watch?v=Qyq3SCxjqgE)
 * [10 Things The Rich Do That The Poor Don't - Why You Are Still Broke - Practical Wisdom](https://www.youtube.com/watch?v=nr76bupxjco)
+* [Evidence-based Entrepreneurship - Steve Blank (The Lean Startup Conference 2013)](https://www.youtube.com/watch?v=zjvEanpktEo)
+* Laura Klein: [So You Want to Build the Next Facebook (Lean Startup Conference 2015)](https://www.youtube.com/watch?v=cUrZTtE00d4) | [Identify and Validate Your Riskiest Assumptions (Lean Startup Conference 2014)](https://www.youtube.com/watch?v=SrzJqsedjC0)
 * [The surprising habits of original thinkers - Adam Grant (TED)](https://www.youtube.com/watch?v=fxbCHn6gE3U)
 * [Five Lessons I Learned From Failing A Start-Up - Yashash Agarwal (TEDxJGU)](https://www.youtube.com/watch?v=kowJmwHqqOQ)
 * [What college students need to know before starting a business - Jan Bednar (TEDxBocaRaton)](https://www.youtube.com/watch?v=63tVsJI31Tk)
@@ -475,6 +481,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Warren Buffet's Life Advice Will Change Your Future](https://www.youtube.com/watch?v=PX5-XyBNi00)
 * [10 SKILLS That Are HARD to Learn, BUT Will Pay Off FOREVER! - Evan Carmichael](https://www.youtube.com/watch?v=2wPeC4CLkLU)
 * [Steve Jobs's Top 10 Rules For Success - Evan Carmichael](https://www.youtube.com/watch?v=eHzAtxW3TzY)
+
+#### BUSINESS - ENTREPRENEURSHIP - BLOGS & NEWS
+
+* [TechCrunch - Startups](https://techcrunch.com/startups/)
 
 ### BUSINESS - FINANCING
 
@@ -1242,7 +1252,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - KUBERNETES
 
-* Kubernetes: [Docs](https://kubernetes.io/) | [Basic tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Tutorials](https://kubernetes.io/docs/tutorials/) | [Tasks](https://kubernetes.io/docs/tasks/) | [Concepts](https://kubernetes.io/docs/concepts/) | [Github](https://github.com/kubernetes/kubernetes)
+* Kubernetes: [Docs](https://kubernetes.io/) | [Kubernetes API](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.9/) | [Basic tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Tutorials](https://kubernetes.io/docs/tutorials/) | [Tasks](https://kubernetes.io/docs/tasks/) | [Concepts](https://kubernetes.io/docs/concepts/) | [Github](https://github.com/kubernetes/kubernetes)
 * [Kubernetes: Container Orchestration and Micro-Services - Alexander Mohr (University of Washington)](https://courses.cs.washington.edu/courses/cse550/16au/notes/kubernetes.pdf)
 * [Awesome-Kubernetes](https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/details)
 * [Kubernetes Youtube channel](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg)
@@ -1259,7 +1269,23 @@ Links to resources I have found useful or think might be helpful to future me or
 #### DEVOPS - KUBERNETES - HELM
 
 * Helm (package manager for Kubernetes): [Website](https://helm.sh/) | [docs](https://docs.helm.sh/) | [Github](https://github.com/kubernetes/helm) | [Twitter](https://twitter.com/helmpack)
-* [Kubeapps.com (Helm charts)](https://hub.kubeapps.com/)
+
+##### DEVOPS - KUBERNETES - HELM - CHARTS
+
+* [KubeApps.com (Helm charts)](https://hub.kubeapps.com/)
+* [CouchDB](https://hub.kubeapps.com/charts/incubator/couchdb)
+* [Docker Registry](https://hub.kubeapps.com/charts/stable/docker-registry)
+* [Grafana](https://hub.kubeapps.com/charts/stable/grafana)
+* [Jenkins](https://hub.kubeapps.com/charts/stable/jenkins)
+* [Kafka](https://hub.kubeapps.com/charts/incubator/kafka)
+* [Kubernetes Dashboard](https://hub.kubeapps.com/charts/stable/kubernetes-dashboard)
+* [Kubewatch](https://hub.kubeapps.com/charts/incubator/kubewatch)
+* [Neo4J](https://hub.kubeapps.com/charts/stable/neo4j)
+* [Nginx Ingress](https://hub.kubeapps.com/charts/stable/nginx-ingress) (see also [Nginx on Docker Hub](https://hub.docker.com/_/nginx/))
+* [PostgreSQL](https://hub.kubeapps.com/charts/stable/postgresql)
+* [Prometheus](https://hub.kubeapps.com/charts/stable/prometheus)
+* [Selenium](https://hub.kubeapps.com/charts/stable/selenium)
+* [Spark](https://hub.kubeapps.com/charts/stable/spark)
 
 #### DEVOPS - KUBERNETES - KUBECTX
 
@@ -1593,6 +1619,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - DEBUGGING
 
+* [Debugging - Elixir-lang.org](https://elixir-lang.org/getting-started/debugging.html)
 * [Debugging techniques in Elixir - Erich Kist](http://blog.plataformatec.com.br/2016/04/debugging-techniques-in-elixir-lang/)
 * Credo: [Website](http://credo-ci.org/) | [Github](https://github.com/rrrene/credo) | [Credo: A static code analysis tool for the Elixir language with a focus on code consistency and teaching - René Föhring](https://github.com/rrrene/credo)
 
@@ -2173,6 +2200,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Becoming-Functional (Bill Peregoy)](https://becoming-functional.com/)
 * [Brian Hicks](https://www.brianthicks.com/)
 * [Dennis Reimann](https://dennisreimann.de/articles/elm.html)
+* [dev.to](https://dev.to/search?q=Elm)
 * [Elm Shorts](https://medium.com/elm-shorts)
 * [Elm Weekly](http://www.elmweekly.nl/archive)
 * [elm-lang.org/blog](http://elm-lang.org/blog)
@@ -2193,7 +2221,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [25 Elm examples - starting from an static view and gradually progressing to an interactive web app with routing - Bryan Jennings](https://github.com/bryanjenningz/25-elm-examples)
 * [Exercism exercises in Elm](https://github.com/exercism/elm)
 * [elm-examples: Practical Elm examples - Eduard Kyvenko](https://github.com/halfzebra/elm-examples)
-* [Elm SPA example - Richard T Feldman](https://github.com/rtfeldman/elm-spa-example)
+* [Elm SPA example - Richard T Feldman](https://github.com/rtfeldman/elm-spa-example) & [Tour of an Open-Source Elm SPA](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa) & [Scaling Elm Apps - Richard Feldman (Elm Europe 2017)](https://www.youtube.com/watch?v=DoA4Txr4GUs&app=desktop)
 * [Phoenix Elm Battleship - Ricardo García Vega](https://github.com/bigardone/phoenix-elm-battleship)
 * [elm-autocomplete - Greg Ziegan](https://github.com/thebritican/elm-autocomplete)
 * [Creating a Fun Game with Elm - Andrey Kuzmin & Kolja Wilcke (Curry On 2016)](https://www.youtube.com/watch?v=En2BKs8unnQ)
@@ -2421,6 +2449,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - VIDEOS
 
 * ElmConf: [2017](https://www.youtube.com/playlist?list=PLglJM3BYAMPFTT61A0Axo_8n0s9n9CixA) | [2016](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
+* [fncasts: streaming series building apps using Elm and Elixir. The first app is a chess game](https://www.youtube.com/channel/UCEVIBi0jFVXrCvd7CdVYxvw)
 * [Oslo Elm Day 2017](https://www.youtube.com/channel/UCe8Jqmf-R82Zm0nPOxFLqkg)
 * [Elm and React in production - Richard Feldman (ReactiveConf 2016)](https://www.youtube.com/watch?v=3FNKaGm3gk0)
 * [Elm Europe 2017](https://www.youtube.com/playlist?list=PL-cYi7I913S8cGyZWdN6YVZ028iS9BfpM)
@@ -2720,6 +2749,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Developing Microservices With Aggregates - Chris Richardson: [(SpringOne Platform 2016)](https://www.youtube.com/watch?v=7kX3fs0pWwc) & [(Devox US 2017)](https://www.youtube.com/watch?v=gR_EGN86fvg) & [slides (SpringOne Platform 2016](https://www.slideshare.net/chris.e.richardson/developing-microservices-with-aggregates-springone-platform-s1p) & [slides (DevNexus 2017)](https://www.slideshare.net/chris.e.richardson/developing-microservices-with-aggregates-devnexus2017) & [slides (Munich Microservices Meetup 2015)](https://www.slideshare.net/chris.e.richardson/building-and-deploying-microservices-with-event-sourcing-cqrs-and-docker-microxchg-munich-microservices-meetup-2015)
 * [CQRS/DDD by Greg Young (Professional.NET 2011)](https://www.youtube.com/watch?v=KXqrBySgX-s)
 * [Event Sourcing - Martin Fowler](http://martinfowler.com/eaaDev/EventSourcing.html)
+* [Why Microservices Should Be Event Driven: Autonomy vs Authority - Christian Posta](http://blog.christianposta.com/microservices/why-microservices-should-be-event-driven-autonomy-vs-authority/?utm_medium=social&utm_campaign=postplanner&utm_source=twitter.com)
 * [Patterns and practices for real-world event-driven microservices - Rachel Reese (NDC Conferences 2016)](https://www.youtube.com/watch?v=pyudECD-AfQ) (middle section is long digression on F#)
 * [Event Sourcing - Bryan Reinero (GoRuCo 2015)](http://confreaks.tv/videos/goruco2015-event-sourcing)
 * [Introduction to Event Sourcing - Duncan Jones, HedgeFacts](https://www.youtube.com/watch?v=WYShrMYl1ww)
@@ -2740,6 +2770,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Panel: "DDD/CQRS/ES" (wroc_love.rb 2015)](https://www.youtube.com/watch?v=Rh2A96rpGpY)
 * Konrad Garus: [Intro to Event Sourcing and Command-Query Responsibility Segregation](http://squirrel.pl/blog/2015/08/31/introduction-to-event-sourcing-and-command-query-responsibility-segregation/) | [Achieving Consistency in CQRS with Linear Event Store](http://squirrel.pl/blog/2015/09/14/achieving-consistency-in-cqrs-with-linear-event-store/) | [Writing an Event-Sourced CQRS Read Model](http://squirrel.pl/blog/2015/09/22/writing-an-event-sourced-cqrs-read-model/) | [Persistence in CQRS Read Models](http://squirrel.pl/blog/2015/09/28/persistence-in-cqrs-read-models/)
 * [Advanced Topics in Event Sourcing / CQRS / DDD - Sebastian Harko](https://github.com/sebastianharko/adv-es-cqrs-ddd)
+
+### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - BLOGS
+
+* [Christian Posta](http://blog.christianposta.com/posts/)
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - BOOKS (NON-FREE)
 
@@ -2823,6 +2857,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA STREAMS
 
 * Apache Kafka Streams API - Tim Berglund (Confluent): [1. Intro to Streams](https://www.youtube.com/watch?v=Z3JKCLG3VP4) | [2. Creating a Streams Application](https://www.youtube.com/watch?v=LxxeXI1mPKo) | [3. Transforming Data, Part I](https://www.youtube.com/watch?v=7JYEEx7SBuE) | [4. Transforming Data II](https://www.youtube.com/watch?v=3kJgYIkAeHs)
+* [Inventory Microservice example with Kafka Streams and CQRS - Sanjay Acharya](https://sleeplessinslc.blogspot.com/2018/02/inventory-microservice-example-with.html)
 * [Getting Started With the Kafka Streams API](https://kafka.apache.org/documentation/streams/)
 * [Kafka Streams documentation](https://kafka.apache.org/documentation/streams/)
 * [Kafka Music demo application for the Kafka Streams API - Confluent](https://docs.confluent.io/current/streams/kafka-streams-examples/docs/index.html)
@@ -2844,6 +2879,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka - Neha Narkhede](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
 * [KSQL: A Streaming SQL Engine for Apache Kafka - Tim Berglund](https://www.youtube.com/watch?v=A45uRzJiv7I)
+* [Confluent Releases KSQL, a Distributed Streaming SQL Engine for Apache Kafka - Srini Penchikala](https://www.infoq.com/news/2017/10/apache-kafka-ksql)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - SECURITY
 
@@ -3148,6 +3184,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Modeling Data in Haskell for Beginners - Chris Allen (LambdaConf 2015)](https://www.youtube.com/watch?v=p-NBJm0kIYU)
 * [StackBuilers.com tutorials](https://stackbuilders.com/tutorials://stackbuilders.com/tutorials/) & [Github](https://github.com/stackbuilders/tutorial://github.com/stackbuilders/tutorials)
 * [Type Classes Vs the World - Edward Kmett (Boston Haskell 2015)](https://www.youtube.com/watch?v=hIZxTQP1ifo)
+* [An opinionated guide to Haskell in 2018 - Alexis King](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
 * [Reflecting on Haskell in 2017 - Stephen Diehl](http://www.stephendiehl.com/posts/haskell_2018.html)
 
 ### HASKELL - BENEFITS
@@ -3409,7 +3446,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Khan Academy computer programming](https://www.khanacademy.org/computing/computer-programming)
 * [Javascript Basics](http://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.html)
-* [Eloquent Javascript](http://eloquentjavascript.net/)
+* [Eloquent Javascript](http://eloquentjavascript.net/) & [3rd edition](https://eloquentjavascript.net/3rd_edition/)
 * [Javascript.com](https://www.javascript.com/resources)
 * [Learning JavaScript Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Learn JavaScript - Codecademy](https://www.codecademy.com/learn/javascript)
