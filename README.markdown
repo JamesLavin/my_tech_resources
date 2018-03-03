@@ -468,6 +468,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Beyond the Business Model - Ash Maurya](https://www.youtube.com/watch?v=Qyq3SCxjqgE)
 * [10 Things The Rich Do That The Poor Don't - Why You Are Still Broke - Practical Wisdom](https://www.youtube.com/watch?v=nr76bupxjco)
 * [Evidence-based Entrepreneurship - Steve Blank (The Lean Startup Conference 2013)](https://www.youtube.com/watch?v=zjvEanpktEo)
+* [Tim Ferriss's advice on starting a business or podcast - Tim Ferriss](https://www.youtube.com/watch?v=ymiBDged-eQ)
 * Laura Klein: [So You Want to Build the Next Facebook (Lean Startup Conference 2015)](https://www.youtube.com/watch?v=cUrZTtE00d4) | [Identify and Validate Your Riskiest Assumptions (Lean Startup Conference 2014)](https://www.youtube.com/watch?v=SrzJqsedjC0)
 * [The surprising habits of original thinkers - Adam Grant (TED)](https://www.youtube.com/watch?v=fxbCHn6gE3U)
 * [Five Lessons I Learned From Failing A Start-Up - Yashash Agarwal (TEDxJGU)](https://www.youtube.com/watch?v=kowJmwHqqOQ)
@@ -484,6 +485,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### BUSINESS - ENTREPRENEURSHIP - BLOGS & NEWS
 
+* [eCorner (Stanford University)](https://ecorner.stanford.edu/)
 * [TechCrunch - Startups](https://techcrunch.com/startups/)
 
 ### BUSINESS - FINANCING
@@ -736,6 +738,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [CSS-Tricks.com](https://css-tricks.com/)
 * [How To Make a Slide Out Navigation with HTML/CSS (No JavaScript)](https://www.youtube.com/watch?v=d4P8s-mkMvs)
+* [Smashing Magazine](https://www.smashingmagazine.com/)
 
 ### CSS - FLEXBOX
 
@@ -746,6 +749,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### CSS - RESPONSIVE DESIGN
 
+* [Using Media Queries For Responsive Design In 2018 - Rachel Andrew](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
 * [Laziness in the Time of Responsive Design - Ethan Marcotte (Constant Contact 2014)](http://www.confreaks.tv/videos/4605-e4e2014-laziness-in-the-time-of-responsive-design)
 * [The New Rules of The Responsive Web](http://confreaks.tv/videos/2222-html5tx2013-the-new-rules-of-the-responsive-web)
 
@@ -1048,8 +1052,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - BLOGS & PODCASTS
 
+* [Datanauts (data center infrastructure)](http://packetpushers.net/series/datanauts-podcast/)
 * [Dockercast](https://itunes.apple.com/us/podcast/dockercast/id1141133179)
+* [Full Stack Journey](http://packetpushers.net/series/full-stack-journey/)
 * [The New Stack](http://thenewstack.io/)
+* [Weekly Show (Networking Technology)](http://packetpushers.net/series/weekly-show/)
 
 ### DEVOPS - CHAOS MONKEY, ETC
 
@@ -1399,6 +1406,34 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ruby-Toolbox - Maintenance Mode](https://www.ruby-toolbox.com/categories/Maintenance_Mode)
 * [Zero Downtime Deploys Made Easy - Matt Duncan (RubyConf 2012)](http://confreaks.tv/videos/1279-rubyconf2012-zero-downtime-deploys-made-easy)
 * [Zero downtime deploys for Rails apps - Pedro Belo (RailsConf 2012)](http://confreaks.tv/videos/896-railsconf2012-zero-downtime-deploys-for-rails-apps) using Heroku, Unicorn and HAProxy
+
+## EDTECH
+
+### EDTECH - PODCASTS
+
+* [Check This Out](http://checkthisoutsite.weebly.com/)
+* [EdChat Radio](http://www.bamradionetwork.com/edchat-radio/)
+* [EdSurge Podcast](https://www.edsurge.com/news/community/edsurge-podcast)
+* [EdTech Bites](https://itunes.apple.com/us/podcast/edtech-bites-podcast/id1253735665?mt=2)
+* [EdTech Podcast](https://theedtechpodcast.libsyn.com/)
+* [EdTech Rewind](https://www.spreaker.com/show/edtech-rewind)
+* [EdTech Situation Room](http://edtechsr.com/)
+* [EdTech Take Out](http://www.dlgwaea.org/podcast)
+* [EduAllStars](https://www.podomatic.com/podcasts/eduallstarshq)
+* [Edupreneur Podcast](http://www.theedupreneur.org/)
+* [EDUtalk](http://edutalk.cc/)
+* [Explore Like a Pirate](http://explorelikeapirate.com/category/all/podcast/)
+* [Google Teacher Tribe](http://googleteachertribe.com/)
+* [House of EdTech](http://chrisnesi.com/)
+* [re:Learning (Chronicle.com)](https://overcast.fm/itunes1098250639/relearning-podcast)
+* [Speed of Creativity](http://www.speedofcreativity.org/resources/socpodcast/)
+* [Stanford Innovation Lab](https://ecorner.stanford.edu/series/stanford-innovation-lab/)
+* [TeacherCast](https://www.teachercast.net/episodes/)
+* [Techlandia](http://techlandia.podomatic.com/)
+* [Tech. Learn. Coffee.](http://tlcninja.weebly.com/)
+* [TED Talks Education](https://itunes.apple.com/us/podcast/tedtalks-education/id470623037)
+* [TOSAs Talking Tech](http://tosastalkingtech.libsyn.com/)
+* [Wired Educator](https://wirededucator.com/)
 
 ## ELASTICSEARCH
 
@@ -4188,6 +4223,7 @@ Peter R. Egli:
 ### LISP - BOOKS
 
 * The Structure and Interpretation of Computer Programs - Hal Abelson & Gerald Jay Sussman: [Video lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures) | [online book](https://mitpress.mit.edu/sicp/full-text/book/book.html) | [PDF](http://web.mit.edu/alexmv/6.037/sicp.pdf)
+* [Paradigms of Artificial Intelligence Programming - Peter Norvig (1992)](https://github.com/norvig/paip-lisp) | [Book, part 1 (PDF)](https://github.com/norvig/paip-lisp/blob/master/PAIP-part1.pdf) | [Book, part 2 (PDF)](https://github.com/norvig/paip-lisp/blob/master/PAIP-part2.pdf)
 * [Common Lisp: A Gentle Introduction to Symbolic Computation - David S. Touretzky](https://www.cs.cmu.edu/~dst/LispBook/book.pdf)
 * [Common Lisp HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Front/Contents.htm)
 * Common Lisp the Language, 2nd Ed - Guy L. Steele Jr: [PDF](http://www.lispmachine.net/books/common_lisp_the_language.pdf) |[HTML](http://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node1.html#SECTION00100000000000000000)
@@ -4594,6 +4630,14 @@ Peter R. Egli:
 * [PGCon 2015 videos](https://www.citusdata.com/resources/citus-data-videos)
 * [PGConf US](https://www.youtube.com/channel/UCsJkVvxwoM7R9oRbzvUhbPQ)
 * [Youtube](https://www.youtube.com/results?search_query=postgresql)
+
+## PRIVACY
+
+* [How To Protect Your Users With The Privacy By Design Framework - Heather Burns](https://www.smashingmagazine.com/2017/07/privacy-by-design-framework/)
+
+### PRIVACY - GDPR
+
+* [How GDPR Will Change The Way You Develop - Heather Burns](https://www.smashingmagazine.com/2018/02/gdpr-for-web-developers/)
 
 ## PRODUCT DEVELOPMENT
 
@@ -6072,6 +6116,7 @@ Peter R. Egli:
 
 ## VIM (YEAH, IT'S THE BEST)
 
+* Ian Langworth: [Vim After 15 Years](https://vimawesome.com/) | [Everything I Missed in "Vim After 11 Years"](https://statico.github.io/vim2.html) | [Vim After 11 Years](https://statico.github.io/vim.html)
 * [Full Vim documentation + Vim FAQ (downloadable PDF)](http://nathangrigg.net/vimhelp/)
 * [A vim Tutorial and Primer - Daniel Miessler](https://danielmiessler.com/study/vim/)
 * [VimDoc](http://vimdoc.sourceforge.net/htmldoc/)
@@ -6102,24 +6147,30 @@ Peter R. Egli:
 * [How I Boosted My Vim - Vincent Driessen](http://nvie.com/posts/how-i-boosted-my-vim/)
 * [Faster Grepping in Vim - Dan Croak](https://robots.thoughtbot.com/faster-grepping-in-vim) & [More vim tips from Thoughtbot](https://robots.thoughtbot.com/tags/vim)
 
-### VIM - PLUGIN DOCS
+### VIM - PLUGINS & DOCS
 
+* [VimAwesome.com](https://vimawesome.com/)
 * [ack.vim](https://raw.githubusercontent.com/mileszs/ack.vim/master/doc/ack.txt)
 * [Asynchronous Lint Engine (A.L.E.)](https://github.com/w0rp/ale)
 * [Command-T](https://github.com/wincent/Command-T)
+* [Ctrl-P](https://vimawesome.com/plugin/ctrlp-vim-everything-has-changed)
 * [ctags](http://ctags.sourceforge.net/) & [Using Vim and Exuberant CTags for easy source navigation](http://benoithamelin.tumblr.com/post/15101202004/using-vim-exuberant-ctags-easy-source-navigation) [Manual](http://ctags.sourceforge.net/ctags.html) & [FAQ](http://ctags.sourceforge.net/faq.html)
 * [ctrlp.vim](https://github.com/kien/ctrlp.vim/blob/master/readme.md#readme)
+* [fzf (fuzzy find)](https://github.com/junegunn/fzf)
 * [gist.vim](https://github.com/mattn/gist-vim/blob/master/README.mkd#readme)
 * [jslint.vim](https://github.com/hallettj/jslint.vim/blob/master/README.markdown)
 * [NERDTree](https://raw.githubusercontent.com/scrooloose/nerdtree/master/doc/NERD_tree.txt) & [video tutorial](http://www.youtube.com/watch?v=CPu9mDpSYj0)
 * [Recover.vim](https://raw.githubusercontent.com/chrisbra/Recover.vim/master/doc/recoverPlugin.txt)
+* [Silver Searcher (ag)](https://github.com/ggreer/the_silver_searcher)
 * [snipmate](https://raw.githubusercontent.com/garbas/vim-snipmate/master/doc/snipMate.txt) & [video tutorial](http://www.youtube.com/watch?v=xV2IsE5OHd4)
 * [supertab](https://raw.githubusercontent.com/ervandew/supertab/master/doc/supertab.txt)
 * [syntastic](https://raw.githubusercontent.com/scrooloose/syntastic/master/doc/syntastic.txt)
 * [tabular](https://raw.githubusercontent.com/godlygeek/tabular/master/doc/Tabular.txt)
 * [vim-coffee-script](https://raw.githubusercontent.com/kchmck/vim-coffee-script/master/doc/coffee-script.txt)
 * [vim-fugitive](https://raw.githubusercontent.com/tpope/vim-fugitive/master/doc/fugitive.txt) & [VimCasts](http://vimcasts.org/results/#stq=fugitive) & [Painless Merge Conflict Resolution in Git](http://blog.wuwon.id.au/2010/09/painless-merge-conflict-resolution-in.html)
+* [vim-gitgutter](https://vimawesome.com/plugin/vim-gitgutter)
 * [vim-ipython](https://github.com/ivanov/vim-ipython)
+* [vim-polyglot](https://vimawesome.com/plugin/vim-polyglot)
 * [vim-rails](https://raw.githubusercontent.com/tpope/vim-rails/master/doc/rails.txt)
 * [vim-rake](https://raw.githubusercontent.com/tpope/vim-rake/master/doc/rake.txt)
 * [vim-rspec](https://github.com/thoughtbot/vim-rspec/blob/master/README.md)
