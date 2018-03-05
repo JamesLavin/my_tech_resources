@@ -33,6 +33,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Deep Learning - Ian Goodfellow, Yoshua Bengio, and Aaron Courville (MIT Press): [Chapters](http://www.deeplearningbook.org/) | [Lectures](http://www.deeplearningbook.org/lecture_slides.html) | [Videos - Part 1](https://www.youtube.com/playlist?list=PLsXu9MHQGs8cshZb3YUdtBhcu3LQp0Ax9) | [Videos - Part 2](https://www.youtube.com/playlist?list=PLsXu9MHQGs8fY0IMmV5OAGTdNP4EGwpj1) | [Companion Videos](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
 * [Siraj Raval's "Artificial Intelligence Education" videos](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)
 * [AI and Deep Learning - Two Minute Papers - Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2) & [Two Minute Papers](https://www.youtube.com/playlist?list=PLujxSBD-JXgnqDD1n-V30pKtp6Q886x7e)
+* Andreessen Horowitz: [AI and Deep Learning - Frank Chen](https://a16z.com/2016/06/10/ai-deep-learning-machines/) | [AI: What's Working, What's Not](https://a16z.com/2017/12/07/summit-ai-update-frank-chen/) | [AI Playbook](http://aiplaybook.a16z.com/)
 * [12 Amazing Deep Learning Breakthroughs of 2017 - Mariya Yao](https://www.topbots.com/12-amazing-artificial-intelligence-deep-learning-breakthroughs-2017/)
 * [Artificial Intelligence in Industry With Dan Faggella (podcast series)](https://itunes.apple.com/us/podcast/artificial-intelligence-in-industry-with-dan-faggella/id670771965)
 * [The Code That Runs Our Lives - Geoffrey Hinton](https://www.youtube.com/watch?v=XG-dwZMc7Ng)
@@ -460,6 +461,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### BUSINESS - ENTREPRENEURSHIP
 
+#### BUSINESS - ENTREPRENEURSHIP - ADVICE
+
 * [20 Ways to Blow Up Your Company - Jason Mendelson](https://www.youtube.com/watch?v=I8zHfCqz9qY)
 * [13 Reasons My Startup FAILED - Russell Keith-Magee (Djangocon.us 2017)](https://www.youtube.com/watch?v=OOTThZReAdA)
 * [The Lean Start-up - Ash Maurya’s keynote speech (Start-up Showcase 2017)](https://www.youtube.com/watch?v=r8PjvpH4yng)
@@ -487,6 +490,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### BUSINESS - ENTREPRENEURSHIP - BLOGS & NEWS
 
 * [eCorner (Stanford University)](https://ecorner.stanford.edu/)
+* [GeekWire](http://www.geekwire.com/startups/)
 * [TechCrunch - Startups](https://techcrunch.com/startups/)
 
 #### BUSINESS - ENTREPRENEURSHIP - FINANCING
@@ -886,6 +890,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DATA - VISUALIZATION
 
+* [DataViz.tools - curated guide to the best tools, resources and technologies for data visualization](http://dataviz.tools/)
 * [VizWiz: Data visualization done right (blog)](http://vizwiz.blogspot.com/)
 * [OpenVis Conference videos (Boston 2016)](https://openvisconf.com/#videos)
 
@@ -1766,6 +1771,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Leveling Up With Ecto - Darin Wilson (ElixirConf 2016)](https://www.youtube.com/watch?v=QE7bpqpDoKo) | [code](https://github.com/darinwilson/music_db)
 * Lew Parker: [Diving into Ecto - 1](http://www.glydergun.com/diving-into-ecto/) | [Diving into Ecto - 2](http://www.glydergun.com/diving-into-ecto-part-2/) | [Ecto Query Library](http://www.glydergun.com/the-ecto-query-library/)
 * Understanding Elixir’s Ecto Querying DSL - Thomas Punt: [The Basics](https://www.sitepoint.com/understanding-elixirs-ecto-querying-dsl-the-basics/) | [Beyond the Basics](https://www.sitepoint.com/elixirs-ecto-querying-dsl-beyond-the-basics/)
+* [Preloading Nested Associations with Ecto - Greg Lazarev](https://robots.thoughtbot.com/preloading-nested-associations-with-ecto)
 * [Up, Down, Up with Ecto Migrations - Josh Branchaud](https://hashrocket.com/blog/posts/up-down-up-with-ecto-migrations)
 * [Ecto Migrations: Simple to Complex - Josh Branchaud](https://hashrocket.com/blog/posts/ecto-migrations-simple-to-complex)
 * [Fast Full-text Search with Ecto and PostgreSQL - Nathan Long](http://nathanmlong.com/2018/01/fast-fulltext-search-with-ecto-and-postgresql/)
@@ -2151,6 +2157,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
 * [Functional Programming in Elm - Evan Czaplicki](https://www.gitbook.com/book/evancz/functional-programming-in-elm/details)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
+* [Destination: Web -- Friendly, Typed, and Functional: A Brief Introduction to Elm - Brian Ford (Uber)](https://www.youtube.com/watch?v=Fv63jUr9M_8)
+* [Make Web Apps Fun to Build and Easy to Refactor with Elm - Daniel Bachler (GOTO Berlin 2017)](https://www.youtube.com/watch?v=ehtn81p06Ow)
 * [Elm From Scratch - Daniel Bachler](https://www.gitbook.com/book/danyx23/elm-from-scratch/details)
 * [Learn You an Elm - Miran Lipovača](http://learnyouanelm.github.io/)
 * [Learning Elm From A Drum Sequencer (Part 1) - Brian Holt](https://www.smashingmagazine.com/2018/01/learning-elm-drum-sequencer-part-1/)
@@ -2645,6 +2653,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ERLANG - DISTRIBUTION
 
+* [Partisan: Flexible, TCP-based membership system for Erlang/Elixir](https://github.com/lasp-lang/partisan) & [Partisan: Enabling Cloud-Scale Erlang Applications - Christopher S. Meiklejohn & Heather Miller (PDF)](https://arxiv.org/pdf/1802.02652.pdf)
 * [Scaling Distributed Erlang - Zandra Norman (ElixirConfEu 2016)](https://www.youtube.com/watch?v=usEs3GPnZDg)
 
 ### ERLANG - DOCUMENTATION
@@ -4265,6 +4274,7 @@ Peter R. Egli:
 * [Paradigms of Artificial Intelligence Programming - Peter Norvig (1992)](https://github.com/norvig/paip-lisp) | [Book, part 1 (PDF)](https://github.com/norvig/paip-lisp/blob/master/PAIP-part1.pdf) | [Book, part 2 (PDF)](https://github.com/norvig/paip-lisp/blob/master/PAIP-part2.pdf)
 * [Common Lisp: A Gentle Introduction to Symbolic Computation - David S. Touretzky](https://www.cs.cmu.edu/~dst/LispBook/book.pdf)
 * [Common Lisp HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Front/Contents.htm)
+* [Paradigms of Artificial Intelligence Programming - Peter Norvig (1992)](https://github.com/norvig/paip-lisp)
 * Common Lisp the Language, 2nd Ed - Guy L. Steele Jr: [PDF](http://www.lispmachine.net/books/common_lisp_the_language.pdf) |[HTML](http://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node1.html#SECTION00100000000000000000)
 * [Practical Common Lisp - Peter Seibel](http://www.gigamonkeys.com/book/)
 * [Basic Lisp Techniques - David J Cooper, Jr](http://franz.com/resources/educational_resources/cooper.book.pdf)
@@ -4790,6 +4800,10 @@ Peter R. Egli:
 * [Medium.com - Software Development](https://medium.com/tag/software-development)
 * [Scott Hanselman](http://www.hanselman.com/)
 * [StackOverflow](http://blog.stackoverflow.com/)
+
+### PROGRAMMING - CHEATSHEETS
+
+* [DevHints.io - Rico Sta. Cruz](https://devhints.io/)
 
 ### PROGRAMMING - CODE REVIEWS
 
