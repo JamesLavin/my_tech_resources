@@ -341,6 +341,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Predictive Analytics, NLP Flag Psychosis with 100% Accuracy - Jennifer Bresnick (Health IT Analytics, 2015)](https://healthitanalytics.com/news/predictive-analytics-nlp-flag-psychosis-with-100-accuracy)
 * [Chinese robot dentist is first to fit implants in patient’s mouth without any human involvement - Alice Yan](http://www.scmp.com/news/china/article/2112197/chinese-robot-dentist-first-fit-implants-patients-mouth-without-any-human)
 * [Case Study: TensorFlow in Medicine - Retinal Imaging - Lily Peng (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=oOeZ7IgEN4o)
+* [Artificial intelligence can diagnose prostate cancer as well as a pathologist](https://sciencebusiness.net/healthy-measures/news/artificial-intelligence-can-diagnose-prostate-cancer-well-pathologist)
 * [Better Medicine Through Machine Learning - Suchi Saria (TEDxBoston)](https://www.youtube.com/watch?v=Nj2YSLPn6OY)
 * [Efficient identification of nationally mandated reportable cancer cases using natural language processing and machine learning - John D Osborne, et al. (Journal of Informatics in Health and Biomedicine, 2016)](https://academic.oup.com/jamia/article/23/6/1077/2399248/Efficient-identification-of-nationally-mandated)
 * [IBM CEO: "Watson AI will change everything in Healthcare. Radiologists will lose jobs soon"](https://www.youtube.com/watch?v=YkEYuoa_ooo)
@@ -924,6 +925,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Semi-official Apache CouchDB Docker images](https://github.com/apache/couchdb-docker) | [Docker Hub](https://hub.docker.com/r/apache/couchdb/)
 * [couchdb-ssl - Clemens Stolle](https://hub.docker.com/r/klaemo/couchdb-ssl/)
 * [Fast CouchDB setup in AWS - Ten Bitcomb](https://gist.github.com/Ravenstine/fb350f5af391aee641d024a74a087b8e)
+
+### DATABASES - GRAPH DATABASES
+
+* [Graph Databases Will Change Your Freakin' Life - Ed Finkler](https://www.youtube.com/watch?v=GekQqFZm7mA)
 
 ### DATABASES - GRAPHQL
 
@@ -1632,6 +1637,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - BLOGS
 
 * [Big Nerd Ranch](https://www.bignerdranch.com/blog/?q=Elixir)
+* [Carbon Five](https://blog.carbonfive.com/category/elixir/)
 * [Dockyard](https://dockyard.com/blog/categories/elixir)
 * [East 5th](http://www.east5th.co/blog/)
 * [Elixir Dose](http://www.elixirdose.com/)
@@ -1680,6 +1686,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Debugging - Elixir-lang.org](https://elixir-lang.org/getting-started/debugging.html)
 * [Debugging techniques in Elixir - Erich Kist](http://blog.plataformatec.com.br/2016/04/debugging-techniques-in-elixir-lang/)
 * Credo: [Website](http://credo-ci.org/) | [Github](https://github.com/rrrene/credo) | [Credo: A static code analysis tool for the Elixir language with a focus on code consistency and teaching - René Föhring](https://github.com/rrrene/credo)
+
+#### ELIXIR - DEBUGGING - PRY
+
+* [Using Pry in Elixir - Jeffrey Matthias](http://idlehands.codes/using-pry-in-elixir)
 
 ### ELIXIR - DEPLOYMENT
 
@@ -1772,6 +1782,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Lew Parker: [Diving into Ecto - 1](http://www.glydergun.com/diving-into-ecto/) | [Diving into Ecto - 2](http://www.glydergun.com/diving-into-ecto-part-2/) | [Ecto Query Library](http://www.glydergun.com/the-ecto-query-library/)
 * Understanding Elixir’s Ecto Querying DSL - Thomas Punt: [The Basics](https://www.sitepoint.com/understanding-elixirs-ecto-querying-dsl-the-basics/) | [Beyond the Basics](https://www.sitepoint.com/elixirs-ecto-querying-dsl-beyond-the-basics/)
 * [Preloading Nested Associations with Ecto - Greg Lazarev](https://robots.thoughtbot.com/preloading-nested-associations-with-ecto)
+* [Querying an Embedded Map in PostgreSQL with Ecto - David Bernheisel](https://robots.thoughtbot.com/querying-embedded-maps-in-postgresql-with-ecto)
 * [Up, Down, Up with Ecto Migrations - Josh Branchaud](https://hashrocket.com/blog/posts/up-down-up-with-ecto-migrations)
 * [Ecto Migrations: Simple to Complex - Josh Branchaud](https://hashrocket.com/blog/posts/ecto-migrations-simple-to-complex)
 * [Fast Full-text Search with Ecto and PostgreSQL - Nathan Long](http://nathanmlong.com/2018/01/fast-fulltext-search-with-ecto-and-postgresql/)
@@ -1793,6 +1804,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Tirexs - Elixir DSL for Elasticsearch](https://github.com/roundscope/tirexs)
 * [erlastic_search (Erlang client for Elasticsearch)](https://github.com/tsloughter/erlastic_search)
 * [Elasticsearch from Elixir and Docker - Zohaib Rauf](http://zohaib.me/elasticsearch-from-elixir-and-docker/)
+
+### ELIXIR - ERROR HANDLING
+
+* [Error Handling in Elixir Libraries - Michal Muskala](http://michal.muskala.eu/2017/02/10/error-handling-in-elixir-libraries.html)
 
 ### ELIXIR - EVENT SOURCING/CQRS
 
@@ -2072,12 +2087,17 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - TESTING
 
+* [Lightweight dependency injection in Elixir (without the tears) - Andrew Hao](https://blog.carbonfive.com/2018/03/19/lightweight-dependency-injection-in-elixir-without-the-tears/)
 * [Mocks and explicit contracts - José Valim](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
 * [Testing function delegation in Elixir without stubbing - Brian Cardarella](https://dockyard.com/blog/2016/03/24/testing-function-delegation-in-elixir-without-stubbing)
 
 #### ELIXIR - TESTING - HOUND
 
 * [Concurrent Feature Tests with Phoenix and Hound - Kevin Rockwood](http://rockwood.me/2016/concurrent-feature-tests-with-phoenix/)
+
+#### ELIXIR - TESTING - MOX
+
+* [Functional Mocks with Mox in Elixir - Andrew Hao](https://blog.carbonfive.com/2018/01/16/functional-mocks-with-mox-in-elixir/)
 
 #### ELIXIR - TESTING - WALLABY
 
@@ -2157,6 +2177,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
 * [Functional Programming in Elm - Evan Czaplicki](https://www.gitbook.com/book/evancz/functional-programming-in-elm/details)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
+* [A Peek into the Elm Architecture - Jayaram Sankaranarayana (Functional Conf Bangalore, Nov 2017)](https://www.infoq.com/presentations/elm-architecture)
 * [Destination: Web -- Friendly, Typed, and Functional: A Brief Introduction to Elm - Brian Ford (Uber)](https://www.youtube.com/watch?v=Fv63jUr9M_8)
 * [Make Web Apps Fun to Build and Easy to Refactor with Elm - Daniel Bachler (GOTO Berlin 2017)](https://www.youtube.com/watch?v=ehtn81p06Ow)
 * [Elm From Scratch - Daniel Bachler](https://www.gitbook.com/book/danyx23/elm-from-scratch/details)
@@ -2779,6 +2800,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [How Events Are Reshaping Modern Systems - Jonas Bonér (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=3V3pHm2Cpks)
 * [Building Event Driven Services with Apache Kafka and Kafka Streams - Ben Stopford (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=p9wcx3aTjuo)
+* [Design Patterns: Why Event Sourcing? - Greg Young](https://www.youtube.com/watch?v=rUDN40rdly8)
 * [Rethinking Microservices with Stateful Streams - Ben Stopford (Devoxx Poland 2017)](https://www.youtube.com/watch?v=hqt9QIhwAW8)
 * [Building a Microservices Ecosystem with Kafka Streams and KSQL - Ben Stopford](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
 * [Event Sourcing, Distributed Systems & CQRS - Sebastian Daschner](https://www.youtube.com/watch?v=CYocFQvl6s0&list=PLEV9ul4qfGOZ5gWIPMlFGMUpenSs1EvxZ) & [scalable-coffee-shop (event-driven example app in Java)](https://github.com/sdaschner/scalable-coffee-shop)
@@ -2897,8 +2919,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Log: What every software engineer should know about real-time data's unifying abstraction - Jay Kreps](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [Thorough Introduction to Apache Kafka™ - Stanislav Kozlovski](https://medium.com/@stanislavkozlovski/thorough-introduction-to-apache-kafka-6fbf2989bbc1)
 * [Toward a Functional Programming Analogy for Microservices - Bobby Calderwood](https://www.confluent.io/blog/toward-functional-programming-analogy-microservices/)
+* Amy Boyle (NewRelic): [Using Apache Kafka for Real-Time Event Processing at New Relic](https://blog.newrelic.com/2018/03/12/apache-kafka-event-processing/) | [Effective Strategies for Kafka Topic Partitioning](https://blog.newrelic.com/2018/03/13/effective-strategies-kafka-topic-partitioning/)
+* [Kafkapocalypse: Monitoring Kafka Without Losing Your Mind - Ben Summer (NewRelic)](https://blog.newrelic.com/2017/12/12/new-relic-kafkapocalypse/)
 * [Publishing with Apache Kafka at The New York Times - Boerge Svingen (Confluent)](https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/)
 * [Event sourcing using Kafka - Adam Warski](https://blog.softwaremill.com/event-sourcing-using-kafka-53dfd72ad45d)
+* [Intro to Apache Kafka as Event-Driven Open Source Streaming Platform - Kai Waehner (VoxxedDays Zurich)](https://www.youtube.com/watch?v=OXLABLRNuzI)
 * [Lessons learned from Kafka in production - Tim Berglund](https://www.youtube.com/watch?v=1vLMuWsfMcA)
 * [Kafka Summit NYC 2017 videos & slides](https://www.confluent.io/kafka-summit-nyc17/resource/)
 * Ben Stopford (Confluent): [The Data Dichotomy- Rethinking the Way We Treat Data and Services](https://vimeo.com/205275868/4f90eb476f) | [Build Services on a Backbone of Events](https://www.confluent.io/blog/build-services-backbone-events/) | [Using Apache Kafka as a Scalable, Event-Driven Backbone for Service Architectures](https://www.confluent.io/blog/apache-kafka-for-service-architectures/) | [Chain Services with Exactly Once Guarantees](https://www.confluent.io/blog/chain-services-exactly-guarantees/) | [Messaging as the Single Source of Truth](https://www.confluent.io/blog/messaging-single-source-truth/) | [Leveraging the Power of a Database Unbundled](https://www.confluent.io/blog/leveraging-power-database-unbundled/) | [Building a Microservices Ecosystem with Kafka Streams and KSQL](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
