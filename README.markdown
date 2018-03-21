@@ -105,6 +105,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - DEEP NEURAL NETS
 
+* [Notes from Coursera Deep Learning courses by Andrew Ng - Tess Ferrandez](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
 * [Mostly Complete Chart of Neural Networks - Fjodor van Veen](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
 * [How Deep Neural Networks Work - Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)
 * [How Neural Networks Really Work - Geoffrey Hinton](https://www.youtube.com/watch?v=EInQoVLg_UY)
@@ -488,7 +489,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [eCorner (Stanford University)](https://ecorner.stanford.edu/)
 * [TechCrunch - Startups](https://techcrunch.com/startups/)
 
-### BUSINESS - FINANCING
+#### BUSINESS - ENTREPRENEURSHIP - FINANCING
 
 * [Equity Crowdfunding Explained: Jargon Free - Entrepreneur](https://www.youtube.com/watch?v=5f_v___rceA)
 * [Investment Crowdfunding 101 (also known as Equity Crowdfunding) - Eazl.co](https://www.youtube.com/watch?v=R7YxdukRlNE)
@@ -921,6 +922,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DATABASES - GRAPHQL
 
+* [Intro to GraphQL - GraphQL.org](http://graphql.org/learn/)
 * [GraphQL: Data query language and runtime](http://graphql.org/) | [GitHub](https://github.com/graphql)
 * [Getting started (documentation)](http://graphql.org/docs/getting-started/)
 * [Goodbye REST… GraphQL Is Better! (SFNode 2017)](https://www.youtube.com/watch?v=9wiepxb8qPc)
@@ -1302,6 +1304,16 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [PowerfulSeal: adds chaos to your Kubernetes clusters, so that you can detect problems in your systems as early as possible. It kills targeted pods and takes VMs up and down - Bloomberg](https://github.com/bloomberg/powerfulseal)
 
+#### DEVOPS - KUBERNETES - SECURITY
+
+* [Kubernetes Security Best Practices - Ian Lewis](https://speakerdeck.com/ianlewis/kubernetes-security-best-practices)
+* [Building Container Images Securely on Kubernetes - Jessie Frazelle](https://blog.jessfraz.com/post/building-container-images-securely-on-kubernetes/)
+
+#### DEVOPS - KUBERNETES - SKAFFOLD
+
+* [Skaffold: Easy and Repeatable Kubernetes Development (Github)](https://github.com/GoogleCloudPlatform/skaffold)
+* [Skaffold on Google Kubernetes Engine](https://github.com/GoogleCloudPlatform/skaffold/blob/master/docs/quickstart-gke.md)
+
 #### DEVOPS - KUBERNETES - VIDEOS
 
 * [CNCF (Cloud Native Computing Foundation) video playlists](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA/playlists)
@@ -1409,16 +1421,22 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## EDTECH
 
+### EDTECH - NEWS
+
+* [Education News - New York Business Journal](https://www.bizjournals.com/newyork/industry-news/education)
+
 ### EDTECH - PODCASTS
 
 * [Check This Out](http://checkthisoutsite.weebly.com/)
 * [EdChat Radio](http://www.bamradionetwork.com/edchat-radio/)
 * [EdSurge Podcast](https://www.edsurge.com/news/community/edsurge-podcast)
 * [EdTech Bites](https://itunes.apple.com/us/podcast/edtech-bites-podcast/id1253735665?mt=2)
+* [EdTechNOW](https://itunes.apple.com/us/podcast/edtechnow/id1204658300)
 * [EdTech Podcast](https://theedtechpodcast.libsyn.com/)
 * [EdTech Rewind](https://www.spreaker.com/show/edtech-rewind)
 * [EdTech Situation Room](http://edtechsr.com/)
 * [EdTech Take Out](http://www.dlgwaea.org/podcast)
+* [EdTech Times](https://edtechtimes.com/tag/podcast/)
 * [EduAllStars](https://www.podomatic.com/podcasts/eduallstarshq)
 * [Edupreneur Podcast](http://www.theedupreneur.org/)
 * [EDUtalk](http://edutalk.cc/)
@@ -1848,6 +1866,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - OTP
 
+* [Consistent, Distributed Elixir - Chris Keathley (ElixirDaze 2018)](https://www.youtube.com/watch?v=CmMMpaUD3g8)
 * [The ABCs of OTP - Jesse J Anderson (ElixirDaze 2017)](https://www.youtube.com/watch?v=8X0IWW2GJoQ) | [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir) | [resource links](https://gist.github.com/jessejanderson/16cbc0614e9194fa1b64460f775777ab)
 * Michael @ omgneering: [GenServer basics](https://www.youtube.com/watch?v=zC7TcrRi46Q) | [GenServer Callbacks and concurrency](Elixir GenServer callbacks and concurrency) | [Supervisor](https://www.youtube.com/watch?v=Gdf8JXeaPjw) | [Application (Part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM) | [Application (Part 2)](https://www.youtube.com/watch?v=rMwEQZewDyk)
 * [To spawn, or not to spawn? - Saša Jurić](http://www.theerlangelist.com/article/spawn_or_not)
@@ -1901,7 +1920,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How We Replaced React With Phoenix - Blake Williams (Thoughtbot)](https://robots.thoughtbot.com/how-we-replaced-react-with-phoenix)
 * [Taking Off With Phoenix - Sonny Scroggin (Erlang Factory SF 2016)](https://www.youtube.com/watch?v=eSWNi5vRxU8) & [(NDC London 2016](https://vimeo.com/162047653)
 * [New Heights - Chris McCord (ElixirDaze 2016)](https://www.youtube.com/watch?v=E6RTBlO9TZQ)
-* Building Phoenix Battleships - Ricardo García Vega: [1: Designing the game mechanics](http://codeloveandboards.com/blog/2016/04/29/building-phoenix-battleship-pt-1/) | [2: Lobby Channel & Game Supervision](http://codeloveandboards.com/blog/2016/05/03/building-phoenix-battleship-pt-2/) | [3: Game setup](http://codeloveandboards.com/blog/2016/05/21/building-phoenix-battleship-pt-3/) | [4: Placing ships on board](http://codeloveandboards.com/blog/2016/07/28/building-phoenix-battleship-pt-4/) | [5: Let the battle begin!](http://codeloveandboards.com/blog/2016/08/08/building-phoenix-battleship-pt-5/)
+* Building Phoenix Battleships - Ricardo García Vega: [Github](https://github.com/bigardone/phoenix-elm-battleship) | [1: Designing the game mechanics](http://codeloveandboards.com/blog/2016/04/29/building-phoenix-battleship-pt-1/) | [2: Lobby Channel & Game Supervision](http://codeloveandboards.com/blog/2016/05/03/building-phoenix-battleship-pt-2/) | [3: Game setup](http://codeloveandboards.com/blog/2016/05/21/building-phoenix-battleship-pt-3/) | [4: Placing ships on board](http://codeloveandboards.com/blog/2016/07/28/building-phoenix-battleship-pt-4/) | [5: Let the battle begin!](http://codeloveandboards.com/blog/2016/08/08/building-phoenix-battleship-pt-5/)
 * [Phoenix a web framework for the new web - José Valim (Lambda Days 2016)](https://www.youtube.com/watch?v=MD3P7Qan3pw) | [#pivorak Lviv Ruby MeetUp](https://www.youtube.com/watch?v=Toluc5MCQWs)
 * [Phoenix is not Rails - Chris McCord](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails)
 * [Intro to Phoenix - José Valim (Elixir Warsaw Meetup)](https://www.youtube.com/watch?v=3LiLjVCDEpU)
@@ -2087,6 +2106,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - VIDEOS
 
+* [Code BEAM SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v)
+* [ElixirDaze 2018](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYH_aU7H-ExE2jrA-60qxH3)
 * [Empex 2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS)
 * [ElixirConf 2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * [Erlang & Elixir Factory SF 2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jtviHbf3fbBRWcaGDBC2u0)
@@ -2241,6 +2262,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [elm-lang.org/blog](http://elm-lang.org/blog)
 * [Gizra](http://www.gizra.com/tags.html#Elm-ref)
 * [LambdaCat](http://www.lambdacat.com/)
+* [Luca Mugnaini](https://medium.com/@l.mugnaini)
 * [NoRedInk](http://tech.noredink.com/)
 * [Magnus Rundberget](http://rundis.github.io/blog/)
 * [Simon Hampton](http://simonh1000.github.io/blog/)
@@ -2254,6 +2276,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - CODE EXAMPLES
 
 * [25 Elm examples - starting from an static view and gradually progressing to an interactive web app with routing - Bryan Jennings](https://github.com/bryanjenningz/25-elm-examples)
+* [elm-ballpool - Takahashi Yuto](https://github.com/y-taka-23/elm-ballpool)
 * [Exercism exercises in Elm](https://github.com/exercism/elm)
 * [elm-examples: Practical Elm examples - Eduard Kyvenko](https://github.com/halfzebra/elm-examples)
 * [Elm SPA example - Richard T Feldman](https://github.com/rtfeldman/elm-spa-example) & [Tour of an Open-Source Elm SPA](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa) & [Scaling Elm Apps - Richard Feldman (Elm Europe 2017)](https://www.youtube.com/watch?v=DoA4Txr4GUs&app=desktop)
@@ -2378,6 +2401,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - ELM-NATIVE-UI
 
+* [Elm native UI in production - Josh Steiner (Elm Europe 2017)](https://www.youtube.com/watch?v=Dr3kQB8byEo)
 * [Elm Native UI: Writing a React Native app in Elm - Ossi Hanhinen](http://ohanhi.github.io/elm-native-ui.html)
 * [elm-native-ui: Building mobile apps with Elm powered by React Native](https://github.com/ohanhi/elm-native-ui)
 
@@ -2424,6 +2448,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [elm-make](https://github.com/elm-lang/elm-make)
 * [elm-new: Generates a project scaffolding for rapid prototyping of Elm apps - Simone Vittori](https://github.com/simonewebdesign/elm-new)
 * [elm-lang/navigation - SPA routing / managing browser navigation](https://github.com/elm-lang/navigation)
+* [elm-paginate](http://package.elm-lang.org/packages/jschomay/elm-paginate)
 * [elm-plot](https://github.com/terezka/elm-plot) & [examples](https://terezka.github.io/elm-plot/)
 * [elm-router - Hassan Hayat](https://github.com/TheSeamau5/elm-router)
 * [elm-route-hash - Ryan Rempel](https://github.com/rgrempel/elm-route-hash)
@@ -2431,6 +2456,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [elm-undo-redo - Hassan Hayat](https://github.com/TheSeamau5/elm-undo-redo)
 * [elm-web-api - Ryan Rempel](https://github.com/rgrempel/elm-web-api)
 * [generator-elmlang (for Yeoman) - Gizra](https://github.com/Gizra/generator-elmlang)
+* [graphqelm](https://github.com/dillonkearns/graphqelm) | [Introducing Graphqelm, a Tool for Type-Safe GraphQL Queries - Dillon Kearns](https://discourse.elm-lang.org/t/introducing-graphqelm-a-tool-for-type-safe-graphql-queries/472)
 * [react-elm-components: Write React components in Elm - Evan Czaplicki](https://github.com/evancz/react-elm-components)
 * [tasksched - An opinionated Taskwarrior web UI. Great for scheduling when to do your tasks - Kamila Součková](https://github.com/AnotherKamila/tasksched)
 * [WebGL](http://package.elm-lang.org/packages/elm-community/webgl/2.0.0/WebGL)
@@ -2438,11 +2464,13 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - PHOENIX & ELM
 
 * [Phoenix & Elm landing page (pt.1) - Ricardo García Vega](http://codeloveandboards.com/blog/2017/12/02/phoenix-elm-landing-page-pt-1/) & [Part 2](http://codeloveandboards.com/blog/2017/12/23/phoenix-elm-landing-page-pt-2/) & [Part 3](http://codeloveandboards.com/blog/2018/01/06/phoenix-elm-landing-page-pt-3/)
+* [Elm and Phoenix: Two FP Flavors That Taste Great Together - Josh Adams (Erlang Factory 2017)](https://www.infoq.com/presentations/elm-phoenix)
+* [Elixir, Phoenix 1.3 , Elm and Webpack 3 - Denni Sivia](https://skeptic.blog/software-engineering/elixir-phoenix-elm-webpack/)
 * [firestorm: open-source forum engine with Elixir+Phoenix backend and Elm frontend - Josh Adams](https://github.com/dailydrip/firestorm)
 * Alex Koppel: [Launching Projects with Elm and Elixir](http://alexkoppel.com/launching-projects-with-elm-and-elixir/<Paste>) | [How it works: the Elm+Elixir Starter Kit](http://alexkoppel.com/elm-elixir-starter-kit-how-does-it-even-work/) | [elm-elixir-starter](https://github.com/arsduo/elm-elixir-starter)
 * [phoenix-elm-scaffold - Andrew MacMurray](https://github.com/andrewMacmurray/phoenix-elm-scaffold)
 * Bill Peregoy: Integrating Phoenix and Elm [Part 1](https://becoming-functional.com/integrating-phoenix-and-elm-part-1-b66cf4294d13) & [Part 2](https://becoming-functional.com/integrating-phoenix-and-elm-part-2-b611871cd70f) & [elm-divide Github repo](https://github.com/billperegoy/elm-divide)
-* Phoenix and Elm, a real use case - Ricardo García Vega: [Part 1: Introduction to creating a SPA with Phoenix and Elm](http://codeloveandboards.com/blog/2017/02/02/phoenix-and-elm-a-real-use-case-pt-1/) | [Part 2: Rendering the initial contact list](http://codeloveandboards.com/blog/2017/02/08/phoenix-and-elm-a-real-use-case-pt-2/) | [Part 3: Adding full text search and pagination navigation to the contact list](http://codeloveandboards.com/blog/2017/02/14/phoenix-and-elm-a-real-use-case-pt-3/) | [Part 4: Better state with union types, search resetting and keyed notes](http://codeloveandboards.com/blog/2017/02/23/phoenix-and-elm-a-real-use-case-pt-4/) | [Part 5: Implementing Elm routing](http://codeloveandboards.com/blog/2017/03/07/phoenix-and-elm-a-real-use-case-pt-5/) | [Part 6: Phoenix and Elm communication through WebSockets](http://codeloveandboards.com/blog/2017/03/19/phoenix-and-elm-a-real-use-case-pt-6/)
+* Phoenix and Elm, a real use case - Ricardo García Vega: [Github](https://github.com/bigardone/phoenix-and-elm) | [Part 1: Introduction to creating a SPA with Phoenix and Elm](http://codeloveandboards.com/blog/2017/02/02/phoenix-and-elm-a-real-use-case-pt-1/) | [Part 2: Rendering the initial contact list](http://codeloveandboards.com/blog/2017/02/08/phoenix-and-elm-a-real-use-case-pt-2/) | [Part 3: Adding full text search and pagination navigation to the contact list](http://codeloveandboards.com/blog/2017/02/14/phoenix-and-elm-a-real-use-case-pt-3/) | [Part 4: Better state with union types, search resetting and keyed notes](http://codeloveandboards.com/blog/2017/02/23/phoenix-and-elm-a-real-use-case-pt-4/) | [Part 5: Implementing Elm routing](http://codeloveandboards.com/blog/2017/03/07/phoenix-and-elm-a-real-use-case-pt-5/) | [Part 6: Phoenix and Elm communication through WebSockets](http://codeloveandboards.com/blog/2017/03/19/phoenix-and-elm-a-real-use-case-pt-6/)
 * [Creating a Chatroom Using Phoenix, Elm, and Websockets - Jeremy Bellows (Oct 2016)](http://www.jeremybellows.com/blog/Creating-a-Chatroom-Using-Phoenix-Elm-And-Websockets)
 * [Connecting Elm with Phoenix using Channels - Simon Hampton](http://simonh1000.github.io/2016/05/elm-phoenix-channels/)
 
@@ -2474,6 +2502,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - SPA
 
+* [Single Page Application Boilerplate for Elm - Luca Mugnaini](https://medium.com/@l.mugnaini/single-page-application-boilerplate-for-elm-160bb5f3eec2)
 * [Building a Single-Page App with Elm - Dave Thomas](http://7sharpnine.com/2016/10/03/building-an-spa-with-elm/)
 * [More on SPA navigation in Elm - Wouter In t Velt](https://medium.com/elm-shorts/more-on-spa-navigation-in-elm-31a066c6b9ae#.5xrtn02be)
 
@@ -2485,7 +2514,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * ElmConf: [2017](https://www.youtube.com/playlist?list=PLglJM3BYAMPFTT61A0Axo_8n0s9n9CixA) | [2016](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
 * [fncasts: streaming series building apps using Elm and Elixir. The first app is a chess game](https://www.youtube.com/channel/UCEVIBi0jFVXrCvd7CdVYxvw)
-* [Oslo Elm Day 2017](https://www.youtube.com/channel/UCe8Jqmf-R82Zm0nPOxFLqkg)
+* [Oslo Elm Day 2017](https://www.youtube.com/playlist?list=PLcAzxXzXQlPZsNcYycHittqeF3UG4dGli)
 * [Elm and React in production - Richard Feldman (ReactiveConf 2016)](https://www.youtube.com/watch?v=3FNKaGm3gk0)
 * [Elm Europe 2017](https://www.youtube.com/playlist?list=PL-cYi7I913S8cGyZWdN6YVZ028iS9BfpM)
 * [ElmConf 2016](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
@@ -2705,6 +2734,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Comparison of Erlang Runtime System and Java Virtual Machine - Tõnis Pool](http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf)
 * [Faults, Scaling, and Erlang concurrency - Joe Armstrong (Stanford University seminar 2014)](https://www.youtube.com/watch?v=YaUPdgtUYko)
 
+### ERLANG - TESTING
+
+#### ERLANG - TESTING - PROPERTY-BASED
+
+* [PropEr Testing - Fred Herbert](http://propertesting.com/)
+
 ### ERLANG - VIDEOS
 
 * [Intro to Erlang - Philip Clarke](https://www.youtube.com/watch?v=1QQSTayocdA)
@@ -2854,6 +2889,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Thorough Introduction to Apache Kafka™ - Stanislav Kozlovski](https://medium.com/@stanislavkozlovski/thorough-introduction-to-apache-kafka-6fbf2989bbc1)
 * [Toward a Functional Programming Analogy for Microservices - Bobby Calderwood](https://www.confluent.io/blog/toward-functional-programming-analogy-microservices/)
 * [Publishing with Apache Kafka at The New York Times - Boerge Svingen (Confluent)](https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/)
+* [Event sourcing using Kafka - Adam Warski](https://blog.softwaremill.com/event-sourcing-using-kafka-53dfd72ad45d)
 * [Lessons learned from Kafka in production - Tim Berglund](https://www.youtube.com/watch?v=1vLMuWsfMcA)
 * [Kafka Summit NYC 2017 videos & slides](https://www.confluent.io/kafka-summit-nyc17/resource/)
 * Ben Stopford (Confluent): [The Data Dichotomy- Rethinking the Way We Treat Data and Services](https://vimeo.com/205275868/4f90eb476f) | [Build Services on a Backbone of Events](https://www.confluent.io/blog/build-services-backbone-events/) | [Using Apache Kafka as a Scalable, Event-Driven Backbone for Service Architectures](https://www.confluent.io/blog/apache-kafka-for-service-architectures/) | [Chain Services with Exactly Once Guarantees](https://www.confluent.io/blog/chain-services-exactly-guarantees/) | [Messaging as the Single Source of Truth](https://www.confluent.io/blog/messaging-single-source-truth/) | [Leveraging the Power of a Database Unbundled](https://www.confluent.io/blog/leveraging-power-database-unbundled/) | [Building a Microservices Ecosystem with Kafka Streams and KSQL](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
@@ -3123,6 +3159,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### FUNCTIONAL PROGRAMMING - ML
 
 * [ML for the Working Programmer, 2nd Ed - Lawrence C. Paulson](http://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html)
+* [Programming in Standard ML ’97: A Tutorial Introduction - Stephen Gilmore](http://homepages.inf.ed.ac.uk/stg/NOTES/notes.pdf)
+* [Programming in Standard ML - Robert Harper](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
 
 ### FUNCTIONAL PROGRAMMING - MONADS
 
@@ -4100,6 +4138,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Learning How to Learn - Drs. Barbara Oakley & Terrence Sejnowski (Coursera)](https://www.coursera.org/learn/learning-how-to-learn/)
 * [Carnegie Mellon Open Learning Initiative](http://oli.cmu.edu/learn-with-oli/see-our-free-open-courses/)
 * [Coursera.org](https://www.coursera.org/)
+* [Daniel Kahneman: "Thinking, Fast and Slow"](https://www.youtube.com/watch?v=CjVQJdIrDJ0)
 * [EdX.org](https://www.edx.org/)
 * [Khan Academy](https://www.khanacademy.org/)
 * [MIT OpenCourseware](http://ocw.mit.edu/index.htm)
@@ -4557,6 +4596,7 @@ Peter R. Egli:
 ## OCAML
 
 * [Real-World OCaml - Yaron Minsky, Anil Madhavapeddy, and Jason Hickey](http://dev.realworldocaml.org/) & [Table of Contents (HTML)](http://dev.realworldocaml.org/toc.html)
+* [OCaml Visual Debugger - Jack Hughes](https://fyp.jackhughesweb.com/tasks/)
 * [Caml Trading - Yaron Minsky (Jane Street Capital)](https://www.youtube.com/watch?v=hKcOkWzj0_s)
 
 ### OCAML - REASON
@@ -4646,6 +4686,7 @@ Peter R. Egli:
 ### PRODUCT DEVELOPMENT - PROFESSIONALISM / EXCELLENCE / EFFICIENCY
 
 * [The Twelve-Factor App - Adam Wiggins](https://12factor.net/)
+* [Warren Buffet's Life Advice Will Change Your Future - Motivation Madness](https://www.youtube.com/watch?v=PX5-XyBNi00)
 * [10 Philosophies for Engineers - Jeff Meyerson](http://softwareengineeringdaily.com/2016/02/12/10-philosophies-for-developers/)
 * [Building a Culture of Learning - Joe Mastey (MountainWest RubyConf 2015)](http://confreaks.tv/videos/mwrc2015-building-a-culture-of-learning)
 * [Code Club - Saron Yitbarek (LoneStarRuby 2015)](http://confreaks.tv/videos/lonestarruby2015-code-club)
@@ -4759,6 +4800,10 @@ Peter R. Egli:
 
 * [Thinking Outside the Synchronisation Quadrant - Kevlin Henney (NDC {London} 2017)](https://www.youtube.com/watch?v=2yXtZ8x7TXw)
 * [Distributed, Eventually Consistent Computations - Christopher Meiklejohn](https://www.youtube.com/watch?v=lsKaNDj4TrE)
+
+### PROGRAMMING - CONSULTING
+
+* [The Prosperous Software Consultant - Nader Dabit](https://hackernoon.com/the-prosperous-software-consultant-5dc8d705c5dd)
 
 ### PROGRAMMING - DCI (DATA, CONTEXT, INTERACTIONS)
 
@@ -5501,6 +5546,7 @@ Peter R. Egli:
 * [Udemy.com Python courses](https://www.udemy.com/courses/search/?q=Python&p=1&price=price-free&view=grid) & [non-free](https://www.udemy.com/courses/search/?ref=home&q=Python)
 * [Python Notes/Cheatsheet](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
 * [Introduction to Computing using Python - David Joyner (Georgia Institute of Technology & EdX)](https://www.edx.org/course/introduction-computing-using-python-gtx-cs1301x)
+* [Invent With Python](https://inventwithpython.com/)
 * [Beginner Python 3+ tutorials - Harrison Kinsley](http://pythonprogramming.net/beginner-python-programming-tutorials/) & [All tutorials](http://pythonprogramming.net/dashboard/)
 * [Python 3 Tutorial - Bernd Klein](http://www.python-course.eu/python3_course.php) or [Python 2 Tutorial](http://www.python-course.eu/course.php)
 * [Learn to Program: The Fundamentals - Jennifer Campbell and Paul Gries - U of Toronto (Coursera)](https://www.coursera.org/course/programming1)
@@ -5534,19 +5580,19 @@ Peter R. Egli:
 * [Intro to Electrical Engineering and Computer Science I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/index.html)
 * The best way to learn Python - Charl Botha: [Part 1: Install Anaconda on Linux](https://www.youtube.com/watch?v=NwyIuWK80gQ), [Part 2: Install Anaconda on Windows](https://www.youtube.com/watch?v=oXnnRpTGT2M), [Part 3: Variables, control flow, plotting!](https://www.youtube.com/watch?v=84WRAisoEas), [Part 4: slicing, string interpolation, list comprehension](https://www.youtube.com/watch?v=KZRrY9uzO7c), [Part 5: Object-oriented programming and bouncing balls](https://www.youtube.com/watch?v=yJunB_tV1QI)
-* [Visualize Python code execution](http://www.pythontutor.com/visualize.html)
+* [Python Tutor: Visualize Python code execution - Philip Guo](http://www.pythontutor.com/visualize.html)
 * [Gotcha — Mutable default arguments](http://pythonconquerstheuniverse.wordpress.com/2012/02/15/mutable-default-arguments/) & [Common Gotchas](http://docs.python-guide.org/en/latest/writing/gotchas/)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 
 #### PYTHON - LEARNING - BOOKS (FREE)
 
+* [The Python Tutorial (Python 3)](https://docs.python.org/3/tutorial/) & [Python 2](http://docs.python.org/2/tutorial/index.html)
 * [Automate the Boring Stuff - Al Sweigart](https://automatetheboringstuff.com/#toc)
 * [A Byte of Python](http://files.swaroopch.com/python/byte_of_python.pdf)
 * [Functional Programming in Python - David Mertz](http://www.oreilly.com/programming/free/files/functional-programming-python.pdf)
 * [Fundamentals of Python - Richard L. Halterman](http://python.cs.southern.edu/pythonbook/pythonbook.pdf)
 * [Python Programming](http://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf)
 * [Python Tutorial (TutorialsPoint.com)](http://www.tutorialspoint.com/python/python_tutorial.pdf)
-* [The Python Tutorial (Python 3)](http://docs.python.org/3.4/tutorial/index.html) & [Python 2](http://docs.python.org/2/tutorial/index.html)
 * [Think Complexity](http://greenteapress.com/complexity/thinkcomplexity.pdf)
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
 * [Programming Python, 4th ed](http://it-ebooks.info/go.php?id=614-1376544793-f29d5b06b99ac32ba63d667a79d38ce9)
