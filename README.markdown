@@ -386,6 +386,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [The Next Frontier in AI: Unsupervised Learning - Yann LeCun](https://www.youtube.com/watch?v=IbjF5VjniVE)
 
+### ARTIFICIAL INTELLIGENCE (AI) - VIDEOS
+
+* [AI By the Bay 2017](https://www.youtube.com/playlist?list=PLNESult6cnOk3Q8tjfSIWy49Fz37l0wZU)
+* [Cognifest NYC 2017](https://www.youtube.com/playlist?list=PLNESult6cnOnwQuvT8LaRihdLYcTgKLov)
+
 ### ARTIFICIAL INTELLIGENCE (AI) - WEBSITES
 
 * [Insight Data Science](https://blog.insightdatascience.com/)
@@ -637,7 +642,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## CLEAN CODE
 
 * [Is Your Code Too SOLID? - Sarah Mei](http://forwardjs.com/university/is-your-code-too-solid)
-* [Move Slow and Mend Things - Kevlin Henney (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=1kklyq4XYpw)
+* [Move Slow and Mend Things - Kevlin Henney (VoxxedDays Zurich 2018)](https://www.youtube.com/watch?v=6j9Yl6fNMmc) & [[Devoxx Belgium 2017)](https://www.youtube.com/watch?v=1kklyq4XYpw)
 * [Why Senior Devs Write Dumb Code and How to Spot a Junior From A Mile Away - Scott Shipp](https://hackernoon.com/why-senior-devs-write-dumb-code-and-how-to-spot-a-junior-from-a-mile-away-27fa263b101a)
 * [Ideology - Gary Bernhardt (StrangeLoop 2015)](https://www.destroyallsoftware.com/talks/ideology)
 * [The Mediator Pattern - Brandur](https://brandur.org/mediator)
@@ -1343,6 +1348,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [KataCoda (interactive browser-based labs, courses, & playgrounds)](https://katacoda.com/learn)
 * [Kubernetes in production - blue-green deployment, auto scaling and deployment automation - Paul Bakker (Devoxx UK 2016)](https://www.youtube.com/watch?v=-Ci4vd4rh4M)
 
+#### DEVOPS - KUBERNETES - ARGO
+
+* [Argo: The workflow engine for Kubernetes](https://applatix.com/open-source/argo/) | [Github](https://github.com/argoproj/argo)
+
 #### DEVOPS - KUBERNETES - HELM
 
 * Helm (package manager for Kubernetes): [Website](https://helm.sh/) | [docs](https://docs.helm.sh/) | [Github](https://github.com/kubernetes/helm) | [Twitter](https://twitter.com/helmpack)
@@ -1363,6 +1372,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Prometheus](https://hub.kubeapps.com/charts/stable/prometheus)
 * [Selenium](https://hub.kubeapps.com/charts/stable/selenium)
 * [Spark](https://hub.kubeapps.com/charts/stable/spark)
+
+#### DEVOPS - KUBERNETES - DEPLOYMENT (KUBERNETES)
+
+* [Kafka Operator: Managing and Operating Kafka Clusters in Kubernetes [A] - Nenad Bogojevic](https://www.youtube.com/watch?v=jAz8sdO1rgE)
+* [Lessons learned form Kafka in production Tim Berglund (2017)](https://www.youtube.com/watch?v=1vLMuWsfMcA)
 
 #### DEVOPS - KUBERNETES - KUBECTX
 
@@ -1386,6 +1400,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [CNCF (Cloud Native Computing Foundation) video playlists](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA/playlists)
 * [KubeCon + CloudNativeCon 2017 - Austin](https://www.youtube.com/playlist?list=PLj6h78yzYM2P-3-xqvmWaZbbI1sW-ulZb)
+
+### DEVOPS - TITUS
+
+* [Titus (Github.com/Netflix)](https://github.com/Netflix/titus)
+* [Titus, the Netflix container management platform, is now open source - Netflix Technology Blog](https://medium.com/@NetflixTechBlog/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436)
 
 ### DEVOPS - ISTIO.IO
 
@@ -1475,6 +1494,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Distributed Systems and the End of the API - Chas Emerick](https://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/) & [talk slides](https://speakerdeck.com/cemerick/distributed-systems-and-the-end-of-the-api)
 * [Distributed Systems and the End of the API - Chas Emerick](https://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/) & [talk slides](https://speakerdeck.com/cemerick/distributed-systems-and-the-end-of-the-api)
 * [Readings in distributed systems - Christopher Meiklejohn](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
+* [Four Distributed Systems Architectural Patterns - Tim Berglund (Devoxx Poland 2017)](https://www.youtube.com/watch?v=tpspO9K28PM)
+* [Distributed Systems In One Lesson - Tim Berglund (Devoxx Poland 2017)](https://www.youtube.com/watch?v=OJwp4kroTM8)
+* [The Path Towards Simplifying Consistency in Distributed Systems - Caitie McCaffrey (DeconstructConf 2017)](https://www.deconstructconf.com/2017/caitie-mccaffrey-the-path-towards-simplifying-consistency-in-distributed-systems)
 
 ## DOCUMENTATION
 
@@ -1741,6 +1763,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - DEBUGGING
 
+* [Debugging & Tracing Elixir Applications - Dimitris Zorbas](https://zorbash.com/post/debugging-elixir-applications/)
 * [Debugging - Elixir-lang.org](https://elixir-lang.org/getting-started/debugging.html)
 * [Debugging techniques in Elixir - Erich Kist](http://blog.plataformatec.com.br/2016/04/debugging-techniques-in-elixir-lang/)
 * Credo: [Website](http://credo-ci.org/) | [Github](https://github.com/rrrene/credo) | [Credo: A static code analysis tool for the Elixir language with a focus on code consistency and teaching - René Föhring](https://github.com/rrrene/credo)
@@ -2037,6 +2060,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir/Phoenix — Build a simple chat room - Stephan Bakkelund Valois](https://medium.com/@Stephanbv/elixir-phoenix-build-a-simple-chat-room-7f20ee8e8f9c#.gduhrghi2)
 * [Authentication in Phoenix/Elixir app with Ueberauth and Guardian - Ulan Abdurazakov](https://www.youtube.com/watch?v=X6Z-sDSJ3sE)
 
+#### ELIXIR - PHOENIX - CHANNELS
+
+* [Phoenix WebSockets Under a Microscope - Dimitris Zorbas](https://zorbash.com/post/phoenix-websockets-under-a-microscope/)
+
 #### ELIXIR - PHOENIX - DEPLOYMENT
 
 * [Distillery: Phoenix Walkthrough](https://hexdocs.pm/distillery/phoenix-walkthrough.html)
@@ -2243,6 +2270,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
 * [Functional Programming in Elm - Evan Czaplicki](https://www.gitbook.com/book/evancz/functional-programming-in-elm/details)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
+* [Elm at Pacific Health Dynamics - Joseph Ni](https://legacy.gitbook.com/book/mordrax/elm-at-phd/details)
 * [A Peek into the Elm Architecture - Jayaram Sankaranarayana (Functional Conf Bangalore, Nov 2017)](https://www.infoq.com/presentations/elm-architecture)
 * [Destination: Web -- Friendly, Typed, and Functional: A Brief Introduction to Elm - Brian Ford (Uber)](https://www.youtube.com/watch?v=Fv63jUr9M_8)
 * [Make Web Apps Fun to Build and Easy to Refactor with Elm - Daniel Bachler (GOTO Berlin 2017)](https://www.youtube.com/watch?v=ehtn81p06Ow)
@@ -3050,9 +3078,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ##### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA STREAMS - KSQL
 
+* [Building a Real-Time Streaming Platform with Oracle, Apache Kafka, and KSQL - Gwen Shapira](https://www.youtube.com/watch?v=bc4wfzuCbAo)
 * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka - Neha Narkhede](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
 * [KSQL: A Streaming SQL Engine for Apache Kafka - Tim Berglund](https://www.youtube.com/watch?v=A45uRzJiv7I)
 * [Confluent Releases KSQL, a Distributed Streaming SQL Engine for Apache Kafka - Srini Penchikala](https://www.infoq.com/news/2017/10/apache-kafka-ksql)
+* [KSQL from Confluent: Streaming SQL for Apache Kafka® - Tim Berglund](https://www.youtube.com/watch?v=A45uRzJiv7I)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - SECURITY
 
@@ -3215,6 +3245,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * LambdaDays: [2018](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl)
 * LambdaConf (λC): [2017](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhx5bgmpAgqArzrh0pL-tc3P) | [2017 Winter Retreat](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhy9wMify6MXW6F339W4g4Eo) | [2016](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos) | [2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
+* [Scale by the Bay 2017](https://www.youtube.com/playlist?list=PLNESult6cnOkDeaaEhq192kdsbMPc3dIJ)
 * [MoonConf 2016](https://www.youtube.com/playlist?list=PLWYAdh9hA7geMRCgwDomlHAdwlsno32LU&spfreload=10)
 * [All the FP Talks at NDC Oslo 2016](http://theburningmonk.com/2016/06/all-the-fp-talks-at-ndc-oslo-2016/)
 * [Curry On 2016](http://www.curry-on.org/2016/)
@@ -3249,6 +3280,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
 
 * [Categories for the Working Hacker - Philip Wadler (Lambda Days 2018)](https://www.youtube.com/watch?v=jm_TObUiTHM)
+* [Category Theory Overview - Bartosz Milewski (ACM UPM)](https://www.youtube.com/watch?v=lJFUdWi3mDs)
+* [Functors and Natural Transformations - Bartosz Milewski (ACM UPM)](https://www.youtube.com/watch?v=_ZRRtbT1ghk)
 * [Crash Course in Category Theory - Bartosz Milewski (ScalaIO France 2017)](https://www.youtube.com/watch?v=JH_Ou17_zyU)
 * Category Theory for Programmers - Bartosz Milewski: [Book PDF](https://github.com/hmemcpy/milewski-ctfp-pdf) & [Youtube lectures](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 * [A Pragmatic Introduction to Category Theory - Daniela Sfregola (Lambda.World 2017)](https://www.youtube.com/watch?v=MvQxNm5gn8g)
@@ -3369,6 +3402,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Type introduction illustrated for casual Haskellers - Takenobu T.](http://takenobu-hs.github.io/downloads/type_introduction_illustrated.pdf)
 * [Write You a Haskell: Building a modern functional compiler from first principles - Stephen Diehl](http://dev.stephendiehl.com/fun/WYAH.pdf)
 * [Learn Haskell](https://github.com/bitemyapp/learnhaskell) | [Specific topics for Haskell users](https://github.com/bitemyapp/learnhaskell/blob/master/specific_topics.md)
+* [Happy Learn Haskell Tutorial - Julian Leviston](http://www.happylearnhaskelltutorial.com/contents.html)
 * [PlanetHaskell](http://planet.haskell.org/)
 * [Haskell Koans - Vancouver Haskell Meetup](https://github.com/HaskVan/HaskellKoans)
 * [Modeling Data in Haskell for Beginners - Chris Allen (LambdaConf 2015)](https://www.youtube.com/watch?v=p-NBJm0kIYU)
@@ -4141,6 +4175,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### JAVASCRIPT - RXJS
 
 * André Staltz: [RxJS v4.0 book](https://xgrommx.github.io/rx-book/) & [Introduction to Reactive Programming (videos on Egghead.io)](https://egghead.io/courses/introduction-to-reactive-programming)
+* [Learn RxJS - Brian Troncone](https://legacy.gitbook.com/book/btroncone/learn-rxjs/details)
+* [Rxjs 5 Ultimate - Chris Noring](https://legacy.gitbook.com/book/chrisnoring/rxjs-5-ultimate/details)
 * [RxJS - What and Why? - Academind](https://www.youtube.com/watch?v=T9wOu11uU6U)
 * [RxJS Quick Start with Practical Examples](https://www.youtube.com/watch?v=2LCo926NFLI)
 
@@ -4173,6 +4209,10 @@ Links to resources I have found useful or think might be helpful to future me or
 #### JAVASCRIPT - TESTING - SINON.JS
 
 * [Sinon.js](http://sinonjs.org/)
+
+### JAVASCRIPT - TYPESCRIPT
+
+* [TypeScript Deep Dive - Basarat Ali Syed](https://legacy.gitbook.com/book/basarat/typescript/details)
 
 ### JAVASCRIPT - TOOLS
 
@@ -4289,6 +4329,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### LINUX - COMMAND LINE
 
+* [Really Friendly Command Line Intro - Tracy Osborn](http://hellobks.com/cmd-line-pdf)
 * TLDR Pages: Simplified and community-driven man pages: [website](http://tldr.sh) | [live demo](https://tldr.ostera.io/) | [installation](http://tldr.sh/#installation) | [PDF](http://tldr.sh/assets/tldr-book.pdf)
 
 ### LINUX - NETWORKING
@@ -5069,6 +5110,8 @@ Peter R. Egli:
 
 ### PROGRAMMING - VIDEOS
 
+* [VoxxedDays Zurich 2018](https://www.youtube.com/playlist?list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL)
+* DeconstructConf: [2017](https://www.deconstructconf.com/2017)
 * Devoxx: [Belgium 2017](https://www.youtube.com/playlist?list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo) | [Poland 2017](https://www.youtube.com/playlist?list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH)
 * [GOTO channel](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
   * [GOTO Chicago 2017](https://www.youtube.com/playlist?list=PLEx5khR4g7PJ94PpgvNx6WohYcGQHY9UJ)
@@ -5357,6 +5400,7 @@ Peter R. Egli:
 
 ### SCALA - VIDEOS
 
+* [SF Scala](https://www.youtube.com/playlist?list=PLNESult6cnOnmztz0DKuS3n5tKBoRz2yP)
 * Scala Days: [2017](https://www.youtube.com/playlist?list=PLLMLOC3WM2r5Ei2mnSHCD-ZD04AXovttL) | [2016](https://www.youtube.com/playlist?list=PLLMLOC3WM2r4aQCKJxxPlrEhJ8tdGWjXj)
 * [Scalawags](https://www.youtube.com/channel/UCHxNwi3l5CGZo1kG47k7i2Q)
 * [Learn Scala in One Video - Derek Banas](https://www.youtube.com/watch?v=DzFt0YkZo8M)
