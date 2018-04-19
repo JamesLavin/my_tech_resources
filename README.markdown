@@ -32,6 +32,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Software 2.0 - Andrej Karpathy](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 * Deep Learning - Ian Goodfellow, Yoshua Bengio, and Aaron Courville (MIT Press): [Chapters](http://www.deeplearningbook.org/) | [Lectures](http://www.deeplearningbook.org/lecture_slides.html) | [Videos - Part 1](https://www.youtube.com/playlist?list=PLsXu9MHQGs8cshZb3YUdtBhcu3LQp0Ax9) | [Videos - Part 2](https://www.youtube.com/playlist?list=PLsXu9MHQGs8fY0IMmV5OAGTdNP4EGwpj1) | [Companion Videos](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
 * [Siraj Raval's "Artificial Intelligence Education" videos](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)
+* [AI School (Microsoft)](https://aischool.microsoft.com/learning-paths)
 * [AI and Deep Learning - Two Minute Papers - Károly Zsolnai-Fehér](https://www.youtube.com/playlist?list=PLujxSBD-JXglGL3ERdDOhthD3jTlfudC2) & [Two Minute Papers](https://www.youtube.com/playlist?list=PLujxSBD-JXgnqDD1n-V30pKtp6Q886x7e)
 * Andreessen Horowitz: [AI and Deep Learning - Frank Chen](https://a16z.com/2016/06/10/ai-deep-learning-machines/) | [AI: What's Working, What's Not](https://a16z.com/2017/12/07/summit-ai-update-frank-chen/) | [AI Playbook](http://aiplaybook.a16z.com/)
 * [12 Amazing Deep Learning Breakthroughs of 2017 - Mariya Yao](https://www.topbots.com/12-amazing-artificial-intelligence-deep-learning-breakthroughs-2017/)
@@ -196,6 +197,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Chipin](https://www.chipin.com/artificial-intelligence/)
 * [Distill.pub](https://distill.pub/)
 * [Futurism](https://futurism.com/artificialintelligence/)
+* [Google](https://ai.google/)
 * [HackerNoon.com](https://hackernoon.com/artificial-intelligence/home)
 * [Import AI Newsletter - Jack Clark](http://us13.campaign-archive1.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
 * [Kate Crawford](https://twitter.com/katecrawford)
@@ -464,13 +466,19 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### BUSINESS - ENTREPRENEURSHIP - ADVICE
 
+* [Startup Class (Sam Altman)](http://startupclass.samaltman.com/)
+* [Indie Hackers](https://www.indiehackers.com/)
 * [20 Ways to Blow Up Your Company - Jason Mendelson](https://www.youtube.com/watch?v=I8zHfCqz9qY)
 * [13 Reasons My Startup FAILED - Russell Keith-Magee (Djangocon.us 2017)](https://www.youtube.com/watch?v=OOTThZReAdA)
 * [The Lean Start-up - Ash Maurya’s keynote speech (Start-up Showcase 2017)](https://www.youtube.com/watch?v=r8PjvpH4yng)
 * [The Lean Startup - Eric Ries (Talks at Google)](https://www.youtube.com/watch?v=fEvKo90qBns)
 * [Lean Startup Co. videos](https://www.youtube.com/user/leanstartupconf/playlists)
+* Marc Andreessen: [Part 1: Why not to do a startup](https://pmarchive.com/guide_to_startups_part1.htm://pmarchive.com/guide_to_startups_part1.html) | [Part 2: When the VCs say "no"](https://pmarchive.com/guide_to_startups_part2.html) | [Part 3: "But I don't know any VCs!"](https://pmarchive.com/guide_to_startups_part3.html) | [Part 4: The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html) | [Part 5: The Moby Dick theory of big companies](https://pmarchive.com/guide_to_startups_part5.html) | [Part 6: How much funding is too little? Too much?](https://pmarchive.com/guide_to_startups_part6.html) | [Part 7: Why a startup's initial business plan doesn't matter that much](https://pmarchive.com/guide_to_startups_part7.html) | [Part 8: Hiring, managing, promoting, and firing executives](https://pmarchive.com/guide_to_startups_part8.html) | [Part 9: How to hire a professional CEO](https://pmarchive.com/guide_to_startups_part9.html)
+* [Paul Graham essays](http://www.paulgraham.com/articles.html)
 * [The single biggest reason why startups succeed - Bill Gross (TED)](https://www.youtube.com/watch?v=bNpx7gpSqbY)
+* [YC’s Essential Startup Advice - Geoff Ralston and Michael Seibel](https://blog.ycombinator.com/ycs-essential-startup-advice/)
 * [Beyond the Business Model - Ash Maurya](https://www.youtube.com/watch?v=Qyq3SCxjqgE)
+* [Startup Hacks - Alex Iskold](https://alexiskold.net/)
 * [10 Things The Rich Do That The Poor Don't - Why You Are Still Broke - Practical Wisdom](https://www.youtube.com/watch?v=nr76bupxjco)
 * [Evidence-based Entrepreneurship - Steve Blank (The Lean Startup Conference 2013)](https://www.youtube.com/watch?v=zjvEanpktEo)
 * [Tim Ferriss's advice on starting a business or podcast - Tim Ferriss](https://www.youtube.com/watch?v=ymiBDged-eQ)
@@ -496,9 +504,37 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### BUSINESS - ENTREPRENEURSHIP - FINANCING
 
+* [A Guide to Seed Fundraising - Geoff Ralston](https://ycombinator.wpengine.com/how-to-raise-a-seed-round/)
+* [If You Take Venture Capital, You’re Forcing Your Company To Exit - Luke Kanies](https://medium.com/s/understanding-venture-capital/if-you-take-venture-capital-youre-forcing-your-company-to-exit-fc08fcdb32cc)
+
+##### BUSINESS - ENTREPRENEURSHIP - FINANCING - CROWDFUNDING SITES
+
+* [AngelList](https://angel.co/)
+* [CircleUp](https://circleup.com/)
+* [CrowdCube (UK)](https://www.crowdcube.com/)
+* [EquityNet](https://www.equitynet.com/)
+* [FlashFunders](https://www.flashfunders.com/)
+* [Fundable](https://www.fundable.com/)
+* [FundedByMe (EU)](https://www.fundedbyme.com/en/)
+* [FundersClub](https://fundersclub.com/)
+* [Gust](https://gust.com/)
+* [IndieGogo](https://equity.indiegogo.com/)
+* [Kickstarter](https://www.kickstarter.com/)
+* [MicroVentures](https://microventures.com/)
+* [NextSeed](https://www.nextseed.com/)
+* [OurCrowd](https://www.ourcrowd.com/)
+* [SeedInvest](https://www.seedinvest.com/)
+* [Seedrs](https://www.seedrs.com/)
+* [StartEngine](https://www.startengine.com/)
+* [SyndicateRoom](https://www.syndicateroom.com/)
+* [WeFunder](https://wefunder.com/)
+* [Zopa (UK)](https://www.zopa.com/)
+
+##### BUSINESS - ENTREPRENEURSHIP - FINANCING - CROWDFUNDING INFO
+
 * [Equity Crowdfunding Explained: Jargon Free - Entrepreneur](https://www.youtube.com/watch?v=5f_v___rceA)
 * [Investment Crowdfunding 101 (also known as Equity Crowdfunding) - Eazl.co](https://www.youtube.com/watch?v=R7YxdukRlNE)
-* [If You Take Venture Capital, You’re Forcing Your Company To Exit - Luke Kanies](https://medium.com/s/understanding-venture-capital/if-you-take-venture-capital-youre-forcing-your-company-to-exit-fc08fcdb32cc)
+* [CrowdFund.co](http://crowdfund.co/blog/)
 
 ### BUSINESS - PODCASTS
 
@@ -1269,6 +1305,28 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Ducktape: Distributed System Integration & Performance Testing Library - Confluent](https://github.com/confluentinc/ducktape)
 
+### DEVOPS - GOOGLE CLOUD
+
+* Gcloud: [Overview](https://cloud.google.com/sdk/gcloud/) | [Compute Concepts](https://cloud.google.com/compute/docs/concepts) | [SDK Concepts](https://cloud.google.com/sdk/docs/concepts) | [Reference](https://cloud.google.com/sdk/gcloud/reference/) | [Compute How-Tos](https://cloud.google.com/compute/docs/how-to) | [SDK How-Tos](https://cloud.google.com/sdk/docs/how-to)
+* [Creating and Starting a VM Instance](https://cloud.google.com/compute/docs/instances/create-start-instance)
+* [Setting up Jenkins on Kubernetes Engine](https://cloud.google.com/solutions/jenkins-on-kubernetes-engine-tutorial)
+
+#### DEVOPS - GOOGLE CLOUD - SERVICES
+
+* [All Products](https://cloud.google.com/products/)
+* [CDN (Content Delivery Network)](https://cloud.google.com/cdn/)
+* [Cloud SDK](https://cloud.google.com/sdk/)
+* [Container Builder](https://cloud.google.com/container-builder/)
+* [Container Registry](https://cloud.google.com/container-registry/)
+* [DNS](https://cloud.google.com/dns/)
+* [Kubernetes](https://cloud.google.com/kubernetes-engine/) | [Pricing](https://cloud.google.com/kubernetes-engine/pricing) | [Quickstart](https://cloud.google.com/kubernetes-engine/docs/quickstart) | [Tutorials](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Deploying a containerized web application](https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app)
+* [Load Balancing](https://cloud.google.com/load-balancing/)
+* [PostgreSQL](https://cloud.google.com/sql/docs/postgres/) | [Concepts](https://cloud.google.com/sql/docs/postgres/concepts) | [How-Tos](https://cloud.google.com/sql/docs/postgres/how-to) | [APIs](https://cloud.google.com/sql/docs/postgres/apis) | [Resources](https://cloud.google.com/sql/docs/postgres/resources) | [Pricing](https://cloud.google.com/sql/pricing#pg-pricing)
+* [Security Scanner](https://cloud.google.com/security-scanner/)
+* [Source Code Repository](https://cloud.google.com/source-repositories/)
+* [Stackdriver (Monitoring, Logging, Diagnostics)](https://cloud.google.com/stackdriver/)
+* [VPC (Virtual Private Cloud)](https://cloud.google.com/vpc/)
+
 ### DEVOPS - KUBERNETES
 
 * Kubernetes: [Docs](https://kubernetes.io/) | [Kubernetes API](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.9/) | [Basic tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Tutorials](https://kubernetes.io/docs/tutorials/) | [Tasks](https://kubernetes.io/docs/tasks/) | [Concepts](https://kubernetes.io/docs/concepts/) | [Github](https://github.com/kubernetes/kubernetes)
@@ -1694,6 +1752,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - DEPLOYMENT
 
 * A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes - Rohan Relan: [Part 1: Setting up Distillery](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-1-setting-up-d88b35b64dcd) | [Part 2: Docker and Minikube](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-2-docker-and-81e934c3fceb) | [Part 3: Deploying to Kubernetes](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-3-deploying-to-bd5b1fcbef87) | [Part 4: Secret Management](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-4-secret-f851d575bdd1) | [Part 5: Clustering Elixir & Phoenix Channels](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-5-clustering-6c30fcd35ce1)
+* [Release, Deploy, Monitor and Upgrade Elixir Services in Real World - Tian Chen (Code BEAM SF 2018)](https://www.youtube.com/watch?v=kwHtlmyxE6c)
+* [Packaging for Production - Anthony Molinaro (Code BEAM SF 2018)](https://www.youtube.com/watch?v=AXY0d0YXQSU)
 * [How to configure and deploy an Elixir app to a VPS - Konrad Piekutowski](https://www.amberbit.com/blog/2017/7/17/deploy-elixir-app-to-a-vps/)
 * Deploy Early and Often: Deploying Phoenix with Edeliver and Distillery - Zek Interactive: [Part 1](https://medium.com/@zek/deploy-early-and-often-deploying-phoenix-with-edeliver-and-distillery-part-one-5e91cac8d4bd) & [Part 2](https://medium.com/@zek/deploy-early-and-often-deploying-phoenix-with-edeliver-and-distillery-part-two-f361ef36aa10)
 * [State of the art in deploying Elixir / Phoenix applications - Piotr Włodarek](https://hackernoon.com/state-of-the-art-in-deploying-elixir-phoenix-applications-fe72a4563cd8)
@@ -1811,6 +1871,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - EVENT SOURCING/CQRS
 
+* [CQRS and Event Sourcing - Bernardo Amorim (Code Beam SF 2018)](https://www.youtube.com/watch?v=S3f6sAXa3-c)
 * [Building CQRS/ES web applications in Elixir using Phoenix - Ben Smith](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/) | [Building a CQRS/ES web application in Elixir using Phoenix](https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/) | [PDF](https://10consulting.com/presentations/2017-03-23-building-cqrs-web-applications-in-elixir.pdf)
 * [Dealing with eventual consistency in a CQRS/ES application - Ben Smith](https://10consulting.com/2017/10/06/dealing-with-eventual-consistency/)
 * [Eventstore: CQRS event store using PostgreSQL for persistence - Ben Smith](https://github.com/slashdotdash/eventstore)
@@ -1851,6 +1912,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - GRAPHQL
 
+* [A GraphQL-on-Elixir Primer - Bruce Williams (Code Beam SF 2018)](https://www.youtube.com/watch?v=enbksvAko98)
 * [Phoenix GraphQL Tutorial with Absinthe - Ryan Swapp](https://ryanswapp.com/2016/11/29/phoenix-graphql-tutorial-with-absinthe/)
 * [GraphQL in Practice - Bruce Williams & Benjamin Wilson (ElixirConf.EU 2017)](https://www.youtube.com/watch?v=d2qNlXtpWXM)
 
@@ -1863,7 +1925,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Using Functions in Elixir Guard Clauses - Chris Keathley](http://keathley.io/2016/04/09/elixir-guard-clauses.html)
 * [Down the Rabbit Hole: Defining a guard-safe modulo operation in Elixir - Wiebe-Marten](https://medium.com/@W_Mcode/down-the-rabbit-hole-defining-a-guard-safe-modulo-operation-in-elixir-6335ade7c078)
-* [Elixir in Elixir - Jay Hayes (Elixir & Phoenix Conf 2016](https://www.youtube.com/watch?v=p8MGNw045AE) & [Getting Started with Elixir Metaprogramming (blog post)](https://www.bignerdranch.com/blog/getting-started-with-elixir-metaprogramming/)
+* Jay Hayes: [Metaprogramming: Programs That Write Programs](https://www.youtube.com/watch?v=S_WtnSrfR5s) | [Elixir in Elixir - (Elixir & Phoenix Conf 2016](https://www.youtube.com/watch?v=p8MGNw045AE) & [Getting Started with Elixir Metaprogramming (blog post)](https://www.bignerdranch.com/blog/getting-started-with-elixir-metaprogramming/)
 * [Macros - Jason Cummings (ElixirDaze 2017)](https://www.youtube.com/watch?v=9CkZJ2kgNNs)
 * [Understanding Elixir Macros, Part 1 - Basics - Saša Jurić](http://www.theerlangelist.com/article/macros_1), [Part 2 - Micro theory](http://www.theerlangelist.com/article/macros_2), [Part 3 - Getting into the AST](http://www.theerlangelist.com/article/macros_3), [Part 4 - Diving Deeper](http://www.theerlangelist.com/article/macros_4), [Part 5 - Reshaping the AST](http://www.theerlangelist.com/article/macros_5), [Part 6 - In-place code generation](http://www.theerlangelist.com/article/macros_6)
 * [Writing a simple macro in Elixir - Dave Thomas](https://www.youtube.com/watch?v=LsLWezjV9Fo)
@@ -1906,6 +1968,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Hex.pm (Erlang & Elixir package manager)](https://hex.pm/)
 * [ExActor: Simplifies implementation of GenServer-based processes - Saša Jurić](https://github.com/sasa1977/exactor)
+* [Tesla: flexible HTTP client library for Elixir, with support for middleware and multiple adapters](https://github.com/teamon/tesla)
 * [con_cache: ETS-based key/value cache with row level isolated writes and ttl support - Saša Jurić](https://github.com/sasa1977/con_cache)
 * [Vex: Data Validation for Elixir - CargoSense](https://github.com/CargoSense/vex)
 * [Elixir Package Building & Publishing - Step by Step Guide From Scratch - Blackode](https://www.youtube.com/watch?v=Fh1fKF2tHk0)
@@ -2053,6 +2116,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PROJECTS
 
+* [Bamboo: Testable, composable, and adapter based Elixir email library (Thoughtbot)](https://github.com/thoughtbot/bamboo)
+* [Moebius: Functional (database) query tool for Elixir (Rob Conery)](https://github.com/robconery/moebius)
 * [Learn Elixir: Building a Neural Network from Scratch - Karmen Blake (ElixirDaze 2016)](https://www.youtube.com/watch?v=YE0h9DURSOo)
 * [Adventures in Robotics with Elixir by Jean-François Cloutier (ElixirDaze 2016)](https://www.youtube.com/watch?v=N_PXas9LtzU)
 * [Building a non-trivial robotic brain in Elixir - Jean F. Cloutier (Boston Elixir - January 2016)](https://www.youtube.com/watch?v=K4od_XhuMrk) & [Robot.ex blog](http://jfcloutier.github.io/robotex/)
@@ -2121,6 +2186,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - TYPES - DIALYZER/DIALYXIR
 
+* [Hype For Types Using Dialyzer to Bring Type Checking to Your Elixir Code - Emma Cunningham (Code Beam SF 2018)](https://www.youtube.com/watch?v=yZO6FkkdJEg)
 * [Dialyxir](https://github.com/jeremyjh/dialyxir) & [Dialyzer](http://erlang.org/doc/man/dialyzer.html)
 * Dialyzer Optimistic Type Checking for Erlang and Elixir - Jason Voegele: [ElixirConf 2016](https://www.youtube.com/watch?v=JT0ECYZ9FaQ) | [λC 2016](https://www.youtube.com/watch?v=FXCMiQWnWu0)
 * [Practical Type Inference Based on Success Typings - Tobias Lindahl & Konstantinos Sagonas](http://user.it.uu.se/~kostis/Papers/succ_types.pdf)
@@ -2132,12 +2198,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - VIDEOS
 
+* Lonestar ElixirConf: [2018](https://www.youtube.com/playlist?list=PLGqeEOaC5KsQt7r8KCOzfDgcqsvy_-hCN) | [2017](http://confreaks.tv/events/lonestarelixir2017)
 * [Code BEAM SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v)
 * [ElixirDaze 2018](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYH_aU7H-ExE2jrA-60qxH3)
 * [Empex 2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS)
 * [ElixirConf 2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * [Erlang & Elixir Factory SF 2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jtviHbf3fbBRWcaGDBC2u0)
-* [Lone Star Elixir 2017](http://confreaks.tv/events/lonestarelixir2017)
 * ElixirDaze: [2017 videos](http://confreaks.tv/events/elixirdaze2017) | [2016 videos (Youtube)](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH) | [2016 videos (Confreaks)](http://confreaks.tv/events/elixirdaze2016)
 * [Josh Adams working on Firestorm UI](https://www.twitch.tv/dailydrip/videos/all)
 * ElixirConf: [2016 videos](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYoiEKWny0Jj72iu564bVFD) | [2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H) | [2014 videos](http://confreaks.tv/events/elixirconf2014)
@@ -2741,6 +2807,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ERLANG - OTP
 
 * [Essential Erlang/OTP - Garrett Smith](https://www.youtube.com/watch?v=0ZGHzI9F5YE)
+* [gen_statem - The Tool You Never Knew You Always Wanted - Raimo Niskanen (Code BEAM SF 2018)](https://www.youtube.com/watch?v=f_jl6MR3kXQ)
 * [OTP Has Done It - Nick DeMonner (ElixirConf 2015)](https://www.youtube.com/watch?v=yBReonQlfL4)
 * [The Pooler Story: How I Learned OTP by Writing a Connection Pool - Seth Falcon (Erlang Factory SF 2013)](https://www.youtube.com/watch?v=BTuJtqvbpI8)
 * [The Zen of Erlang - Fred Hebert (Reactive Summit 2016)](https://www.youtube.com/watch?v=4ZIPijEqrNI)
@@ -2963,6 +3030,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Apache Kafka Streams API - Tim Berglund (Confluent): [1. Intro to Streams](https://www.youtube.com/watch?v=Z3JKCLG3VP4) | [2. Creating a Streams Application](https://www.youtube.com/watch?v=LxxeXI1mPKo) | [3. Transforming Data, Part I](https://www.youtube.com/watch?v=7JYEEx7SBuE) | [4. Transforming Data II](https://www.youtube.com/watch?v=3kJgYIkAeHs)
 * [Inventory Microservice example with Kafka Streams and CQRS - Sanjay Acharya](https://sleeplessinslc.blogspot.com/2018/02/inventory-microservice-example-with.html)
+* [Of Streams and Tables in Kafka and Stream Processing, Part 1 - Michael G. Noll](http://www.michael-noll.com/blog/2018/04/05/of-stream-and-tables-in-kafka-and-stream-processing-part1/)
 * [Getting Started With the Kafka Streams API](https://kafka.apache.org/documentation/streams/)
 * [Kafka Streams documentation](https://kafka.apache.org/documentation/streams/)
 * [Kafka Music demo application for the Kafka Streams API - Confluent](https://docs.confluent.io/current/streams/kafka-streams-examples/docs/index.html)
@@ -2992,6 +3060,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - PRODUCTIONIZING
 
+* [Kubernetes-kafka: Kafka cluster as Kubernetes StatefulSet, plain manifests and config](https://github.com/Yolean/kubernetes-kafka)
+* [Kafka in Docker - Spotify](https://github.com/spotify/docker-kafka)
+* [Kafka-docker](https://github.com/wurstmeister/kafka-docker)
+* [Ches/kafka (Docker)](https://hub.docker.com/r/ches/kafka/)
+* [Best Practices for Running Kafka on Docker Containers - Nanda Vijaydev](https://www.confluent.io/kafka-summit-sf17/Best-Practices-for-Running-Kafka-on-Docker-Containers)
 * [Disaster Recovery for Multi-Datacenter Apache Kafka Deployments - Yeva Byzek](https://www.confluent.io/blog/disaster-recovery-multi-datacenter-apache-kafka-deployments)
 * [Things We Wish We Knew Before Operationalising Kafka - Sreekanth Ramakrishnan (BigData.SG & Hadoop.SG)](https://www.youtube.com/watch?v=MhyW1FUdN8I)
 * [Tuning Kafka for low latency guaranteed messaging -- Jiangjie (Becket) Qin (LinkedIn), 6/15/16](https://www.youtube.com/watch?v=oQe7PpDDdzA)
@@ -3002,6 +3075,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Secor: Service implementing Kafka log persistence](https://github.com/pinterest/secor)
 * [Bifrost: Safely archive data from Apache Kafka to S3 with no Hadoop dependencies](https://github.com/uswitch/bifrost)
+
+#### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - VIDEOS
+
+* [Kafka Summit San Francisco 2017](https://www.confluent.io/kafka-summit-sf17/resource/)
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - PROCESS MANAGERS & SAGAS
 
@@ -3078,6 +3155,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Awesome Functional Programming [Links]- Denis Stoyanov](https://github.com/xgrommx/awesome-functional-programming)
 * [Functional Programming and Functional Thinking - Tony Morris](https://channel9.msdn.com/Blogs/Charles/YOW-2011-Tony-Morris-Functional-Programming-and-Functional-Thinking?ocid=relatedentry)
 * [Point-Free or Die - Tacit Programming in Haskell and Beyond - Amar Shah](https://www.youtube.com/watch?v=seVSlKazsNk)
+* [Refactoring to Immutability - Kevlin Henney (NDC {London} 2018)](https://www.youtube.com/watch?v=APUCMSPiNh4)
 * [Designing with Capabilities - Scott Wlaschin](https://www.youtube.com/watch?v=fi1FsDW1QeY)
 * [Thirteen ways of looking at a Turtle - Scott Wlaschin (NDC {London} 2017)](https://www.youtube.com/watch?v=AG3KuqDbmhM)
 * [Selfish Purity: How Functional Programming Makes Every-Day Jobs Easier - Daniel Spiewak (Jfokus 2015)](https://www.youtube.com/watch?v=WupzbiMZrl8)
@@ -3135,6 +3213,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - CONFERENCE VIDEOS
 
+* LambdaDays: [2018](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl)
 * LambdaConf (λC): [2017](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhx5bgmpAgqArzrh0pL-tc3P) | [2017 Winter Retreat](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhy9wMify6MXW6F339W4g4Eo) | [2016](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos) | [2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
 * [MoonConf 2016](https://www.youtube.com/playlist?list=PLWYAdh9hA7geMRCgwDomlHAdwlsno32LU&spfreload=10)
 * [All the FP Talks at NDC Oslo 2016](http://theburningmonk.com/2016/06/all-the-fp-talks-at-ndc-oslo-2016/)
@@ -3169,6 +3248,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
 
+* [Categories for the Working Hacker - Philip Wadler (Lambda Days 2018)](https://www.youtube.com/watch?v=jm_TObUiTHM)
 * [Crash Course in Category Theory - Bartosz Milewski (ScalaIO France 2017)](https://www.youtube.com/watch?v=JH_Ou17_zyU)
 * Category Theory for Programmers - Bartosz Milewski: [Book PDF](https://github.com/hmemcpy/milewski-ctfp-pdf) & [Youtube lectures](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 * [A Pragmatic Introduction to Category Theory - Daniela Sfregola (Lambda.World 2017)](https://www.youtube.com/watch?v=MvQxNm5gn8g)
@@ -3282,6 +3362,9 @@ Links to resources I have found useful or think might be helpful to future me or
 ## HASKELL
 
 * Haskell: [main site](https://www.haskell.org/) | [wiki](https://wiki.haskell.org/Haskell) | [learning resources](https://wiki.haskell.org/Learning_Haskell) | [tryhaskell.org](http://tryhaskell.org/) | [Hoogle (Haskell API search engine)](https://www.haskell.org/hoogle/) | [Hackage (Haskell package archive)](http://hackage.haskell.org/) | [GHC user's guide](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/) | [Tutorials](https://wiki.haskell.org/Tutorials) | [Haskell libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/)
+* [Fun never stops. Introduction to Haskell Programming language - Paul Szulc (Devoxx UK 2016)](https://www.youtube.com/watch?v=1jZ7j21g028)
+* [Learn Haskell in One Video - Derek Banas](https://www.youtube.com/watch?v=02_H3LjqMr8)
+* [Intro to Functional Programming - Queensland FP Lab](https://github.com/data61/fp-course) | [Applied FP Course](https://github.com/qfpl/applied-fp-course/)
 * [Hackr.io Haskell resources](https://hackr.io/tutorials/haskell)
 * [Type introduction illustrated for casual Haskellers - Takenobu T.](http://takenobu-hs.github.io/downloads/type_introduction_illustrated.pdf)
 * [Write You a Haskell: Building a modern functional compiler from first principles - Stephen Diehl](http://dev.stephendiehl.com/fun/WYAH.pdf)
@@ -3370,7 +3453,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Haskell is Not For Production and Other Tales - Katie Miller (Linux.conf.au 2016)](https://www.youtube.com/watch?v=mlTO510zO78) | [slides](http://www.slideshare.net/KatieAtie/haskell-is-not-for-production-and-other-tales)
 * [Introduction to Functional Programming - Erik Meijer](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 * [Functional Programming Fundamentals - Erik Meijer](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals) & [Youtube](https://www.youtube.com/watch?v=UIUlFQH4Cvo)
-* [Learn Haskell in One Video - Derek Banas](https://www.youtube.com/watch?v=02_H3LjqMr8)
 * [Haskell Basics - FunFunFunction #35](https://www.youtube.com/watch?v=j5a9l1Td2Lo)
 * [Haskell Stack Mega-Tutorial - Christopher Allen](https://www.youtube.com/watch?v=sRonIB8ZStw)
 * [A Practical Introduction to Haskell GADTs - Richard Eisenberg (LambdaConf 2015)](https://www.youtube.com/watch?v=6snteFntvjM)
@@ -4727,6 +4809,7 @@ Peter R. Egli:
 * [Code Club - Saron Yitbarek (LoneStarRuby 2015)](http://confreaks.tv/videos/lonestarruby2015-code-club)
 * [Real Developers Ship (a.k.a Tenets for Software Delivery) - Sebastian von Conrad (Ruby Australia 2014)](http://vimeo.com/90173903)
 * [Software is Details - Kevlin Henney (SATURN 2017)](https://www.youtube.com/watch?v=MS3c9hz0bRg)
+* [Trusted Autonomy - Ben Marx (Code Beam SF 2018)](https://www.youtube.com/watch?v=NAdCxr6C4DI)
 * [Great Developers Steal - Ben Scofield (Scotland Ruby Conf 2011)](http://confreaks.tv/videos/545-scotlandruby2011-great-developers-steal)
 * [Being an Excellent Software Developer - Michael Norton (WindyCityRails2012)](http://vimeo.com/49882901)
 * [Cultures of Effective Learning - Jeff Cohen (WindyCityRails2012)](http://vimeo.com/49951365)
@@ -5011,6 +5094,7 @@ Peter R. Egli:
 * [Learn Functional Programming with PureScript - John A De Goes (LambdaConf 2015)](https://www.youtube.com/watch?v=LqYfdmb0eUU)
 * John A De Goes: The Easy Peasy Lemon Squeezy, Statically Typed, Purely Functional Programming For All [Part 1 (skip first 13 mins)](https://www.youtube.com/watch?v=daFLRG_OjEA) & [Part 2](https://www.youtube.com/watch?v=6OahiNp_CXc)
 * [Getting Started With Purescript](https://speakerdeck.com/michaelficarra/getting-started-with-purescript)
+* [Functional programming concepts in PureScript - Vincent Orr](https://egghead.io/courses/functional-programming-concepts-in-purescript)
 * [Building Single Page Web Applications with Purescript and Erlang - Claudia Doppioslash (EUC17)](https://www.youtube.com/watch?v=HQkxm2P2xbY)
 * [PureScript by Example - Phil Freeman](https://leanpub.com/purescript/read)
 * [kRITZCREEK blog](https://kritzcreek.github.io/)
@@ -6109,6 +6193,10 @@ Peter R. Egli:
 * [Ruby-Toolbox - Continuous Integration](https://www.ruby-toolbox.com/categories/continuous_integration)
 * [Deconstructing Travis - Josh ](http://confreaks.tv/videos/915-railsconf2012-deconstructing-travis)
 
+#### TESTING - CONTINUOUS INTEGRATION - CONCOURSE & FLY
+
+* [Concourse-ci.org](https://concourse-ci.org/) | [Docs](https://concourse-ci.org/docs.html) | [Articles](https://medium.com/concourse-ci) | [Github](https://github.com/concourse/concourse) | [StackOverflow](https://stackoverflow.com/questions/tagged/concourse) | [Development](https://project.concourse-ci.org/) | [Forum](https://discuss.concourse-ci.org/)
+
 #### TESTING - CONTINUOUS INTEGRATION - JENKINS
 
 * [Jenkins User Handbook (PDF)](https://jenkins.io/user-handbook.pdf)
@@ -6359,6 +6447,12 @@ Peter R. Egli:
 * [Responsive Web Design, Mobile First and Progressive enhancement in action - Leonado Lenase (ScotlandJS 2012)](http://vimeo.com/45140588)
 * [Browser Versions Are Dead](http://confreaks.tv/videos/2223-html5tx2013-browser-versions-are-dead)
 * [Luke Wroblewski blogs & presentations](http://www.lukew.com/)
+
+### WEB DESIGN - USER INTERFACE (UI)
+
+* [Dribble](https://dribbble.com/)
+* [Learn UI Design Blog - Erik D. Kennedy](https://learnui.design/blog/)
+* [Flat UI Colors](https://flatuicolors.com/)
 
 ## WRITING/PUBLISHING
 
