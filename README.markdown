@@ -168,6 +168,9 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ARTIFICIAL INTELLIGENCE (AI) - KERAS
 
 * [The Keras Blog - Francois Chollet](https://blog.keras.io/)
+* Keras.js: [Github](https://github.com/transcranial/keras-js) | [Demos](https://transcranial.github.io/keras-js/#/) | [Docs](https://transcranial.github.io/keras-js-docs/)
+* [Intro to text classification with Keras: automatically tagging Stack Overflow posts - Sara Robinson, Josh Gordon, and Marianne Linhares Monteiro](https://cloud.google.com/blog/big-data/2017/10/intro-to-text-classification-with-keras-automatically-tagging-stack-overflow-posts)
+* [Problem-solving with ML: automatic document classification - Ahmed Kachkach](https://cloud.google.com/blog/big-data/2018/01/problem-solving-with-ml-automatic-document-classification)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - LINEAR ALGEBRA
 
@@ -189,8 +192,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Natural Language Processing with Deep Learning (Stanford University, Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 * [NLP Newsletter - Sebastian Ruder](http://newsletter.ruder.io/)
 * [4 Approaches to Natural Language Processing & Understanding - Maria Yao](https://www.topbots.com/4-different-approaches-natural-language-processing-understanding/)
-* [Stanford Natural Language Processing Group](https://nlp.stanford.edu/)
+* [Stanford Natural Language Processing Group](https://nlp.stanford.edu/) | [CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
 * [Sebastian Ruder blog](http://ruder.io/#open)
+* [Problem-solving with ML: automatic document classification - Ahmed Kachkack](https://cloud.google.com/blog/big-data/2018/01/problem-solving-with-ml-automatic-document-classification)
+* [GuidedLDA: Guided Topic modeling with latent Dirichlet allocation - Vikash Singh](https://github.com/vi3k6i5/guidedlda) & [How our startup switched from Unsupervised LDA to Semi-Supervised GuidedLDA - Vikash Singh](https://medium.freecodecamp.org/how-we-changed-unsupervised-lda-to-semi-supervised-guidedlda-e36a95f3a164)
+* [NLP in R: Topic Modelling - Rachael Tatman](https://www.kaggle.com/rtatman/nlp-in-r-topic-modelling/code)
+* [NLP For Topic Modeling & Summarization Of Legal Documents - Oguejiofor Chibueze](https://towardsdatascience.com/nlp-for-topic-modeling-summarization-of-legal-documents-8c89393b1534)
+* [Complete Guide to Topic Modeling with Scikit-Learn and Gensim - George-Bogdan Ivanov](https://nlpforhackers.io/topic-modeling/)
+* [Spooky NLP and Topic Modelling tutorial - Anisotropic](https://www.kaggle.com/arthurtok/spooky-nlp-and-topic-modelling-tutorial/code)
+* [natural: general natural language facilities for node](https://github.com/NaturalNode/natural)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - NEWS
 
@@ -366,6 +376,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW
 
 * [Awesome-Tensorflow (curated list of resources)](https://github.com/jtoy/awesome-tensorflow)
+* [Github](https://github.com/tensorflow/tensorflow) | [Installing](https://github.com/tensorflow/tensorflow) | [Website](https://www.tensorflow.org/) | [Youtube](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ) | [Udacity course](https://www.udacity.com/course/deep-learning--ud730) | [Stanford course](https://web.stanford.edu/class/cs20si) | [Examples](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples)
 * [Machine Learning with TensorFlow - Andrew Gasparovic (GDD Europe '17)](https://www.youtube.com/watch?v=2zWSr-3gkWY)
 * [First Contact With Tensorflow - Jordi Torres](http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/)
 * [TensorFlow in 5 Minutes - Siraj Raval](https://www.youtube.com/watch?v=2FmcHiLCwTU)
@@ -380,6 +391,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW - MOBILE
 
+* [TensorFlow.js](https://js.tensorflow.org/) | [Tutorials](https://js.tensorflow.org/tutorials/) | [Docs](https://js.tensorflow.org/api/0.10.0/) | [Examples](https://github.com/tensorflow/tfjs-examples)
 * [On-device machine learning: TensorFlow on Android - Yufeng Guo (Google Cloud Next '17)](https://www.youtube.com/watch?v=EnFyneRScQ8)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - UNSUPERVISED LEARNING
@@ -778,8 +790,19 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### CSS - BULMA
 
-* Bulma: [Bulma.io](https://bulma.io/) | [Documentation](https://bulma.io/documentation/overview/start/)
+* Bulma: [Bulma.io](https://bulma.io/) [Blog](https://bulma.io/blog/) | [Extensions](https://bulma.io/extensions/)
+* [Official Documentation](https://bulma.io/documentation/):
+  * [Overview](https://bulma.io/documentation/overview/)
+  * [Columns](https://bulma.io/documentation/columns/)
+  * [Forms](https://bulma.io/documentation/form/)
+  * [Components](https://bulma.io/documentation/components/)
+  * [Modifiers](https://bulma.io/documentation/modifiers/)
+  * [Layout](https://bulma.io/documentation/layout/)
+  * [Elements](https://bulma.io/documentation/elements/)
 * [Bulma CSS Framework Crash Course - Traversy Media](https://www.youtube.com/watch?v=IiPQYQT2-wg)
+* [Bulmaswatch: Free themes for Bulma](https://jenil.github.io/bulmaswatch/)
+* [Learn Bulma in 5 Minutes - Per Harald Borgen](https://medium.freecodecamp.org/learn-bulma-in-5-minutes-ec5188c53e83)
+* [Bulma: CSS framework you should consider in 2018 - Mateusz](https://matwrites.com/bulma-css-framework-for-2018/)
 
 ### CSS - COOL STUFF
 
@@ -944,6 +967,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [SQL Developer](http://sqldeveloper.solyp.com/)
 * [SQL Power Architect](http://www.sqlpower.ca/page/architect)
 
+### DATABASES - COCKROACHDB
+
+* [CockroachDB: cloud-native SQL database for building global, scalable cloud services that survive disasters](https://github.com/cockroachdb/cockroach)
+
 ### DATABASES - DATOMIC
 
 * [Datomic.com](http://www.datomic.com/)
@@ -966,6 +993,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Semi-official Apache CouchDB Docker images](https://github.com/apache/couchdb-docker) | [Docker Hub](https://hub.docker.com/r/apache/couchdb/)
 * [couchdb-ssl - Clemens Stolle](https://hub.docker.com/r/klaemo/couchdb-ssl/)
 * [Fast CouchDB setup in AWS - Ten Bitcomb](https://gist.github.com/Ravenstine/fb350f5af391aee641d024a74a087b8e)
+
+### DATABASES - FOUNDATIONDB
+
+* [FoundationDB](https://github.com/apple/foundationdb)
 
 ### DATABASES - GRAPH DATABASES
 
@@ -1044,6 +1075,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [BottledWater: Change data capture from PostgreSQL into Kafka (Confluent.com)](https://github.com/confluentinc/bottledwater-pg)
 * [Lapidus: Stream your PostgreSQL, MySQL or MongoDB databases anywhere, fast](https://github.com/JarvusInnovations/lapidus)
 * [Databus: Source-agnostic distributed change data capture system (LinkedIn)](https://github.com/linkedin/databus)
+
+### DATABASES - TIDB
+
+* [TiDB: Distributed, scalable Hybrid Transactional and Analytical Processing (HTAP) SQL database - PingCAP](https://github.com/pingcap/tidb)
 
 ### DATABASES - TIME SERIES DATABASES
 
@@ -1491,6 +1526,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## DISTRIBUTED PROGRAMMING
 
+* [What happened to distributed programming languages? - Heather Miller (Papers We Love Conference 2017)](https://www.youtube.com/watch?v=eAcDWcaezXY)
 * [Distributed Systems and the End of the API - Chas Emerick](https://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/) & [talk slides](https://speakerdeck.com/cemerick/distributed-systems-and-the-end-of-the-api)
 * [Distributed Systems and the End of the API - Chas Emerick](https://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/) & [talk slides](https://speakerdeck.com/cemerick/distributed-systems-and-the-end-of-the-api)
 * [Readings in distributed systems - Christopher Meiklejohn](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
@@ -1731,6 +1767,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Pug Automatic - Henrik Nyh](http://thepugautomatic.com/)
 * [Red Shift](https://shift.infinite.red/tagged/elixir)
 * [Thoughtbot](https://robots.thoughtbot.com/tags/elixir)
+* [What Did I Learn -  Vitaly Tatarintsev](http://whatdidilearn.info/)
 
 ### ELIXIR - BOOKS
 
@@ -1774,6 +1811,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - DEPLOYMENT
 
+* [Best practices for deploying Elixir apps - Jake Morrison](https://www.cogini.com/blog/best-practices-for-deploying-elixir-apps/)
 * A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes - Rohan Relan: [Part 1: Setting up Distillery](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-1-setting-up-d88b35b64dcd) | [Part 2: Docker and Minikube](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-2-docker-and-81e934c3fceb) | [Part 3: Deploying to Kubernetes](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-3-deploying-to-bd5b1fcbef87) | [Part 4: Secret Management](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-4-secret-f851d575bdd1) | [Part 5: Clustering Elixir & Phoenix Channels](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-5-clustering-6c30fcd35ce1)
 * [Release, Deploy, Monitor and Upgrade Elixir Services in Real World - Tian Chen (Code BEAM SF 2018)](https://www.youtube.com/watch?v=kwHtlmyxE6c)
 * [Packaging for Production - Anthony Molinaro (Code BEAM SF 2018)](https://www.youtube.com/watch?v=AXY0d0YXQSU)
@@ -2827,6 +2865,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Erlang: The Movie](https://www.youtube.com/watch?t=113&v=xrIjfIjssLE)
 * [Erlang: The Movie II: The Sequel](https://www.youtube.com/watch?v=rRbY3TMUcgQ)
 
+### ERLANG - MNESIA
+
+* [Store Everything With Elixir and Mnesia - Ilya Bodrov](https://code.tutsplus.com/articles/store-everything-with-elixir-and-mnesia--cms-29821)
+
 ### ERLANG - MONITORING & PERFORMANCE
 
 * Erlang Performance Lab (developer tool, not production monitoring): [website](http://www.erlang.pl/) | [Youtube](https://www.youtube.com/channel/UCGkcbu799cC1rtMaQtAajpg) | [Github](https://github.com/erlanglab/erlangpl) | [Twitter](https://twitter.com/erlanglab)
@@ -3083,6 +3125,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [KSQL: A Streaming SQL Engine for Apache Kafka - Tim Berglund](https://www.youtube.com/watch?v=A45uRzJiv7I)
 * [Confluent Releases KSQL, a Distributed Streaming SQL Engine for Apache Kafka - Srini Penchikala](https://www.infoq.com/news/2017/10/apache-kafka-ksql)
 * [KSQL from Confluent: Streaming SQL for Apache Kafka® - Tim Berglund](https://www.youtube.com/watch?v=A45uRzJiv7I)
+* [Level Up Your KSQL - Tim Berglund](https://www.youtube.com/watch?v=C-rUyWmRJSQ)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - SECURITY
 
@@ -3108,6 +3151,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - VIDEOS
 
+* [Kafka Summit London 2018](https://www.youtube.com/playlist?list=PLa7VYi0yPIH3HslCSEqWxsgr0kKcVRGkk)
 * [Kafka Summit San Francisco 2017](https://www.confluent.io/kafka-summit-sf17/resource/)
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - PROCESS MANAGERS & SAGAS
@@ -4175,8 +4219,9 @@ Links to resources I have found useful or think might be helpful to future me or
 ### JAVASCRIPT - RXJS
 
 * André Staltz: [RxJS v4.0 book](https://xgrommx.github.io/rx-book/) & [Introduction to Reactive Programming (videos on Egghead.io)](https://egghead.io/courses/introduction-to-reactive-programming)
-* [Learn RxJS - Brian Troncone](https://legacy.gitbook.com/book/btroncone/learn-rxjs/details)
 * [Rxjs 5 Ultimate - Chris Noring](https://legacy.gitbook.com/book/chrisnoring/rxjs-5-ultimate/details)
+* Learn RxJS - Brian Troncone: [Online](https://www.learnrxjs.io/) | [Download](https://legacy.gitbook.com/book/btroncone/learn-rxjs/details)
+* [API docs](http://reactivex.io/rxjs/)
 * [RxJS - What and Why? - Academind](https://www.youtube.com/watch?v=T9wOu11uU6U)
 * [RxJS Quick Start with Practical Examples](https://www.youtube.com/watch?v=2LCo926NFLI)
 

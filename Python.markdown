@@ -258,6 +258,15 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 * [Forecasting beer consumption with sklearn](http://glowingpython.blogspot.ie/2015/01/forecasting-beer-consumption-with.html)
 * [scikit-learn-book - gmonce](http://nbviewer.ipython.org/github/gmonce/scikit-learn-book/tree/master/)
 
+##### PYTHON - DATA ANALYSIS - SCIKIT-LEARN - DEPLOYMENT
+
+* [sklearn-porter - Transpile trained scikit-learn estimators to C, Java, JavaScript and others](https://github.com/nok/sklearn-porter)
+* [Train and host Scikit-Learn models in Amazon SageMaker by building a Scikit Docker container - Morgan Du and Thomas Hughes (AWS)](https://aws.amazon.com/blogs/machine-learning/train-and-host-scikit-learn-models-in-amazon-sagemaker-by-building-a-scikit-docker-container/)
+* [Machine Learning as a Service with TensorFlow - Kirill Dubovikov](https://medium.freecodecamp.org/machine-learning-as-a-service-with-tensorflow-9929e9ce3801)
+* Google Cloud Datalab: [Overview](https://cloud.google.com/datalab/) | [Quickstart](https://cloud.google.com/datalab/docs/quickstart) | [How-To Guides](https://cloud.google.com/datalab/docs/how-to) | [Documentation](https://cloud.google.com/datalab/docs/)
+* Google Cloud ML Engine: [Overview](https://cloud.google.com/ml-engine/) | [Quickstart](https://cloud.google.com/ml-engine/docs/scikit/quickstart) | [Getting Predictions with scikit-learn and XGBoost - Google Cloud](https://cloud.google.com/ml-engine/docs/scikit/getting-predictions)
+* Google Cloud Natural Language: [Overview](https://cloud.google.com/natural-language/) | [Quickstart](https://cloud.google.com/natural-language/docs/quickstart-client-libraries) | [Documentation](https://cloud.google.com/natural-language/docs/) | [How-To Guides](https://cloud.google.com/natural-language/docs/how-to) | [Analyzing Entities](https://cloud.google.com/natural-language/docs/analyzing-entities) | [Content Classification Tutorial](https://cloud.google.com/natural-language/docs/classify-text-tutorial)
+
 #### PYTHON - DATA ANALYSIS - SCIPY
 
 * [SciPy Reference Guide](http://docs.scipy.org/doc/scipy/reference/) & [PDF](http://docs.scipy.org/doc/scipy/scipy-ref-0.14.0.pdf) & [Github](https://github.com/scipy/scipy)
