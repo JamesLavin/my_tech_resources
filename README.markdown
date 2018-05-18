@@ -967,6 +967,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [SQL Developer](http://sqldeveloper.solyp.com/)
 * [SQL Power Architect](http://www.sqlpower.ca/page/architect)
 
+### DATABASES - BARRELDB
+
+* BarrelDB ("modern document-oriented database in Erlang focusing on data locality (put/match the data next to you) and P2P"): [barrel-db.org](https://barrel-db.org/) | [Github](https://github.com/barrel-db/barrel-platform)
+
 ### DATABASES - COCKROACHDB
 
 * [CockroachDB: cloud-native SQL database for building global, scalable cloud services that survive disasters](https://github.com/cockroachdb/cockroach)
@@ -1369,6 +1373,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - KUBERNETES
 
+* [gVisor: sandboxed container runtime compatible with Docker & Kubernetes - Google](https://cloudplatform.googleblog.com/2018/05/Open-sourcing-gVisor-a-sandboxed-container-runtime.html)
+
+### DEVOPS - KUBERNETES
+
 * Kubernetes: [Docs](https://kubernetes.io/) | [Kubernetes API](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.9/) | [Basic tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Tutorials](https://kubernetes.io/docs/tutorials/) | [Tasks](https://kubernetes.io/docs/tasks/) | [Concepts](https://kubernetes.io/docs/concepts/) | [Github](https://github.com/kubernetes/kubernetes)
 * [Kubernetes: Container Orchestration and Micro-Services - Alexander Mohr (University of Washington)](https://courses.cs.washington.edu/courses/cse550/16au/notes/kubernetes.pdf)
 * [Awesome-Kubernetes](https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/details)
@@ -1438,7 +1446,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - TITUS
 
-* [Titus (Github.com/Netflix)](https://github.com/Netflix/titus)
+* Titus (Netflix): [Github](https://github.com/Netflix/titus) | [Documentation](https://netflix.github.io/titus/)
 * [Titus, the Netflix container management platform, is now open source - Netflix Technology Blog](https://medium.com/@NetflixTechBlog/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436)
 
 ### DEVOPS - ISTIO.IO
@@ -1723,6 +1731,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ExMachina for Elixir: Factories with a Functional Twist - Josh Steiner & Paul Smith](https://robots.thoughtbot.com/announcing-ex-machina)
 * [RED:4 - Learn Elixir The Fun Way (NOT FREE: $40) - Rob Conery](http://www.redfour.io/)
 
+### ELIXIR - 1.6
+
+* [José Valim- Introducing HDD: Hughes Driven Development (Lambda Days 2018)](https://www.youtube.com/watch?v=78GRqQVt6ks)
+
 ### ELIXIR - 1.5
 
 * [The Feature That No One Knew About in Elixir 1.5 - José Valim (Elixir.LDN 2017)](https://www.youtube.com/watch?v=p4uE-jTB_Uk)
@@ -1842,6 +1854,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Docs](https://hexdocs.pm/bootleg/readme.html) | [Github](https://github.com/labzero/bootleg)
 
+#### ELIXIR - DEPLOYMENT - CLUSTERING
+
+* [Libcluster - Paul Schoenfelder](https://github.com/bitwalker/libcluster)
+* [Swarm - Paul Schoenfelder](https://github.com/bitwalker/swarm)
+
 #### ELIXIR - DEPLOYMENT - CONFORM
 
 * [Conform: library to adapt your application to its deployed environment](https://github.com/bitwalker/conform)
@@ -1932,6 +1949,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - EVENT SOURCING/CQRS
 
+* [FAQ on DDD, CQRS & Event Sourcing - CQRS.nu](http://cqrs.nu/Faq)
 * [CQRS and Event Sourcing - Bernardo Amorim (Code Beam SF 2018)](https://www.youtube.com/watch?v=S3f6sAXa3-c)
 * [Building CQRS/ES web applications in Elixir using Phoenix - Ben Smith](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/) | [Building a CQRS/ES web application in Elixir using Phoenix](https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/) | [PDF](https://10consulting.com/presentations/2017-03-23-building-cqrs-web-applications-in-elixir.pdf)
 * [Dealing with eventual consistency in a CQRS/ES application - Ben Smith](https://10consulting.com/2017/10/06/dealing-with-eventual-consistency/)
@@ -1941,6 +1959,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Supporting multiple event stores in Commanded using an adapter based approach for Elixir - Ben Smith](https://10consulting.com/2017/05/17/supporting-multiple-event-stores-in-commanded/)
 * Derek Kraan: [Event Sourcing in Elixir](https://tech.zilverline.com/2017/04/07/elixir_event_sourcing) & [Event Sourcing: Invariants spanning multiple aggregates](https://tech.zilverline.com/2017/04/21/event-sourcing-invariants-spanning-multiple-aggregates)
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
+* [Building beautiful systems with Phoenix contexts - Andrew Hao (ElixirDaze 2018)](https://www.youtube.com/watch?v=l3VgbSgo71E) & [Built to last: A domain-driven approach to beautiful systems - Andrew Hao](https://www.youtube.com/watch?v=52qChRS4M0Y)
+* [Perhap: Applying Domain Driven Design and Reactive... - Rob Martin (ElixirConf 2017)](https://www.youtube.com/watch?v=kq4qTk18N-c)
 * [Event Sourcing and CQRS in Elixir - ElixirForum.com](http://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519/4)
 * [Intro to implementing Command Query Responsibility Segregation (CQRS) in Elixir applications - Ben Smith](https://github.com/slashdotdash/implementing-cqrs-in-elixir)
 * Christian Posta: [Why Microservices Should Be Event Driven: Autonomy vs Authority](http://blog.christianposta.com/microservices/why-microservices-should-be-event-driven-autonomy-vs-authority/) | [3 Easy Things to Do to Make Your Microservices More Resilient](http://blog.christianposta.com/microservices/3-easy-things-to-do-to-make-your-microservices-more-resilient/) | [Carving the Java EE Monolith Into Microservices: Prefer Verticals Not Layers](http://blog.christianposta.com/microservices/carving-the-java-ee-monolith-into-microservices-perfer-verticals-not-layers/) | [The Hardest Part About Microservices: Your Data](http://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data/)
@@ -2176,8 +2196,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PODCASTS
 
-* [ElixirTalk](https://itunes.apple.com/us/podcast/elixirtalk/id1298287048)
 * [Elixir Fountain](https://soundcloud.com/elixirfountain)
+* [Elixir Outlaws](https://elixiroutlaws.com/)
+* [Elixir Talk](https://itunes.apple.com/us/podcast/elixirtalk/id1298287048)
 
 #### ELIXIR - PROJECTS
 
@@ -2944,11 +2965,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How to build an event driven, dynamically re configurable micro services platform - Sven Beauprez (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=1D8hyLWMtfM)
 * [Exploring CQRS and Event Sourcing - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
 * [There is No Such Thing as a Microservice! - Chris Richardson (Explore DDD Conf 2017)](https://www.youtube.com/watch?v=FXCLLsCGY0s)
+* [Building beautiful systems with Phoenix contexts - Andrew Hao (ElixirDaze 2018)](https://www.youtube.com/watch?v=l3VgbSgo71E)
 * [Introduction to CQRS and Event Sourcing Patterns - Mathew McLoughlin (NDC Conference 2017)](https://www.youtube.com/watch?v=9a1PqwFrMP0) & [example code](https://github.com/mat-mcloughlin/PatientMangement)
 * Scaling Event Sourcing for Netflix Downloads - Karen Casella, et al.: [Part 1](https://medium.com/netflix-techblog/scaling-event-sourcing-for-netflix-downloads-episode-1-6bc1595c5595) | [Episode 2](https://medium.com/netflix-techblog/scaling-event-sourcing-for-netflix-downloads-episode-2-ce1b54d46eec)
 * [Effective Microservices in a Data-Centric World - Randy Shoup (GOTO Chicago 2017)](https://www.youtube.com/watch?v=whi0T1a4cWU)
 * [Domain-Driven Design Quickly - Abel Avram and with Floyd Marinescu (free book from InfoQ)](https://www.infoq.com/minibooks/domain-driven-design-quickly)
 * Developing Transactional Microservices Using Aggregates, Event Sourcing and CQRS - Chris Richardson: [Part 1](https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-1-richardson) & [Part 2](https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-2-richardson)
+* [DDD and Microservices: At Last, Some Boundaries! - Eric Evans (QCon London 2016)](https://www.youtube.com/watch?v=sFCgXH7DwxM)
 * [Events Are Not Just for Notifications - Greg Young (QCon 2011)](https://www.infoq.com/presentations/Events-Are-Not-Just-for-Notifications)
 * [Event Sourcing and CQRS from the Trenches - Sidney Shek (YOW! Lambda Jam 2016)](https://www.youtube.com/watch?v=d1zFoFlIneo)
 * [Reactive Microservices Architecture (Jonas Bonér) (free book from O'Reilly)](http://www.oreilly.com/programming/free/reactive-microservices-architecture-orm.csp)
@@ -2968,7 +2991,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Seven (More) Deadly Sins of Microservices - Daniel Bryant (GOTO Chicago 2017)](https://www.youtube.com/watch?v=NP189MPfR7Q)
 * [Commander: Better Distributed Applications through CQRS and Event Sourcing - Bobby Calderwood](https://www.youtube.com/watch?v=B1-gS0oEtYc) & [code](https://github.com/capitalone/cqrs-manager-for-distributed-reactive-services)
 * [Domain-Driven Design for the Database Driven Mind - Julie Lerman (2015)](https://www.youtube.com/watch?v=CjNBnkMHjh4)
-* [Built to last: A domain-driven approach to beautiful systems - Andrew Hao](https://www.youtube.com/watch?v=52qChRS4M0Y)
 * [Implementing an Event-Driven Microservices Architecture: A Case Study of Jet.com - Nikhil Barthwal (LambdaDays 2017)](https://www.youtube.com/watch?v=I7vdlpuRw5c)
 * [Conflict Resolution for Eventual Consistency - Martin Kleppmann (GOTO 2016)](https://www.youtube.com/watch?v=yCcWpzY8dIA)
 * [Microservices and the Inverse Conway Manoeuvre - James Lewis (NDC {London} 2017)](https://www.youtube.com/watch?v=uamh7xppO3E)
@@ -3052,6 +3074,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Papers & Presentations](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations)
     * [Wiki](https://cwiki.apache.org/confluence/display/KAFKA/Index)
     * [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
+* [Commit Logs in an Age of Microservices by Tim Berglund (#MeetTheExperts)](https://www.youtube.com/watch?v=bbotWkCLuF0)
 * [Kafka: The Definitive Guide - Neha Narkhede, Gwen Shapira & Todd Palino (Confluent)](https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf)
 * [The Log: What every software engineer should know about real-time data's unifying abstraction - Jay Kreps](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [Thorough Introduction to Apache Kafka™ - Stanislav Kozlovski](https://medium.com/@stanislavkozlovski/thorough-introduction-to-apache-kafka-6fbf2989bbc1)
@@ -3104,6 +3127,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Getting Started With the Kafka Streams API](https://kafka.apache.org/documentation/streams/)
 * [Kafka Streams documentation](https://kafka.apache.org/documentation/streams/)
 * [Kafka Music demo application for the Kafka Streams API - Confluent](https://docs.confluent.io/current/streams/kafka-streams-examples/docs/index.html)
+* [Data Stream Processing: Concepts and Implementations - Matthias Niehoff (Codecentric AG)](https://www.youtube.com/watch?v=AZiEp0uj2Os)
 * [Kafka’s Streams API for Highly Scalable Machine Learning & Deep Learning in Real Time - Kai Waehner (Confluent)](https://www.youtube.com/watch?v=-q7CyIExBKM)
 * [Ranking Websites in Real-time with Apache Kafka’s Streams API - Hunter Kelly](https://www.confluent.io/blog/ranking-websites-real-time-apache-kafkas-streams-api/)
 * [How to use Apache Kafka to transform a batch pipeline into a real-time one - Stéphane Maarek](https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85)
@@ -5647,7 +5671,7 @@ Peter R. Egli:
 * [Building the Web for Everyone - Greg Tarnoff (MadisonRuby 2012)](http://confreaks.tv/videos/1102-madisonruby2012-building-the-web-for-everyone)
 * [Your User: The Animal - Hampton Catlin (MadisonRuby 2012)](http://confreaks.tv/videos/1106-madisonruby2012-your-user-the-animal)
 
-## VIM (YEAH, IT'S THE BEST)
+## VIM (YEAH, IT'S THE BEST... THOUGH I NOW USE IT INSIDE VISUAL STUDIO CODE)
 
 * Ian Langworth: [Vim After 15 Years](https://vimawesome.com/) | [Everything I Missed in "Vim After 11 Years"](https://statico.github.io/vim2.html) | [Vim After 11 Years](https://statico.github.io/vim.html)
 * [Full Vim documentation + Vim FAQ (downloadable PDF)](http://nathangrigg.net/vimhelp/)
@@ -5767,6 +5791,12 @@ Peter R. Egli:
     * Part 4: Dictionaries: [HTML](http://www.ibm.com/developerworks/linux/library/l-vim-script-4/index.html) & [PDF](http://www.ibm.com/developerworks/linux/library/l-vim-script-4/l-vim-script-4-pdf.pdf)
     * Part 5: Event-driven scripting and automation: [HTML](http://www.ibm.com/developerworks/linux/library/l-vim-script-5/index.html) & [PDF](http://www.ibm.com/developerworks/linux/library/l-vim-script-5/l-vim-script-5-pdf.pdf)
 * [More instantly better Vim - Damian Conway (OSCON 2013)](https://www.youtube.com/watch?v=aHm36-na4-4)
+
+## VISUAL STUDIO CODE (VSCODE)
+
+* [Visual Studio Code - Microsoft (but cross-platform)](https://code.visualstudio.com/) | [Docs](https://code.visualstudio.com/docs) | [Blog](Blog) | [GitHub](https://github.com/Microsoft/vscode)
+* [VS Code Tips and Tricks - Microsoft](https://github.com/Microsoft/vscode-tips-and-tricks)
+* [VS Code can do that?!](https://vscodecandothat.com/)
 
 ## WEB ASSEMBLY
 
