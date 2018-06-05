@@ -13,6 +13,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Competitive Programmer’s Handbook - Antti Laaksonen](https://cses.fi/book.pdf)
 * Algorithms: Kevin Wayne & Robert Sedgewick (Princeton University): [Part I](https://www.coursera.org/course/algs4partI) & [Part II](https://www.coursera.org/course/algs4partII)
 * Algorithms: Design and Analysis - Tim Roughgarden (Stanford University): [Part 1](https://www.coursera.org/course/algo) & [Part 2](https://www.coursera.org/course/algo2)
+* [JavaScript Algorithms and Data Structures - Oleksii Trekhleb](https://github.com/trekhleb/javascript-algorithms#readme)
 * [Automata: finite automata, context-free grammars, Turing machines, undecidable problems, and intractable problems (NP-completeness) - Jeff Ullman (Stanford University)](https://www.coursera.org/course/automata)
 * [Analysis of Algorithms - Robert Sedgewick (Princeton University)](https://www.coursera.org/course/aofa)
 * Algorithmic Thinking (Rice University): [Part 1](https://www.coursera.org/learn/algorithmic-thinking-1) & [Part 2](https://www.coursera.org/learn/algorithmic-thinking-2)
@@ -22,6 +23,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ALGORITHMS - CRDTs
 
 * [Practical Demystification of CRDTs - Dmitry Ivanov & Nami Nasserazad (Curry On 2016)](https://www.youtube.com/watch?v=ShiU9g5JFq8)
+* [Conflict-free Replicated Data Types - Nuno Preguica, Carlos Baquero, and Marc Shapiro [PDF]](https://pages.lip6.fr/Marc.Shapiro/papers/CRDTs-Springer2018-authorversion.pdf)
 
 ## ANIMATION
 
@@ -108,6 +110,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ARTIFICIAL INTELLIGENCE (AI) - DEEP NEURAL NETS
 
 * [Notes from Coursera Deep Learning courses by Andrew Ng - Tess Ferrandez](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
+* [Learn Deep Learning in 6 Weeks - Siraj Raval](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks/)
 * [Mostly Complete Chart of Neural Networks - Fjodor van Veen](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
 * [How Deep Neural Networks Work - Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)
 * [How Neural Networks Really Work - Geoffrey Hinton](https://www.youtube.com/watch?v=EInQoVLg_UY)
@@ -168,6 +171,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ARTIFICIAL INTELLIGENCE (AI) - KERAS
 
 * [The Keras Blog - Francois Chollet](https://blog.keras.io/)
+* [Keras: Multiple outputs and multiple losses - Adrian Rosebrock](https://www.pyimagesearch.com/2018/06/04/keras-multiple-outputs-and-multiple-losses/)
 * Keras.js: [Github](https://github.com/transcranial/keras-js) | [Demos](https://transcranial.github.io/keras-js/#/) | [Docs](https://transcranial.github.io/keras-js-docs/)
 * [Intro to text classification with Keras: automatically tagging Stack Overflow posts - Sara Robinson, Josh Gordon, and Marianne Linhares Monteiro](https://cloud.google.com/blog/big-data/2017/10/intro-to-text-classification-with-keras-automatically-tagging-stack-overflow-posts)
 * [Problem-solving with ML: automatic document classification - Ahmed Kachkach](https://cloud.google.com/blog/big-data/2018/01/problem-solving-with-ml-automatic-document-classification)
@@ -812,10 +816,15 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### CSS - FLEXBOX
 
+* [Flexbox Froggy](http://flexboxfroggy.com/)
 * [Flexbox Cheatsheet - Joni Bologna](http://jonibologna.com/content/images/flexboxsheet.pdf)
 * [A Complete Guide to Flexbox - Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Solved By Flexbox - Philip Walton](http://philipwalton.github.io/solved-by-flexbox/)
 * [W3C spec](http://www.w3.org/TR/css3-flexbox/)
+
+### CSS - GRID
+
+* [CSS Grid Garden](https://cssgridgarden.com/)
 
 ### CSS - RESPONSIVE DESIGN
 
@@ -974,6 +983,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DATABASES - COCKROACHDB
 
 * [CockroachDB: cloud-native SQL database for building global, scalable cloud services that survive disasters](https://github.com/cockroachdb/cockroach)
+* [Helm Chart](https://hub.kubeapps.com/charts/stable/cockroachdb)
 
 ### DATABASES - DATOMIC
 
@@ -1042,6 +1052,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Kinto with Alexis Metaireau and Mathieu Leplatre (Podcast.__init__)](https://www.podcastinit.com/episode-86-kinto-with-alexis-metaireau-and-mathieu-leplatre/)
 
+### DATABASES - MYSQL
+
+* [Showdown: MySQL 8 vs PostgreSQL 10 - Kenn Ejima](https://hackernoon.com/showdown-mysql-8-vs-postgresql-10-3fe23be5c19e)
+
 ### DATABASES - NEO4J
 
 * [Website](https://neo4j.com/) | [Documentation](https://neo4j.com/docs/)
@@ -1109,6 +1123,16 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Ansible - Your First Step Into Server Provisioning - Ben Turner (Ruby Australia 2014)](http://vimeo.com/90171333)
 
+### DEVOPS - API GATEWAYS
+
+* [API Gateway to Service Mesh: Navigating a Changing Landscape - Zhamak Dehghani](https://www.youtube.com/watch?v=QYdOJ0QJptE)
+
+#### DEVOPS - API GATEWAYS - AMBASSADOR
+
+* [Website](https://www.getambassador.io/) | [Blog](https://blog.getambassador.io/) | [Gitter](https://gitter.im/datawire/ambassador)
+* [Building Ambassador, an Open Source API Gateway on Kubernetes and Envoy - Richard Li (Datawire)](https://blog.getambassador.io/building-ambassador-an-open-source-api-gateway-on-kubernetes-and-envoy-ed01ed520844)
+* [Envoy as an API Gateway in Kubernetes - envoyproxy.io](https://www.envoyproxy.io/docs/envoy/latest/start/distro/ambassador)
+
 ### DEVOPS - AWS (AMAZON WEB SERVICES)
 
 #### DEVOPS - AWS (AMAZON WEB SERVICES) - KUBERNETES
@@ -1141,6 +1165,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * Restic: [Github.io](https://restic.github.io/) | [Documentation](https://restic.readthedocs.io/en/stable/) | [Github](https://github.com/restic/restic)
 * [How to configure Backblaze B2 with Restic on Linux - Roderick (Backblaze)](https://help.backblaze.com/hc/en-us/articles/115002880514-How-to-configure-Backblaze-B2-with-Restic-on-Linux)
 * [My backup software of choice: restic - Jan-Piet Mens](http://jpmens.net/2017/08/22/my-backup-software-of-choice-restic/)
+
+### DEVOPS - BALLERINA
+
+* [Ballerina.io: Cloud-native programming language](https://ballerina.io/) | [Github](https://github.com/ballerina-platform)
+* [Ballerina Microservices Programming Language: Introducing the Latest Release and "Ballerina Central" - Tyler Jewell](https://www.infoq.com/articles/ballerina-microservices-language-part-1)
 
 ### DEVOPS - BLOGS & PODCASTS
 
@@ -1213,7 +1242,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [test-kitchen](https://github.com/test-kitchen/test-kitchen)
 
-### DEVOPS - COREOS
+### DEVOPS - CLOUD
+
+* [Cloud Native Interactive Landscape (CNCF)](https://landscape.cncf.io/)
+
+### DEVOPS - COREOS (RED HAT)
 
 * [CoreOS](https://coreos.com/)
 * [Getting Started With With CoreOS](https://www.digitalocean.com/community/tutorial_series/getting-started-with-coreos-2)
@@ -1371,7 +1404,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Stackdriver (Monitoring, Logging, Diagnostics)](https://cloud.google.com/stackdriver/)
 * [VPC (Virtual Private Cloud)](https://cloud.google.com/vpc/)
 
-### DEVOPS - KUBERNETES
+### DEVOPS - GVISOR
 
 * [gVisor: sandboxed container runtime compatible with Docker & Kubernetes - Google](https://cloudplatform.googleblog.com/2018/05/Open-sourcing-gVisor-a-sandboxed-container-runtime.html)
 
@@ -1413,6 +1446,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Nginx Ingress](https://hub.kubeapps.com/charts/stable/nginx-ingress) (see also [Nginx on Docker Hub](https://hub.docker.com/_/nginx/))
 * [PostgreSQL](https://hub.kubeapps.com/charts/stable/postgresql)
 * [Prometheus](https://hub.kubeapps.com/charts/stable/prometheus)
+* [Schema Registry](https://hub.kubeapps.com/charts/incubator/schema-registry)
 * [Selenium](https://hub.kubeapps.com/charts/stable/selenium)
 * [Spark](https://hub.kubeapps.com/charts/stable/spark)
 
@@ -1441,6 +1475,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - KUBERNETES - VIDEOS
 
+* [KubeCon + CloudNativeCon 2018 - Copenhagen (354 videos!)](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo)
 * [CNCF (Cloud Native Computing Foundation) video playlists](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA/playlists)
 * [KubeCon + CloudNativeCon 2017 - Austin](https://www.youtube.com/playlist?list=PLj6h78yzYM2P-3-xqvmWaZbbI1sW-ulZb)
 
@@ -1512,6 +1547,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [@OpenStack (Twitter)](https://twitter.com/openstack)
 * [OpenStack blog](https://www.openstack.org/blog/)
 * [Ubuntu on OpenStack](http://www.ubuntu.com/cloud/openstack)
+
+### DEVOPS - PROMETHEUS
+
+* [Prometheus.io](https://prometheus.io/) | [Github](https://github.com/prometheus/prometheus)
+* [Prometheus Helm chart](https://hub.kubeapps.com/charts/stable/prometheus)
 
 ### DEVOPS - RKT
 
@@ -1824,7 +1864,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - DEPLOYMENT
 
 * [Best practices for deploying Elixir apps - Jake Morrison](https://www.cogini.com/blog/best-practices-for-deploying-elixir-apps/)
-* A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes - Rohan Relan: [Part 1: Setting up Distillery](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-1-setting-up-d88b35b64dcd) | [Part 2: Docker and Minikube](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-2-docker-and-81e934c3fceb) | [Part 3: Deploying to Kubernetes](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-3-deploying-to-bd5b1fcbef87) | [Part 4: Secret Management](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-4-secret-f851d575bdd1) | [Part 5: Clustering Elixir & Phoenix Channels](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-5-clustering-6c30fcd35ce1)
+* A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes - Rohan Relan: [Part 1: Setting up Distillery](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-1-setting-up-d88b35b64dcd) | [Part 2: Docker and Minikube](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-2-docker-and-81e934c3fceb) | [Part 3: Deploying to Kubernetes](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-3-deploying-to-bd5b1fcbef87) | [Part 4: Secret Management](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-4-secret-f851d575bdd1) | [Part 5: Clustering Elixir & Phoenix Channels](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-5-clustering-6c30fcd35ce1)
+* [Clustering Elixir/Erlang applications in Kubernetes (part 1: the theory) - Dario Freddi](https://blog.ispirata.com/clustering-elixir-erlang-applications-in-kubernetes-part-1-the-theory-ca658acbf101)
 * [Release, Deploy, Monitor and Upgrade Elixir Services in Real World - Tian Chen (Code BEAM SF 2018)](https://www.youtube.com/watch?v=kwHtlmyxE6c)
 * [Packaging for Production - Anthony Molinaro (Code BEAM SF 2018)](https://www.youtube.com/watch?v=AXY0d0YXQSU)
 * [How to configure and deploy an Elixir app to a VPS - Konrad Piekutowski](https://www.amberbit.com/blog/2017/7/17/deploy-elixir-app-to-a-vps/)
@@ -1986,6 +2027,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Small data with Elixir - José Valim](http://blog.plataformatec.com.br/2017/03/small-data-with-elixir/)
 * [GenStage and Flow - José Valim (Lambda Days 2017)](https://www.youtube.com/watch?v=XPlXNUXmcgE)
 * [Announcing GenStage - José Valim](http://elixir-lang.org/blog/2016/07/14/announcing-genstage/)
+* [Background Processing in Elixir with GenStage - Nitin Misra](https://medium.com/@scripbox_tech/background-processing-in-elixir-with-genstage-efb6cb8ca94a)
 * [GenStage in the Kitchen - Claudio Ortolina (Elixir.LDN 2016)](https://www.youtube.com/watch?v=M78r_PDlw2c)
 * [GenStage - José Valim (Elixir London June 2016))](https://www.youtube.com/watch?v=aZuY5-2lwW4)
 * [How Do I GenStage? - Adrian Dunston](http://engineering.spreedly.com/blog/how-do-i-genstage.html)
@@ -2412,6 +2454,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - ABOUT
 
 * [Using Elm in Production at Pivotal Tracker - Jeff Schomay](https://www.pivotaltracker.com/blog/Elm-pivotal-tracker)
+* [Using Nicer Programming Languages at Work - Richard Feldman](https://www.youtube.com/watch?v=iry7szWTS-8)
 * [6 Months of Elm in Production - Richard Feldman (Forward University)](http://forwardjs.com/university/elm-in-production)
 * Integrating Elm at Clarity Voice - PragmaticStudio: [Part 1](https://pragmaticstudio.com/blog/2017/3/22/integrating-elm-at-clarity-voice-part1) & [Part 2](https://pragmaticstudio.com/blog/2017/4/5/integrating-elm-at-clarity-voice-part2)
 * [On Storytelling - Evan Czaplicki (Deconstruct 2017)](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling)
@@ -2978,6 +3021,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The evolution of scalable microservices - Jonas Bonér](https://www.oreilly.com/ideas/the-evolution-of-scalable-microservices)
 * [The Many Meanings of Event-Driven Architecture - Martin Fowler (GOTO Chicago 2017)](https://www.youtube.com/watch?v=STKCRSUsyP0)
 * [CQRS and an Event Sourcing Architecture With Spring - Eugen Paraschiv (VoxxedDays Bucharest 2016)](https://www.youtube.com/watch?v=bVnjI0XOA9w)
+* [Microservices Data Patterns: CQRS & Event Sourcing - Edson Yanaga (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=eyf2Fs7GBo0)
 * [Migrating to Microservice Databases: From Relational Monolith to Distributed Data - Edson Yanaga (free book from O'Reilly)](http://www.oreilly.com/programming/free/files/migrating-to-microservice-databases.pdf)
 * [The Evolution of Microservices - Adrian Cockcroft (Association for Computing Machinery (ACM) 2016)](https://www.youtube.com/watch?v=Mg4Cs2K7f98)
 * [Principles Of Microservices - Sam Newman (Devoxx US 2015)](https://www.youtube.com/watch?v=PFQnNFe27kU)
@@ -3048,6 +3092,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - DOMAIN-DRIVEN DESIGN
 
+* [Designing Reactive Systems with Event Storming - Lutz Huehnken](https://www.youtube.com/watch?v=Xh6Ts19M6rg)
 * [Explore DDD Conference 2017](https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag/videos)
 * [Awesome DDD - Nick Chamberlain](https://github.com/heynickc/awesome-ddd)
 * [Domain Driven Design and Onion Architecture in Scala - Wade Waldron (Scala Days 2016)](https://www.youtube.com/watch?v=MnNeDXg3Qao)
@@ -3061,6 +3106,17 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Domain Driven Design: The Good Parts - Jimmy Bogard {NDC Sydney 2016}](https://www.youtube.com/watch?v=U6CeaA-Phqo)
 * [Event Storming - Alberto Brandolini (wroc_love.rb 2015)](https://www.youtube.com/watch?v=veTVAN0oEkQ)
 * [How To Distill The Core Domain From Your Legacy App (Live Coding) - Thomas Pierrain & Bruno Boucard (Explore DDD 2017)](https://www.youtube.com/watch?v=mZzPwt9vhHM)
+
+### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - GRPC
+
+* [GRPC.io](https://grpc.io/) | [Github](https://github.com/grpc/grpc)
+* [Awesome-GRPC](https://github.com/grpc-ecosystem/awesome-grpc)
+* [Efficient service communication with gRPC - Petra Bierleutgeb (microXchg 2018)](https://www.youtube.com/watch?v=t9SUcf3Uwlg)
+
+### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - JAVASCRIPT
+
+* [CQRS.js.org](http://cqrs.js.org/)
+* [CQRS and Event Sourcing in the AWS Cloud - Gunnar Wrobel, Sven Schröder (microXchg 2018)](https://www.youtube.com/watch?v=NZDWxE17DBM)
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA
 
@@ -3114,6 +3170,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Confluent blog](https://www.confluent.io/blog/)
 
+#### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - CONFLUENT PLATFORM
+
+* [Confluent Platform Demo](https://github.com/confluentinc/cp-demo)
+* [Confluent Blog](https://www.confluent.io/blog)
+
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - DELETING DATA
 
 * [Handling GDPR: How to make Kafka Forget - Ben Stopford](http://www.benstopford.com/2017/12/04/handling-gdpr-make-kafka-forget/)
@@ -3144,11 +3205,13 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ##### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA STREAMS - KSQL
 
+* [Github](https://github.com/confluentinc/ksql)
 * [Building a Real-Time Streaming Platform with Oracle, Apache Kafka, and KSQL - Gwen Shapira](https://www.youtube.com/watch?v=bc4wfzuCbAo)
 * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka - Neha Narkhede](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
 * [KSQL: A Streaming SQL Engine for Apache Kafka - Tim Berglund](https://www.youtube.com/watch?v=A45uRzJiv7I)
 * [Confluent Releases KSQL, a Distributed Streaming SQL Engine for Apache Kafka - Srini Penchikala](https://www.infoq.com/news/2017/10/apache-kafka-ksql)
 * [KSQL from Confluent: Streaming SQL for Apache Kafka® - Tim Berglund](https://www.youtube.com/watch?v=A45uRzJiv7I)
+* [KSQL 201: A Deep Dive into Query Processing - Hojjat Jafarpour, Confluent](https://www.confluent.io/kafka-summit-london18/ksql-201-a-deep-dive-into-query-processing)
 * [Level Up Your KSQL - Tim Berglund](https://www.youtube.com/watch?v=C-rUyWmRJSQ)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - SECURITY
@@ -3157,6 +3220,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - PRODUCTIONIZING
 
+* [Helm Chart](https://hub.kubeapps.com/charts/incubator/kafka)
 * [Kubernetes-kafka: Kafka cluster as Kubernetes StatefulSet, plain manifests and config](https://github.com/Yolean/kubernetes-kafka)
 * [Kafka in Docker - Spotify](https://github.com/spotify/docker-kafka)
 * [Kafka-docker](https://github.com/wurstmeister/kafka-docker)
@@ -3223,6 +3287,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Microservices Journey from a Startup Perspective - Susanne Kaiser (GOTO Berlin 2016)](https://www.youtube.com/watch?v=1BKp616GPQE)
 * [The Frontend Taboo: a Story of Full Stack Microservices - Luis Mineiro & Moritz Grauel (GOTO Berlin 2016)](https://www.youtube.com/watch?v=vCzTK4XPfX8)
 * [DDD & Microservices: At Last, Some Boundaries! - Eric Evans (GOTO Berlin 2015)](https://www.youtube.com/watch?v=yPvef9R3k-M)
+
+### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - VIDEOS
+
+* [microXchg 2018](https://www.youtube.com/channel/UCGCbB8TPtYMQmJwYVogcPjg)
 
 ## EXERCISE
 
@@ -3439,6 +3507,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Getting Git: Getting Effective Project Management - Scott Chacon (Scotland on Rails 2009)](http://scotland-on-rails.s3.amazonaws.com/1A02_Scott_Chacon.mp4)
 * [Git and GitHub Secrets by Zach Holman](http://www.youtube.com/watch?v=Foz9yvMkvlA)
 * [Introduction to Git - Scott Chacon (GitHub)](http://www.youtube.com/watch?v=ZDR433b0HJY)
+* [Poking Git: Advanced Git Techniques - Andreia Gaita](https://www.youtube.com/watch?v=uV7R7HcgjZ4)
+* [Advanced GIT for Developers - Lorna Jane Mitchell (Laracon EU 2015)](https://www.youtube.com/watch?v=duqBHik7nRo)
 * [Git in One Hour - Scott Chacon](http://www.youtube.com/watch?v=OFkgSjRnay4)
 * [Git Happens - Jessica Kerr (@jessitron)](http://www.youtube.com/watch?v=Dv8I_kfrFWw)
 * [grb - Git Remote Branch ruby gem](http://gitready.com/advanced/2009/03/11/easily-manage-git-remote-branches.html)
@@ -5463,6 +5533,10 @@ Peter R. Egli:
 * [Intro to Functional Programming in Scala - Joe Barnes](https://www.youtube.com/watch?v=2Ji5i0x2gJI)
 * [Programs as Values: Pure Composable Database Access in Scala - Rob Norris](https://www.youtube.com/watch?v=XHiTK4UOIf0)
 
+### SCALA - LAGOM
+
+* [LagomFramework.com: open source framework for building reactive microservice systems in Java or Scala, built on Akka and Play](https://www.lagomframework.com/)
+
 ### SCALA - SCALAZ
 
 * [The Design of the Scalaz 8 Effect System - John A. De Goes (scale.bythebay.io)](https://www.youtube.com/watch?v=wi_vLNULh9Y)
@@ -5585,6 +5659,7 @@ Peter R. Egli:
 
 * [Jenkins User Handbook (PDF)](https://jenkins.io/user-handbook.pdf)
 * [Jenkins Tutorial (PDF) - TutorialsPoint.com](https://www.tutorialspoint.com/jenkins/jenkins_tutorial.pdf)
+* [Helm Chart](https://hub.kubeapps.com/charts/stable/jenkins)
 * [Continuously delivering apps to Kubernetes using Helm (Adnan Abdulhussein - Bitnami)](https://www.youtube.com/watch?v=CmPK93hg5w8)
 * [Jenkins User Conference London 2015](http://confreaks.tv/events/jenkinsconflondon2015)
 * [Jenkins talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=jenkins&commit=go)
