@@ -451,8 +451,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### BROWSERS - CHROME
 
-* [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-* [Chrome Lighthouse: open-source, automated tool for improving the quality of web pages](https://developers.google.com/web/tools/lighthouse/)
+* [DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+* [Lighthouse: Automated tool for improving the quality of web pages](https://developers.google.com/web/tools/lighthouse/)
+* [Puppeteer: Most things you can do manually in the browser can be done using Puppeteer](https://github.com/GoogleChrome/puppeteer)
+* [Workbox: JavaScript libraries for adding offline support (service workers, asset caching, etc.) to web apps](https://developers.google.com/web/tools/workbox/)
 
 ### BROWSERS - PLUGINS/EXTENSIONS
 
@@ -936,6 +938,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ##### DATA - APIS - UNITED STATES - CITIES/STATES
 
+* [Solutions Search (Harvard Kennedy School of Government)](https://datasmart.ash.harvard.edu/civic-analytics-network/solutions-search)
 * [Austin, TX](https://data.austintexas.gov/)
 * [Boston, MA](https://data.cityofboston.gov/)
 * [Chicago, IL](https://data.cityofchicago.org/)
@@ -3132,6 +3135,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
 * [Commit Logs in an Age of Microservices by Tim Berglund (#MeetTheExperts)](https://www.youtube.com/watch?v=bbotWkCLuF0)
 * [Kafka: The Definitive Guide - Neha Narkhede, Gwen Shapira & Todd Palino (Confluent)](https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf)
+* [The Present and Future of the Streaming Platform - Neha Narkhede (Kafka Summit London 2018)](https://www.youtube.com/watch?v=eublKlalobg)
 * [The Log: What every software engineer should know about real-time data's unifying abstraction - Jay Kreps](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [Thorough Introduction to Apache Kafka™ - Stanislav Kozlovski](https://medium.com/@stanislavkozlovski/thorough-introduction-to-apache-kafka-6fbf2989bbc1)
 * [Toward a Functional Programming Analogy for Microservices - Bobby Calderwood](https://www.confluent.io/blog/toward-functional-programming-analogy-microservices/)
@@ -3189,6 +3193,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Kafka Streams documentation](https://kafka.apache.org/documentation/streams/)
 * [Kafka Music demo application for the Kafka Streams API - Confluent](https://docs.confluent.io/current/streams/kafka-streams-examples/docs/index.html)
 * [Data Stream Processing: Concepts and Implementations - Matthias Niehoff (Codecentric AG)](https://www.youtube.com/watch?v=AZiEp0uj2Os)
+* [Kafka and the Service Mesh - Gwen Shapira (Confluent)](https://www.youtube.com/watch?v=Fi292CqOm8A)
 * [Kafka’s Streams API for Highly Scalable Machine Learning & Deep Learning in Real Time - Kai Waehner (Confluent)](https://www.youtube.com/watch?v=-q7CyIExBKM)
 * [Ranking Websites in Real-time with Apache Kafka’s Streams API - Hunter Kelly](https://www.confluent.io/blog/ranking-websites-real-time-apache-kafkas-streams-api/)
 * [How to use Apache Kafka to transform a batch pipeline into a real-time one - Stéphane Maarek](https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85)
@@ -3206,6 +3211,14 @@ Links to resources I have found useful or think might be helpful to future me or
 ##### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA STREAMS - KSQL
 
 * [Github](https://github.com/confluentinc/ksql)
+Level Up Your KSQL - Tim Berglund (Confluent):
+  * [KSQL and Core Kafka](https://www.youtube.com/watch?v=-GpbMAK3Uow)
+  * [KSQL Use Cases](https://www.youtube.com/watch?v=euz0isNG1SQ)
+  * [KSQL Streams and Tables](https://www.youtube.com/watch?v=DPGn-j7yD68)
+  * [Streaming and Unbounded Data in KSQL](https://www.youtube.com/watch?v=4ccg1AFeNB0)
+  * [Aggregations in KSQL](https://www.youtube.com/watch?v=db5SsmNvej4)
+  * [Taking KSQL to Production](https://www.youtube.com/watch?v=f3wV8W_zjwE)
+* [Reading Kafka Data from KSQL](https://www.youtube.com/watch?v=EzVZOUt9JsU)
 * [Building a Real-Time Streaming Platform with Oracle, Apache Kafka, and KSQL - Gwen Shapira](https://www.youtube.com/watch?v=bc4wfzuCbAo)
 * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka - Neha Narkhede](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
 * [KSQL: A Streaming SQL Engine for Apache Kafka - Tim Berglund](https://www.youtube.com/watch?v=A45uRzJiv7I)
