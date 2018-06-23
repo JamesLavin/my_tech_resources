@@ -4,6 +4,13 @@
 
 Links to Ruby & Rails resources I have found useful or think might be helpful to future me or Ruby/Rails developers like me.
 
+## DEPLOYMENT
+
+### DEPLOYMENT - DOCKER
+
+* [Dockerizing an Existing Rails Application - CoderJourney](https://www.youtube.com/watch?v=dF6VQOZPZBM)
+* [Rails on Docker: Create and run Rails app using Docker - Episode #1 - Chandra Shettigar](https://www.youtube.com/watch?v=a-jcTib9ZPA)
+
 ## RAILS
 
 * Ruby on Rails API Documentation: [Current](http://api.rubyonrails.org) | [4.1.10](http://api.rubyonrails.org/v4.1.10/) | [4.0.13](http://api.rubyonrails.org/v4.0.13/) | [3.2.21](http://api.rubyonrails.org/v3.2.21/) | [3.1.12](http://rails.documentation.codyrobbins.com/3.1.12/) | [3.0.20](http://rails.documentation.codyrobbins.com/3.0.20/) | [2.3.18](http://rails.documentation.codyrobbins.com/2.3.18/) | [2.2.3](http://rails.documentation.codyrobbins.com/2.2.3/) | [2.1.2](http://rails.documentation.codyrobbins.com/2.1.2/) | [All versions](http://rails.documentation.codyrobbins.com/) | [APIDock browse](http://apidock.com/rails/browse) | [APIDock search](http://apidock.com/rails/search)

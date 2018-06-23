@@ -1500,6 +1500,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Stop reinventing the wheel with Istio - Mete Atamel (Devoxx UK 2018)](https://www.youtube.com/watch?v=pGKwluckJ-A)
 * [Hello Istio Codelab (With Google Kubernetes) - Google](https://codelabs.developers.google.com/codelabs/cloud-hello-istio/#0)
 * [Istio 101 (0.8.0) on GKE - Mete Atamel (Google)](https://meteatamel.wordpress.com/2018/06/07/istio-101-0-8-0-on-gke/)
+* [Microservices in the Cloud with Kubernetes and Istio - Sandeep Dinesh (Google I/O '18)](https://www.youtube.com/watch?v=gauOI0O9fRM)
+* [Making Microservices Micro with Istio Service Mesh - Ray Tsang (Devox Belgium 2017)](https://www.youtube.com/watch?v=AGztKw580yQ)
 
 ### DEVOPS - LOGGING
 
@@ -2106,6 +2108,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PACKAGES
 
 * [Hex.pm (Erlang & Elixir package manager)](https://hex.pm/)
+* [Rihanna: Fast, reliable, easy-to-use Postgres-backed distributed job queue - Sam Davies](https://github.com/samphilipd/rihanna) | [Rihanna UI](https://github.com/samphilipd/rihanna_ui)
 * [ExActor: Simplifies implementation of GenServer-based processes - Saša Jurić](https://github.com/sasa1977/exactor)
 * [Tesla: flexible HTTP client library for Elixir, with support for middleware and multiple adapters](https://github.com/teamon/tesla)
 * [con_cache: ETS-based key/value cache with row level isolated writes and ttl support - Saša Jurić](https://github.com/sasa1977/con_cache)
@@ -2144,6 +2147,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Taking Off With Phoenix - Sonny Scroggin (Erlang Factory SF 2016)](https://www.youtube.com/watch?v=eSWNi5vRxU8) & [(NDC London 2016](https://vimeo.com/162047653)
 * [New Heights - Chris McCord (ElixirDaze 2016)](https://www.youtube.com/watch?v=E6RTBlO9TZQ)
 * Building Phoenix Battleships - Ricardo García Vega: [Github](https://github.com/bigardone/phoenix-elm-battleship) | [1: Designing the game mechanics](http://codeloveandboards.com/blog/2016/04/29/building-phoenix-battleship-pt-1/) | [2: Lobby Channel & Game Supervision](http://codeloveandboards.com/blog/2016/05/03/building-phoenix-battleship-pt-2/) | [3: Game setup](http://codeloveandboards.com/blog/2016/05/21/building-phoenix-battleship-pt-3/) | [4: Placing ships on board](http://codeloveandboards.com/blog/2016/07/28/building-phoenix-battleship-pt-4/) | [5: Let the battle begin!](http://codeloveandboards.com/blog/2016/08/08/building-phoenix-battleship-pt-5/)
+* [Elixir and Phoenix basic passwordless and databaseless authentication - Ricardo García Vega](http://codeloveandboards.com/blog/2018/06/09/elixir-and-phoenix-basic-passwordless-and-databaseless-authentication-pt-1/) | [Github](https://github.com/bigardone/passwordless-auth)
 * [Phoenix a web framework for the new web - José Valim (Lambda Days 2016)](https://www.youtube.com/watch?v=MD3P7Qan3pw) | [#pivorak Lviv Ruby MeetUp](https://www.youtube.com/watch?v=Toluc5MCQWs)
 * [Phoenix is not Rails - Chris McCord](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails)
 * [Intro to Phoenix - José Valim (Elixir Warsaw Meetup)](https://www.youtube.com/watch?v=3LiLjVCDEpU)
@@ -3303,6 +3307,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - STORIES
 
 * [DevOps @ Amazon: Microservices, 2 Pizza Teams, & 50 Million Deploys a Year - Chris Munns (Canadian Executive Cloud & DevOps Summit 2016)](https://www.youtube.com/watch?v=DBluxFsvksk) & [slides](https://www.slideshare.net/TriNimbus/chris-munns-devops-amazon-microservices-2-pizza-teams-50-million-deploys-a-year)
+* [How Netflix Thinks of DevOps - Dave Hahn (DevOpsDays Rockies 2016)](https://www.youtube.com/watch?v=UTKIT6STSVM)
 * [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned - R. Meshenberg (GOTO Amsterdam 2016)](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 * [Enabling Microservices @ Orbitz by Steve Hoffman (DevOpsDays Chicago 2015)](https://www.youtube.com/watch?t=342&v=-hrleJ2TVAI)
 * [What I Wish I Had Known Before Scaling Uber to 1000 Services - Matt Ranney (GOTO Conf)](https://www.youtube.com/watch?v=kb-m2fasdDY)
@@ -3655,7 +3660,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [Haskell Stack Mega-Tutorial - Christopher Allen](https://www.youtube.com/watch?v=sRonIB8ZStw)
 * [A Practical Introduction to Haskell GADTs - Richard Eisenberg (LambdaConf 2015)](https://www.youtube.com/watch?v=6snteFntvjM)
 * [A History of Haskell: Being Lazy With Class - Arthur Vard](https://www.youtube.com/watch?v=3bjXGrycMhQ)
-* Adventure With Types in Haskell - Simon Peyton Jones: [Lecture 1](https://www.youtube.com/watch?v=6COvD8oynmI) | [Lecture 2](https://www.youtube.com/watch?v=brE_dyedGm0)
+* Adventure With Types in Haskell - Simon Peyton Jones: [Lecture 1](https://www.youtube.com/watch?v=6COvD8oynmI) | [Lecture 2](https://www.youtube.com/watch?v=brE_dyedGm0) | [Lecture 3](https://www.youtube.com/watch?v=2IZQx7WNOMs) | [Lecture 4](https://www.youtube.com/watch?v=XtogTwzcGcM)
 * [Classes, Jim, but not as we know them - Simon Peyton Jones (Microsoft Development Center Copenhagen TechTalk)](https://channel9.msdn.com/posts/MDCC-TechTalk-Classes-Jim-but-not-as-we-know-them)
 * [Beginner's Guide to Exceptions in Haskell - Erin Swenson-Healey](https://www.youtube.com/watch?v=PWS0Whf6-wc)
 * [Fun with type functions - Simon Peyton Jones (Microsoft Development Center Copenhagen TechTalk)](https://channel9.msdn.com/posts/MDCC-TechTalk-Fun-with-type-functions)
@@ -4879,6 +4884,7 @@ Peter R. Egli:
 * [ScienceDaily](http://www.sciencedaily.com/news/matter_energy/technology/)
 * [Seattle Times](http://www.seattletimes.com/business/technology/)
 * [Second Nexus](http://secondnexus.com/category/technology-and-innovation/)
+* [Silicon Angle](https://siliconangle.com/)
 * [Singularity Hub](http://singularityhub.com/)
 * [Slashdot](http://slashdot.org/)
 * [The Stack](https://thestack.com/)
