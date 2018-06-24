@@ -183,6 +183,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - MACHINE LEARNING
 
+* [Papers With Code - Hottest AI/ML papers with associated code](https://paperswithcode.com/)
 * [arXiv.org machine learning articles](https://arxiv.org/list/stat.ML/recent)
 * [Jupyter notebooks for the book "Hands-on Machine Learning with Scikit-Learn and TensorFlow" - Aurélien Geron](https://github.com/ageron/handson-ml)
 * [Jupyter notebooks for the book "Deep Learning With Python Notebooks" - François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
@@ -1392,6 +1393,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - GOOGLE CLOUD
 
 * Gcloud: [Overview](https://cloud.google.com/sdk/gcloud/) | [Compute Concepts](https://cloud.google.com/compute/docs/concepts) | [SDK Concepts](https://cloud.google.com/sdk/docs/concepts) | [Reference](https://cloud.google.com/sdk/gcloud/reference/) | [Compute How-Tos](https://cloud.google.com/compute/docs/how-to) | [SDK How-Tos](https://cloud.google.com/sdk/docs/how-to)
+* Janakiram MSV: [Configuring Kubernetes Cluster Federation to Create a Global Deployment](https://thenewstack.io/configuring-kubernetes-cluster-federation-to-create-a-global-deployment/) | [Deploy a Multicluster Ingress on Google Kubernetes Engine](https://thenewstack.io/deploy-a-multicluster-ingress-on-google-kubernetes-engine/)
 * [Creating and Starting a VM Instance](https://cloud.google.com/compute/docs/instances/create-start-instance)
 * [Setting up Jenkins on Kubernetes Engine](https://cloud.google.com/solutions/jenkins-on-kubernetes-engine-tutorial)
 
@@ -1582,6 +1584,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - VIDEOS
 
+* [DevOpsDays Baltimore 2018](https://www.youtube.com/playlist?list=PLE7tQUdRKcyZZhQVK1UhqKrVHsQ1d0I7J)
 * [DevOpsDays Seattle 2017](http://confreaks.tv/events/devopsdaysseattle2017)
 * [DevOpsDays Rockies 2017](http://confreaks.tv/events/devopsdaysdenver2017)
 * [DevOpsDays Boston 2016](http://confreaks.tv/events/devopsdaysboston2016)
@@ -1735,7 +1738,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## ELIXIR
 
 * Elixir: [Docs](http://elixir-lang.org/docs.html) & [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html) & [Erlang/Elixir Syntax Crash Course](http://elixir-lang.org/crash-course.html) & [Elixir-lang-talk group](https://groups.google.com/forum/?fromgroups#!forum/elixir-lang-talk) & [Elixir Core mailing list](https://groups.google.com/forum/#!forum/elixir-lang-core) & [ElixirForum.com](http://elixirforum.com/)
-* [Lessons Learned Building a Medication Service at Teladoc and How Ecto Saved the Day - James Lavin (EMPEX 2018)](https://www.youtube.com/watch?v=CUvif-levqk) <-- Hey, that's ME! I did a thing!!!
+* [Lessons Learned Building a Medication Service at Teladoc and How Ecto Saved the Day - James Lavin (EMPEX 2018)](https://www.youtube.com/watch?v=CUvif-levqk) (Hey, that's ME! I did a thing!!!)
 * [Awesome Elixir - Curated list of Elixir/Erlang libraries, resources & shiny things](https://github.com/h4cc/awesome-elixir)
 * [Cheatsheet](https://www.dropbox.com/s/lr1t87rw4wfnyb3/elixir-cheat-sheet-v2.pdf?dl=0)
 * [Explicit Elixir - Paul Lamb (ElixirDaze 2016)](https://www.youtube.com/watch?v=sr5I5ncg0kU)
@@ -4352,6 +4355,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 ### JAVASCRIPT - TESTING
 
+* [Please don’t mock me - Justin Searls (Assert(JS) 2018)](https://www.youtube.com/watch?v=Af4M8GMoxi4)
 * [Zero to Testing in Javascript - Pamela Selle (QConn New York 2014)](http://www.infoq.com/presentations/tdd-javascript-2014)
 * [Testing Javascript/Coffeescript - Mark Bates](http://www.youtube.com/watch?v=x74ANVOAnKw)
 * [Javascript testing - Ruby-Toolbox](https://www.ruby-toolbox.com/categories/javascript_testing)
