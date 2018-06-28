@@ -1737,21 +1737,44 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELIXIR
 
-* Elixir: [Docs](http://elixir-lang.org/docs.html) & [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html) & [Erlang/Elixir Syntax Crash Course](http://elixir-lang.org/crash-course.html) & [Elixir-lang-talk group](https://groups.google.com/forum/?fromgroups#!forum/elixir-lang-talk) & [Elixir Core mailing list](https://groups.google.com/forum/#!forum/elixir-lang-core) & [ElixirForum.com](http://elixirforum.com/)
-* [Lessons Learned Building a Medication Service at Teladoc and How Ecto Saved the Day - James Lavin (EMPEX 2018)](https://www.youtube.com/watch?v=CUvif-levqk) (Hey, that's ME! I did a thing!!!)
+### ELIXIR - GETTING STARTED
+
+* Elixir-lang.org: [Docs](http://elixir-lang.org/docs.html) | [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html) | [Erlang/Elixir Syntax Crash Course](http://elixir-lang.org/crash-course.html) | [Learning resources](https://elixir-lang.org/learning.html) | [Elixir-lang-talk group](https://groups.google.com/forum/?fromgroups#!forum/elixir-lang-talk) | [Elixir Core mailing list](https://groups.google.com/forum/#!forum/elixir-lang-core) | [ElixirForum.com](http://elixirforum.com/)
+* [Elixir School](https://elixirschool.com/)
+* [ElixirCasts.io](https://elixircasts.io/?page=6)
+* [From Zero to Hero in Elixir - LittleAlchemist.io](https://www.youtube.com/playlist?list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp)
+* [Elixir Tutorial - Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumAgKjSPyFtvYjP5LqgzafQq)
+* [Alchemist Camp](https://alchemist.camp/episodes)
+* Elixir Examples: [Categorized](https://elixir-examples.github.io/) | [Single page](https://elixir-examples.github.io/single-page)
+* [Exercism.io Elixir](http://exercism.io/languages/elixir)
+* [Elixir Koans](http://elixirkoans.io/)
+* [Joy of Elixir](https://joyofelixir.com/toc.html)
+* [Elixir Devhints](https://devhints.io/elixir)
+* [Intro to Elixir - SolutionStreet.com](https://www.youtube.com/watch?v=lly-1UYmnFI)
+
+### ELIXIR - GETTING STARTED (NON-FREE)
+
+* [Developing With Elixir/OTP - Pragmatic Studio](https://pragmaticstudio.com/elixir) (NOT FREE but I've used and loved this)
+* [LearnElixir.tv](https://www.learnelixir.tv/) & [LearnPhoenix.tv](https://www.learnphoenix.tv/) (NOT FREE but I've used and loved this)
+* [Elixir for Programmers - Dave Thomas](https://codestool.coding-gnome.com/courses/elixir-for-programmers) (NOT FREE, but it's from the legendary Dave Thomas)
+* [The Complete Elixir and Phoenix Bootcamp - Stephen Grider (Udemy)](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/) (NOT FREE)
+* [Elixir Sips](http://elixirsips.com) (NOT FREE)
+* [RED:4 - Learn Elixir The Fun Way - Rob Conery](http://www.redfour.io/) (NOT FREE)
+* [Discover Elixir & Phoenix - Tristan Edwards](https://www.ludu.co/course/discover-elixir-phoenix) (NOT FREE)
+
+### ELIXIR - GENERAL
+
 * [Awesome Elixir - Curated list of Elixir/Erlang libraries, resources & shiny things](https://github.com/h4cc/awesome-elixir)
 * [Cheatsheet](https://www.dropbox.com/s/lr1t87rw4wfnyb3/elixir-cheat-sheet-v2.pdf?dl=0)
+* [Lessons Learned Building a Medication Service at Teladoc and How Ecto Saved the Day - James Lavin (EMPEX 2018)](https://www.youtube.com/watch?v=CUvif-levqk) (Hey, that's ME! I did a thing!!!)
 * [Explicit Elixir - Paul Lamb (ElixirDaze 2016)](https://www.youtube.com/watch?v=sr5I5ncg0kU)
-* Elixir Examples: [Categorized](https://elixir-examples.github.io/) | [Single page](https://elixir-examples.github.io/single-page)
 * [What Elixir is About - José Valim (Erlang Factory SF 2015)](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
 * [Elixir: Easy fun for busy developers - David Schmitz (Devoxx 2016)](https://www.youtube.com/watch?v=naNN_gJas2A)
 * [Transforming Programming - Dave Thomas (Erlang & Elixir Factory 2017)](https://www.youtube.com/watch?v=A76hM3MpEKo)
 * [A Completely Unbiased Showcase of Elixir - Andrea Leopardi (Erlang User Conference 2016)](https://www.youtube.com/watch?v=EPXZ6VLiZuo)
 * [Elixir with José Valim](http://howistart.org/posts/elixir/1)
 * [Building a web framework from scratch in Elixir - Robert Lord](https://codewords.recurse.com/issues/five/building-a-web-framework-from-scratch-in-elixir)
-* [Elixir School](https://elixirschool.com/)
 * [Sweet Elixir! - Ryan Cromwell](http://www.infoq.com/presentations/elixir) & [full notes](https://github.com/cromwellryan/sweetelixir)
-* [Exercism.io Elixir](http://exercism.io/languages/elixir)
 * [Basic Design in Functional Programming Languages - Tomasz Kowal (ElixirLive 2016)](https://www.youtube.com/watch?v=arYOSYrjC8s)
 * [Elixir talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=elixir&commit=go)
 * [Elixir Koans - Nicolas Deverge](https://github.com/dojo-toulouse/elixir-koans)
@@ -1767,7 +1790,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Rubyists, have a sip of Elixir! - Benjamin Tan (RubyConf 2014)](http://confreaks.tv/videos/5078-RubyConf2014-rubyists-have-a-sip-of-elixir)
 * [Intro to Elixir for Rubyists - Josh Adams & Robby Clements (ExlirConf 2014)](http://confreaks.tv/videos/4121-elixirconf2014-introduction-to-elixir-for-rubyists)
 * [Elixir Foundations for Ruby Devs: Transforming Data - Tomasz Kowal](http://blog.scoutapp.com/articles/2016/12/08/elixir-foundations-for-ruby-devs-transforming-data)
-* [Intro to Elixir - SolutionStreet.com](https://www.youtube.com/watch?v=lly-1UYmnFI)
 * [Elixir: The only Sane Choice in an Insane World - Brian Cardarella (GOTO Chicago 2017)](https://www.youtube.com/watch?v=gom6nEvtl3U)
 * [Where I Got Stuck Using IEx.pry in Elixir - Jesse Trimble](http://www.jessetrimble.net/iex-pry-elixir/)
 * [Programming Elixir: The magic of today's tonic - Katie Miller (Linux.conf.au Jan 2014)](https://www.youtube.com/watch?v=uWSGBpW3xEQ)
@@ -1779,8 +1801,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Keynote: "Think Different" - Dave Thomas (ElixirConf 2014)](http://confreaks.tv/videos/4119-elixirconf2014-opening-keynote-think-different)
 * [Ruby and Elixir - Casey Rosenthal (Portland Ruby Brigade Jan 2015)](http://confreaks.tv/videos/pdxrbjan2015-ruby-and-elixir)
 * [Hex: How it was built - Eric Meadows–Jönsson (ElixirConf 2014](https://www.youtube.com/watch?v=VAa7YnZo0hU)
-* [Elixir Sips (non-free)](http://elixirsips.com) & [Sipper (downloader) - Henrik Nyh](https://github.com/henrik/sipper)
-* [Elixir Starters](http://elixirstarters.github.io/)
 * [Elixir Freenode IRC](http://irc.lc/freenode/elixir)
 * [Writing Command Line Applications with Elixir - James Smith (ElixirConf 2014)](https://www.youtube.com/watch?v=7l_fDU86pr4)
 * [Elixir Code Reading: Blacksmith](https://www.zweitag.de/en/blog/technology/elixir-code-reading-blacksmith)
@@ -1788,7 +1808,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir in times of microservices - José Valim](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/)
 * [Closures: Elixir vs. Ruby vs. JavaScript - Hubert Łępicki](https://www.amberbit.com/blog/2015/6/14/closures-elixir-vs-ruby-vs-javascript/)
 * [ExMachina for Elixir: Factories with a Functional Twist - Josh Steiner & Paul Smith](https://robots.thoughtbot.com/announcing-ex-machina)
-* [RED:4 - Learn Elixir The Fun Way (NOT FREE: $40) - Rob Conery](http://www.redfour.io/)
 
 ### ELIXIR - 1.6
 
