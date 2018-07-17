@@ -504,6 +504,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Beyond the Business Model - Ash Maurya](https://www.youtube.com/watch?v=Qyq3SCxjqgE)
 * [Startup Hacks - Alex Iskold](https://alexiskold.net/)
 * [10 Things The Rich Do That The Poor Don't - Why You Are Still Broke - Practical Wisdom](https://www.youtube.com/watch?v=nr76bupxjco)
+* [How to Achieve Your Most Ambitious Goals - Stephen Duneier (TEDxTucson)](https://www.youtube.com/watch?v=TQMbvJNRpLE)
 * [Evidence-based Entrepreneurship - Steve Blank (The Lean Startup Conference 2013)](https://www.youtube.com/watch?v=zjvEanpktEo)
 * [Tim Ferriss's advice on starting a business or podcast - Tim Ferriss](https://www.youtube.com/watch?v=ymiBDged-eQ)
 * Laura Klein: [So You Want to Build the Next Facebook (Lean Startup Conference 2015)](https://www.youtube.com/watch?v=cUrZTtE00d4) | [Identify and Validate Your Riskiest Assumptions (Lean Startup Conference 2014)](https://www.youtube.com/watch?v=SrzJqsedjC0)
@@ -519,6 +520,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Warren Buffet's Life Advice Will Change Your Future](https://www.youtube.com/watch?v=PX5-XyBNi00)
 * [10 SKILLS That Are HARD to Learn, BUT Will Pay Off FOREVER! - Evan Carmichael](https://www.youtube.com/watch?v=2wPeC4CLkLU)
 * [Steve Jobs's Top 10 Rules For Success - Evan Carmichael](https://www.youtube.com/watch?v=eHzAtxW3TzY)
+* [What they don't tell you about entrepreneurship - Mark Leruste (TEDxCardiff)](https://www.youtube.com/watch?v=f6nxcfbDfZo)
+* [How to build a Billion Dollar app? - George Berkowski (TEDxCityUniversityLondon)](https://www.youtube.com/watch?v=OwuEwhX1M_M)
 
 #### BUSINESS - ENTREPRENEURSHIP - BLOGS & NEWS
 
@@ -1474,6 +1477,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - KUBERNETES - SECURITY
 
+* [Top 9 Kubernetes Settings You Should Check to Optimize Security - Connor Gilbert](https://containerjournal.com/2018/07/03/top-9-kubernetes-settings-you-should-check-to-optimize-security/)
 * [Kubernetes Security Best Practices - Ian Lewis](https://speakerdeck.com/ianlewis/kubernetes-security-best-practices)
 * [Building Container Images Securely on Kubernetes - Jessie Frazelle](https://blog.jessfraz.com/post/building-container-images-securely-on-kubernetes/)
 
@@ -1939,6 +1943,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Libcluster - Paul Schoenfelder](https://github.com/bitwalker/libcluster)
 * [Swarm - Paul Schoenfelder](https://github.com/bitwalker/swarm)
 
+#### ELIXIR - DEPLOYMENT - CONFIGURATION
+
+* [Configuration Demystified - Sean Callan](https://elixirschool.com/blog/configuration-demystified/)
+
 #### ELIXIR - DEPLOYMENT - CONFORM
 
 * [Conform: library to adapt your application to its deployed environment](https://github.com/bitwalker/conform)
@@ -2032,6 +2040,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [FAQ on DDD, CQRS & Event Sourcing - CQRS.nu](http://cqrs.nu/Faq)
 * [CQRS and Event Sourcing - Bernardo Amorim (Code Beam SF 2018)](https://www.youtube.com/watch?v=S3f6sAXa3-c)
 * [Building CQRS/ES web applications in Elixir using Phoenix - Ben Smith](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/) | [Building a CQRS/ES web application in Elixir using Phoenix](https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/) | [PDF](https://10consulting.com/presentations/2017-03-23-building-cqrs-web-applications-in-elixir.pdf)
+* [event_bus: Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS - Mustafa Turan](https://github.com/otobus/event_bus) & [event_bus_postgres: Postgres event store for event_bus](https://github.com/otobus/event_bus_postgres)
 * [Pachyderm - an elephant never forgets - Peter Saxton](https://github.com/CrowdHailer/event-sourcing.elixir)
 * [Dealing with eventual consistency in a CQRS/ES application - Ben Smith](https://10consulting.com/2017/10/06/dealing-with-eventual-consistency/)
 * [Eventstore: CQRS event store using PostgreSQL for persistence - Ben Smith](https://github.com/slashdotdash/eventstore)
@@ -2083,6 +2092,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Writing and Publishing an Elixir Library - Nithin Bekal](http://nithinbekal.com/posts/elixir-publish-package/)
 * [Publishing a package - Hex.pm](https://hex.pm/docs/publish)
+
+### ELIXIR - KAFKA
+
+* [KafkaEx](https://github.com/kafkaex/kafka_ex)
+* [Kaffe](https://github.com/spreedly/kaffe)
+* [brod](https://github.com/klarna/brod)
+* [KaufmannEx](https://github.com/sevenmind/kaufmann_ex) | [KaufmannEx — Elixir Microservices with Kafka and Avro - 7Mind GmbH](https://medium.com/@7mind_dev/kaufmann-ex-317415c27978)
+* [Cafex](https://github.com/upyun/cafex)
 
 ### ELIXIR - MACROS
 
@@ -2204,6 +2221,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - CHANNELS
 
+* [Phoenix PubSub: Using Phoenix.PubSub to send messages across processes - Hubert Pompecki](https://www.pompecki.com/post/phoenix-pubsub/)
 * [Phoenix WebSockets Under a Microscope - Dimitris Zorbas](https://zorbash.com/post/phoenix-websockets-under-a-microscope/)
 
 #### ELIXIR - PHOENIX - DEPLOYMENT
@@ -2410,6 +2428,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ## ELM
 
 * An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
+* [create-elm-app: Create Elm apps with zero configuration - Eduard Kyvenko](https://github.com/halfzebra/create-elm-app)
+* [Elm Crash Course - Mario Rogic](https://www.youtube.com/watch?v=kEitFAY7Gc8)
 * [Functional Programming in Elm - Evan Czaplicki](https://www.gitbook.com/book/evancz/functional-programming-in-elm/details)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
 * [Elm at Pacific Health Dynamics - Joseph Ni](https://legacy.gitbook.com/book/mordrax/elm-at-phd/details)
@@ -2469,7 +2489,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [elm-by-example.org - Grzegorz Balcerek](http://elm-by-example.org/) | [code examples](https://github.com/grzegorzbalcerek/ElmByExample)
 * [jsbin-style Glot.io](https://glot.io/new/elm)
 * [Elm by Example: Soup to Nuts - Part 1 - Dorian Karter (Hashrocket)](https://hashrocket.com/blog/posts/elm-by-example-soup-to-nuts-part-1)
-* [create-elm-app: Create Elm apps with zero configuration - Eduard Kyvenko](https://github.com/halfzebra/create-elm-app)
 * [London Elm Meetup at Plumbee Games](https://www.youtube.com/watch?v=OphstSQhyRM)
 * [Elm or how I learned to love front end development - Marco Perone](https://www.youtube.com/watch?v=DX28Hyn8gQw)
 * [awesome-elm - Ruslan Ismagilov](https://github.com/isRuslan/awesome-elm)
@@ -2729,8 +2748,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - PHOENIX & ELM
 
-* Elixir API and Elm SPA - Miguel Cobá: [Part 1](https://dev.to/miguelcoba/elixir-api-and-elm-spa-4hpf) | [Part 2](https://dev.to/miguelcoba/elixir-api-and-elm-spa---part-2-1pca) | [Part 3](https://dev.to/miguelcoba/elixir-api-and-elm-spa---part-3-3n0h)
+* Elixir API and Elm SPA - Miguel Cobá: [Part 1: Elixir App Creation](https://dev.to/miguelcoba/elixir-api-and-elm-spa-4hpf) | [Part 2: Adding Guardian Authentication](https://dev.to/miguelcoba/elixir-api-and-elm-spa---part-2-1pca) | [Part 3: Elm App creation and Routing setup](https://dev.to/miguelcoba/elixir-api-and-elm-spa---part-3-3n0h) | [Part 4: Adding Login and Register pages](https://dev.to/miguelcoba/elixir-api-and-elm-spa---part-4-4il0) | [Part 5: Persisting session data to localStorage](https://dev.to/miguelcoba/elixir-api-and-elm-spa---part-5-4j1k)
 * [Phoenix & Elm landing page (pt.1) - Ricardo García Vega](http://codeloveandboards.com/blog/2017/12/02/phoenix-elm-landing-page-pt-1/) & [Part 2](http://codeloveandboards.com/blog/2017/12/23/phoenix-elm-landing-page-pt-2/) & [Part 3](http://codeloveandboards.com/blog/2018/01/06/phoenix-elm-landing-page-pt-3/)
+* [Migrating a Phoenix and Elm app from REST to GraphQL - Paul Fioravanti](https://paulfioravanti.com/blog/2018/03/06/migrating-a-phoenix-and-elm-app-from-rest-to-graphql/) & [Github](https://github.com/paulfioravanti/phoenix-and-elm)
+* [elm-phoenix-websocket-ports](https://www.npmjs.com/package/elm-phoenix-websocket-ports)
+* [elm-phoenix-socket](https://github.com/fbonetti/elm-phoenix-socket)
 * [Elm and Phoenix: Two FP Flavors That Taste Great Together - Josh Adams (Erlang Factory 2017)](https://www.infoq.com/presentations/elm-phoenix)
 * [Elixir, Phoenix 1.3 , Elm and Webpack 3 - Denni Sivia](https://skeptic.blog/software-engineering/elixir-phoenix-elm-webpack/)
 * [firestorm: open-source forum engine with Elixir+Phoenix backend and Elm frontend - Josh Adams](https://github.com/dailydrip/firestorm)
@@ -3134,7 +3156,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - DOMAIN-DRIVEN DESIGN
 
-* [Designing Reactive Systems with Event Storming - Lutz Huehnken](https://www.youtube.com/watch?v=Xh6Ts19M6rg)
+* [Designing Reactive Systems with Event Storming - Lutz Huehnken (microXchg 2018)](https://www.youtube.com/watch?v=Xh6Ts19M6rg)
 * [Explore DDD Conference 2017](https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag/videos)
 * [Awesome DDD - Nick Chamberlain](https://github.com/heynickc/awesome-ddd)
 * [Domain Driven Design and Onion Architecture in Scala - Wade Waldron (Scala Days 2016)](https://www.youtube.com/watch?v=MnNeDXg3Qao)
@@ -4072,6 +4094,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 ### JAVASCRIPT - ES 2015 / ES6 / ECMASCRIPT 6
 
+* [Object-Oriented Programming in Javascript - TechSith](https://www.youtube.com/playlist?list=PL7pEw9n3GkoW0ceMeoycg9D00YjPAbtvt)
 * [ES6 Cheatsheet - David Leonard](https://github.com/DrkSephy/es6-cheatsheet)
 * [Modern JavaScript Cheatsheet - Manuel Beaudru](https://github.com/mbeaudru/modern-js-cheatsheet)
 * [ES6 Part 1: Destructuring - funfunfunction](https://www.youtube.com/watch?v=PB_d3uBkQPs)
@@ -5228,6 +5251,10 @@ Peter R. Egli:
 * [Games on Github - Lee Reilly](https://github.com/leereilly/games)
 * [Phaser.io](http://phaser.io/)
 * [Game Editor (cross-platform game creator)](http://game-editor.com/)
+
+### PROGRAMMING - MANAGEMENT
+
+* [Tips for Managing a Widely Distributed Team - Dirkjan Bussink (#LeadDevLondon 2018)](https://www.youtube.com/watch?v=pi6bHUkoBgY)
 
 ### PROGRAMMING - MESSAGING & QUEUES
 
