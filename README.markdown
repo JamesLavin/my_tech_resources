@@ -506,6 +506,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Startup Hacks - Alex Iskold](https://alexiskold.net/)
 * [10 Things The Rich Do That The Poor Don't - Why You Are Still Broke - Practical Wisdom](https://www.youtube.com/watch?v=nr76bupxjco)
 * [How to Achieve Your Most Ambitious Goals - Stephen Duneier (TEDxTucson)](https://www.youtube.com/watch?v=TQMbvJNRpLE)
+* [Startups, Entrepreneurship, and Making Your Tech Business Work - Full Sail University 2017](https://www.youtube.com/watch?v=fFMpmboNGuY)
 * [Evidence-based Entrepreneurship - Steve Blank (The Lean Startup Conference 2013)](https://www.youtube.com/watch?v=zjvEanpktEo)
 * [Tim Ferriss's advice on starting a business or podcast - Tim Ferriss](https://www.youtube.com/watch?v=ymiBDged-eQ)
 * Laura Klein: [So You Want to Build the Next Facebook (Lean Startup Conference 2015)](https://www.youtube.com/watch?v=cUrZTtE00d4) | [Identify and Validate Your Riskiest Assumptions (Lean Startup Conference 2014)](https://www.youtube.com/watch?v=SrzJqsedjC0)
@@ -1944,6 +1945,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - DEPLOYMENT
 
 * [Best practices for deploying Elixir apps - Jake Morrison](https://www.cogini.com/blog/best-practices-for-deploying-elixir-apps/)
+* [How To Automate Elixir-Phoenix Deployment with Distillery and edeliver on Ubuntu 16.04 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-automate-elixir-phoenix-deployment-with-distillery-and-edeliver-on-ubuntu-16-04)
+* [Building and configuring a Phoenix app with Umbrella for releasing with Docker - Fernando Briano](https://cultivatehq.com/posts/elixir-distillery-umbrella-docker/)
 * A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes - Rohan Relan: [Part 1: Setting up Distillery](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-1-setting-up-d88b35b64dcd) | [Part 2: Docker and Minikube](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-2-docker-and-81e934c3fceb) | [Part 3: Deploying to Kubernetes](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-3-deploying-to-bd5b1fcbef87) | [Part 4: Secret Management](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-4-secret-f851d575bdd1) | [Part 5: Clustering Elixir & Phoenix Channels](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-5-clustering-6c30fcd35ce1)
 * [Clustering Elixir/Erlang applications in Kubernetes (part 1: the theory) - Dario Freddi](https://blog.ispirata.com/clustering-elixir-erlang-applications-in-kubernetes-part-1-the-theory-ca658acbf101)
 * [Release, Deploy, Monitor and Upgrade Elixir Services in Real World - Tian Chen (Code BEAM SF 2018)](https://www.youtube.com/watch?v=kwHtlmyxE6c)
@@ -2847,7 +2850,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - VIDEOS
 
-* [Elm Europe 2018](https://www.youtube.com/watch?v=MlyGg-DIqnU)
+* Elm Europe: [2018](https://www.youtube.com/playlist?list=PL-cYi7I913S-VgTSUKWhrUkReM_vMNQxG) | [2017](https://www.youtube.com/playlist?list=PL-cYi7I913S8cGyZWdN6YVZ028iS9BfpM)
 * ElmConf: [2017](https://www.youtube.com/playlist?list=PLglJM3BYAMPFTT61A0Axo_8n0s9n9CixA) | [2016](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
 * [fncasts: streaming series building apps using Elm and Elixir. The first app is a chess game](https://www.youtube.com/channel/UCEVIBi0jFVXrCvd7CdVYxvw)
 * [Oslo Elm Day 2017](https://www.youtube.com/playlist?list=PLcAzxXzXQlPZsNcYycHittqeF3UG4dGli)
@@ -5228,6 +5231,7 @@ Peter R. Egli:
 ### PROGRAMMING - CODE REVIEWS
 
 * [Code Review in Remote Teams - Sean Hammond](https://www.seanh.cc/posts/code-review)
+* [The Science of Code Reviews - Rich Kuipers (Dutch PHP Conference in 2018)](https://www.youtube.com/watch?v=EyL7mqwpZhk)
 * [Goldilocks And The Three Code Reviews - Vaidehi Joshi (RailsConf 2017)](http://confreaks.tv/videos/railsconf2017-goldilocks-and-the-three-code-reviews)
 
 ### PROGRAMMING - CONCURRENCY
