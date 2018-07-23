@@ -491,6 +491,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### BUSINESS - ENTREPRENEURSHIP - ADVICE
 
 * [Startup Class (Sam Altman)](http://startupclass.samaltman.com/)
+* [Founder to CEO (Matt's Book for Startups) - Matt Mochary](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit)
 * [Indie Hackers](https://www.indiehackers.com/)
 * [20 Ways to Blow Up Your Company - Jason Mendelson](https://www.youtube.com/watch?v=I8zHfCqz9qY)
 * [13 Reasons My Startup FAILED - Russell Keith-Magee (Djangocon.us 2017)](https://www.youtube.com/watch?v=OOTThZReAdA)
@@ -526,6 +527,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### BUSINESS - ENTREPRENEURSHIP - BLOGS & NEWS
 
 * [eCorner (Stanford University)](https://ecorner.stanford.edu/)
+* [Foundr.com](https://foundr.com/blog/)
 * [GeekWire](http://www.geekwire.com/startups/)
 * [TechCrunch - Startups](https://techcrunch.com/startups/)
 
@@ -770,6 +772,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## COMPUTING BASICS - QUANTUM COMPUTING
 
+* [Quantum Computing for Computer Scientists - Andrew Helwer](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 * [Quantum Computing 2017 Update - ExplainingComputers](https://www.youtube.com/watch?v=iYESkqXVWa0)
 * [Unboxing a Quantum Computer - Holy $hit Episode 19 - Linus Tech Tips](https://www.youtube.com/watch?v=60OkanvToFI)
 * [A Beginner’s Guide to Quantum Computing - Talia Gershon (IBM)](https://www.youtube.com/watch?v=S52rxZG-zi0)
@@ -963,6 +966,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DATA - PODCASTS
 
+* [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 * [O'Reilly Data Show Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast)
 
 ### DATA - SCRAPING
@@ -991,6 +995,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [CockroachDB: cloud-native SQL database for building global, scalable cloud services that survive disasters](https://github.com/cockroachdb/cockroach)
 * [Helm Chart](https://hub.kubeapps.com/charts/stable/cockroachdb)
+* [Data consistency, gorm and CockroachDB - Erik Lupander](http://callistaenterprise.se/blogg/teknik/2018/02/14/go-blog-series-part13/)
 
 ### DATABASES - DATOMIC
 
@@ -1112,6 +1117,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DATABASES - TIMESCALEDB
 
 * [Time Series Database Lectures #6 - Mike Freedman (TimescaleDB) @ Carnegie Mellon Database Group](https://www.youtube.com/watch?v=IaZ4hJ3G7wc&index=6&list=PLSE8ODhjZXjY0GMWN4X8FIkYNfiu8_Wl9)
+* [TimescaleDB: Fast And Scalable Timeseries - Ajay Kulkarni and Mike Freedman](https://www.dataengineeringpodcast.com/timescaledb-with-ajay-kulkarni-and-mike-freedman-episode-18/)
 
 ## DEVOPS
 
@@ -1400,6 +1406,19 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Creating and Starting a VM Instance](https://cloud.google.com/compute/docs/instances/create-start-instance)
 * [Setting up Jenkins on Kubernetes Engine](https://cloud.google.com/solutions/jenkins-on-kubernetes-engine-tutorial)
 
+#### DEVOPS - GOOGLE CLOUD - KUBERNETES
+
+* [Container management and deployment: from development to production - Kelsey Hightower (Google Cloud Next '17)](https://www.youtube.com/watch?v=XL9CQobFB8I)
+* [Google Container Engine - The easiest way to use containers in production - Robert Bailey and Chen Goldberg (Google Cloud Next '17)](https://www.youtube.com/watch?v=_yk1tTHYBvg)
+* [Kubernetes 101 Workshop: Deploying a Simple Web App onto Kubernetes - Sarah Zelechoski](https://www.youtube.com/watch?v=H-FKBoWTVws)
+* [Kubernetes tutorial for beginners - Basit Mustafa](https://www.youtube.com/watch?v=gpmerrSpbHg)
+* [Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson](https://www.youtube.com/watch?v=90kZRyPcRZw) | [Unabridged version: Kubernetes for the basic user](https://vimeo.com/245778144/4d1d597c5e)
+* [Kubernetes and Google Container Engine - Aparna Sinha and Kelsey Hightower (Google Cloud Next '17)](https://www.youtube.com/watch?v=Csf-gxjo4hc)
+
+#### DEVOPS - GOOGLE CLOUD - SECURITY
+
+* [Best practices for Identity and Access Management on Compute Engine - Eric Bahna (Google Cloud Next '17)](https://www.youtube.com/watch?v=qf_D92_yqbQ)
+
 #### DEVOPS - GOOGLE CLOUD - SERVICES
 
 * [All Products](https://cloud.google.com/products/)
@@ -1423,12 +1442,15 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - KUBERNETES
 
 * Kubernetes: [Docs](https://kubernetes.io/) | [Kubernetes API](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.9/) | [Basic tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Tutorials](https://kubernetes.io/docs/tutorials/) | [Tasks](https://kubernetes.io/docs/tasks/) | [Concepts](https://kubernetes.io/docs/concepts/) | [Github](https://github.com/kubernetes/kubernetes)
+* [Kubernetes in About 45 Minutes - Philip Lombardi (DevOpsDays Boston 2017)](https://www.youtube.com/watch?v=D6vkeowf9f4&t=0s)
+* [Learn Kubernetes in Under 3 Hours: A Detailed Guide to Orchestrating Containers - Rinor Maloku](https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882)
 * [Kubernetes: Container Orchestration and Micro-Services - Alexander Mohr (University of Washington)](https://courses.cs.washington.edu/courses/cse550/16au/notes/kubernetes.pdf)
 * [Awesome-Kubernetes](https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/details)
 * [Kubernetes Youtube channel](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg)
 * [Kubernetes By Example](http://kubernetesbyexample.com/)
 * [Kubernetes the Hard Way - Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * [Kubernetes in Real Life - Ian Crosby (GOTO Conference 2017)](https://www.youtube.com/watch?v=UUt7SuG3nW4)
+* [The ins and outs of networking in Google Container Engine and Kubernetes - Tim Hockin and Michael Rubin (Google Cloud Next '17)](https://www.youtube.com/watch?v=y2bhV81MfKQ)
 * [Kubernetes Webinars - Janakiram & Associates](https://www.youtube.com/playlist?list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ)
 * kubectl: [Cheatsheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/) | [Overview](https://kubernetes.io/docs/user-guide/kubectl-overview/)
 * [Running Kubernetes in Production - Zalendo Tech](http://kubernetes-on-aws.readthedocs.io/en/latest/admin-guide/kubernetes-in-production.html) & [Kubernetes on AWS @Zalando - David Aronchick](https://www.youtube.com/watch?time_continue=2671&v=XmnhzEoengI)
@@ -1440,9 +1462,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Argo: The workflow engine for Kubernetes](https://applatix.com/open-source/argo/) | [Github](https://github.com/argoproj/argo)
 
+#### DEVOPS - KUBERNETES - CONTAINERIZATION
+
+* [Building Small Containers: Kubernetes Best Practices - Sandeep Dinesh (Google)](https://www.youtube.com/watch?v=wGz_cbtCiEA)
+
 #### DEVOPS - KUBERNETES - HELM
 
 * Helm (package manager for Kubernetes): [Website](https://helm.sh/) | [docs](https://docs.helm.sh/) | [Github](https://github.com/kubernetes/helm) | [Twitter](https://twitter.com/helmpack)
+* [Configure RBAC In Your Kubernetes Cluster: Enable Helm in Your Cluster - Bitnami](https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/)
 
 ##### DEVOPS - KUBERNETES - HELM - CHARTS
 
@@ -1471,9 +1498,17 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [kubectx - Switch between Kubernetes contexts/namespaces](https://github.com/ahmetb/kubectx)
 
+#### DEVOPS - KUBERNETES - PERSISTENT VOLUMES
+
+* [Resizing Persistent Volumes using Kubernetes - Hemant Kumar](https://kubernetes.io/blog/2018/07/12/resizing-persistent-volumes-using-kubernetes/)
+
 #### DEVOPS - KUBERNETES - POWERFUL SEAL
 
 * [PowerfulSeal: adds chaos to your Kubernetes clusters, so that you can detect problems in your systems as early as possible. It kills targeted pods and takes VMs up and down - Bloomberg](https://github.com/bloomberg/powerfulseal)
+
+#### DEVOPS - KUBERNETES - ROLE-BASED ACCESS CONTROL (RBAC)
+
+* [Configure RBAC In Your Kubernetes Cluster - Bitnami](https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/)
 
 #### DEVOPS - KUBERNETES - SECURITY
 
@@ -1504,6 +1539,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Istio - Weaving the Service Mesh - Louis Ryan (QCon San Francisco 2017)](https://www.youtube.com/watch?v=bPEgHNZxlJw)
 * [Making Microservices Micro with Istio Service Mesh - Ray Tsang (Devox Belgium 2017)](https://www.youtube.com/watch?v=AGztKw580yQ)
 * [Stop reinventing the wheel with Istio - Mete Atamel (Devoxx UK 2018)](https://www.youtube.com/watch?v=pGKwluckJ-A)
+* [Service Mesh: What, Why, And How? - Flynn (DevOpsDays Boston 2017)](https://www.youtube.com/watch?v=B0vi6ZqqmMw)
 * [Hello Istio Codelab (With Google Kubernetes) - Google](https://codelabs.developers.google.com/codelabs/cloud-hello-istio/#0)
 * [Istio 101 (0.8.0) on GKE - Mete Atamel (Google)](https://meteatamel.wordpress.com/2018/06/07/istio-101-0-8-0-on-gke/)
 * [Microservices in the Cloud with Kubernetes and Istio - Sandeep Dinesh (Google I/O '18)](https://www.youtube.com/watch?v=gauOI0O9fRM)
@@ -1590,6 +1626,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [DevOpsDays Baltimore 2018](https://www.youtube.com/playlist?list=PLE7tQUdRKcyZZhQVK1UhqKrVHsQ1d0I7J)
 * [DevOpsDays Seattle 2017](http://confreaks.tv/events/devopsdaysseattle2017)
+* [DevOpsDays Boston 2017](https://www.youtube.com/playlist?list=PLE7tQUdRKcyZfwse2URwQjCI7-qeURNxt)
 * [DevOpsDays Rockies 2017](http://confreaks.tv/events/devopsdaysdenver2017)
 * [DevOpsDays Boston 2016](http://confreaks.tv/events/devopsdaysboston2016)
 * [DevOpsDays Rockies 2016](http://confreaks.tv/events/devopsdaysrox2016)
@@ -2073,6 +2110,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - GENSTAGE & FLOW
 
+* [GenStage: Keeping large amounts of data up-to-date with pipelines - Robert Beene (EMPEX 2018](https://www.youtube.com/watch?v=9mfD4-HUgh0)
 * [Small data with Elixir - José Valim](http://blog.plataformatec.com.br/2017/03/small-data-with-elixir/)
 * [GenStage and Flow - José Valim (Lambda Days 2017)](https://www.youtube.com/watch?v=XPlXNUXmcgE)
 * [Announcing GenStage - José Valim](http://elixir-lang.org/blog/2016/07/14/announcing-genstage/)
@@ -2554,6 +2592,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Thoughtbot](https://robots.thoughtbot.com/tags/elm)
 * [Twitter - elmlang](https://twitter.com/elmlang?lang=en)
 
+### ELM - BOOKS
+
+* [An Introduction to Elm - Evan Czaplicki](https://guide.elm-lang.org/)
+* [Beginning |> Elm - Pawan Poudel](http://elmprogramming.com/)
+* [Elm in Action - Richard Feldman](https://www.manning.com/books/elm-in-action) (non-free)
+* [Programming Elm - Jeremy Fairbank](https://pragprog.com/book/jfelm/programming-elm) (non-free)
+* [Practical Elm for a Busy Developer - Alex S. Korban](https://korban.net/elm/book/) (non-free)
+
 ### ELM - CHROME EXTENSIONS
 
 * [Writing a Chrome extension with Elm - Cezar Halmagean](https://mixandgo.com/blog/writing-a-chrome-extension-with-el://mixandgo.com/blog/writing-a-chrome-extension-with-elm)
@@ -2801,6 +2847,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - VIDEOS
 
+* [Elm Europe 2018](https://www.youtube.com/watch?v=MlyGg-DIqnU)
 * ElmConf: [2017](https://www.youtube.com/playlist?list=PLglJM3BYAMPFTT61A0Axo_8n0s9n9CixA) | [2016](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
 * [fncasts: streaming series building apps using Elm and Elixir. The first app is a chess game](https://www.youtube.com/channel/UCEVIBi0jFVXrCvd7CdVYxvw)
 * [Oslo Elm Day 2017](https://www.youtube.com/playlist?list=PLcAzxXzXQlPZsNcYycHittqeF3UG4dGli)
@@ -3926,6 +3973,10 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [AngularJS Fundamentals in 60-ish Minutes - Dan Wahlin](http://www.youtube.com/watch?v=i9MHigUZKEM)
 * [A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS - Marius Gundersen (JS Conf.eu)](http://2013.jsconf.eu/speakers/marius-gundersen-a-comparison-of-the-twoway-binding-in-angularjs-emberjs-and-knockoutjs.html)
 
+### JAVASCRIPT - APIS
+
+* [The Modern Web Platform: (04) Core APIs - JeffKoch, Jeremy Foster](https://channel9.msdn.com/Series/The-Modern-Web-Platform/04)
+
 ### JAVASCRIPT - ASYNCHRONOUS
 
 * [Syncing Async -  Kyle Simpson](http://www.confreaks.tv/videos/4611-e4e2014-syncing-async) & [Promises: The Sync Problem, part 1](http://blog.getify.com/promises-part-1), [part 2](http://blog.getify.com/promises-part-2/), [part 3](http://blog.getify.com/promises-part-3/), [part 4](http://blog.getify.com/promises-part-4/) [part 5](http://blog.getify.com/promises-part-5/)
@@ -5001,7 +5052,9 @@ Peter R. Egli:
 
 ## POSTGRESQL
 
-* [Official manuals](http://www.postgresql.org/docs/manuals/)
+* [Official manuals](http://www.postgresql.org/docs/manuals/) [PG 11](https://www.postgresql.org/files/documentation/pdf/11/postgresql-11-US.pdf) | [PG 10](https://www.postgresql.org/files/documentation/pdf/10/postgresql-10-US.pdf) | [PG 9.6](https://www.postgresql.org/files/documentation/pdf/9.6/postgresql-9.6-US.pdf) | [PG 9.5](https://www.postgresql.org/files/documentation/pdf/9.5/postgresql-9.5-US.pdf) | [PG 9.4](https://www.postgresql.org/files/documentation/pdf/9.4/postgresql-9.4-US.pdf)
+* [PostgreSQL - TutorialsPoint.com](https://www.tutorialspoint.com/postgresql/postgresql_tutorial.pdf)
+* [Mastering PostgreSQL Administration - Bruce Momjian](https://momjian.us/main/writings/pgsql/administration.pdf)
 * [Official FAQ](http://wiki.postgresql.org/wiki/FAQ)
 * [PostgreSQL Exercises](https://pgexercises.com/)
 * [PostgresWeekly.com](http://postgresweekly.com/)
@@ -5085,6 +5138,7 @@ Peter R. Egli:
 ### PRODUCT DEVELOPMENT - PEOPLE, PROCESS & TEAMS
 
 * [We fired our top talent. Best decision we ever made - Jonathan Solórzano-Hamilton](https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde)
+* [Know Your Company blog - Claire Lew](https://blog.knowyourcompany.com/)
 * [Humane Development - Ernie Miller (RailsConf 2015)](https://www.youtube.com/watch?v=-ZLYxLjwNWo) & [(RubyOnAles 2015](https://www.youtube.com/watch?v=SsReC-u--gg)
 * [Patterns of Effective Teams - Dan North (GOTO Chicago 2017)](https://www.youtube.com/watch?v=lvs7VEsQzKY)
 * [What We Actually Know About Software Development, and Why We Believe It’s True - Greg Wilson](https://vimeo.com/9270320)
@@ -5962,6 +6016,7 @@ Peter R. Egli:
 
 ## WEB COMPONENTS
 
+* [Web.Dev 4: Web Components - Adam Tuliper](https://channel9.msdn.com/Shows/webdevshow/4)
 * [Why You Should Be Using Web Components Right Now. And How. - Phil Leggetter](http://forwardjs.com/university/why-you-should-be-using-web-components-right-now)
 * [The Web Components Revolution is Here - Eric Bidelman (April 2014)](https://www.youtube.com/watch?v=3QLmAm9xtnU)
 

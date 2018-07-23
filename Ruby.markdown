@@ -323,6 +323,7 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 ### RAILS - VIDEOS
 
+* [RailsConf 2018](https://www.youtube.com/playlist?list=PLE7tQUdRKcyak-yFKj5IN3tDYOh5omMrH)
 * [RailsConf 2017](http://railsconf.com/program)
 * [RailsConf 2016](http://confreaks.tv/events/railsconf2016)
 
