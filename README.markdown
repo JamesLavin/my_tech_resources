@@ -527,7 +527,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### BUSINESS - ENTREPRENEURSHIP - BLOGS & NEWS
 
-* [eCorner (Stanford University)](https://ecorner.stanford.edu/)
+* [eCorner (Stanford University)](https://ecorner.stanford.edu/) | [Youtube channel](https://www.youtube.com/user/ecorner)
 * [Foundr.com](https://foundr.com/blog/)
 * [GeekWire](http://www.geekwire.com/startups/)
 * [TechCrunch - Startups](https://techcrunch.com/startups/)
@@ -1409,6 +1409,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - GOOGLE CLOUD - KUBERNETES
 
+* [Kubernetest Podcast (Google)](http://kubernetespodcast.com/)
 * [Container management and deployment: from development to production - Kelsey Hightower (Google Cloud Next '17)](https://www.youtube.com/watch?v=XL9CQobFB8I)
 * [Google Container Engine - The easiest way to use containers in production - Robert Bailey and Chen Goldberg (Google Cloud Next '17)](https://www.youtube.com/watch?v=_yk1tTHYBvg)
 * [Kubernetes 101 Workshop: Deploying a Simple Web App onto Kubernetes - Sarah Zelechoski](https://www.youtube.com/watch?v=H-FKBoWTVws)
@@ -1513,6 +1514,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - KUBERNETES - SECURITY
 
+* [11 Ways (Not) to Get Hacked - Andrew Martin](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
 * [Top 9 Kubernetes Settings You Should Check to Optimize Security - Connor Gilbert](https://containerjournal.com/2018/07/03/top-9-kubernetes-settings-you-should-check-to-optimize-security/)
 * [Kubernetes Security Best Practices - Ian Lewis](https://speakerdeck.com/ianlewis/kubernetes-security-best-practices)
 * [Building Container Images Securely on Kubernetes - Jessie Frazelle](https://blog.jessfraz.com/post/building-container-images-securely-on-kubernetes/)
@@ -1944,8 +1946,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - DEPLOYMENT
 
+* Paul Schoenfelder ("bitwalker"): [alpine-elixir](https://github.com/bitwalker/alpine-elixir)  ((Docker)[https://hub.docker.com/r/bitwalker/alpine-elixir/]) | [Elixir/Phoenix on Alpine Linux](https://github.com/bitwalker/alpine-elixir-phoenix) ([Docker](https://hub.docker.com/r/bitwalker/alpine-elixir-phoenix/))
 * [Best practices for deploying Elixir apps - Jake Morrison](https://www.cogini.com/blog/best-practices-for-deploying-elixir-apps/)
 * [How To Automate Elixir-Phoenix Deployment with Distillery and edeliver on Ubuntu 16.04 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-automate-elixir-phoenix-deployment-with-distillery-and-edeliver-on-ubuntu-16-04)
+* [Guide to deploy an Elixir/Phoenix app to AWS ECS - Joaquim Adráz](https://joaquimadraz.com/guide-to-deploy-an-elixir-phoenix-app-to-aws-ecs)
+* [How to Run Your Phoenix Application with Docker - Nicolas Dular](https://pspdfkit.com/blog/2018/how-to-run-your-phoenix-application-with-docker/)
 * [Building and configuring a Phoenix app with Umbrella for releasing with Docker - Fernando Briano](https://cultivatehq.com/posts/elixir-distillery-umbrella-docker/)
 * A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes - Rohan Relan: [Part 1: Setting up Distillery](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-1-setting-up-d88b35b64dcd) | [Part 2: Docker and Minikube](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-2-docker-and-81e934c3fceb) | [Part 3: Deploying to Kubernetes](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-3-deploying-to-bd5b1fcbef87) | [Part 4: Secret Management](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-4-secret-f851d575bdd1) | [Part 5: Clustering Elixir & Phoenix Channels](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-5-clustering-6c30fcd35ce1)
 * [Clustering Elixir/Erlang applications in Kubernetes (part 1: the theory) - Dario Freddi](https://blog.ispirata.com/clustering-elixir-erlang-applications-in-kubernetes-part-1-the-theory-ca658acbf101)
@@ -2128,6 +2133,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [A GraphQL-on-Elixir Primer - Bruce Williams (Code Beam SF 2018)](https://www.youtube.com/watch?v=enbksvAko98)
 * [Phoenix GraphQL Tutorial with Absinthe - Ryan Swapp](https://ryanswapp.com/2016/11/29/phoenix-graphql-tutorial-with-absinthe/)
 * [GraphQL in Practice - Bruce Williams & Benjamin Wilson (ElixirConf.EU 2017)](https://www.youtube.com/watch?v=d2qNlXtpWXM)
+* Meraj: [GraphQL with Elixir/Phoenix and Absinthe](https://itnext.io/graphql-with-elixir-phoenix-and-absinthe-6b0ffd260094) | [Authenticating Absinthe GraphQL APIs in Phoenix with Guardian](https://itnext.io/authenticating-absinthe-graphql-apis-in-phoenix-with-guardian-d647ea45a69a)
 
 ### ELIXIR - HEX
 
@@ -2255,6 +2261,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - AUTHENTICATION
 
+* [User Authentication with Guardian for Phoenix 1.3 Web Apps - Meraj](https://itnext.io/user-authentication-with-guardian-for-phoenix-1-3-web-apps-e2064cac0ec1)
+* JWT Auth with an Elixir on Phoenix 1.3 API and React Native, Nick West: [Part I: Phoenix JWT API](https://medium.com/@njwest/jwt-auth-with-an-elixir-on-phoenix-1-3-guardian-api-and-react-native-mobile-app-1bd00559ea51) | [Part II: Building a React Native JWT Client](https://medium.com/@njwest/building-a-react-native-jwt-client-efacf78b9364) | [Part III: Building a React Native JWT Client: API Requests and AsyncStorage](https://medium.com/@njwest/building-a-react-native-jwt-client-api-requests-and-asyncstorage-d1a20ab60cf4)
+* [Phoenix: Authentication and Authorization using Plugs - iVitaly Tatarintsev](http://whatdidilearn.info/2018/02/25/phoenix-authentication-and-authorization-using-plugs.html)
 * [User Authentication in Phoenix with Guardian & Überauth - Ulan Abdurazakov](http://screencasts.tech/posts/user-authentication-in-phoenix-with-guardian-uberauth)
 * [Passwordless login with phoenix - Thiago Borges (July 2016)](http://inaka.net/blog/2016/07/27/passwordless-login-with-phoenix/)
 * [Elixir/Phoenix — Build a simple chat room - Stephan Bakkelund Valois](https://medium.com/@Stephanbv/elixir-phoenix-build-a-simple-chat-room-7f20ee8e8f9c#.gduhrghi2)
@@ -2262,6 +2271,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - CHANNELS
 
+* [Using channels in Phoenix - Vitaly Tatarintsev](http://whatdidilearn.info/2018/03/04/using-channels-in-phoenix.html)
 * [Phoenix PubSub: Using Phoenix.PubSub to send messages across processes - Hubert Pompecki](https://www.pompecki.com/post/phoenix-pubsub/)
 * [Phoenix WebSockets Under a Microscope - Dimitris Zorbas](https://zorbash.com/post/phoenix-websockets-under-a-microscope/)
 
@@ -3349,6 +3359,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [Kafka in Docker - Spotify](https://github.com/spotify/docker-kafka)
 * [Kafka-docker](https://github.com/wurstmeister/kafka-docker)
 * [Ches/kafka (Docker)](https://hub.docker.com/r/ches/kafka/)
+* [Kafka in Containers in Docker in Kubernetes in The Cloud - Christopher Vollick, Shopify (Kafka Summit 2018)](https://www.youtube.com/watch?v=hruJAjHAXV8)
 * [Best Practices for Running Kafka on Docker Containers - Nanda Vijaydev](https://www.confluent.io/kafka-summit-sf17/Best-Practices-for-Running-Kafka-on-Docker-Containers)
 * [Disaster Recovery for Multi-Datacenter Apache Kafka Deployments - Yeva Byzek](https://www.confluent.io/blog/disaster-recovery-multi-datacenter-apache-kafka-deployments)
 * [Things We Wish We Knew Before Operationalising Kafka - Sreekanth Ramakrishnan (BigData.SG & Hadoop.SG)](https://www.youtube.com/watch?v=MhyW1FUdN8I)
@@ -4443,11 +4454,14 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 ### JAVASCRIPT - RXJS
 
 * André Staltz: [RxJS v4.0 book](https://xgrommx.github.io/rx-book/) & [Introduction to Reactive Programming (videos on Egghead.io)](https://egghead.io/courses/introduction-to-reactive-programming)
+* [RxJS 5 Thinking Reactively - Ben Lesh (Angular Connect 2016)](https://www.youtube.com/watch?v=3LKMwkuK0ZE)
 * [Rxjs 5 Ultimate - Chris Noring](https://legacy.gitbook.com/book/chrisnoring/rxjs-5-ultimate/details)
+* [RxJS Quick Start with Practical Examples - Angular Firebase](https://www.youtube.com/watch?v=2LCo926NFLI)
 * Learn RxJS - Brian Troncone: [Online](https://www.learnrxjs.io/) | [Download](https://legacy.gitbook.com/book/btroncone/learn-rxjs/details)
 * [API docs](http://reactivex.io/rxjs/)
 * [RxJS - What and Why? - Academind](https://www.youtube.com/watch?v=T9wOu11uU6U)
 * [RxJS Quick Start with Practical Examples](https://www.youtube.com/watch?v=2LCo926NFLI)
+* [Advanced RxJS: State Management and Animations - Ben Lesh](https://www.youtube.com/watch?v=jKqWMvdTuE8)
 
 ### JAVASCRIPT - TESTING
 
@@ -4502,6 +4516,9 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 ### JAVASCRIPT - WEBPACK
 
+* [Understanding webpack from the inside out - Sean Larkin & Tobias Koppers (ReactConf 2017)](https://www.youtube.com/watch?v=gEBUU6QfVzk)
+* [What Is Webpack? - Flavio Copes](https://flaviocopes.com/webpack/)
+* [Webpack founder Tobias Koppers demos bundling live by hand](https://www.youtube.com/watch?v=UNMkLHzofQI)
 * [SurviveJS Webpack book - Juho Vepsäläinen](https://survivejs.com/webpack/introduction/)
 
 ## JEKYLL
