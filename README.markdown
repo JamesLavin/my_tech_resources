@@ -4516,10 +4516,12 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 ### JAVASCRIPT - WEBPACK
 
-* [Understanding webpack from the inside out - Sean Larkin & Tobias Koppers (ReactConf 2017)](https://www.youtube.com/watch?v=gEBUU6QfVzk)
+* [Webpack Crash Course - Traversy Media](https://www.youtube.com/watch?v=lziuNMk_8eQ)
+* Academind: [What Is Webpack, How Does It Work?](https://www.youtube.com/watch?v=GU-2T7k9NfI) | [Using the Webpack Dev Server](https://www.youtube.com/watch?v=HNRt0lODCQM) | [The Webpack Core Concepts](https://www.youtube.com/watch?v=8DDVr6wjJzQ) | [Basic Babel + SCSS Workflow](https://www.youtube.com/watch?v=8vnkM8JgjpU) | [HTML + Image Loaders](https://www.youtube.com/watch?v=CzLiXgRUt4g) | [Webpack + Multiple HTML Files](https://www.youtube.com/watch?v=y_RFOaSDL8I) | [Using 3rd Party Packages Like JQuery](https://www.youtube.com/watch?v=IYuh8hIyvfE)
 * [What Is Webpack? - Flavio Copes](https://flaviocopes.com/webpack/)
 * [Webpack founder Tobias Koppers demos bundling live by hand](https://www.youtube.com/watch?v=UNMkLHzofQI)
 * [SurviveJS Webpack book - Juho Vepsäläinen](https://survivejs.com/webpack/introduction/)
+* [Understanding webpack from the inside out - Sean Larkin & Tobias Koppers (ReactConf 2017)](https://www.youtube.com/watch?v=gEBUU6QfVzk)
 
 ## JEKYLL
 
@@ -5737,6 +5739,7 @@ Peter R. Egli:
 * [Crypto101 (free in-depth cryptography book) - Laurens Van Houtven](https://www.crypto101.io/) & [PyCon US 2013 talk](https://www.youtube.com/watch?t=8&v=3rmCGsCYJF8)
 * [Cryptography Tutorial - Joe Armstrong](https://github.com/joearms/crypto_tutorial/raw/master/crypto_tutorial.pdf)
 * [How Hash Algorithms Work - ?](http://www.metamorphosite.com/one-way-hash-encryption-sha1-data-software)
+* [Enabling HTTPS on Your Servers - Chris Palmer & Matt Gaunt](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/enable-https)
 * [Let's Encrypt - "lets site operators turn on and manage HTTPS with simple commands"](https://letsencrypt.org/howitworks/)
 * [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
 * [Encryption Works: How to Protect Your Privacy in the Age of NSA Surveillance - Micha Leee (Freedom of the Press Foundation)](https://freedom.press/encryption-works)
