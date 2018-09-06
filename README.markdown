@@ -493,6 +493,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Startup Class (Sam Altman)](http://startupclass.samaltman.com/)
 * [Founder to CEO (Matt's Book for Startups) - Matt Mochary](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit)
 * [Indie Hackers](https://www.indiehackers.com/)
+* [How to Future-Proof Your Career - Dorie Clark (TEDxLugano)](https://www.youtube.com/watch?v=l6leLPN8ipI)
 * [20 Ways to Blow Up Your Company - Jason Mendelson](https://www.youtube.com/watch?v=I8zHfCqz9qY)
 * [13 Reasons My Startup FAILED - Russell Keith-Magee (Djangocon.us 2017)](https://www.youtube.com/watch?v=OOTThZReAdA)
 * [The Lean Start-up - Ash Maurya’s keynote speech (Start-up Showcase 2017)](https://www.youtube.com/watch?v=r8PjvpH4yng)
@@ -620,6 +621,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [InfoQ Chinese news](http://www.infoq.com/cn/)
 * Python - Mofan Zhou:  [Tutorials collection](https://morvanzhou.github.io/tutorials/) | [PyTorch tutorials](https://www.youtube.com/watch?v=wnKgOd3NdzA&list=PLXO45tsB95cJxT0mL0P3-G0rBcLSvVkKH)
 * [Chinese university courses on Coursera](https://www.coursera.org/about/partners/cn)
+* [汉语与文化交际 Chinese Cultural Communication](https://courses.edx.org/courses/course-v1:PekingX+20000003x+3T2017/)
 * [卷积神经网络的运作原理](https://brohrer.mcknote.com/zh-Hans/how_machine_learning_works/how_convolutional_neural_networks_work.html)
 * Fudan University: [Coursera courses](https://www.coursera.org/fudan)
 * Nanjing University: [Coursera courses](https://www.coursera.org/nanjing)
@@ -873,6 +875,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DATA - APIS
 
+* [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 * [Best Buy](https://developer.bestbuy.com/) (retail)
 * [Bloomberg](http://www.bloomberglabs.com/)
 * [DataSift](http://dev.datasift.com/) (Twitter firehose)
@@ -1139,6 +1142,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - API GATEWAYS
 
+* [Communication Patterns API Gateway Event Driven Microservices - Chris Richardson](https://www.youtube.com/watch?v=g_jrDP-FXFo)
 * [API Gateway to Service Mesh: Navigating a Changing Landscape - Zhamak Dehghani](https://www.youtube.com/watch?v=QYdOJ0QJptE)
 
 #### DEVOPS - API GATEWAYS - KONG
@@ -1411,11 +1415,13 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Kubernetest Podcast (Google)](http://kubernetespodcast.com/)
 * [Container management and deployment: from development to production - Kelsey Hightower (Google Cloud Next '17)](https://www.youtube.com/watch?v=XL9CQobFB8I)
+* [Kelsey Hightower's Best Live Demo Yet - Kelsey Hightower (Cloud Next '18)](https://www.youtube.com/watch?v=U6SfRPwTKqo)
 * [Google Container Engine - The easiest way to use containers in production - Robert Bailey and Chen Goldberg (Google Cloud Next '17)](https://www.youtube.com/watch?v=_yk1tTHYBvg)
 * [Kubernetes 101 Workshop: Deploying a Simple Web App onto Kubernetes - Sarah Zelechoski](https://www.youtube.com/watch?v=H-FKBoWTVws)
 * [Kubernetes tutorial for beginners - Basit Mustafa](https://www.youtube.com/watch?v=gpmerrSpbHg)
 * [Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson](https://www.youtube.com/watch?v=90kZRyPcRZw) | [Unabridged version: Kubernetes for the basic user](https://vimeo.com/245778144/4d1d597c5e)
 * [Kubernetes and Google Container Engine - Aparna Sinha and Kelsey Hightower (Google Cloud Next '17)](https://www.youtube.com/watch?v=Csf-gxjo4hc)
+* [Local Persistent Volumes for Kubernetes Goes Beta](https://kubernetes.io/blog/2018/04/13/local-persistent-volumes-beta/)
 
 #### DEVOPS - GOOGLE CLOUD - SECURITY
 
@@ -1459,10 +1465,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Kubernetes 101 for Developers - Ross Kukulinski](https://github.com/rosskukulinski/kubernetes-101-for-devs)
 * [KataCoda (interactive browser-based labs, courses, & playgrounds)](https://katacoda.com/learn)
 * [Kubernetes in production - blue-green deployment, auto scaling and deployment automation - Paul Bakker (Devoxx UK 2016)](https://www.youtube.com/watch?v=-Ci4vd4rh4M)
+* [Chick-Fil-A: Milking the Most out of 1000's of K8s Clusters - Caleb Hurd & Brian Chambers (QCon NYC 2018)](https://www.infoq.com/presentations/chick-fil-a-k8-clusters)
 
 #### DEVOPS - KUBERNETES - ARGO
 
 * [Argo: The workflow engine for Kubernetes](https://applatix.com/open-source/argo/) | [Github](https://github.com/argoproj/argo)
+
+#### DEVOPS - KUBERNETES - BRIGADE
+
+* Brigade: Event-based Scripting for Kubernetes (Microsoft): [Website](https://brigade.sh/) | [Github](https://github.com/Azure/brigade)
+* Kashti: Brigade pipeline dashboard: [Github](https://github.com/Azure/kashti)
 
 #### DEVOPS - KUBERNETES - CONTAINERIZATION
 
@@ -1541,6 +1553,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Istio: Open Platform to Connect, Manage, and Secure Microservices](https://istio.io/) | [Github](https://github.com/istio/istio) | [Twitter](https://twitter.com/IstioMesh)
 * [Istio - Weaving the Service Mesh - Louis Ryan (QCon San Francisco 2017)](https://www.youtube.com/watch?v=bPEgHNZxlJw)
 * [Making Microservices Micro with Istio Service Mesh - Ray Tsang (Devox Belgium 2017)](https://www.youtube.com/watch?v=AGztKw580yQ)
+* [Getting Started with Istio on Amazon EKS - Arun Gupta](https://aws.amazon.com/blogs/opensource/getting-started-istio-eks/)
 * [Stop reinventing the wheel with Istio - Mete Atamel (Devoxx UK 2018)](https://www.youtube.com/watch?v=pGKwluckJ-A)
 * [Service Mesh: What, Why, And How? - Flynn (DevOpsDays Boston 2017)](https://www.youtube.com/watch?v=B0vi6ZqqmMw)
 * [Hello Istio Codelab (With Google Kubernetes) - Google](https://codelabs.developers.google.com/codelabs/cloud-hello-istio/#0)
@@ -1612,6 +1625,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Prometheus.io](https://prometheus.io/) | [Github](https://github.com/prometheus/prometheus)
 * [Prometheus Helm chart](https://hub.kubeapps.com/charts/stable/prometheus)
+
+### DEVOPS - RELIABILITY
+
+* [Site Reliability Engineering - Google (editors: Betsy Beyer, Chris Jones, Jennifer Petoff, & Niall Richard Murphy)](https://landing.google.com/sre/book/index.html)
 
 ### DEVOPS - RKT
 
@@ -1954,6 +1971,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Building and configuring a Phoenix app with Umbrella for releasing with Docker - Fernando Briano](https://cultivatehq.com/posts/elixir-distillery-umbrella-docker/)
 * A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes - Rohan Relan: [Part 1: Setting up Distillery](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-1-setting-up-d88b35b64dcd) | [Part 2: Docker and Minikube](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-2-docker-and-81e934c3fceb) | [Part 3: Deploying to Kubernetes](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-3-deploying-to-bd5b1fcbef87) | [Part 4: Secret Management](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-4-secret-f851d575bdd1) | [Part 5: Clustering Elixir & Phoenix Channels](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-5-clustering-6c30fcd35ce1)
 * [Clustering Elixir/Erlang applications in Kubernetes (part 1: the theory) - Dario Freddi](https://blog.ispirata.com/clustering-elixir-erlang-applications-in-kubernetes-part-1-the-theory-ca658acbf101)
+* [Docker Elixir Build Image Base - Financial Times](https://github.com/Financial-Times/docker-elixir-build)
 * [Release, Deploy, Monitor and Upgrade Elixir Services in Real World - Tian Chen (Code BEAM SF 2018)](https://www.youtube.com/watch?v=kwHtlmyxE6c)
 * [Packaging for Production - Anthony Molinaro (Code BEAM SF 2018)](https://www.youtube.com/watch?v=AXY0d0YXQSU)
 * [How to configure and deploy an Elixir app to a VPS - Konrad Piekutowski](https://www.amberbit.com/blog/2017/7/17/deploy-elixir-app-to-a-vps/)
@@ -2252,6 +2270,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - 1.4
 
+* [Let's do Elixir and Phoenix together - Chris McCord (ElixirConf EU 2018)](https://www.youtube.com/watch?v=MTT1Jl4Fs-E)
 * [Keynote: Phoenix - Gauging Progress - Chris McCord](https://www.youtube.com/watch?v=pfFpIjFOL-I)
 
 #### ELIXIR - PHOENIX - 1.3
@@ -2323,6 +2342,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - TESTING
 
+* [How to do Outside-In TDD with Phoenix - Yiming Chen](https://dsdshcym.github.io/blog/2018/08/04/how-to-do-outside-in-tdd-with-phoenix/)
 * [End-to-end Testing in Elixir with Hound - Maciej Woźniak](https://semaphoreci.com/community/tutorials/end-to-end-testing-in-elixir-with-hound)
 * [Running Your Phoenix Tests Using Docker - Jason Kriss](https://blog.codeship.com/running-your-phoenix-tests-using-docker/)
 
@@ -2623,7 +2643,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [elm-ballpool - Takahashi Yuto](https://github.com/y-taka-23/elm-ballpool)
 * [Exercism exercises in Elm](https://github.com/exercism/elm)
 * [elm-examples: Practical Elm examples - Eduard Kyvenko](https://github.com/halfzebra/elm-examples)
-* [Elm SPA example - Richard T Feldman](https://github.com/rtfeldman/elm-spa-example) & [Tour of an Open-Source Elm SPA](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa) & [Scaling Elm Apps - Richard Feldman (Elm Europe 2017)](https://www.youtube.com/watch?v=DoA4Txr4GUs&app=desktop)
+* [Elm SPA example - Richard T Feldman](https://github.com/rtfeldman/elm-spa-example) & [Tour of an Open-Source Elm SPA](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa) & [Scaling Elm Apps - Richard Feldman (Elm Europe 2017)](https://www.youtube.com/watch?v=DoA4Txr4GUs&app=desktop) & [Make Data Structures - Richard Feldman](https://www.youtube.com/watch?v=x1FU3e0sT1I)
 * [Phoenix Elm Battleship - Ricardo García Vega](https://github.com/bigardone/phoenix-elm-battleship)
 * [elm-autocomplete - Greg Ziegan](https://github.com/thebritican/elm-autocomplete)
 * [Creating a Fun Game with Elm - Andrey Kuzmin & Kolja Wilcke (Curry On 2016)](https://www.youtube.com/watch?v=En2BKs8unnQ)
@@ -2807,6 +2827,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - PHOENIX & ELM
 
+* [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader)
+* [Connecting Elm to Phoenix 1.4 with webpack - Paul Fioravanti](https://paulfioravanti.com/blog/2018/07/26/connecting-elm-to-phoenix-1-4-with-webpack/)
+* [FullStack Setup Phoenix, Elm, GraphQL, and Tailwindcss - Cory Schmitt](http://www.schmitty.me/stack-setup-phoenix-elm-graphql-tailwindcss/)
 * Elixir API and Elm SPA - Miguel Cobá: [Part 1: Elixir App Creation](https://dev.to/miguelcoba/elixir-api-and-elm-spa-4hpf) | [Part 2: Adding Guardian Authentication](https://dev.to/miguelcoba/elixir-api-and-elm-spa---part-2-1pca) | [Part 3: Elm App creation and Routing setup](https://dev.to/miguelcoba/elixir-api-and-elm-spa---part-3-3n0h) | [Part 4: Adding Login and Register pages](https://dev.to/miguelcoba/elixir-api-and-elm-spa---part-4-4il0) | [Part 5: Persisting session data to localStorage](https://dev.to/miguelcoba/elixir-api-and-elm-spa---part-5-4j1k)
 * [Phoenix & Elm landing page (pt.1) - Ricardo García Vega](http://codeloveandboards.com/blog/2017/12/02/phoenix-elm-landing-page-pt-1/) & [Part 2](http://codeloveandboards.com/blog/2017/12/23/phoenix-elm-landing-page-pt-2/) & [Part 3](http://codeloveandboards.com/blog/2018/01/06/phoenix-elm-landing-page-pt-3/)
 * [Migrating a Phoenix and Elm app from REST to GraphQL - Paul Fioravanti](https://paulfioravanti.com/blog/2018/03/06/migrating-a-phoenix-and-elm-app-from-rest-to-graphql/) & [Github](https://github.com/paulfioravanti/phoenix-and-elm)
@@ -2951,6 +2974,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ERLANG
 
+* [The Zen of Erlang - Fred Hebert (Reactive Summit 2016)](https://www.youtube.com/watch?v=4ZIPijEqrNI)
 * [Functional Programming in Erlang - Simon Thompson (University of Kent (UK))](https://www.futurelearn.com/courses/functional-programming-erlang)
 * [Spawned Shelter: collection of the best articles, videos and books for learning Erlang, the internals of its VM and other languages that run on top of it](http://spawnedshelter.com/)
 * [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/)
@@ -3123,10 +3147,13 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## EVENT SOURCING, CQRS, DDD, & MICROSERVICES
 
+* [How Events Are Reshaping Modern Systems - Jonas Bonér (ReactiveConf 2017)](https://www.youtube.com/watch?v=ycxvmOKDHMQ&t=1s)
 * [How Events Are Reshaping Modern Systems - Jonas Bonér (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=3V3pHm2Cpks)
 * [Building Event Driven Services with Apache Kafka and Kafka Streams - Ben Stopford (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=p9wcx3aTjuo)
 * [Design Patterns: Why Event Sourcing? - Greg Young](https://www.youtube.com/watch?v=rUDN40rdly8)
 * [Rethinking Microservices with Stateful Streams - Ben Stopford (Devoxx Poland 2017)](https://www.youtube.com/watch?v=hqt9QIhwAW8)
+* [Experimentation Using Event-based Systems - Martin Fowler + Toby Clemson (Kafka Summit 2018)](https://www.youtube.com/watch?v=_RgUxUTuxH4)
+* [Microservice communication and integration: what are my options? - Kate Stanley (JFokus 2017)](https://www.youtube.com/watch?v=4KQoYVX9lNM)
 * [Building a Microservices Ecosystem with Kafka Streams and KSQL - Ben Stopford](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
 * [Event Sourcing, Distributed Systems & CQRS - Sebastian Daschner](https://www.youtube.com/watch?v=CYocFQvl6s0&list=PLEV9ul4qfGOZ5gWIPMlFGMUpenSs1EvxZ) & [scalable-coffee-shop (event-driven example app in Java)](https://github.com/sdaschner/scalable-coffee-shop)
 * [How to build an event driven, dynamically re configurable micro services platform - Sven Beauprez (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=1D8hyLWMtfM)
@@ -3339,6 +3366,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
   * [Streaming and Unbounded Data in KSQL](https://www.youtube.com/watch?v=4ccg1AFeNB0)
   * [Aggregations in KSQL](https://www.youtube.com/watch?v=db5SsmNvej4)
   * [Taking KSQL to Production](https://www.youtube.com/watch?v=f3wV8W_zjwE)
+  * [Struct (Nested Data)](https://www.youtube.com/watch?v=TQd5rfFmbhw)
 * [Reading Kafka Data from KSQL](https://www.youtube.com/watch?v=EzVZOUt9JsU)
 * [Building a Real-Time Streaming Platform with Oracle, Apache Kafka, and KSQL - Gwen Shapira](https://www.youtube.com/watch?v=bc4wfzuCbAo)
 * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka - Neha Narkhede](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
@@ -3446,6 +3474,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 ## FUNCTIONAL PROGRAMMING
 
+* [FP to the Max - John De Goes (Fun(c) 2018.7)](https://www.youtube.com/watch?v=sxudIMiOo68)
 * [Plain Functional Programming - Martin Odersky (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=YXDm3WHZT5g)
 * [An introduction to functional programming - Mary Rose Cook](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 * [What Is Functional Programming? - Kris Jenkins](https://www.youtube.com/watch?v=xN1-mtw1Fns)
@@ -3538,6 +3567,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 ### FUNCTIONAL PROGRAMMING - FUNCTIONAL REACTIVE PROGRAMMING (FRP)
 
+* Reactive Summit: [2017 videos](https://www.youtube.com/playlist?list=PLKKQHTLcxDVayICsjpaPeno6aAPMCCZIz) | [2016 videos](https://www.youtube.com/playlist?list=PLKKQHTLcxDVbtF-1ABemSbG1GWMDg824r)
 * [Functional && Reactive - Preethi Kasireddy aka @iam_preethi (ReactEurope 2017)](https://www.youtube.com/watch?v=yYze0gCBtvY)
 * [Functional Reactive Programming - Riccardo Terrell (Lambda Days 2016)](https://www.youtube.com/watch?v=UJH8sAnpBL4)
 * [Controlling Time and Space: Understanding the Many Formulations of FRP - Evan Czaplicki (StrangeLoop 2014)](https://www.youtube.com/watch?v=Agu6jipKfYw)
@@ -4997,7 +5027,7 @@ Peter R. Egli:
 * [NPR](http://www.npr.org/sections/technology/ )
 * [PC Mag](http://www.pcmag.com/news)
 * [Phys.org](http://phys.org/technology-news/)
-* [Re/Code](http://recode.net)
+* [Recode](http://recode.net)
 * [ReadWrite](http://readwrite.com)
 * [The Register](http://www.theregister.co.uk/)
 * [Reuters](http://www.reuters.com/news/technology)
@@ -5147,6 +5177,7 @@ Peter R. Egli:
 * [Great Developers Steal - Ben Scofield (Scotland Ruby Conf 2011)](http://confreaks.tv/videos/545-scotlandruby2011-great-developers-steal)
 * [Being an Excellent Software Developer - Michael Norton (WindyCityRails2012)](http://vimeo.com/49882901)
 * [Cultures of Effective Learning - Jeff Cohen (WindyCityRails2012)](http://vimeo.com/49951365)
+* [Principles For Success - Ray Dalio](https://www.youtube.com/watch?v=B9XGUpQZY38)
 * [Continuous Testing - Ruby-Toolbox](https://www.ruby-toolbox.com/categories/continuous_testing)
 * [10-item work-efficiency recipe ](http://m-a-tech.blogspot.com/2012/10/short-10-items-work-efficiency-recipe.html)
 * [Keynote - Tom Preston-Werner (GitHub) (NLC 2011)](http://vimeo.com/35640883)
@@ -5242,6 +5273,7 @@ Peter R. Egli:
 * [MartinFowler.com](http://martinfowler.com/)
 * [Medium.com - Software Development](https://medium.com/tag/software-development)
 * [Scott Hanselman](http://www.hanselman.com/)
+* [Smooth Terminal](https://www.smoothterminal.com/)
 * [StackOverflow](http://blog.stackoverflow.com/)
 
 ### PROGRAMMING - CHEATSHEETS
@@ -5250,6 +5282,7 @@ Peter R. Egli:
 
 ### PROGRAMMING - CODE REVIEWS
 
+* [Awesome Code Review](https://github.com/joho/awesome-code-review#contents)
 * [Code Review in Remote Teams - Sean Hammond](https://www.seanh.cc/posts/code-review)
 * [The Science of Code Reviews - Rich Kuipers (Dutch PHP Conference in 2018)](https://www.youtube.com/watch?v=EyL7mqwpZhk)
 * [Goldilocks And The Three Code Reviews - Vaidehi Joshi (RailsConf 2017)](http://confreaks.tv/videos/railsconf2017-goldilocks-and-the-three-code-reviews)
@@ -5388,6 +5421,7 @@ Peter R. Egli:
 ### PROGRAMMING - STREAM PROCESSING
 
 * [Stream Handbook - Doug McIlroy](https://github.com/substack/stream-handbook)
+* [Embracing Streams…Everywhere - Nitesh Kant (Reactive Summit 2016)](https://www.youtube.com/watch?v=5FE6xnH5Lak)
 * [Learn RxJS - Brian Troncone](https://www.learnrxjs.io/)
 * [RxMarbles.com](http://rxmarbles.com/)
 
@@ -5410,6 +5444,7 @@ Peter R. Egli:
 ### PROGRAMMING - VIDEOS
 
 * [VoxxedDays Zurich 2018](https://www.youtube.com/playlist?list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL)
+* [QCon New York 2018](https://qconnewyork.com/video-schedule)
 * DeconstructConf: [2017](https://www.deconstructconf.com/2017)
 * Devoxx: [Belgium 2017](https://www.youtube.com/playlist?list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo) | [Poland 2017](https://www.youtube.com/playlist?list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH)
 * [GOTO channel](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
@@ -5648,6 +5683,37 @@ Peter R. Egli:
 
 * Moved to [Ruby.markdown](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) (because Github was truncating this page)
 
+## RUST
+
+* [The Rust Programming Language, 2nd ed](https://doc.rust-lang.org/book/second-edition/index.html)
+* [Rust Tutorial: Learn How to Be Productive in Rust - Nicholas Cameron (Linux.conf.au 2018)](https://www.youtube.com/watch?v=waC2wgknY0s)
+* [Idiomatic Rust - Matthias Endler](https://www.youtube.com/watch?v=P2mooqNMxMs)
+* [Diving Into Rust For The First Time - Niko Matsakis (C++ Now 2017)](https://www.youtube.com/watch?v=_jMSrMex6R0)
+* [How Rust is Tilde’s Competitive Advantage](https://www.rust-lang.org/pdfs/Rust-Tilde-Whitepaper.pdf)
+* [Chucklefish Taps Rust to Bring Safe Concurrency to Video Games](https://www.rust-lang.org/pdfs/Rust-Chucklefish-Whitepaper.pdf)
+* [A Case for Oxidation: The Rust Programming Language - Sergio Benitez](https://www.youtube.com/watch?v=cDFSrVhnZKo)
+* [Rust 101 - E. Dunham (Linux.conf.au 2017)](https://www.youtube.com/watch?v=FMqydRampuo)
+* [Rust Tutorial - Derek Banas](https://www.youtube.com/watch?v=U1EFgCNLDB8)
+* [WebAssembly - Rust to JavaScript in under 20 minutes - Scott Batson](https://www.youtube.com/watch?v=WE33Q8GzTkU)
+* [Baby’s First Rust+WebAssembly module: Say hi to JSConf EU! - Lin Clark (JSConf EU 2018)](https://www.youtube.com/watch?v=1meg-Dl_Urw)
+
+### RUST - FUNCTIONAL PROGRAMMING
+
+* [Introduction to Functional Programming in Rust — Antoni Boucher (Lambda Montreal 2017)](https://www.youtube.com/watch?v=PbLY-cVRiog)
+
+### RUST - ROCKET
+
+* Rocket (web framework) - Sergio Benitez: [Github](https://github.com/SergioBenitez/Rocket) | [Overview](https://rocket.rs/overview/) | [Guide](https://rocket.rs/guide/) | [API](https://api.rocket.rs/rocket/) | [Quickstart](https://rocket.rs/guide/quickstart/) | [Getting Started](https://rocket.rs/guide/getting-started/) | [Wiki](http://rust.wikia.com/wiki/Rocket)
+
+### RUST - VIDEOS
+
+* [RustFest Paris 2018](https://www.youtube.com/playlist?list=PL85XCvVPmGQgdqz9kz6qH3SI_hp7Zb4s1)
+
+### RUST - YEW
+
+* [Yew a Rust+WebAssembly framework for client-side web apps - Denis Kolodin (RustFest Paris 2018)](https://www.youtube.com/watch?v=qszZTwG0nZs)
+* [Rustlang Project: Todo App (Yew Framework and Web Assembly) - Tensor Programming](https://www.youtube.com/watch?v=j8EnB7gkygw)
+
 ## SCALA
 
 * [Awesome Scala (curated Scala resources) - Lauris Dzilums](https://github.com/lauris/awesome-scala)
@@ -5680,6 +5746,7 @@ Peter R. Egli:
 
 ### SCALA - FUNCTIONAL PROGRAMMING
 
+* [Intro to Functional Programming (in Scala) Francis Toth (Lambda Montreal 2017)](https://www.youtube.com/watch?v=fPXLSLcOXbc)
 * [Cats: Lightweight, modular, and extensible library for functional programming](https://typelevel.org/cats/)
 * Intro to FP in Scala: Exploring a Toolbox for Solving Problems - Pawel Szulc (LambdaConf λC 2017): [Part 1](https://www.youtube.com/watch?v=jQ65HiG5m3c) | [Part 2](https://www.youtube.com/watch?v=ezCiPda6dzc) | [Part 3](https://www.youtube.com/watch?v=Lj0xDErblvk) | [Part 4](https://www.youtube.com/watch?v=xv7cVNFnGLU) | [Part 5](https://www.youtube.com/watch?v=TaFBNs7reeU) | [Part 6](https://www.youtube.com/watch?v=Og789wIwjvw)
 * [Real-World Functional Scala - Chris Birchall (Lambda World 2016)](https://www.youtube.com/watch?v=STPkPUPYDeg)
@@ -6036,6 +6103,7 @@ Peter R. Egli:
 
 ## WEB ASSEMBLY
 
+* [WebAssembly: How and Why - Milica Mihajlija](https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71)
 * [Compiling for the Web with WebAssembly (Google I/O '17)](https://www.youtube.com/watch?v=6v4E6oksar0)
 * [Will WebAssembly overtake JavaScript in Web Development? - Seth Samuel (Empire Node 2016)](https://www.youtube.com/watch?v=Q-4WauNGRSo)
 
