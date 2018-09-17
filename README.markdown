@@ -1551,6 +1551,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - ISTIO.IO
 
 * [Istio: Open Platform to Connect, Manage, and Secure Microservices](https://istio.io/) | [Github](https://github.com/istio/istio) | [Twitter](https://twitter.com/IstioMesh)
+* [Introduction to Service Management with Istio Service Mesh (Cloud Next '18)](https://www.youtube.com/watch?v=wCJrdKdD6UM)
 * [Istio - Weaving the Service Mesh - Louis Ryan (QCon San Francisco 2017)](https://www.youtube.com/watch?v=bPEgHNZxlJw)
 * [Making Microservices Micro with Istio Service Mesh - Ray Tsang (Devox Belgium 2017)](https://www.youtube.com/watch?v=AGztKw580yQ)
 * [Getting Started with Istio on Amazon EKS - Arun Gupta](https://aws.amazon.com/blogs/opensource/getting-started-istio-eks/)
@@ -2151,6 +2152,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [A GraphQL-on-Elixir Primer - Bruce Williams (Code Beam SF 2018)](https://www.youtube.com/watch?v=enbksvAko98)
 * [Phoenix GraphQL Tutorial with Absinthe - Ryan Swapp](https://ryanswapp.com/2016/11/29/phoenix-graphql-tutorial-with-absinthe/)
 * [GraphQL in Practice - Bruce Williams & Benjamin Wilson (ElixirConf.EU 2017)](https://www.youtube.com/watch?v=d2qNlXtpWXM)
+* [AmberCasts #4: Getting started with GraphQL, Elixir & Absinthe - AmberBit](https://www.youtube.com/watch?v=RF6BSMczt2Q) (Warning: Has some nearly unreadable text)
 * Meraj: [GraphQL with Elixir/Phoenix and Absinthe](https://itnext.io/graphql-with-elixir-phoenix-and-absinthe-6b0ffd260094) | [Authenticating Absinthe GraphQL APIs in Phoenix with Guardian](https://itnext.io/authenticating-absinthe-graphql-apis-in-phoenix-with-guardian-d647ea45a69a)
 
 ### ELIXIR - HEX
@@ -3281,6 +3283,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Papers & Presentations](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations)
     * [Wiki](https://cwiki.apache.org/confluence/display/KAFKA/Index)
     * [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
+* [Event-Driven Architectures - Jay Kreps](https://www.youtube.com/watch?v=Y0Bry5PyrrU)
 * [Commit Logs in an Age of Microservices by Tim Berglund (#MeetTheExperts)](https://www.youtube.com/watch?v=bbotWkCLuF0)
 * [Kafka: The Definitive Guide - Neha Narkhede, Gwen Shapira & Todd Palino (Confluent)](https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf)
 * [The Present and Future of the Streaming Platform - Neha Narkhede (Kafka Summit London 2018)](https://www.youtube.com/watch?v=eublKlalobg)
@@ -4629,6 +4632,10 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [UC Berkeley webcasts](http://webcast.berkeley.edu/series#c,s)
 * [Udacity](https://www.udacity.com/courses#!/all) (Lectures are free)
 * [Udemy](https://www.udemy.com/) (Non-free)
+
+### LEARNING - CAREER
+
+* [Warren Buffett's 5/25 Rule Will Help You Focus On The Things That Matter - Art of Improvement](https://www.youtube.com/watch?v=gkhtYs22bLI)
 
 ## LINUX
 
