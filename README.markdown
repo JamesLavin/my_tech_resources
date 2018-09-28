@@ -501,6 +501,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Lean Startup Co. videos](https://www.youtube.com/user/leanstartupconf/playlists)
 * Marc Andreessen: [Part 1: Why not to do a startup](https://pmarchive.com/guide_to_startups_part1.htm://pmarchive.com/guide_to_startups_part1.html) | [Part 2: When the VCs say "no"](https://pmarchive.com/guide_to_startups_part2.html) | [Part 3: "But I don't know any VCs!"](https://pmarchive.com/guide_to_startups_part3.html) | [Part 4: The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html) | [Part 5: The Moby Dick theory of big companies](https://pmarchive.com/guide_to_startups_part5.html) | [Part 6: How much funding is too little? Too much?](https://pmarchive.com/guide_to_startups_part6.html) | [Part 7: Why a startup's initial business plan doesn't matter that much](https://pmarchive.com/guide_to_startups_part7.html) | [Part 8: Hiring, managing, promoting, and firing executives](https://pmarchive.com/guide_to_startups_part8.html) | [Part 9: How to hire a professional CEO](https://pmarchive.com/guide_to_startups_part9.html)
 * [Paul Graham essays](http://www.paulgraham.com/articles.html)
+* [Acquired by Amazon— what we learned at Pillpack - Fred Destin](https://medium.com/@fdestin/acquired-by-amazon-what-we-learned-at-pillpack-7a9e53d0c51b)
 * [The single biggest reason why startups succeed - Bill Gross (TED)](https://www.youtube.com/watch?v=bNpx7gpSqbY)
 * [YC’s Essential Startup Advice - Geoff Ralston and Michael Seibel](https://blog.ycombinator.com/ycs-essential-startup-advice/)
 * [Beyond the Business Model - Ash Maurya](https://www.youtube.com/watch?v=Qyq3SCxjqgE)
@@ -1407,6 +1408,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - GOOGLE CLOUD
 
 * Gcloud: [Overview](https://cloud.google.com/sdk/gcloud/) | [Compute Concepts](https://cloud.google.com/compute/docs/concepts) | [SDK Concepts](https://cloud.google.com/sdk/docs/concepts) | [Reference](https://cloud.google.com/sdk/gcloud/reference/) | [Compute How-Tos](https://cloud.google.com/compute/docs/how-to) | [SDK How-Tos](https://cloud.google.com/sdk/docs/how-to)
+* [Developing Applications with Google Cloud Platform Specialization - Coursera](https://www.coursera.org/specializations/developing-apps-gcp)
 * Janakiram MSV: [Configuring Kubernetes Cluster Federation to Create a Global Deployment](https://thenewstack.io/configuring-kubernetes-cluster-federation-to-create-a-global-deployment/) | [Deploy a Multicluster Ingress on Google Kubernetes Engine](https://thenewstack.io/deploy-a-multicluster-ingress-on-google-kubernetes-engine/)
 * [Creating and Starting a VM Instance](https://cloud.google.com/compute/docs/instances/create-start-instance)
 * [Setting up Jenkins on Kubernetes Engine](https://cloud.google.com/solutions/jenkins-on-kubernetes-engine-tutorial)
@@ -2024,6 +2026,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - DEPLOYMENT - DOCKER
 
+* [Docker and OTP Friends or Foes - Daniel Azuma (ElixirConf 2018)](https://www.youtube.com/watch?v=nLApFANtkHs)
 * [Elixir Releases & Docker - The Basics Explained - Philipp](https://medium.com/@pentacent/elixir-releases-docker-the-basics-explained-4c800a5b990b)
 * [How to use Elixir with Docker? - Kamil Lelonek](https://blog.lelonek.me/how-to-use-elixir-with-docker-836c9b4a25b0)
 * [Bottling Elixir with Docker - Part 1 - Paul Lamb](https://paullamb.exposed/blog/2017/1/11/bottling-elixir-with-docker-part-1)
@@ -2459,11 +2462,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - VIDEOS
 
+* ElixirConf: [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * EMPEX: [2018 NYC](https://www.youtube.com/playlist?list=PLyO-58-sOapw81dCfjDrX5TuYxS5S8qMq) | [2018 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapy9Fs4Sd-HOeQIFwrSCQ3z1) | [2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS) | [2016](https://www.youtube.com/playlist?list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
 * Lonestar ElixirConf: [2018](https://www.youtube.com/playlist?list=PLGqeEOaC5KsQt7r8KCOzfDgcqsvy_-hCN) | [2017](http://confreaks.tv/events/lonestarelixir2017)
 * [Code BEAM SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v)
 * [ElixirDaze 2018](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYH_aU7H-ExE2jrA-60qxH3)
-* [ElixirConf 2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * [Erlang & Elixir Factory SF 2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jtviHbf3fbBRWcaGDBC2u0)
 * ElixirDaze: [2017 videos](http://confreaks.tv/events/elixirdaze2017) | [2016 videos (Youtube)](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH) | [2016 videos (Confreaks)](http://confreaks.tv/events/elixirdaze2016)
 * [Josh Adams working on Firestorm UI](https://www.twitch.tv/dailydrip/videos/all)
@@ -2515,6 +2518,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Jump starting Your Elm Skills - Murphy Randle (LambdaConf λC 2017): [Lecture Part 1](https://www.youtube.com/watch?v=hzXA5ytGYWI) | [Lecture Part 2](https://www.youtube.com/watch?v=5KpznaReVfQ) | [Hipstore documentation](https://hipstore.sploding.rocks/) | [Example Hipstore website](http://app.hipstore.sploding.rocks/)
 * [Why Elm? - Matthew Griffith](https://www.safaribooksonline.com/library/view/why-elm/9781491990728/)
 * [Elmseeds - Erik Person](https://elmseeds.thaterikperson.com) & [All episodes](https://elmseeds.thaterikperson.com/archive/)
+* [Learning Elm In 3 Days Using the Compiler - Christopher Bertels (Elm Europe 2018)](https://www.youtube.com/watch?v=ulki9D2OKN8)
 * [Developer Happiness on the Front End with Elm - Kevin Yank (RailsConf 2017)](https://www.youtube.com/watch?v=C2npla7DwVk)
 * Jessica Kerr: [Pure Functional Programming in Elm](https://www.youtube.com/watch?v=PRV0mpFWqqQ) & [Conquering Elm Boilerplate](https://www.youtube.com/watch?v=kDF1gKJDq6s)
 * [Teaching Elm to Beginners - Richard Feldman (Elm Conf 2017)](https://www.youtube.com/watch?v=G-GhUxeYc1U)
@@ -2572,6 +2576,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm Explained - Nik Silver](https://github.com/niksilver/elm-explained)
 * [Built With Elm](http://builtwithelm.co/)
 * [Elm: In Theory and In Practice - Mark Wunsch, Harry's (FirstMark's Code Driven)](https://www.youtube.com/watch?v=O_Lsp_woGXk)
+
+### ELM - 0.19
+
+* [Small Assets without the Headache - Evan Czaplicki](http://elm-lang.org/blog/small-assets-without-the-headache)
+* [Release Notes](https://github.com/elm/compiler/blob/master/upgrade-docs/0.19.md)
 
 ### ELM - 0.18
 
@@ -2648,6 +2657,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm SPA example - Richard T Feldman](https://github.com/rtfeldman/elm-spa-example) & [Tour of an Open-Source Elm SPA](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa) & [Scaling Elm Apps - Richard Feldman (Elm Europe 2017)](https://www.youtube.com/watch?v=DoA4Txr4GUs&app=desktop) & [Make Data Structures - Richard Feldman](https://www.youtube.com/watch?v=x1FU3e0sT1I)
 * [Phoenix Elm Battleship - Ricardo García Vega](https://github.com/bigardone/phoenix-elm-battleship)
 * [elm-autocomplete - Greg Ziegan](https://github.com/thebritican/elm-autocomplete)
+* [Modelling a save button in Elm - Jasper Woudenberg](https://dev.to/jwoudenberg/modelling-a-save-button-in-elm-2eo8)
 * [Creating a Fun Game with Elm - Andrey Kuzmin & Kolja Wilcke (Curry On 2016)](https://www.youtube.com/watch?v=En2BKs8unnQ)
 * [Start app - Evan Czaplicki](https://github.com/evancz/start-app)
 * [How to Create Tetris in Elm - Captain Coder](https://www.youtube.com/playlist?list=PL7C8fMD-89DKhlerIE3BrYNd0PlhA6Zch)
@@ -2833,7 +2843,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Connecting Elm to Phoenix 1.4 with webpack - Paul Fioravanti](https://paulfioravanti.com/blog/2018/07/26/connecting-elm-to-phoenix-1-4-with-webpack/)
 * [FullStack Setup Phoenix, Elm, GraphQL, and Tailwindcss - Cory Schmitt](http://www.schmitty.me/stack-setup-phoenix-elm-graphql-tailwindcss/)
 * Elixir API and Elm SPA - Miguel Cobá: [Part 1: Elixir App Creation](https://dev.to/miguelcoba/elixir-api-and-elm-spa-4hpf) | [Part 2: Adding Guardian Authentication](https://dev.to/miguelcoba/elixir-api-and-elm-spa---part-2-1pca) | [Part 3: Elm App creation and Routing setup](https://dev.to/miguelcoba/elixir-api-and-elm-spa---part-3-3n0h) | [Part 4: Adding Login and Register pages](https://dev.to/miguelcoba/elixir-api-and-elm-spa---part-4-4il0) | [Part 5: Persisting session data to localStorage](https://dev.to/miguelcoba/elixir-api-and-elm-spa---part-5-4j1k)
-* [Phoenix & Elm landing page (pt.1) - Ricardo García Vega](http://codeloveandboards.com/blog/2017/12/02/phoenix-elm-landing-page-pt-1/) & [Part 2](http://codeloveandboards.com/blog/2017/12/23/phoenix-elm-landing-page-pt-2/) & [Part 3](http://codeloveandboards.com/blog/2018/01/06/phoenix-elm-landing-page-pt-3/)
+* [Phoenix & Elm landing page (pt.1) - Ricardo García Vega](http://codeloveandboards.com/blog/2017/12/02/phoenix-elm-landing-page-pt-1/) & [Part 2](http://codeloveandboards.com/blog/2017/12/23/phoenix-elm-landing-page-pt-2/) & [Part 3](http://codeloveandboards.com/blog/2018/01/06/phoenix-elm-landing-page-pt-3/) & [Elm & Web Components](http://codeloveandboards.com/blog/2018/09/09/elm-and-web-components/)
 * [Migrating a Phoenix and Elm app from REST to GraphQL - Paul Fioravanti](https://paulfioravanti.com/blog/2018/03/06/migrating-a-phoenix-and-elm-app-from-rest-to-graphql/) & [Github](https://github.com/paulfioravanti/phoenix-and-elm)
 * [elm-phoenix-websocket-ports](https://www.npmjs.com/package/elm-phoenix-websocket-ports)
 * [elm-phoenix-socket](https://github.com/fbonetti/elm-phoenix-socket)
@@ -2857,8 +2867,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm with Evan Czaplicki and Richard Feldman (Javascript Jabber)](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman)
 * [Elm with Evan Czaplicki (MostlyErlang)](http://mostlyerlang.com/2014/03/24/032-elm-with-evan-czaplicki/)
 
-### ELM - PORTS
+### ELM - PORTS & WEB COMPONENTS
 
+* [When and How to Use Web Components With Elm - Luke Westby (Elm Europe 2018)](https://www.youtube.com/watch?v=tyFe9Pw6TVE)
 * [How Elm Ports Work, With a Picture (just one) - JustGage](https://hackernoon.com/how-elm-ports-work-with-a-picture-just-one-25144ba43cdd)
 * [Ports in Elm - Daniel Bachler](http://danielbachler.de/2016/02/26/ports-in-elm.html)
 * [elm-colors: Phoenix + Elm + Webpack + Heroku Example App - Joshua Clayton](https://github.com/joshuaclayton/elm-colors) & [live code example](http://colors.joshuaclayton.me/)
@@ -5334,6 +5345,13 @@ Peter R. Egli:
 
 * [Designing With Passion -  Joe Armstrong, Evan Czaplicki, Bruce Tate, Dave Thomas, John Hughes (Erlang Solutions 2016)](https://www.infoq.com/presentations/panel-erlang-haskell-elm-ruby)
 
+### PROGRAMMING - LANGUAGE POPULARITY
+
+* [TIOBE Index](https://www.tiobe.com/tiobe-index/)
+* [PYPL PopularitY of Programming Language](http://pypl.github.io/PYPL.html)
+* [RedMonk](https://redmonk.com/sogrady/2018/08/10/language-rankings-6-18/)
+* [OpenHub (Black Duck)](https://www.openhub.net/languages/compare)
+
 ### PROGRAMMING - LEARNING (FREE)
 
 * [Code Studio](http://studio.code.org/)
@@ -5723,8 +5741,22 @@ Peter R. Egli:
 
 ## SCALA
 
+* [Tour of Scala - scala-lang.org](https://docs.scala-lang.org/tour/tour-of-scala.html)
 * [Awesome Scala (curated Scala resources) - Lauris Dzilums](https://github.com/lauris/awesome-scala)
-* [Scala School](https://twitter.github.io/scala_school/)
+* [Scala School - Twitter](https://twitter.github.io/scala_school/)
+    * [Basics](http://twitter.github.io/scala_school/basics.html)
+    * [Basics Continued](http://twitter.github.io/scala_school/basics2.html)
+    * [Collections](http://twitter.github.io/scala_school/collections.html)
+    * [Pattern Matching & Functional Composition](http://twitter.github.io/scala_school/pattern-matching-and-functional-composition.html)
+    * [Type & Polymorphism Basics](http://twitter.github.io/scala_school/type-basics.html)
+    * [Advanced Types](http://twitter.github.io/scala_school/advanced-types.html)
+    * [Simple Build Tool](http://twitter.github.io/scala_school/sbt.html)
+    * [More Collections](http://twitter.github.io/scala_school/coll2.html)
+    * [Testing With Specs](http://twitter.github.io/scala_school/specs.html)
+    * [Concurrency In Scala](http://twitter.github.io/scala_school/concurrency.html)
+    * [Java + Scala](http://twitter.github.io/scala_school/java.html)
+    * [Intro to Finagle](http://twitter.github.io/scala_school/finagle.html)
+    * [Searchbird](http://twitter.github.io/scala_school/searchbird.html)
 * [Official documentation](http://docs.scala-lang.org/) | [Cheatsheet](http://docs.scala-lang.org/cheatsheets/index.html)
 * [Scala School - Twitter](http://twitter.github.io/scala_school/)
 * [All About Scala](http://allaboutscala.com/)
@@ -5743,9 +5775,15 @@ Peter R. Egli:
 ### SCALA - BOOKS
 
 * [Scala By Example - Martin Odersky (free PDF)](http://www.scala-lang.org/docu/files/ScalaByExample.pdf)
+* [Learning Functional Programming in Scala - Alvin Alexander (free PDF)](https://alvinalexander.com/downloads/learning-fp-in-scala-0.1.1.pdf)
 * [Scala for the Impatient (free PDF; requires registration)](http://typesafe.com/resources/book/scala-for-the-impatient)
 * [Scala in Depth (free PDF; requires registration)](http://typesafe.com/resources/book/scala-in-depth)
 * [Scala Tutorial (PDF) - TutorialsPoint.com](http://tutorialspoint.com/scala/scala_tutorial.pdf)
+
+### SCALA - COURSES
+
+* [Scala Courses - Coursera](https://www.coursera.org/specializations/scala) & [Functional Programming Principles in Scala - Martin Odersky](https://www.coursera.org/learn/progfun1)
+* [Fundamentals of Scalable Data Science - Romeo Kienzler](https://www.coursera.org/learn/ds)
 
 ### SCALA - EVENT SOURCING/CQRS
 
@@ -5766,6 +5804,7 @@ Peter R. Egli:
 * [Cats - A Fresh Look at Functional Programming in Scala - Mike Stew (LambdaConf 2015)](https://www.youtube.com/watch?v=hIwdaP3-U6I)
 * [Intro to Functional Programming in Scala - Joe Barnes](https://www.youtube.com/watch?v=2Ji5i0x2gJI)
 * [Programs as Values: Pure Composable Database Access in Scala - Rob Norris](https://www.youtube.com/watch?v=XHiTK4UOIf0)
+* [Online material for the Introduction to Functional Game Programming with Scala workshop - John De Goes](https://github.com/jdegoes/lambdaconf-2014-introgame)
 
 ### SCALA - LAGOM
 
@@ -5874,6 +5913,7 @@ Peter R. Egli:
 
 ## TESTING
 
+* [Testing Microservices, the sane way - Cindy Sridharan](https://medium.com/@copyconstruct/testing-microservices-the-sane-way-9bb31d158c16)
 * [Ruby-Toolbox - Testing tools](https://www.ruby-toolbox.com/#Testing)
 * [Testing of Microservices - André Schaffer](https://labs.spotify.com/2018/01/11/testing-of-microservices/)
 * [Let's Make Testing Fun Again - Noel Rappin (WindyCityRails2012)](http://vimeo.com/49525644)

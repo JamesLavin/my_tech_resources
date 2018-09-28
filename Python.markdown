@@ -35,7 +35,7 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 * [AnacondaCON 2017](https://www.youtube.com/playlist?list=PLGB9meziqbzqvly8Skj3qTieC-fSXeR8T)
 * [Python Data Science Handbook - Jake VanderPlas](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 * [Introduction to Python & Machine Learning (with Analytics Vidhya Hackathons) - Kunal Jain](https://www.datacamp.com/community/open-courses/introduction-to-python-machine-learning-with-analytics-vidhya-hackathons)
-* [Statistics and Machine Learning in Python - Edouard Duchesnay, Tommy Löfstedt (PDF)](ftp://ftp.cea.fr/pub/unati/people/educhesnay/pystatml/StatisticsMachineLearningPythonDraft.pdf)
+* [Statistics and Machine Learning in Python - Edouard Duchesnay, Tommy Löfstedt (PDF)](https://tinyurl.com/yabo73nt) (Actual link is ftp://ftp.cea.fr/pub/unati/people/educhesnay/pystatml/StatisticsMachineLearningPythonDraft.pdf, but a Github bug prevents ftp links from rendering in Markdown files)
 * [Code for "Python for Data Analysis, 2nd ed" - Wes McKinney](https://github.com/wesm/pydata-book)
 * [Dataquest.io missions](https://www.dataquest.io/missions)
 * Harvard CS109: Data Science (2013): [slides](https://drive.google.com/folderview?id=0BxYkKyLxfsNVd0xicUVDS1dIS0k&usp=sharing), [video lectures](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) & [labs and solutions](https://github.com/cs109/content)
