@@ -185,6 +185,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Papers With Code - Hottest AI/ML papers with associated code](https://paperswithcode.com/)
 * [arXiv.org machine learning articles](https://arxiv.org/list/stat.ML/recent)
+* [Rules of Machine Learning: Best Practices for ML Engineering - Martin Zinkevich](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * [Jupyter notebooks for the book "Hands-on Machine Learning with Scikit-Learn and TensorFlow" - Aurélien Geron](https://github.com/ageron/handson-ml)
 * [Jupyter notebooks for the book "Deep Learning With Python Notebooks" - François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
 * [This Week in Machine Learning](https://medium.com/@david.joyner)
@@ -285,17 +286,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [LSTM Networks - The Math of Intelligence - Siraj Raval](https://www.youtube.com/watch?v=9zhrxE5PQgY)
 * [Sequence-to-Sequence Models (TensorFlow)](https://www.tensorflow.org/tutorials/seq2seq)
 
-### ARTIFICIAL INTELLIGENCE (AI) - SPARK
-
-* [Spark Summit 2017 - Machine Learning](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWT8jkKT4gbsHopPKG8Dy16)
-* [Spark Summit 2017 - Data Science](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWoFiTf-SwxvmVySIeXGPoA)
-* [Spark Summit 2017 - Spark Ecosystem](https://www.youtube.com/playlist?list=PLTPXxbhUt-YXcDEapM9rEzGqnETi1qJZF)
-* [Spark Summit 2017 - General](https://www.youtube.com/playlist?list=PLTPXxbhUt-YV6RdCNARfSKs3-3Old6XTk)
-* [Spark Summit 2017 - Spark Experience && Use Cases](https://www.youtube.com/playlist?list=PLTPXxbhUt-YW_MI7HWgAXxpualRshHRuc)
-* [Spark Summit 2017 - Developer](https://www.youtube.com/playlist?list=PLTPXxbhUt-YUACA5z51j4fVEpjPMh4cZE)
-* [TensorFrames: Deep Learning with TensorFlow on Apache Spark - Tim Hunter](https://www.youtube.com/watch?v=gXItObf-qaI)
-* [TensorFlow On Spark: Scalable TensorFlow Learning on Spark Clusters - Andy Feng & Lee Yang](https://www.youtube.com/watch?v=IxWfAcrZQhc)
-
 ### ARTIFICIAL INTELLIGENCE (AI) - REAL-WORLD EXAMPLES
 
 * [Google’s voice-generating AI is now indistinguishable from humans - Dave Gershgorn](https://qz.com/1165775/googles-voice-generating-ai-is-now-indistinguishable-from-humans/)
@@ -393,7 +383,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [TensorFlow at DeepMind - Daniel Visentin (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=VdDmhOCw6J0)
 * [TensorFlow Wide & Deep Learning Tutorial (TensorFlow)](https://www.tensorflow.org/tutorials/wide_and_deep)
 
-
 #### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW - MOBILE
 
 * [TensorFlow.js](https://js.tensorflow.org/) | [Tutorials](https://js.tensorflow.org/tutorials/) | [Docs](https://js.tensorflow.org/api/0.10.0/) | [Examples](https://github.com/tensorflow/tfjs-examples)
@@ -412,6 +401,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Insight Data Science](https://blog.insightdatascience.com/)
 * [KD Nuggets](http://www.kdnuggets.com/)
+
+## ASDF
+
+* [asdf - Version manager for Ruby, Node.js, Elixir, Erlang & more](https://github.com/asdf-vm/asdf)
+* [Agnostic Version Management With asdf - Bobby Grayson](https://elixirschool.com/blog/asdf-version-management/)
 
 ## BLOCKCHAINS
 
@@ -872,7 +866,22 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Data Elixir](https://dataelixir.com/issues)
 * [Data Science Weekly](https://www.datascienceweekly.org/newsletters)
 * [Kaggle.com](https://www.kaggle.com/)
+* [Movielens](https://grouplens.org/datasets/movielens/)
 * [O'Reilly Data Newsletter](https://www.oreilly.com/topics/data)
+
+### DATA ANALYSIS - SPARK
+
+* [Spark Docs](https://spark.apache.org/docs/latest/) | [Quick start](https://spark.apache.org/docs/latest/quick-start.html) | [RDD Programming Guide](https://spark.apache.org/docs/latest/rdd-programming-guide.html) | [Spark SQL, Datasets, and DataFrames](https://spark.apache.org/docs/latest/sql-programming-guide.html) | [Structured Streaming](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html) | [Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html) | [MLlib](https://spark.apache.org/docs/latest/ml-guide.html) | [GraphX](https://spark.apache.org/docs/latest/graphx-programming-guide.html) | [Scala API](https://spark.apache.org/docs/latest/api/scala/index.html#org.apache.spark.package) | [Java API](https://spark.apache.org/docs/latest/api/java/index.html) | [Python API](https://spark.apache.org/docs/latest/api/python/index.html) | [R API](https://spark.apache.org/docs/latest/api/R/index.html) | [Spark SQL, Built-in Functions](https://spark.apache.org/docs/latest/api/sql/index.html)
+* [Spark - TutorialsPoint.com](https://www.tutorialspoint.com/apache_spark/apache_spark_tutorial.pdf)
+* [Running on Kubernetes](https://spark.apache.org/docs/latest/running-on-kubernetes.html)
+* [Spark Summit 2017 - Machine Learning](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWT8jkKT4gbsHopPKG8Dy16)
+* [Spark Summit 2017 - Data Science](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWoFiTf-SwxvmVySIeXGPoA)
+* [Spark Summit 2017 - Spark Ecosystem](https://www.youtube.com/playlist?list=PLTPXxbhUt-YXcDEapM9rEzGqnETi1qJZF)
+* [Spark Summit 2017 - General](https://www.youtube.com/playlist?list=PLTPXxbhUt-YV6RdCNARfSKs3-3Old6XTk)
+* [Spark Summit 2017 - Spark Experience && Use Cases](https://www.youtube.com/playlist?list=PLTPXxbhUt-YW_MI7HWgAXxpualRshHRuc)
+* [Spark Summit 2017 - Developer](https://www.youtube.com/playlist?list=PLTPXxbhUt-YUACA5z51j4fVEpjPMh4cZE)
+* [TensorFrames: Deep Learning with TensorFlow on Apache Spark - Tim Hunter](https://www.youtube.com/watch?v=gXItObf-qaI)
+* [TensorFlow On Spark: Scalable TensorFlow Learning on Spark Clusters - Andy Feng & Lee Yang](https://www.youtube.com/watch?v=IxWfAcrZQhc)
 
 ### DATA - APIS
 
@@ -2055,6 +2064,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - DISTRIBUTION
 
+* [Horde is a distributed process registry and supervisor built on δ-CRDTs - Derek Kraan](https://github.com/derekkraan/horde) | [API Docs](https://hexdocs.pm/horde/api-reference.html) | [Introducing Horde](https://medium.com/@derek.kraan2/introducing-horde-a-distributed-supervisor-in-elixir-4be3259cc142) | [Getting Started](https://medium.com/@derek.kraan2/getting-started-with-hordes-distributed-supervisor-registry-f3017208e1ce) | [Docker & OTP: Friends or Foes - Daniel Azuma (ElixirConf 2018)](https://www.youtube.com/watch?v=nLApFANtkHs)
 * [Always Available - Claudio Ortolina (ElixirConf EU 2017)](https://www.youtube.com/watch?v=UTXYiV7nOpM)
 * [Elixir and Money - Tomasz Kowal (ElixirConf EU 2017)](https://www.youtube.com/watch?v=TZPG8b-Novw)
 * [Idioms for Building Distributed Fault–Tolerant Applications with Elixir - José Valim (EuRuKo 2016)](https://www.youtube.com/watch?v=xhwnHovnq_0)
@@ -2196,6 +2206,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [AutomatingTheFuture.com - Quentin Thomas](http://www.automatingthefuture.com/)
   * [Artificial Neural Networks, Elixir, and You - Quentin Thomas](http://www.automatingthefuture.com/blog/2016/9/7/artificial-neural-networks-elixir-and-you?utm_content=buffer9dea0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+### ELIXIR - OPUS
+
+* [Opus: framework for pluggable business logic components](https://github.com/zorbash/opus) | [Wiki](https://github.com/Zorbash/opus/wiki)
+* [How to create beautiful pipelines on Elixir with Opus - Rafael Soares](https://medium.com/quiqup-engineering/how-to-create-beautiful-pipelines-on-elixir-with-opus-f0b688de8994)
 
 ### ELIXIR - OTP
 
@@ -3298,6 +3313,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Commit Logs in an Age of Microservices by Tim Berglund (#MeetTheExperts)](https://www.youtube.com/watch?v=bbotWkCLuF0)
 * [Kafka: The Definitive Guide - Neha Narkhede, Gwen Shapira & Todd Palino (Confluent)](https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf)
 * [The Present and Future of the Streaming Platform - Neha Narkhede (Kafka Summit London 2018)](https://www.youtube.com/watch?v=eublKlalobg)
+* [Kafka and Event-Oriented Architecture - Jay Kreps (Kafka Summit SF 2018)](https://www.youtube.com/watch?v=HeNegOzjnJY)
 * [The Log: What every software engineer should know about real-time data's unifying abstraction - Jay Kreps](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [Thorough Introduction to Apache Kafka™ - Stanislav Kozlovski](https://medium.com/@stanislavkozlovski/thorough-introduction-to-apache-kafka-6fbf2989bbc1)
 * [Toward a Functional Programming Analogy for Microservices - Bobby Calderwood](https://www.confluent.io/blog/toward-functional-programming-analogy-microservices/)
@@ -3339,7 +3355,9 @@ Links to resources I have found useful or think might be helpful to future me or
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - CONFLUENT PLATFORM
 
 * [Confluent Platform Demo](https://github.com/confluentinc/cp-demo)
+* [Helm 101: Apache Kafka and Confluent Platform for Kubernetes Explained - Viktor Gamov](https://www.youtube.com/watch?v=9cyXXmRlGWQ)
 * [Confluent Blog](https://www.confluent.io/blog)
+* [Demo: Building a data pipeline with Confluent Cloud and Google BigQuery - Gwen Shapira](https://www.youtube.com/watch?v=RHuCFpyQvXc)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - DELETING DATA
 
@@ -3374,13 +3392,23 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Github](https://github.com/confluentinc/ksql)
 Level Up Your KSQL - Tim Berglund (Confluent):
+  * [Demo: Build a Streaming Application with KSQL](https://www.youtube.com/watch?v=ExEWJVjj-RA)
+  * [KSQL from Confluent](https://www.youtube.com/watch?v=illEpCOcCVg)
+  * [KSQL Intro](https://www.youtube.com/watch?v=C-rUyWmRJSQ)
   * [KSQL and Core Kafka](https://www.youtube.com/watch?v=-GpbMAK3Uow)
   * [KSQL Use Cases](https://www.youtube.com/watch?v=euz0isNG1SQ)
+  * [Installing & Running KSQL](https://www.youtube.com/watch?v=icwHpPm-TCA)
   * [KSQL Streams and Tables](https://www.youtube.com/watch?v=DPGn-j7yD68)
+  * [Reading Kafka Data From KSQL](https://www.youtube.com/watch?v=EzVZOUt9JsU)
   * [Streaming and Unbounded Data in KSQL](https://www.youtube.com/watch?v=4ccg1AFeNB0)
+  * [Enriching Data with KSQL](https://www.youtube.com/watch?v=9_Gwe6qJrjI)
   * [Aggregations in KSQL](https://www.youtube.com/watch?v=db5SsmNvej4)
   * [Taking KSQL to Production](https://www.youtube.com/watch?v=f3wV8W_zjwE)
+  * [Insert Into](https://www.youtube.com/watch?v=z508VDdtp_M)
   * [Struct (Nested Data)](https://www.youtube.com/watch?v=TQd5rfFmbhw)
+  * [Stream-Stream Joins](https://www.youtube.com/watch?v=51yLu5FnPYo)
+  * [UDFs / UDAFs](https://www.youtube.com/watch?v=EXbvxxExcI8)
+* [Streaming SQL for Apache Kafka - Confluent](https://www.confluent.io/product/ksql/)
 * [Reading Kafka Data from KSQL](https://www.youtube.com/watch?v=EzVZOUt9JsU)
 * [Building a Real-Time Streaming Platform with Oracle, Apache Kafka, and KSQL - Gwen Shapira](https://www.youtube.com/watch?v=bc4wfzuCbAo)
 * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka - Neha Narkhede](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
@@ -3553,6 +3581,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 ### FUNCTIONAL PROGRAMMING - BOOKS
 
 * [Type Theory and Functional Programming - Simon Thompson](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) | [PDF](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
+* [Types and Programming Languages - Benjamin C. Pierce](https://www.asc.ohio-state.edu/pollard.4/type/books/pierce-tpl.pdf)
 * [The Implementation of Functional Programming Languages - Simon Peyton Jones (1987)](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/)
 * [Implementing Lazy Functional Languages on Stock Hardware: The Spineless Tagless G-machine - Simon Peyton Jones (1992)](https://www.microsoft.com/en-us/research/publication/implementing-lazy-functional-languages-on-stock-hardware-the-spineless-tagless-g-machine/)
 
@@ -4374,6 +4403,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 ### JAVASCRIPT - FUNDAMENTAL CONCEPTS
 
+* [A Beginner's Guide to JavaScript's Prototype - Tyler McGinnis](https://tylermcginnis.com/beginners-guide-to-javascript-prototype/)
 * [Common JavaScript “Gotchas”](http://www.jblotus.com/2013/01/13/common-javascript-gotchas/)
 * [Understanding JavaScript Function Invocation and 'this' (Yehuda Katz)](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
 * [Preparing Yourself for Modern JavaScript Development](http://www.codethinked.com/preparing-yourself-for-modern-javascript-development)
@@ -5241,6 +5271,10 @@ Peter R. Egli:
 * [WideTeams.com (podcasts on remote collaboration)](http://www.wideteams.com/)
 * [Move Fast and Make Things - Adam Keys (BigRuby 2013)](http://confreaks.tv/videos/2300-bigruby2013-move-fast-and-make-things)
 
+#### PRODUCT DEVELOPMENT - PEOPLE, PROCESS & TEAMS - REMOTE
+
+* [Learnings from 4000+ interviews for hiring remote employees - Nitesh Agrawal](https://hackernoon.com/how-to-interview-the-best-remote-workers-88570ddce7d7)
+
 ### PRODUCT DEVELOPMENT - COMMUNICATION TOOLS
 
 * [Basecamp](http://basecamp.com/)
@@ -5349,6 +5383,7 @@ Peter R. Egli:
 
 * [TIOBE Index](https://www.tiobe.com/tiobe-index/)
 * [PYPL PopularitY of Programming Language](http://pypl.github.io/PYPL.html)
+* [15 Most Popular Languages on Github 2017](https://octoverse.github.com/)
 * [RedMonk](https://redmonk.com/sogrady/2018/08/10/language-rankings-6-18/)
 * [OpenHub (Black Duck)](https://www.openhub.net/languages/compare)
 
@@ -5534,6 +5569,7 @@ Peter R. Egli:
 
 ### R - LEARNING
 
+* [Hands-On Programming with R - Garrett Grolemund](https://rstudio-education.github.io/hopr/)
 * [The Five Colleges Guide to Statistics With R](http://www3.amherst.edu/~nhorton/FiveCollegeR.pdf)
 * [Swirl ("Statistics With Interactive R Learning")](http://swirlstats.com/students.html)
 * [The Undergraduate Guide to R - Trevor Martin](https://sites.google.com/site/undergraduateguidetor/manual-files)
@@ -5792,6 +5828,7 @@ Peter R. Egli:
 ### SCALA - FUNCTIONAL PROGRAMMING
 
 * [Intro to Functional Programming (in Scala) Francis Toth (Lambda Montreal 2017)](https://www.youtube.com/watch?v=fPXLSLcOXbc)
+* Jordan Parmer: [Let’s Code Real World App Using Purely Functional Techniques (in Scala)](https://www.youtube.com/watch?v=m40YOZr1nxQ) | [Common Functional Techniques](https://www.youtube.com/watch?v=UbY97MudfCs) | [Functional Programming: Type Systems](https://www.youtube.com/watch?v=hy1wjkcIBCU) | [Reactive Streams](https://www.youtube.com/watch?v=_Zmip_o74nw) | [Other Jordan Parmer Scala FP talks](https://www.youtube.com/playlist?list=PLQfJFqUBGf40jCq_ISo37q3Ummij1DI_t)
 * [Cats: Lightweight, modular, and extensible library for functional programming](https://typelevel.org/cats/)
 * Intro to FP in Scala: Exploring a Toolbox for Solving Problems - Pawel Szulc (LambdaConf λC 2017): [Part 1](https://www.youtube.com/watch?v=jQ65HiG5m3c) | [Part 2](https://www.youtube.com/watch?v=ezCiPda6dzc) | [Part 3](https://www.youtube.com/watch?v=Lj0xDErblvk) | [Part 4](https://www.youtube.com/watch?v=xv7cVNFnGLU) | [Part 5](https://www.youtube.com/watch?v=TaFBNs7reeU) | [Part 6](https://www.youtube.com/watch?v=Og789wIwjvw)
 * [Real-World Functional Scala - Chris Birchall (Lambda World 2016)](https://www.youtube.com/watch?v=STPkPUPYDeg)
@@ -5808,7 +5845,8 @@ Peter R. Egli:
 
 ### SCALA - LAGOM
 
-* [LagomFramework.com: open source framework for building reactive microservice systems in Java or Scala, built on Akka and Play](https://www.lagomframework.com/)
+* [Lagom: open source framework for reactive microservice systems in Java or Scala, built on Akka and Play](https://www.lagomframework.com/) | [Github](https://github.com/lagom/lagom) | [Docs](https://www.lagomframework.com/documentation/) | [Getting Started](https://www.lightbend.com/lagom-framework) | [StackOverflow](https://stackoverflow.com/questions/tagged/lagom) | [Blog](https://www.lagomframework.com/blog/)
+
 
 ### SCALA - SCALAZ
 
@@ -5877,6 +5915,8 @@ Peter R. Egli:
 * [TheWireCutter](http://thewirecutter.com/deals/)
 
 ## STATISTICAL ANALYSIS
+
+* [Data Science Resources - Adi Bronshtein](https://github.com/AdiBro/Data-Science-Resources)
 
 ### STATISTICAL ANALYSIS - INTRO TO
 
