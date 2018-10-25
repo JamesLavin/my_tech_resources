@@ -496,6 +496,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Marc Andreessen: [Part 1: Why not to do a startup](https://pmarchive.com/guide_to_startups_part1.htm://pmarchive.com/guide_to_startups_part1.html) | [Part 2: When the VCs say "no"](https://pmarchive.com/guide_to_startups_part2.html) | [Part 3: "But I don't know any VCs!"](https://pmarchive.com/guide_to_startups_part3.html) | [Part 4: The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html) | [Part 5: The Moby Dick theory of big companies](https://pmarchive.com/guide_to_startups_part5.html) | [Part 6: How much funding is too little? Too much?](https://pmarchive.com/guide_to_startups_part6.html) | [Part 7: Why a startup's initial business plan doesn't matter that much](https://pmarchive.com/guide_to_startups_part7.html) | [Part 8: Hiring, managing, promoting, and firing executives](https://pmarchive.com/guide_to_startups_part8.html) | [Part 9: How to hire a professional CEO](https://pmarchive.com/guide_to_startups_part9.html)
 * [Paul Graham essays](http://www.paulgraham.com/articles.html)
 * [Acquired by Amazon— what we learned at Pillpack - Fred Destin](https://medium.com/@fdestin/acquired-by-amazon-what-we-learned-at-pillpack-7a9e53d0c51b)
+* [A Conversation with Paul Graham - Moderated by Geoff Ralston](https://www.youtube.com/watch?v=4WO5kJChg3w)
 * [The single biggest reason why startups succeed - Bill Gross (TED)](https://www.youtube.com/watch?v=bNpx7gpSqbY)
 * [YC’s Essential Startup Advice - Geoff Ralston and Michael Seibel](https://blog.ycombinator.com/ycs-essential-startup-advice/)
 * [Beyond the Business Model - Ash Maurya](https://www.youtube.com/watch?v=Qyq3SCxjqgE)
@@ -1568,10 +1569,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Getting Started with Istio on Amazon EKS - Arun Gupta](https://aws.amazon.com/blogs/opensource/getting-started-istio-eks/)
 * [Stop reinventing the wheel with Istio - Mete Atamel (Devoxx UK 2018)](https://www.youtube.com/watch?v=pGKwluckJ-A)
 * [Service Mesh: What, Why, And How? - Flynn (DevOpsDays Boston 2017)](https://www.youtube.com/watch?v=B0vi6ZqqmMw)
-* [Hello Istio Codelab (With Google Kubernetes) - Google](https://codelabs.developers.google.com/codelabs/cloud-hello-istio/#0)
-* [Istio 101 (0.8.0) on GKE - Mete Atamel (Google)](https://meteatamel.wordpress.com/2018/06/07/istio-101-0-8-0-on-gke/)
 * [Microservices in the Cloud with Kubernetes and Istio - Sandeep Dinesh (Google I/O '18)](https://www.youtube.com/watch?v=gauOI0O9fRM)
 * [Making Microservices Micro with Istio Service Mesh - Ray Tsang (Devox Belgium 2017)](https://www.youtube.com/watch?v=AGztKw580yQ)
+
+#### DEVOPS - ISTIO.IO - GKE
+
+* [Hello Istio Codelab (With Google Kubernetes) - Google](https://codelabs.developers.google.com/codelabs/cloud-hello-istio/#0)
+* [Istio 101 (1.0) on GKE](https://meteatamel.wordpress.com/2018/08/06/istio-101-1-0-on-gke/) | [Istio 101 (0.8.0) on GKE - Mete Atamel (Google)](https://meteatamel.wordpress.com/2018/06/07/istio-101-0-8-0-on-gke/)
 
 ### DEVOPS - LOGGING
 
@@ -1941,8 +1945,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * The Mix & OTP Guide: [(EPUB)](https://github.com/JamesLavin/my_tech_resources/raw/master/mix-and-otp.epub) | [Online](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) & [Github](https://github.com/oreillymedia/etudes-for-elixir)
 
+### ELIXIR - CACHING
+
+* [Cachex: caching library for Elixir with support for transactions, fallbacks and expirations](https://github.com/whitfin/cachex) | [Docs](https://hexdocs.pm/cachex/)
+
 ### ELIXIR - CODE EXAMPLES
 
+* [Git Gud - Github clone written in Elixir - Almighty Couch](https://github.com/almightycouch/gitgud)
 * [Simulations - James Edward Gray II](https://github.com/JEG2/simulations)
 * [a-little-elixir-goes-a-long-way (Elixir version of code examples from The Little Schemer)](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way/tree/master/lib/schemer)
 * [Rebuilding the Mission Impossible security system in Elixir on RaspberryPi - Ju Liu](https://www.erlang-solutions.com/blog/rebuilding-the-mission-impossible-security-system-in-elixir-on-raspberrypi.html)
@@ -2101,6 +2110,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [PostgreSQL indexing with Ecto - Richard Nyström](http://rny.io/elixir/ecto/postgresql/2015/08/31/postgresql-indexing-with-ecto.html)
 * [Composable Queries with Ecto - Drew Olson (ElixirConf 2015)](https://www.youtube.com/watch?v=g84TDHt9MDc)
 * [Embedding Elixir Structs in Ecto Models - Josh Steiner](https://robots.thoughtbot.com/embedding-elixir-structs-in-ecto-models)
+
+#### ELIXIR - ECTO - 3.0
+
+* [A sneak peek at Ecto 3.0: breaking changes - José Valim](http://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-breaking-changes/)
+* [A sneak peek at Ecto 3.0: query improvements (part 1) - José Valim](http://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-query-improvements-part-1/)
 
 ### ELIXIR - ELASTICSEARCH
 
@@ -2665,6 +2679,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - CODE EXAMPLES
 
+* [Flashcards - Mike Onslow & daughter](https://ellie-app.com/3y8GJsXv5G4a1)
 * [25 Elm examples - starting from an static view and gradually progressing to an interactive web app with routing - Bryan Jennings](https://github.com/bryanjenningz/25-elm-examples)
 * [elm-ballpool - Takahashi Yuto](https://github.com/y-taka-23/elm-ballpool)
 * [Exercism exercises in Elm](https://github.com/exercism/elm)
@@ -2854,6 +2869,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - PHOENIX & ELM
 
+* [Get started with Elm 0.19 and Phoenix 1.4 - Riccardo Binetti](https://blog.ispirata.com/get-started-with-elm-0-19-and-phoenix-1-4-291beebb350b)
 * [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader)
 * [Connecting Elm to Phoenix 1.4 with webpack - Paul Fioravanti](https://paulfioravanti.com/blog/2018/07/26/connecting-elm-to-phoenix-1-4-with-webpack/)
 * [FullStack Setup Phoenix, Elm, GraphQL, and Tailwindcss - Cory Schmitt](http://www.schmitty.me/stack-setup-phoenix-elm-graphql-tailwindcss/)
@@ -4351,6 +4367,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 ### JAVASCRIPT - FUNCTIONAL PROGRAMMING
 
 * [Functional Programming Basics in ES6 (JavaScript) - Jeremy Fairbank (Scenic City Summit 2016)](https://www.youtube.com/watch?v=HvMemAgOw6I)
+* [A Skeptic's Guide To Functional STYLE JavaScript - Jonathan Mills (NEJS Conf 2017)](https://www.youtube.com/watch?v=oF9XTJoScOE)
 * [Full Stack Functional JavaScript - Tom Wilson (Syntax Conference 2017)](https://www.youtube.com/watch?v=nLzuj66rITk)
 * [Functional-Light JavaScript - Kyle Simpson](https://github.com/getify/Functional-Light-JS)
 * [Gentle Intro to Functional Javascript - James Sinclair](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style/)
@@ -5178,6 +5195,10 @@ Peter R. Egli:
 * [Full-Text Search: Seek and Ye Shall Find - Dan Scott (Postgres Open)](https://www.youtube.com/watch?v=R6nT6UgY7k4)
 * [Using PostgreSQL and jsonb with Ruby on Rails - Nando Vieira](http://nandovieira.com/using-postgresql-and-jsonb-with-ruby-on-rails)
 
+### POSTGRESQL - MONITORING
+
+* [Dynamic Monitoring of PostgreSQL Instances Using pg_top - Brian Fehrle](https://severalnines.com/blog/dynamic-monitoring-postgresql-instances-using-pgtop)
+
 ### POSTGRESQL - POSTGREST
 
 * [PostgREST - REST API for any Postgres database](https://github.com/begriffs/postgrest)
@@ -5808,6 +5829,10 @@ Peter R. Egli:
 * [A Practical Introduction to Akka Streams - Jacek Kunicki (Lambda Days 2017)](https://www.youtube.com/watch?v=O_2J6dPSHSo)
 * [Implementing the Reactive Manifesto with Akka - Adam Warski (Lambda Days 2015)](https://www.youtube.com/watch?v=kFH3_OF9EW8)
 
+### SCALA - BLOGS
+
+* [Alvin Alexander](https://alvinalexander.com/scala)
+
 ### SCALA - BOOKS
 
 * [Scala By Example - Martin Odersky (free PDF)](http://www.scala-lang.org/docu/files/ScalaByExample.pdf)
@@ -5815,6 +5840,9 @@ Peter R. Egli:
 * [Scala for the Impatient (free PDF; requires registration)](http://typesafe.com/resources/book/scala-for-the-impatient)
 * [Scala in Depth (free PDF; requires registration)](http://typesafe.com/resources/book/scala-in-depth)
 * [Scala Tutorial (PDF) - TutorialsPoint.com](http://tutorialspoint.com/scala/scala_tutorial.pdf)
+* [Scala Cookbook](http://scalacookbook.com/)
+* [Hello, Scala](http://hello-scala.com/)
+* Functional Programming, Simplified - Alvin Alexander: [400-page preview PDF](https://alvinalexander.com/downloads/fpsimplified-free-preview.pdf) | [Book](https://alvinalexander.com/scala/functional-programming-simplified-book)
 
 ### SCALA - COURSES
 
