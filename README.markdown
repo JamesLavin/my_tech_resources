@@ -31,6 +31,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ARTIFICIAL INTELLIGENCE (AI)
 
+* [Fast.ai](http://www.fast.ai/)
 * [Software 2.0 - Andrej Karpathy](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 * Deep Learning - Ian Goodfellow, Yoshua Bengio, and Aaron Courville (MIT Press): [Chapters](http://www.deeplearningbook.org/) | [Lectures](http://www.deeplearningbook.org/lecture_slides.html) | [Videos - Part 1](https://www.youtube.com/playlist?list=PLsXu9MHQGs8cshZb3YUdtBhcu3LQp0Ax9) | [Videos - Part 2](https://www.youtube.com/playlist?list=PLsXu9MHQGs8fY0IMmV5OAGTdNP4EGwpj1) | [Companion Videos](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
 * [Siraj Raval's "Artificial Intelligence Education" videos](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)
@@ -186,6 +187,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Papers With Code - Hottest AI/ML papers with associated code](https://paperswithcode.com/)
 * [arXiv.org machine learning articles](https://arxiv.org/list/stat.ML/recent)
 * [Rules of Machine Learning: Best Practices for ML Engineering - Martin Zinkevich](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+* [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 * [Jupyter notebooks for the book "Hands-on Machine Learning with Scikit-Learn and TensorFlow" - Aurélien Geron](https://github.com/ageron/handson-ml)
 * [Jupyter notebooks for the book "Deep Learning With Python Notebooks" - François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
 * [This Week in Machine Learning](https://medium.com/@david.joyner)
@@ -417,6 +419,23 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Ten years in, nobody has come up with a use for blockchain - Kai Stinchcombe](https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100)
 * [Bitcoin -- distributing power & trust - Eric Spano (TEDxConcordia)](https://www.youtube.com/watch?v=WI1pbHi1fww)
+
+## BODY & MIND
+
+* [How to Stay Healthy as a Programmer - Florian](https://codinginflow.com/healthy-programmer)
+* [Possibly The Best Way To Be A Great Programmer: Be Brain-Healthy!! - Jon Davis](https://dzone.com/articles/possibly-the-best-way-to-be-a-)
+* [Seven Tips for the Healthy Programmer - Bart Jacobs](https://code.tutsplus.com/articles/seven-tips-for-the-healthy-programmer--cms-25043)
+* [Tips on Staying Fit for Software Developers - Asahi Technologies](https://www.asahitechnologies.com/blog/tips-on-staying-fit-for-software-developers/)
+* [5 Hacks to Effortlessly Build Healthy Habits in 2018 - Steve](https://www.nerdfitness.com/blog/how-to-build-healthy-habits-that-stick/)
+
+### EXERCISE
+
+* [The 25 Most Significant Health Benefits of Physical Activity and Exercise - Len Kravitz](http://www.unm.edu/~lkravitz/Article%20folder/healthbenefitsaa.html)
+
+### SLEEP
+
+* [Programmers and sleep - David Zych](https://davidzych.com/programmers-and-sleep/)
+* [You Need More Than 6 Hours of Sleep - Gret Yeutter](https://hackernoon.com/you-need-more-than-6-hours-of-sleep-5186cfcf1dd5)
 
 ## BOOKS
 
@@ -811,6 +830,18 @@ Links to resources I have found useful or think might be helpful to future me or
   * [Modifiers](https://bulma.io/documentation/modifiers/)
   * [Layout](https://bulma.io/documentation/layout/)
   * [Elements](https://bulma.io/documentation/elements/)
+    * [Box](https://bulma.io/documentation/elements/box)
+    * [Button](https://bulma.io/documentation/elements/button/)
+    * [Content](https://bulma.io/documentation/elements/content/)
+    * [Delete](https://bulma.io/documentation/elements/delete/)
+    * [Icons](https://bulma.io/documentation/elements/icon/)
+    * [Image](https://bulma.io/documentation/elements/image/)
+    * [Notification](https://bulma.io/documentation/elements/notification/)
+    * [Progress Bar](https://bulma.io/documentation/elements/progress/)
+    * [Table](https://bulma.io/documentation/elements/table/)
+    * [Tag](https://bulma.io/documentation/elements/tag/)
+    * [Title](https://bulma.io/documentation/elements/title/)
+  * [Extensions](https://wikiki.github.io)
 * [Bulma CSS Framework Crash Course - Traversy Media](https://www.youtube.com/watch?v=IiPQYQT2-wg)
 * [Bulmaswatch: Free themes for Bulma](https://jenil.github.io/bulmaswatch/)
 * [Learn Bulma in 5 Minutes - Per Harald Borgen](https://medium.freecodecamp.org/learn-bulma-in-5-minutes-ec5188c53e83)
@@ -874,6 +905,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Spark Docs](https://spark.apache.org/docs/latest/) | [Quick start](https://spark.apache.org/docs/latest/quick-start.html) | [RDD Programming Guide](https://spark.apache.org/docs/latest/rdd-programming-guide.html) | [Spark SQL, Datasets, and DataFrames](https://spark.apache.org/docs/latest/sql-programming-guide.html) | [Structured Streaming](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html) | [Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html) | [MLlib](https://spark.apache.org/docs/latest/ml-guide.html) | [GraphX](https://spark.apache.org/docs/latest/graphx-programming-guide.html) | [Scala API](https://spark.apache.org/docs/latest/api/scala/index.html#org.apache.spark.package) | [Java API](https://spark.apache.org/docs/latest/api/java/index.html) | [Python API](https://spark.apache.org/docs/latest/api/python/index.html) | [R API](https://spark.apache.org/docs/latest/api/R/index.html) | [Spark SQL, Built-in Functions](https://spark.apache.org/docs/latest/api/sql/index.html)
 * [Spark - TutorialsPoint.com](https://www.tutorialspoint.com/apache_spark/apache_spark_tutorial.pdf)
+* [Scala Machine Learning Projects: Recommendation Systems - Navdeep Singh](https://medium.com/@navdeepsingh_2336/scala-machine-learning-projects-recommendation-systems-d41d9eebbb06)
+* [ApacheSpark as a gateway drug to FP: Concepts taught & broken - Holden Karau (Curry On! Amsterdam)](https://www.youtube.com/watch?v=EDJfpkDpoE4)
+* [Holden Karau Spark videos](https://www.youtube.com/playlist?list=PLRLebp9QyZtaoIpE2iaF3Q8itJOcdgYoX)
 * [Running on Kubernetes](https://spark.apache.org/docs/latest/running-on-kubernetes.html)
 * [Spark Summit 2017 - Machine Learning](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWT8jkKT4gbsHopPKG8Dy16)
 * [Spark Summit 2017 - Data Science](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWoFiTf-SwxvmVySIeXGPoA)
@@ -2187,6 +2221,17 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Writing and Publishing an Elixir Library - Nithin Bekal](http://nithinbekal.com/posts/elixir-publish-package/)
 * [Publishing a package - Hex.pm](https://hex.pm/docs/publish)
 
+### ELIXIR - HTTP CLIENTS
+
+* httpoison: [Github](https://github.com/edgurgel/httpoison)
+* Tesla: [Github](https://github.com/teamon/tesla)
+* [Tesla: flexible HTTP client library for Elixir, with support for middleware and multiple adapters](https://github.com/teamon/tesla)
+* [Working with HTTP/2 in Elixir - Peter Saxton (Elixir.LDN 2017)](https://www.youtube.com/watch?v=zqzkrUVfv-k)
+
+### ELIXIR - JOBS
+
+* [Elixir-Companies](https://elixir-companies.com/hiring)
+
 ### ELIXIR - KAFKA
 
 * [KafkaEx](https://github.com/kafkaex/kafka_ex)
@@ -2248,7 +2293,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Hex.pm (Erlang & Elixir package manager)](https://hex.pm/)
 * [Rihanna: Fast, reliable, easy-to-use Postgres-backed distributed job queue - Sam Davies](https://github.com/samphilipd/rihanna) | [Rihanna UI](https://github.com/samphilipd/rihanna_ui)
 * [ExActor: Simplifies implementation of GenServer-based processes - Saša Jurić](https://github.com/sasa1977/exactor)
-* [Tesla: flexible HTTP client library for Elixir, with support for middleware and multiple adapters](https://github.com/teamon/tesla)
 * [con_cache: ETS-based key/value cache with row level isolated writes and ttl support - Saša Jurić](https://github.com/sasa1977/con_cache)
 * [Vex: Data Validation for Elixir - CargoSense](https://github.com/CargoSense/vex)
 * [Elixir Package Building & Publishing - Step by Step Guide From Scratch - Blackode](https://www.youtube.com/watch?v=Fh1fKF2tHk0)
@@ -2357,6 +2401,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - PHOENIX PRESENCE
 
+* [Real-time dashboards powered by Elixir - Jacqueline Manzi](https://mux.com/blog/real-time-dashboards-powered-by-elixir/)
 * [Elm Phoenix.Presence Demo - Josh Adams](https://www.dailydrip.com/blog/elm-phoenix-presence-demo)
 * [Building a Chat App with Elixir and Phoenix Presence - Steve Grossi](http://work.stevegrossi.com/2016/07/11/building-a-chat-app-with-elixir-and-phoenix-presence/)
 * [Ecto 2 and Phoenix Presence with José Valim and Chris McCord (Changelog)](https://changelog.com/podcast/208)
@@ -2385,7 +2430,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Exploring Elixir (Youtube screencasts) - Aaron Seigo](https://www.youtube.com/channel/UCFKQ85T69sYhifDHF7dnPgw)
 * [Phoenix 1.2 and Beyond - Chris McCord (ElixirConfEU 2016)](https://www.youtube.com/watch?v=n338leKvqnA)
 * [Arisen from the Ashes: Phoenix.js and Websockets - Max Beizer](https://www.youtube.com/watch?v=AvKnYO7yo_g)
-* [Working with HTTP/2 in Elixir - Peter Saxton (Elixir.LDN 2017)](https://www.youtube.com/watch?v=zqzkrUVfv-k)
 * [Phoenix Takes Flight - Chris McCord (ElixirConf EU 2015)](https://www.youtube.com/watch?v=fLlItGWiVFc)
 * [What's Next for Phoenix - Chris McCord (ElixirConf 2015)](http://confreaks.tv/videos/elixirconf2015-what-s-next-for-phoenix)
 * [Phoenix: Productive. Reliable. Fast. - Chris McCord (LoneStarRuby 2015)](https://www.youtube.com/watch?v=STO-uN0xHDQ)
@@ -2755,10 +2799,17 @@ Links to resources I have found useful or think might be helpful to future me or
 * Bill Peregoy: [Test-Driving the Elm Style Elements Library](https://becoming-functional.com/test-driving-the-elm-style-elements-library-7e7771c4159a) & [Responsive Design with Elm Style Elements](https://becoming-functional.com/responsive-design-with-elm-style-elements-9d0eca8eb9ed)
 * [The Design Evolution of elm-css and elm-test - Richard Feldman (Oslo Elm Day 2017)](ihttps://www.youtube.com/watch?v=n5faeSW71ko)
 * [elm-css: Define CSS in Elm](http://package.elm-lang.org/packages/rtfeldman/elm-css/latest/)
+
+#### ELM - CSS & UI - ELM-UI
+
+* Elm-UI: [Docs](https://elm-ui.netlify.com/documentation/getting-started/setup) | [Reference](https://elm-ui.netlify.com/reference) | [Github](https://github.com/gdotdesign/elm-ui)
+* [elm-ui - rock paper scissors (Dave Alger - lizard spock)](https://www.youtube.com/watch?v=fhMLEOr8C4U)
 * [Elm UI - opinionated UI library and application framework for the web in Elm, following the Elm Architecture](https://github.com/gdotdesign/elm-ui)
 
 ### ELM - DATA STRUCTURES
 
+* [Immutable Relational Data - Richard Feldman (Elm-Conf 2018)](https://www.youtube.com/watch?v=28OdemxhfbU)
+* Advanced Types in Elm - Charlie Koster: [Part 1 - Opaque Types](https://medium.com/@ckoster22/advanced-types-in-elm-opaque-types-ec5ec3b84ed2) | [Part 2 - Extensible Records](https://medium.com/@ckoster22/advanced-types-in-elm-extensible-records-67e9d804030d)
 * [Type Bombs in Elm - Kris Jenkins](http://blog.jenkster.com/2016/11/type-bombs-in-elm.html)
 * [HTML-to-Elm: Interactively generates Elm code from your HTML](https://mbylstra.github.io/html-to-elm/)
 * [Data Structures in Elm - NoRedInk.com](http://tech.noredink.com/post/140646140878/data-structures-in-elm)
@@ -2811,6 +2862,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm Native UI: Writing a React Native app in Elm - Ossi Hanhinen](http://ohanhi.github.io/elm-native-ui.html)
 * [elm-native-ui: Building mobile apps with Elm powered by React Native](https://github.com/ohanhi/elm-native-ui)
 
+### ELM - GRAPHQL
+
+* [Types Without Borders - Dillon Kearns (Elm-conf 2018](https://www.youtube.com/watch?v=memIRXFSNkU)
+* [elm-graphql - Dillon Kearns](https://github.com/dillonkearns/elm-graphql)
+
 ### ELM - HELP
 
 * [elm-discuss Google group](https://groups.google.com/forum/#!forum/elm-discuss)
@@ -2821,6 +2877,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - INTERACTING WITH JAVASCRIPT, JSON & HTML
 
+* [elm-typescript-interop - Dillon Kearns](https://github.com/dillonkearns/elm-typescript-interop)
 * [elm-decode-pipeline](https://github.com/NoRedInk/elm-decode-pipeline)
 * [Example of how to integrate Elm with HTML and JS - Evan Czaplicki](https://github.com/evancz/elm-html-and-js)
 * [Interop(erability)](http://elm-lang.org/guide/interop) & [code example](https://gist.github.com/evancz/8521339)
@@ -2866,6 +2923,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [react-elm-components: Write React components in Elm - Evan Czaplicki](https://github.com/evancz/react-elm-components)
 * [tasksched - An opinionated Taskwarrior web UI. Great for scheduling when to do your tasks - Kamila Součková](https://github.com/AnotherKamila/tasksched)
 * [WebGL](http://package.elm-lang.org/packages/elm-community/webgl/2.0.0/WebGL)
+
+### ELM - PARSERS
+
+* [Demystifying Parsers - Tereza Sokol (ElmConf 2018)](https://www.youtube.com/watch?v=M9ulswr1z0E)
 
 ### ELM - PHOENIX & ELM
 
@@ -2928,7 +2989,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - VIDEOS
 
 * Elm Europe: [2018](https://www.youtube.com/playlist?list=PL-cYi7I913S-VgTSUKWhrUkReM_vMNQxG) | [2017](https://www.youtube.com/playlist?list=PL-cYi7I913S8cGyZWdN6YVZ028iS9BfpM)
-* ElmConf: [2017](https://www.youtube.com/playlist?list=PLglJM3BYAMPFTT61A0Axo_8n0s9n9CixA) | [2016](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
+* ElmConf: [2018](https://www.youtube.com/playlist?list=PLglJM3BYAMPHuB7zrYkH2Kin2vQOkr2xW) | [2017](https://www.youtube.com/playlist?list=PLglJM3BYAMPFTT61A0Axo_8n0s9n9CixA) | [2016](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
 * [fncasts: streaming series building apps using Elm and Elixir. The first app is a chess game](https://www.youtube.com/channel/UCEVIBi0jFVXrCvd7CdVYxvw)
 * [Oslo Elm Day 2017](https://www.youtube.com/playlist?list=PLcAzxXzXQlPZsNcYycHittqeF3UG4dGli)
 * [Elm and React in production - Richard Feldman (ReactiveConf 2016)](https://www.youtube.com/watch?v=3FNKaGm3gk0)
@@ -2942,6 +3003,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [The Clockwork Gardener: Growing an Elm App With Templates - Jessica Kerr](https://www.youtube.com/watch?v=jJ4e6cIBgYM)
     * [0-60 in 15 Minutes: Building a Real-time App with Elm and Horizon - Abadi Kurniawaan](https://www.youtube.com/watch?v=fTHHn7NhU3w)
     * [Q&A Panel](https://www.youtube.com/watch?v=LCNs92YQjhw)
+* [I used Elm in production and it cost me my job – Annaia Berry (ClojuTRE 2018)](https://www.youtube.com/watch?v=RFrKffrKCeU)
 * [Elm Meetup Videos (recorded/hosted by Josh Adams' DailyDrip.com)](https://www.dailydrip.com/topics/elm-remote-meetup)
 * [Exploring Elm Lang - Jack Franklin (JSCamp Romania 2016)](https://www.youtube.com/watch?v=0LTjVSXvKX4)
 * [Building a Graphical IDE in Elm - Claudia Doppioslash](https://www.youtube.com/watch?v=Cfeneg48POY) & [ElixirConf.EU 2017](https://www.youtube.com/watch?v=ngWo5e-294o)
@@ -3325,6 +3387,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Papers & Presentations](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations)
     * [Wiki](https://cwiki.apache.org/confluence/display/KAFKA/Index)
     * [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
+* [Examples - Confluent](https://github.com/confluentinc/examples)
 * [Event-Driven Architectures - Jay Kreps](https://www.youtube.com/watch?v=Y0Bry5PyrrU)
 * [Commit Logs in an Age of Microservices by Tim Berglund (#MeetTheExperts)](https://www.youtube.com/watch?v=bbotWkCLuF0)
 * [Kafka: The Definitive Guide - Neha Narkhede, Gwen Shapira & Todd Palino (Confluent)](https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf)
@@ -3333,6 +3396,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Log: What every software engineer should know about real-time data's unifying abstraction - Jay Kreps](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [Thorough Introduction to Apache Kafka™ - Stanislav Kozlovski](https://medium.com/@stanislavkozlovski/thorough-introduction-to-apache-kafka-6fbf2989bbc1)
 * [Toward a Functional Programming Analogy for Microservices - Bobby Calderwood](https://www.confluent.io/blog/toward-functional-programming-analogy-microservices/)
+* [Is Kafka a Database? - Martin Kleppmann (Kafka Summit SF 2018)](https://www.youtube.com/watch?v=v2RJQELoM6Y)
 * Amy Boyle (NewRelic): [Using Apache Kafka for Real-Time Event Processing at New Relic](https://blog.newrelic.com/2018/03/12/apache-kafka-event-processing/) | [Effective Strategies for Kafka Topic Partitioning](https://blog.newrelic.com/2018/03/13/effective-strategies-kafka-topic-partitioning/)
 * [Kafkapocalypse: Monitoring Kafka Without Losing Your Mind - Ben Summer (NewRelic)](https://blog.newrelic.com/2017/12/12/new-relic-kafkapocalypse/)
 * [Publishing with Apache Kafka at The New York Times - Boerge Svingen (Confluent)](https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/)
@@ -3445,6 +3509,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [Kafka in Docker - Spotify](https://github.com/spotify/docker-kafka)
 * [Kafka-docker](https://github.com/wurstmeister/kafka-docker)
 * [Ches/kafka (Docker)](https://hub.docker.com/r/ches/kafka/)
+* [Creating the Adobe Experience Platform Pipeline with Kafka - Jaemi Bremner](https://medium.com/adobetech/creating-the-adobe-experience-platform-pipeline-with-kafka-4f1057a11e://medium.com/adobetech/creating-the-adobe-experience-platform-pipeline-with-kafka-4f1057a11ef)
 * [Kafka in Containers in Docker in Kubernetes in The Cloud - Christopher Vollick, Shopify (Kafka Summit 2018)](https://www.youtube.com/watch?v=hruJAjHAXV8)
 * [Best Practices for Running Kafka on Docker Containers - Nanda Vijaydev](https://www.confluent.io/kafka-summit-sf17/Best-Practices-for-Running-Kafka-on-Docker-Containers)
 * [Disaster Recovery for Multi-Datacenter Apache Kafka Deployments - Yeva Byzek](https://www.confluent.io/blog/disaster-recovery-multi-datacenter-apache-kafka-deployments)
@@ -3605,6 +3670,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 * LambdaDays: [2018](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl)
 * LambdaConf (λC): [2017](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhx5bgmpAgqArzrh0pL-tc3P) | [2017 Winter Retreat](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhy9wMify6MXW6F339W4g4Eo) | [2016](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos) | [2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
+* [Curry On! Amsterdam](https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w)
 * [Scale by the Bay 2017](https://www.youtube.com/playlist?list=PLNESult6cnOkDeaaEhq192kdsbMPc3dIJ)
 * [MoonConf 2016](https://www.youtube.com/playlist?list=PLWYAdh9hA7geMRCgwDomlHAdwlsno32LU&spfreload=10)
 * [All the FP Talks at NDC Oslo 2016](http://theburningmonk.com/2016/06/all-the-fp-talks-at-ndc-oslo-2016/)
@@ -3640,11 +3706,12 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 ### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
 
+* [Monads without talking about Monads - Lucamug](https://medium.com/@l.mugnaini/monads-without-talking-about-monads-in-elm-4b9b6ffd5ad5)
+* Category Theory for Programmers - Bartosz Milewski: [PDF (free... thank you, Bartosz!)](https://github.com/hmemcpy/milewski-ctfp-pdf/releases/download/v1.0.0/category-theory-for-programmers.pdf) | [Online](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) | [Physical book](http://www.blurb.com/b/9008339-category-theory-for-programmers) | [Youtube lectures](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 * [Categories for the Working Hacker - Philip Wadler (Lambda Days 2018)](https://www.youtube.com/watch?v=jm_TObUiTHM)
 * [Category Theory Overview - Bartosz Milewski (ACM UPM)](https://www.youtube.com/watch?v=lJFUdWi3mDs)
 * [Functors and Natural Transformations - Bartosz Milewski (ACM UPM)](https://www.youtube.com/watch?v=_ZRRtbT1ghk)
 * [Crash Course in Category Theory - Bartosz Milewski (ScalaIO France 2017)](https://www.youtube.com/watch?v=JH_Ou17_zyU)
-* Category Theory for Programmers - Bartosz Milewski: [Book PDF](https://github.com/hmemcpy/milewski-ctfp-pdf) & [Youtube lectures](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 * [A Pragmatic Introduction to Category Theory - Daniela Sfregola (Lambda.World 2017)](https://www.youtube.com/watch?v=MvQxNm5gn8g)
 * [Category Theory in Life - Eugenia Cheng (Lambda.World 2017](https://www.youtube.com/watch?v=ho7oagHeqNc)
 * [Practical Lambda Calculus - Jonas Winje, Einar Høst (Lambda Days 2017)](https://www.youtube.com/watch?v=G__eoJZB-zk)
@@ -4034,6 +4101,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [Javascript Basics](http://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.html)
 * [Eloquent Javascript](http://eloquentjavascript.net/) & [3rd edition](https://eloquentjavascript.net/3rd_edition/)
 * [Javascript.com](https://www.javascript.com/resources)
+* [33 Concepts Every JavaScript Developer Should Know - Leonardo Maldonado](https://github.com/leonardomso/33-js-concepts)
 * [Learning JavaScript Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Learn JavaScript - Codecademy](https://www.codecademy.com/learn/javascript)
 * [23 Free JavaScript Books - HackerLists.com](https://hackerlists.com/free-javascript-books/)
@@ -4368,6 +4436,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 * [Functional Programming Basics in ES6 (JavaScript) - Jeremy Fairbank (Scenic City Summit 2016)](https://www.youtube.com/watch?v=HvMemAgOw6I)
 * [A Skeptic's Guide To Functional STYLE JavaScript - Jonathan Mills (NEJS Conf 2017)](https://www.youtube.com/watch?v=oF9XTJoScOE)
+* [A Gentle Introduction to Functional JavaScript - Pratik Patel](https://www.youtube.com/watch?v=PyKZMY-_TI8)
 * [Full Stack Functional JavaScript - Tom Wilson (Syntax Conference 2017)](https://www.youtube.com/watch?v=nLzuj66rITk)
 * [Functional-Light JavaScript - Kyle Simpson](https://github.com/getify/Functional-Light-JS)
 * [Gentle Intro to Functional Javascript - James Sinclair](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style/)
@@ -4623,6 +4692,10 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [Getting Started With Jekyll, The Static Site Generator - phpacademy](https://www.youtube.com/watch?v=iWowJBRMtpc)
 * [JekyllConf](https://www.youtube.com/results?search_query=jekyllconf)
 
+## JOBS
+
+* [Angel.co](https://angel.co)
+
 ## JRUBY
 
 * [Headius (Charles Nutter)'s blog](http://blog.headius.com/)
@@ -4760,6 +4833,10 @@ Peter R. Egli:
 * [Hands-on learning about network protocols using socat - Volker Schatz](http://www.volkerschatz.com/net/socatproc.html)
 * [Securing Traffic Between two Socat Instances Using SSL - Gerhard Rieger](http://www.dest-unreach.org/socat/doc/socat-openssltunnel.html)
 
+#### LINUX - NETWORKING - TLS
+
+* [Every byte of a TLS connection explained - Michael Driscoll](https://tls.ulfheim.net/)
+
 ### LINUX - SHELL SCRIPTING (BASH)
 
 * [Shell Scripts Matter - Thibaut Rousseau](https://dev.to/thiht/shell-scripts-matter)
@@ -4835,6 +4912,10 @@ Peter R. Egli:
 ### LISP - EMACS LISP
 
 [See EMACS - EMACS LISP](#emacs---emacs-lisp)
+
+## LUNA
+
+* [Where visual meets textual. Luna - overview - Sylwia Brodacka (Curry On Amsterdam 2018)](https://www.youtube.com/watch?v=5JKkXWxLY5Y)
 
 ## MAIL SERVER
 
@@ -5223,6 +5304,7 @@ Peter R. Egli:
 
 ## PRIVACY
 
+* [Privacy-friendly alternatives to Google that don't track you](https://nomoregoogle.com/)
 * [How To Protect Your Users With The Privacy By Design Framework - Heather Burns](https://www.smashingmagazine.com/2017/07/privacy-by-design-framework/)
 
 ### PRIVACY - GDPR
@@ -5415,6 +5497,7 @@ Peter R. Egli:
 * [CS50: Intro to Computer Science - David J. Malan (Harvard)](http://cs50.tv/)
 * [Fun Fun Function - Mattias Petter Johansson, a.k.a. "mpj"](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 * [I Love Coding](https://ilovecoding.org/) (Registration required)
+* [Upcase - Thoughtbot](https://thoughtbot.com/upcase)
 * [WatchMeCode.net](https://sub.watchmecode.net/) (Registration required)
 
 ### PROGRAMMING - LEARNING (PAID)
@@ -5798,6 +5881,7 @@ Peter R. Egli:
 
 ## SCALA
 
+* [Standard Library API](https://www.scala-lang.org/api/current/) | [Core Scala API](https://www.scala-lang.org/api/current/scala/index.html)
 * [Tour of Scala - scala-lang.org](https://docs.scala-lang.org/tour/tour-of-scala.html)
 * [Awesome Scala (curated Scala resources) - Lauris Dzilums](https://github.com/lauris/awesome-scala)
 * [Scala School - Twitter](https://twitter.github.io/scala_school/)
@@ -5815,12 +5899,12 @@ Peter R. Egli:
     * [Intro to Finagle](http://twitter.github.io/scala_school/finagle.html)
     * [Searchbird](http://twitter.github.io/scala_school/searchbird.html)
 * [Official documentation](http://docs.scala-lang.org/) | [Cheatsheet](http://docs.scala-lang.org/cheatsheets/index.html)
-* [Scala School - Twitter](http://twitter.github.io/scala_school/)
 * [All About Scala](http://allaboutscala.com/)
 * [21 Steps to Get Started with Apache Spark using Scala - Ankit Gupta](https://www.analyticsvidhya.com/blog/2017/01/scala/)
 * [Effective Scala - Marius Eriksen](http://twitter.github.io/effectivescala/)
 * [Tim Cowlishaw - From Ruby to Scala and back again: Better living through type-checking - Tim Colishaw (Ruby Manor 4.0)](http://vimeo.com/79180652)
 * [Scala: The Simple Parts - Martin Odersky (GOTO Conf 2014)](https://www.youtube.com/watch?v=P8jrvyxHodU)
+* [Scala Exercises](https://www.scala-exercises.org/)
 * [Typeclasses in Scala - Dan Rosen](https://www.youtube.com/watch?v=sVMES4RZF-8)
 
 ### SCALA - AKKA
@@ -5843,6 +5927,7 @@ Peter R. Egli:
 * [Scala Cookbook](http://scalacookbook.com/)
 * [Hello, Scala](http://hello-scala.com/)
 * Functional Programming, Simplified - Alvin Alexander: [400-page preview PDF](https://alvinalexander.com/downloads/fpsimplified-free-preview.pdf) | [Book](https://alvinalexander.com/scala/functional-programming-simplified-book)
+* [Underscore Books](https://underscore.io/books/), including [Essential Scala](https://books.underscore.io/essential-scala/essential-scala.pdf)
 
 ### SCALA - COURSES
 
@@ -5884,6 +5969,7 @@ Peter R. Egli:
 
 * [SF Scala](https://www.youtube.com/playlist?list=PLNESult6cnOnmztz0DKuS3n5tKBoRz2yP)
 * Scala Days: [2017](https://www.youtube.com/playlist?list=PLLMLOC3WM2r5Ei2mnSHCD-ZD04AXovttL) | [2016](https://www.youtube.com/playlist?list=PLLMLOC3WM2r4aQCKJxxPlrEhJ8tdGWjXj)
+* [Scala: Beyond the Basics - Christopher Batey](https://www.youtube.com/watch?v=4QIgEMvUfIE)
 * [Scalawags](https://www.youtube.com/channel/UCHxNwi3l5CGZo1kG47k7i2Q)
 * [Learn Scala in One Video - Derek Banas](https://www.youtube.com/watch?v=DzFt0YkZo8M)
 * [Scala for the Intrigued - Dr. Venkat Subramaniam](https://www.youtube.com/watch?v=grvvKURwGNg)

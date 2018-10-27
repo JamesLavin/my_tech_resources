@@ -45,6 +45,7 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
     * [Rack on Rails](http://guides.rubyonrails.org/rails_on_rack.html)
     * [Creating/Customizing Rails Generators & Templates](http://guides.rubyonrails.org/generators.html)
     * [Upgrading](http://guides.rubyonrails.org/upgrading_ruby_on_rails.html)
+* [Upcase - Thoughtbot](https://thoughtbot.com/upcase)
 * [RailsCamp](http://rails.devcamp.com/syllabus)
 * Stefan Wintermeyer: [Ruby on Rails 3.2](http://www.xyzpub.com/en/ruby-on-rails/3.2/index.html) & [Ruby on Rails 4.0](http://www.amazon.com/Ruby-on-Rails-4-0-ebook/dp/B00E25KVLW?tag=xyzpubcom02-20)
 * [Rails posts - Thoughtbot](https://robots.thoughtbot.com/tags/rails) & [Bikeshed.fm](http://bikeshed.fm)
