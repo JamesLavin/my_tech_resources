@@ -33,6 +33,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Fast.ai](http://www.fast.ai/)
 * [Software 2.0 - Andrej Karpathy](https://medium.com/@karpathy/software-2-0-a64152b37c35)
+* [Grokking Deep Learning - Andrew Trask](https://github.com/iamtrask/Grokking-Deep-Learning)
 * Deep Learning - Ian Goodfellow, Yoshua Bengio, and Aaron Courville (MIT Press): [Chapters](http://www.deeplearningbook.org/) | [Lectures](http://www.deeplearningbook.org/lecture_slides.html) | [Videos - Part 1](https://www.youtube.com/playlist?list=PLsXu9MHQGs8cshZb3YUdtBhcu3LQp0Ax9) | [Videos - Part 2](https://www.youtube.com/playlist?list=PLsXu9MHQGs8fY0IMmV5OAGTdNP4EGwpj1) | [Companion Videos](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
 * [Siraj Raval's "Artificial Intelligence Education" videos](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)
 * [AI School (Microsoft)](https://aischool.microsoft.com/learning-paths)
@@ -901,6 +902,26 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Movielens](https://grouplens.org/datasets/movielens/)
 * [O'Reilly Data Newsletter](https://www.oreilly.com/topics/data)
 
+## DATA ANALYSIS - COURSES
+
+* [Coursera Data Science courses](https://www.coursera.org/courses?query=data%20science)
+* [DataCamp](https://www.datacamp.com/community/open-courses)
+* [DataQuest](https://www.dataquest.io/home)
+* [edX Data Science courses](https://www.edx.org/course/subject/data-science)
+* [IBM Data Science Foundations](https://cognitiveclass.ai/learn/data-science/)
+* [KDNuggets Data Mining Course](https://www.kdnuggets.com/data_mining_course/index.html)
+* [Learning From Data (Caltech)](http://work.caltech.edu/telecourse)
+* [Open-Source Data Science Masters](http://datasciencemasters.org/)
+* [Udacity Data Sciencce courses](https://www.udacity.com/school-of-data-science)
+
+### DATA ANALYSIS - FLINK
+
+* [Apache Flink](https://flink.apache.org/)
+
+### DATA ANALYSIS - HERON
+
+* [Apache Heron - Realtime, distributed, fault-tolerant stream processing engine from Twitter](https://apache.github.io/incubator-heron/)
+
 ### DATA ANALYSIS - SPARK
 
 * [Spark Docs](https://spark.apache.org/docs/latest/) | [Quick start](https://spark.apache.org/docs/latest/quick-start.html) | [RDD Programming Guide](https://spark.apache.org/docs/latest/rdd-programming-guide.html) | [Spark SQL, Datasets, and DataFrames](https://spark.apache.org/docs/latest/sql-programming-guide.html) | [Structured Streaming](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html) | [Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html) | [MLlib](https://spark.apache.org/docs/latest/ml-guide.html) | [GraphX](https://spark.apache.org/docs/latest/graphx-programming-guide.html) | [Scala API](https://spark.apache.org/docs/latest/api/scala/index.html#org.apache.spark.package) | [Java API](https://spark.apache.org/docs/latest/api/java/index.html) | [Python API](https://spark.apache.org/docs/latest/api/python/index.html) | [R API](https://spark.apache.org/docs/latest/api/R/index.html) | [Spark SQL, Built-in Functions](https://spark.apache.org/docs/latest/api/sql/index.html)
@@ -1046,10 +1067,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Helm Chart](https://hub.kubeapps.com/charts/stable/cockroachdb)
 * [Data consistency, gorm and CockroachDB - Erik Lupander](http://callistaenterprise.se/blogg/teknik/2018/02/14/go-blog-series-part13/)
 
-### DATABASES - DATOMIC
-
-* [Datomic.com](http://www.datomic.com/)
-
 ### DATABASES - COUCHDB
 
 * Official docs: [PDF](https://media.readthedocs.org/pdf/couchdb/latest/couchdb.pdf) | [Downloads](http://docs.couchdb.org/en/2.1.1/download.html) | [API docs](http://docs.couchdb.org/en/2.1.1/api/index.html) | [Wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Apache+CouchDB+Wiki) | [Blog](https://blog.couchdb.org/) | [Fauxton Visual Guide](http://couchdb.apache.org/fauxton-visual-guide/)
@@ -1068,6 +1085,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Semi-official Apache CouchDB Docker images](https://github.com/apache/couchdb-docker) | [Docker Hub](https://hub.docker.com/r/apache/couchdb/)
 * [couchdb-ssl - Clemens Stolle](https://hub.docker.com/r/klaemo/couchdb-ssl/)
 * [Fast CouchDB setup in AWS - Ten Bitcomb](https://gist.github.com/Ravenstine/fb350f5af391aee641d024a74a087b8e)
+
+### DATABASES - DATOMIC
+
+* [Datomic.com](http://www.datomic.com/)
+
+### DATABASES - FILODB
+
+* FiloDB: Prometheus-compatible distributed time series database [Github](https://github.com/filodb/FiloDB)
+* [FiloDB: Combining Spark Streaming and Fast Ad-Hoc Analytics - Evan Chan](http://velvia.github.io/presentations/2015-filodb-spark-streaming/#/)
 
 ### DATABASES - FOUNDATIONDB
 
@@ -2228,6 +2254,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Tesla: flexible HTTP client library for Elixir, with support for middleware and multiple adapters](https://github.com/teamon/tesla)
 * [Working with HTTP/2 in Elixir - Peter Saxton (Elixir.LDN 2017)](https://www.youtube.com/watch?v=zqzkrUVfv-k)
 
+### ELIXIR - IDES
+
+* [Elixir-ls (VS Code) - Jake Becker](https://github.com/JakeBecker/elixir-ls)
+* [IntelliJ-Elixir - Luke Imhoff](https://github.com/KronicDeth/intellij-elixir)
+
 ### ELIXIR - JOBS
 
 * [Elixir-Companies](https://elixir-companies.com/hiring)
@@ -2530,6 +2561,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - UMBRELLA PROJECTS
 
+* [Using an Elixir Umbrella - Georgina Mcfadyen](https://8thlight.com/blog/georgina-mcfadyen/2017/05/01/elixir-umbrella-projects.html)
+* [Implementing Bounded Contexts in Elixir - Leandro Cesquini Pereira](https://blog.usejournal.com/implementing-bounded-contexts-in-elixir-25bb8a80bbca)
 * [Umbrella Apps-Winter is coming - Luis Ferreira (Functional Conf 2017)](https://www.youtube.com/watch?v=vXTrLYAzOd0)
 * [Building Umbrella Projects - Wojtek Mach (ElixirConf 2016)](https://www.youtube.com/watch?v=6NTmUQClHrU) & [Acme Bank is an example project to explore and experiment with building modular and maintainable Elixir/Phoenix applications](https://github.com/wojtekmach/acme_bank)
 
@@ -2809,7 +2842,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - DATA STRUCTURES
 
 * [Immutable Relational Data - Richard Feldman (Elm-Conf 2018)](https://www.youtube.com/watch?v=28OdemxhfbU)
-* Advanced Types in Elm - Charlie Koster: [Part 1 - Opaque Types](https://medium.com/@ckoster22/advanced-types-in-elm-opaque-types-ec5ec3b84ed2) | [Part 2 - Extensible Records](https://medium.com/@ckoster22/advanced-types-in-elm-extensible-records-67e9d804030d)
+* Advanced Types in Elm - Charlie Koster: [Part 1 - Opaque Types](https://medium.com/@ckoster22/advanced-types-in-elm-opaque-types-ec5ec3b84ed2) | [Part 2 - Extensible Records](https://medium.com/@ckoster22/advanced-types-in-elm-extensible-records-67e9d804030d) | [Part 3 - The Never Type](https://medium.com/@ckoster22/advanced-types-in-elm-the-never-type-ca9b3297bbd4) | [Part 4 - Phantom Types](https://medium.com/@ckoster22/advanced-types-in-elm-phantom-types-808044c5946d)
 * [Type Bombs in Elm - Kris Jenkins](http://blog.jenkster.com/2016/11/type-bombs-in-elm.html)
 * [HTML-to-Elm: Interactively generates Elm code from your HTML](https://mbylstra.github.io/html-to-elm/)
 * [Data Structures in Elm - NoRedInk.com](http://tech.noredink.com/post/140646140878/data-structures-in-elm)
@@ -2898,6 +2931,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [elm-vega: Elm-Vega/Lite integration for functional declarative visualization](https://github.com/gicentre/elm-vega) & [vega-lite](https://vega.github.io/vega-lite/) & [Vega](https://vega.github.io/)
 * [graphqelm](https://github.com/dillonkearns/graphqelm)
 * [Kanelm - Kanban board](https://github.com/huytd/kanelm)
+* [elm-json-tree-view - Microsoft](https://github.com/Microsoft/elm-json-tree-view)
 * [elm-verify-examples (doctests)](https://github.com/stoeffel/elm-verify-examples)
 * [Elmalytics: view the Elm package and project ecosystem at a high level](http://elmalytics.xyz/)
 * [Trending packages on Github](https://github.com/trending/elm?since=daily)
@@ -3553,6 +3587,10 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 * [Eventuate.io](http://eventuate.io/) \ [Github](https://github.com/eventuate-local/eventuate-local)
 * [GetEventStore.com](https://geteventstore.com/)
+
+### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - PULSAR
+
+* [Apache Pulsar - Distributed pub-sub messaging system](http://pulsar.apache.org/)
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - SCHEMAS
 
@@ -5176,6 +5214,11 @@ Peter R. Egli:
 * [KnitrBoostrap](https://github.com/jimhester/knitrBootstrap)
 * [Blog With KnitR and Jekyll](http://jfisher-usgs.github.io/r/2012/07/03/knitr-jekyll/)
 
+### R - NEURON (VS CODE PLUGIN)
+
+* [Data Science in Visual Studio Code using Neuron, a new VS Code extension - Lorenzo Silvestri](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/10/29/data-science-in-visual-studio-code-using-neuron-a-new-vs-code-extension/)
+* [Neuron demos](https://github.com/lorenzo2897/vscode-ipe/blob/master/test/demo.py)
+
 ### R - PERFORMANCE
 
 * [R: The Good Parts](http://hackerretreat.com/r-good-parts/)
@@ -5319,6 +5362,7 @@ Peter R. Egli:
 * [Effective Scala - Marius Eriksen](http://twitter.github.io/effectivescala/)
 * [Tim Cowlishaw - From Ruby to Scala and back again: Better living through type-checking - Tim Colishaw (Ruby Manor 4.0)](http://vimeo.com/79180652)
 * [Scala: The Simple Parts - Martin Odersky (GOTO Conf 2014)](https://www.youtube.com/watch?v=P8jrvyxHodU)
+* [Scala Best Practices I Wish Someone'd Told Me About - Nicolas Rinaudo](https://nrinaudo.github.io/talk-scala-best-practices/#1)
 * [Scala Exercises](https://www.scala-exercises.org/)
 * [Typeclasses in Scala - Dan Rosen](https://www.youtube.com/watch?v=sVMES4RZF-8)
 
@@ -5327,6 +5371,7 @@ Peter R. Egli:
 * [Akka.io](http://akka.io/)
 * [A Practical Introduction to Akka Streams - Jacek Kunicki (Lambda Days 2017)](https://www.youtube.com/watch?v=O_2J6dPSHSo)
 * [Implementing the Reactive Manifesto with Akka - Adam Warski (Lambda Days 2015)](https://www.youtube.com/watch?v=kFH3_OF9EW8)
+* [High Performance Actors - Kiki Carter](https://www.infoq.com/presentations/akka-jctools)
 
 ### SCALA - BLOGS
 
@@ -5346,12 +5391,22 @@ Peter R. Egli:
 
 ### SCALA - COURSES
 
-* [Scala Courses - Coursera](https://www.coursera.org/specializations/scala) & [Functional Programming Principles in Scala - Martin Odersky](https://www.coursera.org/learn/progfun1)
+* [AllAboutScala.com](http://allaboutscala.com/)
+* Coursera: [All Scala courses](https://www.coursera.org/courses?query=scala) | [Functional Programming Principles in Scala - Martin Odersky](https://www.coursera.org/learn/progfun1) | [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data) | [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2) | [Functional Programming in Scala Capstone](https://www.coursera.org/learn/scala-capstone) | [Specialization: Functional Programming in Scala](https://www.coursera.org/specializations/scala)
 * [Fundamentals of Scalable Data Science - Romeo Kienzler](https://www.coursera.org/learn/ds)
+* [Lightbend Reactive Architecture](https://www.lightbend.com/learn/lightbend-reactive-architecture):
+  * [Intro to Reactive Principles](https://cognitiveclass.ai/courses/reactive-architecture-introduction/)
+  * [Domain-Driven Design](https://cognitiveclass.ai/courses/reactive-architecture-ddd/)
+  * [Reactive Microservices](https://cognitiveclass.ai/courses/reactive-architecture-microservices/)
+  * [Building Scalable Systems](https://cognitiveclass.ai/courses/reactive-architecture-building-scalable-systems/)
+  * Distributed Messaging Patterns (not yet posted)
+  * CQRS & Event Sourcing (not yet posted)
 
 ### SCALA - EVENT SOURCING/CQRS
 
+* [Designing Events-First Microservices - Jonas Bonér (Qcon New York 2018)](https://www.youtube.com/watch?v=1hwuWmMNT4c)
 * [Event Sourcing and CQRS - Lutz Huehnken (Scala Days 2017)](https://www.youtube.com/watch?v=Z6_Nd7lu2PI)
+* [The Promise of Event Driven Programming with Fast Data - Duncan DeVore (ScalaDays Berlin 2018)](https://www.youtube.com/watch?v=q_tyCiK1gds)
 
 ### SCALA - FUNCTIONAL PROGRAMMING
 
@@ -5371,19 +5426,45 @@ Peter R. Egli:
 * [Programs as Values: Pure Composable Database Access in Scala - Rob Norris](https://www.youtube.com/watch?v=XHiTK4UOIf0)
 * [Online material for the Introduction to Functional Game Programming with Scala workshop - John De Goes](https://github.com/jdegoes/lambdaconf-2014-introgame)
 
+### SCALA - INTELLIJ
+
+* [IntelliJ Tutorial](https://www.coursera.org/learn/progfun1/supplement/VuJFf/intellij-idea-tutorial)
+
 ### SCALA - LAGOM
 
 * [Lagom: open source framework for reactive microservice systems in Java or Scala, built on Akka and Play](https://www.lagomframework.com/) | [Github](https://github.com/lagom/lagom) | [Docs](https://www.lagomframework.com/documentation/) | [Getting Started](https://www.lightbend.com/lagom-framework) | [StackOverflow](https://stackoverflow.com/questions/tagged/lagom) | [Blog](https://www.lagomframework.com/blog/)
 
+### SCALA - SBT
+
+* [Getting Started](https://www.scala-sbt.org/0.13/docs/Getting-Started.html) | [SBT: The Missing Tutorial - Shekhar Gulati](https://github.com/shekhargulati/52-technologies-in-2016/blob/master/02-sbt/README.md)
+
+### SCALA - SCALA.JS
+
+* [Scala.js](https://www.scala-js.org/) | [Docs](https://www.scala-js.org/doc/) | [Tutorials](https://www.scala-js.org/tutorial/) | [Libraries](https://www.scala-js.org/libraries/)
+
+### SCALA - SCALA NATIVE
+
+* [Scala-Native.org](http://www.scala-native.org/) | [Github](https://github.com/scala-native/scala-native)
 
 ### SCALA - SCALAZ
 
 * [The Design of the Scalaz 8 Effect System - John A. De Goes (scale.bythebay.io)](https://www.youtube.com/watch?v=wi_vLNULh9Y)
 
+### SCALA - STTP
+
+* [sttp: the Scala HTTP client that you always wanted! - Adam Warski (ScalaDays New York 2018](https://www.youtube.com/watch?v=psilxDphK9Q)
+
+### SCALA - TESTING
+
+#### SCALA - TESTING - SCALATEST
+
+* [Website](http://www.scalatest.org/) | [Quick Start](http://www.scalatest.org/quick_start) | [User Guide](http://www.scalatest.org/user_guide) | [At a Glance](http://www.scalatest.org/at_a_glance/FlatSpec) | [ScalaDoc](http://www.scalatest.org/scaladoc) | [Install](http://www.scalatest.org/install)
+
 ### SCALA - VIDEOS
 
 * [SF Scala](https://www.youtube.com/playlist?list=PLNESult6cnOnmztz0DKuS3n5tKBoRz2yP)
-* Scala Days: [2017](https://www.youtube.com/playlist?list=PLLMLOC3WM2r5Ei2mnSHCD-ZD04AXovttL) | [2016](https://www.youtube.com/playlist?list=PLLMLOC3WM2r4aQCKJxxPlrEhJ8tdGWjXj)
+* Scala Days: [New York 2018](https://www.youtube.com/playlist?list=PLLMLOC3WM2r6Z6dIUi01-XXI4FmDrAl20) | [Berlin 2018](https://www.youtube.com/playlist?list=PLLMLOC3WM2r6-113dYofBD3szljuVpESO) | [2017](https://www.youtube.com/playlist?list=PLLMLOC3WM2r5Ei2mnSHCD-ZD04AXovttL) | [2016](https://www.youtube.com/playlist?list=PLLMLOC3WM2r4aQCKJxxPlrEhJ8tdGWjXj)
+* [Scala -- the Simple Parts - Martin Odersky (SF Scala 2014)](https://www.youtube.com/watch?v=ecekSCX3B4Q)
 * [Scala: Beyond the Basics - Christopher Batey](https://www.youtube.com/watch?v=4QIgEMvUfIE)
 * [Scalawags](https://www.youtube.com/channel/UCHxNwi3l5CGZo1kG47k7i2Q)
 * [Learn Scala in One Video - Derek Banas](https://www.youtube.com/watch?v=DzFt0YkZo8M)
