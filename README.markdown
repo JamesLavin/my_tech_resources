@@ -551,6 +551,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### BUSINESS - ENTREPRENEURSHIP - FINANCING
 
+* [Don’t go chasing unicorns - Aner Ben-Ami](https://blog.usejournal.com/dont-go-chasing-unicorns-2fa84d88437)
 * [A Guide to Seed Fundraising - Geoff Ralston](https://ycombinator.wpengine.com/how-to-raise-a-seed-round/)
 * [If You Take Venture Capital, You’re Forcing Your Company To Exit - Luke Kanies](https://medium.com/s/understanding-venture-capital/if-you-take-venture-capital-youre-forcing-your-company-to-exit-fc08fcdb32cc)
 
@@ -583,38 +584,59 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Investment Crowdfunding 101 (also known as Equity Crowdfunding) - Eazl.co](https://www.youtube.com/watch?v=R7YxdukRlNE)
 * [CrowdFund.co](http://crowdfund.co/blog/)
 
+#### BUSINESS - ENTREPRENEURSHIP - PODCASTS
+
+* [Angel Invest Boston - Sal Daler](https://soundcloud.com/user-982602046)
+* [Babson Built](https://itunes.apple.com/us/podcast/babson-built/id1338241432?mt=2)
+* [Balderton Podcast - Balderton Capital](https://itunes.apple.com/us/podcast/balderton-podcast-tech-investment-venture-capital-startup/id1002344923?mt=2)
+* [Bootstrapped VC - Backstage Capital](https://itunes.apple.com/us/podcast/the-bootstrapped-vc-a-backstage-capital-podcast/id1209876096?mt=2)
+* [Bowery Capital Startup Sales Podcast](https://bowerycap.com/blog/tag/startup-sales-podcast/)
+* [Business School Without the BS - Clay Clark & Robert Zoellner](https://itunes.apple.com/us/podcast/thrivetime-show-business-school-without-the-bs/id1076405618)
+* [Cortex - CGP Grey & Myke Hurley](https://www.relay.fm/cortex)
+* [Dingman Bootstrapped](https://www.rhsmith.umd.edu/centers-excellence/dingman-center-entrepreneurship/news-events/podcast)
+* [Foundr - Nathan Chan](https://foundr.com/podcast-with-nathan-chan/)
+* [The Full Ratchet - Nick Moran](https://itunes.apple.com/us/podcast/full-ratchet-vc-venture-capital-angel-investors-startup/id888084300?mt=2)
+* [Greymatter - Greylock Partners](https://itunes.apple.com/us/podcast/greymatter/id1089013200?mt=2)
+* [Indie Hackers - Courtland Allen](https://www.indiehackers.com/podcast)
+* [Masters of Scale - Reid Hoffman](https://mastersofscale.com/)
+* [Nice Guys on Business - Doug Sandler & Strickland Bonner](http://www.niceguysonbusiness.com/episodes/)
+* [Notion - The Pain of Scale - Stephen Millard & Paul Papadimitriou](https://www.listennotes.com/podcasts/notion-the-pain-of-scale-notion-investing-eby13BGQ0pn/)
+* [Origins - Notation Capital](https://itunes.apple.com/us/podcast/origins-podcast-about-limited/id1111792048?mt=2)
+* [Rogue Startups Podcast - Dave Rodenbaugh & Craig Hewitt](https://roguestartups.com/)
+* [Running Through Walls - Venrock](https://itunes.apple.com/us/podcast/running-through-walls/id1116751671?mt=2)
+* [Stacking the Bricks - Amy Hoy & Alex Hillman](https://stackingthebricks.com/podcast/)
+* [StartUp - Gimlet](https://www.gimletmedia.com/startup/)
+* [Startup Camel](https://startupcamel.com/)
+* [Startup Chat with Steli and Hiten](https://thestartupchat.com/)
+* [Startup Notes](https://startupnotes.podbean.com/)
+* [Startup Sessions with Michael Knouse](https://www.stitcher.com/podcast/the-startup-sessions-podcast)
+* [Startup Success Podcast](http://startupsuccesspodcast.com/)
+* [Startups for the Rest of Us - Mike Taber & Rob Walling](https://www.startupsfortherestofus.com/)
+* [The Syndicate - Matt Ward](https://itunes.apple.com/us/podcast/the-syndicate-angel-investing-in-early-stage-tech-startups/id1286329551?mt=2&ls=1<Paste>)
+* [Traction: How Startups Start - Next View Ventures](https://itunes.apple.com/us/podcast/traction-how-startups-start-nextview-ventures/id989228163?mt=2)
+* [The Twenty-Minute VC - Henry Stebbings](http://www.thetwentyminutevc.com/category/podcast/)
+* [This Week in Startups - Jason Calacanis](http://thisweekinstartups.com/)
+* [Venture Studio](https://soundcloud.com/venture-studio)
+* [Ventured - Kleiner Perkins](https://itunes.apple.com/us/podcast/ventured/id895283359?mt=2)
+* [When to Jump - Mike Lewis](http://www.whentojump.com/podcast.html)
+
 ### BUSINESS - PODCASTS
 
 * [Acquired - A Podcast About Technology Acquisitions & IPOs - Ben Gilbert and David Rosenthal](https://itunes.apple.com/us/podcast/acquired/id1050462261)
-* [Angel Invest Boston - Sal Daler](https://soundcloud.com/user-982602046)
-* [Balderton Podcast - Balderton Capital](https://itunes.apple.com/us/podcast/balderton-podcast-tech-investment-venture-capital-startup/id1002344923?mt=2)
-* [Bootstrapped VC - Backstage Capital](https://itunes.apple.com/us/podcast/the-bootstrapped-vc-a-backstage-capital-podcast/id1209876096?mt=2)
 * [Bothsides TV - Upfront Ventures](https://itunes.apple.com/us/podcast/bothsides-tv/id893382102?mt=2)
 * [Business Book of the Month](http://www.businessbookofthemonth.com/)
 * [Freakonomics Radio](http://freakonomics.com/archive/)
-* [The Full Ratchet - Nick Moran](https://itunes.apple.com/us/podcast/full-ratchet-vc-venture-capital-angel-investors-startup/id888084300?mt=2)
-* [Greymatter - Greylock Partners](https://itunes.apple.com/us/podcast/greymatter/id1089013200?mt=2)
-* [Healthy Dose]()
-* [Masters of Scale](https://mastersofscale.com/)
+* [Healthy Dose](https://itunes.apple.com/us/podcast/a-healthy-dose/id1197975925)
+* [Marketing Over Coffee - John Wall & Christopher Penn](https://www.marketingovercoffee.com/)
 * [Meaningful Show](http://www.meaningfulhq.com/)
-* [Nice Guys on Business](http://www.niceguysonbusiness.com/episodes/)
 * [Notion Capital](https://itunes.apple.com/us/podcast/notion-capital/id1089580380?mt=2)
-* [Origins - Notation Capital](https://itunes.apple.com/us/podcast/origins-podcast-about-limited/id1111792048?mt=2)
 * [The Pitch - Josh Muccio (Gimlet Media)](https://gimletmedia.com/thepitch/)
 * [Product Breakfast Club](https://www.productbreakfastclub.com/)
-* [Rework (Basecamp)](https://rework.fm/)
-* [Running Through Walls - Venrock](https://itunes.apple.com/us/podcast/running-through-walls/id1116751671?mt=2)
-* [Simplify](https://www.blinkist.com/simplify)
-* [Startup Success Podcast](http://startupsuccesspodcast.com/)
-* [The Syndicate - Matt Ward](https://itunes.apple.com/us/podcast/the-syndicate-angel-investing-in-early-stage-tech-startups/id1286329551?mt=2&ls=1<Paste>)
+* [Rework - Basecamp](https://rework.fm/)
+* [Simplify - Caitlin Schiller & Ben Schuman-Stoler](https://www.blinkist.com/simplify)
 * [The Tim Ferriss Show](http://tim.blog/podcast/)
 * [The Tony Robbins Podcast](https://www.tonyrobbins.com/podcasts/)
-* [The Twenty-Minute VC - Henry Stebbings](http://www.thetwentyminutevc.com/category/podcast/)
-* [This Week in Startups - Jason Calacanis](http://thisweekinstartups.com/)
 * [This Week in Tech - Leo Laporte](https://twit.tv/episodes?filter[shows]=1635)
-* [Traction: How Startups Start - Next View Ventures](https://itunes.apple.com/us/podcast/traction-how-startups-start-nextview-ventures/id989228163?mt=2)
-* [Venture Studio](https://soundcloud.com/venture-studio)
-* [Ventured - Kleiner Perkins](https://itunes.apple.com/us/podcast/ventured/id895283359?mt=2)
 
 ## CHARACTERS
 
@@ -1036,7 +1058,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DATA - PODCASTS
 
-* [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
+* [Data Engineering Podcast - Tobias Macey](https://www.dataengineeringpodcast.com/)
+* [Data Podcast](https://itunes.apple.com/us/podcast/data-podcast/id1247751397)
 * [O'Reilly Data Show Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast)
 
 ### DATA - SCRAPING
@@ -1228,8 +1251,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - AWS (AMAZON WEB SERVICES)
 
-#### DEVOPS - AWS (AMAZON WEB SERVICES) - KUBERNETES
+#### DEVOPS - AWS (AMAZON WEB SERVICES) - KUBERNETES / EKS
 
+* [Introducing Amazon EKS - Brandon Chavis (AWS re:Invent 2017)](https://www.youtube.com/watch?v=WHTejF3W0s4)
+* [Deep Dive Into Amazon EKS - (AWS re:Invent 2017)](https://www.youtube.com/watch?v=vrYLrx-a_Wg)
 * [AWS Workshop for Kubernetes - AWS](https://github.com/aws-samples/aws-workshop-for-kubernetes)
 * [kubernetes-aws.io](https://github.com/kubernetes/community/blob/master/sig-aws/kubernetes-on-aws.md)
 
@@ -1237,6 +1262,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [AWS Podcast](https://aws.amazon.com/podcasts/aws-podcast/)
 * [AWS re:Invent 2017](https://itunes.apple.com/us/podcast/aws-re-invent-2017/id1323851530?mt=2)
+* [AWS TechChat](https://aws.amazon.com/podcasts/aws-techchat/)
 
 #### DEVOPS - AWS (AMAZON WEB SERVICES) - RDS (RELATIONAL DATABASE SERVICE)
 
@@ -1246,10 +1272,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Announcing Amazon Aurora with PostgreSQL Compatibility - January 2017 AWS Onlin](https://www.youtube.com/watch?v=4jslgOGsBb4)
 * [Using Performance Insights to Analyze Performance of Amazon Aurora PostgreSQL](https://www.youtube.com/watch?v=4462hcfkApM)
 
-### DEVOPS - AWS (AMAZON WEB SERVICES) - EKS (ELASTIC CONTAINER SERVICE FOR KUBERNETES)
+#### DEVOPS - AWS (AMAZON WEB SERVICES) - REDSHIFT
 
-* [Introducing Amazon EKS - Brandon Chavis (AWS re:Invent 2017)](https://www.youtube.com/watch?v=WHTejF3W0s4)
-* [Deep Dive Into Amazon EKS - (AWS re:Invent 2017)](https://www.youtube.com/watch?v=vrYLrx-a_Wg)
+* [Amazon Redshift Tutorial: AWS Tutorial for Beginners - Edureka](https://www.youtube.com/watch?v=fc5WPKnbam8)
 
 ### DEVOPS - BACKUPS
 
@@ -1266,6 +1291,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - BLOGS & PODCASTS
 
+* [The Cloudcast - Aaron Delp & Brian Gracely](http://www.thecloudcast.net/)
+* [Cloudscape Podcast](https://blog.pythian.com/podcasts/)
 * [Datanauts (data center infrastructure)](http://packetpushers.net/series/datanauts-podcast/)
 * [Dockercast](https://itunes.apple.com/us/podcast/dockercast/id1141133179)
 * [Full Stack Journey](http://packetpushers.net/series/full-stack-journey/)
@@ -1495,6 +1522,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Kubernetes and Google Container Engine - Aparna Sinha and Kelsey Hightower (Google Cloud Next '17)](https://www.youtube.com/watch?v=Csf-gxjo4hc)
 * [Local Persistent Volumes for Kubernetes Goes Beta](https://kubernetes.io/blog/2018/04/13/local-persistent-volumes-beta/)
 
+#### DEVOPS - GOOGLE CLOUD - PODCASTS
+
+* [Google Cloud Platform Podcast](https://www.gcppodcast.com/)
+
 #### DEVOPS - GOOGLE CLOUD - SECURITY
 
 * [Best practices for Identity and Access Management on Compute Engine - Eric Bahna (Google Cloud Next '17)](https://www.youtube.com/watch?v=qf_D92_yqbQ)
@@ -1587,6 +1618,11 @@ Links to resources I have found useful or think might be helpful to future me or
 #### DEVOPS - KUBERNETES - PERSISTENT VOLUMES
 
 * [Resizing Persistent Volumes using Kubernetes - Hemant Kumar](https://kubernetes.io/blog/2018/07/12/resizing-persistent-volumes-using-kubernetes/)
+
+#### DEVOPS - KUBERNETES - PODCASTS
+
+* [PodCTL - Brian Gracely & Tyler Britten](https://itunes.apple.com/us/podcast/podctl-containers-kubernetes-openshift/id1270983443)
+* [Kubernetes Podcast - Google](https://kubernetespodcast.com/)
 
 #### DEVOPS - KUBERNETES - POWERFUL SEAL
 
@@ -1761,7 +1797,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [EdSurge Podcast](https://www.edsurge.com/news/community/edsurge-podcast)
 * [EdTech Bites](https://itunes.apple.com/us/podcast/edtech-bites-podcast/id1253735665?mt=2)
 * [EdTechNOW](https://itunes.apple.com/us/podcast/edtechnow/id1204658300)
-* [EdTech Podcast](https://theedtechpodcast.libsyn.com/)
+* [EDTech Podcast - Bill O’Donnel](https://avnation.tv/avnation-podcasts/edtech/)
+* [The Edtech Podcast - Sophie Bailey](https://theedtechpodcast.libsyn.com/)
 * [EdTech Rewind](https://www.spreaker.com/show/edtech-rewind)
 * [EdTech Situation Room](http://edtechsr.com/)
 * [EdTech Take Out](http://www.dlgwaea.org/podcast)
@@ -1769,12 +1806,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [EduAllStars](https://www.podomatic.com/podcasts/eduallstarshq)
 * [Edupreneur Podcast](http://www.theedupreneur.org/)
 * [EDUtalk](http://edutalk.cc/)
+* [Elite Edupreneurs](https://itunes.apple.com/us/podcast/elite-edupreneurs-empowering-educators-to-become-entrepreneurs/id1237054193)
 * [Explore Like a Pirate](http://explorelikeapirate.com/category/all/podcast/)
 * [Google Teacher Tribe](http://googleteachertribe.com/)
-* [House of EdTech](http://chrisnesi.com/)
+* [House of EdTech - Christopher J. Nesi](http://chrisnesi.com/)
 * [re:Learning (Chronicle.com)](https://overcast.fm/itunes1098250639/relearning-podcast)
 * [Speed of Creativity](http://www.speedofcreativity.org/resources/socpodcast/)
-* [Stanford Innovation Lab](https://ecorner.stanford.edu/series/stanford-innovation-lab/)
+* [Stanford Innovation Lab](https://ecorner.stanford.edu/series/stanford-innovation-lab/) (defunct)
 * [TeacherCast](https://www.teachercast.net/episodes/)
 * [Techlandia](http://techlandia.podomatic.com/)
 * [Tech. Learn. Coffee.](http://tlcninja.weebly.com/)
@@ -1941,7 +1979,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Freenode IRC](http://irc.lc/freenode/elixir)
 * [Writing Command Line Applications with Elixir - James Smith (ElixirConf 2014)](https://www.youtube.com/watch?v=7l_fDU86pr4)
 * [Elixir Code Reading: Blacksmith](https://www.zweitag.de/en/blog/technology/elixir-code-reading-blacksmith)
-* [Elixir Fountain - bi-weekly podcast](https://soundcloud.com/elixirfountain)
 * [Elixir in times of microservices - José Valim](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/)
 * [Closures: Elixir vs. Ruby vs. JavaScript - Hubert Łępicki](https://www.amberbit.com/blog/2015/6/14/closures-elixir-vs-ruby-vs-javascript/)
 * [ExMachina for Elixir: Factories with a Functional Twist - Josh Steiner & Paul Smith](https://robots.thoughtbot.com/announcing-ex-machina)
@@ -2478,9 +2515,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PODCASTS
 
-* [Elixir Fountain](https://soundcloud.com/elixirfountain)
+* [Elixir Fountain](https://soundcloud.com/elixirfountain) (defunct)
+* [Elixir Mix](https://devchat.tv/elixir-mix/)
 * [Elixir Outlaws](https://elixiroutlaws.com/)
 * [Elixir Talk](https://itunes.apple.com/us/podcast/elixirtalk/id1298287048)
+* [Indielixir - Carter Bryden](http://indielixer.com/)
 
 #### ELIXIR - PROJECTS
 
@@ -3208,9 +3247,19 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Programming Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml)
 * [Time in Elixir](http://learnyousomeerlang.com/time)
 
+### ERLANG - ETS
+
+* [Documentation](http://erlang.org/doc/man/ets.html)
+* [Bears, ETS, Beets - Learn You Some Erlang](https://learnyousomeerlang.com/ets)
+
 ### ERLANG - EXAMPLES
 
 * [Vegur: HTTP Proxy Library - Heroku](https://github.com/heroku/vegur) & [Heroku Proxying becomes Free Software](https://engineering.heroku.com/blogs/2015-10-21-vegur-free-software/)
+
+### ERLANG - FORGETS
+
+* [ForgETS: a globally distributed database - Mikhail Vorontsov (Code Beam STO 2018)](https://www.youtube.com/watch?v=kHzmrWD7iEY)
+* [A Reflection on Building the WhatsApp Server - Anton Lavrik (Code BEAM 2018)](https://www.youtube.com/watch?v=LJx6mUEFAqQ)
 
 ### ERLANG - HISTORY
 
@@ -3287,8 +3336,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## EVENT SOURCING, CQRS, DDD, & MICROSERVICES
 
-* [How Events Are Reshaping Modern Systems - Jonas Bonér (ReactiveConf 2017)](https://www.youtube.com/watch?v=ycxvmOKDHMQ&t=1s)
-* [How Events Are Reshaping Modern Systems - Jonas Bonér (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=3V3pHm2Cpks)
+* How Events Are Reshaping Modern Systems - Jonas Bonér: [(ReactiveConf 2017)](https://www.youtube.com/watch?v=ycxvmOKDHMQ&t=1s) | [(Devoxx Belgium 2017)](https://www.youtube.com/watch?v=3V3pHm2Cpks)
+* [Design Microservice Architectures the Right Way - Michael Bryzek](https://www.infoq.com/presentations/microservices-arch-infrastructure-cd)
 * [Building Event Driven Services with Apache Kafka and Kafka Streams - Ben Stopford (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=p9wcx3aTjuo)
 * [Design Patterns: Why Event Sourcing? - Greg Young](https://www.youtube.com/watch?v=rUDN40rdly8)
 * [Rethinking Microservices with Stateful Streams - Ben Stopford (Devoxx Poland 2017)](https://www.youtube.com/watch?v=hqt9QIhwAW8)
@@ -3422,6 +3471,7 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Wiki](https://cwiki.apache.org/confluence/display/KAFKA/Index)
     * [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
 * [Examples - Confluent](https://github.com/confluentinc/examples)
+* [Streaming Audio Podcast - Confluent](https://itunes.apple.com/ca/podcast/streaming-audio-a-kafka-podcast-by-confluent/id1401509765)
 * [Event-Driven Architectures - Jay Kreps](https://www.youtube.com/watch?v=Y0Bry5PyrrU)
 * [Commit Logs in an Age of Microservices by Tim Berglund (#MeetTheExperts)](https://www.youtube.com/watch?v=bbotWkCLuF0)
 * [Kafka: The Definitive Guide - Neha Narkhede, Gwen Shapira & Todd Palino (Confluent)](https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf)
@@ -5002,37 +5052,52 @@ Peter R. Egli:
 * [Ultimate List Of Developer Podcasts - John Sonmez](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/)
 * [a16z - Andreessen Horowitz](http://a16z.com/podcasts/)
 * [Advance Tech Podcasts](https://advancetechmedia.org/)
+* [Agile Revolution](https://theagilerevolution.com/)
+* [Agile Toolkit Podcast](http://agiletoolkit.libsyn.com/)
+* [The Architecht Show](http://architechtshow.com/)
 * [Art of Product](http://artofproductpodcast.com/)
 * [The Big Web Show](http://5by5.tv/bigwebshow)
-* [The Bikeshed](http://bikeshed.fm/)
-* [The Changelog](https://changelog.com/podcast/)
-* [The Cloudcast](http://www.thecloudcast.net/)
+* [The Bike Shed - Thoughtbot](http://bikeshed.fm/)
+* [CaSE: Conversations About Software Engineering](https://www.case-podcast.org/)
+* [The Changelog - Adam Stacoviak and Jerod Santo](https://changelog.com/podcast/)
 * [Code Podcast](https://soundcloud.com/podcastcode)
 * [Cognicast](http://blog.cognitect.com/cognicast/)
+* [CoRecursive - Adam Bell](https://corecursive.com/)
 * [CTRL+ClickCast](http://ctrlclickcast.com/)
+* [Cynical Developer - James Studdart](https://cynicaldeveloper.com/)
+* [Daily Tech News Show](http://www.dailytechnewsshow.com/)
 * [Developer On Fire](http://developeronfire.com/)
 * [Dr. Dobbs TV](http://www.drdobbs.com/tv/) (Video)
 * [Elixir Fountain](https://soundcloud.com/elixirfountain)
 * [Exponent](http://exponent.fm/)
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
+* [The Freelancers' Show](https://devchat.tv/freelancers/)
+* [Front End Happy Hour](http://frontendhappyhour.com/)
 * [Full Stack Radio](http://www.fullstackradio.com/episodes)
 * [FunctionalGeekery.com](https://www.functionalgeekery.com)
 * [Giant Robots](http://giantrobots.fm/)
+* [Greater Than Code](https://www.greaterthancode.com/)
 * [Hansel Minutes](http://www.hanselminutes.com/)
 * [Herding Code](http://herdingcode.com/)
 * [InfoQ Podcast](https://www.infoq.com/podcasts/)
+* [IoT On Tap - Chris Herrera & Randy Pitcher](https://www.hashmapinc.com/podcasts)
 * [Javascript Jabber](https://devchat.tv/js-jabber)
+* [Lightbend](https://www.lightbend.com/podcasts)
 * [The New Stack](http://thenewstack.io/)
 * [On Computing](http://www.computer.org/portal/web/computingnow/oncomputing)
+* [Packet Pushers](https://packetpushers.net/)
 * [PathToPerf](http://pathtoperf.com/)
-* [Programming Throwdown](http://www.programmingthrowdown.com/)
+* [Programming Throwdown - Patrick Wheeler & Jason Gauci](http://www.programmingthrowdown.com/)
 * [Recode/Decode - Kara Swisher](https://www.recode.net/recode-decode-podcast-kara-swisher)
 * [Ruby Rogues](https://devchat.tv/ruby-rogues)
 * [Shop Talk](http://shoptalkshow.com/)
 * [Software Engineering Daily](http://softwareengineeringdaily.com/) | [iTunes](https://itunes.apple.com/us/podcast/software-engineering-daily/id1019576853) | [Slack](http://softwaredaily.herokuapp.com/)
+* [Software Defined Talk](https://player.fm/series/software-defined-talk-2438259)
 * [Software Engineering Radio](http://www.se-radio.net/)
+* [Tech Done Right - Noel Rappin](https://www.techdoneright.io)
 * [Toolsday.io](http://toolsday.io/)
 * [Turing-Incomplete](http://turing.cool/)
+* [Upgrade](https://www.relay.fm/upgrade)
 * [The Web Ahead](http://5by5.tv/webahead)
 
 ### PROGRAMMING - STREAM PROCESSING
@@ -5368,10 +5433,14 @@ Peter R. Egli:
 
 ### SCALA - AKKA
 
-* [Akka.io](http://akka.io/)
+* [Akka.io](http://akka.io/) | [Documentation](https://doc.akka.io/docs/akka/current/guide/introduction.html?language=scala) | [Quickstart](https://developer.lightbend.com/guides/akka-quickstart-scala/)
 * [A Practical Introduction to Akka Streams - Jacek Kunicki (Lambda Days 2017)](https://www.youtube.com/watch?v=O_2J6dPSHSo)
 * [Implementing the Reactive Manifesto with Akka - Adam Warski (Lambda Days 2015)](https://www.youtube.com/watch?v=kFH3_OF9EW8)
 * [High Performance Actors - Kiki Carter](https://www.infoq.com/presentations/akka-jctools)
+
+#### SCALA - AKKA - AKKA STREAMS
+
+* [Akka Streams](https://doc.akka.io/docs/akka/current/stream/index.html)
 
 ### SCALA - BLOGS
 
@@ -5425,6 +5494,10 @@ Peter R. Egli:
 * [Intro to Functional Programming in Scala - Joe Barnes](https://www.youtube.com/watch?v=2Ji5i0x2gJI)
 * [Programs as Values: Pure Composable Database Access in Scala - Rob Norris](https://www.youtube.com/watch?v=XHiTK4UOIf0)
 * [Online material for the Introduction to Functional Game Programming with Scala workshop - John De Goes](https://github.com/jdegoes/lambdaconf-2014-introgame)
+
+### SCALA - GRAPHQL
+
+* [GraphQL Scala Tutorial - Mariusz Nosiński](https://www.howtographql.com/graphql-scala/0-introduction/)
 
 ### SCALA - INTELLIJ
 
