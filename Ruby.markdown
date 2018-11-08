@@ -885,9 +885,13 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 ### RUBY - VIDEOS
 
+* GoRuCo: [2018](http://confreaks.tv/events/goruco2018) | [2017](http://confreaks.tv/events/goruco2017)
+* Madison Ruby: [2018](http://confreaks.tv/events/madison+ruby2018)
+* Ruby Hack: [2018](http://confreaks.tv/events/rubyhack2018) | [2017](http://confreaks.tv/events/rubyhack2017)
+* RedDot RubyConf: [2017](http://confreaks.tv/events/reddotrubyconf2017)
 * [Ruby On Ales 2016](http://confreaks.tv/events/roa2016)
 * [MountainWest RubyConf 2016](http://confreaks.tv/events/mwrc2016)
-* [RubyConf 2015](http://confreaks.tv/events/rubyconf2015)
+* RubyConf: [2017](http://confreaks.tv/events/rubyconf2017) | [2015](http://confreaks.tv/events/rubyconf2015)
 * [LA Ruby Conf 2015](http://confreaks.tv/events/larubyconf2015)
 * [Ruby Remote Conf 2015](https://www.youtube.com/playlist?list=PLJesql-aSfX5wDU8ALH2bRd_xvw27klTQ)
 * [Tropical Ruby 2015](http://tropicalrb.com/en/videos/)

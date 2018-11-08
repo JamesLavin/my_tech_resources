@@ -949,6 +949,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Spark Docs](https://spark.apache.org/docs/latest/) | [Quick start](https://spark.apache.org/docs/latest/quick-start.html) | [RDD Programming Guide](https://spark.apache.org/docs/latest/rdd-programming-guide.html) | [Spark SQL, Datasets, and DataFrames](https://spark.apache.org/docs/latest/sql-programming-guide.html) | [Structured Streaming](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html) | [Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html) | [MLlib](https://spark.apache.org/docs/latest/ml-guide.html) | [GraphX](https://spark.apache.org/docs/latest/graphx-programming-guide.html) | [Scala API](https://spark.apache.org/docs/latest/api/scala/index.html#org.apache.spark.package) | [Java API](https://spark.apache.org/docs/latest/api/java/index.html) | [Python API](https://spark.apache.org/docs/latest/api/python/index.html) | [R API](https://spark.apache.org/docs/latest/api/R/index.html) | [Spark SQL, Built-in Functions](https://spark.apache.org/docs/latest/api/sql/index.html)
 * [Spark - TutorialsPoint.com](https://www.tutorialspoint.com/apache_spark/apache_spark_tutorial.pdf)
 * [Scala Machine Learning Projects: Recommendation Systems - Navdeep Singh](https://medium.com/@navdeepsingh_2336/scala-machine-learning-projects-recommendation-systems-d41d9eebbb06)
+* [Processing Fast Data with Apache Spark: The Tale of Two Streaming APIs - Gerard Maas (Reactive Summit Montreal 2018)](https://www.reactivesummit.org/2018/schedule/processing-fast-data-with-apache-spark-the-tale-of-two-streaming-apis)
 * [ApacheSpark as a gateway drug to FP: Concepts taught & broken - Holden Karau (Curry On! Amsterdam)](https://www.youtube.com/watch?v=EDJfpkDpoE4)
 * [Holden Karau Spark videos](https://www.youtube.com/playlist?list=PLRLebp9QyZtaoIpE2iaF3Q8itJOcdgYoX)
 * [Running on Kubernetes](https://spark.apache.org/docs/latest/running-on-kubernetes.html)
@@ -1115,7 +1116,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DATABASES - FILODB
 
-* FiloDB: Prometheus-compatible distributed time series database [Github](https://github.com/filodb/FiloDB)
+* FiloDB - Prometheus-compatible distributed time series database: [Github](https://github.com/filodb/FiloDB)
+* [FiloDB: Reactive, Real-time, In-memory Time Series at Massive Scale - Evan Chan (Reactive Summit Montreal 2018)](https://www.reactivesummit.org/2018/schedule/filodb-reactive-real-time-in-memory-time-series-at-massive-scale)
 * [FiloDB: Combining Spark Streaming and Fast Ad-Hoc Analytics - Evan Chan](http://velvia.github.io/presentations/2015-filodb-spark-streaming/#/)
 
 ### DATABASES - FOUNDATIONDB
@@ -1148,6 +1150,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ruby implementation](https://github.com/rmosolgo/graphql-ruby)
 * [Sangria: Scala implementation](http://sangria-graphql.org/)
 * [Graph for Scala](http://scala-graph.org/)
+
+### DATABASES - GREENPLUM DB
+
+* [Greenplum DB: Open-source data warehouse](https://github.com/greenplum-db/gpdb)
 
 ### DATABASES - HOW THEY WORK
 
@@ -1512,7 +1518,6 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - GOOGLE CLOUD - KUBERNETES
 
-* [Kubernetest Podcast (Google)](http://kubernetespodcast.com/)
 * [Container management and deployment: from development to production - Kelsey Hightower (Google Cloud Next '17)](https://www.youtube.com/watch?v=XL9CQobFB8I)
 * [Kelsey Hightower's Best Live Demo Yet - Kelsey Hightower (Cloud Next '18)](https://www.youtube.com/watch?v=U6SfRPwTKqo)
 * [Google Container Engine - The easiest way to use containers in production - Robert Bailey and Chen Goldberg (Google Cloud Next '17)](https://www.youtube.com/watch?v=_yk1tTHYBvg)
@@ -1559,6 +1564,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Awesome-Kubernetes](https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/details)
 * [Kubernetes Youtube channel](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg)
 * [Kubernetes By Example](http://kubernetesbyexample.com/)
+* [Infrastructure in the New World of Containers: What are your options? - Austen Novis (DevOpsDays Boston 2018](http://confreaks.tv/videos/devopsdaysboston2018-infrastructure-in-the-new-world-of-containers-what-are-your-options)
 * [Kubernetes the Hard Way - Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * [Kubernetes in Real Life - Ian Crosby (GOTO Conference 2017)](https://www.youtube.com/watch?v=UUt7SuG3nW4)
 * [The ins and outs of networking in Google Container Engine and Kubernetes - Tim Hockin and Michael Rubin (Google Cloud Next '17)](https://www.youtube.com/watch?v=y2bhV81MfKQ)
@@ -1756,8 +1762,13 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - VIDEOS
 
+* [DevOpsDays Boston 2018](http://confreaks.tv/events/devopsdaysboston2018)
+* [DevOpsDays New York 2018](http://confreaks.tv/events/devopsdaysnyc2018)
 * [DevOpsDays Baltimore 2018](https://www.youtube.com/playlist?list=PLE7tQUdRKcyZZhQVK1UhqKrVHsQ1d0I7J)
+* [DevOpsDays Philadelphia 2017](http://confreaks.tv/events/devopsdaysphiladelphia2017)
 * [DevOpsDays Seattle 2017](http://confreaks.tv/events/devopsdaysseattle2017)
+* [DevOpsDays Chicago 2017](http://confreaks.tv/events/devopsdayschicago2017)
+* [DevOpsDays Salt Lake City 2017](http://confreaks.tv/events/devopsdayssaltlakecity2017)
 * [DevOpsDays Boston 2017](https://www.youtube.com/playlist?list=PLE7tQUdRKcyZfwse2URwQjCI7-qeURNxt)
 * [DevOpsDays Rockies 2017](http://confreaks.tv/events/devopsdaysdenver2017)
 * [DevOpsDays Boston 2016](http://confreaks.tv/events/devopsdaysboston2016)
@@ -2611,9 +2622,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * EMPEX: [2018 NYC](https://www.youtube.com/playlist?list=PLyO-58-sOapw81dCfjDrX5TuYxS5S8qMq) | [2018 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapy9Fs4Sd-HOeQIFwrSCQ3z1) | [2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS) | [2016](https://www.youtube.com/playlist?list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
 * Lonestar ElixirConf: [2018](https://www.youtube.com/playlist?list=PLGqeEOaC5KsQt7r8KCOzfDgcqsvy_-hCN) | [2017](http://confreaks.tv/events/lonestarelixir2017)
 * [Code BEAM SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v)
-* [ElixirDaze 2018](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYH_aU7H-ExE2jrA-60qxH3)
+* ElixirDaze: [2018 (Youtube)](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYH_aU7H-ExE2jrA-60qxH3) | [2018 (Confreaks)](http://confreaks.tv/events/elixirdaze2018) | [2017](http://confreaks.tv/events/elixirdaze2017) | [2016 (Youtube)](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH) | [2016 (Confreaks)](http://confreaks.tv/events/elixirdaze2016)
 * [Erlang & Elixir Factory SF 2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jtviHbf3fbBRWcaGDBC2u0)
-* ElixirDaze: [2017 videos](http://confreaks.tv/events/elixirdaze2017) | [2016 videos (Youtube)](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH) | [2016 videos (Confreaks)](http://confreaks.tv/events/elixirdaze2016)
 * [Josh Adams working on Firestorm UI](https://www.twitch.tv/dailydrip/videos/all)
 * ElixirConf: [2016 videos](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYoiEKWny0Jj72iu564bVFD) | [2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H) | [2014 videos](http://confreaks.tv/events/elixirconf2014)
 * ElixirConf EU: [2017 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jV6N5XEjbUQe2GkYcRkZdD) | [2016 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2gB7HUE-2H61HAEyszAph3H) | [2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
@@ -3342,6 +3352,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Design Patterns: Why Event Sourcing? - Greg Young](https://www.youtube.com/watch?v=rUDN40rdly8)
 * [Rethinking Microservices with Stateful Streams - Ben Stopford (Devoxx Poland 2017)](https://www.youtube.com/watch?v=hqt9QIhwAW8)
 * [Experimentation Using Event-based Systems - Martin Fowler + Toby Clemson (Kafka Summit 2018)](https://www.youtube.com/watch?v=_RgUxUTuxH4)
+* [Building event-driven (Micro)Services with Apache Kafka - Guido Schmutz (VoxxedDays Zurich 2018)](https://www.youtube.com/watch?v=IR1NLfaq7PU)
 * [Microservice communication and integration: what are my options? - Kate Stanley (JFokus 2017)](https://www.youtube.com/watch?v=4KQoYVX9lNM)
 * [Building a Microservices Ecosystem with Kafka Streams and KSQL - Ben Stopford](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
 * [Event Sourcing, Distributed Systems & CQRS - Sebastian Daschner](https://www.youtube.com/watch?v=CYocFQvl6s0&list=PLEV9ul4qfGOZ5gWIPMlFGMUpenSs1EvxZ) & [scalable-coffee-shop (event-driven example app in Java)](https://github.com/sdaschner/scalable-coffee-shop)
@@ -3555,6 +3566,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ##### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA STREAMS - KSQL
 
 * [Github](https://github.com/confluentinc/ksql)
+* [KSQL and Other Stream Processing Tools in Kafka - Nick Dearden (Confluent)](https://www.youtube.com/watch?v=dVJz_lL7UFg)
 Level Up Your KSQL - Tim Berglund (Confluent):
   * [Demo: Build a Streaming Application with KSQL](https://www.youtube.com/watch?v=ExEWJVjj-RA)
   * [KSQL from Confluent](https://www.youtube.com/watch?v=illEpCOcCVg)
@@ -3573,6 +3585,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
   * [Stream-Stream Joins](https://www.youtube.com/watch?v=51yLu5FnPYo)
   * [UDFs / UDAFs](https://www.youtube.com/watch?v=EXbvxxExcI8)
 * [Streaming SQL for Apache Kafka - Confluent](https://www.confluent.io/product/ksql/)
+* [Ask Confluent With Gwen Shapira](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0snucuYWkuUXwasMr-HR7Y)
 * [Reading Kafka Data from KSQL](https://www.youtube.com/watch?v=EzVZOUt9JsU)
 * [Building a Real-Time Streaming Platform with Oracle, Apache Kafka, and KSQL - Gwen Shapira](https://www.youtube.com/watch?v=bc4wfzuCbAo)
 * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka - Neha Narkhede](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
@@ -3612,12 +3625,17 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [Kafka Summit London 2018](https://www.youtube.com/playlist?list=PLa7VYi0yPIH3HslCSEqWxsgr0kKcVRGkk)
 * [Kafka Summit San Francisco 2017](https://www.confluent.io/kafka-summit-sf17/resource/)
 
+### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - MESSAGES
+
+* [Messages: Patterns and Pitfalls - Richard Wellum (µCon London 2018)](https://skillsmatter.com/skillscasts/12955-messages-patterns-and-pitfalls#video)
+
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - PROCESS MANAGERS & SAGAS
 
 * Distributed Sagas: A Protocol for Coordinating Microservices - Caitie McAffrey: [(.NET Fringe 2017)](https://www.youtube.com/watch?v=1H6tounpnG8) | [On the Beach 2017 (Malaga, Spain)](https://www.youtube.com/watch?v=0UTOLRTwOX0)
 * [A Saga on Sagas - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/jj591569.aspx)
 * [If (domain logic) then CQRS, or Saga? - Udi Dahan (Domain-Driven Design Europe 2017)](https://www.youtube.com/watch?v=fWU8ZK0Dmxs)
 * [Using sagas to maintain data consistency in a microservice architecture - Chris Richardson (DevoxxUK 2017)](https://www.youtube.com/watch?v=YPbGW3Fnmbc)
+* [Distributed Transactions are dead, long live distributed transactions! - Sergey Bykov (Reactive Summit Montreal 2018)](https://www.reactivesummit.org/2018/schedule/distributed-transactions-are-dead-long-live-distributed-transactions)
 * [Applying the Saga Pattern - Caitie McCaffrey (GOTO 2015)](https://www.youtube.com/watch?v=xDuwrtwYHu8)
 * [Failing (and recovering) asynchronously: a saga - Daniel Solano Gómez](https://www.youtube.com/watch?v=YYIluVvqQH8)
 * [Long Running Processes with Event Sourcing and CQRS - Andriy Drozdyuk](https://medium.com/@drozzy/long-running-processes-event-sourcing-cqrs-c87fbb2ca644)
@@ -3665,6 +3683,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - VIDEOS
 
+* [µCon London 2018 - The Microservices Conference](https://skillsmatter.com/conferences/10336-mucon-london-2018-the-microservices-conference#skillscasts)
 * [microXchg 2018](https://www.youtube.com/channel/UCGCbB8TPtYMQmJwYVogcPjg)
 
 ## EXERCISE
@@ -5106,6 +5125,7 @@ Peter R. Egli:
 * [Embracing Streams…Everywhere - Nitesh Kant (Reactive Summit 2016)](https://www.youtube.com/watch?v=5FE6xnH5Lak)
 * [Learn RxJS - Brian Troncone](https://www.learnrxjs.io/)
 * [RxMarbles.com](http://rxmarbles.com/)
+* [Taking the Pain Out of Deploying Streaming Applications - Gerard Maas & Craig Blitz, Lightbend (Reactive Summit Montreal 2018)](https://www.reactivesummit.org/2018/schedule/taking-the-pain-out-of-deploying-streaming-applications)
 
 ### PROGRAMMING - TECHNICAL DEBT
 
@@ -5395,6 +5415,7 @@ Peter R. Egli:
 
 ### RUST - VIDEOS
 
+* RustConf: [2018](http://confreaks.tv/events/rustconf2018) | [2017](http://confreaks.tv/events/rustconf2017)
 * [RustFest Paris 2018](https://www.youtube.com/playlist?list=PL85XCvVPmGQgdqz9kz6qH3SI_hp7Zb4s1)
 
 ### RUST - YEW
@@ -5435,8 +5456,10 @@ Peter R. Egli:
 
 * [Akka.io](http://akka.io/) | [Documentation](https://doc.akka.io/docs/akka/current/guide/introduction.html?language=scala) | [Quickstart](https://developer.lightbend.com/guides/akka-quickstart-scala/)
 * [A Practical Introduction to Akka Streams - Jacek Kunicki (Lambda Days 2017)](https://www.youtube.com/watch?v=O_2J6dPSHSo)
+* [Supercharging Marketo's Multi-Tenant Platform By Going Reactive - Marketo (Reactive Summit Montreal 2018)](https://www.reactivesummit.org/2018/schedule/supercharging-marketos-multi-tenant-platform-by-going-reactive)
 * [Implementing the Reactive Manifesto with Akka - Adam Warski (Lambda Days 2015)](https://www.youtube.com/watch?v=kFH3_OF9EW8)
 * [High Performance Actors - Kiki Carter](https://www.infoq.com/presentations/akka-jctools)
+* [Lessons Learned: Building Scalable & Elastic Akka Clusters on Google Managed Kubernetes - Timo Mechler & Charles Adetiloye (Reactive Summit Montreal 2018)](https://www.reactivesummit.org/2018/schedule/lessons-learned-building-scalable--elastic-akka-clusters-on-google-managed-kubernetes)
 
 #### SCALA - AKKA - AKKA STREAMS
 
@@ -5495,6 +5518,10 @@ Peter R. Egli:
 * [Programs as Values: Pure Composable Database Access in Scala - Rob Norris](https://www.youtube.com/watch?v=XHiTK4UOIf0)
 * [Online material for the Introduction to Functional Game Programming with Scala workshop - John De Goes](https://github.com/jdegoes/lambdaconf-2014-introgame)
 
+### SCALA - FUTURE
+
+* [The Last Hope for Scala's Infinity War - John A. De Goes (Scalapeño 2018)](https://www.youtube.com/watch?v=v8IQ-X2HkGE)
+
 ### SCALA - GRAPHQL
 
 * [GraphQL Scala Tutorial - Mariusz Nosiński](https://www.howtographql.com/graphql-scala/0-introduction/)
@@ -5506,6 +5533,7 @@ Peter R. Egli:
 ### SCALA - LAGOM
 
 * [Lagom: open source framework for reactive microservice systems in Java or Scala, built on Akka and Play](https://www.lagomframework.com/) | [Github](https://github.com/lagom/lagom) | [Docs](https://www.lagomframework.com/documentation/) | [Getting Started](https://www.lightbend.com/lagom-framework) | [StackOverflow](https://stackoverflow.com/questions/tagged/lagom) | [Blog](https://www.lagomframework.com/blog/)
+* [What Can Lagom Do For You? - Renato Cavalcanti (µCon London 2018)](https://skillsmatter.com/skillscasts/12837-what-can-lagom-do-for-you#video)
 
 ### SCALA - SBT
 

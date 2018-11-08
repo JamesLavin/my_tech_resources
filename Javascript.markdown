@@ -511,6 +511,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 
 #### JAVASCRIPT - REACT.JS - VIDEOS
 
+* ChainReact: [2018](http://confreaks.tv/events/chainreact2018) | [2017](http://confreaks.tv/events/chainreact2017)
 * ReactConf: [2018](https://www.youtube.com/playlist?list=PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ) | [2017](https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0) | [2016](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY) | [2015](https://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr)
 
 ### JAVASCRIPT - REDUX
