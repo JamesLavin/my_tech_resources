@@ -24,6 +24,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Practical Demystification of CRDTs - Dmitry Ivanov & Nami Nasserazad (Curry On 2016)](https://www.youtube.com/watch?v=ShiU9g5JFq8)
 * [Conflict-free Replicated Data Types - Nuno Preguica, Carlos Baquero, and Marc Shapiro [PDF]](https://pages.lip6.fr/Marc.Shapiro/papers/CRDTs-Springer2018-authorversion.pdf)
+* [Raft: Understanding Distributed Consensus - TheSecretLivesOfData.com](http://thesecretlivesofdata.com/raft/)
 
 ## ANIMATION
 
@@ -111,6 +112,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - DEEP NEURAL NETS
 
+* [Intro to Deep Learning with PyTorch - Luis Serrano (Udacity)](https://classroom.udacity.com/courses/ud188)
 * [Notes from Coursera Deep Learning courses by Andrew Ng - Tess Ferrandez](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
 * [Learn Deep Learning in 6 Weeks - Siraj Raval](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks/)
 * [Mostly Complete Chart of Neural Networks - Fjodor van Veen](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
@@ -1060,6 +1062,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DATA - PODCASTS
 
 * [Data Engineering Podcast - Tobias Macey](https://www.dataengineeringpodcast.com/)
+* [DataFramed - Hugo Bowne-Anderson (DataCamp)](https://www.datacamp.com/community/podcast)
 * [Data Podcast](https://itunes.apple.com/us/podcast/data-podcast/id1247751397)
 * [O'Reilly Data Show Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast)
 
@@ -1113,6 +1116,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DATABASES - DATOMIC
 
 * [Datomic.com](http://www.datomic.com/)
+* [Datomic: Event Sourcing without the hassle - Valentin Waeselynck](https://vvvvalvalval.github.io/posts/2018-11-12-datomic-event-sourcing-without-the-hassle.html)
 
 ### DATABASES - FILODB
 
@@ -1666,6 +1670,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Istio: Open Platform to Connect, Manage, and Secure Microservices](https://istio.io/) | [Github](https://github.com/istio/istio) | [Twitter](https://twitter.com/IstioMesh)
 * [Introduction to Service Management with Istio Service Mesh (Cloud Next '18)](https://www.youtube.com/watch?v=wCJrdKdD6UM)
+* [Istio 1.0.x Workshop - RedHat OpenShift](https://learn.openshift.com/servicemesh)
 * [Istio - Weaving the Service Mesh - Louis Ryan (QCon San Francisco 2017)](https://www.youtube.com/watch?v=bPEgHNZxlJw)
 * [Making Microservices Micro with Istio Service Mesh - Ray Tsang (Devox Belgium 2017)](https://www.youtube.com/watch?v=AGztKw580yQ)
 * [Getting Started with Istio on Amazon EKS - Arun Gupta](https://aws.amazon.com/blogs/opensource/getting-started-istio-eks/)
@@ -1937,6 +1942,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Joy of Elixir](https://joyofelixir.com/toc.html)
 * [Elixir Devhints](https://devhints.io/elixir)
 * [Intro to Elixir - SolutionStreet.com](https://www.youtube.com/watch?v=lly-1UYmnFI)
+* [Ten Things I Wish I Knew Before Using Elixir - Chris Williams](https://ropig.com/blog/ten-things-wish-knew-using-elixir/)
 
 ### ELIXIR - GETTING STARTED (NON-FREE)
 
@@ -2085,6 +2091,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Debugging - Elixir-lang.org](https://elixir-lang.org/getting-started/debugging.html)
 * [Debugging techniques in Elixir - Erich Kist](http://blog.plataformatec.com.br/2016/04/debugging-techniques-in-elixir-lang/)
 * Credo: [Website](http://credo-ci.org/) | [Github](https://github.com/rrrene/credo) | [Credo: A static code analysis tool for the Elixir language with a focus on code consistency and teaching - René Föhring](https://github.com/rrrene/credo)
+* [Elixir Bug Hunting! - José Valim](https://www.twitch.tv/videos/334900348)
 
 #### ELIXIR - DEBUGGING - PRY
 
@@ -2134,6 +2141,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Libcluster - Paul Schoenfelder](https://github.com/bitwalker/libcluster)
 * [Swarm - Paul Schoenfelder](https://github.com/bitwalker/swarm)
+* [Remote Elixir/Erlang Node connected to Kubernetes - Gonzalo Gabriel Jiménez Fuentes](https://www.mendrugory.com/post/remote-elixir-node-kubernetes/)
+* [Clustering Elixir/Erlang applications in Kubernetes (part 1: the theory) - Dario Freddi](https://blog.ispirata.com/clustering-elixir-erlang-applications-in-kubernetes-part-1-the-theory-ca658acbf101)
+* [Running distributed Erlang & Elixir applications on Docker - Oleg Tarasenko](https://www.erlang-solutions.com/blog/running-distributed-erlang-elixir-applications-on-docker.html)
 
 #### ELIXIR - DEPLOYMENT - CONFIGURATION
 
@@ -2494,9 +2504,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Überauth - Elixir Authentication System for Plug-based Web Applications](https://github.com/ueberauth/ueberauth)
 * Simple Guardian: [Github](https://github.com/ueberauth/guardian) | [Browser login](http://blog.overstuffedgorilla.com/simple-guardian/) | [API authentication](http://blog.overstuffedgorilla.com/simple-guardian-api-authentication/) | [User permissions](http://blog.overstuffedgorilla.com/simple-guardian-permissions/) | [Multiple sessions](http://blog.overstuffedgorilla.com/simple-guardian-multiple-sessions/)
 
-#### ELIXIR - PHOENIX - SOCKETS
+#### ELIXIR - PHOENIX - PUB/SUB
 
-* [Driving Phoenix sockets - Saša Jurić](http://theerlangelist.com/article/driving_phoenix_sockets)
+* [Using Phoenix.PubSub to manage side effects - Marcel Horlings](https://devrain.io/posts/using-phoenix-pubsub-to-manage-side-effects/)
 
 #### ELIXIR - PHOENIX - TESTING
 
@@ -2523,6 +2533,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Creating a chat application in 15 minutes with Phoenix - Darko Fabijan (PolyConf 14)](https://www.youtube.com/watch?v=tdLJvuQkTNE)
 * [Rise of The Phoenix: Building an Elixir Web Framework - Chris McCord (ElixirConf 2014)](https://www.youtube.com/watch?v=3jMbzGv_6tA)
 * [Phoenix Book Club - Michael Ries](https://www.youtube.com/playlist?list=PLItFDtW5mcKonA-3LD5UY0gYiMRZUj20V)
+
+#### ELIXIR - PHOENIX - WEB SOCKETS
+
+* [The joy of React+Redux with Elixir/OTP - Nacho Martin](https://limenius.com/elixir-otp-react-redux/)
+* [Event Sourcing in React, Redux & Elixir — how we write fast, scalable, real-time apps at Rapport - Gary McAdam](https://medium.com/rapport-blog/event-sourcing-in-react-redux-elixir-how-we-write-fast-scalable-real-time-apps-at-rapport-4a26c3aa7529)
+* [Driving Phoenix sockets - Saša Jurić](http://theerlangelist.com/article/driving_phoenix_sockets)
 
 #### ELIXIR - PODCASTS
 
@@ -3619,6 +3635,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 * [Secor: Service implementing Kafka log persistence](https://github.com/pinterest/secor)
 * [Bifrost: Safely archive data from Apache Kafka to S3 with no Hadoop dependencies](https://github.com/uswitch/bifrost)
+* [Building a Distributed Message Log from Scratch - Tyler Treat (Scale 16x Pasadena 2018)](https://www.youtube.com/watch?v=oKbm9XFxB2k)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - VIDEOS
 
@@ -3709,6 +3726,8 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [An introduction to functional programming - Mary Rose Cook](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 * [What Is Functional Programming? - Kris Jenkins](https://www.youtube.com/watch?v=xN1-mtw1Fns)
 * [Functional Programming Patterns for Mere Mortals - Daniel Chambers (NDC {Sydney} 2017)](https://www.youtube.com/watch?v=v9QGWbGppis)
+* [Functional Programming in 40 Minutes - Russ Olsen (GOTO 2018)](https://www.youtube.com/watch?v=0if71HOyVjY)
+* [A developer's guide to introducing a functional language at work - Robert Kluin (OScon Portland 2018)](https://www.youtube.com/watch?v=eAhiGQjBB9w)
 * [How to Get Started With Functional Programming - Julia Gao (StrangeLoop 2016)](https://www.youtube.com/watch?v=fbrG3hvWA3E)
 * [What does it mean when code is “easy to reason about”? - Preethi Kasireddy](https://medium.freecodecamp.com/what-does-it-mean-when-code-is-easy-to-reason-about-4e6f63eb386f#.f900iegve)
 * [Why Programmers Need Limits - Charles Scalfani](https://medium.com/@cscalfani/why-programmers-need-limits-3d96e1a0a6db#.im759kdjs)
@@ -4987,6 +5006,7 @@ Peter R. Egli:
 ### PROGRAMMING - FUNCTIONAL REACTIVE PROGRAMMING
 
 * [The introduction to Reactive Programming you've been missing - Andre Staltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+* [Reactive is a Product - Jamie Allen (Reactive Summit Montreal 2018)](https://www.reactivesummit.org/2018/schedule/reactive-is-a-product)
 * [An Event-driven and Reactive Future - Jonathan Worthington (FooCafe)](https://www.youtube.com/watch?v=_VdIQTtRkb8)
 * [What does it mean to be Reactive? - Erik Meijer (React 2014)](https://www.youtube.com/watch?v=sTSQlYX5DU0)
 * [K Things I Know About Building Resilient Reactive Systems - Joe Armstrong (React 2014)](https://www.youtube.com/watch?v=rQIE22e0cW8)
