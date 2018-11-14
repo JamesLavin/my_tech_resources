@@ -2037,7 +2037,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Carbon Five](https://blog.carbonfive.com/category/elixir/)
 * [Dockyard](https://dockyard.com/blog/categories/elixir)
 * [East 5th](http://www.east5th.co/blog/)
-* [Elixir Academy (AppSignal)](https://blog.appsignal.com/category/elixir-alchemy.htm)
+* [Elixir Alchemy (AppSignal)](https://blog.appsignal.com/category/elixir-alchemy.htm)
 * [Elixir Dose](http://www.elixirdose.com/)
 * [Elixir Radar](http://plataformatec.com.br/elixir-radar)
 * [ElixirStatus.com](http://elixirstatus.com/)
@@ -2065,6 +2065,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - CODE EXAMPLES
 
+* [tanx - Tank game created by the Programming Elixir study group](https://github.com/ElixirSeattle/tanx)
 * [Git Gud - Github clone written in Elixir - Almighty Couch](https://github.com/almightycouch/gitgud)
 * [Simulations - James Edward Gray II](https://github.com/JEG2/simulations)
 * [a-little-elixir-goes-a-long-way (Elixir version of code examples from The Little Schemer)](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way/tree/master/lib/schemer)
@@ -2139,11 +2140,19 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - DEPLOYMENT - CLUSTERING
 
-* [Libcluster - Paul Schoenfelder](https://github.com/bitwalker/libcluster)
 * [Swarm - Paul Schoenfelder](https://github.com/bitwalker/swarm)
+* [Effortless Scaling With Automatic Clusters - Exploring Elixir](https://www.youtube.com/watch?v=zQEgEnjuQsU) & [Tenant Migrations, Cluster Security, Git Repo](https://www.youtube.com/watch?v=voQLaBb-jLI)
+* [Erlang (and Elixir) distribution without epmd - Magnus Henoch](https://www.erlang-solutions.com/blog/erlang-and-elixir-distribution-without-epmd.html)
 * [Remote Elixir/Erlang Node connected to Kubernetes - Gonzalo Gabriel Jiménez Fuentes](https://www.mendrugory.com/post/remote-elixir-node-kubernetes/)
 * [Clustering Elixir/Erlang applications in Kubernetes (part 1: the theory) - Dario Freddi](https://blog.ispirata.com/clustering-elixir-erlang-applications-in-kubernetes-part-1-the-theory-ca658acbf101)
 * [Running distributed Erlang & Elixir applications on Docker - Oleg Tarasenko](https://www.erlang-solutions.com/blog/running-distributed-erlang-elixir-applications-on-docker.html)
+
+##### ELIXIR - DEPLOYMENT - CLUSTERING - LIBCLUSTER
+
+* Libcluster - Paul Schoenfelder: [Github](https://github.com/bitwalker/libcluster) | [Docs](https://hexdocs.pm/libcluster/readme.html)
+* [Cluster.Strategy.Kubernetes](https://hexdocs.pm/libcluster/Cluster.Strategy.Kubernetes.html)
+* [ClusterConsul.Strategy](https://github.com/arcz/libcluster_consul)
+* Elixir and Kubernetes - Bo Ingram: [Introducing Aristochat](http://www.boingram.com/2017/07/15/elixir-and-kubernetes-1.html) | [Starting Kubernetes](http://www.boingram.com/2017/07/19/elixir-and-kubernetes-2.html) | [Deploying Aristochat](http://www.boingram.com/2017/08/01/elixir-and-kubernetes-3.html)
 
 #### ELIXIR - DEPLOYMENT - CONFIGURATION
 
@@ -2162,7 +2171,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - DEPLOYMENT - DOCKER
 
-* [Docker and OTP Friends or Foes - Daniel Azuma (ElixirConf 2018)](https://www.youtube.com/watch?v=nLApFANtkHs)
+* [Docker and OTP Friends or Foes - Daniel Azuma (ElixirConf 2018)](https://www.youtube.com/watch?v=nLApFANtkHs) & [talk notes](http://daniel-azuma.com/articles/talks/elixirconf-2018) & [Tanx game + GKE deployment instructions](https://github.com/ElixirSeattle/tanx)
 * [Elixir Releases & Docker - The Basics Explained - Philipp](https://medium.com/@pentacent/elixir-releases-docker-the-basics-explained-4c800a5b990b)
 * [How to use Elixir with Docker? - Kamil Lelonek](https://blog.lelonek.me/how-to-use-elixir-with-docker-836c9b4a25b0)
 * [Bottling Elixir with Docker - Part 1 - Paul Lamb](https://paullamb.exposed/blog/2017/1/11/bottling-elixir-with-docker-part-1)
@@ -2284,6 +2293,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [GenStage: Keeping large amounts of data up-to-date with pipelines - Robert Beene (EMPEX 2018](https://www.youtube.com/watch?v=9mfD4-HUgh0)
 * [Small data with Elixir - José Valim](http://blog.plataformatec.com.br/2017/03/small-data-with-elixir/)
+* [Understanding Elixir’s GenStages: Querying the Blockchain - Miguel Palhas](https://blog.appsignal.com/2018/11/13/elixir-alchemy-understanding-elixirs-genstages-querying-the-blockchain.html)
 * [GenStage and Flow - José Valim (Lambda Days 2017)](https://www.youtube.com/watch?v=XPlXNUXmcgE)
 * [Announcing GenStage - José Valim](http://elixir-lang.org/blog/2016/07/14/announcing-genstage/)
 * [Background Processing in Elixir with GenStage - Nitin Misra](https://medium.com/@scripbox_tech/background-processing-in-elixir-with-genstage-efb6cb8ca94a)
@@ -2370,6 +2380,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir/Erlang OTP in Microservice Architecture - Thomas Newton (Microservices Day New York 2017](https://www.youtube.com/watch?v=-CIMUwX1OZY)
 * [Per-user workers with custom queue processing (using GenServer and Supervisor) - Adam Hodowany](https://www.youtube.com/watch?v=19JakddwsV8)
 * The Mix & OTP Guide: [(EPUB)](https://github.com/JamesLavin/my_tech_resources/raw/master/mix-and-otp.epub) | [Online](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
+* [How OTP Applications are structured - Jeff Kreeftmeijer](https://blog.appsignal.com/2018/09/18/elixir-alchemy-how-otp-applications-are-structured.html)
 * [Creating Elixir libraries as OTP applications - Hubert Łępicki](https://www.amberbit.com/blog/2016/5/10/creating-elixir-libraries-as-otp-applications/)
 * [OTP in Elixir - Part 1 - Christian Di Lorenzo (Triangle Elixir 2016)](https://www.youtube.com/watch?v=_WgrfEaAM4Y)
 * [Extending OTP with Custom Behaviours - Michał Muskała (ElixirLive 2016)](https://www.youtube.com/watch?v=YCOmYsQCZEI)
@@ -2445,8 +2456,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Phoenix 1.2.x to 1.3.0 Upgrade Instructions - Chris McCord](https://gist.github.com/chrismccord/71ab10d433c98b714b75c886eff17357)
 * [Why changes in Phoenix 1.3 are so important? - Nikita Sobolev](https://medium.com/wemake-services/why-changes-in-phoenix-1-3-are-so-important-2d50c9bdabb9)
 
-#### ELIXIR - PHOENIX - AUTHENTICATION
+#### ELIXIR - PHOENIX - AUTH/AUTH
 
+* [Guardian: Elixir authentication](https://github.com/ueberauth/guardian) & [GuardianDB](https://github.com/ueberauth/guardian_db)
+* [comeonin: Password hashing library - David Whitlock](https://github.com/riverrun/comeonin)
+* [policy_wonk: Elixir authorization and resource loading in Plug form for Phoenix - Boyd Multerer](https://github.com/boydm/policy_wonk)
 * [User Authentication with Guardian for Phoenix 1.3 Web Apps - Meraj](https://itnext.io/user-authentication-with-guardian-for-phoenix-1-3-web-apps-e2064cac0ec1)
 * JWT Auth with an Elixir on Phoenix 1.3 API and React Native, Nick West: [Part I: Phoenix JWT API](https://medium.com/@njwest/jwt-auth-with-an-elixir-on-phoenix-1-3-guardian-api-and-react-native-mobile-app-1bd00559ea51) | [Part II: Building a React Native JWT Client](https://medium.com/@njwest/building-a-react-native-jwt-client-efacf78b9364) | [Part III: Building a React Native JWT Client: API Requests and AsyncStorage](https://medium.com/@njwest/building-a-react-native-jwt-client-api-requests-and-asyncstorage-d1a20ab60cf4)
 * [Phoenix: Authentication and Authorization using Plugs - iVitaly Tatarintsev](http://whatdidilearn.info/2018/02/25/phoenix-authentication-and-authorization-using-plugs.html)
@@ -2568,6 +2582,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Riak Core](https://github.com/basho/riak_core/)
 * Create a riak_core application in Elixir - GPad: [Part 1](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-1-41354c1f26c3) | [Part 2](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-2-88bdec73f368) | [Part 3](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-3-8bac36632be0) | [Part 4](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-4-728512ece224)
 
+### ELIXIR - SCENIC
+
+* [scenic](https://github.com/boydm/scenic) | [scenic.new](https://github.com/boydm/scenic_new)
+* [Introducing Scenic A Functional UI Framework - Boyd Multerer (ElixirConf 2018)](https://www.youtube.com/watch?v=1QNxLNMq3Uw)
+* [Getting started with Scenic in Elixir: Crafting a simple snake game - Giancarlo França](https://medium.com/@giandr/elixir-scenic-snake-game-b8616b1d7ee0) & [code on Github](https://github.com/gVirtu/scenic-snake)
+
 ### ELIXIR - SECURITY
 
 * [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography#elixir)
@@ -2597,6 +2617,12 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ELIXIR - TESTING - MOX
 
 * [Functional Mocks with Mox in Elixir - Andrew Hao](https://blog.carbonfive.com/2018/01/16/functional-mocks-with-mox-in-elixir/)
+
+#### ELIXIR - PROPERTY-BASED TESTING
+
+* [Quixir: Property-based testing for Elixir - Dave Thomas](https://github.com/pragdave/quixir)
+* [Property-Based Testing - Exploring Elixir](https://www.youtube.com/watch?v=PLSYM7ada0o)
+* [Property-Based Testing with PropEr, Erlang, and Elixir - Fred Hebert](https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir) | [Older but free "PropEr Testing" website](https://propertesting.com/toc.html)
 
 #### ELIXIR - TESTING - WALLABY
 
@@ -3219,10 +3245,10 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ERLANG - DEPLOYMENT - AWS
 
 * [erlcloud: AWS APIs library for Erlang (Amazon EC2, S3, SQS, DDB, ELB and etc)](https://github.com/erlcloud/erlcloud)
-* [Erlang distribution over TLS - Magnus Henoch](https://www.erlang-solutions.com/blog/erlang-distribution-over-tls.html)
 
 ### ERLANG - DISTRIBUTION
 
+* [Erlang distribution over TLS - Magnus Henoch](https://www.erlang-solutions.com/blog/erlang-distribution-over-tls.html)
 * [Partisan: Flexible, TCP-based membership system for Erlang/Elixir](https://github.com/lasp-lang/partisan) & [Partisan: Enabling Cloud-Scale Erlang Applications - Christopher S. Meiklejohn & Heather Miller (PDF)](https://arxiv.org/pdf/1802.02652.pdf)
 * [Scaling Distributed Erlang - Zandra Norman (ElixirConfEu 2016)](https://www.youtube.com/watch?v=usEs3GPnZDg)
 
