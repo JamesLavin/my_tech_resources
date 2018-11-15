@@ -639,6 +639,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Tim Ferriss Show](http://tim.blog/podcast/)
 * [The Tony Robbins Podcast](https://www.tonyrobbins.com/podcasts/)
 * [This Week in Tech - Leo Laporte](https://twit.tv/episodes?filter[shows]=1635)
+* [Work & Life Podcast - Stew Friedman](http://www.workandlifepodcast.com/)
 
 ## CHARACTERS
 
@@ -1516,6 +1517,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Gcloud: [Overview](https://cloud.google.com/sdk/gcloud/) | [Compute Concepts](https://cloud.google.com/compute/docs/concepts) | [SDK Concepts](https://cloud.google.com/sdk/docs/concepts) | [Reference](https://cloud.google.com/sdk/gcloud/reference/) | [Compute How-Tos](https://cloud.google.com/compute/docs/how-to) | [SDK How-Tos](https://cloud.google.com/sdk/docs/how-to)
 * [Developing Applications with Google Cloud Platform Specialization - Coursera](https://www.coursera.org/specializations/developing-apps-gcp)
+* [Secrets Management - Google Cloud](https://cloud.google.com/solutions/secrets-management/)
 * Janakiram MSV: [Configuring Kubernetes Cluster Federation to Create a Global Deployment](https://thenewstack.io/configuring-kubernetes-cluster-federation-to-create-a-global-deployment/) | [Deploy a Multicluster Ingress on Google Kubernetes Engine](https://thenewstack.io/deploy-a-multicluster-ingress-on-google-kubernetes-engine/)
 * [Creating and Starting a VM Instance](https://cloud.google.com/compute/docs/instances/create-start-instance)
 * [Setting up Jenkins on Kubernetes Engine](https://cloud.google.com/solutions/jenkins-on-kubernetes-engine-tutorial)
@@ -1558,6 +1560,24 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - GVISOR
 
 * [gVisor: sandboxed container runtime compatible with Docker & Kubernetes - Google](https://cloudplatform.googleblog.com/2018/05/Open-sourcing-gVisor-a-sandboxed-container-runtime.html)
+
+### DEVOPS - ISTIO.IO
+
+* [Istio: Open Platform to Connect, Manage, and Secure Microservices](https://istio.io/) | [Github](https://github.com/istio/istio) | [Twitter](https://twitter.com/IstioMesh)
+* [Introduction to Service Management with Istio Service Mesh (Cloud Next '18)](https://www.youtube.com/watch?v=wCJrdKdD6UM)
+* [Istio 1.0.x Workshop - RedHat OpenShift](https://learn.openshift.com/servicemesh)
+* [Istio - Weaving the Service Mesh - Louis Ryan (QCon San Francisco 2017)](https://www.youtube.com/watch?v=bPEgHNZxlJw)
+* [Making Microservices Micro with Istio Service Mesh - Ray Tsang (Devox Belgium 2017)](https://www.youtube.com/watch?v=AGztKw580yQ)
+* [Getting Started with Istio on Amazon EKS - Arun Gupta](https://aws.amazon.com/blogs/opensource/getting-started-istio-eks/)
+* [Stop reinventing the wheel with Istio - Mete Atamel (Devoxx UK 2018)](https://www.youtube.com/watch?v=pGKwluckJ-A)
+* [Service Mesh: What, Why, And How? - Flynn (DevOpsDays Boston 2017)](https://www.youtube.com/watch?v=B0vi6ZqqmMw)
+* [Microservices in the Cloud with Kubernetes and Istio - Sandeep Dinesh (Google I/O '18)](https://www.youtube.com/watch?v=gauOI0O9fRM)
+* [Making Microservices Micro with Istio Service Mesh - Ray Tsang (Devox Belgium 2017)](https://www.youtube.com/watch?v=AGztKw580yQ)
+
+#### DEVOPS - ISTIO.IO - GKE
+
+* [Hello Istio Codelab (With Google Kubernetes) - Google](https://codelabs.developers.google.com/codelabs/cloud-hello-istio/#0)
+* [Istio 101 (1.0) on GKE](https://meteatamel.wordpress.com/2018/08/06/istio-101-1-0-on-gke/) | [Istio 101 (0.8.0) on GKE - Mete Atamel (Google)](https://meteatamel.wordpress.com/2018/06/07/istio-101-0-8-0-on-gke/)
 
 ### DEVOPS - KUBERNETES
 
@@ -1657,32 +1677,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - KUBERNETES - VIDEOS
 
+* [KubeCon + CloudNativeCon China 2018](https://www.youtube.com/playlist?list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)
 * [KubeCon + CloudNativeCon 2018 - Copenhagen (354 videos!)](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo)
 * [CNCF (Cloud Native Computing Foundation) video playlists](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA/playlists)
 * [KubeCon + CloudNativeCon 2017 - Austin](https://www.youtube.com/playlist?list=PLj6h78yzYM2P-3-xqvmWaZbbI1sW-ulZb)
-
-### DEVOPS - TITUS
-
-* Titus (Netflix): [Github](https://github.com/Netflix/titus) | [Documentation](https://netflix.github.io/titus/)
-* [Titus, the Netflix container management platform, is now open source - Netflix Technology Blog](https://medium.com/@NetflixTechBlog/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436)
-
-### DEVOPS - ISTIO.IO
-
-* [Istio: Open Platform to Connect, Manage, and Secure Microservices](https://istio.io/) | [Github](https://github.com/istio/istio) | [Twitter](https://twitter.com/IstioMesh)
-* [Introduction to Service Management with Istio Service Mesh (Cloud Next '18)](https://www.youtube.com/watch?v=wCJrdKdD6UM)
-* [Istio 1.0.x Workshop - RedHat OpenShift](https://learn.openshift.com/servicemesh)
-* [Istio - Weaving the Service Mesh - Louis Ryan (QCon San Francisco 2017)](https://www.youtube.com/watch?v=bPEgHNZxlJw)
-* [Making Microservices Micro with Istio Service Mesh - Ray Tsang (Devox Belgium 2017)](https://www.youtube.com/watch?v=AGztKw580yQ)
-* [Getting Started with Istio on Amazon EKS - Arun Gupta](https://aws.amazon.com/blogs/opensource/getting-started-istio-eks/)
-* [Stop reinventing the wheel with Istio - Mete Atamel (Devoxx UK 2018)](https://www.youtube.com/watch?v=pGKwluckJ-A)
-* [Service Mesh: What, Why, And How? - Flynn (DevOpsDays Boston 2017)](https://www.youtube.com/watch?v=B0vi6ZqqmMw)
-* [Microservices in the Cloud with Kubernetes and Istio - Sandeep Dinesh (Google I/O '18)](https://www.youtube.com/watch?v=gauOI0O9fRM)
-* [Making Microservices Micro with Istio Service Mesh - Ray Tsang (Devox Belgium 2017)](https://www.youtube.com/watch?v=AGztKw580yQ)
-
-#### DEVOPS - ISTIO.IO - GKE
-
-* [Hello Istio Codelab (With Google Kubernetes) - Google](https://codelabs.developers.google.com/codelabs/cloud-hello-istio/#0)
-* [Istio 101 (1.0) on GKE](https://meteatamel.wordpress.com/2018/08/06/istio-101-1-0-on-gke/) | [Istio 101 (0.8.0) on GKE - Mete Atamel (Google)](https://meteatamel.wordpress.com/2018/06/07/istio-101-0-8-0-on-gke/)
 
 ### DEVOPS - LOGGING
 
@@ -1757,9 +1755,20 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Rkt: CLI for running application containers on Linux](https://github.com/rkt/rkt)
 
+### DEVOPS - SERVERLESS
+
+* [Serverless NYC 2018](https://www.serverlessnyc.com/)
+* [The Problem is Data - Gwen Shapira (Serverless NYC 2018)](https://www.youtube.com/watch?v=J-9afazR2o0)
+* Serverlessconf: [Austin 2017](https://www.youtube.com/playlist?list=PLnwBrRU5CSTmruZzR8Z06j3pGglBZcdDr) | [NYC 2016](https://www.youtube.com/playlist?list=PLnwBrRU5CSTnd6NC6E-Fn3SJEJKRkaHJY)
+
 ### DEVOPS - STATEFUL SERVICES
 
 * [Building Scalable Stateful Services - Caitie McCaffrey (Curry On 2016)](https://www.youtube.com/watch?v=aJFxQAAMAQc) & [Building Scalable Stateful Services - Caitie McCaffrey (StrangeLoop 2015)](https://www.youtube.com/watch?v=H0i_bXKwujQ)
+
+### DEVOPS - TITUS
+
+* Titus (Netflix): [Github](https://github.com/Netflix/titus) | [Documentation](https://netflix.github.io/titus/)
+* [Titus, the Netflix container management platform, is now open source - Netflix Technology Blog](https://medium.com/@NetflixTechBlog/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436)
 
 ### DEVOPS - VAGRANT
 
@@ -2214,6 +2223,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Ecto: [documentation](https://hexdocs.pm/ecto/Ecto.html) | [Github](https://github.com/elixir-lang/ecto) | [discussion forum](https://groups.google.com/forum/#!forum/elixir-ecto)
 * [Using Ecto outside of Phoenix by Geoffrey Lessel (Lonestar ElixirConf 2017)](https://www.youtube.com/watch?v=PWJpSRUJDwk) & [An Intro to Ecto: Using Ecto in Non-Phoenix Elixir Projects - Geoffrey Lessel (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=8j3DLfNI6Jw)
+* [Ecto: Database library for Elixir - Eric Meadows Jöhnson (Code Beam STO)](https://www.youtube.com/watch?v=RT4p_g0SLUU)
 * [Embrace the Database With Ecto - Josh Branchaud (ElixirDaze 2017)](https://www.youtube.com/watch?v=fFqsMWmONN4)
 * Thinking in Ecto - Peter de Croos: [Part 1: Schemas and Changesets](http://cultofmetatron.io/2017/04/22/thinking-in-ecto---schemas-and-changesets/) | [Part 2: Queries and Relations](http://cultofmetatron.io/2017/04/25/thinking-in-ecto-part-2/)
 * [Ecto 2.1 Tip and Tricks - (Elixir Sydney)](https://www.youtube.com/watch?v=PGZ94AMMTPs)
@@ -2339,6 +2349,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [KaufmannEx](https://github.com/sevenmind/kaufmann_ex) | [KaufmannEx — Elixir Microservices with Kafka and Avro - 7Mind GmbH](https://medium.com/@7mind_dev/kaufmann-ex-317415c27978)
 * [Cafex](https://github.com/upyun/cafex)
 
+### ELIXIR - LOGGING & MONITORING
+
+* Awesome Elixir: [Logging](https://github.com/h4cc/awesome-elixir#logging) & [Instrumenting / Monitoring](https://github.com/h4cc/awesome-elixir#instrumenting--monitoring)
+
 ### ELIXIR - MACROS
 
 * [Using Functions in Elixir Guard Clauses - Chris Keathley](http://keathley.io/2016/04/09/elixir-guard-clauses.html)
@@ -2363,7 +2377,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - NEURAL NETWORKS
 
 * [AutomatingTheFuture.com - Quentin Thomas](http://www.automatingthefuture.com/)
-  * [Artificial Neural Networks, Elixir, and You - Quentin Thomas](http://www.automatingthefuture.com/blog/2016/9/7/artificial-neural-networks-elixir-and-you?utm_content=buffer9dea0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [Artificial Neural Networks, Elixir, and You - Quentin Thomas](http://www.automatingthefuture.com/blog/2016/9/7/artificial-neural-networks-elixir-and-you?utm_content=buffer9dea0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ### ELIXIR - OPUS
 
@@ -2458,7 +2472,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - AUTH/AUTH
 
+* Awesome Elixir: [Authentication](https://github.com/h4cc/awesome-elixir#authentication) & [Authorization](https://github.com/h4cc/awesome-elixir#authorization)
 * [Guardian: Elixir authentication](https://github.com/ueberauth/guardian) & [GuardianDB](https://github.com/ueberauth/guardian_db)
+* Coherence - [Github](https://github.com/smpallen99/coherence) | [Docs](https://hexdocs.pm/coherence/Coherence.html)
 * [comeonin: Password hashing library - David Whitlock](https://github.com/riverrun/comeonin)
 * [policy_wonk: Elixir authorization and resource loading in Plug form for Phoenix - Boyd Multerer](https://github.com/boydm/policy_wonk)
 * [User Authentication with Guardian for Phoenix 1.3 Web Apps - Meraj](https://itnext.io/user-authentication-with-guardian-for-phoenix-1-3-web-apps-e2064cac0ec1)
@@ -2494,6 +2510,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - JSON
 
+* [Awesome Elixir: JSON](https://github.com/h4cc/awesome-elixir#json)
 * A Phoenix and Elixir REST API - Bill Peregoy: [Part 1](https://becoming-functional.com/building-a-rest-api-with-phoenix-and-elixir-b12dcec302c5) | [Part 2](https://becoming-functional.com/a-phoenix-and-elixir-rest-api-part-2-dc00e8b73c9d)
 * [Building and testing a Phoenix JSON API - Paul Smith (Thoughtbot)](https://robots.thoughtbot.com/building-a-phoenix-json-api)
 
@@ -2620,7 +2637,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PROPERTY-BASED TESTING
 
+* [StreamData: Elixir library for data generation and property-based testing - Andrea Leopardi](https://github.com/whatyouhide/stream_data)
 * [Quixir: Property-based testing for Elixir - Dave Thomas](https://github.com/pragdave/quixir)
+* [Propcheck: Property-based testinf for Elixir - Klaus Alfert](https://github.com/alfert/propcheck)
 * [Property-Based Testing - Exploring Elixir](https://www.youtube.com/watch?v=PLSYM7ada0o)
 * [Property-Based Testing with PropEr, Erlang, and Elixir - Fred Hebert](https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir) | [Older but free "PropEr Testing" website](https://propertesting.com/toc.html)
 
@@ -2640,16 +2659,21 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Typespecs - Elixir docs](http://elixir-lang.org/docs/stable/elixir/typespecs.html)
 * [Type Specifications and Erlang](http://learnyousomeerlang.com/dialyzer)
 
-#### ELIXIR - TYPES - TIME
-
-* Michał Muskała: [Unix Timestamps in Elixir 1.4](http://michal.muskala.eu/2017/02/02/unix-timestamps-in-elixir-1-4.html) & [Unix Timestamps in Elixir](http://michal.muskala.eu/2015/07/30/unix-timestamps-in-elixir.html)
-
 ### ELIXIR - TYPES - DIALYZER/DIALYXIR
 
 * [Hype For Types Using Dialyzer to Bring Type Checking to Your Elixir Code - Emma Cunningham (Code Beam SF 2018)](https://www.youtube.com/watch?v=yZO6FkkdJEg)
 * [Dialyxir](https://github.com/jeremyjh/dialyxir) & [Dialyzer](http://erlang.org/doc/man/dialyzer.html)
 * Dialyzer Optimistic Type Checking for Erlang and Elixir - Jason Voegele: [ElixirConf 2016](https://www.youtube.com/watch?v=JT0ECYZ9FaQ) | [λC 2016](https://www.youtube.com/watch?v=FXCMiQWnWu0)
 * [Practical Type Inference Based on Success Typings - Tobias Lindahl & Konstantinos Sagonas](http://user.it.uu.se/~kostis/Papers/succ_types.pdf)
+
+#### ELIXIR - TYPES - ELCHEMY
+
+* Elchemy: Write Elixir code using statically-typed Elm-like syntax (compatible with Elm tooling): [Github](https://github.com/wende/elchemy)
+* [Elchemy book](https://wende.gitbooks.io/elchemy/content/)
+
+#### ELIXIR - TYPES - TIME
+
+* Michał Muskała: [Unix Timestamps in Elixir 1.4](http://michal.muskala.eu/2017/02/02/unix-timestamps-in-elixir-1-4.html) & [Unix Timestamps in Elixir](http://michal.muskala.eu/2015/07/30/unix-timestamps-in-elixir.html)
 
 #### ELIXIR - UMBRELLA PROJECTS
 
@@ -2660,16 +2684,19 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - VIDEOS
 
+* Elixir.LDN: [2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zu4zxnZXtCSOCvsUHtxTYIl) | [2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h8_H-hZKYjNLTl3UraSyQ7) | [2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ivlIjzcaHS9N_Swe_0hWj0)
+* [EveryElixirVideo.page](https://everyelixirvideo.page/)
 * ElixirConf: [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * EMPEX: [2018 NYC](https://www.youtube.com/playlist?list=PLyO-58-sOapw81dCfjDrX5TuYxS5S8qMq) | [2018 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapy9Fs4Sd-HOeQIFwrSCQ3z1) | [2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS) | [2016](https://www.youtube.com/playlist?list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
 * Lonestar ElixirConf: [2018](https://www.youtube.com/playlist?list=PLGqeEOaC5KsQt7r8KCOzfDgcqsvy_-hCN) | [2017](http://confreaks.tv/events/lonestarelixir2017)
 * [Code BEAM SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v)
+* [Code BEAM STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
 * ElixirDaze: [2018 (Youtube)](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYH_aU7H-ExE2jrA-60qxH3) | [2018 (Confreaks)](http://confreaks.tv/events/elixirdaze2018) | [2017](http://confreaks.tv/events/elixirdaze2017) | [2016 (Youtube)](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH) | [2016 (Confreaks)](http://confreaks.tv/events/elixirdaze2016)
+* [Erlang Solutions Webinars](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jN8cLhwLg7frCx6fJ-GPwM)
 * [Erlang & Elixir Factory SF 2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jtviHbf3fbBRWcaGDBC2u0)
 * [Josh Adams working on Firestorm UI](https://www.twitch.tv/dailydrip/videos/all)
 * ElixirConf: [2016 videos](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYoiEKWny0Jj72iu564bVFD) | [2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H) | [2014 videos](http://confreaks.tv/events/elixirconf2014)
 * ElixirConf EU: [2017 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jV6N5XEjbUQe2GkYcRkZdD) | [2016 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2gB7HUE-2H61HAEyszAph3H) | [2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
-* [Elixir.LDN 2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ivlIjzcaHS9N_Swe_0hWj0)
 * [Elixir videos (Vimeo)](https://vimeo.com/search?q=Elixir)
 * [ElixirConf 2015 videos](http://confreaks.tv/events/elixirconf2015)
     * [Keynote: The Pendulum - Bruce Tate](https://www.youtube.com/watch?v=X8rWK-g8kCQ)
@@ -3015,6 +3042,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - PACKAGES
 
+* [Working with Files - Evan Czaplicki](https://elm-lang.org/blog/working-with-files): [elm-file](https://package.elm-lang.org/packages/elm/file/latest) | [elm-bytes](https://package.elm-lang.org/packages/elm/bytes/latest) | [elm-http](https://package.elm-lang.org/packages/elm/http/latest)
 * [Elm package documentation](http://package.elm-lang.org/packages/elm-lang/core/latest)
 * [Elm search (by function name or approximate type signature)](http://klaftertief.github.io/elm-search/)
 * [Elm devtool: attempt to use Elm's (time-traveling) debugger on Chrome DevTools](https://github.com/jinjor/elm-devtool)
@@ -3055,6 +3083,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - PHOENIX & ELM
 
+* [Elm, Elixir, and Phoenix: Reflecting on a Functional Full-Stack Project - Zack Kayser](https://teamgaslight.com/blog/elm-elixir-and-phoenix-reflecting-on-a-functional-full-stack-project)
 * [Get started with Elm 0.19 and Phoenix 1.4 - Riccardo Binetti](https://blog.ispirata.com/get-started-with-elm-0-19-and-phoenix-1-4-291beebb350b)
 * [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader)
 * [Connecting Elm to Phoenix 1.4 with webpack - Paul Fioravanti](https://paulfioravanti.com/blog/2018/07/26/connecting-elm-to-phoenix-1-4-with-webpack/)
@@ -3639,6 +3668,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - SECURITY
 
+* [Transparently Securing Kafka, Istio-style, with up to 300% Higher Performance than Native TLS in Microservice Environments - Jayanth Gummaraju](https://medium.com/jayanthg/transparently-securing-kafka-istio-style-with-up-to-300-higher-performance-than-native-tls-in-aa95731b5d40) | [original article](https://www.banyanops.com/pdf/KafkaArticle.pdf)
 * [Apache Kafka Security: SSL, Kerberos & Authorization - Sriharsha Chintalapani & Parth Brahmbhatt (2016 Hadoop Summit San Jose)](https://www.youtube.com/watch?v=y6XvNEInPZ0)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - PRODUCTIONIZING
