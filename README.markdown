@@ -252,6 +252,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Artificial Intelligence in Industry](https://www.techemergence.com/category/primary-content-type/artificial-intelligence-podcast/)
 * [Machine Learning Guide - Tyler Renelle](http://ocdevel.com/podcasts/machine-learning)
+* [Practical AI](https://www.podcastrepublic.net/podcast/1406537385)
 * [Talking Machines](http://www.thetalkingmachines.com/blog/)
 * [This Week in Machine Learning & AI](https://twimlai.com/shows/)
 
@@ -544,6 +545,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [What they don't tell you about entrepreneurship - Mark Leruste (TEDxCardiff)](https://www.youtube.com/watch?v=f6nxcfbDfZo)
 * [How to build a Billion Dollar app? - George Berkowski (TEDxCityUniversityLondon)](https://www.youtube.com/watch?v=OwuEwhX1M_M)
 
+#### BUSINESS - ENTREPRENEURSHIP - BENEFIT CORPORATIONS
+
+* [B Lab (BCorporation.net)](https://bcorporation.net)
+* [BenefitCorp.net](http://benefitcorp.net/)
+* [Benefit Corporation FAQs - Wolters Kluwer](https://ct.wolterskluwer.com/resource-center/articles/benefit-corporations-faqs)
+* [Startups: Should you incorporate as a Public Benefit Corporation? - Charlie Kannel & May Samali](https://venturebeat.com/2017/04/30/startups-should-you-incorporate-as-a-public-benefit-corporation/)
+* [What Is a Benefit Corporation? - Jane Haskins (LegalZoom)](https://www.legalzoom.com/articles/what-is-a-benefit-corporation)
+* [Your Benefit Corporation Options: Should You Incorporate in Delaware or Elsewhere? - Sandra B. Feldman (Wolters Kluwer)](https://ct.wolterskluwer.com/resource-center/news/benefit-corporation-incorporate-delaware-other-state)
+
 #### BUSINESS - ENTREPRENEURSHIP - BLOGS & NEWS
 
 * [eCorner (Stanford University)](https://ecorner.stanford.edu/) | [Youtube channel](https://www.youtube.com/user/ecorner)
@@ -567,7 +577,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Fundable](https://www.fundable.com/)
 * [FundedByMe (EU)](https://www.fundedbyme.com/en/)
 * [FundersClub](https://fundersclub.com/)
-* [Gust](https://gust.com/)
+* [Gust](https://gust.com/) | [Twitter](https://twitter.com/gustly)
 * [IndieGogo](https://equity.indiegogo.com/)
 * [Kickstarter](https://www.kickstarter.com/)
 * [MicroVentures](https://microventures.com/)
@@ -951,6 +961,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Spark Docs](https://spark.apache.org/docs/latest/) | [Quick start](https://spark.apache.org/docs/latest/quick-start.html) | [RDD Programming Guide](https://spark.apache.org/docs/latest/rdd-programming-guide.html) | [Spark SQL, Datasets, and DataFrames](https://spark.apache.org/docs/latest/sql-programming-guide.html) | [Structured Streaming](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html) | [Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html) | [MLlib](https://spark.apache.org/docs/latest/ml-guide.html) | [GraphX](https://spark.apache.org/docs/latest/graphx-programming-guide.html) | [Scala API](https://spark.apache.org/docs/latest/api/scala/index.html#org.apache.spark.package) | [Java API](https://spark.apache.org/docs/latest/api/java/index.html) | [Python API](https://spark.apache.org/docs/latest/api/python/index.html) | [R API](https://spark.apache.org/docs/latest/api/R/index.html) | [Spark SQL, Built-in Functions](https://spark.apache.org/docs/latest/api/sql/index.html)
 * [Spark - TutorialsPoint.com](https://www.tutorialspoint.com/apache_spark/apache_spark_tutorial.pdf)
+* [SF Spark 2017](https://www.youtube.com/playlist?list=PLNESult6cnOlunFvAw-ROSkXsV4UrKjuy)
 * [Scala Machine Learning Projects: Recommendation Systems - Navdeep Singh](https://medium.com/@navdeepsingh_2336/scala-machine-learning-projects-recommendation-systems-d41d9eebbb06)
 * [Processing Fast Data with Apache Spark: The Tale of Two Streaming APIs - Gerard Maas (Reactive Summit Montreal 2018)](https://www.reactivesummit.org/2018/schedule/processing-fast-data-with-apache-spark-the-tale-of-two-streaming-apis)
 * [ApacheSpark as a gateway drug to FP: Concepts taught & broken - Holden Karau (Curry On! Amsterdam)](https://www.youtube.com/watch?v=EDJfpkDpoE4)
@@ -1050,6 +1061,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [San Francisco, CA](https://data.sfgov.org/)
 * [Seattle, WA](https://data.seattle.gov/)
 
+### DATA - BIG DATA
+
+* [J on the Beach conference videos](https://www.youtube.com/channel/UC3KyKpIyhLAnIUqcYBo4PFg/playlists)
+
 ### DATA - NATURAL LANGUAGE PROCESSING (NLP)
 
 * [Common Crawl](http://commoncrawl.org/)
@@ -1065,6 +1080,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Data Engineering Podcast - Tobias Macey](https://www.dataengineeringpodcast.com/)
 * [DataFramed - Hugo Bowne-Anderson (DataCamp)](https://www.datacamp.com/community/podcast)
 * [Data Podcast](https://itunes.apple.com/us/podcast/data-podcast/id1247751397)
+* [In Context - Integrate.AI](https://soundcloud.com/integrateai)
 * [O'Reilly Data Show Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast)
 
 ### DATA - SCRAPING
@@ -1522,8 +1538,19 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Creating and Starting a VM Instance](https://cloud.google.com/compute/docs/instances/create-start-instance)
 * [Setting up Jenkins on Kubernetes Engine](https://cloud.google.com/solutions/jenkins-on-kubernetes-engine-tutorial)
 
+#### DEVOPS - GOOGLE CLOUD - FILESTORE
+
+* [Cloud Filestore: Managed file storage for apps requiring filesystem interface and shared filesystem for data](https://cloud.google.com/filestore/)
+
+#### DEVOPS - GOOGLE CLOUD - HEALTHCARE
+
+* [Healthcare & Life Sciences Solutions](https://cloud.google.com/solutions/healthcare-life-sciences/)
+* [Healthcare API](https://cloud.google.com/healthcare/)
+
 #### DEVOPS - GOOGLE CLOUD - KUBERNETES
 
+* [Kubernetes Engine](https://cloud.google.com/kubernetes-engine/) | [Docs](https://cloud.google.com/kubernetes-engine/docs/)
+* [Getting Started With Google Kubernetes Engine - Google Cloud (Coursera)](https://www.coursera.org/learn/google-kubernetes-engine)
 * [Container management and deployment: from development to production - Kelsey Hightower (Google Cloud Next '17)](https://www.youtube.com/watch?v=XL9CQobFB8I)
 * [Kelsey Hightower's Best Live Demo Yet - Kelsey Hightower (Cloud Next '18)](https://www.youtube.com/watch?v=U6SfRPwTKqo)
 * [Google Container Engine - The easiest way to use containers in production - Robert Bailey and Chen Goldberg (Google Cloud Next '17)](https://www.youtube.com/watch?v=_yk1tTHYBvg)
@@ -1763,6 +1790,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - STATEFUL SERVICES
 
+* [Stateful Service Design Considerations for the Kubernetes Stack - Jonas Bonér](https://www.infoq.com/articles/stateful-service-design-kubernetes)
 * [Building Scalable Stateful Services - Caitie McCaffrey (Curry On 2016)](https://www.youtube.com/watch?v=aJFxQAAMAQc) & [Building Scalable Stateful Services - Caitie McCaffrey (StrangeLoop 2015)](https://www.youtube.com/watch?v=H0i_bXKwujQ)
 
 ### DEVOPS - TITUS
@@ -2074,9 +2102,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - CODE EXAMPLES
 
-* [tanx - Tank game created by the Programming Elixir study group](https://github.com/ElixirSeattle/tanx)
-* [Git Gud - Github clone written in Elixir - Almighty Couch](https://github.com/almightycouch/gitgud)
-* [Simulations - James Edward Gray II](https://github.com/JEG2/simulations)
+* [ExVenture: text-based MMO server written in Elixir - Eric Oestrich](https://github.com/oestrich/ex_venture)
+* [tanx: Tank game created by the Programming Elixir study group](https://github.com/ElixirSeattle/tanx)
+* [Git Gud: Github clone written in Elixir - Almighty Couch](https://github.com/almightycouch/gitgud)
+* [Simulations: James Edward Gray II](https://github.com/JEG2/simulations)
 * [a-little-elixir-goes-a-long-way (Elixir version of code examples from The Little Schemer)](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way/tree/master/lib/schemer)
 * [Rebuilding the Mission Impossible security system in Elixir on RaspberryPi - Ju Liu](https://www.erlang-solutions.com/blog/rebuilding-the-mission-impossible-security-system-in-elixir-on-raspberrypi.html)
 * [Elixir Deep Dive: Evercam, a 10K LOC Phoenix app - Derek Haynes](https://hackernoon.com/elixir-deep-dive-evercam-a-10k-loc-phoenix-app-bd84bc20345d#.28z6nirlc)
@@ -2162,6 +2191,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Cluster.Strategy.Kubernetes](https://hexdocs.pm/libcluster/Cluster.Strategy.Kubernetes.html)
 * [ClusterConsul.Strategy](https://github.com/arcz/libcluster_consul)
 * Elixir and Kubernetes - Bo Ingram: [Introducing Aristochat](http://www.boingram.com/2017/07/15/elixir-and-kubernetes-1.html) | [Starting Kubernetes](http://www.boingram.com/2017/07/19/elixir-and-kubernetes-2.html) | [Deploying Aristochat](http://www.boingram.com/2017/08/01/elixir-and-kubernetes-3.html)
+
+##### ELIXIR - DEPLOYMENT - CLUSTERING - SQUABBLE
+
+* [Squabble: Simple leader election for Elixir applications - Eric Oestrich](https://github.com/oestrich/squabble)
 
 #### ELIXIR - DEPLOYMENT - CONFIGURATION
 
@@ -2253,6 +2286,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [A sneak peek at Ecto 3.0: breaking changes - José Valim](http://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-breaking-changes/)
 * [A sneak peek at Ecto 3.0: query improvements (part 1) - José Valim](http://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-query-improvements-part-1/)
 
+#### ELIXIR - ECTO - MYXQL
+
+* [Announcing a new MySQL driver: MyXQL - José Valim](https://elixirforum.com/t/announcing-a-new-mysql-driver-myxql/17124)
+
 ### ELIXIR - ELASTICSEARCH
 
 * [Tirexs - Elixir DSL for Elasticsearch](https://github.com/roundscope/tirexs)
@@ -2271,9 +2308,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [event_bus: Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS - Mustafa Turan](https://github.com/otobus/event_bus) & [event_bus_postgres: Postgres event store for event_bus](https://github.com/otobus/event_bus_postgres)
 * [Pachyderm - an elephant never forgets - Peter Saxton](https://github.com/CrowdHailer/event-sourcing.elixir)
 * [Dealing with eventual consistency in a CQRS/ES application - Ben Smith](https://10consulting.com/2017/10/06/dealing-with-eventual-consistency/)
-* [Eventstore: CQRS event store using PostgreSQL for persistence - Ben Smith](https://github.com/slashdotdash/eventstore)
-* [Commanded: Use Commanded to build Elixir CQRS/ES applications - Ben Smith](https://github.com/slashdotdash/commanded)
-* [EventSourced: Functional domain models with event sourcing in Elixir - Ben Smith](https://github.com/slashdotdash/eventsourced)
 * [Supporting multiple event stores in Commanded using an adapter based approach for Elixir - Ben Smith](https://10consulting.com/2017/05/17/supporting-multiple-event-stores-in-commanded/)
 * Derek Kraan: [Event Sourcing in Elixir](https://tech.zilverline.com/2017/04/07/elixir_event_sourcing) & [Event Sourcing: Invariants spanning multiple aggregates](https://tech.zilverline.com/2017/04/21/event-sourcing-invariants-spanning-multiple-aggregates)
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
@@ -2284,6 +2318,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * Christian Posta: [Why Microservices Should Be Event Driven: Autonomy vs Authority](http://blog.christianposta.com/microservices/why-microservices-should-be-event-driven-autonomy-vs-authority/) | [3 Easy Things to Do to Make Your Microservices More Resilient](http://blog.christianposta.com/microservices/3-easy-things-to-do-to-make-your-microservices-more-resilient/) | [Carving the Java EE Monolith Into Microservices: Prefer Verticals Not Layers](http://blog.christianposta.com/microservices/carving-the-java-ee-monolith-into-microservices-perfer-verticals-not-layers/) | [The Hardest Part About Microservices: Your Data](http://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data/)
 * [DDD/CQRS/ES/NoSQL and functional programming](https://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519)
 * [CQRS with Erlang - Bryan Hunter (NDC Conference 2014)](https://vimeo.com/97318824)
+
+#### ELIXIR - EVENT SOURCING/CQRS - COMMANDED
+
+* [Commanded: Use Commanded to build Elixir CQRS/ES applications - Ben Smith](https://github.com/slashdotdash/commanded)
+* [Eventstore: CQRS event store using PostgreSQL for persistence - Ben Smith](https://github.com/slashdotdash/eventstore)
+* [Conduit: RealWorld example backend implementing the CQRS/ES pattern in Elixir and Phoenix](https://github.com/slashdotdash/conduit)
+* [EventSourced: Functional domain models with event sourcing in Elixir - Ben Smith](https://github.com/slashdotdash/eventsourced)
+* [Building Conduit - Ben Smith (non-free)](https://leanpub.com/buildingconduit)
 
 ### ELIXIR - EXDOC
 
@@ -2352,6 +2394,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - LOGGING & MONITORING
 
 * Awesome Elixir: [Logging](https://github.com/h4cc/awesome-elixir#logging) & [Instrumenting / Monitoring](https://github.com/h4cc/awesome-elixir#instrumenting--monitoring)
+* [The Ultimate Guide to Logging in Elixir - Brandon Richey](https://timber.io/blog/the-ultimate-guide-to-logging-in-elixir/)
 
 ### ELIXIR - MACROS
 
@@ -2567,6 +2610,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - WEB SOCKETS
 
+* [Writing an Evented WebSocket Client - Eric Oestrich](http://blog.oestrich.org/2018/11/writing-evented-websocket-client)
 * [The joy of React+Redux with Elixir/OTP - Nacho Martin](https://limenius.com/elixir-otp-react-redux/)
 * [Event Sourcing in React, Redux & Elixir — how we write fast, scalable, real-time apps at Rapport - Gary McAdam](https://medium.com/rapport-blog/event-sourcing-in-react-redux-elixir-how-we-write-fast-scalable-real-time-apps-at-rapport-4a26c3aa7529)
 * [Driving Phoenix sockets - Saša Jurić](http://theerlangelist.com/article/driving_phoenix_sockets)
@@ -2663,7 +2707,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Hype For Types Using Dialyzer to Bring Type Checking to Your Elixir Code - Emma Cunningham (Code Beam SF 2018)](https://www.youtube.com/watch?v=yZO6FkkdJEg)
 * [Dialyxir](https://github.com/jeremyjh/dialyxir) & [Dialyzer](http://erlang.org/doc/man/dialyzer.html)
-* Dialyzer Optimistic Type Checking for Erlang and Elixir - Jason Voegele: [ElixirConf 2016](https://www.youtube.com/watch?v=JT0ECYZ9FaQ) | [λC 2016](https://www.youtube.com/watch?v=FXCMiQWnWu0)
+* Dialyzer: Optimistic Type Checking for Erlang and Elixir - Jason Voegele: [ElixirConf 2016](https://www.youtube.com/watch?v=JT0ECYZ9FaQ) | [λC 2016](https://www.youtube.com/watch?v=FXCMiQWnWu0)
 * [Practical Type Inference Based on Success Typings - Tobias Lindahl & Konstantinos Sagonas](http://user.it.uu.se/~kostis/Papers/succ_types.pdf)
 
 #### ELIXIR - TYPES - ELCHEMY
@@ -2776,6 +2820,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elmcast.io](http://elmcast.io): [Elm Toolbox #1: Platform](http://www.ajhager.com/elm-toolings/) | [Elm Toolbox #2: Utilities](http://www.ajhager.com/elm-toolbox-part-2-utilities/)
 * Elm: [RunElm.io: JSBin for Elm](https://runelm.io) | [Try Elm (online editor)](http://elm-lang.org/try) | [RunElm.io](https://runelm.io/new) | [Online Elm repl](http://elmrepl.cuberoot.in/) | [overview](http://elm-lang.org/) | [docs](http://elm-lang.org/docs) | [examples](http://elm-lang.org/examples) | [architecture tutorial](https://github.com/evancz/elm-architecture-tutorial) | [blog](http://elm-lang.org/blog) | [packages](http://package.elm-lang.org/) | [platform](https://github.com/elm-lang/elm-platform) | [slack](http://elmlang.herokuapp.com/) | [debugger](http://debug.elm-lang.org/try)
 * [Intro to Elm - Richard Feldman (2016)](https://www.youtube.com/watch?v=3_M2G9U51GA)
+* [Structured Editing for Elm* in Elm - Ravi Chugh (Elm-conf 2018)](https://www.youtube.com/watch?v=-TFL6E1uSHE)
 * [Elm for Javascript Developers - Jack Franklin (PolyConf 16)](https://www.youtube.com/watch?v=tOkOmWgDLOM)
 * [How to create a SPA application in Elm 0.18 (from scratch) - Adrián Ribao](https://medium.com/@adrian_ribao/how-to-create-a-spa-application-in-elm-0-18-from-scratch-68d25e0631f6)
 * [Confident Frontend with Elm - Jack Franklin (Full Stack Fest)](https://www.youtube.com/watch?v=rDQ22Yg3Fms)
@@ -2844,6 +2889,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - BLOGS
 
+* [Alex Korban](https://korban.net/posts/elm/)
 * [Becoming-Functional (Bill Peregoy)](https://becoming-functional.com/)
 * [Brian Hicks](https://www.brianthicks.com/)
 * [Dennis Reimann](https://dennisreimann.de/articles/elm.html)
@@ -2953,7 +2999,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELM - CSS & UI - ELM-UI
 
-* Elm-UI: [Docs](https://elm-ui.netlify.com/documentation/getting-started/setup) | [Reference](https://elm-ui.netlify.com/reference) | [Github](https://github.com/gdotdesign/elm-ui)
+* Elm-UI: [Docs](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/) | [Getting started](https://elm-ui.netlify.com/documentation/getting-started/setup) | [Reference](https://elm-ui.netlify.com/reference) | [Github](https://github.com/gdotdesign/elm-ui)
+* [Building a Toolkit for Design - Matthew Griffith (elm-conf 2018)](https://www.youtube.com/watch?v=Ie-gqwSHQr0)
+* [elm-ui: Forget CSS and enjoy creating UIs in pure Elm - Alex Korban](https://korban.net/posts/elm/2019-11-17-elm-ui-introduction/)
 * [elm-ui - rock paper scissors (Dave Alger - lizard spock)](https://www.youtube.com/watch?v=fhMLEOr8C4U)
 * [Elm UI - opinionated UI library and application framework for the web in Elm, following the Elm Architecture](https://github.com/gdotdesign/elm-ui)
 
@@ -3424,6 +3472,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Rethinking Microservices with Stateful Streams - Ben Stopford (Devoxx Poland 2017)](https://www.youtube.com/watch?v=hqt9QIhwAW8)
 * [Experimentation Using Event-based Systems - Martin Fowler + Toby Clemson (Kafka Summit 2018)](https://www.youtube.com/watch?v=_RgUxUTuxH4)
 * [Building event-driven (Micro)Services with Apache Kafka - Guido Schmutz (VoxxedDays Zurich 2018)](https://www.youtube.com/watch?v=IR1NLfaq7PU)
+* [The Naked Truth About Migrating to Microservices - (CodeNode London 2018)](https://skillsmatter.com/skillscasts/12965-the-naked-truth-about-migrating-to-microservices)
 * [Microservice communication and integration: what are my options? - Kate Stanley (JFokus 2017)](https://www.youtube.com/watch?v=4KQoYVX9lNM)
 * [Building a Microservices Ecosystem with Kafka Streams and KSQL - Ben Stopford](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
 * [Event Sourcing, Distributed Systems & CQRS - Sebastian Daschner](https://www.youtube.com/watch?v=CYocFQvl6s0&list=PLEV9ul4qfGOZ5gWIPMlFGMUpenSs1EvxZ) & [scalable-coffee-shop (event-driven example app in Java)](https://github.com/sdaschner/scalable-coffee-shop)
@@ -3609,6 +3658,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Handling GDPR: How to make Kafka Forget - Ben Stopford](http://www.benstopford.com/2017/12/04/handling-gdpr-make-kafka-forget/)
 * [Delete Arbitrary Messages from a Kafka - Ben Stopford](http://www.benstopford.com/2017/10/06/confluent-schema-registry-failover-failback/)
+
+#### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - EXAMPLES
+
+* We ❤️ syslogs: Real-time syslog processing with Apache Kafka and KSQL - Robin Moffatt: [Part 1: Filtering](https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-part-1-filtering) | [Part 2: Event-Driven Alerting With Slack](https://www.confluent.io/blog/real-time-syslog-processing-with-apache-kafka-and-ksql-part-2-event-driven-alerting-with-slack/) | [Part 3: Enriching events with external data](https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-enriching-events-with-external-data/)
+
+#### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA CONNECT
+
+* [Kafka Connect Deep Dive – Converters and Serialization Explained - Robin Moffatt](https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA STREAMS
 
@@ -5245,6 +5302,7 @@ Peter R. Egli:
 ## PURESCRIPT
 
 * [main](http://www.purescript.org/) | [learn](http://www.purescript.org/learn/) | [wiki](https://github.com/purescript/purescript/wiki) | [Github](https://github.com/purescript/purescript)
+* [Purescript: Tomorrow's JavaScript Today - Kris Jenkins (Øredev 2017)](https://www.youtube.com/watch?v=5AtyWgQ3vv0)
 * [Pursuit: Purescript package documentation](https://pursuit.purescript.org/)
 * [Learn Functional Programming with PureScript - John A De Goes (LambdaConf 2015)](https://www.youtube.com/watch?v=LqYfdmb0eUU)
 * John A De Goes: The Easy Peasy Lemon Squeezy, Statically Typed, Purely Functional Programming For All [Part 1 (skip first 13 mins)](https://www.youtube.com/watch?v=daFLRG_OjEA) & [Part 2](https://www.youtube.com/watch?v=6OahiNp_CXc)
@@ -5256,6 +5314,7 @@ Peter R. Egli:
 
 ### PURESCRIPT - ELM
 
+* [Building Single Page Web Applications with Purescript and Erlang - Claudia Doppioslash (EUC17)](https://www.youtube.com/watch?time_continue=3&v=HQkxm2P2xbY)
 * [Elm in Purescript - Ryan Rempel](https://www.youtube.com/watch?v=O_kWwaghZ9U)
 
 ### PURESCRIPT - HELP
@@ -5532,6 +5591,7 @@ Peter R. Egli:
 
 * [Akka.io](http://akka.io/) | [Documentation](https://doc.akka.io/docs/akka/current/guide/introduction.html?language=scala) | [Quickstart](https://developer.lightbend.com/guides/akka-quickstart-scala/)
 * [A Practical Introduction to Akka Streams - Jacek Kunicki (Lambda Days 2017)](https://www.youtube.com/watch?v=O_2J6dPSHSo)
+* [Cloud Native Akka & Kubernetes: the holy grail to elasticity? - Fabio Tiriticco ("J" {"On": "The Beach"} 2018)](https://www.youtube.com/watch?time_continue=10&v=OOXRgd5yUQo) & [Akka Java Middleware: What Goes Inside the Containers Counts - Susan Hall](https://thenewstack.io/akka-java-middleware-what-goes-inside-the-containers-counts)
 * [Supercharging Marketo's Multi-Tenant Platform By Going Reactive - Marketo (Reactive Summit Montreal 2018)](https://www.reactivesummit.org/2018/schedule/supercharging-marketos-multi-tenant-platform-by-going-reactive)
 * [Implementing the Reactive Manifesto with Akka - Adam Warski (Lambda Days 2015)](https://www.youtube.com/watch?v=kFH3_OF9EW8)
 * [High Performance Actors - Kiki Carter](https://www.infoq.com/presentations/akka-jctools)
@@ -5640,7 +5700,7 @@ Peter R. Egli:
 ### SCALA - VIDEOS
 
 * [SF Scala](https://www.youtube.com/playlist?list=PLNESult6cnOnmztz0DKuS3n5tKBoRz2yP)
-* Scala Days: [New York 2018](https://www.youtube.com/playlist?list=PLLMLOC3WM2r6Z6dIUi01-XXI4FmDrAl20) | [Berlin 2018](https://www.youtube.com/playlist?list=PLLMLOC3WM2r6-113dYofBD3szljuVpESO) | [2017](https://www.youtube.com/playlist?list=PLLMLOC3WM2r5Ei2mnSHCD-ZD04AXovttL) | [2016](https://www.youtube.com/playlist?list=PLLMLOC3WM2r4aQCKJxxPlrEhJ8tdGWjXj)
+* Scala Days: [New York 2018](https://www.youtube.com/playlist?list=PLLMLOC3WM2r6Z6dIUi01-XXI4FmDrAl20) | [Berlin 2018](https://www.youtube.com/playlist?list=PLLMLOC3WM2r6-113dYofBD3szljuVpESO) [Berlin 2018 Keynotes](https://www.youtube.com/playlist?list=PLLMLOC3WM2r7lgvGUrwJAEEBQi0i9Haub) | [2017](https://www.youtube.com/playlist?list=PLLMLOC3WM2r5Ei2mnSHCD-ZD04AXovttL) | [2016](https://www.youtube.com/playlist?list=PLLMLOC3WM2r4aQCKJxxPlrEhJ8tdGWjXj)
 * [Scala -- the Simple Parts - Martin Odersky (SF Scala 2014)](https://www.youtube.com/watch?v=ecekSCX3B4Q)
 * [Scala: Beyond the Basics - Christopher Batey](https://www.youtube.com/watch?v=4QIgEMvUfIE)
 * [Scalawags](https://www.youtube.com/channel/UCHxNwi3l5CGZo1kG47k7i2Q)
@@ -5726,6 +5786,7 @@ Peter R. Egli:
 
 ### STATISTICAL ANALYSIS - VIDEOS
 
+* [Data by the Bay 2016](https://www.youtube.com/playlist?list=PLNESult6cnOmuIZHyiohiGNRAbK64zHPb)
 * [Strata Conference 2014 videos](https://www.youtube.com/playlist?list=PL055Epbe6d5YX_cD2IDr4dK9Da0Vh6YgI)
 * [Strata Conference 2013 videos](https://www.youtube.com/playlist?list=PL055Epbe6d5ZEYjq8K7CA37-1fEST-yWe)
 
