@@ -1302,7 +1302,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - AWS (AMAZON WEB SERVICES) - KUBERNETES / EKS
 
+* [Deep Dive on Amazon EKS - Brandon Chavis & Eswar Bala (AWS re:Invent 2018)](https://www.youtube.com/watch?v=EDaGpxZ6Qi0)
+* [Run Kubernetes with Amazon EKS - Bob Wise (AWS New York Summit 2018)](https://www.youtube.com/watch?v=mCVdcz01Z-g)
 * [Introducing Amazon EKS - Brandon Chavis (AWS re:Invent 2017)](https://www.youtube.com/watch?v=WHTejF3W0s4)
+* [Run Kubernetes with Amazon EKS - Bob Wise (AWS New York Summit 2018)](https://www.youtube.com/watch?v=mCVdcz01Z-g&t=2s)
+* [Running a High-Performance Kubernetes Cluster with Amazon EKS - Nathan Peck & Yekesa Kosuru (AWS re:Invent 2018)](https://www.youtube.com/watch?v=YQWt6wdAZMU)
+* [Amazon Elastic Container Service for Kubernetes - Christoph Kassen (DevDay 2018](https://www.youtube.com/watch?v=lef1qR7C_GE)
+* [Running Kubernetes with Amazon EKS - AWS Online Tech Talks](https://www.youtube.com/watch?v=rV_NCvs9iGE)
+* [Mastering Kubernetes on AWS - Yaniv Donenfeld & Karl D'Adamo (AWS re:Invent 2018)](https://www.youtube.com/watch?v=8OPkt93WyPA)
 * [Deep Dive Into Amazon EKS - (AWS re:Invent 2017)](https://www.youtube.com/watch?v=vrYLrx-a_Wg)
 * [AWS Workshop for Kubernetes - AWS](https://github.com/aws-samples/aws-workshop-for-kubernetes)
 * [kubernetes-aws.io](https://github.com/kubernetes/community/blob/master/sig-aws/kubernetes-on-aws.md)
@@ -2413,9 +2420,15 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - GRAPHQL
 
+* [ElixirConf 2018 - Making a GraphQL Server with Absinthe & Dataloader - Aaron Votre (ElixirConf 2018](https://www.youtube.com/watch?v=m26i1L2D7Yk)
+* [Build A Instagram Clone with React-Native, Graphql and Phoenix - EQuimper](https://www.youtube.com/playlist?list=PLzQWIQOqeUSOu74jGJMRH06gneM3wL82Z)
+* [Serving it the Absinthe Way - Aaron Votre (Boston Elixir Meetup July 2018)](https://www.youtube.com/watch?v=j8yG6CFjAhU)
 * [A GraphQL-on-Elixir Primer - Bruce Williams (Code Beam SF 2018)](https://www.youtube.com/watch?v=enbksvAko98)
 * [Phoenix GraphQL Tutorial with Absinthe - Ryan Swapp](https://ryanswapp.com/2016/11/29/phoenix-graphql-tutorial-with-absinthe/)
 * [GraphQL in Practice - Bruce Williams & Benjamin Wilson (ElixirConf.EU 2017)](https://www.youtube.com/watch?v=d2qNlXtpWXM)
+* [Live APIs with GraphQL Subscriptions - Bruce Williams & Ben Wilson (ElixirConf 2017)](https://www.youtube.com/watch?v=PEckzwggd78)
+* [Building a Phoenix GraphQL API with Absinthe - Tivelop](https://www.youtube.com/playlist?list=PLw7bfDlTRWbgiApK7X1bRKJJ03xoDU3hm)
+* [A shot of Absinthe: from zero to GraphQL in 40 minutes - Sam Davies (Code Elixir LDN 2018)](https://www.youtube.com/watch?v=IJJQvJRoXy8)
 * [AmberCasts #4: Getting started with GraphQL, Elixir & Absinthe - AmberBit](https://www.youtube.com/watch?v=RF6BSMczt2Q) (Warning: Has some nearly unreadable text)
 * Meraj: [GraphQL with Elixir/Phoenix and Absinthe](https://itnext.io/graphql-with-elixir-phoenix-and-absinthe-6b0ffd260094) | [Authenticating Absinthe GraphQL APIs in Phoenix with Guardian](https://itnext.io/authenticating-absinthe-graphql-apis-in-phoenix-with-guardian-d647ea45a69a)
 
