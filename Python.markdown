@@ -213,6 +213,11 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 * [PyML](http://pyml.sourceforge.net/)
 
+#### PYTHON - DATA ANALYSIS - PYSYFT
+
+* [PySyft: library for encrypted, privacy preserving deep learning](https://github.com/OpenMined/PySyft)
+* [PySyft tutorials](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials)
+
 #### PYTHON - DATA ANALYSIS - PYTABLES
 
 * [PyTables.org](http://www.pytables.org)
@@ -686,6 +691,12 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 * [PyPI - The Python Package Index (45,000 Python packages)](https://pypi.python.org/pypi)
 
+### PYTHON - PYTORCH
+
+* PyTorch: [Documentation](https://pytext-pytext.readthedocs-hosted.com/en/latest/)
+* [PyText: A Seamless Path From NLP Research to Production](https://research.fb.com/publications/pytext-a-seamless-path-from-nlp-research-to-production://research.fb.com/publications/pytext-a-seamless-path-from-nlp-research-to-production/)
+* Artificial Intelligence - Leonardo Araujo dos Santos: [Downloadable PDF](https://legacy.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details) | [Online version](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/pytorch.html)
+
 ### PYTHON - SPYDER
 
 * [Spyder (Scientific PYthon Development EnviRonment)](https://code.google.com/p/spyderlib/)
@@ -710,6 +721,10 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 ### PYTHON - TEXT ANALYSIS
 
+#### PYTHON - TEXT ANALYSIS - FASTTEXT
+
+* [FastText (Facebook)](https://github.com/facebookresearch/fastText)
+
 #### PYTHON - TEXT ANALYSIS - NATURAL LANGUAGE TOOLKIT (NLTK)
 
 * [Statistical Machine Learning for Text Classification With Scikit-learn and NLTK - Olivier Grisel (PyCon 2011)](http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-statistical-machine-learning-for-text-classification-with-scikit-learn-4898362)
@@ -720,6 +735,10 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 #### PYTHON - TEXT ANALYSIS - PATTERN
 
 * [Pattern.en](http://www.clips.ua.ac.be/pages/pattern-en)
+
+#### PYTHON - TEXT ANALYSIS - PYTEXT
+
+* PyText (Facebook): [Docs](https://pytext-pytext.readthedocs-hosted.com/en/latest/) | [Github](https://github.com/facebookresearch/PyText)
 
 #### PYTHON - TEXT ANALYSIS - TEXTBLOB
 

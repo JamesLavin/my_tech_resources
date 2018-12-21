@@ -4,12 +4,30 @@
 
 Links to Ruby & Rails resources I have found useful or think might be helpful to future me or Ruby/Rails developers like me.
 
-## DEPLOYMENT
+## JRUBY
 
-### DEPLOYMENT - DOCKER
+* [Headius (Charles Nutter)'s blog](http://blog.headius.com/)
+* [Why JRuby Works - Charles Nutter, Thomas Enebo (RubyConf 2012)](http://confreaks.tv/videos/1281-rubyconf2012-why-jruby-works)
+* [Why JRuby? - Charles Nutter (Aloha RubyConf 2012)](http://confreaks.tv/videos/1235-aloharuby2012-why-jruby) & [slides](http://www.slideshare.net/CharlesNutter/aloha-rubyconf-2012-jruby)
+* [RubyGems to All JVM Languages - Yoko Harada (RubyConf 2010)](http://www.confreaks.tv/videos/372-rubyconf2010-rubygems-to-all-jvm-languages)
+* [Why JRuby? (Fiona Tay)](http://www.confreaks.tv/videos/2312-larubyconf2013-why-i-like-jruby-and-you-should-too)
+* [JRuby: Ruby in the JVM. Why on Earth?!? - Chris McCann](http://www.sdruby.org/podcast/106)
+* [State of JRuby 2014 - Hiro Asari (Ruby Australia)](http://vimeo.com/90823948)
 
-* [Dockerizing an Existing Rails Application - CoderJourney](https://www.youtube.com/watch?v=dF6VQOZPZBM)
-* [Rails on Docker: Create and run Rails app using Docker - Episode #1 - Chandra Shettigar](https://www.youtube.com/watch?v=a-jcTib9ZPA)
+### JRUBY - JRUBY 9000
+
+* [Keynote: JRuby 9k - Thomas Enebo & Charles Nutter (JRubyConf.eu 2015)](http://confreaks.tv/videos/jrubyconf2015-keynote-jruby-9k)
+* [JRuby 9000 - Charles Nutter, Thomas Enebo (RubyConf 2014)](http://confreaks.tv/videos/5017-RubyConf2014-jruby-9000)
+
+### JRUBY - PERFORMANCE
+
+* [High Performance Ruby - Charles Nutter (GoGaRuCo 2012)](http://confreaks.tv/videos/1113-gogaruco2012-high-performance-ruby)
+* [Deploy, Scale and Sleep at Night with JRuby - Joe Kutner (GoGaRuCo 2012)](http://confreaks.tv/videos/1118-gogaruco2012-deploy-scale-and-sleep-at-night-with-jruby)
+
+### JRUBY - TORQUEBOX
+
+* [Complex Made Simple: Sleep Better with TorqueBox - Lance Ball (RailsConf 2012)](http://confreaks.tv/videos/912-railsconf2012-complex-made-simple-sleep-better-with-torquebox)
+* [TorqueBox - Kevin Menard (BostonRB.org)](http://bostonrb.org/presentations/torquebox)
 
 ## RAILS
 
@@ -157,6 +175,26 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 * [Debugging Rails Applications (RailsGuides)](http://edgeguides.rubyonrails.org/debugging_rails_applications.html)
 * [RUBY - DEBUGGING](https://github.com/jameslavin/my_tech_resources#ruby---debugging)
+
+### RAILS - DEPLOYMENT
+
+#### RAILS - DEPLOYMENT - DOCKER
+
+* [Dockerizing an Existing Rails Application - CoderJourney](https://www.youtube.com/watch?v=dF6VQOZPZBM)
+* [Rails on Docker: Create and run Rails app using Docker - Episode #1 - Chandra Shettigar](https://www.youtube.com/watch?v=a-jcTib9ZPA)
+
+### RAILS - ELASTICSEARCH
+
+* Elasticsearch-Ruby APIs: [Ruby/Rails APIs](http://www.elastic.co/guide/en/elasticsearch/client/ruby-api/current/index.html)
+* Ruby gems' documentation:
+    * [elasticsearch-rails](https://github.com/elasticsearch/elasticsearch-rails/blob/master/elasticsearch-rails/README.md)
+    * [elasticsearch-model](https://github.com/elasticsearch/elasticsearch-rails/blob/master/elasticsearch-model/README.md)
+    * [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby)
+    * [elasticsearch-transport](https://github.com/elasticsearch/elasticsearch-ruby/tree/master/elasticsearch-transport)
+    * [elasticsearch-api](https://github.com/elasticsearch/elasticsearch-ruby/tree/master/elasticsearch-api)
+* [Full-Text Search in Rails with ElasticSearch - Mostafa Abdulhamid](http://www.sitepoint.com/full-text-search-rails-elasticsearch/)
+* [Using Elasticsearch With Rails Apps - Brian Gugliemetti (RailsConf 2013)](https://www.youtube.com/watch?v=U-LrUN6jal8)
+* [Getting Started with Elasticsearch on Rails - Ian Ehlert](http://www.codinginthecrease.com/news_article/show/409843?referrer_id=930667)
 
 ### RAILS - ENGINES, COMPONENTS & SERVICES, OH, MY!
 
@@ -341,6 +379,14 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 * [Draper - Railscasts](http://railscasts.com/episodes/286-draper) & [Presenters from Scratch - Railscasts (non-free)](http://railscasts.com/episodes/287-presenters-from-scratch)
 * [Ruby-Toolbox - Presenters](https://www.ruby-toolbox.com/categories/rails_presenters)
 * [Ruby-Toolbox - Template Engines](https://www.ruby-toolbox.com/categories/template_engines)
+
+### RAILS - VIM
+
+* [Effective Rails Development with Vim - Islam Wazery](http://www.sitepoint.com/effective-rails-development-vim/)
+* [Ruby Text Objects](http://tilvim.com/2014/07/18/ruby-text-objects.html)
+* [vim-rspec](https://github.com/thoughtbot/vim-rspec)
+* [vim-ruby-refactoring tutorials](https://justinram.wordpress.com/2010/12/30/vim-ruby-refactoring-series/)
+* [vim-textobj-rubyblock](https://github.com/nelstrom/vim-textobj-rubyblock)
 
 ### RAILS - WEBSERVERS
 

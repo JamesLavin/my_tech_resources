@@ -115,6 +115,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to Deep Learning with PyTorch - Luis Serrano (Udacity)](https://classroom.udacity.com/courses/ud188)
 * [Notes from Coursera Deep Learning courses by Andrew Ng - Tess Ferrandez](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
 * [Learn Deep Learning in 6 Weeks - Siraj Raval](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks/)
+* [Advanced Deep Learning & Reinforcement Learning - DeepMind](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 * [Mostly Complete Chart of Neural Networks - Fjodor van Veen](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
 * [How Deep Neural Networks Work - Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)
 * [How Neural Networks Really Work - Geoffrey Hinton](https://www.youtube.com/watch?v=EInQoVLg_UY)
@@ -130,6 +131,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Friendly Introduction to Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw)
 * [Visualizing and Understanding Deep Neural Networks - Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw)
 * [The Rise of Artificial Intelligence through Deep Learning - Yoshua Bangio (TEDxMontreal)](https://www.youtube.com/watch?v=uawLjkSI7Mo)
+
+### ARTIFICIAL INTELLIGENCE (AI) - DEEP NEUROEVOLUTION
+
+* [Welcoming the Era of Deep Neuroevolution - Kenneth O. Stanley & Jeff Clune](https://eng.uber.com/deep-neuroevolution/)
+* [Why Greatness Cannot Be Planned: The Myth of the Objective - Kenneth Stanley](https://www.youtube.com/watch?v=dXQPL9GooyI)
+* [Open-endedness: The last grand challenge you’ve never heard of - Kenneth O. Stanley, Joel Lehman, and Lisa Soros (December 2017)](https://www.oreilly.com/ideas/open-endedness-the-last-grand-challenge-youve-never-heard-of)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - GENERAL INTELLIGENCE
 
@@ -187,6 +194,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - MACHINE LEARNING
 
+* [Machine Learning Cheatsheets - Stanford CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning)
 * [Papers With Code - Hottest AI/ML papers with associated code](https://paperswithcode.com/)
 * [arXiv.org machine learning articles](https://arxiv.org/list/stat.ML/recent)
 * [Rules of Machine Learning: Best Practices for ML Engineering - Martin Zinkevich](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
@@ -201,6 +209,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ARTIFICIAL INTELLIGENCE (AI) - NATURAL LANGUAGE PROCESSING (NLP)
 
 * [Natural Language Processing with Deep Learning (Stanford University, Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+* [Deep Learning for NLP - Ed Grefenstette (DeepMind)](https://www.youtube.com/watch?v=Y95JwaynE40)
 * [NLP Newsletter - Sebastian Ruder](http://newsletter.ruder.io/)
 * [4 Approaches to Natural Language Processing & Understanding - Maria Yao](https://www.topbots.com/4-different-approaches-natural-language-processing-understanding/)
 * [Stanford Natural Language Processing Group](https://nlp.stanford.edu/) | [CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
@@ -234,11 +243,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Topbots - Mariya Yao](https://www.topbots.com/author/mariya/) & [Forbes](https://www.forbes.com/sites/mariyayao/people/mariyayao/#4d2c1d1e3dae)
 * [VentureBeat](https://venturebeat.com/category/ai/)
 * [Wired - Tom Simonite](https://www.wired.com/author/tom-simonite/)
-
-### ARTIFICIAL INTELLIGENCE (AI) - NOVELTY LEARNING
-
-* [Why Greatness Cannot Be Planned: The Myth of the Objective - Kenneth Stanley](https://www.youtube.com/watch?v=dXQPL9GooyI)
-* [Open-endedness: The last grand challenge you’ve never heard of - Kenneth O. Stanley, Joel Lehman, and Lisa Soros (December 2017)](https://www.oreilly.com/ideas/open-endedness-the-last-grand-challenge-youve-never-heard-of)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - OPEN AI
 
@@ -510,6 +514,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Startup Class (Sam Altman)](http://startupclass.samaltman.com/)
 * [Founder to CEO (Matt's Book for Startups) - Matt Mochary](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit)
 * [Indie Hackers](https://www.indiehackers.com/)
+* [Thoughtbot](https://thoughtbot.com/resources)
 * [How to Future-Proof Your Career - Dorie Clark (TEDxLugano)](https://www.youtube.com/watch?v=l6leLPN8ipI)
 * [20 Ways to Blow Up Your Company - Jason Mendelson](https://www.youtube.com/watch?v=I8zHfCqz9qY)
 * [13 Reasons My Startup FAILED - Russell Keith-Magee (Djangocon.us 2017)](https://www.youtube.com/watch?v=OOTThZReAdA)
@@ -570,6 +575,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ##### BUSINESS - ENTREPRENEURSHIP - FINANCING - CROWDFUNDING SITES
 
 * [AngelList](https://angel.co/)
+* [AngelPad](https://angelpad.org/)
 * [CircleUp](https://circleup.com/)
 * [CrowdCube (UK)](https://www.crowdcube.com/)
 * [EquityNet](https://www.equitynet.com/)
@@ -605,6 +611,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Bowery Capital Startup Sales Podcast](https://bowerycap.com/blog/tag/startup-sales-podcast/)
 * [Business School Without the BS - Clay Clark & Robert Zoellner](https://itunes.apple.com/us/podcast/thrivetime-show-business-school-without-the-bs/id1076405618)
 * [Cortex - CGP Grey & Myke Hurley](https://www.relay.fm/cortex)
+* [DealMakers - Alejandro Cremades](https://itunes.apple.com/us/podcast/dealmakers/id1439149348?mt=2)
 * [Dingman Bootstrapped](https://www.rhsmith.umd.edu/centers-excellence/dingman-center-entrepreneurship/news-events/podcast)
 * [Foundr - Nathan Chan](https://foundr.com/podcast-with-nathan-chan/)
 * [The Full Ratchet - Nick Moran](https://itunes.apple.com/us/podcast/full-ratchet-vc-venture-capital-angel-investors-startup/id888084300?mt=2)
@@ -1113,7 +1120,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DATABASES - COUCHDB
 
-* Official docs: [PDF](https://media.readthedocs.org/pdf/couchdb/latest/couchdb.pdf) | [Downloads](http://docs.couchdb.org/en/2.1.1/download.html) | [API docs](http://docs.couchdb.org/en/2.1.1/api/index.html) | [Wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Apache+CouchDB+Wiki) | [Blog](https://blog.couchdb.org/) | [Fauxton Visual Guide](http://couchdb.apache.org/fauxton-visual-guide/)
+* Official docs: [PDF](https://media.readthedocs.org/pdf/couchdb/latest/couchdb.pdf) | [Downloads](http://docs.couchdb.org/en/stable/download.html) | [API docs](http://docs.couchdb.org/en/stable/api/index.html) | [Wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Apache+CouchDB+Wiki) | [Blog](https://blog.couchdb.org/) | [Fauxton Visual Guide](http://couchdb.apache.org/fauxton-visual-guide/)
 * [CouchDB: The Definitive Guide - J. Chris Anderson, Jan Lehnardt and Noah Slater](http://guide.couchdb.org/)
 * [Why CouchDB? - Adam Kocoloski](https://www.youtube.com/watch?v=RlM8TH2Gc80)
 * [10 Common Misconceptions about CouchDB - Joan Touzet](https://www.youtube.com/watch?v=BKQ9kXKoHS8)
@@ -1121,13 +1128,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Know NoSQL - A Deep Dive Into CouchDB - Raj Bharath](https://www.youtube.com/watch?v=Lz9TSFU8ZT://www.youtube.com/watch?v=Lz9TSFU8ZTg)
 * [Running a CouchDB 2.0 Cluster in Production on AWS with Docker - Geoff Cox](https://hackernoon.com/running-a-couchdb-2-0-cluster-in-production-on-aws-with-docker-50f745d4bdbc)
 * [rxjs-couchdb](https://github.com/ponyesteves/rxjs-couchdb)
+* [Couch DB Tutorial for Beginners - Krithika Kannan](https://www.youtube.com/watch?v=28YMqKnhANA)
 * [CouchDB replication - Kalilou Diaby](https://www.youtube.com/watch?v=84kO6gTv1-Q)
 * [Restricting Document Updates in CouchDB - Joshua Morony](https://www.youtube.com/watch?v=WRdwKRJBvFI)
 
 #### DATABASES - COUCHDB - DEPLOYMENT
 
 * [Semi-official Apache CouchDB Docker images](https://github.com/apache/couchdb-docker) | [Docker Hub](https://hub.docker.com/r/apache/couchdb/)
+* [How Do I Configure SSL (HTTPS) in CouchDB?](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=48203146)
 * [couchdb-ssl - Clemens Stolle](https://hub.docker.com/r/klaemo/couchdb-ssl/)
+* [CouchDB authentication recipes - Daniel West](https://github.com/pouchdb-community/pouchdb-authentication/blob/master/docs/recipes.md)
 * [Fast CouchDB setup in AWS - Ten Bitcomb](https://gist.github.com/Ravenstine/fb350f5af391aee641d024a74a087b8e)
 
 ### DATABASES - DATOMIC
@@ -1206,14 +1216,26 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DATABASES - POUCHDB
 
+* PouchDB: [PouchDB.com](https://pouchdb.com/) | [API docs](https://pouchdb.com/api.html) | [Guides](https://pouchdb.com/guides/) | [Github](https://github.com/pouchdb/pouchdb)
+* [PouchDB: The Swiss Army Knife of Databases - Glynn Bird](https://medium.com/ibm-watson-data-lab/pouchdb-the-swiss-army-knife-of-databases-c5429f3db21f)
+* [Offline first applications, syncing with PouchDB & CouchDB - François Gengler (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=0LzORC0U6uQ)
+* [Running PouchDB in a Web Worker - Glynn Bird](https://developer.ibm.com/clouddataservices/2016/02/26/running-pouchdb-in-a-web-worker/)
 * [Intro to PouchDB](https://pouchdb.com/guides/)
 * [PouchDB Tutorial - TutorialsPoint.com](https://www.tutorialspoint.com/pouchdb/pouchdb_tutorial.pdf)
+* [Beginner's Guide to PouchDB - Swathi Prasad](https://dzone.com/articles/beginners-guide-to-pouchdb)
 * [pouchdb-authentication](https://www.npmjs.com/package/pouchdb-authentication)
 * [pouchdb-find](https://www.npmjs.com/package/pouchdb-find)
 * [Getting started with PouchDB and CouchDB - Nolan Lawson](https://www.youtube.com/watch?v=-Z7UF2TuSp0)
 * [How to build offline web applications with CouchDB and PouchDB - Gabriel Poça](https://subvisual.co/blog/posts/130-how-to-build-offline-web-applications-with-couchdb-and-pouchdb/)
-* [Offline-First Apps with PouchDB - Bradley Holt](https://www.youtube.com/watch?v=7L7esHWAjSU)
+* Offline-First Apps with PouchDB - Bradley Holt: [2016](https://www.youtube.com/watch?v=yZuGCrJbIJs) | [2015](https://www.youtube.com/watch?v=7L7esHWAjSU)
 * [PouchDB Tutorial - Kaushik Paul](http://knowledgeredbox.com/category/database-tutorial/pouchdb-tutorial/)
+* [Getting Started with PouchDB Client-Side JavaScript Database - Jatin Shridhar](https://www.sitepoint.com/getting-started-with-pouchdb/)
+* [OfflineFirst Apps with PouchDB and CouchDB - Lorna Mitchell (FEN 2018)](https://www.youtube.com/watch?v=9dQFJh0jEWo)
+* [CouchDB, PouchDB and Hoodie as a Stack for Progressive Web Apps - Geoff Cox](https://medium.com/offline-camp/couchdb-pouchdb-and-hoodie-as-a-stack-for-progressive-web-apps-a6078a985f18)
+
+#### DATABASES - POUCHDB - GRAPHQL
+
+* [graphql-pouch - Mike Bild](https://github.com/MikeBild/graphql-pouch)
 
 ### DATABASES - SQL
 
@@ -1532,6 +1554,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - GOOGLE CLOUD
 
 * Gcloud: [Overview](https://cloud.google.com/sdk/gcloud/) | [Compute Concepts](https://cloud.google.com/compute/docs/concepts) | [SDK Concepts](https://cloud.google.com/sdk/docs/concepts) | [Reference](https://cloud.google.com/sdk/gcloud/reference/) | [Compute How-Tos](https://cloud.google.com/compute/docs/how-to) | [SDK How-Tos](https://cloud.google.com/sdk/docs/how-to)
+* [Training - Google Cloud](https://teachercenter.withgoogle.com/gcp/training)
 * [Developing Applications with Google Cloud Platform Specialization - Coursera](https://www.coursera.org/specializations/developing-apps-gcp)
 * [Secrets Management - Google Cloud](https://cloud.google.com/solutions/secrets-management/)
 * Janakiram MSV: [Configuring Kubernetes Cluster Federation to Create a Global Deployment](https://thenewstack.io/configuring-kubernetes-cluster-federation-to-create-a-global-deployment/) | [Deploy a Multicluster Ingress on Google Kubernetes Engine](https://thenewstack.io/deploy-a-multicluster-ingress-on-google-kubernetes-engine/)
@@ -1550,6 +1573,11 @@ Links to resources I have found useful or think might be helpful to future me or
 #### DEVOPS - GOOGLE CLOUD - KUBERNETES
 
 * [Kubernetes Engine](https://cloud.google.com/kubernetes-engine/) | [Docs](https://cloud.google.com/kubernetes-engine/docs/)
+* [Continuous Delivery Pipelines with Spinnaker and Google Kubernetes Engine](https://cloud.google.com/solutions/continuous-delivery-spinnaker-kubernetes-engin://cloud.google.com/solutions/continuous-delivery-spinnaker-kubernetes-engine)
+* [Continuous Deployment to Kubernetes Engine using Jenkins](https://cloud.google.com/solutions/continuous-delivery-jenkins-kubernetes-engine)
+* [Jenkins on Kubernetes Engine](https://cloud.google.com/solutions/jenkins-on-kubernetes-engine)
+* [Setting up Jenkins on Kubernetes Engine](https://cloud.google.com/solutions/jenkins-on-kubernetes-engine-tutorial)
+* [Configuring Jenkins for Kubernetes Engine](https://cloud.google.com/solutions/configuring-jenkins-kubernetes-engine)
 * [Getting Started With Google Kubernetes Engine - Google Cloud (Coursera)](https://www.coursera.org/learn/google-kubernetes-engine)
 * [Container management and deployment: from development to production - Kelsey Hightower (Google Cloud Next '17)](https://www.youtube.com/watch?v=XL9CQobFB8I)
 * [Kelsey Hightower's Best Live Demo Yet - Kelsey Hightower (Cloud Next '18)](https://www.youtube.com/watch?v=U6SfRPwTKqo)
@@ -1591,18 +1619,25 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - ISTIO.IO
 
 * [Istio: Open Platform to Connect, Manage, and Secure Microservices](https://istio.io/) | [Github](https://github.com/istio/istio) | [Twitter](https://twitter.com/IstioMesh)
+* [Distributed Microservices Metrics and Tracing with Istio and OpenCensus – Sandeep Dinesh (GDG DevFest Ukraine 2018)](https://www.youtube.com/watch?v=1wWfVqYb-5Y)
 * [Introduction to Service Management with Istio Service Mesh (Cloud Next '18)](https://www.youtube.com/watch?v=wCJrdKdD6UM)
 * [Istio 1.0.x Workshop - RedHat OpenShift](https://learn.openshift.com/servicemesh)
 * [Istio - Weaving the Service Mesh - Louis Ryan (QCon San Francisco 2017)](https://www.youtube.com/watch?v=bPEgHNZxlJw)
 * [Making Microservices Micro with Istio Service Mesh - Ray Tsang (Devox Belgium 2017)](https://www.youtube.com/watch?v=AGztKw580yQ)
+* [Microservices in the Cloud with Kubernetes and Istio - Sandeep Dinesh (Google I/O '18)](https://www.youtube.com/watch?v=gauOI0O9fRM)
+* [Istio 101: Open Source Service Mesh for Microservices! - Sandeep Dinesh (2017)](https://www.youtube.com/watch?v=8OjOGJKM98o)
 * [Getting Started with Istio on Amazon EKS - Arun Gupta](https://aws.amazon.com/blogs/opensource/getting-started-istio-eks/)
 * [Stop reinventing the wheel with Istio - Mete Atamel (Devoxx UK 2018)](https://www.youtube.com/watch?v=pGKwluckJ-A)
 * [Service Mesh: What, Why, And How? - Flynn (DevOpsDays Boston 2017)](https://www.youtube.com/watch?v=B0vi6ZqqmMw)
-* [Microservices in the Cloud with Kubernetes and Istio - Sandeep Dinesh (Google I/O '18)](https://www.youtube.com/watch?v=gauOI0O9fRM)
 * [Making Microservices Micro with Istio Service Mesh - Ray Tsang (Devox Belgium 2017)](https://www.youtube.com/watch?v=AGztKw580yQ)
+
+#### DEVOPS - ISTIO.IO - AWS
+
+* [Getting Started with Istio on Amazon EKS - Arun Gupta](https://aws.amazon.com/blogs/opensource/getting-started-istio-eks/)
 
 #### DEVOPS - ISTIO.IO - GKE
 
+* [Istio - Google Cloud](https://cloud.google.com/istio/)
 * [Hello Istio Codelab (With Google Kubernetes) - Google](https://codelabs.developers.google.com/codelabs/cloud-hello-istio/#0)
 * [Istio 101 (1.0) on GKE](https://meteatamel.wordpress.com/2018/08/06/istio-101-1-0-on-gke/) | [Istio 101 (0.8.0) on GKE - Mete Atamel (Google)](https://meteatamel.wordpress.com/2018/06/07/istio-101-0-8-0-on-gke/)
 
@@ -1648,20 +1683,32 @@ Links to resources I have found useful or think might be helpful to future me or
 ##### DEVOPS - KUBERNETES - HELM - CHARTS
 
 * [KubeApps.com (Helm charts)](https://hub.kubeapps.com/)
+* [CockroachDB](https://hub.kubeapps.com/charts/stable/cockroachdb)
 * [CouchDB](https://hub.kubeapps.com/charts/incubator/couchdb)
 * [Docker Registry](https://hub.kubeapps.com/charts/stable/docker-registry)
 * [Grafana](https://hub.kubeapps.com/charts/stable/grafana)
+* [Graphite](https://hub.kubeapps.com/charts/stable/graphite)
+* [JanusGraph](https://hub.kubeapps.com/charts/stable/janusgraph)
 * [Jenkins](https://hub.kubeapps.com/charts/stable/jenkins)
-* [Kafka](https://hub.kubeapps.com/charts/incubator/kafka)
+* [Kafka (Bitnami)](https://hub.kubeapps.com/charts/bitnami/kafka)
+* [Kafka (incubator)](https://hub.kubeapps.com/charts/incubator/kafka)
+* [Kibana](https://hub.kubeapps.com/charts/stable/kibana)
+* [Kong](https://hub.kubeapps.com/charts/stable/kong)
 * [Kubernetes Dashboard](https://hub.kubeapps.com/charts/stable/kubernetes-dashboard)
+* [Kubernetes Operational View](https://hub.kubeapps.com/charts/stable/kube-ops-view)
+* [Kubernetes Vault](https://hub.kubeapps.com/charts/incubator/kubernetes-vault)
 * [Kubewatch](https://hub.kubeapps.com/charts/incubator/kubewatch)
 * [Neo4J](https://hub.kubeapps.com/charts/stable/neo4j)
 * [Nginx Ingress](https://hub.kubeapps.com/charts/stable/nginx-ingress) (see also [Nginx on Docker Hub](https://hub.docker.com/_/nginx/))
 * [PostgreSQL](https://hub.kubeapps.com/charts/stable/postgresql)
 * [Prometheus](https://hub.kubeapps.com/charts/stable/prometheus)
+* [Redis](https://hub.kubeapps.com/charts/stable/redis)
 * [Schema Registry](https://hub.kubeapps.com/charts/incubator/schema-registry)
 * [Selenium](https://hub.kubeapps.com/charts/stable/selenium)
 * [Spark](https://hub.kubeapps.com/charts/stable/spark)
+* [Spinnaker](https://hub.kubeapps.com/charts/stable/spinnaker)
+* [Vault](https://hub.kubeapps.com/charts/incubator/vault)
+* [Zeppelin](https://hub.kubeapps.com/charts/stable/zeppelin)
 
 #### DEVOPS - KUBERNETES - DEPLOYMENT (KUBERNETES)
 
@@ -1704,6 +1751,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - KUBERNETES - VIDEOS
 
+* [theCUBE - KubeCon Seattle 2018](https://www.youtube.com/playlist?list=PLenh213llmcaRR96V1yvSqtz7AiU5sqp7)
 * [KubeCon + CloudNativeCon China 2018](https://www.youtube.com/playlist?list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)
 * [KubeCon + CloudNativeCon 2018 - Copenhagen (354 videos!)](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo)
 * [CNCF (Cloud Native Computing Foundation) video playlists](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA/playlists)
@@ -1787,6 +1835,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Serverless NYC 2018](https://www.serverlessnyc.com/)
 * [The Problem is Data - Gwen Shapira (Serverless NYC 2018)](https://www.youtube.com/watch?v=J-9afazR2o0)
 * Serverlessconf: [Austin 2017](https://www.youtube.com/playlist?list=PLnwBrRU5CSTmruZzR8Z06j3pGglBZcdDr) | [NYC 2016](https://www.youtube.com/playlist?list=PLnwBrRU5CSTnd6NC6E-Fn3SJEJKRkaHJY)
+
+### DEVOPS - SPINNAKER.IO
+
+* [Spinnaker.io](https://www.spinnaker.io/)
+* [Using Kubernetes, Spinnaker and Istio to Manage a Multi-cloud Environment - Ameer Abbas (Cloud Next '18)](https://www.youtube.com/watch?v=kKC-VgAptII)
 
 ### DEVOPS - STATEFUL SERVICES
 
@@ -1946,19 +1999,6 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Combining filters](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/combining-filters.html)
 
-### ELASTICSEARCH - RAILS
-
-* Elasticsearch-Ruby APIs: [Ruby/Rails APIs](http://www.elastic.co/guide/en/elasticsearch/client/ruby-api/current/index.html)
-* Ruby gems' documentation:
-    * [elasticsearch-rails](https://github.com/elasticsearch/elasticsearch-rails/blob/master/elasticsearch-rails/README.md)
-    * [elasticsearch-model](https://github.com/elasticsearch/elasticsearch-rails/blob/master/elasticsearch-model/README.md)
-    * [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby)
-    * [elasticsearch-transport](https://github.com/elasticsearch/elasticsearch-ruby/tree/master/elasticsearch-transport)
-    * [elasticsearch-api](https://github.com/elasticsearch/elasticsearch-ruby/tree/master/elasticsearch-api)
-* [Full-Text Search in Rails with ElasticSearch - Mostafa Abdulhamid](http://www.sitepoint.com/full-text-search-rails-elasticsearch/)
-* [Using Elasticsearch With Rails Apps - Brian Gugliemetti (RailsConf 2013)](https://www.youtube.com/watch?v=U-LrUN6jal8)
-* [Getting Started with Elasticsearch on Rails - Ian Ehlert](http://www.codinginthecrease.com/news_article/show/409843?referrer_id=930667)
-
 ## ELECTRON
 
 * [Electron: "Build cross platform desktop apps with web technologies"](http://electron.atom.io/)
@@ -2080,6 +2120,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ElixirStatus.com](http://elixirstatus.com/)
 * [Elixir Weekly](https://elixirweekly.net/)
 * [The Erlang eList](http://theerlangelist.com/)
+* [Hacklines](https://hacklines.com/en?tags=Elixir)
 * Hashrocket: [TIL](https://til.hashrocket.com/elixir) & [blog](https://hashrocket.com/blog/tags/elixir)
 * [Iacobson.net](http://iacobson.net/index?tag=elixir)
 * [Plataformatec](http://blog.plataformatec.com.br/tag/elixir/)
@@ -2098,6 +2139,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - CACHING
 
+* Nebulex: fast, flexible and powerful distributed caching framework - Carlos Andres Bolaños R.A.: [Github](https://github.com/cabol/nebulex) & [Distributed Caching in Elixir using Nebulex](https://medium.com/erlang-battleground/distributed-caching-in-elixir-using-nebulex-9af589186caa)
 * [Cachex: caching library for Elixir with support for transactions, fallbacks and expirations](https://github.com/whitfin/cachex) | [Docs](https://hexdocs.pm/cachex/)
 
 ### ELIXIR - CODE EXAMPLES
@@ -2283,12 +2325,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - ECTO - 3.0
 
-* [A sneak peek at Ecto 3.0: breaking changes - José Valim](http://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-breaking-changes/)
-* [A sneak peek at Ecto 3.0: query improvements (part 1) - José Valim](http://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-query-improvements-part-1/)
+* [Changelog](https://github.com/elixir-ecto/ecto/blob/master/CHANGELOG.md)
+* [Caching In Ecto v3.0 - Dockyard](https://dockyard.com/blog/2018/11/20/caching-in-ecto-v3-0)
+* A sneak peek at Ecto 3.0 - José Valim: [Breaking changes](http://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-breaking-changes/) | [Query improvements (part 1)](http://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-query-improvements-part-1/) | [Query improvements (part 2)](http://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-query-improvements-part-2/) | [Performance, migrations and more](http://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-performance-migrations-and-more/)
 
 #### ELIXIR - ECTO - MYXQL
 
 * [Announcing a new MySQL driver: MyXQL - José Valim](https://elixirforum.com/t/announcing-a-new-mysql-driver-myxql/17124)
+* "Building a New MySQL Adapter for Ecto" - Wojtek Mach: [Part 1: Hello World](http://blog.plataformatec.com.br/2018/11/building-a-new-mysql-adapter-for-ecto-part-i-hello-world/) | [Part 2: Encoding/Decoding](http://blog.plataformatec.com.br/2018/12/building-a-new-mysql-adapter-for-ecto-part-ii-encoding-decoding/)
 
 ### ELIXIR - ELASTICSEARCH
 
@@ -2299,6 +2343,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - ERROR HANDLING
 
 * [Error Handling in Elixir Libraries - Michal Muskala](http://michal.muskala.eu/2017/02/10/error-handling-in-elixir-libraries.html)
+
+### ELIXIR - ETS
+
+* [Optimizing Your Elixir and Phoenix projects with ETS - Chris McCord](https://dockyard.com/blog/2017/05/19/optimizing-elixir-and-phoenix-with-ets)
 
 ### ELIXIR - EVENT SOURCING/CQRS
 
@@ -2326,6 +2374,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Conduit: RealWorld example backend implementing the CQRS/ES pattern in Elixir and Phoenix](https://github.com/slashdotdash/conduit)
 * [EventSourced: Functional domain models with event sourcing in Elixir - Ben Smith](https://github.com/slashdotdash/eventsourced)
 * [Building Conduit - Ben Smith (non-free)](https://leanpub.com/buildingconduit)
+
+#### ELIXIR - EVENT SOURCING/CQRS - SAGE
+
+* [Sage: dependency-free tool to run distributed transactions in Elixir, inspired by Sagas pattern - Andrew Dryga](https://github.com/Nebo15/sage)
+* [Introducing Sage: A Sagas pattern implementation in Elixir - Andrew Dryga](https://medium.com/nebo-15/introducing-sage-a-sagas-pattern-implementation-in-elixir-3ad499f236f6)
+
+#### ELIXIR - EVENT SOURCING/CQRS - SEVEN OTTERS
+
+* Seven Otters: CQRS/ES library and facilities for Elixir to build events-oriented applications: [SevenOtters.org](https://www.sevenotters.org/) | [Github](https://github.com/sevenotters) | [Getting Started](https://hexdocs.pm/seven/getting_started.html) | [Blog](https://www.sevenotters.org/allposts)
 
 ### ELIXIR - EXDOC
 
@@ -2507,6 +2564,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Let's do Elixir and Phoenix together - Chris McCord (ElixirConf EU 2018)](https://www.youtube.com/watch?v=MTT1Jl4Fs-E)
 * [Keynote: Phoenix - Gauging Progress - Chris McCord](https://www.youtube.com/watch?v=pfFpIjFOL-I)
+* [Upgrading to Phoenix 1.4 - Zach Smith](https://medium.com/frame-io-engineering/upgrading-to-phoenix-1-4-f01b0e6af348)
 
 #### ELIXIR - PHOENIX - 1.3
 
@@ -2537,6 +2595,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ELIXIR - PHOENIX - DEPLOYMENT
 
 * [Distillery: Phoenix Walkthrough](https://hexdocs.pm/distillery/phoenix-walkthrough.html)
+* [Elixir Phoenix 1.4 Deployments with Distillery and Edeliver on Ubuntu - Troy Martin](https://devato.com/automate-elixir-phoenix-1-4-deployment-with-distillery-and-edeliver-on-ubuntu/)
 * [Exrm Releases (also applies to Distillery) - PhoenixFramework.org](http://www.phoenixframework.org/docs/advanced-deployment)
 * [Deploying Phoenix Applications with Exrm - Brandon Richey](https://medium.com/@diamondgfx/deploying-phoenix-applications-with-exrm-97a3867ebd04?source=tw-5dbe5bfa021a-1446130465757)
 * [Setting Up Phoenix/Elixir With Nginx and LetsEncrypt - Andrew Forward](https://medium.com/@a4word/setting-up-phoenix-elixir-with-nginx-and-letsencrypt-ada9398a9b2c#.fnrxau4z0)
@@ -2590,6 +2649,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - VIDEOS
 
+* [José Valim screencasts (Twitch.tv)](https://www.twitch.tv/josevalim/video/343661380?filter=all)
 * [Exploring Elixir (Youtube screencasts) - Aaron Seigo](https://www.youtube.com/channel/UCFKQ85T69sYhifDHF7dnPgw)
 * [Phoenix 1.2 and Beyond - Chris McCord (ElixirConfEU 2016)](https://www.youtube.com/watch?v=n338leKvqnA)
 * [Arisen from the Ashes: Phoenix.js and Websockets - Max Beizer](https://www.youtube.com/watch?v=AvKnYO7yo_g)
@@ -2637,6 +2697,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [A Practical Guide to Elixir Protocols - Kevin Rockwood](https://www.youtube.com/watch?v=sJvfCE6PFxY)
 * [Polymorphism With Protocols in Elixir - Ilya Bodrov](https://code.tutsplus.com/articles/polymorphism-with-protocols-in-elixir--cms-29081)
 * [A Practical Guide to Elixir Protocols - Kevin Rockwood (ElixirConfEU 2017)](https://www.youtube.com/watch?v=sJvfCE6PFxY)
+
+### ELIXIR - PUSHEX
+
+* [Announcing PushEx: Open-Source WebSocket Push Server in Elixir - Stephen Bussey](https://stephenbussey.com/2018/12/02/announcing-pushex-open-source-websocket-push-server-in-elixir.html)
+* [PushEx](https://github.com/pushex-project/pushex)
 
 ### ELIXIR - RIAK CORE
 
@@ -2728,6 +2793,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - VIDEOS
 
+* The Big Elixir: [2018](https://www.youtube.com/channel/UCInJUDVff2bzZSrkDRUCOdA)
 * Elixir.LDN: [2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zu4zxnZXtCSOCvsUHtxTYIl) | [2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h8_H-hZKYjNLTl3UraSyQ7) | [2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ivlIjzcaHS9N_Swe_0hWj0)
 * [EveryElixirVideo.page](https://everyelixirvideo.page/)
 * ElixirConf: [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
@@ -2875,6 +2941,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm-Friendly Functional Programming For The Web - Luke Westby (GOTO 2016)](https://www.youtube.com/watch?v=tN5UmM2yZPY)
 * [Why I think Elm is the Future of Front End Development - Rishi Goomar](https://medium.com/@rgoomar/why-i-think-elm-is-the-future-of-front-end-development-21e9b091fa05#.g3rivrvzs)
 * [Elm: The Game-Changer - Bastian Krol (RuhrJS 2016)](https://www.youtube.com/watch?v=BQ3fMqwC0zE)
+* [Build complex forms with validation in Elm - Alex Korban](https://korban.net/posts/elm/2018-11-27-build-complex-forms-validation-elm/)
 * [Elm: Awesomesauce or just yet another language for the Front-end? - Magnus Rundberget](https://vimeo.com/181814362)
 * [Elm Programming Language - Jesse Williamson (FullStack Talks)](https://www.youtube.com/watch?v=jrkLrm4Oh2s)
 * [Elm Revisited - Web Platform Podcast](https://www.youtube.com/watch?v=UMMxAcqgwos)
@@ -2898,6 +2965,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm Weekly](http://www.elmweekly.nl/archive)
 * [elm-lang.org/blog](http://elm-lang.org/blog)
 * [Gizra](http://www.gizra.com/tags.html#Elm-ref)
+* [Hacklines](https://hacklines.com/en?tags=Elm)
 * [LambdaCat](http://www.lambdacat.com/)
 * [Luca Mugnaini](https://medium.com/@l.mugnaini)
 * [NoRedInk](http://tech.noredink.com/)
@@ -2927,6 +2995,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [elm-examples: Practical Elm examples - Eduard Kyvenko](https://github.com/halfzebra/elm-examples)
 * [Elm SPA example - Richard T Feldman](https://github.com/rtfeldman/elm-spa-example) & [Tour of an Open-Source Elm SPA](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa) & [Scaling Elm Apps - Richard Feldman (Elm Europe 2017)](https://www.youtube.com/watch?v=DoA4Txr4GUs&app=desktop) & [Make Data Structures - Richard Feldman](https://www.youtube.com/watch?v=x1FU3e0sT1I)
 * [Phoenix Elm Battleship - Ricardo García Vega](https://github.com/bigardone/phoenix-elm-battleship)
+* [Snake - Martin Snyder](http://martinsnyder.net/snake/) | [Github](https://github.com/MartinSnyder/elm-snake)
 * [elm-autocomplete - Greg Ziegan](https://github.com/thebritican/elm-autocomplete)
 * [Modelling a save button in Elm - Jasper Woudenberg](https://dev.to/jwoudenberg/modelling-a-save-button-in-elm-2eo8)
 * [Creating a Fun Game with Elm - Andrey Kuzmin & Kolja Wilcke (Curry On 2016)](https://www.youtube.com/watch?v=En2BKs8unnQ)
@@ -3314,6 +3383,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ERLANG - BLOGS
 
+* [Erlang Battleground](https://medium.com/erlang-battleground)
 * [Erlang Solutions](https://www.erlang-solutions.com/blog.html)
 * [This Week in Erlang - Sasan Gootik](https://gootik.github.io/this-week-in-erlang/)
 
@@ -3398,6 +3468,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ERLANG - MNESIA
 
 * [Store Everything With Elixir and Mnesia - Ilya Bodrov](https://code.tutsplus.com/articles/store-everything-with-elixir-and-mnesia--cms-29821)
+* Mnesia: [Docs](http://erlang.org/doc/man/mnesia.html)
 
 ### ERLANG - MONITORING & PERFORMANCE
 
@@ -3840,6 +3911,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [What Is Functional Programming? - Kris Jenkins](https://www.youtube.com/watch?v=xN1-mtw1Fns)
 * [Functional Programming Patterns for Mere Mortals - Daniel Chambers (NDC {Sydney} 2017)](https://www.youtube.com/watch?v=v9QGWbGppis)
 * [Functional Programming in 40 Minutes - Russ Olsen (GOTO 2018)](https://www.youtube.com/watch?v=0if71HOyVjY)
+* [How to get away with functional programming in frontend applications - Gabriele Petronella (Lambda.World 2018)](https://www.youtube.com/watch?v=y4HrXkZYouk)
 * [A developer's guide to introducing a functional language at work - Robert Kluin (OScon Portland 2018)](https://www.youtube.com/watch?v=eAhiGQjBB9w)
 * [How to Get Started With Functional Programming - Julia Gao (StrangeLoop 2016)](https://www.youtube.com/watch?v=fbrG3hvWA3E)
 * [What does it mean when code is “easy to reason about”? - Preethi Kasireddy](https://medium.freecodecamp.com/what-does-it-mean-when-code-is-easy-to-reason-about-4e6f63eb386f#.f900iegve)
@@ -4006,7 +4078,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * Compose Conference: [2017](https://www.youtube.com/playlist?list=PLNoHgLVTxtaoolkQo4hLy4ZsA1prUJ51m) | [2016](https://www.youtube.com/playlist?list=PLNoHgLVTxtaqlT4xVx6_39jzcDe-ZF9V2)
 * Compose Conference Melbourne: [2017](https://www.youtube.com/playlist?list=PLNoHgLVTxtarRJWmMAs3RSy9BbB_TGlgj) | [2016](https://www.youtube.com/playlist?list=PLNoHgLVTxtaqo1c_V2I-8wkDrCGImb9v5)
 * Functional Conference (Bangalore): [2017 - FnConf2017](https://www.youtube.com/playlist?list=PL9Z-JgiTsOYRRnQ8iWIIQr01q_2euSyfD) | [2016 - FnConf2016](https://www.youtube.com/playlist?list=PL9Z-JgiTsOYTdi91N_DlcpWqkCYvMrhA4) | [2015 - FnConf2015](https://www.youtube.com/playlist?list=PL9Z-JgiTsOYSQRYRZixKd_HZ8_9ZWZMZR) | [2014 - FnConf2014](https://www.youtube.com/playlist?list=PL9Z-JgiTsOYQtmkFCroDGWTi8CJAKsTg8)
-* Lambda.World: [2017](https://www.youtube.com/watch?v=ho7oagHeqNc&list=PL4yAk3UBuBSrQXe_mZkR4khTNtQ_z5baQ) | [2016](https://www.youtube.com/watch?v=v354UNs57zQ&list=PL4yAk3UBuBSoH7MfYTGHYlKKeLb2b7QNe) | [2015](https://www.youtube.com/watch?v=oqES4x9NF08&list=PL4yAk3UBuBSobwxE4M_2V9DGMOUrkZGfa)
+* Lambda.World: [2018 Càdiz](https://www.youtube.com/playlist?list=PL4yAk3UBuBSo8tUZD8opLRVdEe0ZjxHXc) | [2018 Seattle](https://www.youtube.com/playlist?list=PL4yAk3UBuBSo8BMnuUPteqj-AJL26tdAs) | [2017](https://www.youtube.com/watch?v=ho7oagHeqNc&list=PL4yAk3UBuBSrQXe_mZkR4khTNtQ_z5baQ) | [2016](https://www.youtube.com/watch?v=v354UNs57zQ&list=PL4yAk3UBuBSoH7MfYTGHYlKKeLb2b7QNe) | [2015](https://www.youtube.com/watch?v=oqES4x9NF08&list=PL4yAk3UBuBSobwxE4M_2V9DGMOUrkZGfa)
 * [LDN Functionals (Functional Works)](https://www.youtube.com/channel/UCE6NivlVPGUn3TMtDAeL2vQ)
 * [All ICFP videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw/playlists)
 
@@ -4350,30 +4422,9 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 * [Angel.co](https://angel.co)
 
-## JRUBY
+## JSON
 
-* [Headius (Charles Nutter)'s blog](http://blog.headius.com/)
-* [Why JRuby Works - Charles Nutter, Thomas Enebo (RubyConf 2012)](http://confreaks.tv/videos/1281-rubyconf2012-why-jruby-works)
-* [Why JRuby? - Charles Nutter (Aloha RubyConf 2012)](http://confreaks.tv/videos/1235-aloharuby2012-why-jruby) & [slides](http://www.slideshare.net/CharlesNutter/aloha-rubyconf-2012-jruby)
-* [RubyGems to All JVM Languages - Yoko Harada (RubyConf 2010)](http://www.confreaks.tv/videos/372-rubyconf2010-rubygems-to-all-jvm-languages)
-* [Why JRuby? (Fiona Tay)](http://www.confreaks.tv/videos/2312-larubyconf2013-why-i-like-jruby-and-you-should-too)
-* [JRuby: Ruby in the JVM. Why on Earth?!? - Chris McCann](http://www.sdruby.org/podcast/106)
-* [State of JRuby 2014 - Hiro Asari (Ruby Australia)](http://vimeo.com/90823948)
-
-### JRUBY - JRUBY 9000
-
-* [Keynote: JRuby 9k - Thomas Enebo & Charles Nutter (JRubyConf.eu 2015)](http://confreaks.tv/videos/jrubyconf2015-keynote-jruby-9k)
-* [JRuby 9000 - Charles Nutter, Thomas Enebo (RubyConf 2014)](http://confreaks.tv/videos/5017-RubyConf2014-jruby-9000)
-
-### JRUBY - PERFORMANCE
-
-* [High Performance Ruby - Charles Nutter (GoGaRuCo 2012)](http://confreaks.tv/videos/1113-gogaruco2012-high-performance-ruby)
-* [Deploy, Scale and Sleep at Night with JRuby - Joe Kutner (GoGaRuCo 2012)](http://confreaks.tv/videos/1118-gogaruco2012-deploy-scale-and-sleep-at-night-with-jruby)
-
-### JRUBY - TORQUEBOX
-
-* [Complex Made Simple: Sleep Better with TorqueBox - Lance Ball (RailsConf 2012)](http://confreaks.tv/videos/912-railsconf2012-complex-made-simple-sleep-better-with-torquebox)
-* [TorqueBox - Kevin Menard (BostonRB.org)](http://bostonrb.org/presentations/torquebox)
+* [jq: Lightweight & flexible command-line JSON processor](https://stedolan.github.io/jq/)
 
 ## JULIA
 
@@ -4807,7 +4858,7 @@ Peter R. Egli:
 * [Forbes](http://www.forbes.com/technology/)
 * [Future Tense (Slate)](http://www.slate.com/articles/technology/future_tense.html)
 * [Futurism](http://futurism.com/)
-* [GeekWire](http://www.geekwire.com/)
+* [GeekWire](https://www.geekwire.com/)
 * [Gizmodo](http://gizmodo.com/)
 * [Google](https://news.google.com/news/section?topic=tc)
 * [Guardian](http://www.theguardian.com/us/technology)
@@ -4925,6 +4976,7 @@ Peter R. Egli:
 
 * [WITH Queries (Common Table Expressions): Write auxiliary statements for use in a larger query](https://www.postgresql.org/docs/9.6/static/queries-with.html)
 * [Is PostgreSQL Your Next JSON Database? - Dj Walker-Morgan](https://www.compose.io/articles/is-postgresql-your-next-json-database/)
+* [The Benefits of Materialized Views (and how to use them in your Ruby on Rails project) - Ryan Rebo](https://medium.com/@rebo_dood/the-benefits-of-materialized-views-and-how-to-use-them-in-your-ruby-on-rails-project-4ac1b5432881)
 * [PostgreSQL’s Powerful New Join Type: LATERAL - Dan Robinson](http://blog.heapanalytics.com/postgresqls-powerful-new-join-type-lateral/)
 * [Range Types in PostgreSQL 9.2 - Your Life Will Never Be the Same - Jonathan S. Katz (Postgres Open)](https://www.youtube.com/watch?v=XIcOf7r0dG4)
 * [Full-Text Search: Seek and Ye Shall Find - Dan Scott (Postgres Open)](https://www.youtube.com/watch?v=R6nT6UgY7k4)
@@ -5251,6 +5303,7 @@ Peter R. Egli:
 * [Turing-Incomplete](http://turing.cool/)
 * [Upgrade](https://www.relay.fm/upgrade)
 * [The Web Ahead](http://5by5.tv/webahead)
+* [Your System Called: A Threat Stack Podcast](http://threatstack.libsyn.com/)
 
 ### PROGRAMMING - STREAM PROCESSING
 
@@ -5988,14 +6041,6 @@ Peter R. Egli:
 ### VIM - PYTHON
 
 * [Vim as a Python IDE - Martin Brochhaus](https://www.youtube.com/watch?v=YhqsjUUHj6g)
-
-### VIM - RAILS
-
-* [Effective Rails Development with Vim - Islam Wazery](http://www.sitepoint.com/effective-rails-development-vim/)
-* [Ruby Text Objects](http://tilvim.com/2014/07/18/ruby-text-objects.html)
-* [vim-rspec](https://github.com/thoughtbot/vim-rspec)
-* [vim-ruby-refactoring tutorials](https://justinram.wordpress.com/2010/12/30/vim-ruby-refactoring-series/)
-* [vim-textobj-rubyblock](https://github.com/nelstrom/vim-textobj-rubyblock)
 
 ### VIM - SPACEMACS
 
