@@ -1302,6 +1302,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - AWS (AMAZON WEB SERVICES) - KUBERNETES / EKS
 
+* [Getting Started with Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/getting-started.html)
+* [aws-iam-authenticator: tool to use AWS IAM credentials to authenticate to a Kubernetes cluster](https://github.com/kubernetes-sigs/aws-iam-authenticator)
+* [Specifying Sensitive Data - AWS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/specifying-sensitive-data.html)
 * [Deep Dive on Amazon EKS - Brandon Chavis & Eswar Bala (AWS re:Invent 2018)](https://www.youtube.com/watch?v=EDaGpxZ6Qi0)
 * [Run Kubernetes with Amazon EKS - Bob Wise (AWS New York Summit 2018)](https://www.youtube.com/watch?v=mCVdcz01Z-g)
 * [Introducing Amazon EKS - Brandon Chavis (AWS re:Invent 2017)](https://www.youtube.com/watch?v=WHTejF3W0s4)
@@ -1474,6 +1477,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [The Challenges of Container Configuration - Gareth Rushgrove (Craft Conference 2016)](http://www.ustream.tv/recorded/86186490) & [slides](https://speakerdeck.com/garethr/the-challenges-of-container-configuration)
 
+#### DEVOPS - DOCKER - DIVE
+
+* [Dive: tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size (Alex Goodman)](https://github.com/wagoodman/dive)
+
 #### DEVOPS - DOCKER - MICROCONTAINERS
 
 * [Microcontainers – Tiny, Portable Docker Containers - Iron.io](http://www.iron.io/blog/2016/01/microcontainers-tiny-portable-containers.html)
@@ -1627,14 +1634,19 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Istio: Open Platform to Connect, Manage, and Secure Microservices](https://istio.io/) | [Github](https://github.com/istio/istio) | [Twitter](https://twitter.com/IstioMesh)
 * [Distributed Microservices Metrics and Tracing with Istio and OpenCensus – Sandeep Dinesh (GDG DevFest Ukraine 2018)](https://www.youtube.com/watch?v=1wWfVqYb-5Y)
+* Ray Tsang: [Reducing Microservices Architecture Complexity with Istio & Kubernetes (SpringOne Platform 2018)](https://www.youtube.com/watch?v=k42jqkjtYKY) & [Making Microservices Micro With Istio & Kubernetes](https://www.youtube.com/watch?v=4x79RfMaOyo)
+* [Service Mesh in Practice - Kasun Indrasiri & David Munro (BallerinaCon 2018)](https://www.youtube.com/watch?v=IpgMucMhm0g)
+* [How to Gain Insights from Istio by Leveraging Tools Like Prometheus, Jaeger, and Cortex - Neeraj Poddar](https://www.youtube.com/watch?v=mOPMSdAQ0t8)
 * [Introduction to Service Management with Istio Service Mesh (Cloud Next '18)](https://www.youtube.com/watch?v=wCJrdKdD6UM)
-* [Istio 1.0.x Workshop - RedHat OpenShift](https://learn.openshift.com/servicemesh)
+* [The next evolution of microservices patterns with Istio Mesh - Christian Posta (JBCNConf 2018)](https://www.youtube.com/watch?v=rleCT47cqfY)
+* [Envoy Internals Deep Dive (Advanced Skill Level) - Matt Klein (KubeCon Europe 2018)](https://www.youtube.com/watch?v=gQF23Vw0keg)
+* [Isti 1.0.x Workshop - RedHat OpenShift](https://learn.openshift.com/servicemesh)
 * [Istio - Weaving the Service Mesh - Louis Ryan (QCon San Francisco 2017)](https://www.youtube.com/watch?v=bPEgHNZxlJw)
 * [Making Microservices Micro with Istio Service Mesh - Ray Tsang (Devox Belgium 2017)](https://www.youtube.com/watch?v=AGztKw580yQ)
 * [Microservices in the Cloud with Kubernetes and Istio - Sandeep Dinesh (Google I/O '18)](https://www.youtube.com/watch?v=gauOI0O9fRM)
 * [Istio 101: Open Source Service Mesh for Microservices! - Sandeep Dinesh (2017)](https://www.youtube.com/watch?v=8OjOGJKM98o)
 * [Getting Started with Istio on Amazon EKS - Arun Gupta](https://aws.amazon.com/blogs/opensource/getting-started-istio-eks/)
-* [Stop reinventing the wheel with Istio - Mete Atamel (Devoxx UK 2018)](https://www.youtube.com/watch?v=pGKwluckJ-A)
+* Stop reinventing the wheel with Istio - Mete Atamel: [Devoxx UK 2018](https://www.youtube.com/watch?v=pGKwluckJ-A) & [NDC { Oslo } 2018](https://www.youtube.com/watch?v=1_7e4AyiYd8)
 * [Service Mesh: What, Why, And How? - Flynn (DevOpsDays Boston 2017)](https://www.youtube.com/watch?v=B0vi6ZqqmMw)
 * [Making Microservices Micro with Istio Service Mesh - Ray Tsang (Devox Belgium 2017)](https://www.youtube.com/watch?v=AGztKw580yQ)
 
@@ -1678,14 +1690,26 @@ Links to resources I have found useful or think might be helpful to future me or
 * Brigade: Event-based Scripting for Kubernetes (Microsoft): [Website](https://brigade.sh/) | [Github](https://github.com/Azure/brigade)
 * Kashti: Brigade pipeline dashboard: [Github](https://github.com/Azure/kashti)
 
+#### DEVOPS - KUBERNETES - CHAOS ENGINEERING
+
+* [Kube-monkey: implementation of Netflix's Chaos Monkey for Kubernetes clusters](https://github.com/asobti/kube-monkey)
+* [PowerfulSeal: adds chaos to your Kubernetes clusters, so that you can detect problems](https://github.com/bloomberg/powerfulseal)
+
 #### DEVOPS - KUBERNETES - CONTAINERIZATION
 
 * [Building Small Containers: Kubernetes Best Practices - Sandeep Dinesh (Google)](https://www.youtube.com/watch?v=wGz_cbtCiEA)
+
+#### DEVOPS - KUBERNETES - DEPLOYMENT
+
+* [Kafka Operator: Managing and Operating Kafka Clusters in Kubernetes [A] - Nenad Bogojevic](https://www.youtube.com/watch?v=jAz8sdO1rgE)
+* [Lessons learned form Kafka in production Tim Berglund (2017)](https://www.youtube.com/watch?v=1vLMuWsfMcA)
 
 #### DEVOPS - KUBERNETES - HELM
 
 * Helm (package manager for Kubernetes): [Website](https://helm.sh/) | [docs](https://docs.helm.sh/) | [Github](https://github.com/kubernetes/helm) | [Twitter](https://twitter.com/helmpack)
 * [Configure RBAC In Your Kubernetes Cluster: Enable Helm in Your Cluster - Bitnami](https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/)
+* [Helm - the Better Way to Deploy on Kubernetes - Reinhard Nägele (Codemotion Amsterdam 2018)](https://www.youtube.com/watch?v=3q0R5x6mBZg)
+* [Your First Microservice with Kubernetes, Helm Charts, and Redis - Dan Garfield (RedisConf 2018)](https://www.youtube.com/watch?v=ywEb_c6HVew) | [Github code](https://github.com/todaywasawesome/example-voting-app)
 
 ##### DEVOPS - KUBERNETES - HELM - CHARTS
 
@@ -1717,14 +1741,25 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Vault](https://hub.kubeapps.com/charts/incubator/vault)
 * [Zeppelin](https://hub.kubeapps.com/charts/stable/zeppelin)
 
-#### DEVOPS - KUBERNETES - DEPLOYMENT (KUBERNETES)
-
-* [Kafka Operator: Managing and Operating Kafka Clusters in Kubernetes [A] - Nenad Bogojevic](https://www.youtube.com/watch?v=jAz8sdO1rgE)
-* [Lessons learned form Kafka in production Tim Berglund (2017)](https://www.youtube.com/watch?v=1vLMuWsfMcA)
-
 #### DEVOPS - KUBERNETES - KUBECTX
 
 * [kubectx - Switch between Kubernetes contexts/namespaces](https://github.com/ahmetb/kubectx)
+
+#### DEVOPS - KUBERNETES - LOGGING
+
+* [Stern: Multi-pod & container log tailing for Kubernetes](https://github.com/wercker/stern)
+* [Kail: Kubernetes tail](https://github.com/boz/kail)
+
+#### DEVOPS - KUBERNETES - MONITORING
+
+* [Kubernetes Dashboard](https://github.com/kubernetes/dashboard)
+* [Application Introspection & Debugging](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application-introspection/)
+* [Kubernentes monitoring architecture](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/instrumentation/monitoring_architecture.md)
+
+#### DEVOPS - KUBERNETES - NETWORKING
+
+* [Deep dive into Kubernetes networking - Sreenivas Makam (Container Conference 2018)](https://www.youtube.com/watch?v=NUt9VVG_gac)
+* [Kubernetes Networking Master Class (Rancher Labs)]https://www.youtube.com/watch?v=GXq3FS8M_kw)
 
 #### DEVOPS - KUBERNETES - PERSISTENT VOLUMES
 
@@ -1734,10 +1769,6 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [PodCTL - Brian Gracely & Tyler Britten](https://itunes.apple.com/us/podcast/podctl-containers-kubernetes-openshift/id1270983443)
 * [Kubernetes Podcast - Google](https://kubernetespodcast.com/)
-
-#### DEVOPS - KUBERNETES - POWERFUL SEAL
-
-* [PowerfulSeal: adds chaos to your Kubernetes clusters, so that you can detect problems in your systems as early as possible. It kills targeted pods and takes VMs up and down - Bloomberg](https://github.com/bloomberg/powerfulseal)
 
 #### DEVOPS - KUBERNETES - ROLE-BASED ACCESS CONTROL (RBAC)
 
@@ -1755,6 +1786,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Skaffold: Easy and Repeatable Kubernetes Development (Github)](https://github.com/GoogleCloudPlatform/skaffold)
 * [Skaffold: happy Kubernetes workflows - Ahmet Alp Balkan](https://ahmet.im/blog/skaffold/)
 * [Skaffold on Google Kubernetes Engine](https://github.com/GoogleCloudPlatform/skaffold/blob/master/docs/quickstart-gke.md)
+
+#### DEVOPS - KUBERNETES - TELEPRESENCE
+
+* [Telepresence: Debug your Kubernetes service locally, using your favorite debugging tools](https://www.telepresence.io/)
 
 #### DEVOPS - KUBERNETES - VIDEOS
 
@@ -2115,6 +2150,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Atlas (ORM)](https://github.com/chrismccord/atlas)
 
+### ELIXIR - AVIA
+
+* Avia: E-Commerce re-invented in Elixir: [AviaCommerce.org](https://www.aviacommerce.org/) | [Github](https://github.com/aviacommerce/avia) | [API](https://www.aviacommerce.org/docs/apis-getting-started.html) | [Getting Started](https://www.aviacommerce.org/docs/apis-getting-started.html) | [Main Concepts](https://www.aviacommerce.org/docs/products.html)
+
 ### ELIXIR - BLOGS
 
 * [Big Nerd Ranch](https://www.bignerdranch.com/blog/?q=Elixir)
@@ -2187,7 +2226,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - DEPLOYMENT
 
-* Paul Schoenfelder ("bitwalker"): [alpine-elixir](https://github.com/bitwalker/alpine-elixir)  ((Docker)[https://hub.docker.com/r/bitwalker/alpine-elixir/]) | [Elixir/Phoenix on Alpine Linux](https://github.com/bitwalker/alpine-elixir-phoenix) ([Docker](https://hub.docker.com/r/bitwalker/alpine-elixir-phoenix/))
+* Paul Schoenfelder ("bitwalker"): [Elixir on Alpine Linux](https://github.com/bitwalker/alpine-elixir)  ((Docker)[https://hub.docker.com/r/bitwalker/alpine-elixir/]) | [Elixir/Phoenix on Alpine Linux](https://github.com/bitwalker/alpine-elixir-phoenix) ([Docker](https://hub.docker.com/r/bitwalker/alpine-elixir-phoenix/))
 * [Best practices for deploying Elixir apps - Jake Morrison](https://www.cogini.com/blog/best-practices-for-deploying-elixir-apps/)
 * [How To Automate Elixir-Phoenix Deployment with Distillery and edeliver on Ubuntu 16.04 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-automate-elixir-phoenix-deployment-with-distillery-and-edeliver-on-ubuntu-16-04)
 * [Guide to deploy an Elixir/Phoenix app to AWS ECS - Joaquim Adráz](https://joaquimadraz.com/guide-to-deploy-an-elixir-phoenix-app-to-aws-ecs)
@@ -2256,6 +2295,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ELIXIR - DEPLOYMENT - DISTILLERY
 
 * Distillery: [Github](https://github.com/bitwalker/distillery) | [Documentation](https://hexdocs.pm/distillery/getting-started.html)
+* [Elixir: Runtime vs. compile time configuration - Hubert Łępicki](https://www.amberbit.com/blog/2018/9/27/elixir-runtime-vs-compile-time-configuration/)
 * [Elixir/Phoenix deployments using Distillery - Yuva](http://crypt.codemancers.com/posts/2016-10-06-elixir-phoenix-distillery/)
 * Pete Corey: [Deploying Elixir Applications With Distillery](http://www.east5th.co/blog/2016/12/26/deploying-elixir-applications-with-distillery/) | [Upgrade Releases With Distillery](http://www.east5th.co/blog/2017/01/09/upgrade-releases-with-distillery/) | [Simplifying Elixir Releases With eDeliver](http://www.east5th.co/blog/2017/01/16/simplifying-elixir-releases-with-edeliver/) | [Upgrade Releases With eDeliver](http://www.east5th.co/blog/2017/01/23/upgrade-releases-with-edeliver/)
 * [Storing Elixir Release Configuration in Environment Variables with Distillery - Brendan A R Sechter](http://sgeos.github.io/phoenix/elixir/erlang/ecto/distillery/postgresql/mysql/2016/09/18/storing-elixir-release-configuration-in-environment-variables-with-distillery.html)
@@ -2335,6 +2375,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Changelog](https://github.com/elixir-ecto/ecto/blob/master/CHANGELOG.md)
 * [Caching In Ecto v3.0 - Dockyard](https://dockyard.com/blog/2018/11/20/caching-in-ecto-v3-0)
 * A sneak peek at Ecto 3.0 - José Valim: [Breaking changes](http://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-breaking-changes/) | [Query improvements (part 1)](http://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-query-improvements-part-1/) | [Query improvements (part 2)](http://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-query-improvements-part-2/) | [Performance, migrations and more](http://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-performance-migrations-and-more/)
+
+#### ELIXIR - ECTO - CUSTOM ECTO TYPES
+
+* [Creating a Custom Ecto Duration Type - Christian Di Lorenzo](https://medium.com/@rcdilorenzo/creating-a-custom-ecto-duration-type-994e32ad4613)
+* [What is the difference between Ecto.Type’s cast and dump? - ElixirForum.com](https://elixirforum.com/t/what-is-the-difference-between-ecto-types-cast-and-dump/4855)
+* [Ecto type for IPv4 and IPv6 addresses - Pedro Assumpcao](https://pedroassumpcao.ghost.io/ecto-type-for-ipv4-and-ipv6-addresses/)
 
 #### ELIXIR - ECTO - MYXQL
 
@@ -2421,6 +2467,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - GRAPHQL
 
 * [ElixirConf 2018 - Making a GraphQL Server with Absinthe & Dataloader - Aaron Votre (ElixirConf 2018](https://www.youtube.com/watch?v=m26i1L2D7Yk)
+* [Building a Phoenix GraphQL API with Absinthe - Tivelop](https://www.youtube.com/playlist?list=PLw7bfDlTRWbgiApK7X1bRKJJ03xoDU3hm)
 * [Build A Instagram Clone with React-Native, Graphql and Phoenix - EQuimper](https://www.youtube.com/playlist?list=PLzQWIQOqeUSOu74jGJMRH06gneM3wL82Z)
 * [Serving it the Absinthe Way - Aaron Votre (Boston Elixir Meetup July 2018)](https://www.youtube.com/watch?v=j8yG6CFjAhU)
 * [A GraphQL-on-Elixir Primer - Bruce Williams (Code Beam SF 2018)](https://www.youtube.com/watch?v=enbksvAko98)
@@ -2428,6 +2475,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [GraphQL in Practice - Bruce Williams & Benjamin Wilson (ElixirConf.EU 2017)](https://www.youtube.com/watch?v=d2qNlXtpWXM)
 * [Live APIs with GraphQL Subscriptions - Bruce Williams & Ben Wilson (ElixirConf 2017)](https://www.youtube.com/watch?v=PEckzwggd78)
 * [Building a Phoenix GraphQL API with Absinthe - Tivelop](https://www.youtube.com/playlist?list=PLw7bfDlTRWbgiApK7X1bRKJJ03xoDU3hm)
+* [Testing a Large GraphQL API With Aplomb - Jeff Martin (The Big Elixir 2018)](https://www.youtube.com/watch?v=GXh-f3S5rcM)
 * [A shot of Absinthe: from zero to GraphQL in 40 minutes - Sam Davies (Code Elixir LDN 2018)](https://www.youtube.com/watch?v=IJJQvJRoXy8)
 * [AmberCasts #4: Getting started with GraphQL, Elixir & Absinthe - AmberBit](https://www.youtube.com/watch?v=RF6BSMczt2Q) (Warning: Has some nearly unreadable text)
 * Meraj: [GraphQL with Elixir/Phoenix and Absinthe](https://itnext.io/graphql-with-elixir-phoenix-and-absinthe-6b0ffd260094) | [Authenticating Absinthe GraphQL APIs in Phoenix with Guardian](https://itnext.io/authenticating-absinthe-graphql-apis-in-phoenix-with-guardian-d647ea45a69a)
