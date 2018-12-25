@@ -125,6 +125,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - BLOGS
 
+* [Elm News: All Elm news in one place](https://elm-news.com/)
 * [Alex Korban](https://korban.net/posts/elm/)
 * [Becoming-Functional (Bill Peregoy)](https://becoming-functional.com/)
 * [Brian Hicks](https://www.brianthicks.com/)

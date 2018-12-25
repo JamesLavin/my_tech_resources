@@ -1587,6 +1587,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### DEVOPS - GOOGLE CLOUD - KUBERNETES
 
 * [Kubernetes Engine](https://cloud.google.com/kubernetes-engine/) | [Docs](https://cloud.google.com/kubernetes-engine/docs/)
+* [Cloud Next '18 videos](https://www.youtube.com/results?search_query=kubernetes+cloudnext+2018)
 * [Continuous Delivery Pipelines with Spinnaker and Google Kubernetes Engine](https://cloud.google.com/solutions/continuous-delivery-spinnaker-kubernetes-engin://cloud.google.com/solutions/continuous-delivery-spinnaker-kubernetes-engine)
 * [Continuous Deployment to Kubernetes Engine using Jenkins](https://cloud.google.com/solutions/continuous-delivery-jenkins-kubernetes-engine)
 * [Jenkins on Kubernetes Engine](https://cloud.google.com/solutions/jenkins-on-kubernetes-engine)
@@ -1642,6 +1643,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Envoy Internals Deep Dive (Advanced Skill Level) - Matt Klein (KubeCon Europe 2018)](https://www.youtube.com/watch?v=gQF23Vw0keg)
 * [Isti 1.0.x Workshop - RedHat OpenShift](https://learn.openshift.com/servicemesh)
 * [Istio - Weaving the Service Mesh - Louis Ryan (QCon San Francisco 2017)](https://www.youtube.com/watch?v=bPEgHNZxlJw)
+* [Better Canary Deploys with Kubernetes and Istio - Jason Yee (Devoxx Belgium 2018)](https://www.youtube.com/watch?v=R7gUDY_-cFo)
 * [Making Microservices Micro with Istio Service Mesh - Ray Tsang (Devox Belgium 2017)](https://www.youtube.com/watch?v=AGztKw580yQ)
 * [Microservices in the Cloud with Kubernetes and Istio - Sandeep Dinesh (Google I/O '18)](https://www.youtube.com/watch?v=gauOI0O9fRM)
 * [Istio 101: Open Source Service Mesh for Microservices! - Sandeep Dinesh (2017)](https://www.youtube.com/watch?v=8OjOGJKM98o)
@@ -1663,8 +1665,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - KUBERNETES
 
 * Kubernetes: [Docs](https://kubernetes.io/) | [Kubernetes API](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.9/) | [Basic tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Tutorials](https://kubernetes.io/docs/tutorials/) | [Tasks](https://kubernetes.io/docs/tasks/) | [Concepts](https://kubernetes.io/docs/concepts/) | [Github](https://github.com/kubernetes/kubernetes)
-* [Kubernetes in About 45 Minutes - Philip Lombardi (DevOpsDays Boston 2017)](https://www.youtube.com/watch?v=D6vkeowf9f4&t=0s)
+* [Kubernetes in About 45 Minutes - Philip Lombardi (DevOpsDays Boston 2017)](https://www.youtube.com/watch?v=D6vkeowf9f4)
+* 9 Steps to Awesome With Kubernetes - Burr Sutter (3 hours, Devoxx Belgium 2018): [Video](https://www.youtube.com/watch?v=ZpbXSdzp_vo) | [Slides](https://docs.google.com/presentation/d/1QeDOfgnJO5vCftBFsA8iU3xP1FUTRXYfeVCuY_ZJTdo/edit#slide=id.g3e7ff8d655_0_600) | [Code](https://github.com/burrsutter/9stepsawesome)
 * [Learn Kubernetes in Under 3 Hours: A Detailed Guide to Orchestrating Containers - Rinor Maloku](https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882)
+* [Kubernetes Best Practices - Sandeep Dinesh (Google)](https://www.youtube.com/playlist?list=PLIivdWyY5sqL3xfXz5xJvwzFW_tlQB_GB)
 * [Kubernetes: Container Orchestration and Micro-Services - Alexander Mohr (University of Washington)](https://courses.cs.washington.edu/courses/cse550/16au/notes/kubernetes.pdf)
 * [Awesome-Kubernetes](https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/details)
 * [Kubernetes Youtube channel](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg)
@@ -1718,6 +1722,7 @@ See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 * [Configure RBAC In Your Kubernetes Cluster: Enable Helm in Your Cluster - Bitnami](https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/)
 * [Helm - the Better Way to Deploy on Kubernetes - Reinhard Nägele (Codemotion Amsterdam 2018)](https://www.youtube.com/watch?v=3q0R5x6mBZg)
 * [Your First Microservice with Kubernetes, Helm Charts, and Redis - Dan Garfield (RedisConf 2018)](https://www.youtube.com/watch?v=ywEb_c6HVew) | [Github code](https://github.com/todaywasawesome/example-voting-app)
+* [Optimising Kubernetes deployments with Helm - Erwin de Gier (Devoxx Belgium 2018)](https://www.youtube.com/watch?v=TXZBuBQpm-Q)
 
 ##### DEVOPS - KUBERNETES - HELM - CHARTS
 
@@ -1805,6 +1810,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### DEVOPS - KUBERNETES - VIDEOS
 
+* [KubeCon + CloudNativeCon 2018 (51 videos)](https://www.youtube.com/playlist?list=PLIivdWyY5sqLctSoRvWI71mQx_5kU9SQm)
 * [theCUBE - KubeCon Seattle 2018](https://www.youtube.com/playlist?list=PLenh213llmcaRR96V1yvSqtz7AiU5sqp7)
 * [KubeCon + CloudNativeCon China 2018](https://www.youtube.com/playlist?list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)
 * [KubeCon + CloudNativeCon 2018 - Copenhagen (354 videos!)](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo)
@@ -2465,6 +2471,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - GENSTAGE & FLOW
 
+* [Elixir/Flow — Local MapReduce - Mat Clutter](https://medium.com/flatiron-labs/elixir-flow-local-mapreduce-fc55fe11d210)
 * [GenStage: Keeping large amounts of data up-to-date with pipelines - Robert Beene (EMPEX 2018](https://www.youtube.com/watch?v=9mfD4-HUgh0)
 * [Small data with Elixir - José Valim](http://blog.plataformatec.com.br/2017/03/small-data-with-elixir/)
 * [Understanding Elixir’s GenStages: Querying the Blockchain - Miguel Palhas](https://blog.appsignal.com/2018/11/13/elixir-alchemy-understanding-elixirs-genstages-querying-the-blockchain.html)
@@ -2652,6 +2659,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [comeonin: Password hashing library - David Whitlock](https://github.com/riverrun/comeonin)
 * [policy_wonk: Elixir authorization and resource loading in Plug form for Phoenix - Boyd Multerer](https://github.com/boydm/policy_wonk)
 * [User Authentication with Guardian for Phoenix 1.3 Web Apps - Meraj](https://itnext.io/user-authentication-with-guardian-for-phoenix-1-3-web-apps-e2064cac0ec1)
+* [JWT Auth in Phoenix with Joken - Sophie DeBenedetto](https://medium.com/flatiron-labs/jwt-auth-in-phoenix-with-joken-e72df1b9fbb5)
 * JWT Auth with an Elixir on Phoenix 1.3 API and React Native, Nick West: [Part I: Phoenix JWT API](https://medium.com/@njwest/jwt-auth-with-an-elixir-on-phoenix-1-3-guardian-api-and-react-native-mobile-app-1bd00559ea51) | [Part II: Building a React Native JWT Client](https://medium.com/@njwest/building-a-react-native-jwt-client-efacf78b9364) | [Part III: Building a React Native JWT Client: API Requests and AsyncStorage](https://medium.com/@njwest/building-a-react-native-jwt-client-api-requests-and-asyncstorage-d1a20ab60cf4)
 * [Phoenix: Authentication and Authorization using Plugs - iVitaly Tatarintsev](http://whatdidilearn.info/2018/02/25/phoenix-authentication-and-authorization-using-plugs.html)
 * [User Authentication in Phoenix with Guardian & Überauth - Ulan Abdurazakov](http://screencasts.tech/posts/user-authentication-in-phoenix-with-guardian-uberauth)
@@ -3126,6 +3134,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Design Microservice Architectures the Right Way - Michael Bryzek](https://www.infoq.com/presentations/microservices-arch-infrastructure-cd)
 * [Building Event Driven Services with Apache Kafka and Kafka Streams - Ben Stopford (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=p9wcx3aTjuo)
 * [Design Patterns: Why Event Sourcing? - Greg Young](https://www.youtube.com/watch?v=rUDN40rdly8)
+* [Event Sourcing: You are doing it wrong - David Schmitz](https://www.youtube.com/watch?v=GzrZworHpIk)
 * [Rethinking Microservices with Stateful Streams - Ben Stopford (Devoxx Poland 2017)](https://www.youtube.com/watch?v=hqt9QIhwAW8)
 * [Experimentation Using Event-based Systems - Martin Fowler + Toby Clemson (Kafka Summit 2018)](https://www.youtube.com/watch?v=_RgUxUTuxH4)
 * [Building event-driven (Micro)Services with Apache Kafka - Guido Schmutz (VoxxedDays Zurich 2018)](https://www.youtube.com/watch?v=IR1NLfaq7PU)
@@ -3137,6 +3146,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Exploring CQRS and Event Sourcing - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
 * [There is No Such Thing as a Microservice! - Chris Richardson (Explore DDD Conf 2017)](https://www.youtube.com/watch?v=FXCLLsCGY0s)
 * [Building beautiful systems with Phoenix contexts - Andrew Hao (ElixirDaze 2018)](https://www.youtube.com/watch?v=l3VgbSgo71E)
+* [Effective Aggregate Design - Vaughn Vernon](http://dddcommunity.org/library/vernon_2011/)
 * [Introduction to CQRS and Event Sourcing Patterns - Mathew McLoughlin (NDC Conference 2017)](https://www.youtube.com/watch?v=9a1PqwFrMP0) & [example code](https://github.com/mat-mcloughlin/PatientMangement)
 * Scaling Event Sourcing for Netflix Downloads - Karen Casella, et al.: [Part 1](https://medium.com/netflix-techblog/scaling-event-sourcing-for-netflix-downloads-episode-1-6bc1595c5595) | [Episode 2](https://medium.com/netflix-techblog/scaling-event-sourcing-for-netflix-downloads-episode-2-ce1b54d46eec)
 * [Effective Microservices in a Data-Centric World - Randy Shoup (GOTO Chicago 2017)](https://www.youtube.com/watch?v=whi0T1a4cWU)
@@ -3992,6 +4002,12 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [Grafana workshop - Torkel Ödegaard (Monitorama PDX 2014)](http://vimeo.com/95316672)
 * [All Monitorama PDX 2014 talks](http://vimeo.com/monitorama/videos)
 
+## JAVA
+
+### JAVA - AMAZON CORRETTO
+
+* [No-cost, multiplatform, production-ready distribution of OpenJDK - AWS](https://aws.amazon.com/corretto/)
+
 ## JAVASCRIPT
 
 * Moved to [Javascript.markdown](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) (because Github was truncating this page)
@@ -4824,6 +4840,13 @@ Peter R. Egli:
 
 * [Tips for Managing a Widely Distributed Team - Dirkjan Bussink (#LeadDevLondon 2018)](https://www.youtube.com/watch?v=pi6bHUkoBgY)
 
+#### PROGRAMMING - MANAGEMENT - BILL CAMPBELL
+
+* [People, Leadership & Startups - Bill Campbell (Khosla Ventures)](https://www.youtube.com/watch?v=GHLg1wDuc10)
+* [Remembering the Life and Career of Bill Campbell (Fortune)](https://www.youtube.com/watch?v=9AmHesyfoMQ)
+* [Fireside Chat With Ben Horowitz of Andreessen Horowitz and Bill Campbell of Intuit](https://www.youtube.com/watch?v=7JoQB2V9Ww4)
+* [Intuit CEO Conversations with Brad Smith and Bill Campbell](https://www.youtube.com/watch?v=EFWG51nGmGA)
+
 ### PROGRAMMING - MESSAGING & QUEUES
 
 * [Decouple all the things: Asynchronous messaging keeps it simple - Kerstin Puschke (ArrrrCamp 2015)](http://confreaks.tv/videos/arrrrcamp2015-decouple-all-the-things-asynchronous-messaging-keeps-it-simple)
@@ -4920,7 +4943,7 @@ Peter R. Egli:
 * [VoxxedDays Zurich 2018](https://www.youtube.com/playlist?list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL)
 * [QCon New York 2018](https://qconnewyork.com/video-schedule)
 * DeconstructConf: [2017](https://www.deconstructconf.com/2017)
-* Devoxx: [Belgium 2017](https://www.youtube.com/playlist?list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo) | [Poland 2017](https://www.youtube.com/playlist?list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH)
+* Devoxx: [Belgium 2018](https://www.youtube.com/playlist?list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH) | [Belgium 2017](https://www.youtube.com/playlist?list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo) | [Poland 2017](https://www.youtube.com/playlist?list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH)
 * [GOTO channel](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
   * [GOTO Chicago 2017](https://www.youtube.com/playlist?list=PLEx5khR4g7PJ94PpgvNx6WohYcGQHY9UJ)
   * [GOTO Amsterdam 2017](https://www.youtube.com/playlist?list=PLEx5khR4g7PLcjLdaugk3GndelpTGbYDS)
