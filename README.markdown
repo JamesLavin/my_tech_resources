@@ -1634,14 +1634,17 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - ISTIO.IO
 
 * [Istio: Open Platform to Connect, Manage, and Secure Microservices](https://istio.io/) | [Github](https://github.com/istio/istio) | [Twitter](https://twitter.com/IstioMesh)
+* [The Future is Istio - Jason Smith (GOTO 2018)]https://www.youtube.com/watch?v=sTqISgCgd9M()
 * [Distributed Microservices Metrics and Tracing with Istio and OpenCensus – Sandeep Dinesh (GDG DevFest Ukraine 2018)](https://www.youtube.com/watch?v=1wWfVqYb-5Y)
 * Ray Tsang: [Reducing Microservices Architecture Complexity with Istio & Kubernetes (SpringOne Platform 2018)](https://www.youtube.com/watch?v=k42jqkjtYKY) & [Making Microservices Micro With Istio & Kubernetes](https://www.youtube.com/watch?v=4x79RfMaOyo)
+* [Life of a Packet Through Istio - Matt Turner (Devoxx Belgium 2018)](https://www.youtube.com/watch?v=cB611FtjHcQ)
 * [Service Mesh in Practice - Kasun Indrasiri & David Munro (BallerinaCon 2018)](https://www.youtube.com/watch?v=IpgMucMhm0g)
 * [How to Gain Insights from Istio by Leveraging Tools Like Prometheus, Jaeger, and Cortex - Neeraj Poddar](https://www.youtube.com/watch?v=mOPMSdAQ0t8)
-* [Introduction to Service Management with Istio Service Mesh (Cloud Next '18)](https://www.youtube.com/watch?v=wCJrdKdD6UM)
+* [Introduction to Service Management with Istio Service Mesh - David Munro (Cloud Next '18)](https://www.youtube.com/watch?v=wCJrdKdD6UM)
 * [The next evolution of microservices patterns with Istio Mesh - Christian Posta (JBCNConf 2018)](https://www.youtube.com/watch?v=rleCT47cqfY)
+* [Istio: Defense in Depth for Modern Production Environments - Samrat Ray & Tao Li (Cloud Next 2018)](https://www.youtube.com/watch?v=eOI2aM9P7-c)
 * [Envoy Internals Deep Dive (Advanced Skill Level) - Matt Klein (KubeCon Europe 2018)](https://www.youtube.com/watch?v=gQF23Vw0keg)
-* [Isti 1.0.x Workshop - RedHat OpenShift](https://learn.openshift.com/servicemesh)
+* [Istio 1.0.x Workshop - RedHat OpenShift](https://learn.openshift.com/servicemesh)
 * [Istio - Weaving the Service Mesh - Louis Ryan (QCon San Francisco 2017)](https://www.youtube.com/watch?v=bPEgHNZxlJw)
 * [Better Canary Deploys with Kubernetes and Istio - Jason Yee (Devoxx Belgium 2018)](https://www.youtube.com/watch?v=R7gUDY_-cFo)
 * [Making Microservices Micro with Istio Service Mesh - Ray Tsang (Devox Belgium 2017)](https://www.youtube.com/watch?v=AGztKw580yQ)
@@ -1766,6 +1769,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Stern: Multi-pod & container log tailing for Kubernetes](https://github.com/wercker/stern)
 * [Kail: Kubernetes tail](https://github.com/boz/kail)
+* [Kubetail: Bash script to tail Kubernetes logs from multiple pods](https://github.com/johanhaleby/kubetail)
 
 #### DEVOPS - KUBERNETES - MONITORING
 
