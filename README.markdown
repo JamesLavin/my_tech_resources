@@ -436,10 +436,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Tips on Staying Fit for Software Developers - Asahi Technologies](https://www.asahitechnologies.com/blog/tips-on-staying-fit-for-software-developers/)
 * [5 Hacks to Effortlessly Build Healthy Habits in 2018 - Steve](https://www.nerdfitness.com/blog/how-to-build-healthy-habits-that-stick/)
 
-## ELM
-
-* Moved to [Elm.markdown](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) (because Github was truncating this page)
-
 ### EXERCISE
 
 * [The 25 Most Significant Health Benefits of Physical Activity and Exercise - Len Kravitz](http://www.unm.edu/~lkravitz/Article%20folder/healthbenefitsaa.html)
@@ -2911,6 +2907,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [WebRTC and Phoenix, when μ Seconds aren't Fast Enough - Jason Stiebs (ElixirConf 2016)](https://www.youtube.com/watch?v=yI5J2P9kcBQ) | [phoenix_webrtc code](https://github.com/jeregrine/phoenix_webrtc)
 * [simple-peer: Simple WebRTC video/voice and data channels](https://github.com/feross/simple-peer)
+
+## ELM
+
+* Moved to [Elm.markdown](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) (because Github was truncating this page)
 
 ## EMACS
 
