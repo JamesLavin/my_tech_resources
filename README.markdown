@@ -515,9 +515,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Founder to CEO (Matt's Book for Startups) - Matt Mochary](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit)
 * [Indie Hackers](https://www.indiehackers.com/)
 * [Thoughtbot](https://thoughtbot.com/resources)
+* [7 Classic Startup Founder Mistakes (And How To Avoid Them) - Kathryn Minshew](https://www.youtube.com/watch?v=eChOUVm9fTA)
 * [How to Future-Proof Your Career - Dorie Clark (TEDxLugano)](https://www.youtube.com/watch?v=l6leLPN8ipI)
 * [20 Ways to Blow Up Your Company - Jason Mendelson](https://www.youtube.com/watch?v=I8zHfCqz9qY)
 * [13 Reasons My Startup FAILED - Russell Keith-Magee (Djangocon.us 2017)](https://www.youtube.com/watch?v=OOTThZReAdA)
+* [Sales Mistakes that Can Kill Your SaaS Business & How to Avoid Them - Mark Roberge & Michele Law](https://www.youtube.com/watch?v=20RS0bWg1o4)
 * [The Lean Start-up - Ash Maurya’s keynote speech (Start-up Showcase 2017)](https://www.youtube.com/watch?v=r8PjvpH4yng)
 * [The Lean Startup - Eric Ries (Talks at Google)](https://www.youtube.com/watch?v=fEvKo90qBns)
 * [Lean Startup Co. videos](https://www.youtube.com/user/leanstartupconf/playlists)
@@ -537,6 +539,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * Laura Klein: [So You Want to Build the Next Facebook (Lean Startup Conference 2015)](https://www.youtube.com/watch?v=cUrZTtE00d4) | [Identify and Validate Your Riskiest Assumptions (Lean Startup Conference 2014)](https://www.youtube.com/watch?v=SrzJqsedjC0)
 * [The surprising habits of original thinkers - Adam Grant (TED)](https://www.youtube.com/watch?v=fxbCHn6gE3U)
 * [Five Lessons I Learned From Failing A Start-Up - Yashash Agarwal (TEDxJGU)](https://www.youtube.com/watch?v=kowJmwHqqOQ)
+* [How To Create A SaaS Product That People Love - Dan Martell](https://www.youtube.com/watch?v=gKDhDrSLp4E)
+* [Lessons Learned From 3,000 SaaS Companies - Patrick Campbell](https://www.youtube.com/watch?v=BT9hUusNKQ8)
 * [What college students need to know before starting a business - Jan Bednar (TEDxBocaRaton)](https://www.youtube.com/watch?v=63tVsJI31Tk)
 * [Why Most Entrepreneurs Are Slowly Killing Themselves - Phil Drolet (TEDxMileHigh)](https://www.youtube.com/watch?v=-M9i3-QhWzg)
 * [The Customer Factory](https://www.youtube.com/watch?v=5iq3xDul0JY)
@@ -676,6 +680,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## CHINESE
 
+* [Kubernetes Handbook——Kubernetes中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)
+* [Istio Handbook——Istio服务网格实践指南 - Jimmy Song](https://jimmysong.io/istio-handbook/)
 * [InfoQ Chinese news](http://www.infoq.com/cn/)
 * Python - Mofan Zhou:  [Tutorials collection](https://morvanzhou.github.io/tutorials/) | [PyTorch tutorials](https://www.youtube.com/watch?v=wnKgOd3NdzA&list=PLXO45tsB95cJxT0mL0P3-G0rBcLSvVkKH)
 * [Chinese university courses on Coursera](https://www.coursera.org/about/partners/cn)
@@ -1230,7 +1236,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Offline-First Apps with PouchDB - Bradley Holt: [2016](https://www.youtube.com/watch?v=yZuGCrJbIJs) | [2015](https://www.youtube.com/watch?v=7L7esHWAjSU)
 * [PouchDB Tutorial - Kaushik Paul](http://knowledgeredbox.com/category/database-tutorial/pouchdb-tutorial/)
 * [Getting Started with PouchDB Client-Side JavaScript Database - Jatin Shridhar](https://www.sitepoint.com/getting-started-with-pouchdb/)
-* [OfflineFirst Apps with PouchDB and CouchDB - Lorna Mitchell (FEN 2018)](https://www.youtube.com/watch?v=9dQFJh0jEWo)
+* [Offline-First Apps with PouchDB and CouchDB - Lorna Mitchell (FEN 2018)](https://www.youtube.com/watch?v=9dQFJh0jEWo) & [CouchDB, PouchDB and Offline-Tolerant Apps - Lorna Mitchell (DPC2017)](https://www.youtube.com/watch?v=QV_4hJcoMLc)
 * [CouchDB, PouchDB and Hoodie as a Stack for Progressive Web Apps - Geoff Cox](https://medium.com/offline-camp/couchdb-pouchdb-and-hoodie-as-a-stack-for-progressive-web-apps-a6078a985f18)
 
 #### DATABASES - POUCHDB - GRAPHQL
@@ -1643,8 +1649,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Introduction to Service Management with Istio Service Mesh - David Munro (Cloud Next '18)](https://www.youtube.com/watch?v=wCJrdKdD6UM)
 * [The next evolution of microservices patterns with Istio Mesh - Christian Posta (JBCNConf 2018)](https://www.youtube.com/watch?v=rleCT47cqfY)
 * [Istio: Defense in Depth for Modern Production Environments - Samrat Ray & Tao Li (Cloud Next 2018)](https://www.youtube.com/watch?v=eOI2aM9P7-c)
-* [Envoy Internals Deep Dive (Advanced Skill Level) - Matt Klein (KubeCon Europe 2018)](https://www.youtube.com/watch?v=gQF23Vw0keg)
 * [Istio 1.0.x Workshop - RedHat OpenShift](https://learn.openshift.com/servicemesh)
+* [Istio on Kubernetes: Enter the Service Mesh - Burr Sutter](https://docs.google.com/presentation/d/1AF0ZrzkesxRpgZciZeTq9O-YHuO85R1NxsFofak-je4/edit#slide=id.g432884ce64_3_59) & [Istio Tutorial - Redhat](https://github.com/redhat-developer-demos/istio-tutorial)
 * [Istio - Weaving the Service Mesh - Louis Ryan (QCon San Francisco 2017)](https://www.youtube.com/watch?v=bPEgHNZxlJw)
 * [Better Canary Deploys with Kubernetes and Istio - Jason Yee (Devoxx Belgium 2018)](https://www.youtube.com/watch?v=R7gUDY_-cFo)
 * [Making Microservices Micro with Istio Service Mesh - Ray Tsang (Devox Belgium 2017)](https://www.youtube.com/watch?v=AGztKw580yQ)
@@ -1654,10 +1660,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * Stop reinventing the wheel with Istio - Mete Atamel: [Devoxx UK 2018](https://www.youtube.com/watch?v=pGKwluckJ-A) & [NDC { Oslo } 2018](https://www.youtube.com/watch?v=1_7e4AyiYd8)
 * [Service Mesh: What, Why, And How? - Flynn (DevOpsDays Boston 2017)](https://www.youtube.com/watch?v=B0vi6ZqqmMw)
 * [Making Microservices Micro with Istio Service Mesh - Ray Tsang (Devox Belgium 2017)](https://www.youtube.com/watch?v=AGztKw580yQ)
+* [Istio: Canaries and Kubernetes, Microservices and Service Mesh - Burr Sutter (DevNation Live)](https://www.youtube.com/watch?v=YQLOcjvbo9s) | [Slides](https://docs.google.com/presentation/d/1fcaJSXBUb_dORaxaGPuS8S0wh0Jg_q5Hx7snx2tBa2E/edit#slide=id.g25f5e76d7d_1_0)
 
 #### DEVOPS - ISTIO.IO - AWS
 
 * [Getting Started with Istio on Amazon EKS - Arun Gupta](https://aws.amazon.com/blogs/opensource/getting-started-istio-eks/)
+
+#### DEVOPS - ISTIO.IO - ENVOY
+
+* [Lyft's Envoy: Embracing a Service Mesh - Matt Klein (QCon NY 2018)](https://www.youtube.com/watch?v=55yi4MMVBi4)
+* [Envoy Internals Deep Dive (Advanced Skill Level) - Matt Klein (KubeCon Europe 2018)](https://www.youtube.com/watch?v=gQF23Vw0keg)
 
 #### DEVOPS - ISTIO.IO - GKE
 
@@ -1706,6 +1718,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Building Small Containers: Kubernetes Best Practices - Sandeep Dinesh (Google)](https://www.youtube.com/watch?v=wGz_cbtCiEA)
 
+#### DEVOPS - KUBERNETES - CROSSPLANE
+
+* [Crossplane.io](https://crossplane.io/) | [Github](https://github.com/crossplaneio/crossplane)
+
 #### DEVOPS - KUBERNETES - DEPLOYMENT
 
 * [Kafka Operator: Managing and Operating Kafka Clusters in Kubernetes [A] - Nenad Bogojevic](https://www.youtube.com/watch?v=jAz8sdO1rgE)
@@ -1719,17 +1735,30 @@ See [DEVOPS - AWS (AMAZON WEB SERVICES) - KUBERNETES / EKS](#devops---aws-amazon
 
 See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 
+#### DEVOPS - KUBERNETES - HARBOR
+
+* [Harbor: Manage and serve container images in a secure environment](https://goharbor.io/)
+* [Intro: Harbor - James Zabala & Henry Zhang (KubeCon + CloudNativeCon Seattle 2018)](https://www.youtube.com/watch?v=RZQVBWwGa2s)
+
 #### DEVOPS - KUBERNETES - HELM
 
 * Helm (package manager for Kubernetes): [Website](https://helm.sh/) | [docs](https://docs.helm.sh/) | [Github](https://github.com/kubernetes/helm) | [Twitter](https://twitter.com/helmpack)
+* [Continuous Delivery for Kubernetes Apps with Helm & ChartMuseum - Josh Dolitsky & Stef Arnold](https://www.youtube.com/watch?v=u3VqswB-TJo)
+* [Intro: Helm - Matt Farina (KubeCon + CloudNativeCon Seattle 2018)](https://www.youtube.com/watch?v=0xJc3d43kn0)
 * [Configure RBAC In Your Kubernetes Cluster: Enable Helm in Your Cluster - Bitnami](https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/)
 * [Helm - the Better Way to Deploy on Kubernetes - Reinhard Nägele (Codemotion Amsterdam 2018)](https://www.youtube.com/watch?v=3q0R5x6mBZg)
 * [Your First Microservice with Kubernetes, Helm Charts, and Redis - Dan Garfield (RedisConf 2018)](https://www.youtube.com/watch?v=ywEb_c6HVew) | [Github code](https://github.com/todaywasawesome/example-voting-app)
 * [Optimising Kubernetes deployments with Helm - Erwin de Gier (Devoxx Belgium 2018)](https://www.youtube.com/watch?v=TXZBuBQpm-Q)
+* [Continuous Delivery to Kubernetes with Jenkins and Helm - David Currie (INDEX San Francisco)](https://www.youtube.com/watch?v=xzbMHj1ly9c)
+* [Helm Chart Patterns - Vic Iglesias (KubeCon)](https://www.youtube.com/watch?v=WugC_mbbiWU)
+* [Building an Application Catalog with Helm and Kubernetes - Rajashree Mandaogane & Jason Greathouse (Rancher Labs 2018)](https://www.youtube.com/watch?v=knvsqzJOIz4)
+* [Automating Kubernetes deployments with Helm and Gitlab CI - Peter Rossbach](https://www.youtube.com/watch?v=VzPdTMLgAxg)
 
 ##### DEVOPS - KUBERNETES - HELM - CHARTS
 
+* [Helm Hub](https://hub.helm.sh/)
 * [KubeApps.com (Helm charts)](https://hub.kubeapps.com/)
+* [Awesome-Helm](https://github.com/cdwv/awesome-helm)
 * [CockroachDB](https://hub.kubeapps.com/charts/stable/cockroachdb)
 * [CouchDB](https://hub.kubeapps.com/charts/incubator/couchdb)
 * [Docker Registry](https://hub.kubeapps.com/charts/stable/docker-registry)
@@ -1756,6 +1785,14 @@ See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 * [Spinnaker](https://hub.kubeapps.com/charts/stable/spinnaker)
 * [Vault](https://hub.kubeapps.com/charts/incubator/vault)
 * [Zeppelin](https://hub.kubeapps.com/charts/stable/zeppelin)
+
+##### DEVOPS - KUBERNETES - HELM - PLUGINS
+
+* [Helm Plugins Guide](https://github.com/helm/helm/blob/master/docs/plugins.md)
+* [Awesome-Helm plugin list](https://github.com/cdwv/awesome-helm#plugins)
+* [Chart-testing](https://github.com/helm/chart-testing)
+* [Helm-diff](https://github.com/databus23/helm-diff)
+* [Helm-secrets](https://github.com/futuresimple/helm-secrets)
 
 #### DEVOPS - KUBERNETES - ISTIO
 
@@ -1795,6 +1832,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Configure RBAC In Your Kubernetes Cluster - Bitnami](https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/)
 
+#### DEVOPS - KUBERNETES - ROOK
+
+* [Rook (Github)](https://github.com/rook/rook)
+* [Intro: Rook - Jared Watts (KubeCon + CloudNativeCon Seattle 2018)](https://www.youtube.com/watch?v=pwVsFHy2EdE)
+
 #### DEVOPS - KUBERNETES - SECURITY
 
 * [11 Ways (Not) to Get Hacked - Andrew Martin](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
@@ -1814,6 +1856,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### DEVOPS - KUBERNETES - VIDEOS
 
+* [KubeCon + CloudNativeCon 2018 Seattle (345 videos)](https://www.youtube.com/playlist?list=PLj6h78yzYM2PZf9eA7bhWnIh_mK1vyOfU)
 * [KubeCon + CloudNativeCon 2018 (51 videos)](https://www.youtube.com/playlist?list=PLIivdWyY5sqLctSoRvWI71mQx_5kU9SQm)
 * [theCUBE - KubeCon Seattle 2018](https://www.youtube.com/playlist?list=PLenh213llmcaRR96V1yvSqtz7AiU5sqp7)
 * [KubeCon + CloudNativeCon China 2018](https://www.youtube.com/playlist?list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)
@@ -1947,6 +1990,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [DevDocs.io - "combines multiple API documentations in a fast, organized, and searchable interface"](http://devdocs.io/)
 * [ZealDocs - open-soure offline documentation browser](http://zealdocs.org/)
+* [Non-Official Zeal User Contributions Repository - Santiago Montoya A.](https://zealusercontributions.herokuapp.com/) (in Zeal -> Tools -> Docsets, click "Add Feed," then paste in the link to the _____.xml file in this repo that you're interested in)
 
 ## DOWNTIME
 
@@ -2228,6 +2272,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### ELIXIR - COWBOY
 
 * Cowboy: [Github](https://github.com/ninenines/cowboy) | [User Guide](http://ninenines.eu/docs/en/cowboy/HEAD/guide/)
+* Ranch: [Github](https://github.com/ninenines/ranch)
 
 ### ELIXIR - COURSES (NON-FREE)
 
@@ -2407,7 +2452,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### ELIXIR - ECTO - MYXQL
 
 * [Announcing a new MySQL driver: MyXQL - José Valim](https://elixirforum.com/t/announcing-a-new-mysql-driver-myxql/17124)
-* "Building a New MySQL Adapter for Ecto" - Wojtek Mach: [Part 1: Hello World](http://blog.plataformatec.com.br/2018/11/building-a-new-mysql-adapter-for-ecto-part-i-hello-world/) | [Part 2: Encoding/Decoding](http://blog.plataformatec.com.br/2018/12/building-a-new-mysql-adapter-for-ecto-part-ii-encoding-decoding/)
+* "Building a New MySQL Adapter for Ecto" - Wojtek Mach: [Part 1: Hello World](http://blog.plataformatec.com.br/2018/11/building-a-new-mysql-adapter-for-ecto-part-i-hello-world/) | [Part 2: Encoding/Decoding](http://blog.plataformatec.com.br/2018/12/building-a-new-mysql-adapter-for-ecto-part-ii-encoding-decoding/) | [Part 3: DBConnection Integration](http://blog.plataformatec.com.br/2018/12/building-a-new-mysql-adapter-for-ecto-part-iii-dbconnection-integration/) | [Part 4: Ecto Integration](http://blog.plataformatec.com.br/2019/01/building-a-new-mysql-adapter-for-ecto-part-iv-ecto-integration/)
 
 ### ELIXIR - ELASTICSEARCH
 
@@ -3116,6 +3161,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * Erlang Master Class (University of Kent): [Class 1: Functional Programming](https://www.youtube.com/watch?v=gKRyAb7d8lo&list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5) | [Class 2: Concurrent Programming](https://www.youtube.com/watch?v=nYgEny1goCY&list=PLR812eVbehlwq4qbqswOWH7NLKjodnTIn) | [Class 3: OTP Behaviours & Releases](https://www.youtube.com/watch?v=9HVvzSsdW9k&list=PLR812eVbehlx6vgWGf2FLHjkksAEDmFjc)
 * [Erlang videos (InfoQ)](http://www.infoq.com/erlang/presentations/)
 * [ErlangSolutions Youtube videos](https://www.youtube.com/user/ErlangSolutions)
+* ICFP Erlang videos: [2018](https://www.youtube.com/playlist?list=PLnqUlCo055hXX4EZkvGk3bVeoLXJTymHc) | [2016 (10 videos)](https://www.youtube.com/playlist?list=PLnqUlCo055hXppdmJAbTH7tU9cayPfiUa)
 * [Erlang videos (Vimeo)](https://vimeo.com/search?q=Erlang)
 * [Concurrency + Distribution = Scalability + Availability, a Journey architecting Erlang Systems - Francesco Cesarini (NDC London 2016)](https://vimeo.com/162206436)
 * [Introduction to Erlang - Steven Proctor (LambdaConf 2015)](https://www.youtube.com/watch?v=0YpCBRJJtPg)
@@ -3403,6 +3449,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 * [Helm Chart](https://hub.kubeapps.com/charts/incubator/kafka)
 * [Kubernetes-kafka: Kafka cluster as Kubernetes StatefulSet, plain manifests and config](https://github.com/Yolean/kubernetes-kafka)
+* Strimzi: Kubernetes Operator for running Kafka (and OpenShift): [Github](https://github.com/strimzi/strimzi-kafka-operator) | [Strimzi.io](https://strimzi.io/)
 * [Kafka in Docker - Spotify](https://github.com/spotify/docker-kafka)
 * [Kafka-docker](https://github.com/wurstmeister/kafka-docker)
 * [Ches/kafka (Docker)](https://hub.docker.com/r/ches/kafka/)
@@ -3673,7 +3720,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 ### FUNCTIONAL PROGRAMMING - VIDEOS
 
-* International Conference on Functional Programming (ICFP): [2017](https://www.youtube.com/playlist?list=PLnqUlCo055hW7kU-SBQEhC_87etA5Gqlq) | [2016](https://www.youtube.com/playlist?list=PLnqUlCo055hV-Yb_88YYUC2ucaBKCWCsa) | [2015](https://www.youtube.com/playlist?list=PLnqUlCo055hWNtUo1Haoq347VhCqIjs7u)
+* International Conference on Functional Programming (ICFP): [2018](https://www.youtube.com/playlist?list=PLnqUlCo055hVknu7QAW_RUZRmRZWXmnvv) | [2017](https://www.youtube.com/playlist?list=PLnqUlCo055hW7kU-SBQEhC_87etA5Gqlq) | [2016](https://www.youtube.com/playlist?list=PLnqUlCo055hV-Yb_88YYUC2ucaBKCWCsa) | [2015](https://www.youtube.com/playlist?list=PLnqUlCo055hWNtUo1Haoq347VhCqIjs7u)
 * Commercial Users of Functional Programming (CUFP): [2016](https://www.youtube.com/playlist?list=PLnqUlCo055hUaidgipB5HjDpUnskXgGJ1) | [2015](https://www.youtube.com/playlist?list=PLnqUlCo055hXArE00SkORNiK9fk54de2a)
 * Compose Conference: [2017](https://www.youtube.com/playlist?list=PLNoHgLVTxtaoolkQo4hLy4ZsA1prUJ51m) | [2016](https://www.youtube.com/playlist?list=PLNoHgLVTxtaqlT4xVx6_39jzcDe-ZF9V2)
 * Compose Conference Melbourne: [2017](https://www.youtube.com/playlist?list=PLNoHgLVTxtarRJWmMAs3RSy9BbB_TGlgj) | [2016](https://www.youtube.com/playlist?list=PLNoHgLVTxtaqo1c_V2I-8wkDrCGImb9v5)
@@ -3860,6 +3907,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 * [Introduction to JWT (JSON Web Token) - Securing apps & services - Tech CBT](https://www.youtube.com/watch?v=oXxbB5kv9OA)
 * [JWT.io](https://jwt.io/)
+* [JWT: The Complete Guide to JSON Web Tokens - Angular Security](https://blog.angular-university.io/angular-jwt/)
 
 #### HTTP - AUTHENTICATION - OAUTH2
 
@@ -4034,6 +4082,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 ## JULIA
 
+* [2 1/2 hour intro to Julia - Jane Herriman & Sacha Verweij (SciPy 2018)](https://pyvideo.org/scipy-2018/an-introduction-to-julia-beginner-level.html)
 * [Julia: high-level, high-performance dynamic programming language for technical computing](http://julialang.org/)
 
 ## KIDS
@@ -4100,6 +4149,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 * [Really Friendly Command Line Intro - Tracy Osborn](http://hellobks.com/cmd-line-pdf)
 * TLDR Pages: Simplified and community-driven man pages: [website](http://tldr.sh) | [live demo](https://tldr.ostera.io/) | [installation](http://tldr.sh/#installation) | [PDF](http://tldr.sh/assets/tldr-book.pdf)
+* [Watch command: execute program periodically, showing output fullscreen](https://linux.die.net/man/1/watch)
 
 ### LINUX - NETWORKING
 
@@ -4776,6 +4826,7 @@ Peter R. Egli:
 
 ### PROGRAMMING - FUNCTIONAL REACTIVE PROGRAMMING
 
+* [Lightbend Reactive Architecture (6 courses)](https://www.lightbend.com/learn/lightbend-reactive-architecture)
 * [The introduction to Reactive Programming you've been missing - Andre Staltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 * [Reactive is a Product - Jamie Allen (Reactive Summit Montreal 2018)](https://www.reactivesummit.org/2018/schedule/reactive-is-a-product)
 * [An Event-driven and Reactive Future - Jonathan Worthington (FooCafe)](https://www.youtube.com/watch?v=_VdIQTtRkb8)

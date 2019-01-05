@@ -312,8 +312,7 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 #### PYTHON - DATA ANALYSIS - VIDEOS
 
-* [PyData NYC 2015 conference videos](https://www.youtube.com/playlist?list=PLGVZCDnMOq0ourWlul1F7aYE30VQPaMRL)
-* [PyData conference videos](https://www.youtube.com/user/PyDataTV)
+* [PyData conference videos](https://www.youtube.com/user/PyDataTV/playlists)
 
 #### PYTHON - DATA ANALYSIS - XRAY
 
@@ -751,6 +750,10 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 * [Analyzing a NHL Playoff Game with Twitter - Daniel Forsyth](http://www.danielforsyth.me/analyzing-a-nhl-playoff-game-with-twitter/)
 * [Introduction to tweepy, Twitter for Python - Ahmet Novalić](http://www.pythoncentral.io/introduction-to-tweepy-twitter-for-python/)
 * [Tweepy](http://tweepy.readthedocs.org)
+
+### PYTHON - VIDEOS
+
+* [PyVideo.org: 13,242 Python videos (and counting)](https://pyvideo.org/)
 
 ### PYTHON - VIDEOGREP
 
