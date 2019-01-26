@@ -617,6 +617,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Cortex - CGP Grey & Myke Hurley](https://www.relay.fm/cortex)
 * [DealMakers - Alejandro Cremades](https://itunes.apple.com/us/podcast/dealmakers/id1439149348?mt=2)
 * [Dingman Bootstrapped](https://www.rhsmith.umd.edu/centers-excellence/dingman-center-entrepreneurship/news-events/podcast)
+* [Founders Talk](https://changelog.com/founderstalk)
 * [Foundr - Nathan Chan](https://foundr.com/podcast-with-nathan-chan/)
 * [The Full Ratchet - Nick Moran](https://itunes.apple.com/us/podcast/full-ratchet-vc-venture-capital-angel-investors-startup/id888084300?mt=2)
 * [Greymatter - Greylock Partners](https://itunes.apple.com/us/podcast/greymatter/id1089013200?mt=2)
@@ -648,6 +649,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Acquired - A Podcast About Technology Acquisitions & IPOs - Ben Gilbert and David Rosenthal](https://itunes.apple.com/us/podcast/acquired/id1050462261)
 * [Bothsides TV - Upfront Ventures](https://itunes.apple.com/us/podcast/bothsides-tv/id893382102?mt=2)
 * [Business Book of the Month](http://www.businessbookofthemonth.com/)
+* [Chase Jarvis LIVE](https://www.chasejarvis.com/blog/)
 * [Freakonomics Radio](http://freakonomics.com/archive/)
 * [Healthy Dose](https://itunes.apple.com/us/podcast/a-healthy-dose/id1197975925)
 * [Marketing Over Coffee - John Wall & Christopher Penn](https://www.marketingovercoffee.com/)
@@ -1146,6 +1148,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [CouchDB authentication recipes - Daniel West](https://github.com/pouchdb-community/pouchdb-authentication/blob/master/docs/recipes.md)
 * [Fast CouchDB setup in AWS - Ten Bitcomb](https://gist.github.com/Ravenstine/fb350f5af391aee641d024a74a087b8e)
 
+#### DATABASES - COUCHDB - REPLICATION & CHANGE NOTIFICATION
+
+* [Spiegel: Scalable replication and change listening for CouchDB - Geoff Cox](https://github.com/redgeoff/spiegel)
+
 ### DATABASES - DATOMIC
 
 * [Datomic.com](http://www.datomic.com/)
@@ -1222,7 +1228,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DATABASES - POUCHDB
 
-* PouchDB: [PouchDB.com](https://pouchdb.com/) | [API docs](https://pouchdb.com/api.html) | [Guides](https://pouchdb.com/guides/) | [Github](https://github.com/pouchdb/pouchdb)
+* PouchDB: [PouchDB.com](https://pouchdb.com/) | [API docs](https://pouchdb.com/api.html) | [Getting Started Guide](https://pouchdb.com/getting-started.html) | [Guides](https://pouchdb.com/guides/) | [Github](https://github.com/pouchdb/pouchdb)
 * [PouchDB: The Swiss Army Knife of Databases - Glynn Bird](https://medium.com/ibm-watson-data-lab/pouchdb-the-swiss-army-knife-of-databases-c5429f3db21f)
 * [Offline first applications, syncing with PouchDB & CouchDB - François Gengler (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=0LzORC0U6uQ)
 * [Running PouchDB in a Web Worker - Glynn Bird](https://developer.ibm.com/clouddataservices/2016/02/26/running-pouchdb-in-a-web-worker/)
@@ -1644,6 +1650,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Distributed Microservices Metrics and Tracing with Istio and OpenCensus – Sandeep Dinesh (GDG DevFest Ukraine 2018)](https://www.youtube.com/watch?v=1wWfVqYb-5Y)
 * Ray Tsang: [Reducing Microservices Architecture Complexity with Istio & Kubernetes (SpringOne Platform 2018)](https://www.youtube.com/watch?v=k42jqkjtYKY) & [Making Microservices Micro With Istio & Kubernetes](https://www.youtube.com/watch?v=4x79RfMaOyo)
 * [Life of a Packet Through Istio - Matt Turner (Devoxx Belgium 2018)](https://www.youtube.com/watch?v=cB611FtjHcQ)
+* [Kubernetes and Istio Service Mesh Demo Show - Jimmy Song](https://www.youtube.com/watch?v=26kbaZxcB4A) & [kubernetes-vagrant-centos-cluster (Github)](https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster)
 * [Service Mesh in Practice - Kasun Indrasiri & David Munro (BallerinaCon 2018)](https://www.youtube.com/watch?v=IpgMucMhm0g)
 * [How to Gain Insights from Istio by Leveraging Tools Like Prometheus, Jaeger, and Cortex - Neeraj Poddar](https://www.youtube.com/watch?v=mOPMSdAQ0t8)
 * [Introduction to Service Management with Istio Service Mesh - David Munro (Cloud Next '18)](https://www.youtube.com/watch?v=wCJrdKdD6UM)
@@ -1676,6 +1683,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Istio - Google Cloud](https://cloud.google.com/istio/)
 * [Hello Istio Codelab (With Google Kubernetes) - Google](https://codelabs.developers.google.com/codelabs/cloud-hello-istio/#0)
 * [Istio 101 (1.0) on GKE](https://meteatamel.wordpress.com/2018/08/06/istio-101-1-0-on-gke/) | [Istio 101 (0.8.0) on GKE - Mete Atamel (Google)](https://meteatamel.wordpress.com/2018/06/07/istio-101-0-8-0-on-gke/)
+
+#### DEVOPS - ISTIO.IO - MULTICLUSTER
+
+* [Multicluster](https://istio.io/docs/setup/kubernetes/multicluster-install/)
 
 ### DEVOPS - KUBERNETES
 
@@ -1747,6 +1758,7 @@ See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 * [Intro: Helm - Matt Farina (KubeCon + CloudNativeCon Seattle 2018)](https://www.youtube.com/watch?v=0xJc3d43kn0)
 * [Configure RBAC In Your Kubernetes Cluster: Enable Helm in Your Cluster - Bitnami](https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/)
 * [Helm - the Better Way to Deploy on Kubernetes - Reinhard Nägele (Codemotion Amsterdam 2018)](https://www.youtube.com/watch?v=3q0R5x6mBZg)
+* [Building an Application Catalog with Helm and Kubernetes - Rajashree Mandaogane and Jason Greathouse (Rancher Labs)](https://www.youtube.com/watch?v=knvsqzJOIz4)
 * [Your First Microservice with Kubernetes, Helm Charts, and Redis - Dan Garfield (RedisConf 2018)](https://www.youtube.com/watch?v=ywEb_c6HVew) | [Github code](https://github.com/todaywasawesome/example-voting-app)
 * [Optimising Kubernetes deployments with Helm - Erwin de Gier (Devoxx Belgium 2018)](https://www.youtube.com/watch?v=TXZBuBQpm-Q)
 * [Continuous Delivery to Kubernetes with Jenkins and Helm - David Currie (INDEX San Francisco)](https://www.youtube.com/watch?v=xzbMHj1ly9c)
@@ -1818,6 +1830,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Deep dive into Kubernetes networking - Sreenivas Makam (Container Conference 2018)](https://www.youtube.com/watch?v=NUt9VVG_gac)
 * [Kubernetes Networking Master Class (Rancher Labs)]https://www.youtube.com/watch?v=GXq3FS8M_kw)
+
+#### DEVOPS - KUBERNETES - OPERATORS
+
+* [Awesome Operators](https://github.com/operator-framework/awesome-operators)
+* [Kubernetes Operators - Steven Acreman](https://kubedex.com/operators/)
 
 #### DEVOPS - KUBERNETES - PERSISTENT VOLUMES
 
@@ -1908,6 +1925,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### DEVOPS - NEWS
 
 * [The Register](http://www.theregister.co.uk/infrastructure/)
+* [SiliconAngle](https://siliconangle.com/category/cloud/)
 
 ### DEVOPS - OPEN CONTAINER INITIATIVE (OCI)
 
@@ -1946,6 +1964,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### DEVOPS - SPINNAKER.IO
 
 * [Spinnaker.io](https://www.spinnaker.io/)
+* [Continuous Delivery With Spinnaker - Emily Burns et al. (PDF book)](https://www.spinnaker.io/publications/ebook/ContinuousDeliveryWithSpinnaker.pdf)
 * [Using Kubernetes, Spinnaker and Istio to Manage a Multi-cloud Environment - Ameer Abbas (Cloud Next '18)](https://www.youtube.com/watch?v=kKC-VgAptII)
 
 ### DEVOPS - STATEFUL SERVICES
@@ -2363,6 +2382,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * Distillery: [Github](https://github.com/bitwalker/distillery) | [Documentation](https://hexdocs.pm/distillery/getting-started.html)
 * [Elixir: Runtime vs. compile time configuration - Hubert Łępicki](https://www.amberbit.com/blog/2018/9/27/elixir-runtime-vs-compile-time-configuration/)
+* How to perform Hot Code Swapping in Elixir - Blackode: [#1](https://medium.com/blackode/how-to-perform-hot-code-swapping-in-elixir-afc824860012) | [#2 — A (Live Demo) GenServer State update](https://medium.com/@blackode/how-to-perform-hot-code-swapping-using-distillery-2-a-live-demo-genserver-state-update-53d8344d9147)
 * [Elixir/Phoenix deployments using Distillery - Yuva](http://crypt.codemancers.com/posts/2016-10-06-elixir-phoenix-distillery/)
 * Pete Corey: [Deploying Elixir Applications With Distillery](http://www.east5th.co/blog/2016/12/26/deploying-elixir-applications-with-distillery/) | [Upgrade Releases With Distillery](http://www.east5th.co/blog/2017/01/09/upgrade-releases-with-distillery/) | [Simplifying Elixir Releases With eDeliver](http://www.east5th.co/blog/2017/01/16/simplifying-elixir-releases-with-edeliver/) | [Upgrade Releases With eDeliver](http://www.east5th.co/blog/2017/01/23/upgrade-releases-with-edeliver/)
 * [Storing Elixir Release Configuration in Environment Variables with Distillery - Brendan A R Sechter](http://sgeos.github.io/phoenix/elixir/erlang/ecto/distillery/postgresql/mysql/2016/09/18/storing-elixir-release-configuration-in-environment-variables-with-distillery.html)
@@ -2687,6 +2707,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Build and test a blazing fast JSON API with Phoenix, an Elixir framework - Paul Smith](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
 * [The Changelog: "Elixir and Phoenix with Chris McCord"](http://5by5.tv/changelog/147)
 * [Basic web app with Phoenix - Michael Eatherly](http://meatherly.github.io/2015/05/04/phoenixlivelikeawarrior/) & [Phoenix app with authentication - Michael Eatherly](http://meatherly.github.io/2015/05/11/phoenixauthentication/)
+* [Serving Plug: Building an Elixir HTTP server from scratch - Jeff Kreeftmeijer](https://blog.appsignal.com/2019/01/22/serving-plug-building-an-elixir-http-server.html)
 * [Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide)
 
 #### ELIXIR - PHOENIX - 1.4
@@ -2745,6 +2766,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Awesome Elixir: JSON](https://github.com/h4cc/awesome-elixir#json)
 * A Phoenix and Elixir REST API - Bill Peregoy: [Part 1](https://becoming-functional.com/building-a-rest-api-with-phoenix-and-elixir-b12dcec302c5) | [Part 2](https://becoming-functional.com/a-phoenix-and-elixir-rest-api-part-2-dc00e8b73c9d)
 * [Building and testing a Phoenix JSON API - Paul Smith (Thoughtbot)](https://robots.thoughtbot.com/building-a-phoenix-json-api)
+
+#### ELIXIR - PHOENIX - LIVEVIEW
+
+* [Phoenix LiveView: Interactive, Real-Time Apps. No Need to Write JavaScript - Chris McCord](https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript)
 
 #### ELIXIR - PHOENIX - PERFORMANCE
 
@@ -3387,7 +3412,12 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA STREAMS
 
 * Apache Kafka Streams API - Tim Berglund (Confluent): [1. Intro to Streams](https://www.youtube.com/watch?v=Z3JKCLG3VP4) | [2. Creating a Streams Application](https://www.youtube.com/watch?v=LxxeXI1mPKo) | [3. Transforming Data, Part I](https://www.youtube.com/watch?v=7JYEEx7SBuE) | [4. Transforming Data II](https://www.youtube.com/watch?v=3kJgYIkAeHs)
+* [Beyond the DSL—Unlocking the power of Kafka Streams with the Processor API - Antony Stubbs (Devoxx 2018)](https://www.youtube.com/watch?v=_KAFdwJ0zBA)
+* [Building Streaming Microservices with Apache Kafka - Tim Berglund (Devoxx Poland 2018)](https://www.youtube.com/watch?v=Hlb-Ss3q3as) & [Processing Streaming Data with KSQL - Tim Berglund (Devoxx Poland 2018)](https://www.youtube.com/watch?v=LM-aQQQes4Q)
+* [Apache Kafka and KSQL in Action : Let’s Build a Streaming Data Pipeline! - Robin Moffatt (Devoxx 2018)](https://www.youtube.com/watch?v=RJtEacDX4Oc)
 * [Inventory Microservice example with Kafka Streams and CQRS - Sanjay Acharya](https://sleeplessinslc.blogspot.com/2018/02/inventory-microservice-example-with.html)
+* [Kafka Streams for Event Driven Microservices - Marius Bogoevici (DevNation Live)](https://www.youtube.com/watch?v=x3QCrb6zCKA)
+* [Kafka based Microservices with Akka Streams and Kafka Streams - Dean Wampler (ScalaDays 2018)](https://www.youtube.com/watch?v=YFBP9dZlpvM)
 * [Of Streams and Tables in Kafka and Stream Processing, Part 1 - Michael G. Noll](http://www.michael-noll.com/blog/2018/04/05/of-stream-and-tables-in-kafka-and-stream-processing-part1/)
 * [Getting Started With the Kafka Streams API](https://kafka.apache.org/documentation/streams/)
 * [Kafka Streams documentation](https://kafka.apache.org/documentation/streams/)
@@ -4942,6 +4972,7 @@ Peter R. Egli:
 * [The Freelancers' Show](https://devchat.tv/freelancers/)
 * [Front End Happy Hour](http://frontendhappyhour.com/)
 * [Full Stack Radio](http://www.fullstackradio.com/episodes)
+* [Function](https://itunes.apple.com/us/podcast/function-with-anil-dash/id1439658455)
 * [FunctionalGeekery.com](https://www.functionalgeekery.com)
 * [Giant Robots](http://giantrobots.fm/)
 * [Greater Than Code](https://www.greaterthancode.com/)
@@ -5614,6 +5645,11 @@ Peter R. Egli:
 * [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 * [Tmux Plugins & Tools](https://tmuxcheatsheet.com/tmux-plugins-tools/)
 * [vim-tmux-navigator - Chris Toomey](https://github.com/christoomey/vim-tmux-navigator) & [cheatsheet](https://tmuxcheatsheet.com/tmux-plugins-tools/?full_name=christoomey%2Fvim-tmux-navigator)
+
+### TMUX - RESURRECT
+
+* [tmux-resurrect: Persists tmux environment across system restarts](https://github.com/tmux-plugins/tmux-resurrect)
+* [Undo last session save on Tmux Resurrect - Pasindu Rumal Perera](https://medium.com/@udnisap/restore-older-sessions-in-tmux-resurrect-8892629ef004)
 
 ## UML
 
