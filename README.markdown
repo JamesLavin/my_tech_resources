@@ -2009,7 +2009,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [DevDocs.io - "combines multiple API documentations in a fast, organized, and searchable interface"](http://devdocs.io/)
 * [ZealDocs - open-soure offline documentation browser](http://zealdocs.org/)
-* [Non-Official Zeal User Contributions Repository - Santiago Montoya A.](https://zealusercontributions.herokuapp.com/) (in Zeal -> Tools -> Docsets, click "Add Feed," then paste in the link to the _____.xml file in this repo that you're interested in)
+* [Non-Official Zeal User Contributions Repository - Santiago Montoya A.](https://zealusercontributions.herokuapp.com/) (in Zeal -> Tools -> Docsets, click "Add Feed," then paste in the link to the .xml file in this repo that you're interested in)
 
 ## DOWNTIME
 
@@ -3805,6 +3805,19 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [Developer docs](http://developer.github.com)
 * [gitsuggest: suggests Github repositories based on repositories you've shown interest in](https://github.com/csurfer/gitsuggest)
+
+## GRAPHICS
+
+### GRAPHICS - GIMP
+
+* [GIMP](https://www.gimp.org/) | [Tutorials](https://www.gimp.org/tutorials/) | [Docs - English](https://docs.gimp.org/2.10/en/) | [Docs](https://www.gimp.org/docs/)
+
+### GRAPHICS - INKSCAPE
+
+* [Inkscape](https://inkscape.org/)
+* [Inkscape Tutorial - Simon Andrews](https://www.bioinformatics.babraham.ac.uk/training/Figure_Design_Course/Inkscape%20Tutorial.pdf)
+* [Inkscape Manual (2008)](https://commons.wikimedia.org/wiki/File:Manual_Inkscape.pdf)
+* [Inkscape: An Introduction](https://weblearn.ox.ac.uk/access/content/group/e05e05d2-f4ce-4a24-a008-031832bd1509/LearningRes_Open/Course_Book_Digital_Images_TIMGA_Inkscape_Introduction.pdf)
 
 ## HAPPINESS
 
