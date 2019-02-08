@@ -112,6 +112,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - DEEP NEURAL NETS
 
+* [What do neural networks learn? - Brandon Rohrer](https://www.youtube.com/watch?v=UojVVG4PAG0)
 * [Intro to Deep Learning with PyTorch - Luis Serrano (Udacity)](https://classroom.udacity.com/courses/ud188)
 * [Notes from Coursera Deep Learning courses by Andrew Ng - Tess Ferrandez](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
 * [Learn Deep Learning in 6 Weeks - Siraj Raval](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks/)
@@ -893,13 +894,24 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Tag](https://bulma.io/documentation/elements/tag/)
     * [Title](https://bulma.io/documentation/elements/title/)
   * [Extensions](https://wikiki.github.io)
+* [Learn Bulma CSS for free - Zaydek](https://scrimba.com/g/gbulma)
 * [Bulma CSS Framework Crash Course - Traversy Media](https://www.youtube.com/watch?v=IiPQYQT2-wg)
 * [Bulmaswatch: Free themes for Bulma](https://jenil.github.io/bulmaswatch/)
 * [Learn Bulma in 5 Minutes - Per Harald Borgen](https://medium.freecodecamp.org/learn-bulma-in-5-minutes-ec5188c53e83)
 * [Bulma: CSS framework you should consider in 2018 - Mateusz](https://matwrites.com/bulma-css-framework-for-2018/)
 
+### CSS - COLOR
+
+* [Coolors: Color scheme generator](https://coolors.co/)
+* [Paletton: Build a color palette](http://paletton.com/)
+* [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
+* [Palettab: Discover new fonts and colors with every tab](https://palettab.com/)
+* [Web Gradients](https://webgradients.com/)
+* [UI Gradients](https://uigradients.com/)
+
 ### CSS - COOL STUFF
 
+* [Tobias Bjerrome Ahlin CSS design blog](http://tobiasahlin.com/blog/)
 * [CSS-Tricks.com](https://css-tricks.com/)
 * [How To Make a Slide Out Navigation with HTML/CSS (No JavaScript)](https://www.youtube.com/watch?v=d4P8s-mkMvs)
 * [Smashing Magazine](https://www.smashingmagazine.com/)
@@ -914,13 +926,26 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### CSS - GRID
 
+* [Grid By Example - Rachel Andrew](https://gridbyexample.com/)
+* [Experimental Layout Lab of Jen Simmons](https://labs.jensimmons.com/)
 * [CSS Grid Garden](https://cssgridgarden.com/)
+* [A Complete Guide to Grid - Chris Coyier](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+### CSS - PHOTOS
+
+* [Unsplash: Beautiful, free photos. Gifted by the world’s most generous community of photographers](https://unsplash.com/)
 
 ### CSS - RESPONSIVE DESIGN
 
 * [Using Media Queries For Responsive Design In 2018 - Rachel Andrew](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
 * [Laziness in the Time of Responsive Design - Ethan Marcotte (Constant Contact 2014)](http://www.confreaks.tv/videos/4605-e4e2014-laziness-in-the-time-of-responsive-design)
 * [The New Rules of The Responsive Web](http://confreaks.tv/videos/2222-html5tx2013-the-new-rules-of-the-responsive-web)
+
+### CSS - TEXTURES
+
+* [Blender.org - Textures](https://cloud.blender.org/p/textures/)
+* [FreeStockTextures.com](https://freestocktextures.com/)
+* [Pexels.com](https://www.pexels.com/search/texture/)
 
 ## DATA
 
@@ -2747,6 +2772,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Distillery: Phoenix Walkthrough](https://hexdocs.pm/distillery/phoenix-walkthrough.html)
 * [Elixir Phoenix 1.4 Deployments with Distillery and Edeliver on Ubuntu - Troy Martin](https://devato.com/automate-elixir-phoenix-1-4-deployment-with-distillery-and-edeliver-on-ubuntu/)
+* [Implementing Connection Draining for Phoenix (or any library that uses Ranch!) - Derek Kraan](https://medium.com/@derek.kraan2/implementing-connection-draining-for-phoenix-or-any-library-that-uses-ranch-8e640f3bd4cf)
 * [Exrm Releases (also applies to Distillery) - PhoenixFramework.org](http://www.phoenixframework.org/docs/advanced-deployment)
 * [Deploying Phoenix Applications with Exrm - Brandon Richey](https://medium.com/@diamondgfx/deploying-phoenix-applications-with-exrm-97a3867ebd04?source=tw-5dbe5bfa021a-1446130465757)
 * [Setting Up Phoenix/Elixir With Nginx and LetsEncrypt - Andrew Forward](https://medium.com/@a4word/setting-up-phoenix-elixir-with-nginx-and-letsencrypt-ada9398a9b2c#.fnrxau4z0)
@@ -5352,6 +5378,7 @@ Peter R. Egli:
 
 * [Akka.io](http://akka.io/) | [Documentation](https://doc.akka.io/docs/akka/current/guide/introduction.html?language=scala) | [Quickstart](https://developer.lightbend.com/guides/akka-quickstart-scala/)
 * [A Practical Introduction to Akka Streams - Jacek Kunicki (Lambda Days 2017)](https://www.youtube.com/watch?v=O_2J6dPSHSo)
+* [Cloud-Native Applications Meet Cloud-Native Infrastructure - Fabio Tiriticco](https://www.lightbend.com/blog/akka-and-kubernetes-reactive-from-code-to-cloud)
 * [Cloud Native Akka & Kubernetes: the holy grail to elasticity? - Fabio Tiriticco ("J" {"On": "The Beach"} 2018)](https://www.youtube.com/watch?time_continue=10&v=OOXRgd5yUQo) & [Akka Java Middleware: What Goes Inside the Containers Counts - Susan Hall](https://thenewstack.io/akka-java-middleware-what-goes-inside-the-containers-counts)
 * [Supercharging Marketo's Multi-Tenant Platform By Going Reactive - Marketo (Reactive Summit Montreal 2018)](https://www.reactivesummit.org/2018/schedule/supercharging-marketos-multi-tenant-platform-by-going-reactive)
 * [Implementing the Reactive Manifesto with Akka - Adam Warski (Lambda Days 2015)](https://www.youtube.com/watch?v=kFH3_OF9EW8)
@@ -5841,6 +5868,13 @@ Peter R. Egli:
 * [Dribble](https://dribbble.com/)
 * [Learn UI Design Blog - Erik D. Kennedy](https://learnui.design/blog/)
 * [Flat UI Colors](https://flatuicolors.com/)
+
+### WEB DESIGN - USER EXPERIENCE (UX)
+
+* [User experience mapping for dummies - Alice Emma Walker](https://uxdesign.cc/user-experience-mapping-alice-emma-walker-868259547ba8)
+* [UX Mapping Methods Compared: A Cheat Sheet - Sarah Gibbons](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/)
+* [User flow is the new wireframe - Alexander Handley](https://uxdesign.cc/when-to-use-user-flows-guide-8b26ca9aa36a)
+* [7 Free and Open Source Wireframe Tools to Optimize User Experience - Kelsie Anderson](https://blog.capterra.com/free-and-open-source-wireframe-tools/)
 
 ## WRITING/PUBLISHING
 

@@ -260,6 +260,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ELM - DATA STRUCTURES - JSON
 
 * [elm-demystify-decoders - Ilias Van Peer](https://github.com/zwilias/elm-demystify-decoders/)
+* [Using JSONP with Elm 0.19 - Devan Stormont](https://medium.com/@stormont/using-jsonp-with-elm-0-19-cee2170a7500)
 * [Turn a JSON string Into Typed Data in Elm - Murphy Randle](https://egghead.io/lessons/turn-a-json-string-into-typed-data-in-elm)
 * [Bridging Elm and JavaScript with Ports - Josh Clayton](https://robots.thoughtbot.com/bridging-elm-and-javascript-with-ports)
 * [json-to-elm](https://github.com/eeue56/json-to-elm) & [JSON2Elm.com](http://noredink.github.io/json-to-elm/)
