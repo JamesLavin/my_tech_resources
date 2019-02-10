@@ -527,6 +527,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * Marc Andreessen: [Part 1: Why not to do a startup](https://pmarchive.com/guide_to_startups_part1.htm://pmarchive.com/guide_to_startups_part1.html) | [Part 2: When the VCs say "no"](https://pmarchive.com/guide_to_startups_part2.html) | [Part 3: "But I don't know any VCs!"](https://pmarchive.com/guide_to_startups_part3.html) | [Part 4: The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html) | [Part 5: The Moby Dick theory of big companies](https://pmarchive.com/guide_to_startups_part5.html) | [Part 6: How much funding is too little? Too much?](https://pmarchive.com/guide_to_startups_part6.html) | [Part 7: Why a startup's initial business plan doesn't matter that much](https://pmarchive.com/guide_to_startups_part7.html) | [Part 8: Hiring, managing, promoting, and firing executives](https://pmarchive.com/guide_to_startups_part8.html) | [Part 9: How to hire a professional CEO](https://pmarchive.com/guide_to_startups_part9.html)
 * [Paul Graham essays](http://www.paulgraham.com/articles.html)
 * [Acquired by Amazon— what we learned at Pillpack - Fred Destin](https://medium.com/@fdestin/acquired-by-amazon-what-we-learned-at-pillpack-7a9e53d0c51b)
+* [SaaStr (SaaS Scale Together) conference videos](https://www.youtube.com/channel/UCwOILzAcxK5CM2M7oRBuWSg/playlists)
+* [12 Key Levers of SaaS Success - David Skok (SaaStr 2017)](https://www.youtube.com/watch?v=yP869ABH4Xw)
 * [A Conversation with Paul Graham - Moderated by Geoff Ralston](https://www.youtube.com/watch?v=4WO5kJChg3w)
 * [The single biggest reason why startups succeed - Bill Gross (TED)](https://www.youtube.com/watch?v=bNpx7gpSqbY)
 * [YC’s Essential Startup Advice - Geoff Ralston and Michael Seibel](https://blog.ycombinator.com/ycs-essential-startup-advice/)
@@ -534,6 +536,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Startup Hacks - Alex Iskold](https://alexiskold.net/)
 * [10 Things The Rich Do That The Poor Don't - Why You Are Still Broke - Practical Wisdom](https://www.youtube.com/watch?v=nr76bupxjco)
 * [How to Achieve Your Most Ambitious Goals - Stephen Duneier (TEDxTucson)](https://www.youtube.com/watch?v=TQMbvJNRpLE)
+* [Don't Do These 68 Things in Your SaaS Company - Anand Sanwal (SaaStr 2017)](https://www.youtube.com/watch?v=fx1OXZAGd-I)
 * [Startups, Entrepreneurship, and Making Your Tech Business Work - Full Sail University 2017](https://www.youtube.com/watch?v=fFMpmboNGuY)
 * [Evidence-based Entrepreneurship - Steve Blank (The Lean Startup Conference 2013)](https://www.youtube.com/watch?v=zjvEanpktEo)
 * [Tim Ferriss's advice on starting a business or podcast - Tim Ferriss](https://www.youtube.com/watch?v=ymiBDged-eQ)
@@ -550,10 +553,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [10 Steps to Product-Market Fit - Ash Maurya](https://www.youtube.com/watch?v=Nhl5nzUNQCA)
 * [12 Mistakes I Made My First Year as an Entrepreneur - Patrick Bet-David](https://www.youtube.com/watch?v=qgc89GEO_nE)
 * [Warren Buffet's Life Advice Will Change Your Future](https://www.youtube.com/watch?v=PX5-XyBNi00)
+* [Guy Kawasaki (Apple) on Top 10 Mistakes Entrepreneurs Make (Startup Grind)](https://www.youtube.com/watch?v=IBt_z2ZZSLI)
 * [10 SKILLS That Are HARD to Learn, BUT Will Pay Off FOREVER! - Evan Carmichael](https://www.youtube.com/watch?v=2wPeC4CLkLU)
 * [Steve Jobs's Top 10 Rules For Success - Evan Carmichael](https://www.youtube.com/watch?v=eHzAtxW3TzY)
 * [What they don't tell you about entrepreneurship - Mark Leruste (TEDxCardiff)](https://www.youtube.com/watch?v=f6nxcfbDfZo)
 * [How to build a Billion Dollar app? - George Berkowski (TEDxCityUniversityLondon)](https://www.youtube.com/watch?v=OwuEwhX1M_M)
+* [Claire Lew interviews Kathryn Minshew, Founder + CEO of The Muse](https://www.youtube.com/watch?v=GqkbYcUBQnk)
+* [The Best of the Best: YC SaaS Founders](https://www.youtube.com/watch?v=b13UAbS21y8)
 
 #### BUSINESS - ENTREPRENEURSHIP - BENEFIT CORPORATIONS
 
@@ -900,6 +906,17 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Learn Bulma in 5 Minutes - Per Harald Borgen](https://medium.freecodecamp.org/learn-bulma-in-5-minutes-ec5188c53e83)
 * [Bulma: CSS framework you should consider in 2018 - Mateusz](https://matwrites.com/bulma-css-framework-for-2018/)
 
+#### CSS - BULMA - JAVASCRIPT
+
+* [JavaScript for Bulma: Tabs - Travis Media](https://www.youtube.com/watch?v=jsevCC_nlHc)
+* [JavaScript for Bulma: Modals - Travis Media](https://www.youtube.com/watch?v=h11FMQ2lPGI)
+* [JavaScript Zipcode App Using Fetch & Bulma CSS - Traversy Media](https://www.youtube.com/watch?v=K3GfUH7AZKs)
+
+#### CSS - BULMA - VIDEOS
+
+* [Bulma CSS Framework Crash Course - Traversy Media](https://www.youtube.com/watch?v=IiPQYQT2-wg)
+* [Bulma CSS Framework - complete tutorial - freeCodeCamp.org](https://www.youtube.com/watch?v=LBzZLzu2GKo)
+
 ### CSS - COLOR
 
 * [Coolors: Color scheme generator](https://coolors.co/)
@@ -918,6 +935,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### CSS - FLEXBOX
 
+* [CSS Flexbox Course - freeCodeCamp.org](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
+* CSS Flexbox Tutorial for Beginners | Basics & Container - Academind: [1 of 2](https://www.youtube.com/watch?v=siKKg8Y_tQY) & [2 of 2](https://www.youtube.com/watch?v=RdlEEfx912M)
+* [Responsive HTML/CSS Website From Scratch with Flexbox Grid - Drew Ryan](https://www.youtube.com/watch?v=Rf_DjL_dbug)
+* [Build A Responsive HTML & CSS Template With FlexboxGrid - Traversy Media](https://www.youtube.com/watch?v=qlA7dputiNc)
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [Flexbox Cheatsheet - Joni Bologna](http://jonibologna.com/content/images/flexboxsheet.pdf)
 * [A Complete Guide to Flexbox - Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -946,6 +967,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Blender.org - Textures](https://cloud.blender.org/p/textures/)
 * [FreeStockTextures.com](https://freestocktextures.com/)
 * [Pexels.com](https://www.pexels.com/search/texture/)
+
+### CSS - UX/UI
+
+* [The 2019 UI Design Crash Course for Beginners - Gary Simon](https://www.youtube.com/watch?v=_Hp_dI0DzY4)
+* [UI/UX Design Ayana Campbell Smith - 1 of 3](https://www.youtube.com/watch?v=2L6kH0bBJIA) | [2 of 3](https://www.youtube.com/watch?v=Mpr5iNX0pYo) | [3 of 3](https://www.youtube.com/watch?v=YLJuqWTwskY)
 
 ## DATA
 
@@ -1460,6 +1486,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - CLOUD
 
+* [Awesome Cloud Native - Jimmy Song](https://jimmysong.io/awesome-cloud-native/)
 * [Cloud Native Interactive Landscape (CNCF)](https://landscape.cncf.io/)
 
 ### DEVOPS - COREOS (RED HAT)
@@ -1605,6 +1632,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - GOOGLE CLOUD
 
 * Gcloud: [Overview](https://cloud.google.com/sdk/gcloud/) | [Compute Concepts](https://cloud.google.com/compute/docs/concepts) | [SDK Concepts](https://cloud.google.com/sdk/docs/concepts) | [Reference](https://cloud.google.com/sdk/gcloud/reference/) | [Compute How-Tos](https://cloud.google.com/compute/docs/how-to) | [SDK How-Tos](https://cloud.google.com/sdk/docs/how-to)
+* [QwikLabs.com: We give you temporary credentials to Google Cloud Platform and Amazon Web Services, so you can learn the cloud using the real thing](https://www.qwiklabs.com/home?locale=en)
 * [Training - Google Cloud](https://teachercenter.withgoogle.com/gcp/training)
 * [Developing Applications with Google Cloud Platform Specialization - Coursera](https://www.coursera.org/specializations/developing-apps-gcp)
 * [Secrets Management - Google Cloud](https://cloud.google.com/solutions/secrets-management/)
@@ -1716,6 +1744,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - KUBERNETES
 
 * Kubernetes: [Docs](https://kubernetes.io/) | [Kubernetes API](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.9/) | [Basic tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Tutorials](https://kubernetes.io/docs/tutorials/) | [Tasks](https://kubernetes.io/docs/tasks/) | [Concepts](https://kubernetes.io/docs/concepts/) | [Github](https://github.com/kubernetes/kubernetes)
+* [kubernetes-doc-pdf](https://github.com/dohsimpson/kubernetes-doc-pdf)
+* [Kubernetes Design Principles: Understand the Why - Saad Ali (KubeCon + CloudNativeCon 2018)](https://www.youtube.com/watch?v=ZuIQurh_kDk)
 * [Kubernetes in About 45 Minutes - Philip Lombardi (DevOpsDays Boston 2017)](https://www.youtube.com/watch?v=D6vkeowf9f4)
 * 9 Steps to Awesome With Kubernetes - Burr Sutter (3 hours, Devoxx Belgium 2018): [Video](https://www.youtube.com/watch?v=ZpbXSdzp_vo) | [Slides](https://docs.google.com/presentation/d/1QeDOfgnJO5vCftBFsA8iU3xP1FUTRXYfeVCuY_ZJTdo/edit#slide=id.g3e7ff8d655_0_600) | [Code](https://github.com/burrsutter/9stepsawesome)
 * [Learn Kubernetes in Under 3 Hours: A Detailed Guide to Orchestrating Containers - Rinor Maloku](https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882)
@@ -1727,6 +1757,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Infrastructure in the New World of Containers: What are your options? - Austen Novis (DevOpsDays Boston 2018](http://confreaks.tv/videos/devopsdaysboston2018-infrastructure-in-the-new-world-of-containers-what-are-your-options)
 * [Kubernetes the Hard Way - Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * [Kubernetes in Real Life - Ian Crosby (GOTO Conference 2017)](https://www.youtube.com/watch?v=UUt7SuG3nW4)
+* [Troubleshooting & Debugging Microservices in Kubernetes - Ray Tsang & Robert Kubis (GOTO 2018)](https://www.youtube.com/watch?v=2hxTTyc6IH8)
 * [The ins and outs of networking in Google Container Engine and Kubernetes - Tim Hockin and Michael Rubin (Google Cloud Next '17)](https://www.youtube.com/watch?v=y2bhV81MfKQ)
 * [Kubernetes Webinars - Janakiram & Associates](https://www.youtube.com/playlist?list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ)
 * kubectl: [Cheatsheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/) | [Overview](https://kubernetes.io/docs/user-guide/kubectl-overview/)
@@ -1781,8 +1812,9 @@ See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 * Helm (package manager for Kubernetes): [Website](https://helm.sh/) | [docs](https://docs.helm.sh/) | [Github](https://github.com/kubernetes/helm) | [Twitter](https://twitter.com/helmpack)
 * [Continuous Delivery for Kubernetes Apps with Helm & ChartMuseum - Josh Dolitsky & Stef Arnold](https://www.youtube.com/watch?v=u3VqswB-TJo)
 * [Intro: Helm - Matt Farina (KubeCon + CloudNativeCon Seattle 2018)](https://www.youtube.com/watch?v=0xJc3d43kn0)
+* [Deep Dive: Helm - Matt Butcher & Adam Reese (KubeCon + CloudNativeCon Seattle 2018)](https://www.youtube.com/watch?v=V8VCdlpWWr8)
 * [Configure RBAC In Your Kubernetes Cluster: Enable Helm in Your Cluster - Bitnami](https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/)
-* [Helm - the Better Way to Deploy on Kubernetes - Reinhard Nägele (Codemotion Amsterdam 2018)](https://www.youtube.com/watch?v=3q0R5x6mBZg)
+* [Helm - the Better Way to Deploy on Kubernetes - Reinhard Nägele (Codemotion Amsterdam 2018)](https://www.youtube.com/watch?v=3q0R5x6mBZg) & [Github repo](https://github.com/unguiculus/hello-world)
 * [Building an Application Catalog with Helm and Kubernetes - Rajashree Mandaogane and Jason Greathouse (Rancher Labs)](https://www.youtube.com/watch?v=knvsqzJOIz4)
 * [Your First Microservice with Kubernetes, Helm Charts, and Redis - Dan Garfield (RedisConf 2018)](https://www.youtube.com/watch?v=ywEb_c6HVew) | [Github code](https://github.com/todaywasawesome/example-voting-app)
 * [Optimising Kubernetes deployments with Helm - Erwin de Gier (Devoxx Belgium 2018)](https://www.youtube.com/watch?v=TXZBuBQpm-Q)
@@ -1790,6 +1822,11 @@ See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 * [Helm Chart Patterns - Vic Iglesias (KubeCon)](https://www.youtube.com/watch?v=WugC_mbbiWU)
 * [Building an Application Catalog with Helm and Kubernetes - Rajashree Mandaogane & Jason Greathouse (Rancher Labs 2018)](https://www.youtube.com/watch?v=knvsqzJOIz4)
 * [Automating Kubernetes deployments with Helm and Gitlab CI - Peter Rossbach](https://www.youtube.com/watch?v=VzPdTMLgAxg)
+* [Running MySQL on Kubernetes - Patrick M. Galbraith (KubeCon + CloudNativeCon 2018)](https://www.youtube.com/watch?v=g924HDB81oc)
+
+##### DEVOPS - KUBERNETES - HELM - CHART MUSEUM
+
+* [ChartMuseum.com](https://chartmuseum.com/) | [Github](https://github.com/helm/chartmuseum)
 
 ##### DEVOPS - KUBERNETES - HELM - CHARTS
 
@@ -1823,6 +1860,10 @@ See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 * [Vault](https://hub.kubeapps.com/charts/incubator/vault)
 * [Zeppelin](https://hub.kubeapps.com/charts/stable/zeppelin)
 
+##### DEVOPS - KUBERNETES - HELM - MONOCULAR
+
+* [Monocular: Search-and-discovery UI for helm chart repos  (Github)](https://github.com/helm/monocular)
+
 ##### DEVOPS - KUBERNETES - HELM - PLUGINS
 
 * [Helm Plugins Guide](https://github.com/helm/helm/blob/master/docs/plugins.md)
@@ -1855,6 +1896,12 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Deep dive into Kubernetes networking - Sreenivas Makam (Container Conference 2018)](https://www.youtube.com/watch?v=NUt9VVG_gac)
 * [Kubernetes Networking Master Class (Rancher Labs)]https://www.youtube.com/watch?v=GXq3FS8M_kw)
+* [Leveraging Kubernetes Services & DNS - Christopher Liljenstolpe](https://www.youtube.com/watch?v=VR8ep5Wf_MA)
+
+#### DEVOPS - KUBERNETES - OPERATORS
+
+* [Operator Framework Github repos](https://github.com/operator-framework)
+* [TGI Kubernetes 037: Operator Framework - Kris Nova](https://www.youtube.com/watch?v=Ko_WfXRAypY)
 
 #### DEVOPS - KUBERNETES - OPERATORS
 
@@ -1886,6 +1933,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Kubernetes Security Best Practices - Ian Lewis](https://speakerdeck.com/ianlewis/kubernetes-security-best-practices)
 * [Building Container Images Securely on Kubernetes - Jessie Frazelle](https://blog.jessfraz.com/post/building-container-images-securely-on-kubernetes/)
 
+#### DEVOPS - KUBERNETES - SERVICE CATALOG
+
+* [Service Catalog documentation on Kubernetes.io](https://kubernetes.io/docs/concepts/extend-kubernetes/service-catalog/) | [Documentation on svc-cat.io](https://svc-cat.io/docs/) | [Install using Helm](https://kubernetes.io/docs/tasks/service-catalog/) | [Github](https://github.com/kubernetes-incubator/service-catalog)
+* [Using Services Outside Kubernetes from Kubernetes with the Service Catalog - Ara Pulido, Bitnami](https://www.youtube.com/watch?v=mowlSkpev0o)
+
 #### DEVOPS - KUBERNETES - SKAFFOLD
 
 * [Skaffold: Easy and Repeatable Kubernetes Development (Github)](https://github.com/GoogleCloudPlatform/skaffold)
@@ -1901,6 +1953,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [KubeCon + CloudNativeCon 2018 Seattle (345 videos)](https://www.youtube.com/playlist?list=PLj6h78yzYM2PZf9eA7bhWnIh_mK1vyOfU)
 * [KubeCon + CloudNativeCon 2018 (51 videos)](https://www.youtube.com/playlist?list=PLIivdWyY5sqLctSoRvWI71mQx_5kU9SQm)
 * [theCUBE - KubeCon Seattle 2018](https://www.youtube.com/playlist?list=PLenh213llmcaRR96V1yvSqtz7AiU5sqp7)
+* [TGI Kubernetes - Heptio](https://www.youtube.com/playlist?list=PLvmPtYZtoXOENHJiAQc6HmV2jmuexKfrJ) & [Code from every episode on Github](https://github.com/heptio/tgik/tree/master/episodes)
 * [KubeCon + CloudNativeCon China 2018](https://www.youtube.com/playlist?list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)
 * [KubeCon + CloudNativeCon 2018 - Copenhagen (354 videos!)](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo)
 * [CNCF (Cloud Native Computing Foundation) video playlists](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA/playlists)
@@ -2310,6 +2363,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - CODE QUALITY
 
+* [SOLID Elixir - Georgina McFadyen (ElixirConf.EU 2018)](https://www.youtube.com/watch?v=eldYot7uxUc)
 * [Keeping Code Consistent - Ben Marx (ElixirConf EU 2017)](https://www.youtube.com/watch?v=W1EzF4FdUxM)
 * [Refactoring Elixir: Lessons Learned from a Year on Exercism.io](https://www.youtube.com/watch?v=tJJMrtJEK1A)
 
@@ -2325,6 +2379,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - DEBUGGING
 
+* [How to Use IEx.pry in Elixir Tests - Adam Delong](https://adamdelong.com/iex-pry-test/)
 * [Debugging & Tracing Elixir Applications - Dimitris Zorbas](https://zorbash.com/post/debugging-elixir-applications/)
 * [Debugging - Elixir-lang.org](https://elixir-lang.org/getting-started/debugging.html)
 * [Debugging techniques in Elixir - Erich Kist](http://blog.plataformatec.com.br/2016/04/debugging-techniques-in-elixir-lang/)
@@ -2338,8 +2393,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### ELIXIR - DEPLOYMENT
 
 * Paul Schoenfelder ("bitwalker"): [Elixir on Alpine Linux](https://github.com/bitwalker/alpine-elixir)  ((Docker)[https://hub.docker.com/r/bitwalker/alpine-elixir/]) | [Elixir/Phoenix on Alpine Linux](https://github.com/bitwalker/alpine-elixir-phoenix) ([Docker](https://hub.docker.com/r/bitwalker/alpine-elixir-phoenix/))
+* [Connecting Elixir Nodes with libcluster, locally and on Kubernetes - Alvise Susmel](https://www.poeticoding.com/connecting-elixir-nodes-with-libcluster-locally-and-on-kubernetes/) & [phoenix-chat-example (Github)](https://github.com/poeticoding/phoenix_chat_example/tree/libcluster)
 * [Best practices for deploying Elixir apps - Jake Morrison](https://www.cogini.com/blog/best-practices-for-deploying-elixir-apps/)
 * [How To Automate Elixir-Phoenix Deployment with Distillery and edeliver on Ubuntu 16.04 - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-automate-elixir-phoenix-deployment-with-distillery-and-edeliver-on-ubuntu-16-04)
+* [k8s: Kubernetes library & HTTP client in Elixir](https://github.com/coryodaniel/k8s)
 * [Guide to deploy an Elixir/Phoenix app to AWS ECS - Joaquim Adráz](https://joaquimadraz.com/guide-to-deploy-an-elixir-phoenix-app-to-aws-ecs)
 * [How to Run Your Phoenix Application with Docker - Nicolas Dular](https://pspdfkit.com/blog/2018/how-to-run-your-phoenix-application-with-docker/)
 * [Building and configuring a Phoenix app with Umbrella for releasing with Docker - Fernando Briano](https://cultivatehq.com/posts/elixir-distillery-umbrella-docker/)
@@ -2389,6 +2446,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * Libcluster - Paul Schoenfelder: [Github](https://github.com/bitwalker/libcluster) | [Docs](https://hexdocs.pm/libcluster/readme.html)
 * [Cluster.Strategy.Kubernetes](https://hexdocs.pm/libcluster/Cluster.Strategy.Kubernetes.html)
 * [ClusterConsul.Strategy](https://github.com/arcz/libcluster_consul)
+* [What’s going on in libcluster? (Elixir library overview) - Joseph Rosztoczy](https://medium.com/@TehBrofessor/whats-going-on-in-libcluster-76f239f00d57)
 * Elixir and Kubernetes - Bo Ingram: [Introducing Aristochat](http://www.boingram.com/2017/07/15/elixir-and-kubernetes-1.html) | [Starting Kubernetes](http://www.boingram.com/2017/07/19/elixir-and-kubernetes-2.html) | [Deploying Aristochat](http://www.boingram.com/2017/08/01/elixir-and-kubernetes-3.html)
 
 ##### ELIXIR - DEPLOYMENT - CLUSTERING - SQUABBLE
@@ -2457,7 +2515,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * Ecto: [documentation](https://hexdocs.pm/ecto/Ecto.html) | [Github](https://github.com/elixir-lang/ecto) | [discussion forum](https://groups.google.com/forum/#!forum/elixir-ecto)
 * [Using Ecto outside of Phoenix by Geoffrey Lessel (Lonestar ElixirConf 2017)](https://www.youtube.com/watch?v=PWJpSRUJDwk) & [An Intro to Ecto: Using Ecto in Non-Phoenix Elixir Projects - Geoffrey Lessel (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=8j3DLfNI6Jw)
-* [Ecto: Database library for Elixir - Eric Meadows Jöhnson (Code Beam STO)](https://www.youtube.com/watch?v=RT4p_g0SLUU)
+* [Ecto: Database library for Elixir - Eric Meadows Jöhnson (Code Beam STO 2018)](https://www.youtube.com/watch?v=RT4p_g0SLUU)
 * [Embrace the Database With Ecto - Josh Branchaud (ElixirDaze 2017)](https://www.youtube.com/watch?v=fFqsMWmONN4)
 * Thinking in Ecto - Peter de Croos: [Part 1: Schemas and Changesets](http://cultofmetatron.io/2017/04/22/thinking-in-ecto---schemas-and-changesets/) | [Part 2: Queries and Relations](http://cultofmetatron.io/2017/04/25/thinking-in-ecto-part-2/)
 * [Ecto 2.1 Tip and Tricks - (Elixir Sydney)](https://www.youtube.com/watch?v=PGZ94AMMTPs)
@@ -2474,7 +2532,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Ecto’s insert_all and schemaless queries - José Valim](http://blog.plataformatec.com.br/2016/05/ectos-insert_all-and-schemaless-queries/?utm_source=elixir-status&utm_medium=social&utm_campaign=blog-post-promotion)
 * [Replace Callbacks with Ecto.Multi - Daniel Berkompas](http://blog.danielberkompas.com/2016/09/27/ecto-multi-services.html)
 * [Abandoning models and embracing data - exploring Ecto - Michal Muskala (Elixir Warsaw)](https://www.youtube.com/watch?v=dejHBBW9qXI)
-* [Ecto: A language integrated query for Elixir - José Valim (CodeMesh Londong 2013)](https://www.youtube.com/watch?v=SJRfujy9vLA)
+* [Ecto: A language integrated query for Elixir - José Valim (CodeMesh London 2013)](https://www.youtube.com/watch?v=SJRfujy9vLA)
 * [Ecto - the Past, the Present, the Future - Michał Muskała (ElixirConfEU 2016](https://www.youtube.com/watch?v=msdYuidWYQA) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/087/original/Ecto_-_the_past__the_present__the_future%281%29.pdf?1463063539)
 * [Ecto - Eric Meadows-Jönsson (ElixirConf EU 2015)](https://www.youtube.com/watch?v=snka1bAtZS0)
 * [Making Sense of Ecto 2 SQL.Sandbox and Connection Ownership Modes - Piotr Włodarek](https://medium.com/@qertoip/making-sense-of-ecto-2-sql-sandbox-and-connection-ownership-modes-b45c5337c6b7#.7ene51y3q)
@@ -2565,6 +2623,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - GENSTAGE & FLOW
 
+* [Sending Millions of HTTP Requests Using GenStage - Damir Gainetdinov](http://big-elephants.com/2019-01/facebook-genstage/)
 * [Elixir/Flow — Local MapReduce - Mat Clutter](https://medium.com/flatiron-labs/elixir-flow-local-mapreduce-fc55fe11d210)
 * [GenStage: Keeping large amounts of data up-to-date with pipelines - Robert Beene (EMPEX 2018](https://www.youtube.com/watch?v=9mfD4-HUgh0)
 * [Small data with Elixir - José Valim](http://blog.plataformatec.com.br/2017/03/small-data-with-elixir/)
@@ -2621,6 +2680,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [brod](https://github.com/klarna/brod)
 * [KaufmannEx](https://github.com/sevenmind/kaufmann_ex) | [KaufmannEx — Elixir Microservices with Kafka and Avro - 7Mind GmbH](https://medium.com/@7mind_dev/kaufmann-ex-317415c27978)
 * [Cafex](https://github.com/upyun/cafex)
+* [Connecting Elixir to Kafka with Kaffe - Meryl Dakin](https://elixirschool.com/blog/elixir-kaffe-codealong/)
 
 ### ELIXIR - LOGGING & MONITORING
 
@@ -2975,13 +3035,12 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### ELIXIR - VIDEOS
 
 * The Big Elixir: [2018](https://www.youtube.com/channel/UCInJUDVff2bzZSrkDRUCOdA)
-* Elixir.LDN: [2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zu4zxnZXtCSOCvsUHtxTYIl) | [2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h8_H-hZKYjNLTl3UraSyQ7) | [2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ivlIjzcaHS9N_Swe_0hWj0)
+* Code Elixir LDN: [2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zu4zxnZXtCSOCvsUHtxTYIl) | [2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h8_H-hZKYjNLTl3UraSyQ7) | [2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ivlIjzcaHS9N_Swe_0hWj0)
 * [EveryElixirVideo.page](https://everyelixirvideo.page/)
 * ElixirConf: [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * EMPEX: [2018 NYC](https://www.youtube.com/playlist?list=PLyO-58-sOapw81dCfjDrX5TuYxS5S8qMq) | [2018 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapy9Fs4Sd-HOeQIFwrSCQ3z1) | [2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS) | [2016](https://www.youtube.com/playlist?list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
 * Lonestar ElixirConf: [2018](https://www.youtube.com/playlist?list=PLGqeEOaC5KsQt7r8KCOzfDgcqsvy_-hCN) | [2017](http://confreaks.tv/events/lonestarelixir2017)
-* [Code BEAM SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v)
-* [Code BEAM STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
+* Code BEAM: [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
 * ElixirDaze: [2018 (Youtube)](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYH_aU7H-ExE2jrA-60qxH3) | [2018 (Confreaks)](http://confreaks.tv/events/elixirdaze2018) | [2017](http://confreaks.tv/events/elixirdaze2017) | [2016 (Youtube)](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH) | [2016 (Confreaks)](http://confreaks.tv/events/elixirdaze2016)
 * [Erlang Solutions Webinars](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jN8cLhwLg7frCx6fJ-GPwM)
 * [Erlang & Elixir Factory SF 2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jtviHbf3fbBRWcaGDBC2u0)
@@ -3045,6 +3104,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ## ERLANG
 
+* [The Erlang Rationale - Robert Virding](http://www.erlang-factory.com/upload/presentations/329/EFKR10-ErlangRationale.pdf)
 * [The Zen of Erlang - Fred Hebert (Reactive Summit 2016)](https://www.youtube.com/watch?v=4ZIPijEqrNI)
 * [Functional Programming in Erlang - Simon Thompson (University of Kent (UK))](https://www.futurelearn.com/courses/functional-programming-erlang)
 * [Spawned Shelter: collection of the best articles, videos and books for learning Erlang, the internals of its VM and other languages that run on top of it](http://spawnedshelter.com/)
@@ -3089,6 +3149,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ERLANG - DISTRIBUTION
 
+* [Scaling Erlang cluster to 10,000 nodes - Maxim Fedorov (Code Mesh LDN 18)](https://www.youtube.com/watch?v=FJQyv26tFZ8)
 * [Erlang distribution over TLS - Magnus Henoch](https://www.erlang-solutions.com/blog/erlang-distribution-over-tls.html)
 * [Partisan: Flexible, TCP-based membership system for Erlang/Elixir](https://github.com/lasp-lang/partisan) & [Partisan: Enabling Cloud-Scale Erlang Applications - Christopher S. Meiklejohn & Heather Miller (PDF)](https://arxiv.org/pdf/1802.02652.pdf)
 * [Scaling Distributed Erlang - Zandra Norman (ElixirConfEu 2016)](https://www.youtube.com/watch?v=usEs3GPnZDg)
@@ -3505,10 +3566,13 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 * [Helm Chart](https://hub.kubeapps.com/charts/incubator/kafka)
 * [Kubernetes-kafka: Kafka cluster as Kubernetes StatefulSet, plain manifests and config](https://github.com/Yolean/kubernetes-kafka)
-* Strimzi: Kubernetes Operator for running Kafka (and OpenShift): [Github](https://github.com/strimzi/strimzi-kafka-operator) | [Strimzi.io](https://strimzi.io/)
+* Strimzi: Kubernetes Operator for running Kafka (and OpenShift): [Github](https://github.com/strimzi/strimzi-kafka-operator) | [Strimzi.io](https://strimzi.io/) | [Minikube quickstart](https://strimzi.io/quickstarts/minikube/)
 * [Kafka in Docker - Spotify](https://github.com/spotify/docker-kafka)
 * [Kafka-docker](https://github.com/wurstmeister/kafka-docker)
 * [Ches/kafka (Docker)](https://hub.docker.com/r/ches/kafka/)
+* [Kafka on Kubernetes: From Evaluation to Production at Intuit - Shrinand Javadekar (KubeCon + CloudNativeCon 2018)](https://www.youtube.com/watch?v=1SBxxMzlLAc)
+* [Deploying Kafka Streams Applications with Docker and Kubernetes - Gwen Shapira + Matthias J. Sax - (Kafka Summit SF 2018)](https://videos.confluent.io/watch/KZNzUfJrLmRpesAQbdeBNu)
+* [Demo: Scaling Kafka Streams with Kubernetes - Gwen Shapira (Confluent)](https://www.youtube.com/watch?v=4hAVEy01dGY) | [Code for demo](https://github.com/gwenshap/kafka-streams-stockstats)
 * [Creating the Adobe Experience Platform Pipeline with Kafka - Jaemi Bremner](https://medium.com/adobetech/creating-the-adobe-experience-platform-pipeline-with-kafka-4f1057a11e://medium.com/adobetech/creating-the-adobe-experience-platform-pipeline-with-kafka-4f1057a11ef)
 * [Kafka in Containers in Docker in Kubernetes in The Cloud - Christopher Vollick, Shopify (Kafka Summit 2018)](https://www.youtube.com/watch?v=hruJAjHAXV8)
 * [Best Practices for Running Kafka on Docker Containers - Nanda Vijaydev](https://www.confluent.io/kafka-summit-sf17/Best-Practices-for-Running-Kafka-on-Docker-Containers)
@@ -3776,6 +3840,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 ### FUNCTIONAL PROGRAMMING - VIDEOS
 
+* [Code Mesh LDN 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtWFBNOrApXaIoCTtj-yk7Y)
 * International Conference on Functional Programming (ICFP): [2018](https://www.youtube.com/playlist?list=PLnqUlCo055hVknu7QAW_RUZRmRZWXmnvv) | [2017](https://www.youtube.com/playlist?list=PLnqUlCo055hW7kU-SBQEhC_87etA5Gqlq) | [2016](https://www.youtube.com/playlist?list=PLnqUlCo055hV-Yb_88YYUC2ucaBKCWCsa) | [2015](https://www.youtube.com/playlist?list=PLnqUlCo055hWNtUo1Haoq347VhCqIjs7u)
 * Commercial Users of Functional Programming (CUFP): [2016](https://www.youtube.com/playlist?list=PLnqUlCo055hUaidgipB5HjDpUnskXgGJ1) | [2015](https://www.youtube.com/playlist?list=PLnqUlCo055hXArE00SkORNiK9fk54de2a)
 * Compose Conference: [2017](https://www.youtube.com/playlist?list=PLNoHgLVTxtaoolkQo4hLy4ZsA1prUJ51m) | [2016](https://www.youtube.com/playlist?list=PLNoHgLVTxtaqlT4xVx6_39jzcDe-ZF9V2)
@@ -3852,6 +3917,8 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 ## HASKELL
 
 * Haskell: [main site](https://www.haskell.org/) | [wiki](https://wiki.haskell.org/Haskell) | [learning resources](https://wiki.haskell.org/Learning_Haskell) | [tryhaskell.org](http://tryhaskell.org/) | [Hoogle (Haskell API search engine)](https://www.haskell.org/hoogle/) | [Hackage (Haskell package archive)](http://hackage.haskell.org/) | [GHC user's guide](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/) | [Tutorials](https://wiki.haskell.org/Tutorials) | [Haskell libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/)
+* [2018 NIL Haskell School - David Ogborn](https://www.youtube.com/playlist?list=PLyEzdf4cdMMHGqVnAzLV8eDXn6Ajj46JA)
+* [haskell-trainings - Google](https://github.com/google/haskell-trainings)
 * [Fun never stops. Introduction to Haskell Programming language - Paul Szulc (Devoxx UK 2016)](https://www.youtube.com/watch?v=1jZ7j21g028)
 * [Learn Haskell in One Video - Derek Banas](https://www.youtube.com/watch?v=02_H3LjqMr8)
 * [Intro to Functional Programming - Queensland FP Lab](https://github.com/data61/fp-course) | [Applied FP Course](https://github.com/qfpl/applied-fp-course/)
@@ -4665,6 +4732,11 @@ Peter R. Egli:
 * [A ReasonReact Tutorial - Jared Forsyth](https://jaredforsyth.com/2017/07/05/a-reason-react-tutorial/)
 * [Advanced ReasonReact: Higher Order Components - Jared Forsyth](https://jaredforsyth.com/2017/11/12/advanced-reasonreact-hider-order-components/)
 
+#### OCAML - REASON - REASON REACT - VIDEOS
+
+* [Hitchhiker's guide to ReasonReact - Nik Graf (React Vienna 2018)](https://www.youtube.com/watch?v=N_2IRjbvVtE)
+* [ReasonReact - Functional Programming for React Developers - Keira Hodgkison (LinuxConfAu Sydney 2018)](https://www.youtube.com/watch?v=BEUDqXEdmCI)
+
 ## OCTAVE
 
 * [Machine Learning - Andrew Ng (Coursera)](https://class.coursera.org/ml-006/lecture)
@@ -4682,6 +4754,7 @@ Peter R. Egli:
 ## POSTGRESQL
 
 * [Official manuals](http://www.postgresql.org/docs/manuals/) [PG 11](https://www.postgresql.org/files/documentation/pdf/11/postgresql-11-US.pdf) | [PG 10](https://www.postgresql.org/files/documentation/pdf/10/postgresql-10-US.pdf) | [PG 9.6](https://www.postgresql.org/files/documentation/pdf/9.6/postgresql-9.6-US.pdf) | [PG 9.5](https://www.postgresql.org/files/documentation/pdf/9.5/postgresql-9.5-US.pdf) | [PG 9.4](https://www.postgresql.org/files/documentation/pdf/9.4/postgresql-9.4-US.pdf)
+* [Awesome Postgres - Asad Dhamani](https://github.com/dhamaniasad/awesome-postgres)
 * [PostgreSQL - TutorialsPoint.com](https://www.tutorialspoint.com/postgresql/postgresql_tutorial.pdf)
 * [Mastering PostgreSQL Administration - Bruce Momjian](https://momjian.us/main/writings/pgsql/administration.pdf)
 * [Official FAQ](http://wiki.postgresql.org/wiki/FAQ)
@@ -4707,9 +4780,29 @@ Peter R. Egli:
 * [Full-Text Search: Seek and Ye Shall Find - Dan Scott (Postgres Open)](https://www.youtube.com/watch?v=R6nT6UgY7k4)
 * [Using PostgreSQL and jsonb with Ruby on Rails - Nando Vieira](http://nandovieira.com/using-postgresql-and-jsonb-with-ruby-on-rails)
 
+### POSTGRESQL - ANALYTICS
+
+* [Building a real time analytics API at scale - Sylvain Friquet (PostgresOpen 2018)](https://www.youtube.com/watch?v=wJOCaNE2_C0)
+
+### POSTGRESQL - JSON / JSONB
+
+* [Using JSON in PostgreSQL - Andrew Dunstan (PostgresOpen SV 2018)](https://www.youtube.com/watch?v=tMT16q9pqp0)
+* [Dox: Document Database API extension for Postgres - Rob Conery](https://github.com/robconery/dox) & [A Pure PostgreSQL Document Database API](https://rob.conery.io/2018/07/05/a-pure-postgresql-document-database-api/)
+* [Unleash the Power of Storing JSON in Postgres - Leigh Halliday](https://blog.codeship.com/unleash-the-power-of-storing-json-in-postgres/)
+
 ### POSTGRESQL - MONITORING
 
+* [How to Monitor Your Database - (PostgresOpen SV 2018)](https://www.youtube.com/watch?v=JmKATEVYC8s)
 * [Dynamic Monitoring of PostgreSQL Instances Using pg_top - Brian Fehrle](https://severalnines.com/blog/dynamic-monitoring-postgresql-instances-using-pgtop)
+
+### POSTGRESQL - PAGINATION
+
+* [Five ways to paginate in Postgres, from the basic to the exotic - Joe Nelson](https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/)
+* [Why Most Programmers Get Pagination Wrong - Lukas Eder](https://dzone.com/articles/why-most-programmers-get-pagination-wrong)
+
+### POSTGRESQL - PERFORMANCE
+
+* [Computational Complexity and the Query Planner - James Coleman](https://www.youtube.com/watch?v=8ECcLPNW7zE)
 
 ### POSTGRESQL - POSTGREST
 
@@ -4729,7 +4822,10 @@ Peter R. Egli:
 
 ### POSTGRESQL - VIDEOS
 
-* [PGCon 2015 videos](https://www.citusdata.com/resources/citus-data-videos)
+* [PostgresOpen Silicon Valley](https://www.youtube.com/channel/UCCDA5Yte0itW_Bf6UHpbHug)
+* PGCon: [2018](https://www.youtube.com/playlist?list=PLuJmmKtsV1dOGaKJuHOH0GIfvFOBghu7O) | [2017](https://www.youtube.com/playlist?list=PLuJmmKtsV1dN-UYeeF1He6OdvUpp9n1sE) | [2016](https://www.youtube.com/playlist?list=PLuJmmKtsV1dNE5y1gu1xpbIl3M2b7AW4D) | [2015](https://www.citusdata.com/resources/citus-data-videos)
+* [Scaling Postgres](https://www.youtube.com/channel/UCnfO7IhkmJu_azn0WbIcV9A/playlists)
+* [Postgres Conference](https://www.youtube.com/channel/UCsJkVvxwoM7R9oRbzvUhbPQ)
 * [PGConf US](https://www.youtube.com/channel/UCsJkVvxwoM7R9oRbzvUhbPQ)
 * [Youtube](https://www.youtube.com/results?search_query=postgresql)
 

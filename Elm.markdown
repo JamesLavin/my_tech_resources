@@ -11,6 +11,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm Crash Course - Mario Rogic](https://www.youtube.com/watch?v=kEitFAY7Gc8)
 * [Functional Programming in Elm - Evan Czaplicki](https://www.gitbook.com/book/evancz/functional-programming-in-elm/details)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
+* [Elm Makes Me Happy (updated for Elm 0.19) - Andy Balaam](https://www.youtube.com/watch?v=Cy_yHhhZJQk)
 * [Elm at Pacific Health Dynamics - Joseph Ni](https://legacy.gitbook.com/book/mordrax/elm-at-phd/details)
 * [A Peek into the Elm Architecture - Jayaram Sankaranarayana (Functional Conf Bangalore, Nov 2017)](https://www.infoq.com/presentations/elm-architecture)
 * [Destination: Web -- Friendly, Typed, and Functional: A Brief Introduction to Elm - Brian Ford (Uber)](https://www.youtube.com/watch?v=Fv63jUr9M_8)
@@ -100,6 +101,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELM - ABOUT
 
 * [Using Elm in Production at Pivotal Tracker - Jeff Schomay](https://www.pivotaltracker.com/blog/Elm-pivotal-tracker)
+* [Elm: Build Elegant UIs the Functional Way - Christopher Bloom (Decoupled Days 2018)](https://www.youtube.com/watch?v=_Hq8bofP5jY)
 * [Using Nicer Programming Languages at Work - Richard Feldman](https://www.youtube.com/watch?v=iry7szWTS-8)
 * [6 Months of Elm in Production - Richard Feldman (Forward University)](http://forwardjs.com/university/elm-in-production)
 * Integrating Elm at Clarity Voice - PragmaticStudio: [Part 1](https://pragmaticstudio.com/blog/2017/3/22/integrating-elm-at-clarity-voice-part1) & [Part 2](https://pragmaticstudio.com/blog/2017/4/5/integrating-elm-at-clarity-voice-part2)
