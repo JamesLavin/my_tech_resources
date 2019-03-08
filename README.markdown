@@ -959,6 +959,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### CSS - RESPONSIVE DESIGN
 
 * [Using Media Queries For Responsive Design In 2018 - Rachel Andrew](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
+* [HTML slides without frameworks, just CSS - Chen Hui Jing](https://www.chenhuijing.com/blog/html-slides-without-frameworks/)
 * [Laziness in the Time of Responsive Design - Ethan Marcotte (Constant Contact 2014)](http://www.confreaks.tv/videos/4605-e4e2014-laziness-in-the-time-of-responsive-design)
 * [The New Rules of The Responsive Web](http://confreaks.tv/videos/2222-html5tx2013-the-new-rules-of-the-responsive-web)
 
@@ -1193,6 +1194,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DATABASES - COUCHDB - DEPLOYMENT
 
+* [Deploying a CouchDB Cluster on Kubernetes - Kailash Chander](https://medium.com/devopslinks/deploying-a-couchdb-cluster-on-kubernetes-d4eb50a08b34)
 * [Semi-official Apache CouchDB Docker images](https://github.com/apache/couchdb-docker) | [Docker Hub](https://hub.docker.com/r/apache/couchdb/)
 * [How Do I Configure SSL (HTTPS) in CouchDB?](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=48203146)
 * [couchdb-ssl - Clemens Stolle](https://hub.docker.com/r/klaemo/couchdb-ssl/)
@@ -1755,7 +1757,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Kubernetes Youtube channel](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg)
 * [Kubernetes By Example](http://kubernetesbyexample.com/)
 * [Infrastructure in the New World of Containers: What are your options? - Austen Novis (DevOpsDays Boston 2018](http://confreaks.tv/videos/devopsdaysboston2018-infrastructure-in-the-new-world-of-containers-what-are-your-options)
-* [Kubernetes the Hard Way - Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+* [Kubernetes the Hard Way - Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way) & [Kubernetes the Easy Way - James Ward](https://github.com/jamesward/kubernetes-the-easy-way)
 * [Kubernetes in Real Life - Ian Crosby (GOTO Conference 2017)](https://www.youtube.com/watch?v=UUt7SuG3nW4)
 * [Troubleshooting & Debugging Microservices in Kubernetes - Ray Tsang & Robert Kubis (GOTO 2018)](https://www.youtube.com/watch?v=2hxTTyc6IH8)
 * [The ins and outs of networking in Google Container Engine and Kubernetes - Tim Hockin and Michael Rubin (Google Cloud Next '17)](https://www.youtube.com/watch?v=y2bhV81MfKQ)
@@ -1900,6 +1902,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### DEVOPS - KUBERNETES - OPERATORS
 
+* [How to explain Kubernetes Operators in plain English - Kevin Casey](https://enterprisersproject.com/article/2019/2/kubernetes-operators-plain-english)
 * [Operator Framework Github repos](https://github.com/operator-framework)
 * [TGI Kubernetes 037: Operator Framework - Kris Nova](https://www.youtube.com/watch?v=Ko_WfXRAypY)
 
@@ -2240,6 +2243,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Awesome Elixir - Curated list of Elixir/Erlang libraries, resources & shiny things](https://github.com/h4cc/awesome-elixir)
 * [Cheatsheet](https://www.dropbox.com/s/lr1t87rw4wfnyb3/elixir-cheat-sheet-v2.pdf?dl=0)
+* [A Brief History of Elixir - Andrea Leopardi (Code BEAM Lite Munich 2018)](https://www.youtube.com/watch?v=CRBUD00H7AM)
 * [Lessons Learned Building a Medication Service at Teladoc and How Ecto Saved the Day - James Lavin (EMPEX 2018)](https://www.youtube.com/watch?v=CUvif-levqk) (Hey, that's ME! I did a thing!!!)
 * [Explicit Elixir - Paul Lamb (ElixirDaze 2016)](https://www.youtube.com/watch?v=sr5I5ncg0kU)
 * [What Elixir is About - José Valim (Erlang Factory SF 2015)](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
@@ -2501,6 +2505,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - DISTRIBUTION
 
+* [Distributed War Stories - Miriam Pena (EMPEX LA 2019)](https://www.youtube.com/watch?v=b3JQgyj17hk)
 * [Horde is a distributed process registry and supervisor built on δ-CRDTs - Derek Kraan](https://github.com/derekkraan/horde) | [API Docs](https://hexdocs.pm/horde/api-reference.html) | [Introducing Horde](https://medium.com/@derek.kraan2/introducing-horde-a-distributed-supervisor-in-elixir-4be3259cc142) | [Getting Started](https://medium.com/@derek.kraan2/getting-started-with-hordes-distributed-supervisor-registry-f3017208e1ce) | [Docker & OTP: Friends or Foes - Daniel Azuma (ElixirConf 2018)](https://www.youtube.com/watch?v=nLApFANtkHs)
 * [Always Available - Claudio Ortolina (ElixirConf EU 2017)](https://www.youtube.com/watch?v=UTXYiV7nOpM)
 * [Elixir and Money - Tomasz Kowal (ElixirConf EU 2017)](https://www.youtube.com/watch?v=TZPG8b-Novw)
@@ -2623,6 +2628,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - GENSTAGE & FLOW
 
+* [Lessons From Our First Trillion Messages with Flow - John Mertens (EMPEX LA 2019)](https://www.youtube.com/watch?v=b342YwOzIjI)
 * [Sending Millions of HTTP Requests Using GenStage - Damir Gainetdinov](http://big-elephants.com/2019-01/facebook-genstage/)
 * [Elixir/Flow — Local MapReduce - Mat Clutter](https://medium.com/flatiron-labs/elixir-flow-local-mapreduce-fc55fe11d210)
 * [GenStage: Keeping large amounts of data up-to-date with pipelines - Robert Beene (EMPEX 2018](https://www.youtube.com/watch?v=9mfD4-HUgh0)
@@ -2768,6 +2774,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Phoenix: an Intro to Elixir's Web Framework - Sonny Scroggin (NDC {London} 2017)](https://www.youtube.com/watch?v=F-7MX_Az6_4)
 * [Crowd-controlling a game with Elixir and Phoenix - Andrea Leopardi (NoSlidesConf Dec 2016)](https://www.youtube.com/watch?v=lYQ3WwCMTJI)
 * [What the fuss about Phoenix - Saša Jurić (WebCamp Zagreb 2016)](https://www.youtube.com/watch?v=3uJCwcBwfh4) & [slides](https://speakerdeck.com/sasajuric/whats-the-fuss-about-phoenix)
+* [Building a CMS with Elixir and Phoenix - Alchemist Camp](https://www.youtube.com/playlist?list=PLFhQVxlaKQElZlppXZSTlc1rqjUfL9BRl)
 * [ElixirConf 2016 Keynote on Phoenix 1.3- Chris McCord](https://www.youtube.com/watch?v=qPiZTxUAaVM)
 * [Rails to Phoenix - Brian Cardarella (RailsConf 2016)](https://www.youtube.com/watch?v=OxhTQdcieQE)
 * [Phoenix: The Firehose Project: Hands-On Intro to Building Modern Web Applications With Elixir and Phoenix](http://phoenix.thefirehoseproject.com/)
@@ -2963,6 +2970,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - STREAMS
 
+* [Elixir Findings: Asynchronous Task Streams - Dino Costa](https://medium.com/@dinojoaocosta/elixir-findings-asynchronous-task-streams-7f6336227ea)
 * [Test-Driving a Stream-powered Elixir Library - Thiago Araújo Silva](https://semaphoreci.com/community/tutorials/test-driving-a-stream-powered-elixir-library)
 * [How to build Streams in Elixir easily with Stream.resource/3 Awesomeness - Benjamin Tan](http://benjamintan.io/blog/2015/02/05/how-to-build-streams-in-elixir-easily-with-stream-resource-awesomeness/)
 * [Elixir Stream Patterns - Joseph Kain](http://learningelixir.joekain.com/stream-patterns-in-elixir/)
@@ -3034,16 +3042,17 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - VIDEOS
 
+* Lonestar ElixirConf: [2019](https://www.youtube.com/playlist?list=PLGqeEOaC5KsRisF-GUlgJh35EowwzMYoS) | [2018](https://www.youtube.com/playlist?list=PLGqeEOaC5KsQt7r8KCOzfDgcqsvy_-hCN) | [2017](http://confreaks.tv/events/lonestarelixir2017)
 * The Big Elixir: [2018](https://www.youtube.com/channel/UCInJUDVff2bzZSrkDRUCOdA)
 * Code Elixir LDN: [2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zu4zxnZXtCSOCvsUHtxTYIl) | [2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h8_H-hZKYjNLTl3UraSyQ7) | [2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ivlIjzcaHS9N_Swe_0hWj0)
 * [EveryElixirVideo.page](https://everyelixirvideo.page/)
 * ElixirConf: [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * EMPEX: [2018 NYC](https://www.youtube.com/playlist?list=PLyO-58-sOapw81dCfjDrX5TuYxS5S8qMq) | [2018 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapy9Fs4Sd-HOeQIFwrSCQ3z1) | [2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS) | [2016](https://www.youtube.com/playlist?list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
-* Lonestar ElixirConf: [2018](https://www.youtube.com/playlist?list=PLGqeEOaC5KsQt7r8KCOzfDgcqsvy_-hCN) | [2017](http://confreaks.tv/events/lonestarelixir2017)
-* Code BEAM: [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
+* Code BEAM: [Munich 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztyk61upvBMvVPbfTyfFgCE) | [Berlin 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs6eFJ9yx-jR7UShGGfPnY4) | [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
 * ElixirDaze: [2018 (Youtube)](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYH_aU7H-ExE2jrA-60qxH3) | [2018 (Confreaks)](http://confreaks.tv/events/elixirdaze2018) | [2017](http://confreaks.tv/events/elixirdaze2017) | [2016 (Youtube)](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH) | [2016 (Confreaks)](http://confreaks.tv/events/elixirdaze2016)
 * [Erlang Solutions Webinars](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jN8cLhwLg7frCx6fJ-GPwM)
 * [Erlang & Elixir Factory SF 2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jtviHbf3fbBRWcaGDBC2u0)
+* [BEAM Channel - Zachary Kessin](https://www.youtube.com/channel/UCMXPX2dNVZUIArP7r8PCO4Q)
 * [Josh Adams working on Firestorm UI](https://www.twitch.tv/dailydrip/videos/all)
 * ElixirConf: [2016 videos](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYoiEKWny0Jj72iu564bVFD) | [2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H) | [2014 videos](http://confreaks.tv/events/elixirconf2014)
 * ElixirConf EU: [2017 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jV6N5XEjbUQe2GkYcRkZdD) | [2016 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2gB7HUE-2H61HAEyszAph3H) | [2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
@@ -3130,7 +3139,9 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### ERLANG - BEAM
 
 * The Erlang Runtime System (a.k.a., The BEAM Book): [Github (source)](https://github.com/happi/theBeamBook) & [PDF](https://github.com/happi/theBeamBook/releases)
+* [How does fault tolerance work in Erlang? - Charlotte Lorelei Oliveira (Code BEAM Lite Munich 2018)](https://www.youtube.com/watch?v=kXphEiJ8RXQ)
 * [Hitchhiker's Tour of the BEAM - Robert Virding](https://www.youtube.com/watch?v=_Pwlvy3zz9M)
+* [Inside memory management on the BEAM - Devon Estes (Code BEAM Lite Munich 2018)](https://www.youtube.com/watch?v=fAeLuZN7J6Y)
 * [BEAM Wisdoms: collection of easy to read (ELI5) articles as well as in-depth knowledge such as VM internals, memory layout, opcodes](http://beam-wisdoms.clau.se/en/latest/)
 * [Erlang Garbage Collector - Lukas Larsson](https://www.erlang-solutions.com/blog/erlang-garbage-collector.html)
 * [The Erlang VM or How I Stopped Worrying & Started Loving Parallel Programming - E.Stenman (GOTO 2013)](https://www.youtube.com/watch?v=ArRr4trTCjQ)
@@ -3201,6 +3212,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Programming Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml)
 * [Time in Elixir](http://learnyousomeerlang.com/time)
 
+### ERLANG - ERLANG ECOSYSTEM FOUNDATION
+
+* [Introducing the Erlang Ecosystem Foundation (Code BEAM SF 19)](https://www.youtube.com/watch?v=mw3KnG894Sw)
+
 ### ERLANG - ETS
 
 * [Documentation](http://erlang.org/doc/man/ets.html)
@@ -3222,6 +3237,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ERLANG - MNESIA
 
+* [Where Did I Put My Data? - Alex Peachey (EMPEX LA 2019)](https://www.youtube.com/watch?v=9216dUNgKCU)
 * [Store Everything With Elixir and Mnesia - Ilya Bodrov](https://code.tutsplus.com/articles/store-everything-with-elixir-and-mnesia--cms-29821)
 * Mnesia: [Docs](http://erlang.org/doc/man/mnesia.html)
 
@@ -3746,7 +3762,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 ### FUNCTIONAL PROGRAMMING - CONFERENCE VIDEOS
 
-* LambdaDays: [2018](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl)
+* LambdaDays: [2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvCRCVlXTfB6-d09K3r0Sxa) | [2018](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl)
 * LambdaConf (λC): [2017](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhx5bgmpAgqArzrh0pL-tc3P) | [2017 Winter Retreat](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhy9wMify6MXW6F339W4g4Eo) | [2016](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos) | [2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
 * [Curry On! Amsterdam](https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w)
 * [Scale by the Bay 2017](https://www.youtube.com/playlist?list=PLNESult6cnOkDeaaEhq192kdsbMPc3dIJ)
