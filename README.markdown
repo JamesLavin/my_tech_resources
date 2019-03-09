@@ -857,6 +857,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [CSS Reference - Visual guide to the most popular CSS properties](http://cssreference.io/)
 * [Estelle Weyl](http://estelle.github.io/)
+* [CSS Tutorial - W3Schools](https://www.w3schools.com/Css://www.w3schools.com/Css/)
+* [Learn CSS - Codecademy](https://www.codecademy.com/learn/learn-css)
 * [The Shapes of CSS - Chris Coyier](https://css-tricks.com/examples/ShapesOfCSS/)
 * [MarkSheet: Free HTML & CSS tutorial](http://marksheet.io/)
 * [How to Master CSS - Christopher Harrison & Helen Zeng (Microsoft Virtual Academy - Jumpstart)](https://www.youtube.com/watch?v=Vafp5xr_bxk)
@@ -962,6 +964,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [HTML slides without frameworks, just CSS - Chen Hui Jing](https://www.chenhuijing.com/blog/html-slides-without-frameworks/)
 * [Laziness in the Time of Responsive Design - Ethan Marcotte (Constant Contact 2014)](http://www.confreaks.tv/videos/4605-e4e2014-laziness-in-the-time-of-responsive-design)
 * [The New Rules of The Responsive Web](http://confreaks.tv/videos/2222-html5tx2013-the-new-rules-of-the-responsive-web)
+
+### CSS - SELECTORS
+
+[CSS Selectors Cheatsheet - Nana Jeon](https://www.dropbox.com/s/h2hni9o1m1di989/CSS%20selectors%20cheatsheet.pdf)
 
 ### CSS - TEXTURES
 
@@ -1636,6 +1642,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Gcloud: [Overview](https://cloud.google.com/sdk/gcloud/) | [Compute Concepts](https://cloud.google.com/compute/docs/concepts) | [SDK Concepts](https://cloud.google.com/sdk/docs/concepts) | [Reference](https://cloud.google.com/sdk/gcloud/reference/) | [Compute How-Tos](https://cloud.google.com/compute/docs/how-to) | [SDK How-Tos](https://cloud.google.com/sdk/docs/how-to)
 * [QwikLabs.com: We give you temporary credentials to Google Cloud Platform and Amazon Web Services, so you can learn the cloud using the real thing](https://www.qwiklabs.com/home?locale=en)
 * [Training - Google Cloud](https://teachercenter.withgoogle.com/gcp/training)
+* [Hipster Shop: Cloud-Native Microservices Demo Application - Google Cloud](https://github.com/GoogleCloudPlatform/microservices-demo)
 * [Developing Applications with Google Cloud Platform Specialization - Coursera](https://www.coursera.org/specializations/developing-apps-gcp)
 * [Secrets Management - Google Cloud](https://cloud.google.com/solutions/secrets-management/)
 * Janakiram MSV: [Configuring Kubernetes Cluster Federation to Create a Global Deployment](https://thenewstack.io/configuring-kubernetes-cluster-federation-to-create-a-global-deployment/) | [Deploy a Multicluster Ingress on Google Kubernetes Engine](https://thenewstack.io/deploy-a-multicluster-ingress-on-google-kubernetes-engine/)
@@ -1698,7 +1705,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [gVisor: sandboxed container runtime compatible with Docker & Kubernetes - Google](https://cloudplatform.googleblog.com/2018/05/Open-sourcing-gVisor-a-sandboxed-container-runtime.html)
 
-### DEVOPS - ISTIO.IO
+### DEVOPS - ISTIO
 
 * [Istio: Open Platform to Connect, Manage, and Secure Microservices](https://istio.io/) | [Github](https://github.com/istio/istio) | [Twitter](https://twitter.com/IstioMesh)
 * [The Future is Istio - Jason Smith (GOTO 2018)]https://www.youtube.com/watch?v=sTqISgCgd9M()
@@ -1724,24 +1731,30 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Making Microservices Micro with Istio Service Mesh - Ray Tsang (Devox Belgium 2017)](https://www.youtube.com/watch?v=AGztKw580yQ)
 * [Istio: Canaries and Kubernetes, Microservices and Service Mesh - Burr Sutter (DevNation Live)](https://www.youtube.com/watch?v=YQLOcjvbo9s) | [Slides](https://docs.google.com/presentation/d/1fcaJSXBUb_dORaxaGPuS8S0wh0Jg_q5Hx7snx2tBa2E/edit#slide=id.g25f5e76d7d_1_0)
 
-#### DEVOPS - ISTIO.IO - AWS
+#### DEVOPS - ISTIO - AWS
 
 * [Getting Started with Istio on Amazon EKS - Arun Gupta](https://aws.amazon.com/blogs/opensource/getting-started-istio-eks/)
 
-#### DEVOPS - ISTIO.IO - ENVOY
+#### DEVOPS - ISTIO - ENVOY
 
 * [Lyft's Envoy: Embracing a Service Mesh - Matt Klein (QCon NY 2018)](https://www.youtube.com/watch?v=55yi4MMVBi4)
 * [Envoy Internals Deep Dive (Advanced Skill Level) - Matt Klein (KubeCon Europe 2018)](https://www.youtube.com/watch?v=gQF23Vw0keg)
 
-#### DEVOPS - ISTIO.IO - GKE
+#### DEVOPS - ISTIO - GKE
 
 * [Istio - Google Cloud](https://cloud.google.com/istio/)
+* The Service Mesh Era: [Istio blog post series](https://cloud.google.com/blog/products/networking/welcome-to-the-service-mesh-era-introducing-a-new-istio-blog-post-series) | [Advanced application deployments and traffic management with Istio on GKE](https://cloud.google.com/blog/products/networking/advanced-application-deployments-and-traffic-management-with-istio-on-gke) | [Securing your environment with Istio](https://cloud.google.com/blog/products/networking/the-service-mesh-era-securing-your-environment-with-istio) | [Demo: Intro to Istio Security](https://github.com/GoogleCloudPlatform/istio-samples/tree/master/security-intro)
 * [Hello Istio Codelab (With Google Kubernetes) - Google](https://codelabs.developers.google.com/codelabs/cloud-hello-istio/#0)
 * [Istio 101 (1.0) on GKE](https://meteatamel.wordpress.com/2018/08/06/istio-101-1-0-on-gke/) | [Istio 101 (0.8.0) on GKE - Mete Atamel (Google)](https://meteatamel.wordpress.com/2018/06/07/istio-101-0-8-0-on-gke/)
+* [ProductCatalog Canary Deployment (GKE / Istio)](https://github.com/GoogleCloudPlatform/istio-samples/tree/master/istio-canary-gke)
 
-#### DEVOPS - ISTIO.IO - MULTICLUSTER
+#### DEVOPS - ISTIO - MULTICLUSTER
 
 * [Multicluster](https://istio.io/docs/setup/kubernetes/multicluster-install/)
+
+#### DEVOPS - ISTIO - ROUTING
+
+* [Incremental Istio Part 1, Traffic Management - Sandeep Parikh](https://istio.io/blog/2018/incremental-traffic-management/)
 
 ### DEVOPS - KUBERNETES
 
@@ -2219,6 +2232,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Elixir School](https://elixirschool.com/)
 * [ElixirCasts.io](https://elixircasts.io/?page=6)
 * [From Zero to Hero in Elixir - LittleAlchemist.io](https://www.youtube.com/playlist?list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp)
+* [Elixir Foundation - Zach Siri (Codemy.net)](https://www.codemy.net/posts/elixir-project-introduction-001/sets/elixir-foundation)
 * [Elixir Tutorial - Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumAgKjSPyFtvYjP5LqgzafQq)
 * [Alchemist Camp](https://alchemist.camp/episodes)
 * Elixir Examples: [Categorized](https://elixir-examples.github.io/) | [Single page](https://elixir-examples.github.io/single-page)
@@ -2406,6 +2420,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Building and configuring a Phoenix app with Umbrella for releasing with Docker - Fernando Briano](https://cultivatehq.com/posts/elixir-distillery-umbrella-docker/)
 * A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes - Rohan Relan: [Part 1: Setting up Distillery](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-1-setting-up-d88b35b64dcd) | [Part 2: Docker and Minikube](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-2-docker-and-81e934c3fceb) | [Part 3: Deploying to Kubernetes](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-3-deploying-to-bd5b1fcbef87) | [Part 4: Secret Management](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-4-secret-f851d575bdd1) | [Part 5: Clustering Elixir & Phoenix Channels](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-5-clustering-6c30fcd35ce1)
 * [Clustering Elixir/Erlang applications in Kubernetes (part 1: the theory) - Dario Freddi](https://blog.ispirata.com/clustering-elixir-erlang-applications-in-kubernetes-part-1-the-theory-ca658acbf101)
+* [Clustering Elixir Nodes on Kubernetes - André Cruz](https://substance.brpx.com/clustering-elixir-nodes-on-kubernetes-e85d0c26b0cf)
 * [Docker Elixir Build Image Base - Financial Times](https://github.com/Financial-Times/docker-elixir-build)
 * [Release, Deploy, Monitor and Upgrade Elixir Services in Real World - Tian Chen (Code BEAM SF 2018)](https://www.youtube.com/watch?v=kwHtlmyxE6c)
 * [Packaging for Production - Anthony Molinaro (Code BEAM SF 2018)](https://www.youtube.com/watch?v=AXY0d0YXQSU)
@@ -2448,6 +2463,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ##### ELIXIR - DEPLOYMENT - CLUSTERING - LIBCLUSTER
 
 * Libcluster - Paul Schoenfelder: [Github](https://github.com/bitwalker/libcluster) | [Docs](https://hexdocs.pm/libcluster/readme.html)
+* [Connecting Elixir Nodes with libcluster, locally and on Kubernetes - Alvise Susmel](https://www.poeticoding.com/connecting-elixir-nodes-with-libcluster-locally-and-on-kubernetes/)
 * [Cluster.Strategy.Kubernetes](https://hexdocs.pm/libcluster/Cluster.Strategy.Kubernetes.html)
 * [ClusterConsul.Strategy](https://github.com/arcz/libcluster_consul)
 * [What’s going on in libcluster? (Elixir library overview) - Joseph Rosztoczy](https://medium.com/@TehBrofessor/whats-going-on-in-libcluster-76f239f00d57)
@@ -2512,6 +2528,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Idioms for Building Distributed Fault–Tolerant Applications with Elixir - José Valim (EuRuKo 2016)](https://www.youtube.com/watch?v=xhwnHovnq_0)
 * [pg2 and You: Getting Distributed with Elixir - Eric Entin (ElixirConf 2016)](https://www.youtube.com/watch?v=_O-bLuVhcCA) | [Slides](https://speakerdeck.com/antipax/pg2-and-you-getting-distributed-with-elixir)
 
+#### ELIXIR - DISTRIBUTION - PARTISAN
+
+* Partisan: High-Performance Distributed Erlang: [Partisan.cloud](http://partisan.cloud/) | [Github](https://github.com/lasp-lang/partisan/)
+
 ### ELIXIR - EARMARK
 
 * [Earmark—A Pure Elixir Markdown Processor](https://github.com/pragdave/earmark)
@@ -2562,6 +2582,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Announcing a new MySQL driver: MyXQL - José Valim](https://elixirforum.com/t/announcing-a-new-mysql-driver-myxql/17124)
 * "Building a New MySQL Adapter for Ecto" - Wojtek Mach: [Part 1: Hello World](http://blog.plataformatec.com.br/2018/11/building-a-new-mysql-adapter-for-ecto-part-i-hello-world/) | [Part 2: Encoding/Decoding](http://blog.plataformatec.com.br/2018/12/building-a-new-mysql-adapter-for-ecto-part-ii-encoding-decoding/) | [Part 3: DBConnection Integration](http://blog.plataformatec.com.br/2018/12/building-a-new-mysql-adapter-for-ecto-part-iii-dbconnection-integration/) | [Part 4: Ecto Integration](http://blog.plataformatec.com.br/2019/01/building-a-new-mysql-adapter-for-ecto-part-iv-ecto-integration/)
 
+#### ELIXIR - ECTO - SSL
+
+* [Connecting Ecto to PostgreSQL with SSL - Hubert Łępicki](https://www.amberbit.com/blog/2017/11/13/connecting-ecto-to-postgresql-with-ssl/)
+
 ### ELIXIR - ELASTICSEARCH
 
 * [Tirexs - Elixir DSL for Elasticsearch](https://github.com/roundscope/tirexs)
@@ -2574,6 +2598,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - ETS
 
+* [Taming :ets for High-Performance Software - Mike Binns](https://dockyard.com/blog/2019/03/07/taming-ets-for-high-performance-software) | [ets (Github)](https://github.com/TheFirstAvenger/ets) | [ets (Hex.pm)](https://hex.pm/packages/ets)
 * [Optimizing Your Elixir and Phoenix projects with ETS - Chris McCord](https://dockyard.com/blog/2017/05/19/optimizing-elixir-and-phoenix-with-ets)
 
 ### ELIXIR - EVENT SOURCING/CQRS
@@ -2819,6 +2844,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Guardian: Elixir authentication](https://github.com/ueberauth/guardian) & [GuardianDB](https://github.com/ueberauth/guardian_db)
 * Coherence - [Github](https://github.com/smpallen99/coherence) | [Docs](https://hexdocs.pm/coherence/Coherence.html)
 * [comeonin: Password hashing library - David Whitlock](https://github.com/riverrun/comeonin)
+* [coherence](https://github.com/smpallen99/coherence)
+* [canada](https://github.com/jarednorman/canada)
+* [phauxth](https://github.com/riverrun/phauxth)
+* [doorman: Tools to make Plug, and Phoenix authentication simple and flexible - Blake Williams](https://github.com/BlakeWilliams/doorman)
 * [policy_wonk: Elixir authorization and resource loading in Plug form for Phoenix - Boyd Multerer](https://github.com/boydm/policy_wonk)
 * [User Authentication with Guardian for Phoenix 1.3 Web Apps - Meraj](https://itnext.io/user-authentication-with-guardian-for-phoenix-1-3-web-apps-e2064cac0ec1)
 * [JWT Auth in Phoenix with Joken - Sophie DeBenedetto](https://medium.com/flatiron-labs/jwt-auth-in-phoenix-with-joken-e72df1b9fbb5)
@@ -2981,6 +3010,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - TESTING
 
+* [Track-switching in a large Elixir web application - 9elements](https://medium.com/9elements/track-switching-in-a-large-elixir-web-application-31522d5ac457)
 * [Lightweight dependency injection in Elixir (without the tears) - Andrew Hao](https://blog.carbonfive.com/2018/03/19/lightweight-dependency-injection-in-elixir-without-the-tears/)
 * [Mocks and explicit contracts - José Valim](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
 * [Testing function delegation in Elixir without stubbing - Brian Cardarella](https://dockyard.com/blog/2016/03/24/testing-function-delegation-in-elixir-without-stubbing)
@@ -3043,11 +3073,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### ELIXIR - VIDEOS
 
 * Lonestar ElixirConf: [2019](https://www.youtube.com/playlist?list=PLGqeEOaC5KsRisF-GUlgJh35EowwzMYoS) | [2018](https://www.youtube.com/playlist?list=PLGqeEOaC5KsQt7r8KCOzfDgcqsvy_-hCN) | [2017](http://confreaks.tv/events/lonestarelixir2017)
+* EMPEX: [2019 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapyHWNFBapGOz40efbJuwmx2) | [2018 NYC](https://www.youtube.com/playlist?list=PLyO-58-sOapw81dCfjDrX5TuYxS5S8qMq) | [2018 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapy9Fs4Sd-HOeQIFwrSCQ3z1) | [2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS) | [2016](https://www.youtube.com/playlist?list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
 * The Big Elixir: [2018](https://www.youtube.com/channel/UCInJUDVff2bzZSrkDRUCOdA)
 * Code Elixir LDN: [2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zu4zxnZXtCSOCvsUHtxTYIl) | [2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h8_H-hZKYjNLTl3UraSyQ7) | [2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ivlIjzcaHS9N_Swe_0hWj0)
 * [EveryElixirVideo.page](https://everyelixirvideo.page/)
 * ElixirConf: [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
-* EMPEX: [2018 NYC](https://www.youtube.com/playlist?list=PLyO-58-sOapw81dCfjDrX5TuYxS5S8qMq) | [2018 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapy9Fs4Sd-HOeQIFwrSCQ3z1) | [2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS) | [2016](https://www.youtube.com/playlist?list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
 * Code BEAM: [Munich 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztyk61upvBMvVPbfTyfFgCE) | [Berlin 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs6eFJ9yx-jR7UShGGfPnY4) | [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
 * ElixirDaze: [2018 (Youtube)](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYH_aU7H-ExE2jrA-60qxH3) | [2018 (Confreaks)](http://confreaks.tv/events/elixirdaze2018) | [2017](http://confreaks.tv/events/elixirdaze2017) | [2016 (Youtube)](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH) | [2016 (Confreaks)](http://confreaks.tv/events/elixirdaze2016)
 * [Erlang Solutions Webinars](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jN8cLhwLg7frCx6fJ-GPwM)
@@ -3161,6 +3191,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### ERLANG - DISTRIBUTION
 
 * [Scaling Erlang cluster to 10,000 nodes - Maxim Fedorov (Code Mesh LDN 18)](https://www.youtube.com/watch?v=FJQyv26tFZ8)
+* [Distributed War Stories - Miriam Pena (EMPEX LA 2019)](https://www.youtube.com/watch?v=b3JQgyj17hk)
 * [Erlang distribution over TLS - Magnus Henoch](https://www.erlang-solutions.com/blog/erlang-distribution-over-tls.html)
 * [Partisan: Flexible, TCP-based membership system for Erlang/Elixir](https://github.com/lasp-lang/partisan) & [Partisan: Enabling Cloud-Scale Erlang Applications - Christopher S. Meiklejohn & Heather Miller (PDF)](https://arxiv.org/pdf/1802.02652.pdf)
 * [Scaling Distributed Erlang - Zandra Norman (ElixirConfEu 2016)](https://www.youtube.com/watch?v=usEs3GPnZDg)
@@ -3465,6 +3496,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Lessons learned from Kafka in production - Tim Berglund](https://www.youtube.com/watch?v=1vLMuWsfMcA)
 * [Kafka Summit NYC 2017 videos & slides](https://www.confluent.io/kafka-summit-nyc17/resource/)
 * Ben Stopford (Confluent): [The Data Dichotomy- Rethinking the Way We Treat Data and Services](https://vimeo.com/205275868/4f90eb476f) | [Build Services on a Backbone of Events](https://www.confluent.io/blog/build-services-backbone-events/) | [Using Apache Kafka as a Scalable, Event-Driven Backbone for Service Architectures](https://www.confluent.io/blog/apache-kafka-for-service-architectures/) | [Chain Services with Exactly Once Guarantees](https://www.confluent.io/blog/chain-services-exactly-guarantees/) | [Messaging as the Single Source of Truth](https://www.confluent.io/blog/messaging-single-source-truth/) | [Leveraging the Power of a Database Unbundled](https://www.confluent.io/blog/leveraging-power-database-unbundled/) | [Building a Microservices Ecosystem with Kafka Streams and KSQL](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
+* [KSQL Developer Guide - Confluent](https://docs.confluent.io/current/ksql/docs/developer-guide/index.html)
 * [Building Event-Driven Services with Apache Kafka](https://vimeo.com/210647286/91a0bf8cb5) | [Putting the Micro into Microservices with Stateful Stream Processing](https://vimeo.com/214730078/d2c85c9227)
 * [Distributed Commit Log: Application Techniques for Transaction Processing - David McNeil](https://www.youtube.com/watch?v=X2g0FFOV2e0)
 * [Distributed Commit Logs with Apache Kafka - James Ward (Devoxx Belgium 2016)](https://www.youtube.com/watch?v=ElilYxUOjOQ)
@@ -3759,6 +3791,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [Types and Programming Languages - Benjamin C. Pierce](https://www.asc.ohio-state.edu/pollard.4/type/books/pierce-tpl.pdf)
 * [The Implementation of Functional Programming Languages - Simon Peyton Jones (1987)](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/)
 * [Implementing Lazy Functional Languages on Stock Hardware: The Spineless Tagless G-machine - Simon Peyton Jones (1992)](https://www.microsoft.com/en-us/research/publication/implementing-lazy-functional-languages-on-stock-hardware-the-spineless-tagless-g-machine/)
+* [Practical Foundations of Mathematics - Paul Taylor](http://paultaylor.eu/~pt/prafm/html/index.html)
 
 ### FUNCTIONAL PROGRAMMING - CONFERENCE VIDEOS
 
@@ -4139,6 +4172,18 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/HTML/Canvas)
 
 ### HTML5 - HYBRID APPS
+
+#### HTML5 - HYBRID APPS - CAPACITOR
+
+* [Reimagining Cordova: Building Native Progressive Web Apps with Capacitor - Matt Netkow](https://www.youtube.com/watch?v=cjikyeo9bJc)
+* [Running and Building Ionic Apps with Capacitor or Cordova (iOS and Android) - Brackets Academy](https://www.youtube.com/watch?v=EodKC88X3F4)
+* [Cordova vs Capacitor - An Early Experience Comparison](https://www.youtube.com/watch?v=9SMDqWam_B0)
+
+#### HTML5 - HYBRID APPS - CORDOVA
+
+* [Apache Cordova](https://cordova.apache.org/) | [Documentation](https://cordova.apache.org/docs/en/latest/) | [Getting Started](https://cordova.apache.org/#getstarted)
+* [Building a Native App with Angular and Cordova - Stephen Fluin](https://www.youtube.com/watch?v=JiIGcmHtDDE)
+* [Publish App (HTML/CSS/JS) code to Google Play Store using Cordova - Amit Shukla](https://www.youtube.com/watch?v=Vfcy1xHR83c)
 
 #### HTML5 - HYBRID APPS - FRAMEWORK7
 
@@ -5400,6 +5445,7 @@ Peter R. Egli:
 
 ## REGULAR EXPRESSIONS
 
+* [Regex Cheat Sheet - Emma Wedekind](https://dev.to/emmawedekind/regex-cheat-sheet-2j2a)
 * [Regexper.com](https://regexper.com/)
 * [RegEx101.com](https://regex101.com/)
 * [Rubular.com](http://rubular.com/)
@@ -5673,6 +5719,10 @@ Peter R. Egli:
 * [An Introduction to Statistical Learning With Applications in R - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/) & [PDF](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) & [Videos](https://www.alsharif.info/iom530)
 * [Elements of Statistical Learning, 2nd ed](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 * [Learning Statistics will Save Your Life - John Paul Ashenfelter (MountainWest RubyConf 2015)](http://confreaks.tv/videos/mwrc2015-learning-statistics-will-save-your-life)
+
+### STATISTICAL ANALYSIS - PRINCIPAL COMPONENT ANALYSIS
+
+* [Principal Component Analysis (PCA) - Luis Serrano](https://www.youtube.com/watch?v=g-Hb26agBFg)
 
 ### STATISTICAL ANALYSIS - SUPPORT VECTOR MACHINES (SVMS)
 
