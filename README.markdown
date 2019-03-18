@@ -1640,6 +1640,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - GOOGLE CLOUD
 
 * Gcloud: [Overview](https://cloud.google.com/sdk/gcloud/) | [Compute Concepts](https://cloud.google.com/compute/docs/concepts) | [SDK Concepts](https://cloud.google.com/sdk/docs/concepts) | [Reference](https://cloud.google.com/sdk/gcloud/reference/) | [Compute How-Tos](https://cloud.google.com/compute/docs/how-to) | [SDK How-Tos](https://cloud.google.com/sdk/docs/how-to)
+* Getting Started With GCloud SDK: Joaquin Menchaca [Part 1](https://medium.com/@Joachim8675309/getting-started-with-gcloud-sdk-part-1-114924737) & [Part 2](https://medium.com/@Joachim8675309/getting-started-with-gcloud-sdk-part-2-4d049a656f1a)
+* [gcp gcloud cheat sheet - Victor Yang](https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97)
 * [QwikLabs.com: We give you temporary credentials to Google Cloud Platform and Amazon Web Services, so you can learn the cloud using the real thing](https://www.qwiklabs.com/home?locale=en)
 * [Training - Google Cloud](https://teachercenter.withgoogle.com/gcp/training)
 * [Hipster Shop: Cloud-Native Microservices Demo Application - Google Cloud](https://github.com/GoogleCloudPlatform/microservices-demo)
@@ -2058,6 +2060,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### DEVOPS - SPINNAKER.IO
 
 * [Spinnaker.io](https://www.spinnaker.io/)
+* [Spinnaker Summit 2018 conference videos](https://www.youtube.com/playlist?list=PL4yLrwUObNksZ8svJWu5HOHT3e_dpa5Ih)
 * [Continuous Delivery With Spinnaker - Emily Burns et al. (PDF book)](https://www.spinnaker.io/publications/ebook/ContinuousDeliveryWithSpinnaker.pdf)
 * [Using Kubernetes, Spinnaker and Istio to Manage a Multi-cloud Environment - Ameer Abbas (Cloud Next '18)](https://www.youtube.com/watch?v=kKC-VgAptII)
 
@@ -2232,7 +2235,6 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Elixir School](https://elixirschool.com/)
 * [ElixirCasts.io](https://elixircasts.io/?page=6)
 * [From Zero to Hero in Elixir - LittleAlchemist.io](https://www.youtube.com/playlist?list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp)
-* [Elixir Foundation - Zach Siri (Codemy.net)](https://www.codemy.net/posts/elixir-project-introduction-001/sets/elixir-foundation)
 * [Elixir Tutorial - Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumAgKjSPyFtvYjP5LqgzafQq)
 * [Alchemist Camp](https://alchemist.camp/episodes)
 * Elixir Examples: [Categorized](https://elixir-examples.github.io/) | [Single page](https://elixir-examples.github.io/single-page)
@@ -2242,6 +2244,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Elixir Devhints](https://devhints.io/elixir)
 * [Intro to Elixir - SolutionStreet.com](https://www.youtube.com/watch?v=lly-1UYmnFI)
 * [Ten Things I Wish I Knew Before Using Elixir - Chris Williams](https://ropig.com/blog/ten-things-wish-knew-using-elixir/)
+* [Elixir Foundation - Zach Siri (Codemy.net)](https://www.codemy.net/posts/elixir-project-introduction-001/sets/elixir-foundation) (NOT all free)
 
 ### ELIXIR - GETTING STARTED (NON-FREE)
 
@@ -2555,7 +2558,6 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Refactoring Techniques for Elixir, Ecto, and Phoenix - Gary Rennie (ElixirConf 2016)](https://www.youtube.com/watch?v=V21DAKtY31Q)
 * [Connecting to Multiple Databases with Ecto - Geoffrey Lessel](http://geoffreylessel.com/2016/connecting-to-multiple-databases-with-ecto/)
 * [Ecto’s insert_all and schemaless queries - José Valim](http://blog.plataformatec.com.br/2016/05/ectos-insert_all-and-schemaless-queries/?utm_source=elixir-status&utm_medium=social&utm_campaign=blog-post-promotion)
-* [Replace Callbacks with Ecto.Multi - Daniel Berkompas](http://blog.danielberkompas.com/2016/09/27/ecto-multi-services.html)
 * [Abandoning models and embracing data - exploring Ecto - Michal Muskala (Elixir Warsaw)](https://www.youtube.com/watch?v=dejHBBW9qXI)
 * [Ecto: A language integrated query for Elixir - José Valim (CodeMesh London 2013)](https://www.youtube.com/watch?v=SJRfujy9vLA)
 * [Ecto - the Past, the Present, the Future - Michał Muskała (ElixirConfEU 2016](https://www.youtube.com/watch?v=msdYuidWYQA) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/087/original/Ecto_-_the_past__the_present__the_future%281%29.pdf?1463063539)
@@ -2576,6 +2578,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Creating a Custom Ecto Duration Type - Christian Di Lorenzo](https://medium.com/@rcdilorenzo/creating-a-custom-ecto-duration-type-994e32ad4613)
 * [What is the difference between Ecto.Type’s cast and dump? - ElixirForum.com](https://elixirforum.com/t/what-is-the-difference-between-ecto-types-cast-and-dump/4855)
 * [Ecto type for IPv4 and IPv6 addresses - Pedro Assumpcao](https://pedroassumpcao.ghost.io/ecto-type-for-ipv4-and-ipv6-addresses/)
+
+#### ELIXIR - ECTO - MULTI
+
+* [What is Ecto.Multi? - Crystal Chang](https://medium.com/flatiron-labs/what-is-ecto-multi-9138df0461b7)
+* [Replace Callbacks with Ecto.Multi - Daniel Berkompas](http://blog.danielberkompas.com/2016/09/27/ecto-multi-services.html)
 
 #### ELIXIR - ECTO - MYXQL
 
@@ -2599,12 +2606,14 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### ELIXIR - ETS
 
 * [Taming :ets for High-Performance Software - Mike Binns](https://dockyard.com/blog/2019/03/07/taming-ets-for-high-performance-software) | [ets (Github)](https://github.com/TheFirstAvenger/ets) | [ets (Hex.pm)](https://hex.pm/packages/ets)
+* [An Introduction to ETS Tables in Elixir - Ilya Bodrov](https://code.tutsplus.com/articles/ets-tables-in-elixir--cms-29526<Paste>)
 * [Optimizing Your Elixir and Phoenix projects with ETS - Chris McCord](https://dockyard.com/blog/2017/05/19/optimizing-elixir-and-phoenix-with-ets)
 
 ### ELIXIR - EVENT SOURCING/CQRS
 
 * [FAQ on DDD, CQRS & Event Sourcing - CQRS.nu](http://cqrs.nu/Faq)
 * [CQRS and Event Sourcing - Bernardo Amorim (Code Beam SF 2018)](https://www.youtube.com/watch?v=S3f6sAXa3-c)
+* Event Sourcing With Elixir - Bruno Antunes: [Part 0](https://blog.nootch.net/post/event-sourcing-with-elixir/) [Part 1](https://blog.nootch.net/post/event-sourcing-with-elixir-part-1#getting-started) | [Part 2](https://blog.nootch.net/post/event-sourcing-with-elixir-part-2/) | [Part 3](https://blog.nootch.net/post/event-sourcing-with-elixir-part-3/)
 * [Building CQRS/ES web applications in Elixir using Phoenix - Ben Smith](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/) | [Building a CQRS/ES web application in Elixir using Phoenix](https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/) | [PDF](https://10consulting.com/presentations/2017-03-23-building-cqrs-web-applications-in-elixir.pdf)
 * [event_bus: Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS - Mustafa Turan](https://github.com/otobus/event_bus) & [event_bus_postgres: Postgres event store for event_bus](https://github.com/otobus/event_bus_postgres)
 * [Pachyderm - an elephant never forgets - Peter Saxton](https://github.com/CrowdHailer/event-sourcing.elixir)
@@ -2891,7 +2900,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### ELIXIR - PHOENIX - LIVEVIEW
 
+* [Phoenix Live View Example - Chris McCord](https://github.com/chrismccord/phoenix_live_view_example)
 * [Phoenix LiveView: Interactive, Real-Time Apps. No Need to Write JavaScript - Chris McCord](https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript)
+* [Phoenix Live View Example with Todos - Scott Meade](https://github.com/smeade/phoenix_live_view_example_todos)
+* [Libu: Simple KanBan Project Management tool built with Elixir, Phoenix, LiveView, and Tailwind CSS - Zach Blanco](https://github.com/zblanco/libu)
+* [Phoenix Live View Example: Todos - Scott Meade](https://github.com/smeade/phoenix_live_view_example_todos)
 
 #### ELIXIR - PHOENIX - PERFORMANCE
 
@@ -3959,6 +3972,11 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [Inkscape Manual (2008)](https://commons.wikimedia.org/wiki/File:Manual_Inkscape.pdf)
 * [Inkscape: An Introduction](https://weblearn.ox.ac.uk/access/content/group/e05e05d2-f4ce-4a24-a008-031832bd1509/LearningRes_Open/Course_Book_Digital_Images_TIMGA_Inkscape_Introduction.pdf)
 
+### GRAPHICS - KRITA
+
+* Krita: [Getting Started](https://docs.krita.org/en/user_manual/getting_started.html#getting-started) | [User Manual (webpage)](https://docs.krita.org/en/user_manual.html#user-manual) | [User Manual (epub)](https://docs.krita.org/en/epub/KritaManual.epub) | [Tutorials & How-Tos](https://docs.krita.org/en/tutorials.html#tutorials) | [Reference Manual](https://docs.krita.org/en/reference_manual.html#reference-manual) | [General Concepts](https://docs.krita.org/en/general_concepts.html#general-concepts) | [FAQ](https://docs.krita.org/en/KritaFAQ.html#faq) | [Resources](https://docs.krita.org/en/resources_page.html#resources-page) | [Index](https://docs.krita.org/en/genindex.html) | [Documentation](https://docs.krita.org/en/)
+* [Tutorial: a Comic page from A to Z with Krita - David Renoy](https://www.youtube.com/watch?v=A7olKdIEtNQ)
+
 ## HAPPINESS
 
 * [The Science of Happiness - BerkeleyX: GG101x](https://courses.edx.org/courses/course-v1:BerkeleyX+GG101x+3T2017/course/)
@@ -4159,7 +4177,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [HTML5 Please](http://html5please.com/)
 * [Build An HTML5 Website With A Responsive Layout - Traversy Media](https://www.youtube.com/watch?v=Wm6CUkswsNw)
 * [Web Development In 2017 - A Practical Guide - Traversy Media](https://www.youtube.com/watch?v=9hDKfBKuXjI)
-* [Web APIs You [Probably] Didn't Know Existed - (NEJS Conf)](https://www.youtube.com/watch?v=EZpdEljk5dY)
+* [Web APIs You Probably Didn't Know Existed - Zeno Rocha (NEJS Conf 2016)](https://www.youtube.com/watch?v=EZpdEljk5dY)
 * [Box shadows](http://codepen.io/bphillips201/details/JygKB)
 * [Can I Use?](http://caniuse.com/)
 * [Datalists](http://demo.agektmr.com/datalist/)

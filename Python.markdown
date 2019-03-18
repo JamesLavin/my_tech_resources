@@ -217,6 +217,7 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 * [PySyft: library for encrypted, privacy preserving deep learning](https://github.com/OpenMined/PySyft)
 * [PySyft tutorials](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials)
+* [A generic framework for privacy preserving deep learning - Theo Ryffel, et al](https://arxiv.org/abs/1811.04017)
 
 #### PYTHON - DATA ANALYSIS - PYTABLES
 
