@@ -140,6 +140,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 ### JAVASCRIPT - CLEAN CODE
 
 * 7 Patterns to Refactor JavaScript Applications - Michael Phillips: [Value Objects](https://blog.engineyard.com/2015/7-patterns-refactor-javascript-value-objects) | [Service Objects](https://blog.engineyard.com/2015/7-patterns-refactor-javascript-service-objects) | [Form Objects](https://blog.engineyard.com/2015/7-patterns-refactor-javascript-form-objects) | [Query Objects](https://blog.engineyard.com/2015/7-patterns-refactor-javascript-query-objects) | [Policy Objects](https://blog.engineyard.com/2015/7-patterns-refactor-javascript-query-objects) | [Decorators](https://blog.engineyard.com/2015/7-patterns-refactor-javascript-decorators)
+* [SOLID JavaScript - Jonathan Mills (DevUp 2019)](https://www.infoq.com/presentations/solid-javascript)
 * [Airbnb's style guide](https://github.com/airbnb/javascript)
 * [Github's style guide](https://github.com/styleguide/javascript)
 * [JSHint (Github)](https://github.com/jshint/jshint) & [JSHint.com](http://www.jshint.com/)
@@ -517,6 +518,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 
 ### JAVASCRIPT - REDUX
 
+* [Complete Redux Tutorial - Dave Ceddia](https://daveceddia.com/redux-tutorial/)
 * [Getting Started With Redux - Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
 * [Intro to Redux - Alex Bachux](https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/)
 * [The Problem with Redux... And How to Fix It - Matthew Gertner](http://blog.javascripting.com/2016/05/21/the-problem-with-redux-and-how-to-fix-it/)
