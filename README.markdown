@@ -1382,6 +1382,8 @@ Links to resources I have found useful or think might be helpful to future me or
 #### DEVOPS - AWS (AMAZON WEB SERVICES) - KUBERNETES / EKS
 
 * [Getting Started with Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/getting-started.html)
+* [Amazon EKS Workshop](https://eksworkshop.com/)
+* eksctl - Weaveworks: [eksctl.io](https://eksctl.io/) | [Github](https://github.com/weaveworks/eksctl)
 * [aws-iam-authenticator: tool to use AWS IAM credentials to authenticate to a Kubernetes cluster](https://github.com/kubernetes-sigs/aws-iam-authenticator)
 * [Specifying Sensitive Data - AWS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/specifying-sensitive-data.html)
 * [Deep Dive on Amazon EKS - Brandon Chavis & Eswar Bala (AWS re:Invent 2018)](https://www.youtube.com/watch?v=EDaGpxZ6Qi0)
@@ -1750,6 +1752,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Lyft's Envoy: Embracing a Service Mesh - Matt Klein (QCon NY 2018)](https://www.youtube.com/watch?v=55yi4MMVBi4)
 * [Envoy Internals Deep Dive (Advanced Skill Level) - Matt Klein (KubeCon Europe 2018)](https://www.youtube.com/watch?v=gQF23Vw0keg)
 
+#### DEVOPS - ISTIO - FLAGGER
+
+* Flagger: Istio and App Mesh progressive delivery Kubernetes operator - Weaveworks: [Docs](https://docs.flagger.app/) | [Github](https://github.com/weaveworks/flagger) | [Flagger.app](https://flagger.app/)
+* [Automated canary deployments with Flagger and Istio - Stefan Prodan](https://medium.com/google-cloud/automated-canary-deployments-with-flagger-and-istio-ac747827f9d1)
+
 #### DEVOPS - ISTIO - GKE
 
 * [Istio - Google Cloud](https://cloud.google.com/istio/)
@@ -1757,6 +1764,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Hello Istio Codelab (With Google Kubernetes) - Google](https://codelabs.developers.google.com/codelabs/cloud-hello-istio/#0)
 * [Istio 101 (1.0) on GKE](https://meteatamel.wordpress.com/2018/08/06/istio-101-1-0-on-gke/) | [Istio 101 (0.8.0) on GKE - Mete Atamel (Google)](https://meteatamel.wordpress.com/2018/06/07/istio-101-0-8-0-on-gke/)
 * [ProductCatalog Canary Deployment (GKE / Istio)](https://github.com/GoogleCloudPlatform/istio-samples/tree/master/istio-canary-gke)
+
+#### DEVOPS - ISTIO - Kiali
+
+* Kiali: Service Mesh Observability: [Kiali.io](https://www.kiali.io/) | [Getting started](https://www.kiali.io/gettingstarted/) | [Docs](https://www.kiali.io/documentation/) | [API](https://www.kiali.io/api/)
 
 #### DEVOPS - ISTIO - MULTICLUSTER
 
@@ -1786,7 +1797,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Troubleshooting & Debugging Microservices in Kubernetes - Ray Tsang & Robert Kubis (GOTO 2018)](https://www.youtube.com/watch?v=2hxTTyc6IH8)
 * [The ins and outs of networking in Google Container Engine and Kubernetes - Tim Hockin and Michael Rubin (Google Cloud Next '17)](https://www.youtube.com/watch?v=y2bhV81MfKQ)
 * [Kubernetes Webinars - Janakiram & Associates](https://www.youtube.com/playlist?list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ)
-* kubectl: [Cheatsheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/) | [Overview](https://kubernetes.io/docs/user-guide/kubectl-overview/)
 * [Running Kubernetes in Production - Zalendo Tech](http://kubernetes-on-aws.readthedocs.io/en/latest/admin-guide/kubernetes-in-production.html) & [Kubernetes on AWS @Zalando - David Aronchick](https://www.youtube.com/watch?time_continue=2671&v=XmnhzEoengI)
 * [Kubernetes 101 for Developers - Ross Kukulinski](https://github.com/rosskukulinski/kubernetes-101-for-devs)
 * [KataCoda (interactive browser-based labs, courses, & playgrounds)](https://katacoda.com/learn)
@@ -1902,6 +1912,11 @@ See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 
 See [DEVOPS - ISTIO.IO](#devops---istioio)
 
+#### DEVOPS - KUBERNETES - KUBECTL
+
+* kubectl: [Cheatsheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/) | [Overview](https://kubernetes.io/docs/user-guide/kubectl-overview/)
+* [Boosting your kubectl productivity - Daniel Weibel](https://learnk8s.io/blog/kubectl-productivity/)
+
 #### DEVOPS - KUBERNETES - KUBECTX
 
 * [kubectx - Switch between Kubernetes contexts/namespaces](https://github.com/ahmetb/kubectx)
@@ -1956,6 +1971,8 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### DEVOPS - KUBERNETES - SECURITY
 
+* [kube-bench: checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark](https://github.com/aquasecurity/kube-bench) | [Tech N’ Talk: Implementing CIS Kubernetes Security Benchmarks with Kube-Bench - Liz Rice](https://blog.openshift.com/tech-n-talk-implementing-cis-kubernetes-security-benchmarks-kube-bench/)
+* [kube-hunter: Hunt for security weaknesses in Kubernetes clusters - Aqua Security](https://github.com/aquasecurity/kube-hunter) | [aquasec.com](https://kubehunter.aquasec.com/)
 * [11 Ways (Not) to Get Hacked - Andrew Martin](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
 * [Top 9 Kubernetes Settings You Should Check to Optimize Security - Connor Gilbert](https://containerjournal.com/2018/07/03/top-9-kubernetes-settings-you-should-check-to-optimize-security/)
 * [Kubernetes Security Best Practices - Ian Lewis](https://speakerdeck.com/ianlewis/kubernetes-security-best-practices)
@@ -1978,6 +1995,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### DEVOPS - KUBERNETES - VIDEOS
 
+* [Kubernetes Day India 2019](https://www.youtube.com/playlist?list=PLj6h78yzYM2NXMGswJofR2N1pGdET_9EV)
 * [KubeCon + CloudNativeCon 2018 Seattle (345 videos)](https://www.youtube.com/playlist?list=PLj6h78yzYM2PZf9eA7bhWnIh_mK1vyOfU)
 * [KubeCon + CloudNativeCon 2018 (51 videos)](https://www.youtube.com/playlist?list=PLIivdWyY5sqLctSoRvWI71mQx_5kU9SQm)
 * [theCUBE - KubeCon Seattle 2018](https://www.youtube.com/playlist?list=PLenh213llmcaRR96V1yvSqtz7AiU5sqp7)
@@ -2357,6 +2375,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Big Nerd Ranch](https://www.bignerdranch.com/blog/?q=Elixir)
 * [Carbon Five](https://blog.carbonfive.com/category/elixir/)
+* [DennisBeatty.com](https://dennisbeatty.com/)
 * [Dockyard](https://dockyard.com/blog/categories/elixir)
 * [East 5th](http://www.east5th.co/blog/)
 * [Elixir Alchemy (AppSignal)](https://blog.appsignal.com/category/elixir-alchemy.htm)
@@ -2701,6 +2720,8 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - GRAPHQL
 
+* [Build a GraphQL API in Elixir with Phoenix & Absinthe - Tivelop](https://www.youtube.com/watch?v=uoCFQu9gQHE&list=PLw7bfDlTRWbgiApK7X1bRKJJ03xoDU3hm)
+* [Creating GraphQL APIs Using Elixir Phoenix and Absinthe - Velotio Technologies](https://medium.com/velotio-perspectives/creating-graphql-apis-using-elixir-phoenix-and-absinthe-486ff38f2549)
 * [ElixirConf 2018 - Making a GraphQL Server with Absinthe & Dataloader - Aaron Votre (ElixirConf 2018](https://www.youtube.com/watch?v=m26i1L2D7Yk)
 * [Building a Forum Elixir GraphQL Backend with Absinthe - Josh Adams](https://www.smoothterminal.com/articles/building-a-forum-elixir-graphql-backend-with-absinthe)
 * [Building a Phoenix GraphQL API with Absinthe - Tivelop](https://www.youtube.com/playlist?list=PLw7bfDlTRWbgiApK7X1bRKJJ03xoDU3hm)
@@ -2723,6 +2744,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - HTTP CLIENTS
 
+* [Mint: Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2](https://github.com/ericmj/mint)
 * httpoison: [Github](https://github.com/edgurgel/httpoison)
 * Tesla: [Github](https://github.com/teamon/tesla)
 * [Tesla: flexible HTTP client library for Elixir, with support for middleware and multiple adapters](https://github.com/teamon/tesla)
@@ -2926,6 +2948,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### ELIXIR - PHOENIX - LIVE VIEW
 
+* [Flappy Phoenix - Richard Taylor](https://www.richt.co.uk/til/flappy-phoenix-live-view/)
 * [Phoenix Live View Example - Chris McCord](https://github.com/chrismccord/phoenix_live_view_example)
 * [Phoenix LiveView: Interactive, Real-Time Apps. No Need to Write JavaScript - Chris McCord](https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript)
 * [Phoenix Live View Example with Todos - Scott Meade](https://github.com/smeade/phoenix_live_view_example_todos)
@@ -4867,6 +4890,8 @@ Peter R. Egli:
 ## POSTGRESQL
 
 * [Official manuals](http://www.postgresql.org/docs/manuals/) [PG 11](https://www.postgresql.org/files/documentation/pdf/11/postgresql-11-US.pdf) | [PG 10](https://www.postgresql.org/files/documentation/pdf/10/postgresql-10-US.pdf) | [PG 9.6](https://www.postgresql.org/files/documentation/pdf/9.6/postgresql-9.6-US.pdf) | [PG 9.5](https://www.postgresql.org/files/documentation/pdf/9.5/postgresql-9.5-US.pdf) | [PG 9.4](https://www.postgresql.org/files/documentation/pdf/9.4/postgresql-9.4-US.pdf)
+* [Learn PostgreSQL: Full Course for Beginners - freeCodeCamp.org](https://www.youtube.com/watch?v=qw--VYLpxG4)
+* PostgreSQL Tutorials : Learn PostgreSQL From Beginning to Advanced: [Beginner's List](https://www.youtube.com/playlist?list=PLk1kxccoEnNEtwGZW-3KAcAlhI_Guwh8x) & [Advanced List](https://www.youtube.com/playlist?list=PLk1kxccoEnNHlAR2ggnzIkOc7jxqI-_w2)
 * [Awesome Postgres - Asad Dhamani](https://github.com/dhamaniasad/awesome-postgres)
 * [PostgreSQL - TutorialsPoint.com](https://www.tutorialspoint.com/postgresql/postgresql_tutorial.pdf)
 * [Mastering PostgreSQL Administration - Bruce Momjian](https://momjian.us/main/writings/pgsql/administration.pdf)
