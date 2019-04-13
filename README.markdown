@@ -3680,6 +3680,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Kafka Connect Deep Dive – Converters and Serialization Explained - Robin Moffatt](https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained)
 
+#### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA MANAGER
+
+* [kafka-manager: tool for managing Apache Kafka - Yahoo](https://github.com/yahoo/kafka-manager)
+* [kafka-manager Helm chart](https://hub.helm.sh/charts/stable/kafka-manager)
+
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA STREAMS
 
 * Apache Kafka Streams API - Tim Berglund (Confluent): [1. Intro to Streams](https://www.youtube.com/watch?v=Z3JKCLG3VP4) | [2. Creating a Streams Application](https://www.youtube.com/watch?v=LxxeXI1mPKo) | [3. Transforming Data, Part I](https://www.youtube.com/watch?v=7JYEEx7SBuE) | [4. Transforming Data II](https://www.youtube.com/watch?v=3kJgYIkAeHs)
@@ -5588,6 +5593,12 @@ Peter R. Egli:
 * [Redis Labs' Youtube videos](https://www.youtube.com/channel/UCD78lHSwYqMlyetR0_P4Vig)
 * Getting Started With Redis: [Part 1](https://www.youtube.com/watch?v=7W1n_SwTw14) | [Part 2](https://www.youtube.com/watch?v=nSW4xaQ4eEI) | [Part 3](https://www.youtube.com/watch?v=h-jB2jpywnE) | [Part 4](https://www.youtube.com/watch?v=rXQRqek3kLw) | [Part 5](https://www.youtube.com/watch?v=YB62-F31l1c)
 * [Fun with Ruby and Redis - Javier Ramirez (ArrrCamp 2013)](https://www.youtube.com/watch?v=eVnvQULI1Cc)
+
+### REDIS - DEPLOYMENT
+
+* [redis-ha Helm chart](https://github.com/helm/charts/tree/master/stable/redis-ha)
+* [redis Helm chart](https://github.com/helm/charts/tree/master/stable/redis)
+* [Installing a High Available Redis Cluster - Erdem ÖZDEMİR](https://medium.com/hepsiburadatech/installing-a-high-available-redis-cluster-5001ade17c43)
 
 ### REDIS - GUIS
 
