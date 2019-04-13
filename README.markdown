@@ -116,6 +116,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to Deep Learning with PyTorch - Luis Serrano (Udacity)](https://classroom.udacity.com/courses/ud188)
 * [Notes from Coursera Deep Learning courses by Andrew Ng - Tess Ferrandez](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
 * [Learn Deep Learning in 6 Weeks - Siraj Raval](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks/)
+* [Neural Networks and Deep Learning - Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
 * [Advanced Deep Learning & Reinforcement Learning - DeepMind](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 * [Mostly Complete Chart of Neural Networks - Fjodor van Veen](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
 * [How Deep Neural Networks Work - Brandon Rohrer](https://www.youtube.com/watch?v=ILsA4nyG7I0)
@@ -209,24 +210,45 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - NATURAL LANGUAGE PROCESSING (NLP)
 
-* [Natural Language Processing with Deep Learning (Stanford University, Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+* [Natural Language Processing with Deep Learning (Stanford University, Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) | [2019 course](http://web.stanford.edu/class/cs224n/)
+* [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
+* Speech and Language Processing, 3rd ed draft, Daniel Jurafsky and James H. Martin: [PDF](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) | [Webpage](https://web.stanford.edu/~jurafsky/slp3/)
+* [Natural Language Processing - Jacob Eisenstein](https://github.com/jacobeisenstein/gt-nlp-class/raw/master/notes/eisenstein-nlp-notes.pdf)
 * [Deep Learning for NLP - Ed Grefenstette (DeepMind)](https://www.youtube.com/watch?v=Y95JwaynE40)
+* [KDNuggets NLP](https://www.kdnuggets.com/?s=NLP)
+* [Text Analytics Techniques](http://ai.intelligentonlinetools.com/ml/)
+* [NLP For Hackers](https://nlpforhackers.io/)
 * [NLP Newsletter - Sebastian Ruder](http://newsletter.ruder.io/)
+* [Sebastian Ruder blog](http://ruder.io/)
 * [4 Approaches to Natural Language Processing & Understanding - Maria Yao](https://www.topbots.com/4-different-approaches-natural-language-processing-understanding/)
 * [Stanford Natural Language Processing Group](https://nlp.stanford.edu/) | [CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
 * [Sebastian Ruder blog](http://ruder.io/#open)
+* [NLP - MachineLearningPlus.com](https://www.machinelearningplus.com/nlp/)
 * [Problem-solving with ML: automatic document classification - Ahmed Kachkack](https://cloud.google.com/blog/big-data/2018/01/problem-solving-with-ml-automatic-document-classification)
 * [GuidedLDA: Guided Topic modeling with latent Dirichlet allocation - Vikash Singh](https://github.com/vi3k6i5/guidedlda) & [How our startup switched from Unsupervised LDA to Semi-Supervised GuidedLDA - Vikash Singh](https://medium.freecodecamp.org/how-we-changed-unsupervised-lda-to-semi-supervised-guidedlda-e36a95f3a164)
 * [NLP in R: Topic Modelling - Rachael Tatman](https://www.kaggle.com/rtatman/nlp-in-r-topic-modelling/code)
 * [NLP For Topic Modeling & Summarization Of Legal Documents - Oguejiofor Chibueze](https://towardsdatascience.com/nlp-for-topic-modeling-summarization-of-legal-documents-8c89393b1534)
-* [Complete Guide to Topic Modeling with Scikit-Learn and Gensim - George-Bogdan Ivanov](https://nlpforhackers.io/topic-modeling/)
 * [Spooky NLP and Topic Modelling tutorial - Anisotropic](https://www.kaggle.com/arthurtok/spooky-nlp-and-topic-modelling-tutorial/code)
 * [natural: general natural language facilities for node](https://github.com/NaturalNode/natural)
+
+#### ARTIFICIAL INTELLIGENCE (AI) - NATURAL LANGUAGE PROCESSING (NLP) - ALLEN NLP
+
+* [AllenNLP](https://github.com/allenai/allennlp)
+
+#### ARTIFICIAL INTELLIGENCE (AI) - NATURAL LANGUAGE PROCESSING (NLP) - GENSIM
+
+* Gensim: [Website](https://radimrehurek.com/gensim/) | [Tutorials](https://radimrehurek.com/gensim/tutorial.html) | [API docs](https://radimrehurek.com/gensim/apiref.html) | [Github](https://github.com/RaRe-Technologies/gensim) | [Tutorials](https://github.com/RaRe-Technologies/gensim/blob/develop/tutorials.md#tutorials)
+* [gensim-data](https://github.com/RaRe-Technologies/gensim-data)
+* [Complete Guide to Topic Modeling with Scikit-Learn and Gensim - George-Bogdan Ivanov](https://nlpforhackers.io/topic-modeling/)
 
 #### ARTIFICIAL INTELLIGENCE (AI) - NATURAL LANGUAGE PROCESSING (NLP) - SPACY
 
 * spaCy: Industrial-strength Natural Language Processing (NLP) with Python and Cython: [Github](https://github.com/explosion/spaCy) | [Spacy.io](https://spacy.io/)
 * [spaCy cheatsheet - DataCamp](http://datacamp-community-prod.s3.amazonaws.com/29aa28bf-570a-4965-8f54-d6a541ae4e06)
+
+#### ARTIFICIAL INTELLIGENCE (AI) - NATURAL LANGUAGE PROCESSING (NLP) - TEXTACY
+
+* [Textacy](https://github.com/chartbeat-labs/textacy)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - NEWS
 
@@ -442,11 +464,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Tips on Staying Fit for Software Developers - Asahi Technologies](https://www.asahitechnologies.com/blog/tips-on-staying-fit-for-software-developers/)
 * [5 Hacks to Effortlessly Build Healthy Habits in 2018 - Steve](https://www.nerdfitness.com/blog/how-to-build-healthy-habits-that-stick/)
 
-### EXERCISE
+### BODY & MIND - EXERCISE
 
 * [The 25 Most Significant Health Benefits of Physical Activity and Exercise - Len Kravitz](http://www.unm.edu/~lkravitz/Article%20folder/healthbenefitsaa.html)
 
-### SLEEP
+### BODY & MIND - POSTURE
+
+* [Back Pain & Sitting](https://www.youtube.com/playlist?list=PL8l32k1r15l4Y2rO_fDZtgnnZoWwoeXzf) & [More Bob (Schrupp) & Brad (Heineck)](https://www.youtube.com/channel/UCmTe0LsfEbpkDpgrxKAWbRA)
+
+### BODY & MIND - SLEEP
 
 * [Programmers and sleep - David Zych](https://davidzych.com/programmers-and-sleep/)
 * [You Need More Than 6 Hours of Sleep - Gret Yeutter](https://hackernoon.com/you-need-more-than-6-hours-of-sleep-5186cfcf1dd5)
@@ -1237,6 +1263,19 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Graph Databases Will Change Your Freakin' Life - Ed Finkler](https://www.youtube.com/watch?v=GekQqFZm7mA)
 * [From Relational to Graph: A Developer's Guide - Michael Hunger](https://dzone.com/refcardz/from-relational-to-graph-a-developers-guide?chapter=1)
 
+#### DATABASES - GRAPH DATABASES - GREMLIN/TINKERPOP
+
+* Apache Tinkerpop: [Website](http://tinkerpop.apache.org/) | [Docs](http://tinkerpop.apache.org/docs/current/reference/)
+* [SQL2Gremlin](http://sql2gremlin.com/)
+* [Practical Gremlin - An Apache TinkerPop Tutorial (PDF) - Kelvin R. Lawrence](https://github.com/krlawrence/graph)
+
+#### DATABASES - GRAPH DATABASES - RDF
+
+* RDFLib: [Github](https://github.com/RDFLib/rdflib) | [Docs](https://rdflib.readthedocs.io/en/stable/)
+* Marcel Otto: [RDF-ex](https://github.com/marcelotto/rdf-ex) & [SPARQL-ex](https://github.com/marcelotto/sparql-ex)
+* [Querying RDF with Elixir: Using SPARQL.ex to query over RDF datastores - Tony Hammond](https://medium.com/@tonyhammond/querying-rdf-with-elixir-2378b39d65cc)
+* [Bringing the Semantic Web closer to reality: PostgreSQL as RDF Graph Database - Jimmy Angelakos](https://www.youtube.com/watch?v=M0pcFgI2-uE)
+
 ### DATABASES - GRAPHQL
 
 * [Intro to GraphQL - GraphQL.org](http://graphql.org/learn/)
@@ -1283,7 +1322,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DATABASES - NEO4J
 
-* [Website](https://neo4j.com/) | [Documentation](https://neo4j.com/docs/)
+* [Website](https://neo4j.com/) | [Documentation](https://neo4j.com/docs/) | [Github](https://github.com/neo4j/neo4j)
 * [Neo4j Graph Database - TutorialsPoint.com](https://www.tutorialspoint.com/neo4j/neo4j_tutorial.pdf)
 
 #### DATABASES - NEO4J - ELIXIR/ERLANG
@@ -1436,6 +1475,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Datanauts (data center infrastructure)](http://packetpushers.net/series/datanauts-podcast/)
 * [Dockercast](https://itunes.apple.com/us/podcast/dockercast/id1141133179)
 * [Full Stack Journey](http://packetpushers.net/series/full-stack-journey/)
+* [JAX](https://jaxenter.com/tag/devops)
 * [The New Stack](http://thenewstack.io/)
 * [Weekly Show (Networking Technology)](http://packetpushers.net/series/weekly-show/)
 
@@ -1747,6 +1787,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Getting Started with Istio on Amazon EKS - Arun Gupta](https://aws.amazon.com/blogs/opensource/getting-started-istio-eks/)
 
+#### DEVOPS - ISTIO - DATADOG
+
+* [Datadog Istio integration](https://docs.datadoghq.com/integrations/istio/) | [Monitor your Istio service mesh with Datadog - David Lentz](https://www.datadoghq.com/blog/monitor-istio-with-datadog/)
+
 #### DEVOPS - ISTIO - ENVOY
 
 * [Lyft's Envoy: Embracing a Service Mesh - Matt Klein (QCon NY 2018)](https://www.youtube.com/watch?v=55yi4MMVBi4)
@@ -1803,6 +1847,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Kubernetes in production - blue-green deployment, auto scaling and deployment automation - Paul Bakker (Devoxx UK 2016)](https://www.youtube.com/watch?v=-Ci4vd4rh4M)
 * [Chick-Fil-A: Milking the Most out of 1000's of K8s Clusters - Caleb Hurd & Brian Chambers (QCon NYC 2018)](https://www.infoq.com/presentations/chick-fil-a-k8-clusters)
 
+### DEVOPS - JAEGER
+
+* [Getting started with Jaeger to build an Istio service mesh - Daniel Oh](https://opensource.com/article/19/3/getting-started-jaeger)
+
 #### DEVOPS - KUBERNETES - ARGO
 
 * [Argo: The workflow engine for Kubernetes](https://applatix.com/open-source/argo/) | [Github](https://github.com/argoproj/argo)
@@ -1821,6 +1869,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Building Small Containers: Kubernetes Best Practices - Sandeep Dinesh (Google)](https://www.youtube.com/watch?v=wGz_cbtCiEA)
 
+#### DEVOPS - KUBERNETES - CONTOUR
+
+* [Contour: Kubernetes ingress controller using Lyft's Envoy proxy - Heptio](https://github.com/heptio/contour)
+* [Contour: Advanced Ingress with Envoy - Josh Rosso](https://www.youtube.com/watch?v=O7HfkgzD7Z0)
+
 #### DEVOPS - KUBERNETES - CROSSPLANE
 
 * [Crossplane.io](https://crossplane.io/) | [Github](https://github.com/crossplaneio/crossplane)
@@ -1829,6 +1882,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Kafka Operator: Managing and Operating Kafka Clusters in Kubernetes [A] - Nenad Bogojevic](https://www.youtube.com/watch?v=jAz8sdO1rgE)
 * [Lessons learned form Kafka in production Tim Berglund (2017)](https://www.youtube.com/watch?v=1vLMuWsfMcA)
+
+#### DEVOPS - KUBERNETES - DRAFT
+
+* Draft - Streamlined Kubernetes Development: [Draft.sh](https://draft.sh/) | [Quickstart](https://github.com/Azure/draft/blob/master/docs/quickstart.md) | [Examples & Tutorials](https://github.com/Azure/draft/blob/master/docs/examples-and-tutorials.md) | [Advanced Setup](https://github.com/Azure/draft/blob/master/docs/advanced-setup.md) | [Github](https://github.com/Azure/draft)
 
 #### DEVOPS - KUBERNETES - EKS (AWS)
 
@@ -1846,8 +1903,9 @@ See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 #### DEVOPS - KUBERNETES - HELM
 
 * Helm (package manager for Kubernetes): [Website](https://helm.sh/) | [docs](https://docs.helm.sh/) | [Github](https://github.com/kubernetes/helm) | [Twitter](https://twitter.com/helmpack)
-* [Continuous Delivery for Kubernetes Apps with Helm & ChartMuseum - Josh Dolitsky & Stef Arnold](https://www.youtube.com/watch?v=u3VqswB-TJo)
 * [Intro: Helm - Matt Farina (KubeCon + CloudNativeCon Seattle 2018)](https://www.youtube.com/watch?v=0xJc3d43kn0)
+* [Helm 101: Tame the chaos of your Kubernetes apps with Helm charts - Sahdev Zala et al.](https://wdc.objectstorage.softlayer.net/v1/AUTH_7046a6f4-79b7-4c6c-bdb7-6f68e920f6e5/Code-Videos/helm-101/static/helm101.pdf)
+* [Continuous Delivery for Kubernetes Apps with Helm & ChartMuseum - Josh Dolitsky & Stef Arnold](https://www.youtube.com/watch?v=u3VqswB-TJo)
 * [Deep Dive: Helm - Matt Butcher & Adam Reese (KubeCon + CloudNativeCon Seattle 2018)](https://www.youtube.com/watch?v=V8VCdlpWWr8)
 * [Configure RBAC In Your Kubernetes Cluster: Enable Helm in Your Cluster - Bitnami](https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/)
 * [Helm - the Better Way to Deploy on Kubernetes - Reinhard Nägele (Codemotion Amsterdam 2018)](https://www.youtube.com/watch?v=3q0R5x6mBZg) & [Github repo](https://github.com/unguiculus/hello-world)
@@ -1999,6 +2057,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [KubeCon + CloudNativeCon 2018 Seattle (345 videos)](https://www.youtube.com/playlist?list=PLj6h78yzYM2PZf9eA7bhWnIh_mK1vyOfU)
 * [KubeCon + CloudNativeCon 2018 (51 videos)](https://www.youtube.com/playlist?list=PLIivdWyY5sqLctSoRvWI71mQx_5kU9SQm)
 * [theCUBE - KubeCon Seattle 2018](https://www.youtube.com/playlist?list=PLenh213llmcaRR96V1yvSqtz7AiU5sqp7)
+* [Skillsmatter.com](https://skillsmatter.com/explore?content=skillscasts&location=&q=Kubernetes)
 * [TGI Kubernetes - Heptio](https://www.youtube.com/playlist?list=PLvmPtYZtoXOENHJiAQc6HmV2jmuexKfrJ) & [Code from every episode on Github](https://github.com/heptio/tgik/tree/master/episodes)
 * [KubeCon + CloudNativeCon China 2018](https://www.youtube.com/playlist?list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)
 * [KubeCon + CloudNativeCon 2018 - Copenhagen (354 videos!)](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo)
@@ -2073,6 +2132,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### DEVOPS - RELIABILITY
 
+* [Site Reliability Engineering: Measuring and Managing Reliability - Google Cloud (Coursera)](https://www.coursera.org/learn/site-reliability-engineering-slos)
 * [Site Reliability Engineering - Google (editors: Betsy Beyer, Chris Jones, Jennifer Petoff, & Niall Richard Murphy)](https://landing.google.com/sre/book/index.html)
 
 ### DEVOPS - RKT
@@ -2761,6 +2821,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - KAFKA
 
+* [erlkaf: Erlang kafka driver based on librdkafka (apparently the most secure non-Java Kafka client)](https://github.com/silviucpp/erlkaf)
 * [KafkaEx](https://github.com/kafkaex/kafka_ex)
 * [Kaffe](https://github.com/spreedly/kaffe)
 * [brod](https://github.com/klarna/brod)
@@ -2951,7 +3012,9 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Flappy Phoenix - Richard Taylor](https://www.richt.co.uk/til/flappy-phoenix-live-view/)
 * [Phoenix Live View Example - Chris McCord](https://github.com/chrismccord/phoenix_live_view_example)
 * [Phoenix LiveView: Interactive, Real-Time Apps. No Need to Write JavaScript - Chris McCord](https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript)
+* [Integrating Phoenix LiveView - Live Stream - 2019-03-18](https://www.youtube.com/watch?v=FfpRBh2kWCI)
 * [Phoenix Live View Example with Todos - Scott Meade](https://github.com/smeade/phoenix_live_view_example_todos)
+* observer_live: port of observer_cli using LiveView - Dimitris Zorbas: [Live example](https://liveview.zorbash.com/) | [Github](https://github.com/zorbash/observer_live)
 * [Libu: Simple KanBan Project Management tool built with Elixir, Phoenix, LiveView, and Tailwind CSS - Zach Blanco](https://github.com/zblanco/libu)
 * [Table pagination, sorting, and filtering using LiveView - Joe Richsen](https://github.com/joerichsen/phoenix_live_view_example/blob/table_example/lib/demo_web/live/table_live.ex)
 * hippo_game_live - Milada & Černa Ovec: [Github](https://github.com/miladamilli/hippo_game_live) | [Play online](https://elegant-monstrous-planthopper.gigalixirapp.com/)
@@ -3022,6 +3085,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Elixir Outlaws](https://elixiroutlaws.com/)
 * [Elixir Talk](https://itunes.apple.com/us/podcast/elixirtalk/id1298287048)
 * [Indielixir - Carter Bryden](http://indielixer.com/)
+* [Smart Software - SmartLogic](https://podcast.smartlogic.io/)
 
 #### ELIXIR - PROJECTS
 
@@ -3369,6 +3433,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Comparison of Erlang Runtime System and Java Virtual Machine - Tõnis Pool](http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf)
 * [Faults, Scaling, and Erlang concurrency - Joe Armstrong (Stanford University seminar 2014)](https://www.youtube.com/watch?v=YaUPdgtUYko)
 
+### ERLANG - PYRLANG
+
+* Erlang node implemented in Python 3.5+ (Asyncio-based): [Pyrlang.github.io](https://pyrlang.github.io/Pyrlang/) | [Github](https://github.com/Pyrlang/Pyrlang)
+
 ### ERLANG - TESTING
 
 #### ERLANG - TESTING - PROPERTY-BASED
@@ -3675,12 +3743,13 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - SECURITY
 
+* [Kafka Security 101 & Real World Tips - Stephane Maarek](https://www.slideshare.net/ConfluentInc/kafka-security-101-and-realworld-tips)
 * [Transparently Securing Kafka, Istio-style, with up to 300% Higher Performance than Native TLS in Microservice Environments - Jayanth Gummaraju](https://medium.com/jayanthg/transparently-securing-kafka-istio-style-with-up-to-300-higher-performance-than-native-tls-in-aa95731b5d40) | [original article](https://www.banyanops.com/pdf/KafkaArticle.pdf)
 * [Apache Kafka Security: SSL, Kerberos & Authorization - Sriharsha Chintalapani & Parth Brahmbhatt (2016 Hadoop Summit San Jose)](https://www.youtube.com/watch?v=y6XvNEInPZ0)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - PRODUCTIONIZING
 
-* [Helm Chart](https://hub.kubeapps.com/charts/incubator/kafka)
+* Kafka Helm Chart: [Kubeapps.com](https://hub.kubeapps.com/charts/incubator/kafka) & [Helm.sh](https://hub.helm.sh/charts/incubator/kafka) & [Github](https://github.com/helm/charts/tree/master/incubator/kafka)
 * [Kubernetes-kafka: Kafka cluster as Kubernetes StatefulSet, plain manifests and config](https://github.com/Yolean/kubernetes-kafka)
 * Strimzi: Kubernetes Operator for running Kafka (and OpenShift): [Github](https://github.com/strimzi/strimzi-kafka-operator) | [Strimzi.io](https://strimzi.io/) | [Minikube quickstart](https://strimzi.io/quickstarts/minikube/) | [Using Helm to Deploy the Strimzi Kafka Operator](https://strimzi.io/2018/11/01/using-helm.html)
 * [Kafka in Docker - Spotify](https://github.com/spotify/docker-kafka)
@@ -4941,6 +5010,7 @@ Peter R. Egli:
 ### POSTGRESQL - PERFORMANCE
 
 * [Computational Complexity and the Query Planner - James Coleman](https://www.youtube.com/watch?v=8ECcLPNW7zE)
+* [Lessons learned scaling PostgreSQL database to 1.2bn records/month - Gajus Kuizinas](https://medium.com/@gajus/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067)
 
 ### POSTGRESQL - POSTGREST
 
@@ -5368,8 +5438,10 @@ Peter R. Egli:
 
 ### R - LEARNING
 
+* [SwirlStats.com: Learn R, in R](https://swirlstats.com/)
 * [Hands-On Programming with R - Garrett Grolemund](https://rstudio-education.github.io/hopr/)
 * [The Five Colleges Guide to Statistics With R](http://www3.amherst.edu/~nhorton/FiveCollegeR.pdf)
+* [Chromebook Data Science](https://jhudatascience.org/chromebookdatascience/cbds.html)
 * [Swirl ("Statistics With Interactive R Learning")](http://swirlstats.com/students.html)
 * [The Undergraduate Guide to R - Trevor Martin](https://sites.google.com/site/undergraduateguidetor/manual-files)
 * [Open Courses: Free Data Science Training Courses (DataCamp.com)](https://www.datacamp.com/community/open-courses)
