@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](#erlang) | [Event sourcing](#event-sourcingstreams) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python), [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](#erlang) | [Event sourcing](#event-sourcing-cqrs-ddd--microservices) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Kafka](#event-sourcing-cqrs-ddd--microservices---kafka) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python), [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## ALGORITHMS
 
@@ -1714,6 +1714,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Kubernetes Engine](https://cloud.google.com/kubernetes-engine/) | [Docs](https://cloud.google.com/kubernetes-engine/docs/)
 * [Cloud Next '18 videos](https://www.youtube.com/results?search_query=kubernetes+cloudnext+2018)
+* [Using Google-managed SSL certificates](https://cloud.google.com/kubernetes-engine/docs/how-to/managed-certs)
 * [Continuous Delivery Pipelines with Spinnaker and Google Kubernetes Engine](https://cloud.google.com/solutions/continuous-delivery-spinnaker-kubernetes-engin://cloud.google.com/solutions/continuous-delivery-spinnaker-kubernetes-engine)
 * [Continuous Deployment to Kubernetes Engine using Jenkins](https://cloud.google.com/solutions/continuous-delivery-jenkins-kubernetes-engine)
 * [Jenkins on Kubernetes Engine](https://cloud.google.com/solutions/jenkins-on-kubernetes-engine)
@@ -1804,6 +1805,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### DEVOPS - ISTIO - GKE
 
 * [Istio - Google Cloud](https://cloud.google.com/istio/)
+* [Traffic Director & Envoy-Based L7 ILB for Production-Grade Service Mesh & Istio - Mike Columbus & Prajakta Joshi (Cloud Next '19)](https://www.youtube.com/watch?v=FUITCYMCEhU)
 * The Service Mesh Era: [Istio blog post series](https://cloud.google.com/blog/products/networking/welcome-to-the-service-mesh-era-introducing-a-new-istio-blog-post-series) | [Advanced application deployments and traffic management with Istio on GKE](https://cloud.google.com/blog/products/networking/advanced-application-deployments-and-traffic-management-with-istio-on-gke) | [Securing your environment with Istio](https://cloud.google.com/blog/products/networking/the-service-mesh-era-securing-your-environment-with-istio) | [Demo: Intro to Istio Security](https://github.com/GoogleCloudPlatform/istio-samples/tree/master/security-intro)
 * [Hello Istio Codelab (With Google Kubernetes) - Google](https://codelabs.developers.google.com/codelabs/cloud-hello-istio/#0)
 * [Istio 101 (1.0) on GKE](https://meteatamel.wordpress.com/2018/08/06/istio-101-1-0-on-gke/) | [Istio 101 (0.8.0) on GKE - Mete Atamel (Google)](https://meteatamel.wordpress.com/2018/06/07/istio-101-0-8-0-on-gke/)
@@ -1873,6 +1875,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Contour: Kubernetes ingress controller using Lyft's Envoy proxy - Heptio](https://github.com/heptio/contour)
 * [Contour: Advanced Ingress with Envoy - Josh Rosso](https://www.youtube.com/watch?v=O7HfkgzD7Z0)
+* [TGI Kubernetes 056: Heptio Contour and IngressRoute - Joe Beda](https://www.youtube.com/watch?v=BSKU6QHOvVE)
 
 #### DEVOPS - KUBERNETES - CROSSPLANE
 
@@ -1907,6 +1910,7 @@ See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 * [Helm 101: Tame the chaos of your Kubernetes apps with Helm charts - Sahdev Zala et al.](https://wdc.objectstorage.softlayer.net/v1/AUTH_7046a6f4-79b7-4c6c-bdb7-6f68e920f6e5/Code-Videos/helm-101/static/helm101.pdf)
 * [Continuous Delivery for Kubernetes Apps with Helm & ChartMuseum - Josh Dolitsky & Stef Arnold](https://www.youtube.com/watch?v=u3VqswB-TJo)
 * [Deep Dive: Helm - Matt Butcher & Adam Reese (KubeCon + CloudNativeCon Seattle 2018)](https://www.youtube.com/watch?v=V8VCdlpWWr8)
+* [Helm your way with Kubernetes - ANA MIHĂLCEANU (Voxxed Days 201)](https://www.youtube.com/watch?v=tGKk-KfwnQw)
 * [Configure RBAC In Your Kubernetes Cluster: Enable Helm in Your Cluster - Bitnami](https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/)
 * [Helm - the Better Way to Deploy on Kubernetes - Reinhard Nägele (Codemotion Amsterdam 2018)](https://www.youtube.com/watch?v=3q0R5x6mBZg) & [Github repo](https://github.com/unguiculus/hello-world)
 * [Building an Application Catalog with Helm and Kubernetes - Rajashree Mandaogane and Jason Greathouse (Rancher Labs)](https://www.youtube.com/watch?v=knvsqzJOIz4)
@@ -1954,6 +1958,13 @@ See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 * [Vault](https://hub.kubeapps.com/charts/incubator/vault)
 * [Zeppelin](https://hub.kubeapps.com/charts/stable/zeppelin)
 
+##### DEVOPS - KUBERNETES - HELM - KUSTOMIZE (NOW PART OF KUBECTL)
+
+* Kustomize: [Github](https://github.com/kubernetes-sigs/kustomize/) | [Kustomize.io](https://kustomize.io/)
+* [Kustomize: Deploy Your App with Template Free YAML - Ryan Cox, Lyft](https://www.youtube.com/watch?v=ahMIBxufNR0)
+* [TGI Kubernetes 072: Kustomize and friends - Joe Beda](https://www.youtube.com/watch?v=NFnpUlt0IuM)
+* [Kustomize: Kubernetes Configuration Customization - Jeff Regan (K8s, Kustomize & Ship SF Meetup)](https://www.youtube.com/watch?v=WWJDbHo-OeY)
+
 ##### DEVOPS - KUBERNETES - HELM - MONOCULAR
 
 * [Monocular: Search-and-discovery UI for helm chart repos  (Github)](https://github.com/helm/monocular)
@@ -1965,6 +1976,11 @@ See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 * [Chart-testing](https://github.com/helm/chart-testing)
 * [Helm-diff](https://github.com/databus23/helm-diff)
 * [Helm-secrets](https://github.com/futuresimple/helm-secrets)
+
+##### DEVOPS - KUBERNETES - HELM - SHIP
+
+* Ship - A better way to deploy Kubernetes Helm charts: [Replicated.com/Ship](https://www.replicated.com/ship) | [Github](https://github.com/replicatedhq/ship)
+* [Stop Forking Helm Charts, an Intro to Replicated Ship - Marc Campbell (K8s, Kustomize & Ship SF Meetup)](https://www.youtube.com/watch?v=pRG47EQ5OAg)
 
 #### DEVOPS - KUBERNETES - ISTIO
 
@@ -2020,7 +2036,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### DEVOPS - KUBERNETES - ROLE-BASED ACCESS CONTROL (RBAC)
 
+* [Role Based Access Control (RBAC) with Kubernetes - School of DevOps](https://www.youtube.com/watch?v=BLktpM--0jA)
+* [Role-based access control (RBAC) policies in Kubernetes (CNCF)](https://www.youtube.com/watch?v=CnHTCTP8d48)
 * [Configure RBAC In Your Kubernetes Cluster - Bitnami](https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/)
+* [User Authentication and Authorization in Kubernetes - Neependra Khare](https://www.youtube.com/watch?v=2wyUQ_5eHxI)
+* [Understanding (finally!) Role-based Access Control in Kubernetes - Javier J. Salmeron (Krakow Cloud Native)](https://www.youtube.com/watch?v=9iDZHaVre2c)
 
 #### DEVOPS - KUBERNETES - ROOK
 
@@ -2713,6 +2733,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - EVENT SOURCING/CQRS
 
+* [Awesome Elixir and CQRS](https://github.com/slashdotdash/awesome-elixir-cqrs)
 * [FAQ on DDD, CQRS & Event Sourcing - CQRS.nu](http://cqrs.nu/Faq)
 * [CQRS and Event Sourcing - Bernardo Amorim (Code Beam SF 2018)](https://www.youtube.com/watch?v=S3f6sAXa3-c)
 * Event Sourcing With Elixir - Bruno Antunes: [Part 0](https://blog.nootch.net/post/event-sourcing-with-elixir/) [Part 1](https://blog.nootch.net/post/event-sourcing-with-elixir-part-1#getting-started) | [Part 2](https://blog.nootch.net/post/event-sourcing-with-elixir-part-2/) | [Part 3](https://blog.nootch.net/post/event-sourcing-with-elixir-part-3/)
@@ -3615,6 +3636,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Event-Driven Architectures - Jay Kreps](https://www.youtube.com/watch?v=Y0Bry5PyrrU)
 * [Commit Logs in an Age of Microservices by Tim Berglund (#MeetTheExperts)](https://www.youtube.com/watch?v=bbotWkCLuF0)
 * [Kafka: The Definitive Guide - Neha Narkhede, Gwen Shapira & Todd Palino (Confluent)](https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf)
+* [Apache Kafka as an Event Store - Guido Schmutz (Kafka Summit NYC 2019)](https://www.confluent.io/kafka-summit-ny19/Kafka-as-an-event-store)
 * [The Present and Future of the Streaming Platform - Neha Narkhede (Kafka Summit London 2018)](https://www.youtube.com/watch?v=eublKlalobg)
 * [Kafka and Event-Oriented Architecture - Jay Kreps (Kafka Summit SF 2018)](https://www.youtube.com/watch?v=HeNegOzjnJY)
 * [The Log: What every software engineer should know about real-time data's unifying abstraction - Jay Kreps](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
@@ -3780,6 +3802,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - VIDEOS
 
+* [Kafka Summit New York 2019](https://www.confluent.io/resources/kafka-summit-new-york-2019/)
 * [Kafka Summit London 2018](https://www.youtube.com/playlist?list=PLa7VYi0yPIH3HslCSEqWxsgr0kKcVRGkk)
 * [Kafka Summit San Francisco 2017](https://www.confluent.io/kafka-summit-sf17/resource/)
 
@@ -5836,6 +5859,7 @@ Peter R. Egli:
 ## SECURITY
 
 * [Frank Abagnale: "Catch Me If You Can" | Talks at Google](https://www.youtube.com/watch?v=vsMydMDi3rI)
+* [The Thoughtbot Guide to Application Security - Mike Burns](https://github.com/thoughtbot/guides/blob/master/security/application.md)
 * [Awesome Hacking: A collection of awesome lists for hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hackin://github.com/Hack-with-Github/Awesome-Hacking)
 * [BadSSL.com - See how your browser behaves when SSL is incorrectly configured](https://badssl.com/)
 * [Computer Systems Security - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
