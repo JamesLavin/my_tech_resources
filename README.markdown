@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](#erlang) | [Event sourcing](#event-sourcing-cqrs-ddd--microservices) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Kafka](#event-sourcing-cqrs-ddd--microservices---kafka) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python), [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](#erlang) | [Entrepreneurship](#business---entrepreneurship) | [Event sourcing](#event-sourcing-cqrs-ddd--microservices) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Kafka](#event-sourcing-cqrs-ddd--microservices---kafka) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python), [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## ALGORITHMS
 
@@ -655,6 +655,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Cortex - CGP Grey & Myke Hurley](https://www.relay.fm/cortex)
 * [DealMakers - Alejandro Cremades](https://itunes.apple.com/us/podcast/dealmakers/id1439149348?mt=2)
 * [Dingman Bootstrapped](https://www.rhsmith.umd.edu/centers-excellence/dingman-center-entrepreneurship/news-events/podcast)
+* [Founder Quest Podcast](https://www.founderquestpodcast.com/)
 * [Founders Talk](https://changelog.com/founderstalk)
 * [Foundr - Nathan Chan](https://foundr.com/podcast-with-nathan-chan/)
 * [The Full Ratchet - Nick Moran](https://itunes.apple.com/us/podcast/full-ratchet-vc-venture-capital-angel-investors-startup/id888084300?mt=2)
@@ -1713,6 +1714,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### DEVOPS - GOOGLE CLOUD - KUBERNETES
 
 * [Kubernetes Engine](https://cloud.google.com/kubernetes-engine/) | [Docs](https://cloud.google.com/kubernetes-engine/docs/)
+* [Starting with Kubernetes Engine: Developer-friendly Deployment Strategies (Cloud Next '18)](https://www.youtube.com/watch?v=2ZP4M6UdH8s)
 * [Cloud Next '18 videos](https://www.youtube.com/results?search_query=kubernetes+cloudnext+2018)
 * [Using Google-managed SSL certificates](https://cloud.google.com/kubernetes-engine/docs/how-to/managed-certs)
 * [Continuous Delivery Pipelines with Spinnaker and Google Kubernetes Engine](https://cloud.google.com/solutions/continuous-delivery-spinnaker-kubernetes-engin://cloud.google.com/solutions/continuous-delivery-spinnaker-kubernetes-engine)
@@ -2010,6 +2012,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### DEVOPS - KUBERNETES - NETWORKING
 
 * [Deep dive into Kubernetes networking - Sreenivas Makam (Container Conference 2018)](https://www.youtube.com/watch?v=NUt9VVG_gac)
+* [Organizing Kubernetes with Namespaces - Sandeep Dinesh (Kubernetes Best Practices)](https://www.youtube.com/watch?v=xpnZX3if9Tc)
 * [Kubernetes Networking Master Class (Rancher Labs)]https://www.youtube.com/watch?v=GXq3FS8M_kw)
 * [Leveraging Kubernetes Services & DNS - Christopher Liljenstolpe](https://www.youtube.com/watch?v=VR8ep5Wf_MA)
 
@@ -2063,7 +2066,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### DEVOPS - KUBERNETES - SKAFFOLD
 
-* [Skaffold: Easy and Repeatable Kubernetes Development (Github)](https://github.com/GoogleCloudPlatform/skaffold)
+* Skaffold: Easy and Repeatable Kubernetes Development: [Github](https://github.com/GoogleCloudPlatform/skaffold) | [Getting Started](https://skaffold.dev/docs/getting-started/#installing-skaffold) | [How To](https://skaffold.dev/docs/how-tos/) | [Concepts](https://skaffold.dev/docs/concepts/) | [Tutorials](https://skaffold.dev/docs/tutorials/)
 * [Skaffold: happy Kubernetes workflows - Ahmet Alp Balkan](https://ahmet.im/blog/skaffold/)
 * [Skaffold on Google Kubernetes Engine](https://github.com/GoogleCloudPlatform/skaffold/blob/master/docs/quickstart-gke.md)
 
@@ -2892,6 +2895,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Consistent, Distributed Elixir - Chris Keathley (ElixirDaze 2018)](https://www.youtube.com/watch?v=CmMMpaUD3g8)
 * [The ABCs of OTP - Jesse J Anderson (ElixirDaze 2017)](https://www.youtube.com/watch?v=8X0IWW2GJoQ) | [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir) | [resource links](https://gist.github.com/jessejanderson/16cbc0614e9194fa1b64460f775777ab)
 * Michael @ omgneering: [GenServer basics](https://www.youtube.com/watch?v=zC7TcrRi46Q) | [GenServer Callbacks and concurrency](Elixir GenServer callbacks and concurrency) | [Supervisor](https://www.youtube.com/watch?v=Gdf8JXeaPjw) | [Application (Part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM) | [Application (Part 2)](https://www.youtube.com/watch?v=rMwEQZewDyk)
+* [split_brain.ex: The challenges of building a small distributed Elixir Application - Dorian Iacobescu](https://medium.com/qixxit-development/split-brain-ex-5d5f1c19b133)
 * [To spawn, or not to spawn? - Saša Jurić](http://www.theerlangelist.com/article/spawn_or_not)
 * [Write Unbelievably Clean Concurrent Code in Elixir Using the Task Module - Percy Grunwald](https://www.toptechskills.com/elixir-phoenix-tutorials-courses/clean-concurrent-code-elixir-task-module/)
 * [High availability with Elixir and Erlang - Saša Jurić (Full Stack Fest 2016)](https://www.youtube.com/watch?v=Ba3aCm3A0o8) & [High Availability - Saša Jurić](https://www.youtube.com/watch?v=wYttHG3S76Y)
@@ -2929,6 +2933,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [vmstats: gathers metrics on the Erlang VM and sends them to a configurable sink - Fred Hebert](https://github.com/ferd/vmstats)
 * [Gathering metrics in Elixir applications - Andrea Leopardi](http://tech.footballaddicts.com/blog/gathering-metrics-in-elixir-applications)
 * [The Elixir Bottleneck - Dorian Iacobescu](http://iacobson.net/the-elixir-bottleneck/)
+
+#### ELIXIR - PERFORMANCE - BENCHEE
+
+* [Revisiting “Tail Call Optimization in Elixir & Erlang” with Benchee 1.0 - Tobi ("PragTob")](https://pragtob.wordpress.com/2019/04/08/revisiting-tail-call-optimization-in-elixir-erlang-with-benchee-1-0/)
 
 ### ELIXIR - PHOENIX
 
@@ -3030,6 +3038,8 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### ELIXIR - PHOENIX - LIVE VIEW
 
+* [Phoenix LiveView - Interactive, Real TIme Apps - No need to write Javascript - Chris McCord (ElixirConf EU 2019)](https://www.youtube.com/watch?v=8xJzHq8ru0M)
+* [Talking to the LiveView: Updating the Phoenix LiveViews from outside the process - Dorian Iacobescu](https://medium.com/@iacobson/talking-to-the-liveview-7a19f7e45522)
 * [Flappy Phoenix - Richard Taylor](https://www.richt.co.uk/til/flappy-phoenix-live-view/)
 * [Phoenix Live View Example - Chris McCord](https://github.com/chrismccord/phoenix_live_view_example)
 * [Phoenix LiveView: Interactive, Real-Time Apps. No Need to Write JavaScript - Chris McCord](https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript)
@@ -5371,6 +5381,7 @@ Peter R. Egli:
 * [Turing-Incomplete](http://turing.cool/)
 * [Upgrade](https://www.relay.fm/upgrade)
 * [The Web Ahead](http://5by5.tv/webahead)
+* [Weird Trick Mafia](https://weirdtrickmafia.fm/)
 * [Your System Called: A Threat Stack Podcast](http://threatstack.libsyn.com/)
 
 ### PROGRAMMING - STREAM PROCESSING

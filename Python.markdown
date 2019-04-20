@@ -375,6 +375,10 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 * [Algorithmic Trading with Zipline - Thomas Wiecki](https://www.youtube.com/watch?v=Qva7uxmOZuA)
 * [Zipline - algorithmic trading library](https://github.com/quantopian/zipline) & [docs](http://zipline.readthedocs.org/en/latest/)
 
+### PYTHON - FLASK
+
+* [Flask Tutorials - RealPython.com](https://realpython.com/tutorials/flask/)
+
 ### PYTHON - FUNCTIONAL PROGRAMMING
 
 * [Functional Programming in Python - Daniel Kirsch (PyData Berlin 2016)](https://www.youtube.com/watch?v=r2eZ7lhqzNE)
