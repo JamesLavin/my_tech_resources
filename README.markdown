@@ -548,6 +548,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Indie Hackers](https://www.indiehackers.com/)
 * [Thoughtbot](https://thoughtbot.com/resources)
 * [7 Classic Startup Founder Mistakes (And How To Avoid Them) - Kathryn Minshew](https://www.youtube.com/watch?v=eChOUVm9fTA)
+* [Talks From Entrepreneurs - 99U](https://www.youtube.com/playlist?list=PLPkq59We34mv3xqHJXevrNxUB-V2hPCi5)
 * [How to Future-Proof Your Career - Dorie Clark (TEDxLugano)](https://www.youtube.com/watch?v=l6leLPN8ipI)
 * [20 Ways to Blow Up Your Company - Jason Mendelson](https://www.youtube.com/watch?v=I8zHfCqz9qY)
 * [13 Reasons My Startup FAILED - Russell Keith-Magee (Djangocon.us 2017)](https://www.youtube.com/watch?v=OOTThZReAdA)
@@ -640,9 +641,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ##### BUSINESS - ENTREPRENEURSHIP - FINANCING - CROWDFUNDING INFO
 
+* [Kickstarter, IndieGoGo and Best Practices for Crowdfunding - Co Media](https://www.youtube.com/watch?v=Tw9ZpiTIqd0)
 * [Equity Crowdfunding Explained: Jargon Free - Entrepreneur](https://www.youtube.com/watch?v=5f_v___rceA)
+* Salvador Briggman: [Equity Crowdfunding Explained](https://www.youtube.com/watch?v=0Ml1uG9o4IE) | [Dos and Don't of Crowdfunding on Kickstarter and Indiegogo](https://www.youtube.com/watch?v=eHPmRa9v8Bw) | [Kickstarter vs. Indiegogo](https://www.youtube.com/watch?v=h5g1Y72qyFM)
 * [Investment Crowdfunding 101 (also known as Equity Crowdfunding) - Eazl.co](https://www.youtube.com/watch?v=R7YxdukRlNE)
 * [CrowdFund.co](http://crowdfund.co/blog/)
+* [Exceeding Your Funding Goal on Kickstarter, the Basics - Thomas Kineshanko](https://www.youtube.com/watch?v=zJlaxECK8bI)
 
 #### BUSINESS - ENTREPRENEURSHIP - PODCASTS
 
@@ -1820,6 +1824,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### DEVOPS - ISTIO - MULTICLUSTER
 
 * [Multicluster](https://istio.io/docs/setup/kubernetes/multicluster-install/)
+* [To Multicluster, or Not to Multicluster: Inter-Cluster Communication Using a Service Mesh - Andrew Jenkins](https://www.infoq.com/articles/kubernetes-multicluster-comms)
 
 #### DEVOPS - ISTIO - ROUTING
 
@@ -1853,6 +1858,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - JAEGER
 
+* [Jaeger Operator for Kubernetes](https://github.com/jaegertracing/jaeger-operator)
 * [Getting started with Jaeger to build an Istio service mesh - Daniel Oh](https://opensource.com/article/19/3/getting-started-jaeger)
 
 #### DEVOPS - KUBERNETES - ARGO
@@ -2445,6 +2451,9 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Algae: Bootstrapped algebraic data types](https://github.com/expede/algae)
 * [Witchcraft: library providing common algebraic & categorical abstractions (monoids, functors, monads, arrows, & categories)](https://github.com/expede/witchcraft)
+* [Keynote: Brooklyn Zelenka - EMPEX NYC 2018](https://www.youtube.com/watch?v=DZEs8_QiC8Q)
+* [Bridging the Divide A Philosophy of Library Design - Brooklyn Zalenka (Lambda Days 2019)](https://www.youtube.com/watch?v=fxe5NzHDxpk)
+* [Witchcraft: Monads for the Working Alchemist - Brooklyn Zalenka (Elixir.LDN 2017)](https://www.youtube.com/watch?v=psdG5iV57q0)
 
 ### ELIXIR - ATLAS
 
@@ -2730,6 +2739,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - ETS
 
+* [Leveraging ETS Effectively - Evadne Wu (ElixirConf EU 2019)](https://www.youtube.com/watch?v=8mXqxBBvNdk)
 * [Taming :ets for High-Performance Software - Mike Binns](https://dockyard.com/blog/2019/03/07/taming-ets-for-high-performance-software) | [ets (Github)](https://github.com/TheFirstAvenger/ets) | [ets (Hex.pm)](https://hex.pm/packages/ets)
 * [An Introduction to ETS Tables in Elixir - Ilya Bodrov](https://code.tutsplus.com/articles/ets-tables-in-elixir--cms-29526<Paste>)
 * [Optimizing Your Elixir and Phoenix projects with ETS - Chris McCord](https://dockyard.com/blog/2017/05/19/optimizing-elixir-and-phoenix-with-ets)
@@ -2739,7 +2749,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Awesome Elixir and CQRS](https://github.com/slashdotdash/awesome-elixir-cqrs)
 * [FAQ on DDD, CQRS & Event Sourcing - CQRS.nu](http://cqrs.nu/Faq)
 * [CQRS and Event Sourcing - Bernardo Amorim (Code Beam SF 2018)](https://www.youtube.com/watch?v=S3f6sAXa3-c)
-* Event Sourcing With Elixir - Bruno Antunes: [Part 0](https://blog.nootch.net/post/event-sourcing-with-elixir/) [Part 1](https://blog.nootch.net/post/event-sourcing-with-elixir-part-1#getting-started) | [Part 2](https://blog.nootch.net/post/event-sourcing-with-elixir-part-2/) | [Part 3](https://blog.nootch.net/post/event-sourcing-with-elixir-part-3/)
+* Event Sourcing With Elixir - Bruno Antunes: [Part 0](https://blog.nootch.net/post/event-sourcing-with-elixir/) [Part 1](https://blog.nootch.net/post/event-sourcing-with-elixir-part-1#getting-started) | [Part 2](https://blog.nootch.net/post/event-sourcing-with-elixir-part-2/) | [Part 3](https://blog.nootch.net/post/event-sourcing-with-elixir-part-3/) | [Part 4](https://blog.nootch.net/post/event-sourcing-with-elixir-part-4/)
 * [Building CQRS/ES web applications in Elixir using Phoenix - Ben Smith](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/) | [Building a CQRS/ES web application in Elixir using Phoenix](https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/) | [PDF](https://10consulting.com/presentations/2017-03-23-building-cqrs-web-applications-in-elixir.pdf)
 * [event_bus: Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS - Mustafa Turan](https://github.com/otobus/event_bus) & [event_bus_postgres: Postgres event store for event_bus](https://github.com/otobus/event_bus_postgres)
 * [Pachyderm - an elephant never forgets - Peter Saxton](https://github.com/CrowdHailer/event-sourcing.elixir)
@@ -2771,6 +2781,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### ELIXIR - EVENT SOURCING/CQRS - SEVEN OTTERS
 
 * Seven Otters: CQRS/ES library and facilities for Elixir to build events-oriented applications: [SevenOtters.org](https://www.sevenotters.org/) | [Github](https://github.com/sevenotters) | [Getting Started](https://hexdocs.pm/seven/getting_started.html) | [Blog](https://www.sevenotters.org/allposts)
+
+### ELIXIR - EXCEPTIONS
+
+* [Exceptional: Staying on the Happy Path - Brooklyn Zalenka (The Big Elixir 2018)](https://www.youtube.com/watch?v=NyowGgUzfno)
 
 ### ELIXIR - EXDOC
 
@@ -3147,6 +3161,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [scenic](https://github.com/boydm/scenic) | [scenic.new](https://github.com/boydm/scenic_new)
 * [Introducing Scenic A Functional UI Framework - Boyd Multerer (ElixirConf 2018)](https://www.youtube.com/watch?v=1QNxLNMq3Uw)
+* [Live coding an Escher painting using Scenic - Ju Liu (ElixirConf EU 2019)](https://www.youtube.com/watch?v=sV5ValgY4ck)
 * [Getting started with Scenic in Elixir: Crafting a simple snake game - Giancarlo França](https://medium.com/@giandr/elixir-scenic-snake-game-b8616b1d7ee0) & [code on Github](https://github.com/gVirtu/scenic-snake)
 
 ### ELIXIR - SECURITY
@@ -3184,6 +3199,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### ELIXIR - PROPERTY-BASED TESTING
 
 * [StreamData: Elixir library for data generation and property-based testing - Andrea Leopardi](https://github.com/whatyouhide/stream_data)
+* [Introduction to stateful property based testing - Tomasz Kowal (Lambda Days 19)](https://www.youtube.com/watch?v=owHmYA52SIM)
 * [Quixir: Property-based testing for Elixir - Dave Thomas](https://github.com/pragdave/quixir)
 * [Propcheck: Property-based testinf for Elixir - Klaus Alfert](https://github.com/alfert/propcheck)
 * [Property-Based Testing - Exploring Elixir](https://www.youtube.com/watch?v=PLSYM7ada0o)
@@ -3231,14 +3247,13 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - VIDEOS
 
+* ElixirConf: [2019 EU](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtoiQC735NjHyPJUS_nmrxy) | [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * Lonestar ElixirConf: [2019](https://www.youtube.com/playlist?list=PLGqeEOaC5KsRisF-GUlgJh35EowwzMYoS) | [2018](https://www.youtube.com/playlist?list=PLGqeEOaC5KsQt7r8KCOzfDgcqsvy_-hCN) | [2017](http://confreaks.tv/events/lonestarelixir2017)
 * EMPEX: [2019 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapyHWNFBapGOz40efbJuwmx2) | [2018 NYC](https://www.youtube.com/playlist?list=PLyO-58-sOapw81dCfjDrX5TuYxS5S8qMq) | [2018 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapy9Fs4Sd-HOeQIFwrSCQ3z1) | [2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS) | [2016](https://www.youtube.com/playlist?list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
+* Code BEAM: [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Munich 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztyk61upvBMvVPbfTyfFgCE) | [Berlin 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs6eFJ9yx-jR7UShGGfPnY4) | [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
 * The Big Elixir: [2018](https://www.youtube.com/channel/UCInJUDVff2bzZSrkDRUCOdA)
 * Code Elixir LDN: [2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zu4zxnZXtCSOCvsUHtxTYIl) | [2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h8_H-hZKYjNLTl3UraSyQ7) | [2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ivlIjzcaHS9N_Swe_0hWj0)
 * [EveryElixirVideo.page](https://everyelixirvideo.page/)
-* ElixirConf: [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
-* EMPEX: [2018 NYC](https://www.youtube.com/playlist?list=PLyO-58-sOapw81dCfjDrX5TuYxS5S8qMq) | [2018 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapy9Fs4Sd-HOeQIFwrSCQ3z1) | [2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS) | [2016](https://www.youtube.com/playlist?list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
-* Code BEAM: [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Munich 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztyk61upvBMvVPbfTyfFgCE) | [Berlin 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs6eFJ9yx-jR7UShGGfPnY4) | [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
 * ElixirDaze: [2018 (Youtube)](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYH_aU7H-ExE2jrA-60qxH3) | [2018 (Confreaks)](http://confreaks.tv/events/elixirdaze2018) | [2017](http://confreaks.tv/events/elixirdaze2017) | [2016 (Youtube)](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH) | [2016 (Confreaks)](http://confreaks.tv/events/elixirdaze2016)
 * [Erlang Solutions Webinars](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jN8cLhwLg7frCx6fJ-GPwM)
 * [Erlang & Elixir Factory SF 2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jtviHbf3fbBRWcaGDBC2u0)
@@ -3503,6 +3518,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ## EVENT SOURCING, CQRS, DDD, & MICROSERVICES
 
+* Journey to Event Driven - Neil Avery: [Part 1: Why Event-First Thinking Changes Everything](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything) | [Part 2: Programming Models for the Event-Driven Architecture](https://www.confluent.io/blog/journey-to-event-driven-part-2-programming-models-event-driven-architecture)
 * How Events Are Reshaping Modern Systems - Jonas Bonér: [(ReactiveConf 2017)](https://www.youtube.com/watch?v=ycxvmOKDHMQ&t=1s) | [(Devoxx Belgium 2017)](https://www.youtube.com/watch?v=3V3pHm2Cpks)
 * [Design Microservice Architectures the Right Way - Michael Bryzek](https://www.infoq.com/presentations/microservices-arch-infrastructure-cd)
 * [Building Event Driven Services with Apache Kafka and Kafka Streams - Ben Stopford (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=p9wcx3aTjuo)
@@ -4063,6 +4079,11 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [FPCasts.com: list of FP podcasts](https://www.fpcasts.com/)
 * [FunctionalGeekery.com](https://www.functionalgeekery.com)
 * LambdaCast: [SoundCloud](https://soundcloud.com/lambda-cast) & [iTunes](https://itunes.apple.com/us/podcast/lambdacast/id1133087254?mt=2)
+
+### FUNCTIONAL PROGRAMMING - TYPES
+
+* [Type theory in practice - Gabriel Habryn (Lambda Days 19)](https://www.youtube.com/watch?v=aW6ZVQwbuak)
+* [Why Type Theory Matters - Thorsten Altenkirch (Lambda Days 2019)](https://www.youtube.com/watch?v=DllYOFw5Qio)
 
 ### FUNCTIONAL PROGRAMMING - VIDEOS
 
@@ -5029,6 +5050,11 @@ Peter R. Egli:
 
 * [Building a real time analytics API at scale - Sylvain Friquet (PostgresOpen 2018)](https://www.youtube.com/watch?v=wJOCaNE2_C0)
 
+#### POSTGRESQL - KUBERNETES
+
+* [Kubernetes PostgreSQL Operator - CrunchyData](https://github.com/CrunchyData/postgres-operator)
+* [Kubernetes PostgreSQL Operator - Zalando](https://github.com/zalando/postgres-operator)
+
 ### POSTGRESQL - JSON / JSONB
 
 * [Using JSON in PostgreSQL - Andrew Dunstan (PostgresOpen SV 2018)](https://www.youtube.com/watch?v=tMT16q9pqp0)
@@ -5079,6 +5105,8 @@ Peter R. Egli:
 
 * [Privacy-friendly alternatives to Google that don't track you](https://nomoregoogle.com/)
 * [How To Protect Your Users With The Privacy By Design Framework - Heather Burns](https://www.smashingmagazine.com/2017/07/privacy-by-design-framework/)
+* [Keynote - Users' privacy is in your hands! - Katarzyna Szymielewicz (Lambda Days 2019)](https://www.youtube.com/watch?v=SHeGxMED6Ww)
+* [Recommender Systems and their Ethical Challenges - Silvia Milano, Mariarosaria Taddeo, Luciano Floridi](https://philarchive.org/archive/MILRSA-3)
 
 ### PRIVACY - GDPR
 
@@ -5172,6 +5200,7 @@ Peter R. Egli:
 * [The Actor Model in 10 Minutes - Brian Storti](https://www.brianstorti.com/the-actor-model/)
 * [Get to know the Actor Model - Roberto Dip](https://dev.to/roperzh/get-to-know-the-actor-model)
 * [Thinking in actors - Saša Jurić (WebCamp Zagreb 2014)](https://www.youtube.com/watch?v=g5JJZuxrW_k)
+* [FP Design Patterns in Micro-Service Inter-Process Communication - Viačeslav Pozdniakov (Lambda Days 19)](https://www.youtube.com/watch?v=55hS8GPRqlc)
 * [Hewitt, Meijer and Szyperski: The Actor Model (everything you wanted to know...)](https://www.youtube.com/watch?v=7erJ1DV_Tlo)
 
 ### PROGRAMMING - BOOKS
@@ -5216,6 +5245,10 @@ Peter R. Egli:
 * [Code Review in Remote Teams - Sean Hammond](https://www.seanh.cc/posts/code-review)
 * [The Science of Code Reviews - Rich Kuipers (Dutch PHP Conference in 2018)](https://www.youtube.com/watch?v=EyL7mqwpZhk)
 * [Goldilocks And The Three Code Reviews - Vaidehi Joshi (RailsConf 2017)](http://confreaks.tv/videos/railsconf2017-goldilocks-and-the-three-code-reviews)
+
+#### PROGRAMMING - CODE REVIEWS - AUTOMATED
+
+* [Pronto: Quick automated code review of your changes](https://github.com/prontolabs/pronto)
 
 ### PROGRAMMING - CONCURRENCY
 
@@ -5969,6 +6002,7 @@ Peter R. Egli:
 
 * [Jenkins User Handbook (PDF)](https://jenkins.io/user-handbook.pdf)
 * [Jenkins Tutorial (PDF) - TutorialsPoint.com](https://www.tutorialspoint.com/jenkins/jenkins_tutorial.pdf)
+* [Jenkins Kubernetes Operator](https://github.com/jenkinsci/kubernetes-operator)
 * [Helm Chart](https://hub.kubeapps.com/charts/stable/jenkins)
 * [Continuously delivering apps to Kubernetes using Helm (Adnan Abdulhussein - Bitnami)](https://www.youtube.com/watch?v=CmPK93hg5w8)
 * [Jenkins User Conference London 2015](http://confreaks.tv/events/jenkinsconflondon2015)
