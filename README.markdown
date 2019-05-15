@@ -1768,6 +1768,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Istio: Open Platform to Connect, Manage, and Secure Microservices](https://istio.io/) | [Github](https://github.com/istio/istio) | [Twitter](https://twitter.com/IstioMesh)
 * [The Future is Istio - Jason Smith (GOTO 2018)]https://www.youtube.com/watch?v=sTqISgCgd9M()
+* [Tutorial: Using Istio - Lee Calcote & Girish Ranganathan (KubeCon + CloudNativeCon 2018)](https://www.youtube.com/watch?v=jlHLZqS7Vek)
 * [Distributed Microservices Metrics and Tracing with Istio and OpenCensus – Sandeep Dinesh (GDG DevFest Ukraine 2018)](https://www.youtube.com/watch?v=1wWfVqYb-5Y)
 * Ray Tsang: [Reducing Microservices Architecture Complexity with Istio & Kubernetes (SpringOne Platform 2018)](https://www.youtube.com/watch?v=k42jqkjtYKY) & [Making Microservices Micro With Istio & Kubernetes](https://www.youtube.com/watch?v=4x79RfMaOyo)
 * [Life of a Packet Through Istio - Matt Turner (Devoxx Belgium 2018)](https://www.youtube.com/watch?v=cB611FtjHcQ)
@@ -1966,13 +1967,6 @@ See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 * [Vault](https://hub.kubeapps.com/charts/incubator/vault)
 * [Zeppelin](https://hub.kubeapps.com/charts/stable/zeppelin)
 
-##### DEVOPS - KUBERNETES - HELM - KUSTOMIZE (NOW PART OF KUBECTL)
-
-* Kustomize: [Github](https://github.com/kubernetes-sigs/kustomize/) | [Kustomize.io](https://kustomize.io/)
-* [Kustomize: Deploy Your App with Template Free YAML - Ryan Cox, Lyft](https://www.youtube.com/watch?v=ahMIBxufNR0)
-* [TGI Kubernetes 072: Kustomize and friends - Joe Beda](https://www.youtube.com/watch?v=NFnpUlt0IuM)
-* [Kustomize: Kubernetes Configuration Customization - Jeff Regan (K8s, Kustomize & Ship SF Meetup)](https://www.youtube.com/watch?v=WWJDbHo-OeY)
-
 ##### DEVOPS - KUBERNETES - HELM - MONOCULAR
 
 * [Monocular: Search-and-discovery UI for helm chart repos  (Github)](https://github.com/helm/monocular)
@@ -1997,11 +1991,21 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### DEVOPS - KUBERNETES - KUBECTL
 
 * kubectl: [Cheatsheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/) | [Overview](https://kubernetes.io/docs/user-guide/kubectl-overview/)
+* App management docs: [Apply](https://kubectl.docs.kubernetes.io/pages/app_management/apply.html) | [Secrets & Configmaps](https://kubectl.docs.kubernetes.io/pages/app_management/secrets_and_configmaps.html) | [Container Images](https://kubectl.docs.kubernetes.io/pages/app_management/container_images.html) | [Namespaces & Names](https://kubectl.docs.kubernetes.io/pages/app_management/namespaces_and_names.html) | [Labels & Annotations](https://kubectl.docs.kubernetes.io/pages/app_management/labels_and_annotations.html) | [Field merge semantics](https://kubectl.docs.kubernetes.io/pages/app_management/field_merge_semantics.html)
+* Resource printing: [Summarizing Resources](https://kubectl.docs.kubernetes.io/pages/resource_printing/summaries.html) | [JSON or Yaml](https://kubectl.docs.kubernetes.io/pages/resource_printing/raw.html) | [Fields](https://kubectl.docs.kubernetes.io/pages/resource_printing/fields.html) | [Describe](https://kubectl.docs.kubernetes.io/pages/resource_printing/describe.html)
 * [Boosting your kubectl productivity - Daniel Weibel](https://learnk8s.io/blog/kubectl-productivity/)
 
 #### DEVOPS - KUBERNETES - KUBECTX
 
 * [kubectx - Switch between Kubernetes contexts/namespaces](https://github.com/ahmetb/kubectx)
+
+#### DEVOPS - KUBERNETES - KUSTOMIZE (NOW PART OF KUBECTL)
+
+* Kustomize: [Github](https://github.com/kubernetes-sigs/kustomize/) | [Kustomize.io](https://kustomize.io/) | [Workflows](https://github.com/kubernetes-sigs/kustomize/blob/master/docs/workflows.md) | [Glossary](https://github.com/kubernetes-sigs/kustomize/blob/master/docs/glossary.md) | [JSON patches](https://github.com/kubernetes-sigs/kustomize/blob/master/examples/jsonpatch.md) | [Annotated examples](https://raw.githubusercontent.com/kubernetes-sigs/kustomize/master/docs/kustomization.yaml)
+* Mithil Shah: [Kubernetes Kustomize – YAML Configuration Management](http://www.studytrails.com/devops/kubernetes/kubernetes-kustomize-yaml-configuration-management/) & [Kubernetes Kustomize for Multiple Environments](http://www.studytrails.com/devops/kubernetes/kubernetes-kustomize-for-multiple-environments/)
+* [Kustomize: Deploy Your App with Template Free YAML - Ryan Cox, Lyft](https://www.youtube.com/watch?v=ahMIBxufNR0)
+* [TGI Kubernetes 072: Kustomize and friends - Joe Beda](https://www.youtube.com/watch?v=NFnpUlt0IuM)
+* [Kustomize: Kubernetes Configuration Customization - Jeff Regan (K8s, Kustomize & Ship SF Meetup)](https://www.youtube.com/watch?v=WWJDbHo-OeY)
 
 #### DEVOPS - KUBERNETES - LOGGING
 
@@ -2036,6 +2040,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### DEVOPS - KUBERNETES - PERSISTENT VOLUMES
 
+* [Using EBS and EFS as Persistent Volume in Kubernetes - Samson Gunalan](https://containerjournal.com/2019/04/08/using-ebs-and-efs-as-persistent-volume-in-kubernetes/)
 * [Resizing Persistent Volumes using Kubernetes - Hemant Kumar](https://kubernetes.io/blog/2018/07/12/resizing-persistent-volumes-using-kubernetes/)
 
 #### DEVOPS - KUBERNETES - PODCASTS
@@ -2045,7 +2050,9 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### DEVOPS - KUBERNETES - ROLE-BASED ACCESS CONTROL (RBAC)
 
+* [Kubernetes Identity Management: Authentication - Marc Boorshtein](https://www.linuxjournal.com/content/kubernetes-identity-management-authentication)
 * [Role Based Access Control (RBAC) with Kubernetes - School of DevOps](https://www.youtube.com/watch?v=BLktpM--0jA)
+* [Effective RBAC - Jordan Liggitt (KubeCon + CloudNativeCon North America 2017)](https://www.youtube.com/watch?v=Nw1ymxcLIDI)
 * [Role-based access control (RBAC) policies in Kubernetes (CNCF)](https://www.youtube.com/watch?v=CnHTCTP8d48)
 * [Configure RBAC In Your Kubernetes Cluster - Bitnami](https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/)
 * [User Authentication and Authorization in Kubernetes - Neependra Khare](https://www.youtube.com/watch?v=2wyUQ_5eHxI)
@@ -2133,6 +2140,14 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Chef-logstash](https://github.com/lusis/chef-logstash)
 * [Logstash Google Forum](https://groups.google.com/forum/?fromgroups#%21forum/logstash-users)
 * [Logstash Freenode IRC](http://irc.lc/freenode/logstash/t4nk@@@)
+
+### DEVOPS - OPEN POLICY AGENT (OPA)
+
+* [Authorization in Micro Services World Kubernetes, ISTIO and Open Policy Agent (AppSecCali 2019)](https://www.youtube.com/watch?v=UnXjwCWgBKU)
+* [TGI Kubernetes 071: Exploring the Open Policy Agent (OPA) - Joe Beda](https://www.youtube.com/watch?v=QU9BGPf0hBw)
+* [Intro: Open Policy Agent - Torin Sandall (KubeCon & CloudNativeCon North America 2018)](https://www.youtube.com/watch?v=CDDsjMOtJ-c)
+* [Deep Dive: Open Policy Agent - Torin Sandall (KubeCon & CloudNativeCon North America 2018)](https://www.youtube.com/watch?v=Vdy26oA3py8)
+* [How Netflix Is Solving Authorization Across Their Cloud [I] - Manish Mehta & Torin Sandall](https://www.youtube.com/watch?v=R6tUNpRpdnY)
 
 ### DEVOPS - NEWS
 
@@ -2359,6 +2374,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [From Zero to Hero in Elixir - LittleAlchemist.io](https://www.youtube.com/playlist?list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp)
 * [Elixir Tutorial - Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumAgKjSPyFtvYjP5LqgzafQq)
 * [Alchemist Camp](https://alchemist.camp/episodes)
+* [Killer Elixir-Tips - extips.blackode.in](https://extips.blackode.in/)
 * Elixir Examples: [Categorized](https://elixir-examples.github.io/) | [Single page](https://elixir-examples.github.io/single-page)
 * [Exercism.io Elixir](http://exercism.io/languages/elixir)
 * [Elixir Koans](http://elixirkoans.io/)
@@ -2597,6 +2613,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ##### ELIXIR - DEPLOYMENT - CLUSTERING - LIBCLUSTER
 
 * Libcluster - Paul Schoenfelder: [Github](https://github.com/bitwalker/libcluster) | [Docs](https://hexdocs.pm/libcluster/readme.html)
+* [ExCluster: Clustered Elixir OTP application on Kubernetes with Horde and LibCluster - Dollar Shave Club](https://github.com/dollarshaveclub/ex_cluster)
 * [Connecting Elixir Nodes with libcluster, locally and on Kubernetes - Alvise Susmel](https://www.poeticoding.com/connecting-elixir-nodes-with-libcluster-locally-and-on-kubernetes/)
 * [Cluster.Strategy.Kubernetes](https://hexdocs.pm/libcluster/Cluster.Strategy.Kubernetes.html)
 * [ClusterConsul.Strategy](https://github.com/arcz/libcluster_consul)
@@ -2619,6 +2636,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * Distillery: [Github](https://github.com/bitwalker/distillery) | [Documentation](https://hexdocs.pm/distillery/getting-started.html)
 * [Elixir: Runtime vs. compile time configuration - Hubert Łępicki](https://www.amberbit.com/blog/2018/9/27/elixir-runtime-vs-compile-time-configuration/)
+* [Be Careful When Using Elixir’s Module Attributes - Chad Jablonski](https://ropig.com/blog/be-careful-when-using-elixirs-module-attributes/)
 * How to perform Hot Code Swapping in Elixir - Blackode: [#1](https://medium.com/blackode/how-to-perform-hot-code-swapping-in-elixir-afc824860012) | [#2 — A (Live Demo) GenServer State update](https://medium.com/@blackode/how-to-perform-hot-code-swapping-using-distillery-2-a-live-demo-genserver-state-update-53d8344d9147)
 * [Elixir/Phoenix deployments using Distillery - Yuva](http://crypt.codemancers.com/posts/2016-10-06-elixir-phoenix-distillery/)
 * Pete Corey: [Deploying Elixir Applications With Distillery](http://www.east5th.co/blog/2016/12/26/deploying-elixir-applications-with-distillery/) | [Upgrade Releases With Distillery](http://www.east5th.co/blog/2017/01/09/upgrade-releases-with-distillery/) | [Simplifying Elixir Releases With eDeliver](http://www.east5th.co/blog/2017/01/16/simplifying-elixir-releases-with-edeliver/) | [Upgrade Releases With eDeliver](http://www.east5th.co/blog/2017/01/23/upgrade-releases-with-edeliver/)
@@ -2834,6 +2852,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [A shot of Absinthe: from zero to GraphQL in 40 minutes - Sam Davies (Code Elixir LDN 2018)](https://www.youtube.com/watch?v=IJJQvJRoXy8)
 * [AmberCasts #4: Getting started with GraphQL, Elixir & Absinthe - AmberBit](https://www.youtube.com/watch?v=RF6BSMczt2Q) (Warning: Has some nearly unreadable text)
 * Meraj: [GraphQL with Elixir/Phoenix and Absinthe](https://itnext.io/graphql-with-elixir-phoenix-and-absinthe-6b0ffd260094) | [Authenticating Absinthe GraphQL APIs in Phoenix with Guardian](https://itnext.io/authenticating-absinthe-graphql-apis-in-phoenix-with-guardian-d647ea45a69a)
+
+### ELIXIR - HASHING
+
+* [Hashing a File in Elixir - Alvise Susmel](https://www.poeticoding.com/hashing-a-file-in-elixir/)
 
 ### ELIXIR - HEX
 
@@ -3052,11 +3074,13 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### ELIXIR - PHOENIX - LIVE VIEW
 
-* [Phoenix LiveView - Interactive, Real TIme Apps - No need to write Javascript - Chris McCord (ElixirConf EU 2019)](https://www.youtube.com/watch?v=8xJzHq8ru0M)
+* [Phoenix LiveView - Interactive, Real TIme Apps - No need to write Javascript - Chris McCord (ElixirConf EU 2019)](https://www.youtube.com/watch?v=8xJzHq8ru0M) & [Dec 2018 blog post](https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript)
 * [Talking to the LiveView: Updating the Phoenix LiveViews from outside the process - Dorian Iacobescu](https://medium.com/@iacobson/talking-to-the-liveview-7a19f7e45522)
+* [Phoenix LiveView Collection - Leandro Cesquini Pereira](https://medium.com/@leandrocesquini/phoenix-liveview-collection-8259f35ff2b0)
+* [Swapping React for Phoenix LiveView - Ed Ellson](https://medium.com/qixxit-development/swapping-react-for-phoenix-liveview-db6581f27a14)
+* [How to Create a Todo List with Phoenix LiveView - Dennis Beatty](https://dennisbeatty.com/2019/04/24/how-to-create-a-todo-list-with-phoenix-liveview.html)
 * [Flappy Phoenix - Richard Taylor](https://www.richt.co.uk/til/flappy-phoenix-live-view/)
 * [Phoenix Live View Example - Chris McCord](https://github.com/chrismccord/phoenix_live_view_example)
-* [Phoenix LiveView: Interactive, Real-Time Apps. No Need to Write JavaScript - Chris McCord](https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript)
 * [Integrating Phoenix LiveView - Live Stream - 2019-03-18](https://www.youtube.com/watch?v=FfpRBh2kWCI)
 * [Phoenix Live View Example with Todos - Scott Meade](https://github.com/smeade/phoenix_live_view_example_todos)
 * observer_live: port of observer_cli using LiveView - Dimitris Zorbas: [Live example](https://liveview.zorbash.com/) | [Github](https://github.com/zorbash/observer_live)
@@ -3094,6 +3118,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [How to do Outside-In TDD with Phoenix - Yiming Chen](https://dsdshcym.github.io/blog/2018/08/04/how-to-do-outside-in-tdd-with-phoenix/)
 * [End-to-end Testing in Elixir with Hound - Maciej Woźniak](https://semaphoreci.com/community/tutorials/end-to-end-testing-in-elixir-with-hound)
 * [Running Your Phoenix Tests Using Docker - Jason Kriss](https://blog.codeship.com/running-your-phoenix-tests-using-docker/)
+
+#### ELIXIR - PHOENIX - UPLOADS
+
+* [Step-by-Step Tutorial to Build a Phoenix App that Supports User Upload - Alvise Susmel](https://www.poeticoding.com/step-by-step-tutorial-to-build-a-phoenix-app-that-supports-user-uploads/)
 
 #### ELIXIR - PHOENIX - VIDEOS
 
@@ -3172,6 +3200,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - STREAMS
 
+* Alvise Susmel: [Elixir Streams to process large HTTP responses on the fly](https://www.poeticoding.com/elixir-streams-to-process-large-http-responses-on-the-fly/) & [Elixir Stream and large HTTP responses: processing text](https://www.poeticoding.com/elixir-stream-and-large-http-responses-processing-text/)
 * [Elixir Findings: Asynchronous Task Streams - Dino Costa](https://medium.com/@dinojoaocosta/elixir-findings-asynchronous-task-streams-7f6336227ea)
 * [Test-Driving a Stream-powered Elixir Library - Thiago Araújo Silva](https://semaphoreci.com/community/tutorials/test-driving-a-stream-powered-elixir-library)
 * [How to build Streams in Elixir easily with Stream.resource/3 Awesomeness - Benjamin Tan](http://benjamintan.io/blog/2015/02/05/how-to-build-streams-in-elixir-easily-with-stream-resource-awesomeness/)
@@ -3343,6 +3372,8 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ERLANG - BEAM
 
+* [Fantastic Voyage III: Destination BEAM - Brian Troutwine (Code BEAM SF 2019)](https://www.youtube.com/watch?v=Cri3Qqy4ptM)
+* [Digging through the garbage - Devon Estes (Code BEAM Lite Berlin 18)](https://www.youtube.com/watch?v=aqLujfzvUgM)
 * The Erlang Runtime System (a.k.a., The BEAM Book): [Github (source)](https://github.com/happi/theBeamBook) & [PDF](https://github.com/happi/theBeamBook/releases)
 * [How does fault tolerance work in Erlang? - Charlotte Lorelei Oliveira (Code BEAM Lite Munich 2018)](https://www.youtube.com/watch?v=kXphEiJ8RXQ)
 * [Hitchhiker's Tour of the BEAM - Robert Virding](https://www.youtube.com/watch?v=_Pwlvy3zz9M)
@@ -3455,6 +3486,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### ERLANG - OTP
 
 * [Essential Erlang/OTP - Garrett Smith](https://www.youtube.com/watch?v=0ZGHzI9F5YE)
+* [Pretty State Machine - Jeff Smith (Code BEAM SF 2019)](https://www.youtube.com/watch?v=KuZ_wp8W09U)
 * [gen_statem - The Tool You Never Knew You Always Wanted - Raimo Niskanen (Code BEAM SF 2018)](https://www.youtube.com/watch?v=f_jl6MR3kXQ)
 * [OTP Has Done It - Nick DeMonner (ElixirConf 2015)](https://www.youtube.com/watch?v=yBReonQlfL4)
 * [The Pooler Story: How I Learned OTP by Writing a Connection Pool - Seth Falcon (Erlang Factory SF 2013)](https://www.youtube.com/watch?v=BTuJtqvbpI8)
@@ -3549,6 +3581,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [The Many Meanings of Event-Driven Architecture - Martin Fowler (GOTO Chicago 2017)](https://www.youtube.com/watch?v=STKCRSUsyP0)
 * [CQRS and an Event Sourcing Architecture With Spring - Eugen Paraschiv (VoxxedDays Bucharest 2016)](https://www.youtube.com/watch?v=bVnjI0XOA9w)
 * [Microservices Data Patterns: CQRS & Event Sourcing - Edson Yanaga (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=eyf2Fs7GBo0)
+* [Implementing event-sourced microservices - Rafael Winterhalter (Jfokus 2019)](https://www.youtube.com/watch?v=HM9EgmxX0Ns)
 * [Migrating to Microservice Databases: From Relational Monolith to Distributed Data - Edson Yanaga (free book from O'Reilly)](http://www.oreilly.com/programming/free/files/migrating-to-microservice-databases.pdf)
 * [The Evolution of Microservices - Adrian Cockcroft (Association for Computing Machinery (ACM) 2016)](https://www.youtube.com/watch?v=Mg4Cs2K7f98)
 * [Principles Of Microservices - Sam Newman (Devoxx US 2015)](https://www.youtube.com/watch?v=PFQnNFe27kU)
@@ -3660,8 +3693,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Examples - Confluent](https://github.com/confluentinc/examples)
 * [Streaming Audio Podcast - Confluent](https://itunes.apple.com/ca/podcast/streaming-audio-a-kafka-podcast-by-confluent/id1401509765)
 * [Event-Driven Architectures - Jay Kreps](https://www.youtube.com/watch?v=Y0Bry5PyrrU)
+* [An introduction to Apache Kafka - this is Event Streaming, not just Messaging - Katherine Stanley (Jfokus 2019)](https://www.youtube.com/watch?v=Sa3Csx6zFcs)
 * [Commit Logs in an Age of Microservices by Tim Berglund (#MeetTheExperts)](https://www.youtube.com/watch?v=bbotWkCLuF0)
 * [Kafka: The Definitive Guide - Neha Narkhede, Gwen Shapira & Todd Palino (Confluent)](https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf)
+* [Embrace the Anarchy : Apache Kafka’s Role in Modern Data Architectures - Robin Moffatt](https://www.youtube.com/watch?v=bapHWhtf6fE)
+* [7 Reasons why your microservices should use Event Sourcing & CQRS - Hugh McKee (Reactive Summit 2018)](https://www.youtube.com/watch?v=wBvH7foXXUY)
 * [Apache Kafka as an Event Store - Guido Schmutz (Kafka Summit NYC 2019)](https://www.confluent.io/kafka-summit-ny19/Kafka-as-an-event-store)
 * [The Present and Future of the Streaming Platform - Neha Narkhede (Kafka Summit London 2018)](https://www.youtube.com/watch?v=eublKlalobg)
 * [Kafka and Event-Oriented Architecture - Jay Kreps (Kafka Summit SF 2018)](https://www.youtube.com/watch?v=HeNegOzjnJY)
@@ -3670,6 +3706,8 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Toward a Functional Programming Analogy for Microservices - Bobby Calderwood](https://www.confluent.io/blog/toward-functional-programming-analogy-microservices/)
 * [Is Kafka a Database? - Martin Kleppmann (Kafka Summit SF 2018)](https://www.youtube.com/watch?v=v2RJQELoM6Y)
 * Amy Boyle (NewRelic): [Using Apache Kafka for Real-Time Event Processing at New Relic](https://blog.newrelic.com/2018/03/12/apache-kafka-event-processing/) | [Effective Strategies for Kafka Topic Partitioning](https://blog.newrelic.com/2018/03/13/effective-strategies-kafka-topic-partitioning/)
+* [Goodbye history tables, hello full audit- exploring message streams & event sourcing - Michele Leroux Bustamante (NDC {Oslo} 2017)](https://www.youtube.com/watch?v=QcHJl7DNaHI)
+* [Building Event-Driven Microservices with Event Sourcing and CQRS - Lidan Hifi (NDC {Oslo} 2018)](https://www.youtube.com/watch?v=XWTrcBqXi6s)
 * [Kafkapocalypse: Monitoring Kafka Without Losing Your Mind - Ben Summer (NewRelic)](https://blog.newrelic.com/2017/12/12/new-relic-kafkapocalypse/)
 * [Publishing with Apache Kafka at The New York Times - Boerge Svingen (Confluent)](https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/)
 * [Event sourcing using Kafka - Adam Warski](https://blog.softwaremill.com/event-sourcing-using-kafka-53dfd72ad45d)
@@ -3804,6 +3842,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 * Kafka Helm Chart: [Kubeapps.com](https://hub.kubeapps.com/charts/incubator/kafka) & [Helm.sh](https://hub.helm.sh/charts/incubator/kafka) & [Github](https://github.com/helm/charts/tree/master/incubator/kafka)
 * [Kubernetes-kafka: Kafka cluster as Kubernetes StatefulSet, plain manifests and config](https://github.com/Yolean/kubernetes-kafka)
+* [Strimzi: Running Apache Kafka on Kubernetes and OpenShift - Jakub Scholz, Stanislav Knot](https://www.youtube.com/watch?v=AlU4CUuUfHA)
 * Strimzi: Kubernetes Operator for running Kafka (and OpenShift): [Github](https://github.com/strimzi/strimzi-kafka-operator) | [Strimzi.io](https://strimzi.io/) | [Minikube quickstart](https://strimzi.io/quickstarts/minikube/) | [Using Helm to Deploy the Strimzi Kafka Operator](https://strimzi.io/2018/11/01/using-helm.html)
 * [Kafka in Docker - Spotify](https://github.com/spotify/docker-kafka)
 * [Kafka-docker](https://github.com/wurstmeister/kafka-docker)
@@ -5515,6 +5554,7 @@ Peter R. Egli:
 * [The Five Colleges Guide to Statistics With R](http://www3.amherst.edu/~nhorton/FiveCollegeR.pdf)
 * [Chromebook Data Science](https://jhudatascience.org/chromebookdatascience/cbds.html)
 * [Swirl ("Statistics With Interactive R Learning")](http://swirlstats.com/students.html)
+* [Rachael's R Tutorials - Rachael Tatman](https://www.kaggle.com/rtatman/rachael-s-r-tutorials)
 * [The Undergraduate Guide to R - Trevor Martin](https://sites.google.com/site/undergraduateguidetor/manual-files)
 * [Open Courses: Free Data Science Training Courses (DataCamp.com)](https://www.datacamp.com/community/open-courses)
 * [Rabbit: Intro to R - Nicola Sturaro](http://www.quantide.com/R/r-training/r-web-books/rabbit-introduction-to-r/)
