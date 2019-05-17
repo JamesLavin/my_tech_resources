@@ -1049,6 +1049,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Data Driven NYC videos (Nov 2014)](https://www.youtube.com/channel/UCQID78IY6EOojr5RUdD47MQ/videos)
 * [Data Elixir](https://dataelixir.com/issues)
 * [Data Science Weekly](https://www.datascienceweekly.org/newsletters)
+* [Foundations of Data Science (book PDF) - Avrim Blum, John Hopcroft, and Ravindran Kannan](https://www.cs.cornell.edu/jeh/book.pdf)
 * [Kaggle.com](https://www.kaggle.com/)
 * [Movielens](https://grouplens.org/datasets/movielens/)
 * [O'Reilly Data Newsletter](https://www.oreilly.com/topics/data)
@@ -1825,7 +1826,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Istio 101 (1.0) on GKE](https://meteatamel.wordpress.com/2018/08/06/istio-101-1-0-on-gke/) | [Istio 101 (0.8.0) on GKE - Mete Atamel (Google)](https://meteatamel.wordpress.com/2018/06/07/istio-101-0-8-0-on-gke/)
 * [ProductCatalog Canary Deployment (GKE / Istio)](https://github.com/GoogleCloudPlatform/istio-samples/tree/master/istio-canary-gke)
 
-#### DEVOPS - ISTIO - Kiali
+#### DEVOPS - ISTIO - KIALI
 
 * Kiali: Service Mesh Observability: [Kiali.io](https://www.kiali.io/) | [Getting started](https://www.kiali.io/gettingstarted/) | [Docs](https://www.kiali.io/documentation/) | [API](https://www.kiali.io/api/)
 
@@ -2093,6 +2094,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### DEVOPS - KUBERNETES - TELEPRESENCE
 
 * [Telepresence: Debug your Kubernetes service locally, using your favorite debugging tools](https://www.telepresence.io/)
+
+#### DEVOPS - KUBERNETES - TILT
+
+* [Tilt.dev: manages local development instances for teams that deploy to Kubernetes](https://tilt.dev/) | [Github](https://github.com/windmilleng/tilt)
 
 #### DEVOPS - KUBERNETES - VIDEOS
 
@@ -3204,6 +3209,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - SECURITY
 
+* [Learn you some ':ssl' for much security! Bram Verburg (ElixirConfEU 2019)](https://www.youtube.com/watch?v=0jzcPnsE4nQ)
 * [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography#elixir)
 * [Securing Elixir Applications - Bram Verburg (ElixirConfEU 2016)](https://www.youtube.com/watch?v=r0DuAse9tK8) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/078/original/Bram_Verburg_-_Securing_Elixir_Applications.pdf?1462946275)
 * [Paladin: JWT-based service to service protector for Elixir umbrella apps](https://github.com/opendoor-labs/paladin)
@@ -3462,6 +3468,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### ERLANG - ERLANG ECOSYSTEM FOUNDATION
 
 * [Introducing the Erlang Ecosystem Foundation (Code BEAM SF 19)](https://www.youtube.com/watch?v=mw3KnG894Sw)
+
+### ERLANG - ERLPORT
+
+* [Using Python Trained Machine Learning Models from Phoenix (Elixir) Applications - Meraj](https://itnext.io/using-machine-learning-models-python-from-phoenix-elixir-applications-cd028e4e5f01)
 
 ### ERLANG - ETS
 
