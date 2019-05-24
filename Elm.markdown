@@ -241,7 +241,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ELM - CSS & UI - ELM-UI
 
 * Elm-UI: [Docs](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/) | [Getting started](https://elm-ui.netlify.com/documentation/getting-started/setup) | [Reference](https://elm-ui.netlify.com/reference) | [Github](https://github.com/gdotdesign/elm-ui)
-* [elm-ui: Forget CSS and enjoy creating UIs in pure Elm - Alex Korban](https://korban.net/posts/elm/2019-11-17-elm-ui-introduction/)
+* Added another thing here
 * [Building a Toolkit for Design - Matthew Griffith (elm-conf 2018)](https://www.youtube.com/watch?v=Ie-gqwSHQr0)
 * [elm-ui: Forget CSS and enjoy creating UIs in pure Elm - Alex Korban](https://korban.net/posts/elm/2019-11-17-elm-ui-introduction/)
 * [elm-ui - rock paper scissors (Dave Alger - lizard spock)](https://www.youtube.com/watch?v=fhMLEOr8C4U)
