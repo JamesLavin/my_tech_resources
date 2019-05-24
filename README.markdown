@@ -612,6 +612,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### BUSINESS - ENTREPRENEURSHIP - FINANCING
 
+* [Rewarding Talent - Index Ventures](https://www.indexventures.com/rewardingtalent/handbook/our-insight)
 * [Don’t go chasing unicorns - Aner Ben-Ami](https://blog.usejournal.com/dont-go-chasing-unicorns-2fa84d88437)
 * [A Guide to Seed Fundraising - Geoff Ralston](https://ycombinator.wpengine.com/how-to-raise-a-seed-round/)
 * [If You Take Venture Capital, You’re Forcing Your Company To Exit - Luke Kanies](https://medium.com/s/understanding-venture-capital/if-you-take-venture-capital-youre-forcing-your-company-to-exit-fc08fcdb32cc)
@@ -651,6 +652,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### BUSINESS - ENTREPRENEURSHIP - PODCASTS
 
+* [996 Podcast on Entrepreneurship in China - GGV Capital](https://996.ggvc.com/category/podcast/)
 * [Angel Invest Boston - Sal Daler](https://soundcloud.com/user-982602046)
 * [Babson Built](https://itunes.apple.com/us/podcast/babson-built/id1338241432?mt=2)
 * [Balderton Podcast - Balderton Capital](https://itunes.apple.com/us/podcast/balderton-podcast-tech-investment-venture-capital-startup/id1002344923?mt=2)
@@ -661,6 +663,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [DealMakers - Alejandro Cremades](https://itunes.apple.com/us/podcast/dealmakers/id1439149348?mt=2)
 * [Dingman Bootstrapped](https://www.rhsmith.umd.edu/centers-excellence/dingman-center-entrepreneurship/news-events/podcast)
 * [Founder Quest Podcast](https://www.founderquestpodcast.com/)
+* [Founder Real Talk - GGV Capital](https://founderrealtalk.ggvc.com/)
 * [Founders Talk](https://changelog.com/founderstalk)
 * [Foundr - Nathan Chan](https://foundr.com/podcast-with-nathan-chan/)
 * [The Full Ratchet - Nick Moran](https://itunes.apple.com/us/podcast/full-ratchet-vc-venture-capital-angel-investors-startup/id888084300?mt=2)
@@ -3203,6 +3206,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### ELIXIR - SCENIC
 
 * [scenic](https://github.com/boydm/scenic) | [scenic.new](https://github.com/boydm/scenic_new)
+* [Getting started with Scenic in Elixir — Crafting a simple snake game - Giancarlo França](https://blog.usejournal.com/elixir-scenic-snake-game-b8616b1d7ee0)
 * [Introducing Scenic A Functional UI Framework - Boyd Multerer (ElixirConf 2018)](https://www.youtube.com/watch?v=1QNxLNMq3Uw)
 * [Live coding an Escher painting using Scenic - Ju Liu (ElixirConf EU 2019)](https://www.youtube.com/watch?v=sV5ValgY4ck)
 * [Getting started with Scenic in Elixir: Crafting a simple snake game - Giancarlo França](https://medium.com/@giandr/elixir-scenic-snake-game-b8616b1d7ee0) & [code on Github](https://github.com/gVirtu/scenic-snake)
@@ -5381,6 +5385,7 @@ Peter R. Egli:
 
 ## RUST
 
+* [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 * [The Rust Programming Language, 2nd ed](https://doc.rust-lang.org/book/second-edition/index.html)
 * [Rust Tutorial: Learn How to Be Productive in Rust - Nicholas Cameron (Linux.conf.au 2018)](https://www.youtube.com/watch?v=waC2wgknY0s)
 * [Idiomatic Rust - Matthias Endler](https://www.youtube.com/watch?v=P2mooqNMxMs)
@@ -5409,6 +5414,7 @@ Peter R. Egli:
 
 ### RUST - YEW
 
+* [Yew: Rust framework for building client web apps (Github)](https://github.com/DenisKolodin/yew)
 * [Yew a Rust+WebAssembly framework for client-side web apps - Denis Kolodin (RustFest Paris 2018)](https://www.youtube.com/watch?v=qszZTwG0nZs)
 * [Rustlang Project: Todo App (Yew Framework and Web Assembly) - Tensor Programming](https://www.youtube.com/watch?v=j8EnB7gkygw)
 

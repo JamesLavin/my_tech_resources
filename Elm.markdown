@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ELM
 
-* An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [website](http://guide.elm-lang.org/architecture/index.html)
+* An Introduction to Elm - Evan Czaplicki: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/evancz/an-introduction-to-elm/details) | [Elm Guide online](https://guide.elm-lang.org) | [The Elm Architecture](https://guide.elm-lang.org/architecture/)
 * [create-elm-app: Create Elm apps with zero configuration - Eduard Kyvenko](https://github.com/halfzebra/create-elm-app)
 * [Elm Crash Course - Mario Rogic](https://www.youtube.com/watch?v=kEitFAY7Gc8)
 * [Functional Programming in Elm - Evan Czaplicki](https://www.gitbook.com/book/evancz/functional-programming-in-elm/details)
@@ -132,7 +132,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Becoming-Functional (Bill Peregoy)](https://becoming-functional.com/)
 * [Brian Hicks](https://www.brianthicks.com/)
 * [Dennis Reimann](https://dennisreimann.de/articles/elm.html)
-* [dev.to](https://dev.to/search?q=Elm)
+* dev.to: [by search](https://dev.to/search?q=Elm) & [by tag](https://dev.to/t/elm)
 * [Elm Shorts](https://medium.com/elm-shorts)
 * [Elm Weekly](http://www.elmweekly.nl/archive)
 * [elm-lang.org/blog](http://elm-lang.org/blog)
@@ -241,10 +241,12 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ELM - CSS & UI - ELM-UI
 
 * Elm-UI: [Docs](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/) | [Getting started](https://elm-ui.netlify.com/documentation/getting-started/setup) | [Reference](https://elm-ui.netlify.com/reference) | [Github](https://github.com/gdotdesign/elm-ui)
+* [elm-ui: Forget CSS and enjoy creating UIs in pure Elm - Alex Korban](https://korban.net/posts/elm/2019-11-17-elm-ui-introduction/)
 * [Building a Toolkit for Design - Matthew Griffith (elm-conf 2018)](https://www.youtube.com/watch?v=Ie-gqwSHQr0)
 * [elm-ui: Forget CSS and enjoy creating UIs in pure Elm - Alex Korban](https://korban.net/posts/elm/2019-11-17-elm-ui-introduction/)
 * [elm-ui - rock paper scissors (Dave Alger - lizard spock)](https://www.youtube.com/watch?v=fhMLEOr8C4U)
 * [Elm UI - opinionated UI library and application framework for the web in Elm, following the Elm Architecture](https://github.com/gdotdesign/elm-ui)
+* [Elm-UI docs](https://elm-ui.netlify.com/documentation/getting-started/setup) | [Github](https://github.com/gdotdesign/elm-ui)
 
 ### ELM - DATA STRUCTURES
 
@@ -332,6 +334,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - PACKAGES
 
+* [Package.elm-lang.org](https://package.elm-lang.org/)
+* [Elm Package Catalog - Alex Korban](https://korban.net/elm/catalog/)
 * [Working with Files - Evan Czaplicki](https://elm-lang.org/blog/working-with-files): [elm-file](https://package.elm-lang.org/packages/elm/file/latest) | [elm-bytes](https://package.elm-lang.org/packages/elm/bytes/latest) | [elm-http](https://package.elm-lang.org/packages/elm/http/latest)
 * [Elm package documentation](http://package.elm-lang.org/packages/elm-lang/core/latest)
 * [Elm search (by function name or approximate type signature)](http://klaftertief.github.io/elm-search/)
