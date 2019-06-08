@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Domain-Driven Design](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---domain-driven-design) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](#erlang) | [Entrepreneurship](#business---entrepreneurship) | [Event sourcing](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#my-event-sourcing--cqrs--ddd--microservice-resources---james-lavin) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Kafka](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---kafka) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python), [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Domain-Driven Design](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---domain-driven-design) | [Elasticsearch](#elasticsearch) | [Elixir](#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](#erlang) | [Entrepreneurship](#business---entrepreneurship) | [Event sourcing](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#my-event-sourcing--cqrs--ddd--microservice-resources---james-lavin) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Kafka](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---kafka) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python), [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Rust](#rust) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## ALGORITHMS
 
@@ -905,6 +905,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Estelle Weyl](http://estelle.github.io/)
 * [CSS Tutorial - W3Schools](https://www.w3schools.com/Css://www.w3schools.com/Css/)
 * [Learn CSS - Codecademy](https://www.codecademy.com/learn/learn-css)
+* GeekLaunch / Jacob [CSS Basics](https://www.youtube.com/playlist?list=PLwnSaD6BDfXLOAu-7b0ZWqqEY6zlDDhQ6) & [Sass & SCSS](https://www.youtube.com/playlist?list=PLwnSaD6BDfXLn5jNGHbOsmWyafoUhWO2d)
 * [The Shapes of CSS - Chris Coyier](https://css-tricks.com/examples/ShapesOfCSS/)
 * [MarkSheet: Free HTML & CSS tutorial](http://marksheet.io/)
 * [How to Master CSS - Christopher Harrison & Helen Zeng (Microsoft Virtual Academy - Jumpstart)](https://www.youtube.com/watch?v=Vafp5xr_bxk)
@@ -2548,6 +2549,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - CODE QUALITY
 
+* [Modular Design in Elixir - Maciej Kaszubowski (ElixirConf EU 2019)](https://www.youtube.com/watch?v=hgDCg3QdZgU)
 * [SOLID Elixir - Georgina McFadyen (ElixirConf.EU 2018)](https://www.youtube.com/watch?v=eldYot7uxUc)
 * [Keeping Code Consistent - Ben Marx (ElixirConf EU 2017)](https://www.youtube.com/watch?v=W1EzF4FdUxM)
 * [Refactoring Elixir: Lessons Learned from a Year on Exercism.io](https://www.youtube.com/watch?v=tJJMrtJEK1A)
@@ -2938,6 +2940,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [AutomatingTheFuture.com - Quentin Thomas](http://www.automatingthefuture.com/)
 * [Artificial Neural Networks, Elixir, and You - Quentin Thomas](http://www.automatingthefuture.com/blog/2016/9/7/artificial-neural-networks-elixir-and-you?utm_content=buffer9dea0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
+### ELIXIR - NIFS
+
+* [Taking Elixir to the Metal with Rust - Sonny Scroggin](https://www.youtube.com/watch?v=lSLTwWqTbKQ)
+
 ### ELIXIR - OPUS
 
 * [Opus: framework for pluggable business logic components](https://github.com/zorbash/opus) | [Wiki](https://github.com/Zorbash/opus/wiki)
@@ -3140,6 +3146,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### ELIXIR - PHOENIX - UPLOADS
 
 * [Step-by-Step Tutorial to Build a Phoenix App that Supports User Upload - Alvise Susmel](https://www.poeticoding.com/step-by-step-tutorial-to-build-a-phoenix-app-that-supports-user-uploads/)
+* [Creating Thumbnails of uploaded Images and PDF in Phoenix - Alvise Susmel](https://medium.com/@asusmel/creating-thumbnails-of-uploaded-images-and-pdf-in-phoenix-b7e253947097)
 
 #### ELIXIR - PHOENIX - VIDEOS
 
@@ -3203,6 +3210,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Riak Core](https://github.com/basho/riak_core/)
 * Create a riak_core application in Elixir - GPad: [Part 1](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-1-41354c1f26c3) | [Part 2](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-2-88bdec73f368) | [Part 3](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-3-8bac36632be0) | [Part 4](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-4-728512ece224)
 
+### ELIXIR - RUSTLER
+
+* [Rustler: Safe Rust bridge for creating Erlang NIF functions](https://github.com/rusterlium/rustler)
+* [Writing Rust NIFs for your Elixir code with the Rustler package - Jacob Lerche](https://medium.com/@jacob.lerche/writing-rust-nifs-for-your-elixir-code-with-the-rustler-package-d884a7c0dbe3)
+
 ### ELIXIR - SCENIC
 
 * [scenic](https://github.com/boydm/scenic) | [scenic.new](https://github.com/boydm/scenic_new)
@@ -3247,6 +3259,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### ELIXIR - PROPERTY-BASED TESTING
 
+* [Testing Erlang and Elixir through PropEr Modeling - Fred Hebert (Erlang Solutions Webinar)](https://www.youtube.com/watch?v=LvFs33-1Tbo)
 * [StreamData: Elixir library for data generation and property-based testing - Andrea Leopardi](https://github.com/whatyouhide/stream_data)
 * [Introduction to stateful property based testing - Tomasz Kowal (Lambda Days 19)](https://www.youtube.com/watch?v=owHmYA52SIM)
 * [Quixir: Property-based testing for Elixir - Dave Thomas](https://github.com/pragdave/quixir)
@@ -3437,13 +3450,15 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
   * Operation & Management (OAM) Principles: [HTML](http://erlang.org/doc/oam/users_guide.html)
 * Applications:
   * Crypto: [HTML](http://erlang.org/doc/apps/crypto/) & [PDF](http://erlang.org/doc/apps/crypto/crypto.pdf)
+  * Debugger: [HTML](http://erlang.org/doc/apps/debugger/) & [PDF](http://erlang.org/doc/apps/debugger/debugger.pdf)
   * Dialyzer: [HTML](http://erlang.org/doc/apps/dialyzer/) & [PDF](http://erlang.org/doc/apps/dialyzer/dialyzer.pdf)
   * Diameter: [HTML](http://erlang.org/doc/apps/diameter/) & [PDF](http://erlang.org/doc/apps/diameter/diameter.pdf)
   * Erlang Run-Time System App (ERTS): [HTML](http://erlang.org/doc/apps/erts/) & [PDF](http://erlang.org/doc/apps/erts/erts.pdf)
+  * Event Tracer: [HTML](http://erlang.org/doc/apps/et/) & [PDF](http://erlang.org/doc/apps/et/et.pdf)
   * Inets: [HTML](http://erlang.org/doc/apps/inets/) & [PDF](http://erlang.org/doc/apps/inets/inets.pdf)
   * Kernel: [HTML](http://erlang.org/doc/apps/kernel/) & [PDF](http://erlang.org/doc/apps/kernel/kernel.pdf)
-  * Mnesia: [HTML](http://erlang.org/doc/apps/mnesia/) & [PDF](http://erlang.org/doc/apps/mnesia/mnesia.pdf)
-  * Observer: [HTML](http://erlang.org/doc/apps/observer/) & [PDF](http://erlang.org/doc/apps/observer/observer.pdf)
+	* Mnesia: [HTML](http://erlang.org/doc/apps/mnesia/) & [PDF](http://erlang.org/doc/apps/mnesia/mnesia.pdf)
+	* Observer: [HTML](http://erlang.org/doc/apps/observer/) & [PDF](http://erlang.org/doc/apps/observer/observer.pdf)
   * ODBC: [HTML](http://erlang.org/doc/apps/odbc/) & [PDF](http://erlang.org/doc/apps/odbc/odbc.pdf)
   * OS Mon: [HTML](http://erlang.org/doc/apps/os_mon/) & [PDF](http://erlang.org/doc/apps/os_mon/os_mon.pdf)
   * ParseTools: [HTML](http://erlang.org/doc/apps/parsetools/) & [PDF](http://erlang.org/doc/apps/parsetools/parsetools.pdf)
@@ -3765,6 +3780,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### FUNCTIONAL PROGRAMMING - TYPES
 
+* [Types and Tests at The Gilded Rose - Richard Feldman (Elm in the Spring)](https://www.youtube.com/watch?v=51O63Sb-Ae0)
 * [Type theory in practice - Gabriel Habryn (Lambda Days 19)](https://www.youtube.com/watch?v=aW6ZVQwbuak)
 * [Why Type Theory Matters - Thorsten Altenkirch (Lambda Days 2019)](https://www.youtube.com/watch?v=DllYOFw5Qio)
 
@@ -3921,6 +3937,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Hakyll: Haskell library for generating static sites](https://jaspervdj.be/hakyll/)
 
+### HASKELL - HASURA
+
+* Hasura: GraphQL Engine: blazing-fast GraphQL server that gives you instant, realtime GraphQL APIs over Postgres, with webhook triggers on database events, and remote schemas for business logic[Hasura.io](https://hasura.io/) | [Github](https://github.com/hasura/graphql-engine)
+
 ### HASKELL - HAXL
 
 * [HAXL: Haskell library that simplifies access to remote data, such as databases or web-based services](https://github.com/facebook/Haxl)
@@ -3929,6 +3949,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### HASKELL - HEDIS
 
 * Hedis: Haskell client for the Redis datastore: [Github](https://github.com/informatikr/hedis) | [Hackage](https://hackage.haskell.org/package/hedis)
+
+### HASKELL - SEMANTIC
+
+* [Semantic: Parsing, analyzing, and comparing source code across many languages](https://github.com/github/semantic)
 
 ### HASKELL - SPOCK
 
@@ -5385,12 +5409,18 @@ Peter R. Egli:
 
 ## RUST
 
+* [Rustup.rs: Rust language installer](https://rustup.rs/)
 * [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-* [The Rust Programming Language, 2nd ed](https://doc.rust-lang.org/book/second-edition/index.html)
+* [The Rust Programming Language (book)](https://doc.rust-lang.org/stable/book/foreword.html)
+* Rust By Example (book / collection of runnable examples): [Online](https://doc.rust-lang.org/rust-by-example/) & [Github (instructions for offline)](https://github.com/rust-lang/rust-by-example)
+* [Learn Rust With Entirely Too Many Linked Lists - Alexis Beingessner](https://rust-unofficial.github.io/too-many-lists/)
+* [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
 * [Rust Tutorial: Learn How to Be Productive in Rust - Nicholas Cameron (Linux.conf.au 2018)](https://www.youtube.com/watch?v=waC2wgknY0s)
 * [Idiomatic Rust - Matthias Endler](https://www.youtube.com/watch?v=P2mooqNMxMs)
+* [What's unique about Rust? - Niko Matsakis (RustLatam 2019)](https://www.youtube.com/watch?v=jQOZX0xkrWA)
 * [Diving Into Rust For The First Time - Niko Matsakis (C++ Now 2017)](https://www.youtube.com/watch?v=_jMSrMex6R0)
 * [How Rust is Tilde’s Competitive Advantage](https://www.rust-lang.org/pdfs/Rust-Tilde-Whitepaper.pdf)
+* [Blockchain in Rust - GeekLaunch](https://www.youtube.com/playlist?list=PLwnSaD6BDfXL0RiKT_5nOIdxTxZWpPtAv)
 * [Is It Time to Rewrite the Operating System in Rust? - Bryan Cantrill](https://www.infoq.com/presentations/os-rust)
 * [Chucklefish Taps Rust to Bring Safe Concurrency to Video Games](https://www.rust-lang.org/pdfs/Rust-Chucklefish-Whitepaper.pdf)
 * [A Case for Oxidation: The Rust Programming Language - Sergio Benitez](https://www.youtube.com/watch?v=cDFSrVhnZKo)
@@ -5398,14 +5428,39 @@ Peter R. Egli:
 * [Rust Tutorial - Derek Banas](https://www.youtube.com/watch?v=U1EFgCNLDB8)
 * [WebAssembly - Rust to JavaScript in under 20 minutes - Scott Batson](https://www.youtube.com/watch?v=WE33Q8GzTkU)
 * [Baby’s First Rust+WebAssembly module: Say hi to JSConf EU! - Lin Clark (JSConf EU 2018)](https://www.youtube.com/watch?v=1meg-Dl_Urw)
+* [Rust programming LANGUAGE fundamentals of Rust, a modern programming language (5 1/2 hours, but recorded December 2015 - Dmitri Nesteruk](https://www.youtube.com/watch?v=d2vjdj-yHSg)
+
+### RUST - ASYNC
+
+* [Rust Async Programming in 2018 - Katharina Fey (GOTO Copenhagen 2018)](https://www.youtube.com/watch?v=j0SIcN-Y-LA)
+
+### RUST - CRATES
+
+* [Crates.io: Rust community's package registry](https://crates.io/)
+
+### RUST - DIESEL
+
+* Diesel: ORM & Query Builder for Rust: [Diesel.rs](https://diesel.rs/) | [Github](https://github.com/diesel-rs/diesel)
 
 ### RUST - FUNCTIONAL PROGRAMMING
 
 * [Introduction to Functional Programming in Rust — Antoni Boucher (Lambda Montreal 2017)](https://www.youtube.com/watch?v=PbLY-cVRiog)
 
+### RUST - NEWSLETTERS
+
+* [This Week in Rust](https://this-week-in-rust.org/)
+
+### RUST - PODCASTS
+
+* [New Rustacean](https://overcast.fm/itunes1041815075/new-rustacean)
+
 ### RUST - ROCKET
 
 * Rocket (web framework) - Sergio Benitez: [Github](https://github.com/SergioBenitez/Rocket) | [Overview](https://rocket.rs/overview/) | [Guide](https://rocket.rs/guide/) | [API](https://api.rocket.rs/rocket/) | [Quickstart](https://rocket.rs/guide/quickstart/) | [Getting Started](https://rocket.rs/guide/getting-started/) | [Wiki](http://rust.wikia.com/wiki/Rocket)
+
+### RUST - TOOLS
+
+* [rust-clippy: Lints to catch common mistakes and improve your Rust code](https://github.com/rust-lang/rust-clippy)
 
 ### RUST - VIDEOS
 
