@@ -385,6 +385,10 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [The Frontend Taboo: a Story of Full Stack Microservices - Luis Mineiro & Moritz Grauel (GOTO Berlin 2016)](https://www.youtube.com/watch?v=vCzTK4XPfX8)
 * [DDD & Microservices: At Last, Some Boundaries! - Eric Evans (GOTO Berlin 2015)](https://www.youtube.com/watch?v=yPvef9R3k-M)
 
+### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - TESTING
+
+* [Testing microservices: From development to production - Daniel Bryant (Jax London 2018)](https://jaxenter.com/testing-microservices-bryant-157343.html)
+
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - VIDEOS
 
 * [µCon London 2018 - The Microservices Conference](https://skillsmatter.com/conferences/10336-mucon-london-2018-the-microservices-conference#skillscasts)

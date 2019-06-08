@@ -692,7 +692,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Syndicate - Matt Ward](https://itunes.apple.com/us/podcast/the-syndicate-angel-investing-in-early-stage-tech-startups/id1286329551?mt=2&ls=1<Paste>)
 * [Traction: How Startups Start - Next View Ventures](https://itunes.apple.com/us/podcast/traction-how-startups-start-nextview-ventures/id989228163?mt=2)
 * [The Twenty-Minute VC - Henry Stebbings](http://www.thetwentyminutevc.com/category/podcast/)
-* [This Week in Startups - Jason Calacanis](http://thisweekinstartups.com/)
+* [This Week in Startups - Jason Calacanis](http://thisweekinstartups.com/) & [Youtube](https://www.youtube.com/user/ThisWeekIn/playlists)
 * [Venture Studio](https://soundcloud.com/venture-studio)
 * [Ventured - Kleiner Perkins](https://itunes.apple.com/us/podcast/ventured/id895283359?mt=2)
 * [When to Jump - Mike Lewis](http://www.whentojump.com/podcast.html)
@@ -2105,6 +2105,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### DEVOPS - KUBERNETES - VIDEOS
 
+* [KubeCon + CloudNativeCon 2019 Barcelona 2019 (343 videos)](https://www.youtube.com/playlist?list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3)
 * [Kubernetes Day India 2019](https://www.youtube.com/playlist?list=PLj6h78yzYM2NXMGswJofR2N1pGdET_9EV)
 * [KubeCon + CloudNativeCon 2018 Seattle (345 videos)](https://www.youtube.com/playlist?list=PLj6h78yzYM2PZf9eA7bhWnIh_mK1vyOfU)
 * [KubeCon + CloudNativeCon 2018 (51 videos)](https://www.youtube.com/playlist?list=PLIivdWyY5sqLctSoRvWI71mQx_5kU9SQm)
@@ -2579,6 +2580,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - DEPLOYMENT
 
+* [A GitHub workflow for Elixir releases - Richard Taylor](https://www.richardtaylor.dev/articles/github-workflow-elixir-releases)
 * Paul Schoenfelder ("bitwalker"): [Elixir on Alpine Linux](https://github.com/bitwalker/alpine-elixir)  ((Docker)[https://hub.docker.com/r/bitwalker/alpine-elixir/]) | [Elixir/Phoenix on Alpine Linux](https://github.com/bitwalker/alpine-elixir-phoenix) ([Docker](https://hub.docker.com/r/bitwalker/alpine-elixir-phoenix/))
 * [Connecting Elixir Nodes with libcluster, locally and on Kubernetes - Alvise Susmel](https://www.poeticoding.com/connecting-elixir-nodes-with-libcluster-locally-and-on-kubernetes/) & [phoenix-chat-example (Github)](https://github.com/poeticoding/phoenix_chat_example/tree/libcluster)
 * [Best practices for deploying Elixir apps - Jake Morrison](https://www.cogini.com/blog/best-practices-for-deploying-elixir-apps/)
@@ -3285,6 +3287,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - TYPES - DIALYZER/DIALYXIR
 
+* [Chemanalysis: Dialyzing Elixir - Sean Cribbs (Code BEAM SF 19)](https://www.youtube.com/watch?v=k4au7VioXNk)
 * [Decoding Dialyzer - Part 1 - Devon Estes](http://devonestes.herokuapp.com/decoding-dialyzer)
 * [Hype For Types Using Dialyzer to Bring Type Checking to Your Elixir Code - Emma Cunningham (Code Beam SF 2018)](https://www.youtube.com/watch?v=yZO6FkkdJEg)
 * [Dialyxir](https://github.com/jeremyjh/dialyxir) & [Dialyzer](http://erlang.org/doc/man/dialyzer.html)
@@ -5413,6 +5416,9 @@ Peter R. Egli:
 * [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 * [The Rust Programming Language (book)](https://doc.rust-lang.org/stable/book/foreword.html)
 * Rust By Example (book / collection of runnable examples): [Online](https://doc.rust-lang.org/rust-by-example/) & [Github (instructions for offline)](https://github.com/rust-lang/rust-by-example)
+* [Intro to Rust - Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW)
+* [rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings)
+* [Gentle Intro to Rust - Steve Donovan](https://stevedonovan.github.io/rust-gentle-intro/) | [Github](https://github.com/stevedonovan/gentle-intro)
 * [Learn Rust With Entirely Too Many Linked Lists - Alexis Beingessner](https://rust-unofficial.github.io/too-many-lists/)
 * [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
 * [Rust Tutorial: Learn How to Be Productive in Rust - Nicholas Cameron (Linux.conf.au 2018)](https://www.youtube.com/watch?v=waC2wgknY0s)
@@ -5426,9 +5432,17 @@ Peter R. Egli:
 * [A Case for Oxidation: The Rust Programming Language - Sergio Benitez](https://www.youtube.com/watch?v=cDFSrVhnZKo)
 * [Rust 101 - E. Dunham (Linux.conf.au 2017)](https://www.youtube.com/watch?v=FMqydRampuo)
 * [Rust Tutorial - Derek Banas](https://www.youtube.com/watch?v=U1EFgCNLDB8)
-* [WebAssembly - Rust to JavaScript in under 20 minutes - Scott Batson](https://www.youtube.com/watch?v=WE33Q8GzTkU)
-* [Baby’s First Rust+WebAssembly module: Say hi to JSConf EU! - Lin Clark (JSConf EU 2018)](https://www.youtube.com/watch?v=1meg-Dl_Urw)
+* [Defense Against The Wrong Logic: Proactive Rust Coding - Michael Gatozzi (RustLatam 2019)](https://www.youtube.com/watch?v=jT6YEiE6O6E)
 * [Rust programming LANGUAGE fundamentals of Rust, a modern programming language (5 1/2 hours, but recorded December 2015 - Dmitri Nesteruk](https://www.youtube.com/watch?v=d2vjdj-yHSg)
+
+### RUST - APPS
+
+* [bat: cat clone with syntax highlighting and Git integration - David Peter](https://github.com/sharkdp/bat)
+* [ripgrep: recursively searches directories for a regex pattern - Andrew Gallant](https://github.com/BurntSushi/ripgrep)
+* [libpnet: Cross-platform, low level networking](https://github.com/libpnet/libpnet)
+* [sniffglue: Secure multithreaded packet sniffer](https://github.com/kpcyrd/sniffglue)
+* [pcap](https://github.com/ebfull/pcap)
+* [Quiche: implementation of the QUIC transport protocol and HTTP/3 - Cloudflare](https://github.com/cloudflare/quiche) | [Enjoy a slice of QUIC, and Rust! - Alessandro Ghedini](https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/)
 
 ### RUST - ASYNC
 
@@ -5450,6 +5464,11 @@ Peter R. Egli:
 
 * [This Week in Rust](https://this-week-in-rust.org/)
 
+### RUST - NORIA
+
+* [Noria: data-flow for high-performance web applications - MIT](https://github.com/mit-pdos/noria)
+* [Rust at speed — building a fast concurrent database - Jon Gjengset](https://www.youtube.com/watch?v=s19G6n0UjsM)
+
 ### RUST - PODCASTS
 
 * [New Rustacean](https://overcast.fm/itunes1041815075/new-rustacean)
@@ -5464,8 +5483,15 @@ Peter R. Egli:
 
 ### RUST - VIDEOS
 
+* [RustLatam 2019](https://www.youtube.com/playlist?list=PL85XCvVPmGQjuWUNeFCgl8X2EOC_aAq5N)
 * RustConf: [2018](http://confreaks.tv/events/rustconf2018) | [2017](http://confreaks.tv/events/rustconf2017)
 * [RustFest Paris 2018](https://www.youtube.com/playlist?list=PL85XCvVPmGQgdqz9kz6qH3SI_hp7Zb4s1)
+
+### RUST - WEB ASSEMBLY
+
+* [WebAssembly with Rust - Kevin Hoffman (RustLatam 2019)](https://www.youtube.com/watch?v=YDQICTKlr9g)
+* [WebAssembly - Rust to JavaScript in under 20 minutes - Scott Batson](https://www.youtube.com/watch?v=WE33Q8GzTkU)
+* [Baby’s First Rust+WebAssembly module: Say hi to JSConf EU! - Lin Clark (JSConf EU 2018)](https://www.youtube.com/watch?v=1meg-Dl_Urw)
 
 ### RUST - YEW
 
@@ -5556,6 +5582,7 @@ Peter R. Egli:
 
 * [Intro to Functional Programming (in Scala) Francis Toth (Lambda Montreal 2017)](https://www.youtube.com/watch?v=fPXLSLcOXbc)
 * Jordan Parmer: [Let’s Code Real World App Using Purely Functional Techniques (in Scala)](https://www.youtube.com/watch?v=m40YOZr1nxQ) | [Common Functional Techniques](https://www.youtube.com/watch?v=UbY97MudfCs) | [Functional Programming: Type Systems](https://www.youtube.com/watch?v=hy1wjkcIBCU) | [Reactive Streams](https://www.youtube.com/watch?v=_Zmip_o74nw) | [Other Jordan Parmer Scala FP talks](https://www.youtube.com/playlist?list=PLQfJFqUBGf40jCq_ISo37q3Ummij1DI_t)
+* [Scala functional programming features and more! - Nadim Bahadoor](http://allaboutscala.com/tutorials/scala-introduction/scala-functional-programming-features/)
 * [Cats: Lightweight, modular, and extensible library for functional programming](https://typelevel.org/cats/)
 * Intro to FP in Scala: Exploring a Toolbox for Solving Problems - Pawel Szulc (LambdaConf λC 2017): [Part 1](https://www.youtube.com/watch?v=jQ65HiG5m3c) | [Part 2](https://www.youtube.com/watch?v=ezCiPda6dzc) | [Part 3](https://www.youtube.com/watch?v=Lj0xDErblvk) | [Part 4](https://www.youtube.com/watch?v=xv7cVNFnGLU) | [Part 5](https://www.youtube.com/watch?v=TaFBNs7reeU) | [Part 6](https://www.youtube.com/watch?v=Og789wIwjvw)
 * [Real-World Functional Scala - Chris Birchall (Lambda World 2016)](https://www.youtube.com/watch?v=STPkPUPYDeg)

@@ -106,6 +106,7 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 #### PYTHON - DATA ANALYSIS - NUMPY
 
+* [A Visual Intro to NumPy and Data Representation - Jay Alammar](https://jalammar.github.io/visual-numpy/)
 * [Python For Data Science Cheat Sheet: NumPy Basics (DataCamp.com)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 * [(Tentative) NumPy Tutorial](http://wiki.scipy.org/Tentative_NumPy_Tutorial)
 * [Numpy User Guide](http://docs.scipy.org/doc/numpy/user/index.html) & [PDF](http://docs.scipy.org/doc/numpy/numpy-user-1.9.1.pdf)
