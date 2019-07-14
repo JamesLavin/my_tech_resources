@@ -125,6 +125,10 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 * [Event Storming - Alberto Brandolini (wroc_love.rb 2015)](https://www.youtube.com/watch?v=veTVAN0oEkQ)
 * [How To Distill The Core Domain From Your Legacy App (Live Coding) - Thomas Pierrain & Bruno Boucard (Explore DDD 2017)](https://www.youtube.com/watch?v=mZzPwt9vhHM)
 
+### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - ELIXIR
+
+* [See "ELIXIR - EVENT SOURCING/CQRS"](https://github.com/JamesLavin/my_tech_resources#elixir---event-sourcingcqrs)
+
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - GRPC
 
 * [GRPC.io](https://grpc.io/) | [Github](https://github.com/grpc/grpc)

@@ -2580,6 +2580,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - DEPLOYMENT
 
+* [Quick Glance @ Elixir 1.9 Releases feature - Blackode](https://medium.com/@blackode/quick-glance-elixir-1-9-releases-feature-b6dfce233e71)
 * [A GitHub workflow for Elixir releases - Richard Taylor](https://www.richardtaylor.dev/articles/github-workflow-elixir-releases)
 * Paul Schoenfelder ("bitwalker"): [Elixir on Alpine Linux](https://github.com/bitwalker/alpine-elixir)  ((Docker)[https://hub.docker.com/r/bitwalker/alpine-elixir/]) | [Elixir/Phoenix on Alpine Linux](https://github.com/bitwalker/alpine-elixir-phoenix) ([Docker](https://hub.docker.com/r/bitwalker/alpine-elixir-phoenix/))
 * [Connecting Elixir Nodes with libcluster, locally and on Kubernetes - Alvise Susmel](https://www.poeticoding.com/connecting-elixir-nodes-with-libcluster-locally-and-on-kubernetes/) & [phoenix-chat-example (Github)](https://github.com/poeticoding/phoenix_chat_example/tree/libcluster)
@@ -2788,12 +2789,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Awesome Elixir and CQRS](https://github.com/slashdotdash/awesome-elixir-cqrs)
 * [FAQ on DDD, CQRS & Event Sourcing - CQRS.nu](http://cqrs.nu/Faq)
 * [CQRS and Event Sourcing - Bernardo Amorim (Code Beam SF 2018)](https://www.youtube.com/watch?v=S3f6sAXa3-c)
-* Event Sourcing With Elixir - Bruno Antunes: [Part 0](https://blog.nootch.net/post/event-sourcing-with-elixir/) [Part 1](https://blog.nootch.net/post/event-sourcing-with-elixir-part-1#getting-started) | [Part 2](https://blog.nootch.net/post/event-sourcing-with-elixir-part-2/) | [Part 3](https://blog.nootch.net/post/event-sourcing-with-elixir-part-3/) | [Part 4](https://blog.nootch.net/post/event-sourcing-with-elixir-part-4/)
+* Event Sourcing With Elixir - Bruno Antunes: [Part 0](https://blog.nootch.net/post/event-sourcing-with-elixir/) [Part 1](https://blog.nootch.net/post/event-sourcing-with-elixir-part-1#getting-started) | [Part 2](https://blog.nootch.net/post/event-sourcing-with-elixir-part-2/) | [Part 3](https://blog.nootch.net/post/event-sourcing-with-elixir-part-3/) | [Part 4](https://blog.nootch.net/post/event-sourcing-with-elixir-part-4/) | [Part 5](https://blog.nootch.net/post/event-sourcing-with-elixir-part-5/) | [Part 6](https://blog.nootch.net/post/event-sourcing-with-elixir-part-6/) | [Part 7](https://blog.nootch.net/post/event-sourcing-with-elixir-part-7/)
 * [Building CQRS/ES web applications in Elixir using Phoenix - Ben Smith](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/) | [Building a CQRS/ES web application in Elixir using Phoenix](https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/) | [PDF](https://10consulting.com/presentations/2017-03-23-building-cqrs-web-applications-in-elixir.pdf)
 * [event_bus: Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS - Mustafa Turan](https://github.com/otobus/event_bus) & [event_bus_postgres: Postgres event store for event_bus](https://github.com/otobus/event_bus_postgres)
 * [Pachyderm - an elephant never forgets - Peter Saxton](https://github.com/CrowdHailer/event-sourcing.elixir)
 * [Dealing with eventual consistency in a CQRS/ES application - Ben Smith](https://10consulting.com/2017/10/06/dealing-with-eventual-consistency/)
-* [Supporting multiple event stores in Commanded using an adapter based approach for Elixir - Ben Smith](https://10consulting.com/2017/05/17/supporting-multiple-event-stores-in-commanded/)
 * Derek Kraan: [Event Sourcing in Elixir](https://tech.zilverline.com/2017/04/07/elixir_event_sourcing) & [Event Sourcing: Invariants spanning multiple aggregates](https://tech.zilverline.com/2017/04/21/event-sourcing-invariants-spanning-multiple-aggregates)
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
 * [Building beautiful systems with Phoenix contexts - Andrew Hao (ElixirDaze 2018)](https://www.youtube.com/watch?v=l3VgbSgo71E) & [Built to last: A domain-driven approach to beautiful systems - Andrew Hao](https://www.youtube.com/watch?v=52qChRS4M0Y)
@@ -2806,11 +2806,19 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### ELIXIR - EVENT SOURCING/CQRS - COMMANDED
 
+* Commanded: [Github](https://github.com/commanded/commanded)
+    * [EventStore: Event store using PostgreSQL for persistence](https://github.com/commanded/eventstore)
+    * [EventStore adapter](https://github.com/commanded/commanded-eventstore-adapter)
+    * [Ecto Projections: Read model projections](https://github.com/commanded/commanded-ecto-projections)
+    * [Audit Middleware](https://github.com/commanded/commanded-audit-middleware)
+    * [Scheduler: schedule one-off and recurring commands](https://github.com/commanded/commanded-scheduler)
+    * [Swarm Registry](https://github.com/commanded/commanded-swarm-registry)
 * [Commanded: Use Commanded to build Elixir CQRS/ES applications - Ben Smith](https://github.com/slashdotdash/commanded)
 * [Eventstore: CQRS event store using PostgreSQL for persistence - Ben Smith](https://github.com/slashdotdash/eventstore)
 * [Conduit: RealWorld example backend implementing the CQRS/ES pattern in Elixir and Phoenix](https://github.com/slashdotdash/conduit)
 * [EventSourced: Functional domain models with event sourcing in Elixir - Ben Smith](https://github.com/slashdotdash/eventsourced)
-* [Building Conduit - Ben Smith (non-free)](https://leanpub.com/buildingconduit)
+* [Building Conduit - Ben Smith](https://leanpub.com/buildingconduit) & [free to read online](https://leanpub.com/buildingconduit/read)
+* [Supporting multiple event stores in Commanded using an adapter based approach for Elixir - Ben Smith](https://10consulting.com/2017/05/17/supporting-multiple-event-stores-in-commanded/)
 
 #### ELIXIR - EVENT SOURCING/CQRS - SAGE
 
@@ -2955,6 +2963,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Consistent, Distributed Elixir - Chris Keathley (ElixirDaze 2018)](https://www.youtube.com/watch?v=CmMMpaUD3g8)
 * [The ABCs of OTP - Jesse J Anderson (ElixirDaze 2017)](https://www.youtube.com/watch?v=8X0IWW2GJoQ) | [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir) | [resource links](https://gist.github.com/jessejanderson/16cbc0614e9194fa1b64460f775777ab)
+* [Let It Crash: Creating an Example Supervisor in Elixir Using OTP - Tyler Pachal](https://medium.com/@tylerpachal/let-it-crash-creating-an-example-supervisor-in-elixir-using-otp-36ea4236b02b)
 * Michael @ omgneering: [GenServer basics](https://www.youtube.com/watch?v=zC7TcrRi46Q) | [GenServer Callbacks and concurrency](Elixir GenServer callbacks and concurrency) | [Supervisor](https://www.youtube.com/watch?v=Gdf8JXeaPjw) | [Application (Part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM) | [Application (Part 2)](https://www.youtube.com/watch?v=rMwEQZewDyk)
 * [split_brain.ex: The challenges of building a small distributed Elixir Application - Dorian Iacobescu](https://medium.com/qixxit-development/split-brain-ex-5d5f1c19b133)
 * [To spawn, or not to spawn? - Saša Jurić](http://www.theerlangelist.com/article/spawn_or_not)
@@ -5049,6 +5058,7 @@ Peter R. Egli:
 
 ### PROGRAMMING - MANAGEMENT
 
+* [Shape Up: Stop Running in Circles and Ship Work That Matters - Ryan Singer](https://basecamp.com/shapeu://basecamp.com/shapeup)
 * [Tips for Managing a Widely Distributed Team - Dirkjan Bussink (#LeadDevLondon 2018)](https://www.youtube.com/watch?v=pi6bHUkoBgY)
 
 #### PROGRAMMING - MANAGEMENT - BILL CAMPBELL
@@ -5414,7 +5424,7 @@ Peter R. Egli:
 
 * [Rustup.rs: Rust language installer](https://rustup.rs/)
 * [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-* [The Rust Programming Language (book)](https://doc.rust-lang.org/stable/book/foreword.html)
+* [The Rust Programming Language (book)](https://doc.rust-lang.org/stable/book/foreword.html) | [Print version savable as PDF](https://doc.rust-lang.org/book/print.html) | or display in browser using "rustup doc --book" on the command line
 * Rust By Example (book / collection of runnable examples): [Online](https://doc.rust-lang.org/rust-by-example/) & [Github (instructions for offline)](https://github.com/rust-lang/rust-by-example)
 * [Intro to Rust - Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW)
 * [rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings)
@@ -5484,8 +5494,11 @@ Peter R. Egli:
 ### RUST - VIDEOS
 
 * [RustLatam 2019](https://www.youtube.com/playlist?list=PL85XCvVPmGQjuWUNeFCgl8X2EOC_aAq5N)
+* [RustConf Asia 2019 (Mandarin)](https://www.youtube.com/playlist?list=PL85XCvVPmGQinnVj0lJ9A9pDU4Osziq-_)
 * RustConf: [2018](http://confreaks.tv/events/rustconf2018) | [2017](http://confreaks.tv/events/rustconf2017)
+* [Rust playlists](https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA/playlists)
 * [RustFest Paris 2018](https://www.youtube.com/playlist?list=PL85XCvVPmGQgdqz9kz6qH3SI_hp7Zb4s1)
+* [Bay Area Rust](https://www.youtube.com/playlist?list=PL85XCvVPmGQj2BbwgM19o_UA1_TubKbbn)
 
 ### RUST - WEB ASSEMBLY
 

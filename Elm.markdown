@@ -12,6 +12,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Functional Programming in Elm - Evan Czaplicki](https://www.gitbook.com/book/evancz/functional-programming-in-elm/details)
 * Elm Tutorial - Sebastian Porto: [downloadable ePub/PDF/Mobi](https://www.gitbook.com/book/sporto/elm-tutorial/details) | [website](http://www.elm-tutorial.org/)
 * [Elm Makes Me Happy (updated for Elm 0.19) - Andy Balaam](https://www.youtube.com/watch?v=Cy_yHhhZJQk)
+* [From Rails to Elm and Haskell - Richard Feldman (Philly ETE 2019)](https://www.youtube.com/watch?v=5CYeZ2kEiOI)
 * [Elm at Pacific Health Dynamics - Joseph Ni](https://legacy.gitbook.com/book/mordrax/elm-at-phd/details)
 * [A Peek into the Elm Architecture - Jayaram Sankaranarayana (Functional Conf Bangalore, Nov 2017)](https://www.infoq.com/presentations/elm-architecture)
 * [Destination: Web -- Friendly, Typed, and Functional: A Brief Introduction to Elm - Brian Ford (Uber)](https://www.youtube.com/watch?v=Fv63jUr9M_8)
