@@ -5699,6 +5699,7 @@ Peter R. Egli:
 * [Let's Encrypt - "lets site operators turn on and manage HTTPS with simple commands"](https://letsencrypt.org/howitworks/)
 * [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
 * [Encryption Works: How to Protect Your Privacy in the Age of NSA Surveillance - Micha Leee (Freedom of the Press Foundation)](https://freedom.press/encryption-works)
+* [Real World Cryptography](https://www.manning.com/books/real-world-cryptography)
 
 #### SECURITY - ENCRYPTION - FREE CERTS
 
