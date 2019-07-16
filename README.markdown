@@ -210,6 +210,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - NATURAL LANGUAGE PROCESSING (NLP)
 
+* [The New Era in NLP - Rachel Thomas (SciPy 2019)](https://www.youtube.com/watch?v=KChtdexd5Jo)
 * [Natural Language Processing with Deep Learning (Stanford University, Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) | [2019 course](http://web.stanford.edu/class/cs224n/)
 * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 * Speech and Language Processing, 3rd ed draft, Daniel Jurafsky and James H. Martin: [PDF](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) | [Webpage](https://web.stanford.edu/~jurafsky/slp3/)
@@ -4768,6 +4769,13 @@ Peter R. Egli:
 ### POSTGRESQL - ANALYTICS
 
 * [Building a real time analytics API at scale - Sylvain Friquet (PostgresOpen 2018)](https://www.youtube.com/watch?v=wJOCaNE2_C0)
+
+### POSTGRESQL - CLIENTS
+
+#### POSTGRESQL - CLIENTS - DBEAVER
+
+* [DBeaver.io](https://dbeaver.io/)
+* [Documentation (PDF)](https://dbeaver.com/files/documentation.pdf)
 
 #### POSTGRESQL - KUBERNETES
 

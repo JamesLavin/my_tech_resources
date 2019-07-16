@@ -632,8 +632,10 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 #### PYTHON - LEARNING - VIDEOS
 
+* SciPy: [Austin 2019](https://www.youtube.com/playlist?list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC) | [Japan 2019](https://www.youtube.com/playlist?list=PLYx7XA2nY5Geu7wUH_6RhQM1KJkAxZllc) | [Austin 2018](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gd-tNhm79CNMe_qvi35PgUR) | [Austin 2017](https://www.youtube.com/playlist?list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf) | [Austin 2016](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6)
+* PyCon: [2019](https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ/playlists) | [2018](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ/playlists) | [2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos) | [2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw/videos)
+* PyData: [Amsterdam 2019](https://www.youtube.com/playlist?list=PLGVZCDnMOq0q7_6SdrC2wRtdkojGBTAht) | [Miami 2019](https://www.youtube.com/playlist?list=PLGVZCDnMOq0qtkoXglrDC6pS8NvY94QQw) | [NYC 2018](https://www.youtube.com/playlist?list=PLGVZCDnMOq0qaT_ji1YQ5O4bWTEarj9J8) | [London 2018](https://www.youtube.com/playlist?list=PLGVZCDnMOq0ovNxfxOqYcBcQOIny9Zvb-) | [Berlin 2018](https://www.youtube.com/playlist?list=PLGVZCDnMOq0oQh7daBKy1AW5Q34d0LDsC)
 * [PyVideo.org](http://www.pyvideo.org/category)
-* [PyCon 2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw/videos)
 * [Khan Academy](http://www.khanacademy.org/science/computer-science/v/introduction-to-programs-data-types-and-variables)
 * [Introduction to Computational Thinking and Data Science - MIT](https://www.edx.org/course/mitx/mitx-6-00-2x-introduction-computational-1505)
 * [Python Fundamentals Training](http://www.youtube.com/playlist?list=PL26BA8B9FC33789FF&feature=plcp)
