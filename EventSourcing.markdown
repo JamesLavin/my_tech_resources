@@ -10,6 +10,7 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 
 * Journey to Event Driven - Neil Avery: [Part 1: Why Event-First Thinking Changes Everything](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything) | [Part 2: Programming Models for the Event-Driven Architecture](https://www.confluent.io/blog/journey-to-event-driven-part-2-programming-models-event-driven-architecture)
 * How Events Are Reshaping Modern Systems - Jonas Bonér: [(ReactiveConf 2017)](https://www.youtube.com/watch?v=ycxvmOKDHMQ&t=1s) | [(Devoxx Belgium 2017)](https://www.youtube.com/watch?v=3V3pHm2Cpks)
+* [An In-Depth Look at Event Sourcing with CQRS (PDF) - Sebastian von Conrad](https://resources.sei.cmu.edu/asset_files/Presentation/2017_017_001_497589.pdf)
 * [Design Microservice Architectures the Right Way - Michael Bryzek](https://www.infoq.com/presentations/microservices-arch-infrastructure-cd)
 * [Building Event Driven Services with Apache Kafka and Kafka Streams - Ben Stopford (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=p9wcx3aTjuo)
 * [Design Patterns: Why Event Sourcing? - Greg Young](https://www.youtube.com/watch?v=rUDN40rdly8)
