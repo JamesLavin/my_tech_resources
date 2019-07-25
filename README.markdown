@@ -6043,6 +6043,7 @@ Peter R. Egli:
 * [Dribble](https://dribbble.com/)
 * [Learn UI Design Blog - Erik D. Kennedy](https://learnui.design/blog/)
 * [Flat UI Colors](https://flatuicolors.com/)
+* [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
 
 ### WEB DESIGN - USER EXPERIENCE (UX)
 
