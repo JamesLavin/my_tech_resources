@@ -2417,6 +2417,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Awesome Elixir - Curated list of Elixir/Erlang libraries, resources & shiny things](https://github.com/h4cc/awesome-elixir)
 * [Cheatsheet](https://www.dropbox.com/s/lr1t87rw4wfnyb3/elixir-cheat-sheet-v2.pdf?dl=0)
+* [Elixir in Action (code)](https://github.com/sasa1977/elixir-in-action/tree/master/code_samples) & [book](https://www.manning.com/books/elixir-in-action-second-edition) (book isn't free)
 * [A Brief History of Elixir - Andrea Leopardi (Code BEAM Lite Munich 2018)](https://www.youtube.com/watch?v=CRBUD00H7AM)
 * [Lessons Learned Building a Medication Service at Teladoc and How Ecto Saved the Day - James Lavin (EMPEX 2018)](https://www.youtube.com/watch?v=CUvif-levqk) (Hey, that's ME! I did a thing!!!)
 * [Explicit Elixir - Paul Lamb (ElixirDaze 2016)](https://www.youtube.com/watch?v=sr5I5ncg0kU)
@@ -3503,7 +3504,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ERLANG - ERLPORT
 
+* [ErlPort.org](http://erlport.org/) | [Github](https://github.com/hdima/erlport) | [Python docs](http://erlport.org/docs/python.html)
 * [Using Python Trained Machine Learning Models from Phoenix (Elixir) Applications - Meraj](https://itnext.io/using-machine-learning-models-python-from-phoenix-elixir-applications-cd028e4e5f01)
+* [Mixing Python with Elixir - Badu Boahen](https://medium.com/hackernoon/mixing-python-with-elixir-7a2b7ac6696) & [Mixing Python with Elixir II (asynchronous)](https://hackernoon.com/mixing-python-with-elixir-ii-async-e8586f9b2d53)
+* [Elixir, Mix, Erlport, poolboy, and Anaconda Python - Dave Kuhlman](http://davekuhlman.org/elixir-poolboy-erlport-datasci.html)
+* [Using Python Trained Machine Learning Models from Phoenix (Elixir) Applications - Meraj](https://itnext.io/using-machine-learning-models-python-from-phoenix-elixir-applications-cd028e4e5f01?gi=821f877bfd8b)
 
 ### ERLANG - ETS
 

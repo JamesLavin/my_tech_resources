@@ -46,10 +46,9 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 * [Principles Of Microservices - Sam Newman (Devoxx US 2015)](https://www.youtube.com/watch?v=PFQnNFe27kU)
 * [DDD-CQRS-ES Slack group](http://ddd-cqrs-es.herokuapp.com/)
 * [DDD/CQRS/Event Sourcing/Whatever Google group](https://groups.google.com/forum/#!forum/dddcqrs)
-* InfoQ: [Microservices resources](https://www.infoq.com/microservices/) | [CQRS resources](https://www.infoq.com/cqrs/) | [Reactive programming resources](https://www.infoq.com/reactive-programming/) | [Streaming resources](https://www.infoq.com/streaming/) | [Container resources](https://www.infoq.com/containers/)
+* InfoQ: [Microservices resources](https://www.infoq.com/microservices/) | [Reactive programming resources](https://www.infoq.com/reactive-programming/) | [Streaming resources](https://www.infoq.com/streaming/) | [Container resources](https://www.infoq.com/containers/)
 * [Steve Yegge's Google Platforms Rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX?hl=en)
 * [CQRS & Event Sourcing blog - Daniel Whittaker](http://danielwhittaker.me/)
-* [When, Why, and How to CQRS - Sebastian Daschner (2017)](https://www.youtube.com/watch?v=iK8x1mUPwCE)
 * [The 6 Rules for Modernizing Your Legacy Java Monolith with Microservices - Kevin Webber (Lightbend)](https://www.youtube.com/watch?v=A-IMfF15FZA)
 * [The Seven (More) Deadly Sins of Microservices - Daniel Bryant (GOTO Chicago 2017)](https://www.youtube.com/watch?v=NP189MPfR7Q)
 * [Commander: Better Distributed Applications through CQRS and Event Sourcing - Bobby Calderwood](https://www.youtube.com/watch?v=B1-gS0oEtYc) & [code](https://github.com/capitalone/cqrs-manager-for-distributed-reactive-services)
@@ -65,8 +64,10 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 * [Microservices Resource Guidei - Martin Fowler](https://martinfowler.com/microservices/)
 * [Event Store and Web Applications - Greg Young](https://www.infoq.com/presentations/event-store-web-apps)
 * [Event Sourcing is actually just functional code - Greg Young](https://www.youtube.com/watch?v=kZL41SMXWdM)
+* [State or Events? Which Shall I Keep? - Jakub Pilimon, Kenny Bastani (SpringOne Platform 2017)](https://www.youtube.com/watch?v=r7AGQsM7ncA)
 * [Event Sourcing and Stream Processing at Scale - Martin Kleppmann](https://www.youtube.com/watch?v=avi-TZI9t2I)
 * [Event Sourcing & Functional Programming: a pair made in heaven - Paul Szulc (Devoxx Poland 2015)](https://www.youtube.com/watch?v=1rFY2SfdDoE)
+* [Event Sourcing after Launch - Michiel Overeem (TechDays 2017)](https://www.youtube.com/watch?v=HSJZzFs4cMA)
 * [Developing Functional Domain Models with Event Sourcing - Chris Richardson (Scala By The Bay 2015)](https://www.youtube.com/watch?v=kQO0WnPo4sw)
 * [DDD & REST - Domain Driven APIs for the web - Oliver Gierke (SpringOne Platform 2016)](https://www.youtube.com/watch?v=NdZqeAAIHzc)
 * Developing Microservices With Aggregates - Chris Richardson: [(SpringOne Platform 2016)](https://www.youtube.com/watch?v=7kX3fs0pWwc) & [(Devox US 2017)](https://www.youtube.com/watch?v=gR_EGN86fvg) & [slides (SpringOne Platform 2016](https://www.slideshare.net/chris.e.richardson/developing-microservices-with-aggregates-springone-platform-s1p) & [slides (DevNexus 2017)](https://www.slideshare.net/chris.e.richardson/developing-microservices-with-aggregates-devnexus2017) & [slides (Munich Microservices Meetup 2015)](https://www.slideshare.net/chris.e.richardson/building-and-deploying-microservices-with-event-sourcing-cqrs-and-docker-microxchg-munich-microservices-meetup-2015)
@@ -83,6 +84,7 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 * [CQRS Class - Greg Young](https://www.youtube.com/watch?v=whCk1Q87_ZI)
 * [Building and Deploying Microservices with Event Sourcing, CQRS and Docker - Chris Richardson](https://www.youtube.com/watch?v=I4A5ntHeoxU)
 * [Microservices Evolution: How to break your monolithic database - Edson Yanaga (Devoxx Belgium)](https://www.youtube.com/watch?v=6dfBd-2Oq1M)
+* [DDD Today - Modeling Uncertainty - Vaughn Vernon (GOTO 2017)](https://www.youtube.com/watch?v=8Y-XPlXOWoA)
 * [Powering Microservices with Docker, Kubernetes, Kafka and MongoDB - Andrew Morgan (MongoDB Europe 2016)](https://www.youtube.com/watch?v=F_BuRIAnvqE)
 * [Event Sourcing and CQRS - Joe McBride](https://www.youtube.com/watch?v=0cOJwYP0rss)
 * [How to Write Applications Using Event Souring and CQRS: X Crash Course - X-Team](https://www.youtube.com/watch?v=zujuOE_tiwc)
@@ -108,6 +110,12 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 * [Microservice Patterns - Chris Richardson](https://www.manning.com/books/microservice-patterns)
 * [Reactive Design Patterns - Roland Kuhn with Brian Hanafee and Jamie Allen](https://www.manning.com/books/reactive-design-patterns)
 * [Versioning in an Event Sourced System - Gregory Young](https://leanpub.com/esversioning)
+
+### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - CQRS
+
+* [Really Simple CQRS - Vaughn Vernon](https://kalele.io/really-simple-cqrs/)
+* [When, Why, and How to CQRS - Sebastian Daschner (2017)](https://www.youtube.com/watch?v=iK8x1mUPwCE)
+* [InfoQ CQRS resources](https://www.infoq.com/cqrs/) 
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - DOMAIN-DRIVEN DESIGN
 
@@ -220,7 +228,9 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - EXAMPLES
 
+* [Experiences from Building an Event-Sourced System with Kafka Streams - Jan Stenberg](https://www.infoq.com/news/2018/07/event-sourcing-kafka-streams/)
 * We ❤️ syslogs: Real-time syslog processing with Apache Kafka and KSQL - Robin Moffatt: [Part 1: Filtering](https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-part-1-filtering) | [Part 2: Event-Driven Alerting With Slack](https://www.confluent.io/blog/real-time-syslog-processing-with-apache-kafka-and-ksql-part-2-event-driven-alerting-with-slack/) | [Part 3: Enriching events with external data](https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-enriching-events-with-external-data/)
+
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAF
 
 * [Kaf: Modern CLI for Apache Kafka](https://github.com/infinimesh/kaf)
@@ -237,6 +247,7 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA STREAMS
 
 * Apache Kafka Streams API - Tim Berglund (Confluent): [1. Intro to Streams](https://www.youtube.com/watch?v=Z3JKCLG3VP4) | [2. Creating a Streams Application](https://www.youtube.com/watch?v=LxxeXI1mPKo) | [3. Transforming Data, Part I](https://www.youtube.com/watch?v=7JYEEx7SBuE) | [4. Transforming Data II](https://www.youtube.com/watch?v=3kJgYIkAeHs)
+* [Building event sourced systems with Kafka Streams - Amitay Horwitz, Wix (JEE Conf)](https://www.youtube.com/watch?v=b17l7LvrTco)
 * [Beyond the DSL—Unlocking the power of Kafka Streams with the Processor API - Antony Stubbs (Devoxx 2018)](https://www.youtube.com/watch?v=_KAFdwJ0zBA)
 * [Building Streaming Microservices with Apache Kafka - Tim Berglund (Devoxx Poland 2018)](https://www.youtube.com/watch?v=Hlb-Ss3q3as) & [Processing Streaming Data with KSQL - Tim Berglund (Devoxx Poland 2018)](https://www.youtube.com/watch?v=LM-aQQQes4Q)
 * [Apache Kafka and KSQL in Action : Let’s Build a Streaming Data Pipeline! - Robin Moffatt (Devoxx 2018)](https://www.youtube.com/watch?v=RJtEacDX4Oc)
@@ -396,6 +407,8 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - VIDEOS
 
+* DDD Europe: [2019](https://www.youtube.com/playlist?list=PLf9p-N3ltMTuuYk1zpsjB-D-6pxPkGvwj) | [2018](https://www.youtube.com/playlist?list=PLf9p-N3ltMTtsXOL31VHouyNVgxlpg4pN) | [2017](https://www.youtube.com/playlist?list=PLf9p-N3ltMTtAhyGupYWGVPpxUqrgsXgs) | [2016](https://www.youtube.com/playlist?list=PLf9p-N3ltMTttHHPbCJ0NpD-D50Qpam7z)
+* Explore DDD: [2018](https://www.youtube.com/playlist?list=PLC63ae3uCHHYAyazs0Pwm4WxNbUTPJYaT) | [2017](https://www.youtube.com/playlist?list=PLC63ae3uCHHZhSbPCJnADe0U3gpzF0qjc)
 * [µCon London 2018 - The Microservices Conference](https://skillsmatter.com/conferences/10336-mucon-london-2018-the-microservices-conference#skillscasts)
 * [microXchg 2018](https://www.youtube.com/channel/UCGCbB8TPtYMQmJwYVogcPjg)
 
