@@ -26,7 +26,6 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 * [Exploring CQRS and Event Sourcing - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
 * [There is No Such Thing as a Microservice! - Chris Richardson (Explore DDD Conf 2017)](https://www.youtube.com/watch?v=FXCLLsCGY0s)
 * [Building beautiful systems with Phoenix contexts - Andrew Hao (ElixirDaze 2018)](https://www.youtube.com/watch?v=l3VgbSgo71E)
-* [Effective Aggregate Design - Vaughn Vernon](http://dddcommunity.org/library/vernon_2011/)
 * [Introduction to CQRS and Event Sourcing Patterns - Mathew McLoughlin (NDC Conference 2017)](https://www.youtube.com/watch?v=9a1PqwFrMP0) & [example code](https://github.com/mat-mcloughlin/PatientMangement)
 * Scaling Event Sourcing for Netflix Downloads - Karen Casella, et al.: [Part 1](https://medium.com/netflix-techblog/scaling-event-sourcing-for-netflix-downloads-episode-1-6bc1595c5595) | [Episode 2](https://medium.com/netflix-techblog/scaling-event-sourcing-for-netflix-downloads-episode-2-ce1b54d46eec)
 * [Effective Microservices in a Data-Centric World - Randy Shoup (GOTO Chicago 2017)](https://www.youtube.com/watch?v=whi0T1a4cWU)
@@ -70,10 +69,10 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 * [Event Sourcing after Launch - Michiel Overeem (TechDays 2017)](https://www.youtube.com/watch?v=HSJZzFs4cMA)
 * [Developing Functional Domain Models with Event Sourcing - Chris Richardson (Scala By The Bay 2015)](https://www.youtube.com/watch?v=kQO0WnPo4sw)
 * [DDD & REST - Domain Driven APIs for the web - Oliver Gierke (SpringOne Platform 2016)](https://www.youtube.com/watch?v=NdZqeAAIHzc)
-* Developing Microservices With Aggregates - Chris Richardson: [(SpringOne Platform 2016)](https://www.youtube.com/watch?v=7kX3fs0pWwc) & [(Devox US 2017)](https://www.youtube.com/watch?v=gR_EGN86fvg) & [slides (SpringOne Platform 2016](https://www.slideshare.net/chris.e.richardson/developing-microservices-with-aggregates-springone-platform-s1p) & [slides (DevNexus 2017)](https://www.slideshare.net/chris.e.richardson/developing-microservices-with-aggregates-devnexus2017) & [slides (Munich Microservices Meetup 2015)](https://www.slideshare.net/chris.e.richardson/building-and-deploying-microservices-with-event-sourcing-cqrs-and-docker-microxchg-munich-microservices-meetup-2015)
 * [CQRS/DDD by Greg Young (Professional.NET 2011)](https://www.youtube.com/watch?v=KXqrBySgX-s)
 * [Event Sourcing - Martin Fowler](http://martinfowler.com/eaaDev/EventSourcing.html)
 * [Why Microservices Should Be Event Driven: Autonomy vs Authority - Christian Posta](http://blog.christianposta.com/microservices/why-microservices-should-be-event-driven-autonomy-vs-authority/?utm_medium=social&utm_campaign=postplanner&utm_source=twitter.com)
+* [The hardest part of microservices: Your Data - Christian Posta](https://www.youtube.com/watch?v=EdtZnmV_D-g)
 * [Patterns and practices for real-world event-driven microservices - Rachel Reese (NDC Conferences 2016)](https://www.youtube.com/watch?v=pyudECD-AfQ) (middle section is long digression on F#)
 * [Event Sourcing - Bryan Reinero (GoRuCo 2015)](http://confreaks.tv/videos/goruco2015-event-sourcing)
 * [Introduction to Event Sourcing - Duncan Jones, HedgeFacts](https://www.youtube.com/watch?v=WYShrMYl1ww)
@@ -81,6 +80,7 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 * [Polyglot Data - Greg Young (GOTO Conference 2014)](https://www.youtube.com/watch?v=hv2dKtPq0ME)
 * [CQRS and Event Sourcing - Greg Young (Code on the Beach 2014)](https://www.youtube.com/watch?v=JHGkaShoyNs)
 * [Querying Event Streams - Greg Young (React 2014)](https://www.youtube.com/watch?v=DWhQggR13u8)
+* [Three Rules for Domain-Driven Design - Steven A. Lowe (Explore DDD 2017)](https://www.youtube.com/watch?v=NXDCkpD74mE)
 * [CQRS Class - Greg Young](https://www.youtube.com/watch?v=whCk1Q87_ZI)
 * [Building and Deploying Microservices with Event Sourcing, CQRS and Docker - Chris Richardson](https://www.youtube.com/watch?v=I4A5ntHeoxU)
 * [Microservices Evolution: How to break your monolithic database - Edson Yanaga (Devoxx Belgium)](https://www.youtube.com/watch?v=6dfBd-2Oq1M)
@@ -95,6 +95,13 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 * [Panel: "DDD/CQRS/ES" (wroc_love.rb 2015)](https://www.youtube.com/watch?v=Rh2A96rpGpY)
 * Konrad Garus: [Intro to Event Sourcing and Command-Query Responsibility Segregation](http://squirrel.pl/blog/2015/08/31/introduction-to-event-sourcing-and-command-query-responsibility-segregation/) | [Achieving Consistency in CQRS with Linear Event Store](http://squirrel.pl/blog/2015/09/14/achieving-consistency-in-cqrs-with-linear-event-store/) | [Writing an Event-Sourced CQRS Read Model](http://squirrel.pl/blog/2015/09/22/writing-an-event-sourced-cqrs-read-model/) | [Persistence in CQRS Read Models](http://squirrel.pl/blog/2015/09/28/persistence-in-cqrs-read-models/)
 * [Advanced Topics in Event Sourcing / CQRS / DDD - Sebastian Harko](https://github.com/sebastianharko/adv-es-cqrs-ddd)
+
+### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - AGGREGATE DESIGN
+
+* All Our Aggregates Are Wrong - Mauro Servienti: [Talk (Explore DDD)](https://www.youtube.com/watch?v=KkzvQSuYd5I) | [Talk (NDC Conferences)](https://www.youtube.com/watch?v=hev65ozmYPI) | [Github](https://github.com/mauroservienti/all-our-aggregates-are-wrong-demos) | [Blog](https://milestone.topics.it/talks/all-our-aggregates-are-wrong.html)
+* [How You Can Design Domain-Driven Design Aggregates Effectively Using .NET - Vaughn Vernon](https://www.youtube.com/watch?v=Svns1PVasgU)
+* [Effective Aggregate Design - Vaughn Vernon](http://dddcommunity.org/library/vernon_2011/)
+* Developing Microservices With Aggregates - Chris Richardson: [(SpringOne Platform 2016)](https://www.youtube.com/watch?v=7kX3fs0pWwc) & [(Devox US 2017)](https://www.youtube.com/watch?v=gR_EGN86fvg) & [slides (SpringOne Platform 2016](https://www.slideshare.net/chris.e.richardson/developing-microservices-with-aggregates-springone-platform-s1p) & [slides (DevNexus 2017)](https://www.slideshare.net/chris.e.richardson/developing-microservices-with-aggregates-devnexus2017) & [slides (Munich Microservices Meetup 2015)](https://www.slideshare.net/chris.e.richardson/building-and-deploying-microservices-with-event-sourcing-cqrs-and-docker-microxchg-munich-microservices-meetup-2015)
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - BLOGS
 
@@ -120,7 +127,7 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - DOMAIN-DRIVEN DESIGN
 
 * [Designing Reactive Systems with Event Storming - Lutz Huehnken (microXchg 2018)](https://www.youtube.com/watch?v=Xh6Ts19M6rg)
-* [Explore DDD Conference 2017](https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag/videos)
+* Explore DDD Conference]: [2018](https://www.youtube.com/playlist?list=PLC63ae3uCHHYAyazs0Pwm4WxNbUTPJYaT) | [2017](https://www.youtube.com/playlist?list=PLC63ae3uCHHZhSbPCJnADe0U3gpzF0qjc] | [More](https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag/videos)
 * [Awesome DDD - Nick Chamberlain](https://github.com/heynickc/awesome-ddd)
 * [Domain Driven Design and Onion Architecture in Scala - Wade Waldron (Scala Days 2016)](https://www.youtube.com/watch?v=MnNeDXg3Qao)
 * [Tackling Complexity in the Heart of Software - Eric Evans (Explore DDD Conference 2017)](https://www.youtube.com/watch?v=kIKwPNKXaLU)
@@ -306,6 +313,12 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [KSQL 201: A Deep Dive into Query Processing - Hojjat Jafarpour, Confluent](https://www.confluent.io/kafka-summit-london18/ksql-201-a-deep-dive-into-query-processing)
 * [Level Up Your KSQL - Tim Berglund](https://www.youtube.com/watch?v=C-rUyWmRJSQ)
 
+#### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - MIRRORMAKER
+
+* [Kafka MirrorMaker - Confluent](https://docs.confluent.io/current/multi-dc-replicator/mirrormaker.html)
+* [Transfer data across clusters in Kafka with MirrorMaker - Parisa Moghaddam](https://medium.com/clay-one/transfer-data-across-clusters-in-kafka-with-mirrormaker-e35aa36cdb86)
+* [Kafka Replication: The case for MirrorMaker 2.0 - Renu Tewan](https://blog.cloudera.com/blog/2019/05/kafka-replication-the-case-for-mirrormaker-2/)
+
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - SECURITY
 
 * [Kafka Security 101 & Real World Tips - Stephane Maarek](https://www.slideshare.net/ConfluentInc/kafka-security-101-and-realworld-tips)
@@ -316,8 +329,6 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 * Kafka Helm Chart: [Kubeapps.com](https://hub.kubeapps.com/charts/incubator/kafka) & [Helm.sh](https://hub.helm.sh/charts/incubator/kafka) & [Github](https://github.com/helm/charts/tree/master/incubator/kafka)
 * [Kubernetes-kafka: Kafka cluster as Kubernetes StatefulSet, plain manifests and config](https://github.com/Yolean/kubernetes-kafka)
-* [Strimzi: Running Apache Kafka on Kubernetes and OpenShift - Jakub Scholz, Stanislav Knot](https://www.youtube.com/watch?v=AlU4CUuUfHA)
-* Strimzi: Kubernetes Operator for running Kafka (and OpenShift): [Github](https://github.com/strimzi/strimzi-kafka-operator) | [Strimzi.io](https://strimzi.io/) | [Minikube quickstart](https://strimzi.io/quickstarts/minikube/) | [Using Helm to Deploy the Strimzi Kafka Operator](https://strimzi.io/2018/11/01/using-helm.html)
 * [Kafka in Docker - Spotify](https://github.com/spotify/docker-kafka)
 * [Kafka-docker](https://github.com/wurstmeister/kafka-docker)
 * [Ches/kafka (Docker)](https://hub.docker.com/r/ches/kafka/)
@@ -332,6 +343,14 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [Tuning Kafka for low latency guaranteed messaging -- Jiangjie (Becket) Qin (LinkedIn), 6/15/16](https://www.youtube.com/watch?v=oQe7PpDDdzA)
 * [Running Kafka in Production: lessons learned - Ivan Dyachkov (Klarna the KonferenSE 2016)](https://www.youtube.com/watch?v=xZ8qy5eDS48)
 * [Scaling Slack’s Job Queue - Saroj Yadav, et al. (Slack)](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)
+
+*#### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - PRODUCTIONIZING - STRIMZI
+
+* [Strimzi: Kubernetes Kafka Operator](https://operatorhub.io/operator/strimzi-cluster-operator)
+* [Kafka on Kubernetes - April 2019 - Marius Bogoevici](https://www.youtube.com/watch?v=CXy_T_rWcLE) & [Slides](https://speakerdeck.com/tjug/2019-04-kafka-on-kubernetes)
+* [Strimzi: Running Apache Kafka on Kubernetes and OpenShift - Jakub Scholz, Stanislav Knot](https://www.youtube.com/watch?v=AlU4CUuUfHA)
+* Strimzi: Kubernetes Operator for running Kafka (and OpenShift): [Github](https://github.com/strimzi/strimzi-kafka-operator) | [Strimzi.io](https://strimzi.io/) | [Minikube quickstart](https://strimzi.io/quickstarts/minikube/) | [Using Helm to Deploy the Strimzi Kafka Operator](https://strimzi.io/2018/11/01/using-helm.html)
+* [Using OperatorHub.io to installing Strimzi operator for Apache Kafka on Kubernetes - Jakub Scholz](https://www.youtube.com/watch?v=BfT35ay6v-Q)
 
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - LOG PERSISTENCE
 
