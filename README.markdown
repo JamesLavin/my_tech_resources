@@ -22,6 +22,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ALGORITHMS - CRDTs
 
+* [CRDTs in Production - Dmitry Martyanov](https://www.youtube.com/watch?v=f03FWiIfXoQ)
 * [Practical Demystification of CRDTs - Dmitry Ivanov & Nami Nasserazad (Curry On 2016)](https://www.youtube.com/watch?v=ShiU9g5JFq8)
 * [Conflict-free Replicated Data Types - Nuno Preguica, Carlos Baquero, and Marc Shapiro [PDF]](https://pages.lip6.fr/Marc.Shapiro/papers/CRDTs-Springer2018-authorversion.pdf)
 * [Raft: Understanding Distributed Consensus - TheSecretLivesOfData.com](http://thesecretlivesofdata.com/raft/)
@@ -422,6 +423,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * [TensorFlow at DeepMind - Daniel Visentin (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=VdDmhOCw6J0)
 * [TensorFlow Wide & Deep Learning Tutorial (TensorFlow)](https://www.tensorflow.org/tutorials/wide_and_deep)
 
+#### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW - HOROVOD
+
+* [Horovod: Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet](https://github.com/horovod/horovod)
+
+#### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW - KUBEFLOW
+
+* [KubeFlow: Machine Learning Toolkit for Kubernetes](https://www.kubeflow.org/)
+* [Machine Learning Frameworks on Kubernetes](https://github.com/aws-samples/machine-learning-using-k8s)
+* [kfctl](https://github.com/kubeflow/kubeflow/tree/master/kfctl)
+
 #### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW - MOBILE
 
 * [TensorFlow.js](https://js.tensorflow.org/) | [Tutorials](https://js.tensorflow.org/tutorials/) | [Docs](https://js.tensorflow.org/api/0.10.0/) | [Examples](https://github.com/tensorflow/tfjs-examples)
@@ -443,7 +454,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ASDF
 
-* [asdf - Version manager for Ruby, Node.js, Elixir, Erlang & more](https://github.com/asdf-vm/asdf)
+* [asdf - Version manager for Ruby, Node.js, Elixir, Erlang & more](https://github.com/asdf-vm/asdf) | [Docs](https://asdf-vm.com/#/core-manage-asdf-vm)
 * [Agnostic Version Management With asdf - Bobby Grayson](https://elixirschool.com/blog/asdf-version-management/)
 
 ## BLOCKCHAINS
@@ -1440,7 +1451,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Getting Started with Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/getting-started.html)
 * [Amazon EKS Workshop](https://eksworkshop.com/)
-* eksctl - Weaveworks: [eksctl.io](https://eksctl.io/) | [Github](https://github.com/weaveworks/eksctl)
+* eksctl - Official CLI for Amazon EKS: [eksctl.io](https://eksctl.io/) | [Github](https://github.com/weaveworks/eksctl)
 * [aws-iam-authenticator: tool to use AWS IAM credentials to authenticate to a Kubernetes cluster](https://github.com/kubernetes-sigs/aws-iam-authenticator)
 * [Specifying Sensitive Data - AWS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/specifying-sensitive-data.html)
 * [Deep Dive on Amazon EKS - Brandon Chavis & Eswar Bala (AWS re:Invent 2018)](https://www.youtube.com/watch?v=EDaGpxZ6Qi0)
@@ -1780,6 +1791,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - ISTIO
 
 * [Istio: Open Platform to Connect, Manage, and Secure Microservices](https://istio.io/) | [Github](https://github.com/istio/istio) | [Twitter](https://twitter.com/IstioMesh)
+* [istio-operator](https://github.com/banzaicloud/istio-operator)
 * [The Future is Istio - Jason Smith (GOTO 2018)]https://www.youtube.com/watch?v=sTqISgCgd9M()
 * [Tutorial: Using Istio - Lee Calcote & Girish Ranganathan (KubeCon + CloudNativeCon 2018)](https://www.youtube.com/watch?v=jlHLZqS7Vek)
 * [Distributed Microservices Metrics and Tracing with Istio and OpenCensus – Sandeep Dinesh (GDG DevFest Ukraine 2018)](https://www.youtube.com/watch?v=1wWfVqYb-5Y)
@@ -1834,6 +1846,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### DEVOPS - ISTIO - KIALI
 
 * Kiali: Service Mesh Observability: [Kiali.io](https://www.kiali.io/) | [Getting started](https://www.kiali.io/gettingstarted/) | [Docs](https://www.kiali.io/documentation/) | [API](https://www.kiali.io/api/)
+* [kiali-operator](https://operatorhub.io/operator/kiali-operator)
 
 #### DEVOPS - ISTIO - MULTICLUSTER
 
@@ -1860,6 +1873,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Kubernetes By Example](http://kubernetesbyexample.com/)
 * [Infrastructure in the New World of Containers: What are your options? - Austen Novis (DevOpsDays Boston 2018](http://confreaks.tv/videos/devopsdaysboston2018-infrastructure-in-the-new-world-of-containers-what-are-your-options)
 * [Kubernetes the Hard Way - Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way) & [Kubernetes the Easy Way - James Ward](https://github.com/jamesward/kubernetes-the-easy-way)
+* [Kubernetes Failure Stories](https://k8s.af/) & [Github](https://github.com/hjacobs/kubernetes-failure-stories)
 * [Kubernetes in Real Life - Ian Crosby (GOTO Conference 2017)](https://www.youtube.com/watch?v=UUt7SuG3nW4)
 * [Troubleshooting & Debugging Microservices in Kubernetes - Ray Tsang & Robert Kubis (GOTO 2018)](https://www.youtube.com/watch?v=2hxTTyc6IH8)
 * [The ins and outs of networking in Google Container Engine and Kubernetes - Tim Hockin and Michael Rubin (Google Cloud Next '17)](https://www.youtube.com/watch?v=y2bhV81MfKQ)
@@ -1869,11 +1883,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [KataCoda (interactive browser-based labs, courses, & playgrounds)](https://katacoda.com/learn)
 * [Kubernetes in production - blue-green deployment, auto scaling and deployment automation - Paul Bakker (Devoxx UK 2016)](https://www.youtube.com/watch?v=-Ci4vd4rh4M)
 * [Chick-Fil-A: Milking the Most out of 1000's of K8s Clusters - Caleb Hurd & Brian Chambers (QCon NYC 2018)](https://www.infoq.com/presentations/chick-fil-a-k8-clusters)
-
-### DEVOPS - JAEGER
-
-* [Jaeger Operator for Kubernetes](https://github.com/jaegertracing/jaeger-operator)
-* [Getting started with Jaeger to build an Istio service mesh - Daniel Oh](https://opensource.com/article/19/3/getting-started-jaeger)
 
 #### DEVOPS - KUBERNETES - ARGO
 
@@ -2001,6 +2010,11 @@ See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 
 See [DEVOPS - ISTIO.IO](#devops---istioio)
 
+#### DEVOPS - KUBERNETES - JAEGER
+
+* [Jaeger Operator for Kubernetes](https://github.com/jaegertracing/jaeger-operator)
+* [Getting started with Jaeger to build an Istio service mesh - Daniel Oh](https://opensource.com/article/19/3/getting-started-jaeger)
+
 #### DEVOPS - KUBERNETES - KUBECTL
 
 * kubectl: [Cheatsheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/) | [Overview](https://kubernetes.io/docs/user-guide/kubectl-overview/)
@@ -2041,15 +2055,13 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### DEVOPS - KUBERNETES - OPERATORS
 
-* [awesome-operators](https://github.com/operator-framework/awesome-operators)
+* [OperatorHub.io](https://operatorhub.io/)
+* [Awesome Operators](https://github.com/operator-framework/awesome-operators)
 * [How to explain Kubernetes Operators in plain English - Kevin Casey](https://enterprisersproject.com/article/2019/2/kubernetes-operators-plain-english)
+* [Kubernetes Operators - Steven Acreman](https://kubedex.com/operators/)
 * [Operator Framework Github repos](https://github.com/operator-framework)
 * [TGI Kubernetes 037: Operator Framework - Kris Nova](https://www.youtube.com/watch?v=Ko_WfXRAypY)
 
-#### DEVOPS - KUBERNETES - OPERATORS
-
-* [Awesome Operators](https://github.com/operator-framework/awesome-operators)
-* [Kubernetes Operators - Steven Acreman](https://kubedex.com/operators/)
 
 #### DEVOPS - KUBERNETES - PERSISTENT VOLUMES
 
@@ -2496,6 +2508,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Atlas (ORM)](https://github.com/chrismccord/atlas)
 
+#### ELIXIR - AUTHENTICATION - POW
+
+* [pow: Robust, modular, and extendable user authentication system - Dan Schultzer](https://github.com/danschultzer/pow)
+
 ### ELIXIR - AVIA
 
 * Avia: E-Commerce re-invented in Elixir: [AviaCommerce.org](https://www.aviacommerce.org/) | [Github](https://github.com/aviacommerce/avia) | [API](https://www.aviacommerce.org/docs/apis-getting-started.html) | [Getting Started](https://www.aviacommerce.org/docs/apis-getting-started.html) | [Main Concepts](https://www.aviacommerce.org/docs/products.html)
@@ -2534,6 +2550,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * Broadway: Concurrent and multi-stage data ingestion and data processing with Elixir: [Github](https://github.com/plataformatec/broadway)
 * [The Road to Broadway - José Valim (Lonestar ElixirConf 2019)](https://www.youtube.com/watch?v=a3FtBNMzMxM)
+* [Broadway + Sqs + Apache Tika - Dave Lee (ElixirConf EU 2019)](https://www.youtube.com/watch?v=Gc3_bbfEW_w)
 
 ### ELIXIR - CACHING
 
@@ -2553,6 +2570,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### ELIXIR - CODE QUALITY
 
 * [Modular Design in Elixir - Maciej Kaszubowski (ElixirConf EU 2019)](https://www.youtube.com/watch?v=hgDCg3QdZgU)
+* [Enforcing code quality in Elixir - Leandro Cesquini Pereira](https://itnext.io/enforcing-code-quality-in-elixir-20f87efc7e66)
 * [SOLID Elixir - Georgina McFadyen (ElixirConf.EU 2018)](https://www.youtube.com/watch?v=eldYot7uxUc)
 * [Keeping Code Consistent - Ben Marx (ElixirConf EU 2017)](https://www.youtube.com/watch?v=W1EzF4FdUxM)
 * [Refactoring Elixir: Lessons Learned from a Year on Exercism.io](https://www.youtube.com/watch?v=tJJMrtJEK1A)
@@ -2659,6 +2677,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### ELIXIR - DEPLOYMENT - DISTILLERY
 
 * Distillery: [Github](https://github.com/bitwalker/distillery) | [Documentation](https://hexdocs.pm/distillery/getting-started.html)
+* [Elixir Deployments - 2019-05-20 - Eric Oestrich (Live Coding Grapevine)](https://www.youtube.com/watch?v=ucUefBendyE) & [Grapevine code](https://github.com/oestrich/grapevine)
 * [Elixir: Runtime vs. compile time configuration - Hubert Łępicki](https://www.amberbit.com/blog/2018/9/27/elixir-runtime-vs-compile-time-configuration/)
 * [Be Careful When Using Elixir’s Module Attributes - Chad Jablonski](https://ropig.com/blog/be-careful-when-using-elixirs-module-attributes/)
 * How to perform Hot Code Swapping in Elixir - Blackode: [#1](https://medium.com/blackode/how-to-perform-hot-code-swapping-in-elixir-afc824860012) | [#2 — A (Live Demo) GenServer State update](https://medium.com/@blackode/how-to-perform-hot-code-swapping-using-distillery-2-a-live-demo-genserver-state-update-53d8344d9147)
@@ -2724,12 +2743,14 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Ecto Without a Database - Greg Vaughn (Lonestar ElixirConf 2019)](https://www.youtube.com/watch?v=k_xDi7zAcNM)
 * [Things You Might Not Have Tried With Ecto - Luke Imhoff (Lonestar ElixirConf 2019)](https://www.youtube.com/watch?v=3EyDkiDzbj8)
 * [Leveling Up With Ecto - Darin Wilson (ElixirConf 2016)](https://www.youtube.com/watch?v=QE7bpqpDoKo) | [code](https://github.com/darinwilson/music_db)
+* [Database Locking with Ecto in Elixir - Avi Turkewitz](https://medium.com/flatiron-labs/database-locking-with-ecto-in-elixir-9804cdbd1866)
 * Lew Parker: [Diving into Ecto - 1](http://www.glydergun.com/diving-into-ecto/) | [Diving into Ecto - 2](http://www.glydergun.com/diving-into-ecto-part-2/) | [Ecto Query Library](http://www.glydergun.com/the-ecto-query-library/)
 * Understanding Elixir’s Ecto Querying DSL - Thomas Punt: [The Basics](https://www.sitepoint.com/understanding-elixirs-ecto-querying-dsl-the-basics/) | [Beyond the Basics](https://www.sitepoint.com/elixirs-ecto-querying-dsl-beyond-the-basics/)
 * [Preloading Nested Associations with Ecto - Greg Lazarev](https://robots.thoughtbot.com/preloading-nested-associations-with-ecto)
 * [Querying an Embedded Map in PostgreSQL with Ecto - David Bernheisel](https://robots.thoughtbot.com/querying-embedded-maps-in-postgresql-with-ecto)
 * [Up, Down, Up with Ecto Migrations - Josh Branchaud](https://hashrocket.com/blog/posts/up-down-up-with-ecto-migrations)
 * [Ecto Migrations: Simple to Complex - Josh Branchaud](https://hashrocket.com/blog/posts/ecto-migrations-simple-to-complex)
+* [Maintaining a versioned database schema with Ecto - Prakash](https://medium.com/@prakash_66502/maintaining-a-versioned-database-schema-with-ecto-45eab90ea0a8)
 * [Fast Full-text Search with Ecto and PostgreSQL - Nathan Long](http://nathanmlong.com/2018/01/fast-fulltext-search-with-ecto-and-postgresql/)
 * [Refactoring Techniques for Elixir, Ecto, and Phoenix - Gary Rennie (ElixirConf 2016)](https://www.youtube.com/watch?v=V21DAKtY31Q)
 * [Connecting to Multiple Databases with Ecto - Geoffrey Lessel](http://geoffreylessel.com/2016/connecting-to-multiple-databases-with-ecto/)
@@ -2851,7 +2872,9 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - GENSTAGE & FLOW
 
-* [Lessons From Our First Trillion Messages with Flow - John Mertens (EMPEX LA 2019)](https://www.youtube.com/watch?v=b342YwOzIjI)
+* [Robust Data Processing Pipeline with Elixir and Flow - Laszlo Bacsi (ElixirConf EU 2018)](https://www.youtube.com/watch?v=3XL-31nqcX4)
+* [Elixir Flow - Renato Freire (Montreal Elixir)](https://www.youtube.com/watch?v=cgIu6q56xh8)
+* [Lessons From Our First Trillion Messages with Flow - John Mertens (EMPEX LA 2019)](https://www.youtube.com/watch?v=b342YwOzIjI) & [ElixirConf EU 2019](https://www.youtube.com/watch?v=t46L9RKmlNo)
 * [Sending Millions of HTTP Requests Using GenStage - Damir Gainetdinov](http://big-elephants.com/2019-01/facebook-genstage/)
 * [Elixir/Flow — Local MapReduce - Mat Clutter](https://medium.com/flatiron-labs/elixir-flow-local-mapreduce-fc55fe11d210)
 * [GenStage: Keeping large amounts of data up-to-date with pipelines - Robert Beene (EMPEX 2018](https://www.youtube.com/watch?v=9mfD4-HUgh0)
@@ -2967,6 +2990,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [The ABCs of OTP - Jesse J Anderson (ElixirDaze 2017)](https://www.youtube.com/watch?v=8X0IWW2GJoQ) | [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir) | [resource links](https://gist.github.com/jessejanderson/16cbc0614e9194fa1b64460f775777ab)
 * [Let It Crash: Creating an Example Supervisor in Elixir Using OTP - Tyler Pachal](https://medium.com/@tylerpachal/let-it-crash-creating-an-example-supervisor-in-elixir-using-otp-36ea4236b02b)
 * Michael @ omgneering: [GenServer basics](https://www.youtube.com/watch?v=zC7TcrRi46Q) | [GenServer Callbacks and concurrency](Elixir GenServer callbacks and concurrency) | [Supervisor](https://www.youtube.com/watch?v=Gdf8JXeaPjw) | [Application (Part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM) | [Application (Part 2)](https://www.youtube.com/watch?v=rMwEQZewDyk)
+* [Processes and Supervision in Elixir - Steve Grossi](https://www.youtube.com/watch?v=eUxang6_WQA)
 * [split_brain.ex: The challenges of building a small distributed Elixir Application - Dorian Iacobescu](https://medium.com/qixxit-development/split-brain-ex-5d5f1c19b133)
 * [To spawn, or not to spawn? - Saša Jurić](http://www.theerlangelist.com/article/spawn_or_not)
 * [Write Unbelievably Clean Concurrent Code in Elixir Using the Task Module - Percy Grunwald](https://www.toptechskills.com/elixir-phoenix-tutorials-courses/clean-concurrent-code-elixir-task-module/)
@@ -3000,6 +3024,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - PERFORMANCE
 
+* [Building A Highly Scalable Service that Survived A Super Bowl - Keith Elder (Code BEAM SF 2019)](https://www.youtube.com/watch?v=lXiiiLhwBI4)
 * [Monitoring Production Elixir Applications - John Kelly (EMPEX 2017)](https://www.youtube.com/watch?v=nIRGF61_Go8)
 * [Measuring your Elixir Application - Renan Ranelli (ElixirConf 2016)](https://www.youtube.com/watch?v=3KhzyDDju0Q) | [Blog post: "A guide to measuring your Elixir app](http://milhouseonsoftware.com/2016/05/08/measuring-your-elixir-application/)
 * [vmstats: gathers metrics on the Erlang VM and sends them to a configurable sink - Fred Hebert](https://github.com/ferd/vmstats)
@@ -3085,6 +3110,15 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### ELIXIR - PHOENIX - DEPLOYMENT
 
+Note: Elixir 1.9 will include release support:
+
+* [Building Elixir 1.9 releases - Alchemist Camp](https://www.youtube.com/watch?v=W5Af_FFtOsQ)
+* [Updating Hex.pm to use Elixir releases - Wojtek Mach](http://blog.plataformatec.com.br/2019/05/updating-hex-pm-to-use-elixir-releases/)
+* [What’s new in Elixir – Apr/19 - José Valim](http://blog.plataformatec.com.br/2019/04/whats-new-in-elixir-apr-19/)
+
+Consequently, much of the following will soon be at least partially outdated:
+
+* [Continuous deployment of a Phoenix project using GitLab CI/CD - Antoine Lehurt](https://blog.kewah.com/2019/gitlab-ci-for-elixir-phoenix-project/)
 * [Distillery: Phoenix Walkthrough](https://hexdocs.pm/distillery/phoenix-walkthrough.html)
 * [Elixir Phoenix 1.4 Deployments with Distillery and Edeliver on Ubuntu - Troy Martin](https://devato.com/automate-elixir-phoenix-1-4-deployment-with-distillery-and-edeliver-on-ubuntu/)
 * [Implementing Connection Draining for Phoenix (or any library that uses Ranch!) - Derek Kraan](https://medium.com/@derek.kraan2/implementing-connection-draining-for-phoenix-or-any-library-that-uses-ranch-8e640f3bd4cf)
@@ -3111,6 +3145,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### ELIXIR - PHOENIX - LIVE VIEW
 
 * [Phoenix LiveView - Interactive, Real TIme Apps - No need to write Javascript - Chris McCord (ElixirConf EU 2019)](https://www.youtube.com/watch?v=8xJzHq8ru0M) & [Dec 2018 blog post](https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript)
+* [Building and Playing the Go Game with Phoenix LiveView - Jeff Kreeftmeijer](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html)
 * [Talking to the LiveView: Updating the Phoenix LiveViews from outside the process - Dorian Iacobescu](https://medium.com/@iacobson/talking-to-the-liveview-7a19f7e45522)
 * [Phoenix LiveView Collection - Leandro Cesquini Pereira](https://medium.com/@leandrocesquini/phoenix-liveview-collection-8259f35ff2b0)
 * [Swapping React for Phoenix LiveView - Ed Ellson](https://medium.com/qixxit-development/swapping-react-for-phoenix-liveview-db6581f27a14)
@@ -3152,6 +3187,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### ELIXIR - PHOENIX - TESTING
 
+* [ExUnit Deep Dive - Daniel Serrano](https://dnlserrano.dev/2019/05/26/exunit-deep-dive.html)
 * [How to do Outside-In TDD with Phoenix - Yiming Chen](https://dsdshcym.github.io/blog/2018/08/04/how-to-do-outside-in-tdd-with-phoenix/)
 * [End-to-end Testing in Elixir with Hound - Maciej Woźniak](https://semaphoreci.com/community/tutorials/end-to-end-testing-in-elixir-with-hound)
 * [Running Your Phoenix Tests Using Docker - Jason Kriss](https://blog.codeship.com/running-your-phoenix-tests-using-docker/)
@@ -3218,6 +3254,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Announcing PushEx: Open-Source WebSocket Push Server in Elixir - Stephen Bussey](https://stephenbussey.com/2018/12/02/announcing-pushex-open-source-websocket-push-server-in-elixir.html)
 * [PushEx](https://github.com/pushex-project/pushex)
 
+### ELIXIR - REDIS
+
+* [Redex (Github)](https://github.com/coosto/redex)
+* [Redex: An Elixir implementation of Redis - Ali Farhadi (ElixirConf EU 2019)](https://www.youtube.com/watch?v=sbk4ceR__DU)
+
 ### ELIXIR - RIAK CORE
 
 * [Riak Core](https://github.com/basho/riak_core/)
@@ -3231,7 +3272,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### ELIXIR - SCENIC
 
 * [scenic](https://github.com/boydm/scenic) | [scenic.new](https://github.com/boydm/scenic_new)
-* [Getting started with Scenic in Elixir — Crafting a simple snake game - Giancarlo França](https://blog.usejournal.com/elixir-scenic-snake-game-b8616b1d7ee0)
+* [Natively Functional UI with Scenic - Boyd Multerer (Code BEAM STO 2019)](https://www.youtube.com/watch?v=dgllQmf5DXk)
 * [Introducing Scenic A Functional UI Framework - Boyd Multerer (ElixirConf 2018)](https://www.youtube.com/watch?v=1QNxLNMq3Uw)
 * [Live coding an Escher painting using Scenic - Ju Liu (ElixirConf EU 2019)](https://www.youtube.com/watch?v=sV5ValgY4ck)
 * [Getting started with Scenic in Elixir: Crafting a simple snake game - Giancarlo França](https://medium.com/@giandr/elixir-scenic-snake-game-b8616b1d7ee0) & [code on Github](https://github.com/gVirtu/scenic-snake)
@@ -3266,11 +3307,19 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Concurrent Feature Tests with Phoenix and Hound - Kevin Rockwood](http://rockwood.me/2016/concurrent-feature-tests-with-phoenix/)
 
+#### ELIXIR - TESTING - MECKS UNIT
+
+* [MecksUnit: Simple Elixir package to elegantly mock module functions within (asynchronous) ExUnit tests using Erlang's :meck library](https://github.com/archan937/mecks_unit)
+
+#### ELIXIR - TESTING - MOCK
+
+* [Mock: Elixir mocking library](https://github.com/jjh42/mock)
+
 #### ELIXIR - TESTING - MOX
 
 * [Functional Mocks with Mox in Elixir - Andrew Hao](https://blog.carbonfive.com/2018/01/16/functional-mocks-with-mox-in-elixir/)
 
-#### ELIXIR - PROPERTY-BASED TESTING
+#### ELIXIR - TESTING - PROPERTY-BASED TESTING
 
 * [Testing Erlang and Elixir through PropEr Modeling - Fred Hebert (Erlang Solutions Webinar)](https://www.youtube.com/watch?v=LvFs33-1Tbo)
 * [StreamData: Elixir library for data generation and property-based testing - Andrea Leopardi](https://github.com/whatyouhide/stream_data)
@@ -3300,6 +3349,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Chemanalysis: Dialyzing Elixir - Sean Cribbs (Code BEAM SF 19)](https://www.youtube.com/watch?v=k4au7VioXNk)
 * [Decoding Dialyzer - Part 1 - Devon Estes](http://devonestes.herokuapp.com/decoding-dialyzer)
+* [What Does Dialyzer Think of Me? - Stavros Aronis (Code Beam 2019)](https://www.youtube.com/watch?v=Nxsw1jRE2A4)
 * [Hype For Types Using Dialyzer to Bring Type Checking to Your Elixir Code - Emma Cunningham (Code Beam SF 2018)](https://www.youtube.com/watch?v=yZO6FkkdJEg)
 * [Dialyxir](https://github.com/jeremyjh/dialyxir) & [Dialyzer](http://erlang.org/doc/man/dialyzer.html)
 * Dialyzer: Optimistic Type Checking for Erlang and Elixir - Jason Voegele: [ElixirConf 2016](https://www.youtube.com/watch?v=JT0ECYZ9FaQ) | [λC 2016](https://www.youtube.com/watch?v=FXCMiQWnWu0)
@@ -3326,7 +3376,8 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * ElixirConf: [2019 EU](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtoiQC735NjHyPJUS_nmrxy) | [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * Lonestar ElixirConf: [2019](https://www.youtube.com/playlist?list=PLGqeEOaC5KsRisF-GUlgJh35EowwzMYoS) | [2018](https://www.youtube.com/playlist?list=PLGqeEOaC5KsQt7r8KCOzfDgcqsvy_-hCN) | [2017](http://confreaks.tv/events/lonestarelixir2017)
 * EMPEX: [2019 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapyHWNFBapGOz40efbJuwmx2) | [2018 NYC](https://www.youtube.com/playlist?list=PLyO-58-sOapw81dCfjDrX5TuYxS5S8qMq) | [2018 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapy9Fs4Sd-HOeQIFwrSCQ3z1) | [2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS) | [2016](https://www.youtube.com/playlist?list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
-* Code BEAM: [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Munich 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztyk61upvBMvVPbfTyfFgCE) | [Berlin 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs6eFJ9yx-jR7UShGGfPnY4) | [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
+* [SmartLogic Elixir LiveStream Archive](https://www.youtube.com/playlist?list=PLCv-QRhbg07HUmxY9maIWVG9868MCIiXX)
+* Code BEAM: [Stockholm 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztq2fM3aGvXlj_jOfiopM2B) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Munich 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztyk61upvBMvVPbfTyfFgCE) | [Berlin 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs6eFJ9yx-jR7UShGGfPnY4) | [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
 * The Big Elixir: [2018](https://www.youtube.com/channel/UCInJUDVff2bzZSrkDRUCOdA)
 * Code Elixir LDN: [2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zu4zxnZXtCSOCvsUHtxTYIl) | [2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h8_H-hZKYjNLTl3UraSyQ7) | [2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ivlIjzcaHS9N_Swe_0hWj0)
 * [EveryElixirVideo.page](https://everyelixirvideo.page/)
@@ -3419,6 +3470,8 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ERLANG - BEAM
 
+* [The Soul of Erlang and Elixir - Saša Jurić (GOTO Chicago 2019)](https://www.youtube.com/watch?v=JvBT4XBdoUE)
+* [The BEAM Coding Paradigm - Kenji Rikitake (Code BEAM STO 2019)](https://www.youtube.com/watch?v=_KXHE6ULnww)
 * [Fantastic Voyage III: Destination BEAM - Brian Troutwine (Code BEAM SF 2019)](https://www.youtube.com/watch?v=Cri3Qqy4ptM)
 * [Digging through the garbage - Devon Estes (Code BEAM Lite Berlin 18)](https://www.youtube.com/watch?v=aqLujfzvUgM)
 * The Erlang Runtime System (a.k.a., The BEAM Book): [Github (source)](https://github.com/happi/theBeamBook) & [PDF](https://github.com/happi/theBeamBook/releases)
@@ -3531,6 +3584,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ERLANG - MNESIA
 
+* [Memento: Simple but Powerful Elixir interface to the Erlang Mnesia Database - Sheharyar Naseer](https://github.com/sheharyarn/memento)
 * [Where Did I Put My Data? - Alex Peachey (EMPEX LA 2019)](https://www.youtube.com/watch?v=9216dUNgKCU)
 * [Store Everything With Elixir and Mnesia - Ilya Bodrov](https://code.tutsplus.com/articles/store-everything-with-elixir-and-mnesia--cms-29821)
 * Mnesia: [Docs](http://erlang.org/doc/man/mnesia.html)
@@ -3539,6 +3593,12 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * Erlang Performance Lab (developer tool, not production monitoring): [website](http://www.erlang.pl/) | [Youtube](https://www.youtube.com/channel/UCGkcbu799cC1rtMaQtAajpg) | [Github](https://github.com/erlanglab/erlangpl) | [Twitter](https://twitter.com/erlanglab)
 * [Erlang Performance Lab - Michal Slaski (Erlang & Elixir Factory SF 2017)](https://www.youtube.com/watch?v=ncedupb-Rqw)
+
+### ERLANG - OBSERVER
+
+* observer: GUI tool for observing an Erlang system: [User's Guide](http://erlang.org/doc/apps/observer/observer_ug.html) | [User's Guide (PDF)](http://erlang.org/doc/apps/observer/observer.pdf)
+* [observer_cli: Visualize Erlang/Elixir nodes on the command line - zhongwencool](https://github.com/zhongwencool/observer_cli)
+* [Tracing and observing your remote node - Erich Kist](http://blog.plataformatec.com.br/2016/05/tracing-and-observing-your-remote-node/)
 
 ### ERLANG - OTP
 
@@ -3570,6 +3630,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ERLANG - PYRLANG
 
+* [Pyrlang: Python meets Erlang - Johan Sommerfeld (Code BEAM STO 19)](https://www.youtube.com/watch?v=MwaUdNi34b4)
 * Erlang node implemented in Python 3.5+ (Asyncio-based): [Pyrlang.github.io](https://pyrlang.github.io/Pyrlang/) | [Github](https://github.com/Pyrlang/Pyrlang)
 
 ### ERLANG - TESTING
@@ -3704,7 +3765,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * LambdaDays: [2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvCRCVlXTfB6-d09K3r0Sxa) | [2018](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl)
 * LambdaConf (λC): [2017](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhx5bgmpAgqArzrh0pL-tc3P) | [2017 Winter Retreat](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhy9wMify6MXW6F339W4g4Eo) | [2016](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos) | [2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
-* [Curry On! Amsterdam](https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w)
+* [Curry On!](https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w)
 * [Scale by the Bay 2017](https://www.youtube.com/playlist?list=PLNESult6cnOkDeaaEhq192kdsbMPc3dIJ)
 * [MoonConf 2016](https://www.youtube.com/playlist?list=PLWYAdh9hA7geMRCgwDomlHAdwlsno32LU&spfreload=10)
 * [All the FP Talks at NDC Oslo 2016](http://theburningmonk.com/2016/06/all-the-fp-talks-at-ndc-oslo-2016/)
@@ -3860,6 +3921,13 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [Developer docs](http://developer.github.com)
 * [gitsuggest: suggests Github repositories based on repositories you've shown interest in](https://github.com/csurfer/gitsuggest)
+
+### GIT - GIT FLOW
+
+* [Git Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+* [Git Flow Workflow](https://leanpub.com/git-flow/read)
+* [Comparing Workflows - Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows#!workflow-gitflow)
+* [A successful Git branching model - Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/)
 
 ## GRAPHICS
 
@@ -4172,6 +4240,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Using Web Workers (Mozilla MDN)](https://developer.mozilla.org/en-US/docs/Web/Guide/Performance/Using_web_workers)
 * [JavaScript for Experienced Developers: Web Workers - Microsoft Virtual Academy](https://www.youtube.com/watch?v=LrK5HudphWY)
 
+## IDRIS
+
+* [Idris 2 - Type-driven Development of Idris - Edwin Brady (Curry On London! 2019)](https://www.youtube.com/watch?v=DRq2NgeFcO0)
+
 ## INFLUXDB
 
 * [InfluxDB: Open-Source Time Series Database - Paul Dix (Data Driven NYC / FirstMark Capital)](https://www.youtube.com/watch?v=GzIYRr40QO4)
@@ -4230,6 +4302,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ## LEARNING
 
+* [10 Ways to Learn Faster - Siraj Raval](https://www.youtube.com/watch?v=hKBZjH7Ot2g)
 * [Learning How to Learn - Drs. Barbara Oakley & Terrence Sejnowski (Coursera)](https://www.coursera.org/learn/learning-how-to-learn/)
 * [Carnegie Mellon Open Learning Initiative](http://oli.cmu.edu/learn-with-oli/see-our-free-open-courses/)
 * [Coursera.org](https://www.coursera.org/)
@@ -4467,6 +4540,7 @@ Peter R. Egli:
 
 ### MATH - LINEAR ALGEBRA
 
+* [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning - Gilbert Strang (MIT)](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/) & [lectures on Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 * [The Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [Linear Algebra - KhanAcademy.org](https://www.khanacademy.org/math/linear-algebra)
 * [Immersive Linear Algebra - J. Ström, K. Åström, and T. Akenine-Möller](http://immersivemath.com/ila/)
@@ -4796,6 +4870,7 @@ Peter R. Egli:
 * [Using JSON in PostgreSQL - Andrew Dunstan (PostgresOpen SV 2018)](https://www.youtube.com/watch?v=tMT16q9pqp0)
 * [Dox: Document Database API extension for Postgres - Rob Conery](https://github.com/robconery/dox) & [A Pure PostgreSQL Document Database API](https://rob.conery.io/2018/07/05/a-pure-postgresql-document-database-api/)
 * [Unleash the Power of Storing JSON in Postgres - Leigh Halliday](https://blog.codeship.com/unleash-the-power-of-storing-json-in-postgres/)
+* [Faster Operations with the JSONB Data Type in PostgreSQL - Lucero Del Alba](https://www.compose.com/articles/faster-operations-with-the-jsonb-data-type-in-postgresql/)
 
 ### POSTGRESQL - MONITORING
 
@@ -4929,6 +5004,7 @@ Peter R. Egli:
 * [24-page zine collection of linux/systems comics - Julia Evans](https://jvns.ca/linux-comics-zine.pdf)
 * [Every Programmer Should Know - Alexey Migutsky](https://github.com/mr-mig/every-programmer-should-know/)
 * [Core Design Principles for Software Developers - Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
+* [Things I Learnt The Hard Way (in 30 Years of Software Development) - Julio Biason](https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/)
 * [Design Patterns in the Light of Lambda Expressions - Venkat Subramaniam](https://www.youtube.com/watch?v=e4MT_OguDKg)
 
 ### PROGRAMMING - ACTOR MODEL
@@ -5185,6 +5261,7 @@ Peter R. Egli:
 * DeconstructConf: [2017](https://www.deconstructconf.com/2017)
 * Devoxx: [Belgium 2018](https://www.youtube.com/playlist?list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH) | [Belgium 2017](https://www.youtube.com/playlist?list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo) | [Poland 2017](https://www.youtube.com/playlist?list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH)
 * [GOTO channel](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
+  * [GOTO Chicago 2018](https://www.youtube.com/playlist?list=PLEx5khR4g7PKqVew27D3jvMknjxjowoKl)
   * [GOTO Chicago 2017](https://www.youtube.com/playlist?list=PLEx5khR4g7PJ94PpgvNx6WohYcGQHY9UJ)
   * [GOTO Amsterdam 2017](https://www.youtube.com/playlist?list=PLEx5khR4g7PLcjLdaugk3GndelpTGbYDS)
   * [GOTO Berlin 2016](https://www.youtube.com/playlist?list=PLEx5khR4g7PLS61IPnBCbpB3XjPfVGm-Q)
@@ -5460,6 +5537,8 @@ Peter R. Egli:
 * [A Case for Oxidation: The Rust Programming Language - Sergio Benitez](https://www.youtube.com/watch?v=cDFSrVhnZKo)
 * [Rust 101 - E. Dunham (Linux.conf.au 2017)](https://www.youtube.com/watch?v=FMqydRampuo)
 * [Rust Tutorial - Derek Banas](https://www.youtube.com/watch?v=U1EFgCNLDB8)
+* Implementing TCP in Rust - Jon Gjengset: [Part 1](https://www.youtube.com/watch?v=bzja9fQWzdA) | [Part 2](https://www.youtube.com/watch?v=OCpt1I0MWXE) | [Part 3](https://www.youtube.com/watch?v=8GE6ltLRJA4)
+* [Live-coding a linked hash map in Rust - Jon Gjengset](https://www.youtube.com/watch?v=k6xR2kf9hlA)
 * [Defense Against The Wrong Logic: Proactive Rust Coding - Michael Gatozzi (RustLatam 2019)](https://www.youtube.com/watch?v=jT6YEiE6O6E)
 * [Rust programming LANGUAGE fundamentals of Rust, a modern programming language (5 1/2 hours, but recorded December 2015 - Dmitri Nesteruk](https://www.youtube.com/watch?v=d2vjdj-yHSg)
 
