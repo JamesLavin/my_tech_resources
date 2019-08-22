@@ -1398,6 +1398,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [BottledWater: Change data capture from PostgreSQL into Kafka (Confluent.com)](https://github.com/confluentinc/bottledwater-pg)
 * [Lapidus: Stream your PostgreSQL, MySQL or MongoDB databases anywhere, fast](https://github.com/JarvusInnovations/lapidus)
 * [Databus: Source-agnostic distributed change data capture system (LinkedIn)](https://github.com/linkedin/databus)
+* [Cainophile: Stream every change made to your PostgreSQL database, with no plugins, Java, or Zookeeper required - Preston Marshall](https://github.com/cainophile/cainophile)
 * [The Whys and Hows of Database Streaming - Joy Gao (QCon 2019)](https://www.infoq.com/presentations/wepay-database-streaming)
 
 ### DATABASES - TIDB
@@ -2786,6 +2787,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Announcing a new MySQL driver: MyXQL - José Valim](https://elixirforum.com/t/announcing-a-new-mysql-driver-myxql/17124)
 * "Building a New MySQL Adapter for Ecto" - Wojtek Mach: [Part 1: Hello World](http://blog.plataformatec.com.br/2018/11/building-a-new-mysql-adapter-for-ecto-part-i-hello-world/) | [Part 2: Encoding/Decoding](http://blog.plataformatec.com.br/2018/12/building-a-new-mysql-adapter-for-ecto-part-ii-encoding-decoding/) | [Part 3: DBConnection Integration](http://blog.plataformatec.com.br/2018/12/building-a-new-mysql-adapter-for-ecto-part-iii-dbconnection-integration/) | [Part 4: Ecto Integration](http://blog.plataformatec.com.br/2019/01/building-a-new-mysql-adapter-for-ecto-part-iv-ecto-integration/)
 
+#### ELIXIR - ECTO - SANDBOX
+
+* [Docs](https://hexdocs.pm/ecto_sql/Ecto.Adapters.SQL.Sandbox.html)
+* [Understanding Test Concurrency In Elixir - Nathan Long](https://dockyard.com/blog/2019/02/13/understanding-test-concurrency-in-elixir)
+
 #### ELIXIR - ECTO - SSL
 
 * [Connecting Ecto to PostgreSQL with SSL - Hubert Łępicki](https://www.amberbit.com/blog/2017/11/13/connecting-ecto-to-postgresql-with-ssl/)
@@ -3147,6 +3153,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Phoenix LiveView - Interactive, Real TIme Apps - No need to write Javascript - Chris McCord (ElixirConf EU 2019)](https://www.youtube.com/watch?v=8xJzHq8ru0M) & [Dec 2018 blog post](https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript)
 * [Building and Playing the Go Game with Phoenix LiveView - Jeff Kreeftmeijer](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html)
 * [Talking to the LiveView: Updating the Phoenix LiveViews from outside the process - Dorian Iacobescu](https://medium.com/@iacobson/talking-to-the-liveview-7a19f7e45522)
+* [Ecto Associations in Phoenix LiveView: One to Many - Dennis Beatty](https://dennisbeatty.com/2019/08/20/ecto-associations-in-phoenix-liveview-one-to-many.html)
 * [Phoenix LiveView Collection - Leandro Cesquini Pereira](https://medium.com/@leandrocesquini/phoenix-liveview-collection-8259f35ff2b0)
 * [Swapping React for Phoenix LiveView - Ed Ellson](https://medium.com/qixxit-development/swapping-react-for-phoenix-liveview-db6581f27a14)
 * [How to Create a Todo List with Phoenix LiveView - Dennis Beatty](https://dennisbeatty.com/2019/04/24/how-to-create-a-todo-list-with-phoenix-liveview.html)

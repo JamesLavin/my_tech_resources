@@ -102,8 +102,10 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 
 * All Our Aggregates Are Wrong - Mauro Servienti: [Talk (Explore DDD)](https://www.youtube.com/watch?v=KkzvQSuYd5I) | [Talk (NDC Conferences)](https://www.youtube.com/watch?v=hev65ozmYPI) | [Github](https://github.com/mauroservienti/all-our-aggregates-are-wrong-demos) | [Blog](https://milestone.topics.it/talks/all-our-aggregates-are-wrong.html)
 * [How You Can Design Domain-Driven Design Aggregates Effectively Using .NET - Vaughn Vernon](https://www.youtube.com/watch?v=Svns1PVasgU)
+* [Finding Service Boundaries, illustrated in healthcare - Udi Dahan (NDC 2014)](https://www.youtube.com/watch?v=RhfyP8pEEc4)
 * [Effective Aggregate Design - Vaughn Vernon](http://dddcommunity.org/library/vernon_2011/)
 * Developing Microservices With Aggregates - Chris Richardson: [(SpringOne Platform 2016)](https://www.youtube.com/watch?v=7kX3fs0pWwc) & [(Devox US 2017)](https://www.youtube.com/watch?v=gR_EGN86fvg) & [slides (SpringOne Platform 2016](https://www.slideshare.net/chris.e.richardson/developing-microservices-with-aggregates-springone-platform-s1p) & [slides (DevNexus 2017)](https://www.slideshare.net/chris.e.richardson/developing-microservices-with-aggregates-devnexus2017) & [slides (Munich Microservices Meetup 2015)](https://www.slideshare.net/chris.e.richardson/building-and-deploying-microservices-with-event-sourcing-cqrs-and-docker-microxchg-munich-microservices-meetup-2015)
+* [Finding Service Boundaries - Illustrated in Healthcare - Udi Dahan]()
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - BLOGS
 
