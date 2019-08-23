@@ -184,6 +184,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - KERAS
 
+* [TensorFlow, Keras and deep learning, without a PhD - Martin Gorner](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/?linkId=71247707#0)
 * [The Keras Blog - Francois Chollet](https://blog.keras.io/)
 * [Keras: Multiple outputs and multiple losses - Adrian Rosebrock](https://www.pyimagesearch.com/2018/06/04/keras-multiple-outputs-and-multiple-losses/)
 * Keras.js: [Github](https://github.com/transcranial/keras-js) | [Demos](https://transcranial.github.io/keras-js/#/) | [Docs](https://transcranial.github.io/keras-js-docs/)
@@ -2922,6 +2923,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Writing and Publishing an Elixir Library - Nithin Bekal](http://nithinbekal.com/posts/elixir-publish-package/)
 * [Publishing a package - Hex.pm](https://hex.pm/docs/publish)
 
+#### ELIXIR - HEX - MINIREPO
+
+* [MiniRepo: Self-hosting of Hex packages](https://github.com/wojtekmach/mini_repo)
+* [Announcing MiniRepo, a minimal Hex server - Wojtek Mach](http://blog.plataformatec.com.br/2019/07/announcing-minirepo-a-minimal-hex-server/)
+
 ### ELIXIR - HTTP CLIENTS
 
 * [Mint: Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2](https://github.com/ericmj/mint)
@@ -2997,6 +3003,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Let It Crash: Creating an Example Supervisor in Elixir Using OTP - Tyler Pachal](https://medium.com/@tylerpachal/let-it-crash-creating-an-example-supervisor-in-elixir-using-otp-36ea4236b02b)
 * Michael @ omgneering: [GenServer basics](https://www.youtube.com/watch?v=zC7TcrRi46Q) | [GenServer Callbacks and concurrency](Elixir GenServer callbacks and concurrency) | [Supervisor](https://www.youtube.com/watch?v=Gdf8JXeaPjw) | [Application (Part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM) | [Application (Part 2)](https://www.youtube.com/watch?v=rMwEQZewDyk)
 * [Processes and Supervision in Elixir - Steve Grossi](https://www.youtube.com/watch?v=eUxang6_WQA)
+* Building the Go Game in Elixir - Jeff Kreeftmeijer: [Part 1: With Phoenix LiveView](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html) | [Part 2: Time Travel and the Ko Rule](https://blog.appsignal.com/2019/07/04/elixir-alchemy-building-go-in-elixir-time-travel-and-the-ko-rule.html) | [Part 3: With Elixir's Registry, PubSub and dynamic supervisors](https://blog.appsignal.com/2019/08/13/elixir-alchemy-multiplayer-go-with-registry-pubsub-and-dynamic-supervisors.html)
 * [split_brain.ex: The challenges of building a small distributed Elixir Application - Dorian Iacobescu](https://medium.com/qixxit-development/split-brain-ex-5d5f1c19b133)
 * [To spawn, or not to spawn? - Saša Jurić](http://www.theerlangelist.com/article/spawn_or_not)
 * [Write Unbelievably Clean Concurrent Code in Elixir Using the Task Module - Percy Grunwald](https://www.toptechskills.com/elixir-phoenix-tutorials-courses/clean-concurrent-code-elixir-task-module/)
@@ -3809,12 +3816,12 @@ Consequently, much of the following will soon be at least partially outdated:
 ### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
 
 * [What is Applied Category Theory? - Tai-Danae Bradley](https://arxiv.org/pdf/1809.05923.pdf)
+* [Applied Category Theory - Brendan Fong & David I. Spivek (MIT)](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/lecture-videos-and-readings/index.htm) | [Lectures](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5) | [Invitation to Applied Category Theory (Book as PDF)](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/lecture-videos-and-readings/18-s097iap19textbook.pdf) | [(Book on arXiv)](https://arxiv.org/abs/1803.05316)
 * [Monads without talking about Monads - Lucamug](https://medium.com/@l.mugnaini/monads-without-talking-about-monads-in-elm-4b9b6ffd5ad5)
 * Category Theory for Programmers - Bartosz Milewski: [PDF (free... thank you, Bartosz!)](https://github.com/hmemcpy/milewski-ctfp-pdf/releases/download/v1.0.0/category-theory-for-programmers.pdf) | [Online](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) | [Physical book](http://www.blurb.com/b/9008339-category-theory-for-programmers) | [Youtube lectures](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 * [Categories for the Working Hacker - Philip Wadler (Lambda Days 2018)](https://www.youtube.com/watch?v=jm_TObUiTHM)
 * [Category Theory Overview - Bartosz Milewski (ACM UPM)](https://www.youtube.com/watch?v=lJFUdWi3mDs)
 * [Functors and Natural Transformations - Bartosz Milewski (ACM UPM)](https://www.youtube.com/watch?v=_ZRRtbT1ghk)
-* [Seven Sketches in Compositionality: An Invitation to Applied Category Theory - Brendan Fong & David I Spivak](https://arxiv.org/pdf/1803.05316.pdf) | [Applied Category Theory Course](https://www.azimuthproject.org/azimuth/show/Applied+Category+Theory+Course)
 * [Crash Course in Category Theory - Bartosz Milewski (ScalaIO France 2017)](https://www.youtube.com/watch?v=JH_Ou17_zyU)
 * [A Pragmatic Introduction to Category Theory - Daniela Sfregola (Lambda.World 2017)](https://www.youtube.com/watch?v=MvQxNm5gn8g)
 * [Category Theory in Life - Eugenia Cheng (Lambda.World 2017](https://www.youtube.com/watch?v=ho7oagHeqNc)
@@ -4279,6 +4286,8 @@ Consequently, much of the following will soon be at least partially outdated:
 ## JOBS
 
 * [Angel.co](https://angel.co)
+* [RemoteOK.io (remote jobs)](Remoteok.io)
+* [WorkFromHomeJobs.me](https://workfromhomejobs.me/remote-developer-jobs/)
 
 ## JSON
 
@@ -4675,6 +4684,7 @@ Peter R. Egli:
 
 * [Aeon](https://aeon.co/science)
 * [Axios](https://www.axios.com/science)
+* [Big Think](https://www.bigthink.com)
 * [Digital Journal](http://www.digitaljournal.com/science)
 * [Discovery](https://www.discovery.com/science)
 * [Neuroscience News](http://neurosciencenews.com/neuroscience-topics/featured/)
@@ -4878,6 +4888,7 @@ Peter R. Egli:
 * [Dox: Document Database API extension for Postgres - Rob Conery](https://github.com/robconery/dox) & [A Pure PostgreSQL Document Database API](https://rob.conery.io/2018/07/05/a-pure-postgresql-document-database-api/)
 * [Unleash the Power of Storing JSON in Postgres - Leigh Halliday](https://blog.codeship.com/unleash-the-power-of-storing-json-in-postgres/)
 * [Faster Operations with the JSONB Data Type in PostgreSQL - Lucero Del Alba](https://www.compose.com/articles/faster-operations-with-the-jsonb-data-type-in-postgresql/)
+* [Working with JSON and PostgreSQL - Rene](http://redsofa.ca/post/working_with_json_in_postgresql/)
 
 ### POSTGRESQL - MONITORING
 
@@ -4996,6 +5007,7 @@ Peter R. Egli:
 
 #### PRODUCT DEVELOPMENT - PEOPLE, PROCESS & TEAMS - REMOTE
 
+* [58 Must-Read Remote Work Resources - Hiten Shah](https://usefyi.com/remote-work-resources/)
 * [Learnings from 4000+ interviews for hiring remote employees - Nitesh Agrawal](https://hackernoon.com/how-to-interview-the-best-remote-workers-88570ddce7d7)
 
 ### PRODUCT DEVELOPMENT - COMMUNICATION TOOLS
@@ -5158,7 +5170,7 @@ Peter R. Egli:
 
 ### PROGRAMMING - MANAGEMENT
 
-* [Shape Up: Stop Running in Circles and Ship Work That Matters - Ryan Singer](https://basecamp.com/shapeu://basecamp.com/shapeup)
+* [Shape Up: Stop Running in Circles and Ship Work That Matters - Ryan Singer](https://basecamp.com/shapeup) | [PDF](https://basecamp.com/shapeup/shape-up.pdf)
 * [Tips for Managing a Widely Distributed Team - Dirkjan Bussink (#LeadDevLondon 2018)](https://www.youtube.com/watch?v=pi6bHUkoBgY)
 
 #### PROGRAMMING - MANAGEMENT - BILL CAMPBELL
@@ -5493,6 +5505,10 @@ Peter R. Egli:
 
 * Medis (currently Mac-only): [GetMedis.com](http://getmedis.com/) | [Github](https://github.com/luin/medis)
 
+### REDIS - JSON
+
+* [RedisJSON: JSON data type for Redis](https://oss.redislabs.com/redisjson/) | [Github](https://github.com/RedisJSON/RedisDoc)
+
 ## REGULAR EXPRESSIONS
 
 * [Regex Cheat Sheet - Emma Wedekind](https://dev.to/emmawedekind/regex-cheat-sheet-2j2a)
@@ -5540,6 +5556,7 @@ Peter R. Egli:
 * [How Rust is Tilde’s Competitive Advantage](https://www.rust-lang.org/pdfs/Rust-Tilde-Whitepaper.pdf)
 * [Blockchain in Rust - GeekLaunch](https://www.youtube.com/playlist?list=PLwnSaD6BDfXL0RiKT_5nOIdxTxZWpPtAv)
 * [Is It Time to Rewrite the Operating System in Rust? - Bryan Cantrill](https://www.infoq.com/presentations/os-rust)
+* [Rustacean Terminal Chat App in Rust - Samba Diallo](https://www.pubnub.com/blog/build-realtime-rust-chat-app-cursive-tui/)
 * [Chucklefish Taps Rust to Bring Safe Concurrency to Video Games](https://www.rust-lang.org/pdfs/Rust-Chucklefish-Whitepaper.pdf)
 * [A Case for Oxidation: The Rust Programming Language - Sergio Benitez](https://www.youtube.com/watch?v=cDFSrVhnZKo)
 * [Rust 101 - E. Dunham (Linux.conf.au 2017)](https://www.youtube.com/watch?v=FMqydRampuo)

@@ -163,6 +163,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Flashcards - Mike Onslow & daughter](https://ellie-app.com/3y8GJsXv5G4a1)
 * [25 Elm examples - starting from an static view and gradually progressing to an interactive web app with routing - Bryan Jennings](https://github.com/bryanjenningz/25-elm-examples)
+* [Making a pong game in Elm - Mathieu Agopian](http://mathieu.agopian.info/blog/making-a-pong-game-in-elm.html)
 * [elm-ballpool - Takahashi Yuto](https://github.com/y-taka-23/elm-ballpool)
 * [Exercism exercises in Elm](https://github.com/exercism/elm)
 * [elm-examples: Practical Elm examples - Eduard Kyvenko](https://github.com/halfzebra/elm-examples)

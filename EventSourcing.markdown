@@ -61,6 +61,7 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 * [What if we stored events instead of state? - Jef Claes](https://www.slideshare.net/jclaes/what-if-we-stored-events-instead-of-state)
 * [Building Microservices with Event Sourcing and CQRS - Michael Ploed](https://www.youtube.com/watch?v=A0goyZ9F4bg)
 * [Microservices Resource Guidei - Martin Fowler](https://martinfowler.com/microservices/)
+* [Towards a serverless event-sourced Nordstrom - Rob Gruhl](https://www.youtube.com/watch?v=WcCErxLKR7g&t=6m46s) | [Adventures in event-sourced architecture, Part 1](https://medium.com/tech-at-nordstrom/adventures-in-event-sourced-architecture-part-1-cc21d06187c7) | [Event-sourcing at Nordstrom: Part 2](https://medium.com/tech-at-nordstrom/event-sourcing-at-nordstrom-part-2-f64c416d1885)
 * [Event Store and Web Applications - Greg Young](https://www.infoq.com/presentations/event-store-web-apps)
 * [Event Sourcing is actually just functional code - Greg Young](https://www.youtube.com/watch?v=kZL41SMXWdM)
 * [State or Events? Which Shall I Keep? - Jakub Pilimon, Kenny Bastani (SpringOne Platform 2017)](https://www.youtube.com/watch?v=r7AGQsM7ncA)
@@ -115,12 +116,15 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 
 * [Patterns, Principles, and Practices of Domain-Driven Design - Scott Millett & Nick Tune](https://smile.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709)
 * [Streaming Data - Andrew G. Psaltis](https://www.manning.com/books/streaming-data)
-* [Event Streams in Action - Alexander Dean](https://www.manning.com/books/event-streams-in-action)
+* [Event Streams in Action - Alexander Dean & Valentin Crettaz](https://www.manning.com/books/event-streams-in-action)
 * [Functional and Reactive Domain Modeling - Debasish Ghosh](https://www.manning.com/books/functional-and-reactive-domain-modeling)
 * [Kafka Streams in Action - William P. Bejeck, Jr.](https://www.manning.com/books/kafka-streams-in-action) 
-* [Microservice Patterns - Chris Richardson](https://www.manning.com/books/microservice-patterns)
+* [Microservices Patterns - Chris Richardson](https://www.manning.com/books/microservice-patterns)
 * [Reactive Design Patterns - Roland Kuhn with Brian Hanafee and Jamie Allen](https://www.manning.com/books/reactive-design-patterns)
 * [Versioning in an Event Sourced System - Gregory Young](https://leanpub.com/esversioning)
+* [Microservices in Action - Morgan Bruce & Paulo A. Pereira](https://www.manning.com/books/microservices-in-action)
+* [The Tao of Microservices - Richard Rodger](https://www.manning.com/books/the-tao-of-microservices)
+* [Kafka in Action - Dylan Scott](https://www.manning.com/books/kafka-in-action)
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - CQRS
 
@@ -263,6 +267,7 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 #### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - KAFKA STREAMS
 
 * Apache Kafka Streams API - Tim Berglund (Confluent): [1. Intro to Streams](https://www.youtube.com/watch?v=Z3JKCLG3VP4) | [2. Creating a Streams Application](https://www.youtube.com/watch?v=LxxeXI1mPKo) | [3. Transforming Data, Part I](https://www.youtube.com/watch?v=7JYEEx7SBuE) | [4. Transforming Data II](https://www.youtube.com/watch?v=3kJgYIkAeHs)
+* How Kafka Enables Real-Time Stream Processing - André Melo: [Part 1](https://blog.avenuecode.com/how-kafka-enables-real-time-stream-processing-part-1) | [Part 2](https://blog.avenuecode.com/how-kafka-enables-real-time-stream-processing-part-2)
 * [Building event sourced systems with Kafka Streams - Amitay Horwitz, Wix (JEE Conf)](https://www.youtube.com/watch?v=b17l7LvrTco)
 * [Beyond the DSL—Unlocking the power of Kafka Streams with the Processor API - Antony Stubbs (Devoxx 2018)](https://www.youtube.com/watch?v=_KAFdwJ0zBA)
 * [Building Streaming Microservices with Apache Kafka - Tim Berglund (Devoxx Poland 2018)](https://www.youtube.com/watch?v=Hlb-Ss3q3as) & [Processing Streaming Data with KSQL - Tim Berglund (Devoxx Poland 2018)](https://www.youtube.com/watch?v=LM-aQQQes4Q)
