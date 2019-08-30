@@ -199,8 +199,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ARTIFICIAL INTELLIGENCE (AI) - MACHINE LEARNING
 
 * [Machine Learning Cheatsheets - Stanford CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning)
+* [End-to-End Machine Learning - Brandon Rohrer](https://brohrer.github.io/blog.html)
 * [Papers With Code - Hottest AI/ML papers with associated code](https://paperswithcode.com/)
 * [arXiv.org machine learning articles](https://arxiv.org/list/stat.ML/recent)
+* [Machine Learning from Scratch - Erik Linder-Norén](https://github.com/eriklindernoren/ML-From-Scratch)
 * [Rules of Machine Learning: Best Practices for ML Engineering - Martin Zinkevich](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 * [Jupyter notebooks for the book "Hands-on Machine Learning with Scikit-Learn and TensorFlow" - Aurélien Geron](https://github.com/ageron/handson-ml)
@@ -573,6 +575,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Marc Andreessen: [Part 1: Why not to do a startup](https://pmarchive.com/guide_to_startups_part1.htm://pmarchive.com/guide_to_startups_part1.html) | [Part 2: When the VCs say "no"](https://pmarchive.com/guide_to_startups_part2.html) | [Part 3: "But I don't know any VCs!"](https://pmarchive.com/guide_to_startups_part3.html) | [Part 4: The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html) | [Part 5: The Moby Dick theory of big companies](https://pmarchive.com/guide_to_startups_part5.html) | [Part 6: How much funding is too little? Too much?](https://pmarchive.com/guide_to_startups_part6.html) | [Part 7: Why a startup's initial business plan doesn't matter that much](https://pmarchive.com/guide_to_startups_part7.html) | [Part 8: Hiring, managing, promoting, and firing executives](https://pmarchive.com/guide_to_startups_part8.html) | [Part 9: How to hire a professional CEO](https://pmarchive.com/guide_to_startups_part9.html)
 * [Paul Graham essays](http://www.paulgraham.com/articles.html)
 * [Acquired by Amazon— what we learned at Pillpack - Fred Destin](https://medium.com/@fdestin/acquired-by-amazon-what-we-learned-at-pillpack-7a9e53d0c51b)
+* [One-Hour Guide to SEO - Rand Fishkin](https://moz.com/learn/seo/one-hour-guide-to-seo)
 * [SaaStr (SaaS Scale Together) conference videos](https://www.youtube.com/channel/UCwOILzAcxK5CM2M7oRBuWSg/playlists)
 * [12 Key Levers of SaaS Success - David Skok (SaaStr 2017)](https://www.youtube.com/watch?v=yP869ABH4Xw)
 * [A Conversation with Paul Graham - Moderated by Geoff Ralston](https://www.youtube.com/watch?v=4WO5kJChg3w)
@@ -2750,6 +2753,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * Understanding Elixir’s Ecto Querying DSL - Thomas Punt: [The Basics](https://www.sitepoint.com/understanding-elixirs-ecto-querying-dsl-the-basics/) | [Beyond the Basics](https://www.sitepoint.com/elixirs-ecto-querying-dsl-beyond-the-basics/)
 * [Preloading Nested Associations with Ecto - Greg Lazarev](https://robots.thoughtbot.com/preloading-nested-associations-with-ecto)
 * [Querying an Embedded Map in PostgreSQL with Ecto - David Bernheisel](https://robots.thoughtbot.com/querying-embedded-maps-in-postgresql-with-ecto)
+* [Ecto Embedded Schemas — Quick search through a JSONB array in PostgreSQL - Pedro Costa](https://coletiv.com/blog/ecto-embedded-schemas-search-jsonb-array-postgresql/)
 * [Up, Down, Up with Ecto Migrations - Josh Branchaud](https://hashrocket.com/blog/posts/up-down-up-with-ecto-migrations)
 * [Ecto Migrations: Simple to Complex - Josh Branchaud](https://hashrocket.com/blog/posts/ecto-migrations-simple-to-complex)
 * [Maintaining a versioned database schema with Ecto - Prakash](https://medium.com/@prakash_66502/maintaining-a-versioned-database-schema-with-ecto-45eab90ea0a8)
@@ -2805,6 +2809,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - ERROR HANDLING
 
+* [Error-free Elixir - Maciej Kaszubowski (Code Elixir LDN 19)](https://www.youtube.com/watch?v=PwfOARkogDI)
 * [Error Handling in Elixir Libraries - Michal Muskala](http://michal.muskala.eu/2017/02/10/error-handling-in-elixir-libraries.html)
 
 ### ELIXIR - ETS
@@ -2836,6 +2841,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### ELIXIR - EVENT SOURCING/CQRS - COMMANDED
 
+* [An event-driven approach to building Elixir applications - Ben Smith (Code Elixir LDN 19)](https://www.youtube.com/watch?v=TdGxvekg6xM)
 * Commanded: [Github](https://github.com/commanded/commanded)
     * [EventStore: Event store using PostgreSQL for persistence](https://github.com/commanded/eventstore)
     * [EventStore adapter](https://github.com/commanded/commanded-eventstore-adapter)
@@ -2895,7 +2901,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [How Do I GenStage? - Adrian Dunston](http://engineering.spreedly.com/blog/how-do-i-genstage.html)
 * [Reactive Tweets with Elixir GenStage - Mario Flach](https://almightycouch.org/blog/reactive-tweets-elixir-genstage/)
 
-### ELIXIR - GRAPHQL
+### ELIXIR - GRAPHQL & ABSINTHE
 
 * [Build a GraphQL API in Elixir with Phoenix & Absinthe - Tivelop](https://www.youtube.com/watch?v=uoCFQu9gQHE&list=PLw7bfDlTRWbgiApK7X1bRKJJ03xoDU3hm)
 * [Creating GraphQL APIs Using Elixir Phoenix and Absinthe - Velotio Technologies](https://medium.com/velotio-perspectives/creating-graphql-apis-using-elixir-phoenix-and-absinthe-486ff38f2549)
@@ -2990,6 +2996,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### ELIXIR - NIFS
 
 * [Taking Elixir to the Metal with Rust - Sonny Scroggin](https://www.youtube.com/watch?v=lSLTwWqTbKQ)
+
+#### ELIXIR - NIFS - RUST & RUSTLER
+
+* [Rustler: Safe Rust bridge for creating Erlang NIF functions](https://github.com/rusterlium/rustler)
+* [Writing Rust NIFs for your Elixir code with the Rustler package - Jacob Lerche](https://medium.com/@jacob.lerche/writing-rust-nifs-for-your-elixir-code-with-the-rustler-package-d884a7c0dbe3)
 
 ### ELIXIR - OPUS
 
@@ -3157,6 +3168,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ELIXIR - PHOENIX - LIVE VIEW
 
+* [Phoenix LiveView Demystified - Alex Garibay (ElixirConf 2019)](https://www.youtube.com/watch?v=9eOo8hSbMAc)
 * [Phoenix LiveView - Interactive, Real TIme Apps - No need to write Javascript - Chris McCord (ElixirConf EU 2019)](https://www.youtube.com/watch?v=8xJzHq8ru0M) & [Dec 2018 blog post](https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript)
 * [Building and Playing the Go Game with Phoenix LiveView - Jeff Kreeftmeijer](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html)
 * [Talking to the LiveView: Updating the Phoenix LiveViews from outside the process - Dorian Iacobescu](https://medium.com/@iacobson/talking-to-the-liveview-7a19f7e45522)
@@ -3278,11 +3290,6 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Riak Core](https://github.com/basho/riak_core/)
 * Create a riak_core application in Elixir - GPad: [Part 1](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-1-41354c1f26c3) | [Part 2](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-2-88bdec73f368) | [Part 3](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-3-8bac36632be0) | [Part 4](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-4-728512ece224)
 
-### ELIXIR - RUSTLER
-
-* [Rustler: Safe Rust bridge for creating Erlang NIF functions](https://github.com/rusterlium/rustler)
-* [Writing Rust NIFs for your Elixir code with the Rustler package - Jacob Lerche](https://medium.com/@jacob.lerche/writing-rust-nifs-for-your-elixir-code-with-the-rustler-package-d884a7c0dbe3)
-
 ### ELIXIR - SCENIC
 
 * [scenic](https://github.com/boydm/scenic) | [scenic.new](https://github.com/boydm/scenic_new)
@@ -3387,7 +3394,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - VIDEOS
 
-* ElixirConf: [2019 EU](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtoiQC735NjHyPJUS_nmrxy) | [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
+* ElixirConf: [2019](https://www.youtube.com/playlist?list=PLqj39LCvnOWYTNs1n3ZNMSNO3Svv_XweT) | [2019 EU](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtoiQC735NjHyPJUS_nmrxy) | [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * Lonestar ElixirConf: [2019](https://www.youtube.com/playlist?list=PLGqeEOaC5KsRisF-GUlgJh35EowwzMYoS) | [2018](https://www.youtube.com/playlist?list=PLGqeEOaC5KsQt7r8KCOzfDgcqsvy_-hCN) | [2017](http://confreaks.tv/events/lonestarelixir2017)
 * EMPEX: [2019 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapyHWNFBapGOz40efbJuwmx2) | [2018 NYC](https://www.youtube.com/playlist?list=PLyO-58-sOapw81dCfjDrX5TuYxS5S8qMq) | [2018 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapy9Fs4Sd-HOeQIFwrSCQ3z1) | [2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS) | [2016](https://www.youtube.com/playlist?list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
 * [SmartLogic Elixir LiveStream Archive](https://www.youtube.com/playlist?list=PLCv-QRhbg07HUmxY9maIWVG9868MCIiXX)
@@ -3474,6 +3481,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Erlang - TutorialsPoint](https://www.tutorialspoint.com/erlang/erlang_tutorial.pdf)
 * [Thinking in a Highly Concurrent, Mostly-functional Language - Francesco Cesarini (ElixirConf 2014)](https://www.youtube.com/watch?v=d5G3P2iosmA)
 * [Advanced-Erlang.com](http://advanced-erlang.com/videos/)
+* [How to Comprehend Comprehensions - Brujo Benavides](https://medium.com/erlang-battleground/how-to-comprehend-comprehensions-c924f92a97e1)
 * [ErlangCentral Wiki](http://erlangcentral.org/wiki/index.php/)
 * [MostlyErlang.com](http://mostlyerlang.com/)
 * [Erlang: the Power of Functional Programming - Simon Thompson (EFLBA2017)](https://www.youtube.com/watch?v=pJwfyPV_V_o)
@@ -3498,7 +3506,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ERLANG - BLOGS
 
-* [Erlang Battleground](https://medium.com/erlang-battleground)
+* [Brujo Benavides](https://medium.com/@elbrujohalcon)
 * [Erlang Solutions](https://www.erlang-solutions.com/blog.html)
 * [This Week in Erlang - Sasan Gootik](https://gootik.github.io/this-week-in-erlang/)
 
@@ -3595,6 +3603,10 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [Erlang: The Movie](https://www.youtube.com/watch?t=113&v=xrIjfIjssLE)
 * [Erlang: The Movie II: The Sequel](https://www.youtube.com/watch?v=rRbY3TMUcgQ)
+
+### ERLANG - LUMEN
+
+* [Lumen: Alternative BEAM implementation, designed for WebAssembly (implemented in Rust)](https://github.com/lumen/lumen)
 
 ### ERLANG - MNESIA
 
@@ -4545,6 +4557,10 @@ Peter R. Egli:
 * [Raspberry Pi Resources](https://www.raspberrypi.org/resources/)
 * [Official Rasperry Pi Projects Book](https://www.raspberrypi.org/magpi-issues/Projects_Book_v1.pdf)
 
+## MARKDOWN
+
+* [The Markdown Guide - Matt Cone](https://www.markdownguide.org/assets/book/markdown-guide.pdf)
+
 ## MATH
 
 * [BetterExplained.com](http://betterexplained.com/cheatsheet/)
@@ -4569,6 +4585,7 @@ Peter R. Egli:
 ### MATH - STATISTICS
 
 * [Statistics - KhanAcademy.org](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
+* [Statistics resources - Brandon Rohrer](https://brohrer.github.io/stats_resources.html)
 
 ## MISCELLANEOUS
 
@@ -5194,6 +5211,7 @@ Peter R. Egli:
 
 ### PROGRAMMING - PODCASTS
 
+* [6 Figure Developer](https://6figuredev.com/)
 * [85 Podcasts for Developers, Programmers & Software Engineers - HackerLists.com](https://hackerlists.com/programming-podcasts/)
 * [Ultimate List Of Developer Podcasts - John Sonmez](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/)
 * [a16z - Andreessen Horowitz](http://a16z.com/podcasts/)

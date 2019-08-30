@@ -352,6 +352,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [Functional-Light JavaScript - Kyle Simpson](https://github.com/getify/Functional-Light-JS)
 * [Gentle Intro to Functional Javascript - James Sinclair](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style/)
 * [Learning Functional Programming with JavaScript - Anjana Vakil (JSUnconf 2016)](https://www.youtube.com/watch?v=e-5obm1G_FY)
+* [Composing Software: The Book - Eric Elliott](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
 * Functional Programming In JavaScript — With Practical Examples: [Part 1](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276#.8dao66cag) | [Part 2](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-2-429d2e8ccc9e)
 * [Functional programming in JavaScript - Mattias Petter Johansson (Fun Fun Function)](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 * [Functional Javascript - Dr. Gleb Bahmutov](https://glebbahmutov.com/blog/tags/functional/)
@@ -569,7 +570,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 
 ### JAVASCRIPT - TYPESCRIPT
 
-* [TypeScript Deep Dive - Basarat Ali Syed](https://legacy.gitbook.com/book/basarat/typescript/details)
+* [TypeScript Deep Dive - Basarat Ali Syed](https://legacy.gitbook.com/book/basarat/typescript/details) | [PDF](https://react-etc.net/files/typescript-book/typescript.pdf)
 
 ### JAVASCRIPT - TOOLS
 

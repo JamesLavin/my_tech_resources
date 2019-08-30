@@ -157,6 +157,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - CHROME EXTENSIONS
 
+* [How I built a Chrome extension with Elm - Dwight Doane](http://logs.torchship.co/elm-chrome-ext/)
 * [Writing a Chrome extension with Elm - Cezar Halmagean](https://mixandgo.com/blog/writing-a-chrome-extension-with-el://mixandgo.com/blog/writing-a-chrome-extension-with-elm)
 
 ### ELM - CODE EXAMPLES
@@ -398,6 +399,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * Phoenix and Elm, a real use case - Ricardo García Vega: [Github](https://github.com/bigardone/phoenix-and-elm) | [Part 1: Introduction to creating a SPA with Phoenix and Elm](http://codeloveandboards.com/blog/2017/02/02/phoenix-and-elm-a-real-use-case-pt-1/) | [Part 2: Rendering the initial contact list](http://codeloveandboards.com/blog/2017/02/08/phoenix-and-elm-a-real-use-case-pt-2/) | [Part 3: Adding full text search and pagination navigation to the contact list](http://codeloveandboards.com/blog/2017/02/14/phoenix-and-elm-a-real-use-case-pt-3/) | [Part 4: Better state with union types, search resetting and keyed notes](http://codeloveandboards.com/blog/2017/02/23/phoenix-and-elm-a-real-use-case-pt-4/) | [Part 5: Implementing Elm routing](http://codeloveandboards.com/blog/2017/03/07/phoenix-and-elm-a-real-use-case-pt-5/) | [Part 6: Phoenix and Elm communication through WebSockets](http://codeloveandboards.com/blog/2017/03/19/phoenix-and-elm-a-real-use-case-pt-6/)
 * [Creating a Chatroom Using Phoenix, Elm, and Websockets - Jeremy Bellows (Oct 2016)](http://www.jeremybellows.com/blog/Creating-a-Chatroom-Using-Phoenix-Elm-And-Websockets)
 * [Connecting Elm with Phoenix using Channels - Simon Hampton](http://simonh1000.github.io/2016/05/elm-phoenix-channels/)
+
+### ELM - PHYSICS
+
+* [Elm-physics: experimental toy physics engine - Andrey Kuzmin](https://github.com/w0rm/elm-physics)
 
 ### ELM - PODCASTS
 
