@@ -2662,6 +2662,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * Libcluster - Paul Schoenfelder: [Github](https://github.com/bitwalker/libcluster) | [Docs](https://hexdocs.pm/libcluster/readme.html)
 * [ExCluster: Clustered Elixir OTP application on Kubernetes with Horde and LibCluster - Dollar Shave Club](https://github.com/dollarshaveclub/ex_cluster)
+* [Elixir OTP applications on Kubernetes - Chirag Singh Toor](https://engineering.dollarshaveclub.com/elixir-otp-applications-on-kubernetes-9944636b8609)
 * [Connecting Elixir Nodes with libcluster, locally and on Kubernetes - Alvise Susmel](https://www.poeticoding.com/connecting-elixir-nodes-with-libcluster-locally-and-on-kubernetes/)
 * [Cluster.Strategy.Kubernetes](https://hexdocs.pm/libcluster/Cluster.Strategy.Kubernetes.html)
 * [ClusterConsul.Strategy](https://github.com/arcz/libcluster_consul)
@@ -2791,6 +2792,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### ELIXIR - ECTO - MYXQL
 
 * [Announcing a new MySQL driver: MyXQL - José Valim](https://elixirforum.com/t/announcing-a-new-mysql-driver-myxql/17124)
+* [Writing an Ecto Adapter: Introducing MyXQL - Wojtek Mach (ElixirConf 2019)](https://www.youtube.com/watch?v=lBaDmsFTJxY)
 * "Building a New MySQL Adapter for Ecto" - Wojtek Mach: [Part 1: Hello World](http://blog.plataformatec.com.br/2018/11/building-a-new-mysql-adapter-for-ecto-part-i-hello-world/) | [Part 2: Encoding/Decoding](http://blog.plataformatec.com.br/2018/12/building-a-new-mysql-adapter-for-ecto-part-ii-encoding-decoding/) | [Part 3: DBConnection Integration](http://blog.plataformatec.com.br/2018/12/building-a-new-mysql-adapter-for-ecto-part-iii-dbconnection-integration/) | [Part 4: Ecto Integration](http://blog.plataformatec.com.br/2019/01/building-a-new-mysql-adapter-for-ecto-part-iv-ecto-integration/)
 
 #### ELIXIR - ECTO - SANDBOX
@@ -2815,6 +2817,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - ETS
 
+* [Etso: ETS adapter, allowing you to use Ecto schemas with ETS tables - Evadne Wu](https://github.com/evadne/etso)
 * [Leveraging ETS Effectively - Evadne Wu (ElixirConf EU 2019)](https://www.youtube.com/watch?v=8mXqxBBvNdk)
 * [Taming :ets for High-Performance Software - Mike Binns](https://dockyard.com/blog/2019/03/07/taming-ets-for-high-performance-software) | [ets (Github)](https://github.com/TheFirstAvenger/ets) | [ets (Hex.pm)](https://hex.pm/packages/ets)
 * [An Introduction to ETS Tables in Elixir - Ilya Bodrov](https://code.tutsplus.com/articles/ets-tables-in-elixir--cms-29526<Paste>)
@@ -3014,6 +3017,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Consistent, Distributed Elixir - Chris Keathley (ElixirDaze 2018)](https://www.youtube.com/watch?v=CmMMpaUD3g8)
 * [The ABCs of OTP - Jesse J Anderson (ElixirDaze 2017)](https://www.youtube.com/watch?v=8X0IWW2GJoQ) | [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir) | [resource links](https://gist.github.com/jessejanderson/16cbc0614e9194fa1b64460f775777ab)
 * [Let It Crash: Creating an Example Supervisor in Elixir Using OTP - Tyler Pachal](https://medium.com/@tylerpachal/let-it-crash-creating-an-example-supervisor-in-elixir-using-otp-36ea4236b02b)
+* [You Need a Supervisor - John (ElixirConf 2019)](https://www.youtube.com/watch?v=NbJhworOFjU)
 * Michael @ omgneering: [GenServer basics](https://www.youtube.com/watch?v=zC7TcrRi46Q) | [GenServer Callbacks and concurrency](Elixir GenServer callbacks and concurrency) | [Supervisor](https://www.youtube.com/watch?v=Gdf8JXeaPjw) | [Application (Part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM) | [Application (Part 2)](https://www.youtube.com/watch?v=rMwEQZewDyk)
 * [Processes and Supervision in Elixir - Steve Grossi](https://www.youtube.com/watch?v=eUxang6_WQA)
 * Building the Go Game in Elixir - Jeff Kreeftmeijer: [Part 1: With Phoenix LiveView](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html) | [Part 2: Time Travel and the Ko Rule](https://blog.appsignal.com/2019/07/04/elixir-alchemy-building-go-in-elixir-time-travel-and-the-ko-rule.html) | [Part 3: With Elixir's Registry, PubSub and dynamic supervisors](https://blog.appsignal.com/2019/08/13/elixir-alchemy-multiplayer-go-with-registry-pubsub-and-dynamic-supervisors.html)
@@ -3375,10 +3379,11 @@ Consequently, much of the following will soon be at least partially outdated:
 * [ExContract: support for design by contract - JDUnity](https://github.com/JDUnity/ex_contract)
 * [norm: system for specifying the structure of data, usable for data validation and generation - Chris Keathley](https://github.com/keathley/norm)
 * [Typespecs - Elixir docs](http://elixir-lang.org/docs/stable/elixir/typespecs.html)
+* [Contracts for Building Reliable Systems - Chris Keathley (ElixirConf 2019)](https://www.youtube.com/watch?v=tpo3JUyVIjQ)
+
+#### ELIXIR - TYPES - DIALYZER/DIALYXIR
+
 * [Type Specifications and Erlang](http://learnyousomeerlang.com/dialyzer)
-
-### ELIXIR - TYPES - DIALYZER/DIALYXIR
-
 * [Chemanalysis: Dialyzing Elixir - Sean Cribbs (Code BEAM SF 19)](https://www.youtube.com/watch?v=k4au7VioXNk)
 * [Decoding Dialyzer - Part 1 - Devon Estes](http://devonestes.herokuapp.com/decoding-dialyzer)
 * [What Does Dialyzer Think of Me? - Stavros Aronis (Code Beam 2019)](https://www.youtube.com/watch?v=Nxsw1jRE2A4)
@@ -3538,6 +3543,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ERLANG - DOCUMENTATION
 
+* [Erlang/OTP Search](http://erlang.org/doc/search/)
 * Erlang/OTP System Documentation: [PDF](http://erlang.org/doc/pdf/otp-system-documentation.pdf) (includes all the following):
   * Installation Guide: [HTML](http://erlang.org/doc/installation_guide/users_guide.html)
   * System Principles: [HTML](http://erlang.org/doc/system_principles/users_guide.html)
@@ -3575,7 +3581,6 @@ Consequently, much of the following will soon be at least partially outdated:
   * [More docs](http://erlang.org/doc/apps/)
   * [More modules](http://erlang.org/doc/man_index.html)
   * [More library docs](http://erlang.org/documentation/doc-8.3/lib/)
-* [Erlang/OTP 20.0](http://erlang.org/doc/search/)
 * [An Erlang Course](http://www.erlang.org/course)
 * [Erlang.org docs](http://erlang.org/doc/) | [erlang-questions (Google group)](https://groups.google.com/forum/#!forum/erlang-questions)
 * [ErlDocs.com](http://erldocs.com/)
@@ -4435,6 +4440,10 @@ Peter R. Egli:
 #### LINUX - NETWORKING - TLS
 
 * [Every byte of a TLS connection explained - Michael Driscoll](https://tls.ulfheim.net/)
+
+#### LINUX - NETWORKING - WIRESHARK
+
+* [Wireshark: World's foremost and widely-used network protocol analyzer](https://www.wireshark.org/)
 
 ### LINUX - SHELL SCRIPTING (BASH)
 
