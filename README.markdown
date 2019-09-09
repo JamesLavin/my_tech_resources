@@ -1723,6 +1723,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - GOOGLE CLOUD
 
+* [Take5](https://www.youtube.com/playlist?list=PLIivdWyY5sqJ6sDqMDjAdB-IYZYM5UI_6)
 * Gcloud: [Overview](https://cloud.google.com/sdk/gcloud/) | [Compute Concepts](https://cloud.google.com/compute/docs/concepts) | [SDK Concepts](https://cloud.google.com/sdk/docs/concepts) | [Reference](https://cloud.google.com/sdk/gcloud/reference/) | [Compute How-Tos](https://cloud.google.com/compute/docs/how-to) | [SDK How-Tos](https://cloud.google.com/sdk/docs/how-to)
 * Getting Started With GCloud SDK: Joaquin Menchaca [Part 1](https://medium.com/@Joachim8675309/getting-started-with-gcloud-sdk-part-1-114924737) & [Part 2](https://medium.com/@Joachim8675309/getting-started-with-gcloud-sdk-part-2-4d049a656f1a)
 * [gcp gcloud cheat sheet - Victor Yang](https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97)
@@ -2828,6 +2829,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Building CQRS/ES web applications in Elixir using Phoenix - Ben Smith](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/) | [Building a CQRS/ES web application in Elixir using Phoenix](https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/) | [PDF](https://10consulting.com/presentations/2017-03-23-building-cqrs-web-applications-in-elixir.pdf)
 * [event_bus: Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS - Mustafa Turan](https://github.com/otobus/event_bus) & [event_bus_postgres: Postgres event store for event_bus](https://github.com/otobus/event_bus_postgres)
 * [Pachyderm - an elephant never forgets - Peter Saxton](https://github.com/CrowdHailer/event-sourcing.elixir)
+* [Elixir + CQRS - Architecting for Availability, Operability, and... - Jon Grieman (ElixirConf 2019)](https://www.youtube.com/watch?v=-d2NPc8cEnw)
 * [Dealing with eventual consistency in a CQRS/ES application - Ben Smith](https://10consulting.com/2017/10/06/dealing-with-eventual-consistency/)
 * Derek Kraan: [Event Sourcing in Elixir](https://tech.zilverline.com/2017/04/07/elixir_event_sourcing) & [Event Sourcing: Invariants spanning multiple aggregates](https://tech.zilverline.com/2017/04/21/event-sourcing-invariants-spanning-multiple-aggregates)
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
@@ -3168,6 +3170,8 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ELIXIR - PHOENIX - LIVE VIEW
 
+* [Phoenix Live View: A step-change for web development - Chris McCord (ElixirConf 2019)](https://www.youtube.com/watch?v=XhNv1ikZNLs)
+* [Beyond LiveView: Real-Time Features with Phoenix LiveView, PubSub, Presence, and Channels - Sophie DeBenedetto (ElixirConf 2019)](https://www.youtube.com/watch?v=AbNAuOQ8wBE)
 * [Phoenix LiveView Demystified - Alex Garibay (ElixirConf 2019)](https://www.youtube.com/watch?v=9eOo8hSbMAc)
 * [Phoenix LiveView - Interactive, Real TIme Apps - No need to write Javascript - Chris McCord (ElixirConf EU 2019)](https://www.youtube.com/watch?v=8xJzHq8ru0M) & [Dec 2018 blog post](https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript)
 * [Building and Playing the Go Game with Phoenix LiveView - Jeff Kreeftmeijer](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html)
@@ -3324,6 +3328,11 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Mocks and explicit contracts - José Valim](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
 * [Testing function delegation in Elixir without stubbing - Brian Cardarella](https://dockyard.com/blog/2016/03/24/testing-function-delegation-in-elixir-without-stubbing)
 
+#### ELIXIR - TESTING - BYPASS
+
+* [Bypass: create custom plug usable instead of an actual HTTP server to return prebaked responses to client requests - PSPDFKit](https://github.com/PSPDFKit-labs/bypass)
+* [Bypass - Elixir School](https://elixirschool.com/en/lessons/libraries/bypass/)
+
 #### ELIXIR - TESTING - HOUND
 
 * [Concurrent Feature Tests with Phoenix and Hound - Kevin Rockwood](http://rockwood.me/2016/concurrent-feature-tests-with-phoenix/)
@@ -3363,6 +3372,8 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - TYPES
 
+* [ExContract: support for design by contract - JDUnity](https://github.com/JDUnity/ex_contract)
+* [norm: system for specifying the structure of data, usable for data validation and generation - Chris Keathley](https://github.com/keathley/norm)
 * [Typespecs - Elixir docs](http://elixir-lang.org/docs/stable/elixir/typespecs.html)
 * [Type Specifications and Erlang](http://learnyousomeerlang.com/dialyzer)
 
@@ -3507,6 +3518,7 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ERLANG - BLOGS
 
 * [Brujo Benavides](https://medium.com/@elbrujohalcon)
+* [Erlang/OTP Team @ Ericsson](http://blog.erlang.org/)
 * [Erlang Solutions](https://www.erlang-solutions.com/blog.html)
 * [This Week in Erlang - Sasan Gootik](https://gootik.github.io/this-week-in-erlang/)
 
@@ -5002,6 +5014,7 @@ Peter R. Egli:
 * [Ready To Code: Automate Your Development Environment - David Kerber (RubyMidwest 2013)](http://confreaks.tv/videos/2368-rmw2013-ready-to-code-automate-your-development-environment)
 * [Keynote: Hacking Passion - Katrina Owen (LoneStarRuby 2013)](http://confreaks.tv/videos/2600-lonestarruby2013-keynote-hacking-passion)
 * [Failure for Fun and Profit! - Kerri Miller (RubyMidwest 2013)](http://confreaks.tv/videos/2371-rmw2013-failure-for-fun-and-profit)
+* [0-60 in under 3: How Cars.com & Dockyard Manufactured a Productive Elixir Team in Under 3 Months - Daniel Mackey & Mike Binns (ElixirConf 2019)](https://www.youtube.com/watch?v=zKifFG4i-bY)
 * [Architecting the Chaos - Building Travis CI - Konstantin Haase (SteelCityRuby 2013)](http://steelcityruby.confbots.com/video/72753961)
 * [Keep Software Weird - Leon Gersing (SteelCityRuby 2013)](http://steelcityruby.confbots.com/video/72780827)
 * [The End of Fun - Sarah Mei (LoneStarRuby 2013)](http://confreaks.tv/videos/2603-lonestarruby2013-the-end-of-fun)
@@ -5621,6 +5634,7 @@ Peter R. Egli:
 ### RUST - PODCASTS
 
 * [New Rustacean](https://overcast.fm/itunes1041815075/new-rustacean)
+* [Rustacean Station Podcast](https://rustacean-station.org/)
 
 ### RUST - ROCKET
 
