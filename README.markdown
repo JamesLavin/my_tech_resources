@@ -854,6 +854,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [API Blueprint](https://apiblueprint.org/) & [Github](https://github.com/apiaryio/api-blueprint)
 * [Dredd — HTTP API Validation Tool](https://github.com/apiaryio/dredd)
 * [Pliny - Write excellent APIs in Ruby](https://github.com/interagent/pliny) & [Better APIs with Pliny - Will Leinweber (RubyOnAles 2015)](https://www.youtube.com/watch?v=lA8KhC9fFYY)
+* [API Design Patterns](https://www.manning.com/books/api-design-patterns) - early-access book by JJ Geewax.
 
 #### CLEAN CODE - APIS - DOCUMENTING
 
