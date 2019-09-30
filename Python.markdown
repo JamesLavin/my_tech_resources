@@ -6,7 +6,7 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 ## PYTHON
 
-* [Awesome Python (curated list of awesome Python stuff)](https://github.com/vinta/awesome-python)
+* [Awesome Python (curated list of awesome Python frameworks, libraries, software and resources](https://awesome-python.com/) | [Github](https://github.com/vinta/awesome-python)
 
 ### PYTHON - ALGORITHMS
 
@@ -84,10 +84,6 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 * xlwings: [Website](http://xlwings.org/), [Github](https://github.com/ZoomerAnalytics/xlwings) & [Quickstart](http://xlwings.org/quickstart/)
 * python-excel: [Website](http://www.python-excel.org/) & [Github](https://github.com/python-excel)
 * [pywin32](http://sourceforge.net/projects/pywin32/)
-
-#### PYTHON - DATA ANALYSIS - GENSIM
-
-* Gensim: [Github](https://github.com/RaRe-Technologies/gensim/#gensim--topic-modelling-in-python) | [Tutorials](https://github.com/RaRe-Technologies/gensim/blob/develop/tutorials.md) | [Quick Start Jupyter Notebook](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/gensim%20Quick%20Start.ipynb) | [API docs](http://radimrehurek.com/gensim/apiref.html)
 
 #### PYTHON - DATA ANALYSIS - KAYAK (DEEP NEURAL NETWORKS)
 
@@ -395,6 +391,10 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 * [Invent Your Own Computer Games With Python, 2nd ed](http://inventwithpython.com/IYOCGwP_book1.pdf)
 * [PyGame.org](http://www.pygame.org/) & [tutorials](http://pygame.org/wiki/tutorials)
 
+#### PYTHON - GAMES - ARCADE
+
+* [Make your own games using Python Arcade library - Paul Vincent Craven](http://arcade.academy/)
+
 #### PYTHON - GAMES - CHESS
 
 * [Jerry](https://asdfjkl.github.io/jerry/) & [Building Jerry](https://buildingjerry.wordpress.com/)
@@ -560,6 +560,7 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 #### PYTHON - LEARNING - BASICS
 
+* [Python for Beginners - Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 * [Python Programming Tutorials - Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 * [Simple programs](https://wiki.python.org/moin/SimplePrograms)
 * [Programming for Absolute Beginners: Building Skills in Programming - Steven F. Lott](http://buildingskills.itmaybeahack.com/book/programming-2.6/latex/ProgrammingforNon-Programmers.pdf)
@@ -689,6 +690,16 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 * Dask - minimal task scheduling abstraction and parallel arrays (ContinuumIO): [Github](https://github.com/ContinuumIO/dask) | [Documentation](http://dask.pydata.org/en/latest/)
 
+### PYTHON - PODCASTS
+
+* [Django Chat](https://djangochat.com/)
+* [Import This](https://player.fm/series/import-this)
+* [PG Podcast - Philip J. Guo](http://pgbovine.net/PG-Podcast-summary.htm) (videos)
+* [Podcast.__init__](https://www.pythonpodcast.com/episodes/)
+* [PythonBytes](https://pythonbytes.fm/episodes/all)
+* [Talk Python to Me](https://talkpython.fm/episodes/all)
+* [Test & Code](https://testandcode.com/)
+
 ### PYTHON - PYLAB
 
 * DON'T USE PYLAB!!!
@@ -732,6 +743,10 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 * [FastText (Facebook)](https://github.com/facebookresearch/fastText)
 
+#### PYTHON - TEXT ANALYSIS - GENSIM
+
+* Gensim: [Website](https://radimrehurek.com/gensim/) | [Github](https://github.com/RaRe-Technologies/gensim/#gensim--topic-modelling-in-python) | [Tutorials](https://github.com/RaRe-Technologies/gensim/blob/develop/tutorials.md) | [Quick Start Jupyter Notebook](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/gensim%20Quick%20Start.ipynb) | [API docs](http://radimrehurek.com/gensim/apiref.html)
+
 #### PYTHON - TEXT ANALYSIS - NATURAL LANGUAGE TOOLKIT (NLTK)
 
 * [Statistical Machine Learning for Text Classification With Scikit-learn and NLTK - Olivier Grisel (PyCon 2011)](http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-statistical-machine-learning-for-text-classification-with-scikit-learn-4898362)
@@ -747,9 +762,14 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 * PyText (Facebook): [Docs](https://pytext-pytext.readthedocs-hosted.com/en/latest/) | [Github](https://github.com/facebookresearch/PyText)
 
+#### PYTHON - TEXT ANALYSIS - SPACY
+
+* [Spacy.io](https://spacy.io/)
+* [Spacy 101: The most important concepts, explained in simple terms](https://spacy.io/usage/spacy-101)
+
 #### PYTHON - TEXT ANALYSIS - TEXTBLOB
 
-* TextBlob: [ReadTheDocs](http://textblob.readthedocs.org/en/dev/), [Quickstart guide](http://textblob.readthedocs.org/en/dev/quickstart.html#quickstart), [Github](https://github.com/sloria/textblob)
+* TextBlob: [ReadTheDocs](http://textblob.readthedocs.org/en/dev/), [PDF](https://buildmedia.readthedocs.org/media/pdf/textblob/dev/textblob.pdf), [Quickstart guide](http://textblob.readthedocs.org/en/dev/quickstart.html#quickstart), [Github](https://github.com/sloria/textblob)
 * [Tutorial: Simple Text Classification with Python and TextBlob - Steven Loria](http://stevenloria.com/how-to-build-a-text-classification-system-with-python-and-textblob/)
 
 #### PYTHON - TEXT ANALYSIS - TWITTER CLIENTS
@@ -766,6 +786,12 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 ### PYTHON - VIDEOGREP
 
 * [Videogrep (for searching through videos with .srt subtitle tracks)](https://github.com/antiboredom/videogrep)
+
+### PYTHON - WEB
+
+#### PYTHON - WEB - PYODIDE (SCIENTIFIC STACK IN WEB ASSEMBLY)
+
+* Pyodide - The Python scientific stack, compiled to WebAssembly: [Docs](https://pyodide.readthedocs.io/en/stable/index.html)
 
 ### PYTHON - WEB SCRAPING
 

@@ -537,6 +537,10 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [RxJS Quick Start with Practical Examples](https://www.youtube.com/watch?v=2LCo926NFLI)
 * [Advanced RxJS: State Management and Animations - Ben Lesh](https://www.youtube.com/watch?v=jKqWMvdTuE8)
 
+### JAVASCRIPT - SERVICE WORKERS
+
+* [Service Worker Cookbook](https://serviceworke.rs/)
+
 ### JAVASCRIPT - TESTING
 
 * [Please don’t mock me - Justin Searls (Assert(JS) 2018)](https://www.youtube.com/watch?v=Af4M8GMoxi4)

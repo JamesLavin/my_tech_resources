@@ -141,6 +141,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Why Greatness Cannot Be Planned: The Myth of the Objective - Kenneth Stanley](https://www.youtube.com/watch?v=dXQPL9GooyI)
 * [Open-endedness: The last grand challenge you’ve never heard of - Kenneth O. Stanley, Joel Lehman, and Lisa Soros (December 2017)](https://www.oreilly.com/ideas/open-endedness-the-last-grand-challenge-youve-never-heard-of)
 
+### ARTIFICIAL INTELLIGENCE (AI) - FEDERATED LEARNING
+
+* ["Federated learning: private distributed ML" - Mike Lee Williams (StrangeLoop 2019)](https://www.youtube.com/watch?v=VUINeZUAlx8)
+* [See: PySyft](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pysyft)
+* [See: TF-Federated]()
+
 ### ARTIFICIAL INTELLIGENCE (AI) - GENERAL INTELLIGENCE
 
 * [Is AI Riding a One-Trick Pony? - James Somers](https://www.technologyreview.com/s/608911/is-ai-riding-a-one-trick-pony/)
@@ -425,6 +431,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [TensorFlow Dev Summit 2017](https://www.youtube.com/watch?v=mWl45NkFBOc&list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
 * [TensorFlow at DeepMind - Daniel Visentin (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=VdDmhOCw6J0)
 * [TensorFlow Wide & Deep Learning Tutorial (TensorFlow)](https://www.tensorflow.org/tutorials/wide_and_deep)
+
+#### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW - FEDERATED
+
+* [TensorFlow-Federated](https://www.tensorflow.org/federated)
 
 #### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW - HOROVOD
 
@@ -1420,6 +1430,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## DEVOPS
 
+* [Observability: Superpowers for Developers - Christine Yen (StrangeLoop 2019)](https://www.youtube.com/watch?v=1C5eErvSvR4)
 * [BOSH](https://github.com/cloudfoundry/bosh)
 * [Capistrano](https://github.com/capistrano/capistrano)
 * [Heroku](http://www.heroku.com/) | [Tddium](https://devcenter.heroku.com/articles/tddium)
@@ -1796,7 +1807,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - ISTIO
 
-* [Istio: Open Platform to Connect, Manage, and Secure Microservices](https://istio.io/) | [Github](https://github.com/istio/istio) | [Twitter](https://twitter.com/IstioMesh)
+* [Istio: Open Platform to Connect, Manage, and Secure Microservices](https://istio.io/) | [Docs](https://istio.io/docs/) | [Blog](https://istio.io/blog/) | [News](https://istio.io/news/) | [Github](https://github.com/istio/istio) | [Twitter](https://twitter.com/IstioMesh)
+* [Bookinfo (Istio Demo) Application](https://istio.io/docs/examples/bookinfo/)
+* [Exploring Istio by Example - Matthew Casperson](https://octopus.com/blog/istio/the-sample-application)
 * [istio-operator](https://github.com/banzaicloud/istio-operator)
 * [The Future is Istio - Jason Smith (GOTO 2018)]https://www.youtube.com/watch?v=sTqISgCgd9M()
 * [Tutorial: Using Istio - Lee Calcote & Girish Ranganathan (KubeCon + CloudNativeCon 2018)](https://www.youtube.com/watch?v=jlHLZqS7Vek)
@@ -1846,6 +1859,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Traffic Director & Envoy-Based L7 ILB for Production-Grade Service Mesh & Istio - Mike Columbus & Prajakta Joshi (Cloud Next '19)](https://www.youtube.com/watch?v=FUITCYMCEhU)
 * The Service Mesh Era: [Istio blog post series](https://cloud.google.com/blog/products/networking/welcome-to-the-service-mesh-era-introducing-a-new-istio-blog-post-series) | [Advanced application deployments and traffic management with Istio on GKE](https://cloud.google.com/blog/products/networking/advanced-application-deployments-and-traffic-management-with-istio-on-gke) | [Securing your environment with Istio](https://cloud.google.com/blog/products/networking/the-service-mesh-era-securing-your-environment-with-istio) | [Demo: Intro to Istio Security](https://github.com/GoogleCloudPlatform/istio-samples/tree/master/security-intro)
 * [Hello Istio Codelab (With Google Kubernetes) - Google](https://codelabs.developers.google.com/codelabs/cloud-hello-istio/#0)
+* [Mistake that cost thousands (Kubernetes, GKE) - Gajus Kuizinas](https://medium.com/@gajus/mistake-that-cost-thousands-kubernetes-gke-2212ea663e1f)
 * [Istio 101 (1.0) on GKE](https://meteatamel.wordpress.com/2018/08/06/istio-101-1-0-on-gke/) | [Istio 101 (0.8.0) on GKE - Mete Atamel (Google)](https://meteatamel.wordpress.com/2018/06/07/istio-101-0-8-0-on-gke/)
 * [ProductCatalog Canary Deployment (GKE / Istio)](https://github.com/GoogleCloudPlatform/istio-samples/tree/master/istio-canary-gke)
 
@@ -2282,6 +2296,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [ZealDocs - open-soure offline documentation browser](http://zealdocs.org/)
 * [Non-Official Zeal User Contributions Repository - Santiago Montoya A.](https://zealusercontributions.herokuapp.com/) (in Zeal -> Tools -> Docsets, click "Add Feed," then paste in the link to the .xml file in this repo that you're interested in)
 
+### DOCUMENTATION - DRAW.IO
+
+* Draw.io: [About](https://about.draw.io/) | [Draw (online)](https://www.draw.io/) | [Draw (offline)](https://about.draw.io/integrations/#integrations_offline)
+* [Creating different types of flowcharts with draw.io - Draw.io](https://about.draw.io/creating-different-types-of-flowcharts-with-draw-io/)
+
 ## DOWNTIME
 
 * [Ruby-Toolbox - Maintenance Mode](https://www.ruby-toolbox.com/categories/Maintenance_Mode)
@@ -2478,7 +2497,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Elixir Code Reading: Blacksmith](https://www.zweitag.de/en/blog/technology/elixir-code-reading-blacksmith)
 * [Elixir in times of microservices - José Valim](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/)
 * [Closures: Elixir vs. Ruby vs. JavaScript - Hubert Łępicki](https://www.amberbit.com/blog/2015/6/14/closures-elixir-vs-ruby-vs-javascript/)
-* [ExMachina for Elixir: Factories with a Functional Twist - Josh Steiner & Paul Smith](https://robots.thoughtbot.com/announcing-ex-machina)
+* [Erlang stuff that Elixir developers should know - Cees de Groot](http://evrl.com/programming/elixir/2019/09/24/erlang-for-elixir.html)
 
 ### ELIXIR - 1.6
 
@@ -2557,6 +2576,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * Broadway: Concurrent and multi-stage data ingestion and data processing with Elixir: [Github](https://github.com/plataformatec/broadway)
 * [The Road to Broadway - José Valim (Lonestar ElixirConf 2019)](https://www.youtube.com/watch?v=a3FtBNMzMxM)
 * [Broadway + Sqs + Apache Tika - Dave Lee (ElixirConf EU 2019)](https://www.youtube.com/watch?v=Gc3_bbfEW_w)
+* [Using Broadway at Hexdocs.pm - Wojtek Mach](http://blog.plataformatec.com.br/2019/09/using-broadway-at-hexdocs-pm/)
 
 ### ELIXIR - CACHING
 
@@ -2771,6 +2791,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [PostgreSQL indexing with Ecto - Richard Nyström](http://rny.io/elixir/ecto/postgresql/2015/08/31/postgresql-indexing-with-ecto.html)
 * [Composable Queries with Ecto - Drew Olson (ElixirConf 2015)](https://www.youtube.com/watch?v=g84TDHt9MDc)
 * [Embedding Elixir Structs in Ecto Models - Josh Steiner](https://robots.thoughtbot.com/embedding-elixir-structs-in-ecto-models)
+* [TIL How to Select Merge with Ecto.Query - Kate Travers](https://medium.com/flatiron-labs/til-how-to-select-merge-with-ecto-query-679d03204b9d)
 
 #### ELIXIR - ECTO - 3.0
 
@@ -2783,6 +2804,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Creating a Custom Ecto Duration Type - Christian Di Lorenzo](https://medium.com/@rcdilorenzo/creating-a-custom-ecto-duration-type-994e32ad4613)
 * [What is the difference between Ecto.Type’s cast and dump? - ElixirForum.com](https://elixirforum.com/t/what-is-the-difference-between-ecto-types-cast-and-dump/4855)
 * [Ecto type for IPv4 and IPv6 addresses - Pedro Assumpcao](https://pedroassumpcao.ghost.io/ecto-type-for-ipv4-and-ipv6-addresses/)
+
+#### ELIXIR - ECTO - DIFF
+
+* [ecto_diff: Generates a data structure describing the difference between two ecto structs - Peek Travel](https://github.com/peek-travel/ecto_diff)
 
 #### ELIXIR - ECTO - MULTI
 
@@ -2812,6 +2837,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - ERROR HANDLING
 
+* [The Dos and Don'ts of Error Handling - Joe Armstrong (GOTO 2018)](https://www.youtube.com/watch?v=TTM_b7EJg5E) & [Joe Armstrong, "Making Reliable Distributed Systems in the Presence of Software Errors"](http://erlang.org/download/armstrong_thesis_2003.pdf)
 * [Error-free Elixir - Maciej Kaszubowski (Code Elixir LDN 19)](https://www.youtube.com/watch?v=PwfOARkogDI)
 * [Error Handling in Elixir Libraries - Michal Muskala](http://michal.muskala.eu/2017/02/10/error-handling-in-elixir-libraries.html)
 
@@ -2835,6 +2861,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Elixir + CQRS - Architecting for Availability, Operability, and... - Jon Grieman (ElixirConf 2019)](https://www.youtube.com/watch?v=-d2NPc8cEnw)
 * [Dealing with eventual consistency in a CQRS/ES application - Ben Smith](https://10consulting.com/2017/10/06/dealing-with-eventual-consistency/)
 * Derek Kraan: [Event Sourcing in Elixir](https://tech.zilverline.com/2017/04/07/elixir_event_sourcing) & [Event Sourcing: Invariants spanning multiple aggregates](https://tech.zilverline.com/2017/04/21/event-sourcing-invariants-spanning-multiple-aggregates)
+* [Event Sourcing in Elixir (and CQRS) Talk by Pedro Assumpção (Chicago Elixir Meetup 2019)](https://www.youtube.com/watch?v=1lOUtisllFA)
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
 * [Building beautiful systems with Phoenix contexts - Andrew Hao (ElixirDaze 2018)](https://www.youtube.com/watch?v=l3VgbSgo71E) & [Built to last: A domain-driven approach to beautiful systems - Andrew Hao](https://www.youtube.com/watch?v=52qChRS4M0Y)
 * [Perhap: Applying Domain Driven Design and Reactive... - Rob Martin (ElixirConf 2017)](https://www.youtube.com/watch?v=kq4qTk18N-c)
@@ -2860,6 +2887,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [EventSourced: Functional domain models with event sourcing in Elixir - Ben Smith](https://github.com/slashdotdash/eventsourced)
 * [Building Conduit - Ben Smith](https://leanpub.com/buildingconduit) & [free to read online](https://leanpub.com/buildingconduit/read)
 * [Supporting multiple event stores in Commanded using an adapter based approach for Elixir - Ben Smith](https://10consulting.com/2017/05/17/supporting-multiple-event-stores-in-commanded/)
+* [Event sourcing in practice - Using Elixir to build event-driven applications - Ben Smith](https://www.youtube.com/watch?v=3R3qeMr_ANE)
 
 #### ELIXIR - EVENT SOURCING/CQRS - SAGE
 
@@ -2998,6 +3026,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [AutomatingTheFuture.com - Quentin Thomas](http://www.automatingthefuture.com/)
 * [Artificial Neural Networks, Elixir, and You - Quentin Thomas](http://www.automatingthefuture.com/blog/2016/9/7/artificial-neural-networks-elixir-and-you?utm_content=buffer9dea0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
+### ELIXIR - NERVES
+
+* [Nerves Project (keynote) - Justin Schneck (ElixirConf 2019)](https://www.youtube.com/watch?v=fRP_dVton7o)
+* [Nerves @ 433 MHZ - Jon Carstens](https://www.youtube.com/watch?v=PEheIY6gGhY) & [Replex: Reply radio signals on a raspberry pi to control RF devices](https://github.com/jjcarstens/replex)
+
 ### ELIXIR - NIFS
 
 * [Taking Elixir to the Metal with Rust - Sonny Scroggin](https://www.youtube.com/watch?v=lSLTwWqTbKQ)
@@ -3014,6 +3047,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - OTP
 
+* [Source code](https://github.com/erlang/otp)
 * [Consistent, Distributed Elixir - Chris Keathley (ElixirDaze 2018)](https://www.youtube.com/watch?v=CmMMpaUD3g8)
 * [The ABCs of OTP - Jesse J Anderson (ElixirDaze 2017)](https://www.youtube.com/watch?v=8X0IWW2GJoQ) | [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir) | [resource links](https://gist.github.com/jessejanderson/16cbc0614e9194fa1b64460f775777ab)
 * [Let It Crash: Creating an Example Supervisor in Elixir Using OTP - Tyler Pachal](https://medium.com/@tylerpachal/let-it-crash-creating-an-example-supervisor-in-elixir-using-otp-36ea4236b02b)
@@ -3181,18 +3215,23 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Building and Playing the Go Game with Phoenix LiveView - Jeff Kreeftmeijer](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html)
 * [Talking to the LiveView: Updating the Phoenix LiveViews from outside the process - Dorian Iacobescu](https://medium.com/@iacobson/talking-to-the-liveview-7a19f7e45522)
 * [Ecto Associations in Phoenix LiveView: One to Many - Dennis Beatty](https://dennisbeatty.com/2019/08/20/ecto-associations-in-phoenix-liveview-one-to-many.html)
-* [Phoenix LiveView Collection - Leandro Cesquini Pereira](https://medium.com/@leandrocesquini/phoenix-liveview-collection-8259f35ff2b0)
 * [Swapping React for Phoenix LiveView - Ed Ellson](https://medium.com/qixxit-development/swapping-react-for-phoenix-liveview-db6581f27a14)
 * [How to Create a Todo List with Phoenix LiveView - Dennis Beatty](https://dennisbeatty.com/2019/04/24/how-to-create-a-todo-list-with-phoenix-liveview.html)
 * [Concurrent ant farm with Elixir and Phoenix LiveView - Ricardo García Vega](http://codeloveandboards.com/blog/2019/03/28/concurrent-ant-farm-with-elixir-and-phoenix-liveview/) & [code](https://github.com/bigardone/phoenix-liveview-ant-farm)
+* [Integrating Phoenix LiveView - Live Stream - 2019-03-18](https://www.youtube.com/watch?v=FfpRBh2kWCI)
+* [How LiveView Handles File Uploads - Gary Rennie (ElixirConf 2019)](https://www.youtube.com/watch?v=svpk-hKvTNk)
+
+##### ELIXIR - PHOENIX - LIVE VIEW - EXAMPLES
+
+* [Kanban Live! - Pierre Hurtevent](https://github.com/hurty/live_view_demo)
+* [Libu: Simple KanBan Project Management tool built with Elixir, Phoenix, LiveView, and Tailwind CSS - Zach Blanco](https://github.com/zblanco/libu)
 * [Flappy Phoenix - Richard Taylor](https://www.richt.co.uk/til/flappy-phoenix-live-view/)
 * [Phoenix Live View Example - Chris McCord](https://github.com/chrismccord/phoenix_live_view_example)
-* [Integrating Phoenix LiveView - Live Stream - 2019-03-18](https://www.youtube.com/watch?v=FfpRBh2kWCI)
-* [Phoenix Live View Example with Todos - Scott Meade](https://github.com/smeade/phoenix_live_view_example_todos)
-* observer_live: port of observer_cli using LiveView - Dimitris Zorbas: [Live example](https://liveview.zorbash.com/) | [Github](https://github.com/zorbash/observer_live)
-* [Libu: Simple KanBan Project Management tool built with Elixir, Phoenix, LiveView, and Tailwind CSS - Zach Blanco](https://github.com/zblanco/libu)
 * [Table pagination, sorting, and filtering using LiveView - Joe Richsen](https://github.com/joerichsen/phoenix_live_view_example/blob/table_example/lib/demo_web/live/table_live.ex)
 * hippo_game_live - Milada & Černa Ovec: [Github](https://github.com/miladamilli/hippo_game_live) | [Play online](https://elegant-monstrous-planthopper.gigalixirapp.com/)
+* [Phoenix LiveView Collection - Leandro Cesquini Pereira](https://medium.com/@leandrocesquini/phoenix-liveview-collection-8259f35ff2b0)
+* [Phoenix Live View Example with Todos - Scott Meade](https://github.com/smeade/phoenix_live_view_example_todos)
+* observer_live: port of observer_cli using LiveView - Dimitris Zorbas: [Live example](https://liveview.zorbash.com/) | [Github](https://github.com/zorbash/observer_live)
 
 #### ELIXIR - PHOENIX - PERFORMANCE
 
@@ -3222,6 +3261,7 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ELIXIR - PHOENIX - TESTING
 
 * [ExUnit Deep Dive - Daniel Serrano](https://dnlserrano.dev/2019/05/26/exunit-deep-dive.html)
+* [ExMachina for Elixir: Factories with a Functional Twist - Josh Steiner & Paul Smith](https://robots.thoughtbot.com/announcing-ex-machina)
 * [How to do Outside-In TDD with Phoenix - Yiming Chen](https://dsdshcym.github.io/blog/2018/08/04/how-to-do-outside-in-tdd-with-phoenix/)
 * [End-to-end Testing in Elixir with Hound - Maciej Woźniak](https://semaphoreci.com/community/tutorials/end-to-end-testing-in-elixir-with-hound)
 * [Running Your Phoenix Tests Using Docker - Jason Kriss](https://blog.codeship.com/running-your-phoenix-tests-using-docker/)
@@ -3311,6 +3351,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Learn you some ':ssl' for much security! Bram Verburg (ElixirConfEU 2019)](https://www.youtube.com/watch?v=0jzcPnsE4nQ)
 * [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography#elixir)
 * [Securing Elixir Applications - Bram Verburg (ElixirConfEU 2016)](https://www.youtube.com/watch?v=r0DuAse9tK8) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/078/original/Bram_Verburg_-_Securing_Elixir_Applications.pdf?1462946275)
+* [Erlang Elixir Node Security Flaws - Andrei Clinciu](https://andreiclinciu.net/erlang-elixir-node-security-flaws)
 * [Paladin: JWT-based service to service protector for Elixir umbrella apps](https://github.com/opendoor-labs/paladin)
 
 ### ELIXIR - STREAMS
@@ -3482,6 +3523,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ## ERLANG
 
+* [Which companies are using Erlang, and why? - Francesco Cesarini](https://www.erlang-solutions.com/blog/which-companies-are-using-erlang-and-why-mytopdogstatus.html)
 * [The Erlang Rationale - Robert Virding](http://www.erlang-factory.com/upload/presentations/329/EFKR10-ErlangRationale.pdf)
 * [The Zen of Erlang - Fred Hebert (Reactive Summit 2016)](https://www.youtube.com/watch?v=4ZIPijEqrNI)
 * [Functional Programming in Erlang - Simon Thompson (University of Kent (UK))](https://www.futurelearn.com/courses/functional-programming-erlang)
@@ -3905,6 +3947,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Types and Tests at The Gilded Rose - Richard Feldman (Elm in the Spring)](https://www.youtube.com/watch?v=51O63Sb-Ae0)
 * [Type theory in practice - Gabriel Habryn (Lambda Days 19)](https://www.youtube.com/watch?v=aW6ZVQwbuak)
 * [Why Type Theory Matters - Thorsten Altenkirch (Lambda Days 2019)](https://www.youtube.com/watch?v=DllYOFw5Qio)
+* [Typing the Untyped: Soundness in Gradual Type Systems - Ben Weissmann](https://www.youtube.com/watch?v=uJHD2xyv7xo) (great discussion of covariance, invariance, and contravariance)
 
 ### FUNCTIONAL PROGRAMMING - VIDEOS
 
@@ -5011,10 +5054,12 @@ Peter R. Egli:
 
 ### PRODUCT DEVELOPMENT - PEOPLE, PROCESS & TEAMS
 
+* [Junior developer survival tips (with Mayuko) - Fun, Fun, Function](https://www.youtube.com/watch?v=HSYmznRhebk)
 * [We fired our top talent. Best decision we ever made - Jonathan Solórzano-Hamilton](https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde)
 * [Know Your Company blog - Claire Lew](https://blog.knowyourcompany.com/)
 * [Humane Development - Ernie Miller (RailsConf 2015)](https://www.youtube.com/watch?v=-ZLYxLjwNWo) & [(RubyOnAles 2015](https://www.youtube.com/watch?v=SsReC-u--gg)
 * [Patterns of Effective Teams - Dan North (GOTO Chicago 2017)](https://www.youtube.com/watch?v=lvs7VEsQzKY)
+* [What do we stand for? (Kind-hearted, Humble, Together) - Mattias Petter Johansson (Fun Fun Function)](https://www.youtube.com/watch?v=BsGXEiW7D3A)
 * [What We Actually Know About Software Development, and Why We Believe It’s True - Greg Wilson](https://vimeo.com/9270320)
 * [Amelia Bedelia Learns to Code - Kylie Stradley (RailsConf 2015)](https://www.youtube.com/watch?v=bSbla50tqZE)
 * [Lessons from Theater and Software - Kevin Stevens (Rocky Mountain Ruby 2013)](http://confreaks.tv/videos/2771-rockymountainruby2013-lightning-talk-lessons-from-theater-and-software)
@@ -5122,6 +5167,7 @@ Peter R. Egli:
 
 ### PROGRAMMING - CONCURRENCY
 
+* [How We Program Multicores - Joe Armstrong (RISE SICS)](https://www.youtube.com/watch?v=bo5WL5IQAd0)
 * [Thinking Outside the Synchronisation Quadrant - Kevlin Henney (NDC {London} 2017)](https://www.youtube.com/watch?v=2yXtZ8x7TXw)
 * [Distributed, Eventually Consistent Computations - Christopher Meiklejohn](https://www.youtube.com/watch?v=lsKaNDj4TrE)
 
@@ -5174,7 +5220,7 @@ Peter R. Egli:
 
 * [Code Studio](http://studio.code.org/)
 * [Codecademy](https://www.codecademy.com/) (Registration required)
-* [CS50: Intro to Computer Science - David J. Malan (Harvard)](http://cs50.tv/)
+* [CS50: Intro to Computer Science - David J. Malan (Harvard)](http://cs50.tv/) & [edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 * [Fun Fun Function - Mattias Petter Johansson, a.k.a. "mpj"](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 * [I Love Coding](https://ilovecoding.org/) (Registration required)
 * [Upcase - Thoughtbot](https://thoughtbot.com/upcase)
@@ -5210,6 +5256,7 @@ Peter R. Egli:
 ### PROGRAMMING - MANAGEMENT
 
 * [Shape Up: Stop Running in Circles and Ship Work That Matters - Ryan Singer](https://basecamp.com/shapeup) | [PDF](https://basecamp.com/shapeup/shape-up.pdf)
+* [Be a Director, Not a Manager - Fareed Mosavat (#mtpcon 2019)](https://www.mindtheproduct.com/2019/09/be-a-director-not-a-manager-by-fareed-mosavat/)
 * [Tips for Managing a Widely Distributed Team - Dirkjan Bussink (#LeadDevLondon 2018)](https://www.youtube.com/watch?v=pi6bHUkoBgY)
 
 #### PROGRAMMING - MANAGEMENT - BILL CAMPBELL
@@ -5315,6 +5362,7 @@ Peter R. Egli:
 
 ### PROGRAMMING - VIDEOS
 
+* StrangeLoop: [2019](https://www.youtube.com/playlist?list=PLcGKfGEEONaCToXJZ4Uk1NVW70U3C-Im-) | [2018](https://www.youtube.com/playlist?list=PLcGKfGEEONaBUdko326yL6ags8C_SYgqH) | [2017](https://www.youtube.com/playlist?list=PLcGKfGEEONaDzd0Hkn2f1talsTu1HLDYu) | [2016](https://www.youtube.com/playlist?list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa) | [2015](https://www.youtube.com/playlist?list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH32R)
 * [VoxxedDays Zurich 2018](https://www.youtube.com/playlist?list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL)
 * [InfoQ.com videos](http://www.infoq.com/presentations/) | [QCon New York 2018](https://qconnewyork.com/video-schedule)
 * DeconstructConf: [2017](https://www.deconstructconf.com/2017)
@@ -5334,7 +5382,6 @@ Peter R. Egli:
 * [OSCON 2014](https://www.youtube.com/playlist?list=PL055Epbe6d5Y3njTzpWt0VepR1B7tcRFH)
 * [FutureTalks - NewRelic](https://www.youtube.com/playlist?list=PLmhYj7Jl81JGTfSgMeya2R-zcISDZ9utg)
 * [Forward University](http://forwardjs.com/university)
-* [StrangeLoop 2015](https://www.youtube.com/watch?v=R2Aa4PivG0g&list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH32R)
 
 ## PURESCRIPT
 
@@ -5580,9 +5627,12 @@ Peter R. Egli:
 ## RUST
 
 * [Rustup.rs: Rust language installer](https://rustup.rs/)
+* [Rust Programming Tutorials - dcod/](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)
 * [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 * [The Rust Programming Language (book)](https://doc.rust-lang.org/stable/book/foreword.html) | [Print version savable as PDF](https://doc.rust-lang.org/book/print.html) | or display in browser using "rustup doc --book" on the command line
 * Rust By Example (book / collection of runnable examples): [Online](https://doc.rust-lang.org/rust-by-example/) & [Github (instructions for offline)](https://github.com/rust-lang/rust-by-example)
+* [Rust Crash Course - Traversy Media](https://www.youtube.com/watch?v=zF34dRivLOw)
+* [Rust Videos - YouCodeThings](https://www.youtube.com/playlist?list=PLVT0QN6kDrbd3KZr4EkBNvjSDTaZyxwhM)
 * [Intro to Rust - Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW)
 * [Let's Learn Rust :) - d0nutptr](https://www.twitch.tv/d0nutptr/video/449120304) (teaching begins about 27 minutes in)
 * [rustlings: Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings)
@@ -5656,8 +5706,8 @@ Peter R. Egli:
 ### RUST - VIDEOS
 
 * [RustLatam 2019](https://www.youtube.com/playlist?list=PL85XCvVPmGQjuWUNeFCgl8X2EOC_aAq5N)
-* [RustConf Asia 2019 (Mandarin)](https://www.youtube.com/playlist?list=PL85XCvVPmGQinnVj0lJ9A9pDU4Osziq-_)
-* RustConf: [2018](http://confreaks.tv/events/rustconf2018) | [2017](http://confreaks.tv/events/rustconf2017)
+* [RustConf Asia 2019 (most talks in Mandarin)](https://www.youtube.com/playlist?list=PL85XCvVPmGQinnVj0lJ9A9pDU4Osziq-_)
+* RustConf: [2019](https://www.youtube.com/playlist?list=PL85XCvVPmGQhDOUIZBe6u388GydeACbTt) | [2018](http://confreaks.tv/events/rustconf2018) | [2017](http://confreaks.tv/events/rustconf2017)
 * [Rust playlists](https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA/playlists)
 * [RustFest Paris 2018](https://www.youtube.com/playlist?list=PL85XCvVPmGQgdqz9kz6qH3SI_hp7Zb4s1)
 * [Bay Area Rust](https://www.youtube.com/playlist?list=PL85XCvVPmGQj2BbwgM19o_UA1_TubKbbn)
@@ -5971,6 +6021,17 @@ Peter R. Egli:
 
 * [Yay! Mocks! - Corey Haines (Aloha Ruby Conf 2012)](http://confreaks.tv/videos/1237-aloharuby2012-yay-mocks)
 * [Mock Objects in Discovery Tests - Justin Searls](http://blog.testdouble.com/posts/2014-05-14-mock-objects-in-discovery-tests.html)
+
+### TESTING - PRODUCTION
+
+* [Testing in Production, the safe way - Cindy Sridharan](https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1)
+* [Testing in Production: the hard parts - Cindy Sridharan](https://medium.com/@copyconstruct/testing-in-production-the-hard-parts-3f06cefaf592)
+* [I Test in Prod - Charity Majors](https://increment.com/testing/i-test-in-production/)
+
+#### TESTING - PRODUCTION - REPLAY TRAFFIC
+
+* [GoReplay: open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data](https://github.com/goreplay.org/) | [Github](https://github.com/buger/goreplay)
+* [TCPReplay](https://tcpreplay.appneta.com/) | [Github](https://github.com/appneta/tcpreplay)
 
 ### TESTING - UNIT TESTS
 
