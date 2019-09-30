@@ -3346,7 +3346,8 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ELIXIR - RIAK
 
 * [Riak Core](https://github.com/basho/riak_core/)
-* [](https://www.youtube.com/watch?v=Li3-aR9m8sQ)
+* [Riak's rebound - Nicholas Adams (Code BEAM STO 19)](https://www.youtube.com/watch?v=Li3-aR9m8sQ)
+* [Evolution of Riak: resolving problems in distributed systems - Martin Sumner (Code BEAM STO 19)](https://www.youtube.com/watch?v=zx26KmQ8Cv0)
 * Create a riak_core application in Elixir - GPad: [Part 1](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-1-41354c1f26c3) | [Part 2](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-2-88bdec73f368) | [Part 3](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-3-8bac36632be0) | [Part 4](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-4-728512ece224)
 
 ### ELIXIR - SCENIC
