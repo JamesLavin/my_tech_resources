@@ -689,6 +689,7 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 #### PYTHON - PERFORMANCE - DASK
 
 * Dask - minimal task scheduling abstraction and parallel arrays (ContinuumIO): [Github](https://github.com/ContinuumIO/dask) | [Documentation](http://dask.pydata.org/en/latest/)
+* [Dask Joblib - Many Scikit-Learn algorithms are written for parallel execution using Joblib](https://ml.dask.org/joblib.html)
 
 ### PYTHON - PODCASTS
 

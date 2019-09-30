@@ -23,6 +23,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ALGORITHMS - CRDTs
 
 * [CRDTs in Production - Dmitry Martyanov](https://www.youtube.com/watch?v=f03FWiIfXoQ)
+* [CRDTs: From sequential to concurrent executions - Carlos Baquero Moreno (CodeMesh LDN 2018](https://codesync.global/media/crdts-from-sequential-to-concurrent-executions/)
 * [Practical Demystification of CRDTs - Dmitry Ivanov & Nami Nasserazad (Curry On 2016)](https://www.youtube.com/watch?v=ShiU9g5JFq8)
 * [Conflict-free Replicated Data Types - Nuno Preguica, Carlos Baquero, and Marc Shapiro [PDF]](https://pages.lip6.fr/Marc.Shapiro/papers/CRDTs-Springer2018-authorversion.pdf)
 * [Raft: Understanding Distributed Consensus - TheSecretLivesOfData.com](http://thesecretlivesofdata.com/raft/)
@@ -2437,6 +2438,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Joy of Elixir](https://joyofelixir.com/toc.html)
 * [Elixir Devhints](https://devhints.io/elixir)
 * [Intro to Elixir - SolutionStreet.com](https://www.youtube.com/watch?v=lly-1UYmnFI)
+* [Buildings start-ups with Elixir - Michael Schaefermeyer (Code BEAM STO 19)](https://www.youtube.com/watch?v=icfvFFZUxZQ)
 * [Ten Things I Wish I Knew Before Using Elixir - Chris Williams](https://ropig.com/blog/ten-things-wish-knew-using-elixir/)
 * [Elixir Foundation - Zach Siri (Codemy.net)](https://www.codemy.net/posts/elixir-project-introduction-001/sets/elixir-foundation) (NOT all free)
 
@@ -2748,6 +2750,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * Alvise Susmel: [Spawning processes in Elixir, a gentle introduction to concurrency](https://www.poeticoding.com/spawning-processes-in-elixir-a-gentle-introduction-to-concurrency/) | [Hey Process, there is a Message for you!](https://www.poeticoding.com/hey-process-there-is-a-message-for-you/) | [The Primitives of Elixir Concurrency: a Full Example](https://www.poeticoding.com/the-primitives-of-elixir-concurrency-full-example/)
 * [Always Available - Claudio Ortolina (ElixirConf EU 2017)](https://www.youtube.com/watch?v=UTXYiV7nOpM)
 * [Elixir and Money - Tomasz Kowal (ElixirConf EU 2017)](https://www.youtube.com/watch?v=TZPG8b-Novw)
+* [Think in Erlang! - Viktória Fördős (Code BEAM STO 19)](https://www.youtube.com/watch?v=zAPGs0CLyvA)
 * [Idioms for Building Distributed Fault–Tolerant Applications with Elixir - José Valim (EuRuKo 2016)](https://www.youtube.com/watch?v=xhwnHovnq_0)
 * [pg2 and You: Getting Distributed with Elixir - Eric Entin (ElixirConf 2016)](https://www.youtube.com/watch?v=_O-bLuVhcCA) | [Slides](https://speakerdeck.com/antipax/pg2-and-you-getting-distributed-with-elixir)
 
@@ -3033,11 +3036,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### ELIXIR - NIFS
 
-* [Taking Elixir to the Metal with Rust - Sonny Scroggin](https://www.youtube.com/watch?v=lSLTwWqTbKQ)
-
 #### ELIXIR - NIFS - RUST & RUSTLER
 
 * [Rustler: Safe Rust bridge for creating Erlang NIF functions](https://github.com/rusterlium/rustler)
+* [BEAM + Rust: A match made in heaven - Sonny Scroggin (Code BEAM STO 19)](https://www.youtube.com/watch?v=xe32ku9s14k)
+* [Taking Elixir to the Metal with Rust - Sonny Scroggin](https://www.youtube.com/watch?v=lSLTwWqTbKQ)
 * [Writing Rust NIFs for your Elixir code with the Rustler package - Jacob Lerche](https://medium.com/@jacob.lerche/writing-rust-nifs-for-your-elixir-code-with-the-rustler-package-d884a7c0dbe3)
 
 ### ELIXIR - OPUS
@@ -3052,6 +3055,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [The ABCs of OTP - Jesse J Anderson (ElixirDaze 2017)](https://www.youtube.com/watch?v=8X0IWW2GJoQ) | [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir) | [resource links](https://gist.github.com/jessejanderson/16cbc0614e9194fa1b64460f775777ab)
 * [Let It Crash: Creating an Example Supervisor in Elixir Using OTP - Tyler Pachal](https://medium.com/@tylerpachal/let-it-crash-creating-an-example-supervisor-in-elixir-using-otp-36ea4236b02b)
 * [You Need a Supervisor - John (ElixirConf 2019)](https://www.youtube.com/watch?v=NbJhworOFjU)
+* [Implementing long-running business processes - Karolis Petrauskas (Code BEAM STO 19)](https://www.youtube.com/watch?v=8-fKdVlELFc)
 * Michael @ omgneering: [GenServer basics](https://www.youtube.com/watch?v=zC7TcrRi46Q) | [GenServer Callbacks and concurrency](Elixir GenServer callbacks and concurrency) | [Supervisor](https://www.youtube.com/watch?v=Gdf8JXeaPjw) | [Application (Part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM) | [Application (Part 2)](https://www.youtube.com/watch?v=rMwEQZewDyk)
 * [Processes and Supervision in Elixir - Steve Grossi](https://www.youtube.com/watch?v=eUxang6_WQA)
 * Building the Go Game in Elixir - Jeff Kreeftmeijer: [Part 1: With Phoenix LiveView](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html) | [Part 2: Time Travel and the Ko Rule](https://blog.appsignal.com/2019/07/04/elixir-alchemy-building-go-in-elixir-time-travel-and-the-ko-rule.html) | [Part 3: With Elixir's Registry, PubSub and dynamic supervisors](https://blog.appsignal.com/2019/08/13/elixir-alchemy-multiplayer-go-with-registry-pubsub-and-dynamic-supervisors.html)
@@ -3328,14 +3332,21 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Announcing PushEx: Open-Source WebSocket Push Server in Elixir - Stephen Bussey](https://stephenbussey.com/2018/12/02/announcing-pushex-open-source-websocket-push-server-in-elixir.html)
 * [PushEx](https://github.com/pushex-project/pushex)
 
+### ELIXIR - RAXX (SIMPLE WEB SERVER)
+
+* [Raxx.Kit - Lean mean web development for Elixir - Peter Saxton (Code BEAM STO 19)](https://www.youtube.com/watch?v=5YYpVJHA0sw) | [Slides](http://crowdhailer.me/2019-05-16/raxx-kit-lean-mean-web-development-for-elixir/slides.html#1)
+* [Message passing for actors and humans with Raxx - Peter Saxton (Code Mesh LDN 18)](https://www.youtube.com/watch?v=4tyWBZkkCfI)
+* [Building a distributed chatroom with Raxx.Kit - Peter Saxton](http://crowdhailer.me/2018-05-01/building-a-distributed-chatroom-with-raxx-kit/)
+
 ### ELIXIR - REDIS
 
 * [Redex (Github)](https://github.com/coosto/redex)
 * [Redex: An Elixir implementation of Redis - Ali Farhadi (ElixirConf EU 2019)](https://www.youtube.com/watch?v=sbk4ceR__DU)
 
-### ELIXIR - RIAK CORE
+### ELIXIR - RIAK
 
 * [Riak Core](https://github.com/basho/riak_core/)
+* [](https://www.youtube.com/watch?v=Li3-aR9m8sQ)
 * Create a riak_core application in Elixir - GPad: [Part 1](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-1-41354c1f26c3) | [Part 2](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-2-88bdec73f368) | [Part 3](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-3-8bac36632be0) | [Part 4](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-4-728512ece224)
 
 ### ELIXIR - SCENIC
@@ -3368,6 +3379,8 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - TESTING
 
+* [TDD is not about testing - Gianluca Padovani (Code BEAM STO 19)](https://www.youtube.com/watch?v=AVKpChQoXXE)
+* [Testing in an Elixir world - Rafael Rocha (Code BEAM STO 19)](https://www.youtube.com/watch?v=M8rv-gvTG-M)
 * [Track-switching in a large Elixir web application - 9elements](https://medium.com/9elements/track-switching-in-a-large-elixir-web-application-31522d5ac457)
 * [Lightweight dependency injection in Elixir (without the tears) - Andrew Hao](https://blog.carbonfive.com/2018/03/19/lightweight-dependency-injection-in-elixir-without-the-tears/)
 * [Mocks and explicit contracts - José Valim](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
@@ -3534,6 +3547,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Erlang Quick Reference Card v1.0, 2011-11-13, Pawel Stolowsk](https://github.com/stolowski/Erlang-Quick-Reference-Card/blob/master/erlang-quickref.pdf)
 * [Awesome Erlang - Curated list of libraries, resources & more - David Robakowski](https://github.com/drobakowski/awesome-erlang)
 * [Erlang Koans - Patrick Gombert](https://github.com/patrickgombert/erlang-koans)
+* [Building a Blockchain in Erlang - Ulf Wiger (CodeMesh LDN 2018)](https://codesync.global/media/building-blockchain-in-erlang-ulf-wiger/)
 * [Why We Chose Erlang over Java, Scala, Go, C - Colin Hemmings (QCon 2017)](https://www.infoq.com/presentations/erlang-java-scala-go-c)
 * [Solving the Stable Marriage problem with Erlang](https://www.airpair.com/erlang/posts/solving-the-stable-marriage-problem-with-erlang)
 * [Erlang - TutorialsPoint](https://www.tutorialspoint.com/erlang/erlang_tutorial.pdf)
@@ -3951,7 +3965,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### FUNCTIONAL PROGRAMMING - VIDEOS
 
-* [Code Mesh LDN 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtWFBNOrApXaIoCTtj-yk7Y)
+* Code Mesh: []() | [London 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtWFBNOrApXaIoCTtj-yk7Y)
 * International Conference on Functional Programming (ICFP): [2018](https://www.youtube.com/playlist?list=PLnqUlCo055hVknu7QAW_RUZRmRZWXmnvv) | [2017](https://www.youtube.com/playlist?list=PLnqUlCo055hW7kU-SBQEhC_87etA5Gqlq) | [2016](https://www.youtube.com/playlist?list=PLnqUlCo055hV-Yb_88YYUC2ucaBKCWCsa) | [2015](https://www.youtube.com/playlist?list=PLnqUlCo055hWNtUo1Haoq347VhCqIjs7u)
 * Commercial Users of Functional Programming (CUFP): [2016](https://www.youtube.com/playlist?list=PLnqUlCo055hUaidgipB5HjDpUnskXgGJ1) | [2015](https://www.youtube.com/playlist?list=PLnqUlCo055hXArE00SkORNiK9fk54de2a)
 * Compose Conference: [2017](https://www.youtube.com/playlist?list=PLNoHgLVTxtaoolkQo4hLy4ZsA1prUJ51m) | [2016](https://www.youtube.com/playlist?list=PLNoHgLVTxtaqlT4xVx6_39jzcDe-ZF9V2)
@@ -5673,6 +5687,10 @@ Peter R. Egli:
 
 * [Crates.io: Rust community's package registry](https://crates.io/)
 
+### RUST - DEPLOYMENT
+
+* [Secure isolation in Rust: hypervisors, containers, and the future of composable infrastructure - Allison Randal (CodeMesh LDN 2018)](https://codesync.global/media/secure-isolation-in-rust-hypervisors-containers-future-of-composable-infrastructure/)
+
 ### RUST - DIESEL
 
 * Diesel: ORM & Query Builder for Rust: [Diesel.rs](https://diesel.rs/) | [Github](https://github.com/diesel-rs/diesel)
@@ -6032,6 +6050,10 @@ Peter R. Egli:
 
 * [GoReplay: open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data](https://github.com/goreplay.org/) | [Github](https://github.com/buger/goreplay)
 * [TCPReplay](https://tcpreplay.appneta.com/) | [Github](https://github.com/appneta/tcpreplay)
+
+### TESTING - PROPERTY-BASED TESTING
+
+* [Property based tests for the masses - Romeu Moura (CodeMesh LDN 2018)](https://codesync.global/media/property-based-tests-for-the-masses/)
 
 ### TESTING - UNIT TESTS
 
