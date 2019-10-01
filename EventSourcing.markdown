@@ -358,7 +358,11 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [Running Kafka in Production: lessons learned - Ivan Dyachkov (Klarna the KonferenSE 2016)](https://www.youtube.com/watch?v=xZ8qy5eDS48)
 * [Scaling Slack’s Job Queue - Saroj Yadav, et al. (Slack)](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)
 
-*#### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - PRODUCTIONIZING - STRIMZI
+#### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - PRODUCTIONIZING - CONFLUENT + GOOGLE CLOUD
+
+* [GCP for Apache Kafka Users: Stream Ingestion and Processing - Ricardo Ferreira & Karthi Thyagarajan (Cloud Next '19)](https://www.youtube.com/watch?v=7H4C9q1a9No)
+
+#### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - KAFKA - PRODUCTIONIZING - STRIMZI
 
 * [Strimzi: Kubernetes Kafka Operator](https://operatorhub.io/operator/strimzi-cluster-operator)
 * [Kafka on Kubernetes - April 2019 - Marius Bogoevici](https://www.youtube.com/watch?v=CXy_T_rWcLE) & [Slides](https://speakerdeck.com/tjug/2019-04-kafka-on-kubernetes)
