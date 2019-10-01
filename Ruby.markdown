@@ -284,6 +284,11 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 * [Railscasts - Playing With PJAX](http://railscasts.com/episodes/294-playing-with-pjax)
 * [Learning pjax – Tutorial and Screencast](http://theadmin.org/articles/learning-pjax/)
 
+### RAILS - RACK
+
+* [Rack Middleware as a General Purpose Abstraction - Mitchell Hashimoto (MountainWest RubyConf 2012)](http://confreaks.tv/videos/961-mwrc2012-rack-middleware-as-a-general-purpose-abstraction)
+* [Rack: A Framework to Roll Your Own - Nishant Modak (Ruby Australia 2014)](http://vimeo.com/89478511)
+
 ### RAILS - SCALING & DEVOPS
 
 * [DevOps for the Rubyist Soul - John Downey (SteelCityRuby 2013](http://steelcityruby.confbots.com/video/72791610)

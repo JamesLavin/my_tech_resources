@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Domain-Driven Design](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---domain-driven-design) | [Elasticsearch](#elasticsearch) | [Elixir](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#erlang) | [Entrepreneurship](#business---entrepreneurship) | [Event sourcing](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#my-event-sourcing--cqrs--ddd--microservice-resources---james-lavin) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Kafka](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---kafka) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [News - Programming](https://github.com/JamesLavin/my_tech_resources#news---programming) | [News - Science](https://github.com/JamesLavin/my_tech_resources#news---science) | [News - Tech](https://github.com/JamesLavin/my_tech_resources#news---tech) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python), [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [R](#r) | [Rack](#rack) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Rust](#rust) | [Scala](#scala) | [Slim](#html---slim) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Domain-Driven Design](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---domain-driven-design) | [Elasticsearch](#elasticsearch) | [Elixir](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#erlang) | [Entrepreneurship](#business---entrepreneurship) | [Event sourcing](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#my-event-sourcing--cqrs--ddd--microservice-resources---james-lavin) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Kafka](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---kafka) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [News - Programming](https://github.com/JamesLavin/my_tech_resources#news---programming) | [News - Science](https://github.com/JamesLavin/my_tech_resources#news---science) | [News - Tech](https://github.com/JamesLavin/my_tech_resources#news---tech) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python), [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [Podcasts](#podcasts) | [R](#r) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Rust](#rust) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## ALGORITHMS
 
@@ -3625,6 +3625,24 @@ Peter R. Egli:
 
 * [Modern Perl, 4th ed (free ebook)](https://pragprog.com/book/swperl/modern-perl-fourth-edition)
 
+## PODCASTS
+
+* [AI](#artificial-intelligence-ai---podcasts)
+* [Business](#business---podcasts)
+* [Business - Entrepreneurship](#business---entrepreneurship---podcasts)
+* [Data](#data---podcasts)
+* [DevOps](#devops---blogs--podcasts)
+* [DevOps - AWS (Amazon Web Services)](#devops---aws-amazon-web-services---podcasts)
+* [DevOps - Google Cloud](#devops---google-cloud---podcasts)
+* [DevOps - Kubernetes](#devops---kubernetes---podcasts)
+* [EdTech](#edtech---podcasts)
+* [Elixir](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#elixir---podcasts)
+* [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm---podcasts)
+* [Functional Programming](#functional-programming---podcasts)
+* [Programming](#programming---podcasts)
+* [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---podcasts)
+* [Rust](#rust---podcasts)
+
 ## POSTGRESQL
 
 * [Official manuals](http://www.postgresql.org/docs/manuals/) [PG 11](https://www.postgresql.org/files/documentation/pdf/11/postgresql-11-US.pdf) | [PG 10](https://www.postgresql.org/files/documentation/pdf/10/postgresql-10-US.pdf) | [PG 9.6](https://www.postgresql.org/files/documentation/pdf/9.6/postgresql-9.6-US.pdf) | [PG 9.5](https://www.postgresql.org/files/documentation/pdf/9.5/postgresql-9.5-US.pdf) | [PG 9.4](https://www.postgresql.org/files/documentation/pdf/9.4/postgresql-9.4-US.pdf)
@@ -4271,11 +4289,6 @@ Peter R. Egli:
 
 * [Basic R tutorial videos](http://www.lauraksuttle.com/resources.html)
 * [Expressing Yourself in R (video) - Hadley Wickham](https://www.youtube.com/watch?v=wki0BqlztCo)
-
-## RACK
-
-* [Rack Middleware as a General Purpose Abstraction - Mitchell Hashimoto (MountainWest RubyConf 2012)](http://confreaks.tv/videos/961-mwrc2012-rack-middleware-as-a-general-purpose-abstraction)
-* [Rack: A Framework to Roll Your Own - Nishant Modak (Ruby Australia 2014)](http://vimeo.com/89478511)
 
 ## RAILS
 
