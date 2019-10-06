@@ -108,6 +108,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir v1.2 released](http://elixir-lang.org/blog/2016/01/03/elixir-v1-2-0-released/)
 * [Elixir 1.2 and Elixir in Action](http://theerlangelist.com/article/eia_elixir_12)
 
+### ELIXIR - ACTOR MODEL
+
+* [See: PROGRAMMING - ACTOR MODEL](https://github.com/JamesLavin/my_tech_resources#programming---actor-model)
+
 ### ELIXIR - ALGEBRAIC DATA TYPES
 
 * [Algae: Bootstrapped algebraic data types](https://github.com/expede/algae)
@@ -120,9 +124,13 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Atlas (ORM)](https://github.com/chrismccord/atlas)
 
+#### ELIXIR - AUTHENTICATION - ASSENT
+
+* [Assent (authentication strategies) - Dan Schultzer](https://github.com/pow-auth/assent)
+
 #### ELIXIR - AUTHENTICATION - POW
 
-* [pow: Robust, modular, and extendable user authentication system - Dan Schultzer](https://github.com/danschultzer/pow)
+* pow: Robust, modular, and extendable user authentication system - Dan Schultzer: [PowAuth.com](https://powauth.com/) | [Github](https://github.com/danschultzer/pow)
 
 ### ELIXIR - AVIA
 
@@ -186,6 +194,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [SOLID Elixir - Georgina McFadyen (ElixirConf.EU 2018)](https://www.youtube.com/watch?v=eldYot7uxUc)
 * [Keeping Code Consistent - Ben Marx (ElixirConf EU 2017)](https://www.youtube.com/watch?v=W1EzF4FdUxM)
 * [Refactoring Elixir: Lessons Learned from a Year on Exercism.io](https://www.youtube.com/watch?v=tJJMrtJEK1A)
+* [Just Delete It - Johnny Winn (Code BEAM STO 19)](https://www.youtube.com/watch?v=yk_-t_Pw3XA)
 
 ### ELIXIR - COWBOY
 
@@ -332,6 +341,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Distributed War Stories - Miriam Pena (EMPEX LA 2019)](https://www.youtube.com/watch?v=b3JQgyj17hk)
 * [Horde is a distributed process registry and supervisor built on δ-CRDTs - Derek Kraan](https://github.com/derekkraan/horde) | [API Docs](https://hexdocs.pm/horde/api-reference.html) | [Introducing Horde](https://medium.com/@derek.kraan2/introducing-horde-a-distributed-supervisor-in-elixir-4be3259cc142) | [Getting Started](https://medium.com/@derek.kraan2/getting-started-with-hordes-distributed-supervisor-registry-f3017208e1ce) | [Docker & OTP: Friends or Foes - Daniel Azuma (ElixirConf 2018)](https://www.youtube.com/watch?v=nLApFANtkHs)
 * Alvise Susmel: [Spawning processes in Elixir, a gentle introduction to concurrency](https://www.poeticoding.com/spawning-processes-in-elixir-a-gentle-introduction-to-concurrency/) | [Hey Process, there is a Message for you!](https://www.poeticoding.com/hey-process-there-is-a-message-for-you/) | [The Primitives of Elixir Concurrency: a Full Example](https://www.poeticoding.com/the-primitives-of-elixir-concurrency-full-example/)
+* [Why time is evil in distributed systems - Peter Van Roy (Code BEAM STO 19)](https://www.youtube.com/watch?v=NBJ5SiwCNmU)
 * [Always Available - Claudio Ortolina (ElixirConf EU 2017)](https://www.youtube.com/watch?v=UTXYiV7nOpM)
 * [Elixir and Money - Tomasz Kowal (ElixirConf EU 2017)](https://www.youtube.com/watch?v=TZPG8b-Novw)
 * [Think in Erlang! - Viktória Fördős (Code BEAM STO 19)](https://www.youtube.com/watch?v=zAPGs0CLyvA)
@@ -536,6 +546,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Hashing a File in Elixir - Alvise Susmel](https://www.poeticoding.com/hashing-a-file-in-elixir/)
 
+### ELIXIR - HASTEGA
+
+* [Return of Wabi-Sabi: Hastega Will Bring More and More Computational Power to Elixir - Susumu Yamazaki (ElixirConf 2019)](https://www.youtube.com/watch?v=uCkPyfFhPxI)
+* [Hastega: Challenge for GPGPU on Elixir - Susumu Yamazaki (Lonestar Elixir 2019)](https://www.youtube.com/watch?v=lypqlGlK1So)
+
 ### ELIXIR - HEX
 
 * [Writing and Publishing an Elixir Library - Nithin Bekal](http://nithinbekal.com/posts/elixir-publish-package/)
@@ -576,6 +591,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - LOGGING & MONITORING
 
 * Awesome Elixir: [Logging](https://github.com/h4cc/awesome-elixir#logging) & [Instrumenting / Monitoring](https://github.com/h4cc/awesome-elixir#instrumenting--monitoring)
+* [Monitoring Your Elixir Application with Prometheus - Eric Oestrich (LoneStar Elixir 2019)](https://www.youtube.com/watch?v=ETUD9SaRCjY)
 * Stephen Bussey: [Instruments: Simple and Fast metrics for Elixir](https://github.com/discordapp/instruments) & [Elixir Probes - Replacing Elixometer](https://stephenbussey.com/2018/09/24/elixir-probes-replacing-elixometer.html)
 * [The Ultimate Guide to Logging in Elixir - Brandon Richey](https://timber.io/blog/the-ultimate-guide-to-logging-in-elixir/)
 
@@ -898,7 +914,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - RAXX (SIMPLE WEB SERVER)
 
-* [Raxx.Kit - Lean mean web development for Elixir - Peter Saxton (Code BEAM STO 19)](https://www.youtube.com/watch?v=5YYpVJHA0sw) | [Slides](http://crowdhailer.me/2019-05-16/raxx-kit-lean-mean-web-development-for-elixir/slides.html#1)
+* [Raxx.Kit: Lean mean web development for Elixir - Peter Saxton (Code BEAM STO 19)](https://www.youtube.com/watch?v=5YYpVJHA0sw) | [Slides](http://crowdhailer.me/2019-05-16/raxx-kit-lean-mean-web-development-for-elixir/slides.html#1)
 * [Message passing for actors and humans with Raxx - Peter Saxton (Code Mesh LDN 18)](https://www.youtube.com/watch?v=4tyWBZkkCfI)
 * [Building a distributed chatroom with Raxx.Kit - Peter Saxton](http://crowdhailer.me/2018-05-01/building-a-distributed-chatroom-with-raxx-kit/)
 
@@ -994,9 +1010,10 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - TYPES
 
+* [Typespecs - Elixir docs](http://elixir-lang.org/docs/stable/elixir/typespecs.html)
 * [ExContract: support for design by contract - JDUnity](https://github.com/JDUnity/ex_contract)
 * [norm: system for specifying the structure of data, usable for data validation and generation - Chris Keathley](https://github.com/keathley/norm)
-* [Typespecs - Elixir docs](http://elixir-lang.org/docs/stable/elixir/typespecs.html)
+* [Introduction to a type system: session types - Charlotte Lorelei de Oliveira (Code BEAM STO 19)](https://www.youtube.com/watch?v=cuOGyWVSeJs)
 * [Contracts for Building Reliable Systems - Chris Keathley (ElixirConf 2019)](https://www.youtube.com/watch?v=tpo3JUyVIjQ)
 
 #### ELIXIR - TYPES - DIALYZER/DIALYXIR
@@ -1077,6 +1094,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [The Erlang Rationale - Robert Virding](http://www.erlang-factory.com/upload/presentations/329/EFKR10-ErlangRationale.pdf)
 * [The Zen of Erlang - Fred Hebert (Reactive Summit 2016)](https://www.youtube.com/watch?v=4ZIPijEqrNI)
 * [Functional Programming in Erlang - Simon Thompson (University of Kent (UK))](https://www.futurelearn.com/courses/functional-programming-erlang)
+* [Adopting Erlang](https://adoptingerlang.org/) | [Erlang/OTP Cheat Sheets](https://adoptingerlang.org/docs/cheat_sheets/)
 * [Spawned Shelter: collection of the best articles, videos and books for learning Erlang, the internals of its VM and other languages that run on top of it](http://spawnedshelter.com/)
 * [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/)
 * [Erlang in Anger - Fred Hebert](http://www.erlang-in-anger.com/)
@@ -1094,6 +1112,10 @@ Consequently, much of the following will soon be at least partially outdated:
 * [ErlangCentral Wiki](http://erlangcentral.org/wiki/index.php/)
 * [MostlyErlang.com](http://mostlyerlang.com/)
 * [Erlang: the Power of Functional Programming - Simon Thompson (EFLBA2017)](https://www.youtube.com/watch?v=pJwfyPV_V_o)
+
+### ERLANG - ACTOR MODEL
+
+* [See: PROGRAMMING - ACTOR MODEL](https://github.com/JamesLavin/my_tech_resources#programming---actor-model)
 
 ### ERLANG - ALPACA
 
@@ -1120,6 +1142,10 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Erlang Solutions](https://www.erlang-solutions.com/blog.html)
 * [This Week in Erlang - Sasan Gootik](https://gootik.github.io/this-week-in-erlang/)
 
+### ERLANG - CONCURRENCY
+
+* [How Erlang got its name - Bjarne Däcker (Code BEAM STO 19)](https://www.youtube.com/watch?v=0ytatCDEGyc)
+
 ### ERLANG - DEPLOYMENT
 
 #### ERLANG - DEPLOYMENT - AWS
@@ -1133,6 +1159,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Erlang distribution over TLS - Magnus Henoch](https://www.erlang-solutions.com/blog/erlang-distribution-over-tls.html)
 * [Partisan: Flexible, TCP-based membership system for Erlang/Elixir](https://github.com/lasp-lang/partisan) & [Partisan: Enabling Cloud-Scale Erlang Applications - Christopher S. Meiklejohn & Heather Miller (PDF)](https://arxiv.org/pdf/1802.02652.pdf)
 * [Scaling Distributed Erlang - Zandra Norman (ElixirConfEu 2016)](https://www.youtube.com/watch?v=usEs3GPnZDg)
+* [Erlang distribution: going beyond the fully connected mesh - Peer Stritzinger & Adam Lindberg (Code BEAM STO 19)](https://www.youtube.com/watch?v=ZHacI06RWhU)
 
 ### ERLANG - DOCUMENTATION
 
@@ -1252,6 +1279,12 @@ Consequently, much of the following will soon be at least partially outdated:
 * [A Peek Inside Erlang's OTP - Steve Vinoski(https://www.youtube.com/watch?v=PkHZPTn1brc)]
 * [It's About the Guarantees - Fred Hébert](http://ferd.ca/it-s-about-the-guarantees.html)
 
+#### ERLANG - OTP - 22.0
+
+* [OTP team update - Kenneth Lundin (Code BEAM STO 19)](https://www.youtube.com/watch?v=yyIAJbT_Jf8)
+* [OTP 22 Highlights - Lukas Larsson](http://blog.erlang.org/OTP-22-Highlights/)
+* [TLS logging improvements in OTP 22 - Péter Dimitrov](http://blog.erlang.org/ssl-logging-in-otp-22/)
+
 ### ERLANG - PACKAGES
 
 #### ERLANG - PACKAGES - POOLBOY
@@ -1264,13 +1297,28 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [Comparison of Erlang Runtime System and Java Virtual Machine - Tõnis Pool](http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf)
 * [Faults, Scaling, and Erlang concurrency - Joe Armstrong (Stanford University seminar 2014)](https://www.youtube.com/watch?v=YaUPdgtUYko)
+* [Useless performance optimisations on the BEAM for fun - Daniel Szoboszlay (Code BEAM STO 19)](https://www.youtube.com/watch?v=qEo-nIMEGAc)
+
+### ERLANG - PERSISTENT TERM
+
+* persistent_term: [Docs](http://erlang.org/doc/man/persistent_term.html)
+* [Clever use of persistent_term - Lukas Larsson](http://blog.erlang.org/persistent_term/)
 
 ### ERLANG - PYRLANG
 
 * [Pyrlang: Python meets Erlang - Johan Sommerfeld (Code BEAM STO 19)](https://www.youtube.com/watch?v=MwaUdNi34b4)
 * Erlang node implemented in Python 3.5+ (Asyncio-based): [Pyrlang.github.io](https://pyrlang.github.io/Pyrlang/) | [Github](https://github.com/Pyrlang/Pyrlang)
 
+### ERLANG - SSL
+
+* [Security versus interoperability - Ingela Anderton Andin (Code BEAM STO 19)](https://www.youtube.com/watch?v=dR5Gn7dI9vo)
+
 ### ERLANG - TESTING
+
+#### ERLANG - TESTING - LUX
+
+* [Lux: Test automation framework with Expect-style command execution - Håkan Mattsson](https://github.com/hawk/lux) | [Docs](https://github.com/hawk/lux/blob/master/doc/lux.md)
+* [LUX - an expect like test tool - Cons T Ahs and Hakan Mattsson (Code BEAM STO 19)](https://www.youtube.com/watch?v=Nu15YOpmCKQ)
 
 #### ERLANG - TESTING - PROPERTY-BASED
 

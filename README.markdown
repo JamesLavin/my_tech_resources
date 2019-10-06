@@ -817,6 +817,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Is Your Code Too SOLID? - Sarah Mei](http://forwardjs.com/university/is-your-code-too-solid)
 * [Move Slow and Mend Things - Kevlin Henney (VoxxedDays Zurich 2018)](https://www.youtube.com/watch?v=6j9Yl6fNMmc) & [[Devoxx Belgium 2017)](https://www.youtube.com/watch?v=1kklyq4XYpw)
 * [Why Senior Devs Write Dumb Code and How to Spot a Junior From A Mile Away - Scott Shipp](https://hackernoon.com/why-senior-devs-write-dumb-code-and-how-to-spot-a-junior-from-a-mile-away-27fa263b101a)
+* [Working with legacy code - Gabor Olah (Code BEAM STO 19)](https://www.youtube.com/watch?v=n0XCMHrSbwc)
 * [Ideology - Gary Bernhardt (StrangeLoop 2015)](https://www.destroyallsoftware.com/talks/ideology)
 * [The Mediator Pattern - Brandur](https://brandur.org/mediator)
 * ["The Mess We're In" - Joe Armstrong (StrangeLoop 2014)](https://www.youtube.com/watch?v=lKXe3HUG2l4)
@@ -3840,6 +3841,7 @@ Peter R. Egli:
 ### PROGRAMMING - ACTOR MODEL
 
 * [The Actor Model in 10 Minutes - Brian Storti](https://www.brianstorti.com/the-actor-model/)
+* [The wide world of almost-actors: comparing the Pony to BEAM languages - Scott Lystig Fritchie (Code BEAM STO 2019)](https://www.youtube.com/watch?v=_0m0_qtfzLs)
 * [Get to know the Actor Model - Roberto Dip](https://dev.to/roperzh/get-to-know-the-actor-model)
 * [Thinking in actors - Saša Jurić (WebCamp Zagreb 2014)](https://www.youtube.com/watch?v=g5JJZuxrW_k)
 * [FP Design Patterns in Micro-Service Inter-Process Communication - Viačeslav Pozdniakov (Lambda Days 19)](https://www.youtube.com/watch?v=55hS8GPRqlc)
