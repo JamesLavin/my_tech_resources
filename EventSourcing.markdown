@@ -386,6 +386,10 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 * [Messages: Patterns and Pitfalls - Richard Wellum (µCon London 2018)](https://skillsmatter.com/skillscasts/12955-messages-patterns-and-pitfalls#video)
 
+### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - MICROSERVICES
+
+* [Not Just Events: Developing Asynchronous Microservices - Chris Richardson (GOTO 2019)](https://www.youtube.com/watch?v=kyNL7yCvQQc)
+
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - PROCESS MANAGERS & SAGAS
 
 * Distributed Sagas: A Protocol for Coordinating Microservices - Caitie McAffrey: [(.NET Fringe 2017)](https://www.youtube.com/watch?v=1H6tounpnG8) | [On the Beach 2017 (Malaga, Spain)](https://www.youtube.com/watch?v=0UTOLRTwOX0)
