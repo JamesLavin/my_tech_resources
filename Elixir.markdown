@@ -1015,6 +1015,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [norm: system for specifying the structure of data, usable for data validation and generation - Chris Keathley](https://github.com/keathley/norm)
 * [Introduction to a type system: session types - Charlotte Lorelei de Oliveira (Code BEAM STO 19)](https://www.youtube.com/watch?v=cuOGyWVSeJs)
 * [Contracts for Building Reliable Systems - Chris Keathley (ElixirConf 2019)](https://www.youtube.com/watch?v=tpo3JUyVIjQ)
+* [Types On The BEAM - Gordon Guthrie](https://medium.com/@gordonguthrie/types-on-the-beam-2af8b1cb9be9)
 
 #### ELIXIR - TYPES - DIALYZER/DIALYXIR
 

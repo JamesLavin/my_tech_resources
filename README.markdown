@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Domain-Driven Design](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---domain-driven-design) | [Elasticsearch](#elasticsearch) | [Elixir](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#erlang) | [Entrepreneurship](#business---entrepreneurship) | [Event sourcing](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#my-event-sourcing--cqrs--ddd--microservice-resources---james-lavin) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Kafka](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---kafka) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [News - Programming](https://github.com/JamesLavin/my_tech_resources#news---programming) | [News - Science](https://github.com/JamesLavin/my_tech_resources#news---science) | [News - Tech](https://github.com/JamesLavin/my_tech_resources#news---tech) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python), [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [Podcasts](#podcasts) | [R](#r) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Rust](#rust) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Domain-Driven Design](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---domain-driven-design) | [Elasticsearch](#elasticsearch) | [Elixir](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#erlang) | [Entrepreneurship](#business---entrepreneurship) | [Event sourcing](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#my-event-sourcing--cqrs--ddd--microservice-resources---james-lavin) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Kafka](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---kafka) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [News - Programming](https://github.com/JamesLavin/my_tech_resources#news---programming) | [News - Science](https://github.com/JamesLavin/my_tech_resources#news---science) | [News - Tech](https://github.com/JamesLavin/my_tech_resources#news---tech) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python), [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [Podcasts](#podcasts) | [R](#r) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Rust](#rust) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best-though-i-now-use-it-inside-visual-studio-code) | [Visual Studio Code](#visual-studio-code-vscode) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## ALGORITHMS
 
@@ -724,6 +724,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ventured - Kleiner Perkins](https://itunes.apple.com/us/podcast/ventured/id895283359?mt=2)
 * [When to Jump - Mike Lewis](http://www.whentojump.com/podcast.html)
 
+#### BUSINESS - ENTREPRENEURSHIP - SALES
+
+* [Fear of Sales - Elad Gil](http://blog.eladgil.com/2019/10/fear-of-sales.html)
+
 ### BUSINESS - PODCASTS
 
 * [Acquired - A Podcast About Technology Acquisitions & IPOs - Ben Gilbert and David Rosenthal](https://itunes.apple.com/us/podcast/acquired/id1050462261)
@@ -826,14 +830,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Treat Your Code as a Crime Scene - Adam Tornhill](http://www.infoq.com/presentations/code-bugs-legacy-pitfalls)
 * [Code review advice from Thoughtbot](https://github.com/thoughtbot/guides/tree/master/code-review)
 * [Keynote: Architecture the Lost Years - Robert Martin (Ruby Midwest 2011)](http://confreaks.tv/videos/759-rubymidwest2011-keynote-architecture-the-lost-years)
-* [Talking Architecture: Small Is Beautiful - Kevlin Henney (Wix Engineering Tech Talks 2016)](https://www.youtube.com/watch?v=Y6B4jYBR4Y8)
+* [Talking Architecture: Small Is Beautiful - Kevlin Henney (Wix Engineering Tech Talks 2016)](https://www.youtube.com/watch?v=Y6B4jYBR4Y8) & [(GOTO 2016)](https://www.youtube.com/watch?v=B3b4tremI5o)
 * [Code as Risk - Kevlin Henney (GOTO Amsterdam 2017)](https://www.youtube.com/watch?v=YyhfK-aBo-Y)
 * [A System is Not a Tree - Kevlin Henney (DevWeek 2015)](https://www.youtube.com/watch?v=ARkLVvtxUZI) 
 * [The Errors of Our Ways - Kevlin Henney (GOTO Berlin 2016)](https://www.youtube.com/watch?v=IiGXq3yY70o)
+* [Old Is the New New - Kevlin Henney (GOTO 2018)](https://www.youtube.com/watch?v=AbgsfeGvg3E)
 * [A Question of Craftsmanship - Kevlin Henney (Agile India 2013)](https://www.youtube.com/watch?v=SdTcFEPeAUs)
 * [Cruft and Technical Debt: A Long View - Yehuda Katz (GoGaRuCo 2012)](http://confreaks.tv/videos/1121-gogaruco2012-cruft-and-technical-debt-a-long-view)
 * [Grasping Complexity with Both Hands - Glenn Vandenurg (GoGaRuCo 2012)](http://confreaks.tv/videos/1123-gogaruco2012-grasping-complexity-with-both-hands)
 * [Behind the Curtain: Applying lessons learned from years in the Theatre to crafting software applications - Nell Shamrell (MaidosnRuby 2012)](http://confreaks.tv/videos/1093-madisonruby2012-behind-the-curtain-applying-lessons-learned-from-years-in-the-theatre-to-crafting-software-applications)
+* [Computer Science: A Guide for the Perplexed - Joe Armstrong (GOTO 2018)](https://www.youtube.com/watch?v=rmueBVrLKcY)
 * [Modular & reusable front-end code with HTML5, Sass and CoffeeScript - Roy Tomeij (MadisonRuby 2012)](http://confreaks.tv/videos/1101-madisonruby2012-modular-reusable-front-end-code-with-html5-sass-and-coffeescript)
 * [Robert C. Martin videos (free)](http://www.google.com/search?q=robert+c.+martin&tbm=vid)
 * [Robert C. Martin videos (non-free)](http://www.cleancoders.com/)
@@ -853,8 +859,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### CLEAN CODE - AGILE - KANBAN
 
-* [Agile Project Management with Kanban - Eric Brechner](https://www.youtube.com/watch?v=CD0y-aU1sXo)
-* [Agile Project Management with Kanban - Eric Brechner](https://www.youtube.com/watch?v=CKWvmiY7f_g)
+* [Agile Project Management with Kanban - Eric Brechner (Talks at Google 2015)](https://www.youtube.com/watch?v=CD0y-aU1sXo)
+* [Agile Project Management with Kanban - Eric Brechner (Microsoft Research)](https://www.youtube.com/watch?v=CKWvmiY7f_g)
 
 ### CLEAN CODE - APIS
 
@@ -1883,6 +1889,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Kubernetes: [Docs](https://kubernetes.io/) | [Kubernetes API](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.9/) | [Basic tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Tutorials](https://kubernetes.io/docs/tutorials/) | [Tasks](https://kubernetes.io/docs/tasks/) | [Concepts](https://kubernetes.io/docs/concepts/) | [Github](https://github.com/kubernetes/kubernetes)
 * [kubernetes-doc-pdf](https://github.com/dohsimpson/kubernetes-doc-pdf)
+* [70 Best Kubernetes Tutorials - AquaSec](https://www.aquasec.com/wiki/display/containers/70+Best+Kubernetes+Tutorials)
 * [Dissecting Kubernetes (K8s) - An Intro to Main Components - Joshua Sheppard](https://www.infoq.com/presentations/kubernetes-yaml)
 * [Kubernetes Design Principles: Understand the Why - Saad Ali (KubeCon + CloudNativeCon 2018)](https://www.youtube.com/watch?v=ZuIQurh_kDk)
 * [Kubernetes in About 45 Minutes - Philip Lombardi (DevOpsDays Boston 2017)](https://www.youtube.com/watch?v=D6vkeowf9f4)
@@ -3644,6 +3651,15 @@ Peter R. Egli:
 * [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---podcasts)
 * [Rust](#rust---podcasts)
 
+### PODCASTS - PODCASTING
+
+* [How to Start a Podcast: Every Single Step - Colin Gray](https://www.thepodcasthost.com/planning/how-to-start-a-podcast/)
+
+#### PODCASTS - PODCASTING - AUDACITY
+
+* [Audacity Editing for Beginners: 16 Tips in 9 Minutes - CyberdogStudios](https://www.youtube.com/watch?v=WWFvG1-AmNk)
+* [How to Record and Edit a Podcast in Audacity - Pat Flynn](https://www.youtube.com/watch?v=xl-WDjWrTtk)
+
 ## POSTGRESQL
 
 * [Official manuals](http://www.postgresql.org/docs/manuals/) [PG 11](https://www.postgresql.org/files/documentation/pdf/11/postgresql-11-US.pdf) | [PG 10](https://www.postgresql.org/files/documentation/pdf/10/postgresql-10-US.pdf) | [PG 9.6](https://www.postgresql.org/files/documentation/pdf/9.6/postgresql-9.6-US.pdf) | [PG 9.5](https://www.postgresql.org/files/documentation/pdf/9.5/postgresql-9.5-US.pdf) | [PG 9.4](https://www.postgresql.org/files/documentation/pdf/9.4/postgresql-9.4-US.pdf)
@@ -5008,6 +5024,7 @@ Peter R. Egli:
 ## WRITING/PUBLISHING
 
 * [GitBook](https://github.com/GitbookIO/gitbook)
+* [LeanPub](https://leanpub.com/) | [Frontmatter (podcast)](https://leanpub.com/podcasts/frontmatter)
 * [Softcover.io](https://www.softcover.io/)
 
 ### WRITING/PUBLISHING - ASCIIDOC EDITORS
@@ -5023,14 +5040,30 @@ Peter R. Egli:
 
 ### WRITING/PUBLISHING - MARKDOWN
 
+* [Bookdown](https://bookdown.org/yihui/bookdown/)
+* [Ghostwriter](http://wereturtle.github.io/ghostwriter/)
+* [Gumroad](https://gumroad.com/)
+* [Kindle Direct Publishing](https://kdp.amazon.com/en_US/)
 * [Markdown](http://daringfireball.net/projects/markdown/)
+* [Markdown: The Easy Way to Write, Edit & Format Your Book - Carla King](https://www.bookworks.com/2019/05/markdown-text-editor-write-format-book/)
 * [Marked 2 (not free but apparently awesome previewer)](http://marked2app.com/)
+* [MultiMarkdown Composer v4 (Mac only)](https://multimarkdown.com/composer4/)
+* [Softcover.io](https://www.softcover.io/)
+* [StackEdit (In-browser)](https://stackedit.io/)
+* [The Tools I Use to Write Books - Thorsten Ball](https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/)
+* [Typora](https://typora.io/) (closed-source & free as of 1 October 2019 but will eventually be non-free)
 
 ### WRITING/PUBLISHING - PANDOC
 
-* [Pandoc: Universal Document Converter](http://pandoc.org/)
+* [Pandoc: Universal Document Converter](http://pandoc.org/) | [User's Guide (online)](https://pandoc.org/MANUAL.html) | [User's Guide (PDF)](https://pandoc.org/MANUAL.pdf)
+* [pandoc-book-template: simple Pandoc template to build documents and ebooks - Wikiti](https://github.com/wikiti/pandoc-book-template)
 * [Sustainable Authorship in Plain Text using Pandoc and Markdown - Dennis Tenen and Grant Wythoff](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
+* [Pandoc Tricks - John McFarlane](https://github.com/jgm/pandoc/wiki/Pandoc-Tricks)
 * [Plain Text, Papers, Pandoc](http://kieranhealy.org/blog/archives/2014/01/23/plain-text/)
+
+#### WRITING/PUBLISHING - PANDOC - PP
+
+* [PP: text preprocessor designed for Pandoc](http://cdsoft.fr/pp/)
 
 ### WRITING/PUBLISHING - RESTRUCTURED TEXT
 
