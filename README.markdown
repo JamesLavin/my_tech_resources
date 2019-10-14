@@ -1742,11 +1742,13 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DEVOPS - GOOGLE CLOUD
 
-* [Take5](https://www.youtube.com/playlist?list=PLIivdWyY5sqJ6sDqMDjAdB-IYZYM5UI_6)
-* Gcloud: [Overview](https://cloud.google.com/sdk/gcloud/) | [Compute Concepts](https://cloud.google.com/compute/docs/concepts) | [SDK Concepts](https://cloud.google.com/sdk/docs/concepts) | [Reference](https://cloud.google.com/sdk/gcloud/reference/) | [Compute How-Tos](https://cloud.google.com/compute/docs/how-to) | [SDK How-Tos](https://cloud.google.com/sdk/docs/how-to)
+* Gcloud: [Overview](https://cloud.google.com/sdk/gcloud/) | [Solutions](https://cloud.google.com/solutions/) | [Compute Concepts](https://cloud.google.com/compute/docs/concepts) | [SDK Concepts](https://cloud.google.com/sdk/docs/concepts) | [Reference](https://cloud.google.com/sdk/gcloud/reference/) | [Compute How-Tos](https://cloud.google.com/compute/docs/how-to) | [SDK How-Tos](https://cloud.google.com/sdk/docs/how-to)
+* [Google Cloud Codelabs](https://codelabs.developers.google.com/cloud/)
+* [Take5](https://www.youtube.com/playlist?list=PLIivdWyY5sqJ6sDqMDjAdB-IYZYM5UI_6) | [Platform Essentials](https://www.youtube.com/playlist?list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL)
+* [Coursera - Google Cloud](https://www.coursera.org/googlecloud)
 * Getting Started With GCloud SDK: Joaquin Menchaca [Part 1](https://medium.com/@Joachim8675309/getting-started-with-gcloud-sdk-part-1-114924737) & [Part 2](https://medium.com/@Joachim8675309/getting-started-with-gcloud-sdk-part-2-4d049a656f1a)
 * [gcp gcloud cheat sheet - Victor Yang](https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97)
-* [QwikLabs.com: We give you temporary credentials to Google Cloud Platform and Amazon Web Services, so you can learn the cloud using the real thing](https://www.qwiklabs.com/home?locale=en)
+* [QwikLabs.com: We give you temporary credentials to Google Cloud Platform and Amazon Web Services, so you can learn the cloud using the real thing](https://www.qwiklabs.com/) | [Google.qwiklabs.com](https://google.qwiklabs.com)
 * [Training - Google Cloud](https://teachercenter.withgoogle.com/gcp/training)
 * [Hipster Shop: Cloud-Native Microservices Demo Application - Google Cloud](https://github.com/GoogleCloudPlatform/microservices-demo)
 * [Developing Applications with Google Cloud Platform Specialization - Coursera](https://www.coursera.org/specializations/developing-apps-gcp)
@@ -2275,6 +2277,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### DEVOPS - VIDEOS
 
+* [DevOpsDays Boston 2019](https://www.youtube.com/playlist?list=PLKOXVA7dUqS9DFBY_IeDtsR5aH4kR3Daj)
 * [DevOpsDays Baltimore 2019](https://www.youtube.com/playlist?list=PLE7tQUdRKcyb-MIsb0pSgf8ZI-qz_hTh4)
 * [DevUp 2018](https://www.infoq.com/dev-up-2018/presentations/]
 * [DevOpsDays Boston 2018](http://confreaks.tv/events/devopsdaysboston2018)
@@ -2492,6 +2495,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [FP to the Max - John De Goes (Fun(c) 2018.7)](https://www.youtube.com/watch?v=sxudIMiOo68)
 * [Plain Functional Programming - Martin Odersky (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=YXDm3WHZT5g)
+* [Why Isn't Functional Programming the Norm? – Richard Feldman (Clojutre 2019)](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
 * [An introduction to functional programming - Mary Rose Cook](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 * [What Is Functional Programming? - Kris Jenkins](https://www.youtube.com/watch?v=xN1-mtw1Fns)
 * [Functional Programming Patterns for Mere Mortals - Daniel Chambers (NDC {Sydney} 2017)](https://www.youtube.com/watch?v=v9QGWbGppis)
@@ -3207,6 +3211,7 @@ Peter R. Egli:
 
 ### LINUX - SHELL SCRIPTING (BASH)
 
+* [Mastering the Linux Command Line - Bert Jan Schrijver (GOTO 2019)](https://www.youtube.com/watch?v=qmh7Uppd3x0) & [Notes](https://github.com/bertjan/mastering-the-linux-command-line)
 * [Shell Scripts Matter - Thibaut Rousseau](https://dev.to/thiht/shell-scripts-matter)
 * [Advanced Bash Scripting Guide](tldp.org/LDP/abs/abs-guide.pdf)
 * Command Line Text Processing - Sundeep Agarwal: [PDF](https://www.gitbook.com/download/pdf/book/learnbyexample/command-line-text-processing) | [online book](https://learnbyexample.gitbooks.io/command-line-text-processing/content/) | [learn by example](https://github.com/learnbyexample/Command-line-text-processing)
@@ -3736,6 +3741,7 @@ Peter R. Egli:
 
 ### POSTGRESQL - REPLICATION
 
+* [How to Set Up Streaming Replication in PostgreSQL 12 - Avinash Vallarapu](https://www.percona.com/blog/2019/10/11/how-to-set-up-streaming-replication-in-postgresql-12/)
 * [Streaming Replication (Postgresql.org)](https://wiki.postgresql.org/wiki/Streaming_Replication)
 * [WAL-E: Continuous Archiving for Postgres](https://github.com/wal-e/wal-e)
 * [Debezium: Change data capture for a variety of databases](https://github.com/debezium/debezium) & [Debezium.io](http://debezium.io/)
@@ -5020,6 +5026,16 @@ Peter R. Egli:
 * [UX Mapping Methods Compared: A Cheat Sheet - Sarah Gibbons](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/)
 * [User flow is the new wireframe - Alexander Handley](https://uxdesign.cc/when-to-use-user-flows-guide-8b26ca9aa36a)
 * [7 Free and Open Source Wireframe Tools to Optimize User Experience - Kelsie Anderson](https://blog.capterra.com/free-and-open-source-wireframe-tools/)
+
+## WINDOWS
+
+### WINDOWS SUBSYSTEM FOR LINUX (WSL)
+
+* [Windows Subsystem for Linux (WSL): The Ultimate Guide - Adam the Automator](https://adamtheautomator.com/windows-subsystem-for-linux/)
+* [Get started with the Windows Subsystem for Linux - Microsoft](https://docs.microsoft.com/en-us/learn/modules/get-started-with-windows-subsystem-for-linux/)
+* [Tutorial: Install Linux on Windows with Windows Subsystem for Linux - DataQuest](https://www.dataquest.io/blog/tutorial-install-linux-on-windows-wsl/)
+* [How to Use Windows Subsystem for Linux 2 and Windows Terminal - Michael Wanyoike](https://www.sitepoint.com/wsl2-windows-terminal/)
+* [How to Run a Linux Desktop Using the Windows Subsystem for Linux - Christian Cawley](https://www.makeuseof.com/tag/linux-desktop-windows-subsystem/)
 
 ## WRITING/PUBLISHING
 

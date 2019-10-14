@@ -143,7 +143,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [DennisBeatty.com](https://dennisbeatty.com/)
 * [Dockyard](https://dockyard.com/blog/categories/elixir)
 * [East 5th](http://www.east5th.co/blog/)
-* [Elixir Alchemy (AppSignal)](https://blog.appsignal.com/category/elixir-alchemy.htm)
+* [Elixir Alchemy (AppSignal)](https://blog.appsignal.com/elixir-alchemy)
 * [Elixir Dose](http://www.elixirdose.com/)
 * [Elixir Radar](http://plataformatec.com.br/elixir-radar)
 * [ElixirStatus.com](http://elixirstatus.com/)
@@ -764,8 +764,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - DEPLOYMENT
 
-Note: Elixir 1.9 will include release support:
+Note: Elixir 1.9 includes release support:
 
+* [Multi-stage Docker Builds and Elixir 1.9 Releases - Alex Koutmos](https://akoutmos.com/post/multipart-docker-and-elixir-1.9-releases/)
 * [Building Elixir 1.9 releases - Alchemist Camp](https://www.youtube.com/watch?v=W5Af_FFtOsQ)
 * [Updating Hex.pm to use Elixir releases - Wojtek Mach](http://blog.plataformatec.com.br/2019/05/updating-hex-pm-to-use-elixir-releases/)
 * [What’s new in Elixir – Apr/19 - José Valim](http://blog.plataformatec.com.br/2019/04/whats-new-in-elixir-apr-19/)
@@ -1328,7 +1329,7 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ERLANG - VIDEOS
 
 * [Intro to Erlang - Philip Clarke](https://www.youtube.com/watch?v=1QQSTayocdA)
-* Erlang Express - Simon Thompson: [1: Basic Erlang I](https://www.youtube.com/watch?v=aEyQcZg-Njs) | [2: Basic Erlang II](https://www.youtube.com/watch?v=eAGfNVNZstE) | [3: Sequential Erlang](https://www.youtube.com/watch?v=fccuCKpBkV4)
+* [Erlang Express - Simon Thompson](https://www.youtube.com/playlist?list=PLoFxPv8jwGVVlajiMxaW9zG1IZgHODTuq)
 * [Writing Quality Code in Erlang - Garrett Smith (2014)](https://www.youtube.com/watch?v=CQyt9Vlkbis)
 * [Erlang User Conf 2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ijLaWEw-L2xtTVMQ5chWcp)
 * [Functional Programming with Erlang](https://www.youtube.com/playlist?list=PLlML6SMLMRgAooeL26mW502jCgWikqx_n)

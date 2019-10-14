@@ -102,6 +102,7 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 #### PYTHON - DATA ANALYSIS - NUMPY
 
+* [Intro to Numerical Computing with NumPy - Alex Chabot-Leclerc (SciPy 2019 Tutorial)](https://www.youtube.com/watch?v=ZB7BZMhfPgk)
 * [A Visual Intro to NumPy and Data Representation - Jay Alammar](https://jalammar.github.io/visual-numpy/)
 * [Python For Data Science Cheat Sheet: NumPy Basics (DataCamp.com)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 * [(Tentative) NumPy Tutorial](http://wiki.scipy.org/Tentative_NumPy_Tutorial)
@@ -119,6 +120,7 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 #### PYTHON - DATA ANALYSIS - PANDAS
 
+* [Intro to Data Processing in Python with Pandas - Daniel Chen (SciPy 2019 Tutorial)](https://www.youtube.com/watch?v=5rNu16O3YNE)
 * [Data Analysis with PANDAS (cheatsheet)](http://datasciencefree.com/pandas.pdf)
 * [Python For Data Science Cheat Sheet - Pandas Basics (DataCamp.com)](https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)
 * [Python PANDAS Tutorial - TutorialsPoint.com (PDF)](https://www.tutorialspoint.com/python_pandas/python_pandas_tutorial.pdf)
@@ -477,6 +479,7 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 #### PYTHON - GRAPHICS - MATPLOTLIB
 
+* [Intro to Matplotlib - Hannah Aizenman & Thomas Caswell (SciPy 2019 Tutorial)](https://www.youtube.com/watch?v=Tr4DYo4v5AY)
 * [Intro Notes: Matplotlib](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
 * Matplotlib [API](http://matplotlib.org/api/), [PDF documentation](http://matplotlib.org/Matplotlib.pdf), [examples index](http://matplotlib.org/examples/index.html), [examples gallery](http://matplotlib.org/gallery.html) & [screenshots gallery](http://matplotlib.org/users/screenshots.html)
 * Pyplot [API](http://matplotlib.org/api/pyplot_summary.html)
@@ -633,6 +636,10 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 #### PYTHON - LEARNING - VIDEOS
 
+* [Python for Everybody - Full Course with Dr. Chuck (University of Michigan Professor Charles Severance)](https://www.youtube.com/watch?v=8DvywoWv6fI)
+* [Python Tutorial for Beginners [Full Course] 2019 - Mosh Hamedani](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+* [Full Python Programming Course | Python Tutorial for Beginners | Learn Python (2019)](https://www.youtube.com/watch?v=bZ6NL59FMoc)
+* [Python Tutorial For Beginners | Python Full Course From Scratch - Edureka](https://www.youtube.com/watch?v=vaysJAMDaZw)
 * SciPy: [Austin 2019](https://www.youtube.com/playlist?list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC) | [Japan 2019](https://www.youtube.com/playlist?list=PLYx7XA2nY5Geu7wUH_6RhQM1KJkAxZllc) | [Austin 2018](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gd-tNhm79CNMe_qvi35PgUR) | [Austin 2017](https://www.youtube.com/playlist?list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf) | [Austin 2016](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6)
 * PyCon: [2019](https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ/playlists) | [2018](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ/playlists) | [2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos) | [2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw/videos)
 * PyData: [Amsterdam 2019](https://www.youtube.com/playlist?list=PLGVZCDnMOq0q7_6SdrC2wRtdkojGBTAht) | [Miami 2019](https://www.youtube.com/playlist?list=PLGVZCDnMOq0qtkoXglrDC6pS8NvY94QQw) | [NYC 2018](https://www.youtube.com/playlist?list=PLGVZCDnMOq0qaT_ji1YQ5O4bWTEarj9J8) | [London 2018](https://www.youtube.com/playlist?list=PLGVZCDnMOq0ovNxfxOqYcBcQOIny9Zvb-) | [Berlin 2018](https://www.youtube.com/playlist?list=PLGVZCDnMOq0oQh7daBKy1AW5Q34d0LDsC)
