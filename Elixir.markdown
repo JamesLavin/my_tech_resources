@@ -23,6 +23,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Joy of Elixir](https://joyofelixir.com/toc.html)
 * [Elixir Devhints](https://devhints.io/elixir)
 * [Intro to Elixir - SolutionStreet.com](https://www.youtube.com/watch?v=lly-1UYmnFI)
+* [7 ways of doing Fizz Buzz in Elixir and other clickbaity stuff - Khaja Minhajuddin](https://minhajuddin.com/2018/07/06/7-ways-of-doing-fizz-buzz-in-elixir-and-other-clickbaity-stuff/)
 * [Buildings start-ups with Elixir - Michael Schaefermeyer (Code BEAM STO 19)](https://www.youtube.com/watch?v=icfvFFZUxZQ)
 * [Ten Things I Wish I Knew Before Using Elixir - Chris Williams](https://ropig.com/blog/ten-things-wish-knew-using-elixir/)
 * [Elixir Foundation - Zach Siri (Codemy.net)](https://www.codemy.net/posts/elixir-project-introduction-001/sets/elixir-foundation) (NOT all free)
@@ -196,11 +197,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Refactoring Elixir: Lessons Learned from a Year on Exercism.io](https://www.youtube.com/watch?v=tJJMrtJEK1A)
 * [Just Delete It - Johnny Winn (Code BEAM STO 19)](https://www.youtube.com/watch?v=yk_-t_Pw3XA)
 
-### ELIXIR - COWBOY
-
-* Cowboy: [Github](https://github.com/ninenines/cowboy) | [User Guide](http://ninenines.eu/docs/en/cowboy/HEAD/guide/)
-* Ranch: [Github](https://github.com/ninenines/ranch)
-
 ### ELIXIR - COURSES (NON-FREE)
 
 * [DailyDrip.com - Elixir](https://www.dailydrip.com/topics/elixir)
@@ -296,7 +292,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Conform: library to adapt your application to its deployed environment](https://github.com/bitwalker/conform)
 
-#### ELIXIR - DEPLOYMENT - DISTILLERY
+#### ELIXIR - DEPLOYMENT - DISTILLERY (DEPRECATED)
 
 * Distillery: [Github](https://github.com/bitwalker/distillery) | [Documentation](https://hexdocs.pm/distillery/getting-started.html)
 * [Elixir Deployments - 2019-05-20 - Eric Oestrich (Live Coding Grapevine)](https://www.youtube.com/watch?v=ucUefBendyE) & [Grapevine code](https://github.com/oestrich/grapevine)
@@ -325,7 +321,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Getting Elixir / Phoenix running on Digital Ocean with edeliver - Matt Weldon](https://gist.github.com/mattweldon/2e8ecb953216438ad168)
 * [Getting Elixir / Phoenix running on Digital Ocean with edeliver - davoclavo](https://gist.github.com/davoclavo/61b9d84f2248f182c95ae7738490ddd1)
 
-#### ELIXIR - DEPLOYMENT - EXRM
+#### ELIXIR - DEPLOYMENT - EXRM (DEPRECATED)
 
 * exrm: [source](https://github.com/bitwalker/exrm) | [docs](https://github.com/bitwalker/exrm/tree/master/docs) | [package docs (hexdocs.pm)](https://hexdocs.pm/exrm/extra-getting-started.html)
 * [Deploying Phoenix Applications with Exrm [and Conform] - Brandon Richey](https://medium.com/@diamondgfx/deploying-phoenix-applications-with-exrm-97a3867ebd04#.ke7uldpb4)
@@ -335,6 +331,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Deploying a Phoenix App With Gatling - Josh Adams](https://www.dailydrip.com/topics/elixir/drips/deploying-a-phoenix-app-with-gatling)
 * [Deploying Phoenix on Ubuntu with Gatling - Dennis Reimann](https://dennisreimann.de/articles/phoenix-deployment-gatling-ubuntu-digital-ocean.html)
+
+#### ELIXIR - DEPLOYMENT - KUBERNETES
+
+* [Deploying Phoenix to Kubernetes From Scratch - Dan Quan](https://quan.io/blog/deploying-phoenix-to-kubernetes-from-scratch/)
 
 ### ELIXIR - DISTRIBUTION
 
@@ -976,6 +976,11 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [Concurrent Feature Tests with Phoenix and Hound - Kevin Rockwood](http://rockwood.me/2016/concurrent-feature-tests-with-phoenix/)
 
+#### ELIXIR - TESTING - LOAD TESTING
+
+* Blitzy: [Simple HTTP load tester in Elixir - Benjamin Tan Wei Hao](https://github.com/benjamintanweihao/blitzy)
+* Chaperon: [HTTP Service Performance & Load Testing Framework - Poll Everywhere](https://github.com/polleverywhere/chaperon)
+
 #### ELIXIR - TESTING - MECKS UNIT
 
 * [MecksUnit: Simple Elixir package to elegantly mock module functions within (asynchronous) ExUnit tests using Erlang's :meck library](https://github.com/archan937/mecks_unit)
@@ -1127,6 +1132,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [The Soul of Erlang and Elixir - Saša Jurić (GOTO Chicago 2019)](https://www.youtube.com/watch?v=JvBT4XBdoUE)
 * [The BEAM Coding Paradigm - Kenji Rikitake (Code BEAM STO 2019)](https://www.youtube.com/watch?v=_KXHE6ULnww)
+* [Getting Core Erlang from Elixir - Andrew Volozhanin](https://scarfacedeb.me/posts/core-erlang-from-elixir/)
 * [Fantastic Voyage III: Destination BEAM - Brian Troutwine (Code BEAM SF 2019)](https://www.youtube.com/watch?v=Cri3Qqy4ptM)
 * [Digging through the garbage - Devon Estes (Code BEAM Lite Berlin 18)](https://www.youtube.com/watch?v=aqLujfzvUgM)
 * The Erlang Runtime System (a.k.a., The BEAM Book): [Github (source)](https://github.com/happi/theBeamBook) & [PDF](https://github.com/happi/theBeamBook/releases)
@@ -1147,6 +1153,12 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ERLANG - CONCURRENCY
 
 * [How Erlang got its name - Bjarne Däcker (Code BEAM STO 19)](https://www.youtube.com/watch?v=0ytatCDEGyc)
+
+### ERLANG - COWBOY
+
+* Cowboy: [Github](https://github.com/ninenines/cowboy) | [User Guide](http://ninenines.eu/docs/en/cowboy/HEAD/guide/)
+* Ranch: [Github](https://github.com/ninenines/ranch)
+* [Cowboy architecture and execution flow - Andrew Volozhanin](https://scarfacedeb.me/posts/cowboy-architecture/)
 
 ### ERLANG - DEPLOYMENT
 
@@ -1316,6 +1328,12 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Security versus interoperability - Ingela Anderton Andin (Code BEAM STO 19)](https://www.youtube.com/watch?v=dR5Gn7dI9vo)
 
 ### ERLANG - TESTING
+
+
+#### ERLANG - TESTING - LOAD TESTING
+
+* Ponons: [Github](https://github.com/klarna/ponos) | [Wiki](https://github.com/klarna/ponos/wiki)
+* Tsung: [Github](https://github.com/processone/tsung) | [User's Manual](http://tsung.erlang-projects.org/user_manual/) | [Blog](http://tsung.erlang-projects.org/)
 
 #### ERLANG - TESTING - LUX
 

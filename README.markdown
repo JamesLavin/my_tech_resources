@@ -766,6 +766,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## CHINESE
 
+* [Serverless Handbook——无服务架构实践手册 - Jimmy Song](https://jimmysong.io/serverless-handbook/)
 * [Kubernetes Handbook——Kubernetes中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)
 * [Istio Handbook——Istio服务网格实践指南 - Jimmy Song](https://jimmysong.io/istio-handbook/)
 * [InfoQ Chinese news](http://www.infoq.com/cn/)
@@ -2278,6 +2279,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### DEVOPS - VIDEOS
 
 * [DevOpsDays Boston 2019](https://www.youtube.com/playlist?list=PLKOXVA7dUqS9DFBY_IeDtsR5aH4kR3Daj)
+* [DevOpsDays Chicago 2019](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaVPM8O67RtKZsfo2WNySPo)
 * [DevOpsDays Baltimore 2019](https://www.youtube.com/playlist?list=PLE7tQUdRKcyb-MIsb0pSgf8ZI-qz_hTh4)
 * [DevUp 2018](https://www.infoq.com/dev-up-2018/presentations/]
 * [DevOpsDays Boston 2018](http://confreaks.tv/events/devopsdaysboston2018)
@@ -4477,7 +4479,7 @@ Peter R. Egli:
 ## SCALA
 
 * [Standard Library API](https://www.scala-lang.org/api/current/) | [Core Scala API](https://www.scala-lang.org/api/current/scala/index.html)
-* [Tour of Scala - scala-lang.org](https://docs.scala-lang.org/tour/tour-of-scala.html)
+* [Tour of Scala - scala-lang.org](https://docs.scala-lang.org/tour/tour-of-scala.html) | [Online Learning Resources](https://docs.scala-lang.org/learn.html)
 * [Awesome Scala (curated Scala resources) - Lauris Dzilums](https://github.com/lauris/awesome-scala)
 * [Scala School - Twitter](https://twitter.github.io/scala_school/)
     * [Basics](http://twitter.github.io/scala_school/basics.html)
@@ -4529,6 +4531,7 @@ Peter R. Egli:
 * [Scala for the Impatient (free PDF; requires registration)](http://typesafe.com/resources/book/scala-for-the-impatient)
 * [Scala in Depth (free PDF; requires registration)](http://typesafe.com/resources/book/scala-in-depth)
 * [Scala Tutorial (PDF) - TutorialsPoint.com](http://tutorialspoint.com/scala/scala_tutorial.pdf)
+* [Scala Book - Alvin Alexander](https://docs.scala-lang.org/overviews/scala-book/introduction.html)
 * [Scala Cookbook](http://scalacookbook.com/)
 * [Hello, Scala](http://hello-scala.com/)
 * Functional Programming, Simplified - Alvin Alexander: [400-page preview PDF](https://alvinalexander.com/downloads/fpsimplified-free-preview.pdf) | [Book](https://alvinalexander.com/scala/functional-programming-simplified-book)
