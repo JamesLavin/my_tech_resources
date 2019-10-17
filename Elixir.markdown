@@ -641,10 +641,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The ABCs of OTP - Jesse J Anderson (ElixirDaze 2017)](https://www.youtube.com/watch?v=8X0IWW2GJoQ) | [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir) | [resource links](https://gist.github.com/jessejanderson/16cbc0614e9194fa1b64460f775777ab)
 * [Let It Crash: Creating an Example Supervisor in Elixir Using OTP - Tyler Pachal](https://medium.com/@tylerpachal/let-it-crash-creating-an-example-supervisor-in-elixir-using-otp-36ea4236b02b)
 * [You Need a Supervisor - John (ElixirConf 2019)](https://www.youtube.com/watch?v=NbJhworOFjU)
+* [GenServer, Registry, DynamicSupervisor. Combined - Unnawut Leepaisalsuwanna](https://dev.to/unnawut/genserver-registry-dynamicsupervisor-combined-4i9p)
 * [Implementing long-running business processes - Karolis Petrauskas (Code BEAM STO 19)](https://www.youtube.com/watch?v=8-fKdVlELFc)
 * Michael @ omgneering: [GenServer basics](https://www.youtube.com/watch?v=zC7TcrRi46Q) | [GenServer Callbacks and concurrency](Elixir GenServer callbacks and concurrency) | [Supervisor](https://www.youtube.com/watch?v=Gdf8JXeaPjw) | [Application (Part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM) | [Application (Part 2)](https://www.youtube.com/watch?v=rMwEQZewDyk)
 * [Processes and Supervision in Elixir - Steve Grossi](https://www.youtube.com/watch?v=eUxang6_WQA)
 * Building the Go Game in Elixir - Jeff Kreeftmeijer: [Part 1: With Phoenix LiveView](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html) | [Part 2: Time Travel and the Ko Rule](https://blog.appsignal.com/2019/07/04/elixir-alchemy-building-go-in-elixir-time-travel-and-the-ko-rule.html) | [Part 3: With Elixir's Registry, PubSub and dynamic supervisors](https://blog.appsignal.com/2019/08/13/elixir-alchemy-multiplayer-go-with-registry-pubsub-and-dynamic-supervisors.html)
+* [How we scraped and aggregated data from multiple sources using OTP - Tiago Duarte](https://coletiv.com/blog/scrapping-data-elixir-otp/)
 * [split_brain.ex: The challenges of building a small distributed Elixir Application - Dorian Iacobescu](https://medium.com/qixxit-development/split-brain-ex-5d5f1c19b133)
 * [To spawn, or not to spawn? - Saša Jurić](http://www.theerlangelist.com/article/spawn_or_not)
 * [Write Unbelievably Clean Concurrent Code in Elixir Using the Task Module - Percy Grunwald](https://www.toptechskills.com/elixir-phoenix-tutorials-courses/clean-concurrent-code-elixir-task-module/)
@@ -659,6 +661,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Chat Bot: A Practical Walkthrough of the powerful Features Elixir/Erlang/OTP - Jeff Weiss](https://www.youtube.com/watch?v=NrrUyRt_B1w)
 * [Finding the needle in the Haystack: Breadth First Search... The Elixir Way - Quentin Thomas](http://www.automatingthefuture.com/blog/2016/4/8/finding-the-needle-in-the-haystack-breadth-first-search)
 * [Re-architecting with Elixir/OTP and Pattern Matching - Mustafa Turan](https://medium.com/@mustafaturan/re-architecting-with-elixir-otp-and-pattern-matching-b452213c7947#.igjky3yv7)
+
+#### ELIXIR - OTP - DYNAMIC SUPERVISORS
+
+* [Dynamic supervisors](https://elixir-lang.org/getting-started/mix-otp/dynamic-supervisor.html)
 
 ### ELIXIR - PACKAGES
 
@@ -884,7 +890,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Event Sourcing in React, Redux & Elixir — how we write fast, scalable, real-time apps at Rapport - Gary McAdam](https://medium.com/rapport-blog/event-sourcing-in-react-redux-elixir-how-we-write-fast-scalable-real-time-apps-at-rapport-4a26c3aa7529)
 * [Driving Phoenix sockets - Saša Jurić](http://theerlangelist.com/article/driving_phoenix_sockets)
 
-#### ELIXIR - PODCASTS
+### ELIXIR - PODCASTS
 
 * [Elixir Fountain](https://soundcloud.com/elixirfountain) (defunct)
 * [Elixir Mix](https://devchat.tv/elixir-mix/)
@@ -893,7 +899,18 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Indielixir - Carter Bryden](http://indielixer.com/)
 * [Smart Software - SmartLogic](https://podcast.smartlogic.io/)
 
-#### ELIXIR - PROJECTS
+### ELIXIR - PORTS
+
+* [Port module documentation](https://hexdocs.pm/elixir/Port.html)
+* [Managing External Commands in Elixir with Ports - Tony Collen](https://tonyc.github.io/posts/managing-external-commands-in-elixir-with-ports/)
+* [Outside Elixir: running external programs with ports - Saša Jurić](https://www.theerlangelist.com/article/outside_elixir)
+* [Primer on Ports - Geoff Smith](http://coolerranch.com/on-ports/)
+
+#### ELIXIR - PORTS - PORCELAIN
+
+* Porcelain: Work with external processes like a boss: [Github](https://github.com/alco/porcelain) | [Hexdocs](http://hexdocs.pm/porcelain)
+
+### ELIXIR - PROJECTS
 
 * [Bamboo: Testable, composable, and adapter based Elixir email library (Thoughtbot)](https://github.com/thoughtbot/bamboo)
 * [Moebius: Functional (database) query tool for Elixir (Rob Conery)](https://github.com/robconery/moebius)

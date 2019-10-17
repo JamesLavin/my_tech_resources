@@ -819,6 +819,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## CLEAN CODE
 
+* [Making It Count: Quality is NOT an Option - Todd Montgomery (GOTO 2018)](https://www.youtube.com/watch?v=LTZdmb5-8n8)
 * [Is Your Code Too SOLID? - Sarah Mei](http://forwardjs.com/university/is-your-code-too-solid)
 * [Move Slow and Mend Things - Kevlin Henney (VoxxedDays Zurich 2018)](https://www.youtube.com/watch?v=6j9Yl6fNMmc) & [[Devoxx Belgium 2017)](https://www.youtube.com/watch?v=1kklyq4XYpw)
 * [Why Senior Devs Write Dumb Code and How to Spot a Junior From A Mile Away - Scott Shipp](https://hackernoon.com/why-senior-devs-write-dumb-code-and-how-to-spot-a-junior-from-a-mile-away-27fa263b101a)
@@ -831,6 +832,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Treat Your Code as a Crime Scene - Adam Tornhill](http://www.infoq.com/presentations/code-bugs-legacy-pitfalls)
 * [Code review advice from Thoughtbot](https://github.com/thoughtbot/guides/tree/master/code-review)
 * [Keynote: Architecture the Lost Years - Robert Martin (Ruby Midwest 2011)](http://confreaks.tv/videos/759-rubymidwest2011-keynote-architecture-the-lost-years)
+* [Uncoupling - Michael Nygard (GOTO 2018)](https://www.youtube.com/watch?v=esm-1QXtA2Q)
+* [Stability Patterns & Antipatterns - Michael T. Nygard (GOTO 2016)](https://www.youtube.com/watch?v=VZePNGQojfA)
 * [Talking Architecture: Small Is Beautiful - Kevlin Henney (Wix Engineering Tech Talks 2016)](https://www.youtube.com/watch?v=Y6B4jYBR4Y8) & [(GOTO 2016)](https://www.youtube.com/watch?v=B3b4tremI5o)
 * [Code as Risk - Kevlin Henney (GOTO Amsterdam 2017)](https://www.youtube.com/watch?v=YyhfK-aBo-Y)
 * [A System is Not a Tree - Kevlin Henney (DevWeek 2015)](https://www.youtube.com/watch?v=ARkLVvtxUZI) 
@@ -1794,6 +1797,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - GOOGLE CLOUD - SECURITY
 
+* [Stay in control of your security with new product enhancements in Google Cloud - Google](https://cloud.google.com/blog/products/identity-security/stay-in-control-of-your-security-with-new-product-enhancements-in-google-cloud)
 * [Best practices for Identity and Access Management on Compute Engine - Eric Bahna (Google Cloud Next '17)](https://www.youtube.com/watch?v=qf_D92_yqbQ)
 
 #### DEVOPS - GOOGLE CLOUD - SERVICES
@@ -2047,6 +2051,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Jaeger Operator for Kubernetes](https://github.com/jaegertracing/jaeger-operator)
 * [Getting started with Jaeger to build an Istio service mesh - Daniel Oh](https://opensource.com/article/19/3/getting-started-jaeger)
 
+#### DEVOPS - KUBERNETES - KANIKO
+
+[Kaniko: tool to build container images from a Dockerfile, inside a container or Kubernetes cluster - Google](https://github.com/GoogleContainerTools/kaniko)
+
 #### DEVOPS - KUBERNETES - KUBECTL
 
 * kubectl: [Cheatsheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/) | [Overview](https://kubernetes.io/docs/user-guide/kubectl-overview/)
@@ -2061,6 +2069,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### DEVOPS - KUBERNETES - KUSTOMIZE (NOW PART OF KUBECTL)
 
 * Kustomize: [Github](https://github.com/kubernetes-sigs/kustomize/) | [Kustomize.io](https://kustomize.io/) | [Workflows](https://github.com/kubernetes-sigs/kustomize/blob/master/docs/workflows.md) | [Glossary](https://github.com/kubernetes-sigs/kustomize/blob/master/docs/glossary.md) | [JSON patches](https://github.com/kubernetes-sigs/kustomize/blob/master/examples/jsonpatch.md) | [Annotated examples](https://raw.githubusercontent.com/kubernetes-sigs/kustomize/master/docs/kustomization.yaml)
+* [Organizing the YAML mess with Kustomize - Florian Assmus (ContainerDays Hamburg 2019)](https://www.youtube.com/watch?v=1fCAwFGX38U)
+* [Declarative Management of Kubernetes Objects Using Kustomize - Kubernetes.io](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/)
+* [Kustomize: Kubernetes Configuration Management, The Easy Way - Pieter Vincken](https://ordina-jworks.github.io/cloud/2019/09/18/kustomize.html)
+* [Kustomize Examples](https://github.com/kubernetes-sigs/kustomize/tree/master/examples) | [More Kustomize Examples](https://kubectl.docs.kubernetes.io/pages/examples/kustomize.html) | [Kustomize Reference](https://kubectl.docs.kubernetes.io/pages/reference/kustomize.html)
+* [Kustomize - The right way to do templating in Kubernetes - Kevin Davin](https://blog.stack-labs.com/code/kustomize-101/)
 * Mithil Shah: [Kubernetes Kustomize – YAML Configuration Management](http://www.studytrails.com/devops/kubernetes/kubernetes-kustomize-yaml-configuration-management/) & [Kubernetes Kustomize for Multiple Environments](http://www.studytrails.com/devops/kubernetes/kubernetes-kustomize-for-multiple-environments/)
 * [Kustomize: Deploy Your App with Template Free YAML - Ryan Cox, Lyft](https://www.youtube.com/watch?v=ahMIBxufNR0)
 * [TGI Kubernetes 072: Kustomize and friends - Joe Beda](https://www.youtube.com/watch?v=NFnpUlt0IuM)
@@ -2122,6 +2135,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### DEVOPS - KUBERNETES - SECURITY
 
+* [Distroless: Language-focused Docker images, minus the operating system (truly minimal) - Google](https://github.com/GoogleContainerTools/distroless)
 * [kube-bench: checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark](https://github.com/aquasecurity/kube-bench) | [Tech N’ Talk: Implementing CIS Kubernetes Security Benchmarks with Kube-Bench - Liz Rice](https://blog.openshift.com/tech-n-talk-implementing-cis-kubernetes-security-benchmarks-kube-bench/)
 * [kube-hunter: Hunt for security weaknesses in Kubernetes clusters - Aqua Security](https://github.com/aquasecurity/kube-hunter) | [aquasec.com](https://kubehunter.aquasec.com/)
 * [11 Ways (Not) to Get Hacked - Andrew Martin](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
@@ -2151,6 +2165,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### DEVOPS - KUBERNETES - VIDEOS
 
 * [KubeCon + CloudNativeCon 2019 Barcelona 2019 (343 videos)](https://www.youtube.com/playlist?list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3)
+* [ContainerDays Hamburg 2019](https://www.youtube.com/playlist?list=PLHhKcdBlprMdg-fwPD1b3IjBRR_Ga09H0)
 * [Kubernetes Day India 2019](https://www.youtube.com/playlist?list=PLj6h78yzYM2NXMGswJofR2N1pGdET_9EV)
 * [KubeCon + CloudNativeCon 2018 Seattle (345 videos)](https://www.youtube.com/playlist?list=PLj6h78yzYM2PZf9eA7bhWnIh_mK1vyOfU)
 * [KubeCon + CloudNativeCon 2018 (51 videos)](https://www.youtube.com/playlist?list=PLIivdWyY5sqLctSoRvWI71mQx_5kU9SQm)
@@ -2158,6 +2173,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Skillsmatter.com](https://skillsmatter.com/explore?content=skillscasts&location=&q=Kubernetes)
 * [TGI Kubernetes - Heptio](https://www.youtube.com/playlist?list=PLvmPtYZtoXOENHJiAQc6HmV2jmuexKfrJ) & [Code from every episode on Github](https://github.com/heptio/tgik/tree/master/episodes)
 * [KubeCon + CloudNativeCon China 2018](https://www.youtube.com/playlist?list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)
+* [ContainerDays Hamburg 2018](https://www.youtube.com/playlist?list=PLHhKcdBlprMcVSL5OmlzyUrFtc7ib1V4w)
 * [KubeCon + CloudNativeCon 2018 - Copenhagen (354 videos!)](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo)
 * [CNCF (Cloud Native Computing Foundation) video playlists](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA/playlists)
 * [KubeCon + CloudNativeCon 2017 - Austin](https://www.youtube.com/playlist?list=PLj6h78yzYM2P-3-xqvmWaZbbI1sW-ulZb)
@@ -2296,6 +2312,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ## DISTRIBUTED PROGRAMMING
 
+* [Distributed Systems in One Lesson - Tim Berglund (Devoxx Poland)](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
 * [What happened to distributed programming languages? - Heather Miller (Papers We Love Conference 2017)](https://www.youtube.com/watch?v=eAcDWcaezXY)
 * [Distributed Systems and the End of the API - Chas Emerick](https://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/) & [talk slides](https://speakerdeck.com/cemerick/distributed-systems-and-the-end-of-the-api)
 * [Distributed Systems and the End of the API - Chas Emerick](https://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/) & [talk slides](https://speakerdeck.com/cemerick/distributed-systems-and-the-end-of-the-api)
@@ -3162,38 +3179,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### LINUX - NETWORKING
 
-* [Intro to DNS Terminology, Components, and Concepts - Justin Ellingwood (DigitalOcean)](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
-Peter R. Egli:
-  * [Data Networking Concepts](http://www.indigoo.com/dox/itdp/01_Intro/Data-Networking-Concepts.pdf)
-  * [Transport Protocols](http://www.indigoo.com/dox/itdp/02_Transport/Transport-Protocols.pdf)
-    * [TCP](http://www.indigoo.com/dox/itdp/02_Transport/TCP.pdf)
-    * [UDP](http://www.indigoo.com/dox/itdp/02_Transport/UDP.pdf)
-    * [SCTP](http://www.indigoo.com/dox/itdp/02_Transport/SCTP.pdf)
-  * [Network Sockets](http://www.indigoo.com/dox/itdp/03_Sockets/Sockets.pdf)
-  * [Email](http://www.indigoo.com/dox/itdp/04_Email/Email.pdf)
-  * [Comet, HTML5, Websockets](http://www.indigoo.com/dox/itdp/05_WWW/Comet-WebSockets-HTML5.pdf)
-  * [HTTP / HTML / WWW](http://www.indigoo.com/dox/itdp/05_WWW/HTTP-HTML-Web.pdf)
-  * [DNS](http://www.indigoo.com/dox/itdp/06_DNS/DNS.pdf)
-  * [DNSSEC](http://www.indigoo.com/dox/itdp/06_DNS/DNSSEC.pdf)
-  * [FTP](http://www.indigoo.com/dox/itdp/07_FTP-TFTP/FTP.pdf)
-  * [RARP, BOOTP, DHCP](http://www.indigoo.com/dox/itdp/08_DHCP/RARP-BOOTP-DHCP.pdf)
-  * [Internet Security](http://www.indigoo.com/dox/itdp/10_Security/Internet-Security.pdf)
-  * [VPN](http://www.indigoo.com/dox/itdp/11_VPN/VPN.pdf)
-  * [Mobile & Wireless Networks](http://www.indigoo.com/dox/itdp/12_MobileWireless/Mobile-Wireless-Networks.pdf)
-  * [Internet Organization](http://www.indigoo.com/dox/itdp/13_Management&Backbone/Internet-Organization.pdf)
-  * [QoS](http://www.indigoo.com/dox/itdp/13_Management&Backbone/QoS.pdf)
-  * [IP Routing](http://www.indigoo.com/dox/itdp/15_IPv4&IPv6/IP-Routing.pdf)
-  * [IPv6](http://www.indigoo.com/dox/itdp/15_IPv4&IPv6/IPv6.pdf)
-  * [SSH](http://www.indigoo.com/dox/itdp/16_Telnet&SSH/SSH.pdf)
-  * [Telnet](http://www.indigoo.com/dox/itdp/16_Telnet&SSH/TELNET.pdf)
-  * [STP & RSTP](http://www.indigoo.com/dox/itdp/17_LAN-Layer2/STP-RSTP.pdf)
-  * [Communication Middleware](http://www.indigoo.com/dox/wsmw/1_Middleware/Communication-Middleware.pdf)
-  * [Cloud Computing](http://www.indigoo.com/dox/wsmw/1_Middleware/Cloud-Computing.pdf)
-  * [JSON-RPC](http://www.indigoo.com/dox/wsmw/1_Middleware/JSON-RPC.pdf)
-  * [REST](http://www.indigoo.com/dox/wsmw/2_WebServices/REST.pdf)
-  * [Web Services](http://www.indigoo.com/dox/wsmw/2_WebServices/Web-Services.pdf)
-  * [Android NDK](http://www.indigoo.com/dox/mobdev/01_Android/Android-NDK.pdf)
-* [Ping! Are you there? - Lydia Gu (!!Con 2016)](https://www.youtube.com/watch?v=nSB53WRGY_0)
+* Also see: [NETWORKING](https://github.com/JamesLavin/my_tech_resources#networking)
 
 #### LINUX - NETWORKING - SOCAT
 
@@ -3202,10 +3188,6 @@ Peter R. Egli:
 * [Socat: A very powerful networking tool - Jesus Castello](https://www.blackbytes.info/2012/07/socat-cheatsheet/)
 * [Hands-on learning about network protocols using socat - Volker Schatz](http://www.volkerschatz.com/net/socatproc.html)
 * [Securing Traffic Between two Socat Instances Using SSL - Gerhard Rieger](http://www.dest-unreach.org/socat/doc/socat-openssltunnel.html)
-
-#### LINUX - NETWORKING - TLS
-
-* [Every byte of a TLS connection explained - Michael Driscoll](https://tls.ulfheim.net/)
 
 #### LINUX - NETWORKING - WIRESHARK
 
@@ -3422,6 +3404,55 @@ Peter R. Egli:
 * [Planet MongoDB](https://planet.mongodb.org/)
 * [MongoDb Blog](http://www.mongodb.com/blog)
 * [StackOverflow](http://stackoverflow.com/questions/tagged/mongodb)
+
+## NETWORKING
+
+* [Intro to DNS Terminology, Components, and Concepts - Justin Ellingwood (DigitalOcean)](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
+Peter R. Egli:
+  * [Data Networking Concepts](http://www.indigoo.com/dox/itdp/01_Intro/Data-Networking-Concepts.pdf)
+  * [Transport Protocols](http://www.indigoo.com/dox/itdp/02_Transport/Transport-Protocols.pdf)
+    * [TCP](http://www.indigoo.com/dox/itdp/02_Transport/TCP.pdf)
+    * [UDP](http://www.indigoo.com/dox/itdp/02_Transport/UDP.pdf)
+    * [SCTP](http://www.indigoo.com/dox/itdp/02_Transport/SCTP.pdf)
+  * [Network Sockets](http://www.indigoo.com/dox/itdp/03_Sockets/Sockets.pdf)
+  * [Email](http://www.indigoo.com/dox/itdp/04_Email/Email.pdf)
+  * [Comet, HTML5, Websockets](http://www.indigoo.com/dox/itdp/05_WWW/Comet-WebSockets-HTML5.pdf)
+  * [HTTP / HTML / WWW](http://www.indigoo.com/dox/itdp/05_WWW/HTTP-HTML-Web.pdf)
+  * [DNS](http://www.indigoo.com/dox/itdp/06_DNS/DNS.pdf)
+  * [DNSSEC](http://www.indigoo.com/dox/itdp/06_DNS/DNSSEC.pdf)
+  * [FTP](http://www.indigoo.com/dox/itdp/07_FTP-TFTP/FTP.pdf)
+  * [RARP, BOOTP, DHCP](http://www.indigoo.com/dox/itdp/08_DHCP/RARP-BOOTP-DHCP.pdf)
+  * [Internet Security](http://www.indigoo.com/dox/itdp/10_Security/Internet-Security.pdf)
+  * [VPN](http://www.indigoo.com/dox/itdp/11_VPN/VPN.pdf)
+  * [Mobile & Wireless Networks](http://www.indigoo.com/dox/itdp/12_MobileWireless/Mobile-Wireless-Networks.pdf)
+  * [Internet Organization](http://www.indigoo.com/dox/itdp/13_Management&Backbone/Internet-Organization.pdf)
+  * [QoS](http://www.indigoo.com/dox/itdp/13_Management&Backbone/QoS.pdf)
+  * [IP Routing](http://www.indigoo.com/dox/itdp/15_IPv4&IPv6/IP-Routing.pdf)
+  * [IPv6](http://www.indigoo.com/dox/itdp/15_IPv4&IPv6/IPv6.pdf)
+  * [SSH](http://www.indigoo.com/dox/itdp/16_Telnet&SSH/SSH.pdf)
+  * [Telnet](http://www.indigoo.com/dox/itdp/16_Telnet&SSH/TELNET.pdf)
+  * [STP & RSTP](http://www.indigoo.com/dox/itdp/17_LAN-Layer2/STP-RSTP.pdf)
+  * [Communication Middleware](http://www.indigoo.com/dox/wsmw/1_Middleware/Communication-Middleware.pdf)
+  * [Cloud Computing](http://www.indigoo.com/dox/wsmw/1_Middleware/Cloud-Computing.pdf)
+  * [JSON-RPC](http://www.indigoo.com/dox/wsmw/1_Middleware/JSON-RPC.pdf)
+  * [REST](http://www.indigoo.com/dox/wsmw/2_WebServices/REST.pdf)
+  * [Web Services](http://www.indigoo.com/dox/wsmw/2_WebServices/Web-Services.pdf)
+  * [Android NDK](http://www.indigoo.com/dox/mobdev/01_Android/Android-NDK.pdf)
+* [Ping! Are you there? - Lydia Gu (!!Con 2016)](https://www.youtube.com/watch?v=nSB53WRGY_0)
+
+### NETWORKING - GRPC
+
+* [The Story of Why We Migrate to gRPC and How We Go About It - Matthias Grüter, Spotify (KubCon & CloudNativeCon Europe 2019)](https://www.youtube.com/watch?v=fMq3IpPE3TU)
+* [gRPC vs REST: let the battle begin! - Alex Borysov & Mykyta Protsenko (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=ZDUA5pD50Ok)
+
+### NETWORKING - HTTP/2
+
+* [HTTP/2, One Frame At A Time - Irina Shestak, MongoDB (Node+JS Interactive)](https://www.youtube.com/watch?v=ebR_XrAoW3k)
+* [Hyper Text Transfer Protocol - HTTP 1.0, 1.1, HTTP/2, HTTP/3 - Hussein Nasser](https://www.youtube.com/watch?v=0OrmKCB0UrQ)
+
+### NETWORKING - TLS
+
+* [Every byte of a TLS connection explained - Michael Driscoll](https://tls.ulfheim.net/)
 
 ## NEWS
 
@@ -3852,6 +3883,12 @@ Peter R. Egli:
 * [GitLab HQ](https://github.com/gitlabhq/gitlabhq)
 * [Pivotal Tracker](http://www.pivotaltracker.com/)
 
+## PRODUCTIVITY TOOLS
+
+* Calcurse: calendar and scheduling application for the command line: [Calcurse.org](https://calcurse.org/) | [Manual](https://calcurse.org/files/manual.html)
+* Joplin: Open-source note taking & to-do application with synch capabilities: [JoplinApp.org](https://joplinapp.org/) | [Github](https://github.com/laurent22/joplin/) | [Discourse](https://discourse.joplinapp.org/)
+* Maestral: Open-source Dropbox client for macOS and Linux (that works with an encrypted Ubuntu HD): [Github](https://github.com/SamSchott/maestral-dropbox)
+
 ## PROGRAMMING
 
 * [Awesome list of awesome lists - Sindre Sorhus](https://github.com/sindresorhus/awesome)
@@ -4018,6 +4055,12 @@ Peter R. Egli:
 * [Remembering the Life and Career of Bill Campbell (Fortune)](https://www.youtube.com/watch?v=9AmHesyfoMQ)
 * [Fireside Chat With Ben Horowitz of Andreessen Horowitz and Bill Campbell of Intuit](https://www.youtube.com/watch?v=7JoQB2V9Ww4)
 * [Intuit CEO Conversations with Brad Smith and Bill Campbell](https://www.youtube.com/watch?v=EFWG51nGmGA)
+
+#### PROGRAMMING - MANAGEMENT - ONE-ON-ONES
+
+* [One on One Meeting Questions Great Managers Ask Their Teams - Lighthouse](https://getlighthouse.com/blog/one-on-one-meeting-questions-great-managers-ask/)
+* [24 great one-on-one meeting questions - Chloe Hamman (Culture Amp)](https://www.cultureamp.com/blog/great-one-on-one-meeting-questions/)
+* [101 Questions to Ask in One on Ones - Jason Evanish](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/)
 
 ### PROGRAMMING - MESSAGING & QUEUES
 
@@ -4727,6 +4770,7 @@ Peter R. Egli:
 
 ## TESTING
 
+* [High Cost Tests and High Value Tests - Noel Rappin (GOTO 2018)](https://www.youtube.com/watch?v=e8_YDUn5JZ4)
 * [Testing Microservices, the sane way - Cindy Sridharan](https://medium.com/@copyconstruct/testing-microservices-the-sane-way-9bb31d158c16)
 * [Ruby-Toolbox - Testing tools](https://www.ruby-toolbox.com/#Testing)
 * [Testing of Microservices - André Schaffer](https://labs.spotify.com/2018/01/11/testing-of-microservices/)
@@ -5031,6 +5075,11 @@ Peter R. Egli:
 * [7 Free and Open Source Wireframe Tools to Optimize User Experience - Kelsie Anderson](https://blog.capterra.com/free-and-open-source-wireframe-tools/)
 
 ## WINDOWS
+
+### WINDOWS - DOCKER
+
+* Windows Containers - Microsoft: [About](https://docs.microsoft.com/en-us/virtualization/windowscontainers/about/) | [Documentation](https://docs.microsoft.com/en-us/virtualization/windowscontainers/)
+* [Deploy your Web App in Windows Containers on Azure App Service - Azure Friday (Microsoft)](https://www.youtube.com/watch?v=Fe_AYBD5m0I)
 
 ### WINDOWS SUBSYSTEM FOR LINUX (WSL)
 
