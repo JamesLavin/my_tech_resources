@@ -567,6 +567,7 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 * [Python Programming Tutorials - Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 * [Simple programs](https://wiki.python.org/moin/SimplePrograms)
 * [Programming for Absolute Beginners: Building Skills in Programming - Steven F. Lott](http://buildingskills.itmaybeahack.com/book/programming-2.6/latex/ProgrammingforNon-Programmers.pdf)
+* [Learn Python - Nina Zakharenko](https://www.learnpython.dev/02-introduction-to-python/)
 * Beginner's Guide: [For Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers) | [For Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 * [Google's Python Class](https://developers.google.com/edu/python/)
 * [Hackr.io Python resources list](https://hackr.io/tutorials/python)
