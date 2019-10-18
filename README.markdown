@@ -2512,6 +2512,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ## FUNCTIONAL PROGRAMMING
 
+* [Practical Functional Programming - Jeremy Fairbank (Lambda Squared 2018)](https://www.youtube.com/watch?v=I_uIXgSmkDo)
 * [FP to the Max - John De Goes (Fun(c) 2018.7)](https://www.youtube.com/watch?v=sxudIMiOo68)
 * [Plain Functional Programming - Martin Odersky (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=YXDm3WHZT5g)
 * [Why Isn't Functional Programming the Norm? – Richard Feldman (Clojutre 2019)](https://www.youtube.com/watch?v=QyJZzq0v7Z4)

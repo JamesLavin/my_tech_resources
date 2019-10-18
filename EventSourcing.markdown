@@ -273,6 +273,7 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 * [Building Streaming Microservices with Apache Kafka - Tim Berglund (Devoxx Poland 2018)](https://www.youtube.com/watch?v=Hlb-Ss3q3as) & [Processing Streaming Data with KSQL - Tim Berglund (Devoxx Poland 2018)](https://www.youtube.com/watch?v=LM-aQQQes4Q)
 * [Apache Kafka and KSQL in Action : Let’s Build a Streaming Data Pipeline! - Robin Moffatt (Devoxx 2018)](https://www.youtube.com/watch?v=RJtEacDX4Oc)
 * [Inventory Microservice example with Kafka Streams and CQRS - Sanjay Acharya](https://sleeplessinslc.blogspot.com/2018/02/inventory-microservice-example-with.html)
+* [Putting Events in Their Place with Dynamic Routing - Yeva Byzek](https://www.confluent.io/blog/putting-events-in-their-place-with-dynamic-routing)
 * [Kafka Streams for Event Driven Microservices - Marius Bogoevici (DevNation Live)](https://www.youtube.com/watch?v=x3QCrb6zCKA)
 * [Kafka based Microservices with Akka Streams and Kafka Streams - Dean Wampler (ScalaDays 2018)](https://www.youtube.com/watch?v=YFBP9dZlpvM)
 * [Of Streams and Tables in Kafka and Stream Processing, Part 1 - Michael G. Noll](http://www.michael-noll.com/blog/2018/04/05/of-stream-and-tables-in-kafka-and-stream-processing-part1/)

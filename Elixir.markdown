@@ -197,6 +197,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Refactoring Elixir: Lessons Learned from a Year on Exercism.io](https://www.youtube.com/watch?v=tJJMrtJEK1A)
 * [Just Delete It - Johnny Winn (Code BEAM STO 19)](https://www.youtube.com/watch?v=yk_-t_Pw3XA)
 
+#### ELIXIR - CODE QUALITY - MODULARITY
+
+* Boundary: Library that helps manage and restrain cross-module dependencies: [Github](https://github.com/sasa1977/boundary)
+
 ### ELIXIR - COURSES (NON-FREE)
 
 * [DailyDrip.com - Elixir](https://www.dailydrip.com/topics/elixir)
@@ -645,6 +649,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Implementing long-running business processes - Karolis Petrauskas (Code BEAM STO 19)](https://www.youtube.com/watch?v=8-fKdVlELFc)
 * Michael @ omgneering: [GenServer basics](https://www.youtube.com/watch?v=zC7TcrRi46Q) | [GenServer Callbacks and concurrency](Elixir GenServer callbacks and concurrency) | [Supervisor](https://www.youtube.com/watch?v=Gdf8JXeaPjw) | [Application (Part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM) | [Application (Part 2)](https://www.youtube.com/watch?v=rMwEQZewDyk)
 * [Processes and Supervision in Elixir - Steve Grossi](https://www.youtube.com/watch?v=eUxang6_WQA)
+* [Designing Elixir Systems with OTP | Bruce Tate (Erlang Solutions Webinar)](https://www.youtube.com/watch?v=8xbnA5xWdmI)
 * Building the Go Game in Elixir - Jeff Kreeftmeijer: [Part 1: With Phoenix LiveView](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html) | [Part 2: Time Travel and the Ko Rule](https://blog.appsignal.com/2019/07/04/elixir-alchemy-building-go-in-elixir-time-travel-and-the-ko-rule.html) | [Part 3: With Elixir's Registry, PubSub and dynamic supervisors](https://blog.appsignal.com/2019/08/13/elixir-alchemy-multiplayer-go-with-registry-pubsub-and-dynamic-supervisors.html)
 * [How we scraped and aggregated data from multiple sources using OTP - Tiago Duarte](https://coletiv.com/blog/scrapping-data-elixir-otp/)
 * [split_brain.ex: The challenges of building a small distributed Elixir Application - Dorian Iacobescu](https://medium.com/qixxit-development/split-brain-ex-5d5f1c19b133)
@@ -1117,6 +1122,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Which companies are using Erlang, and why? - Francesco Cesarini](https://www.erlang-solutions.com/blog/which-companies-are-using-erlang-and-why-mytopdogstatus.html)
 * [The Erlang Rationale - Robert Virding](http://www.erlang-factory.com/upload/presentations/329/EFKR10-ErlangRationale.pdf)
 * [The Zen of Erlang - Fred Hebert (Reactive Summit 2016)](https://www.youtube.com/watch?v=4ZIPijEqrNI)
+* [Just Enough Erlang (for Elixirists)- Samuel Mullen](https://samuelmullen.com/articles/just_enough_erlang/)
 * [Functional Programming in Erlang - Simon Thompson (University of Kent (UK))](https://www.futurelearn.com/courses/functional-programming-erlang)
 * [Adopting Erlang](https://adoptingerlang.org/) | [Erlang/OTP Cheat Sheets](https://adoptingerlang.org/docs/cheat_sheets/)
 * [Spawned Shelter: collection of the best articles, videos and books for learning Erlang, the internals of its VM and other languages that run on top of it](http://spawnedshelter.com/)
