@@ -633,6 +633,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [BEAM + Rust: A match made in heaven - Sonny Scroggin (Code BEAM STO 19)](https://www.youtube.com/watch?v=xe32ku9s14k)
 * [Taking Elixir to the Metal with Rust - Sonny Scroggin](https://www.youtube.com/watch?v=lSLTwWqTbKQ)
 * [Writing Rust NIFs for your Elixir code with the Rustler package - Jacob Lerche](https://medium.com/@jacob.lerche/writing-rust-nifs-for-your-elixir-code-with-the-rustler-package-d884a7c0dbe3)
+* A NIFty way to integrate Rust with Elixir - Dave Lucia (Elixir NYC 2019): [Pig Latin NIF](https://github.com/davydog187/pig_latin_nif) | [Basketball NIF](https://github.com/davydog187/basketball_nif) | [Slides](https://docs.google.com/presentation/d/1gKE2vpgMAGD3vBNtaGO4v4YJt_XCXCkcluFzAHnRZ2w/edit)
 
 ### ELIXIR - OPUS
 
