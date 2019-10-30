@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Domain-Driven Design](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---domain-driven-design) | [Elasticsearch](#elasticsearch) | [Elixir](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#erlang) | [Entrepreneurship](#business---entrepreneurship) | [Event sourcing](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#my-event-sourcing--cqrs--ddd--microservice-resources---james-lavin) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Kafka](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---kafka) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [News - Programming](https://github.com/JamesLavin/my_tech_resources#news---programming) | [News - Science](https://github.com/JamesLavin/my_tech_resources#news---science) | [News - Tech](https://github.com/JamesLavin/my_tech_resources#news---tech) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Productivity  Tools](#productivity-tools) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python), [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [Podcasts](#podcasts) | [R](#r) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Rust](#rust) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best-though-i-now-use-it-inside-visual-studio-code) | [Visual Studio Code](#visual-studio-code-vscode) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Body & Mind](#body--mind) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [Databases](#databases) | [DevOps](#devops) | [Domain-Driven Design](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---domain-driven-design) | [Elasticsearch](#elasticsearch) | [Elixir](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#erlang) | [Entrepreneurship](#business---entrepreneurship) | [Event sourcing](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#my-event-sourcing--cqrs--ddd--microservice-resources---james-lavin) | [Functional programming](#functional-programming) | [Git](#git) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Kafka](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---kafka) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) : [programming news](https://github.com/JamesLavin/my_tech_resources#news---programming), [science news](https://github.com/JamesLavin/my_tech_resources#news---science), [tech news](https://github.com/JamesLavin/my_tech_resources#news---tech) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Productivity  Tools](#productivity-tools) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python) : [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [Podcasts](#podcasts) | [R](#r) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Rust](#rust) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best-though-i-now-use-it-inside-visual-studio-code) | [Visual Studio Code](#visual-studio-code-vscode) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## ALGORITHMS
 
@@ -946,7 +946,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [An Introduction to Logic Gates - DrPhysicsA](https://www.youtube.com/watch?v=95kv5BF2Z9E)
 * [Making Your Own 4-bit Computer From Transistors - Simon Inns](https://www.youtube.com/watch?v=xISG4nGTQYE)
 
-## COMPUTING BASICS - QUANTUM COMPUTING
+### COMPUTING BASICS - QUANTUM COMPUTING
 
 * [Quantum Computing for Computer Scientists - Andrew Helwer](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 * [Quantum Computing 2017 Update - ExplainingComputers](https://www.youtube.com/watch?v=iYESkqXVWa0)
@@ -1318,6 +1318,79 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Datomic.com](http://www.datomic.com/)
 * [Datomic: Event Sourcing without the hassle - Valentin Waeselynck](https://vvvvalvalval.github.io/posts/2018-11-12-datomic-event-sourcing-without-the-hassle.html)
+
+### DATABASES - ELASTICSEARCH
+
+* Elasticsearch documentation:
+    * Reference: [Current](http://www.elastic.co/guide/en/elasticsearch/reference/current/index.html) | [Previous versions](http://www.elastic.co/guide/en/elasticsearch/reference/index.html)
+        * [CRUD APIs](http://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html)
+        * [Search](http://www.elastic.co/guide/en/elasticsearch/reference/current/search.html)
+        * [Indices](http://www.elastic.co/guide/en/elasticsearch/reference/current/indices.html)
+        * [cat APIs](http://www.elastic.co/guide/en/elasticsearch/reference/current/cat.html)
+        * [Cluster APIs](http://www.elastic.co/guide/en/elasticsearch/reference/current/cluster.html)
+        * [Queries](http://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-queries.html)
+        * [Filters](http://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-filters.html)
+        * [Mapping](http://www.elastic.co/guide/en/elasticsearch/reference/current/mapping.html)
+        * [Analyzers](http://www.elastic.co/guide/en/elasticsearch/reference/current/analysis.html)
+    * [Videos](https://www.elastic.co/videos/) & [Elastic{ON} videos](https://www.elastic.co/elasticon/2015/sf/videos)
+* [_Exploring Elasticsearch_ (online tutorial/book) - Andrew Cholakian](http://exploringelasticsearch.com)
+* _Elasticsearch: The Definitive Guide_: [Online](http://www.elastic.co/guide/en/elasticsearch/guide/master/) | [Github repo](https://github.com/elastic/elasticsearch-definitive-guide) & [instructions for generating a PDF](http://asciidoctor.org/docs/convert-asciidoc-to-pdf/)
+* [Your Data, Your Search, Elasticsearch - Costin Leau (SpringOne2GX 2013)](https://www.youtube.com/watch?v=G56aE1kiOZw)
+* [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/index.html)
+* [Make sense of your (big) data using Elasticsearch - Honza Král (PyData Berlin 2014)](https://www.youtube.com/watch?v=sCktucuv5Yo)
+* [Explore Your Data With Elasticsearch - Honza Král (SF Python talk)](https://www.youtube.com/watch?v=UNsDUNWRWzg)
+* [Getting Down and Dirty with ElasticSearch - Clinton Gormley (NoSQL Matters Barcelona 2013)](https://www.youtube.com/watch?v=7FLXjgB0PQI)
+* [Elasticsearch from the bottom up - Alex Brasetvik (EuroPython 2014)](https://www.youtube.com/watch?v=PpX7J-G2PEo) & [article](https://www.found.no/foundation/elasticsearch-from-the-bottom-up/)
+* [Elasticsearch from the top down: Tracing a request down to the bits - Alex Brasetvik](https://www.found.no/foundation/elasticsearch-top-down/)
+* [How To Interact with Data in ElasticSearch Using CRUD Operations - Justin Ellingwood](https://www.digitalocean.com/community/tutorials/how-to-interact-with-data-in-elasticsearch-using-crud-operations)
+
+#### DATABASES - ELASTICSEARCH - BLOGS
+
+* [Elastic.co blog](https://www.elastic.co/blog)
+* [Foundation (Found.no)](https://found.no/foundation/)
+
+#### DATABASES - ELASTICSEARCH - ELASTICAT
+
+* [elasticat (Ruby script for prettifying JSON returned from Elasticsearch)](https://gist.githubusercontent.com/karmi/5670573/raw/elasticat)
+
+#### DATABASES - ELASTICSEARCH - HELP
+
+* [Elasticsearch Freenode IRC](http://irc.lc/freenode/elasticsearch/t4nk@@@)
+* [Elasticsearch Google Forum](https://groups.google.com/forum/?fromgroups#%21forum/elasticsearch)
+
+#### DATABASES - ELASTICSEARCH - INFORMATION RETRIEVAL
+
+* [Intro to Information Retrieval - Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, 2008](http://www-nlp.stanford.edu/IR-book/)
+
+#### DATABASES - ELASTICSEARCH - LUCENE
+
+* [Lucene Core](http://lucene.apache.org/core/) & [docs](http://lucene.apache.org/core/4_10_1/index.html)
+
+#### DATABASES - ELASTICSEARCH - MAPPING
+
+* [Intro to Elasticsearch Mapping - Njal Karevoll](https://www.found.no/foundation/elasticsearch-mapping-introduction/)
+* [All about analyzers, Part One - Andrew Cholakian](https://www.found.no/foundation/text-analysis-part-1/) & [Part Two](https://www.found.no/foundation/text-analysis-part-2/)
+* [A data exploration workflow for mappings - Njal Karevoll](https://www.found.no/foundation/mapping-workflow/)
+* [Nested type](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/mapping-nested-type.html)
+* [ElasticSearch – nested mappings and filters - Joel Abrahamsson](http://joelabrahamsson.com/elasticsearch-nested-mapping-and-filter/)
+* [Elasticsearch: Advanced search and nested objects - Gregquat](http://obtao.com/blog/2014/04/elasticsearch-advanced-search-and-nested-objects/)
+
+#### DATABASES - ELASTICSEARCH - PERFORMANCE & CONFIGURATION
+
+* [Six ways to crash Elasticsearch - Konrad G. Beiske](https://www.found.no/foundation/crash-elasticsearch/)
+* [Elasticsearch in Production - Alex Brasetvik (Berlin Buzzwords 2013)](https://www.youtube.com/watch?v=gkdfNl0WL-A)
+* [Optimizing Elasticsearch searches - Alex Brasetvik](https://www.found.no/foundation/optimizing-elasticsearch-searches/)
+* [Troubleshooting Elasticsearch searches, for beginners - Alex Brasetvik](https://www.found.no/foundation/beginner-troubleshooting/)
+
+#### DATABASES - ELASTICSEARCH - PYTHON
+
+* [Elasticsearch-py (low level)](https://github.com/elasticsearch/elasticsearch-py)
+* [Elasticsearch-dsl-py (higher level)](https://github.com/elasticsearch/elasticsearch-dsl-py)
+* [Elasticsearch DSL - Honza Král](http://www.confreaks.tv/videos/4501-DjangoCon2014-elasticsearch-dsl)
+
+#### DATABASES - ELASTICSEARCH - QUERYING & FILTERING
+
+* [Combining filters](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/combining-filters.html)
 
 ### DATABASES - FILODB
 
@@ -2423,79 +2496,6 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [TED Talks Education](https://itunes.apple.com/us/podcast/tedtalks-education/id470623037)
 * [TOSAs Talking Tech](http://tosastalkingtech.libsyn.com/)
 * [Wired Educator](https://wirededucator.com/)
-
-## ELASTICSEARCH
-
-* Elasticsearch documentation:
-    * Reference: [Current](http://www.elastic.co/guide/en/elasticsearch/reference/current/index.html) | [Previous versions](http://www.elastic.co/guide/en/elasticsearch/reference/index.html)
-        * [CRUD APIs](http://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html)
-        * [Search](http://www.elastic.co/guide/en/elasticsearch/reference/current/search.html)
-        * [Indices](http://www.elastic.co/guide/en/elasticsearch/reference/current/indices.html)
-        * [cat APIs](http://www.elastic.co/guide/en/elasticsearch/reference/current/cat.html)
-        * [Cluster APIs](http://www.elastic.co/guide/en/elasticsearch/reference/current/cluster.html)
-        * [Queries](http://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-queries.html)
-        * [Filters](http://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-filters.html)
-        * [Mapping](http://www.elastic.co/guide/en/elasticsearch/reference/current/mapping.html)
-        * [Analyzers](http://www.elastic.co/guide/en/elasticsearch/reference/current/analysis.html)
-    * [Videos](https://www.elastic.co/videos/) & [Elastic{ON} videos](https://www.elastic.co/elasticon/2015/sf/videos)
-* [_Exploring Elasticsearch_ (online tutorial/book) - Andrew Cholakian](http://exploringelasticsearch.com)
-* _Elasticsearch: The Definitive Guide_: [Online](http://www.elastic.co/guide/en/elasticsearch/guide/master/) | [Github repo](https://github.com/elastic/elasticsearch-definitive-guide) & [instructions for generating a PDF](http://asciidoctor.org/docs/convert-asciidoc-to-pdf/)
-* [Your Data, Your Search, Elasticsearch - Costin Leau (SpringOne2GX 2013)](https://www.youtube.com/watch?v=G56aE1kiOZw)
-* [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/index.html)
-* [Make sense of your (big) data using Elasticsearch - Honza Král (PyData Berlin 2014)](https://www.youtube.com/watch?v=sCktucuv5Yo)
-* [Explore Your Data With Elasticsearch - Honza Král (SF Python talk)](https://www.youtube.com/watch?v=UNsDUNWRWzg)
-* [Getting Down and Dirty with ElasticSearch - Clinton Gormley (NoSQL Matters Barcelona 2013)](https://www.youtube.com/watch?v=7FLXjgB0PQI)
-* [Elasticsearch from the bottom up - Alex Brasetvik (EuroPython 2014)](https://www.youtube.com/watch?v=PpX7J-G2PEo) & [article](https://www.found.no/foundation/elasticsearch-from-the-bottom-up/)
-* [Elasticsearch from the top down: Tracing a request down to the bits - Alex Brasetvik](https://www.found.no/foundation/elasticsearch-top-down/)
-* [How To Interact with Data in ElasticSearch Using CRUD Operations - Justin Ellingwood](https://www.digitalocean.com/community/tutorials/how-to-interact-with-data-in-elasticsearch-using-crud-operations)
-
-### ELASTICSEARCH - BLOGS
-
-* [Elastic.co blog](https://www.elastic.co/blog)
-* [Foundation (Found.no)](https://found.no/foundation/)
-
-### ELASTICSEARCH - ELASTICAT
-
-* [elasticat (Ruby script for prettifying JSON returned from Elasticsearch)](https://gist.githubusercontent.com/karmi/5670573/raw/elasticat)
-
-### ELASTICSEARCH - HELP
-
-* [Elasticsearch Freenode IRC](http://irc.lc/freenode/elasticsearch/t4nk@@@)
-* [Elasticsearch Google Forum](https://groups.google.com/forum/?fromgroups#%21forum/elasticsearch)
-
-### ELASTICSEARCH - INFORMATION RETRIEVAL
-
-* [Intro to Information Retrieval - Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, 2008](http://www-nlp.stanford.edu/IR-book/)
-
-### ELASTICSEARCH - LUCENE
-
-* [Lucene Core](http://lucene.apache.org/core/) & [docs](http://lucene.apache.org/core/4_10_1/index.html)
-
-### ELASTICSEARCH - MAPPING
-
-* [Intro to Elasticsearch Mapping - Njal Karevoll](https://www.found.no/foundation/elasticsearch-mapping-introduction/)
-* [All about analyzers, Part One - Andrew Cholakian](https://www.found.no/foundation/text-analysis-part-1/) & [Part Two](https://www.found.no/foundation/text-analysis-part-2/)
-* [A data exploration workflow for mappings - Njal Karevoll](https://www.found.no/foundation/mapping-workflow/)
-* [Nested type](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/mapping-nested-type.html)
-* [ElasticSearch – nested mappings and filters - Joel Abrahamsson](http://joelabrahamsson.com/elasticsearch-nested-mapping-and-filter/)
-* [Elasticsearch: Advanced search and nested objects - Gregquat](http://obtao.com/blog/2014/04/elasticsearch-advanced-search-and-nested-objects/)
-
-### ELASTICSEARCH - PERFORMANCE & CONFIGURATION
-
-* [Six ways to crash Elasticsearch - Konrad G. Beiske](https://www.found.no/foundation/crash-elasticsearch/)
-* [Elasticsearch in Production - Alex Brasetvik (Berlin Buzzwords 2013)](https://www.youtube.com/watch?v=gkdfNl0WL-A)
-* [Optimizing Elasticsearch searches - Alex Brasetvik](https://www.found.no/foundation/optimizing-elasticsearch-searches/)
-* [Troubleshooting Elasticsearch searches, for beginners - Alex Brasetvik](https://www.found.no/foundation/beginner-troubleshooting/)
-
-### ELASTICSEARCH - PYTHON
-
-* [Elasticsearch-py (low level)](https://github.com/elasticsearch/elasticsearch-py)
-* [Elasticsearch-dsl-py (higher level)](https://github.com/elasticsearch/elasticsearch-dsl-py)
-* [Elasticsearch DSL - Honza Král](http://www.confreaks.tv/videos/4501-DjangoCon2014-elasticsearch-dsl)
-
-### ELASTICSEARCH - QUERYING & FILTERING
-
-* [Combining filters](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/combining-filters.html)
 
 ## ELECTRON
 
