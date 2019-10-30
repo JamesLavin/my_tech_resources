@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Domain-Driven Design](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---domain-driven-design) | [Elasticsearch](#elasticsearch) | [Elixir](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#erlang) | [Entrepreneurship](#business---entrepreneurship) | [Event sourcing](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#my-event-sourcing--cqrs--ddd--microservice-resources---james-lavin) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Kafka](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---kafka) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [News - Programming](https://github.com/JamesLavin/my_tech_resources#news---programming) | [News - Science](https://github.com/JamesLavin/my_tech_resources#news---science) | [News - Tech](https://github.com/JamesLavin/my_tech_resources#news---tech) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python), [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [Podcasts](#podcasts) | [R](#r) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Rust](#rust) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best-though-i-now-use-it-inside-visual-studio-code) | [Visual Studio Code](#visual-studio-code-vscode) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [DevOps](#devops) | [Domain-Driven Design](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---domain-driven-design) | [Elasticsearch](#elasticsearch) | [Elixir](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#erlang) | [Entrepreneurship](#business---entrepreneurship) | [Event sourcing](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#my-event-sourcing--cqrs--ddd--microservice-resources---james-lavin) | [Functional programming](#functional-programming) | [Git](#git) | [HAML](#html---haml) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Kafka](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---kafka) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) | [News - Programming](https://github.com/JamesLavin/my_tech_resources#news---programming) | [News - Science](https://github.com/JamesLavin/my_tech_resources#news---science) | [News - Tech](https://github.com/JamesLavin/my_tech_resources#news---tech) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Productivity  Tools](#productivity-tools) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python), [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [Podcasts](#podcasts) | [R](#r) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Rust](#rust) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best-though-i-now-use-it-inside-visual-studio-code) | [Visual Studio Code](#visual-studio-code-vscode) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## ALGORITHMS
 
@@ -494,6 +494,13 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [The 25 Most Significant Health Benefits of Physical Activity and Exercise - Len Kravitz](http://www.unm.edu/~lkravitz/Article%20folder/healthbenefitsaa.html)
 
+### BODY & MIND - INTERMITTENT FASTING
+
+* [Intermittent fasting: Surprising update - Monique Tello, MD, MPH](https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156)
+* [Intermittent fasting: No advantage over conventional weight loss diets - German Cancer Research Center (Deutsches Krebsforschungszentrum, DKFZ)](https://www.sciencedaily.com/releases/2018/11/181126115842.htm)
+* [Intermittent Fasting Made My Life Easier, and Happier - Larissa Zimberoff (NY Times)](https://www.nytimes.com/2019/06/04/well/eat/intermittent-fasting-made-my-life-easier-and-happier.html)
+* [Intermittent Fasting: Is it Right for You? - Jane Racey Gleeson](https://healthblog.uofmhealth.org/wellness-prevention/intermittent-fasting-it-right-for-you)
+
 ### BODY & MIND - POSTURE
 
 * [Back Pain & Sitting](https://www.youtube.com/playlist?list=PL8l32k1r15l4Y2rO_fDZtgnnZoWwoeXzf) & [More Bob (Schrupp) & Brad (Heineck)](https://www.youtube.com/channel/UCmTe0LsfEbpkDpgrxKAWbRA)
@@ -686,6 +693,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Bootstrapped VC - Backstage Capital](https://itunes.apple.com/us/podcast/the-bootstrapped-vc-a-backstage-capital-podcast/id1209876096?mt=2)
 * [Bowery Capital Startup Sales Podcast](https://bowerycap.com/blog/tag/startup-sales-podcast/)
 * [Business School Without the BS - Clay Clark & Robert Zoellner](https://itunes.apple.com/us/podcast/thrivetime-show-business-school-without-the-bs/id1076405618)
+* [Business Wars - David Brown](https://art19.com/shows/business-wars)
+* [Chase Jarvis LIVE](https://www.chasejarvis.com/project/chase-jarvis-live-podcast/)
 * [Cortex - CGP Grey & Myke Hurley](https://www.relay.fm/cortex)
 * [DealMakers - Alejandro Cremades](https://itunes.apple.com/us/podcast/dealmakers/id1439149348?mt=2)
 * [Dingman Bootstrapped](https://www.rhsmith.umd.edu/centers-excellence/dingman-center-entrepreneurship/news-events/podcast)
@@ -740,6 +749,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Meaningful Show](http://www.meaningfulhq.com/)
 * [Notion Capital](https://itunes.apple.com/us/podcast/notion-capital/id1089580380?mt=2)
 * [The Pitch - Josh Muccio (Gimlet Media)](https://gimletmedia.com/thepitch/)
+* [Pivot - Kara Swisher & Scott Galloway](https://podcasts.apple.com/us/podcast/pivot/id1073226719)
 * [Product Breakfast Club](https://www.productbreakfastclub.com/)
 * [Rework - Basecamp](https://rework.fm/)
 * [Simplify - Caitlin Schiller & Ben Schuman-Stoler](https://www.blinkist.com/simplify)
@@ -767,6 +777,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## CHINESE
 
 * [Serverless Handbook——无服务架构实践手册 - Jimmy Song](https://jimmysong.io/serverless-handbook/)
+* [Kubernetes指南 - Pengfei Ni](https://kubernetes.feisky.xyz/)
 * [Kubernetes Handbook——Kubernetes中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)
 * [Istio Handbook——Istio服务网格实践指南 - Jimmy Song](https://jimmysong.io/istio-handbook/)
 * [InfoQ Chinese news](http://www.infoq.com/cn/)
@@ -1529,6 +1540,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - BLOGS & PODCASTS
 
 * [The Cloudcast - Aaron Delp & Brian Gracely](http://www.thecloudcast.net/)
+* [Cloud Native in 15 Minutes - Pivotal](https://podcasts.apple.com/us/podcast/cloud-native-in-15-minutes/id1469633294)
 * [Cloudscape Podcast](https://blog.pythian.com/podcasts/)
 * [Datanauts (data center infrastructure)](http://packetpushers.net/series/datanauts-podcast/)
 * [Dockercast](https://itunes.apple.com/us/podcast/dockercast/id1141133179)
@@ -2042,6 +2054,10 @@ See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 
 * Ship - A better way to deploy Kubernetes Helm charts: [Replicated.com/Ship](https://www.replicated.com/ship) | [Github](https://github.com/replicatedhq/ship)
 * [Stop Forking Helm Charts, an Intro to Replicated Ship - Marc Campbell (K8s, Kustomize & Ship SF Meetup)](https://www.youtube.com/watch?v=pRG47EQ5OAg)
+
+#### DEVOPS - KUBERNETES - INGRESS CONTROLLERS
+
+* [NGINX Ingress Controller - kubernetes.github.io](https://kubernetes.github.io/ingress-nginx/)
 
 #### DEVOPS - KUBERNETES - ISTIO
 
@@ -3229,6 +3245,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Sysadmincasts.com](http://sysadmincasts.com/)
 
+### LINUX - TAILS (SECURITY-FOCUSED)
+
+* [Tails documentation](https://tails.boum.org/doc/index.en.html)
+* [Tails Version 4.0](https://tails.boum.org/news/version_4.0/)
+
 ### LINUX - UBUNTU
 
 * [UpUbuntu](http://www.upubuntu.com/)
@@ -3279,6 +3300,15 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Where visual meets textual. Luna - overview - Sylwia Brodacka (Curry On Amsterdam 2018)](https://www.youtube.com/watch?v=5JKkXWxLY5Y)
 
 ## MAIL SERVER
+
+### MAIL SERVER - SELF-HOSTED
+
+* [iRedMail](https://www.iredmail.org/)
+* [Mail-in-a-Box](https://mailinabox.email)
+* Mailcow: Dockerized: [Mailcow.email](https://mailcow.email/) | [Github](https://github.com/mailcow/mailcow-dockerized) | [Docs](https://mailcow.github.io/mailcow-dockerized-docs/)
+* Mailu: [Mailu.io](https://mailu.io/1.7/) | [Github](https://github.com/Mailu/Mailu)
+* Modoboa: [Modoboa.org](https://modoboa.org/en/) | [Github](https://github.com/modoboa/modoboa)
+* [Poste.io](https://poste.io/)
 
 ### MAIL SERVER - DIAGNOSTICS
 
@@ -3411,6 +3441,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ## NETWORKING
 
+* [Networking - TechTerms](https://www.youtube.com/channel/UCY_dQTuD3MjtuQwYuy6xdag/playlists)
 * [Intro to DNS Terminology, Components, and Concepts - Justin Ellingwood (DigitalOcean)](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
 Peter R. Egli:
   * [Data Networking Concepts](http://www.indigoo.com/dox/itdp/01_Intro/Data-Networking-Concepts.pdf)
@@ -3444,6 +3475,10 @@ Peter R. Egli:
   * [Android NDK](http://www.indigoo.com/dox/mobdev/01_Android/Android-NDK.pdf)
 * [Ping! Are you there? - Lydia Gu (!!Con 2016)](https://www.youtube.com/watch?v=nSB53WRGY_0)
 
+### NETWORKING - DNS
+
+* [DNS (Domain Name System) Explained: Types of Domain Name Servers, How DNS works - TechTerms](https://www.youtube.com/watch?v=JkEYOt08-rU)
+
 ### NETWORKING - GRPC
 
 * [The Story of Why We Migrate to gRPC and How We Go About It - Matthias Grüter, Spotify (KubCon & CloudNativeCon Europe 2019)](https://www.youtube.com/watch?v=fMq3IpPE3TU)
@@ -3453,6 +3488,23 @@ Peter R. Egli:
 
 * [HTTP/2, One Frame At A Time - Irina Shestak, MongoDB (Node+JS Interactive)](https://www.youtube.com/watch?v=ebR_XrAoW3k)
 * [Hyper Text Transfer Protocol - HTTP 1.0, 1.1, HTTP/2, HTTP/3 - Hussein Nasser](https://www.youtube.com/watch?v=0OrmKCB0UrQ)
+
+### NETWORKING - IP ADDRESSES
+
+* [What is IP address and types of IP address - IPv4 and IPv6 - TechTerms](https://www.youtube.com/watch?v=8npT9AALbrI)
+
+### NETWORKING - OSI MODEL
+
+* [The OSI Model Demystified - Eli the Computer Guy](https://www.youtube.com/watch?v=HEEnLZV2wGI)
+* [OSI Model Explained - TechTerms](https://www.youtube.com/watch?v=vv4y_uOneC0)
+
+### NETWORKING - PACKET SWITCHING
+
+* [Packet switching explained - TechTerms](https://www.youtube.com/watch?v=k8rJFgeuZRw)
+
+### NETWORKING - REVERSE PROXIES
+
+* [Open Source Security: Reverse Proxies - Shawn Powers](https://www.youtube.com/watch?v=2fL8Otb9mTE)
 
 ### NETWORKING - TLS
 
@@ -3889,9 +3941,21 @@ Peter R. Egli:
 
 ## PRODUCTIVITY TOOLS
 
+* Asymptote: The Vector Graphics Language: [Homepage](http://asymptote.sourceforge.net/) | [Gallery](http://asymptote.sourceforge.net/gallery/) | [Documentation](http://asymptote.sourceforge.net/doc/index.html) | [Docs (PDF)](http://asymptote.sourceforge.net/asymptote.pdf)
+* BlockDiag: the simple block-diagram image generator: [BlockDiag.com](http://blockdiag.com/en/blockdiag/index.html)
+* Boxes: [Homepage](https://boxes.thomasjensen.com) | [Github](https://github.com/ascii-boxes/boxes)
 * Calcurse: calendar and scheduling application for the command line: [Calcurse.org](https://calcurse.org/) | [Manual](https://calcurse.org/files/manual.html)
+* [ditaa: DIagrams Through Ascii Art](http://ditaa.sourceforge.net/)
+* Gnuplot: [Homepage](http://www.gnuplot.info/) | [Demo gallery](http://gnuplot.sourceforge.net/demo/) | [Docs](http://www.gnuplot.info/documentation.html)
+* GraphViz: open source graph visualization software: [Generate](https://graphs.grevian.org/graph) | [Pocket reference](https://graphs.grevian.org/example) | [Reference](https://graphs.grevian.org/reference) | [GraphViz.org](http://graphviz.org/) | [Wikipedia](https://en.wikipedia.org/wiki/DOT_(graph_description_language))
 * Joplin: Open-source note taking & to-do application with synch capabilities: [JoplinApp.org](https://joplinapp.org/) | [Github](https://github.com/laurent22/joplin/) | [Discourse](https://discourse.joplinapp.org/)
 * Maestral: Open-source Dropbox client for macOS and Linux (that works with an encrypted Ubuntu HD): [Github](https://github.com/SamSchott/maestral-dropbox)
+* MermaidJS: Markdownish syntax for generating flowcharts, sequence diagrams, state diagrams, charts, etc.: [Live editor](https://mermaidjs.github.io/mermaid-live-editor/) | [Documentation](https://mermaidjs.github.io/#/) | [Github](https://github.com/knsv/mermaid)
+* Mscgen: Message sequence Chart generator: [Mscgen](http://www.mcternan.me.uk/mscgen/) | [Live editor (mscgen.js.org)](https://mscgen.js.org/) | [Tutorial](https://mscgen.js.org/tutorial.html)
+* Tikz: [Wikibooks](https://en.wikibooks.org/wiki/LaTeX/PGF/TikZ) | [Wikipedia](https://en.wikipedia.org/wiki/PGF/TikZ)
+* [Tools for opting out of global data surveillance - PRISM-break.org](https://prism-break.org/en/all/)
+* [UMLet: Free, fast UML diagrams](https://www.umlet.com/) | [UMLetino (use in your browser)](http://www.umletino.com/) | [Youtube tutorials](https://www.youtube.com/results?search_query=umlet) | [Github](https://github.com/umlet/umlet)
+* [WebSequenceDiagrams.com](https://www.websequencediagrams.com/)
 
 ## PROGRAMMING
 
@@ -4091,6 +4155,8 @@ Peter R. Egli:
 * [Art of Product](http://artofproductpodcast.com/)
 * [The Big Web Show](http://5by5.tv/bigwebshow)
 * [The Bike Shed - Thoughtbot](http://bikeshed.fm/)
+* [Build - Maggie Crowley](https://podcasts.apple.com/us/podcast/build/id1445050691)
+* [Build Your SaaS - Jon & Justin](https://podcasts.apple.com/us/podcast/build-your-saas-bootstrapping-in-2019/id1357295850)
 * [CaSE: Conversations About Software Engineering](https://www.case-podcast.org/)
 * [The Changelog - Adam Stacoviak and Jerod Santo](https://changelog.com/podcast/)
 * [Code Podcast](https://soundcloud.com/podcastcode)
@@ -5089,6 +5155,8 @@ Peter R. Egli:
 
 * [Windows Subsystem for Linux (WSL): The Ultimate Guide - Adam the Automator](https://adamtheautomator.com/windows-subsystem-for-linux/)
 * [Get started with the Windows Subsystem for Linux - Microsoft](https://docs.microsoft.com/en-us/learn/modules/get-started-with-windows-subsystem-for-linux/)
+* [Windows Subsystem for Linux (WSL) Tutorial & How To - Gary Explains](https://www.youtube.com/watch?v=av0UQy6g2FA)
+* [Developing on Windows with WSL2 (Subsystem for Linux), VS Code, Docker, and the Terminal - Scott Hanselman](https://www.youtube.com/watch?v=A0eqZujVfYU)
 * [Tutorial: Install Linux on Windows with Windows Subsystem for Linux - DataQuest](https://www.dataquest.io/blog/tutorial-install-linux-on-windows-wsl/)
 * [How to Use Windows Subsystem for Linux 2 and Windows Terminal - Michael Wanyoike](https://www.sitepoint.com/wsl2-windows-terminal/)
 * [How to Run a Linux Desktop Using the Windows Subsystem for Linux - Christian Cawley](https://www.makeuseof.com/tag/linux-desktop-windows-subsystem/)
@@ -5128,6 +5196,7 @@ Peter R. Egli:
 ### WRITING/PUBLISHING - PANDOC
 
 * [Pandoc: Universal Document Converter](http://pandoc.org/) | [User's Guide (online)](https://pandoc.org/MANUAL.html) | [User's Guide (PDF)](https://pandoc.org/MANUAL.pdf)
+* [Imagine: Pandoc filter to process codeblocks into images and/or ascii art](https://github.com/hertogp/imagine)
 * [pandoc-book-template: simple Pandoc template to build documents and ebooks - Wikiti](https://github.com/wikiti/pandoc-book-template)
 * [Sustainable Authorship in Plain Text using Pandoc and Markdown - Dennis Tenen and Grant Wythoff](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 * [Pandoc Tricks - John McFarlane](https://github.com/jgm/pandoc/wiki/Pandoc-Tricks)

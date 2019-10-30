@@ -325,6 +325,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Getting Elixir / Phoenix running on Digital Ocean with edeliver - Matt Weldon](https://gist.github.com/mattweldon/2e8ecb953216438ad168)
 * [Getting Elixir / Phoenix running on Digital Ocean with edeliver - davoclavo](https://gist.github.com/davoclavo/61b9d84f2248f182c95ae7738490ddd1)
 
+#### ELIXIR - DEPLOYMENT - ESCRIPTS
+
+* [Executable Elixir: Working with Escripts - Sophie DeBenedetto](https://www.thegreatcodeadventure.com/executable-elixir-working-with-escripts/)
+* [`mix escript.build` documentation](https://hexdocs.pm/mix/master/Mix.Tasks.Escript.Build.html)
+
 #### ELIXIR - DEPLOYMENT - EXRM (DEPRECATED)
 
 * exrm: [source](https://github.com/bitwalker/exrm) | [docs](https://github.com/bitwalker/exrm/tree/master/docs) | [package docs (hexdocs.pm)](https://hexdocs.pm/exrm/extra-getting-started.html)
@@ -439,6 +444,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - ETS
 
 * [Etso: ETS adapter, allowing you to use Ecto schemas with ETS tables - Evadne Wu](https://github.com/evadne/etso)
+* [Eternal: monitor an ETS table to ensure that it never dies](https://hexdocs.pm/eternal/readme.html#content)
 * [Leveraging ETS Effectively - Evadne Wu (ElixirConf EU 2019)](https://www.youtube.com/watch?v=8mXqxBBvNdk)
 * [Taming :ets for High-Performance Software - Mike Binns](https://dockyard.com/blog/2019/03/07/taming-ets-for-high-performance-software) | [ets (Github)](https://github.com/TheFirstAvenger/ets) | [ets (Hex.pm)](https://hex.pm/packages/ets)
 * [An Introduction to ETS Tables in Elixir - Ilya Bodrov](https://code.tutsplus.com/articles/ets-tables-in-elixir--cms-29526<Paste>)
@@ -751,6 +757,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ELIXIR - PHOENIX - AUTH/AUTH
 
 * Awesome Elixir: [Authentication](https://github.com/h4cc/awesome-elixir#authentication) & [Authorization](https://github.com/h4cc/awesome-elixir#authorization)
+* [Bodyguard: Authorization callbacks implemented directly on contexts](https://hex.pm/packages/bodyguard)
 * [Guardian: Elixir authentication](https://github.com/ueberauth/guardian) & [GuardianDB](https://github.com/ueberauth/guardian_db)
 * Coherence - [Github](https://github.com/smpallen99/coherence) | [Docs](https://hexdocs.pm/coherence/Coherence.html)
 * [comeonin: Password hashing library - David Whitlock](https://github.com/riverrun/comeonin)
@@ -895,6 +902,10 @@ Consequently, much of the following will soon be at least partially outdated:
 * [The joy of React+Redux with Elixir/OTP - Nacho Martin](https://limenius.com/elixir-otp-react-redux/)
 * [Event Sourcing in React, Redux & Elixir — how we write fast, scalable, real-time apps at Rapport - Gary McAdam](https://medium.com/rapport-blog/event-sourcing-in-react-redux-elixir-how-we-write-fast-scalable-real-time-apps-at-rapport-4a26c3aa7529)
 * [Driving Phoenix sockets - Saša Jurić](http://theerlangelist.com/article/driving_phoenix_sockets)
+
+### ELIXIR - PIGEON
+
+* [Pigeon: HTTP2-compliant wrapper for sending iOS and Android push notifications](https://hexdocs.pm/pigeon/getting-started.html)
 
 ### ELIXIR - PODCASTS
 
