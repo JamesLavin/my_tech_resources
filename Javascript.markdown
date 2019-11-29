@@ -345,6 +345,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 ### JAVASCRIPT - FUNCTIONAL PROGRAMMING
 
 * [Functional Programming Basics in ES6 (JavaScript) - Jeremy Fairbank (Scenic City Summit 2016)](https://www.youtube.com/watch?v=HvMemAgOw6I)
+* [Practical Functional Programming in JavaScript - Ben Katz](https://www.youtube.com/watch?v=zeZOPB9uxdE)
 * [A Skeptic's Guide To Functional STYLE JavaScript - Jonathan Mills (NEJS Conf 2017)](https://www.youtube.com/watch?v=oF9XTJoScOE)
 * [Does Javascript Adopt Functional Programming? - Yoav Luft (Lambda Days 19)](https://www.youtube.com/watch?v=XPOIVavv41Q)
 * [A Gentle Introduction to Functional JavaScript - Pratik Patel](https://www.youtube.com/watch?v=PyKZMY-_TI8)

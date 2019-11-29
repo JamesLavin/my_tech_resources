@@ -420,7 +420,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - PULSAR
 
-* [Apache Pulsar - Distributed pub-sub messaging system](http://pulsar.apache.org/)
+* [Apache Pulsar - Distributed pub-sub messaging system](http://pulsar.apache.org/) | [Concepts](https://pulsar.apache.org/docs/en/concepts-overview/)
 * [Pulsar in Action - David Kjerrumgaard](https://www.manning.com/books/pulsar-in-action) [NON-FREE book] | [Code (Github)](https://github.com/david-streamlio/pulsar-in-action)
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - SCHEMAS

@@ -15,6 +15,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [From Rails to Elm and Haskell - Richard Feldman (Philly ETE 2019)](https://www.youtube.com/watch?v=5CYeZ2kEiOI)
 * [Elm at Pacific Health Dynamics - Joseph Ni](https://legacy.gitbook.com/book/mordrax/elm-at-phd/details)
 * [A Peek into the Elm Architecture - Jayaram Sankaranarayana (Functional Conf Bangalore, Nov 2017)](https://www.infoq.com/presentations/elm-architecture)
+* [The Elm Architecture (TEA) animation - Luca Mugnaini](https://medium.com/@l.mugnaini/the-elm-architecture-tea-animation-3efc555e8faf)
 * [Destination: Web -- Friendly, Typed, and Functional: A Brief Introduction to Elm - Brian Ford (Uber)](https://www.youtube.com/watch?v=Fv63jUr9M_8)
 * [Make Web Apps Fun to Build and Easy to Refactor with Elm - Daniel Bachler (GOTO Berlin 2017)](https://www.youtube.com/watch?v=ehtn81p06Ow)
 * [Elm From Scratch - Daniel Bachler](https://www.gitbook.com/book/danyx23/elm-from-scratch/details)

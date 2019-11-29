@@ -509,6 +509,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Let's Get Functional With Elixir! - Nate Taylor](https://www.youtube.com/watch?v=wVrnoxNbOts)
 * [Composing Elixir Functions - Jay Hayes](https://www.bignerdranch.com/blog/composing-elixir-functions/)
+* [Parsing from first principles - Saša Jurić (WebCamp Zagreb 2019)](https://www.youtube.com/watch?v=xNzoerDljjo)
 * [Function Currying in Elixir - Patrik Storm](http://blog.patrikstorm.com/function-currying-in-elixir)
 * [Follow-up: Function currying in Elixir - Milton Mazzarri](https://milmazz.uno/article/2017/09/19/function-currying-in-elixir/)
 * [Lenses and Pattern Matching - Travis Poulsen](https://www.travispoulsen.com/blog/posts/2017-09-07-lenses-and-pattern-matching.html)
@@ -710,6 +711,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PHOENIX
 
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
+* [Phoenix Phrenzy](https://phoenixphrenzy.com/results)
 * [Keynote: Phoenix 1.3 - Chris McCord (Lonestar ElixirConf 2017)](https://www.youtube.com/watch?v=tMO28ar0lW8) & [discussion](https://elixirforum.com/t/lonestar-elixirconf-2017-keynote-phoenix-1-3-by-chris-mccord/3908/12)
 * [Stateful Web Apps with Phoenix and OTP - Hannah Howard (Erlang & Elixir Factory SF 2017)](https://www.youtube.com/watch?v=rX6tC5K_XaI)
 * [Phoenix: an Intro to Elixir's Web Framework - Sonny Scroggin (NDC {London} 2017)](https://www.youtube.com/watch?v=F-7MX_Az6_4)
@@ -968,6 +970,7 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ELIXIR - SCENIC
 
 * [scenic](https://github.com/boydm/scenic) | [scenic.new](https://github.com/boydm/scenic_new)
+* [Building a GameBoy emulator with Elixir and Scenic - Tonći Galić](https://2019.webcampzg.org/talks/building-a-gameboy-emulator-with-elixir-and-scenic/)
 * [Natively Functional UI with Scenic - Boyd Multerer (Code BEAM STO 2019)](https://www.youtube.com/watch?v=dgllQmf5DXk)
 * [Introducing Scenic A Functional UI Framework - Boyd Multerer (ElixirConf 2018)](https://www.youtube.com/watch?v=1QNxLNMq3Uw)
 * [Live coding an Escher painting using Scenic - Ju Liu (ElixirConf EU 2019)](https://www.youtube.com/watch?v=sV5ValgY4ck)

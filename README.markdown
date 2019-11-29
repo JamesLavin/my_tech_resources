@@ -496,10 +496,13 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### BODY & MIND - INTERMITTENT FASTING
 
+* [The Beginner’s Guide to Intermittent Fasting - James Clear](https://jamesclear.com/the-beginners-guide-to-intermittent-fasting)
 * [Intermittent fasting: Surprising update - Monique Tello, MD, MPH](https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156)
 * [Intermittent fasting: No advantage over conventional weight loss diets - German Cancer Research Center (Deutsches Krebsforschungszentrum, DKFZ)](https://www.sciencedaily.com/releases/2018/11/181126115842.htm)
 * [Intermittent Fasting Made My Life Easier, and Happier - Larissa Zimberoff (NY Times)](https://www.nytimes.com/2019/06/04/well/eat/intermittent-fasting-made-my-life-easier-and-happier.html)
 * [Intermittent Fasting: Is it Right for You? - Jane Racey Gleeson](https://healthblog.uofmhealth.org/wellness-prevention/intermittent-fasting-it-right-for-you)
+* [Does Intermittent Fasting Work? - Monica Reinagel, MS, LD/N, CNS](https://www.quickanddirtytips.com/health-fitness/weight-loss/does-intermittent-fasting-work)
+* [The Leangains Guide - Martin Berkhan](https://leangains.com/the-leangains-guide)
 
 ### BODY & MIND - POSTURE
 
@@ -840,6 +843,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * ["The Mess We're In" - Joe Armstrong (StrangeLoop 2014)](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [Creative Engineering: Promises & Razors - Insights into Rapid Development - Tom Mejias, Bill Robinson and Matteo Vallone](https://www.youtube.com/watch?v=qGieKHujkDY)
 * [The Failures of "Intro to TDD" - Justin Searls](http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html)
+* [The 737 Max: Human Factors in Complex Systems - Kyle Kotowick](https://2019.webcampzg.org/talks/the-737-max-human-factors-in-complex-systems/)
 * [Treat Your Code as a Crime Scene - Adam Tornhill](http://www.infoq.com/presentations/code-bugs-legacy-pitfalls)
 * [Code review advice from Thoughtbot](https://github.com/thoughtbot/guides/tree/master/code-review)
 * [Keynote: Architecture the Lost Years - Robert Martin (Ruby Midwest 2011)](http://confreaks.tv/videos/759-rubymidwest2011-keynote-architecture-the-lost-years)
@@ -1327,6 +1331,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### DATABASES - GRAPH DATABASES
 
+* [Awesome-graph: resources for graph databases and graph computing tools - Jean-Baptiste Musso](https://github.com/jbmusso/awesome-graph)
 * [Graph Databases Will Change Your Freakin' Life - Ed Finkler](https://www.youtube.com/watch?v=GekQqFZm7mA)
 * [From Relational to Graph: A Developer's Guide - Michael Hunger](https://dzone.com/refcardz/from-relational-to-graph-a-developers-guide?chapter=1)
 
@@ -1374,6 +1379,20 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [How does a relational database work - Christophe Kalenzaga](http://coding-geek.com/how-databases-work/)
 * [Transactions: myths, surprises and opportunities" - Martin Kleppmann (StrangeLoop 2015)](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
+
+### DATABASES - IN-MEMORY DATA GRIDS (IMDGS)
+
+* [What the Heck is an In Memory Data Grid - Addison Huddy (DataEngConf SF '18)](https://www.youtube.com/watch?v=Zzajh_Wegus)
+
+#### DATABASES - IN-MEMORY DATA GRIDS (IMDGS) - APACHE GEODE
+
+* [Apache Geode: database-like consistency model, reliable transaction processing and a shared-nothing architecture to maintain very low latency performance with high concurrency processing](https://geode.apache.org/) | [Github](https://github.com/apache/geode) | [Twitter](https://twitter.com/apachegeode)
+* [Apache Geode: Beginner's Guide to an In-Memory Data Grid (IMDG) - Nick Vallely](https://www.youtube.com/watch?v=9JbuUy8oEhs)
+* [Where Does Apache Geode Fit in CQRS Architectures? - Eitan Suez (SpringOne Platform 2016)](https://www.youtube.com/watch?v=4YvssVImztY)
+
+#### DATABASES - IN-MEMORY DATA GRIDS (IMDGS) - APACHE IGNITE
+
+* [Apache Ignite](https://ignite.apache.org/) | [Features](https://ignite.apache.org/features/datagrid.html)
 
 ### DATABASES - JANUSGRAPH
 
@@ -1454,6 +1473,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## DEVOPS
 
+* [Building Evolutionary Infrastructure - Kief Morris (GOTO 2019)](https://www.youtube.com/watch?v=1f_P8ZH5BC8)
 * [Observability: Superpowers for Developers - Christine Yen (StrangeLoop 2019)](https://www.youtube.com/watch?v=1C5eErvSvR4)
 * [BOSH](https://github.com/cloudfoundry/bosh)
 * [Capistrano](https://github.com/capistrano/capistrano)
@@ -1523,6 +1543,14 @@ Links to resources I have found useful or think might be helpful to future me or
 #### DEVOPS - AWS (AMAZON WEB SERVICES) - REDSHIFT
 
 * [Amazon Redshift Tutorial: AWS Tutorial for Beginners - Edureka](https://www.youtube.com/watch?v=fc5WPKnbam8)
+
+### DEVOPS - AZURE (MICROSOFT)
+
+* Azure: [Videos](https://azure.microsoft.com/en-us/resources/videos/index/?sort=newest)
+
+#### DEVOPS - AZURE (MICROSOFT) - KUBERNETES (AKS)
+
+* AKS (AZURE KUBERNETES SERVICE): [Webpage](https://azure.microsoft.com/en-us/services/kubernetes-service/) | [Learning Path](https://azure.microsoft.com/mediahandler/files/resourcefiles/kubernetes-learning-path/Kubernetes%20Learning%20Path%20version%201.0.pdf) | [Documentation](https://docs.microsoft.com/en-us/azure/aks/) | [Downloadable PDF](https://docs.microsoft.com/en-us/azure/opbuildpdf/aks/TOC.pdf?branch=live) | [Videos](https://azure.microsoft.com/en-us/resources/videos/index/?services=kubernetes-service&sort=newest)
 
 ### DEVOPS - BACKUPS
 
@@ -1616,6 +1644,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Awesome Cloud Native - Jimmy Song](https://jimmysong.io/awesome-cloud-native/)
 * [Cloud Native Interactive Landscape (CNCF)](https://landscape.cncf.io/)
+* [CNCF Webinars](https://www.cncf.io/webinars/)
 
 ### DEVOPS - COREOS (RED HAT)
 
@@ -1908,6 +1937,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - KUBERNETES
 
 * Kubernetes: [Docs](https://kubernetes.io/) | [Kubernetes API](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.9/) | [Basic tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Tutorials](https://kubernetes.io/docs/tutorials/) | [Tasks](https://kubernetes.io/docs/tasks/) | [Concepts](https://kubernetes.io/docs/concepts/) | [Github](https://github.com/kubernetes/kubernetes)
+* [Kubernetes Patterns - Bilgin Ibryam and Roland Huß (PDF)](https://www.redhat.com/cms/managed-files/cm-oreilly-kubernetes-patterns-ebook-f19824-201910-en.pdf)
+* [Kubernetes Basics - Brendon Burns (Microsoft)](https://www.youtube.com/playlist?list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT)
 * [kubernetes-doc-pdf](https://github.com/dohsimpson/kubernetes-doc-pdf)
 * [70 Best Kubernetes Tutorials - AquaSec](https://www.aquasec.com/wiki/display/containers/70+Best+Kubernetes+Tutorials)
 * [Dissecting Kubernetes (K8s) - An Intro to Main Components - Joshua Sheppard](https://www.infoq.com/presentations/kubernetes-yaml)
@@ -2531,7 +2562,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ## FUNCTIONAL PROGRAMMING
 
-* [Practical Functional Programming - Jeremy Fairbank (Lambda Squared 2018)](https://www.youtube.com/watch?v=I_uIXgSmkDo)
+* [Practical Functional Programming - Jeremy Fairbank (Lambda Squared 2018)](https://www.youtube.com/watch?v=I_uIXgSmkDo) | [Slides (from 2019 version of same talk)](https://speakerdeck.com/jfairbank/connect-dot-tech-2019-practical-functional-programming)
 * [FP to the Max - John De Goes (Fun(c) 2018.7)](https://www.youtube.com/watch?v=sxudIMiOo68)
 * [Plain Functional Programming - Martin Odersky (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=YXDm3WHZT5g)
 * [Why Isn't Functional Programming the Norm? – Richard Feldman (Clojutre 2019)](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
@@ -2609,7 +2640,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### FUNCTIONAL PROGRAMMING - CONFERENCE VIDEOS
 
 * LambdaDays: [2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvCRCVlXTfB6-d09K3r0Sxa) | [2018](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl)
-* LambdaConf (λC): [2017](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhx5bgmpAgqArzrh0pL-tc3P) | [2017 Winter Retreat](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhy9wMify6MXW6F339W4g4Eo) | [2016](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos) | [2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
+* LambdaConf (λC): [2018](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhzLs7nLb57N75EY4py_P7pI) | [2017](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhx5bgmpAgqArzrh0pL-tc3P) | [2017 Winter Retreat](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhy9wMify6MXW6F339W4g4Eo) | [2016](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos) | [2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
 * [Curry On!](https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w)
 * [Scale by the Bay 2017](https://www.youtube.com/playlist?list=PLNESult6cnOkDeaaEhq192kdsbMPc3dIJ)
 * [MoonConf 2016](https://www.youtube.com/playlist?list=PLWYAdh9hA7geMRCgwDomlHAdwlsno32LU&spfreload=10)
@@ -2893,6 +2924,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### HASKELL - VIDEOS
 
+* [LambdaConf 2018](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhygKSFNI4MlTL-draJzhRXb)
 * [Haskell eXchange 2017](https://skillsmatter.com/conferences/8522-haskell-exchange-2017#program)
 * Haskell Implementors' Workshop (HIW): [2017](https://www.youtube.com/playlist?list=PLnqUlCo055hX1F0PCi9FjdllYQMwCQvps)
 * [Haskell 2016 (Japan)](https://www.youtube.com/playlist?list=PLnqUlCo055hX8RkgLEjBYnETx6NuiL756)
@@ -3952,10 +3984,12 @@ Peter R. Egli:
 * Maestral: Open-source Dropbox client for macOS and Linux (that works with an encrypted Ubuntu HD): [Github](https://github.com/SamSchott/maestral-dropbox)
 * MermaidJS: Markdownish syntax for generating flowcharts, sequence diagrams, state diagrams, charts, etc.: [Live editor](https://mermaidjs.github.io/mermaid-live-editor/) | [Documentation](https://mermaidjs.github.io/#/) | [Github](https://github.com/knsv/mermaid)
 * Mscgen: Message sequence Chart generator: [Mscgen](http://www.mcternan.me.uk/mscgen/) | [Live editor (mscgen.js.org)](https://mscgen.js.org/) | [Tutorial](https://mscgen.js.org/tutorial.html)
+* [PlantUML: ](http://plantuml.com/) | [PlantText.com](https://www.planttext.com/) | [PlantText.com video](https://www.youtube.com/watch?v=d8ABkAkT3q0) | [PlantUML for the impatient](http://plantuml.com/starting)
 * Tikz: [Wikibooks](https://en.wikibooks.org/wiki/LaTeX/PGF/TikZ) | [Wikipedia](https://en.wikipedia.org/wiki/PGF/TikZ)
 * [Tools for opting out of global data surveillance - PRISM-break.org](https://prism-break.org/en/all/)
 * [UMLet: Free, fast UML diagrams](https://www.umlet.com/) | [UMLetino (use in your browser)](http://www.umletino.com/) | [Youtube tutorials](https://www.youtube.com/results?search_query=umlet) | [Github](https://github.com/umlet/umlet)
 * [WebSequenceDiagrams.com](https://www.websequencediagrams.com/)
+* [Youtube-dl: Download videos from YouTube (and more sites)](https://ytdl-org.github.io/youtube-dl/)
 
 ## PROGRAMMING
 
@@ -4228,6 +4262,7 @@ Peter R. Egli:
 
 ### PROGRAMMING - VIDEOS
 
+* [Web Camp Zagreb 2019](https://2019.webcampzg.org/talks/)
 * StrangeLoop: [2019](https://www.youtube.com/playlist?list=PLcGKfGEEONaCToXJZ4Uk1NVW70U3C-Im-) | [2018](https://www.youtube.com/playlist?list=PLcGKfGEEONaBUdko326yL6ags8C_SYgqH) | [2017](https://www.youtube.com/playlist?list=PLcGKfGEEONaDzd0Hkn2f1talsTu1HLDYu) | [2016](https://www.youtube.com/playlist?list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa) | [2015](https://www.youtube.com/playlist?list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH32R)
 * [VoxxedDays Zurich 2018](https://www.youtube.com/playlist?list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL)
 * [InfoQ.com videos](http://www.infoq.com/presentations/) | [QCon New York 2018](https://qconnewyork.com/video-schedule)
