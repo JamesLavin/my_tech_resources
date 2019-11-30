@@ -716,6 +716,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Nice Guys on Business - Doug Sandler & Strickland Bonner](http://www.niceguysonbusiness.com/episodes/)
 * [Notion - The Pain of Scale - Stephen Millard & Paul Papadimitriou](https://www.listennotes.com/podcasts/notion-the-pain-of-scale-notion-investing-eby13BGQ0pn/)
 * [Origins - Notation Capital](https://itunes.apple.com/us/podcast/origins-podcast-about-limited/id1111792048?mt=2)
+* [Product Hunt Radio](https://www.producthunt.com/radio)
 * [Rogue Startups Podcast - Dave Rodenbaugh & Craig Hewitt](https://roguestartups.com/)
 * [Running Through Walls - Venrock](https://itunes.apple.com/us/podcast/running-through-walls/id1116751671?mt=2)
 * [School of Greatness - Lewis Howes](https://lewishowes.com/sogpodcast/)
@@ -1624,6 +1625,9 @@ Links to resources I have found useful or think might be helpful to future me or
 #### DEVOPS - AZURE (MICROSOFT) - KUBERNETES (AKS)
 
 * AKS (AZURE KUBERNETES SERVICE): [Webpage](https://azure.microsoft.com/en-us/services/kubernetes-service/) | [Learning Path](https://azure.microsoft.com/mediahandler/files/resourcefiles/kubernetes-learning-path/Kubernetes%20Learning%20Path%20version%201.0.pdf) | [Documentation](https://docs.microsoft.com/en-us/azure/aks/) | [Downloadable PDF](https://docs.microsoft.com/en-us/azure/opbuildpdf/aks/TOC.pdf?branch=live) | [Videos](https://azure.microsoft.com/en-us/resources/videos/index/?services=kubernetes-service&sort=newest)
+* [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
+* [AKS Engine: easiest way to provision a self-managed Kubernetes cluster on Azure](https://github.com/Azure/aks-engine) | [Docs](https://github.com/Azure/aks-engine/blob/master/docs/README.md) | [Tutorial](https://github.com/Azure/aks-engine/blob/master/docs/tutorials/README.md) | [FAQ](https://github.com/Azure/aks-engine/blob/master/docs/faq.md)
+* [Azure Subscription](https://azure.microsoft.com/en-us/)
 
 ### DEVOPS - BACKUPS
 
@@ -1885,7 +1889,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Healthcare & Life Sciences Solutions](https://cloud.google.com/solutions/healthcare-life-sciences/)
 * [Healthcare API](https://cloud.google.com/healthcare/)
 
-#### DEVOPS - GOOGLE CLOUD - KUBERNETES
+#### DEVOPS - GOOGLE CLOUD - KUBERNETES (GKE)
 
 * [Kubernetes Engine](https://cloud.google.com/kubernetes-engine/) | [Docs](https://cloud.google.com/kubernetes-engine/docs/)
 * [Starting with Kubernetes Engine: Developer-friendly Deployment Strategies (Cloud Next '18)](https://www.youtube.com/watch?v=2ZP4M6UdH8s)
@@ -1905,6 +1909,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson](https://www.youtube.com/watch?v=90kZRyPcRZw) | [Unabridged version: Kubernetes for the basic user](https://vimeo.com/245778144/4d1d597c5e)
 * [Kubernetes and Google Container Engine - Aparna Sinha and Kelsey Hightower (Google Cloud Next '17)](https://www.youtube.com/watch?v=Csf-gxjo4hc)
 * [Local Persistent Volumes for Kubernetes Goes Beta](https://kubernetes.io/blog/2018/04/13/local-persistent-volumes-beta/)
+
+##### DEVOPS - GOOGLE CLOUD - KUBERNETES (GKE) - SECURITY
+
+* [Exploring container security: Use your own keys to protect your data on GKE](https://cloud.google.com/blog/products/containers-kubernetes/exploring-container-security-use-your-own-keys-to-protect-your-data-on-gke)
 
 #### DEVOPS - GOOGLE CLOUD - PODCASTS
 
@@ -2243,6 +2251,8 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### DEVOPS - KUBERNETES - ROLE-BASED ACCESS CONTROL (RBAC)
 
+* [Using RBAC Authorization - Kubernetes.io](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
+* [audit2rbac: Autogenerate RBAC policies based on Kubernetes audit logs - Jordan Liggitt](https://github.com/liggitt/audit2rbac)
 * [Kubernetes Identity Management: Authentication - Marc Boorshtein](https://www.linuxjournal.com/content/kubernetes-identity-management-authentication)
 * [Role Based Access Control (RBAC) with Kubernetes - School of DevOps](https://www.youtube.com/watch?v=BLktpM--0jA)
 * [Effective RBAC - Jordan Liggitt (KubeCon + CloudNativeCon North America 2017)](https://www.youtube.com/watch?v=Nw1ymxcLIDI)
@@ -2417,6 +2427,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### DEVOPS - VIDEOS
 
+* [DevOpsDays Philly 2019](https://www.youtube.com/playlist?list=PLE7tQUdRKcyZhPbZzB8LBO-pQwaQ5NKCT)
 * [DevOpsDays Boston 2019](https://www.youtube.com/playlist?list=PLKOXVA7dUqS9DFBY_IeDtsR5aH4kR3Daj)
 * [DevOpsDays Chicago 2019](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaVPM8O67RtKZsfo2WNySPo)
 * [DevOpsDays Baltimore 2019](https://www.youtube.com/playlist?list=PLE7tQUdRKcyb-MIsb0pSgf8ZI-qz_hTh4)
@@ -2974,6 +2985,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### HTTP - HEADERS
 
+* [HTTP Headers for the Responsible Developer - Stefan Judis (GOTO 2019)](https://www.youtube.com/watch?v=JfjiFsJsO4E)
 * [Everything you need to know about HTTP security headers - Max Veytsman](https://blog.appcanary.com/2017/http-security-headers.html)
 
 ### HTTP - REST CLIENTS
@@ -3974,22 +3986,30 @@ Peter R. Egli:
 ## PRODUCTIVITY TOOLS
 
 * Asymptote: The Vector Graphics Language: [Homepage](http://asymptote.sourceforge.net/) | [Gallery](http://asymptote.sourceforge.net/gallery/) | [Documentation](http://asymptote.sourceforge.net/doc/index.html) | [Docs (PDF)](http://asymptote.sourceforge.net/asymptote.pdf)
-* BlockDiag: the simple block-diagram image generator: [BlockDiag.com](http://blockdiag.com/en/blockdiag/index.html)
+* BlockDiag: the simple block-diagram image generator: [Activity Diagrams](http://blockdiag.com/en/actdiag/index.html) | [Block Diagrams](http://blockdiag.com/en/blockdiag/index.html) | [Network Diagrams](http://blockdiag.com/en/nwdiag/index.html) | [Sequence Diagrams](http://blockdiag.com/en/seqdiag/index.html)
 * Boxes: [Homepage](https://boxes.thomasjensen.com) | [Github](https://github.com/ascii-boxes/boxes)
 * Calcurse: calendar and scheduling application for the command line: [Calcurse.org](https://calcurse.org/) | [Manual](https://calcurse.org/files/manual.html)
 * [ditaa: DIagrams Through Ascii Art](http://ditaa.sourceforge.net/)
 * Gnuplot: [Homepage](http://www.gnuplot.info/) | [Demo gallery](http://gnuplot.sourceforge.net/demo/) | [Docs](http://www.gnuplot.info/documentation.html)
 * GraphViz: open source graph visualization software: [Generate](https://graphs.grevian.org/graph) | [Pocket reference](https://graphs.grevian.org/example) | [Reference](https://graphs.grevian.org/reference) | [GraphViz.org](http://graphviz.org/) | [Wikipedia](https://en.wikipedia.org/wiki/DOT_(graph_description_language))
+* [Haskell Diagrams package](https://archives.haskell.org/projects.haskell.org/diagrams/gallery.html)
 * Joplin: Open-source note taking & to-do application with synch capabilities: [JoplinApp.org](https://joplinapp.org/) | [Github](https://github.com/laurent22/joplin/) | [Discourse](https://discourse.joplinapp.org/)
+* [JS-Sequence-Diagrams](https://bramp.github.io/js-sequence-diagrams/)
+* [Kate's Grammar Tool (for BNF / Backus–Naur form diagrams)](https://github.com/katef/kgt/)
+* [Kroki: Convert plain text diagrams to images](https://kroki.io/) (Does BlockDiag, Ditaa, ERDs, C4 with PlantUML, GraphViz, Mermaid, Nomnomi, PlantUML, Svgbob)
 * Maestral: Open-source Dropbox client for macOS and Linux (that works with an encrypted Ubuntu HD): [Github](https://github.com/SamSchott/maestral-dropbox)
 * MermaidJS: Markdownish syntax for generating flowcharts, sequence diagrams, state diagrams, charts, etc.: [Live editor](https://mermaidjs.github.io/mermaid-live-editor/) | [Documentation](https://mermaidjs.github.io/#/) | [Github](https://github.com/knsv/mermaid)
 * Mscgen: Message sequence Chart generator: [Mscgen](http://www.mcternan.me.uk/mscgen/) | [Live editor (mscgen.js.org)](https://mscgen.js.org/) | [Tutorial](https://mscgen.js.org/tutorial.html)
-* [PlantUML: ](http://plantuml.com/) | [PlantText.com](https://www.planttext.com/) | [PlantText.com video](https://www.youtube.com/watch?v=d8ABkAkT3q0) | [PlantUML for the impatient](http://plantuml.com/starting)
+* [Nomnomi](http://www.nomnoml.com/)
+* [PlantUML](http://plantuml.com/) | [PlantText.com](https://www.planttext.com/) | [PlantText.com video](https://www.youtube.com/watch?v=d8ABkAkT3q0) | [PlantUML for the impatient](http://plantuml.com/starting)
+* [Svgbob](https://ivanceras.github.io/svgbob-editor/)
+* [SyncThing: synchronizes files between two or more computers and replaces proprietary sync and cloud services with something open, trustworthy and decentralized](https://syncthing.net/) | [Github](https://github.com/syncthing/syncthing) | [Getting Started](https://docs.syncthing.net/intro/getting-started.html) | [Forum](https://forum.syncthing.net/)
 * Tikz: [Wikibooks](https://en.wikibooks.org/wiki/LaTeX/PGF/TikZ) | [Wikipedia](https://en.wikipedia.org/wiki/PGF/TikZ)
 * [Tools for opting out of global data surveillance - PRISM-break.org](https://prism-break.org/en/all/)
 * [UMLet: Free, fast UML diagrams](https://www.umlet.com/) | [UMLetino (use in your browser)](http://www.umletino.com/) | [Youtube tutorials](https://www.youtube.com/results?search_query=umlet) | [Github](https://github.com/umlet/umlet)
 * [WebSequenceDiagrams.com](https://www.websequencediagrams.com/)
 * [Youtube-dl: Download videos from YouTube (and more sites)](https://ytdl-org.github.io/youtube-dl/)
+* [ZenUML.com](https://app.zenuml.com/)
 
 ## PROGRAMMING
 

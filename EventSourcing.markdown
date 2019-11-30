@@ -421,6 +421,15 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - PULSAR
 
 * [Apache Pulsar - Distributed pub-sub messaging system](http://pulsar.apache.org/) | [Concepts](https://pulsar.apache.org/docs/en/concepts-overview/)
+* [Apache Pulsar 101: architecture, concepts & benchmarks - Quentin Adam & Steven Le Roux (Devoxx Belgium 2019)](https://www.youtube.com/watch?v=De6avNyQUMw)
+* Infinite Topic Backlogs with Apache Pulsar - Ivan Kelly: [(Prezi Conference Team 2019)](https://www.youtube.com/watch?v=yeuXI132PII) | [(J On the Beach 2019)](https://www.youtube.com/watch?v=v2P5ADroe1g)
+* [Apache Pulsar and the Legacy of Telegraphy - Jowanza Joseph (StrangeLoop 2019)](https://www.youtube.com/watch?v=3WbiQyAFpWQ)
+* [Apache Pulsar 101 - Streamlio](https://www.youtube.com/playlist?list=PLv2BcvwOYZ10Flofkp-CH8O8d-fLZL1XN)
+* [Apache Pulsar Tutorials - Streamlio](https://www.youtube.com/playlist?list=PLv2BcvwOYZ12pepFJZHdh8CSbVjWNPC-p)
+* [Using Apache Pulsar Functions  - Streamlio](https://www.youtube.com/playlist?list=PLv2BcvwOYZ11fIuW7lyFEnVaECtkog0-y)
+* [Apache Pulsar and Apache BookKeeper - Streamlio](https://www.youtube.com/playlist?list=PLv2BcvwOYZ10yL02L2kGsIcdkLbUzWpPT)
+* [DB Lunch: Unifying Messaging, Queuing, Streaming & Light Weight Compute with Apache Pulsar - Karthik Ramasamy (Microsoft Research)](https://www.youtube.com/watch?v=J94l4dlhDH8)
+* [Elastic Data Processing with Apache Flink and Apache Pulsar - Sijie Guo (Flink Forward)](https://www.youtube.com/watch?v=i2CZR3me1a8)
 * [Pulsar in Action - David Kjerrumgaard](https://www.manning.com/books/pulsar-in-action) [NON-FREE book] | [Code (Github)](https://github.com/david-streamlio/pulsar-in-action)
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - SCHEMAS

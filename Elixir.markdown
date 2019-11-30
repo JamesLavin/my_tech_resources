@@ -783,6 +783,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Phoenix PubSub: Using Phoenix.PubSub to send messages across processes - Hubert Pompecki](https://www.pompecki.com/post/phoenix-pubsub/)
 * [Phoenix WebSockets Under a Microscope - Dimitris Zorbas](https://zorbash.com/post/phoenix-websockets-under-a-microscope/)
 
+#### ELIXIR - PHOENIX - CONTEXTS
+
+* [The Alchemist's Code: Bringing More Value with Less Magic - Rafal Studnicki (Code Elixir LDN 19)](https://www.youtube.com/watch?v=XGeK9q6yjsg)
+
 #### ELIXIR - PHOENIX - DEPLOYMENT
 
 Note: Elixir 1.9 includes release support:
@@ -1011,6 +1015,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ELIXIR - TESTING - HOUND
 
+* [UI Testing is Ruff; Hound Can Help - Vanessa Lee (ElixirConf 2019)](https://www.youtube.com/watch?v=5J5qyP6FOcI)
 * [Concurrent Feature Tests with Phoenix and Hound - Kevin Rockwood](http://rockwood.me/2016/concurrent-feature-tests-with-phoenix/)
 
 #### ELIXIR - TESTING - LOAD TESTING
@@ -1032,11 +1037,12 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ELIXIR - TESTING - PROPERTY-BASED TESTING
 
+* [Empirical Monkeys: A Practitioner’s Take on - Rafal Studnicki & Simon Zelazny (ElixirConf 2018)](https://www.youtube.com/watch?v=llHPNc18-hg) & [Github](https://github.com/well-ironed/breaking-pp)
 * [Testing Erlang and Elixir through PropEr Modeling - Fred Hebert (Erlang Solutions Webinar)](https://www.youtube.com/watch?v=LvFs33-1Tbo)
 * [StreamData: Elixir library for data generation and property-based testing - Andrea Leopardi](https://github.com/whatyouhide/stream_data)
 * [Introduction to stateful property based testing - Tomasz Kowal (Lambda Days 19)](https://www.youtube.com/watch?v=owHmYA52SIM)
 * [Quixir: Property-based testing for Elixir - Dave Thomas](https://github.com/pragdave/quixir)
-* [Propcheck: Property-based testinf for Elixir - Klaus Alfert](https://github.com/alfert/propcheck)
+* [Propcheck: Property-based testing for Elixir - Klaus Alfert](https://github.com/alfert/propcheck)
 * [Property-Based Testing - Exploring Elixir](https://www.youtube.com/watch?v=PLSYM7ada0o)
 * [Property-Based Testing with PropEr, Erlang, and Elixir - Fred Hebert](https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir) | [Older but free "PropEr Testing" website](https://propertesting.com/toc.html)
 
@@ -1063,6 +1069,7 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ELIXIR - TYPES - DIALYZER/DIALYXIR
 
 * [Type Specifications and Erlang](http://learnyousomeerlang.com/dialyzer)
+* [A More Type-Driven Elixir Workflow? Maybe - Simon Zelazny & Rafal Studnicki](https://well-ironed.com/articles/a-more-type-driven-elixir-workflow-maybe/)
 * [Chemanalysis: Dialyzing Elixir - Sean Cribbs (Code BEAM SF 19)](https://www.youtube.com/watch?v=k4au7VioXNk)
 * [Decoding Dialyzer - Part 1 - Devon Estes](http://devonestes.herokuapp.com/decoding-dialyzer)
 * [What Does Dialyzer Think of Me? - Stavros Aronis (Code Beam 2019)](https://www.youtube.com/watch?v=Nxsw1jRE2A4)
