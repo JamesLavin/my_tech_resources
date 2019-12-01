@@ -2179,6 +2179,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Jaeger Operator for Kubernetes](https://github.com/jaegertracing/jaeger-operator)
 * [Getting started with Jaeger to build an Istio service mesh - Daniel Oh](https://opensource.com/article/19/3/getting-started-jaeger)
+* [Intro: Jaeger - Yuri Shkuro (Uber) & Pavol Loffay (Red Hat) (KubeCon + CloudNativeCon 2018 North America)](https://www.youtube.com/watch?v=WRntQsUajow)
 
 #### DEVOPS - KUBERNETES - KANIKO
 
@@ -5201,12 +5202,37 @@ Peter R. Egli:
 
 ## WINDOWS
 
+### WINDOWS - CHOCOLATEY (PACKAGE MANAGER)
+
+* [Chocolatey.org](https://chocolatey.org/) | [Docs](https://chocolatey.org/docs) | [Getting started courses](https://chocolatey.org/courses) | [Resources](https://chocolatey.org/resources) | [Wiki](https://github.com/chocolatey/choco/wiki) | [Github](https://github.com/chocolatey/choco)
+* [Youtube videos](https://www.youtube.com/results?search_query=chocolatey)
+
 ### WINDOWS - DOCKER
 
 * Windows Containers - Microsoft: [About](https://docs.microsoft.com/en-us/virtualization/windowscontainers/about/) | [Documentation](https://docs.microsoft.com/en-us/virtualization/windowscontainers/)
 * [Deploy your Web App in Windows Containers on Azure App Service - Azure Friday (Microsoft)](https://www.youtube.com/watch?v=Fe_AYBD5m0I)
 
-### WINDOWS SUBSYSTEM FOR LINUX (WSL)
+### WINDOWS - MISCELLANEOUS
+
+* [Uncap: Map Caps Lock to Escape, or any key to any key - Susam Pal](https://github.com/susam/uncap)
+
+### WINDOWS - POWERSHELL
+
+* [PowerShell Master Class - John Savill](https://www.youtube.com/watch?v=sQm4zRvvX58&list=PLlVtbbG169nFq_hR7FcMYg32xsSAObuq8)
+  * [PowerShell Fundamentals](https://www.youtube.com/watch?v=sQm4zRvvX58)
+  * [Connecting Commands Together](https://www.youtube.com/watch?v=K_LsLq5yGgk)
+  * [PowerShell Remoting](https://www.youtube.com/watch?v=PMRkM9jlMMw)
+  * [Getting Ready for DevOps With PowerShell and VS Code](https://www.youtube.com/watch?v=yavDKHV-OOI)
+  * [PowerShell Scripting](https://www.youtube.com/watch?v=ApbdhcZBcyU)
+  * [Advanced Scripting Techniques](https://www.youtube.com/watch?v=BVU7MxlyMmA)
+  * [Data & Objects](https://www.youtube.com/watch?v=Bmsa6F69afA)
+  * [Desired State Configuration](https://www.youtube.com/watch?v=D-jmIk4xaWw)
+  * [Automation](https://www.youtube.com/watch?v=n2dlNA3Z-mc)
+* [Writing Award Winning PowerShell Functions and Script Modules - Mike Robbins (PowerShell & DevOps Global Summit 2018)](https://www.youtube.com/watch?v=d5x0Di52QZA)
+* [PowerShell: Writing Functions - Bryan Cafferky](https://www.youtube.com/watch?v=83Di4IgK-VI)
+* [Learn Windows PowerShell in a Month of Lunches - Don Jones](https://www.youtube.com/playlist?list=PL6D474E721138865A)
+
+### WINDOWS - WINDOWS SUBSYSTEM FOR LINUX (WSL)
 
 * [Windows Subsystem for Linux (WSL): The Ultimate Guide - Adam the Automator](https://adamtheautomator.com/windows-subsystem-for-linux/)
 * [Get started with the Windows Subsystem for Linux - Microsoft](https://docs.microsoft.com/en-us/learn/modules/get-started-with-windows-subsystem-for-linux/)
