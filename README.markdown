@@ -221,6 +221,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ARTIFICIAL INTELLIGENCE (AI) - NATURAL LANGUAGE PROCESSING (NLP)
 
+* [NLP-progress; Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks - Sebastian Ruder](https://github.com/sebastianruder/nlp-progress) | [NlPProgress.com](https://nlpprogress.com/)
 * [The New Era in NLP - Rachel Thomas (SciPy 2019)](https://www.youtube.com/watch?v=KChtdexd5Jo)
 * [Natural Language Processing with Deep Learning (Stanford University, Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) | [2019 course](http://web.stanford.edu/class/cs224n/)
 * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
@@ -445,6 +446,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [KubeFlow: Machine Learning Toolkit for Kubernetes](https://www.kubeflow.org/)
 * [Machine Learning Frameworks on Kubernetes](https://github.com/aws-samples/machine-learning-using-k8s)
+* [Kubeflow: Portable Machine Learning on Kubernetes - Michelle Casbon (@Scale 2018)](https://www.youtube.com/watch?v=JCBJNuDvsuw)
 * [kfctl](https://github.com/kubeflow/kubeflow/tree/master/kfctl)
 
 #### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW - MOBILE
@@ -489,6 +491,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Seven Tips for the Healthy Programmer - Bart Jacobs](https://code.tutsplus.com/articles/seven-tips-for-the-healthy-programmer--cms-25043)
 * [Tips on Staying Fit for Software Developers - Asahi Technologies](https://www.asahitechnologies.com/blog/tips-on-staying-fit-for-software-developers/)
 * [5 Hacks to Effortlessly Build Healthy Habits in 2018 - Steve](https://www.nerdfitness.com/blog/how-to-build-healthy-habits-that-stick/)
+
+### BODY & MIND - BURNOUT
+
+* [Depression and Burnout: the Hardest Refactor I’ve ever done - Jérôme Petazzoni (GOTO 2019)](https://www.youtube.com/watch?v=m20KBFUuw-w)
 
 ### BODY & MIND - EXERCISE
 
@@ -1406,6 +1412,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DATABASES - GRAPH DATABASES
 
 * [Awesome-graph: resources for graph databases and graph computing tools - Jean-Baptiste Musso](https://github.com/jbmusso/awesome-graph)
+* [Keith Damiani - Connecting the Dots (Laracon US 2019)](https://www.youtube.com/watch?v=eVkTIg2D7NY)
+* [A Skeptic's Guide to Graph Databases - David Bechberger (NDC { Oslo } 2019)](https://www.youtube.com/watch?v=yOYodfN84N4)
 * [Graph Databases Will Change Your Freakin' Life - Ed Finkler](https://www.youtube.com/watch?v=GekQqFZm7mA)
 * [From Relational to Graph: A Developer's Guide - Michael Hunger](https://dzone.com/refcardz/from-relational-to-graph-a-developers-guide?chapter=1)
 
@@ -1413,7 +1421,13 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Apache Tinkerpop: [Website](http://tinkerpop.apache.org/) | [Docs](http://tinkerpop.apache.org/docs/current/reference/)
 * [SQL2Gremlin](http://sql2gremlin.com/)
-* [Practical Gremlin - An Apache TinkerPop Tutorial (PDF) - Kelvin R. Lawrence](https://github.com/krlawrence/graph)
+* Practical Gremlin: An Apache TinkerPop Tutorial (book) - Kelvin R. Lawrence: [HTML](http://kelvinlawrence.net/book/Gremlin-Graph-Guide.html) | [PDF](https://kelvinlawrence.net/book/Gremlin-Graph-Guide.pdf) | [Github](https://github.com/krlawrence/graph)
+* [graphexp: Interactive visualization of the Gremlin graph database with D3.js - Benjamin Ricaud](https://github.com/bricaud/graphexp)
+
+#### DATABASES - GRAPH DATABASES - OWLREADY
+
+* [Owlready2 Documentation (PDF)](https://readthedocs.org/projects/owlready2/downloads/pdf/latest/)
+* [Event extraction based on open information extraction and ontology - Sihem Sahnoun (PDF)](https://arxiv.org/pdf/1907.00692.pdf)
 
 #### DATABASES - GRAPH DATABASES - RDF
 
@@ -1471,6 +1485,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DATABASES - JANUSGRAPH
 
 * JanusGraph: [Website](http://janusgraph.org/) | [Github](https://github.com/JanusGraph/janusgraph/) | [Documentation](http://docs.janusgraph.org/latest/) | [Getting Started](http://docs.janusgraph.org/latest/getting-started.html)
+* [Intro to JanusGraph Database - Jason Plurad, IBM (KubeCon + CloudNativeCon China 2019)](https://www.youtube.com/watch?v=_3YP3QI_cYk)
+* [JanusGraph Helm chart](https://github.com/helm/charts/tree/master/stable/janusgraph)
 
 ### DATABASES - KINTO
 
@@ -1723,6 +1739,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Cloud Native Interactive Landscape (CNCF)](https://landscape.cncf.io/)
 * [CNCF Webinars](https://www.cncf.io/webinars/)
 
+### DEVOPS - CONTINUOUS DEPLOYMENT
+
+* [Continuous Deployment at Facebook Scale - Boris Grubic & Fangfei Zhou, Facebook (Systems @Scale 2019)](https://www.youtube.com/watch?v=UAlDS6iARI0)
+
 ### DEVOPS - COREOS (RED HAT)
 
 * [CoreOS](https://coreos.com/)
@@ -1946,6 +1966,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - ISTIO
 
 * [Istio: Open Platform to Connect, Manage, and Secure Microservices](https://istio.io/) | [Docs](https://istio.io/docs/) | [Blog](https://istio.io/blog/) | [News](https://istio.io/news/) | [Github](https://github.com/istio/istio) | [Twitter](https://twitter.com/IstioMesh)
+* [Practical Istio - (DockerCon 19)](https://www.youtube.com/watch?v=uRXzRfthYeU)
 * [Bookinfo (Istio Demo) Application](https://istio.io/docs/examples/bookinfo/)
 * [Exploring Istio by Example - Matthew Casperson](https://octopus.com/blog/istio/the-sample-application)
 * [istio-operator](https://github.com/banzaicloud/istio-operator)
@@ -2061,6 +2082,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - KUBERNETES - CONTAINERIZATION
 
+* [Containers From Scratch - Liz Rice (GOTO 2018)](https://www.youtube.com/watch?v=8fi7uSYlOdc)
+* [Containers From Scratch: The Sequel - Liz Rice (Container Camp)](https://www.youtube.com/watch?v=_TsSmSu57Zo)
 * [Building Small Containers: Kubernetes Best Practices - Sandeep Dinesh (Google)](https://www.youtube.com/watch?v=wGz_cbtCiEA)
 
 #### DEVOPS - KUBERNETES - CONTOUR
@@ -2288,6 +2311,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Skaffold: happy Kubernetes workflows - Ahmet Alp Balkan](https://ahmet.im/blog/skaffold/)
 * [Skaffold on Google Kubernetes Engine](https://github.com/GoogleCloudPlatform/skaffold/blob/master/docs/quickstart-gke.md)
 
+#### DEVOPS - KUBERNETES - STERN
+
+* [Multi pod and container log tailing for Kubernetes](https://github.com/wercker/stern)
+
 #### DEVOPS - KUBERNETES - TELEPRESENCE
 
 * [Telepresence: Debug your Kubernetes service locally, using your favorite debugging tools](https://www.telepresence.io/)
@@ -2352,6 +2379,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Chef-logstash](https://github.com/lusis/chef-logstash)
 * [Logstash Google Forum](https://groups.google.com/forum/?fromgroups#%21forum/logstash-users)
 * [Logstash Freenode IRC](http://irc.lc/freenode/logstash/t4nk@@@)
+
+### DEVOPS - OBSERVABILITY
+
+* [Observability Infra Uber and Facebook - Yuri Shkuro & Michael Bevilacqua-Linn (Systems @Scale 2019)](https://www.youtube.com/watch?v=nO8AYhEok1c)
 
 ### DEVOPS - OPEN POLICY AGENT (OPA)
 
@@ -2775,6 +2806,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * Atlassian: [Getting Git Right](https://www.atlassian.com/git/) | [Getting Started](https://www.atlassian.com/git/tutorials/what-is-version-control) | [Tutorials](https://www.atlassian.com/git/tutorials) | [Collaborating](https://www.atlassian.com/git/tutorials/syncing) | [Advanced Git](https://www.atlassian.com/git/tutorials/advanced-overview)
 * [Wrapping Your Head Around Git - Paolo Perrotta (Garden City Ruby 2015)](http://confreaks.tv/videos/gardencityrb2015-keynote-wrapping-your-head-around-git)
 * [Git/Github open source training resources](http://training.github.com/kit/)
+* [Knowledge is Power: Getting out of Trouble by Understanding Git • Steve Smith (GOTO 2019)](https://www.youtube.com/watch?v=fHLcZGi3yMQ)
 * [Explain Git With D3 (interactive visual demos of Git commands)](http://www.wei-wang.com/ExplainGitWithD3/#)
 * [GitGuys.com](http://www.gitguys.com/topics/)
 * [Git talks - Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=Git&commit=go)
@@ -3245,6 +3277,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### LINUX - NETWORKING
 
 * Also see: [NETWORKING](https://github.com/JamesLavin/my_tech_resources#networking)
+
+#### LINUX - NETWORKING - LOAD BALANCING
+
+* [Cloud Computing - Load Balancing - Eli the Computer Guy](https://www.youtube.com/watch?v=zaLJ6SIHztk)
+* [Katran Layer 4 Load Balancing at Facebook Engineering - Nitika Shirokov (Networking @Scale 2018)](https://www.youtube.com/watch?v=da9Qw7v5qLM)
 
 #### LINUX - NETWORKING - SOCAT
 
@@ -4250,6 +4287,7 @@ Peter R. Egli:
 * [Software Defined Talk](https://player.fm/series/software-defined-talk-2438259)
 * [Software Engineering Radio](http://www.se-radio.net/)
 * [Tech Done Right - Noel Rappin](https://www.techdoneright.io)
+* [TechZing - Justin Vincent & Jason Roberts](https://techzinglive.com/)
 * [Toolsday.io](http://toolsday.io/)
 * [Turing-Incomplete](http://turing.cool/)
 * [Upgrade](https://www.relay.fm/upgrade)
@@ -4301,6 +4339,7 @@ Peter R. Egli:
 * [SkillsMatter.com/Skillscasts](https://skillsmatter.com/skillscasts)
 * Jfokus: [2016](https://www.youtube.com/playlist?list=PLUQORQEatnJdV2Ib4Edw3jLQJk5b8Rxcd) | [2015](https://www.youtube.com/playlist?list=PLklQqdqnBkPjVWKihmEAchC2kksnNoqIi)
 * [O'Reilly](https://www.youtube.com/user/OreillyMedia/playlists)
+* @Scale: [Systems 2019](https://www.youtube.com/results?search_query=%40Scale+2019) | [DevTools 2017](https://www.youtube.com/playlist?list=PLMu8-hpCxIVFnwEF71ZA_-t1PnQuRiS8U) | [Network 2017](https://www.youtube.com/playlist?list=PLMu8-hpCxIVENuAue7bd0eCAglLGY_8AW) | [2016](https://www.youtube.com/playlist?list=PLyB_05G-OKOFOSyWhZFmme-SNU-TQUVRc) | [2015 & 2014](https://www.youtube.com/channel/UCd9I8ZkgoR1d7GeSj_wi_LQ/playlists)
 * [OSCON 2014](https://www.youtube.com/playlist?list=PL055Epbe6d5Y3njTzpWt0VepR1B7tcRFH)
 * [FutureTalks - NewRelic](https://www.youtube.com/playlist?list=PLmhYj7Jl81JGTfSgMeya2R-zcISDZ9utg)
 * [Forward University](http://forwardjs.com/university)
@@ -4615,6 +4654,12 @@ Peter R. Egli:
 
 * [New Rustacean](https://overcast.fm/itunes1041815075/new-rustacean)
 * [Rustacean Station Podcast](https://rustacean-station.org/)
+
+### RUST - REDOX
+
+* [Redox-OS.org: Unix-like Operating System written in Rust](https://www.redox-os.org/) | [Gitlab](https://gitlab.redox-os.org/redox-os/redox) | [Kernel docs](https://doc.redox-os.org/kernel/kernel/) | [Std library](https://doc.redox-os.org/std/std/) | [Ion manual](https://doc.redox-os.org/ion-manual/html/)
+* [The Redox Book](https://doc.redox-os.org/book/)
+* [After four years, Rust-based Redox OS is nearly self-hosting - Tim Anderson](https://www.theregister.co.uk/2019/11/29/after_four_years_rusty_os_nearly_selfhosting/)
 
 ### RUST - ROCKET
 
@@ -4944,6 +4989,11 @@ Peter R. Egli:
 
 * [Yay! Mocks! - Corey Haines (Aloha Ruby Conf 2012)](http://confreaks.tv/videos/1237-aloharuby2012-yay-mocks)
 * [Mock Objects in Discovery Tests - Justin Searls](http://blog.testdouble.com/posts/2014-05-14-mock-objects-in-discovery-tests.html)
+
+### TESTING - MODELING
+
+* [Finding bugs without running or even looking at code - Jay Parlar (StrangeLoop 2019)](https://www.youtube.com/watch?v=FvNRlE4E9QQ)
+* [Alloy - model checker](http://alloytools.org/)
 
 ### TESTING - PRODUCTION
 

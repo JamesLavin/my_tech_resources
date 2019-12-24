@@ -155,6 +155,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm in Action - Richard Feldman](https://www.manning.com/books/elm-in-action) (non-free)
 * [Programming Elm - Jeremy Fairbank](https://pragprog.com/book/jfelm/programming-elm) (non-free)
 * [Practical Elm for a Busy Developer - Alex S. Korban](https://korban.net/elm/book/) (non-free)
+* [Learn Elm by example — Code a calculator using Elm from scratch - Ryan Frazier](https://pianomanfrazier.com/courses/) (non-free)
 
 ### ELM - CHROME EXTENSIONS
 

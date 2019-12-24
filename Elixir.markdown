@@ -534,6 +534,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How Do I GenStage? - Adrian Dunston](http://engineering.spreedly.com/blog/how-do-i-genstage.html)
 * [Reactive Tweets with Elixir GenStage - Mario Flach](https://almightycouch.org/blog/reactive-tweets-elixir-genstage/)
 
+### ELIXIR - GREMLEX
+
+* Gremlex: Elixir client for Gremlin (Apache TinkerPop): [Website](https://gremlex.carlabs.ai/) | [API docs](https://hexdocs.pm/gremlex/api-reference.html) | [Github](https://github.com/Revmaker/gremlex)
+* [Introducing Gremlex  - Kevin Moore](https://medium.com/carlabs/introducing-gremlex-6f685adf73bd)
+
 ### ELIXIR - GRAPHQL & ABSINTHE
 
 * [Build a GraphQL API in Elixir with Phoenix & Absinthe - Tivelop](https://www.youtube.com/watch?v=uoCFQu9gQHE&list=PLw7bfDlTRWbgiApK7X1bRKJJ03xoDU3hm)
@@ -825,7 +830,7 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ELIXIR - PHOENIX - LIVE VIEW
 
 * [Phoenix Live View: A step-change for web development - Chris McCord (ElixirConf 2019)](https://www.youtube.com/watch?v=XhNv1ikZNLs)
-* [Beyond LiveView: Real-Time Features with Phoenix LiveView, PubSub, Presence, and Channels - Sophie DeBenedetto (ElixirConf 2019)](https://www.youtube.com/watch?v=AbNAuOQ8wBE)
+* Beyond LiveView: Real-Time Features with Phoenix LiveView, PubSub, Presence, and Channels - Sophie DeBenedetto: [(The Big Elixir 2019)](https://www.youtube.com/watch?v=yo8Y1SUGW1w) | [(ElixirConf 2019)](https://www.youtube.com/watch?v=AbNAuOQ8wBE)
 * [Phoenix LiveView Demystified - Alex Garibay (ElixirConf 2019)](https://www.youtube.com/watch?v=9eOo8hSbMAc)
 * [Phoenix LiveView - Interactive, Real TIme Apps - No need to write Javascript - Chris McCord (ElixirConf EU 2019)](https://www.youtube.com/watch?v=8xJzHq8ru0M) & [Dec 2018 blog post](https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript)
 * [Building and Playing the Go Game with Phoenix LiveView - Jeff Kreeftmeijer](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html)
@@ -1096,12 +1101,13 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - VIDEOS
 
+* The Big Elixir: [2019](https://www.youtube.com/playlist?list=PLaiqDZ6yySzjdDOXli7VcQw7a0wuJZfz1) | [2018](https://www.youtube.com/channel/UCInJUDVff2bzZSrkDRUCOdA)
+* Git City Elixir: [2019](https://www.youtube.com/playlist?list=PLKBMoE8mCkXgXIHTEw9073T4HdNPrvXuw)
 * ElixirConf: [2019](https://www.youtube.com/playlist?list=PLqj39LCvnOWYTNs1n3ZNMSNO3Svv_XweT) | [2019 EU](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtoiQC735NjHyPJUS_nmrxy) | [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * Lonestar ElixirConf: [2019](https://www.youtube.com/playlist?list=PLGqeEOaC5KsRisF-GUlgJh35EowwzMYoS) | [2018](https://www.youtube.com/playlist?list=PLGqeEOaC5KsQt7r8KCOzfDgcqsvy_-hCN) | [2017](http://confreaks.tv/events/lonestarelixir2017)
 * EMPEX: [2019 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapyHWNFBapGOz40efbJuwmx2) | [2018 NYC](https://www.youtube.com/playlist?list=PLyO-58-sOapw81dCfjDrX5TuYxS5S8qMq) | [2018 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapy9Fs4Sd-HOeQIFwrSCQ3z1) | [2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS) | [2016](https://www.youtube.com/playlist?list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
 * [SmartLogic Elixir LiveStream Archive](https://www.youtube.com/playlist?list=PLCv-QRhbg07HUmxY9maIWVG9868MCIiXX)
 * Code BEAM: [Stockholm 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztq2fM3aGvXlj_jOfiopM2B) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Munich 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztyk61upvBMvVPbfTyfFgCE) | [Berlin 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs6eFJ9yx-jR7UShGGfPnY4) | [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
-* The Big Elixir: [2018](https://www.youtube.com/channel/UCInJUDVff2bzZSrkDRUCOdA)
 * Code Elixir LDN: [2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zu4zxnZXtCSOCvsUHtxTYIl) | [2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h8_H-hZKYjNLTl3UraSyQ7) | [2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ivlIjzcaHS9N_Swe_0hWj0)
 * [EveryElixirVideo.page](https://everyelixirvideo.page/)
 * ElixirDaze: [2018 (Youtube)](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYH_aU7H-ExE2jrA-60qxH3) | [2018 (Confreaks)](http://confreaks.tv/events/elixirdaze2018) | [2017](http://confreaks.tv/events/elixirdaze2017) | [2016 (Youtube)](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH) | [2016 (Confreaks)](http://confreaks.tv/events/elixirdaze2016)
@@ -1116,6 +1122,7 @@ Consequently, much of the following will soon be at least partially outdated:
     * [Keynote: The Pendulum - Bruce Tate](https://www.youtube.com/watch?v=X8rWK-g8kCQ)
     * [Confident Elixir - Lance Halvorsen](https://www.youtube.com/watch?v=9YCg9xaG47s)
 * [Discovering Processes - Saša Jurić (ElixirConfEU 2016)](https://www.youtube.com/watch?v=y_b6RTes83c)
+* [Talk on connection pooling, rate-limiting, circuit breaking, and demand-driven job processing - Martin Gausby (Gig City Elixir 2019)](https://www.youtube.com/watch?v=3OP7kSE6bg8)
 * [Elixir Adoption at Scale: A Comprehensive Guide - Ben Marx - EFLBA2017](https://www.youtube.com/watch?v=11waNNAiFDk)
 * [Elixir Remote Meetup - DailyDrip.com](https://www.dailydrip.com/topics/elixir-remote-meetup)
 * [Three and a Half Ways Elixir Changed Me (and Other Hyperbole) - Rob Conery (NDC London 2016)](https://vimeo.com/161001513)
@@ -1141,6 +1148,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ## ERLANG
 
+* [Erlang Programming Language (with Francesco Cesarini) - Computerphile](https://www.youtube.com/watch?v=SOqQVoVai6s)
 * [Which companies are using Erlang, and why? - Francesco Cesarini](https://www.erlang-solutions.com/blog/which-companies-are-using-erlang-and-why-mytopdogstatus.html)
 * [The Erlang Rationale - Robert Virding](http://www.erlang-factory.com/upload/presentations/329/EFKR10-ErlangRationale.pdf)
 * [The Zen of Erlang - Fred Hebert (Reactive Summit 2016)](https://www.youtube.com/watch?v=4ZIPijEqrNI)

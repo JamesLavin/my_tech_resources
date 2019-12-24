@@ -6,7 +6,9 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 
 ## JAVASCRIPT
 
+* [Front-end Developer Handbook - FrontendMasters.com](https://frontendmasters.com/books/front-end-handbook/2019/)
 * [Khan Academy computer programming](https://www.khanacademy.org/computing/computer-programming)
+* [Beginner's Essential JavaScript Cheat Sheet - WebsiteSetup.org](https://websitesetup.org/wp-content/uploads/2018/04/wsu-js-cheat-sheet.pdf)
 * [Javascript Basics](http://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.html)
 * [Eloquent Javascript](http://eloquentjavascript.net/) & [3rd edition](https://eloquentjavascript.net/3rd_edition/)
 * [Javascript.com](https://www.javascript.com/resources)
@@ -201,6 +203,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 ### JAVASCRIPT - DOM
 
 * Javascript DOM Crash Course - Traversy Media: [Part 1](https://www.youtube.com/watch?v=0ik6X4DJKCc) | [Part 2](https://www.youtube.com/watch?v=mPd2aJXCZ2g) | [Part 3](https://www.youtube.com/watch?v=wK2cBMcDTss) | [Part 4](https://www.youtube.com/watch?v=i37KVt_IcXw)
+* [Intro to the DOM - Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 * [Learn JavaScript By Building a Bookmarker Application - Traversy Media](https://www.youtube.com/watch?v=DIVfDZZeGxM)
 * [JavaScript DOM Tutorial - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V)
 * JavaScript and the DOM - @adamrecvlohe: [Part 1](https://www.youtube.com/watch?v=hM9h1wN4rfU) | [Part 2](https://www.youtube.com/watch?v=V2xVkb-_ySY)
@@ -540,7 +543,9 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 
 ### JAVASCRIPT - SERVICE WORKERS
 
-* [Service Worker Cookbook](https://serviceworke.rs/)
+* [Service Workers: An Intro - Matt Gaunt](https://developers.google.com/web/fundamentals/primers/service-workers)
+* [Intro to Service Worker - Google Developers](https://developers.google.com/web/ilt/pwa/introduction-to-service-worker)
+* [Service Worker Cookbook - Mozilla](https://serviceworke.rs/)
 
 ### JAVASCRIPT - TESTING
 
