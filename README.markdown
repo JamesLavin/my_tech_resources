@@ -2110,6 +2110,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 See [DEVOPS - AWS (AMAZON WEB SERVICES) - KUBERNETES / EKS](#devops---aws-amazon-web-services---kubernetes--eks)
 
+#### DEVOPS - KUBERNETES - GARDEN
+
+* Garden: Development orchestrator for Kubernetes, containers and functions: [Garden.io](https://garden.io/) | [Github](https://github.com/garden-io/garden)
+
 #### DEVOPS - KUBERNETES - GATEKEEPER
 
 * [Gatekeeper: Policy Controller for Kubernetes](https://github.com/open-policy-agent/gatekeeper)
@@ -2212,6 +2216,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### DEVOPS - KUBERNETES - KANIKO
 
 [Kaniko: tool to build container images from a Dockerfile, inside a container or Kubernetes cluster - Google](https://github.com/GoogleContainerTools/kaniko)
+
+#### DEVOPS - KUBERNETES - KTUNNEL
+
+* [ktunnel: CLI that exposes your local resources to Kubernetes](https://github.com/omrikiei/ktunnel)
 
 #### DEVOPS - KUBERNETES - KUBECTL
 
