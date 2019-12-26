@@ -8,7 +8,7 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 
 ## EVENT SOURCING, CQRS, DDD, & MICROSERVICES
 
-* Journey to Event Driven - Neil Avery: [Part 1: Why Event-First Thinking Changes Everything](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything) | [Part 2: Programming Models for the Event-Driven Architecture](https://www.confluent.io/blog/journey-to-event-driven-part-2-programming-models-event-driven-architecture)
+* Journey to Event Driven - Neil Avery: [Part 1: Why Event-First Thinking Changes Everything](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything) | [Part 2: Programming Models for the Event-Driven Architecture](https://www.confluent.io/blog/journey-to-event-driven-part-2-programming-models-event-driven-architecture) | [Part 3: The Affinity Between Events, Streams and Serverless](https://www.confluent.io/blog/journey-to-event-driven-part-3-affinity-between-events-streams-serverless) | [Part 4: Four Pillars of Event Streaming Microservices](https://www.confluent.io/blog/journey-to-event-driven-part-4-four-pillars-of-event-streaming-microservices)
 * How Events Are Reshaping Modern Systems - Jonas Bonér: [(ReactiveConf 2017)](https://www.youtube.com/watch?v=ycxvmOKDHMQ&t=1s) | [(Devoxx Belgium 2017)](https://www.youtube.com/watch?v=3V3pHm2Cpks)
 * [An In-Depth Look at Event Sourcing with CQRS (PDF) - Sebastian von Conrad](https://resources.sei.cmu.edu/asset_files/Presentation/2017_017_001_497589.pdf)
 * [Design Microservice Architectures the Right Way - Michael Bryzek](https://www.infoq.com/presentations/microservices-arch-infrastructure-cd)
@@ -270,7 +270,7 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 * How Kafka Enables Real-Time Stream Processing - André Melo: [Part 1](https://blog.avenuecode.com/how-kafka-enables-real-time-stream-processing-part-1) | [Part 2](https://blog.avenuecode.com/how-kafka-enables-real-time-stream-processing-part-2)
 * [Building event sourced systems with Kafka Streams - Amitay Horwitz, Wix (JEE Conf)](https://www.youtube.com/watch?v=b17l7LvrTco)
 * [Beyond the DSL—Unlocking the power of Kafka Streams with the Processor API - Antony Stubbs (Devoxx 2018)](https://www.youtube.com/watch?v=_KAFdwJ0zBA)
-* [Building Streaming Microservices with Apache Kafka - Tim Berglund (Devoxx Poland 2018)](https://www.youtube.com/watch?v=Hlb-Ss3q3as) & [Processing Streaming Data with KSQL - Tim Berglund (Devoxx Poland 2018)](https://www.youtube.com/watch?v=LM-aQQQes4Q)
+* [Building Streaming Microservices with Apache Kafka - Tim Berglund (Devoxx Poland 2018)](https://www.youtube.com/watch?v=Hlb-Ss3q3as) & [Processing Streaming Data with KSQL - Tim Berglund (Devoxx Poland 2018)](https://www.youtube.com/watch?v=LM-aQQQes4Q) & [Processing Streaming Data with KSQL - Tim Berglund (GOTO 2019)](https://www.youtube.com/watch?v=mJDbQ2gqo2g)
 * [Apache Kafka and KSQL in Action : Let’s Build a Streaming Data Pipeline! - Robin Moffatt (Devoxx 2018)](https://www.youtube.com/watch?v=RJtEacDX4Oc)
 * [Inventory Microservice example with Kafka Streams and CQRS - Sanjay Acharya](https://sleeplessinslc.blogspot.com/2018/02/inventory-microservice-example-with.html)
 * [Putting Events in Their Place with Dynamic Routing - Yeva Byzek](https://www.confluent.io/blog/putting-events-in-their-place-with-dynamic-routing)
@@ -420,7 +420,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - PULSAR
 
-* [Apache Pulsar - Distributed pub-sub messaging system](http://pulsar.apache.org/) | [Concepts](https://pulsar.apache.org/docs/en/concepts-overview/)
+* [Apache Pulsar - Distributed pub-sub messaging system](http://pulsar.apache.org/) | [Concepts](https://pulsar.apache.org/docs/en/concepts-overview/) | [Schema](https://pulsar.apache.org/docs/en/schema-get-started/) | [Functions](https://pulsar.apache.org/docs/en/functions-overview/) | [IO](https://pulsar.apache.org/docs/en/io-overview/) | [SQL](https://pulsar.apache.org/docs/en/sql-overview/) | [Deployment](https://pulsar.apache.org/docs/en/deploy-kubernetes/) | [Administration](https://pulsar.apache.org/docs/en/administration-zk-bk/) | [Security](https://pulsar.apache.org/docs/en/security-overview/) | [Admin API](https://pulsar.apache.org/docs/en/admin-api-overview/) | [Adapters](https://pulsar.apache.org/docs/en/adaptors-kafka/) | [Cookbooks](https://pulsar.apache.org/docs/en/cookbooks-tiered-storage/)
 * [Apache Pulsar 101: architecture, concepts & benchmarks - Quentin Adam & Steven Le Roux (Devoxx Belgium 2019)](https://www.youtube.com/watch?v=De6avNyQUMw)
 * Infinite Topic Backlogs with Apache Pulsar - Ivan Kelly: [(Prezi Conference Team 2019)](https://www.youtube.com/watch?v=yeuXI132PII) | [(J On the Beach 2019)](https://www.youtube.com/watch?v=v2P5ADroe1g)
 * [Apache Pulsar and the Legacy of Telegraphy - Jowanza Joseph (StrangeLoop 2019)](https://www.youtube.com/watch?v=3WbiQyAFpWQ)

@@ -1640,10 +1640,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - AZURE (MICROSOFT) - KUBERNETES (AKS)
 
-* AKS (AZURE KUBERNETES SERVICE): [Webpage](https://azure.microsoft.com/en-us/services/kubernetes-service/) | [Learning Path](https://azure.microsoft.com/mediahandler/files/resourcefiles/kubernetes-learning-path/Kubernetes%20Learning%20Path%20version%201.0.pdf) | [Documentation](https://docs.microsoft.com/en-us/azure/aks/) | [Downloadable PDF](https://docs.microsoft.com/en-us/azure/opbuildpdf/aks/TOC.pdf?branch=live) | [Videos](https://azure.microsoft.com/en-us/resources/videos/index/?services=kubernetes-service&sort=newest)
-* [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
+* AKS (Azure Kubernetes Service): [Webpage](https://azure.microsoft.com/en-us/services/kubernetes-service/) | [Learning Path](https://azure.microsoft.com/mediahandler/files/resourcefiles/kubernetes-learning-path/Kubernetes%20Learning%20Path%20version%201.0.pdf) | [Documentation](https://docs.microsoft.com/en-us/azure/aks/) | [Downloadable PDF](https://docs.microsoft.com/en-us/azure/opbuildpdf/aks/TOC.pdf?branch=live) | [Videos](https://azure.microsoft.com/en-us/resources/videos/index/?services=kubernetes-service&sort=newest) | [CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
+* [Application Gateway Ingress Controller - Azure](https://azure.github.io/application-gateway-kubernetes-ingress/)
 * [AKS Engine: easiest way to provision a self-managed Kubernetes cluster on Azure](https://github.com/Azure/aks-engine) | [Docs](https://github.com/Azure/aks-engine/blob/master/docs/README.md) | [Tutorial](https://github.com/Azure/aks-engine/blob/master/docs/tutorials/README.md) | [FAQ](https://github.com/Azure/aks-engine/blob/master/docs/faq.md)
-* [Azure Subscription](https://azure.microsoft.com/en-us/)
 
 ### DEVOPS - BACKUPS
 
@@ -2039,6 +2038,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### DEVOPS - KUBERNETES
 
 * Kubernetes: [Docs](https://kubernetes.io/) | [Kubernetes API](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.9/) | [Basic tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Tutorials](https://kubernetes.io/docs/tutorials/) | [Tasks](https://kubernetes.io/docs/tasks/) | [Concepts](https://kubernetes.io/docs/concepts/) | [Github](https://github.com/kubernetes/kubernetes)
+* [Kubernetes — What Is It, What Problems Does It Solve and How Does It Compare With Alternatives? - Srikanth Koraveni](https://medium.com/@srikanth.k/kubernetes-what-is-it-what-problems-does-it-solve-how-does-it-compare-with-its-alternatives-937fe80b754f?)
 * [Kubernetes Patterns - Bilgin Ibryam and Roland Huß (PDF)](https://www.redhat.com/cms/managed-files/cm-oreilly-kubernetes-patterns-ebook-f19824-201910-en.pdf)
 * [Kubernetes Basics - Brendon Burns (Microsoft)](https://www.youtube.com/playlist?list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT)
 * [kubernetes-doc-pdf](https://github.com/dohsimpson/kubernetes-doc-pdf)
@@ -2052,7 +2052,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Kubernetes: Container Orchestration and Micro-Services - Alexander Mohr (University of Washington)](https://courses.cs.washington.edu/courses/cse550/16au/notes/kubernetes.pdf)
 * [Awesome-Kubernetes](https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/details)
 * [Kubernetes Youtube channel](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg)
-* [Kubernetes By Example](http://kubernetesbyexample.com/)
+* [Kubernetes By Example - OpenShift](http://kubernetesbyexample.com/)
 * [Infrastructure in the New World of Containers: What are your options? - Austen Novis (DevOpsDays Boston 2018](http://confreaks.tv/videos/devopsdaysboston2018-infrastructure-in-the-new-world-of-containers-what-are-your-options)
 * [Kubernetes the Hard Way - Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way) & [Kubernetes the Easy Way - James Ward](https://github.com/jamesward/kubernetes-the-easy-way)
 * [Kubernetes Failure Stories](https://k8s.af/) & [Github](https://github.com/hjacobs/kubernetes-failure-stories)
@@ -2072,8 +2072,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - KUBERNETES - BRIGADE
 
-* Brigade: Event-based Scripting for Kubernetes (Microsoft): [Website](https://brigade.sh/) | [Github](https://github.com/Azure/brigade)
+* Brigade: Event-based Scripting for Kubernetes (Microsoft): [Website](https://brigade.sh/) | [Docs](https://docs.brigade.sh/) | [Github](https://github.com/Azure/brigade)
 * Kashti: Brigade pipeline dashboard: [Github](https://github.com/Azure/kashti)
+* [Brigade: Scripting Container Workflows on Kubernetes - Radu Matei (CNCF webinar)](https://www.cncf.io/webinars/brigade-scripting-container-workflows-on-kubernetes/)
 
 #### DEVOPS - KUBERNETES - CHAOS ENGINEERING
 
@@ -2108,6 +2109,10 @@ Links to resources I have found useful or think might be helpful to future me or
 #### DEVOPS - KUBERNETES - EKS (AWS)
 
 See [DEVOPS - AWS (AMAZON WEB SERVICES) - KUBERNETES / EKS](#devops---aws-amazon-web-services---kubernetes--eks)
+
+#### DEVOPS - KUBERNETES - GATEKEEPER
+
+* [Gatekeeper: Policy Controller for Kubernetes](https://github.com/open-policy-agent/gatekeeper)
 
 #### DEVOPS - KUBERNETES - GKE (GOOGLE CLOUD)
 
@@ -2290,6 +2295,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Rook (Github)](https://github.com/rook/rook)
 * [Intro: Rook - Jared Watts (KubeCon + CloudNativeCon Seattle 2018)](https://www.youtube.com/watch?v=pwVsFHy2EdE)
 
+#### DEVOPS - KUBERNETES - SAMPLE APPS
+
+* [Kubernetes Examples - Kubernetes](https://github.com/kubernetes/examples)
+* [Sam's Robot Shop - Instana](https://github.com/instana/robot-shop/tree/master/K8s/descriptors)
+
 #### DEVOPS - KUBERNETES - SECURITY
 
 * [Distroless: Language-focused Docker images, minus the operating system (truly minimal) - Google](https://github.com/GoogleContainerTools/distroless)
@@ -2313,7 +2323,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### DEVOPS - KUBERNETES - STERN
 
-* [Multi pod and container log tailing for Kubernetes](https://github.com/wercker/stern)
+* [Stern: Multi pod and container log tailing for Kubernetes](https://github.com/wercker/stern)
 
 #### DEVOPS - KUBERNETES - TELEPRESENCE
 
@@ -2443,6 +2453,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Stateful Service Design Considerations for the Kubernetes Stack - Jonas Bonér](https://www.infoq.com/articles/stateful-service-design-kubernetes)
 * [Building Scalable Stateful Services - Caitie McCaffrey (Curry On 2016)](https://www.youtube.com/watch?v=aJFxQAAMAQc) & [Building Scalable Stateful Services - Caitie McCaffrey (StrangeLoop 2015)](https://www.youtube.com/watch?v=H0i_bXKwujQ)
+* [Kubernetes: A Detailed Example of Deployment of a Stateful Application - Srikanth Koraveni](https://medium.com/better-programming/kubernetes-a-detailed-example-of-deployment-of-a-stateful-application-de3de33c8632)
 
 ### DEVOPS - TEKTON
 
@@ -4587,6 +4598,7 @@ Peter R. Egli:
 * [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 * [The Rust Programming Language (book)](https://doc.rust-lang.org/stable/book/foreword.html) | [Print version savable as PDF](https://doc.rust-lang.org/book/print.html) | or display in browser using "rustup doc --book" on the command line
 * Rust By Example (book / collection of runnable examples): [Online](https://doc.rust-lang.org/rust-by-example/) & [Github (instructions for offline)](https://github.com/rust-lang/rust-by-example)
+* [The Rust Rand book](https://rust-random.github.io/book/)
 * [Rust Crash Course - Traversy Media](https://www.youtube.com/watch?v=zF34dRivLOw)
 * [Rust Videos - YouCodeThings](https://www.youtube.com/playlist?list=PLVT0QN6kDrbd3KZr4EkBNvjSDTaZyxwhM)
 * [Intro to Rust - Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW)

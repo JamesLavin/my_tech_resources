@@ -715,7 +715,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - PHOENIX
 
-* [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix)
+* [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix) | [Website](http://www.phoenixframework.org)
 * [Phoenix Phrenzy](https://phoenixphrenzy.com/results)
 * [Keynote: Phoenix 1.3 - Chris McCord (Lonestar ElixirConf 2017)](https://www.youtube.com/watch?v=tMO28ar0lW8) & [discussion](https://elixirforum.com/t/lonestar-elixirconf-2017-keynote-phoenix-1-3-by-chris-mccord/3908/12)
 * [Stateful Web Apps with Phoenix and OTP - Hannah Howard (Erlang & Elixir Factory SF 2017)](https://www.youtube.com/watch?v=rX6tC5K_XaI)
@@ -743,7 +743,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Trello clone with Phoenix and React - Ricardo García Vega](https://blog.diacode.com/trello-clone-with-phoenix-and-react-pt-1)
 * Elixirdose.com Phoenix tutorial: [Part 1](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix) | [Part 2](http://www.elixirdose.com/post/elixirdose_intro_to_phoenix_2) | [Part 3](http://www.elixirdose.com/post/Phoenix%20Part%203) | [Part 4](http://www.elixirdose.com/post/Phoenix%20Part%204) | [Part 5](http://www.elixirdose.com/post/phoenix_part_5_deploying_phoenix_the_final_part)
 * [Elixir Cocktails (blog)](https://www.amberbit.com/elixir-cocktails)
-* [PhoenixFramework.org](http://www.phoenixframework.org)
 * [Build and test a blazing fast JSON API with Phoenix, an Elixir framework - Paul Smith](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
 * [The Changelog: "Elixir and Phoenix with Chris McCord"](http://5by5.tv/changelog/147)
 * [Basic web app with Phoenix - Michael Eatherly](http://meatherly.github.io/2015/05/04/phoenixlivelikeawarrior/) & [Phoenix app with authentication - Michael Eatherly](http://meatherly.github.io/2015/05/11/phoenixauthentication/)
@@ -829,8 +828,12 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ELIXIR - PHOENIX - LIVE VIEW
 
+* [Phoenix Live View](https://github.com/phoenixframework/phoenix_live_view)
 * [Phoenix Live View: A step-change for web development - Chris McCord (ElixirConf 2019)](https://www.youtube.com/watch?v=XhNv1ikZNLs)
 * Beyond LiveView: Real-Time Features with Phoenix LiveView, PubSub, Presence, and Channels - Sophie DeBenedetto: [(The Big Elixir 2019)](https://www.youtube.com/watch?v=yo8Y1SUGW1w) | [(ElixirConf 2019)](https://www.youtube.com/watch?v=AbNAuOQ8wBE)
+* [Walk-Through of Phoenix LiveView - Sophie DeBenedetto](https://elixirschool.com/blog/phoenix-live-view/)
+* [Building a Table Sort UI with Live View's 'live_link' - Sophie DeBenedetto](https://elixirschool.com/blog/sorting-a-table-with-live-view-live-links/)
+* [Tracking Users in a Chat App with LiveView, PubSub Presence - Sophie DeBenedetto](https://elixirschool.com/blog/live-view-with-presence/)
 * [Phoenix LiveView Demystified - Alex Garibay (ElixirConf 2019)](https://www.youtube.com/watch?v=9eOo8hSbMAc)
 * [Phoenix LiveView - Interactive, Real TIme Apps - No need to write Javascript - Chris McCord (ElixirConf EU 2019)](https://www.youtube.com/watch?v=8xJzHq8ru0M) & [Dec 2018 blog post](https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript)
 * [Building and Playing the Go Game with Phoenix LiveView - Jeff Kreeftmeijer](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html)

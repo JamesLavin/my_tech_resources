@@ -416,6 +416,11 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * JavaScript Fundamentals 101: [20) Event Delegation](https://www.youtube.com/watch?v=F7FFhsHz0ew)
 * [Javascript: Understanding the Weird Parts - The First 3.5 Hours - Tony Alicea](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
 
+### JAVASCRIPT - GREMLIN
+
+* [Gremlin-JavaScript](http://tinkerpop.apache.org/docs/current/reference/#gremlin-javascript)
+* John Darrington: [CosmosDB + Gremlin + TypeScript = :|](https://notyourlanguage.com/post/cosmos_db/) | [TypeScript and Gremlin: Part 1](https://notyourlanguage.com/post/gremlin-typescript-1/) | [TypeScript and Gremlin: Part 2](https://notyourlanguage.com/post/gremlin-typescript-2/)
+
 ### JAVASCRIPT - GRUNT (AUTOMATED TASK RUNNER)
 
 * [Grunt](http://gruntjs.com/)
@@ -581,6 +586,10 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 ### JAVASCRIPT - TYPESCRIPT
 
 * [TypeScript Deep Dive - Basarat Ali Syed](https://legacy.gitbook.com/book/basarat/typescript/details) | [PDF](https://react-etc.net/files/typescript-book/typescript.pdf)
+
+#### JAVASCRIPT - TYPESCRIPT - GRAPHQL
+
+* type-graphql - Create GraphQL schema and resolvers with TypeScript, using classes and decorators: [Github](https://github.com/MichalLytek/type-graphql) | [Website](https://typegraphql.ml/)
 
 ### JAVASCRIPT - TOOLS
 
