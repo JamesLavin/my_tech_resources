@@ -4048,7 +4048,7 @@ Peter R. Egli:
 * Calcurse: calendar and scheduling application for the command line: [Calcurse.org](https://calcurse.org/) | [Manual](https://calcurse.org/files/manual.html)
 * [ditaa: DIagrams Through Ascii Art](http://ditaa.sourceforge.net/)
 * Gnuplot: [Homepage](http://www.gnuplot.info/) | [Demo gallery](http://gnuplot.sourceforge.net/demo/) | [Docs](http://www.gnuplot.info/documentation.html)
-* GraphViz: open source graph visualization software: [Generate](https://graphs.grevian.org/graph) | [Pocket reference](https://graphs.grevian.org/example) | [Reference](https://graphs.grevian.org/reference) | [GraphViz.org](http://graphviz.org/) | [Wikipedia](https://en.wikipedia.org/wiki/DOT_(graph_description_language))
+* GraphViz: open source graph visualization software: [Generate](https://graphs.grevian.org/graph) | [Pocket reference](https://graphs.grevian.org/example) | [Reference](https://graphs.grevian.org/reference) | [GraphViz.it](http://graphviz.it) | [GraphViz.org](http://graphviz.org/) | [Wikipedia](https://en.wikipedia.org/wiki/DOT_(graph_description_language))
 * [Haskell Diagrams package](https://archives.haskell.org/projects.haskell.org/diagrams/gallery.html)
 * Joplin: Open-source note taking & to-do application with synch capabilities: [JoplinApp.org](https://joplinapp.org/) | [Github](https://github.com/laurent22/joplin/) | [Discourse](https://discourse.joplinapp.org/)
 * [JS-Sequence-Diagrams](https://bramp.github.io/js-sequence-diagrams/)

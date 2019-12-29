@@ -61,8 +61,14 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 
 ### JAVASCRIPT - ASYNCHRONOUS
 
+* [The Evolution of Async JavaScript: From Callbacks, to Promises, to Async/Await - Tyler McGinnis](https://www.youtube.com/watch?v=gB-OmN1egV8)
 * [Syncing Async -  Kyle Simpson](http://www.confreaks.tv/videos/4611-e4e2014-syncing-async) & [Promises: The Sync Problem, part 1](http://blog.getify.com/promises-part-1), [part 2](http://blog.getify.com/promises-part-2/), [part 3](http://blog.getify.com/promises-part-3/), [part 4](http://blog.getify.com/promises-part-4/) [part 5](http://blog.getify.com/promises-part-5/)
+* [The Async Await Episode I Promised - Fireship](https://www.youtube.com/watch?v=vn3tm0quoqE)
+* [Async JS Crash Course - Callbacks, Promises, Async Await - Traversy Media](https://www.youtube.com/watch?v=PoRJizFvM7s)
+* [Async/Await: Modern Concurrency In JavaScript - Simon Sturmer](https://www.youtube.com/watch?v=NsQ2QIrQShU)
+* WebDev Simplified: [JavaScript Promises In 10 Minutes](https://www.youtube.com/watch?v=DHvZLI7Db8E) & [JavaScript Async Await](https://www.youtube.com/watch?v=V_Kr9OSfDeU)
 * [Promises, Promises - Domenic Denicola](http://www.youtube.com/watch?v=MNxnHbyzhuo)
+* [ASYNC + AWAIT (or How To Write Syncronous Looking Code, Without The Wait) - Wes Bos](https://www.youtube.com/watch?v=BDqZLfBFeGk)
 * [Promises in Javascript - Paul Mooney](http://www.youtube.com/watch?v=SI325Bczx7Y)
 * [JavaScript Promises: There and back again - ES6](http://www.html5rocks.com/en/tutorials/es6/promises/)
 * [Promise Anti-Patterns](http://taoofcode.net/promise-anti-patterns/)
@@ -349,6 +355,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 
 * [Functional Programming Basics in ES6 (JavaScript) - Jeremy Fairbank (Scenic City Summit 2016)](https://www.youtube.com/watch?v=HvMemAgOw6I)
 * [Practical Functional Programming in JavaScript - Ben Katz](https://www.youtube.com/watch?v=zeZOPB9uxdE)
+* [JavaScript Higher Order Functions & Arrays - Traversy Media](https://www.youtube.com/watch?v=rRgD1yVwIvE)
 * [A Skeptic's Guide To Functional STYLE JavaScript - Jonathan Mills (NEJS Conf 2017)](https://www.youtube.com/watch?v=oF9XTJoScOE)
 * [Does Javascript Adopt Functional Programming? - Yoav Luft (Lambda Days 19)](https://www.youtube.com/watch?v=XPOIVavv41Q)
 * [A Gentle Introduction to Functional JavaScript - Pratik Patel](https://www.youtube.com/watch?v=PyKZMY-_TI8)
@@ -444,6 +451,10 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [14 Days of JQuery](http://jquery14.com/)
 * [TutorialsPoint.com](http://www.tutorialspoint.com/jquery/)
 
+### JAVASCRIPT - LOADING / DEFER
+
+* [What Is The Fastest Way To Load JavaScript - WebDev Simplified](https://www.youtube.com/watch?v=BMuFBYw91UQ)
+
 ### JAVASCRIPT - MACHINE LEARNING
 
 * Encog: [tutorial](http://www.codeproject.com/Articles/477689/JavaScript-Machine-Learning-and-Neural-Networks-wi), [examples](http://www.heatonresearch.com/fun), [Github](https://github.com/encog/encog-javascript)
@@ -456,6 +467,11 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 
 * [Meteor.js](https://www.meteor.com/)
 * [Meteor -Web Development Like You've Never Seen - Matt Debergalis (QCon 2013)](http://www.infoq.com/presentations/meteor-web)
+
+### JAVASCRIPT - MODULES
+
+* [JavaScript ES6 Modules - WebDev Simplified](https://www.youtube.com/watch?v=cRHQNNcYf6s)
+* [JavaScript Modules: From IIFEs to CommonJS to ES6 Modules - Tyler McGinnis](https://www.youtube.com/watch?v=qJWALEoGge4)
 
 ### JAVASCRIPT - MONITORING
 

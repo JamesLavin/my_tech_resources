@@ -820,6 +820,10 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [phoenix-trello](https://github.com/bigardone/phoenix-trello)
 
+#### ELIXIR - PHOENIX - JAVASCRIPT/TYPESCRIPT
+
+* [Elixir Phoenix with Typescript and React – December 2019 Edition - Alistair A. Israel](https://dev.to/aisrael/elixir-phoenix-with-typescript-and-react-december-2019-edition-39l4)
+
 #### ELIXIR - PHOENIX - JSON
 
 * [Awesome Elixir: JSON](https://github.com/h4cc/awesome-elixir#json)
@@ -1011,6 +1015,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [TDD is not about testing - Gianluca Padovani (Code BEAM STO 19)](https://www.youtube.com/watch?v=AVKpChQoXXE)
 * [Testing in an Elixir world - Rafael Rocha (Code BEAM STO 19)](https://www.youtube.com/watch?v=M8rv-gvTG-M)
+* [4 Tips for Mastering Test-Driven Development - Nicolas Talfer](https://www.welcometothejungle.com/fr/articles/tips-test-driven-development)
 * [Track-switching in a large Elixir web application - 9elements](https://medium.com/9elements/track-switching-in-a-large-elixir-web-application-31522d5ac457)
 * [Lightweight dependency injection in Elixir (without the tears) - Andrew Hao](https://blog.carbonfive.com/2018/03/19/lightweight-dependency-injection-in-elixir-without-the-tears/)
 * [Mocks and explicit contracts - José Valim](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
@@ -1384,7 +1389,6 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Security versus interoperability - Ingela Anderton Andin (Code BEAM STO 19)](https://www.youtube.com/watch?v=dR5Gn7dI9vo)
 
 ### ERLANG - TESTING
-
 
 #### ERLANG - TESTING - LOAD TESTING
 
