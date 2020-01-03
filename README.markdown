@@ -3182,6 +3182,13 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Using Web Workers (Mozilla MDN)](https://developer.mozilla.org/en-US/docs/Web/Guide/Performance/Using_web_workers)
 * [JavaScript for Experienced Developers: Web Workers - Microsoft Virtual Academy](https://www.youtube.com/watch?v=LrK5HudphWY)
 
+## ICONS
+
+* [Font Awesome](https://fontawesome.com/)
+* [The Noun Project: Icons for Everything](https://thenounproject.com/)
+* [iconmonstr](https://iconmonstr.com/)
+* [Behance](https://www.behance.net/search?content=projects&sort=appreciations&time=week&search=free%20icons)
+
 ## IDRIS
 
 * [Idris 2 - Type-driven Development of Idris - Edwin Brady (Curry On London! 2019)](https://www.youtube.com/watch?v=DRq2NgeFcO0)
@@ -3863,6 +3870,7 @@ Peter R. Egli:
 * [Awesome Postgres - Asad Dhamani](https://github.com/dhamaniasad/awesome-postgres)
 * [PostgreSQL - TutorialsPoint.com](https://www.tutorialspoint.com/postgresql/postgresql_tutorial.pdf)
 * [Mastering PostgreSQL Administration - Bruce Momjian](https://momjian.us/main/writings/pgsql/administration.pdf)
+* [The Art of PostgreSQL - Dimitri Fontaine](https://theartofpostgresql.com/) ($ non-free $)
 * [Official FAQ](http://wiki.postgresql.org/wiki/FAQ)
 * [PostgreSQL Exercises](https://pgexercises.com/)
 * [PostgresWeekly.com](http://postgresweekly.com/)

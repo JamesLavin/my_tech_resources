@@ -102,7 +102,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [Using Backbone.js With Rails: Patterns from the Wild - Sarah Mei (RailsConf 2012)](http://confreaks.tv/videos/861-railsconf2012-using-backbone-js-with-rails-patterns-from-the-wild)
 * [Growing Up with Backbone - Tim Branyen](http://www.youtube.com/watch?v=iBffGfUfC1c)
 * [Evening on Backbone.js/Views w/ Q&A with David Heinemeier Hansson](http://www.youtube.com/watch?v=FkLVl3gpJP4) - Intro to Rails followed by DHH arguing for Rails-generated (and "Russian-doll cached") HTML+JavaScript over client-side MVC except for the most complex cases
-* [Anatomy of Backbone - CodeSchool (non-free)](http://www.codeschool.com/courses/anatomy-of-backbonejs)
+* [Backbone courses - Pluralsight.com](https://www.pluralsight.com/search?q=backbone) ($ non-free $)
 * [Introduction to Backbone.js Part 1: Models Tutorial](http://www.youtube.com/watch?v=uYIzpHjPgXE) - First of a series of free videos all viewable on Youtube
 * [Structuring Complex Backbone.js Apps](http://www.mikkolehtinen.com/blog/2012/08/03/structuring-complex-backbone-dot-js-apps/)
 * [Dependency Injection for Fun and Profit - Sam Breed (BackboneConf 2013)](http://www.youtube.com/watch?v=Lm05e5sJaE8)
@@ -176,7 +176,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [CoffeeScript Presentation: Code Like You Talk - Omer Sensoy](https://www.youtube.com/watch?v=-_arPK51bUo)
 * [CoffeeScript: The Cool Parts - Charles Wood](https://www.youtube.com/watch?v=43P0kWswWWI)
 * [CoffeeScript - SDRuby](http://www.sdruby.org/podcast/90)
-* [CodeSchool.com (non-free)](http://coffeescript.codeschool.com/)
+* [CoffeeScript Fundamentals - Liam McLennan (Pluralsight.com)](https://www.pluralsight.com/courses/coffeescript-fundamentals) ($ non-free $)
 * [coffee-rails-source-maps](https://github.com/markbates/coffee-rails-source-maps)
 
 ### JAVASCRIPT - CRYPTON (ENCRYPTED DATA API)
@@ -209,6 +209,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 ### JAVASCRIPT - DOM
 
 * Javascript DOM Crash Course - Traversy Media: [Part 1](https://www.youtube.com/watch?v=0ik6X4DJKCc) | [Part 2](https://www.youtube.com/watch?v=mPd2aJXCZ2g) | [Part 3](https://www.youtube.com/watch?v=wK2cBMcDTss) | [Part 4](https://www.youtube.com/watch?v=i37KVt_IcXw)
+* [Creating Nodes in the DOM](https://www.youtube.com/watch?v=RQ40ZilvCOg) | [Adding Nodes to the DOM]() | [Traversing the DOM](https://www.youtube.com/watch?v=8LWQNnVAMh4)
 * [Intro to the DOM - Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 * [Learn JavaScript By Building a Bookmarker Application - Traversy Media](https://www.youtube.com/watch?v=DIVfDZZeGxM)
 * [JavaScript DOM Tutorial - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V)
@@ -601,7 +602,15 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 
 ### JAVASCRIPT - TYPESCRIPT
 
+* TypeScriptLang.org: [Docs](https://www.typescriptlang.org/docs/home.html) | [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) | [Basic Types](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 * [TypeScript Deep Dive - Basarat Ali Syed](https://legacy.gitbook.com/book/basarat/typescript/details) | [PDF](https://react-etc.net/files/typescript-book/typescript.pdf)
+* [Get Started With Typescript in 2019 - Robert Cooper](https://www.robertcooper.me/get-started-with-typescript-in-2019)
+* [TypeScript 3 Fundamentals, v2 - Mike North (FrontendMasters.com)](https://frontendmasters.com/courses/typescript-v2/) ($ non-free $)
+* [Programming With Types - Vlad Riscutia](https://www.manning.com/books/programming-with-types) ($ non-free $)
+
+#### JAVASCRIPT - TYPESCRIPT - DEFINITELY TYPED
+
+* Definitely Typed: The repository for high quality TypeScript type definitions: [Website](http://definitelytyped.org/) | [Github](https://github.com/DefinitelyTyped/DefinitelyTyped)
 
 #### JAVASCRIPT - TYPESCRIPT - GRAPHQL
 
