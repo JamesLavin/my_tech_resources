@@ -688,6 +688,11 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 * [Wheel](https://pypi.python.org/pypi/wheel)
 * [PythonWheels.com](http://pythonwheels.com/)
 
+### PYTHON - NATURAL LANGUAGE PROCESSING (NLP)
+
+* [PyText: A Seamless Path From NLP Research to Production](https://research.fb.com/publications/pytext-a-seamless-path-from-nlp-research-to-production://research.fb.com/publications/pytext-a-seamless-path-from-nlp-research-to-production/)
+* [PyTorch-NLP](https://pytorchnlp.readthedocs.io/en/latest/)
+
 ### PYTHON - PERFORMANCE
 
 * [Fast Python, Slow Python - Alex Gaynor (PyCon 2014)](https://www.youtube.com/watch?v=7eeEf_rAJds)
@@ -722,7 +727,6 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 ### PYTHON - PYTORCH
 
 * PyTorch: [Documentation](https://pytext-pytext.readthedocs-hosted.com/en/latest/)
-* [PyText: A Seamless Path From NLP Research to Production](https://research.fb.com/publications/pytext-a-seamless-path-from-nlp-research-to-production://research.fb.com/publications/pytext-a-seamless-path-from-nlp-research-to-production/)
 * Artificial Intelligence - Leonardo Araujo dos Santos: [Downloadable PDF](https://legacy.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details) | [Online version](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/pytorch.html)
 
 ### PYTHON - SPYDER

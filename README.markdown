@@ -562,6 +562,17 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How to Make a Chrome Extension - Gabe Berke-Williams](https://robots.thoughtbot.com/how-to-make-a-chrome-extension)
 * [Extensionizr: Start a Chrome extension in 15 seconds](http://extensionizr.com)
 
+#### BROWSERS - PLUGINS/EXTENSIONS - FIREFOX
+
+* [WebExtensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
+    * [Your first extension](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension)
+    * [Your second extension](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_second_WebExtension)
+    * [Anatomy of an extension](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Anatomy_of_a_WebExtension)
+    * [Firefox workflow](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Firefox_workflow_overview)
+    * [Example extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Examples) | [webextensions-examples](https://github.com/mdn/webextensions-examples)
+    * [JavaScript APIs](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API)
+        * [Browser support for JavaScript APIs](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs)
+
 ### BROWSERS - WEBRTC
 
 * [High Performance Browser Networking](https://hpbn.co/)
@@ -840,6 +851,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## CLEAN CODE
 
+* [How To Write Unmaintainable Code: Ensure a job for life ;-) - Roedy Green](https://www.se.rit.edu/~tabeec/RIT_441/Resources_files/How%20To%20Write%20Unmaintainable%20Code.pdf)
 * [Making It Count: Quality is NOT an Option - Todd Montgomery (GOTO 2018)](https://www.youtube.com/watch?v=LTZdmb5-8n8)
 * [Is Your Code Too SOLID? - Sarah Mei](http://forwardjs.com/university/is-your-code-too-solid)
 * [Move Slow and Mend Things - Kevlin Henney (VoxxedDays Zurich 2018)](https://www.youtube.com/watch?v=6j9Yl6fNMmc) & [[Devoxx Belgium 2017)](https://www.youtube.com/watch?v=1kklyq4XYpw)
@@ -1011,16 +1023,37 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Title](https://bulma.io/documentation/elements/title/)
   * [Extensions](https://wikiki.github.io)
 * [Learn Bulma CSS for free - Zaydek](https://scrimba.com/g/gbulma)
+* [Bulma videos](https://bulma.io/videos/)
 * [Bulma CSS Framework Crash Course - Traversy Media](https://www.youtube.com/watch?v=IiPQYQT2-wg)
-* [Bulmaswatch: Free themes for Bulma](https://jenil.github.io/bulmaswatch/)
 * [Learn Bulma in 5 Minutes - Per Harald Borgen](https://medium.freecodecamp.org/learn-bulma-in-5-minutes-ec5188c53e83)
 * [Bulma: CSS framework you should consider in 2018 - Mateusz](https://matwrites.com/bulma-css-framework-for-2018/)
+
+#### CSS - BULMA - BUEFY
+
+* [Buefy: Lightweight UI components for Vue.js based on Bulma](https://buefy.org/)
 
 #### CSS - BULMA - JAVASCRIPT
 
 * [JavaScript for Bulma: Tabs - Travis Media](https://www.youtube.com/watch?v=jsevCC_nlHc)
 * [JavaScript for Bulma: Modals - Travis Media](https://www.youtube.com/watch?v=h11FMQ2lPGI)
 * [JavaScript Zipcode App Using Fetch & Bulma CSS - Traversy Media](https://www.youtube.com/watch?v=K3GfUH7AZKs)
+
+#### CSS - BULMA - PLUGINS
+
+* [Bulma Extensions](https://bulma.io/extensions/) & [Wiki](https://wikiki.github.io/)
+* [Bootstrap Table](https://github.com/wenzhixin/bootstrap-table) & [examples](https://examples.bootstrap-table.com/)
+* [Bulma-social: Social sign-in buttons - Aldi Duzha](https://github.com/aldi/bulma-social)
+
+#### CSS - BULMA - TEMPLATES & THEMES
+
+* [Bulma Templates](https://bulmatemplates.github.io/bulma-templates/) & [Github](https://github.com/BulmaTemplates/bulma-templates)
+* [Bulma Themes](https://bulmathemes.com)
+* [Bulma Swatch: free Bulma themes](https://jenil.github.io/bulmaswatch/)
+* [Awesome Bulma Templates](https://github.com/aldi/awesome-bulma-templates)
+* [Bulma Expo](https://bulma.io/expo/)
+* [Bulma Builder](https://bulma.dev/) ($ non-free $)
+* [Bulma Style](https://bulmastyle.com/) ($ non-free $)
+* [Creative Bulma](https://creativebulma.net/) ($ non-free $)
 
 #### CSS - BULMA - VIDEOS
 
@@ -1801,6 +1834,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### DEVOPS - DOCKER - MICROCONTAINERS
 
 * [Microcontainers – Tiny, Portable Docker Containers - Iron.io](http://www.iron.io/blog/2016/01/microcontainers-tiny-portable-containers.html)
+* [How to Build Slim Docker Images Fast - Simon Hawe](https://towardsdatascience.com/how-to-build-slim-docker-images-fast-ecc246d7f4a7)
 * [Uber tiny Docker images for all the things (Ruby, Elixir, Python, etc.) - Iron.io](https://github.com/iron-io/dockers)
 * [LinuxKit: Toolkit for building secure, portable and lean operating systems for containers](https://github.com/linuxkit/linuxkit)
 
@@ -2799,6 +2833,8 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Types and Tests at The Gilded Rose - Richard Feldman (Elm in the Spring)](https://www.youtube.com/watch?v=51O63Sb-Ae0)
 * [Type theory in practice - Gabriel Habryn (Lambda Days 19)](https://www.youtube.com/watch?v=aW6ZVQwbuak)
+* [Parse, don’t validate - Alexis King](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+* [No, dynamic type systems are not inherently more open - Alexis King](https://lexi-lambda.github.io/blog/2020/01/19/no-dynamic-type-systems-are-not-inherently-more-open/)
 * [Why Type Theory Matters - Thorsten Altenkirch (Lambda Days 2019)](https://www.youtube.com/watch?v=DllYOFw5Qio)
 * [Typing the Untyped: Soundness in Gradual Type Systems - Ben Weissmann](https://www.youtube.com/watch?v=uJHD2xyv7xo) (great discussion of covariance, invariance, and contravariance)
 

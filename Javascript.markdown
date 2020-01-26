@@ -145,6 +145,10 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [No More 'Grunt Watch': Modern build workflows with Broccoli (EmberConf 2014)](https://www.youtube.com/watch?v=PEb4BiXH4bE)
 * [Getting Started With Broccoli and Ember.js](http://ampersate.com/getting-started-with-broccoli-and-emberjs)
 
+### JAVASCRIPT - CHARTS
+
+* [Chartist.js: Simple responsive charts](https://gionkunz.github.io/chartist-js/)
+
 ### JAVASCRIPT - CLEAN CODE
 
 * 7 Patterns to Refactor JavaScript Applications - Michael Phillips: [Value Objects](https://blog.engineyard.com/2015/7-patterns-refactor-javascript-value-objects) | [Service Objects](https://blog.engineyard.com/2015/7-patterns-refactor-javascript-service-objects) | [Form Objects](https://blog.engineyard.com/2015/7-patterns-refactor-javascript-form-objects) | [Query Objects](https://blog.engineyard.com/2015/7-patterns-refactor-javascript-query-objects) | [Policy Objects](https://blog.engineyard.com/2015/7-patterns-refactor-javascript-query-objects) | [Decorators](https://blog.engineyard.com/2015/7-patterns-refactor-javascript-decorators)
@@ -477,6 +481,13 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 ### JAVASCRIPT - MONITORING
 
 * [Spy-JS.com (JavaScript tracing tool)](https://github.com/spy-js/spy-js)
+
+### JAVASCRIPT - NATURAL LANGUAGE PROCESSING (NLP)
+
+* [Compromise: Modest NLP](https://github.com/spencermountain/compromise) | [Website](http://compromise.cool/) | [Natural Language Processing... in the Browser??? - Charles Landau](https://dev.to/charlesdlandau/natural-language-processing-in-the-browser-52hj)
+* [Natural](https://www.npmjs.com/package/natural)
+* [NLP.js (node-nlp)](https://www.npmjs.com/package/node-nlp)
+* [Retext](https://www.npmjs.com/package/retext)
 
 ### JAVASCRIPT - PACKAGE MANAGERS (CURRENTLY A HUGE PITA)
 
