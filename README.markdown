@@ -1452,9 +1452,13 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DATABASES - GRAPH DATABASES - GREMLIN/TINKERPOP
 
-* Apache Tinkerpop: [Website](http://tinkerpop.apache.org/) | [Docs](http://tinkerpop.apache.org/docs/current/reference/)
-* [SQL2Gremlin](http://sql2gremlin.com/)
+* Apache Tinkerpop: [Website](http://tinkerpop.apache.org/) | [Docs](http://tinkerpop.apache.org/docs/current/reference/) | [Getting Started](http://tinkerpop.apache.org/docs/3.4.4/tutorials/getting-started/) | [Gremlin Console](http://tinkerpop.apache.org/docs/3.4.4/tutorials/the-gremlin-console/) | [Gremlin's Anatomy](http://tinkerpop.apache.org/docs/3.4.4/tutorials/gremlins-anatomy/) | [Gremlin Recipes](http://tinkerpop.apache.org/docs/3.4.4/recipes/) | [Language Variants](http://tinkerpop.apache.org/docs/3.4.4/tutorials/gremlin-language-variants/)
+* [SQL2Gremlin: transition from SQL to Gremlin - Daniel Kuppitz](http://sql2gremlin.com/)
 * Practical Gremlin: An Apache TinkerPop Tutorial (book) - Kelvin R. Lawrence: [HTML](http://kelvinlawrence.net/book/Gremlin-Graph-Guide.html) | [PDF](https://kelvinlawrence.net/book/Gremlin-Graph-Guide.pdf) | [Github](https://github.com/krlawrence/graph)
+* [The Gremlin Compendium, minimum survival kit for any Gremlin user - Doan DuyHai](http://www.doanduyhai.com/blog/?p=13460)
+
+##### DATABASES - GRAPH DATABASES - GREMLIN/TINKERPOP - GRAPHEXP
+
 * [graphexp: Interactive visualization of the Gremlin graph database with D3.js - Benjamin Ricaud](https://github.com/bricaud/graphexp)
 
 #### DATABASES - GRAPH DATABASES - OWLREADY
@@ -1520,6 +1524,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * JanusGraph: [Website](http://janusgraph.org/) | [Github](https://github.com/JanusGraph/janusgraph/) | [Documentation](http://docs.janusgraph.org/latest/) | [Getting Started](http://docs.janusgraph.org/latest/getting-started.html)
 * [Intro to JanusGraph Database - Jason Plurad, IBM (KubeCon + CloudNativeCon China 2019)](https://www.youtube.com/watch?v=_3YP3QI_cYk)
 * [JanusGraph Helm chart](https://github.com/helm/charts/tree/master/stable/janusgraph)
+* [Query Analysis on a Distributed Graph Database - Lucie Svitakova](https://dspace.cvut.cz/bitstream/handle/10467/80246/F8-DP-2019-Svitakova-Lucie-thesis.pdf)
 
 ### DATABASES - KINTO
 
@@ -2189,30 +2194,40 @@ See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 * [Helm Hub](https://hub.helm.sh/)
 * [KubeApps.com (Helm charts)](https://hub.kubeapps.com/)
 * [Awesome-Helm](https://github.com/cdwv/awesome-helm)
+* [Chart Museum](https://hub.helm.sh/charts/stable/chartmuseum)
 * [CockroachDB](https://hub.kubeapps.com/charts/stable/cockroachdb)
-* [CouchDB](https://hub.kubeapps.com/charts/incubator/couchdb)
+* [CouchDB](https://hub.kubeapps.com/charts/couchdb/couchdb)
+* [Dask](https://hub.helm.sh/charts/dask/dask)
 * [Docker Registry](https://hub.kubeapps.com/charts/stable/docker-registry)
+* [Gitlab](https://hub.helm.sh/charts/gitlab/gitlab)
 * [Grafana](https://hub.kubeapps.com/charts/stable/grafana)
 * [Graphite](https://hub.kubeapps.com/charts/stable/graphite)
 * [JanusGraph](https://hub.kubeapps.com/charts/stable/janusgraph)
 * [Jenkins](https://hub.kubeapps.com/charts/stable/jenkins)
-* [Kafka (Bitnami)](https://hub.kubeapps.com/charts/bitnami/kafka)
-* [Kafka (incubator)](https://hub.kubeapps.com/charts/incubator/kafka)
+* [JMeter](https://hub.helm.sh/charts/stable/distributed-jmeter)
+* [Kafka (Bitnami)](https://hub.helm.sh/charts/bitnami/kafka)
+* [Kafka (incubator)](https://hub.helm.sh/charts/incubator/kafka)
+* [Kafka Manager](https://hub.helm.sh/charts/stable/kafka-manager)
 * [Kibana](https://hub.kubeapps.com/charts/stable/kibana)
 * [Kong](https://hub.kubeapps.com/charts/stable/kong)
 * [Kubernetes Dashboard](https://hub.kubeapps.com/charts/stable/kubernetes-dashboard)
 * [Kubernetes Operational View](https://hub.kubeapps.com/charts/stable/kube-ops-view)
 * [Kubernetes Vault](https://hub.kubeapps.com/charts/incubator/kubernetes-vault)
 * [Kubewatch](https://hub.kubeapps.com/charts/incubator/kubewatch)
+* [Memcached](https://hub.helm.sh/charts/stable/memcached)
+* [MongoDB](https://hub.helm.sh/charts/incubator/mongodb)
+* [MySQL](https://hub.helm.sh/charts/stable/mysql)
 * [Neo4J](https://hub.kubeapps.com/charts/stable/neo4j)
 * [Nginx Ingress](https://hub.kubeapps.com/charts/stable/nginx-ingress) (see also [Nginx on Docker Hub](https://hub.docker.com/_/nginx/))
 * [PostgreSQL](https://hub.kubeapps.com/charts/stable/postgresql)
+* [PGAdmin](https://hub.helm.sh/charts/stable/pgadmin)
 * [Prometheus](https://hub.kubeapps.com/charts/stable/prometheus)
-* [Redis](https://hub.kubeapps.com/charts/stable/redis)
+* [RabbitMQ](https://hub.helm.sh/charts/stable/rabbitmq-ha)
+* [Redis](https://hub.helm.sh/charts/stable/redis-ha)
 * [Schema Registry](https://hub.kubeapps.com/charts/incubator/schema-registry)
 * [Selenium](https://hub.kubeapps.com/charts/stable/selenium)
-* [Spark](https://hub.kubeapps.com/charts/stable/spark)
-* [Spinnaker](https://hub.kubeapps.com/charts/stable/spinnaker)
+* [Spark](https://hub.helm.sh/charts/stable/spark)
+* [Spinnaker](https://hub.helm.sh/charts/stable/spinnaker)
 * [Vault](https://hub.kubeapps.com/charts/incubator/vault)
 * [Zeppelin](https://hub.kubeapps.com/charts/stable/zeppelin)
 
