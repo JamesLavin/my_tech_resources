@@ -823,6 +823,8 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ELIXIR - PHOENIX - JAVASCRIPT/TYPESCRIPT
 
 * [Elixir Phoenix with Typescript and React – December 2019 Edition - Alistair A. Israel](https://dev.to/aisrael/elixir-phoenix-with-typescript-and-react-december-2019-edition-39l4)
+* [Set Up Phoenix with Svelte+Rollup - Joshua Nussbaum](https://dev.to/joshnuss/setup-phoenix-with-svelte-rollup-36dk)
+* [elixir-svelte-render - Ben Woodward](https://github.com/benwoodward/elixir_svelte_render)
 
 #### ELIXIR - PHOENIX - JSON
 

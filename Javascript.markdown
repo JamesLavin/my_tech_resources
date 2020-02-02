@@ -489,11 +489,14 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [NLP.js (node-nlp)](https://www.npmjs.com/package/node-nlp)
 * [Retext](https://www.npmjs.com/package/retext)
 
-### JAVASCRIPT - PACKAGE MANAGERS (CURRENTLY A HUGE PITA)
+### JAVASCRIPT - PACKAGE MANAGERS
 
 * [Bower](http://twitter.github.com/bower/) [Github](https://github.com/twitter/bower)
 * [JamJS](http://jamjs.org/) [Github](https://github.com/caolan/jam)
 * [Require.js](http://requirejs.org/)
+* [Rollup.js](https://rollupjs.org/guide/en/)
+* [Webpack](https://webpack.js.org/)
+* [Yarn](https://yarnpkg.com/)
 
 ### JAVASCRIPT - PARCEL
 
@@ -579,6 +582,19 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [Service Workers: An Intro - Matt Gaunt](https://developers.google.com/web/fundamentals/primers/service-workers)
 * [Intro to Service Worker - Google Developers](https://developers.google.com/web/ilt/pwa/introduction-to-service-worker)
 * [Service Worker Cookbook - Mozilla](https://serviceworke.rs/)
+
+### JAVASCRIPT - SVELTE
+
+* Svelte: [Tutorial](https://svelte.dev/tutorial/basics) | [API](https://svelte.dev/docs) | [Examples](https://svelte.dev/examples) | [REPL](https://svelte.dev/repl) | [FAQ](https://svelte.dev/faq)
+* [The Return of 'Write Less, Do More' - Rich Harris (JSCAMP 2019)](https://www.youtube.com/watch?v=BzX4aTRPzno)
+* [Rethinking reactivity - Rich Harris (Code Camp 2019)](https://www.youtube.com/watch?v=AdNJ3fydeao)
+* [Up and Running with Svelte - Tomasz Łakomy](https://egghead.io/playlists/getting-started-with-svelte-3-05a8541a)
+* [Simplify Web App Development with Svelte - Mark Volkmann (Nordic.js 2019)](https://www.youtube.com/watch?v=PXOE7oZyaBA)
+* [Why I moved from React to Svelte and others will follow - Mike Nikles](https://dev.to/mikenikles/why-i-moved-from-react-to-svelte-and-others-will-follow-210l)
+* [Svelte Crash Course - Traversy Media](https://www.youtube.com/watch?v=uK2RnIzrQ0M)
+* [Let’s Learn Svelte (with Rich Harris) — Learn With Jason [Lengstorf]](https://www.youtube.com/watch?v=ogXETl_I0Dg)
+* [Svelte.js: The Complete Guide (including Sapper.js) - Maximilian Schwarzmüller](https://www.udemy.com/course/sveltejs-the-complete-guide/) ($$$ non-free $$$)
+* [Set Up Phoenix with Svelte+Rollup - Joshua Nussbaum](https://dev.to/joshnuss/setup-phoenix-with-svelte-rollup-36dk)
 
 ### JAVASCRIPT - TESTING
 
