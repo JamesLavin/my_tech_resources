@@ -938,6 +938,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Semi Automatic Code Review - Richard Huang (RailsConf 2012)](http://confreaks.tv/videos/888-railsconf2012-semi-automatic-code-review)
 * [rails_best_practices gem](https://github.com/railsbp/rails_best_practices) & [railsbp.com](http://railsbp.com/) 
 
+## CLOJURE
+
+* [Functional Programming in Anger - David Nolen (Lambda.World 2018)](https://www.youtube.com/watch?v=8o01g6C7jWg)
+
 ## CODING CONTESTS
 
 * [CodeChef](https://www.codechef.com/)
@@ -2752,6 +2756,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * LambdaDays: [2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvCRCVlXTfB6-d09K3r0Sxa) | [2018](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl)
 * LambdaConf (λC): [2018](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhzLs7nLb57N75EY4py_P7pI) | [2017](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhx5bgmpAgqArzrh0pL-tc3P) | [2017 Winter Retreat](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhy9wMify6MXW6F339W4g4Eo) | [2016](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos) | [2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
+* Lambda World: [Cádiz 2019](https://www.youtube.com/playlist?list=PL4yAk3UBuBSodrYlJN8iRKHuFR5proxfI) | [Cádiz 2018](https://www.youtube.com/playlist?list=PL4yAk3UBuBSo8tUZD8opLRVdEe0ZjxHXc) | [Seattle 2018](https://www.youtube.com/playlist?list=PL4yAk3UBuBSo8BMnuUPteqj-AJL26tdAs) | [2017](https://www.youtube.com/playlist?list=PL4yAk3UBuBSrQXe_mZkR4khTNtQ_z5baQ) | [2016](https://www.youtube.com/playlist?list=PL4yAk3UBuBSoH7MfYTGHYlKKeLb2b7QNe) | [2015](https://www.youtube.com/playlist?list=PL4yAk3UBuBSobwxE4M_2V9DGMOUrkZGfa)
 * [Curry On!](https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w)
 * [Scale by the Bay 2017](https://www.youtube.com/playlist?list=PLNESult6cnOkDeaaEhq192kdsbMPc3dIJ)
 * [MoonConf 2016](https://www.youtube.com/playlist?list=PLWYAdh9hA7geMRCgwDomlHAdwlsno32LU&spfreload=10)

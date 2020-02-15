@@ -368,7 +368,8 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [Functional-Light JavaScript - Kyle Simpson](https://github.com/getify/Functional-Light-JS)
 * [Gentle Intro to Functional Javascript - James Sinclair](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style/)
 * [Learning Functional Programming with JavaScript - Anjana Vakil (JSUnconf 2016)](https://www.youtube.com/watch?v=e-5obm1G_FY)
-* [Composing Software: The Book - Eric Elliott](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
+* [Functional Lenses in JavaScript - Flavio Corpa (Lambda.World Cadiz 2018)](https://www.youtube.com/watch?v=IoVaArsh6tM)
+* [Composing Software: The Book - Eric Elliott](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc) (non-free $ but excellent)
 * Functional Programming In JavaScript — With Practical Examples: [Part 1](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276#.8dao66cag) | [Part 2](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-2-429d2e8ccc9e)
 * [Functional programming in JavaScript - Mattias Petter Johansson (Fun Fun Function)](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 * [Functional Javascript - Dr. Gleb Bahmutov](https://glebbahmutov.com/blog/tags/functional/)
@@ -383,9 +384,29 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [Cycle.js](http://cycle.js.org/)
 * [Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals)
 
+#### JAVASCRIPT - FUNCTIONAL PROGRAMMING - FANTASY LAND
+
+* Fantasy Land: Specification for interoperability of common algebraic structures in JavaScript: [Github](https://github.com/fantasyland/fantasy-land)
+* [Implementations](https://github.com/fantasyland/fantasy-land/blob/master/implementations.md)
+
 #### JAVASCRIPT - FUNCTIONAL PROGRAMMING - IMMUTABLE.JS
 
 * [Immutable.js](https://github.com/facebook/immutable-js)
+
+#### JAVASCRIPT - FUNCTIONAL PROGRAMMING - LODASH
+
+* Lodash: [Documentation](https://lodash.com/docs) | [Github](https://github.com/lodash/lodash)
+
+##### JAVASCRIPT - FUNCTIONAL PROGRAMMING - LODASH - LODASH.FP
+
+* Lodash.fp: [FP Guide](https://github.com/lodash/lodash/wiki/FP-Guide)
+
+#### JAVASCRIPT - FUNCTIONAL PROGRAMMING - RAMDA.JS
+
+* Ramda.js: [Website](https://ramdajs.com/) | [Documentation](https://ramdajs.com/docs/) | [Github](https://github.com/Ramda/ramda)
+* [Ramda JS - An Introduction - Christopher Okhravi](https://www.youtube.com/watch?v=AINnOyUVEyI)
+* [Thinking in Ramda - Randy Coulman](https://randycoulman.com/blog/categories/thinking-in-ramda/)
+* [Ramda.js Functional Javascript - Chyld Studios](https://www.youtube.com/playlist?list=PLHtrWoWKwFxFAs6Ki1x07G5KBJt9-OUjj)
 
 ### JAVASCRIPT - FUNCTIONAL REACTIVE PROGRAMMING
 
@@ -589,12 +610,13 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [The Return of 'Write Less, Do More' - Rich Harris (JSCAMP 2019)](https://www.youtube.com/watch?v=BzX4aTRPzno)
 * [Rethinking reactivity - Rich Harris (Code Camp 2019)](https://www.youtube.com/watch?v=AdNJ3fydeao)
 * [Up and Running with Svelte - Tomasz Łakomy](https://egghead.io/playlists/getting-started-with-svelte-3-05a8541a)
-* [Simplify Web App Development with Svelte - Mark Volkmann (Nordic.js 2019)](https://www.youtube.com/watch?v=PXOE7oZyaBA)
+* [Simplify Web App Development with Svelte - Mark Volkmann (Nordic.js 2019)](https://www.youtube.com/watch?v=PXOE7oZyaBA) & [Github](https://github.com/mvolkmann/svelte-todo)
 * [Why I moved from React to Svelte and others will follow - Mike Nikles](https://dev.to/mikenikles/why-i-moved-from-react-to-svelte-and-others-will-follow-210l)
 * [Svelte Crash Course - Traversy Media](https://www.youtube.com/watch?v=uK2RnIzrQ0M)
 * [Let’s Learn Svelte (with Rich Harris) — Learn With Jason [Lengstorf]](https://www.youtube.com/watch?v=ogXETl_I0Dg)
 * [Svelte.js: The Complete Guide (including Sapper.js) - Maximilian Schwarzmüller](https://www.udemy.com/course/sveltejs-the-complete-guide/) ($$$ non-free $$$)
 * [Set Up Phoenix with Svelte+Rollup - Joshua Nussbaum](https://dev.to/joshnuss/setup-phoenix-with-svelte-rollup-36dk)
+* [Elm vs. Svelte - Luca Mugnaini](https://dev.to/lucamug/elm-vs-svelte-7k4)
 
 ### JAVASCRIPT - TESTING
 
@@ -638,6 +660,11 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 #### JAVASCRIPT - TYPESCRIPT - DEFINITELY TYPED
 
 * Definitely Typed: The repository for high quality TypeScript type definitions: [Website](http://definitelytyped.org/) | [Github](https://github.com/DefinitelyTyped/DefinitelyTyped)
+
+#### JAVASCRIPT - TYPESCRIPT - FUNCTIONAL PROGRAMMING
+
+* monocle-ts: lenses in TypeScript: [Docs](https://gcanti.github.io/monocle-ts/) | [Github](https://github.com/gcanti/monocle-ts)
+* fp-ts: functional programming in TypeScript: [Docs](https://gcanti.github.io/fp-ts/) | [Github](https://github.com/gcanti/fp-ts)
 
 #### JAVASCRIPT - TYPESCRIPT - GRAPHQL
 
