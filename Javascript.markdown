@@ -367,6 +367,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [Full Stack Functional JavaScript - Tom Wilson (Syntax Conference 2017)](https://www.youtube.com/watch?v=nLzuj66rITk)
 * [Functional-Light JavaScript - Kyle Simpson](https://github.com/getify/Functional-Light-JS)
 * [Gentle Intro to Functional Javascript - James Sinclair](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style/)
+* [JavaScript Higher Order Functions & Arrays - Traversy Media](https://www.youtube.com/watch?v=rRgD1yVwIvE)
 * [Learning Functional Programming with JavaScript - Anjana Vakil (JSUnconf 2016)](https://www.youtube.com/watch?v=e-5obm1G_FY)
 * [Functional Lenses in JavaScript - Flavio Corpa (Lambda.World Cadiz 2018)](https://www.youtube.com/watch?v=IoVaArsh6tM)
 * [Composing Software: The Book - Eric Elliott](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc) (non-free $ but excellent)

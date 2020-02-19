@@ -13,6 +13,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Elixir-lang.org: [Docs](http://elixir-lang.org/docs.html) | [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html) | [Erlang/Elixir Syntax Crash Course](http://elixir-lang.org/crash-course.html) | [Learning resources](https://elixir-lang.org/learning.html) | [Elixir-lang-talk group](https://groups.google.com/forum/?fromgroups#!forum/elixir-lang-talk) | [Elixir Core mailing list](https://groups.google.com/forum/#!forum/elixir-lang-core) | [ElixirForum.com](http://elixirforum.com/)
 * [Elixir School](https://elixirschool.com/)
 * [ElixirCasts.io](https://elixircasts.io/?page=6)
+* [Elixir: functional, concurrent, distributed programming - Andrea Leopardi (Lambda World 2018)](https://www.youtube.com/watch?v=e3O0R5_69Pg)
 * [From Zero to Hero in Elixir - LittleAlchemist.io](https://www.youtube.com/playlist?list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp)
 * [Elixir Tutorial - Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumAgKjSPyFtvYjP5LqgzafQq)
 * [Alchemist Camp](https://alchemist.camp/episodes)

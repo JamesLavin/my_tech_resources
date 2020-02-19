@@ -3071,9 +3071,26 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Developing Web Applications with Haskell - Alejandro Serrano (LambdaConf 2015)](https://www.youtube.com/watch?v=FnaD4xS_hHY)
 * [Exact Real Arithmetic in Haskell - Mitchell Riley (Brisbane Functional Programming Group, May 2015)](https://www.youtube.com/watch?v=LJQgYBQFtSE)
 
-## HIRING
+## HIRING / INTERVIEWING
 
+* [Interviewing is a noisy prediction problem - Erik Bernhardsson](https://erikbern.com/2018/05/02/interviewing-is-a-noisy-prediction-problem.html)
+* [How to Interview a Programmer - Bill Venners](https://www.artima.com/wbc/interprog.html)
+* [How to conduct a terrible programmer interview - acebureido](https://www.reddit.com/r/rant/comments/547knk/how_to_conduct_a_terrible_programmer_interview/)
+* [How to conduct a good Programming Interview - Haoyi Li](http://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html)
 * [The Best Way to Hire Developers - Erik Dietrich](http://www.daedtech.com/best-way-hire-developers/)
+* [The Software Engineer’s Guide to Interviewing Software Engineers - Chuck Groom](https://blog.usejournal.com/the-software-engineers-guide-to-interviewing-software-engineers-980bbfdb4006)
+* [A better way to interview software engineers - Zach Millman](https://fulcrum.lever.co/a-better-way-to-interview-software-engineers-fa9b5d2b5316)
+* [The Guerrilla Guide to Interviewing (version 3.0) - Joel Spolsky](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
+* [On Interviewing Programmers - Jeff Atwood](https://blog.codinghorror.com/on-interviewing-programmers/)
+* [Lessons from a year’s worth of hiring data - Aline Lerner](http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/)
+* [Conduct the Perfect Job Interview in Twelve Simple Steps - Jeff Haden](https://www.linkedin.com/pulse/20140210135852-20017018-conduct-the-perfect-job-interview-in-twelve-simple-steps/)
+* [Here's Google's Secret to Hiring the Best People - Laszlo Bock](https://www.wired.com/2015/04/hire-like-google/)
+* [How I ended up conducting the most successful technical interviews with a single question - Nicolas Bize](http://www.nicolasbize.com/blog/how-i-ended-up-conducting-the-most-successful-technical-interviews-with-a-single-question/)
+* [A recruiter analyzed results from 3000 tech interviews to find the most successful candidate traits - Aline Lerner](https://qz.com/886041/a-recruiter-analyzed-results-from-3000-tech-interviews-to-find-the-most-successful-candidate-traits/)
+* [Hiring is Broken: What Do Developers Say About Technical Interviews? - Chris Parnin](https://blog.usejournal.com/hiring-is-broken-what-do-developers-say-about-technical-interviews-21821141ca71)
+* [Tips for hiring great software engineers - Marcelo Park](http://blog.plataformatec.com.br/2014/03/tips-for-hiring-great-software-engineers/)
+* [Why Brainteasers Don’t Belong in Job Interviews - Maria Konnikova](https://www.newyorker.com/tech/annals-of-technology/why-brainteasers-dont-belong-in-job-interviews)
+* [On GPAs and Brainteasers: New Insights From Google On Recruiting and Hiring - Adam Bryant](https://www.linkedin.com/pulse/20130620142512-35894743-on-gpas-and-brain-teasers-new-insights-from-google-on-recruiting-and-hiring/)
 
 ## HTTP
 
