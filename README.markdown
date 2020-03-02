@@ -115,6 +115,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ARTIFICIAL INTELLIGENCE (AI) - DEEP NEURAL NETS
 
 * [What do neural networks learn? - Brandon Rohrer](https://www.youtube.com/watch?v=UojVVG4PAG0)
+* [Intro to Deep Learning - Alexander Amini (MIT, 2020)](http://introtodeeplearning.com/) | [Lectures](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 * [Intro to Deep Learning with PyTorch - Luis Serrano (Udacity)](https://classroom.udacity.com/courses/ud188)
 * [Notes from Coursera Deep Learning courses by Andrew Ng - Tess Ferrandez](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
 * [Learn Deep Learning in 6 Weeks - Siraj Raval](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks/)
@@ -223,8 +224,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [NLP-progress; Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks - Sebastian Ruder](https://github.com/sebastianruder/nlp-progress) | [NlPProgress.com](https://nlpprogress.com/)
 * [The New Era in NLP - Rachel Thomas (SciPy 2019)](https://www.youtube.com/watch?v=KChtdexd5Jo)
+* [NLP Highlights (podcast) - Matt Gardner, Pradeep Dasigi, and Waleed Ammar](https://soundcloud.com/nlp-highlights)
 * [Natural Language Processing with Deep Learning (Stanford University, Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) | [2019 course](http://web.stanford.edu/class/cs224n/)
 * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
+* [NLP Newsletter - Democratizing Artificial Intelligence Research, Education, and Technologies](https://medium.com/@ibelmopan)
 * Speech and Language Processing, 3rd ed draft, Daniel Jurafsky and James H. Martin: [PDF](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) | [Webpage](https://web.stanford.edu/~jurafsky/slp3/)
 * [Natural Language Processing - Jacob Eisenstein](https://github.com/jacobeisenstein/gt-nlp-class/raw/master/notes/eisenstein-nlp-notes.pdf)
 * [Deep Learning for NLP - Ed Grefenstette (DeepMind)](https://www.youtube.com/watch?v=Y95JwaynE40)
@@ -495,6 +498,22 @@ Links to resources I have found useful or think might be helpful to future me or
 ### BODY & MIND - BURNOUT
 
 * [Depression and Burnout: the Hardest Refactor I’ve ever done - Jérôme Petazzoni (GOTO 2019)](https://www.youtube.com/watch?v=m20KBFUuw-w)
+
+### BODY & MIND - CORONAVIRUS
+
+* [Preparing for Coronavirus to Strike the U.S. - Zeynep Tufekci (Scientific American)](https://blogs.scientificamerican.com/observations/preparing-for-coronavirus-to-strike-the-u-s/)
+* [Dr. John Campbell](https://www.youtube.com/watch?v=5rOTz9duXwo) & [other Dr. John Campbell videos](https://www.youtube.com/user/Campbellteaching/videos)
+* [What you need to know as coronavirus outbreak reaches "decisive point" - CBS News](https://www.youtube.com/watch?v=Ihjw3cKfWFA)
+* [Coronavirus Do’s And Don’ts: What You Need To Know To Protect Your Family - TODAY](https://www.youtube.com/watch?v=2UGgBGff8H8)
+* [How coronavirus spreads and what you can do to prevent it - CBS News](https://www.youtube.com/watch?v=NYWNdHYz10E) & [You’re Likely to Get the Coronavirus: Most cases are not life-threatening, which is also what makes the virus a historic challenge to contain - Dr James Hamblin (The Atlantic)](https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/)
+* [How Coronavirus Kills: Acute Respiratory Distress Syndrome (ARDS) & Treatment - Pulmonologist Dr. Roger Seheult](https://www.youtube.com/watch?v=okg7uq_HrhQ)
+* [Coronavirus Epidemic: Updates, Spread, Symptoms, & Treatment (COVID-19) - MedCram](https://www.youtube.com/watch?v=quDYb_x54DM&list=PLQ_IRFkDInv_zLVFTgXA8tW0Mf1iiuuM_&index=30&t=0s)
+* [Coronavirus: How the deadly epidemic sparked a global emergency | Four Corners (Australian Broadcast Corporation)](https://www.abc.net.au/4corners/coronavirus/11996398) | [Youtube](https://www.youtube.com/watch?v=ycrqXJYf1SU)
+* [Coronavirus - Dr Mike Hansen](https://www.youtube.com/watch?v=-h_MWGPOyOE&list=PLgqCliyXQhezro4JBt2zJDWo7XdCTn_45&index=9)
+* [Coronavirus outbreak: U.S. braces for rise in COVID-19 cases as WHO raises threat to "highest level" - Global National](https://www.youtube.com/watch?v=F_Jq7ItdHtA)
+* [Spanish Flu: a warning from history - Cambridge University](https://www.youtube.com/watch?v=3x1aLAw_xkY)
+* [How coronavirus (Covid-19) spread day by day - Channel 4 News (Australia)](https://www.youtube.com/watch?v=Zl0V-OhZYk4)
+* [Coronavirus disease (COVID-19) outbreak - World Health Organization (WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 
 ### BODY & MIND - EXERCISE
 
@@ -4153,6 +4172,7 @@ Peter R. Egli:
 
 * [Awesome list of awesome lists - Sindre Sorhus](https://github.com/sindresorhus/awesome)
 * [Programming talks - Veit Heller](https://github.com/hellerve/programming-talks)
+* [Flow-Charts of Programming Language Constructs - Martin F. Johansen](https://www.progsbase.com/featuredpost/flow-charts-of-programming-language-constructs/)
 * [24-page zine collection of linux/systems comics - Julia Evans](https://jvns.ca/linux-comics-zine.pdf)
 * [Every Programmer Should Know - Alexey Migutsky](https://github.com/mr-mig/every-programmer-should-know/)
 * [Core Design Principles for Software Developers - Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)

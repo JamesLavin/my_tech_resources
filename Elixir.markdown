@@ -1197,6 +1197,7 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ERLANG - BEAM
 
 * [The Soul of Erlang and Elixir - Saša Jurić (GOTO Chicago 2019)](https://www.youtube.com/watch?v=JvBT4XBdoUE)
+* [Comparing common concurrency patterns in Elixir and Erlang - Devon Estes (Lambda Days 2020)](https://www.youtube.com/watch?v=GVSRi9Ki8d8) | (A Pattern Language for Parallel Application Programming - Berna L. Massingill, Timothy G. Mattson, Beverly A. Sanders)[https://www.cise.ufl.edu/research/ParallelPatterns/PatternLanguage/Background/PDSE99_long.htm]
 * [The BEAM Coding Paradigm - Kenji Rikitake (Code BEAM STO 2019)](https://www.youtube.com/watch?v=_KXHE6ULnww)
 * [Getting Core Erlang from Elixir - Andrew Volozhanin](https://scarfacedeb.me/posts/core-erlang-from-elixir/)
 * [So I used Erlang...is my system as scalable as they say it'd be? - Laura Castro (Lambda World 2019)](https://www.youtube.com/watch?v=O_DIoKqoW8I)
