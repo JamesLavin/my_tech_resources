@@ -134,6 +134,11 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ELIXIR - AUTHENTICATION - POW
 
 * pow: Robust, modular, and extendable user authentication system - Dan Schultzer: [PowAuth.com](https://powauth.com/) | [Github](https://github.com/danschultzer/pow)
+* [Easy Authentication in Elixir & Phoenix with the pow & pow_assent libraries - KnowThen.com](https://www.youtube.com/watch?v=hnD0Z0LGMIk)
+
+### ELIXIR - AUTHORIZATION
+
+* [Authorization in Phoenix web applications using Role Based Access Control (RBAC) - KnowThen.com](https://www.youtube.com/watch?v=6TlcVk-1Tpc) & [Git repo](https://github.com/knowthen/elixir_authorization_tutorial)
 
 ### ELIXIR - AVIA
 
@@ -180,6 +185,21 @@ Links to resources I have found useful or think might be helpful to future me or
 * Nebulex: fast, flexible and powerful distributed caching framework - Carlos Andres Bolaños R.A.: [Github](https://github.com/cabol/nebulex) & [Distributed Caching in Elixir using Nebulex](https://medium.com/erlang-battleground/distributed-caching-in-elixir-using-nebulex-9af589186caa)
 * [Cachex: caching library for Elixir with support for transactions, fallbacks and expirations](https://github.com/whitfin/cachex) | [Docs](https://hexdocs.pm/cachex/)
 
+### ELIXIR - CLIENTS
+
+* [Xandra: Fast, simple, and robust Cassandra driver for Elixir](https://github.com/lexhide/xandra)
+* [Triton: Cassandra ORM for Elixir](https://github.com/blitzstudios/triton)
+* [erlcass: High-Performance Erlang Cassandra driver based on DataStax cpp-driver](https://github.com/silviucpp/erlcass) | [Docs](http://silviucpp.github.io/erlcass/)
+* [cqerl: Native Erlang CQL client for Cassandra](https://github.com/matehat/cqerl) | [Docs](http://matehat.github.io/cqerl/) | [cqex (Elixir wrapper)](https://github.com/matehat/cqex)
+
+#### ELIXIR - CLIENTS - HTTP CLIENTS
+
+* [Mint: Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2](https://github.com/ericmj/mint)
+* httpoison: [Github](https://github.com/edgurgel/httpoison)
+* Tesla: [Github](https://github.com/teamon/tesla)
+* [Tesla: flexible HTTP client library for Elixir, with support for middleware and multiple adapters](https://github.com/teamon/tesla)
+* [Working with HTTP/2 in Elixir - Peter Saxton (Elixir.LDN 2017)](https://www.youtube.com/watch?v=zqzkrUVfv-k)
+
 ### ELIXIR - CODE EXAMPLES
 
 * [ExVenture: text-based MMO server written in Elixir - Eric Oestrich](https://github.com/oestrich/ex_venture)
@@ -223,6 +243,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - DEPLOYMENT
 
+* [From Zero to Elixir Deployment - Philipp Schmieder (ElixirConf EU 2019)](https://www.youtube.com/watch?v=Noawmmd6yxM)
 * [Quick Glance @ Elixir 1.9 Releases feature - Blackode](https://medium.com/@blackode/quick-glance-elixir-1-9-releases-feature-b6dfce233e71)
 * [A GitHub workflow for Elixir releases - Richard Taylor](https://www.richardtaylor.dev/articles/github-workflow-elixir-releases)
 * Paul Schoenfelder ("bitwalker"): [Elixir on Alpine Linux](https://github.com/bitwalker/alpine-elixir)  ((Docker)[https://hub.docker.com/r/bitwalker/alpine-elixir/]) | [Elixir/Phoenix on Alpine Linux](https://github.com/bitwalker/alpine-elixir-phoenix) ([Docker](https://hub.docker.com/r/bitwalker/alpine-elixir-phoenix/))
@@ -345,6 +366,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - DEPLOYMENT - KUBERNETES
 
+* [BEAM and Kubernetes: Better together? - Cory O'Daniel (Code BEAM SF 20)](https://www.youtube.com/watch?v=Nv6GfEGv0kc)
 * [Deploying Phoenix to Kubernetes From Scratch - Dan Quan](https://quan.io/blog/deploying-phoenix-to-kubernetes-from-scratch/)
 
 ### ELIXIR - DISTRIBUTION
@@ -560,6 +582,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [AmberCasts #4: Getting started with GraphQL, Elixir & Absinthe - AmberBit](https://www.youtube.com/watch?v=RF6BSMczt2Q) (Warning: Has some nearly unreadable text)
 * Meraj: [GraphQL with Elixir/Phoenix and Absinthe](https://itnext.io/graphql-with-elixir-phoenix-and-absinthe-6b0ffd260094) | [Authenticating Absinthe GraphQL APIs in Phoenix with Guardian](https://itnext.io/authenticating-absinthe-graphql-apis-in-phoenix-with-guardian-d647ea45a69a)
 
+#### ELIXIR - GRAPHQL & ABSINTHE - DATALOADER
+
+* [DataLoader and the Problem it Solves in GraphQL - KnowThen.com](https://www.youtube.com/watch?v=ld2_AS4l19g)
+
 ### ELIXIR - HASHING
 
 * [Hashing a File in Elixir - Alvise Susmel](https://www.poeticoding.com/hashing-a-file-in-elixir/)
@@ -578,14 +604,6 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [MiniRepo: Self-hosting of Hex packages](https://github.com/wojtekmach/mini_repo)
 * [Announcing MiniRepo, a minimal Hex server - Wojtek Mach](http://blog.plataformatec.com.br/2019/07/announcing-minirepo-a-minimal-hex-server/)
-
-### ELIXIR - HTTP CLIENTS
-
-* [Mint: Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2](https://github.com/ericmj/mint)
-* httpoison: [Github](https://github.com/edgurgel/httpoison)
-* Tesla: [Github](https://github.com/teamon/tesla)
-* [Tesla: flexible HTTP client library for Elixir, with support for middleware and multiple adapters](https://github.com/teamon/tesla)
-* [Working with HTTP/2 in Elixir - Peter Saxton (Elixir.LDN 2017)](https://www.youtube.com/watch?v=zqzkrUVfv-k)
 
 ### ELIXIR - IDES
 
@@ -706,6 +724,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PERFORMANCE
 
 * [Building A Highly Scalable Service that Survived A Super Bowl - Keith Elder (Code BEAM SF 2019)](https://www.youtube.com/watch?v=lXiiiLhwBI4)
+* [What's Inside a Reduction? - Devon Estes](http://devonestes.com/inside-a-reduction)
 * [Monitoring Production Elixir Applications - John Kelly (EMPEX 2017)](https://www.youtube.com/watch?v=nIRGF61_Go8)
 * [Measuring your Elixir Application - Renan Ranelli (ElixirConf 2016)](https://www.youtube.com/watch?v=3KhzyDDju0Q) | [Blog post: "A guide to measuring your Elixir app](http://milhouseonsoftware.com/2016/05/08/measuring-your-elixir-application/)
 * [vmstats: gathers metrics on the Erlang VM and sends them to a configurable sink - Fred Hebert](https://github.com/ferd/vmstats)
@@ -838,6 +857,8 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ELIXIR - PHOENIX - LIVE VIEW
 
 * [Phoenix Live View](https://github.com/phoenixframework/phoenix_live_view)
+* [Phoenix LiveView for web developers who don't know Elixir - ](https://www.youtube.com/watch?v=U_Pe8Ru06fM)
+* [Easy Push Updates in the Browser with Phoenix LiveView - Geoffrey Lesseli (FullStack Talks 2019)](https://www.youtube.com/watch?v=2Zaj_1htERc)
 * [Phoenix Live View: A step-change for web development - Chris McCord (ElixirConf 2019)](https://www.youtube.com/watch?v=XhNv1ikZNLs)
 * Beyond LiveView: Real-Time Features with Phoenix LiveView, PubSub, Presence, and Channels - Sophie DeBenedetto: [(The Big Elixir 2019)](https://www.youtube.com/watch?v=yo8Y1SUGW1w) | [(ElixirConf 2019)](https://www.youtube.com/watch?v=AbNAuOQ8wBE)
 * [Walk-Through of Phoenix LiveView - Sophie DeBenedetto](https://elixirschool.com/blog/phoenix-live-view/)
@@ -1000,6 +1021,7 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ELIXIR - SECURITY
 
 * [Learn you some ':ssl' for much security! Bram Verburg (ElixirConfEU 2019)](https://www.youtube.com/watch?v=0jzcPnsE4nQ)
+* [Secure Coding and Deployment Hardening Guidelines - Erlang Ecosystem Foundation Security Working Group](https://erlef.github.io/security-wg/secure_coding_and_deployment_hardening/)
 * [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography#elixir)
 * [Securing Elixir Applications - Bram Verburg (ElixirConfEU 2016)](https://www.youtube.com/watch?v=r0DuAse9tK8) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/078/original/Bram_Verburg_-_Securing_Elixir_Applications.pdf?1462946275)
 * [Paladin: JWT-based service to service protector for Elixir umbrella apps](https://github.com/opendoor-labs/paladin)

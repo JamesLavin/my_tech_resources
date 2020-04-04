@@ -408,6 +408,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * Ramda.js: [Website](https://ramdajs.com/) | [Documentation](https://ramdajs.com/docs/) | [Github](https://github.com/Ramda/ramda)
 * [Ramda JS - An Introduction - Christopher Okhravi](https://www.youtube.com/watch?v=AINnOyUVEyI)
 * [Thinking in Ramda - Randy Coulman](https://randycoulman.com/blog/categories/thinking-in-ramda/)
+* [Compare JavaScript, Ramda, and Elm - Roman Zolotarev](https://rgz.ee/js-ramda-elm.html)
 * [Ramda.js Functional Javascript - Chyld Studios](https://www.youtube.com/playlist?list=PLHtrWoWKwFxFAs6Ki1x07G5KBJt9-OUjj)
 
 ### JAVASCRIPT - FUNCTIONAL REACTIVE PROGRAMMING

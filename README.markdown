@@ -448,6 +448,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ARTIFICIAL INTELLIGENCE (AI) - TENSORFLOW - KUBEFLOW
 
 * [KubeFlow: Machine Learning Toolkit for Kubernetes](https://www.kubeflow.org/)
+* [Data Science on Steroids with Kubeflow - Markus Bauer & Sascha Grunert](https://medium.com/@saschagrunert/data-science-on-steroids-with-kubeflow-60fc3ba92b06)
 * [Machine Learning Frameworks on Kubernetes](https://github.com/aws-samples/machine-learning-using-k8s)
 * [Kubeflow: Portable Machine Learning on Kubernetes - Michelle Casbon (@Scale 2018)](https://www.youtube.com/watch?v=JCBJNuDvsuw)
 * [kfctl](https://github.com/kubeflow/kubeflow/tree/master/kfctl)
@@ -501,6 +502,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### BODY & MIND - CORONAVIRUS
 
+* [Coronavirus Is A PANDEMIC.... Technically - Dr Mikhail Varshavski](https://www.youtube.com/watch?v=Xl2nA_xuHjY)
 * [Preparing for Coronavirus to Strike the U.S. - Zeynep Tufekci (Scientific American)](https://blogs.scientificamerican.com/observations/preparing-for-coronavirus-to-strike-the-u-s/)
 * [Dr. John Campbell](https://www.youtube.com/watch?v=5rOTz9duXwo) & [other Dr. John Campbell videos](https://www.youtube.com/user/Campbellteaching/videos)
 * [What you need to know as coronavirus outbreak reaches "decisive point" - CBS News](https://www.youtube.com/watch?v=Ihjw3cKfWFA)
@@ -1861,6 +1863,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### DEVOPS - DOCKER - MICROCONTAINERS
 
+* Demystifying Containers - Sascha Grunert: [Part I: Kernel Space](https://medium.com/@saschagrunert/demystifying-containers-part-i-kernel-space-2c53d6979504) | [Part II: Container Runtimes](https://medium.com/@saschagrunert) | [Part III: Container Images](https://medium.com/@saschagrunert/demystifying-containers-part-iii-container-images-244865de6fef)
 * [Microcontainers – Tiny, Portable Docker Containers - Iron.io](http://www.iron.io/blog/2016/01/microcontainers-tiny-portable-containers.html)
 * [How to Build Slim Docker Images Fast - Simon Hawe](https://towardsdatascience.com/how-to-build-slim-docker-images-fast-ecc246d7f4a7)
 * [Uber tiny Docker images for all the things (Ruby, Elixir, Python, etc.) - Iron.io](https://github.com/iron-io/dockers)
@@ -2164,6 +2167,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Kafka Operator: Managing and Operating Kafka Clusters in Kubernetes [A] - Nenad Bogojevic](https://www.youtube.com/watch?v=jAz8sdO1rgE)
 * [Lessons learned form Kafka in production Tim Berglund (2017)](https://www.youtube.com/watch?v=1vLMuWsfMcA)
 
+#### DEVOPS - KUBERNETES - DISTROLESS
+
+* [Distroless: Language-focused Docker images, minus the operating system (Google Container Tools)](https://github.com/GoogleContainerTools/distroless)
+
 #### DEVOPS - KUBERNETES - DRAFT
 
 * Draft - Streamlined Kubernetes Development: [Draft.sh](https://draft.sh/) | [Quickstart](https://github.com/Azure/draft/blob/master/docs/quickstart.md) | [Examples & Tutorials](https://github.com/Azure/draft/blob/master/docs/examples-and-tutorials.md) | [Advanced Setup](https://github.com/Azure/draft/blob/master/docs/advanced-setup.md) | [Github](https://github.com/Azure/draft)
@@ -2347,6 +2354,22 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Operator Framework Github repos](https://github.com/operator-framework)
 * [TGI Kubernetes 037: Operator Framework - Kris Nova](https://www.youtube.com/watch?v=Ko_WfXRAypY)
 
+##### DEVOPS - KUBERNETES - OPERATORS - CASSANDRA
+
+* [CassKop - Orange Open Source](https://github.com/Orange-OpenSource/casskop)
+* [cassandra-operator - instaclustr](https://github.com/instaclustr/cassandra-operator)
+
+##### DEVOPS - KUBERNETES - OPERATORS - ELASTICSEARCH
+
+* [Elastic Cloud](https://github.com/elastic/cloud-on-k8s)
+
+##### DEVOPS - KUBERNETES - OPERATORS - GITLAB
+
+* [Gitlab Operator](https://gitlab.com/gitlab-org/charts/components/gitlab-operator/)
+
+##### DEVOPS - KUBERNETES - OPERATORS - PROMETHEUS
+
+* [Prometheus Operator](https://github.com/coreos/prometheus-operator)
 
 #### DEVOPS - KUBERNETES - PERSISTENT VOLUMES
 
@@ -2383,6 +2406,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### DEVOPS - KUBERNETES - SECURITY
 
 * [Distroless: Language-focused Docker images, minus the operating system (truly minimal) - Google](https://github.com/GoogleContainerTools/distroless)
+* [Kubeaudit (Shopify)](https://github.com/Shopify/kubeaudit)
 * [kube-bench: checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark](https://github.com/aquasecurity/kube-bench) | [Tech N’ Talk: Implementing CIS Kubernetes Security Benchmarks with Kube-Bench - Liz Rice](https://blog.openshift.com/tech-n-talk-implementing-cis-kubernetes-security-benchmarks-kube-bench/)
 * [kube-hunter: Hunt for security weaknesses in Kubernetes clusters - Aqua Security](https://github.com/aquasecurity/kube-hunter) | [aquasec.com](https://kubehunter.aquasec.com/)
 * [11 Ways (Not) to Get Hacked - Andrew Martin](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
@@ -2812,6 +2836,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### FUNCTIONAL PROGRAMMING - LAMBDA CALCULUS & CATEGORY THEORY
 
+* [Lambda? You Keep Using that Letter - Kevlin Henney (NDC {London} 2020)](https://www.youtube.com/watch?v=Y7StjYhXvpE)
 * [What is Applied Category Theory? - Tai-Danae Bradley](https://arxiv.org/pdf/1809.05923.pdf)
 * [Applied Category Theory - Brendan Fong & David I. Spivek (MIT)](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/lecture-videos-and-readings/index.htm) | [Lectures](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5) | [Invitation to Applied Category Theory (Book as PDF)](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/lecture-videos-and-readings/18-s097iap19textbook.pdf) | [(Book on arXiv)](https://arxiv.org/abs/1803.05316)
 * [Monads without talking about Monads - Lucamug](https://medium.com/@l.mugnaini/monads-without-talking-about-monads-in-elm-4b9b6ffd5ad5)
@@ -4133,6 +4158,7 @@ Peter R. Egli:
 
 * [58 Must-Read Remote Work Resources - Hiten Shah](https://usefyi.com/remote-work-resources/)
 * [Learnings from 4000+ interviews for hiring remote employees - Nitesh Agrawal](https://hackernoon.com/how-to-interview-the-best-remote-workers-88570ddce7d7)
+* [My Long Distance Relationship With GitHub: Transitioning to Remote, Async Work - Sophie DeBenedetto](https://www.thegreatcodeadventure.com/my-long-distance-relationship-with-github/)
 
 ### PRODUCT DEVELOPMENT - COMMUNICATION TOOLS
 
@@ -4326,6 +4352,7 @@ Peter R. Egli:
 ### PROGRAMMING - MANAGEMENT
 
 * [Shape Up: Stop Running in Circles and Ship Work That Matters - Ryan Singer](https://basecamp.com/shapeup) | [PDF](https://basecamp.com/shapeup/shape-up.pdf)
+* [The Leadership Library for Engineers - Philip Paetz](https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a)
 * [Be a Director, Not a Manager - Fareed Mosavat (#mtpcon 2019)](https://www.mindtheproduct.com/2019/09/be-a-director-not-a-manager-by-fareed-mosavat/)
 * [Tips for Managing a Widely Distributed Team - Dirkjan Bussink (#LeadDevLondon 2018)](https://www.youtube.com/watch?v=pi6bHUkoBgY)
 
