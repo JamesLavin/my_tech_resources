@@ -226,6 +226,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The New Era in NLP - Rachel Thomas (SciPy 2019)](https://www.youtube.com/watch?v=KChtdexd5Jo)
 * [NLP Highlights (podcast) - Matt Gardner, Pradeep Dasigi, and Waleed Ammar](https://soundcloud.com/nlp-highlights)
 * [Natural Language Processing with Deep Learning (Stanford University, Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) | [2019 course](http://web.stanford.edu/class/cs224n/)
+* [Exploring Transfer Learning with T5: the Text-To-Text Transfer Transformer - Google](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) | [Text-to-Text Transfer Transformer (T5)](https://github.com/google-research/text-to-text-transfer-transformer) | [Colossal, Cleaned Crawled Corpus (C4)](https://www.tensorflow.org/datasets/catalog/c4)
 * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 * [NLP Newsletter - Democratizing Artificial Intelligence Research, Education, and Technologies](https://medium.com/@ibelmopan)
 * Speech and Language Processing, 3rd ed draft, Daniel Jurafsky and James H. Martin: [PDF](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) | [Webpage](https://web.stanford.edu/~jurafsky/slp3/)
@@ -3981,7 +3982,7 @@ Peter R. Egli:
 
 ## POSTGRESQL
 
-* [Official manuals](http://www.postgresql.org/docs/manuals/) [PG 11](https://www.postgresql.org/files/documentation/pdf/11/postgresql-11-US.pdf) | [PG 10](https://www.postgresql.org/files/documentation/pdf/10/postgresql-10-US.pdf) | [PG 9.6](https://www.postgresql.org/files/documentation/pdf/9.6/postgresql-9.6-US.pdf) | [PG 9.5](https://www.postgresql.org/files/documentation/pdf/9.5/postgresql-9.5-US.pdf) | [PG 9.4](https://www.postgresql.org/files/documentation/pdf/9.4/postgresql-9.4-US.pdf)
+* [Official manuals](http://www.postgresql.org/docs/manuals/) | [PG 12](https://www.postgresql.org/files/documentation/pdf/12/postgresql-12-US.pdf) | [PG 11](https://www.postgresql.org/files/documentation/pdf/11/postgresql-11-US.pdf) | [PG 10](https://www.postgresql.org/files/documentation/pdf/10/postgresql-10-US.pdf) | [PG 9.6](https://www.postgresql.org/files/documentation/pdf/9.6/postgresql-9.6-US.pdf) | [PG 9.5](https://www.postgresql.org/files/documentation/pdf/9.5/postgresql-9.5-US.pdf) | [PG 9.4](https://www.postgresql.org/files/documentation/pdf/9.4/postgresql-9.4-US.pdf) | [Official FAQ](http://wiki.postgresql.org/wiki/FAQ)
 * [Learn PostgreSQL: Full Course for Beginners - freeCodeCamp.org](https://www.youtube.com/watch?v=qw--VYLpxG4)
 * PostgreSQL Tutorials : Learn PostgreSQL From Beginning to Advanced: [Beginner's List](https://www.youtube.com/playlist?list=PLk1kxccoEnNEtwGZW-3KAcAlhI_Guwh8x) & [Advanced List](https://www.youtube.com/playlist?list=PLk1kxccoEnNHlAR2ggnzIkOc7jxqI-_w2)
 * [Awesome Postgres - Asad Dhamani](https://github.com/dhamaniasad/awesome-postgres)
@@ -4047,6 +4048,7 @@ Peter R. Egli:
 
 ### POSTGRESQL - PERFORMANCE
 
+* [10 Things I Hate About PostgreSQL - Rick Branson](https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791)
 * [Computational Complexity and the Query Planner - James Coleman](https://www.youtube.com/watch?v=8ECcLPNW7zE)
 * [Lessons learned scaling PostgreSQL database to 1.2bn records/month - Gajus Kuizinas](https://medium.com/@gajus/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067)
 
@@ -4157,6 +4159,7 @@ Peter R. Egli:
 #### PRODUCT DEVELOPMENT - PEOPLE, PROCESS & TEAMS - REMOTE
 
 * [58 Must-Read Remote Work Resources - Hiten Shah](https://usefyi.com/remote-work-resources/)
+* [A Guide to Managing Remote Teams - Claire Lew (KnowYourTeam.com)](https://knowyourteam.com/m/managing_remote_teams/) (currently free)
 * [Learnings from 4000+ interviews for hiring remote employees - Nitesh Agrawal](https://hackernoon.com/how-to-interview-the-best-remote-workers-88570ddce7d7)
 * [My Long Distance Relationship With GitHub: Transitioning to Remote, Async Work - Sophie DeBenedetto](https://www.thegreatcodeadventure.com/my-long-distance-relationship-with-github/)
 

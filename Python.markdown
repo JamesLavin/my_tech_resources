@@ -778,8 +778,13 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 #### PYTHON - TEXT ANALYSIS - SPACY
 
-* [Spacy.io](https://spacy.io/)
+* [Spacy.io: Industrial-strength NLP](https://spacy.io/) | [Training](https://spacy.io/usage/training)
 * [Spacy 101: The most important concepts, explained in simple terms](https://spacy.io/usage/spacy-101)
+* [Spacy Course - Ines Montani](https://github.com/ines/spacy-course) | [Course.spacy.io](https://course.spacy.io/)
+
+#### PYTHON - TEXT ANALYSIS - STANFORD CORENLP
+
+* [Python wrappers for Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/other-languages.html#python)
 
 #### PYTHON - TEXT ANALYSIS - TEXTBLOB
 

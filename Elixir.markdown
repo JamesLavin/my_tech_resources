@@ -146,6 +146,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - BLOGS
 
+* [App Signal](https://blog.appsignal.com/)
 * [Big Nerd Ranch](https://www.bignerdranch.com/blog/?q=Elixir)
 * [Carbon Five](https://blog.carbonfive.com/category/elixir/)
 * [DennisBeatty.com](https://dennisbeatty.com/)
@@ -182,8 +183,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - CACHING
 
-* Nebulex: fast, flexible and powerful distributed caching framework - Carlos Andres Bolaños R.A.: [Github](https://github.com/cabol/nebulex) & [Distributed Caching in Elixir using Nebulex](https://medium.com/erlang-battleground/distributed-caching-in-elixir-using-nebulex-9af589186caa)
 * [Cachex: caching library for Elixir with support for transactions, fallbacks and expirations](https://github.com/whitfin/cachex) | [Docs](https://hexdocs.pm/cachex/)
+* Nebulex: fast, flexible and powerful distributed caching framework - Carlos Andres Bolaños R.A.: [Github](https://github.com/cabol/nebulex) & [Distributed Caching in Elixir using Nebulex](https://medium.com/erlang-battleground/distributed-caching-in-elixir-using-nebulex-9af589186caa)
 
 ### ELIXIR - CLIENTS
 
@@ -222,6 +223,10 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ELIXIR - CODE QUALITY - MODULARITY
 
 * Boundary: Library that helps manage and restrain cross-module dependencies: [Github](https://github.com/sasa1977/boundary)
+
+### ELIXIR - COMPILER
+
+* [Building Compile-time Tools With Elixir's Compiler Tracing Features - Devon Estes](https://blog.appsignal.com/2020/03/10/building-compile-time-tools-with-elixir-compiler-tracing-features.html)
 
 ### ELIXIR - COURSES (NON-FREE)
 
@@ -313,6 +318,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - DEPLOYMENT - CONFIGURATION
 
+* Skogsrå - Library to manage OS environment variables and application configuration options with ease - GMT Prime Corp: [Github](https://github.com/gmtprime/skogsra) | [Article](https://dev.to/alexdesousa/skogsra-simplifying-your-elixir-configuration-35im) | [Docs](https://hexdocs.pm/skogsra/readme.html)
 * [Configuration Demystified - Sean Callan](https://elixirschool.com/blog/configuration-demystified/)
 
 #### ELIXIR - DEPLOYMENT - CONFORM
@@ -368,6 +374,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [BEAM and Kubernetes: Better together? - Cory O'Daniel (Code BEAM SF 20)](https://www.youtube.com/watch?v=Nv6GfEGv0kc)
 * [Deploying Phoenix to Kubernetes From Scratch - Dan Quan](https://quan.io/blog/deploying-phoenix-to-kubernetes-from-scratch/)
+* [Kubernetes and the Erlang VM: orchestration on the large and the small - José Valim](http://blog.plataformatec.com.br/2019/10/kubernetes-and-the-erlang-vm-orchestration-on-the-large-and-the-small/)
 
 ### ELIXIR - DISTRIBUTION
 
@@ -467,6 +474,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - ETS
 
+* [Caching with Elixir and ETS - Elvio](https://blog.appsignal.com/2019/11/12/caching-with-elixir-and-ets.html)
 * [Etso: ETS adapter, allowing you to use Ecto schemas with ETS tables - Evadne Wu](https://github.com/evadne/etso)
 * [Eternal: monitor an ETS table to ensure that it never dies](https://hexdocs.pm/eternal/readme.html#content)
 * [Leveraging ETS Effectively - Evadne Wu (ElixirConf EU 2019)](https://www.youtube.com/watch?v=8mXqxBBvNdk)
@@ -642,6 +650,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - METAPROGRAMMING
 
+* [The Upside Down Dimension of Elixir - An Introduction to Metaprogramming - Nicholas J Henry (Montreal Elixir 2020)](https://www.youtube.com/watch?v=xj6yNzcGlEE)
 * [Metaprogramming Elixir - Chris McCord (NDC Oslo 2015)](https://vimeo.com/131643017)
 * [Mex: Elixir Shell helper for previewing macroexpansion - Luc Fueston](https://github.com/mrluc/mex)
 
@@ -862,6 +871,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Phoenix Live View: A step-change for web development - Chris McCord (ElixirConf 2019)](https://www.youtube.com/watch?v=XhNv1ikZNLs)
 * Beyond LiveView: Real-Time Features with Phoenix LiveView, PubSub, Presence, and Channels - Sophie DeBenedetto: [(The Big Elixir 2019)](https://www.youtube.com/watch?v=yo8Y1SUGW1w) | [(ElixirConf 2019)](https://www.youtube.com/watch?v=AbNAuOQ8wBE)
 * [Walk-Through of Phoenix LiveView - Sophie DeBenedetto](https://elixirschool.com/blog/phoenix-live-view/)
+* [LiveView Design Patterns - LiveComponent and the Single Responsibility Principle - Sophie DeBenedetto](https://elixirschool.com/blog/live-view-live-component/)
 * [Building a Table Sort UI with Live View's 'live_link' - Sophie DeBenedetto](https://elixirschool.com/blog/sorting-a-table-with-live-view-live-links/)
 * [Tracking Users in a Chat App with LiveView, PubSub Presence - Sophie DeBenedetto](https://elixirschool.com/blog/live-view-with-presence/)
 * [Phoenix LiveView Demystified - Alex Garibay (ElixirConf 2019)](https://www.youtube.com/watch?v=9eOo8hSbMAc)
@@ -985,6 +995,13 @@ Consequently, much of the following will soon be at least partially outdated:
 * [A Practical Guide to Elixir Protocols - Kevin Rockwood](https://www.youtube.com/watch?v=sJvfCE6PFxY)
 * [Polymorphism With Protocols in Elixir - Ilya Bodrov](https://code.tutsplus.com/articles/polymorphism-with-protocols-in-elixir--cms-29081)
 * [A Practical Guide to Elixir Protocols - Kevin Rockwood (ElixirConfEU 2017)](https://www.youtube.com/watch?v=sJvfCE6PFxY)
+
+### ELIXIR - PUB/SUB
+
+* [yggdrasil: Subscription and publishing server for Elixir applications (Github)](https://github.com/gmtprime/yggdrasil)
+* [Yggdrasil: Easy Pub-Sub in Elixir - Alex de Sousa](https://dev.to/alexdesousa/yggdrasil-easy-pub-sub-in-elixir-3909)
+* [Yggdrasil and PostgreSQL Notifications - Alex de Sousa](https://dev.to/alexdesousa/yggdrasil-and-postgresql-notifications-31kb)
+* [Yggdrasil and RabbitMQ Subscriptions - Alex de Sousa](https://dev.to/alexdesousa/yggdrasil-and-rabbitmq-subscriptions-18k4)
 
 ### ELIXIR - PUSHEX
 

@@ -164,6 +164,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELM - CODE EXAMPLES
 
+* [elm-pages: statically typed site generator, written with pure Elm - Dillon Kearns](https://package.elm-lang.org/packages/dillonkearns/elm-pages/latest/) | [Introducing elm-pages 🚀 - a type-centric static site generator- Dillon Kearns](https://elm-pages.com/blog/introducing-elm-pages/)
 * [Flashcards - Mike Onslow & daughter](https://ellie-app.com/3y8GJsXv5G4a1)
 * [25 Elm examples - starting from an static view and gradually progressing to an interactive web app with routing - Bryan Jennings](https://github.com/bryanjenningz/25-elm-examples)
 * [Making a pong game in Elm - Mathieu Agopian](http://mathieu.agopian.info/blog/making-a-pong-game-in-elm.html)
