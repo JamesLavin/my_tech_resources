@@ -613,9 +613,11 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [LearnStorybook.com](https://www.learnstorybook.com/)
 * [Gentle Intro to Storybook - Egwuenu Gift](https://scotch.io/tutorials/an-introduction-to-storybook-organize-how-you-build-js-components)
 
-### JAVASCRIPT - SVELTE
+### JAVASCRIPT - SVELTE & SAPPER
 
-* Svelte: [Tutorial](https://svelte.dev/tutorial/basics) | [API](https://svelte.dev/docs) | [Examples](https://svelte.dev/examples) | [REPL](https://svelte.dev/repl) | [FAQ](https://svelte.dev/faq)
+#### JAVASCRIPT - SVELTE & SAPPER - SVELTE
+
+* Svelte: [Tutorial](https://svelte.dev/tutorial/basics) | [Docs/API](https://svelte.dev/docs) | [Examples](https://svelte.dev/examples) | [REPL](https://svelte.dev/repl) | [FAQ](https://svelte.dev/faq) | [Webpage](https://svelte.dev/)
 * [The Return of 'Write Less, Do More' - Rich Harris (JSCAMP 2019)](https://www.youtube.com/watch?v=BzX4aTRPzno)
 * [Rethinking reactivity - Rich Harris (Code Camp 2019)](https://www.youtube.com/watch?v=AdNJ3fydeao)
 * [Up and Running with Svelte - Tomasz Łakomy](https://egghead.io/playlists/getting-started-with-svelte-3-05a8541a)
@@ -626,6 +628,10 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [Svelte.js: The Complete Guide (including Sapper.js) - Maximilian Schwarzmüller](https://www.udemy.com/course/sveltejs-the-complete-guide/) ($$$ non-free $$$)
 * [Set Up Phoenix with Svelte+Rollup - Joshua Nussbaum](https://dev.to/joshnuss/setup-phoenix-with-svelte-rollup-36dk)
 * [Elm vs. Svelte - Luca Mugnaini](https://dev.to/lucamug/elm-vs-svelte-7k4)
+
+#### JAVASCRIPT - SVELTE & SAPPER - SAPPER
+
+* Sapper: [Docs](https://sapper.svelte.dev/docs) | [Webpage](https://sapper.svelte.dev/)
 
 ### JAVASCRIPT - TESTING
 
