@@ -689,6 +689,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### BUSINESS - ENTREPRENEURSHIP - FINANCING
 
 * [Rewarding Talent - Index Ventures](https://www.indexventures.com/rewardingtalent/handbook/our-insight)
+* [VC terms — Return of the Barbarians - Fred Destin](https://medium.com/@fdestin/vc-terms-return-of-the-barbarians-77149fe2be88)
 * [Don’t go chasing unicorns - Aner Ben-Ami](https://blog.usejournal.com/dont-go-chasing-unicorns-2fa84d88437)
 * [A Guide to Seed Fundraising - Geoff Ralston](https://ycombinator.wpengine.com/how-to-raise-a-seed-round/)
 * [If You Take Venture Capital, You’re Forcing Your Company To Exit - Luke Kanies](https://medium.com/s/understanding-venture-capital/if-you-take-venture-capital-youre-forcing-your-company-to-exit-fc08fcdb32cc)
@@ -2723,6 +2724,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Practical Functional Programming - Jeremy Fairbank (Lambda Squared 2018)](https://www.youtube.com/watch?v=I_uIXgSmkDo) | [Slides (from 2019 version of same talk)](https://speakerdeck.com/jfairbank/connect-dot-tech-2019-practical-functional-programming)
 * [FP to the Max - John De Goes (Fun(c) 2018.7)](https://www.youtube.com/watch?v=sxudIMiOo68)
+* Introduction to FP Using Haskell - Tony Morris (λC 2018): [Part 1](https://www.youtube.com/watch?v=K1UjjcdBYp0) | [Part 2](https://www.youtube.com/watch?v=Jpt5eLHeZC4)
 * [Plain Functional Programming - Martin Odersky (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=YXDm3WHZT5g)
 * [Why Isn't Functional Programming the Norm? – Richard Feldman (Clojutre 2019)](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
 * [An introduction to functional programming - Mary Rose Cook](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
@@ -2798,8 +2800,8 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### FUNCTIONAL PROGRAMMING - CONFERENCE VIDEOS
 
-* LambdaDays: [2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvCRCVlXTfB6-d09K3r0Sxa) | [2018](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl)
-* LambdaConf (λC): [2018](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhzLs7nLb57N75EY4py_P7pI) | [2017](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhx5bgmpAgqArzrh0pL-tc3P) | [2017 Winter Retreat](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhy9wMify6MXW6F339W4g4Eo) | [2016](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos) | [2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
+* LambdaDays: [2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsV9Bw0wp1P46SOdtk4pFW6) | [2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvCRCVlXTfB6-d09K3r0Sxa) | [2018](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl)
+* LambdaConf (λC): [2019](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhzT6OVc5laZqqGAa5mlqKjF) | [2018](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhzLs7nLb57N75EY4py_P7pI) | [2017](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhx5bgmpAgqArzrh0pL-tc3P) | [2017 Winter Retreat](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhy9wMify6MXW6F339W4g4Eo) | [2016](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos) | [2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
 * Lambda World: [Cádiz 2019](https://www.youtube.com/playlist?list=PL4yAk3UBuBSodrYlJN8iRKHuFR5proxfI) | [Cádiz 2018](https://www.youtube.com/playlist?list=PL4yAk3UBuBSo8tUZD8opLRVdEe0ZjxHXc) | [Seattle 2018](https://www.youtube.com/playlist?list=PL4yAk3UBuBSo8BMnuUPteqj-AJL26tdAs) | [2017](https://www.youtube.com/playlist?list=PL4yAk3UBuBSrQXe_mZkR4khTNtQ_z5baQ) | [2016](https://www.youtube.com/playlist?list=PL4yAk3UBuBSoH7MfYTGHYlKKeLb2b7QNe) | [2015](https://www.youtube.com/playlist?list=PL4yAk3UBuBSobwxE4M_2V9DGMOUrkZGfa)
 * [Curry On!](https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w)
 * [Scale by the Bay 2017](https://www.youtube.com/playlist?list=PLNESult6cnOkDeaaEhq192kdsbMPc3dIJ)
@@ -3076,6 +3078,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### HASKELL - HEDIS
 
 * Hedis: Haskell client for the Redis datastore: [Github](https://github.com/informatikr/hedis) | [Hackage](https://hackage.haskell.org/package/hedis)
+
+### HASKELL - PROPERTY-BASED TESTING
+
+* [How to specify it! A guide to writing properties of pure functions - John Hughes (LambdaDays 2020)](https://www.youtube.com/watch?v=G0NUOst-53U&list=PLvL2NEhYV4ZsV9Bw0wp1P46SOdtk4pFW6&index=3)
 
 ### HASKELL - SEMANTIC
 
@@ -5159,6 +5165,7 @@ Peter R. Egli:
 
 ### TESTING - PROPERTY-BASED TESTING
 
+* [How to specify it! A guide to writing properties of pure functions - John Hughes (LambdaDays 2020)](https://www.youtube.com/watch?v=G0NUOst-53U&list=PLvL2NEhYV4ZsV9Bw0wp1P46SOdtk4pFW6&index=3)
 * [Property based tests for the masses - Romeu Moura (CodeMesh LDN 2018)](https://codesync.global/media/property-based-tests-for-the-masses/)
 
 ### TESTING - UNIT TESTS
@@ -5469,6 +5476,7 @@ Peter R. Egli:
 * [Markdown](http://daringfireball.net/projects/markdown/)
 * [Markdown: The Easy Way to Write, Edit & Format Your Book - Carla King](https://www.bookworks.com/2019/05/markdown-text-editor-write-format-book/)
 * [Marked 2 (not free but apparently awesome previewer)](http://marked2app.com/)
+* [mdBook: Create book from markdown files. Like Gitbook but implemented in Rust](https://github.com/rust-lang/mdBook) | [Documentation (itself an mdBook)](https://rust-lang.github.io/mdBook/)
 * [MultiMarkdown Composer v4 (Mac only)](https://multimarkdown.com/composer4/)
 * [Softcover.io](https://www.softcover.io/)
 * [StackEdit (In-browser)](https://stackedit.io/)
@@ -5478,6 +5486,7 @@ Peter R. Egli:
 ### WRITING/PUBLISHING - PANDOC
 
 * [Pandoc: Universal Document Converter](http://pandoc.org/) | [User's Guide (online)](https://pandoc.org/MANUAL.html) | [User's Guide (PDF)](https://pandoc.org/MANUAL.pdf)
+* [Writing a Book with Pandoc, Make, and Vim - Vladimir Keleshev](https://keleshev.com/my-book-writing-setup/)
 * [Imagine: Pandoc filter to process codeblocks into images and/or ascii art](https://github.com/hertogp/imagine)
 * [pandoc-book-template: simple Pandoc template to build documents and ebooks - Wikiti](https://github.com/wikiti/pandoc-book-template)
 * [Sustainable Authorship in Plain Text using Pandoc and Markdown - Dennis Tenen and Grant Wythoff](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)

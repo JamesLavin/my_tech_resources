@@ -391,6 +391,10 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * Fantasy Land: Specification for interoperability of common algebraic structures in JavaScript: [Github](https://github.com/fantasyland/fantasy-land)
 * [Implementations](https://github.com/fantasyland/fantasy-land/blob/master/implementations.md)
 
+#### JAVASCRIPT - FUNCTIONAL PROGRAMMING - FOLKTALE
+
+* [Folktale: A standard library for functional programming in JavaScript](https://github.com/origamitower/folktale)
+
 #### JAVASCRIPT - FUNCTIONAL PROGRAMMING - IMMUTABLE.JS
 
 * [Immutable.js](https://github.com/facebook/immutable-js)
@@ -410,6 +414,11 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [Thinking in Ramda - Randy Coulman](https://randycoulman.com/blog/categories/thinking-in-ramda/)
 * [Compare JavaScript, Ramda, and Elm - Roman Zolotarev](https://rgz.ee/js-ramda-elm.html)
 * [Ramda.js Functional Javascript - Chyld Studios](https://www.youtube.com/playlist?list=PLHtrWoWKwFxFAs6Ki1x07G5KBJt9-OUjj)
+
+#### JAVASCRIPT - FUNCTIONAL PROGRAMMING - STATIC-LAND
+
+* [Static-land: Specification for common algebraic structures in JavaScript based on Fantasy Land](https://github.com/fantasyland/static-land)
+* [The Task Monad in Javascript: pure asynchronous effects you can compose - Keith Alexander](https://kwijibo.github.io/task-monad-in-javascript/)
 
 ### JAVASCRIPT - FUNCTIONAL REACTIVE PROGRAMMING
 

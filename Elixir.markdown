@@ -6,6 +6,13 @@ Links to resources I have found useful or think might be helpful to future me or
 
 [Jump to Erlang](#erlang)
 
+## CONVERTING BETWEEN ELIXIR & ERLANG
+
+* [Erlang Interoperability - ElixirSchool.com](https://elixirschool.com/en/lessons/advanced/erlang/)
+* [Erlang/Elixir Syntax: A Crash Course - Elixir-lang.org](https://elixir-lang.org/crash-course.html)
+* [Why do Erlang Modules Look Like Atoms in Elixir - Tyler Pachal](https://medium.com/@tylerpachal/why-do-erlang-modules-look-like-atoms-in-elixir-9fb2f964dd2b)
+* ExToErl - Convert Elixir expressions into Erlang: [Docs](https://hexdocs.pm/ex_to_erl/ExToErl.html) | [Github](https://github.com/tmbb/ex_to_erl)
+
 ## ELIXIR
 
 ### ELIXIR - GETTING STARTED
@@ -153,6 +160,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Dockyard](https://dockyard.com/blog/categories/elixir)
 * [East 5th](http://www.east5th.co/blog/)
 * [Elixir Alchemy (AppSignal)](https://blog.appsignal.com/elixir-alchemy)
+* [Elixir Digest](https://elixirdigest.net/digests)
 * [Elixir Dose](http://www.elixirdose.com/)
 * [Elixir Radar](http://plataformatec.com.br/elixir-radar)
 * [ElixirStatus.com](http://elixirstatus.com/)
@@ -165,6 +173,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Pug Automatic - Henrik Nyh](http://thepugautomatic.com/)
 * [Red Shift](https://shift.infinite.red/tagged/elixir)
 * [Thoughtbot](https://robots.thoughtbot.com/tags/elixir)
+* [Tyler Pachal](https://medium.com/@tylerpachal)
 * [What Did I Learn -  Vitaly Tatarintsev](http://whatdidilearn.info/)
 
 ### ELIXIR - BOOKS
@@ -469,6 +478,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - ERROR HANDLING
 
+* [Using tuple-wrapping to improve `with` expressions in Elixir - Tyler Pachal](https://medium.com/@tylerpachal/using-tuple-wrapping-to-improve-with-expressions-in-elixir-f491b06265fa)
 * [Error-free Elixir - Maciej Kaszubowski (Code Elixir LDN 19)](https://www.youtube.com/watch?v=PwfOARkogDI)
 * [Error Handling in Elixir Libraries - Michal Muskala](http://michal.muskala.eu/2017/02/10/error-handling-in-elixir-libraries.html)
 
@@ -481,6 +491,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Taming :ets for High-Performance Software - Mike Binns](https://dockyard.com/blog/2019/03/07/taming-ets-for-high-performance-software) | [ets (Github)](https://github.com/TheFirstAvenger/ets) | [ets (Hex.pm)](https://hex.pm/packages/ets)
 * [An Introduction to ETS Tables in Elixir - Ilya Bodrov](https://code.tutsplus.com/articles/ets-tables-in-elixir--cms-29526<Paste>)
 * [Optimizing Your Elixir and Phoenix projects with ETS - Chris McCord](https://dockyard.com/blog/2017/05/19/optimizing-elixir-and-phoenix-with-ets)
+* [Tracking Down an ETS-related Memory Leak - Tyler Pachal](https://medium.com/@tylerpachal/tracking-down-an-ets-related-memory-leak-a115a4499a2f)
 
 ### ELIXIR - EVENT SOURCING/CQRS
 
@@ -691,6 +702,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [GenServer, Registry, DynamicSupervisor. Combined - Unnawut Leepaisalsuwanna](https://dev.to/unnawut/genserver-registry-dynamicsupervisor-combined-4i9p)
 * [Implementing long-running business processes - Karolis Petrauskas (Code BEAM STO 19)](https://www.youtube.com/watch?v=8-fKdVlELFc)
 * Michael @ omgneering: [GenServer basics](https://www.youtube.com/watch?v=zC7TcrRi46Q) | [GenServer Callbacks and concurrency](Elixir GenServer callbacks and concurrency) | [Supervisor](https://www.youtube.com/watch?v=Gdf8JXeaPjw) | [Application (Part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM) | [Application (Part 2)](https://www.youtube.com/watch?v=rMwEQZewDyk)
+* [Elixir GenServers for Web Developers - Damon Janis](https://medium.com/@damonvjanis/elixir-genservers-for-web-developers-255d37a3699c)
 * [Processes and Supervision in Elixir - Steve Grossi](https://www.youtube.com/watch?v=eUxang6_WQA)
 * [Designing Elixir Systems with OTP | Bruce Tate (Erlang Solutions Webinar)](https://www.youtube.com/watch?v=8xbnA5xWdmI)
 * Building the Go Game in Elixir - Jeff Kreeftmeijer: [Part 1: With Phoenix LiveView](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html) | [Part 2: Time Travel and the Ko Rule](https://blog.appsignal.com/2019/07/04/elixir-alchemy-building-go-in-elixir-time-travel-and-the-ko-rule.html) | [Part 3: With Elixir's Registry, PubSub and dynamic supervisors](https://blog.appsignal.com/2019/08/13/elixir-alchemy-multiplayer-go-with-registry-pubsub-and-dynamic-supervisors.html)
@@ -733,6 +745,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PERFORMANCE
 
 * [Building A Highly Scalable Service that Survived A Super Bowl - Keith Elder (Code BEAM SF 2019)](https://www.youtube.com/watch?v=lXiiiLhwBI4)
+* [JVM struggles and the BEAM - Joel Kemp](https://medium.com/@mrjoelkemp/jvm-struggles-and-the-beam-4d9c58547410)
 * [What's Inside a Reduction? - Devon Estes](http://devonestes.com/inside-a-reduction)
 * [Monitoring Production Elixir Applications - John Kelly (EMPEX 2017)](https://www.youtube.com/watch?v=nIRGF61_Go8)
 * [Measuring your Elixir Application - Renan Ranelli (ElixirConf 2016)](https://www.youtube.com/watch?v=3KhzyDDju0Q) | [Blog post: "A guide to measuring your Elixir app](http://milhouseonsoftware.com/2016/05/08/measuring-your-elixir-application/)
@@ -865,13 +878,14 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ELIXIR - PHOENIX - LIVE VIEW
 
-* [Phoenix Live View](https://github.com/phoenixframework/phoenix_live_view)
+* Phoenix Live View: [Documentation](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html) | [Github](https://github.com/phoenixframework/phoenix_live_view)
 * [Phoenix LiveView for web developers who don't know Elixir - ](https://www.youtube.com/watch?v=U_Pe8Ru06fM)
 * [Easy Push Updates in the Browser with Phoenix LiveView - Geoffrey Lesseli (FullStack Talks 2019)](https://www.youtube.com/watch?v=2Zaj_1htERc)
 * [Phoenix Live View: A step-change for web development - Chris McCord (ElixirConf 2019)](https://www.youtube.com/watch?v=XhNv1ikZNLs)
+* [Phoenix LiveView 0.11.0 - Plangora](https://www.youtube.com/watch?v=1cLXff5aIN4)
+* [Real-time autosave with Phoenix LiveView - Janez Urevc](https://janezurevc.name/real-time-auto-save-phoenix-liveview)
 * Beyond LiveView: Real-Time Features with Phoenix LiveView, PubSub, Presence, and Channels - Sophie DeBenedetto: [(The Big Elixir 2019)](https://www.youtube.com/watch?v=yo8Y1SUGW1w) | [(ElixirConf 2019)](https://www.youtube.com/watch?v=AbNAuOQ8wBE)
 * [Walk-Through of Phoenix LiveView - Sophie DeBenedetto](https://elixirschool.com/blog/phoenix-live-view/)
-* [LiveView Design Patterns - LiveComponent and the Single Responsibility Principle - Sophie DeBenedetto](https://elixirschool.com/blog/live-view-live-component/)
 * [Building a Table Sort UI with Live View's 'live_link' - Sophie DeBenedetto](https://elixirschool.com/blog/sorting-a-table-with-live-view-live-links/)
 * [Tracking Users in a Chat App with LiveView, PubSub Presence - Sophie DeBenedetto](https://elixirschool.com/blog/live-view-with-presence/)
 * [Phoenix LiveView Demystified - Alex Garibay (ElixirConf 2019)](https://www.youtube.com/watch?v=9eOo8hSbMAc)
@@ -891,6 +905,18 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Libu: Simple KanBan Project Management tool built with Elixir, Phoenix, LiveView, and Tailwind CSS - Zach Blanco](https://github.com/zblanco/libu)
 * [Table pagination, sorting, and filtering using LiveView - Joe Richsen](https://github.com/joerichsen/phoenix_live_view_example/blob/table_example/lib/demo_web/live/table_live.ex)
 * hippo_game_live - Milada & Černa Ovec: [Github](https://github.com/miladamilli/hippo_game_live) | [Play online](https://elegant-monstrous-planthopper.gigalixirapp.com/)
+
+##### ELIXIR - PHOENIX - LIVE VIEW - LIVE COMPONENTS
+
+* [LiveComponent documentation](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html)
+* [Phoenix LiveComponent - Elixir's React + Redux? - David Raffauf](https://www.youtube.com/watch?v=bhdeHhwDFQo)
+* [LiveView Design Patterns - LiveComponent and the Single Responsibility Principle - Sophie DeBenedetto](https://elixirschool.com/blog/live-view-live-component/)
+
+##### ELIXIR - PHOENIX - LIVE VIEW - LIVE VIEW DASHBOARD
+
+* [Instrumenting Phoenix with Telemetry and LiveDashboard - Sophie DeBenedetto](https://elixirschool.com/blog/instrumenting-phoenix-with-live-dashboard/)
+* [Phoenix LiveView Dashboard - Plangora](https://www.youtube.com/watch?v=Nqr5ly35tu8)
+* [Phoenix LiveView Dashboard Metrics - Plangora](https://www.youtube.com/watch?v=ZrgtOp-wS0w)
 
 #### ELIXIR - PHOENIX - PERFORMANCE
 
@@ -1055,11 +1081,18 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [Elixir string interpolation for the Rubyist (and others) - Henrik Nyh](http://thepugautomatic.com/2016/01/elixir-string-interpolation-for-the-rubyist/)
 
+### ELIXIR - TELEMETRY
+
+* Telemetry: [Github](https://github.com/beam-telemetry/telemetry)
+* [Introducing Telemetry - Arkadiusz Gil](https://www.erlang-solutions.com/blog/introducing-telemetry.html)
+* Instrumenting Phoenix with Telemetry - Sophie DeBenedetto: [Part I: Telemetry Under The Hood](https://elixirschool.com/blog/instrumenting-phoenix-with-telemetry-part-one/)
+
 ### ELIXIR - TESTING
 
 * [TDD is not about testing - Gianluca Padovani (Code BEAM STO 19)](https://www.youtube.com/watch?v=AVKpChQoXXE)
 * [Testing in an Elixir world - Rafael Rocha (Code BEAM STO 19)](https://www.youtube.com/watch?v=M8rv-gvTG-M)
 * [4 Tips for Mastering Test-Driven Development - Nicolas Talfer](https://www.welcometothejungle.com/fr/articles/tips-test-driven-development)
+* [Custom ExUnit Assertion - Tyler Pachal](https://medium.com/@tylerpachal/custom-exunit-assertion-d9b93cfba4a4)
 * [Track-switching in a large Elixir web application - 9elements](https://medium.com/9elements/track-switching-in-a-large-elixir-web-application-31522d5ac457)
 * [Lightweight dependency injection in Elixir (without the tears) - Andrew Hao](https://blog.carbonfive.com/2018/03/19/lightweight-dependency-injection-in-elixir-without-the-tears/)
 * [Mocks and explicit contracts - José Valim](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
@@ -1390,6 +1423,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Essential Erlang/OTP - Garrett Smith](https://www.youtube.com/watch?v=0ZGHzI9F5YE)
 * [Pretty State Machine - Jeff Smith (Code BEAM SF 2019)](https://www.youtube.com/watch?v=KuZ_wp8W09U)
 * [gen_statem - The Tool You Never Knew You Always Wanted - Raimo Niskanen (Code BEAM SF 2018)](https://www.youtube.com/watch?v=f_jl6MR3kXQ)
+* [How to start processes with dynamic names in Elixir - Justin Toniazzo](https://thoughtbot.com/blog/how-to-start-processes-with-dynamic-names-in-elixir)
 * [OTP Has Done It - Nick DeMonner (ElixirConf 2015)](https://www.youtube.com/watch?v=yBReonQlfL4)
 * [The Pooler Story: How I Learned OTP by Writing a Connection Pool - Seth Falcon (Erlang Factory SF 2013)](https://www.youtube.com/watch?v=BTuJtqvbpI8)
 * [The Zen of Erlang - Fred Hebert (Reactive Summit 2016)](https://www.youtube.com/watch?v=4ZIPijEqrNI)
@@ -1416,6 +1450,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ERLANG - PERFORMANCE
 
+* [Squeezing the most out of the server: Erlang Profiling - Facundo Olano](http://tech.nextroll.com/blog/dev/2020/04/07/erlang-profiling.html)
 * [Comparison of Erlang Runtime System and Java Virtual Machine - Tõnis Pool](http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf)
 * [Faults, Scaling, and Erlang concurrency - Joe Armstrong (Stanford University seminar 2014)](https://www.youtube.com/watch?v=YaUPdgtUYko)
 * [Useless performance optimisations on the BEAM for fun - Daniel Szoboszlay (Code BEAM STO 19)](https://www.youtube.com/watch?v=qEo-nIMEGAc)
