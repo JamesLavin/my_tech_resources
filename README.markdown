@@ -667,6 +667,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How to Achieve Your Most Ambitious Goals - Stephen Duneier (TEDxTucson)](https://www.youtube.com/watch?v=TQMbvJNRpLE)
 * [Don't Do These 68 Things in Your SaaS Company - Anand Sanwal (SaaStr 2017)](https://www.youtube.com/watch?v=fx1OXZAGd-I)
 * [Startups, Entrepreneurship, and Making Your Tech Business Work - Full Sail University 2017](https://www.youtube.com/watch?v=fFMpmboNGuY)
+* [Why do so many startups fail? - Chicago Booth Review](https://www.youtube.com/watch?v=l_9OGlnAT58)
 * [Evidence-based Entrepreneurship - Steve Blank (The Lean Startup Conference 2013)](https://www.youtube.com/watch?v=zjvEanpktEo)
 * [Tim Ferriss's advice on starting a business or podcast - Tim Ferriss](https://www.youtube.com/watch?v=ymiBDged-eQ)
 * Laura Klein: [So You Want to Build the Next Facebook (Lean Startup Conference 2015)](https://www.youtube.com/watch?v=cUrZTtE00d4) | [Identify and Validate Your Riskiest Assumptions (Lean Startup Conference 2014)](https://www.youtube.com/watch?v=SrzJqsedjC0)
