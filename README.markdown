@@ -1148,6 +1148,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The 2019 UI Design Crash Course for Beginners - Gary Simon](https://www.youtube.com/watch?v=_Hp_dI0DzY4)
 * [UI/UX Design Ayana Campbell Smith - 1 of 3](https://www.youtube.com/watch?v=2L6kH0bBJIA) | [2 of 3](https://www.youtube.com/watch?v=Mpr5iNX0pYo) | [3 of 3](https://www.youtube.com/watch?v=YLJuqWTwskY)
 
+### CSS - VIDEOS
+
+CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBzpOHJdaI7LT8JQtPfI) | [EU 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshERVKLkJdt5lpjJ1xqEJc17) | [EU 2018](https://www.youtube.com/playlist?list=PL37ZVnwpeshHJSJf46Rk4B8amvm7Ecu58) | [EU 2017](https://www.youtube.com/watch?v=-9lhH72KlKY&list=PL37ZVnwpeshF0XmpjKBJ3-0kvr3b5ZpJR) | [More](https://www.youtube.com/user/jsconfeu/playlists)
+
 ## DATA
 
 * [ProgrammableWeb.com](http://www.programmableweb.com/category)
@@ -1477,9 +1481,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Graph Databases Will Change Your Freakin' Life - Ed Finkler](https://www.youtube.com/watch?v=GekQqFZm7mA)
 * [From Relational to Graph: A Developer's Guide - Michael Hunger](https://dzone.com/refcardz/from-relational-to-graph-a-developers-guide?chapter=1)
 
+#### DATABASES - GRAPH DATABASES - GRAPHML
+
+* [GraphML](http://graphml.graphdrawing.org/)
+* GraphSON: [Tips for working with GraphSON and TinkerPop systems - Noah Burrell](https://developer.ibm.com/dwblog/2017/tips-help-graphson-tinkerpop/) | [GraphSON Reader and Writer Library](https://github.com/tinkerpop/blueprints/wiki/GraphSON-Reader-and-Writer-Library)
+
 #### DATABASES - GRAPH DATABASES - GREMLIN/TINKERPOP
 
-* Apache Tinkerpop: [Website](http://tinkerpop.apache.org/) | [Docs](http://tinkerpop.apache.org/docs/current/reference/) | [Getting Started](http://tinkerpop.apache.org/docs/3.4.4/tutorials/getting-started/) | [Gremlin Console](http://tinkerpop.apache.org/docs/3.4.4/tutorials/the-gremlin-console/) | [Gremlin's Anatomy](http://tinkerpop.apache.org/docs/3.4.4/tutorials/gremlins-anatomy/) | [Gremlin Recipes](http://tinkerpop.apache.org/docs/3.4.4/recipes/) | [Language Variants](http://tinkerpop.apache.org/docs/3.4.4/tutorials/gremlin-language-variants/)
+* Apache Tinkerpop: [Website](http://tinkerpop.apache.org/) | [Docs](http://tinkerpop.apache.org/docs/current/reference/) | [Getting Started](http://tinkerpop.apache.org/docs/current/tutorials/getting-started/) | [Gremlin Console](http://tinkerpop.apache.org/docs/current/tutorials/the-gremlin-console/) | [Gremlin's Anatomy](http://tinkerpop.apache.org/docs/current/tutorials/gremlins-anatomy/) | [Gremlin Recipes](http://tinkerpop.apache.org/docs/current/recipes/) | [Language Variants](http://tinkerpop.apache.org/docs/current/tutorials/gremlin-language-variants/)
 * [SQL2Gremlin: transition from SQL to Gremlin - Daniel Kuppitz](http://sql2gremlin.com/)
 * Practical Gremlin: An Apache TinkerPop Tutorial (book) - Kelvin R. Lawrence: [HTML](http://kelvinlawrence.net/book/Gremlin-Graph-Guide.html) | [PDF](https://kelvinlawrence.net/book/Gremlin-Graph-Guide.pdf) | [Github](https://github.com/krlawrence/graph)
 * [The Gremlin Compendium, minimum survival kit for any Gremlin user - Doan DuyHai](http://www.doanduyhai.com/blog/?p=13460)
@@ -1550,8 +1559,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * JanusGraph: [Website](http://janusgraph.org/) | [Github](https://github.com/JanusGraph/janusgraph/) | [Documentation](http://docs.janusgraph.org/latest/) | [Getting Started](http://docs.janusgraph.org/latest/getting-started.html)
 * [Intro to JanusGraph Database - Jason Plurad, IBM (KubeCon + CloudNativeCon China 2019)](https://www.youtube.com/watch?v=_3YP3QI_cYk)
+* Getting Started with JanusGraph – Chris Hupman: [Part 1: Deployment](https://developer.ibm.com/dwblog/2018/whats-janus-graph-learning-deployment/) & [Part 2: Indexes & Traversals](https://developer.ibm.com/dwblog/2018/janusgraph-composite-mixed-indexes-traversals/) | [Part 3: Administrative Operations](https://developer.ibm.com/dwblog/2018/janusgraph-administrative-operations-backups/)
+* JanusGraph tips and tricks: Index troubleshooting & data mobility – Chris Hupman: [Part 1](https://developer.ibm.com/articles/janusgraph-tips-and-tricks-pt-1/) & [Part 2](https://developer.ibm.com/articles/janusgraph-tips-and-tricks-pt-2/)
 * [JanusGraph Helm chart](https://github.com/helm/charts/tree/master/stable/janusgraph)
 * [Query Analysis on a Distributed Graph Database - Lucie Svitakova](https://dspace.cvut.cz/bitstream/handle/10467/80246/F8-DP-2019-Svitakova-Lucie-thesis.pdf)
+* [Develop a graph database app using JanusGraph - Yi-Hong Wang, Ted Chang, Simeon Monov](https://developer.ibm.com/patterns/develop-graph-database-app-using-janusgraph/) & [janusgraph-utils (sample data and code for running a Twitter-like application in JanusGraph)](https://github.com/IBM/janusgraph-utils)
 
 ### DATABASES - KINTO
 
@@ -2136,6 +2148,8 @@ Links to resources I have found useful or think might be helpful to future me or
 #### DEVOPS - KUBERNETES - ARGO
 
 * [Argo: The workflow engine for Kubernetes](https://applatix.com/open-source/argo/) | [Github](https://github.com/argoproj/argo)
+* [Introduction to Argo CD : Kubernetes DevOps CI/CD - Marcel Dempers](https://www.youtube.com/watch?v=2WSJF7d8dUg)
+* [GitOps at Scale with Jenkins and Argo CD on Kubernetes - Mukulika Kapas & Deepthi Panthula](https://www.youtube.com/watch?v=4owbdHzfyMY)
 
 #### DEVOPS - KUBERNETES - BRIGADE
 
@@ -2333,6 +2347,11 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Stern: Multi-pod & container log tailing for Kubernetes](https://github.com/wercker/stern)
 * [Kail: Kubernetes tail](https://github.com/boz/kail)
 * [Kubetail: Bash script to tail Kubernetes logs from multiple pods](https://github.com/johanhaleby/kubetail)
+
+#### DEVOPS - KUBERNETES - MICROK8S
+
+* MicroK8s: [Website](https://microk8s.io/) | [Github](https://github.com/ubuntu/microk8s)
+* [Learn Kubernetes with MicroK8s - Jamie Phillips (DevOps Knoxville, Jan 2020)](https://www.youtube.com/watch?v=qmnH5Z4nsRU)
 
 #### DEVOPS - KUBERNETES - MONITORING
 
@@ -4029,11 +4048,6 @@ Peter R. Egli:
 * [DBeaver.io](https://dbeaver.io/)
 * [Documentation (PDF)](https://dbeaver.com/files/documentation.pdf)
 
-#### POSTGRESQL - KUBERNETES
-
-* [Kubernetes PostgreSQL Operator - CrunchyData](https://github.com/CrunchyData/postgres-operator)
-* [Kubernetes PostgreSQL Operator - Zalando](https://github.com/zalando/postgres-operator)
-
 ### POSTGRESQL - JSON / JSONB
 
 * [Using JSON in PostgreSQL - Andrew Dunstan (PostgresOpen SV 2018)](https://www.youtube.com/watch?v=tMT16q9pqp0)
@@ -4041,6 +4055,11 @@ Peter R. Egli:
 * [Unleash the Power of Storing JSON in Postgres - Leigh Halliday](https://blog.codeship.com/unleash-the-power-of-storing-json-in-postgres/)
 * [Faster Operations with the JSONB Data Type in PostgreSQL - Lucero Del Alba](https://www.compose.com/articles/faster-operations-with-the-jsonb-data-type-in-postgresql/)
 * [Working with JSON and PostgreSQL - Rene](http://redsofa.ca/post/working_with_json_in_postgresql/)
+
+### POSTGRESQL - KUBERNETES
+
+* [Kubernetes PostgreSQL Operator - CrunchyData](https://github.com/CrunchyData/postgres-operator)
+* [Kubernetes PostgreSQL Operator - Zalando](https://github.com/zalando/postgres-operator)
 
 ### POSTGRESQL - MONITORING
 
@@ -4070,6 +4089,10 @@ Peter R. Egli:
 * [Debezium: Change data capture for a variety of databases](https://github.com/debezium/debezium) & [Debezium.io](http://debezium.io/)
 * [BottledWater: Change data capture from PostgreSQL into Kafka (Confluent.com)](https://github.com/confluentinc/bottledwater-pg)
 * [repmgr: Replication Manager for PostgreSQL](https://github.com/2ndQuadrant/repmgr)
+
+### POSTGRESQL - SUPABASE
+
+* [Realtime: Elixir server (Phoenix) that allows you to listen to changes in your database via websockets](https://github.com/supabase/realtime) | [Supabase.io](https://supabase.io/)
 
 ### POSTGRESQL - TIMESCALEDB
 

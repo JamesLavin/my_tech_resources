@@ -14,6 +14,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [Javascript.com](https://www.javascript.com/resources)
 * [33 Concepts Every JavaScript Developer Should Know - Leonardo Maldonado](https://github.com/leonardomso/33-js-concepts)
 * [Learning JavaScript Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Get better at JavaScript with just JavaScript - Wes Bos](https://www.youtube.com/watch?v=pws4qzGn5ak)
 * [Learn JavaScript - Codecademy](https://www.codecademy.com/learn/javascript)
 * [23 Free JavaScript Books - HackerLists.com](https://hackerlists.com/free-javascript-books/)
 * [Essential JavaScript Links - Eric Elliott](https://github.com/ericelliott/essential-javascript-links/)
@@ -29,7 +30,6 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [Advanced Scoping & Other Puzzles (Vincenzo Tilotta)](http://www.youtube.com/watch?v=RnpPDoSzpYs)
 * [JavaScript For Cats - An Introduction for New Programmers](http://jsforcats.com/)
 * [Nice discussion of scope chains, hoisting, self-executing anonymous functions, execution context, closures & module pattern (starting 28 minutes in)](http://www.youtube.com/watch?v=OrIFaWJ9Glo)
-* [Khan Academy](http://www.khanacademy.org/cs/tutorials/all-tutorials)
 * Crockford videos: [1](http://www.youtube.com/watch?v=JxAXlJEmNMg) [2](http://www.youtube.com/watch?v=RO1Wnu-xKoY) [3](http://www.youtube.com/watch?v=ya4UHuXNygM) [4](http://www.youtube.com/watch?v=Fv9qT9joc0M) [5](http://www.youtube.com/watch?v=47Ceot8yqeI) [6](http://www.youtube.com/watch?v=QgwSUtYSUqA) [7](http://www.youtube.com/watch?v=UTEqr0IlFKY) [8](http://www.youtube.com/watch?v=taaEzHI9xyY) [Advanced Javascript](http://www.youtube.com/watch?v=DwYPG6vreJg) [Good Parts](http://www.youtube.com/watch?v=_DKkVvOt6dk) [JS: Your New Overlord](http://www.youtube.com/watch?v=Trurfqh_6fQ)
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/JavaScript)
 * [Programming JavaScript Applications - Eric Elliott](https://ericelliottjs.com/product/programming-javascript-applications-paper-ebook-bundle/)
@@ -701,6 +701,8 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 ### JAVASCRIPT - VIDEOS
 
 * [FunFunFunction](https://www.youtube.com/playlist?list=PL0zVEGEvSaeFSwPn06GKArptSxiP1Gff8)
+* JSConf: [Hawaii 2020](https://www.youtube.com/playlist?list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1) | [Budapest 2019](https://www.youtube.com/watch?v=OkovPZ1mVBI&list=PL37ZVnwpeshEMCvdYDdZ09Sy-toTftWu0) | [Korea 2019](https://www.youtube.com/watch?v=hbsIOHktvfo&list=PL37ZVnwpeshGanWnYhTdoFLM2IDF28MaQ) | [EU 2019](https://www.youtube.com/watch?v=MO8hZlgK5zc&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu) | [Asia 2019](https://www.youtube.com/watch?v=Ru8pmAyZARI&list=PL37ZVnwpeshEHcw37PA29vZCJRoIER9r3) | [More](https://www.youtube.com/user/jsconfeu/playlists)
+* JAMstack Conference: [2019 San Francisco](https://www.youtube.com/playlist?list=PL58Wk5g77lF_gCGGqbVZMBun9x70yC4o-) | [2019 London](https://www.youtube.com/playlist?list=PL58Wk5g77lF8yBcRouUcOv5dRz0rmDzKD) | [2019 New York](https://www.youtube.com/playlist?list=PL58Wk5g77lF9_tthBm3jHQJedDvPSURhd) | [2018 San Francisco](https://www.youtube.com/playlist?list=PL58Wk5g77lF-UQ39pejLX2Zn5DxQyExBa)
 * [JS Remote Conf 2015](https://www.youtube.com/watch?v=sIWekh32LG4&list=PLt8NYnKC3dzL95z5xksIZHxFjErPlC3Xq)
 * [JS Conf EU 2015](http://confreaks.tv/events/jsconfeu2015)
 

@@ -96,16 +96,35 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Closures: Elixir vs. Ruby vs. JavaScript - Hubert Łępicki](https://www.amberbit.com/blog/2015/6/14/closures-elixir-vs-ruby-vs-javascript/)
 * [ExMachina for Elixir: Factories with a Functional Twist - Josh Steiner & Paul Smith](https://robots.thoughtbot.com/announcing-ex-machina)
 
+### ELIXIR - 1.10
+
+* [Elixir v1.10 released](https://elixir-lang.org/blog/2020/01/27/elixir-v1-10-0-released/)
+
+### ELIXIR - 1.9
+
+* [Elixir v1.9 released](https://elixir-lang.org/blog/2019/06/24/elixir-v1-9-0-released/)
+
+### ELIXIR - 1.8
+
+* [Elixir v1.8 released](https://elixir-lang.org/blog/2019/01/14/elixir-v1-8-0-released/)
+
+### ELIXIR - 1.7
+
+* [Elixir v1.7 released](https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/)
+
 ### ELIXIR - 1.6
 
+* [Elixir v1.6 released](https://elixir-lang.org/blog/2018/01/17/elixir-v1-6-0-released/)
 * [José Valim- Introducing HDD: Hughes Driven Development (Lambda Days 2018)](https://www.youtube.com/watch?v=78GRqQVt6ks)
 
 ### ELIXIR - 1.5
 
+* [Elixir v1.5 released](https://elixir-lang.org/blog/2017/07/25/elixir-v1-5-0-released/)
 * [The Feature That No One Knew About in Elixir 1.5 - José Valim (Elixir.LDN 2017)](https://www.youtube.com/watch?v=p4uE-jTB_Uk)
 
 ### ELIXIR - 1.4
 
+* [Elixir v1.4 released](https://elixir-lang.org/blog/2017/01/05/elixir-v1-4-0-released/)
 * [Using the Registry in Elixir 1.4 - Adam Mokan](https://medium.com/@adammokan/registry-in-elixir-1-4-0-d6750fb5aeb)
 * [Changelog](https://github.com/elixir-lang/elixir/blob/v1.4/CHANGELOG.md)
 
@@ -153,8 +172,6 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - BLOGS
 
-* [App Signal](https://blog.appsignal.com/)
-* [Big Nerd Ranch](https://www.bignerdranch.com/blog/?q=Elixir)
 * [Carbon Five](https://blog.carbonfive.com/category/elixir/)
 * [DennisBeatty.com](https://dennisbeatty.com/)
 * [Dockyard](https://dockyard.com/blog/categories/elixir)
@@ -793,6 +810,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Serving Plug: Building an Elixir HTTP server from scratch - Jeff Kreeftmeijer](https://blog.appsignal.com/2019/01/22/serving-plug-building-an-elixir-http-server.html)
 * [Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide)
 
+#### ELIXIR - PHOENIX - 1.5
+
+* [Phoenix Documentation](https://hexdocs.pm/phoenix/Phoenix.html)
+* [Phoenix 1.4.x to 1.5.0 upgrade instructions - Chris McCord](https://gist.github.com/chrismccord/e53e79ef8b34adf5d8122a47db44d22f)
+
 #### ELIXIR - PHOENIX - 1.4
 
 * [Let's do Elixir and Phoenix together - Chris McCord (ElixirConf EU 2018)](https://www.youtube.com/watch?v=MTT1Jl4Fs-E)
@@ -1225,6 +1247,10 @@ Consequently, much of the following will soon be at least partially outdated:
 * ["Elixir and the Internet of Things" - Doug Rohrer (Strangeloop 2014)](https://www.youtube.com/watch?v=a-OCorBXX7M)
 * [The Climb Experiencing the Rise of Elixir from the Inside - Bruce Tate & Dave Thomas (Erlang Factory SF 2016)](https://www.youtube.com/watch?v=fklep3sUSWo)
 * [Elixir - A modern approach to programming for the Erlang VM - José Valim](https://vimeo.com/53221562) (old but still informative)
+
+### ELIXIR - WEB CRAWLING
+
+* Crawly - Oleg Tarasenko: [Github](https://github.com/oltarasenko/crawly) | [Web scraping with Elixir](https://www.erlang-solutions.com/blog/web-scraping-with-elixir.html) | [Web scraping with Elixir and Crawly. Browser rendering](https://medium.com/@oltarasenko/web-scraping-with-elixir-and-crawly-browser-rendering-afcaacf954e8)
 
 ### ELIXIR - WEBRTC
 
