@@ -1029,6 +1029,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### CSS - BULMA
 
 * Bulma: [Bulma.io](https://bulma.io/) [Blog](https://bulma.io/blog/) | [Extensions](https://bulma.io/extensions/)
+* [Use Bulma with Webpack](https://bulma.io/documentation/customize/with-webpack/)
 * [Official Documentation](https://bulma.io/documentation/):
   * [Overview](https://bulma.io/documentation/overview/)
   * [Columns](https://bulma.io/documentation/columns/)
@@ -1049,11 +1050,12 @@ Links to resources I have found useful or think might be helpful to future me or
     * [Tag](https://bulma.io/documentation/elements/tag/)
     * [Title](https://bulma.io/documentation/elements/title/)
   * [Extensions](https://wikiki.github.io)
-* [Learn Bulma CSS for free - Zaydek](https://scrimba.com/g/gbulma)
+* [Learn Bulma CSS for free - Zaydek](https://scrimba.com/g/gbulma) & [Learn Bulma CSS in 5 minutes - A tutorial for beginners - Per Harald Borgen](https://www.freecodecamp.org/news/learn-bulma-in-5-minutes-ec5188c53e83/)
 * [Bulma videos](https://bulma.io/videos/)
 * [Bulma CSS Framework Crash Course - Traversy Media](https://www.youtube.com/watch?v=IiPQYQT2-wg)
 * [Learn Bulma in 5 Minutes - Per Harald Borgen](https://medium.freecodecamp.org/learn-bulma-in-5-minutes-ec5188c53e83)
 * [Bulma: CSS framework you should consider in 2018 - Mateusz](https://matwrites.com/bulma-css-framework-for-2018/)
+* [How to Build a Blog Layout With Bulma - George Martsoukos](https://webdesign.tutsplus.com/tutorials/quick-tip-how-to-build-a-blog-layout-with-bulma--cms-28091)
 
 #### CSS - BULMA - BUEFY
 
@@ -1136,6 +1138,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### CSS - SELECTORS
 
 [CSS Selectors Cheatsheet - Nana Jeon](https://www.dropbox.com/s/h2hni9o1m1di989/CSS%20selectors%20cheatsheet.pdf)
+
+### CSS - TAILWIND CSS
+
+* [Adding Tailwind CSS to Phoenix 1.4 and 1.5 - Mike Clark](https://pragmaticstudio.com/tutorials/adding-tailwind-css-to-phoenix)
 
 ### CSS - TEXTURES
 
@@ -1352,6 +1358,17 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 * BarrelDB ("modern document-oriented database in Erlang focusing on data locality (put/match the data next to you) and P2P"): [barrel-db.org](https://barrel-db.org/) | [Github](https://github.com/barrel-db/barrel-platform)
 
+### DATABASES - CASSANDRA
+
+* [Awesome Cassandra](https://github.com/Anant/awesome-cassandra)
+
+#### DATABASES - CASSANDRA - VIDEOS
+
+* [Apache Cassandra Tutorial - JumpstartCS](https://www.youtube.com/playlist?list=PLalrWAGybpB-L1PGA-NfFu2uiWHEsdscD)
+* [Apache Cassandra Developer Workshop - David Gilardi](https://www.youtube.com/watch?v=quoHf0J5-ms)
+* [DataStax Developers](https://www.youtube.com/channel/UCAIQY251avaMv7bBv5PCo-A)
+* [5 Steps to an Awesome Apache Cassandra™ Data Model - Patrick McFadin](https://www.youtube.com/watch?v=wyq_hGFz6Sc)
+
 ### DATABASES - COCKROACHDB
 
 * [CockroachDB: cloud-native SQL database for building global, scalable cloud services that survive disasters](https://github.com/cockroachdb/cockroach)
@@ -1389,6 +1406,11 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 * [Datomic.com](http://www.datomic.com/)
 * [Datomic: Event Sourcing without the hassle - Valentin Waeselynck](https://vvvvalvalval.github.io/posts/2018-11-12-datomic-event-sourcing-without-the-hassle.html)
+
+### DATABASES - DESIGN
+
+* [Intro to Database Systems - Andy Pavlo (Carnegie Mellon - Fall 2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
+* [Advanced Database Systems - Andy Pavlo (Carnegie Mellon - Spring 2020)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
 
 ### DATABASES - ELASTICSEARCH
 
@@ -1614,6 +1636,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [SQL Tutorial - 1KeyData.com](http://www.1keydata.com/sql/sql.html)
 * [PostgreSQL documentation: The SQL Language](http://www.postgresql.org/docs/9.4/interactive/sql.html)
 * [TutorialsPoint.com](http://www.tutorialspoint.com/sql/index.htm)
+* [Advanced SQL and database books and resources - Neil Sainsbury](https://www.neilwithdata.com/advanced-sql)
 
 ### DATABASES - STREAMING REPLICATION
 
@@ -2738,6 +2761,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ## FONTS & TYPOGRAPHY
 
 * [Awesome Font and Typography Resources for Web Designers - Steven Snell](http://www.vandelaydesign.com/font-resources/)
+
+### FONTS & TYPOGRAPHY - FONT AWESOME
+
+* Font Awesome: [Homepage](https://fontawesome.com/) | [(Free) icon search](https://fontawesome.com/icons?d=gallery&m=free) | [Free icon cheatsheet](https://fontawesome.com/cheatsheet/free) | [Using SCSS](https://fontawesome.com/how-to-use/on-the-web/using-with/sass) | [(Non-free) icon search](https://fontawesome.com/icons?d=gallery&m=pro)
 
 ## FUNCTIONAL PROGRAMMING
 
@@ -4519,6 +4546,7 @@ Peter R. Egli:
 * Jfokus: [2016](https://www.youtube.com/playlist?list=PLUQORQEatnJdV2Ib4Edw3jLQJk5b8Rxcd) | [2015](https://www.youtube.com/playlist?list=PLklQqdqnBkPjVWKihmEAchC2kksnNoqIi)
 * [O'Reilly](https://www.youtube.com/user/OreillyMedia/playlists)
 * @Scale: [Systems 2019](https://www.youtube.com/results?search_query=%40Scale+2019) | [DevTools 2017](https://www.youtube.com/playlist?list=PLMu8-hpCxIVFnwEF71ZA_-t1PnQuRiS8U) | [Network 2017](https://www.youtube.com/playlist?list=PLMu8-hpCxIVENuAue7bd0eCAglLGY_8AW) | [2016](https://www.youtube.com/playlist?list=PLyB_05G-OKOFOSyWhZFmme-SNU-TQUVRc) | [2015 & 2014](https://www.youtube.com/channel/UCd9I8ZkgoR1d7GeSj_wi_LQ/playlists)
+* [The Art of Code - Dylan Beattie (NDC {London} 2020)](https://www.youtube.com/watch?v=6avJHaC3C2U) (craziest programming talk I've ever watched)
 * [OSCON 2014](https://www.youtube.com/playlist?list=PL055Epbe6d5Y3njTzpWt0VepR1B7tcRFH)
 * [FutureTalks - NewRelic](https://www.youtube.com/playlist?list=PLmhYj7Jl81JGTfSgMeya2R-zcISDZ9utg)
 * [Forward University](http://forwardjs.com/university)
@@ -5262,6 +5290,7 @@ Peter R. Egli:
 * Ian Langworth: [Vim After 15 Years](https://vimawesome.com/) | [Everything I Missed in "Vim After 11 Years"](https://statico.github.io/vim2.html) | [Vim After 11 Years](https://statico.github.io/vim.html)
 * [Full Vim documentation + Vim FAQ (downloadable PDF)](http://nathangrigg.net/vimhelp/)
 * [A vim Tutorial and Primer - Daniel Miessler](https://danielmiessler.com/study/vim/)
+* [Boost Your Coding Fu With Visual Studio Code and Vim - Jaime González García](https://www.barbarianmeetscoding.com/blog/2019/02/08/boost-your-coding-fu-with-vscode-and-vim)
 * [VimDoc](http://vimdoc.sourceforge.net/htmldoc/)
 * [vim.wikia.com](http://vim.wikia.com/wiki/Vim_documentation)
 * [Vimcasts.org](http://vimcasts.org/)

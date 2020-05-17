@@ -219,6 +219,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * [erlcass: High-Performance Erlang Cassandra driver based on DataStax cpp-driver](https://github.com/silviucpp/erlcass) | [Docs](http://silviucpp.github.io/erlcass/)
 * [cqerl: Native Erlang CQL client for Cassandra](https://github.com/matehat/cqerl) | [Docs](http://matehat.github.io/cqerl/) | [cqex (Elixir wrapper)](https://github.com/matehat/cqex)
 
+#### ELIXIR - CLIENTS - CASSANDRA CLIENTS
+
+* [Xandra: Fast, simple, and robust Cassandra driver for Elixir](https://github.com/lexhide/xandra)
+* [Triton: Cassandra ORM for Elixir](https://github.com/blitzstudios/triton)
+* [Ecto-Cassandra](https://github.com/cafebazaar/ecto-cassandra)
+* [Elixir-Cassandra](https://github.com/cafebazaar/elixir-cassandra)
+* [erlcass: Erlang Cassandra driver, based on DataStax cpp driver focused on performance](https://github.com/silviucpp/erlcass), based on the [DataStax C/C++ Driver for Apache Cassandra](https://github.com/datastax/cpp-driver)
+* [cqex](https://github.com/matehat/cqex) & [cqerl](https://github.com/matehat/cqerl/)
+* [marina: High-performance Erlang Cassandra CQL client](https://github.com/lpgauth/marina)
+
 #### ELIXIR - CLIENTS - HTTP CLIENTS
 
 * [Mint: Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2](https://github.com/ericmj/mint)
@@ -344,6 +354,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - DEPLOYMENT - CONFIGURATION
 
+* Vapor - Runtime configuration system for Elixir - Chris Keathley: [Github](https://github.com/keathley/vapor) | [Configuring your Elixir Application at Runtime with Vapor - Devon Estes](https://blog.appsignal.com/2020/04/28/configuring-your-elixir-application-at-runtime-with-vapor.html)
 * Skogsrå - Library to manage OS environment variables and application configuration options with ease - GMT Prime Corp: [Github](https://github.com/gmtprime/skogsra) | [Article](https://dev.to/alexdesousa/skogsra-simplifying-your-elixir-configuration-35im) | [Docs](https://hexdocs.pm/skogsra/readme.html)
 * [Configuration Demystified - Sean Callan](https://elixirschool.com/blog/configuration-demystified/)
 
@@ -847,6 +858,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir/Phoenix — Build a simple chat room - Stephan Bakkelund Valois](https://medium.com/@Stephanbv/elixir-phoenix-build-a-simple-chat-room-7f20ee8e8f9c#.gduhrghi2)
 * [Authentication in Phoenix/Elixir app with Ueberauth and Guardian - Ulan Abdurazakov](https://www.youtube.com/watch?v=X6Z-sDSJ3sE)
 
+#### ELIXIR - PHOENIX - ASSETS
+
+* [Adding sass/scss to a Phoenix 1.4 project - Gary Rennie](https://elixirforum.com/t/phoenix-1-4-webpack-4-and-bulma-bootstrap-4-sass/14354/6)
+* [Phoenix 1.4.11 how to use webpack with sass?](https://elixirforum.com/t/phoenix-1-4-11-how-to-use-webpack-with-sass/27306)
+* [Using Bulma and Sass in Phoenix - Nick Riebeek](https://experimentingwithcode.com/using-bulma-and-sass-in-phoenix/)
+* [How to handle multiple assets js/css with Webpack in Phoenix 1.4 - Ly Channa](https://medium.com/@channaly/how-to-handle-multiple-javascript-and-css-entries-frondend-js-admin-js-in-phoenix-1-4-44ed1aeaec73)
+
 #### ELIXIR - PHOENIX - CHANNELS
 
 * [Using channels in Phoenix - Vitaly Tatarintsev](http://whatdidilearn.info/2018/03/04/using-channels-in-phoenix.html)
@@ -964,6 +982,11 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ELIXIR - PHOENIX - PUB/SUB
 
 * [Using Phoenix.PubSub to manage side effects - Marcel Horlings](https://devrain.io/posts/using-phoenix-pubsub-to-manage-side-effects/)
+
+#### ELIXIR - PHOENIX - TEMPLATES & LAYOUTS
+
+* [Views & templates (Phoenix docs)](https://hexdocs.pm/phoenix/views.html)
+* [The Usefulness of Phoenix's static_path/2 - Eric Lathrop](http://ericlathrop.com/2019/12/the-usefulness-of-phoenix-s-static-path-2/)
 
 #### ELIXIR - PHOENIX - TESTING
 
@@ -1150,6 +1173,7 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ELIXIR - TESTING - PROPERTY-BASED TESTING
 
 * [Empirical Monkeys: A Practitioner’s Take on - Rafal Studnicki & Simon Zelazny (ElixirConf 2018)](https://www.youtube.com/watch?v=llHPNc18-hg) & [Github](https://github.com/well-ironed/breaking-pp)
+* [Norm: Data specification and generation - Chris Keathley](https://github.com/keathley/norm)
 * [Testing Erlang and Elixir through PropEr Modeling - Fred Hebert (Erlang Solutions Webinar)](https://www.youtube.com/watch?v=LvFs33-1Tbo)
 * [StreamData: Elixir library for data generation and property-based testing - Andrea Leopardi](https://github.com/whatyouhide/stream_data)
 * [Introduction to stateful property based testing - Tomasz Kowal (Lambda Days 19)](https://www.youtube.com/watch?v=owHmYA52SIM)
@@ -1157,10 +1181,11 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Propcheck: Property-based testing for Elixir - Klaus Alfert](https://github.com/alfert/propcheck)
 * [Property-Based Testing - Exploring Elixir](https://www.youtube.com/watch?v=PLSYM7ada0o)
 * [Property-Based Testing with PropEr, Erlang, and Elixir - Fred Hebert](https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir) | [Older but free "PropEr Testing" website](https://propertesting.com/toc.html)
+* [Recursive Selective Match: Library for testing nested Elixir data structures and ignoring irrelevant data elements and data structure subtrees - James Lavin (me)](https://github.com/JamesLavin/recursive_selective_match)
 
 #### ELIXIR - TESTING - WALLABY
 
-* Wallaby: [Docs](https://hexdocs.pm/wallaby/readme.html) | [Github](https://github.com/keathley/wallaby)
+* Wallaby: Concurrent browser tests with Elixir: [Docs](https://hexdocs.pm/wallaby/readme.html) | [Github](https://github.com/keathley/wallaby)
 * [Integration Testing Phoenix With Wallaby - Jake Worth](https://hashrocket.com/blog/posts/integration-testing-phoenix-with-wallaby)
 * [Concurrent Feature Testing with Wallaby by Chris Keathley (ElixirConf 2016)](https://www.youtube.com/watch?v=TjOXbDJ-yw8) | [slides](https://speakerdeck.com/keathley/concurrent-feature-tests-with-wallaby)
 * [Introducing Wallaby – Concurrent Feature Tests for Elixir and Phoenix - Chris Keathley](http://blog.carbonfive.com/2016/04/16/introducing-wallaby-concurrent-feature-tests-for-elixir-and-phoenix/)
