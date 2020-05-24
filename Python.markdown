@@ -806,6 +806,11 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 * [Videogrep (for searching through videos with .srt subtitle tracks)](https://github.com/antiboredom/videogrep)
 
+### PYTHON - VS CODE (VISUAL STUDIO CODE)
+
+* [Python development with Visual Studio Code - Luciana Abud](https://channel9.msdn.com/Events/Build/2020/BOD100)
+* [Supercharge your data science workflow with VS Code - Jeffrey Mew & Sid Unnithan](https://channel9.msdn.com/Events/Build/2020/BOD102?ocid=AID3012654)
+
 ### PYTHON - WEB
 
 #### PYTHON - WEB - PYODIDE (SCIENTIFIC STACK IN WEB ASSEMBLY)

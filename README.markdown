@@ -1360,7 +1360,10 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 ### DATABASES - CASSANDRA
 
+* Apache Cassandra: [Docs](https://cassandra.apache.org/doc/latest/)  | [Website](https://cassandra.apache.org/) | [Github](https://github.com/apache/cassandra)
 * [Awesome Cassandra](https://github.com/Anant/awesome-cassandra)
+* [DataStax Academy](https://academy.datastax.com/)
+* [Learn Cassandra - Tutorialspoint](https://www.tutorialspoint.com/cassandra/cassandra_introduction.htm)
 
 #### DATABASES - CASSANDRA - VIDEOS
 
@@ -1510,14 +1513,39 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 #### DATABASES - GRAPH DATABASES - GREMLIN/TINKERPOP
 
-* Apache Tinkerpop: [Website](http://tinkerpop.apache.org/) | [Docs](http://tinkerpop.apache.org/docs/current/reference/) | [Getting Started](http://tinkerpop.apache.org/docs/current/tutorials/getting-started/) | [Gremlin Console](http://tinkerpop.apache.org/docs/current/tutorials/the-gremlin-console/) | [Gremlin's Anatomy](http://tinkerpop.apache.org/docs/current/tutorials/gremlins-anatomy/) | [Gremlin Recipes](http://tinkerpop.apache.org/docs/current/recipes/) | [Language Variants](http://tinkerpop.apache.org/docs/current/tutorials/gremlin-language-variants/)
+* Apache Tinkerpop: [Website](http://tinkerpop.apache.org/) | [Tutorials](https://tinkerpop.apache.org/docs/current/#tutorials) | [Reference Doc](http://tinkerpop.apache.org/docs/current/reference/) | [Getting Started](http://tinkerpop.apache.org/docs/current/tutorials/getting-started/) | [Gremlin Console](http://tinkerpop.apache.org/docs/current/tutorials/the-gremlin-console/) | [Gremlin's Anatomy](http://tinkerpop.apache.org/docs/current/tutorials/gremlins-anatomy/) | [Gremlin Recipes](http://tinkerpop.apache.org/docs/current/recipes/) | [Language Variants](http://tinkerpop.apache.org/docs/current/tutorials/gremlin-language-variants/)
 * [SQL2Gremlin: transition from SQL to Gremlin - Daniel Kuppitz](http://sql2gremlin.com/)
 * Practical Gremlin: An Apache TinkerPop Tutorial (book) - Kelvin R. Lawrence: [HTML](http://kelvinlawrence.net/book/Gremlin-Graph-Guide.html) | [PDF](https://kelvinlawrence.net/book/Gremlin-Graph-Guide.pdf) | [Github](https://github.com/krlawrence/graph)
+* [The Gremlin Console](https://tinkerpop.apache.org/docs/current/tutorials/the-gremlin-console/)
 * [The Gremlin Compendium, minimum survival kit for any Gremlin user - Doan DuyHai](http://www.doanduyhai.com/blog/?p=13460)
+* [TinkerPop 2020 - Josh Shinavier (Global Graph Summit 2020)](https://www.youtube.com/watch?v=CrFz64aF5sY)
+* [Gremlin-users Google Groups](https://groups.google.com/forum/#!forum/gremlin-users)
+* [Gremlify.com](https://gremlify.com/)
 
 ##### DATABASES - GRAPH DATABASES - GREMLIN/TINKERPOP - GRAPHEXP
 
 * [graphexp: Interactive visualization of the Gremlin graph database with D3.js - Benjamin Ricaud](https://github.com/bricaud/graphexp)
+* [Forked graphexp using Bootstrap - Armand Leopold](https://github.com/armandleopold/graphexp)
+
+##### DATABASES - GRAPH DATABASES - GREMLIN/TINKERPOP - HADOOP
+
+* [Hadoop-Gremlin](https://tinkerpop.apache.org/docs/current/reference/#hadoop-gremlin)
+
+##### DATABASES - GRAPH DATABASES - GREMLIN/TINKERPOP - PYTHON
+
+* GremlinPython: [TinkerPop reference doc](http://tinkerpop.apache.org/docs/3.4.6/reference/#gremlin-python) | [PyPi](https://pypi.org/project/gremlinpython/) | [JanusGraph docs](https://docs.janusgraph.org/connecting/python/)
+* JUGRI: The JUpyter-GRemlin Interface: [Github](https://github.com/meltwater/jugri) | [article](https://underthehood.meltwater.com/blog/2018/12/14/jugri-the-jupyter-gremlin-interface/)
+
+##### DATABASES - GRAPH DATABASES - GREMLIN/TINKERPOP - SPARKGRAPH
+
+* [SparkGraphComputer](https://tinkerpop.apache.org/docs/current/reference/#sparkgraphcomputer)
+* [Gremlin OLAP Traversals - DataStax Academy](https://academy.datastax.com/units/gremlin-olap-traversals)
+* [A Tale of Two Graph Frameworks on Spark: GraphFrames and Tinkerpop OLAP - Artem Aliev](https://databricks.com/session/a-tale-of-two-graph-frameworks-on-spark-graphframes-and-tinkerpop-olap)
+
+#### DATABASES - GRAPH DATABASES - NETWORK ANALYSIS TOOLS
+
+* [Networkx: Network analysis in Python](https://networkx.github.io/) | [Documentation (PDF)](https://networkx.github.io/documentation/latest/_downloads/networkx_reference.pdf)
+* NetworKit: Large-Scale Network Analysis — Interactive and Fast: [Website](https://networkit.github.io/) | [Github](https://github.com/networkit/networkit)
 
 #### DATABASES - GRAPH DATABASES - OWLREADY
 
@@ -1530,6 +1558,10 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * Marcel Otto: [RDF-ex](https://github.com/marcelotto/rdf-ex) & [SPARQL-ex](https://github.com/marcelotto/sparql-ex)
 * [Querying RDF with Elixir: Using SPARQL.ex to query over RDF datastores - Tony Hammond](https://medium.com/@tonyhammond/querying-rdf-with-elixir-2378b39d65cc)
 * [Bringing the Semantic Web closer to reality: PostgreSQL as RDF Graph Database - Jimmy Angelakos](https://www.youtube.com/watch?v=M0pcFgI2-uE)
+
+#### DATABASES - GRAPH DATABASES - VIDEOS
+
+* [Global Graph Summit 2020](https://www.youtube.com/playlist?list=PLDaQNzoeb9L7K2oHq9Nw5fmP9bmzuzUDX)
 
 ### DATABASES - GRAPHQL
 
@@ -1584,6 +1616,8 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * Getting Started with JanusGraph – Chris Hupman: [Part 1: Deployment](https://developer.ibm.com/dwblog/2018/whats-janus-graph-learning-deployment/) & [Part 2: Indexes & Traversals](https://developer.ibm.com/dwblog/2018/janusgraph-composite-mixed-indexes-traversals/) | [Part 3: Administrative Operations](https://developer.ibm.com/dwblog/2018/janusgraph-administrative-operations-backups/)
 * JanusGraph tips and tricks: Index troubleshooting & data mobility – Chris Hupman: [Part 1](https://developer.ibm.com/articles/janusgraph-tips-and-tricks-pt-1/) & [Part 2](https://developer.ibm.com/articles/janusgraph-tips-and-tricks-pt-2/)
 * [JanusGraph Helm chart](https://github.com/helm/charts/tree/master/stable/janusgraph)
+* [Ted Wilmes on the state of JanusGraph 2018 (Data Day Texas 2018)](https://www.youtube.com/watch?v=yLm0ruUGgng)
+* [JanusGraph Online Meetup 2](https://www.experoinc.com/online-seminar/janusgraph-online-meetup-2)
 * [Query Analysis on a Distributed Graph Database - Lucie Svitakova](https://dspace.cvut.cz/bitstream/handle/10467/80246/F8-DP-2019-Svitakova-Lucie-thesis.pdf)
 * [Develop a graph database app using JanusGraph - Yi-Hong Wang, Ted Chang, Simeon Monov](https://developer.ibm.com/patterns/develop-graph-database-app-using-janusgraph/) & [janusgraph-utils (sample data and code for running a Twitter-like application in JanusGraph)](https://github.com/IBM/janusgraph-utils)
 
@@ -1632,6 +1666,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 ### DATABASES - SQL
 
 * [Learn SQL: 50+ of the Best Online Educational Resources to Learn SQL and Relational Database Management - HackerLists.com](https://hackerlists.com/learn-sql-online/)
+* [SQL Cheat Sheet - Luke Harrison](https://websitesetup.org/sql-cheat-sheet/)
 * [SQLTeaching.com](https://www.sqlteaching.com/)
 * [SQL Tutorial - 1KeyData.com](http://www.1keydata.com/sql/sql.html)
 * [PostgreSQL documentation: The SQL Language](http://www.postgresql.org/docs/9.4/interactive/sql.html)
@@ -2497,6 +2532,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [CNCF (Cloud Native Computing Foundation) video playlists](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA/playlists)
 * [KubeCon + CloudNativeCon 2017 - Austin](https://www.youtube.com/playlist?list=PLj6h78yzYM2P-3-xqvmWaZbbI1sW-ulZb)
 
+#### DEVOPS - KUBERNETES - VS CODE (VISUAL STUDIO CODE)
+
+* [Build containerized microservices faster and ship with confidence using Visual Studio Code and GitHub - Nick Greenfield](https://channel9.msdn.com/Events/Build/2020/BOD122)
+
 ### DEVOPS - LOGGING
 
 #### DEVOPS - LOGGING - ELK (Elasticsearch + Logstash + Kibana)
@@ -3239,6 +3278,8 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### HTML - INDEXEDDB
 
+* idb: IndexedDB, but with promises: [Npmjs](https://www.npmjs.com/package/idb) | [Github](https://github.com/jakearchibald/idb)
+* [IndexedDB - Javascript.info](https://javascript.info/indexeddb)
 * [Using IndexedDB - MDN](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB)
 * [Working with Indexed DB - Google Chrome Developers](https://www.youtube.com/watch?v=vCumk1sXHcY)
 * [Getting Started with indexedDB - All Things Javascript](https://www.youtube.com/watch?v=g4U5WRzHitM)
@@ -5402,6 +5443,7 @@ Peter R. Egli:
 ## VISUAL STUDIO CODE (VSCODE)
 
 * [Visual Studio Code - Microsoft (but cross-platform)](https://code.visualstudio.com/) | [Docs](https://code.visualstudio.com/docs) | [Blog](Blog) | [GitHub](https://github.com/Microsoft/vscode)
+* [Visual Studio Code tips and tricks - Matt Bierner](https://channel9.msdn.com/Events/Build/2020/BOD103)
 * [VS Code Tips and Tricks - Microsoft](https://github.com/Microsoft/vscode-tips-and-tricks)
 * [VS Code can do that?!](https://vscodecandothat.com/)
 
@@ -5573,3 +5615,6 @@ Peter R. Egli:
 
 * [Zotero (Firefox extention to "collect, organize, cite, and share your research sources")](https://www.zotero.org/)
 
+## YAML
+
+* [YAML Tutorial: Everything You Need to Get Started in Minutes - Eric Goebelbecker](https://rollout.io/blog/yaml-tutorial-everything-you-need-get-started/)

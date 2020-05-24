@@ -671,6 +671,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Cafex](https://github.com/upyun/cafex)
 * [Connecting Elixir to Kafka with Kaffe - Meryl Dakin](https://elixirschool.com/blog/elixir-kaffe-codealong/)
 
+### ELIXIR - LIBGRAPH
+
+* [Libgraph: A graph data structure library for Elixir projects - Paul Schoenfelder](https://github.com/bitwalker/libgraph)
+* [Native graph data in Elixir - Tony Hammond](https://medium.com/@tonyhammond/native-graph-data-in-elixir-8c0bb325d451)
+
 ### ELIXIR - LOGGING & MONITORING
 
 * Awesome Elixir: [Logging](https://github.com/h4cc/awesome-elixir#logging) & [Instrumenting / Monitoring](https://github.com/h4cc/awesome-elixir#instrumenting--monitoring)
@@ -930,6 +935,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Tracking Users in a Chat App with LiveView, PubSub Presence - Sophie DeBenedetto](https://elixirschool.com/blog/live-view-with-presence/)
 * [Phoenix LiveView Demystified - Alex Garibay (ElixirConf 2019)](https://www.youtube.com/watch?v=9eOo8hSbMAc)
 * [Phoenix LiveView - Interactive, Real TIme Apps - No need to write Javascript - Chris McCord (ElixirConf EU 2019)](https://www.youtube.com/watch?v=8xJzHq8ru0M) & [Dec 2018 blog post](https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript)
+* [Persistent session data via localStorage in Phoenix LiveView - Henrik Nyh](https://thepugautomatic.com/2020/05/persistent-session-data-via-localstorage-in-phoenix-liveview/)
 * [Building and Playing the Go Game with Phoenix LiveView - Jeff Kreeftmeijer](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html)
 * [Talking to the LiveView: Updating the Phoenix LiveViews from outside the process - Dorian Iacobescu](https://medium.com/@iacobson/talking-to-the-liveview-7a19f7e45522)
 * [Ecto Associations in Phoenix LiveView: One to Many - Dennis Beatty](https://dennisbeatty.com/2019/08/20/ecto-associations-in-phoenix-liveview-one-to-many.html)
