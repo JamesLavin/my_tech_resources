@@ -214,10 +214,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - CLIENTS
 
-* [Xandra: Fast, simple, and robust Cassandra driver for Elixir](https://github.com/lexhide/xandra)
-* [Triton: Cassandra ORM for Elixir](https://github.com/blitzstudios/triton)
-* [erlcass: High-Performance Erlang Cassandra driver based on DataStax cpp-driver](https://github.com/silviucpp/erlcass) | [Docs](http://silviucpp.github.io/erlcass/)
-* [cqerl: Native Erlang CQL client for Cassandra](https://github.com/matehat/cqerl) | [Docs](http://matehat.github.io/cqerl/) | [cqex (Elixir wrapper)](https://github.com/matehat/cqex)
+* [RDF.ex - Marcel Otto](https://github.com/marcelotto/rdf-ex) | [Docs (Hexdocs)](https://hexdocs.pm/rdf/RDF.html) | [RDF on Elixir website](https://rdf-elixir.dev/) | [Docs (RDF-Elixir.dev)](https://rdf-elixir.dev/rdf-ex/)
+* [JSON-LD - Marcel Otto](https://github.com/marcelotto/jsonld-ex)
+* [sparql-ex - Marcel Otto](https://github.com/marcelotto/sparql-ex) | [Docs](https://rdf-elixir.dev/sparql-ex/)
+* [sparql_client - Marcel Otto](https://github.com/marcelotto/sparql_client)
 
 #### ELIXIR - CLIENTS - CASSANDRA CLIENTS
 
@@ -225,13 +225,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Triton: Cassandra ORM for Elixir](https://github.com/blitzstudios/triton)
 * [Ecto-Cassandra](https://github.com/cafebazaar/ecto-cassandra)
 * [Elixir-Cassandra](https://github.com/cafebazaar/elixir-cassandra)
-* [erlcass: Erlang Cassandra driver, based on DataStax cpp driver focused on performance](https://github.com/silviucpp/erlcass), based on the [DataStax C/C++ Driver for Apache Cassandra](https://github.com/datastax/cpp-driver)
-* [cqex](https://github.com/matehat/cqex) & [cqerl](https://github.com/matehat/cqerl/)
+* [erlcass: Erlang Cassandra driver, based on DataStax cpp driver focused on performance](https://github.com/silviucpp/erlcass), based on the [DataStax C/C++ Driver for Apache Cassandra](https://github.com/datastax/cpp-driver) | [Docs](http://silviucpp.github.io/erlcass/)
+* [cqerl: Native Erlang CQL client for Cassandra](https://github.com/matehat/cqerl) | [Docs](http://matehat.github.io/cqerl/) | [cqex (Elixir wrapper)](https://github.com/matehat/cqex)
 * [marina: High-performance Erlang Cassandra CQL client](https://github.com/lpgauth/marina)
 
 #### ELIXIR - CLIENTS - HTTP CLIENTS
 
 * [Mint: Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2](https://github.com/ericmj/mint)
+* [Mojito: easy-to-use Elixir HTTP client, built on the low-level Mint library - Appcues.com](https://github.com/appcues/mojito)
 * httpoison: [Github](https://github.com/edgurgel/httpoison)
 * Tesla: [Github](https://github.com/teamon/tesla)
 * [Tesla: flexible HTTP client library for Elixir, with support for middleware and multiple adapters](https://github.com/teamon/tesla)
@@ -500,6 +501,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - ELASTICSEARCH
 
+* [elasticsearch-elixir - Daniel Berkompas](https://github.com/danielberkompas/elasticsearch-elixir) & [Integrate Elixir with Elastisearch - Part 1 - Indexing - Silviu Rosu](http://www.ubazu.com/elixir-elasticsearch-integration-index-data)
+* [elastix: Simple Elasticsearch REST client - El Werbitzky](https://github.com/werbitzky/elastix)
 * [Tirexs - Elixir DSL for Elasticsearch](https://github.com/roundscope/tirexs)
 * [erlastic_search (Erlang client for Elasticsearch)](https://github.com/tsloughter/erlastic_search)
 * [Elasticsearch from Elixir and Docker - Zohaib Rauf](http://zohaib.me/elasticsearch-from-elixir-and-docker/)
@@ -661,6 +664,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Elixir-Companies](https://elixir-companies.com/hiring)
 
+### ELIXIR - JUPYTER NOTEBOOK
+
+* [iElixir: Jupyter's Elixir kernel](https://github.com/pprzetacznik/IElixir)
+
 ### ELIXIR - KAFKA
 
 * [erlkaf: Erlang kafka driver based on librdkafka (apparently the most secure non-Java Kafka client)](https://github.com/silviucpp/erlkaf)
@@ -750,10 +757,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How OTP Applications are structured - Jeff Kreeftmeijer](https://blog.appsignal.com/2018/09/18/elixir-alchemy-how-otp-applications-are-structured.html)
 * [Creating Elixir libraries as OTP applications - Hubert Łępicki](https://www.amberbit.com/blog/2016/5/10/creating-elixir-libraries-as-otp-applications/)
 * [OTP in Elixir - Part 1 - Christian Di Lorenzo (Triangle Elixir 2016)](https://www.youtube.com/watch?v=_WgrfEaAM4Y)
-* [Extending OTP with Custom Behaviours - Michał Muskała (ElixirLive 2016)](https://www.youtube.com/watch?v=YCOmYsQCZEI)
 * [Chat Bot: A Practical Walkthrough of the powerful Features Elixir/Erlang/OTP - Jeff Weiss](https://www.youtube.com/watch?v=NrrUyRt_B1w)
 * [Finding the needle in the Haystack: Breadth First Search... The Elixir Way - Quentin Thomas](http://www.automatingthefuture.com/blog/2016/4/8/finding-the-needle-in-the-haystack-breadth-first-search)
 * [Re-architecting with Elixir/OTP and Pattern Matching - Mustafa Turan](https://medium.com/@mustafaturan/re-architecting-with-elixir-otp-and-pattern-matching-b452213c7947#.igjky3yv7)
+
+#### ELIXIR - OTP - DYNAMIC SUPERVISORS
+
+* [OTP behaviours and how to behave around them - Brujo Benavides (Code BEAM SF 19)](https://www.youtube.com/watch?v=OWCYD1Q0COQ)
+* [Extending OTP with Custom Behaviours - Michał Muskała (ElixirLive 2016)](https://www.youtube.com/watch?v=YCOmYsQCZEI)
 
 #### ELIXIR - OTP - DYNAMIC SUPERVISORS
 
@@ -763,6 +774,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Hex.pm (Erlang & Elixir package manager)](https://hex.pm/)
 * [Rihanna: Fast, reliable, easy-to-use Postgres-backed distributed job queue - Sam Davies](https://github.com/samphilipd/rihanna) | [Rihanna UI](https://github.com/samphilipd/rihanna_ui)
+* [GenRetry: Utilities for retrying Elixir functions, with configurable delay and backoff - Appcues.com](https://github.com/appcues/gen_retry)
 * [ExActor: Simplifies implementation of GenServer-based processes - Saša Jurić](https://github.com/sasa1977/exactor)
 * [con_cache: ETS-based key/value cache with row level isolated writes and ttl support - Saša Jurić](https://github.com/sasa1977/con_cache)
 * [Vex: Data Validation for Elixir - CargoSense](https://github.com/CargoSense/vex)
@@ -842,6 +854,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Phoenix 1.2.x to 1.3.0 Upgrade Instructions - Chris McCord](https://gist.github.com/chrismccord/71ab10d433c98b714b75c886eff17357)
 * [Why changes in Phoenix 1.3 are so important? - Nikita Sobolev](https://medium.com/wemake-services/why-changes-in-phoenix-1-3-are-so-important-2d50c9bdabb9)
 
+#### ELIXIR - PHOENIX - ASSETS
+
+* [Adding sass/scss to a Phoenix 1.4 project - Gary Rennie](https://elixirforum.com/t/phoenix-1-4-webpack-4-and-bulma-bootstrap-4-sass/14354/6)
+* [Phoenix 1.4.11 how to use webpack with sass?](https://elixirforum.com/t/phoenix-1-4-11-how-to-use-webpack-with-sass/27306)
+* [Using Bulma and Sass in Phoenix - Nick Riebeek](https://experimentingwithcode.com/using-bulma-and-sass-in-phoenix/)
+* [How to handle multiple assets js/css with Webpack in Phoenix 1.4 - Ly Channa](https://medium.com/@channaly/how-to-handle-multiple-javascript-and-css-entries-frondend-js-admin-js-in-phoenix-1-4-44ed1aeaec73)
+
 #### ELIXIR - PHOENIX - AUTH/AUTH
 
 * Awesome Elixir: [Authentication](https://github.com/h4cc/awesome-elixir#authentication) & [Authorization](https://github.com/h4cc/awesome-elixir#authorization)
@@ -862,13 +881,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Passwordless login with phoenix - Thiago Borges (July 2016)](http://inaka.net/blog/2016/07/27/passwordless-login-with-phoenix/)
 * [Elixir/Phoenix — Build a simple chat room - Stephan Bakkelund Valois](https://medium.com/@Stephanbv/elixir-phoenix-build-a-simple-chat-room-7f20ee8e8f9c#.gduhrghi2)
 * [Authentication in Phoenix/Elixir app with Ueberauth and Guardian - Ulan Abdurazakov](https://www.youtube.com/watch?v=X6Z-sDSJ3sE)
-
-#### ELIXIR - PHOENIX - ASSETS
-
-* [Adding sass/scss to a Phoenix 1.4 project - Gary Rennie](https://elixirforum.com/t/phoenix-1-4-webpack-4-and-bulma-bootstrap-4-sass/14354/6)
-* [Phoenix 1.4.11 how to use webpack with sass?](https://elixirforum.com/t/phoenix-1-4-11-how-to-use-webpack-with-sass/27306)
-* [Using Bulma and Sass in Phoenix - Nick Riebeek](https://experimentingwithcode.com/using-bulma-and-sass-in-phoenix/)
-* [How to handle multiple assets js/css with Webpack in Phoenix 1.4 - Ly Channa](https://medium.com/@channaly/how-to-handle-multiple-javascript-and-css-entries-frondend-js-admin-js-in-phoenix-1-4-44ed1aeaec73)
 
 #### ELIXIR - PHOENIX - CHANNELS
 
@@ -904,6 +916,10 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Deploying Phoenix on Dokku - Henrik Nyh](https://gist.github.com/henrik/c70e32544e09c1a79841)
 * [Deploying a Phoenix application using ansible-elixir-stack - Johan Wärlander](http://blog.johanwarlander.com/2015/07/30/deploying-a-phoenix-application-using-ansible-elixir-stack.html)
 * [Ansible-elixir-stack](https://github.com/HashNuke/ansible-elixir-stack)
+
+#### ELIXIR - PHOENIX - DEVELOPMENT
+
+* [Phoenix Live Reload](https://github.com/phoenixframework/phoenix_live_reload)
 
 #### ELIXIR - PHOENIX - EXAMPLE APPLICATIONS
 
@@ -960,6 +976,8 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ##### ELIXIR - PHOENIX - LIVE VIEW - LIVE VIEW DASHBOARD
 
+* Phoenix Live Dashboard: [Github](https://github.com/phoenixframework/phoenix_live_dashboard) | [Docs](https://hexdocs.pm/phoenix_live_dashboard/Phoenix.LiveDashboard.html)
+* Live Dashboard Metrics: [Docs](https://hexdocs.pm/phoenix_live_dashboard/metrics.html)
 * [Instrumenting Phoenix with Telemetry and LiveDashboard - Sophie DeBenedetto](https://elixirschool.com/blog/instrumenting-phoenix-with-live-dashboard/)
 * [Phoenix LiveView Dashboard - Plangora](https://www.youtube.com/watch?v=Nqr5ly35tu8)
 * [Phoenix LiveView Dashboard Metrics - Plangora](https://www.youtube.com/watch?v=ZrgtOp-wS0w)
@@ -1436,6 +1454,7 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ERLANG - ETS
 
 * [Documentation](http://erlang.org/doc/man/ets.html)
+* [ex2ms: :ets.fun2ms translates functions to match specifications - Eric Meadows-Jönsson](https://github.com/ericmj/ex2ms)
 * [Bears, ETS, Beets - Learn You Some Erlang](https://learnyousomeerlang.com/ets)
 
 ### ERLANG - EXAMPLES

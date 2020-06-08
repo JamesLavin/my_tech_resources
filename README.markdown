@@ -4097,6 +4097,8 @@ Peter R. Egli:
 
 ### POSTGRESQL - ADVANCED FEATURES
 
+* [A scalable, versioned document store in PostgreSQL - Art Gillespie (PostgresOpen Silicon Valley 2018)](https://www.youtube.com/watch?v=dxkyvrgKTfM)
+* Pat Shaughnessy: [Trying to Represent a Tree Structure using Postgres](http://patshaughnessy.net/2017/12/11/trying-to-represent-a-tree-structure-using-postgres) | [Installing the Postgres LTREE Extension](http://patshaughnessy.net/2017/12/12/installing-the-postgres-ltree-extension) | [Saving a Tree in Postgres Using LTREE](http://patshaughnessy.net/2017/12/13/saving-a-tree-in-postgres-using-ltree) | [Manipulating Trees Using SQL and the Postgres LTREE Extension](http://patshaughnessy.net/2017/12/14/manipulating-trees-using-sql-and-the-postgres-ltree-extension)
 * [WITH Queries (Common Table Expressions): Write auxiliary statements for use in a larger query](https://www.postgresql.org/docs/9.6/static/queries-with.html)
 * [Is PostgreSQL Your Next JSON Database? - Dj Walker-Morgan](https://www.compose.io/articles/is-postgresql-your-next-json-database/)
 * [The Benefits of Materialized Views (and how to use them in your Ruby on Rails project) - Ryan Rebo](https://medium.com/@rebo_dood/the-benefits-of-materialized-views-and-how-to-use-them-in-your-ruby-on-rails-project-4ac1b5432881)
@@ -4118,6 +4120,7 @@ Peter R. Egli:
 
 ### POSTGRESQL - JSON / JSONB
 
+* [JSONB Tricks - Colton Shepard (PostgresOpen 2019)](https://www.youtube.com/watch?v=p9RItyeKbLQ)
 * [Using JSON in PostgreSQL - Andrew Dunstan (PostgresOpen SV 2018)](https://www.youtube.com/watch?v=tMT16q9pqp0)
 * [Dox: Document Database API extension for Postgres - Rob Conery](https://github.com/robconery/dox) & [A Pure PostgreSQL Document Database API](https://rob.conery.io/2018/07/05/a-pure-postgresql-document-database-api/)
 * [Unleash the Power of Storing JSON in Postgres - Leigh Halliday](https://blog.codeship.com/unleash-the-power-of-storing-json-in-postgres/)
