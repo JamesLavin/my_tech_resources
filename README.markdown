@@ -1382,6 +1382,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 * Official docs: [PDF](https://media.readthedocs.org/pdf/couchdb/latest/couchdb.pdf) | [Downloads](http://docs.couchdb.org/en/stable/download.html) | [API docs](http://docs.couchdb.org/en/stable/api/index.html) | [Wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Apache+CouchDB+Wiki) | [Blog](https://blog.couchdb.org/) | [Fauxton Visual Guide](http://couchdb.apache.org/fauxton-visual-guide/)
 * [CouchDB: The Definitive Guide - J. Chris Anderson, Jan Lehnardt and Noah Slater](http://guide.couchdb.org/)
+* [CouchDB Tutorial - TutorialsPoint](https://www.tutorialspoint.com/couchdb/index.htm)
 * [Why CouchDB? - Adam Kocoloski](https://www.youtube.com/watch?v=RlM8TH2Gc80)
 * [10 Common Misconceptions about CouchDB - Joan Touzet](https://www.youtube.com/watch?v=BKQ9kXKoHS8)
 * [Getting Familiar with CouchDB and Futon - Joshua Morony](https://www.youtube.com/watch?v=JVWeb-xPRPs)
@@ -1519,6 +1520,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [The Gremlin Console](https://tinkerpop.apache.org/docs/current/tutorials/the-gremlin-console/)
 * [The Gremlin Compendium, minimum survival kit for any Gremlin user - Doan DuyHai](http://www.doanduyhai.com/blog/?p=13460)
 * [TinkerPop 2020 - Josh Shinavier (Global Graph Summit 2020)](https://www.youtube.com/watch?v=CrFz64aF5sY)
+* [A Graph is a Graph is a Graph - Josh Shinavier (Global Graph Summit 2019)](https://www.youtube.com/watch?v=aT1rF5qNjmU)
 * [Gremlin-users Google Groups](https://groups.google.com/forum/#!forum/gremlin-users)
 * [Gremlify.com](https://gremlify.com/)
 
