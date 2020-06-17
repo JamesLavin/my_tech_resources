@@ -692,6 +692,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - MACROS
 
+* [Macros in Elixir: Responsible code generation - Lizzie Paquette](https://codesync.global/media/macros-in-elixir-responsible-code-generation-cbf20/)
 * [Using Functions in Elixir Guard Clauses - Chris Keathley](http://keathley.io/2016/04/09/elixir-guard-clauses.html)
 * [Down the Rabbit Hole: Defining a guard-safe modulo operation in Elixir - Wiebe-Marten](https://medium.com/@W_Mcode/down-the-rabbit-hole-defining-a-guard-safe-modulo-operation-in-elixir-6335ade7c078)
 * Jay Hayes: [Metaprogramming: Programs That Write Programs](https://www.youtube.com/watch?v=S_WtnSrfR5s) | [Elixir in Elixir - (Elixir & Phoenix Conf 2016](https://www.youtube.com/watch?v=p8MGNw045AE) & [Getting Started with Elixir Metaprogramming (blog post)](https://www.bignerdranch.com/blog/getting-started-with-elixir-metaprogramming/)
@@ -981,6 +982,11 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Instrumenting Phoenix with Telemetry and LiveDashboard - Sophie DeBenedetto](https://elixirschool.com/blog/instrumenting-phoenix-with-live-dashboard/)
 * [Phoenix LiveView Dashboard - Plangora](https://www.youtube.com/watch?v=Nqr5ly35tu8)
 * [Phoenix LiveView Dashboard Metrics - Plangora](https://www.youtube.com/watch?v=ZrgtOp-wS0w)
+
+##### ELIXIR - PHOENIX - LIVE VIEW - SURFACE
+
+* [Surface: server-side rendering component library for Phoenix](http://surface-demo.msaraiva.io/getting_started)
+* [Surface UI: Getting started](http://surface-demo.msaraiva.io/getting_started)
 
 #### ELIXIR - PHOENIX - PERFORMANCE
 

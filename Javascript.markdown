@@ -714,7 +714,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 
 ### JAVASCRIPT - WEBPACK
 
-* [Official documentation](https://webpack.js.org/concepts/)
+* Official docs: [Concepts](https://webpack.js.org/concepts/) | [Loaders](https://webpack.js.org/loaders/)
 * [Webpack Crash Course - Traversy Media](https://www.youtube.com/watch?v=lziuNMk_8eQ)
 * Academind: [What Is Webpack, How Does It Work?](https://www.youtube.com/watch?v=GU-2T7k9NfI) | [Using the Webpack Dev Server](https://www.youtube.com/watch?v=HNRt0lODCQM) | [The Webpack Core Concepts](https://www.youtube.com/watch?v=8DDVr6wjJzQ) | [Basic Babel + SCSS Workflow](https://www.youtube.com/watch?v=8vnkM8JgjpU) | [HTML + Image Loaders](https://www.youtube.com/watch?v=CzLiXgRUt4g) | [Webpack + Multiple HTML Files](https://www.youtube.com/watch?v=y_RFOaSDL8I) | [Using 3rd Party Packages Like JQuery](https://www.youtube.com/watch?v=IYuh8hIyvfE)
 * [What Is Webpack? - Flavio Copes](https://flaviocopes.com/webpack/)

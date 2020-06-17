@@ -1420,18 +1420,28 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 * Elasticsearch documentation:
     * Reference: [Current](http://www.elastic.co/guide/en/elasticsearch/reference/current/index.html) | [Previous versions](http://www.elastic.co/guide/en/elasticsearch/reference/index.html)
-        * [CRUD APIs](http://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html)
-        * [Search](http://www.elastic.co/guide/en/elasticsearch/reference/current/search.html)
-        * [Indices](http://www.elastic.co/guide/en/elasticsearch/reference/current/indices.html)
-        * [cat APIs](http://www.elastic.co/guide/en/elasticsearch/reference/current/cat.html)
-        * [Cluster APIs](http://www.elastic.co/guide/en/elasticsearch/reference/current/cluster.html)
-        * [Queries](http://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-queries.html)
-        * [Filters](http://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-filters.html)
+        * [Elasticsearch intro](http://www.elastic.co/guide/en/elasticsearch/reference/current/elasticsearch-intro.html)
+        * [Getting started](http://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html)
+        * [Set up](http://www.elastic.co/guide/en/elasticsearch/reference/current/setup.html)
+        * [Upgrading](http://www.elastic.co/guide/en/elasticsearch/reference/current/setup-upgrade.html)
+        * [Searching data](http://www.elastic.co/guide/en/elasticsearch/reference/current/search-your-data.html)
+        * [Query DSL](http://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html)
+        * [Search aggregations](http://www.elastic.co/guide/en/elasticsearch/reference/current/search-aggregations.html)
+        * [Scripting](http://www.elastic.co/guide/en/elasticsearch/reference/current/modules-scripting.html)
         * [Mapping](http://www.elastic.co/guide/en/elasticsearch/reference/current/mapping.html)
-        * [Analyzers](http://www.elastic.co/guide/en/elasticsearch/reference/current/analysis.html)
+        * [Text analysis](http://www.elastic.co/guide/en/elasticsearch/reference/current/analysis.html)
+        * [Index modules](http://www.elastic.co/guide/en/elasticsearch/reference/current/index-modules.html)
+        * [Index lifecycle management](http://www.elastic.co/guide/en/elasticsearch/reference/current/index-lifecycle-management.html)
+        * [REST APIs](http://www.elastic.co/guide/en/elasticsearch/reference/current/rest-apis.html)
+        * [Set up cluster for high availability](http://www.elastic.co/guide/en/elasticsearch/reference/current/high-availability.html)
+        * [Snapshot & restore](http://www.elastic.co/guide/en/elasticsearch/reference/current/snapshot-restore.html)
+        * [Secure a cluster](http://www.elastic.co/guide/en/elasticsearch/reference/current/secure-cluster.html)
+        * [Command line tools](http://www.elastic.co/guide/en/elasticsearch/reference/current/commands.html)
+        * [How To](http://www.elastic.co/guide/en/elasticsearch/reference/current/how-to.html)
     * [Videos](https://www.elastic.co/videos/) & [Elastic{ON} videos](https://www.elastic.co/elasticon/2015/sf/videos)
 * [_Exploring Elasticsearch_ (online tutorial/book) - Andrew Cholakian](http://exploringelasticsearch.com)
 * _Elasticsearch: The Definitive Guide_: [Online](http://www.elastic.co/guide/en/elasticsearch/guide/master/) | [Github repo](https://github.com/elastic/elasticsearch-definitive-guide) & [instructions for generating a PDF](http://asciidoctor.org/docs/convert-asciidoc-to-pdf/)
+* [Elasticsearch Tutorial - TutorialsPoint.com](https://www.tutorialspoint.com/elasticsearch/elasticsearch_tutorial.pdf)
 * [Your Data, Your Search, Elasticsearch - Costin Leau (SpringOne2GX 2013)](https://www.youtube.com/watch?v=G56aE1kiOZw)
 * [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/index.html)
 * [Make sense of your (big) data using Elasticsearch - Honza Král (PyData Berlin 2014)](https://www.youtube.com/watch?v=sCktucuv5Yo)
@@ -1558,8 +1568,26 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 * RDFLib: [Github](https://github.com/RDFLib/rdflib) | [Docs](https://rdflib.readthedocs.io/en/stable/)
 * Marcel Otto: [RDF-ex](https://github.com/marcelotto/rdf-ex) & [SPARQL-ex](https://github.com/marcelotto/sparql-ex)
-* [Querying RDF with Elixir: Using SPARQL.ex to query over RDF datastores - Tony Hammond](https://medium.com/@tonyhammond/querying-rdf-with-elixir-2378b39d65cc)
 * [Bringing the Semantic Web closer to reality: PostgreSQL as RDF Graph Database - Jimmy Angelakos](https://www.youtube.com/watch?v=M0pcFgI2-uE)
+* [Information Service Engineering - Dr. Harald Sack & Dr. Maria Koutraki](https://open.hpi.de/courses/semanticweb2017/items/3ykhzMxJQmxDfBPUGRTCCy)
+
+##### DATABASES - GRAPH DATABASES - RDF - SEMANTIC WEB
+
+* [European Semantic Web Conference (ESWC) Conference: 2020](https://2020.eswc-conferences.org/) & [talks](https://query.wikidata.org/embed.html#PREFIX%20wd%3A%20%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2F%3E%0APREFIX%20wdt%3A%20%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2F%3E%0ASELECT%20%3Fpaper%20%3FpaperLabel%20%3Fvideo%20WHERE%20%7B%0A%20%20%3Fpaper%20wdt%3AP1433%20wd%3AQ95688968%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20.%20%7D%0A%20%20OPTIONAL%20%7B%3Fpaper%20wdt%3AP973%20%3Fvideo%20.%7D%0A%7D%20ORDER%20BY%20%3FpaperLabel)
+* [Scientific Knowledge Graphs 2020](https://skg.kmi.open.ac.uk/SKG2020/)
+* [The Semantic Web (2020)](https://link.springer.com/book/10.1007/978-3-030-49461-2)
+* [The Semantic Web (2019)](https://link.springer.com/book/10.1007/978-3-030-21348-0)
+* [The Semantic Web (2018)](https://link.springer.com/book/10.1007/978-3-319-93417-4)
+* [GConsent - A Consent Ontology based on the GDPR - Harshvardhan J Pandit, et al.](http://openscience.adaptcentre.ie/ontologies/gconsent/main.html)
+
+##### DATABASES - GRAPH DATABASES - RDF - SPARQL
+
+* [Querying RDF with Elixir: Using SPARQL.ex to query over RDF datastores - Tony Hammond](https://medium.com/@tonyhammond/querying-rdf-with-elixir-2378b39d65cc)
+* [SPARQL - Wikibooks.org](https://en.wikibooks.org/wiki/SPARQL)
+* [SPARQL Tutorial - Apache Jena](https://jena.apache.org/tutorials/sparql.html)
+* [Learn SPARQL - Stardog.com](https://www.stardog.com/tutorials/sparql/)
+* [SPARQL/Prefixes](https://en.wikibooks.org/wiki/SPARQL/Prefixes)
+* [SPARQL Order Matters - Bob Bebee](https://github.com/blazegraph/database/wiki/SPARQL_Order_Matters)
 
 #### DATABASES - GRAPH DATABASES - VIDEOS
 
@@ -1874,6 +1902,12 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Awesome Cloud Native - Jimmy Song](https://jimmysong.io/awesome-cloud-native/)
 * [Cloud Native Interactive Landscape (CNCF)](https://landscape.cncf.io/)
 * [CNCF Webinars](https://www.cncf.io/webinars/)
+
+### DEVOPS - COLOCATION
+
+* [Colocation Is Better Than Owning Your Own Data Center. Or Is It? - Packet Pushers](https://www.youtube.com/watch?v=eFYWAdi7yp8)
+* [Colocation Datacenters Introduction - Eli the Computer Guy](https://www.youtube.com/watch?v=yM1Mk8aLOLk)
+* [The different types of data centers: Colocation, Enterprise, & Carrier Hotel - HawkPodcast 23](https://www.youtube.com/watch?v=DFktLnNUAO0) (content starts 14 minutes in)
 
 ### DEVOPS - CONTINUOUS DEPLOYMENT
 
@@ -3477,6 +3511,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [MOOC List](https://www.mooc-list.com/)
 * [National Programme on Technology Enhanced Learning (India)](https://onlinecourses.nptel.ac.in/explorer)
 * [No Excuse List (The best place on the web to learn anything, free)](http://www.noexcuselist.com/)
+* [Open HPI](https://open.hpi.de/courses)
 * [Open Yale courses](http://oyc.yale.edu/courses)
 * [Stanford Engineering Everywhere](http://see.stanford.edu/see/courses.aspx)
 * [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php)
@@ -3794,6 +3829,7 @@ Peter R. Egli:
   * [REST](http://www.indigoo.com/dox/wsmw/2_WebServices/REST.pdf)
   * [Web Services](http://www.indigoo.com/dox/wsmw/2_WebServices/Web-Services.pdf)
   * [Android NDK](http://www.indigoo.com/dox/mobdev/01_Android/Android-NDK.pdf)
+* [Packet Pushers](https://www.youtube.com/channel/UC7vAUu1TQAwzuq8wajJw4kA)
 * [Ping! Are you there? - Lydia Gu (!!Con 2016)](https://www.youtube.com/watch?v=nSB53WRGY_0)
 
 ### NETWORKING - DNS
