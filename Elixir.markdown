@@ -940,6 +940,8 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ELIXIR - PHOENIX - LIVE VIEW
 
+* [Build a real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5 - Chris McCord](https://www.youtube.com/watch?v=MZvmYaFkNJI)
+* [Phoenix LiveView course - PragmaticStudio.com](https://pragmaticstudio.com/phoenix-liveview) (Nicole and Mike have incredibly generously created a professional LiveView course and given it away absolutely FREE)
 * Phoenix Live View: [Documentation](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html) | [Github](https://github.com/phoenixframework/phoenix_live_view)
 * [Phoenix LiveView for web developers who don't know Elixir - ](https://www.youtube.com/watch?v=U_Pe8Ru06fM)
 * [Easy Push Updates in the Browser with Phoenix LiveView - Geoffrey Lesseli (FullStack Talks 2019)](https://www.youtube.com/watch?v=2Zaj_1htERc)

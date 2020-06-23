@@ -1834,6 +1834,13 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [The New Stack](http://thenewstack.io/)
 * [Weekly Show (Networking Technology)](http://packetpushers.net/series/weekly-show/)
 
+### DEVOPS - CEPH
+
+* [Ceph](https://docs.ceph.com/docs/master/)
+* [Cephadm](https://docs.ceph.com/docs/master/cephadm/)
+* [Deploying a new Ceph cluster](https://docs.ceph.com/docs/master/cephadm/install/)
+* [Orchestrator API](https://docs.ceph.com/docs/master/mgr/orchestrator/)
+
 ### DEVOPS - CHAOS MONKEY, ETC
 
 * [Principles of Chaos](http://principlesofchaos.org/)
