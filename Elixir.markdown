@@ -1072,6 +1072,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Elixir Talk](https://itunes.apple.com/us/podcast/elixirtalk/id1298287048)
 * [Indielixir - Carter Bryden](http://indielixer.com/)
 * [Smart Software - SmartLogic](https://podcast.smartlogic.io/)
+* [Thinking Elixir](https://thinkingelixir.com/the-podcast/)
 
 ### ELIXIR - PORTS
 

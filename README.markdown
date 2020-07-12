@@ -22,6 +22,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ALGORITHMS - CRDTs
 
+* [CRDTS: The Hard Parts - Martin Kleppmann - Hydra distributed computing conference 2020](https://www.youtube.com/watch?v=x7drE24geUw)
 * [CRDTs in Production - Dmitry Martyanov](https://www.youtube.com/watch?v=f03FWiIfXoQ)
 * [CRDTs: From sequential to concurrent executions - Carlos Baquero Moreno (CodeMesh LDN 2018](https://codesync.global/media/crdts-from-sequential-to-concurrent-executions/)
 * [Practical Demystification of CRDTs - Dmitry Ivanov & Nami Nasserazad (Curry On 2016)](https://www.youtube.com/watch?v=ShiU9g5JFq8)
@@ -1840,6 +1841,18 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Cephadm](https://docs.ceph.com/docs/master/cephadm/)
 * [Deploying a new Ceph cluster](https://docs.ceph.com/docs/master/cephadm/install/)
 * [Orchestrator API](https://docs.ceph.com/docs/master/mgr/orchestrator/)
+* [How Ceph Stores Data - 45 Drives](https://www.youtube.com/watch?v=ExWYSNE37js)
+* 45 Drives: [Ceph & Its Components](https://www.youtube.com/watch?v=kktsCNiMgVE) | [More Ceph videos](https://www.youtube.com/channel/UCV_OrwHDqXdz7JuxjROhetA/playlists)
+* [Storage and Ceph: Bare metal and Kubernetes Cluster - Bruno Dzogovic](https://www.youtube.com/watch?v=l7IKwDlh6rc)
+
+#### DEVOPS - CEPH - ROOK.IO
+
+* Rook.io: Open-Source, Cloud-Native Storage for Kubernetes: [Rook.io](https://rook.io/) | [Docs](https://rook.github.io/docs/rook/master/) | [Github](https://github.com/rook/rook) | [Helm chart to install Rook](https://rook.github.io/docs/rook/master/helm-operator.html)
+* Cassandra: [CRD](https://rook.github.io/docs/rook/master/cassandra-cluster-crd.html) | [Quickstart](https://rook.github.io/docs/rook/master/cassandra.html)
+* Ceph storage: [CRDs](https://rook.github.io/docs/rook/master/ceph-storage.html) | [Quickstart](https://rook.github.io/docs/rook/master/ceph-quickstart.html) | [Ceph tools](https://rook.github.io/docs/rook/master/ceph-tools.html)
+* CockroachDB: [CRD](https://rook.github.io/docs/rook/master/cockroachdb-cluster-crd.html) | [Quickstart](https://rook.github.io/docs/rook/master/cockroachdb.html)
+* NFS share: [CRD](https://rook.github.io/docs/rook/master/nfs-crd.html) | [Quickstart](https://rook.github.io/docs/rook/master/nfs.html)
+* YugabyteDB: [CRD](https://rook.github.io/docs/rook/master/yugabytedb-cluster-crd.html) | [Quickstart](https://rook.github.io/docs/rook/master/yugabytedb.html)
 
 ### DEVOPS - CHAOS MONKEY, ETC
 
@@ -2058,9 +2071,26 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Deploying Dokku to DigitalOcean for excellent deploying goodness - Pam Selle](http://thewebivore.com/tutorial-deploying-dokku-to-digitalocean-for-excellent-deploying-goodness/)
 * [Running Dokku on Digital Ocean - Henrik Nyh](https://gist.github.com/henrik/26bb73091712aa42abf2)
 
+### DEVOPS - DRONE.IO
+
+* [Drone.io](https://drone.io/) | [Try It](http://try.drone.io/) | [Docs](https://docs.drone.io/)
+
 ### DEVOPS - DUCKTAPE
 
 * [Ducktape: Distributed System Integration & Performance Testing Library - Confluent](https://github.com/confluentinc/ducktape)
+
+### DEVOPS - FLUXCD
+
+* [FluxCD, ArgoCD or Jenkins X: Which Is the Right GitOps Tool for You? - Rafael Portela et al.](https://blog.container-solutions.com/fluxcd-argocd-or-jenkins-x-which-is-the-right-gitops-tool-for-you)
+* [CI/CD Tooling, Which is best for you? - Mobilise](https://www.mobilise.cloud/ci-cd-tooling-which-is-best-for-you/)
+
+### DEVOPS - GITLAB
+
+* [Gitlab.com](://about.gitlab.com/)
+
+### DEVOPS - GOCD
+
+* GoCD - Continuous Delivery server: [GoCD.org](https://www.gocd.org/) | [Github](https://github.com/gocd/gocd)
 
 ### DEVOPS - GOOGLE CLOUD
 
@@ -2248,9 +2278,20 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 #### DEVOPS - KUBERNETES - ARGO
 
-* [Argo: The workflow engine for Kubernetes](https://applatix.com/open-source/argo/) | [Github](https://github.com/argoproj/argo)
+* [Argo: Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/) | [Github](https://github.com/argoproj/argo)
+* Argo CD: [Website](https://argoproj.github.io/argo-cd/) | [Github](https://github.com/argoproj/argo-cd/)
 * [Introduction to Argo CD : Kubernetes DevOps CI/CD - Marcel Dempers](https://www.youtube.com/watch?v=2WSJF7d8dUg)
 * [GitOps at Scale with Jenkins and Argo CD on Kubernetes - Mukulika Kapas & Deepthi Panthula](https://www.youtube.com/watch?v=4owbdHzfyMY)
+
+#### DEVOPS - KUBERNETES - BEST PRACTICES
+
+* [Validating Kubernetes YAML for best practice and policies - Amit Saha](https://learnk8s.io/validating-kubernetes-yaml)
+* [Kubeval](https://www.kubeval.com/)
+* [Kube-score](https://github.com/zegl/kube-score)
+* [Config-lint](https://stelligent.github.io/config-lint/#/)
+* [Copper](https://github.com/cloud66-oss/copper)
+* [Conftest](https://www.conftest.dev/)
+* [Polaris](https://github.com/FairwindsOps/polaris)
 
 #### DEVOPS - KUBERNETES - BRIGADE
 
@@ -2409,6 +2450,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Getting started with Jaeger to build an Istio service mesh - Daniel Oh](https://opensource.com/article/19/3/getting-started-jaeger)
 * [Intro: Jaeger - Yuri Shkuro (Uber) & Pavol Loffay (Red Hat) (KubeCon + CloudNativeCon 2018 North America)](https://www.youtube.com/watch?v=WRntQsUajow)
 
+#### DEVOPS - KUBERNETES - JENKINSX
+
+* [Jenkins-X.io](https://jenkins-x.io/) | [Docs](https://jenkins-x.io/docs/)
+
 #### DEVOPS - KUBERNETES - KANIKO
 
 [Kaniko: tool to build container images from a Dockerfile, inside a container or Kubernetes cluster - Google](https://github.com/GoogleContainerTools/kaniko)
@@ -2448,6 +2493,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Stern: Multi-pod & container log tailing for Kubernetes](https://github.com/wercker/stern)
 * [Kail: Kubernetes tail](https://github.com/boz/kail)
 * [Kubetail: Bash script to tail Kubernetes logs from multiple pods](https://github.com/johanhaleby/kubetail)
+
+#### DEVOPS - KUBERNETES - LONGHORN
+
+* Longhorn (block storage for persistent disk): [Github](https://github.com/longhorn/longhorn) | [Docs](https://longhorn.io/docs/1.0.0/what-is-longhorn/)
 
 #### DEVOPS - KUBERNETES - MICROK8S
 
@@ -2559,6 +2608,13 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Tilt.dev: manages local development instances for teams that deploy to Kubernetes](https://tilt.dev/) | [Github](https://github.com/windmilleng/tilt)
 
+#### DEVOPS - KUBERNETES - TRAEFIK
+
+* Traefik: [Docs](https://docs.traefik.io/) | [Website](https://containo.us/traefik/) | [Github](https://github.com/containous/traefik)
+* [Traefik Proxy v2.0 Docker Basic Tutorial - Christian Martins](https://www.youtube.com/watch?v=Gk9WER6DunE)
+* [How to Install Traefik 2 on Raspberry Pi - DB Tech](https://www.youtube.com/watch?v=GcNGCOMa3wc)
+* [Escaping Big Tech With Traefik 2.0 - WP Engine - Chris Wiegman](https://www.youtube.com/watch?v=q1SDzUXx5mg)
+
 #### DEVOPS - KUBERNETES - VIDEOS
 
 * [KubeCon + CloudNativeCon 2019 Barcelona 2019 (343 videos)](https://www.youtube.com/playlist?list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3)
@@ -2654,7 +2710,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### DEVOPS - PROMETHEUS
 
-* [Prometheus.io](https://prometheus.io/) | [Github](https://github.com/prometheus/prometheus)
+* Prometheus: [Docs](https://prometheus.io/docs/prometheus/latest/getting_started/) | [Prometheus.io](https://prometheus.io/) | [Github](https://github.com/prometheus/prometheus)
 * [Prometheus Helm chart](https://hub.kubeapps.com/charts/stable/prometheus)
 
 ### DEVOPS - RELIABILITY
@@ -2671,6 +2727,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Serverless NYC 2018](https://www.serverlessnyc.com/)
 * [The Problem is Data - Gwen Shapira (Serverless NYC 2018)](https://www.youtube.com/watch?v=J-9afazR2o0)
 * Serverlessconf: [Austin 2017](https://www.youtube.com/playlist?list=PLnwBrRU5CSTmruZzR8Z06j3pGglBZcdDr) | [NYC 2016](https://www.youtube.com/playlist?list=PLnwBrRU5CSTnd6NC6E-Fn3SJEJKRkaHJY)
+
+### DEVOPS - SERVICE MESH
+
+* [The Service Mesh: What Every Software Engineer Needs to Know about the World's Most Over-Hyped Technology - William Morgan](https://servicemesh.io/)
 
 ### DEVOPS - SPINNAKER.IO
 
@@ -3561,6 +3621,8 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### LINUX - NETWORKING - LOAD BALANCING
 
+* [Load Balancing in Layer 4 vs Layer 7 with HAPROXY Examples - Hussein Nasser](https://www.youtube.com/watch?v=aKMLgFVxZYk)
+* [Load Balancer vs Reverse Proxy (Explained by Example) - Hussein Nasser](https://www.youtube.com/watch?v=S8J2fkN2FeI)
 * [Cloud Computing - Load Balancing - Eli the Computer Guy](https://www.youtube.com/watch?v=zaLJ6SIHztk)
 * [Katran Layer 4 Load Balancing at Facebook Engineering - Nitika Shirokov (Networking @Scale 2018)](https://www.youtube.com/watch?v=da9Qw7v5qLM)
 
@@ -4189,6 +4251,9 @@ Peter R. Egli:
 
 ### POSTGRESQL - PERFORMANCE
 
+* [Database Hardware Selection Guidelines - Bruce Momjian](https://www.youtube.com/watch?v=qIlYZeSuv8w)
+* [Tuning PostgreSQL for High Write Workloads - Grant McAlister](https://www.youtube.com/watch?v=xrMbzHdPLKM)
+* [The Next Generation of Postgres High Availability (PostgreSQL HA) - Tom Kincaid](https://www.youtube.com/watch?v=ogyvRXb33Sg)
 * [10 Things I Hate About PostgreSQL - Rick Branson](https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791)
 * [Computational Complexity and the Query Planner - James Coleman](https://www.youtube.com/watch?v=8ECcLPNW7zE)
 * [Lessons learned scaling PostgreSQL database to 1.2bn records/month - Gajus Kuizinas](https://medium.com/@gajus/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067)

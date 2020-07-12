@@ -302,7 +302,7 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 
 #### PYTHON - DATA ANALYSIS - SYMPY
 
-* [SymPy documentation](http://docs.sympy.org/latest/index.html)
+* SymPy: [Website](https://www.sympy.org/en/index.html) | [Docs](http://docs.sympy.org/latest/index.html)
 * [Symbolic Computing With SymPy (SciPy 2013) - 1](http://www.youtube.com/watch?v=dAgShwIx72c) [2](http://www.youtube.com/watch?v=trhmGmyTNuo) [3](http://www.youtube.com/watch?v=JDztSdQqh0o) [4](http://www.youtube.com/watch?v=q9DUdZ3flfk) [5](http://www.youtube.com/watch?v=PC1GPUteZs0) & [6](http://www.youtube.com/watch?v=wPD7Y0sCO4I)
 * [Sympy - Symbolic algebra in Python - JR Johansson](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-5-Sympy.ipynb)
 
