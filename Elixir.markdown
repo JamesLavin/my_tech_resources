@@ -1070,6 +1070,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Elixir Mix](https://devchat.tv/elixir-mix/)
 * [Elixir Outlaws](https://elixiroutlaws.com/)
 * [Elixir Talk](https://itunes.apple.com/us/podcast/elixirtalk/id1298287048)
+* [Elixir Wizards](https://smartlogic.io/podcast/elixir-wizards/)
 * [Indielixir - Carter Bryden](http://indielixer.com/)
 * [Smart Software - SmartLogic](https://podcast.smartlogic.io/)
 * [Thinking Elixir](https://thinkingelixir.com/the-podcast/)
@@ -1106,6 +1107,10 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Yggdrasil: Easy Pub-Sub in Elixir - Alex de Sousa](https://dev.to/alexdesousa/yggdrasil-easy-pub-sub-in-elixir-3909)
 * [Yggdrasil and PostgreSQL Notifications - Alex de Sousa](https://dev.to/alexdesousa/yggdrasil-and-postgresql-notifications-31kb)
 * [Yggdrasil and RabbitMQ Subscriptions - Alex de Sousa](https://dev.to/alexdesousa/yggdrasil-and-rabbitmq-subscriptions-18k4)
+
+### ELIXIR - PULSAR
+
+* [Stargate: Apache Pulsar client written in Elixir using the Pulsar websocket API - Jeff Grunewald](https://github.com/jeffgrunewald/stargate)
 
 ### ELIXIR - PUSHEX
 
@@ -1544,6 +1549,10 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * persistent_term: [Docs](http://erlang.org/doc/man/persistent_term.html)
 * [Clever use of persistent_term - Lukas Larsson](http://blog.erlang.org/persistent_term/)
+
+### ERLANG - PODCASTS
+
+* [Mostly Erlang (no new shows)](https://podcasts.apple.com/gb/podcast/podcast-mostly-erlang/id638766008)
 
 ### ERLANG - PYRLANG
 

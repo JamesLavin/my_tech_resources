@@ -6,7 +6,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## MAJOR CATEGORIES
 
-[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Body & Mind](#body--mind) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [Databases](#databases) | [DevOps](#devops) | [Domain-Driven Design](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---domain-driven-design) | [Elasticsearch](#elasticsearch) | [Elixir](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#erlang) | [Entrepreneurship](#business---entrepreneurship) | [Event sourcing](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#my-event-sourcing--cqrs--ddd--microservice-resources---james-lavin) | [Functional programming](#functional-programming) | [Git](#git) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Kafka](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---kafka) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) : [programming news](https://github.com/JamesLavin/my_tech_resources#news---programming), [science news](https://github.com/JamesLavin/my_tech_resources#news---science), [tech news](https://github.com/JamesLavin/my_tech_resources#news---tech) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Productivity  Tools](#productivity-tools) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python) : [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [Podcasts](#podcasts) | [R](#r) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Rust](#rust) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best-though-i-now-use-it-inside-visual-studio-code) | [Visual Studio Code](#visual-studio-code-vscode) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Body & Mind](#body--mind) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [Databases](#databases) | [Design](#design) | [DevOps](#devops) | [Domain-Driven Design](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---domain-driven-design) | [Elasticsearch](#elasticsearch) | [Elixir](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#erlang) | [Entrepreneurship](#business---entrepreneurship) | [Event sourcing](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#my-event-sourcing--cqrs--ddd--microservice-resources---james-lavin) | [Functional programming](#functional-programming) | [Git](#git) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Kafka](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---kafka) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Management/Leadership](#management/leadership) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) : [programming news](https://github.com/JamesLavin/my_tech_resources#news---programming), [science news](https://github.com/JamesLavin/my_tech_resources#news---science), [tech news](https://github.com/JamesLavin/my_tech_resources#news---tech) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Productivity  Tools](#productivity-tools) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python) : [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [Podcasts](#podcasts) | [R](#r) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Rust](#rust) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best-though-i-now-use-it-inside-visual-studio-code) | [Visual Studio Code](#visual-studio-code-vscode) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## ALGORITHMS
 
@@ -301,6 +301,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ARTIFICIAL INTELLIGENCE (AI) - PODCASTS
 
 * [Artificial Intelligence in Industry](https://www.techemergence.com/category/primary-content-type/artificial-intelligence-podcast/)
+* [Lex Fridman Podcast: AI](https://lexfridman.com/ai/)
 * [Machine Learning Guide - Tyler Renelle](http://ocdevel.com/podcasts/machine-learning)
 * [Practical AI](https://www.podcastrepublic.net/podcast/1406537385)
 * [Talking Machines](http://www.thetalkingmachines.com/blog/)
@@ -533,6 +534,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Does Intermittent Fasting Work? - Monica Reinagel, MS, LD/N, CNS](https://www.quickanddirtytips.com/health-fitness/weight-loss/does-intermittent-fasting-work)
 * [The Leangains Guide - Martin Berkhan](https://leangains.com/the-leangains-guide)
 
+### BODY & MIND - PODCASTS
+
+* [Brain Science with Ginger Campbell, MD](https://brainsciencepodcast.com/)
+* [Brain Science: Neuroscience & Behavior](https://podcasts.apple.com/sa/podcast/brain-science-neuroscience-behavior/id1475672610)
+* [BrainStuff](https://podcasts.apple.com/us/podcast/brainstuff/id260335249)
+* [Do The Thing - Melissa Urban](https://podcasts.apple.com/us/podcast/do-the-thing-with-whole30s-melissa-urban/id1460152081)
+* [Hidden Brain - NPR](https://podcasts.apple.com/us/podcast/hidden-brain/id1028908750)
+* [Love Your Work - David Kadavy](https://podcasts.apple.com/us/podcast/love-your-work/id1067860103)
+* [The Moment - Brian Koppelman](https://podcasts.apple.com/us/podcast/the-moment-with-brian-koppelman/id814550071)
+
 ### BODY & MIND - POSTURE
 
 * [Back Pain & Sitting](https://www.youtube.com/playlist?list=PL8l32k1r15l4Y2rO_fDZtgnnZoWwoeXzf) & [More Bob (Schrupp) & Brad (Heineck)](https://www.youtube.com/channel/UCmTe0LsfEbpkDpgrxKAWbRA)
@@ -610,7 +621,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Startup (podcast)](https://gimletmedia.com/show/startup/episodes/)
 * [SteveBlank.com](http://steveblank.com/slides/#Videos)
 * [The Tim Ferriss Show](http://fourhourworkweek.com/podcast/)
-* [James Altucher interview podcasts](http://www.stansberryradio.com/James-Altucher/Latest-Episodes)
+* [The James Altucher Show](http://www.stansberryradio.com/James-Altucher/Latest-Episodes)
 * [Kauffmann Founders School](http://www.entrepreneurship.org/Founders-School)
 * [A Culture of Experimentation - Jeff Bezos (2005)](http://constantbetasoftware.com/2015/12/11/bezos-amazon-culture-of-experimentation.html)
 * [Observatory of Economic Complexity (interactive international trade data displayed using D3)](http://atlas.media.mit.edu/en/visualize/tree_map/hs92/export/usa/all/show/2013/)
@@ -730,10 +741,12 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### BUSINESS - ENTREPRENEURSHIP - PODCASTS
 
+* [2000 Book Summaries for Entrepreneurs - Mani Vaya](https://podcasts.apple.com/us/podcast/2000-books-for-ambitious-entrepreneurs-author-interviews/id1119439036)
 * [996 Podcast on Entrepreneurship in China - GGV Capital](https://996.ggvc.com/category/podcast/)
 * [Angel Invest Boston - Sal Daler](https://soundcloud.com/user-982602046)
 * [Babson Built](https://itunes.apple.com/us/podcast/babson-built/id1338241432?mt=2)
 * [Balderton Podcast - Balderton Capital](https://itunes.apple.com/us/podcast/balderton-podcast-tech-investment-venture-capital-startup/id1002344923?mt=2)
+* [Being Boss: Mindset, Habits, Tactics, and Lifestyle for Creative Entrepreneurs](https://podcasts.apple.com/ca/podcast/being-boss-mindset-habits-tactics-lifestyle-for-creative/id956310359)
 * [Bootstrapped VC - Backstage Capital](https://itunes.apple.com/us/podcast/the-bootstrapped-vc-a-backstage-capital-podcast/id1209876096?mt=2)
 * [Bowery Capital Startup Sales Podcast](https://bowerycap.com/blog/tag/startup-sales-podcast/)
 * [Business School Without the BS - Clay Clark & Robert Zoellner](https://itunes.apple.com/us/podcast/thrivetime-show-business-school-without-the-bs/id1076405618)
@@ -742,11 +755,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Cortex - CGP Grey & Myke Hurley](https://www.relay.fm/cortex)
 * [DealMakers - Alejandro Cremades](https://itunes.apple.com/us/podcast/dealmakers/id1439149348?mt=2)
 * [Dingman Bootstrapped](https://www.rhsmith.umd.edu/centers-excellence/dingman-center-entrepreneurship/news-events/podcast)
+* [Exceptions - Jay Acunzo](https://podcasts.apple.com/us/podcast/exceptions-with-jay-acunzo/id1451633126)
+* [Evolving for the Next Billion - GGV Capital](https://podcasts.apple.com/us/podcast/evolving-for-the-next-billion-by-ggv-capital/id1336107529)
 * [Founder Quest Podcast](https://www.founderquestpodcast.com/)
 * [Founder Real Talk - GGV Capital](https://founderrealtalk.ggvc.com/)
 * [Founders Talk](https://changelog.com/founderstalk)
 * [Foundr - Nathan Chan](https://foundr.com/podcast-with-nathan-chan/)
 * [The Full Ratchet - Nick Moran](https://itunes.apple.com/us/podcast/full-ratchet-vc-venture-capital-angel-investors-startup/id888084300?mt=2)
+* [Getting to Ramen - Joshua Anderton](https://podcasts.apple.com/us/podcast/getting-to-ramen/id1477213186)
 * [Greymatter - Greylock Partners](https://itunes.apple.com/us/podcast/greymatter/id1089013200?mt=2)
 * [How I Built This - Guy Raz](https://www.npr.org/podcasts/510313/how-i-built-this)
 * [How to Start a Startup](https://podcasts.apple.com/us/podcast/how-to-start-a-startup/id922398209)
@@ -754,8 +770,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [James Altucher Show](https://podcasts.apple.com/bs/podcast/the-james-altucher-show/id794030859)
 * [Masters of Scale - Reid Hoffman](https://mastersofscale.com/)
 * [Mixergy - Andrew Warner](https://podcasts.apple.com/ee/podcast/mixergy-startup-stories-1000-entrepreneurs-businesses/id348690336)
+* [The New Stack: Makers](https://thenewstack.io/podcasts/makers/)
 * [Nice Guys on Business - Doug Sandler & Strickland Bonner](http://www.niceguysonbusiness.com/episodes/)
-* [Notion - The Pain of Scale - Stephen Millard & Paul Papadimitriou](https://www.listennotes.com/podcasts/notion-the-pain-of-scale-notion-investing-eby13BGQ0pn/)
+* [Notion - The SaaS enterprise tech podcast - Stephen Millard & Paul Papadimitriou](https://www.listennotes.com/podcasts/notion-the-pain-of-scale-notion-investing-eby13BGQ0pn/)
 * [Origins - Notation Capital](https://itunes.apple.com/us/podcast/origins-podcast-about-limited/id1111792048?mt=2)
 * [Product Hunt Radio](https://www.producthunt.com/radio)
 * [Rogue Startups Podcast - Dave Rodenbaugh & Craig Hewitt](https://roguestartups.com/)
@@ -788,10 +805,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Bothsides TV - Upfront Ventures](https://itunes.apple.com/us/podcast/bothsides-tv/id893382102?mt=2)
 * [Business Book of the Month](http://www.businessbookofthemonth.com/)
 * [Chase Jarvis LIVE](https://www.chasejarvis.com/blog/)
+* [Conversations with Tyler](https://podcasts.apple.com/us/podcast/conversations-with-tyler/id983795625?mt=2)
+* [The Ezra Klein Show](https://podcasts.voxmedia.com/show/the-ezra-klein-show)
 * [Freakonomics Radio](http://freakonomics.com/archive/)
+* [Harvard Business Review IdeaCast](https://podcasts.apple.com/us/podcast/hbr-ideacast/id152022135)
 * [Healthy Dose](https://itunes.apple.com/us/podcast/a-healthy-dose/id1197975925)
 * [Marketing Over Coffee - John Wall & Christopher Penn](https://www.marketingovercoffee.com/)
-* [Meaningful Show](http://www.meaningfulhq.com/)
+* [The McKinsey Podcast](https://podcasts.apple.com/us/podcast/the-mckinsey-podcast/id285260960)
+* [Meaningful Show - Dean Bokhari](http://www.meaningfulhq.com/)
 * [Notion Capital](https://itunes.apple.com/us/podcast/notion-capital/id1089580380?mt=2)
 * [The Pitch - Josh Muccio (Gimlet Media)](https://gimletmedia.com/thepitch/)
 * [Pivot - Kara Swisher & Scott Galloway](https://podcasts.apple.com/us/podcast/pivot/id1073226719)
@@ -1335,6 +1356,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [DataFramed - Hugo Bowne-Anderson (DataCamp)](https://www.datacamp.com/community/podcast)
 * [Data Podcast](https://itunes.apple.com/us/podcast/data-podcast/id1247751397)
 * [In Context - Integrate.AI](https://soundcloud.com/integrateai)
+* [NoSQL Database Podcast - Matthew Groves](https://podcasts.apple.com/us/podcast/the-nosql-database-podcast/id1076341142)
 * [O'Reilly Data Show Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast)
 
 ### DATA - SCRAPING
@@ -1727,6 +1749,47 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Time Series Database Lectures #6 - Mike Freedman (TimescaleDB) @ Carnegie Mellon Database Group](https://www.youtube.com/watch?v=IaZ4hJ3G7wc&index=6&list=PLSE8ODhjZXjY0GMWN4X8FIkYNfiu8_Wl9)
 * [TimescaleDB: Fast And Scalable Timeseries - Ajay Kulkarni and Mike Freedman](https://www.dataengineeringpodcast.com/timescaledb-with-ajay-kulkarni-and-mike-freedman-episode-18/)
 
+## DESIGN
+
+### DESIGN - PODCASTS
+
+* [99% Invisible - Roman Mars](https://podcasts.apple.com/us/podcast/99-invisible/id394775318)
+* [Jake & Jonathan](https://podcasts.apple.com/us/podcast/jake-and-jonathan/id1320916842)
+* [Let's Make Mistakes - Mike Monteiro & Jessie Char](https://podcasts.apple.com/us/podcast/lets-make-mistakes/id432550963)
+
+### DESIGN - WEB DESIGN
+
+* [Dribbble: Show & tell for designers](https://dribbble.com/)
+* [SpeckyBoy](https://speckyboy.com/)
+* [25 Beautiful & Clean Web Design Examples](https://speckyboy.com/25-beautiful-clean-web-designs/)
+* [Web Fundamentals: Best practices for great multi-device web experiences (Google)](https://developers.google.com/web/fundamentals/?hl=en)
+* [Web Fundamentals: Optimizing Performance (Google)](https://developers.google.com/web/fundamentals/performance/?hl=en)
+
+#### DESIGN - WEB DESIGN - BRACKETS CODE EDITOR
+
+* Brackets code editor: [Brackets.io](http://brackets.io/) & [Github](https://github.com/adobe/brackets)
+
+#### DESIGN - WEB DESIGN - RESPONSIVE DESIGN & PROGRESSIVE ENHANCEMENT
+
+* [Adaptive Web Design - Aaron Gustafson](http://adaptivewebdesign.info/1st-edition/)
+* [Future-Friendly Resources](http://futurefriendlyweb.com/resources.html)
+* [Responsive Web Design, Mobile First and Progressive enhancement in action - Leonado Lenase (ScotlandJS 2012)](http://vimeo.com/45140588)
+* [Browser Versions Are Dead](http://confreaks.tv/videos/2223-html5tx2013-browser-versions-are-dead)
+* [Luke Wroblewski blogs & presentations](http://www.lukew.com/)
+
+#### DESIGN - WEB DESIGN - USER INTERFACE (UI)
+
+* [Dribble](https://dribbble.com/)
+* [Learn UI Design Blog - Erik D. Kennedy](https://learnui.design/blog/)
+* [Flat UI Colors](https://flatuicolors.com/)
+
+#### DESIGN - WEB DESIGN - USER EXPERIENCE (UX)
+
+* [User experience mapping for dummies - Alice Emma Walker](https://uxdesign.cc/user-experience-mapping-alice-emma-walker-868259547ba8)
+* [UX Mapping Methods Compared: A Cheat Sheet - Sarah Gibbons](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/)
+* [User flow is the new wireframe - Alexander Handley](https://uxdesign.cc/when-to-use-user-flows-guide-8b26ca9aa36a)
+* [7 Free and Open Source Wireframe Tools to Optimize User Experience - Kelsie Anderson](https://blog.capterra.com/free-and-open-source-wireframe-tools/)
+
 ## DEVOPS
 
 * [Building Evolutionary Infrastructure - Kief Morris (GOTO 2019)](https://www.youtube.com/watch?v=1f_P8ZH5BC8)
@@ -1829,6 +1892,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Cloud Native in 15 Minutes - Pivotal](https://podcasts.apple.com/us/podcast/cloud-native-in-15-minutes/id1469633294)
 * [Cloudscape Podcast](https://blog.pythian.com/podcasts/)
 * [Datanauts (data center infrastructure)](http://packetpushers.net/series/datanauts-podcast/)
+* [DevOps and Docker Talk - Bret Fisher](https://www.bretfisher.com/podcast/)
 * [Dockercast](https://itunes.apple.com/us/podcast/dockercast/id1141133179)
 * [Full Stack Journey](http://packetpushers.net/series/full-stack-journey/)
 * [JAX](https://jaxenter.com/tag/devops)
@@ -2318,7 +2382,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 #### DEVOPS - KUBERNETES - CROSSPLANE
 
-* [Crossplane.io](https://crossplane.io/) | [Github](https://github.com/crossplaneio/crossplane)
+* [Crossplane.io: Manage any infrastructure your applications need directly from Kubernetes](https://crossplane.io/) | [Github](https://github.com/crossplaneio/crossplane)
 
 #### DEVOPS - KUBERNETES - DEPLOYMENT
 
@@ -2747,7 +2811,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### DEVOPS - TEKTON
 
-* Tekton: K8s-native Pipeline resource: [Github](https://github.com/tektoncd/pipeline) | [Tekton on Google Cloud](https://cloud.google.com/tekton/)
+* Tekton: K8s-native Pipeline resource: [Tutorial](https://github.com/tektoncd/pipeline/blob/master/docs/tutorial.md) | [Github](https://github.com/tektoncd/pipeline) | [Tekton on Google Cloud](https://cloud.google.com/tekton/) | [Roadmap](https://github.com/tektoncd/pipeline/blob/master/roadmap.md) | [Dashboard](https://github.com/tektoncd/dashboard)
 
 ### DEVOPS - TITUS
 
@@ -3081,8 +3145,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### FUNCTIONAL PROGRAMMING - PODCASTS
 
 * [FPCasts.com: list of FP podcasts](https://www.fpcasts.com/)
+* [Functional Design in Clojure](https://podcasts.apple.com/us/podcast/functional-design-in-clojure/id1443852833)
 * [FunctionalGeekery.com](https://www.functionalgeekery.com)
 * LambdaCast: [SoundCloud](https://soundcloud.com/lambda-cast) & [iTunes](https://itunes.apple.com/us/podcast/lambdacast/id1133087254?mt=2)
+* [Thoughts on Functional Programming - Eric Normand](https://podcasts.apple.com/us/podcast/thoughts-on-functional-programming-podcast-by-eric/id1364166414)
 
 ### FUNCTIONAL PROGRAMMING - TYPES
 
@@ -3615,6 +3681,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * TLDR Pages: Simplified and community-driven man pages: [website](http://tldr.sh) | [live demo](https://tldr.ostera.io/) | [installation](http://tldr.sh/#installation) | [PDF](http://tldr.sh/assets/tldr-book.pdf)
 * [Watch command: execute program periodically, showing output fullscreen](https://linux.die.net/man/1/watch)
 
+### LINUX - LOGICAL VOLUME MANAGEMENT (LVM)
+
+* Chris Titus: [LVM (Logical Volume Management) – Combine Physical Drives and more!](https://christitus.com/lvm-guide/) | [LVM: Logical Volume Management | Combining Drives Together](https://www.youtube.com/watch?v=scMkYQxBtJ4)
+
 ### LINUX - NETWORKING
 
 * Also see: [NETWORKING](https://github.com/JamesLavin/my_tech_resources#networking)
@@ -3681,7 +3751,9 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### LINUX - UBUNTU - KUBERNETES
 
-* [Kubernetes on Ubuntu](https://kubernetes.io/docs/getting-started-guides/ubuntu/)
+* [Kubernetes on Ubuntu](https://kubernetes.io/docs/getting-started-guides/ubuntu/) | [Quickstart](https://ubuntu.com/kubernetes/docs/quickstart)
+* [Installing Juju](https://juju.is/docs/installing)
+* [Provisioning Kubernetes the Easy Way with Juju - Just me and Opensource](https://www.youtube.com/watch?v=baSTkU38sC8)
 
 ## LISP
 
@@ -3785,6 +3857,30 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Raspberry Pi Resources](https://www.raspberrypi.org/resources/)
 * [Official Rasperry Pi Projects Book](https://www.raspberrypi.org/magpi-issues/Projects_Book_v1.pdf)
+
+## MANAGEMENT/LEADERSHIP
+
+* [Shape Up: Stop Running in Circles and Ship Work That Matters - Ryan Singer](https://basecamp.com/shapeup) | [PDF](https://basecamp.com/shapeup/shape-up.pdf)
+* [The Leadership Library for Engineers - Philip Paetz](https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a)
+* [Be a Director, Not a Manager - Fareed Mosavat (#mtpcon 2019)](https://www.mindtheproduct.com/2019/09/be-a-director-not-a-manager-by-fareed-mosavat/)
+* [Tips for Managing a Widely Distributed Team - Dirkjan Bussink (#LeadDevLondon 2018)](https://www.youtube.com/watch?v=pi6bHUkoBgY)
+
+### MANAGEMENT/LEADERSHIP - BILL CAMPBELL
+
+* [People, Leadership & Startups - Bill Campbell (Khosla Ventures)](https://www.youtube.com/watch?v=GHLg1wDuc10)
+* [Remembering the Life and Career of Bill Campbell (Fortune)](https://www.youtube.com/watch?v=9AmHesyfoMQ)
+* [Fireside Chat With Ben Horowitz of Andreessen Horowitz and Bill Campbell of Intuit](https://www.youtube.com/watch?v=7JoQB2V9Ww4)
+* [Intuit CEO Conversations with Brad Smith and Bill Campbell](https://www.youtube.com/watch?v=EFWG51nGmGA)
+
+### MANAGEMENT/LEADERSHIP - ONE-ON-ONES
+
+* [One on One Meeting Questions Great Managers Ask Their Teams - Lighthouse](https://getlighthouse.com/blog/one-on-one-meeting-questions-great-managers-ask/)
+* [24 great one-on-one meeting questions - Chloe Hamman (Culture Amp)](https://www.cultureamp.com/blog/great-one-on-one-meeting-questions/)
+* [101 Questions to Ask in One on Ones - Jason Evanish](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/)
+
+### MANAGEMENT/LEADERSHIP - PODCASTS
+
+* [Finding Mastery - Dr. Michael Gervais](https://findingmastery.net/category/podcasts/)
 
 ## MARKDOWN
 
@@ -4562,26 +4658,6 @@ Peter R. Egli:
 * [Phaser.io](http://phaser.io/)
 * [Game Editor (cross-platform game creator)](http://game-editor.com/)
 
-### PROGRAMMING - MANAGEMENT
-
-* [Shape Up: Stop Running in Circles and Ship Work That Matters - Ryan Singer](https://basecamp.com/shapeup) | [PDF](https://basecamp.com/shapeup/shape-up.pdf)
-* [The Leadership Library for Engineers - Philip Paetz](https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a)
-* [Be a Director, Not a Manager - Fareed Mosavat (#mtpcon 2019)](https://www.mindtheproduct.com/2019/09/be-a-director-not-a-manager-by-fareed-mosavat/)
-* [Tips for Managing a Widely Distributed Team - Dirkjan Bussink (#LeadDevLondon 2018)](https://www.youtube.com/watch?v=pi6bHUkoBgY)
-
-#### PROGRAMMING - MANAGEMENT - BILL CAMPBELL
-
-* [People, Leadership & Startups - Bill Campbell (Khosla Ventures)](https://www.youtube.com/watch?v=GHLg1wDuc10)
-* [Remembering the Life and Career of Bill Campbell (Fortune)](https://www.youtube.com/watch?v=9AmHesyfoMQ)
-* [Fireside Chat With Ben Horowitz of Andreessen Horowitz and Bill Campbell of Intuit](https://www.youtube.com/watch?v=7JoQB2V9Ww4)
-* [Intuit CEO Conversations with Brad Smith and Bill Campbell](https://www.youtube.com/watch?v=EFWG51nGmGA)
-
-#### PROGRAMMING - MANAGEMENT - ONE-ON-ONES
-
-* [One on One Meeting Questions Great Managers Ask Their Teams - Lighthouse](https://getlighthouse.com/blog/one-on-one-meeting-questions-great-managers-ask/)
-* [24 great one-on-one meeting questions - Chloe Hamman (Culture Amp)](https://www.cultureamp.com/blog/great-one-on-one-meeting-questions/)
-* [101 Questions to Ask in One on Ones - Jason Evanish](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/)
-
 ### PROGRAMMING - MESSAGING & QUEUES
 
 * [Decouple all the things: Asynchronous messaging keeps it simple - Kerstin Puschke (ArrrrCamp 2015)](http://confreaks.tv/videos/arrrrcamp2015-decouple-all-the-things-asynchronous-messaging-keeps-it-simple)
@@ -4610,14 +4686,15 @@ Peter R. Egli:
 * [Build - Maggie Crowley](https://podcasts.apple.com/us/podcast/build/id1445050691)
 * [Build Your SaaS - Jon & Justin](https://podcasts.apple.com/us/podcast/build-your-saas-bootstrapping-in-2019/id1357295850)
 * [CaSE: Conversations About Software Engineering](https://www.case-podcast.org/)
-* [The Changelog - Adam Stacoviak and Jerod Santo](https://changelog.com/podcast/)
+* [The Changelog: Software Dev & Open Source - Adam Stacoviak and Jerod Santo](https://changelog.com/podcast/)
 * [Code Podcast](https://soundcloud.com/podcastcode)
+* [Coding Blocks](https://www.codingblocks.net/category/podcast/)
 * [Cognicast](http://blog.cognitect.com/cognicast/)
 * [CoRecursive - Adam Bell](https://corecursive.com/)
 * [CTRL+ClickCast](http://ctrlclickcast.com/)
 * [Cynical Developer - James Studdart](https://cynicaldeveloper.com/)
 * [Daily Tech News Show](http://www.dailytechnewsshow.com/)
-* [Developer On Fire](http://developeronfire.com/)
+* [Developer On Fire - Dave Rael](http://developeronfire.com/)
 * [Dr. Dobbs TV](http://www.drdobbs.com/tv/) (Video)
 * [Elixir Fountain](https://soundcloud.com/elixirfountain)
 * [Exponent](http://exponent.fm/)
@@ -4625,10 +4702,10 @@ Peter R. Egli:
 * [The Freelancers' Show](https://devchat.tv/freelancers/)
 * [Front End Happy Hour](http://frontendhappyhour.com/)
 * [Full Stack Radio](http://www.fullstackradio.com/episodes)
-* [Function](https://itunes.apple.com/us/podcast/function-with-anil-dash/id1439658455)
+* [Function - Anil Dash](https://itunes.apple.com/us/podcast/function-with-anil-dash/id1439658455)
 * [FunctionalGeekery.com](https://www.functionalgeekery.com)
-* [Giant Robots](http://giantrobots.fm/)
-* [Greater Than Code](https://www.greaterthancode.com/)
+* [Giant Robots Smashing Into Other Giant Robots - Thoughtbot](http://giantrobots.fm/)
+* [Greater Than Code - Mandy Moore](https://www.greaterthancode.com/)
 * [Hansel Minutes](http://www.hanselminutes.com/)
 * [Herding Code](http://herdingcode.com/)
 * [InfoQ Podcast](https://www.infoq.com/podcasts/)
@@ -5581,39 +5658,6 @@ Peter R. Egli:
 
 * [National Weather Service - Nationwide radar loop](http://radar.weather.gov/Conus/full_loop.php)
 * [National Weather Service - New York metro radar loop](http://radar.weather.gov/ridge/radar.php?rid=okx&product=N0R&overlay=11101111&loop=yes)
-
-## WEB DESIGN
-
-* [Dribbble: Show & tell for designers](https://dribbble.com/)
-* [SpeckyBoy](https://speckyboy.com/)
-* [25 Beautiful & Clean Web Design Examples](https://speckyboy.com/25-beautiful-clean-web-designs/)
-* [Web Fundamentals: Best practices for great multi-device web experiences (Google)](https://developers.google.com/web/fundamentals/?hl=en)
-* [Web Fundamentals: Optimizing Performance (Google)](https://developers.google.com/web/fundamentals/performance/?hl=en)
-
-### WEB DESIGN - BRACKETS CODE EDITOR
-
-* Brackets code editor: [Brackets.io](http://brackets.io/) & [Github](https://github.com/adobe/brackets)
-
-### WEB DESIGN - RESPONSIVE DESIGN & PROGRESSIVE ENHANCEMENT
-
-* [Adaptive Web Design - Aaron Gustafson](http://adaptivewebdesign.info/1st-edition/)
-* [Future-Friendly Resources](http://futurefriendlyweb.com/resources.html)
-* [Responsive Web Design, Mobile First and Progressive enhancement in action - Leonado Lenase (ScotlandJS 2012)](http://vimeo.com/45140588)
-* [Browser Versions Are Dead](http://confreaks.tv/videos/2223-html5tx2013-browser-versions-are-dead)
-* [Luke Wroblewski blogs & presentations](http://www.lukew.com/)
-
-### WEB DESIGN - USER INTERFACE (UI)
-
-* [Dribble](https://dribbble.com/)
-* [Learn UI Design Blog - Erik D. Kennedy](https://learnui.design/blog/)
-* [Flat UI Colors](https://flatuicolors.com/)
-
-### WEB DESIGN - USER EXPERIENCE (UX)
-
-* [User experience mapping for dummies - Alice Emma Walker](https://uxdesign.cc/user-experience-mapping-alice-emma-walker-868259547ba8)
-* [UX Mapping Methods Compared: A Cheat Sheet - Sarah Gibbons](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/)
-* [User flow is the new wireframe - Alexander Handley](https://uxdesign.cc/when-to-use-user-flows-guide-8b26ca9aa36a)
-* [7 Free and Open Source Wireframe Tools to Optimize User Experience - Kelsie Anderson](https://blog.capterra.com/free-and-open-source-wireframe-tools/)
 
 ## WINDOWS
 
