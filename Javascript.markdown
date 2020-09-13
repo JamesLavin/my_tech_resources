@@ -137,6 +137,12 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [JavaScript Playground](http://javascriptplayground.com/blog)
 * [ModernWeb.com](http://modernweb.com/category/web/javascript/)
 
+### JAVASCRIPT - BROWSER AUTOMATION
+
+* [Puppeteer.js: Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol](https://github.com/puppeteer/puppeteer/) | [The power of headless Chrome](https://developers.google.com/web/tools/puppeteer/)
+* [Nightmare: High-level browser automation library](https://github.com/segmentio/nightmare)
+* [Web Scraping with Puppeteer and NodeJS](https://www.scrapehero.com/how-to-build-a-web-scraper-using-puppeteer-and-node-js/)
+
 ### JAVASCRIPT - BUILD TOOLS
 
 * [Brunch.io](https://github.com/brunch/brunch-guide#readme)
@@ -721,3 +727,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [Webpack founder Tobias Koppers demos bundling live by hand](https://www.youtube.com/watch?v=UNMkLHzofQI)
 * [SurviveJS Webpack book - Juho Vepsäläinen](https://survivejs.com/webpack/introduction/)
 * [Understanding webpack from the inside out - Sean Larkin & Tobias Koppers (ReactConf 2017)](https://www.youtube.com/watch?v=gEBUU6QfVzk)
+
+### JAVASCRIPT - WEBRTC
+
+* [WebRTC Tutorial | Video Chat App Using Native WebRTC API From Scratch - CodingWithChaim](https://www.youtube.com/watch?v=JhyY8LdAQHU)

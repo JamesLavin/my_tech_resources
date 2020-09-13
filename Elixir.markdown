@@ -10,6 +10,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Erlang Interoperability - ElixirSchool.com](https://elixirschool.com/en/lessons/advanced/erlang/)
 * [Erlang/Elixir Syntax: A Crash Course - Elixir-lang.org](https://elixir-lang.org/crash-course.html)
+* [It's Time to Embrace Erlang - Todd Resudek (CodeBEAM SF 2020)](https://www.youtube.com/watch?v=Gt6tough35c)
 * [Why do Erlang Modules Look Like Atoms in Elixir - Tyler Pachal](https://medium.com/@tylerpachal/why-do-erlang-modules-look-like-atoms-in-elixir-9fb2f964dd2b)
 * ExToErl - Convert Elixir expressions into Erlang: [Docs](https://hexdocs.pm/ex_to_erl/ExToErl.html) | [Github](https://github.com/tmbb/ex_to_erl)
 
@@ -34,6 +35,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [7 ways of doing Fizz Buzz in Elixir and other clickbaity stuff - Khaja Minhajuddin](https://minhajuddin.com/2018/07/06/7-ways-of-doing-fizz-buzz-in-elixir-and-other-clickbaity-stuff/)
 * [Buildings start-ups with Elixir - Michael Schaefermeyer (Code BEAM STO 19)](https://www.youtube.com/watch?v=icfvFFZUxZQ)
 * [Ten Things I Wish I Knew Before Using Elixir - Chris Williams](https://ropig.com/blog/ten-things-wish-knew-using-elixir/)
+* [Why We've Adopted Elixir (at Pusher) - Samuel J Murray](https://www.youtube.com/watch?v=zL2wcqS78UA)
 * [Elixir Foundation - Zach Siri (Codemy.net)](https://www.codemy.net/posts/elixir-project-introduction-001/sets/elixir-foundation) (NOT all free)
 
 ### ELIXIR - GETTING STARTED (NON-FREE)
@@ -96,45 +98,73 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Closures: Elixir vs. Ruby vs. JavaScript - Hubert Łępicki](https://www.amberbit.com/blog/2015/6/14/closures-elixir-vs-ruby-vs-javascript/)
 * [ExMachina for Elixir: Factories with a Functional Twist - Josh Steiner & Paul Smith](https://robots.thoughtbot.com/announcing-ex-machina)
 
+### ELIXIR - 1.11
+
+* [Elixir v1.11 - José Valim (ElixirConf 2020)](https://www.youtube.com/watch?v=guc16D_0Imk)
+* [Changelog for Elixir 1.11](https://github.com/elixir-lang/elixir/blob/master/CHANGELOG.md#changelog-for-elixir-v111)
+* [Elixir 1.11 Preview with Wojtek Mach (Thinking Elixir Podcast)](https://thinkingelixir.com/podcast-episodes/003-elixir-1-11-preview-with-wojtek-mach/)
+
 ### ELIXIR - 1.10
 
 * [Elixir v1.10 released](https://elixir-lang.org/blog/2020/01/27/elixir-v1-10-0-released/)
+* [Changelog for Elixir 1.10](https://github.com/elixir-lang/elixir/blob/v1.10/CHANGELOG.md#changelog-for-elixir-v110)
 
 ### ELIXIR - 1.9
 
 * [Elixir v1.9 released](https://elixir-lang.org/blog/2019/06/24/elixir-v1-9-0-released/)
+* [Changelog for Elixir 1.9](https://github.com/elixir-lang/elixir/blob/v1.9/CHANGELOG.md#changelog-for-elixir-v19)
 
 ### ELIXIR - 1.8
 
 * [Elixir v1.8 released](https://elixir-lang.org/blog/2019/01/14/elixir-v1-8-0-released/)
+* [Changelog for Elixir 1.8](https://github.com/elixir-lang/elixir/blob/v1.8/CHANGELOG.md)
 
 ### ELIXIR - 1.7
 
 * [Elixir v1.7 released](https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/)
+* [Changelog for Elixir 1.7](https://github.com/elixir-lang/elixir/blob/v1.7/CHANGELOG.md#changelog-for-elixir-v17)
 
 ### ELIXIR - 1.6
 
 * [Elixir v1.6 released](https://elixir-lang.org/blog/2018/01/17/elixir-v1-6-0-released/)
 * [José Valim- Introducing HDD: Hughes Driven Development (Lambda Days 2018)](https://www.youtube.com/watch?v=78GRqQVt6ks)
+* [Changelog for Elixir 1.6](https://github.com/elixir-lang/elixir/blob/v1.6/CHANGELOG.md#changelog-for-elixir-v16)
 
 ### ELIXIR - 1.5
 
 * [Elixir v1.5 released](https://elixir-lang.org/blog/2017/07/25/elixir-v1-5-0-released/)
 * [The Feature That No One Knew About in Elixir 1.5 - José Valim (Elixir.LDN 2017)](https://www.youtube.com/watch?v=p4uE-jTB_Uk)
+* [Changelog for Elixir 1.5](https://github.com/elixir-lang/elixir/blob/v1.5/CHANGELOG.md#changelog-for-elixir-v15)
 
 ### ELIXIR - 1.4
 
 * [Elixir v1.4 released](https://elixir-lang.org/blog/2017/01/05/elixir-v1-4-0-released/)
 * [Using the Registry in Elixir 1.4 - Adam Mokan](https://medium.com/@adammokan/registry-in-elixir-1-4-0-d6750fb5aeb)
-* [Changelog](https://github.com/elixir-lang/elixir/blob/v1.4/CHANGELOG.md)
+* [Changelog for Elixir 1.4](https://github.com/elixir-lang/elixir/blob/v1.4/CHANGELOG.md#changelog-for-elixir-v14)
 
 ### ELIXIR - 1.3
 
-* [Changelog](https://github.com/elixir-lang/elixir/blob/v1.3/CHANGELOG.md)
+* [Changelog for Elixir 1.3](https://github.com/elixir-lang/elixir/blob/v1.3/CHANGELOG.md#changelog-for-elixir-v13)
 
 ### ELIXIR - 1.2
 
 * [Elixir v1.2 released](http://elixir-lang.org/blog/2016/01/03/elixir-v1-2-0-released/)
+    * Erlang 18 support
+    * Use Map & MapSet. Stop using Dict, DictHash, Set, and SetHash
+    * Multi-aliases/imports/require: `alias MyApp.{Foo, Bar, Baz}`
+    * Variables in Map keys: `%{key => value}`
+    * Pin operator in map keys: `%{^key => value} = %{key => value}`
+    * Pin operator in function clauses: `fn ^key -> :ok end`
+    * `with` special form to match on multiple expressions:
+        with {:ok, contents} <- File.read("my_file.ex"),
+             {res, binding} <- Code.eval_string(contents),
+             do: {:ok, res}
+    * `i/1` helper in IEx, which allows developers to retrieve information about any data type
+    * Umbrella applications can share both build and configuration files, drastically reducing compilation times
+        build_path: "../../_build",
+        config_path: "../../config/config.exs",
+    * Mix is now able to fetch and compile Rebar 3 dependencies
+* [Changelog for Elixir 1.2](https://github.com/elixir-lang/elixir/blob/v1.2/CHANGELOG.md#changelog-for-elixir-v12)
 * [Elixir 1.2 and Elixir in Action](http://theerlangelist.com/article/eia_elixir_12)
 
 ### ELIXIR - ACTOR MODEL
@@ -174,6 +204,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Carbon Five](https://blog.carbonfive.com/category/elixir/)
 * [DennisBeatty.com](https://dennisbeatty.com/)
+* [DevonEstes.com](http://devonestes.com/)
 * [Dockyard](https://dockyard.com/blog/categories/elixir)
 * [East 5th](http://www.east5th.co/blog/)
 * [Elixir Alchemy (AppSignal)](https://blog.appsignal.com/elixir-alchemy)
@@ -200,12 +231,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Meta-Programming Guide (EPUB)](https://github.com/JamesLavin/my_tech_resources/raw/master/meta-programming-in-elixir.epub)
 * The Mix & OTP Guide: [(EPUB)](https://github.com/JamesLavin/my_tech_resources/raw/master/mix-and-otp.epub) | [Online](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) & [Github](https://github.com/oreillymedia/etudes-for-elixir)
-
-### ELIXIR - BROADWAY
-
-* Broadway: Concurrent and multi-stage data ingestion and data processing with Elixir: [Github](https://github.com/plataformatec/broadway)
-* [The Road to Broadway - José Valim (Lonestar ElixirConf 2019)](https://www.youtube.com/watch?v=a3FtBNMzMxM)
-* [Broadway + Sqs + Apache Tika - Dave Lee (ElixirConf EU 2019)](https://www.youtube.com/watch?v=Gc3_bbfEW_w)
 
 ### ELIXIR - CACHING
 
@@ -269,6 +294,34 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [DailyDrip.com - Elixir](https://www.dailydrip.com/topics/elixir)
 * [Pragmatic Studio](https://pragmaticstudio.com/courses/elixir)
+
+### ELIXIR - DATA PIPELINES
+
+* [Robust Data Pipelines for Machine Learning-Driven Industrial IoT - Jenn Gamble (ElixirConf 2020)](https://www.youtube.com/watch?v=Ge9T0J7Kd8c)
+
+#### ELIXIR - DATA PIPELINES - BROADWAY
+
+* Broadway: Concurrent and multi-stage data ingestion and data processing with Elixir: [Github](https://github.com/plataformatec/broadway)
+* [The Road to Broadway - José Valim (Lonestar ElixirConf 2019)](https://www.youtube.com/watch?v=a3FtBNMzMxM)
+* [Broadway + Sqs + Apache Tika - Dave Lee (ElixirConf EU 2019)](https://www.youtube.com/watch?v=Gc3_bbfEW_w)
+
+#### ELIXIR - DATA PIPELINES - GENSTAGE & FLOW
+
+* [Robust Data Processing Pipeline with Elixir and Flow - Laszlo Bacsi (ElixirConf EU 2018)](https://www.youtube.com/watch?v=3XL-31nqcX4)
+* [Elixir Flow - Renato Freire (Montreal Elixir)](https://www.youtube.com/watch?v=cgIu6q56xh8)
+* [Lessons From Our First Trillion Messages with Flow - John Mertens (EMPEX LA 2019)](https://www.youtube.com/watch?v=b342YwOzIjI) & [ElixirConf EU 2019](https://www.youtube.com/watch?v=t46L9RKmlNo)
+* [Sending Millions of HTTP Requests Using GenStage - Damir Gainetdinov](http://big-elephants.com/2019-01/facebook-genstage/)
+* [Elixir/Flow — Local MapReduce - Mat Clutter](https://medium.com/flatiron-labs/elixir-flow-local-mapreduce-fc55fe11d210)
+* [GenStage: Keeping large amounts of data up-to-date with pipelines - Robert Beene (EMPEX 2018](https://www.youtube.com/watch?v=9mfD4-HUgh0)
+* [Small data with Elixir - José Valim](http://blog.plataformatec.com.br/2017/03/small-data-with-elixir/)
+* [Understanding Elixir’s GenStages: Querying the Blockchain - Miguel Palhas](https://blog.appsignal.com/2018/11/13/elixir-alchemy-understanding-elixirs-genstages-querying-the-blockchain.html)
+* [GenStage and Flow - José Valim (Lambda Days 2017)](https://www.youtube.com/watch?v=XPlXNUXmcgE)
+* [Announcing GenStage - José Valim](http://elixir-lang.org/blog/2016/07/14/announcing-genstage/)
+* [Background Processing in Elixir with GenStage - Nitin Misra](https://medium.com/@scripbox_tech/background-processing-in-elixir-with-genstage-efb6cb8ca94a)
+* [GenStage in the Kitchen - Claudio Ortolina (Elixir.LDN 2016)](https://www.youtube.com/watch?v=M78r_PDlw2c)
+* [GenStage - José Valim (Elixir London June 2016))](https://www.youtube.com/watch?v=aZuY5-2lwW4)
+* [How Do I GenStage? - Adrian Dunston](http://engineering.spreedly.com/blog/how-do-i-genstage.html)
+* [Reactive Tweets with Elixir GenStage - Mario Flach](https://almightycouch.org/blog/reactive-tweets-elixir-genstage/)
 
 ### ELIXIR - DEBUGGING
 
@@ -464,6 +517,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ecto - Eric Meadows-Jönsson (ElixirConf EU 2015)](https://www.youtube.com/watch?v=snka1bAtZS0)
 * [Making Sense of Ecto 2 SQL.Sandbox and Connection Ownership Modes - Piotr Włodarek](https://medium.com/@qertoip/making-sense-of-ecto-2-sql-sandbox-and-connection-ownership-modes-b45c5337c6b7#.7ene51y3q)
 * [PostgreSQL indexing with Ecto - Richard Nyström](http://rny.io/elixir/ecto/postgresql/2015/08/31/postgresql-indexing-with-ecto.html)
+* [PostgreSQL full-text search using Ecto - Alexey Kuznetsov](https://neiro.io/2018/01/21/postgres-full-text-search-using-ecto.html)
 * [Composable Queries with Ecto - Drew Olson (ElixirConf 2015)](https://www.youtube.com/watch?v=g84TDHt9MDc)
 * [Embedding Elixir Structs in Ecto Models - Josh Steiner](https://robots.thoughtbot.com/embedding-elixir-structs-in-ecto-models)
 
@@ -530,6 +584,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [FAQ on DDD, CQRS & Event Sourcing - CQRS.nu](http://cqrs.nu/Faq)
 * [CQRS and Event Sourcing - Bernardo Amorim (Code Beam SF 2018)](https://www.youtube.com/watch?v=S3f6sAXa3-c)
 * Event Sourcing With Elixir - Bruno Antunes: [Part 0](https://blog.nootch.net/post/event-sourcing-with-elixir/) [Part 1](https://blog.nootch.net/post/event-sourcing-with-elixir-part-1#getting-started) | [Part 2](https://blog.nootch.net/post/event-sourcing-with-elixir-part-2/) | [Part 3](https://blog.nootch.net/post/event-sourcing-with-elixir-part-3/) | [Part 4](https://blog.nootch.net/post/event-sourcing-with-elixir-part-4/) | [Part 5](https://blog.nootch.net/post/event-sourcing-with-elixir-part-5/) | [Part 6](https://blog.nootch.net/post/event-sourcing-with-elixir-part-6/) | [Part 7](https://blog.nootch.net/post/event-sourcing-with-elixir-part-7/)
+* [Brook: Distributed Event-based Orchestration in Elixir - Jeff Grunewald (Lonestar Elixir 2020)](https://www.youtube.com/watch?v=p8axklAm4-A) | [Brook](https://github.com/bbalser/brook)
 * [Building CQRS/ES web applications in Elixir using Phoenix - Ben Smith](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/) | [Building a CQRS/ES web application in Elixir using Phoenix](https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/) | [PDF](https://10consulting.com/presentations/2017-03-23-building-cqrs-web-applications-in-elixir.pdf)
 * [event_bus: Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS - Mustafa Turan](https://github.com/otobus/event_bus) & [event_bus_postgres: Postgres event store for event_bus](https://github.com/otobus/event_bus_postgres)
 * [Pachyderm - an elephant never forgets - Peter Saxton](https://github.com/CrowdHailer/event-sourcing.elixir)
@@ -590,24 +645,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Focus, an Elixir library for functional lenses - Travis Poulsen](https://www.travispoulsen.com/blog/posts/2017-02-19-Focus-and-Functional-Lenses.html)
 * [Currying packages](https://hex.pm/packages?search=curry&sort=downloads)
 
-### ELIXIR - GENSTAGE & FLOW
-
-* [Robust Data Processing Pipeline with Elixir and Flow - Laszlo Bacsi (ElixirConf EU 2018)](https://www.youtube.com/watch?v=3XL-31nqcX4)
-* [Elixir Flow - Renato Freire (Montreal Elixir)](https://www.youtube.com/watch?v=cgIu6q56xh8)
-* [Lessons From Our First Trillion Messages with Flow - John Mertens (EMPEX LA 2019)](https://www.youtube.com/watch?v=b342YwOzIjI) & [ElixirConf EU 2019](https://www.youtube.com/watch?v=t46L9RKmlNo)
-* [Sending Millions of HTTP Requests Using GenStage - Damir Gainetdinov](http://big-elephants.com/2019-01/facebook-genstage/)
-* [Elixir/Flow — Local MapReduce - Mat Clutter](https://medium.com/flatiron-labs/elixir-flow-local-mapreduce-fc55fe11d210)
-* [GenStage: Keeping large amounts of data up-to-date with pipelines - Robert Beene (EMPEX 2018](https://www.youtube.com/watch?v=9mfD4-HUgh0)
-* [Small data with Elixir - José Valim](http://blog.plataformatec.com.br/2017/03/small-data-with-elixir/)
-* [Understanding Elixir’s GenStages: Querying the Blockchain - Miguel Palhas](https://blog.appsignal.com/2018/11/13/elixir-alchemy-understanding-elixirs-genstages-querying-the-blockchain.html)
-* [GenStage and Flow - José Valim (Lambda Days 2017)](https://www.youtube.com/watch?v=XPlXNUXmcgE)
-* [Announcing GenStage - José Valim](http://elixir-lang.org/blog/2016/07/14/announcing-genstage/)
-* [Background Processing in Elixir with GenStage - Nitin Misra](https://medium.com/@scripbox_tech/background-processing-in-elixir-with-genstage-efb6cb8ca94a)
-* [GenStage in the Kitchen - Claudio Ortolina (Elixir.LDN 2016)](https://www.youtube.com/watch?v=M78r_PDlw2c)
-* [GenStage - José Valim (Elixir London June 2016))](https://www.youtube.com/watch?v=aZuY5-2lwW4)
-* [How Do I GenStage? - Adrian Dunston](http://engineering.spreedly.com/blog/how-do-i-genstage.html)
-* [Reactive Tweets with Elixir GenStage - Mario Flach](https://almightycouch.org/blog/reactive-tweets-elixir-genstage/)
-
 ### ELIXIR - GREMLEX
 
 * Gremlex: Elixir client for Gremlin (Apache TinkerPop): [Website](https://gremlex.carlabs.ai/) | [API docs](https://hexdocs.pm/gremlex/api-reference.html) | [Github](https://github.com/Revmaker/gremlex)
@@ -655,6 +692,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [MiniRepo: Self-hosting of Hex packages](https://github.com/wojtekmach/mini_repo)
 * [Announcing MiniRepo, a minimal Hex server - Wojtek Mach](http://blog.plataformatec.com.br/2019/07/announcing-minirepo-a-minimal-hex-server/)
 
+### ELIXIR - HTML PARSING
+
+* [Floki: Simple HTML parser that enables search for nodes using CSS selectors](https://github.com/philss/floki)
+
 ### ELIXIR - IDES
 
 * [Elixir-ls (VS Code) - Jake Becker](https://github.com/JakeBecker/elixir-ls)
@@ -670,6 +711,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - KAFKA
 
+* [Elsa: full-featured Kafka library written in Elixir and extending the :brod library with additional support from the :kafka_protocol Erlang libraries to provide capabilities not available in :brod](https://github.com/bbalser/elsa)
 * [erlkaf: Erlang kafka driver based on librdkafka (apparently the most secure non-Java Kafka client)](https://github.com/silviucpp/erlkaf)
 * [KafkaEx](https://github.com/kafkaex/kafka_ex)
 * [Kaffe](https://github.com/spreedly/kaffe)
@@ -712,6 +754,17 @@ Links to resources I have found useful or think might be helpful to future me or
 * The Mix & OTP Guide: [(EPUB)](https://github.com/JamesLavin/my_tech_resources/raw/master/mix-and-otp.epub) | [Online](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 * [Mix Templates - Dave Thomas](https://github.com/pragdave/mix_templates)
 * [Mix Test.Watch: Automatically run your Elixir project's tests each time you save a file](https://github.com/lpil/mix-test.watch)
+
+### ELIXIR - MNESIA
+
+* [ecto_mnesia: Ecto adapter for Mnesia Erlang term database - Nebo #15](https://github.com/Nebo15/ecto_mnesia)
+
+### ELIXIR - NERVES
+
+* [Nerves](https://www.nerves-project.org/): [Nerves Platform](https://www.nerves-project.org/platform) | [Documentation](https://hexdocs.pm/nerves/getting-started.html) | [Nerves Hub](https://www.nerves-project.org/nerveshub) | [Github](https://github.com/nerves-project)
+* [Nerves intro - ElixirSchool.com](https://elixirschool.com/en/lessons/specifics/nerves/)
+* [Keep Calm and Use Nerves - Arjan Scherpenisse (FOSDEM 2020)](https://www.youtube.com/watch?v=VMirPsSYbGM)
+* [Hello World - Justin Scheck (ElixirConf 2020)](https://www.youtube.com/watch?v=BmnlWAVqkVM)
 
 ### ELIXIR - NEURAL NETWORKS
 
@@ -942,8 +995,15 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [Build a real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5 - Chris McCord](https://www.youtube.com/watch?v=MZvmYaFkNJI)
 * [Phoenix LiveView course - PragmaticStudio.com](https://pragmaticstudio.com/phoenix-liveview) (Nicole and Mike have incredibly generously created a professional LiveView course and given it away absolutely FREE)
+* [Opening Keynote: Phoenix LiveView Uploads - Chris McCord (ElixirConf 2020)](https://www.youtube.com/watch?time_continue=2&v=QJkopba8yyE)
+* [What's new in LiveView - Chris McCord | ElixirConfEU Virtual 2020](https://www.youtube.com/watch?v=VU1JMg9AbLQ)
 * Phoenix Live View: [Documentation](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html) | [Github](https://github.com/phoenixframework/phoenix_live_view)
+* [Phoenix LiveView: Multi-step forms - David Bernheisel](https://bernheisel.com/blog/liveview-multi-step-form/)
+* [Communicating between LiveViews on the same page - Henrik Nyh](https://thepugautomatic.com/2020/08/communicating-between-liveviews-on-the-same-page/)
+* Alvise Susmel: [The Primitives of Phoenix LiveView](https://www.poeticoding.com/the-primitives-of-phoenix-liveview/) | [Building a Gallery App](https://www.poeticoding.com/understanding-liveview-build-a-gallery-app/)
+* [Phoenix LiveView and Views - David Bernheisel](https://bernheisel.com/blog/phoenix-liveview-and-views/)
 * [Phoenix LiveView for web developers who don't know Elixir - ](https://www.youtube.com/watch?v=U_Pe8Ru06fM)
+* [Optimising data-over-the-wire in Phoenix LiveView - Henrik Nyh](https://thepugautomatic.com/2020/07/optimising-data-over-the-wire-in-phoenix-liveview/)
 * [Easy Push Updates in the Browser with Phoenix LiveView - Geoffrey Lesseli (FullStack Talks 2019)](https://www.youtube.com/watch?v=2Zaj_1htERc)
 * [Phoenix Live View: A step-change for web development - Chris McCord (ElixirConf 2019)](https://www.youtube.com/watch?v=XhNv1ikZNLs)
 * [Phoenix LiveView 0.11.0 - Plangora](https://www.youtube.com/watch?v=1cLXff5aIN4)
@@ -1323,6 +1383,7 @@ Consequently, much of the following will soon be at least partially outdated:
 ## ERLANG
 
 * [Erlang Programming Language (with Francesco Cesarini) - Computerphile](https://www.youtube.com/watch?v=SOqQVoVai6s)
+* [Concurrent Programming in ERLANG, 2nd ed (Part 1 only) - Joe Armstrong, Robert Virding, Claes Wikstrom, and Mike Williams](http://erlang.org/download/erlang-book-part1.pdf)
 * [Which companies are using Erlang, and why? - Francesco Cesarini](https://www.erlang-solutions.com/blog/which-companies-are-using-erlang-and-why-mytopdogstatus.html)
 * [The Erlang Rationale - Robert Virding](http://www.erlang-factory.com/upload/presentations/329/EFKR10-ErlangRationale.pdf)
 * [The Zen of Erlang - Fred Hebert (Reactive Summit 2016)](https://www.youtube.com/watch?v=4ZIPijEqrNI)
@@ -1346,6 +1407,10 @@ Consequently, much of the following will soon be at least partially outdated:
 * [ErlangCentral Wiki](http://erlangcentral.org/wiki/index.php/)
 * [MostlyErlang.com](http://mostlyerlang.com/)
 * [Erlang: the Power of Functional Programming - Simon Thompson (EFLBA2017)](https://www.youtube.com/watch?v=pJwfyPV_V_o)
+
+### ERLANG - GETTING STARTED
+
+* [Getting Started With Erlang - Erlang.org](http://erlang.org/doc/getting_started/intro.html) | [Chapter 5 in Erlang/OTP System Documentation](http://erlang.org/doc/pdf/otp-system-documentation.pdf)
 
 ### ERLANG - ACTOR MODEL
 

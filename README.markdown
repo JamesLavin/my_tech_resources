@@ -1387,6 +1387,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Awesome Cassandra](https://github.com/Anant/awesome-cassandra)
 * [DataStax Academy](https://academy.datastax.com/)
 * [Learn Cassandra - Tutorialspoint](https://www.tutorialspoint.com/cassandra/cassandra_introduction.htm)
+* Rebecca Mills: [1: Essentials](https://hackernoon.com/apache-cassandra-an-essentials-guide-ku1r3yc9) | [2: Bootstrapping](https://hackernoon.com/apache-cassandra-bootstrapping-lmv3uy2) | [3: Data Modeling](https://hackernoon.com/apache-cassandra-guide-data-modeling-i3g3ufi)
 
 #### DATABASES - CASSANDRA - VIDEOS
 
@@ -1545,6 +1546,11 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [GraphML](http://graphml.graphdrawing.org/)
 * GraphSON: [Tips for working with GraphSON and TinkerPop systems - Noah Burrell](https://developer.ibm.com/dwblog/2017/tips-help-graphson-tinkerpop/) | [GraphSON Reader and Writer Library](https://github.com/tinkerpop/blueprints/wiki/GraphSON-Reader-and-Writer-Library)
 
+#### DATABASES - GRAPH DATABASES - GEPHI
+
+* [Gephi - The Open Graph Viz Platform](https://gephi.org/)
+* [Supported Graph Formats - Gephi](https://gephi.org/users/supported-graph-formats/)
+
 #### DATABASES - GRAPH DATABASES - GREMLIN/TINKERPOP
 
 * Apache Tinkerpop: [Website](http://tinkerpop.apache.org/) | [Tutorials](https://tinkerpop.apache.org/docs/current/#tutorials) | [Reference Doc](http://tinkerpop.apache.org/docs/current/reference/) | [Getting Started](http://tinkerpop.apache.org/docs/current/tutorials/getting-started/) | [Gremlin Console](http://tinkerpop.apache.org/docs/current/tutorials/the-gremlin-console/) | [Gremlin's Anatomy](http://tinkerpop.apache.org/docs/current/tutorials/gremlins-anatomy/) | [Gremlin Recipes](http://tinkerpop.apache.org/docs/current/recipes/) | [Language Variants](http://tinkerpop.apache.org/docs/current/tutorials/gremlin-language-variants/)
@@ -1669,6 +1675,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * Getting Started with JanusGraph – Chris Hupman: [Part 1: Deployment](https://developer.ibm.com/dwblog/2018/whats-janus-graph-learning-deployment/) & [Part 2: Indexes & Traversals](https://developer.ibm.com/dwblog/2018/janusgraph-composite-mixed-indexes-traversals/) | [Part 3: Administrative Operations](https://developer.ibm.com/dwblog/2018/janusgraph-administrative-operations-backups/)
 * JanusGraph tips and tricks: Index troubleshooting & data mobility – Chris Hupman: [Part 1](https://developer.ibm.com/articles/janusgraph-tips-and-tricks-pt-1/) & [Part 2](https://developer.ibm.com/articles/janusgraph-tips-and-tricks-pt-2/)
 * [JanusGraph Helm chart](https://github.com/helm/charts/tree/master/stable/janusgraph)
+* [JanusGraph Schema and Data Modeling - Sports Cyborgs](https://www.youtube.com/watch?v=53B9gt_6_jc)
 * [Ted Wilmes on the state of JanusGraph 2018 (Data Day Texas 2018)](https://www.youtube.com/watch?v=yLm0ruUGgng)
 * [JanusGraph Online Meetup 2](https://www.experoinc.com/online-seminar/janusgraph-online-meetup-2)
 * [Query Analysis on a Distributed Graph Database - Lucie Svitakova](https://dspace.cvut.cz/bitstream/handle/10467/80246/F8-DP-2019-Svitakova-Lucie-thesis.pdf)
@@ -2979,6 +2986,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * Introduction to FP Using Haskell - Tony Morris (λC 2018): [Part 1](https://www.youtube.com/watch?v=K1UjjcdBYp0) | [Part 2](https://www.youtube.com/watch?v=Jpt5eLHeZC4)
 * [Plain Functional Programming - Martin Odersky (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=YXDm3WHZT5g)
 * [Why Isn't Functional Programming the Norm? – Richard Feldman (Clojutre 2019)](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
+* [(Un)learning Elixir - Randall Thomas (CodeBEAM SF 2020)](https://www.youtube.com/watch?v=63f8pdAxVaI)
 * [An introduction to functional programming - Mary Rose Cook](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 * [What Is Functional Programming? - Kris Jenkins](https://www.youtube.com/watch?v=xN1-mtw1Fns)
 * [Functional Programming Patterns for Mere Mortals - Daniel Chambers (NDC {Sydney} 2017)](https://www.youtube.com/watch?v=v9QGWbGppis)
@@ -3411,7 +3419,9 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### HTTP - AUTHENTICATION - OAUTH2
 
+* [Illustrated Guide to OAuth and OpenID Connect - David Neal](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
 * [What the Heck is OAuth? - Randall Degges](https://stormpath.com/blog/what-the-heck-is-oauth)
+* [OpenID Connect and OAuth 2 explained in under 10 minutes! - kubucation](https://www.youtube.com/watch?v=nPZ8QDZXtLI)
 
 ### HTTP - HEADERS
 
@@ -4332,7 +4342,7 @@ Peter R. Egli:
 
 ### POSTGRESQL - KUBERNETES
 
-* [Kubernetes PostgreSQL Operator - CrunchyData](https://github.com/CrunchyData/postgres-operator)
+* [Kubernetes PostgreSQL Operator - CrunchyData](https://github.com/CrunchyData/postgres-operator) | [Easy And Correct High Availability PostgreSQL With Kubernetes - Steven Pousty (PostgresOpen 2019)](https://www.youtube.com/watch?v=p0WVyHDWsgA)
 * [Kubernetes PostgreSQL Operator - Zalando](https://github.com/zalando/postgres-operator)
 
 ### POSTGRESQL - MONITORING
@@ -5320,6 +5330,7 @@ Peter R. Egli:
 
 #### SECURITY - ENCRYPTION - FREE CERTS
 
+* [Using SSL certificates from Let’s Encrypt in your Kubernetes Ingress via cert-manager - Flant staff](https://medium.com/flant-com/cert-manager-lets-encrypt-ssl-certs-for-kubernetes-7642e463bbce)
 * [LetsEncrypt.org](https://letsencrypt.org/) | [Github](https://github.com/letsencrypt/letsencrypt) | [Twitter](https://twitter.com/letsencrypt)
 * [Free HTTPS certs for all – Let's Encrypt opens doors to world+dog](http://www.theregister.co.uk/2015/12/03/letsencrypt_public_beta/)
 
@@ -5636,6 +5647,13 @@ Peter R. Egli:
 * [Visual Studio Code tips and tricks - Matt Bierner](https://channel9.msdn.com/Events/Build/2020/BOD103)
 * [VS Code Tips and Tricks - Microsoft](https://github.com/Microsoft/vscode-tips-and-tricks)
 * [VS Code can do that?!](https://vscodecandothat.com/)
+
+## VPN (VIRTUAL PRIVATE NETWORK)
+
+### VPN (VIRTUAL PRIVATE NETWORK) - WIREGUARD
+
+* [What is Wireguard? Explaining a New VPN Protocol and How it Compares to OpenVPN - All Things Secured](https://www.youtube.com/watch?v=mxpHRdO4rDU)
+* [WireGuard: Next Generation Secure Network Tunnel - Jason Donenfeld](https://www.youtube.com/watch?v=88GyLoZbDNw)
 
 ## WEB ASSEMBLY
 
