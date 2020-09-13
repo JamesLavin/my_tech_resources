@@ -18,7 +18,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - GETTING STARTED
 
-* Elixir-lang.org: [Docs](http://elixir-lang.org/docs.html) | [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html) | [Erlang/Elixir Syntax Crash Course](http://elixir-lang.org/crash-course.html) | [Learning resources](https://elixir-lang.org/learning.html) | [Elixir-lang-talk group](https://groups.google.com/forum/?fromgroups#!forum/elixir-lang-talk) | [Elixir Core mailing list](https://groups.google.com/forum/#!forum/elixir-lang-core) | [ElixirForum.com](http://elixirforum.com/)
+* Elixir-lang.org: [Docs](http://elixir-lang.org/docs.html) | [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html) | [Syntax reference](https://hexdocs.pm/elixir/syntax-reference.html) | [Learning resources](https://elixir-lang.org/learning.html) | [Elixir-lang-talk group](https://groups.google.com/forum/?fromgroups#!forum/elixir-lang-talk) | [Elixir Core mailing list](https://groups.google.com/forum/#!forum/elixir-lang-core) | [ElixirForum.com](http://elixirforum.com/)
 * [Elixir School](https://elixirschool.com/)
 * [ElixirCasts.io](https://elixircasts.io/?page=6)
 * [Elixir: functional, concurrent, distributed programming - Andrea Leopardi (Lambda World 2018)](https://www.youtube.com/watch?v=e3O0R5_69Pg)
@@ -135,22 +135,154 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir v1.5 released](https://elixir-lang.org/blog/2017/07/25/elixir-v1-5-0-released/)
 * [The Feature That No One Knew About in Elixir 1.5 - José Valim (Elixir.LDN 2017)](https://www.youtube.com/watch?v=p4uE-jTB_Uk)
 * [Changelog for Elixir 1.5](https://github.com/elixir-lang/elixir/blob/v1.5/CHANGELOG.md#changelog-for-elixir-v15)
+    * Non-quoted atoms can include UTF-8 characters, like `:こんにちは世界` (see: [Unicode Syntax](https://hexdocs.pm/elixir/unicode-syntax.html))
+    * Non-quoted variables can include UTF-8 characters, like `saudação = "Bom dia!"`. `josé`, `_age`, `まつもと`, `_42`, and `адрес` are all valid variable names
+    * `iex` improvements:
+        * `iex` <Tab> autocomplete
+        * `exports/1` lists all exports (functions and macros) in a given module
+        * `open/1` opens the source of a module or function directly in your editor. For example, `open MyApp.Module`
+        * `runtime_info/0` prints general information about the running system, such as number of cores, runtime version, allocation of memory in the VM and more
+    * `IEx` breakpoint system for code debugging has these new functions:
+        * `break!/2` sets a breakpoint for a given Mod.fun/arity
+        * `break!/4` sets a breakpoint for the given module, function, arity
+        * `breaks/0` prints all breakpoints and their IDs
+        * `continue/0` continues until the next breakpoint in the same process
+        * `open/0` opens editor on the current breakpoint
+        * `remove_breaks/0` removes all breakpoints in all modules
+        * `remove_breaks/1` removes all breakpoints in a given module
+        * `reset_break/1` sets the number of stops on the given ID to zero
+        * `reset_break/3` sets the number of stops on the given module, function, arity to zero
+        * `respawn/0` starts a new shell (breakpoints will ask for permission once more)
+        * `whereami/1` shows the current location
+    * `blame/3` in the [Exception](https://hexdocs.pm/elixir/Exception.html#blame/3) module
+    * [Streamlined supervised child specs](https://github.com/elixir-lang/elixir/blob/v1.5/CHANGELOG.md#streamlined-child-specs)
+    * [Agent](https://hexdocs.pm/elixir/Agent.html), [Registry](https://hexdocs.pm/elixir/Registry.html), [Task](https://hexdocs.pm/elixir/Task.html), and [Task.Supervisor](https://hexdocs.pm/elixir/Task.Supervisor.html) have been updated to include a `child_spec/1` function, allowing them to be used directly in a supervision tree. See [description in Supervisor module](https://hexdocs.pm/elixir/Supervisor.html#module-child-specification)
+    * New `@impl` attribute, which indicates that the function implements a callback, an assertion the compiler checks:
+        ```
+        defmodule MyApp do
+          @behaviour Plug
+        
+          @impl true
+          def init(_opts) do
+            opts
+          end
+        
+          @impl true
+          def call(conn, _opts) do
+            Plug.Conn.send_resp(conn, 200, "hello world")
+          end
+        end
+        ```
+        `@impl true` could also specify which behaviour defines the callback, e.g., `@impl Plug`
+    * More [Calendar](https://hexdocs.pm/elixir/Calendar.html) functions
 
 ### ELIXIR - 1.4
 
 * [Elixir v1.4 released](https://elixir-lang.org/blog/2017/01/05/elixir-v1-4-0-released/)
 * [Using the Registry in Elixir 1.4 - Adam Mokan](https://medium.com/@adammokan/registry-in-elixir-1-4-0-d6750fb5aeb)
 * [Changelog for Elixir 1.4](https://github.com/elixir-lang/elixir/blob/v1.4/CHANGELOG.md#changelog-for-elixir-v14)
+    * New [Registry](https://hexdocs.pm/elixir/Registry.html) module is a local (single-node), decentralized and scalable key-value process storage
+        ```
+        iex> Registry.start_link(:unique, MyRegistry)
+        iex> {:ok, _} = Registry.register(MyRegistry, "hello", 1)
+        iex> Registry.lookup(MyRegistry, "hello")
+        [{self(), 1}]
+        ```
+    * [Registry](https://hexdocs.pm/elixir/Registry.html) can be used to register and access named processes using the {:via, Registry, {registry, key}} tuple
+        ```
+        {:ok, _} = Registry.start_link(keys: :unique, name: Registry.ViaTest)
+        name = {:via, Registry, {Registry.ViaTest, "agent", :hello}}
+        {:ok, _} = Agent.start_link(fn -> 0 end, name: name)
+        Registry.lookup(Registry.ViaTest, "agent")
+        #=> [{self(), :hello}]
+        ```
+    * More [Calendar](https://hexdocs.pm/elixir/Calendar.html) functions
+    * [Task](https://hexdocs.pm/elixir/Task.html) module now includes `Task.async_stream`, which allows lazy steam processing with configurable `max_concurrency`. Replace:
+        ```
+        collection
+        |> Enum.map(&Task.async(SomeMod, :function, [&1]))
+        |> Enum.map(&Task.await/1)
+        ```
+        with
+        ```
+        collection
+        |> Task.async_stream(SomeMod, :function, [], max_concurrency: System.schedulers_online)
+        ```
+    * [Task.Supervisor](https://hexdocs.pm/elixir/Task.Supervisor.html#content) includes `async_stream/4` and `async_stream/6`, which can ensure concurrent tasks are spawned under a given supervisor.
+    * `mix.exs` no longer requires listing all project dependencies under `:applications` but infers these dependencies, except for apps that are part of Elixir or Erlang, which should now be specified under `:extra_applications`. E.g., instead of:
+        ```
+        def application do
+          [applications: [:logger, :plug, :postgrex]]
+        end
+        ```
+        only `:logger` (because it's built into the language) must be listed:
+        ```
+        def application do
+          [extra_applications: [:logger]]
+        end
+        ```
+    * App dependencies that should not be required by your running app can be listed with `runtime: false`, e.g.
+        ```
+        {:distillery, "> 0.0.0", runtime: false}
+        ```
+    * Distribute CLI apps written in Elixir as escripts published to Hex. For example, anyone can install `hex_docs` from Hex by running `mix escript.install hex ex_doc`. After adding `~/.mix/escripts` to your PATH, running `ex_doc` is as simple as running `ex_doc`.
 
 ### ELIXIR - 1.3
 
 * [Changelog for Elixir 1.3](https://github.com/elixir-lang/elixir/blob/v1.3/CHANGELOG.md#changelog-for-elixir-v13)
+    * Warning if constructs like if, case and friends assign to a variable that is accessed in an outer scope
+    * New modules: [Calendar](https://hexdocs.pm/elixir/Calendar.html), [Date](https://hexdocs.pm/elixir/Date.html), [Time](https://hexdocs.pm/elixir/Time.html), [NaiveDateTime](https://hexdocs.pm/elixir/NaiveDateTime.html), and [DateTime](https://hexdocs.pm/elixir/DateTime.html)
+    * Date sigil: `~D[2016-05-29]`
+    * Time sigil: `~T[08:00:00]` and `~T[08:00:00.285]`
+    * NaiveDateTime sigil: `~N[2016-05-29 08:00:00]`
+    * New [Access](https://hexdocs.pm/elixir/Access.html) module accessors, like `update_in/3`:
+        ```
+        iex> user = %{name: "john",
+        ...>          languages: [%{name: "elixir", type: :functional},
+        ...>                      %{name: "c", type: :procedural}]}
+        iex> update_in user, [:languages, Access.all(), :name], &String.upcase/1
+        %{name: "john",
+          languages: [%{name: "ELIXIR", type: :functional},
+                      %{name: "C", type: :procedural}]}
+        ```
+    * `mix xref` to perform cross-reference checks on your code
+        * `mix xref unreachable` would notice `ThisModuleDoesNotExist.foo(1, 2, 3)`
+        * `mix xref callers Foo` finds all places in your code that a function from the module `Foo` is called
+    * `mix app.tree` lists all applications your current project must start to boot
+    * `mix deps.tree` lists all your current project's direct dependencies and recursive dependencies
+    * `mix escript.install` (and `mix escript.uninstall`) lets you install escripts at `~/.mix/escripts` (which must be added to your PATH environment variable)
+    * `mix test --stale` will run only tests whose results could have changed since you last ran `mix test --stale`
+    * In ExUnit, `assert left == right` now displays diffed output on test failure
+    * ExUnit allows libraries like QuickCheck to register new test types
+    * ExUnit allows grouping tests into a (non-nested) `describe` block and run only a specific describe block (with `mix test --only describe:"String.capitalize/2"`)
+    * ExUnit `describe` blocks aren't nested because "we want developers to build on top of named setups. For example:"
+        ```
+        defmodule UserManagementTest do
+          use ExUnit.Case, async: true
+        
+          describe "when user is logged in and is an admin" do
+            setup [:log_user_in, :set_type_to_admin]
+        
+            test ...
+          end
+        
+          describe "when user is logged in and is a manager" do
+            setup [:log_user_in, :set_type_to_manager]
+        
+            test ...
+          end
+        
+          defp log_user_in(context) do
+            # ...
+          end
+        end
+        ```
 
 ### ELIXIR - 1.2
 
 * [Elixir v1.2 released](http://elixir-lang.org/blog/2016/01/03/elixir-v1-2-0-released/)
     * Erlang 18 support
-    * Use Map & MapSet. Stop using Dict, DictHash, Set, and SetHash
+    * Improvements to [Map](https://hexdocs.pm/elixir/Map.html) & [MapSet](https://hexdocs.pm/elixir/MapSet.html). Stop using Dict, DictHash, Set, and SetHash
     * Multi-aliases/imports/require: `alias MyApp.{Foo, Bar, Baz}`
     * Variables in Map keys: `%{key => value}`
     * Pin operator in map keys: `%{^key => value} = %{key => value}`
