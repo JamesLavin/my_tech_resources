@@ -156,13 +156,17 @@ Links to resources I have found useful or think might be helpful to future me or
     * Pin operator in map keys: `%{^key => value} = %{key => value}`
     * Pin operator in function clauses: `fn ^key -> :ok end`
     * `with` special form to match on multiple expressions:
+        ```
         with {:ok, contents} <- File.read("my_file.ex"),
              {res, binding} <- Code.eval_string(contents),
              do: {:ok, res}
+        ```
     * `i/1` helper in IEx, which allows developers to retrieve information about any data type
     * Umbrella applications can share both build and configuration files, drastically reducing compilation times
+        ```
         build_path: "../../_build",
         config_path: "../../config/config.exs",
+        ```
     * Mix is now able to fetch and compile Rebar 3 dependencies
 * [Changelog for Elixir 1.2](https://github.com/elixir-lang/elixir/blob/v1.2/CHANGELOG.md#changelog-for-elixir-v12)
 * [Elixir 1.2 and Elixir in Action](http://theerlangelist.com/article/eia_elixir_12)
