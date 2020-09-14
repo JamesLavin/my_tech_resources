@@ -113,11 +113,56 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Elixir v1.9 released](https://elixir-lang.org/blog/2019/06/24/elixir-v1-9-0-released/)
 * [Changelog for Elixir 1.9](https://github.com/elixir-lang/elixir/blob/v1.9/CHANGELOG.md#changelog-for-elixir-v19)
+    * Releases: "A release is a self-contained directory that consists of your application code, all of its dependencies, plus the whole Erlang Virtual Machine (VM) and runtime. Once a release is assembled, it can be packaged and deployed to a target as long as the target runs on the same operating system (OS) distribution and version as the machine running the `mix release` command."
+        * Created via `MIX_ENV=prod mix release`
+        * Assembled in `_build/prod/rel/my_app`
+        * Within `_build/prod/rel/my_app`, `bin/my_app` is the entry point to your app
+        * `bin/my_app start`, `bin/my_app stop`, `bin/my_app restart` start & stop the app
+        * `bin/my_app rpc COMMAND` runs `COMMAND` as a remote procedure call (RPC) 
+        * `bin/my_app remote` connects you to the running app via an Erlang console
+        * `bin/my_app eval COMMAND` starts your app fresh, runs `COMMAND`, and then shuts everything down
+        * `bin/my_app daemon` starts your app as a daemon on a Unix-like system
+        * `bin/my_app daemon_iex` starts your app as a dameon on a Unix-like system within an `iex` shell
+        * `bin/my_app install` installs your app as a service on Windows machines
+    * Release benefits:
+        * Releases run in embedded mode, which loads all modules at startup, rather than interactive mode, which loads a module dynamically when it is first used at runtime
+        * Releases are self-contained (Elixir and Erlang aren't needed on the target machine
+        * Releases contain only compiled code, not source code
+        * Tree-shaking removes unused Erlang & Elixir standard libraries
+        * You can deploy a release to multiple machines, each with different configurations
+    * Release hooks
+        * `config/config.exs` (and `config/prod.exs`) provides build-time/compile-time application configuration, which is executed when the release is assembled
+        * `config/releases.exs` provides runtime application configuration. It's executed every time the release boots and is further extensible via config providers
+        * `rel/vm.args.eex`: Template file copied into every release and providing static configuration of the Erlang Virtual Machine and other runtime flags
+        * `rel/env.sh.eex` and `rel/env.bat.eex`: Template files copied into every release and executed on every command to set up environment variables, including ones specific to the VM, and the general environment
+    * New [Config](https://hexdocs.pm/elixir/Config.html) module
+        * Use `import Config`, not `use Mix.Config`
+        * `mix new` will no longer generate a `config/config.exs` file
+            * [Avoid application configuration](https://hexdocs.pm/elixir/library-guidelines.html#avoid-application-configuration)
+            * [Avoid compile-time application configuration](https://hexdocs.pm/elixir/library-guidelines.html#avoid-compile-time-application-configuration)
+        * `mix new --umbrella` will no longer generate a configuration for each child app; all configuration should be declared in the umbrella root
+    * [~U sigil](https://hexdocs.pm/elixir/Kernel.html#sigil_U/2) for creating UTC [DateTime](https://hexdocs.pm/elixir/DateTime.html) values
+    * New functions in the [System](https://hexdocs.pm/elixir/System.html) and [File](https://hexdocs.pm/elixir/File.html) modules
 
 ### ELIXIR - 1.8
 
 * [Elixir v1.8 released](https://elixir-lang.org/blog/2019/01/14/elixir-v1-8-0-released/)
 * [Changelog for Elixir 1.8](https://github.com/elixir-lang/elixir/blob/v1.8/CHANGELOG.md)
+    * Custom `inspect()` for structs: By default, `inspect(user)` (where `user` is a strut) will display all fields in `user`. If you want to exclude some fields, you can derive your `Inspect` protocol implementation and exclude the fields you don't wish to display. For example, the following will exclude `:email` and `:encrypted_password`:
+        ```
+        defmodule User do
+          @derive {Inspect, only: [:id, :name, :age]}
+          defstruct [:id, :name, :age, :email, :encrypted_password]
+        end
+        ``` 
+        or
+        ```
+        @derive {Inspect, except: [:email, :encrypted_password]}
+        ```
+    If you do this, a `User` struct will be printed as `#User<id: 1, name: "Jane", age: 33, ...>`
+
+    * A new [Calendar.TimeZoneDatabase](https://hexdocs.pm/elixir/Calendar.TimeZoneDatabase.html#content) behaviour, allowing developers to bring in their own time zone databases or use the provided [Calendar.UTCOnlyTimeZoneDatabase](https://hexdocs.pm/elixir/Calendar.UTCOnlyTimeZoneDatabase.html#content).
+    * Process dictionary's `$callers` key now tracks which code spawned a task. Previously, if your code called `Task.Supervisor.start_child(MySupervisor, task_specification)`, the actual parent (recorded in `$ancestors`) of the task would be the supervisor, as the supervisor is the one spawning it and the relationship between your code and the task is lost. Now, we record in `$callers` that your code is the caller of the spawned task.
 
 ### ELIXIR - 1.7
 
