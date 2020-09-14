@@ -123,12 +123,76 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Elixir v1.7 released](https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/)
 * [Changelog for Elixir 1.7](https://github.com/elixir-lang/elixir/blob/v1.7/CHANGELOG.md#changelog-for-elixir-v17)
+    * Document metadata can be added to `@doc`, `@moduledoc`, and `@typdoc`, e.g.:
+        ```
+        @moduledoc "A brand new module"
+        @moduledoc authors: ["Jane", "Mary"], since: "1.4.0"
+        ```
+    * Side-effect-free way to retrieve the stacktrace. The following logs and re-raises the `__STACKTRACE__`:
+        ```
+        try do
+          ... something that may fail ...
+        rescue
+          e ->
+            log(e, __STACKTRACE__)
+            reraise(e, __STACKTRACE__)
+        end
+        ```
+    * Full integration with OTP 21.0's new [:logger module](http://erlang.org/doc/man/logger.html). See [Erlang/OTP 21's new logger](https://ferd.ca/erlang-otp-21-s-new-logger.html), [Logging](http://erlang.org/doc/apps/kernel/logger_chapter.html), and [Logger Cookbook](http://erlang.org/doc/apps/kernel/logger_cookbook.html) for more information
+    * `Logger.Translator` has been improved to export metadata, allowing custom Logger backends to leverage information such as:
+        * `:crash_reason`: two-element tuple with the throw/error/exit reason as first argument and the stacktrace as second
+        * `:initial_call`: initial call that started the process
+        * `:registered_name`: process registered name as an atom
+    * "We recommend Elixir libraries that previously hooked into Erlang's `:error_logger` to hook into `Logger` instead, in order to support all current and future Erlang/OTP versions"
+    * `Logger` now evaluates its arguments if/when the message is logged (which it may not be, for various reasons)
+    * `:compile_time_purge_matching` removes log calls with specific compile-time metadata. For example, to remove all logger calls from application `:foo` with level lower than `:info`, as well as remove all `Logger` calls from `Bar.foo/3`, use the following configuration:
+        ```
+        config :logger,
+          compile_time_purge_matching: [
+            [application: :foo, level_lower_than: :info],
+            [module: Bar, function: "foo/3"]
+          ]
+        ```
+    * `mix test --failed` re-runs all tests that failed last time they ran
+    * `mix test --cover` summarizes test coverage
 
 ### ELIXIR - 1.6
 
 * [Elixir v1.6 released](https://elixir-lang.org/blog/2018/01/17/elixir-v1-6-0-released/)
 * [José Valim- Introducing HDD: Hughes Driven Development (Lambda Days 2018)](https://www.youtube.com/watch?v=78GRqQVt6ks)
 * [Changelog for Elixir 1.6](https://github.com/elixir-lang/elixir/blob/v1.6/CHANGELOG.md#changelog-for-elixir-v16)
+    * [`mix format`](https://github.com/elixir-lang/elixir/blob/v1.6/CHANGELOG.md#code-formatter) will automatically format your code. A `.formatter.exs` file may be added to your project root for rudimentary formatter configuration
+    * New [DynamicSupervisor](https://hexdocs.pm/elixir/DynamicSupervisor.html) module [allows starting & stopping children dynamically](https://github.com/elixir-lang/elixir/blob/v1.6/CHANGELOG.md#dynamic-supervisor)
+    * `@since` indicates the API version into which the function or macro was first added, and `@deprecated` marks the function/macro as deprecated:
+        ```
+        @doc "Breaks a collection into chunks"
+        @since "1.0.0"
+        @deprecated "Use chunk_every/2 instead"
+        def chunk(collection, chunk_size) do
+          chunk_every(collection, chunk_size)
+        end
+        ```
+    * `mix xref` now warns when your code calls code marked `@deprecated`
+    * `defguard` and `defguardp` for naming your guard clauses, e.g.:
+        ```
+        defguard is_drinking_age(age) when age >= 21
+        
+        def serve_drinks(%User{age: age}) when is_drinking_age(age) do
+          # Code that serves drinks!
+        end
+        ```
+    * In `iex`, typing `t Enum.` and hitting `<Tab>` will autocomplete only the _types_ in Enum
+    * In `iex`, typing `b GenServer.` and hitting `<Tab>` will autocomplete only the behaviour callbacks
+    * In `iex`, breakpoints can now use pattern matching and guard clauses, e.g.: `break! SomeFunction.call(:foo, _, _)`
+    * To find all callers of a given module or function in an umbrella: `mix xref callers SomeModule --include-siblings`
+    * `mix xref`:
+        * Output general statistics about the dependency graph: `mix xref graph --format stats`
+        * Get all files that depend on `lib/foo.ex`: `mix xref graph --sink lib/foo.ex --only-nodes`
+        * Get all files that depend on `lib/foo.ex` at compile time: `mix xref graph --label compile --sink lib/foo.ex --only-nodes`
+        * Get all files `lib/foo.ex` depends on: `mix xref graph --source lib/foo.ex --only-nodes`
+        * Limit statistics to compile-time dependencies: `mix xref graph --format stats --label compile`
+    * `mix test --slowest N` lists your slowest `N` tests
+    * New [`mix profile.eprof` task provides time-based profiling](https://hexdocs.pm/mix/Mix.Tasks.Profile.Eprof.html), complementing the existing [`mix profile.cprof` (count-based)](https://hexdocs.pm/mix/Mix.Tasks.Profile.Cprof.html) and [`mix profile.fprof` (flame-based)](https://hexdocs.pm/mix/Mix.Tasks.Profile.Fprof.html)
 
 ### ELIXIR - 1.5
 
@@ -188,7 +252,7 @@ Links to resources I have found useful or think might be helpful to future me or
         iex> Registry.lookup(MyRegistry, "hello")
         [{self(), 1}]
         ```
-    * [Registry](https://hexdocs.pm/elixir/Registry.html) can be used to register and access named processes using the {:via, Registry, {registry, key}} tuple
+    * [Registry](https://hexdocs.pm/elixir/Registry.html) can be used to register and access named processes using the `{:via, Registry, {registry, key}}` tuple
         ```
         {:ok, _} = Registry.start_link(keys: :unique, name: Registry.ViaTest)
         name = {:via, Registry, {Registry.ViaTest, "agent", :hello}}
@@ -232,9 +296,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Changelog for Elixir 1.3](https://github.com/elixir-lang/elixir/blob/v1.3/CHANGELOG.md#changelog-for-elixir-v13)
     * Warning if constructs like if, case and friends assign to a variable that is accessed in an outer scope
     * New modules: [Calendar](https://hexdocs.pm/elixir/Calendar.html), [Date](https://hexdocs.pm/elixir/Date.html), [Time](https://hexdocs.pm/elixir/Time.html), [NaiveDateTime](https://hexdocs.pm/elixir/NaiveDateTime.html), and [DateTime](https://hexdocs.pm/elixir/DateTime.html)
-    * Date sigil: `~D[2016-05-29]`
-    * Time sigil: `~T[08:00:00]` and `~T[08:00:00.285]`
-    * NaiveDateTime sigil: `~N[2016-05-29 08:00:00]`
+    * [Date](https://hexdocs.pm/elixir/Date.html) sigil: `~D[2016-05-29]`
+    * [Time](https://hexdocs.pm/elixir/Time.html) sigil: `~T[08:00:00]` and `~T[08:00:00.285]`
+    * [NaiveDateTime](https://hexdocs.pm/elixir/NaiveDateTime.html) sigil: `~N[2016-05-29 08:00:00]`
     * New [Access](https://hexdocs.pm/elixir/Access.html) module accessors, like `update_in/3`:
         ```
         iex> user = %{name: "john",
@@ -863,6 +927,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - LOGGING & MONITORING
 
+* Elixir's [Logger](https://hexdocs.pm/logger/Logger.html) module is fully integrated with Erlang's [:logger module](http://erlang.org/doc/man/logger.html), which was introduced with OTP 21.0. [Logger.Translator](https://hexdocs.pm/logger/Logger.Translator.html) can translate Erlang error messages into Elixir error messages. [Logger.Formatter](https://hexdocs.pm/logger/Logger.Formatter.html) can configure formatting. (For more on Erlang's `:logger`, see [Erlang/OTP 21's new logger](https://ferd.ca/erlang-otp-21-s-new-logger.html), [Logging](http://erlang.org/doc/apps/kernel/logger_chapter.html), and [Logger Cookbook](http://erlang.org/doc/apps/kernel/logger_cookbook.html) for more information about `:logger`).
 * Awesome Elixir: [Logging](https://github.com/h4cc/awesome-elixir#logging) & [Instrumenting / Monitoring](https://github.com/h4cc/awesome-elixir#instrumenting--monitoring)
 * [Monitoring Your Elixir Application with Prometheus - Eric Oestrich (LoneStar Elixir 2019)](https://www.youtube.com/watch?v=ETUD9SaRCjY)
 * Stephen Bussey: [Instruments: Simple and Fast metrics for Elixir](https://github.com/discordapp/instruments) & [Elixir Probes - Replacing Elixometer](https://stephenbussey.com/2018/09/24/elixir-probes-replacing-elixometer.html)
@@ -1685,6 +1750,11 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [Erlang: The Movie](https://www.youtube.com/watch?t=113&v=xrIjfIjssLE)
 * [Erlang: The Movie II: The Sequel](https://www.youtube.com/watch?v=rRbY3TMUcgQ)
+
+### ERLANG - LOGGING
+
+* OTP 21.0 introduced a new [:logger module](http://erlang.org/doc/man/logger.html). See [Logging](http://erlang.org/doc/apps/kernel/logger_chapter.html), and [Logger Cookbook](http://erlang.org/doc/apps/kernel/logger_cookbook.html) for more information.
+* [Erlang/OTP 21's new logger - Fred Hebert](https://ferd.ca/erlang-otp-21-s-new-logger.html)
 
 ### ERLANG - LUMEN
 
