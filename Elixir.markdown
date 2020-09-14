@@ -108,6 +108,52 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Elixir v1.10 released](https://elixir-lang.org/blog/2020/01/27/elixir-v1-10-0-released/)
 * [Changelog for Elixir 1.10](https://github.com/elixir-lang/elixir/blob/v1.10/CHANGELOG.md#changelog-for-elixir-v110)
+    * "Requires Erlang/OTP 21+, allowing Elixir to integrate with Erlang/OTP's new :logger. The logger level, logger metadata, and all log messages are now shared between Erlang and Elixir APIs."
+    * [`is_struct(term)`](https://hexdocs.pm/elixir/Kernel.html#is_struct/1)
+    * [`is_map_key(map, key)`](https://hexdocs.pm/elixir/Kernel.html?#is_map_key/2)
+    * [Release overlays](https://hexdocs.pm/mix/Mix.Tasks.Release.html#module-overlays): "Often it is necessary to copy extra files to the release root after the release is assembled. This can be easily done by placing such files in the `rel/overlays` directory. Any file in there is copied as is to the release root. For example, if you have place a `rel/overlays/Dockerfile` file, the `Dockerfile` will be copied as is to the release root"
+    * [Enum.sort](https://hexdocs.pm/elixir/Enum.html#sort/2) (and related functions) support `:asc` and `:desc`:
+        ```
+        iex> Enum.sort(["banana", "apple", "pineapple"], :asc)
+        ["apple", "banana", "pineapple"]
+        iex> Enum.sort(["banana", "apple", "pineapple"], :desc)
+        ["pineapple", "banana", "apple"]
+        ```
+    * [Enum.sort](https://hexdocs.pm/elixir/Enum.html#sort/2) (and related functions) support semantic comparisons:
+        ```
+        iex> Enum.sort([~D[2019-12-31], ~D[2020-01-01]], Date)
+        [~D[2019-12-31], ~D[2020-01-01]]
+        iex> Enum.sort([~D[2019-12-31], ~D[2020-01-01]], {:desc, Date})
+        [~D[2020-01-01], ~D[2019-12-31]]
+        ```
+    * "We will deprecate the use of `Application.get_env` at compile-time," like the following, which sets `@db_host` at compile-time:
+        ```
+        defmodule MyApp.DBClient do
+          @db_host Application.get_env(:my_app, :db_host, "db.local")
+          def start_link() do
+            SomeLib.DBClient.start_link(host: @db_host)
+          end
+        end
+        ```
+
+        Which could instead set the value at runtime by putting the call to `Application.get_env/3` inside an ordinary function:
+        ```
+        defmodule MyApp.DBClient do
+          def start_link() do
+            SomeLib.DBClient.start_link(host: db_host())
+          end
+          defp db_host() do
+            Application.get_env(:my_app, :db_host, "db.local")
+          end
+        end
+        ```
+
+        If you really want to set that value at compile-time, you'll need to say so explicitly with `@db_host Application.compile_env(:my_app, :db_host, "db.local")`, which you can now use
+    * [Compiler tracing improvements](https://github.com/elixir-lang/elixir/blob/v1.10/CHANGELOG.md#compiler-tracing	)
+    * More [Calendar](https://hexdocs.pm/elixir/Calendar.html) data type improvements
+    * Timezone-related functions, like [DateTime.now/2](https://hexdocs.pm/elixir/DateTime.html#now/2), [DateTime.shift_zone/3](https://hexdocs.pm/elixir/DateTime.html#shift_zone/3), and [NaiveDateTime.local_now/0](https://hexdocs.pm/elixir/NaiveDateTime.html#local_now/1).
+    * The [Code](https://hexdocs.pm/elixir/Code.html) module's [string_to_quoted/2](https://hexdocs.pm/elixir/Code.html#string_to_quoted/2) function includes new options, `:token_metadata` and `:token_metadata`, for Elixir AST parsing
+    * The [ExUnit](https://hexdocs.pm/ex_unit/ExUnit.html) library's [CaptureIO](https://hexdocs.pm/ex_unit/ExUnit.CaptureIO.html#content) module now works with concurrent tests
 
 ### ELIXIR - 1.9
 
