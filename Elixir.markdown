@@ -1,10 +1,16 @@
-# My Elixir & Erlang Resources - James Lavin
+# My Elixir, Erlang, and Gleam Resources - James Lavin
 
 ## DESCRIPTION
 
-Links to resources I have found useful or think might be helpful to future me or Elixir/Erlang developers like me.
+Links to resources I have found useful or think might be helpful to future me or Elixir/Erlang/BEAM developers like me.
 
+[Jump to Alpaca](#alpaca)
+[Jump to BEAM](#beam)
+[Jump to Elixir](#elixir)
 [Jump to Erlang](#erlang)
+[Jump to Gleam](#gleam)
+[Jump to Hamler](#hamler)
+[Jump to Purerl](#purerl)
 
 ## CONVERTING BETWEEN ELIXIR & ERLANG
 
@@ -13,6 +19,26 @@ Links to resources I have found useful or think might be helpful to future me or
 * [It's Time to Embrace Erlang - Todd Resudek (CodeBEAM SF 2020)](https://www.youtube.com/watch?v=Gt6tough35c)
 * [Why do Erlang Modules Look Like Atoms in Elixir - Tyler Pachal](https://medium.com/@tylerpachal/why-do-erlang-modules-look-like-atoms-in-elixir-9fb2f964dd2b)
 * ExToErl - Convert Elixir expressions into Erlang: [Docs](https://hexdocs.pm/ex_to_erl/ExToErl.html) | [Github](https://github.com/tmbb/ex_to_erl)
+
+## CONVERTING BETWEEN ERLANG & GLEAM
+
+* [Gleam for Erlang users](https://gleam.run/cheatsheets/gleam-for-erlang-users/)
+
+## ERLANG ECOSYSTEM FOUNDATION (EEF)
+
+* [Erlang Ecosystem Foundation](https://erlef.org/) | [News](https://erlef.org/news/) | [Working groups](https://erlef.org/wg/) | [Academic papers](https://erlef.org/academic-papers/) | [Events](https://erlef.org/events/)
+* [Introducing the Erlang Ecosystem Foundation (Code BEAM SF 19)](https://www.youtube.com/watch?v=mw3KnG894Sw)
+
+## ALPACA
+
+* [Alpaca: Functional programming inspired by ML for the Erlang VM](https://github.com/alpaca-lang/alpaca) (No commits since April 2019)
+
+## BEAM
+
+### BEAM - PERFORMANCE
+
+* [JVM struggles and the BEAM - Joel Kemp](https://medium.com/@mrjoelkemp/jvm-struggles-and-the-beam-4d9c58547410)
+* [BEAMJIT: The journey - Lukas Larsson (Code BEAM V 2020)](https://www.youtube.com/watch?v=Qz7OCAoiB7Q)
 
 ## ELIXIR
 
@@ -454,7 +480,7 @@ Links to resources I have found useful or think might be helpful to future me or
         build_path: "../../_build",
         config_path: "../../config/config.exs",
         ```
-    * Mix is now able to fetch and compile Rebar 3 dependencies
+    * Mix is now able to fetch and compile [Rebar 3](https://www.rebar3.org/) dependencies
 * [Changelog for Elixir 1.2](https://github.com/elixir-lang/elixir/blob/v1.2/CHANGELOG.md#changelog-for-elixir-v12)
 * [Elixir 1.2 and Elixir in Action](http://theerlangelist.com/article/eia_elixir_12)
 
@@ -1091,6 +1117,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir GenServers for Web Developers - Damon Janis](https://medium.com/@damonvjanis/elixir-genservers-for-web-developers-255d37a3699c)
 * [Processes and Supervision in Elixir - Steve Grossi](https://www.youtube.com/watch?v=eUxang6_WQA)
 * [Designing Elixir Systems with OTP | Bruce Tate (Erlang Solutions Webinar)](https://www.youtube.com/watch?v=8xbnA5xWdmI)
+* [Building Adaptive Systems - Chris Keathley (Code BEAM V 2020)](https://www.youtube.com/watch?v=-oQl1xv0hDk)
 * Building the Go Game in Elixir - Jeff Kreeftmeijer: [Part 1: With Phoenix LiveView](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html) | [Part 2: Time Travel and the Ko Rule](https://blog.appsignal.com/2019/07/04/elixir-alchemy-building-go-in-elixir-time-travel-and-the-ko-rule.html) | [Part 3: With Elixir's Registry, PubSub and dynamic supervisors](https://blog.appsignal.com/2019/08/13/elixir-alchemy-multiplayer-go-with-registry-pubsub-and-dynamic-supervisors.html)
 * [How we scraped and aggregated data from multiple sources using OTP - Tiago Duarte](https://coletiv.com/blog/scrapping-data-elixir-otp/)
 * [split_brain.ex: The challenges of building a small distributed Elixir Application - Dorian Iacobescu](https://medium.com/qixxit-development/split-brain-ex-5d5f1c19b133)
@@ -1136,7 +1163,6 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PERFORMANCE
 
 * [Building A Highly Scalable Service that Survived A Super Bowl - Keith Elder (Code BEAM SF 2019)](https://www.youtube.com/watch?v=lXiiiLhwBI4)
-* [JVM struggles and the BEAM - Joel Kemp](https://medium.com/@mrjoelkemp/jvm-struggles-and-the-beam-4d9c58547410)
 * [What's Inside a Reduction? - Devon Estes](http://devonestes.com/inside-a-reduction)
 * [Monitoring Production Elixir Applications - John Kelly (EMPEX 2017)](https://www.youtube.com/watch?v=nIRGF61_Go8)
 * [Measuring your Elixir Application - Renan Ranelli (ElixirConf 2016)](https://www.youtube.com/watch?v=3KhzyDDju0Q) | [Blog post: "A guide to measuring your Elixir app](http://milhouseonsoftware.com/2016/05/08/measuring-your-elixir-application/)
@@ -1285,6 +1311,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ELIXIR - PHOENIX - LIVE VIEW
 
+* [LiveView](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html#content) | [LiveComponent](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html#content) | [LiveViewTest](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveViewTest.html#content) | [mix phx.gen.live](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Live.html)
 * [Build a real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5 - Chris McCord](https://www.youtube.com/watch?v=MZvmYaFkNJI)
 * [Phoenix LiveView course - PragmaticStudio.com](https://pragmaticstudio.com/phoenix-liveview) (Nicole and Mike have incredibly generously created a professional LiveView course and given it away absolutely FREE)
 * [Opening Keynote: Phoenix LiveView Uploads - Chris McCord (ElixirConf 2020)](https://www.youtube.com/watch?time_continue=2&v=QJkopba8yyE)
@@ -1669,21 +1696,22 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - WEBRTC
 
+* [WebRTC from Start to Finish - Scott Hamilton (ElixirConf 2019)](https://www.youtube.com/watch?v=3qTUYMOpZGs)
 * [WebRTC and Phoenix, when μ Seconds aren't Fast Enough - Jason Stiebs (ElixirConf 2016)](https://www.youtube.com/watch?v=yI5J2P9kcBQ) | [phoenix_webrtc code](https://github.com/jeregrine/phoenix_webrtc)
 * [simple-peer: Simple WebRTC video/voice and data channels](https://github.com/feross/simple-peer)
 
 ## ERLANG
 
 * [Erlang Programming Language (with Francesco Cesarini) - Computerphile](https://www.youtube.com/watch?v=SOqQVoVai6s)
+* [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/)
+* [Adopting Erlang](https://adoptingerlang.org/) | [Erlang/OTP Cheat Sheets](https://adoptingerlang.org/docs/cheat_sheets/)
 * [Concurrent Programming in ERLANG, 2nd ed (Part 1 only) - Joe Armstrong, Robert Virding, Claes Wikstrom, and Mike Williams](http://erlang.org/download/erlang-book-part1.pdf)
 * [Which companies are using Erlang, and why? - Francesco Cesarini](https://www.erlang-solutions.com/blog/which-companies-are-using-erlang-and-why-mytopdogstatus.html)
 * [The Erlang Rationale - Robert Virding](http://www.erlang-factory.com/upload/presentations/329/EFKR10-ErlangRationale.pdf)
 * [The Zen of Erlang - Fred Hebert (Reactive Summit 2016)](https://www.youtube.com/watch?v=4ZIPijEqrNI)
 * [Just Enough Erlang (for Elixirists)- Samuel Mullen](https://samuelmullen.com/articles/just_enough_erlang/)
 * [Functional Programming in Erlang - Simon Thompson (University of Kent (UK))](https://www.futurelearn.com/courses/functional-programming-erlang)
-* [Adopting Erlang](https://adoptingerlang.org/) | [Erlang/OTP Cheat Sheets](https://adoptingerlang.org/docs/cheat_sheets/)
 * [Spawned Shelter: collection of the best articles, videos and books for learning Erlang, the internals of its VM and other languages that run on top of it](http://spawnedshelter.com/)
-* [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/)
 * [Erlang in Anger - Fred Hebert](http://www.erlang-in-anger.com/)
 * [Spawned Shelter: Collection of articles, videos & books for learning Erlang](http://spawnedshelter.com/)
 * [Erlang Quick Reference Card v1.0, 2011-11-13, Pawel Stolowsk](https://github.com/stolowski/Erlang-Quick-Reference-Card/blob/master/erlang-quickref.pdf)
@@ -1703,14 +1731,11 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ERLANG - GETTING STARTED
 
 * [Getting Started With Erlang - Erlang.org](http://erlang.org/doc/getting_started/intro.html) | [Chapter 5 in Erlang/OTP System Documentation](http://erlang.org/doc/pdf/otp-system-documentation.pdf)
+* [Rebar 3 (build tool)](https://www.rebar3.org/) | [Getting started](https://www.rebar3.org/docs/getting-started/) | [Basic usage](http://rebar3.org/docs/basic_usage/) | [Tutorials](http://rebar3.org/docs/tutorials/) | [Documentation](http://rebar3.org/docs/)
 
 ### ERLANG - ACTOR MODEL
 
 * [See: PROGRAMMING - ACTOR MODEL](https://github.com/JamesLavin/my_tech_resources#programming---actor-model)
-
-### ERLANG - ALPACA
-
-* [Alpaca: Functional programming inspired by ML for the Erlang VM](https://github.com/alpaca-lang/alpaca)
 
 ### ERLANG - BEAM
 
@@ -1810,9 +1835,10 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Programming Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml)
 * [Time in Elixir](http://learnyousomeerlang.com/time)
 
-### ERLANG - ERLANG ECOSYSTEM FOUNDATION
+### ERLANG - ERLFMT
 
-* [Introducing the Erlang Ecosystem Foundation (Code BEAM SF 19)](https://www.youtube.com/watch?v=mw3KnG894Sw)
+* [erlfmt: Erlang code formatter from WhatsApp](https://github.com/whatsapp/erlfmt)
+* [Erlang is getting pretty! - Michal Muskala (Code BEAM SF 20)](https://www.youtube.com/watch?v=TC2F2HBNRuA)
 
 ### ERLANG - ERLPORT
 
@@ -1941,6 +1967,12 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [PropEr Testing - Fred Herbert](http://propertesting.com/)
 
+### ERLANG - TOOLS
+
+* [Erlang Language Server](https://erlang-ls.github.io/) & [VS Code extension](https://github.com/erlang-ls/vscode)
+* [10 Essential Erlang Tools for Erlang Developers - Brujo Benavides](https://www.pluralsight.com/guides/10-essential-erlang-tools-for-erlang-developers)
+* [From 10s to 1000s engineers - Anton Lavrik (Code BEAM V)](https://www.youtube.com/watch?v=RHnjPW4YOrs) | [Slides](https://codesync.global/uploads/media/activity_slides/0001/03/f2292f201aa6b04db8c4e0b9cfa191dd07c9ee14.pdf)
+
 ### ERLANG - VIDEOS
 
 * [Intro to Erlang - Philip Clarke](https://www.youtube.com/watch?v=1QQSTayocdA)
@@ -1963,4 +1995,27 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
 * [An Introduction to Erlang (for Python programmers) - Paul Barry](https://www.youtube.com/watch?v=yRJZxV8uPhg)
 * [Intro to Distributed Erlang - Bryan Hunter](https://vimeo.com/39257971)
+
+## GLEAM
+
+* [Documentation](https://gleam.run/documentation/) [Std library docs](https://hexdocs.pm/gleam_stdlib/) | [FAQ](https://gleam.run/frequently-asked-questions/) | [Github](https://github.com/gleam-lang)
+* [The Gleam Book](https://gleam.run/book/tour/)
+* [Gleam: Lean BEAM typing machine - Louis Pilfold (Code BEAM V 2020)](https://www.youtube.com/watch?v=ceynSTa1dV4)
+* [Awesome Gleam](https://github.com/gleam-lang/awesome-gleam)
+
+### GLEAM - ELIXIR
+
+* [Mixing Gleam & Elixir - Michael Jones](https://dev.to/contact-stack/mixing-gleam-elixir-3fe3)
+
+### GLEAM - LIBRARIES
+
+* [Midas: Web framework written in Gleam](https://github.com/midas-framework/midas)
+
+## HAMLER
+
+* Hamler: Haskell-style FP language running on the Erlang VM: [hamler-lang.org](https://www.hamler-lang.org/) | [Cheatsheet](https://github.com/hamler-lang/documentation/blob/master/Cheatsheet.md) | [Guides](https://github.com/hamler-lang/documentation/tree/master/guides/) | [FAQ](https://github.com/hamler-lang/documentation/blob/master/FAQ.md) | [Github](https://github.com/hamler-lang/hamler)
+
+## PURERL
+
+* [purerl: Erlang backend for the PureScript compiler](https://github.com/purerl/purerl)
 
