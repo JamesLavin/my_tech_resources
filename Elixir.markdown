@@ -1,16 +1,16 @@
-# My Elixir, Erlang, and Gleam Resources - James Lavin
+# My Elixir, Erlang, and other BEAM Resources - James Lavin
 
 ## DESCRIPTION
 
 Links to resources I have found useful or think might be helpful to future me or Elixir/Erlang/BEAM developers like me.
 
-[Jump to Alpaca](#alpaca)
-[Jump to BEAM](#beam)
-[Jump to Elixir](#elixir)
-[Jump to Erlang](#erlang)
-[Jump to Gleam](#gleam)
-[Jump to Hamler](#hamler)
-[Jump to Purerl](#purerl)
+* [Jump to Alpaca](#alpaca)
+* [Jump to BEAM](#beam)
+* [Jump to Elixir](#elixir)
+* [Jump to Erlang](#erlang)
+* [Jump to Gleam](#gleam)
+* [Jump to Hamler](#hamler)
+* [Jump to Purerl](#purerl)
 
 ## CONVERTING BETWEEN ELIXIR & ERLANG
 
