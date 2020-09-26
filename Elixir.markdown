@@ -27,6 +27,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ## ERLANG ECOSYSTEM FOUNDATION (EEF)
 
 * [Erlang Ecosystem Foundation](https://erlef.org/) | [News](https://erlef.org/news/) | [Working groups](https://erlef.org/wg/) | [Academic papers](https://erlef.org/academic-papers/) | [Events](https://erlef.org/events/)
+* [Update from the Erlang Ecosystem Foundation working groups - Sebastian Strollo (Code BEAM V 2020)](https://www.youtube.com/watch?v=Lt4MuMYtPLA)
 * [Introducing the Erlang Ecosystem Foundation (Code BEAM SF 19)](https://www.youtube.com/watch?v=mw3KnG894Sw)
 
 ## ALPACA
@@ -45,6 +46,41 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - GETTING STARTED
 
 * Elixir-lang.org: [Docs](http://elixir-lang.org/docs.html) | [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html) | [Syntax reference](https://hexdocs.pm/elixir/syntax-reference.html) | [Learning resources](https://elixir-lang.org/learning.html) | [Elixir-lang-talk group](https://groups.google.com/forum/?fromgroups#!forum/elixir-lang-talk) | [Elixir Core mailing list](https://groups.google.com/forum/#!forum/elixir-lang-core) | [ElixirForum.com](http://elixirforum.com/)
+* Popular libraries:
+    * [Absinthe (GraphQL)](https://hexdocs.pm/absinthe/overview.html)
+    * [Bamboo (email)](https://hexdocs.pm/bamboo/readme.html)
+    * [Bcrypt (password hashing)](https://hexdocs.pm/bcrypt_elixir/Bcrypt.html)
+    * [Credo (static code analysis)](https://hexdocs.pm/credo/overview.html)
+    * [CSV](https://hexdocs.pm/csv/CSV.html)
+    * [DBConnection (db connection pools & transactions)](https://hexdocs.pm/db_connection/DBConnection.html)
+    * [Decimal (arbitrary precision decimals)](https://hexdocs.pm/decimal/readme.html)
+    * [Dialyxir (type checking)](https://hexdocs.pm/dialyxir/readme.html)
+    * [Ecto (change validation & DB interaction)](https://hexdocs.pm/ecto/Ecto.html) & [Ecto SQL](https://hexdocs.pm/ecto_sql/Ecto.Adapters.SQL.html)
+    * [ExDoc (doc generation)](https://hexdocs.pm/ex_doc/readme.html) ([Github](https://github.com/elixir-lang/ex_doc))
+    * [Floki (HTML parser)](https://hexdocs.pm/floki/Floki.html), uses [Servo.org](https://servo.org/)'s [html5ever Rust NIF](https://github.com/servo/html5ever)
+    * [GenStage (consumer-producer data pipelines)](https://hexdocs.pm/gen_stage/GenStage.html)
+    * [Gettext (internationalization/localization)](https://hexdocs.pm/gettext/Gettext.html)
+    * [Elixir](https://hexdocs.pm/elixir/Kernel.html)
+    * [IEx (Elixir shell)](https://hexdocs.pm/iex/IEx.html)
+    * [Jason (JSON parser)](https://hexdocs.pm/jason/readme.html)
+    * [Joken (JWTs)](https://hexdocs.pm/joken/introduction.html)
+    * [Memoize (function memoization)](https://hexdocs.pm/memoize/Memoize.html)
+    * [MIME](https://hexdocs.pm/mime/MIME.html)
+    * [Mock (test mocks)](https://hexdocs.pm/mock/Mock.html) | [Mox (test mocks)](https://hexdocs.pm/mox/Mox.html)
+    * [Number (number formatting)](https://hexdocs.pm/number/Number.html)
+    * [Phoenix (web server)](https://hexdocs.pm/phoenix/overview.html) | [Phoenix/Ecto](https://hexdocs.pm/phoenix_ecto/main.html) | [Phoenix.HTML](https://hexdocs.pm/phoenix_html/Phoenix.HTML.html) | [Phoenix.LiveReloader](https://hexdocs.pm/phoenix_live_reload/Phoenix.LiveReloader.html) | [Phoenix.LiveView (stateful client-server interaction)](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html) | [Phoenix.PubSub (realtime pub/sub service)](https://hexdocs.pm/phoenix_pubsub/Phoenix.PubSub.html)
+    * [Phone (phone number parser)](https://hexdocs.pm/phone/Phone.html)
+    * [Pigeon (iOS & Android push notifications)](https://hexdocs.pm/pigeon/getting-started.html)
+    * [Plug](https://hexdocs.pm/plug/readme.html) | [Plug.Cowboy](https://hexdocs.pm/plug_cowboy/Plug.Cowboy.html) | [Plug.Crypto](https://hexdocs.pm/plug_crypto/Plug.Crypto.html)
+    * [Postgrex (PostgreSQL driver)](https://hexdocs.pm/postgrex/readme.html)
+    * [Mix (build tool)](https://hexdocs.pm/mix/Mix.html)
+    * [Sobelow (security-focused static analysis)](https://hexdocs.pm/sobelow/readme.html)
+    * [SortedSet (NIF)](https://github.com/discord/sorted_set_nif) | [Using Rust to Scale Elixir for 11 Million Concurrent Users - Matt Nowack](https://blog.discord.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3)
+    * [StreamData (data generation)](https://hexdocs.pm/stream_data/StreamData.html)
+    * [Telemetry.Metrics (metrics based on :telemetry events)](https://hexdocs.pm/telemetry_metrics/Telemetry.Metrics.html)
+    * [Tesla (HTTP client)](https://hexdocs.pm/tesla/readme.html)
+    * [Tzdata (timezone database)](https://hexdocs.pm/tzdata/readme.html)
+    * [UUID](https://hexdocs.pm/uuid/readme.html)
 * [Elixir School](https://elixirschool.com/)
 * [ElixirCasts.io](https://elixircasts.io/?page=6)
 * [Elixir: functional, concurrent, distributed programming - Andrea Leopardi (Lambda World 2018)](https://www.youtube.com/watch?v=e3O0R5_69Pg)
@@ -695,6 +731,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Deploy Elixir Application To AWS Elastic Beanstalk - Michal Kalbarczyk](https://medium.com/@fazibear/deploy-elixir-application-74e1bce100c6#.hkmdp7i75)
 * [How to Set up a Distributed Elixir Cluster on Amazon EC2 - Benjamin Tan Wei Hao](http://engineering.pivotal.io/post/how-to-set-up-an-elixir-cluster-on-amazon-ec2/)
 
+#### ELIXIR - DEPLOYMENT - BAKEWARE
+
+* [Bakeware: Compile Elixir apps into single, easily distributed executable binaries](https://github.com/spawnfest/bakeware) | [Examples](https://github.com/spawnfest/bakeware/blob/main/examples/README.md)
+
 #### ELIXIR - DEPLOYMENT - BOOTLEG
 
 * [Docs](https://hexdocs.pm/bootleg/readme.html) | [Github](https://github.com/labzero/bootleg)
@@ -902,17 +942,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [CQRS and Event Sourcing - Bernardo Amorim (Code Beam SF 2018)](https://www.youtube.com/watch?v=S3f6sAXa3-c)
 * Event Sourcing With Elixir - Bruno Antunes: [Part 0](https://blog.nootch.net/post/event-sourcing-with-elixir/) [Part 1](https://blog.nootch.net/post/event-sourcing-with-elixir-part-1#getting-started) | [Part 2](https://blog.nootch.net/post/event-sourcing-with-elixir-part-2/) | [Part 3](https://blog.nootch.net/post/event-sourcing-with-elixir-part-3/) | [Part 4](https://blog.nootch.net/post/event-sourcing-with-elixir-part-4/) | [Part 5](https://blog.nootch.net/post/event-sourcing-with-elixir-part-5/) | [Part 6](https://blog.nootch.net/post/event-sourcing-with-elixir-part-6/) | [Part 7](https://blog.nootch.net/post/event-sourcing-with-elixir-part-7/)
 * [Brook: Distributed Event-based Orchestration in Elixir - Jeff Grunewald (Lonestar Elixir 2020)](https://www.youtube.com/watch?v=p8axklAm4-A) | [Brook](https://github.com/bbalser/brook)
-* [Building CQRS/ES web applications in Elixir using Phoenix - Ben Smith](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/) | [Building a CQRS/ES web application in Elixir using Phoenix](https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/) | [PDF](https://10consulting.com/presentations/2017-03-23-building-cqrs-web-applications-in-elixir.pdf)
 * [event_bus: Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS - Mustafa Turan](https://github.com/otobus/event_bus) & [event_bus_postgres: Postgres event store for event_bus](https://github.com/otobus/event_bus_postgres)
 * [Pachyderm - an elephant never forgets - Peter Saxton](https://github.com/CrowdHailer/event-sourcing.elixir)
 * [Elixir + CQRS - Architecting for Availability, Operability, and... - Jon Grieman (ElixirConf 2019)](https://www.youtube.com/watch?v=-d2NPc8cEnw)
-* [Dealing with eventual consistency in a CQRS/ES application - Ben Smith](https://10consulting.com/2017/10/06/dealing-with-eventual-consistency/)
 * Derek Kraan: [Event Sourcing in Elixir](https://tech.zilverline.com/2017/04/07/elixir_event_sourcing) & [Event Sourcing: Invariants spanning multiple aggregates](https://tech.zilverline.com/2017/04/21/event-sourcing-invariants-spanning-multiple-aggregates)
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
 * [Building beautiful systems with Phoenix contexts - Andrew Hao (ElixirDaze 2018)](https://www.youtube.com/watch?v=l3VgbSgo71E) & [Built to last: A domain-driven approach to beautiful systems - Andrew Hao](https://www.youtube.com/watch?v=52qChRS4M0Y)
 * [Perhap: Applying Domain Driven Design and Reactive... - Rob Martin (ElixirConf 2017)](https://www.youtube.com/watch?v=kq4qTk18N-c)
 * [Event Sourcing and CQRS in Elixir - ElixirForum.com](http://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519/4)
-* [Intro to implementing Command Query Responsibility Segregation (CQRS) in Elixir applications - Ben Smith](https://github.com/slashdotdash/implementing-cqrs-in-elixir)
 * Christian Posta: [Why Microservices Should Be Event Driven: Autonomy vs Authority](http://blog.christianposta.com/microservices/why-microservices-should-be-event-driven-autonomy-vs-authority/) | [3 Easy Things to Do to Make Your Microservices More Resilient](http://blog.christianposta.com/microservices/3-easy-things-to-do-to-make-your-microservices-more-resilient/) | [Carving the Java EE Monolith Into Microservices: Prefer Verticals Not Layers](http://blog.christianposta.com/microservices/carving-the-java-ee-monolith-into-microservices-perfer-verticals-not-layers/) | [The Hardest Part About Microservices: Your Data](http://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data/)
 * [DDD/CQRS/ES/NoSQL and functional programming](https://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519)
 * [CQRS with Erlang - Bryan Hunter (NDC Conference 2014)](https://vimeo.com/97318824)
@@ -933,6 +970,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [EventSourced: Functional domain models with event sourcing in Elixir - Ben Smith](https://github.com/slashdotdash/eventsourced)
 * [Building Conduit - Ben Smith](https://leanpub.com/buildingconduit) & [free to read online](https://leanpub.com/buildingconduit/read)
 * [Supporting multiple event stores in Commanded using an adapter based approach for Elixir - Ben Smith](https://10consulting.com/2017/05/17/supporting-multiple-event-stores-in-commanded/)
+* [Intro to implementing Command Query Responsibility Segregation (CQRS) in Elixir applications - Ben Smith](https://github.com/slashdotdash/implementing-cqrs-in-elixir)
+* [Dealing with eventual consistency in a CQRS/ES application - Ben Smith](https://10consulting.com/2017/10/06/dealing-with-eventual-consistency/)
+* [Building CQRS/ES web applications in Elixir using Phoenix - Ben Smith](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/) | [Building a CQRS/ES web application in Elixir using Phoenix](https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/) | [PDF](https://10consulting.com/presentations/2017-03-23-building-cqrs-web-applications-in-elixir.pdf)
 
 #### ELIXIR - EVENT SOURCING/CQRS - SAGE
 
@@ -946,10 +986,6 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - EXCEPTIONS
 
 * [Exceptional: Staying on the Happy Path - Brooklyn Zalenka (The Big Elixir 2018)](https://www.youtube.com/watch?v=NyowGgUzfno)
-
-### ELIXIR - EXDOC
-
-* [ExDoc](https://github.com/elixir-lang/ex_doc)
 
 ### ELIXIR - FUNCTIONAL PROGRAMMING
 
@@ -1093,11 +1129,16 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - NIFS - RUST & RUSTLER
 
+* [Rustling up predictive sporting betting models on the BEAM - David Lucia (Code BEAM SF 2020)](https://www.youtube.com/watch?v=xmUfTl33-fU)
 * [Rustler: Safe Rust bridge for creating Erlang NIF functions](https://github.com/rusterlium/rustler)
 * [BEAM + Rust: A match made in heaven - Sonny Scroggin (Code BEAM STO 19)](https://www.youtube.com/watch?v=xe32ku9s14k)
 * [Taking Elixir to the Metal with Rust - Sonny Scroggin](https://www.youtube.com/watch?v=lSLTwWqTbKQ)
 * [Writing Rust NIFs for your Elixir code with the Rustler package - Jacob Lerche](https://medium.com/@jacob.lerche/writing-rust-nifs-for-your-elixir-code-with-the-rustler-package-d884a7c0dbe3)
 * A NIFty way to integrate Rust with Elixir - Dave Lucia (Elixir NYC 2019): [Pig Latin NIF](https://github.com/davydog187/pig_latin_nif) | [Basketball NIF](https://github.com/davydog187/basketball_nif) | [Slides](https://docs.google.com/presentation/d/1gKE2vpgMAGD3vBNtaGO4v4YJt_XCXCkcluFzAHnRZ2w/edit)
+
+### ELIXIR - OBSERVABILITY
+
+* [Observability for Elixir microservices - Thomas Césaré Herriau and Vamsi Chitters (Code BEAM SF 2020)](https://www.youtube.com/watch?v=OfCOPEIDCAc) (uses [Spandex](https://hexdocs.pm/spandex/readme.html) & [Sentry](https://github.com/getsentry/sentry-elixir))
 
 ### ELIXIR - OPUS
 
@@ -1704,7 +1745,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [Erlang Programming Language (with Francesco Cesarini) - Computerphile](https://www.youtube.com/watch?v=SOqQVoVai6s)
 * [Learn You Some Erlang for Great Good! - Fred Hebert](http://learnyousomeerlang.com/)
-* [Adopting Erlang](https://adoptingerlang.org/) | [Erlang/OTP Cheat Sheets](https://adoptingerlang.org/docs/cheat_sheets/)
+* [Adopting Erlang - Tristan Sloughter, Fred Hebert, and Evan Vigil-McClanahan](https://adoptingerlang.org/) | [Erlang/OTP Cheat Sheets](https://adoptingerlang.org/docs/cheat_sheets/)
 * [Concurrent Programming in ERLANG, 2nd ed (Part 1 only) - Joe Armstrong, Robert Virding, Claes Wikstrom, and Mike Williams](http://erlang.org/download/erlang-book-part1.pdf)
 * [Which companies are using Erlang, and why? - Francesco Cesarini](https://www.erlang-solutions.com/blog/which-companies-are-using-erlang-and-why-mytopdogstatus.html)
 * [The Erlang Rationale - Robert Virding](http://www.erlang-factory.com/upload/presentations/329/EFKR10-ErlangRationale.pdf)
@@ -1722,6 +1763,8 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Solving the Stable Marriage problem with Erlang](https://www.airpair.com/erlang/posts/solving-the-stable-marriage-problem-with-erlang)
 * [Erlang - TutorialsPoint](https://www.tutorialspoint.com/erlang/erlang_tutorial.pdf)
 * [Thinking in a Highly Concurrent, Mostly-functional Language - Francesco Cesarini (ElixirConf 2014)](https://www.youtube.com/watch?v=d5G3P2iosmA)
+* [Understanding Erlang Kernel - Boshan Sun (Code BEAM SF 19)](https://www.youtube.com/watch?v=wC5oR3Zm6I0) | [Slides (PDF)](https://codesync.global/uploads/media/activity_slides/0001/01/7b723304abf472800db86b46e9c39fa117d152f2.pdf)
+* [Building CQRS/ES web applications in Elixir using Phoenix - Ben Smith](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/) | [Building a CQRS/ES web application in Elixir using Phoenix](https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/) | [PDF](https://10consulting.com/presentations/2017-03-23-building-cqrs-web-applications-in-elixir.pdf)
 * [Advanced-Erlang.com](http://advanced-erlang.com/videos/)
 * [How to Comprehend Comprehensions - Brujo Benavides](https://medium.com/erlang-battleground/how-to-comprehend-comprehensions-c924f92a97e1)
 * [ErlangCentral Wiki](http://erlangcentral.org/wiki/index.php/)
@@ -1732,6 +1775,17 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [Getting Started With Erlang - Erlang.org](http://erlang.org/doc/getting_started/intro.html) | [Chapter 5 in Erlang/OTP System Documentation](http://erlang.org/doc/pdf/otp-system-documentation.pdf)
 * [Rebar 3 (build tool)](https://www.rebar3.org/) | [Getting started](https://www.rebar3.org/docs/getting-started/) | [Basic usage](http://rebar3.org/docs/basic_usage/) | [Tutorials](http://rebar3.org/docs/tutorials/) | [Documentation](http://rebar3.org/docs/)
+* Popular libraries:
+    * [enacl: Erlang bindings for the NaCl/libsodium cryptographic library](https://hexdocs.pm/enacl/) | [Github](https://github.com/jlouis/enacl) | [libsodium: encryption/decryption/signatures/password hashing library](https://github.com/jedisct1/libsodium)
+    * [erlexec (execute & control OS processes)](https://github.com/saleyn/erlexec)
+    * [GenSMTP](https://hexdocs.pm/gen_smtp/)
+    * [Hackney (HTTP client)](https://hexdocs.pm/hackney/)
+    * [Katana Code (functions for processing Erlang code)](https://hexdocs.pm/katana_code/)
+    * [Meck (test mocks)](https://hexdocs.pm/meck/)
+    * [MochiWeb (lightweight HTTP server)](https://github.com/mochi/mochiweb)
+    * [Observer_CLI (displays tons of info on your running BEAM node)](https://hexdocs.pm/observer_cli/)
+    * [Recon (debug in prod)](https://hexdocs.pm/recon/)
+    * [Telemetry](https://hexdocs.pm/telemetry/) | [Telemetry poller](https://hexdocs.pm/telemetry_poller/)
 
 ### ERLANG - ACTOR MODEL
 
@@ -1739,7 +1793,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ERLANG - BEAM
 
-* [The Soul of Erlang and Elixir - Saša Jurić (GOTO Chicago 2019)](https://www.youtube.com/watch?v=JvBT4XBdoUE)
+* [The Soul of Erlang and Elixir - Saša Jurić (GOTO Chicago 2019)](https://www.youtube.com/watch?v=JvBT4XBdoUE) & [Reaping the Benefits of Elixir: How to Get Started - Saša Jurić & Erik Schön (GOTO 2020)](https://www.youtube.com/watch?v=-bCkha6U70o)
 * [Comparing common concurrency patterns in Elixir and Erlang - Devon Estes (Lambda Days 2020)](https://www.youtube.com/watch?v=GVSRi9Ki8d8) | (A Pattern Language for Parallel Application Programming - Berna L. Massingill, Timothy G. Mattson, Beverly A. Sanders)[https://www.cise.ufl.edu/research/ParallelPatterns/PatternLanguage/Background/PDSE99_long.htm]
 * [The BEAM Coding Paradigm - Kenji Rikitake (Code BEAM STO 2019)](https://www.youtube.com/watch?v=_KXHE6ULnww)
 * [Getting Core Erlang from Elixir - Andrew Volozhanin](https://scarfacedeb.me/posts/core-erlang-from-elixir/)
@@ -1750,6 +1804,8 @@ Consequently, much of the following will soon be at least partially outdated:
 * [How does fault tolerance work in Erlang? - Charlotte Lorelei Oliveira (Code BEAM Lite Munich 2018)](https://www.youtube.com/watch?v=kXphEiJ8RXQ)
 * [Hitchhiker's Tour of the BEAM - Robert Virding](https://www.youtube.com/watch?v=_Pwlvy3zz9M)
 * [Inside memory management on the BEAM - Devon Estes (Code BEAM Lite Munich 2018)](https://www.youtube.com/watch?v=fAeLuZN7J6Y)
+* [A Brief History of the BEAM Compiler - Björn Gustavsson](http://blog.erlang.org/beam-compiler-history/)
+* Core Erlang - Björn Gustavsson: [By Example](http://blog.erlang.org/core-erlang-by-example/) | [Optimizations](http://blog.erlang.org/core-erlang-optimizations/) | [Wrap up](http://blog.erlang.org/core-erlang-wrapup/)
 * [BEAM Wisdoms: collection of easy to read (ELI5) articles as well as in-depth knowledge such as VM internals, memory layout, opcodes](http://beam-wisdoms.clau.se/en/latest/)
 * [Erlang Garbage Collector - Lukas Larsson](https://www.erlang-solutions.com/blog/erlang-garbage-collector.html)
 * [The Erlang VM or How I Stopped Worrying & Started Loving Parallel Programming - E.Stenman (GOTO 2013)](https://www.youtube.com/watch?v=ArRr4trTCjQ)
@@ -1759,6 +1815,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Brujo Benavides](https://medium.com/@elbrujohalcon)
 * [Erlang/OTP Team @ Ericsson](http://blog.erlang.org/)
 * [Erlang Solutions](https://www.erlang-solutions.com/blog.html)
+* [Konstantin Duman](https://kduman.com/)
 * [This Week in Erlang - Sasan Gootik](https://gootik.github.io/this-week-in-erlang/)
 
 ### ERLANG - CONCURRENCY
@@ -1853,6 +1910,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Documentation](http://erlang.org/doc/man/ets.html)
 * [ex2ms: :ets.fun2ms translates functions to match specifications - Eric Meadows-Jönsson](https://github.com/ericmj/ex2ms)
 * [Bears, ETS, Beets - Learn You Some Erlang](https://learnyousomeerlang.com/ets)
+* [The New Scalable ETS ordered_set](http://blog.erlang.org/the-new-scalable-ets-ordered_set/)
 
 ### ERLANG - EXAMPLES
 
@@ -1912,11 +1970,23 @@ Consequently, much of the following will soon be at least partially outdated:
 * [A Peek Inside Erlang's OTP - Steve Vinoski(https://www.youtube.com/watch?v=PkHZPTn1brc)]
 * [It's About the Guarantees - Fred Hébert](http://ferd.ca/it-s-about-the-guarantees.html)
 
-#### ERLANG - OTP - 22.0
+### ERLANG - OTP 23
 
-* [OTP team update - Kenneth Lundin (Code BEAM STO 19)](https://www.youtube.com/watch?v=yyIAJbT_Jf8)
+* [OTP 23 Highlights - Kenneth Lundin](http://blog.erlang.org/OTP-23-Highlights/)
+* [Release Notes](https://github.com/erlang/otp/releases/tag/OTP-23.0)
+
+### ERLANG - OTP 22
+
 * [OTP 22 Highlights - Lukas Larsson](http://blog.erlang.org/OTP-22-Highlights/)
+* [Release Notes](https://github.com/erlang/otp/releases/tag/OTP-22.0)
 * [TLS logging improvements in OTP 22 - Péter Dimitrov](http://blog.erlang.org/ssl-logging-in-otp-22/)
+* [OTP team update - Kenneth Lundin (Code BEAM STO 19)](https://www.youtube.com/watch?v=yyIAJbT_Jf8)
+* [TLS logging improvements in OTP 22 - Péter Dimitrov](http://blog.erlang.org/ssl-logging-in-otp-22/)
+
+### ERLANG - OTP 21
+
+* [My OTP 21 Highlights - Lukas Larsson](http://blog.erlang.org/My-OTP-21-Highlights/)
+* [Release Notes](https://github.com/erlang/otp/releases/tag/OTP-21.0)
 
 ### ERLANG - PACKAGES
 
@@ -2001,6 +2071,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Documentation](https://gleam.run/documentation/) [Std library docs](https://hexdocs.pm/gleam_stdlib/) | [FAQ](https://gleam.run/frequently-asked-questions/) | [Github](https://github.com/gleam-lang)
 * [The Gleam Book](https://gleam.run/book/tour/)
 * [Gleam: Lean BEAM typing machine - Louis Pilfold (Code BEAM V 2020)](https://www.youtube.com/watch?v=ceynSTa1dV4)
+* [Using Gleam's 'try' syntax - Michael Jones](https://www.youtube.com/watch?v=3eZBagFSDiY)
 * [Awesome Gleam](https://github.com/gleam-lang/awesome-gleam)
 
 ### GLEAM - ELIXIR

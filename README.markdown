@@ -35,7 +35,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## ARTIFICIAL INTELLIGENCE (AI)
 
-* [Fast.ai](http://www.fast.ai/)
+* [Fast.ai](http://www.fast.ai/) | [Practical Deep Learning for Coders, v3 (free course)](https://course.fast.ai/videos/?lesson=1) | [The Fast AI Book (free)](https://github.com/fastai/fastbook) | [The Fast AI Book (dead tree)](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
 * [Software 2.0 - Andrej Karpathy](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 * [Grokking Deep Learning - Andrew Trask](https://github.com/iamtrask/Grokking-Deep-Learning)
 * Deep Learning - Ian Goodfellow, Yoshua Bengio, and Aaron Courville (MIT Press): [Chapters](http://www.deeplearningbook.org/) | [Lectures](http://www.deeplearningbook.org/lecture_slides.html) | [Videos - Part 1](https://www.youtube.com/playlist?list=PLsXu9MHQGs8cshZb3YUdtBhcu3LQp0Ax9) | [Videos - Part 2](https://www.youtube.com/playlist?list=PLsXu9MHQGs8fY0IMmV5OAGTdNP4EGwpj1) | [Companion Videos](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
@@ -220,6 +220,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * ["Deep Thinking" - Demis Hassabis interviews Garry Kasparov (Talks at Google)](https://www.youtube.com/watch?v=zhkTHkIZJEc)
 * [What Is Machine Learning? - Luis Serrano](https://www.youtube.com/watch?v=IpGxLWOIZy4)
 * [CS229: Machine Learning - Andrew Ng (Stanford University)](https://see.stanford.edu/Course/CS229)
+
+#### ARTIFICIAL INTELLIGENCE (AI) - MACHINE LEARNING - MLOPS
+
+* [What Is MLOps? - NVIDIA](https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/)
+* [MLOps: Continuous delivery and automation pipelines in machine learning - Google Cloud](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
+* [MLOps vs. AIOps - SeattleDataGuy](https://medium.com/better-programming/mlops-vs-aiops-6e5354704dab)
 
 ### ARTIFICIAL INTELLIGENCE (AI) - NATURAL LANGUAGE PROCESSING (NLP)
 
@@ -986,6 +992,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ## CLOJURE
 
 * [Functional Programming in Anger - David Nolen (Lambda.World 2018)](https://www.youtube.com/watch?v=8o01g6C7jWg)
+
+## COBOL
+
+* [Built to Last - Mar Hicks](https://logicmag.io/care/built-to-last/)
 
 ## CODING CONTESTS
 
@@ -4165,6 +4175,7 @@ Peter R. Egli:
 * [IAAA Spectrum](http://spectrum.ieee.org/)
 * [Inhabit](http://inhabitat.com/news/)
 * [Live Science](http://www.livescience.com/technology/)
+* [Logic](https://logicmag.io/#issues)
 * [Mashable](http://mashable.com/tech/)
 * [Medium](https://medium.com/browse/b3ee72d38ca4)
 * [Motherboard](http://motherboard.vice.com/en_us)
@@ -4775,6 +4786,11 @@ Peter R. Egli:
 * DeconstructConf: [2017](https://www.deconstructconf.com/2017)
 * Devoxx: [Belgium 2018](https://www.youtube.com/playlist?list=PLRsbF2sD7JVp8vBso4ysmj-X0u6uGx1rH) | [Belgium 2017](https://www.youtube.com/playlist?list=PLRsbF2sD7JVqZ4RpHYkqSuCNhxumGP5eo) | [Poland 2017](https://www.youtube.com/playlist?list=PLRsbF2sD7JVqYR6LI7atNZFvVKyAC1lwH)
 * [GOTO channel](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
+  * [GOTO Book Club Series 1](https://www.youtube.com/playlist?list=PLEx5khR4g7PJbSLmADahf0LOpTLifiCra)
+  * [GOTO Chicago 2020](https://www.youtube.com/playlist?list=PLEx5khR4g7PL-JwckuOkkc5cR6X5hn6ug)
+  * [GOTO Oslo 2020](https://www.youtube.com/playlist?list=PLEx5khR4g7PI57l4MJvLlhOJIKHLKghos)
+  * [GOTO Copenhagen 2019](https://www.youtube.com/playlist?list=PLEx5khR4g7PLHBVGOjNbevChU9DOL3Axj)
+  * [GOTO Berlin 2019](https://www.youtube.com/playlist?list=PLEx5khR4g7PKMVeAqZdIHRdOwTM1yktD8)
   * [GOTO Chicago 2018](https://www.youtube.com/playlist?list=PLEx5khR4g7PKqVew27D3jvMknjxjowoKl)
   * [GOTO Chicago 2017](https://www.youtube.com/playlist?list=PLEx5khR4g7PJ94PpgvNx6WohYcGQHY9UJ)
   * [GOTO Amsterdam 2017](https://www.youtube.com/playlist?list=PLEx5khR4g7PLcjLdaugk3GndelpTGbYDS)
@@ -5314,6 +5330,7 @@ Peter R. Egli:
 * [Frank Abagnale: "Catch Me If You Can" | Talks at Google](https://www.youtube.com/watch?v=vsMydMDi3rI)
 * [The Thoughtbot Guide to Application Security - Mike Burns](https://github.com/thoughtbot/guides/blob/master/security/application.md)
 * [Awesome Hacking: A collection of awesome lists for hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hackin://github.com/Hack-with-Github/Awesome-Hacking)
+* [A landscape of unintended consequences - Sarah Allen (Code Mesh LDN 2019)](https://www.codemesh.io/media/a-landscape-of-unintended-consequences-cmldn19/)
 * [BadSSL.com - See how your browser behaves when SSL is incorrectly configured](https://badssl.com/)
 * [Computer Systems Security - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
 * [Critical Code in Millions of Macs Isn't Getting Apple's Updates](https://www.wired.com/story/critical-efi-code-in-millions-of-macs-is-not-getting-apple-updates/)
