@@ -1567,6 +1567,7 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ELIXIR - SECURITY
 
 * [Learn you some ':ssl' for much security! Bram Verburg (ElixirConfEU 2019)](https://www.youtube.com/watch?v=0jzcPnsE4nQ)
+* [How to destroy your application using :erlang.binary_to_term/1 - Davide Bettio](https://blog.ispirata.com/how-to-destroy-your-application-using-erlang-binary-to-term-1-575ff7d05333)
 * [Secure Coding and Deployment Hardening Guidelines - Erlang Ecosystem Foundation Security Working Group](https://erlef.github.io/security-wg/secure_coding_and_deployment_hardening/)
 * [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography#elixir)
 * [Securing Elixir Applications - Bram Verburg (ElixirConfEU 2016)](https://www.youtube.com/watch?v=r0DuAse9tK8) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/078/original/Bram_Verburg_-_Securing_Elixir_Applications.pdf?1462946275)
