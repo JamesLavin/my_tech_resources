@@ -2410,6 +2410,44 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
     * [Tasks](https://kubernetes.io/docs/tasks/)
       * [Install Tools](https://kubernetes.io/docs/tasks/tools/)
       * [Administer a Cluster](https://kubernetes.io/docs/tasks/administer-cluster/)
+        * [Administration With Kubeadm](https://kubernetes.io/docs/tasks/administer-cluster/kubeadm/)
+        * [Manage Memory, CPU, and API Resources](https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/)
+        * [Install a Network Policy Provider](https://kubernetes.io/docs/tasks/administer-cluster/network-policy-provider/)
+        * [Access Clusters Using the Kubernetes API](https://kubernetes.io/docs/tasks/administer-cluster/access-cluster-api/)
+        * [Access Services Running on Clusters](https://kubernetes.io/docs/tasks/administer-cluster/access-cluster-services/)
+        * [Advertise Extended Resources for a Node](https://kubernetes.io/docs/tasks/administer-cluster/extended-resource-node/)
+        * [Autoscale the DNS Service in a Cluster](https://kubernetes.io/docs/tasks/administer-cluster/dns-horizontal-autoscaling/)
+        * [Change the default StorageClass](https://kubernetes.io/docs/tasks/administer-cluster/change-default-storage-class/)
+        * [Change the Reclaim Policy of a PersistentVolume](https://kubernetes.io/docs/tasks/administer-cluster/change-pv-reclaim-policy/)
+        * [Cloud Controller Manager Administration](https://kubernetes.io/docs/tasks/administer-cluster/running-cloud-controller/)
+        * [Cluster Management](https://kubernetes.io/docs/tasks/administer-cluster/cluster-management/)
+        * [Configure Out of Resource Handling](https://kubernetes.io/docs/tasks/administer-cluster/out-of-resource/)
+        * [Configure Quotas for API Objects](https://kubernetes.io/docs/tasks/administer-cluster/quota-api-object/)
+        * [Control CPU Management Policies on the Node](https://kubernetes.io/docs/tasks/administer-cluster/cpu-management-policies/)
+        * [Control Topology Management Policies on a node](https://kubernetes.io/docs/tasks/administer-cluster/topology-manager/)
+        * [Customizing DNS Service](https://kubernetes.io/docs/tasks/administer-cluster/dns-custom-nameservers/)
+        * [Debugging DNS Resolution](https://kubernetes.io/docs/tasks/administer-cluster/dns-debugging-resolution/)
+        * [Declare Network Policy](https://kubernetes.io/docs/tasks/administer-cluster/declare-network-policy/)
+        * [Developing Cloud Controller Manager](https://kubernetes.io/docs/tasks/administer-cluster/developing-cloud-controller-manager/)
+        * [Enabling EndpointSlices](https://kubernetes.io/docs/tasks/administer-cluster/enabling-endpointslices/)
+        * [Enabling Service Topology](https://kubernetes.io/docs/tasks/administer-cluster/enabling-service-topology/)
+        * [Encrypting Secret Data at Rest](https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/)
+        * [Guaranteed Scheduling For Critical Add-On Pods](https://kubernetes.io/docs/tasks/administer-cluster/guaranteed-scheduling-critical-addon-pods/)
+        * [IP Masquerade Agent User Guide](https://kubernetes.io/docs/tasks/administer-cluster/ip-masq-agent/)
+        * [Limit Storage Consumption](https://kubernetes.io/docs/tasks/administer-cluster/limit-storage-consumption/)
+        * [Namespaces Walkthrough](https://kubernetes.io/docs/tasks/administer-cluster/namespaces-walkthrough/)
+        * [Operating etcd clusters for Kubernetes](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/)
+        * [Reconfigure a Node's Kubelet in a Live Cluster](https://kubernetes.io/docs/tasks/administer-cluster/reconfigure-kubelet/)
+        * [Reserve Compute Resources for System Daemons](https://kubernetes.io/docs/tasks/administer-cluster/reserve-compute-resources/)
+        * [Safely Drain a Node while Respecting the PodDisruptionBudget](https://kubernetes.io/docs/tasks/administer-cluster/safely-drain-node/)
+        * [Securing a Cluster](https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/)
+        * [Set Kubelet parameters via a config file](https://kubernetes.io/docs/tasks/administer-cluster/kubelet-config-file/)
+        * [Set up High-Availability Kubernetes Masters](https://kubernetes.io/docs/tasks/administer-cluster/highly-available-master/)
+        * [Share a Cluster with Namespaces](https://kubernetes.io/docs/tasks/administer-cluster/namespaces/)
+        * [Using a KMS provider for data encryption](https://kubernetes.io/docs/tasks/administer-cluster/kms-provider/)
+        * [Using CoreDNS for Service Discovery](https://kubernetes.io/docs/tasks/administer-cluster/coredns/)
+        * [Using NodeLocal DNSCache in Kubernetes clusters](https://kubernetes.io/docs/tasks/administer-cluster/nodelocaldns/)
+        * [Using sysctls in a Kubernetes Cluster](https://kubernetes.io/docs/tasks/administer-cluster/sysctl-cluster/)
       * [Configure Pods and Containers](https://kubernetes.io/docs/tasks/configure-pod-container/)
         * [Assign Memory Resources to Containers and Pods](https://kubernetes.io/docs/tasks/configure-pod-container/assign-memory-resource/)
         * [Assign CPU Resources to Containers and Pods](https://kubernetes.io/docs/tasks/configure-pod-container/assign-cpu-resource/)
@@ -2570,6 +2608,10 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 * [Kube-monkey: implementation of Netflix's Chaos Monkey for Kubernetes clusters](https://github.com/asobti/kube-monkey)
 * [PowerfulSeal: adds chaos to your Kubernetes clusters, so that you can detect problems](https://github.com/bloomberg/powerfulseal)
+
+#### DEVOPS - KUBERNETES - CONFIG MAPS & SECRETS
+
+* [ConfigMap and Secret as Volume Types - TechWorld with Nana](https://www.youtube.com/watch?v=FAnQTgr04mU)
 
 #### DEVOPS - KUBERNETES - CONTAINERIZATION
 
@@ -2815,6 +2857,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### DEVOPS - KUBERNETES - PERSISTENT VOLUMES
 
+* [Kubernetes Volumes explained | Persistent Volume, Persistent Volume Claim & Storage Class - TechWorld with Nana](https://www.youtube.com/watch?v=0swOh5C3OVM)
 * [Using EBS and EFS as Persistent Volume in Kubernetes - Samson Gunalan](https://containerjournal.com/2019/04/08/using-ebs-and-efs-as-persistent-volume-in-kubernetes/)
 * [Resizing Persistent Volumes using Kubernetes - Hemant Kumar](https://kubernetes.io/blog/2018/07/12/resizing-persistent-volumes-using-kubernetes/)
 
