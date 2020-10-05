@@ -1566,8 +1566,11 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - SECURITY
 
+* Erlang Ecosystem Foundation: [Security Working Group](https://erlef.org/wg/security) | [Secure Coding & Deployment Hardening Guidelines](https://erlef.github.io/security-wg/secure_coding_and_deployment_hardening/) | [Github](https://erlef.github.io/security-wg/)
+* [Off BEAM Secure software development - Bram Verburg (Code BEAM SF 2020)](https://www.youtube.com/watch?v=9saBEk6UFY0)
 * [Learn you some ':ssl' for much security! Bram Verburg (ElixirConfEU 2019)](https://www.youtube.com/watch?v=0jzcPnsE4nQ)
 * [How to destroy your application using :erlang.binary_to_term/1 - Davide Bettio](https://blog.ispirata.com/how-to-destroy-your-application-using-erlang-binary-to-term-1-575ff7d05333)
+* [Making IoT safer with BEAM OTP - Duncan Sparrell (Code BEAM SF 2020)](https://www.youtube.com/watch?v=ddWxBJFbuxI)
 * [Secure Coding and Deployment Hardening Guidelines - Erlang Ecosystem Foundation Security Working Group](https://erlef.github.io/security-wg/secure_coding_and_deployment_hardening/)
 * [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography#elixir)
 * [Securing Elixir Applications - Bram Verburg (ElixirConfEU 2016)](https://www.youtube.com/watch?v=r0DuAse9tK8) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/078/original/Bram_Verburg_-_Securing_Elixir_Applications.pdf?1462946275)
@@ -1668,6 +1671,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [A More Type-Driven Elixir Workflow? Maybe - Simon Zelazny & Rafal Studnicki](https://well-ironed.com/articles/a-more-type-driven-elixir-workflow-maybe/)
 * [Chemanalysis: Dialyzing Elixir - Sean Cribbs (Code BEAM SF 19)](https://www.youtube.com/watch?v=k4au7VioXNk)
 * [Decoding Dialyzer - Part 1 - Devon Estes](http://devonestes.herokuapp.com/decoding-dialyzer)
+* [Spot The Discrepancies with Dialyzer for Erlang - Brujo Benavides](https://tech.nextroll.com/blog/dev/2019/02/19/erlang-dialyzer.html)
 * [What Does Dialyzer Think of Me? - Stavros Aronis (Code Beam 2019)](https://www.youtube.com/watch?v=Nxsw1jRE2A4)
 * [Hype For Types Using Dialyzer to Bring Type Checking to Your Elixir Code - Emma Cunningham (Code Beam SF 2018)](https://www.youtube.com/watch?v=yZO6FkkdJEg)
 * [Dialyxir](https://github.com/jeremyjh/dialyxir) & [Dialyzer](http://erlang.org/doc/man/dialyzer.html)
@@ -1775,7 +1779,6 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ERLANG - GETTING STARTED
 
 * [Getting Started With Erlang - Erlang.org](http://erlang.org/doc/getting_started/intro.html) | [Chapter 5 in Erlang/OTP System Documentation](http://erlang.org/doc/pdf/otp-system-documentation.pdf)
-* [Rebar 3 (build tool)](https://www.rebar3.org/) | [Getting started](https://www.rebar3.org/docs/getting-started/) | [Basic usage](http://rebar3.org/docs/basic_usage/) | [Tutorials](http://rebar3.org/docs/tutorials/) | [Documentation](http://rebar3.org/docs/)
 * Popular libraries:
     * [enacl: Erlang bindings for the NaCl/libsodium cryptographic library](https://hexdocs.pm/enacl/) | [Github](https://github.com/jlouis/enacl) | [libsodium: encryption/decryption/signatures/password hashing library](https://github.com/jedisct1/libsodium)
     * [erlexec (execute & control OS processes)](https://github.com/saleyn/erlexec)
@@ -1908,7 +1911,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ERLANG - ETS
 
-* [Documentation](http://erlang.org/doc/man/ets.html)
+* [Documentation](http://erlang.org/doc/man/ets.html) | [Efficiency Guide: ETS, DETS, and Mnesia](http://erlang.org/doc/efficiency_guide/tablesDatabases.html#ets,-dets,-and-mnesia)
 * [ex2ms: :ets.fun2ms translates functions to match specifications - Eric Meadows-Jönsson](https://github.com/ericmj/ex2ms)
 * [Bears, ETS, Beets - Learn You Some Erlang](https://learnyousomeerlang.com/ets)
 * [The New Scalable ETS ordered_set](http://blog.erlang.org/the-new-scalable-ets-ordered_set/)
@@ -1943,10 +1946,27 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Store Everything With Elixir and Mnesia - Ilya Bodrov](https://code.tutsplus.com/articles/store-everything-with-elixir-and-mnesia--cms-29821)
 * Mnesia: [Docs](http://erlang.org/doc/man/mnesia.html)
 
-### ERLANG - MONITORING & PERFORMANCE
+### ERLANG - MONITORING, METRICS & PERFORMANCE
 
+* [Erlang Efficiency Guide - User's Guide](http://erlang.org/doc/efficiency_guide/users_guide.html) | [Profiling](http://erlang.org/doc/efficiency_guide/profiling.html)
+* [Stuff Goes Bad: Erlang in Anger - Fred Hebert](https://www.erlang-in-anger.com/) | [PDF](https://s3.us-east-2.amazonaws.com/ferd.erlang-in-anger/text.v1.1.0.pdf)
+* [Squeezing the most out of the server: Erlang Profiling - Facundo Olano](https://tech.nextroll.com/blog/dev/2020/04/07/erlang-profiling.html)
 * Erlang Performance Lab (developer tool, not production monitoring): [website](http://www.erlang.pl/) | [Youtube](https://www.youtube.com/channel/UCGkcbu799cC1rtMaQtAajpg) | [Github](https://github.com/erlanglab/erlangpl) | [Twitter](https://twitter.com/erlanglab)
+* [Tracking Down an ETS-related Memory Leak - Tyler Pachal](https://medium.com/@tylerpachal/tracking-down-an-ets-related-memory-leak-a115a4499a2f)
+* [Comparison of Erlang Runtime System and Java Virtual Machine - Tõnis Pool](http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf)
+* [Do not guess, Trace - Kacper Mentel (RabbitMQ Summit 2019)](https://www.cloudamqp.com/blog/2019-12-10-do-not-guess-trace.html)
 * [Erlang Performance Lab - Michal Slaski (Erlang & Elixir Factory SF 2017)](https://www.youtube.com/watch?v=ncedupb-Rqw)
+* [Faults, Scaling, and Erlang concurrency - Joe Armstrong (Stanford University seminar 2014)](https://www.youtube.com/watch?v=YaUPdgtUYko)
+* [Useless performance optimisations on the BEAM for fun - Daniel Szoboszlay (Code BEAM STO 19)](https://www.youtube.com/watch?v=qEo-nIMEGAc)
+
+### ERLANG - MONITORING, METRICS & PERFORMANCE - AMOC
+
+* amoc (A Murder of Crows): simple framework for running massively parallel tests in a distributed environment: [Github](https://github.com/esl/amoc)
+
+### ERLANG - MONITORING, METRICS & PERFORMANCE - FPROF
+
+* [fprof - Time-profiling tool using trace to file for minimal runtime performance impact](http://erlang.org/doc/man/fprof.html)
+* [Erlang User's Guide: fprof - The File Trace Profiler](http://erlang.org/doc/apps/tools/fprof_chapter.html)
 
 ### ERLANG - OBSERVER
 
@@ -1997,13 +2017,6 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Managing processes with Poolboy in Elixir - Akash Manohar](http://hashnuke.com/2013/10/03/managing-processes-with-poolboy-in-elixir.html)
 * [Elixir Poolboy Example - TheStoneFox](https://github.com/thestonefox/elixir_poolboy_example)
 
-### ERLANG - PERFORMANCE
-
-* [Squeezing the most out of the server: Erlang Profiling - Facundo Olano](http://tech.nextroll.com/blog/dev/2020/04/07/erlang-profiling.html)
-* [Comparison of Erlang Runtime System and Java Virtual Machine - Tõnis Pool](http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf)
-* [Faults, Scaling, and Erlang concurrency - Joe Armstrong (Stanford University seminar 2014)](https://www.youtube.com/watch?v=YaUPdgtUYko)
-* [Useless performance optimisations on the BEAM for fun - Daniel Szoboszlay (Code BEAM STO 19)](https://www.youtube.com/watch?v=qEo-nIMEGAc)
-
 ### ERLANG - PERSISTENT TERM
 
 * persistent_term: [Docs](http://erlang.org/doc/man/persistent_term.html)
@@ -2018,9 +2031,18 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Pyrlang: Python meets Erlang - Johan Sommerfeld (Code BEAM STO 19)](https://www.youtube.com/watch?v=MwaUdNi34b4)
 * Erlang node implemented in Python 3.5+ (Asyncio-based): [Pyrlang.github.io](https://pyrlang.github.io/Pyrlang/) | [Github](https://github.com/Pyrlang/Pyrlang)
 
+### ERLANG - REBAR 3 (BUILD TOOL)
+
+* [Rebar 3 (build tool)](https://www.rebar3.org/) | [Getting started](https://www.rebar3.org/docs/getting-started/) | [Basic usage](http://rebar3.org/docs/basic_usage/) | [Tutorials](http://rebar3.org/docs/tutorials/) | [Documentation](http://rebar3.org/docs/)
+* [The new code formatter for Erlang: rebar3 format - Brujo Benavides](https://tech.nextroll.com/blog/dev/2020/02/25/erlang-rebar3-format.html)
+
 ### ERLANG - SSL
 
 * [Security versus interoperability - Ingela Anderton Andin (Code BEAM STO 19)](https://www.youtube.com/watch?v=dR5Gn7dI9vo)
+
+### ERLANG - SUCCESS STORIES
+
+* [We slashed our DynamoDB costs by over 75% using Kinesis, DynamoDB streams, and Erlang/OTP (and now Elixir) to implement a global cache warming system - Mike Watters](https://tech.nextroll.com/blog/dev/2018/01/08/quaff-that-potion-saving-millions-with-elixir-and-erlang.html)
 
 ### ERLANG - TESTING
 
@@ -2044,6 +2066,20 @@ Consequently, much of the following will soon be at least partially outdated:
 * [10 Essential Erlang Tools for Erlang Developers - Brujo Benavides](https://www.pluralsight.com/guides/10-essential-erlang-tools-for-erlang-developers)
 * [From 10s to 1000s engineers - Anton Lavrik (Code BEAM V)](https://www.youtube.com/watch?v=RHnjPW4YOrs) | [Slides](https://codesync.global/uploads/media/activity_slides/0001/03/f2292f201aa6b04db8c4e0b9cfa191dd07c9ee14.pdf)
 
+### ERLANG - TRACING
+
+* [Do not guess, Trace - Kacper Mentel (RabbitMQ Summit 2019)](https://www.cloudamqp.com/blog/2019-12-10-do-not-guess-trace.html)
+
+#### ERLANG - TRACING - EFLAME
+
+* [eflame - Flame graphs for Erlang (uses erlang:trace/3)](https://github.com/proger/eflame)
+
+#### ERLANG - TRACING - RECON
+
+* Recon module docs: [recon](https://ferd.github.io/recon/recon.html) | [recon_alloc](https://ferd.github.io/recon/recon_alloc.html) | [recon_lib](https://ferd.github.io/recon/recon_lib.html) | [recon_map](https://ferd.github.io/recon/recon_map.html) | [recon_rec](https://ferd.github.io/recon/recon_rec.html) | [recon_trace](https://ferd.github.io/recon/recon_trace.html)
+* Recon [Github](https://github.com/ferd/recon)
+* [Stuff Goes Bad: Erlang in Anger - Fred Hebert](https://www.erlang-in-anger.com/) | [PDF](https://s3.us-east-2.amazonaws.com/ferd.erlang-in-anger/text.v1.1.0.pdf)
+
 ### ERLANG - VIDEOS
 
 * [Intro to Erlang - Philip Clarke](https://www.youtube.com/watch?v=1QQSTayocdA)
@@ -2066,6 +2102,11 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Erlang Factory SF 2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
 * [An Introduction to Erlang (for Python programmers) - Paul Barry](https://www.youtube.com/watch?v=yRJZxV8uPhg)
 * [Intro to Distributed Erlang - Bryan Hunter](https://vimeo.com/39257971)
+
+### ERLANG - XREF
+
+* [Erlang User's Guide: Xref - The Cross Reference Tool](http://erlang.org/doc/apps/tools/xref_chapter.html)
+* [Removing Erlang dead code with Xref - Brujo Benavides](https://tech.nextroll.com/blog/dev/2018/10/09/remove-erlang-dead-code-xref.html)
 
 ## GLEAM
 

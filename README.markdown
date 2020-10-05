@@ -2328,7 +2328,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 ### DEVOPS - KUBERNETES
 
-* Kubernetes: [Docs](https://kubernetes.io/) | [Kubernetes API](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.9/) | [Basic tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Tutorials](https://kubernetes.io/docs/tutorials/) | [Tasks](https://kubernetes.io/docs/tasks/) | [Concepts](https://kubernetes.io/docs/concepts/) | [Github](https://github.com/kubernetes/kubernetes)
+* Kubernetes: [Docs](https://kubernetes.io/) | [Kubernetes API](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.19/) | [Blog](https://kubernetes.io/blog/) | [Github](https://github.com/kubernetes/kubernetes)
   * [Concepts](https://kubernetes.io/docs/concepts/)
     * [Overview](https://kubernetes.io/docs/concepts/overview/)
     * [Cluster Architecture](https://kubernetes.io/docs/concepts/architecture/)
@@ -2581,6 +2581,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
       * [Scheduling](https://kubernetes.io/docs/reference/scheduling/)
         * [Scheduling Policies](https://kubernetes.io/docs/reference/scheduling/policies/)
         * [Scheduler Configuration](https://kubernetes.io/docs/reference/scheduling/config/)
+* TechWorld with Nana: [Kubernetes Architecture explained | Kubernetes Tutorial 15](https://www.youtube.com/watch?v=umXEmn3cMWY) & [Complete Application Deployment using Kubernetes Components | Kubernetes Tutorial 20](https://www.youtube.com/watch?v=EQNO_kM96Mo)
 * [Kubernetes — What Is It, What Problems Does It Solve and How Does It Compare With Alternatives? - Srikanth Koraveni](https://medium.com/@srikanth.k/kubernetes-what-is-it-what-problems-does-it-solve-how-does-it-compare-with-its-alternatives-937fe80b754f?)
 * [Kubernetes Patterns - Bilgin Ibryam and Roland Huß (PDF)](https://www.redhat.com/cms/managed-files/cm-oreilly-kubernetes-patterns-ebook-f19824-201910-en.pdf)
 * [Kubernetes Basics - Brendon Burns (Microsoft)](https://www.youtube.com/playlist?list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT)
@@ -2696,6 +2697,7 @@ See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 #### DEVOPS - KUBERNETES - HELM
 
 * Helm (package manager for Kubernetes): [Website](https://helm.sh/) | [docs](https://docs.helm.sh/) | [Github](https://github.com/kubernetes/helm) | [Twitter](https://twitter.com/helmpack)
+* [What is Helm in Kubernetes? Helm and Helm Charts explained | Kubernetes Tutorial 23 - TechWorld with Nana](https://www.youtube.com/watch?v=-ykwb1d0DXU)
 * [Making the Most of Helm 3 - Dan Garfield & Anna Baker](https://www.youtube.com/watch?v=EfV5fOK9IRU)
 * [Deep Dive into Helm - Scott Rigby & Paul Czarkowski](https://www.youtube.com/watch?v=UfASpCJOdiw)
 * [Hands-On Helm - Jessica Deen](https://www.youtube.com/watch?v=6d6L4-ADF-M)
@@ -2780,6 +2782,8 @@ See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 
 #### DEVOPS - KUBERNETES - INGRESS CONTROLLERS
 
+* [Kubernetes Ingress Tutorial for Beginners | simply explained | Kubernetes Tutorial 22 - TechWorld with Nana](https://www.youtube.com/watch?v=80Ew_fsV4rM)
+* [Intro to Ingress - Josh Rosso](https://kube.academy/lessons/introduction-to-ingress)
 * [NGINX Ingress Controller - kubernetes.github.io](https://kubernetes.github.io/ingress-nginx/)
 
 #### DEVOPS - KUBERNETES - ISTIO
@@ -2807,6 +2811,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### DEVOPS - KUBERNETES - KUBECTL
 
 * kubectl: [Cheatsheet](https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/) | [Overview](https://kubernetes.io/docs/user-guide/kubectl-overview/)
+* [Intro to Kubectl - John Harris](https://kube.academy/lessons/introduction-to-kubectl)
 * App management docs: [Apply](https://kubectl.docs.kubernetes.io/pages/app_management/apply.html) | [Secrets & Configmaps](https://kubectl.docs.kubernetes.io/pages/app_management/secrets_and_configmaps.html) | [Container Images](https://kubectl.docs.kubernetes.io/pages/app_management/container_images.html) | [Namespaces & Names](https://kubectl.docs.kubernetes.io/pages/app_management/namespaces_and_names.html) | [Labels & Annotations](https://kubectl.docs.kubernetes.io/pages/app_management/labels_and_annotations.html) | [Field merge semantics](https://kubectl.docs.kubernetes.io/pages/app_management/field_merge_semantics.html)
 * Resource printing: [Summarizing Resources](https://kubectl.docs.kubernetes.io/pages/resource_printing/summaries.html) | [JSON or Yaml](https://kubectl.docs.kubernetes.io/pages/resource_printing/raw.html) | [Fields](https://kubectl.docs.kubernetes.io/pages/resource_printing/fields.html) | [Describe](https://kubectl.docs.kubernetes.io/pages/resource_printing/describe.html)
 * [Boosting your kubectl productivity - Daniel Weibel](https://learnk8s.io/blog/kubectl-productivity/)
@@ -2850,6 +2855,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Kubernetes Dashboard](https://github.com/kubernetes/dashboard)
 * [Application Introspection & Debugging](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application-introspection/)
 * [Kubernentes monitoring architecture](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/instrumentation/monitoring_architecture.md)
+
+#### DEVOPS - KUBERNETES - NAMESPACES
+
+* [Kubernetes Namespaces Explained in 15 mins - TechWorld with Nana](https://www.youtube.com/watch?v=K3jNo4z5Jx8)
 
 #### DEVOPS - KUBERNETES - NETWORKING
 
@@ -2939,6 +2948,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Skaffold: happy Kubernetes workflows - Ahmet Alp Balkan](https://ahmet.im/blog/skaffold/)
 * [Skaffold on Google Kubernetes Engine](https://github.com/GoogleCloudPlatform/skaffold/blob/master/docs/quickstart-gke.md)
 
+#### DEVOPS - KUBERNETES - STATEFULSET
+
+* [StatefulSet simply explained - TechWorld With Nana](https://www.youtube.com/watch?v=pPQKAR1pA9U)
+
 #### DEVOPS - KUBERNETES - STERN
 
 * [Stern: Multi pod and container log tailing for Kubernetes](https://github.com/wercker/stern)
@@ -2954,6 +2967,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### DEVOPS - KUBERNETES - TRAEFIK
 
 * Traefik: [Docs](https://docs.traefik.io/) | [Website](https://containo.us/traefik/) | [Github](https://github.com/containous/traefik)
+* [Traefik Crash Course - Architecture, L7 & L4 Proxying, Weighted Round Robin, Enabling TLS 1.2/1.3 - Hussein Nasser](https://www.youtube.com/watch?v=C6IL8tjwC5E)
 * [Traefik Proxy v2.0 Docker Basic Tutorial - Christian Martins](https://www.youtube.com/watch?v=Gk9WER6DunE)
 * [How to Install Traefik 2 on Raspberry Pi - DB Tech](https://www.youtube.com/watch?v=GcNGCOMa3wc)
 * [Escaping Big Tech With Traefik 2.0 - WP Engine - Chris Wiegman](https://www.youtube.com/watch?v=q1SDzUXx5mg)
@@ -4765,6 +4779,7 @@ Peter R. Egli:
 * BlockDiag: the simple block-diagram image generator: [Activity Diagrams](http://blockdiag.com/en/actdiag/index.html) | [Block Diagrams](http://blockdiag.com/en/blockdiag/index.html) | [Network Diagrams](http://blockdiag.com/en/nwdiag/index.html) | [Sequence Diagrams](http://blockdiag.com/en/seqdiag/index.html)
 * Boxes: [Homepage](https://boxes.thomasjensen.com) | [Github](https://github.com/ascii-boxes/boxes)
 * Calcurse: calendar and scheduling application for the command line: [Calcurse.org](https://calcurse.org/) | [Manual](https://calcurse.org/files/manual.html)
+* [Diagrams: Draw the cloud system architecture in Python code](https://diagrams.mingrammer.com/)
 * [ditaa: DIagrams Through Ascii Art](http://ditaa.sourceforge.net/)
 * Gnuplot: [Homepage](http://www.gnuplot.info/) | [Demo gallery](http://gnuplot.sourceforge.net/demo/) | [Docs](http://www.gnuplot.info/documentation.html)
 * GraphViz: open source graph visualization software: [Generate](https://graphs.grevian.org/graph) | [Pocket reference](https://graphs.grevian.org/example) | [Reference](https://graphs.grevian.org/reference) | [GraphViz.it](http://graphviz.it) | [GraphViz.org](http://graphviz.org/) | [Wikipedia](https://en.wikipedia.org/wiki/DOT_(graph_description_language))
