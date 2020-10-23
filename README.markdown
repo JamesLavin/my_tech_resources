@@ -909,6 +909,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Why Senior Devs Write Dumb Code and How to Spot a Junior From A Mile Away - Scott Shipp](https://hackernoon.com/why-senior-devs-write-dumb-code-and-how-to-spot-a-junior-from-a-mile-away-27fa263b101a)
 * [Working with legacy code - Gabor Olah (Code BEAM STO 19)](https://www.youtube.com/watch?v=n0XCMHrSbwc)
 * [Ideology - Gary Bernhardt (StrangeLoop 2015)](https://www.destroyallsoftware.com/talks/ideology)
+* [Taking Back "Software Engineering" - Dave Farley (GOTO Oslo 2020)](https://www.youtube.com/watch?v=_N_jIrEBOpw)
 * [The Mediator Pattern - Brandur](https://brandur.org/mediator)
 * ["The Mess We're In" - Joe Armstrong (StrangeLoop 2014)](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [Creative Engineering: Promises & Razors - Insights into Rapid Development - Tom Mejias, Bill Robinson and Matteo Vallone](https://www.youtube.com/watch?v=qGieKHujkDY)
@@ -2862,10 +2863,16 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### DEVOPS - KUBERNETES - NETWORKING
 
+* [Kubernetes Networking Intro and Deep-Dive - Bowei Du & Tim Hockin (CNCF 2020)](https://www.youtube.com/watch?v=tq9ng_Nz9j8)
 * [Deep dive into Kubernetes networking - Sreenivas Makam (Container Conference 2018)](https://www.youtube.com/watch?v=NUt9VVG_gac)
 * [Organizing Kubernetes with Namespaces - Sandeep Dinesh (Kubernetes Best Practices)](https://www.youtube.com/watch?v=xpnZX3if9Tc)
 * [Kubernetes Networking Master Class (Rancher Labs)]https://www.youtube.com/watch?v=GXq3FS8M_kw)
 * [Leveraging Kubernetes Services & DNS - Christopher Liljenstolpe](https://www.youtube.com/watch?v=VR8ep5Wf_MA)
+
+##### DEVOPS - KUBERNETES - NETWORKING - CALICO
+
+* [Getting started with Calico Network Policy in Kubernetes - Jessica Deen](https://www.youtube.com/watch?v=0zCHtrEJ9Bc)
+* [Calico Routing Modes - octetz](https://www.youtube.com/watch?v=MpbIZ1SmEkU)
 
 #### DEVOPS - KUBERNETES - OPERATORS
 
@@ -2968,6 +2975,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * Traefik: [Docs](https://docs.traefik.io/) | [Website](https://containo.us/traefik/) | [Github](https://github.com/containous/traefik)
 * [Traefik Crash Course - Architecture, L7 & L4 Proxying, Weighted Round Robin, Enabling TLS 1.2/1.3 - Hussein Nasser](https://www.youtube.com/watch?v=C6IL8tjwC5E)
+* [How to Use the Open Source Tool Traefik to Direct Kubernetes Traffic - Lee Carpenter](https://dzone.com/articles/how-to-use-the-open-source-tool-traefik-to-direct)
 * [Traefik Proxy v2.0 Docker Basic Tutorial - Christian Martins](https://www.youtube.com/watch?v=Gk9WER6DunE)
 * [How to Install Traefik 2 on Raspberry Pi - DB Tech](https://www.youtube.com/watch?v=GcNGCOMa3wc)
 * [Escaping Big Tech With Traefik 2.0 - WP Engine - Chris Wiegman](https://www.youtube.com/watch?v=q1SDzUXx5mg)

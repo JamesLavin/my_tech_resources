@@ -36,10 +36,15 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## BEAM
 
+### BEAM - DSL FOR LANGUAGES
+
+* [Implementing Languages on the BEAM - Robert Virding & Mariano Guerra (Code BEAM SF 2018)](https://www.youtube.com/watch?v=lkAbwmn5Rv8)
+
 ### BEAM - PERFORMANCE
 
 * [JVM struggles and the BEAM - Joel Kemp](https://medium.com/@mrjoelkemp/jvm-struggles-and-the-beam-4d9c58547410)
 * [BEAMJIT: The journey - Lukas Larsson (Code BEAM V 2020)](https://www.youtube.com/watch?v=Qz7OCAoiB7Q)
+* [JIT Compiler for Erlang OTP - Lukas Larsson (Code BEAM V 2020)](https://www.youtube.com/watch?v=lM7UV95Rpyo)
 
 ## ELIXIR
 
@@ -524,6 +529,22 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [See: PROGRAMMING - ACTOR MODEL](https://github.com/JamesLavin/my_tech_resources#programming---actor-model)
 
+### ELIXIR - ADOPTION
+
+* [Eight Famous Companies Using Elixir-And Why They Made the Switch - Monterail](https://medium.com/swlh/six-famous-companies-using-elixir-and-why-they-made-the-switch-7acdb8b22e40): Cites "Pinterest: half the servers, 10 times less code," "Moz: 63 times less disk space, 20 times faster API," "Lonely Planet: better performance, scalable content," etc.
+* [Bleacher Report has gone from needing 150 servers to just five, thanks to its decision to move from Ruby on Rails monolith to Elixir Phoenix](https://elixirforum.com/t/how-elixir-helped-bleacher-report-handle-8x-more-traffic/3600)
+* [What companies and start-ups depend on Elixir in production? - Code Elixir LDN](https://codesync.global/media/what-companies-and-start-ups-use-elixir-in-production-now/)
+* [Real time communication at scale with Elixir at Discord - José Valim](https://elixir-lang.org/blog/2020/10/08/real-time-communication-at-scale-with-elixir-at-discord/)
+* [PaaS with Elixir at Heroku - José Valim](https://elixir-lang.org/blog/2020/09/24/paas-with-elixir-at-Heroku/)
+* [Elixir at fintech with Brex - José Valim](https://elixir-lang.org/blog/2020/06/23/growing-with-elixir-at-brex/)
+* [Embedded Elixir at Farmbot - José Valim](https://elixir-lang.org/blog/2020/08/20/embedded-elixir-at-farmbot/)
+* [How Cisco is using Erlang for intent-based networking - Johan Bevemyr (Code BEAM STO 2018)](https://codesync.global/media/https-youtu-be-077-xjv6plq/) (slide says "90% of all Internet traffic goes through Erlang controlled nodes" & "Cisco is shipping about 2M devices per year with Erlang in them")
+* [Erlang celebrates 20 years as open source - Ericsson.com](https://www.ericsson.com/en/news/2018/5/erlang-celebrates-20-years-as-open-source)
+* [Successful Companies Use Erlang and Elixir -  Code Sync](https://codesync.global/media/successful-companies-using-elixir-and-erlang/)
+* [Why WhatsApp Only Needs 50 Engineers for Its 900M Users - Cade Metz, "Wired," September 2015](https://www.wired.com/2015/09/whatsapp-serves-900-million-users-50-engineers/)
+* [Using Rust to Scale Elixir for 11 Million Concurrent Users (at Discord) - Matt Nowack](https://blog.discord.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3)
+* [Riot  Messaging Service](https://technology.riotgames.com/news/riot-messaging-service)
+
 ### ELIXIR - ALGEBRAIC DATA TYPES
 
 * [Algae: Bootstrapped algebraic data types](https://github.com/expede/algae)
@@ -544,10 +565,6 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * pow: Robust, modular, and extendable user authentication system - Dan Schultzer: [PowAuth.com](https://powauth.com/) | [Github](https://github.com/danschultzer/pow)
 * [Easy Authentication in Elixir & Phoenix with the pow & pow_assent libraries - KnowThen.com](https://www.youtube.com/watch?v=hnD0Z0LGMIk)
-
-### ELIXIR - AUTHORIZATION
-
-* [Authorization in Phoenix web applications using Role Based Access Control (RBAC) - KnowThen.com](https://www.youtube.com/watch?v=6TlcVk-1Tpc) & [Git repo](https://github.com/knowthen/elixir_authorization_tutorial)
 
 ### ELIXIR - AVIA
 
@@ -679,10 +696,12 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - DEBUGGING
 
 * [How to Use IEx.pry in Elixir Tests - Adam Delong](https://adamdelong.com/iex-pry-test/)
+* [Debugging Live Systems on the BEAM - Jeffery Utter (ElixirConf 2020)](https://www.youtube.com/watch?v=sR9h3DZAA74)
 * [Debugging & Tracing Elixir Applications - Dimitris Zorbas](https://zorbash.com/post/debugging-elixir-applications/)
 * [Debugging - Elixir-lang.org](https://elixir-lang.org/getting-started/debugging.html)
 * [Debugging techniques in Elixir - Erich Kist](http://blog.plataformatec.com.br/2016/04/debugging-techniques-in-elixir-lang/)
-* Credo: [Website](http://credo-ci.org/) | [Github](https://github.com/rrrene/credo) | [Credo: A static code analysis tool for the Elixir language with a focus on code consistency and teaching - René Föhring](https://github.com/rrrene/credo)
+* [Rexbug: thin Elixir wrapper for the redbug Erlang tracing debugger](https://github.com/nietaki/rexbug) | [Docs](https://hexdocs.pm/rexbug/readme.html)
+* Credo: [Website](http://credo-ci.org/) | [Github](https://github.com/rrrene/credo) | [Credo: A static code analysis tool for the Elixir language with a focus on code consistency and teaching - René Föhring](https://github.com/rrrene/credo) | [Credo: Your Team's Robot Mentor - René Föhring (CodeBEAM Lite Amsterdam 2019)](https://www.youtube.com/watch?v=pTDJZ3O_v6E)
 * [Elixir Bug Hunting! - José Valim](https://www.twitch.tv/videos/334900348)
 
 #### ELIXIR - DEBUGGING - PRY
@@ -734,6 +753,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ELIXIR - DEPLOYMENT - BAKEWARE
 
 * [Bakeware: Compile Elixir apps into single, easily distributed executable binaries](https://github.com/spawnfest/bakeware) | [Examples](https://github.com/spawnfest/bakeware/blob/main/examples/README.md)
+* [Compile Elixir applications into single executable binaries, with Bakeware - Alvise Susmel](https://www.poeticoding.com/compile-elixir-applications-into-single-executable-binaries-with-bakeware/)
 
 #### ELIXIR - DEPLOYMENT - BOOTLEG
 
@@ -754,6 +774,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ExCluster: Clustered Elixir OTP application on Kubernetes with Horde and LibCluster - Dollar Shave Club](https://github.com/dollarshaveclub/ex_cluster)
 * [Elixir OTP applications on Kubernetes - Chirag Singh Toor](https://engineering.dollarshaveclub.com/elixir-otp-applications-on-kubernetes-9944636b8609)
 * [Connecting Elixir Nodes with libcluster, locally and on Kubernetes - Alvise Susmel](https://www.poeticoding.com/connecting-elixir-nodes-with-libcluster-locally-and-on-kubernetes/)
+* [Going Multi Node - Eric Oestrich (ElixirConf 2018)](https://www.youtube.com/watch?v=lCUKQnkjajo)
 * [Cluster.Strategy.Kubernetes](https://hexdocs.pm/libcluster/Cluster.Strategy.Kubernetes.html)
 * [ClusterConsul.Strategy](https://github.com/arcz/libcluster_consul)
 * [What’s going on in libcluster? (Elixir library overview) - Joseph Rosztoczy](https://medium.com/@TehBrofessor/whats-going-on-in-libcluster-76f239f00d57)
@@ -945,6 +966,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [event_bus: Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS - Mustafa Turan](https://github.com/otobus/event_bus) & [event_bus_postgres: Postgres event store for event_bus](https://github.com/otobus/event_bus_postgres)
 * [Pachyderm - an elephant never forgets - Peter Saxton](https://github.com/CrowdHailer/event-sourcing.elixir)
 * [Elixir + CQRS - Architecting for Availability, Operability, and... - Jon Grieman (ElixirConf 2019)](https://www.youtube.com/watch?v=-d2NPc8cEnw)
+* [Event Sourcing in Real World Applications: Challenges, Successes, and Lessons Learned - James Smith (ElixirConf 2018)](https://www.youtube.com/watch?v=ESRjkG5f7wg)
 * Derek Kraan: [Event Sourcing in Elixir](https://tech.zilverline.com/2017/04/07/elixir_event_sourcing) & [Event Sourcing: Invariants spanning multiple aggregates](https://tech.zilverline.com/2017/04/21/event-sourcing-invariants-spanning-multiple-aggregates)
 * [CQRS with Elixir and Phoenix - Jean-François Cloutier](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
 * [Building beautiful systems with Phoenix contexts - Andrew Hao (ElixirDaze 2018)](https://www.youtube.com/watch?v=l3VgbSgo71E) & [Built to last: A domain-driven approach to beautiful systems - Andrew Hao](https://www.youtube.com/watch?v=52qChRS4M0Y)
@@ -1204,6 +1226,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - PERFORMANCE
 
 * [Building A Highly Scalable Service that Survived A Super Bowl - Keith Elder (Code BEAM SF 2019)](https://www.youtube.com/watch?v=lXiiiLhwBI4)
+* [The Road to 2 Million Websocket Connections in Phoenix - Gary Rennie](https://www.phoenixframework.org/blog/the-road-to-2-million-websocket-connections)
 * [What's Inside a Reduction? - Devon Estes](http://devonestes.com/inside-a-reduction)
 * [Monitoring Production Elixir Applications - John Kelly (EMPEX 2017)](https://www.youtube.com/watch?v=nIRGF61_Go8)
 * [Measuring your Elixir Application - Renan Ranelli (ElixirConf 2016)](https://www.youtube.com/watch?v=3KhzyDDju0Q) | [Blog post: "A guide to measuring your Elixir app](http://milhouseonsoftware.com/2016/05/08/measuring-your-elixir-application/)
@@ -1283,9 +1306,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [comeonin: Password hashing library - David Whitlock](https://github.com/riverrun/comeonin)
 * [coherence](https://github.com/smpallen99/coherence)
 * [canada](https://github.com/jarednorman/canada)
-* [phauxth](https://github.com/riverrun/phauxth)
+* [dictator](https://github.com/subvisual/dictator)
 * [doorman: Tools to make Plug, and Phoenix authentication simple and flexible - Blake Williams](https://github.com/BlakeWilliams/doorman)
+* [phauxth](https://github.com/riverrun/phauxth)
 * [policy_wonk: Elixir authorization and resource loading in Plug form for Phoenix - Boyd Multerer](https://github.com/boydm/policy_wonk)
+* [Authorization in Phoenix web applications using Role Based Access Control (RBAC) - KnowThen.com](https://www.youtube.com/watch?v=6TlcVk-1Tpc) & [Git repo](https://github.com/knowthen/elixir_authorization_tutorial)
 * [User Authentication with Guardian for Phoenix 1.3 Web Apps - Meraj](https://itnext.io/user-authentication-with-guardian-for-phoenix-1-3-web-apps-e2064cac0ec1)
 * [JWT Auth in Phoenix with Joken - Sophie DeBenedetto](https://medium.com/flatiron-labs/jwt-auth-in-phoenix-with-joken-e72df1b9fbb5)
 * JWT Auth with an Elixir on Phoenix 1.3 API and React Native, Nick West: [Part I: Phoenix JWT API](https://medium.com/@njwest/jwt-auth-with-an-elixir-on-phoenix-1-3-guardian-api-and-react-native-mobile-app-1bd00559ea51) | [Part II: Building a React Native JWT Client](https://medium.com/@njwest/building-a-react-native-jwt-client-efacf78b9364) | [Part III: Building a React Native JWT Client: API Requests and AsyncStorage](https://medium.com/@njwest/building-a-react-native-jwt-client-api-requests-and-asyncstorage-d1a20ab60cf4)
@@ -1340,6 +1365,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ELIXIR - PHOENIX - JAVASCRIPT/TYPESCRIPT
 
+* [Page-Specific JavaScript with LiveView and Webpack - Bruce Park](https://dockyard.com/blog/2020/09/24/page-specific-javascript-with-liveview-and-webpack)
 * [Elixir Phoenix with Typescript and React – December 2019 Edition - Alistair A. Israel](https://dev.to/aisrael/elixir-phoenix-with-typescript-and-react-december-2019-edition-39l4)
 * [Set Up Phoenix with Svelte+Rollup - Joshua Nussbaum](https://dev.to/joshnuss/setup-phoenix-with-svelte-rollup-36dk)
 * [elixir-svelte-render - Ben Woodward](https://github.com/benwoodward/elixir_svelte_render)
@@ -1347,6 +1373,7 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ELIXIR - PHOENIX - JSON
 
 * [Awesome Elixir: JSON](https://github.com/h4cc/awesome-elixir#json)
+* [Yet Another Guide To Build a JSON API with Phoenix 1.5 - Tamas Soos](https://www.poeticoding.com/another-guide-to-build-a-json-api-with-phoenix-1-5/)
 * A Phoenix and Elixir REST API - Bill Peregoy: [Part 1](https://becoming-functional.com/building-a-rest-api-with-phoenix-and-elixir-b12dcec302c5) | [Part 2](https://becoming-functional.com/a-phoenix-and-elixir-rest-api-part-2-dc00e8b73c9d)
 * [Building and testing a Phoenix JSON API - Paul Smith (Thoughtbot)](https://robots.thoughtbot.com/building-a-phoenix-json-api)
 
@@ -1397,11 +1424,11 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Phoenix LiveComponent - Elixir's React + Redux? - David Raffauf](https://www.youtube.com/watch?v=bhdeHhwDFQo)
 * [LiveView Design Patterns - LiveComponent and the Single Responsibility Principle - Sophie DeBenedetto](https://elixirschool.com/blog/live-view-live-component/)
 
-##### ELIXIR - PHOENIX - LIVE VIEW - LIVE VIEW DASHBOARD
+##### ELIXIR - PHOENIX - LIVE VIEW - LIVE DASHBOARD
 
 * Phoenix Live Dashboard: [Github](https://github.com/phoenixframework/phoenix_live_dashboard) | [Docs](https://hexdocs.pm/phoenix_live_dashboard/Phoenix.LiveDashboard.html)
 * Live Dashboard Metrics: [Docs](https://hexdocs.pm/phoenix_live_dashboard/metrics.html)
-* [Instrumenting Phoenix with Telemetry and LiveDashboard - Sophie DeBenedetto](https://elixirschool.com/blog/instrumenting-phoenix-with-live-dashboard/)
+* Instrumenting Phoenix 1.5 with Telemetry and LiveDashboard - Sophie DeBenedetto: [ElixirConf 2020](https://www.youtube.com/watch?v=6GT0UwIVkQI) | [Elixir School blog](https://elixirschool.com/blog/instrumenting-phoenix-with-live-dashboard/)
 * [Phoenix LiveView Dashboard - Plangora](https://www.youtube.com/watch?v=Nqr5ly35tu8)
 * [Phoenix LiveView Dashboard Metrics - Plangora](https://www.youtube.com/watch?v=ZrgtOp-wS0w)
 
@@ -1409,6 +1436,10 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [Surface: server-side rendering component library for Phoenix](http://surface-demo.msaraiva.io/getting_started)
 * [Surface UI: Getting started](http://surface-demo.msaraiva.io/getting_started)
+
+##### ELIXIR - PHOENIX - LIVE VIEW - TESTING
+
+* [Testing LiveView - German Valasco (ElixirConf 2020)](https://www.youtube.com/watch?v=h8NURVLysrk)
 
 #### ELIXIR - PHOENIX - PERFORMANCE
 
@@ -1442,6 +1473,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ELIXIR - PHOENIX - TESTING
 
+* [PhoenixIntegration: Lightweight server side integration test tools for Phoenix - Boyd Multerer](https://github.com/boydm/phoenix_integration)
 * [ExUnit Deep Dive - Daniel Serrano](https://dnlserrano.dev/2019/05/26/exunit-deep-dive.html)
 * [How to do Outside-In TDD with Phoenix - Yiming Chen](https://dsdshcym.github.io/blog/2018/08/04/how-to-do-outside-in-tdd-with-phoenix/)
 * [End-to-end Testing in Elixir with Hound - Maciej Woźniak](https://semaphoreci.com/community/tutorials/end-to-end-testing-in-elixir-with-hound)
@@ -1610,6 +1642,11 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Bypass: create custom plug usable instead of an actual HTTP server to return prebaked responses to client requests - PSPDFKit](https://github.com/PSPDFKit-labs/bypass)
 * [Bypass - Elixir School](https://elixirschool.com/en/lessons/libraries/bypass/)
 
+#### ELIXIR - TESTING - FLOW ASSERTIONS
+
+* [Flow Assertions: Make tests easier to scan by capturing frequently-used assertions in functions that can be used in a pipeline - Brian Marick](https://github.com/marick/flow_assertions)
+* [Ecto Flow Assertions - Brian Marick](https://github.com/marick/ecto_flow_assertions)
+
 #### ELIXIR - TESTING - HOUND
 
 * [UI Testing is Ruff; Hound Can Help - Vanessa Lee (ElixirConf 2019)](https://www.youtube.com/watch?v=5J5qyP6FOcI)
@@ -1628,8 +1665,14 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [Mock: Elixir mocking library](https://github.com/jjh42/mock)
 
+#### ELIXIR - TESTING - MOCKERY
+
+* Mockery: mocking library for asynchronous testing: [Github](https://github.com/appunite/mockery) | [Hex.pm](https://hex.pm/packages/mockery) | [Docs](https://hexdocs.pm/mockery/readme.html)
+
 #### ELIXIR - TESTING - MOX
 
+* Mox: Mocks & explicit contracts: [Github](https://github.com/dashbitco/mox) | [Docs](https://hexdocs.pm/mox/Mox.html)
+* [Mocks and explicit contracts - José Valim](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
 * [Functional Mocks with Mox in Elixir - Andrew Hao](https://blog.carbonfive.com/2018/01/16/functional-mocks-with-mox-in-elixir/)
 
 #### ELIXIR - TESTING - PROPERTY-BASED TESTING
@@ -1832,6 +1875,11 @@ Consequently, much of the following will soon be at least partially outdated:
 * Ranch: [Github](https://github.com/ninenines/ranch)
 * [Cowboy architecture and execution flow - Andrew Volozhanin](https://scarfacedeb.me/posts/cowboy-architecture/)
 
+### ERLANG - DEBUGGING
+
+* Recon: [recon](https://ferd.github.io/recon/recon.html) | [recon_alloc](https://ferd.github.io/recon/recon_alloc.html) | [recon_lib](https://ferd.github.io/recon/recon_lib.html) | [recon_map](https://ferd.github.io/recon/recon_map.html) | [recon_rec](https://ferd.github.io/recon/recon_rec.html) | [recon_trace](https://ferd.github.io/recon/recon_trace.html)
+* [redbug: Erlang tracing debugger](https://github.com/massemanet/redbug) | [Hex.pm](https://hex.pm/packages/redbug) | [Docs](https://hexdocs.pm/redbug/)
+
 ### ERLANG - DEPLOYMENT
 
 #### ERLANG - DEPLOYMENT - AWS
@@ -1937,6 +1985,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ERLANG - LUMEN
 
+* [GetLumen.org: Project to make a compiler that can compile Erlang/Elixir and other BEAM languages to different environments rather than run on a virtual machine](https://getlumen.org/)
 * [Lumen: Alternative BEAM implementation, designed for WebAssembly (implemented in Rust)](https://github.com/lumen/lumen)
 
 ### ERLANG - MNESIA
@@ -2069,6 +2118,7 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ERLANG - TRACING
 
 * [Do not guess, Trace - Kacper Mentel (RabbitMQ Summit 2019)](https://www.cloudamqp.com/blog/2019-12-10-do-not-guess-trace.html)
+* [Erlang trace files in Wireshark - Magnus Henoch](https://www.erlang-solutions.com/blog/erlang-trace-files-in-wireshark.html)
 
 #### ERLANG - TRACING - EFLAME
 
@@ -2076,7 +2126,6 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ERLANG - TRACING - RECON
 
-* Recon module docs: [recon](https://ferd.github.io/recon/recon.html) | [recon_alloc](https://ferd.github.io/recon/recon_alloc.html) | [recon_lib](https://ferd.github.io/recon/recon_lib.html) | [recon_map](https://ferd.github.io/recon/recon_map.html) | [recon_rec](https://ferd.github.io/recon/recon_rec.html) | [recon_trace](https://ferd.github.io/recon/recon_trace.html)
 * Recon [Github](https://github.com/ferd/recon)
 * [Stuff Goes Bad: Erlang in Anger - Fred Hebert](https://www.erlang-in-anger.com/) | [PDF](https://s3.us-east-2.amazonaws.com/ferd.erlang-in-anger/text.v1.1.0.pdf)
 
@@ -2113,6 +2162,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Documentation](https://gleam.run/documentation/) [Std library docs](https://hexdocs.pm/gleam_stdlib/) | [FAQ](https://gleam.run/frequently-asked-questions/) | [Github](https://github.com/gleam-lang)
 * [The Gleam Book](https://gleam.run/book/tour/)
 * [Gleam: Lean BEAM typing machine - Louis Pilfold (Code BEAM V 2020)](https://www.youtube.com/watch?v=ceynSTa1dV4)
+* [Type-Safe LiveView with Gleam (ElixirConf 2020)](https://www.youtube.com/watch?v=UCIcJBM_YDw)
 * [Using Gleam's 'try' syntax - Michael Jones](https://www.youtube.com/watch?v=3eZBagFSDiY)
 * [Awesome Gleam](https://github.com/gleam-lang/awesome-gleam)
 
