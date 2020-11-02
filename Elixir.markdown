@@ -6,10 +6,15 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Jump to Alpaca](#alpaca)
 * [Jump to BEAM](#beam)
+* [Jump to Clojerl](#clojerl)
 * [Jump to Elixir](#elixir)
 * [Jump to Erlang](#erlang)
+* [Jump to Erlog](#erlog)
 * [Jump to Gleam](#gleam)
 * [Jump to Hamler](#hamler)
+* [Jump to Joxa](#joxa)
+* [Jump to LFE (Lisp-Flavoured Erlang)](#lfe)
+* [Jump to Luerl (Lua in Erlang)](#luerl)
 * [Jump to Purerl](#purerl)
 
 ## CONVERTING BETWEEN ELIXIR & ERLANG
@@ -19,10 +24,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [It's Time to Embrace Erlang - Todd Resudek (CodeBEAM SF 2020)](https://www.youtube.com/watch?v=Gt6tough35c)
 * [Why do Erlang Modules Look Like Atoms in Elixir - Tyler Pachal](https://medium.com/@tylerpachal/why-do-erlang-modules-look-like-atoms-in-elixir-9fb2f964dd2b)
 * ExToErl - Convert Elixir expressions into Erlang: [Docs](https://hexdocs.pm/ex_to_erl/ExToErl.html) | [Github](https://github.com/tmbb/ex_to_erl)
-
-## CONVERTING BETWEEN ERLANG & GLEAM
-
-* [Gleam for Erlang users](https://gleam.run/cheatsheets/gleam-for-erlang-users/)
 
 ## ERLANG ECOSYSTEM FOUNDATION (EEF)
 
@@ -45,6 +46,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [JVM struggles and the BEAM - Joel Kemp](https://medium.com/@mrjoelkemp/jvm-struggles-and-the-beam-4d9c58547410)
 * [BEAMJIT: The journey - Lukas Larsson (Code BEAM V 2020)](https://www.youtube.com/watch?v=Qz7OCAoiB7Q)
 * [JIT Compiler for Erlang OTP - Lukas Larsson (Code BEAM V 2020)](https://www.youtube.com/watch?v=lM7UV95Rpyo)
+
+## CLOJERL
+
+* Clojerl: Clojure for the Erlang VM: [Clojerl.org](http://clojerl.org/) | [Github](https://github.com/clojerl/clojerl) | [Twitter](https://twitter.com/clojerl)
 
 ## ELIXIR
 
@@ -541,7 +546,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How Cisco is using Erlang for intent-based networking - Johan Bevemyr (Code BEAM STO 2018)](https://codesync.global/media/https-youtu-be-077-xjv6plq/) (slide says "90% of all Internet traffic goes through Erlang controlled nodes" & "Cisco is shipping about 2M devices per year with Erlang in them")
 * [Erlang celebrates 20 years as open source - Ericsson.com](https://www.ericsson.com/en/news/2018/5/erlang-celebrates-20-years-as-open-source)
 * [Successful Companies Use Erlang and Elixir -  Code Sync](https://codesync.global/media/successful-companies-using-elixir-and-erlang/)
-* [Why WhatsApp Only Needs 50 Engineers for Its 900M Users - Cade Metz, "Wired," September 2015](https://www.wired.com/2015/09/whatsapp-serves-900-million-users-50-engineers/)
+* [Why WhatsApp Only Needs 50 Engineers for Its 900M Users - Cade Metz, "Wired," September 2015](https://www.wired.com/2015/09/whatsapp-serves-900-million-users-50-engineers/) | [Scaling Erlang cluster to 10,000 nodes - Maxim Federov (Code Mesh LDN 18)](https://www.youtube.com/watch?v=FJQyv26tFZ8) | [How WhatsApp moved 1.5B users across data centers - Igor Istocniks (Code BEAM SF 19)](https://www.youtube.com/watch?v=93MA0VUWP9w)
 * [Using Rust to Scale Elixir for 11 Million Concurrent Users (at Discord) - Matt Nowack](https://blog.discord.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3)
 * [Riot  Messaging Service](https://technology.riotgames.com/news/riot-messaging-service)
 
@@ -1622,6 +1627,9 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - TELEMETRY
 
+* [OpenTelemetry Erlang SDK](https://github.com/open-telemetry/opentelemetry-erlang) | [OpenTelemetry SDK - Hex.pm](https://hex.pm/packages/opentelemetry) | [OpenTelemetry API - Hex.pm](https://hex.pm/packages/opentelemetry_api)
+* [Demystifying distributed tracing in Elixir via Open-Telemetry, Zipkin, and Elastic Search - coding-guy](https://guycoding.medium.com/demystifying-distributed-tracing-in-elixir-via-open-telemetry-zipkin-and-elastic-search-1876c254162d)
+* Zipkin - Distributed Tracing: [OpenTelemetry: Zipkin](https://github.com/opentelemetry-beam/opentelemetry_zipkin) | [Zipkin.io](https://zipkin.io/) | [Github](https://github.com/openzipkin/zipkin) | [Twitter](https://twitter.com/zipkinproject)
 * Telemetry: [Github](https://github.com/beam-telemetry/telemetry)
 * [Introducing Telemetry - Arkadiusz Gil](https://www.erlang-solutions.com/blog/introducing-telemetry.html)
 * Instrumenting Phoenix with Telemetry - Sophie DeBenedetto: [Part I: Telemetry Under The Hood](https://elixirschool.com/blog/instrumenting-phoenix-with-telemetry-part-one/)
@@ -1742,6 +1750,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * The Big Elixir: [2019](https://www.youtube.com/playlist?list=PLaiqDZ6yySzjdDOXli7VcQw7a0wuJZfz1) | [2018](https://www.youtube.com/channel/UCInJUDVff2bzZSrkDRUCOdA)
 * Git City Elixir: [2019](https://www.youtube.com/playlist?list=PLKBMoE8mCkXgXIHTEw9073T4HdNPrvXuw)
 * ElixirConf: [2019](https://www.youtube.com/playlist?list=PLqj39LCvnOWYTNs1n3ZNMSNO3Svv_XweT) | [2019 EU](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtoiQC735NjHyPJUS_nmrxy) | [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
+* Meetups: [Elixir Berlin](https://www.youtube.com/channel/UC33mS5dbme8Hh_79YHVSibQ)
 * Lonestar ElixirConf: [2019](https://www.youtube.com/playlist?list=PLGqeEOaC5KsRisF-GUlgJh35EowwzMYoS) | [2018](https://www.youtube.com/playlist?list=PLGqeEOaC5KsQt7r8KCOzfDgcqsvy_-hCN) | [2017](http://confreaks.tv/events/lonestarelixir2017)
 * EMPEX: [2019 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapyHWNFBapGOz40efbJuwmx2) | [2018 NYC](https://www.youtube.com/playlist?list=PLyO-58-sOapw81dCfjDrX5TuYxS5S8qMq) | [2018 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapy9Fs4Sd-HOeQIFwrSCQ3z1) | [2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS) | [2016](https://www.youtube.com/playlist?list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
 * [SmartLogic Elixir LiveStream Archive](https://www.youtube.com/playlist?list=PLCv-QRhbg07HUmxY9maIWVG9868MCIiXX)
@@ -1842,6 +1851,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [The Soul of Erlang and Elixir - Saša Jurić (GOTO Chicago 2019)](https://www.youtube.com/watch?v=JvBT4XBdoUE) & [Reaping the Benefits of Elixir: How to Get Started - Saša Jurić & Erik Schön (GOTO 2020)](https://www.youtube.com/watch?v=-bCkha6U70o)
 * [Comparing common concurrency patterns in Elixir and Erlang - Devon Estes (Lambda Days 2020)](https://www.youtube.com/watch?v=GVSRi9Ki8d8) | (A Pattern Language for Parallel Application Programming - Berna L. Massingill, Timothy G. Mattson, Beverly A. Sanders)[https://www.cise.ufl.edu/research/ParallelPatterns/PatternLanguage/Background/PDSE99_long.htm]
+* [Unique resiliency of the Erlang VM, the BEAM and Erlang OTP - Irina Guberman (Code Beam SF 2020)](https://www.youtube.com/watch?v=Slf2PCC41tg)
 * [The BEAM Coding Paradigm - Kenji Rikitake (Code BEAM STO 2019)](https://www.youtube.com/watch?v=_KXHE6ULnww)
 * [Getting Core Erlang from Elixir - Andrew Volozhanin](https://scarfacedeb.me/posts/core-erlang-from-elixir/)
 * [So I used Erlang...is my system as scalable as they say it'd be? - Laura Castro (Lambda World 2019)](https://www.youtube.com/watch?v=O_DIoKqoW8I)
@@ -2157,12 +2167,17 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Erlang User's Guide: Xref - The Cross Reference Tool](http://erlang.org/doc/apps/tools/xref_chapter.html)
 * [Removing Erlang dead code with Xref - Brujo Benavides](https://tech.nextroll.com/blog/dev/2018/10/09/remove-erlang-dead-code-xref.html)
 
+## ERLOG
+
+* Erlog: Prolog interpreter in and for Erlang: [Github](https://github.com/rvirding/erlog)
+
 ## GLEAM
 
-* [Documentation](https://gleam.run/documentation/) [Std library docs](https://hexdocs.pm/gleam_stdlib/) | [FAQ](https://gleam.run/frequently-asked-questions/) | [Github](https://github.com/gleam-lang)
+* [Gleam.run](https://gleam.run/) | [Documentation](https://gleam.run/documentation/) [Std library docs](https://hexdocs.pm/gleam_stdlib/) | [FAQ](https://gleam.run/frequently-asked-questions/) | [Github](https://github.com/gleam-lang)
 * [The Gleam Book](https://gleam.run/book/tour/)
 * [Gleam: Lean BEAM typing machine - Louis Pilfold (Code BEAM V 2020)](https://www.youtube.com/watch?v=ceynSTa1dV4)
-* [Type-Safe LiveView with Gleam (ElixirConf 2020)](https://www.youtube.com/watch?v=UCIcJBM_YDw)
+* [Gleam Talk - Shayne Tremblay (Denver Elixir Meetup - July 2020)](https://www.youtube.com/watch?v=qC9RhcWzKdE)
+* [Type-Safe LiveView with Gleam - Quinn Wilton (ElixirConf 2020)](https://www.youtube.com/watch?v=UCIcJBM_YDw)
 * [Using Gleam's 'try' syntax - Michael Jones](https://www.youtube.com/watch?v=3eZBagFSDiY)
 * [Awesome Gleam](https://github.com/gleam-lang/awesome-gleam)
 
@@ -2170,13 +2185,38 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [Mixing Gleam & Elixir - Michael Jones](https://dev.to/contact-stack/mixing-gleam-elixir-3fe3)
 
+### GLEAM - ERLANG
+
+* [Gleam for Erlang users](https://gleam.run/cheatsheets/gleam-for-erlang-users/)
+
+### GLEAM - OTP
+
+* Gleam OTP: [Github](https://github.com/gleam-lang/otp)
+
 ### GLEAM - LIBRARIES
 
-* [Midas: Web framework written in Gleam](https://github.com/midas-framework/midas)
+* [Midas: Web framework](https://github.com/midas-framework/midas)
 
 ## HAMLER
 
 * Hamler: Haskell-style FP language running on the Erlang VM: [hamler-lang.org](https://www.hamler-lang.org/) | [Cheatsheet](https://github.com/hamler-lang/documentation/blob/master/Cheatsheet.md) | [Guides](https://github.com/hamler-lang/documentation/tree/master/guides/) | [FAQ](https://github.com/hamler-lang/documentation/blob/master/FAQ.md) | [Github](https://github.com/hamler-lang/hamler)
+
+## JOXA
+
+* [Joxa.org](http://joxa.org/) | [Docs](http://docs.joxa.org/en/latest/) | [Github](https://github.com/joxa/joxa)
+
+## LFE
+
+* [LFE.io](https://lfe.io/)
+* [The LFE Tutorial](https://lfe.io/books/tutorial/)
+* [LFE Quick Start with rebar3_lfe - Duncan McGreggor](https://lfe.io/books/rebar3-quick-start/)
+* [Casting SPELs in LFE - Conrad Barski, M.D. & Duncan McGreggor](https://lfe.io/books/casting-spels/)
+* [Command Reference rebar3_lfe](https://lfe.io/reference/lfe-rebar3/current/)
+* [Structure and Interpretation of Computer Programs (SICP): The LFE Edition - Harold Abelson, Gerald Jay Sussman, Julie Sussman, and Duncan McGreggor](https://lfe.io/books/sicp/)
+
+## LUERL
+
+* [Luerl.org](https://luerl.org/) | [Github](https://github.com/rvirding/luerl)
 
 ## PURERL
 

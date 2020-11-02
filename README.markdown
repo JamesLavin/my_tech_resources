@@ -3275,6 +3275,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ## FUNCTIONAL PROGRAMMING
 
+* [Science of Functional Programming - Sergei Winitzki](https://github.com/winitzki/sofp)
 * [Practical Functional Programming - Jeremy Fairbank (Lambda Squared 2018)](https://www.youtube.com/watch?v=I_uIXgSmkDo) | [Slides (from 2019 version of same talk)](https://speakerdeck.com/jfairbank/connect-dot-tech-2019-practical-functional-programming)
 * [FP to the Max - John De Goes (Fun(c) 2018.7)](https://www.youtube.com/watch?v=sxudIMiOo68)
 * Introduction to FP Using Haskell - Tony Morris (λC 2018): [Part 1](https://www.youtube.com/watch?v=K1UjjcdBYp0) | [Part 2](https://www.youtube.com/watch?v=Jpt5eLHeZC4)
