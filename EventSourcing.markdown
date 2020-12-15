@@ -37,6 +37,7 @@ Links to event sourcing, CQRS, DDD, and microservices resources I have found use
 * [Reactive Microservices Architecture (Jonas Bonér) (free book from O'Reilly)](http://www.oreilly.com/programming/free/reactive-microservices-architecture-orm.csp)
 * [The evolution of scalable microservices - Jonas Bonér](https://www.oreilly.com/ideas/the-evolution-of-scalable-microservices)
 * [The Many Meanings of Event-Driven Architecture - Martin Fowler (GOTO Chicago 2017)](https://www.youtube.com/watch?v=STKCRSUsyP0)
+* [When To Use Microservices (And When Not To!) - Sam Newman & Martin Fowler (GOTO 2020)](https://www.youtube.com/watch?v=GBTdnfD6s5Q&list=PLEx5khR4g7PJbSLmADahf0LOpTLifiCra&index=5)
 * [CQRS and an Event Sourcing Architecture With Spring - Eugen Paraschiv (VoxxedDays Bucharest 2016)](https://www.youtube.com/watch?v=bVnjI0XOA9w)
 * [Microservices Data Patterns: CQRS & Event Sourcing - Edson Yanaga (Devoxx Belgium 2017)](https://www.youtube.com/watch?v=eyf2Fs7GBo0)
 * [Implementing event-sourced microservices - Rafael Winterhalter (Jfokus 2019)](https://www.youtube.com/watch?v=HM9EgmxX0Ns)

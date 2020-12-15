@@ -31,11 +31,21 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Update from the Erlang Ecosystem Foundation working groups - Sebastian Strollo (Code BEAM V 2020)](https://www.youtube.com/watch?v=Lt4MuMYtPLA)
 * [Introducing the Erlang Ecosystem Foundation (Code BEAM SF 19)](https://www.youtube.com/watch?v=mw3KnG894Sw)
 
+## SYSTEM DESIGN, OPERATION, & RELIABILITY
+
+* [Operable Erlang and Elixir - Fred Hebert (Code BEAM SF 19)](https://www.youtube.com/watch?v=OR2Gc6_Le2U)
+* [The Hitchhiker's Guide to the Unexpected - Fred Hebert (Code BEAM SF 2018)](https://www.youtube.com/watch?v=W0BR_tWZChQ)
+* [Mid-air airplane repair: Troubleshooting at WhatsApp - Maxim Fedorov (Code BEAM SF 19)](https://www.youtube.com/watch?v=xi-ixFPjNpc)
+
 ## ALPACA
 
 * [Alpaca: Functional programming inspired by ML for the Erlang VM](https://github.com/alpaca-lang/alpaca) (No commits since April 2019)
 
 ## BEAM
+
+### BEAM - COLLABORATION
+
+* [Unite And Conquer - Viktória Fördős, Laura M. Castro & Natalia Chechina (Code BEAM V 2020)](https://www.youtube.com/watch?v=DIZj_7hHLUg)
 
 ### BEAM - DSL FOR LANGUAGES
 
@@ -179,6 +189,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - 1.10
 
 * [Elixir v1.10 released](https://elixir-lang.org/blog/2020/01/27/elixir-v1-10-0-released/)
+* [Elixir Update - José Valim (Code BEAM V 2020)](https://www.youtube.com/watch?v=1NoX2tKMHcc)
 * [Changelog for Elixir 1.10](https://github.com/elixir-lang/elixir/blob/v1.10/CHANGELOG.md#changelog-for-elixir-v110)
     * "Requires Erlang/OTP 21+, allowing Elixir to integrate with Erlang/OTP's new :logger. The logger level, logger metadata, and all log messages are now shared between Erlang and Elixir APIs."
     * [`is_struct(term)`](https://hexdocs.pm/elixir/Kernel.html#is_struct/1)
@@ -631,6 +642,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - CLIENTS - HTTP CLIENTS
 
+* Finch: [Github](https://github.com/keathley/finch) | [Hexdocs.pm](https://hexdocs.pm/finch/Finch.html) | [The State of Elixir HTTP Clients - Alex Koutmos (Jul 2020)](https://blog.appsignal.com/2020/07/28/the-state-of-elixir-http-clients.html)
 * [Mint: Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2](https://github.com/ericmj/mint)
 * [Mojito: easy-to-use Elixir HTTP client, built on the low-level Mint library - Appcues.com](https://github.com/appcues/mojito)
 * httpoison: [Github](https://github.com/edgurgel/httpoison)
@@ -877,6 +889,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ecto: Database library for Elixir - Eric Meadows Jöhnson (Code Beam STO 2018)](https://www.youtube.com/watch?v=RT4p_g0SLUU)
 * [Embrace the Database With Ecto - Josh Branchaud (ElixirDaze 2017)](https://www.youtube.com/watch?v=fFqsMWmONN4)
 * Thinking in Ecto - Peter de Croos: [Part 1: Schemas and Changesets](http://cultofmetatron.io/2017/04/22/thinking-in-ecto---schemas-and-changesets/) | [Part 2: Queries and Relations](http://cultofmetatron.io/2017/04/25/thinking-in-ecto-part-2/)
+* [Understanding Associations in Elixir's Ecto - Andrew Scorpil (Nov 2020)](https://blog.appsignal.com/2020/11/10/understanding-associations-in-elixir-ecto.html)
 * [Ecto 2.1 Tip and Tricks - (Elixir Sydney)](https://www.youtube.com/watch?v=PGZ94AMMTPs)
 * [Ecto Without a Database - Greg Vaughn (Lonestar ElixirConf 2019)](https://www.youtube.com/watch?v=k_xDi7zAcNM)
 * [Things You Might Not Have Tried With Ecto - Luke Imhoff (Lonestar ElixirConf 2019)](https://www.youtube.com/watch?v=3EyDkiDzbj8)
@@ -953,8 +966,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - ETS
 
 * [Caching with Elixir and ETS - Elvio](https://blog.appsignal.com/2019/11/12/caching-with-elixir-and-ets.html)
+* [Taming :ets - Mike Binns (Lonestar Elixir 2020)](https://www.youtube.com/watch?v=ouWcrPMkdNw)
 * [Etso: ETS adapter, allowing you to use Ecto schemas with ETS tables - Evadne Wu](https://github.com/evadne/etso)
 * [Eternal: monitor an ETS table to ensure that it never dies](https://hexdocs.pm/eternal/readme.html#content)
+* [ETS Versus ElasticSearch for Queryable Caching - David Schainker (ElixirConf 2019)](https://www.youtube.com/watch?v=J38RpkA1580)
 * [Leveraging ETS Effectively - Evadne Wu (ElixirConf EU 2019)](https://www.youtube.com/watch?v=8mXqxBBvNdk)
 * [Taming :ets for High-Performance Software - Mike Binns](https://dockyard.com/blog/2019/03/07/taming-ets-for-high-performance-software) | [ets (Github)](https://github.com/TheFirstAvenger/ets) | [ets (Hex.pm)](https://hex.pm/packages/ets)
 * [An Introduction to ETS Tables in Elixir - Ilya Bodrov](https://code.tutsplus.com/articles/ets-tables-in-elixir--cms-29526<Paste>)
@@ -1004,6 +1019,7 @@ Links to resources I have found useful or think might be helpful to future me or
 #### ELIXIR - EVENT SOURCING/CQRS - SAGE
 
 * [Sage: dependency-free tool to run distributed transactions in Elixir, inspired by Sagas pattern - Andrew Dryga](https://github.com/Nebo15/sage)
+* [Sagas of Elixir - Andrew Dryga (Code BEAM STO)](https://www.youtube.com/watch?v=excmcS6Id2E)
 * [Introducing Sage: A Sagas pattern implementation in Elixir - Andrew Dryga](https://medium.com/nebo-15/introducing-sage-a-sagas-pattern-implementation-in-elixir-3ad499f236f6)
 
 #### ELIXIR - EVENT SOURCING/CQRS - SEVEN OTTERS
@@ -1108,6 +1124,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - LOGGING & MONITORING
 
 * Elixir's [Logger](https://hexdocs.pm/logger/Logger.html) module is fully integrated with Erlang's [:logger module](http://erlang.org/doc/man/logger.html), which was introduced with OTP 21.0. [Logger.Translator](https://hexdocs.pm/logger/Logger.Translator.html) can translate Erlang error messages into Elixir error messages. [Logger.Formatter](https://hexdocs.pm/logger/Logger.Formatter.html) can configure formatting. (For more on Erlang's `:logger`, see [Erlang/OTP 21's new logger](https://ferd.ca/erlang-otp-21-s-new-logger.html), [Logging](http://erlang.org/doc/apps/kernel/logger_chapter.html), and [Logger Cookbook](http://erlang.org/doc/apps/kernel/logger_cookbook.html) for more information about `:logger`).
+* [Capabilities of Elixir's Logger - Julio Sampaio (Oct 2020)](https://blog.appsignal.com/2020/10/13/capabilities-of-elixir-logger.html)
 * Awesome Elixir: [Logging](https://github.com/h4cc/awesome-elixir#logging) & [Instrumenting / Monitoring](https://github.com/h4cc/awesome-elixir#instrumenting--monitoring)
 * [Monitoring Your Elixir Application with Prometheus - Eric Oestrich (LoneStar Elixir 2019)](https://www.youtube.com/watch?v=ETUD9SaRCjY)
 * Stephen Bussey: [Instruments: Simple and Fast metrics for Elixir](https://github.com/discordapp/instruments) & [Elixir Probes - Replacing Elixometer](https://stephenbussey.com/2018/09/24/elixir-probes-replacing-elixometer.html)
@@ -1128,6 +1145,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Upside Down Dimension of Elixir - An Introduction to Metaprogramming - Nicholas J Henry (Montreal Elixir 2020)](https://www.youtube.com/watch?v=xj6yNzcGlEE)
 * [Metaprogramming Elixir - Chris McCord (NDC Oslo 2015)](https://vimeo.com/131643017)
 * [Mex: Elixir Shell helper for previewing macroexpansion - Luc Fueston](https://github.com/mrluc/mex)
+
+### ELIXIR - METRICS
+
+#### ELIXIR - METRICS - PROMETHEUS
+
+* [PromEx: Prometheus metrics collection library built on top of Telemetry with accompanying Grafana dashboards](https://github.com/akoutmos/prom_ex)
 
 ### ELIXIR - MIX
 
@@ -1330,6 +1353,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Using channels in Phoenix - Vitaly Tatarintsev](http://whatdidilearn.info/2018/03/04/using-channels-in-phoenix.html)
 * [Phoenix PubSub: Using Phoenix.PubSub to send messages across processes - Hubert Pompecki](https://www.pompecki.com/post/phoenix-pubsub/)
 * [Phoenix WebSockets Under a Microscope - Dimitris Zorbas](https://zorbash.com/post/phoenix-websockets-under-a-microscope/)
+* [Phoenix Realtime Chat Application - Channels, Presence, and Ecto Relations - Part 3 - Tensor Programming](https://www.youtube.com/watch?v=KAqUy3nsXfg)
 
 #### ELIXIR - PHOENIX - CONTEXTS
 
@@ -1387,6 +1411,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [LiveView](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html#content) | [LiveComponent](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html#content) | [LiveViewTest](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveViewTest.html#content) | [mix phx.gen.live](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Live.html)
 * [Build a real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5 - Chris McCord](https://www.youtube.com/watch?v=MZvmYaFkNJI)
 * [Phoenix LiveView course - PragmaticStudio.com](https://pragmaticstudio.com/phoenix-liveview) (Nicole and Mike have incredibly generously created a professional LiveView course and given it away absolutely FREE)
+* [GeoRacer - a real-time multiplayer mobile game in Elixir in 6 weeks - Zack Kayser and Beau Heubach (Code BEAM SF 2020)](https://www.youtube.com/watch?v=5DGUqcd-HWQ)
 * [Opening Keynote: Phoenix LiveView Uploads - Chris McCord (ElixirConf 2020)](https://www.youtube.com/watch?time_continue=2&v=QJkopba8yyE)
 * [What's new in LiveView - Chris McCord | ElixirConfEU Virtual 2020](https://www.youtube.com/watch?v=VU1JMg9AbLQ)
 * Phoenix Live View: [Documentation](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html) | [Github](https://github.com/phoenixframework/phoenix_live_view)
@@ -1402,6 +1427,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Real-time autosave with Phoenix LiveView - Janez Urevc](https://janezurevc.name/real-time-auto-save-phoenix-liveview)
 * Beyond LiveView: Real-Time Features with Phoenix LiveView, PubSub, Presence, and Channels - Sophie DeBenedetto: [(The Big Elixir 2019)](https://www.youtube.com/watch?v=yo8Y1SUGW1w) | [(ElixirConf 2019)](https://www.youtube.com/watch?v=AbNAuOQ8wBE)
 * [Walk-Through of Phoenix LiveView - Sophie DeBenedetto](https://elixirschool.com/blog/phoenix-live-view/)
+* [How to Create a Todo List with Phoenix LiveView (Updated for Phoenix 1.5) - Dennis Beatty](https://www.youtube.com/watch?v=xgz-HTot3R8) | [How to Create a Todo List with Phoenix LiveView - Dennis Beatty](https://dennisbeatty.com/how-to-create-a-todo-list-with-phoenix-liveview.html)
 * [Building a Table Sort UI with Live View's 'live_link' - Sophie DeBenedetto](https://elixirschool.com/blog/sorting-a-table-with-live-view-live-links/)
 * [Tracking Users in a Chat App with LiveView, PubSub Presence - Sophie DeBenedetto](https://elixirschool.com/blog/live-view-with-presence/)
 * [Phoenix LiveView Demystified - Alex Garibay (ElixirConf 2019)](https://www.youtube.com/watch?v=9eOo8hSbMAc)
@@ -1412,7 +1438,6 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Ecto Associations in Phoenix LiveView: One to Many - Dennis Beatty](https://dennisbeatty.com/2019/08/20/ecto-associations-in-phoenix-liveview-one-to-many.html)
 * [Phoenix LiveView Collection - Leandro Cesquini Pereira](https://medium.com/@leandrocesquini/phoenix-liveview-collection-8259f35ff2b0)
 * [Swapping React for Phoenix LiveView - Ed Ellson](https://medium.com/qixxit-development/swapping-react-for-phoenix-liveview-db6581f27a14)
-* [How to Create a Todo List with Phoenix LiveView - Dennis Beatty](https://dennisbeatty.com/2019/04/24/how-to-create-a-todo-list-with-phoenix-liveview.html)
 * [Concurrent ant farm with Elixir and Phoenix LiveView - Ricardo García Vega](http://codeloveandboards.com/blog/2019/03/28/concurrent-ant-farm-with-elixir-and-phoenix-liveview/) & [code](https://github.com/bigardone/phoenix-liveview-ant-farm)
 * [Flappy Phoenix - Richard Taylor](https://www.richt.co.uk/til/flappy-phoenix-live-view/)
 * [Phoenix Live View Example - Chris McCord](https://github.com/chrismccord/phoenix_live_view_example)
@@ -1512,6 +1537,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ELIXIR - PHOENIX - WEB SOCKETS
 
+* [Anatomy of a Real Time Elixir App - Steve Bussey (ElixirConfEU Virtual 2020)](https://www.youtube.com/watch?v=2WzpfCNNnn0)
 * [Writing an Evented WebSocket Client - Eric Oestrich](http://blog.oestrich.org/2018/11/writing-evented-websocket-client)
 * [The joy of React+Redux with Elixir/OTP - Nacho Martin](https://limenius.com/elixir-otp-react-redux/)
 * [Event Sourcing in React, Redux & Elixir — how we write fast, scalable, real-time apps at Rapport - Gary McAdam](https://medium.com/rapport-blog/event-sourcing-in-react-redux-elixir-how-we-write-fast-scalable-real-time-apps-at-rapport-4a26c3aa7529)
@@ -1596,6 +1622,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [scenic](https://github.com/boydm/scenic) | [scenic.new](https://github.com/boydm/scenic_new)
 * [Building a GameBoy emulator with Elixir and Scenic - Tonći Galić](https://2019.webcampzg.org/talks/building-a-gameboy-emulator-with-elixir-and-scenic/)
+* [Live Coding Pong in Scenic - Ju Liu](https://www.youtube.com/watch?v=feAW1AVzNwo)
 * [Natively Functional UI with Scenic - Boyd Multerer (Code BEAM STO 2019)](https://www.youtube.com/watch?v=dgllQmf5DXk)
 * [Introducing Scenic A Functional UI Framework - Boyd Multerer (ElixirConf 2018)](https://www.youtube.com/watch?v=1QNxLNMq3Uw)
 * [Live coding an Escher painting using Scenic - Ju Liu (ElixirConf EU 2019)](https://www.youtube.com/watch?v=sV5ValgY4ck)
@@ -1613,6 +1640,10 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Securing Elixir Applications - Bram Verburg (ElixirConfEU 2016)](https://www.youtube.com/watch?v=r0DuAse9tK8) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/078/original/Bram_Verburg_-_Securing_Elixir_Applications.pdf?1462946275)
 * [Paladin: JWT-based service to service protector for Elixir umbrella apps](https://github.com/opendoor-labs/paladin)
 
+### ELIXIR - SSL
+
+* [elixir-socket - wraps gen_tcp, gen_udp and gen_sctp, ssl and implements websockets and socks](https://github.com/meh/elixir-socket)
+
 ### ELIXIR - STREAMS
 
 * Alvise Susmel: [Elixir Streams to process large HTTP responses on the fly](https://www.poeticoding.com/elixir-streams-to-process-large-http-responses-on-the-fly/) & [Elixir Stream and large HTTP responses: processing text](https://www.poeticoding.com/elixir-stream-and-large-http-responses-processing-text/)
@@ -1627,12 +1658,13 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - TELEMETRY
 
-* [OpenTelemetry Erlang SDK](https://github.com/open-telemetry/opentelemetry-erlang) | [OpenTelemetry SDK - Hex.pm](https://hex.pm/packages/opentelemetry) | [OpenTelemetry API - Hex.pm](https://hex.pm/packages/opentelemetry_api)
-* [Demystifying distributed tracing in Elixir via Open-Telemetry, Zipkin, and Elastic Search - coding-guy](https://guycoding.medium.com/demystifying-distributed-tracing-in-elixir-via-open-telemetry-zipkin-and-elastic-search-1876c254162d)
-* Zipkin - Distributed Tracing: [OpenTelemetry: Zipkin](https://github.com/opentelemetry-beam/opentelemetry_zipkin) | [Zipkin.io](https://zipkin.io/) | [Github](https://github.com/openzipkin/zipkin) | [Twitter](https://twitter.com/zipkinproject)
 * Telemetry: [Github](https://github.com/beam-telemetry/telemetry)
 * [Introducing Telemetry - Arkadiusz Gil](https://www.erlang-solutions.com/blog/introducing-telemetry.html)
 * Instrumenting Phoenix with Telemetry - Sophie DeBenedetto: [Part I: Telemetry Under The Hood](https://elixirschool.com/blog/instrumenting-phoenix-with-telemetry-part-one/)
+* [Tips for Finch and Telemetry - Claudio Ortolina](https://claudio-ortolina.org/posts/tips-for-finch-and-telemetry/)
+* [OpenTelemetry Erlang SDK](https://github.com/open-telemetry/opentelemetry-erlang) | [OpenTelemetry SDK - Hex.pm](https://hex.pm/packages/opentelemetry) | [OpenTelemetry API - Hex.pm](https://hex.pm/packages/opentelemetry_api)
+* [Demystifying distributed tracing in Elixir via Open-Telemetry, Zipkin, and Elastic Search - coding-guy](https://guycoding.medium.com/demystifying-distributed-tracing-in-elixir-via-open-telemetry-zipkin-and-elastic-search-1876c254162d)
+* Zipkin - Distributed Tracing: [OpenTelemetry: Zipkin](https://github.com/opentelemetry-beam/opentelemetry_zipkin) | [Zipkin.io](https://zipkin.io/) | [Github](https://github.com/openzipkin/zipkin) | [Twitter](https://twitter.com/zipkinproject)
 
 ### ELIXIR - TESTING
 
@@ -1710,8 +1742,9 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ELIXIR - TYPES
 
 * [Typespecs - Elixir docs](http://elixir-lang.org/docs/stable/elixir/typespecs.html)
-* [ExContract: support for design by contract - JDUnity](https://github.com/JDUnity/ex_contract)
 * [norm: system for specifying the structure of data, usable for data validation and generation - Chris Keathley](https://github.com/keathley/norm)
+* [oath: design by contract - Chris Keathley](https://github.com/keathley/oath)
+* [ExContract: support for design by contract - JDUnity](https://github.com/JDUnity/ex_contract)
 * [Introduction to a type system: session types - Charlotte Lorelei de Oliveira (Code BEAM STO 19)](https://www.youtube.com/watch?v=cuOGyWVSeJs)
 * [Contracts for Building Reliable Systems - Chris Keathley (ElixirConf 2019)](https://www.youtube.com/watch?v=tpo3JUyVIjQ)
 * [Types On The BEAM - Gordon Guthrie](https://medium.com/@gordonguthrie/types-on-the-beam-2af8b1cb9be9)
@@ -1747,14 +1780,15 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - VIDEOS
 
+* ElixirConf EU: [EU Virtual October 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuqgpAyZVzeCoz6GQrQx9Xc) | [EU Virtual June 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuKXQqD64oZFss2fGERjKyK) | [2019 EU](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtoiQC735NjHyPJUS_nmrxy)
+* Code BEAM/Mesh: [V 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZ3c4NEvwvvvpOlEY2NrYQ) [SF 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zv85s835EGDeCIBYMipJKgL) | [Lite Amsterdam 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtHPqiRFH4nAJwbrfz04V_Q) | [CodeElixir LDN 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvvzEOmlqLUyrZdsW27w7zH) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Stockholm 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztq2fM3aGvXlj_jOfiopM2B) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Munich 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztyk61upvBMvVPbfTyfFgCE) | [Berlin 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs6eFJ9yx-jR7UShGGfPnY4) | [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
+* ElixirConf: [2019](https://www.youtube.com/playlist?list=PLqj39LCvnOWYTNs1n3ZNMSNO3Svv_XweT) | [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * The Big Elixir: [2019](https://www.youtube.com/playlist?list=PLaiqDZ6yySzjdDOXli7VcQw7a0wuJZfz1) | [2018](https://www.youtube.com/channel/UCInJUDVff2bzZSrkDRUCOdA)
 * Git City Elixir: [2019](https://www.youtube.com/playlist?list=PLKBMoE8mCkXgXIHTEw9073T4HdNPrvXuw)
-* ElixirConf: [2019](https://www.youtube.com/playlist?list=PLqj39LCvnOWYTNs1n3ZNMSNO3Svv_XweT) | [2019 EU](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtoiQC735NjHyPJUS_nmrxy) | [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * Meetups: [Elixir Berlin](https://www.youtube.com/channel/UC33mS5dbme8Hh_79YHVSibQ)
 * Lonestar ElixirConf: [2019](https://www.youtube.com/playlist?list=PLGqeEOaC5KsRisF-GUlgJh35EowwzMYoS) | [2018](https://www.youtube.com/playlist?list=PLGqeEOaC5KsQt7r8KCOzfDgcqsvy_-hCN) | [2017](http://confreaks.tv/events/lonestarelixir2017)
 * EMPEX: [2019 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapyHWNFBapGOz40efbJuwmx2) | [2018 NYC](https://www.youtube.com/playlist?list=PLyO-58-sOapw81dCfjDrX5TuYxS5S8qMq) | [2018 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapy9Fs4Sd-HOeQIFwrSCQ3z1) | [2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS) | [2016](https://www.youtube.com/playlist?list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
 * [SmartLogic Elixir LiveStream Archive](https://www.youtube.com/playlist?list=PLCv-QRhbg07HUmxY9maIWVG9868MCIiXX)
-* Code BEAM: [Stockholm 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztq2fM3aGvXlj_jOfiopM2B) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Munich 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztyk61upvBMvVPbfTyfFgCE) | [Berlin 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs6eFJ9yx-jR7UShGGfPnY4) | [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
 * Code Elixir LDN: [2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zu4zxnZXtCSOCvsUHtxTYIl) | [2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h8_H-hZKYjNLTl3UraSyQ7) | [2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ivlIjzcaHS9N_Swe_0hWj0)
 * [EveryElixirVideo.page](https://everyelixirvideo.page/)
 * ElixirDaze: [2018 (Youtube)](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYH_aU7H-ExE2jrA-60qxH3) | [2018 (Confreaks)](http://confreaks.tv/events/elixirdaze2018) | [2017](http://confreaks.tv/events/elixirdaze2017) | [2016 (Youtube)](https://www.youtube.com/watch?v=rbCb1KEkOSY&list=PLE7tQUdRKcya6djUzNtQQYiMdP4_juhHH) | [2016 (Confreaks)](http://confreaks.tv/events/elixirdaze2016)
@@ -1860,6 +1894,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * The Erlang Runtime System (a.k.a., The BEAM Book): [Github (source)](https://github.com/happi/theBeamBook) & [PDF](https://github.com/happi/theBeamBook/releases)
 * [How does fault tolerance work in Erlang? - Charlotte Lorelei Oliveira (Code BEAM Lite Munich 2018)](https://www.youtube.com/watch?v=kXphEiJ8RXQ)
 * [Hitchhiker's Tour of the BEAM - Robert Virding](https://www.youtube.com/watch?v=_Pwlvy3zz9M)
+* [Journey to the Center of the BEAM - Brian Mitchell (EMPEX 2016)](https://www.youtube.com/watch?v=_HQfS8efVeg)
 * [Inside memory management on the BEAM - Devon Estes (Code BEAM Lite Munich 2018)](https://www.youtube.com/watch?v=fAeLuZN7J6Y)
 * [A Brief History of the BEAM Compiler - Björn Gustavsson](http://blog.erlang.org/beam-compiler-history/)
 * Core Erlang - Björn Gustavsson: [By Example](http://blog.erlang.org/core-erlang-by-example/) | [Optimizations](http://blog.erlang.org/core-erlang-optimizations/) | [Wrap up](http://blog.erlang.org/core-erlang-wrapup/)
@@ -1877,6 +1912,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ERLANG - CONCURRENCY
 
+* [Life of an Erlang process - Roberto Aloi (LambdaCon 2016)](https://www.youtube.com/watch?v=Yh8kGIufdJ8)
 * [How Erlang got its name - Bjarne Däcker (Code BEAM STO 19)](https://www.youtube.com/watch?v=0ytatCDEGyc)
 
 ### ERLANG - COWBOY
@@ -1904,6 +1940,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Partisan: Flexible, TCP-based membership system for Erlang/Elixir](https://github.com/lasp-lang/partisan) & [Partisan: Enabling Cloud-Scale Erlang Applications - Christopher S. Meiklejohn & Heather Miller (PDF)](https://arxiv.org/pdf/1802.02652.pdf)
 * [Scaling Distributed Erlang - Zandra Norman (ElixirConfEu 2016)](https://www.youtube.com/watch?v=usEs3GPnZDg)
 * [Erlang distribution: going beyond the fully connected mesh - Peer Stritzinger & Adam Lindberg (Code BEAM STO 19)](https://www.youtube.com/watch?v=ZHacI06RWhU)
+* [A Tour Through the Distributed System Zoo - Mariano Guerra (Code BEAM SF 2018)](https://www.youtube.com/watch?v=L7OTjuCIZc0)
 
 ### ERLANG - DOCUMENTATION
 
@@ -2054,6 +2091,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [OTP 23 Highlights - Kenneth Lundin](http://blog.erlang.org/OTP-23-Highlights/)
 * [Release Notes](https://github.com/erlang/otp/releases/tag/OTP-23.0)
+* [OTP Team update - Kenneth Lundin (Code BEAM V 2020)](https://www.youtube.com/watch?v=cvrTutGZUso)
 
 ### ERLANG - OTP 22
 
@@ -2121,7 +2159,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ERLANG - TOOLS
 
-* [Erlang Language Server](https://erlang-ls.github.io/) & [VS Code extension](https://github.com/erlang-ls/vscode)
+* [Erlang Language Server](https://erlang-ls.github.io/) & [VS Code extension](https://github.com/erlang-ls/vscode) & [Boost your productivity with the Erlang Language Server - Roberto Aloi (Code BEAM V)](https://www.youtube.com/watch?v=aVC__xlUJ3s)
 * [10 Essential Erlang Tools for Erlang Developers - Brujo Benavides](https://www.pluralsight.com/guides/10-essential-erlang-tools-for-erlang-developers)
 * [From 10s to 1000s engineers - Anton Lavrik (Code BEAM V)](https://www.youtube.com/watch?v=RHnjPW4YOrs) | [Slides](https://codesync.global/uploads/media/activity_slides/0001/03/f2292f201aa6b04db8c4e0b9cfa191dd07c9ee14.pdf)
 
@@ -2177,7 +2215,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [The Gleam Book](https://gleam.run/book/tour/)
 * [Gleam: Lean BEAM typing machine - Louis Pilfold (Code BEAM V 2020)](https://www.youtube.com/watch?v=ceynSTa1dV4)
 * [Gleam Talk - Shayne Tremblay (Denver Elixir Meetup - July 2020)](https://www.youtube.com/watch?v=qC9RhcWzKdE)
-* [Type-Safe LiveView with Gleam - Quinn Wilton (ElixirConf 2020)](https://www.youtube.com/watch?v=UCIcJBM_YDw)
+* [Type-Safe LiveView with Gleam - Quinn Wilton (ElixirConf 2020)](https://www.youtube.com/watch?v=UCIcJBM_YDw) | [gleam-chip8 (Github)](https://github.com/QuinnWilton/gleam-chip8)
 * [Using Gleam's 'try' syntax - Michael Jones](https://www.youtube.com/watch?v=3eZBagFSDiY)
 * [Awesome Gleam](https://github.com/gleam-lang/awesome-gleam)
 

@@ -236,6 +236,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Exploring Transfer Learning with T5: the Text-To-Text Transfer Transformer - Google](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) | [Text-to-Text Transfer Transformer (T5)](https://github.com/google-research/text-to-text-transfer-transformer) | [Colossal, Cleaned Crawled Corpus (C4)](https://www.tensorflow.org/datasets/catalog/c4)
 * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 * [NLP Newsletter - Democratizing Artificial Intelligence Research, Education, and Technologies](https://medium.com/@ibelmopan)
+* [High Performance Natural Language Processing - Gabriel Ilharco, et al. (EMNLP 2020)](https://slideslive.com/38940826) | [Slides (PDF)](http://gabrielilharco.com/publications/EMNLP_2020_Tutorial__High_Performance_NLP.pdf)
 * Speech and Language Processing, 3rd ed draft, Daniel Jurafsky and James H. Martin: [PDF](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) | [Webpage](https://web.stanford.edu/~jurafsky/slp3/)
 * [Natural Language Processing - Jacob Eisenstein](https://github.com/jacobeisenstein/gt-nlp-class/raw/master/notes/eisenstein-nlp-notes.pdf)
 * [Deep Learning for NLP - Ed Grefenstette (DeepMind)](https://www.youtube.com/watch?v=Y95JwaynE40)
@@ -615,6 +616,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### BROWSERS - WEBRTC
 
+* [WebRTC Crash Course - Hussein Nasser](https://www.youtube.com/watch?v=FExZvpVvYxA)
 * [High Performance Browser Networking](https://hpbn.co/)
 * [WebRTC.org](https://webrtc.org/)
 * [WebRTCHacks.com](https://webrtchacks.com/)
@@ -906,6 +908,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Making It Count: Quality is NOT an Option - Todd Montgomery (GOTO 2018)](https://www.youtube.com/watch?v=LTZdmb5-8n8)
 * [Is Your Code Too SOLID? - Sarah Mei](http://forwardjs.com/university/is-your-code-too-solid)
 * [Move Slow and Mend Things - Kevlin Henney (VoxxedDays Zurich 2018)](https://www.youtube.com/watch?v=6j9Yl6fNMmc) & [[Devoxx Belgium 2017)](https://www.youtube.com/watch?v=1kklyq4XYpw)
+* [Software Is Details - Kevlin Henney (GOTO 2020)](https://www.youtube.com/watch?v=kX0prJklhUE)
 * [Why Senior Devs Write Dumb Code and How to Spot a Junior From A Mile Away - Scott Shipp](https://hackernoon.com/why-senior-devs-write-dumb-code-and-how-to-spot-a-junior-from-a-mile-away-27fa263b101a)
 * [Working with legacy code - Gabor Olah (Code BEAM STO 19)](https://www.youtube.com/watch?v=n0XCMHrSbwc)
 * [Ideology - Gary Bernhardt (StrangeLoop 2015)](https://www.destroyallsoftware.com/talks/ideology)
@@ -1140,6 +1143,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### CSS - FLEXBOX
 
+* [What the Flexbox?!: 20-video course that will help you master CSS Flexbox - Wes Bos](https://flexbox.io/)
 * [CSS Flexbox Course - freeCodeCamp.org](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
 * CSS Flexbox Tutorial for Beginners | Basics & Container - Academind: [1 of 2](https://www.youtube.com/watch?v=siKKg8Y_tQY) & [2 of 2](https://www.youtube.com/watch?v=RdlEEfx912M)
 * [Responsive HTML/CSS Website From Scratch with Flexbox Grid - Drew Ryan](https://www.youtube.com/watch?v=Rf_DjL_dbug)
@@ -1152,6 +1156,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### CSS - GRID
 
+* [CSS Grid: From fundamentals to real world in about four hours - Wes Bos](https://cssgrid.io/)
 * [Grid By Example - Rachel Andrew](https://gridbyexample.com/)
 * [Experimental Layout Lab of Jen Simmons](https://labs.jensimmons.com/)
 * [CSS Grid Garden](https://cssgridgarden.com/)
@@ -1561,6 +1566,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 * [Gephi - The Open Graph Viz Platform](https://gephi.org/)
 * [Supported Graph Formats - Gephi](https://gephi.org/users/supported-graph-formats/)
+* [First contact with Gephi 0.9.2 - Mathieu Jacomy](https://www.youtube.com/watch?v=YM_37z_uURM)
 
 #### DATABASES - GRAPH DATABASES - GREMLIN/TINKERPOP
 
@@ -1615,6 +1621,8 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 * [European Semantic Web Conference (ESWC) Conference: 2020](https://2020.eswc-conferences.org/) & [talks](https://query.wikidata.org/embed.html#PREFIX%20wd%3A%20%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2F%3E%0APREFIX%20wdt%3A%20%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2F%3E%0ASELECT%20%3Fpaper%20%3FpaperLabel%20%3Fvideo%20WHERE%20%7B%0A%20%20%3Fpaper%20wdt%3AP1433%20wd%3AQ95688968%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20.%20%7D%0A%20%20OPTIONAL%20%7B%3Fpaper%20wdt%3AP973%20%3Fvideo%20.%7D%0A%7D%20ORDER%20BY%20%3FpaperLabel)
 * [Scientific Knowledge Graphs 2020](https://skg.kmi.open.ac.uk/SKG2020/)
+* [Building an Enterprise Knowledge Graph at Uber: Lessons from Reality - Joshua Shinavier PhD (Columbia SPS 2019 Knowledge Graph Conference)](https://www.youtube.com/watch?v=r3yMSl5NB_Q)
+* [Wikidata, Knowledge Graphs, and Beyond - Denny Vrandecic (Columbia SPS 2019 Knowledge Graph Conference)](https://www.youtube.com/watch?v=Oips1aW738Q)
 * [The Semantic Web (2020)](https://link.springer.com/book/10.1007/978-3-030-49461-2)
 * [The Semantic Web (2019)](https://link.springer.com/book/10.1007/978-3-030-21348-0)
 * [The Semantic Web (2018)](https://link.springer.com/book/10.1007/978-3-319-93417-4)
@@ -1623,6 +1631,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 ##### DATABASES - GRAPH DATABASES - RDF - SPARQL
 
 * [Querying RDF with Elixir: Using SPARQL.ex to query over RDF datastores - Tony Hammond](https://medium.com/@tonyhammond/querying-rdf-with-elixir-2378b39d65cc)
+* [Querying Wikidata with SPARQL for Absolute Beginners - Wikimedia Foundation](https://www.youtube.com/watch?v=kJph4q0Im98)
 * [SPARQL - Wikibooks.org](https://en.wikibooks.org/wiki/SPARQL)
 * [SPARQL Tutorial - Apache Jena](https://jena.apache.org/tutorials/sparql.html)
 * [Learn SPARQL - Stardog.com](https://www.stardog.com/tutorials/sparql/)
@@ -2265,7 +2274,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Tutorial: Using Istio - Lee Calcote & Girish Ranganathan (KubeCon + CloudNativeCon 2018)](https://www.youtube.com/watch?v=jlHLZqS7Vek)
 * [Distributed Microservices Metrics and Tracing with Istio and OpenCensus – Sandeep Dinesh (GDG DevFest Ukraine 2018)](https://www.youtube.com/watch?v=1wWfVqYb-5Y)
 * Ray Tsang: [Reducing Microservices Architecture Complexity with Istio & Kubernetes (SpringOne Platform 2018)](https://www.youtube.com/watch?v=k42jqkjtYKY) & [Making Microservices Micro With Istio & Kubernetes](https://www.youtube.com/watch?v=4x79RfMaOyo)
-* [Life of a Packet Through Istio - Matt Turner (Devoxx Belgium 2018)](https://www.youtube.com/watch?v=cB611FtjHcQ)
+* [Istio - The Packet's-Eye View - Matt Turner (KubeCon + CloudNativeCon 2018)](https://www.youtube.com/watch?v=zJnYuFsLHfY) & [Life of a Packet Through Istio - Matt Turner (Devoxx Belgium 2018)](https://www.youtube.com/watch?v=cB611FtjHcQ)
 * [Kubernetes and Istio Service Mesh Demo Show - Jimmy Song](https://www.youtube.com/watch?v=26kbaZxcB4A) & [kubernetes-vagrant-centos-cluster (Github)](https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster)
 * [Service Mesh in Practice - Kasun Indrasiri & David Munro (BallerinaCon 2018)](https://www.youtube.com/watch?v=IpgMucMhm0g)
 * [How to Gain Insights from Istio by Leveraging Tools Like Prometheus, Jaeger, and Cortex - Neeraj Poddar](https://www.youtube.com/watch?v=mOPMSdAQ0t8)
@@ -2582,6 +2591,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
       * [Scheduling](https://kubernetes.io/docs/reference/scheduling/)
         * [Scheduling Policies](https://kubernetes.io/docs/reference/scheduling/policies/)
         * [Scheduler Configuration](https://kubernetes.io/docs/reference/scheduling/config/)
+* [Kubernetes Tutorial for Beginners - Full Course in 4 Hours - TechWorld with Nana](https://www.youtube.com/watch?v=X48VuDVv0do)
 * TechWorld with Nana: [Kubernetes Architecture explained | Kubernetes Tutorial 15](https://www.youtube.com/watch?v=umXEmn3cMWY) & [Complete Application Deployment using Kubernetes Components | Kubernetes Tutorial 20](https://www.youtube.com/watch?v=EQNO_kM96Mo)
 * [Kubernetes — What Is It, What Problems Does It Solve and How Does It Compare With Alternatives? - Srikanth Koraveni](https://medium.com/@srikanth.k/kubernetes-what-is-it-what-problems-does-it-solve-how-does-it-compare-with-its-alternatives-937fe80b754f?)
 * [Kubernetes Patterns - Bilgin Ibryam and Roland Huß (PDF)](https://www.redhat.com/cms/managed-files/cm-oreilly-kubernetes-patterns-ebook-f19824-201910-en.pdf)
@@ -2649,6 +2659,10 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Containers From Scratch - Liz Rice (GOTO 2018)](https://www.youtube.com/watch?v=8fi7uSYlOdc)
 * [Containers From Scratch: The Sequel - Liz Rice (Container Camp)](https://www.youtube.com/watch?v=_TsSmSu57Zo)
 * [Building Small Containers: Kubernetes Best Practices - Sandeep Dinesh (Google)](https://www.youtube.com/watch?v=wGz_cbtCiEA)
+
+##### DEVOPS - KUBERNETES - CONTAINERIZATION - LXD (LINUX CONTAINERS)
+
+* [LXD Containers: Getting Started](https://www.youtube.com/playlist?list=PL34sAs7_26wPfLNZ5NKoH0RKbTAWMlh2I)
 
 #### DEVOPS - KUBERNETES - CONTOUR
 
@@ -2864,6 +2878,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### DEVOPS - KUBERNETES - NETWORKING
 
 * [Kubernetes Networking Intro and Deep-Dive - Bowei Du & Tim Hockin (CNCF 2020)](https://www.youtube.com/watch?v=tq9ng_Nz9j8)
+* [Everything You Need to Know About Kubernetes Networking - Projet Calico](https://www.youtube.com/playlist?list=PLoWxE_5hnZUZMWrEON3wxMBoIZvweGeiq)
 * [Deep dive into Kubernetes networking - Sreenivas Makam (Container Conference 2018)](https://www.youtube.com/watch?v=NUt9VVG_gac)
 * [Organizing Kubernetes with Namespaces - Sandeep Dinesh (Kubernetes Best Practices)](https://www.youtube.com/watch?v=xpnZX3if9Tc)
 * [Kubernetes Networking Master Class (Rancher Labs)]https://www.youtube.com/watch?v=GXq3FS8M_kw)
@@ -2926,6 +2941,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### DEVOPS - KUBERNETES - ROOK
 
 * [Rook (Github)](https://github.com/rook/rook)
+* [Kubernetes - Getting Started With Rook - Tim Serewicz](https://www.youtube.com/watch?v=wIRMxl_oEMM)
 * [Intro: Rook - Jared Watts (KubeCon + CloudNativeCon Seattle 2018)](https://www.youtube.com/watch?v=pwVsFHy2EdE)
 
 #### DEVOPS - KUBERNETES - SAMPLE APPS
@@ -3047,6 +3063,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### DEVOPS - OPEN POLICY AGENT (OPA)
 
+* [OPA Deep Dive - Tim Hinrichs, Styra & Torin Sandall, Styra (KubeCon + CloudNativeCon 2019)](https://www.youtube.com/watch?v=Uj2N9S58GLU)
 * [Authorization in Micro Services World Kubernetes, ISTIO and Open Policy Agent (AppSecCali 2019)](https://www.youtube.com/watch?v=UnXjwCWgBKU)
 * [TGI Kubernetes 071: Exploring the Open Policy Agent (OPA) - Joe Beda](https://www.youtube.com/watch?v=QU9BGPf0hBw)
 * [Intro: Open Policy Agent - Torin Sandall (KubeCon & CloudNativeCon North America 2018)](https://www.youtube.com/watch?v=CDDsjMOtJ-c)
@@ -3077,6 +3094,15 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * Prometheus: [Docs](https://prometheus.io/docs/prometheus/latest/getting_started/) | [Prometheus.io](https://prometheus.io/) | [Github](https://github.com/prometheus/prometheus)
 * [Prometheus Helm chart](https://hub.kubeapps.com/charts/stable/prometheus)
+
+#### DEVOPS - PROMETHEUS - CORTEX
+
+* [Intro: Cortex - Tom Wilkie & Bryan Boreham (KubeCon + CloudNativeCon 2019)](https://www.youtube.com/watch?v=_7Wnta-3-W0)
+* [Deep Dive: Cortex - Tom Wilkie & Bryan Boreham (KubeCon + CloudNativeCon 2019)](https://www.youtube.com/watch?v=mYyFT4ChHio)
+
+#### DEVOPS - PROMETHEUS - GRAFANA
+
+* [Getting Started with Grafana Webinar - Marcus Olsson](https://www.youtube.com/watch?v=0n2UNzk2OaI)
 
 ### DEVOPS - RELIABILITY
 
@@ -3144,13 +3170,14 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ## DISTRIBUTED PROGRAMMING
 
-* [Distributed Systems in One Lesson - Tim Berglund (Devoxx Poland)](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
+* [Why Are Distributed Systems so Hard? - Denise Yu (GOTO Chicago 2020)](https://www.youtube.com/watch?v=IzbYUjPAm5A) | [(InfoQ)](https://www.youtube.com/watch?v=w9GP7MNbaRc)
+* [Distributed Systems in One Lesson - Tim Berglund (Devoxx Poland)](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) | [(Devoxx Poland 2017)](https://www.youtube.com/watch?v=OJwp4kroTM8)
 * [What happened to distributed programming languages? - Heather Miller (Papers We Love Conference 2017)](https://www.youtube.com/watch?v=eAcDWcaezXY)
 * [Distributed Systems and the End of the API - Chas Emerick](https://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/) & [talk slides](https://speakerdeck.com/cemerick/distributed-systems-and-the-end-of-the-api)
 * [Distributed Systems and the End of the API - Chas Emerick](https://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/) & [talk slides](https://speakerdeck.com/cemerick/distributed-systems-and-the-end-of-the-api)
 * [Readings in distributed systems - Christopher Meiklejohn](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 * [Four Distributed Systems Architectural Patterns - Tim Berglund (Devoxx Poland 2017)](https://www.youtube.com/watch?v=tpspO9K28PM)
-* [Distributed Systems In One Lesson - Tim Berglund (Devoxx Poland 2017)](https://www.youtube.com/watch?v=OJwp4kroTM8)
+* [Distributed Systems Safety Research - Jepsen.io](http://jepsen.io/) | [Consistency Models](http://jepsen.io/consistency)
 * [The Path Towards Simplifying Consistency in Distributed Systems - Caitie McCaffrey (DeconstructConf 2017)](https://www.deconstructconf.com/2017/caitie-mccaffrey-the-path-towards-simplifying-consistency-in-distributed-systems)
 
 ## DOCUMENTATION
@@ -3464,7 +3491,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### FUNCTIONAL PROGRAMMING - VIDEOS
 
-* Code Mesh: []() | [London 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtWFBNOrApXaIoCTtj-yk7Y)
+* Code Mesh: [V 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zu0Jrp0l90aU83_AfuFcN_q) | [London 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtWFBNOrApXaIoCTtj-yk7Y)
 * International Conference on Functional Programming (ICFP): [2018](https://www.youtube.com/playlist?list=PLnqUlCo055hVknu7QAW_RUZRmRZWXmnvv) | [2017](https://www.youtube.com/playlist?list=PLnqUlCo055hW7kU-SBQEhC_87etA5Gqlq) | [2016](https://www.youtube.com/playlist?list=PLnqUlCo055hV-Yb_88YYUC2ucaBKCWCsa) | [2015](https://www.youtube.com/playlist?list=PLnqUlCo055hWNtUo1Haoq347VhCqIjs7u)
 * Commercial Users of Functional Programming (CUFP): [2016](https://www.youtube.com/playlist?list=PLnqUlCo055hUaidgipB5HjDpUnskXgGJ1) | [2015](https://www.youtube.com/playlist?list=PLnqUlCo055hXArE00SkORNiK9fk54de2a)
 * Compose Conference: [2017](https://www.youtube.com/playlist?list=PLNoHgLVTxtaoolkQo4hLy4ZsA1prUJ51m) | [2016](https://www.youtube.com/playlist?list=PLNoHgLVTxtaqlT4xVx6_39jzcDe-ZF9V2)
@@ -3715,6 +3742,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### HTTP - AUTHENTICATION - OAUTH2
 
 * [Illustrated Guide to OAuth and OpenID Connect - David Neal](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
+* [The Secrets of OAuth 2.0 - Aaron Parecki & Eric Johnson (GOTO 2020)](https://www.youtube.com/watch?v=HhwUMESAddM)
 * [What the Heck is OAuth? - Randall Degges](https://stormpath.com/blog/what-the-heck-is-oauth)
 * [OpenID Connect and OAuth 2 explained in under 10 minutes! - kubucation](https://www.youtube.com/watch?v=nPZ8QDZXtLI)
 
@@ -3912,6 +3940,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ## JSON
 
 * [jq: Lightweight & flexible command-line JSON processor](https://stedolan.github.io/jq/)
+* [Editing JSON with Visual Studio Code](https://code.visualstudio.com/Docs/languages/json)
 
 ## JULIA
 
@@ -3994,12 +4023,31 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * Also see: [NETWORKING](https://github.com/JamesLavin/my_tech_resources#networking)
 
+#### LINUX - NETWORKING - HAPROXY
+
+* [HAProxy Crash Course (TLS 1.3, HTTPS, HTTP/2 and more) - Hussein Nasser](https://www.youtube.com/watch?v=qYnA2DFEELw)
+* [Scaling Websockets to Multiple Servers with HAProxy, Redis and Node JS - Group Chat Application - Hussein Nasser](https://www.youtube.com/watch?v=gzIcGhJC8hA)
+* [HAProxy Basics](https://www.youtube.com/playlist?list=PLfnwKJbklIxwxXKiPv5nAgWwmaUvDjW_t)
+  * [SSL Termination in HAProxy](https://www.youtube.com/watch?v=cBLYQ8bbe7c)
+  * [Logging in HAProxy](https://www.youtube.com/watch?v=O64HDqtDrMw)
+  * [The Essentials of an HAProxy Configuration File](https://www.youtube.com/watch?v=RxrdC9l7yKk)
+  * [HAProxy Access Control Lists](https://www.youtube.com/watch?v=b-d-Q_zkuwI)
+  * [Set up Let's Encrypt TLS Encryption using the HAProxy Kubernetes Ingress Controller](https://www.youtube.com/watch?v=FdH3L6fyew8)
+* [How HAProxy acts as TCP Proxy & HTTP Proxy Layer 4 vs Layer 7 - Hussein Nasser](https://www.youtube.com/watch?v=ibnUI-amsj8)
+* [HAProxyConf 2019 - Amsterdam](https://www.youtube.com/playlist?list=PLfnwKJbklIxwtsY6VZhMoyqpm0Cu9Lt1v)
+* [Scaling and Securing WebSockets with HAProxy - Hussein Nasser](https://www.youtube.com/watch?v=Rf6AfhqJKxg)
+
 #### LINUX - NETWORKING - LOAD BALANCING
 
 * [Load Balancing in Layer 4 vs Layer 7 with HAPROXY Examples - Hussein Nasser](https://www.youtube.com/watch?v=aKMLgFVxZYk)
 * [Load Balancer vs Reverse Proxy (Explained by Example) - Hussein Nasser](https://www.youtube.com/watch?v=S8J2fkN2FeI)
 * [Cloud Computing - Load Balancing - Eli the Computer Guy](https://www.youtube.com/watch?v=zaLJ6SIHztk)
+* [How load balancers work - System Design Interview knowledge - Success in Tech](https://www.youtube.com/watch?v=escR-07yVAs)
 * [Katran Layer 4 Load Balancing at Facebook Engineering - Nitika Shirokov (Networking @Scale 2018)](https://www.youtube.com/watch?v=da9Qw7v5qLM)
+
+#### LINUX - NETWORKING - PROXYING
+
+* [Layer 4 vs Layer 7 Proxying In Details Explained with Examples - Hussein Nasser](https://www.youtube.com/watch?v=ylkAc9wmKhc)
 
 #### LINUX - NETWORKING - SOCAT
 
@@ -4166,6 +4214,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ## MANAGEMENT/LEADERSHIP
 
 * [Shape Up: Stop Running in Circles and Ship Work That Matters - Ryan Singer](https://basecamp.com/shapeup) | [PDF](https://basecamp.com/shapeup/shape-up.pdf)
+* [The Coaching Leader & Architect - Roy Osherove (GOTO 2020)](https://www.youtube.com/watch?v=vN_xMlR15hw)
 * [The Leadership Library for Engineers - Philip Paetz](https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a)
 * [Be a Director, Not a Manager - Fareed Mosavat (#mtpcon 2019)](https://www.mindtheproduct.com/2019/09/be-a-director-not-a-manager-by-fareed-mosavat/)
 * [How to Become a Great Software Architect - Eberhard Wolff (GOTO Berlin 2019)](https://www.youtube.com/watch?v=v_nhv6aY1Kg)
@@ -4191,6 +4240,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ## MARKDOWN
 
 * [The Markdown Guide - Matt Cone](https://www.markdownguide.org/assets/book/markdown-guide.pdf)
+* [Mastering Markdown - Wes Bos](https://masteringmarkdown.com/)
 
 ## MATH
 
@@ -4337,6 +4387,11 @@ Peter R. Egli:
 ### NETWORKING - TLS
 
 * [Every byte of a TLS connection explained - Michael Driscoll](https://tls.ulfheim.net/)
+
+### NETWORKING - WEB SOCKETS
+
+* [Scaling and Securing WebSockets with HAProxy - Hussein Nasser](https://www.youtube.com/watch?v=Rf6AfhqJKxg)
+* [Scaling Websockets to Multiple Servers with HAProxy, Redis, and NodeJS - Hussein Nasser](https://www.youtube.com/watch?v=gzIcGhJC8hA)
 
 ## NEWS
 
@@ -4505,6 +4560,7 @@ Peter R. Egli:
 ## NGINX
 
 * Nginx: [About](http://nginx.org/en/) | [Docs](http://nginx.org/en/docs/) | [FAQ](http://nginx.org/en/docs/faq.html) | [Twitter](https://twitter.com/nginxorg) | [Blog](http://nginx.com/blog/)
+* [NginX Crash Course (Layer 4 & Layer 7 Proxy, HTTPS, TLS 1.3, HTTP/2 & More) - Hussein Nasser](https://www.youtube.com/watch?v=WC2-hNNBWII) & [2-Hour Nginx Crash Course + Bonus Course - Hussein Nasser](https://www.youtube.com/watch?v=hcw-NjOh8r0)
 
 ## NODE.JS
 
@@ -4588,6 +4644,7 @@ Peter R. Egli:
 * [Official manuals](http://www.postgresql.org/docs/manuals/) | [PG 12](https://www.postgresql.org/files/documentation/pdf/12/postgresql-12-US.pdf) | [PG 11](https://www.postgresql.org/files/documentation/pdf/11/postgresql-11-US.pdf) | [PG 10](https://www.postgresql.org/files/documentation/pdf/10/postgresql-10-US.pdf) | [PG 9.6](https://www.postgresql.org/files/documentation/pdf/9.6/postgresql-9.6-US.pdf) | [PG 9.5](https://www.postgresql.org/files/documentation/pdf/9.5/postgresql-9.5-US.pdf) | [PG 9.4](https://www.postgresql.org/files/documentation/pdf/9.4/postgresql-9.4-US.pdf) | [Official FAQ](http://wiki.postgresql.org/wiki/FAQ)
 * [Learn PostgreSQL: Full Course for Beginners - freeCodeCamp.org](https://www.youtube.com/watch?v=qw--VYLpxG4)
 * PostgreSQL Tutorials : Learn PostgreSQL From Beginning to Advanced: [Beginner's List](https://www.youtube.com/playlist?list=PLk1kxccoEnNEtwGZW-3KAcAlhI_Guwh8x) & [Advanced List](https://www.youtube.com/playlist?list=PLk1kxccoEnNHlAR2ggnzIkOc7jxqI-_w2)
+* Postgres Open (conference videos): [2019](https://www.youtube.com/playlist?list=PLN8NEqxwuywS21f8_sJbD0jd0leC-waca) | [all](https://www.youtube.com/channel/UCCDA5Yte0itW_Bf6UHpbHug)
 * [Awesome Postgres - Asad Dhamani](https://github.com/dhamaniasad/awesome-postgres)
 * [PostgreSQL - TutorialsPoint.com](https://www.tutorialspoint.com/postgresql/postgresql_tutorial.pdf)
 * [Mastering PostgreSQL Administration - Bruce Momjian](https://momjian.us/main/writings/pgsql/administration.pdf)
@@ -4639,6 +4696,7 @@ Peter R. Egli:
 
 ### POSTGRESQL - KUBERNETES
 
+* [Easy And Correct High Availability PostgreSQL With Kubernetes - Steven Pousty (PostgresOpen 2019)](https://www.youtube.com/watch?v=p0WVyHDWsgA)
 * [Kubernetes PostgreSQL Operator - CrunchyData](https://github.com/CrunchyData/postgres-operator) | [Easy And Correct High Availability PostgreSQL With Kubernetes - Steven Pousty (PostgresOpen 2019)](https://www.youtube.com/watch?v=p0WVyHDWsgA)
 * [Kubernetes PostgreSQL Operator - Zalando](https://github.com/zalando/postgres-operator)
 
@@ -4667,8 +4725,14 @@ Peter R. Egli:
 
 ### POSTGRESQL - REPLICATION
 
+* Streaming Replication (Postgresql.org): [Wiki](https://wiki.postgresql.org/wiki/Streaming_Replication) | [Docs: Replication](https://www.postgresql.org/docs/13/runtime-config-replication.html) | [Docs: Streaming Replication](https://www.postgresql.org/docs/13/warm-standby.html#STREAMING-REPLICATION) | [Docs: Streaming Replication Protocol](https://www.postgresql.org/docs/13/protocol-replication.html) | [Docs: Logical Streaming Replication Protocol](https://www.postgresql.org/docs/13/protocol-logical-replication.html)
+* [Replication Concepts in Postgres - Chennakeshava Ramesh](https://www.youtube.com/watch?v=fsMvr96gTjY)
+* [POSTGRESQL12 streaming REPLICATION Centos 8 - Dan Holdsworth](https://www.youtube.com/watch?v=nnnAmq34STc)
 * [How to Set Up Streaming Replication in PostgreSQL 12 - Avinash Vallarapu](https://www.percona.com/blog/2019/10/11/how-to-set-up-streaming-replication-in-postgresql-12/)
-* [Streaming Replication (Postgresql.org)](https://wiki.postgresql.org/wiki/Streaming_Replication)
+* [Streaming Replication Setup in PG12: How to Do it Right - Cary Huang](https://www.highgo.ca/2019/11/07/streaming-replication-setup-in-pg12-how-to-do-it-right/)
+* [How to Configure Synchronous Streaming Replication in PostgreSQL 12 - CloudBhai](https://www.youtube.com/watch?v=laE0ayezF-c)
+* [PostgreSQL Replication and Automatic Failover Tutorial - Abbas Butt](https://www.enterprisedb.com/postgres-tutorials/postgresql-replication-and-automatic-failover-tutorial)
+* [How to Set Up Streaming Replication in PostgreSQL 12 - Avinash Vallarapu](https://www.percona.com/blog/2019/10/11/how-to-set-up-streaming-replication-in-postgresql-12/)
 * [WAL-E: Continuous Archiving for Postgres](https://github.com/wal-e/wal-e)
 * [Debezium: Change data capture for a variety of databases](https://github.com/debezium/debezium) & [Debezium.io](http://debezium.io/)
 * [BottledWater: Change data capture from PostgreSQL into Kafka (Confluent.com)](https://github.com/confluentinc/bottledwater-pg)
@@ -5638,6 +5702,10 @@ Peter R. Egli:
 * [LetsEncrypt.org](https://letsencrypt.org/) | [Github](https://github.com/letsencrypt/letsencrypt) | [Twitter](https://twitter.com/letsencrypt)
 * [Free HTTPS certs for all – Let's Encrypt opens doors to world+dog](http://www.theregister.co.uk/2015/12/03/letsencrypt_public_beta/)
 
+#### SECURITY - ENCRYPTION - SSL
+
+* [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)
+
 ### SECURITY - WEB
 
 * Mobile API Security Techniques - Skip Hovsmith: [Part 1](https://hackernoon.com/mobile-api-security-techniques-682a5da4fe10#.hfqj8zvl2) | [Part 2](https://hackernoon.com/mobile-api-security-techniques-fc1f577840ab) | [Part 3](https://hackernoon.com/mobile-api-security-techniques-part-3-1e1e092aeacd) | [More Skip Hovsmith](https://hackernoon.com/@skiph)
@@ -6097,3 +6165,5 @@ Peter R. Egli:
 ## YAML
 
 * [YAML Tutorial: Everything You Need to Get Started in Minutes - Eric Goebelbecker](https://rollout.io/blog/yaml-tutorial-everything-you-need-get-started/)
+* yq: Lightweight, portable command-line YAML processor: [Gitbook](https://mikefarah.gitbook.io/yq/) | [Github](https://github.com/mikefarah/yq)
+* [VSCode YAML - RedHat](https://github.com/redhat-developer/vscode-yaml)
