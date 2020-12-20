@@ -560,6 +560,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Programmers and sleep - David Zych](https://davidzych.com/programmers-and-sleep/)
 * [You Need More Than 6 Hours of Sleep - Gret Yeutter](https://hackernoon.com/you-need-more-than-6-hours-of-sleep-5186cfcf1dd5)
 
+### BODY & MIND - STOICISM
+
+* [The philosophy of Stoicism - Massimo Pigliucci](https://www.youtube.com/watch?v=R9OCA6UFE-0)
+* [Epictetus - How To Be A Stoic (Stoicism)](https://www.youtube.com/watch?v=wH6dSe_dYgM)
+* [Stoicism as a philosophy for an ordinary life - Massimo Pigliucci (TEDxAthens)](https://www.youtube.com/watch?v=Yhn1Fe8cT)
+
 ## BOOKS
 
 * [Mind-Expanding-Books - Vishnu Ks](https://github.com/hackerkid/Mind-Expanding-Books)
@@ -6114,6 +6120,9 @@ Peter R. Egli:
 * [Bookdown](https://bookdown.org/yihui/bookdown/)
 * [Ghostwriter](http://wereturtle.github.io/ghostwriter/)
 * [Gumroad](https://gumroad.com/)
+* [Obsidian](https://obsidian.md/)
+* [Standard Notes](https://standardnotes.org/)
+* [Zettler](https://www.zettlr.com/)
 * [Kindle Direct Publishing](https://kdp.amazon.com/en_US/)
 * [Markdown](http://daringfireball.net/projects/markdown/)
 * [Markdown: The Easy Way to Write, Edit & Format Your Book - Carla King](https://www.bookworks.com/2019/05/markdown-text-editor-write-format-book/)

@@ -662,6 +662,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - CODE QUALITY
 
+* [How to Get Your Elixir Application Ready for CI/CD - Alex Koutmos](https://blog.appsignal.com/2020/01/29/how-to-get-your-elixir-application-ready-for-ci-cd.html)
 * [Modular Design in Elixir - Maciej Kaszubowski (ElixirConf EU 2019)](https://www.youtube.com/watch?v=hgDCg3QdZgU)
 * [Enforcing code quality in Elixir - Leandro Cesquini Pereira](https://itnext.io/enforcing-code-quality-in-elixir-20f87efc7e66)
 * [SOLID Elixir - Georgina McFadyen (ElixirConf.EU 2018)](https://www.youtube.com/watch?v=eldYot7uxUc)
@@ -715,6 +716,9 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How to Use IEx.pry in Elixir Tests - Adam Delong](https://adamdelong.com/iex-pry-test/)
 * [Debugging Live Systems on the BEAM - Jeffery Utter (ElixirConf 2020)](https://www.youtube.com/watch?v=sR9h3DZAA74)
 * [Debugging & Tracing Elixir Applications - Dimitris Zorbas](https://zorbash.com/post/debugging-elixir-applications/)
+* [dbg](http://erlang.org/doc/man/dbg.html)
+* [Rexbug - Jacek Królikowski](https://github.com/nietaki/rexbug) | [Redbug - Mats Cronqvist](https://github.com/massemanet/redbug)
+* [Tracer - Gabi Zuniga](https://github.com/gabiz/tracer)
 * [Debugging - Elixir-lang.org](https://elixir-lang.org/getting-started/debugging.html)
 * [Debugging techniques in Elixir - Erich Kist](http://blog.plataformatec.com.br/2016/04/debugging-techniques-in-elixir-lang/)
 * [Rexbug: thin Elixir wrapper for the redbug Erlang tracing debugger](https://github.com/nietaki/rexbug) | [Docs](https://hexdocs.pm/rexbug/readme.html)
@@ -1338,6 +1342,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [doorman: Tools to make Plug, and Phoenix authentication simple and flexible - Blake Williams](https://github.com/BlakeWilliams/doorman)
 * [phauxth](https://github.com/riverrun/phauxth)
 * [policy_wonk: Elixir authorization and resource loading in Plug form for Phoenix - Boyd Multerer](https://github.com/boydm/policy_wonk)
+* [Ueberauth: Authentication System for Plug-based Web Applications](https://github.com/ueberauth/ueberauth)
 * [Authorization in Phoenix web applications using Role Based Access Control (RBAC) - KnowThen.com](https://www.youtube.com/watch?v=6TlcVk-1Tpc) & [Git repo](https://github.com/knowthen/elixir_authorization_tutorial)
 * [User Authentication with Guardian for Phoenix 1.3 Web Apps - Meraj](https://itnext.io/user-authentication-with-guardian-for-phoenix-1-3-web-apps-e2064cac0ec1)
 * [JWT Auth in Phoenix with Joken - Sophie DeBenedetto](https://medium.com/flatiron-labs/jwt-auth-in-phoenix-with-joken-e72df1b9fbb5)
@@ -1757,6 +1762,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Decoding Dialyzer - Part 1 - Devon Estes](http://devonestes.herokuapp.com/decoding-dialyzer)
 * [Spot The Discrepancies with Dialyzer for Erlang - Brujo Benavides](https://tech.nextroll.com/blog/dev/2019/02/19/erlang-dialyzer.html)
 * [What Does Dialyzer Think of Me? - Stavros Aronis (Code Beam 2019)](https://www.youtube.com/watch?v=Nxsw1jRE2A4)
+* [Help Dialyzer Help You! …or Why you should use specs if you use opaque types - Brujo Benavides](https://medium.com/erlang-battleground/help-dialyzer-help-you-94db66bfbc5a)
 * [Hype For Types Using Dialyzer to Bring Type Checking to Your Elixir Code - Emma Cunningham (Code Beam SF 2018)](https://www.youtube.com/watch?v=yZO6FkkdJEg)
 * [Dialyxir](https://github.com/jeremyjh/dialyxir) & [Dialyzer](http://erlang.org/doc/man/dialyzer.html)
 * Dialyzer: Optimistic Type Checking for Erlang and Elixir - Jason Voegele: [ElixirConf 2016](https://www.youtube.com/watch?v=JT0ECYZ9FaQ) | [λC 2016](https://www.youtube.com/watch?v=FXCMiQWnWu0)
@@ -2037,6 +2043,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ERLANG - MNESIA
 
+* [Using Mnesia in an Elixir Application - Alex Koutmos](https://blog.appsignal.com/2020/05/19/using-mnesia-in-an-elixir-application.html)
 * [Memento: Simple but Powerful Elixir interface to the Erlang Mnesia Database - Sheharyar Naseer](https://github.com/sheharyarn/memento)
 * [Where Did I Put My Data? - Alex Peachey (EMPEX LA 2019)](https://www.youtube.com/watch?v=9216dUNgKCU)
 * [Store Everything With Elixir and Mnesia - Ilya Bodrov](https://code.tutsplus.com/articles/store-everything-with-elixir-and-mnesia--cms-29821)
@@ -2076,6 +2083,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Essential Erlang/OTP - Garrett Smith](https://www.youtube.com/watch?v=0ZGHzI9F5YE)
 * [Pretty State Machine - Jeff Smith (Code BEAM SF 2019)](https://www.youtube.com/watch?v=KuZ_wp8W09U)
 * [gen_statem - The Tool You Never Knew You Always Wanted - Raimo Niskanen (Code BEAM SF 2018)](https://www.youtube.com/watch?v=f_jl6MR3kXQ)
+* [Building State Machines in Elixir with Ecto - Miguel Palhas](https://blog.appsignal.com/2020/07/14/building-state-machines-in-elixir-with-ecto.html)
 * [How to start processes with dynamic names in Elixir - Justin Toniazzo](https://thoughtbot.com/blog/how-to-start-processes-with-dynamic-names-in-elixir)
 * [OTP Has Done It - Nick DeMonner (ElixirConf 2015)](https://www.youtube.com/watch?v=yBReonQlfL4)
 * [The Pooler Story: How I Learned OTP by Writing a Connection Pool - Seth Falcon (Erlang Factory SF 2013)](https://www.youtube.com/watch?v=BTuJtqvbpI8)
