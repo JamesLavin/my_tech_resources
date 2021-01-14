@@ -50,6 +50,12 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [Javascript Best Practices - Thinkful.com](http://www.thinkful.com/learn/javascript-best-practices-1/)
 * [Sitepoint - Javascript](http://www.sitepoint.com/javascript/)
 
+### JAVASCRIPT - ALPINE.JS
+
+* [Tutorial to Learn Alpine JS - Full Course for Beginners - Andre Madarang](https://www.youtube.com/watch?v=VerLjLcXsTk)
+* [Say No To Complexity With AlpineJS - Caleb Porzio (JSNation Live 2020)](https://www.youtube.com/watch?v=4c8dpZN0rqM)
+* [Building a custom select input with Alpine.js and Tailwind CSS - Dan Harrin](https://www.youtube.com/watch?v=L_f9gNaSCRE)
+
 ### JAVASCRIPT - ANGULAR.JS
 
 * [AngularJS Fundamentals in 60-ish Minutes - Dan Wahlin](http://www.youtube.com/watch?v=i9MHigUZKEM)

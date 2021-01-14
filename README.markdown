@@ -266,6 +266,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [gensim-data](https://github.com/RaRe-Technologies/gensim-data)
 * [Complete Guide to Topic Modeling with Scikit-Learn and Gensim - George-Bogdan Ivanov](https://nlpforhackers.io/topic-modeling/)
 
+#### ARTIFICIAL INTELLIGENCE (AI) - NATURAL LANGUAGE PROCESSING (NLP) - OPENNLP
+
+* Apache OpenNLP: [Homepage](http://opennlp.apache.org/) | [Github](https://github.com/apache/opennlp)
+* [An Anatomy of an Answer: Open NLP & Discourse Analysis-Based Indexing - Boris Galitsky (ApacheCon @Home 2020)](https://www.youtube.com/watch?v=-0xwb7szKnQ) (starts after 6 1/2 minutes)
+
 #### ARTIFICIAL INTELLIGENCE (AI) - NATURAL LANGUAGE PROCESSING (NLP) - SPACY
 
 * spaCy: Industrial-strength Natural Language Processing (NLP) with Python and Cython: [Github](https://github.com/explosion/spaCy) | [Spacy.io](https://spacy.io/)
@@ -1186,7 +1191,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### CSS - TAILWIND CSS
 
+* Tailwind CSS: [Docs](https://tailwindcss.com/docs) | [Screencasts](https://www.youtube.com/tailwindlabs) | [Installation](https://tailwindcss.com/docs/installation) | [Website](https://tailwindcss.com/)
+* Tailwind CSS cheatsheets: [NerdCave.com](https://nerdcave.com/tailwind-cheat-sheet) | [TailwindComponents.com](https://tailwindcomponents.com/cheatsheet/)
+* Tailwind UI Components: [Website](https://tailwindui.com/components) (Partially non-free $) | [TailwindComponents.com](https://tailwindcomponents.com/components)
 * [Adding Tailwind CSS to Phoenix 1.4 and 1.5 - Mike Clark](https://pragmaticstudio.com/tutorials/adding-tailwind-css-to-phoenix)
+* [Tailwind CSS Tutorial - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
+* [Tailwind CSS Awesomd - Roman Heinrich & Alex Unger](https://github.com/happycodrz/tailwindcss-awesome)
+* [Tailwind CSS Crash Course - Traversy Media](https://www.youtube.com/watch?v=UBOj6rqRUME)
+* [Tailwind CSS Tutorial for Beginners - Full Course (2:32) - Victor Gonzalez](https://www.youtube.com/watch?v=4wGmylafgM4)
 
 ### CSS - TEXTURES
 
@@ -1249,6 +1261,8 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 ### DATA ANALYSIS - FLINK
 
 * [Apache Flink](https://flink.apache.org/)
+* [Flink SQL in 2020: Time to show off! - Timo Walther (ApacheCon @Home 2020)](https://www.youtube.com/watch?v=Pii0jmc5pPU)
+* [Data Streaming using Apache Flink and Apache Ignite - Saikat Maitra (ApacheCon @Home 2020)](https://www.youtube.com/watch?v=n74HMmTz5i0)
 * [Patterns of Streaming Applications - Monal Daxini (QCon 2018)](https://www.infoq.com/presentations/apache-flink-streaming-app)
 
 ### DATA ANALYSIS - HERON
@@ -1406,11 +1420,24 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 ### DATABASES - CASSANDRA
 
-* Apache Cassandra: [Docs](https://cassandra.apache.org/doc/latest/)  | [Website](https://cassandra.apache.org/) | [Github](https://github.com/apache/cassandra)
+* Apache Cassandra: [Docs](https://cassandra.apache.org/doc/latest/)  | [Website](https://cassandra.apache.org/) | [Github](https://github.com/apache/cassandra) | [Download](://cassandra.apache.org/download/)
+* [Apache Cassandra 3.0 - DataStax](https://docs.datastax.com/en/cassandra-oss/3.0/index.html)
 * [Awesome Cassandra](https://github.com/Anant/awesome-cassandra)
 * [DataStax Academy](https://academy.datastax.com/)
 * [Learn Cassandra - Tutorialspoint](https://www.tutorialspoint.com/cassandra/cassandra_introduction.htm)
+* [Why Discord Moved from MongoDB to Apache Cassandra, Let us Discuss - Hussein Nasser](https://www.youtube.com/watch?v=86olupkuLlU) & [How Discord Stores Billions of Messages - Stanislav Vishnevskiy](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
 * Rebecca Mills: [1: Essentials](https://hackernoon.com/apache-cassandra-an-essentials-guide-ku1r3yc9) | [2: Bootstrapping](https://hackernoon.com/apache-cassandra-bootstrapping-lmv3uy2) | [3: Data Modeling](https://hackernoon.com/apache-cassandra-guide-data-modeling-i3g3ufi)
+
+#### DATABASES - CASSANDRA - 4.0
+
+* [Introduction to Apache Cassandra™ + What’s New in 4.0 - Patrick McFadin (DataStax Presents)](https://www.youtube.com/watch?v=d7o6a75sfY0)
+* [Cassandra 4.0: Better, Faster, Stronger | Ep. 11 | Accelerate: A NoSQL Original Series (DataStax)](https://www.youtube.com/watch?v=MaCF-wUwOsk)
+* [Building Apache Cassandra 4.0 Behind the Scenes - Dinesh A. Joshi (ApacheCon @Home 2020)](https://www.youtube.com/watch?v=KWmm7NsNZpE) (interesting talk on the challenges of testing Cassandra)
+
+#### DATABASES - CASSANDRA - DATA MODELING
+
+* [DS220 Data Modeling with Apache Cassandra (DataStax Academy)](https://www.youtube.com/playlist?list=PL2g2h-wyI4SqIigskyJNAeL2vSTJZU_Qp)
+* [How to Create a Cassandra Data Model - Patrick McFadin and Jeff Carpenter (DataStax)](https://www.youtube.com/watch?v=4D39wJu5Too)
 
 #### DATABASES - CASSANDRA - VIDEOS
 
@@ -1418,6 +1445,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Apache Cassandra Developer Workshop - David Gilardi](https://www.youtube.com/watch?v=quoHf0J5-ms)
 * [DataStax Developers](https://www.youtube.com/channel/UCAIQY251avaMv7bBv5PCo-A)
 * [5 Steps to an Awesome Apache Cassandra™ Data Model - Patrick McFadin](https://www.youtube.com/watch?v=wyq_hGFz6Sc)
+* [Cassandra Upgrade in production : Strategies and Best Practices - Laxmikant Upadhyay (ApacheCon @Home 2020)](https://www.youtube.com/watch?v=eTUXQS7RUQw)
 
 ### DATABASES - COCKROACHDB
 
@@ -1589,7 +1617,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 ##### DATABASES - GRAPH DATABASES - GREMLIN/TINKERPOP - GRAPHEXP
 
-* [graphexp: Interactive visualization of the Gremlin graph database with D3.js - Benjamin Ricaud](https://github.com/bricaud/graphexp)
+* [graphexp: Interactive visualization of the Gremlin graph database with D3.js - Benjamin Ricaud](https://github.com/bricaud/graphexp) | [Armand Leopold version](https://github.com/armandleopold/graphexp)
 * [Forked graphexp using Bootstrap - Armand Leopold](https://github.com/armandleopold/graphexp)
 
 ##### DATABASES - GRAPH DATABASES - GREMLIN/TINKERPOP - HADOOP
@@ -1619,10 +1647,17 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 #### DATABASES - GRAPH DATABASES - RDF
 
+* [Resource Description Framework (RDF) (Wikipedia)](https://en.wikipedia.org/wiki/Resource_Description_Framework) & [query language](https://en.wikipedia.org/wiki/RDF_query_language)
 * RDFLib: [Github](https://github.com/RDFLib/rdflib) | [Docs](https://rdflib.readthedocs.io/en/stable/)
 * Marcel Otto: [RDF-ex](https://github.com/marcelotto/rdf-ex) & [SPARQL-ex](https://github.com/marcelotto/sparql-ex)
 * [Bringing the Semantic Web closer to reality: PostgreSQL as RDF Graph Database - Jimmy Angelakos](https://www.youtube.com/watch?v=M0pcFgI2-uE)
+* [XML to JSON to RDF : Another iteration in data format evolution - Claude Warren (ApacheCon @Home 2020)](https://www.youtube.com/watch?v=0Y8uydFtq2w)
 * [Information Service Engineering - Dr. Harald Sack & Dr. Maria Koutraki](https://open.hpi.de/courses/semanticweb2017/items/3ykhzMxJQmxDfBPUGRTCCy)
+
+##### DATABASES - GRAPH DATABASES - RDF - JENA
+
+* [Apache Jena GeoSPARQL - Marco Neumann (ApacheCon @Home 2020)](https://www.youtube.com/watch?v=CtP6x3V5Grc)
+* [Buddhist Digital Archives (BUDA), RDF and jena-text - Chris Tomlinson & Élie Roux](https://www.youtube.com/watch?v=757ipoFhttU)
 
 ##### DATABASES - GRAPH DATABASES - RDF - SEMANTIC WEB
 
@@ -1644,6 +1679,24 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Learn SPARQL - Stardog.com](https://www.stardog.com/tutorials/sparql/)
 * [SPARQL/Prefixes](https://en.wikibooks.org/wiki/SPARQL/Prefixes)
 * [SPARQL Order Matters - Bob Bebee](https://github.com/blazegraph/database/wiki/SPARQL_Order_Matters)
+
+##### DATABASES - GRAPH DATABASES - RDF - VOCABULARIES
+
+* [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/)
+* [Common Platform Enumeration (CPE)](https://nvd.nist.gov/products/cpe)
+* [Creative Commons Rights Expression Language (cc)](https://creativecommons.org/ns)
+* [DBpedia Ontology](http://dbpedia.org/ontology/)
+* [Dublin Core Elements (dce)](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3)
+* [Dublin Core Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-2)
+* [Friend of a Friend (FOAF)](https://en.wikipedia.org/wiki/FOAF_(ontology))
+* [Geospacial Positioning](https://www.w3.org/2003/01/geo/)
+* [PROVenance Ontology (prov)](https://www.w3.org/TR/prov-o/)
+* [Schema.org](https://schema.org/docs/schemas.html)
+* [SemWeb Vocab Status ontology (vs)](http://www.w3.org/2003/06/sw-vocab-status/ns)
+* [Simple Knowledge Organization System (skos)](https://www.w3.org/2009/08/skos-reference/skos.html)
+* [Time Ontology in OWL](https://www.w3.org/TR/owl-time/)
+* [VANN: A vocabulary for annotating vocabulary descriptions (vann)](https://vocab.org/vann/)
+* [vCard](https://www.w3.org/Submission/vcard-rdf/)
 
 #### DATABASES - GRAPH DATABASES - VIDEOS
 
@@ -4393,6 +4446,7 @@ Peter R. Egli:
 
 ### NETWORKING - TLS
 
+* [Transport Layer Security, TLS 1.2 and 1.3 - Hussein Nasser](https://www.youtube.com/watch?v=AlE5X1NlHgg)
 * [Every byte of a TLS connection explained - Michael Driscoll](https://tls.ulfheim.net/)
 
 ### NETWORKING - WEB SOCKETS
@@ -5137,6 +5191,7 @@ Peter R. Egli:
 
 ### PROGRAMMING - VIDEOS
 
+* ApacheCon: [@Home 2020](https://www.youtube.com/playlist?list=PLU2OcwpQkYCy_awEe5xwlxGTk5UieA37m) | [North America 2019](https://www.youtube.com/playlist?list=PLU2OcwpQkYCzWULP5C-C9eTF4DcbnYa2l) | [Europe 2019](https://www.youtube.com/playlist?list=PLU2OcwpQkYCxVGCGWtMxb9d27Z-pcoN9a) | [North America 2018](https://www.youtube.com/playlist?list=PLU2OcwpQkYCxUHOGg4TIZmeklYw4e-OMX) | [Miami 2017](https://www.youtube.com/playlist?list=PLbzoR-pLrL6pLDCyPxByWQwYTL-JrF5Rp) | [North America 2015](https://www.youtube.com/playlist?list=PLU2OcwpQkYCwpsq3-a84qgPbVqF4-wxVI) | [North America 2014](https://www.youtube.com/playlist?list=PLU2OcwpQkYCzvGxZgVOunTs-3iEao6YJc)
 * [Web Camp Zagreb 2019](https://2019.webcampzg.org/talks/)
 * StrangeLoop: [2019](https://www.youtube.com/playlist?list=PLcGKfGEEONaCToXJZ4Uk1NVW70U3C-Im-) | [2018](https://www.youtube.com/playlist?list=PLcGKfGEEONaBUdko326yL6ags8C_SYgqH) | [2017](https://www.youtube.com/playlist?list=PLcGKfGEEONaDzd0Hkn2f1talsTu1HLDYu) | [2016](https://www.youtube.com/playlist?list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa) | [2015](https://www.youtube.com/playlist?list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH32R)
 * [VoxxedDays Zurich 2018](https://www.youtube.com/playlist?list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL)
@@ -5711,6 +5766,8 @@ Peter R. Egli:
 
 #### SECURITY - ENCRYPTION - SSL
 
+* Dave Crabbe: [Intro to Digital Certificates](https://www.youtube.com/watch?v=qXLD2UHq2vk) | [Chain of Trust](https://www.youtube.com/watch?v=heacxYUnFHA)
+* [SSL & HTTPS - Nickolai Zeldovich (MIT)](https://www.youtube.com/watch?v=q1OF_0ICt9A)
 * [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)
 
 ### SECURITY - WEB

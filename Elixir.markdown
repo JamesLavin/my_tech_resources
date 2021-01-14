@@ -715,6 +715,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [How to Use IEx.pry in Elixir Tests - Adam Delong](https://adamdelong.com/iex-pry-test/)
 * [Debugging Live Systems on the BEAM - Jeffery Utter (ElixirConf 2020)](https://www.youtube.com/watch?v=sR9h3DZAA74)
+* [dbg/ttb: The Erlang text based tracer and trace tool builder - Mazen Harake](http://www.erlang-factory.com/upload/presentations/316/dbg%5B1%5D.pdf)
 * [Debugging & Tracing Elixir Applications - Dimitris Zorbas](https://zorbash.com/post/debugging-elixir-applications/)
 * [dbg](http://erlang.org/doc/man/dbg.html)
 * [Rexbug - Jacek Królikowski](https://github.com/nietaki/rexbug) | [Redbug - Mats Cronqvist](https://github.com/massemanet/redbug)
@@ -792,6 +793,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ##### ELIXIR - DEPLOYMENT - CLUSTERING - LIBCLUSTER
 
 * Libcluster - Paul Schoenfelder: [Github](https://github.com/bitwalker/libcluster) | [Docs](https://hexdocs.pm/libcluster/readme.html)
+* [How Elixir Releases and Clustering Lowers Complexity - Austin Hammer (ElixirConf 2020)](https://www.youtube.com/watch?v=gsnjstLQigQ)
 * [ExCluster: Clustered Elixir OTP application on Kubernetes with Horde and LibCluster - Dollar Shave Club](https://github.com/dollarshaveclub/ex_cluster)
 * [Elixir OTP applications on Kubernetes - Chirag Singh Toor](https://engineering.dollarshaveclub.com/elixir-otp-applications-on-kubernetes-9944636b8609)
 * [Connecting Elixir Nodes with libcluster, locally and on Kubernetes - Alvise Susmel](https://www.poeticoding.com/connecting-elixir-nodes-with-libcluster-locally-and-on-kubernetes/)
@@ -985,6 +987,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Awesome Elixir and CQRS](https://github.com/slashdotdash/awesome-elixir-cqrs)
 * [FAQ on DDD, CQRS & Event Sourcing - CQRS.nu](http://cqrs.nu/Faq)
 * [CQRS and Event Sourcing - Bernardo Amorim (Code Beam SF 2018)](https://www.youtube.com/watch?v=S3f6sAXa3-c)
+* [Domain-Driven Design With Elixir - Japa Swadia (ElixirConf 2020)](https://www.youtube.com/watch?v=fx3BmpzitUg)
 * Event Sourcing With Elixir - Bruno Antunes: [Part 0](https://blog.nootch.net/post/event-sourcing-with-elixir/) [Part 1](https://blog.nootch.net/post/event-sourcing-with-elixir-part-1#getting-started) | [Part 2](https://blog.nootch.net/post/event-sourcing-with-elixir-part-2/) | [Part 3](https://blog.nootch.net/post/event-sourcing-with-elixir-part-3/) | [Part 4](https://blog.nootch.net/post/event-sourcing-with-elixir-part-4/) | [Part 5](https://blog.nootch.net/post/event-sourcing-with-elixir-part-5/) | [Part 6](https://blog.nootch.net/post/event-sourcing-with-elixir-part-6/) | [Part 7](https://blog.nootch.net/post/event-sourcing-with-elixir-part-7/)
 * [Brook: Distributed Event-based Orchestration in Elixir - Jeff Grunewald (Lonestar Elixir 2020)](https://www.youtube.com/watch?v=p8axklAm4-A) | [Brook](https://github.com/bbalser/brook)
 * [event_bus: Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS - Mustafa Turan](https://github.com/otobus/event_bus) & [event_bus_postgres: Postgres event store for event_bus](https://github.com/otobus/event_bus_postgres)
@@ -1189,6 +1192,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Taking Elixir to the Metal with Rust - Sonny Scroggin](https://www.youtube.com/watch?v=lSLTwWqTbKQ)
 * [Writing Rust NIFs for your Elixir code with the Rustler package - Jacob Lerche](https://medium.com/@jacob.lerche/writing-rust-nifs-for-your-elixir-code-with-the-rustler-package-d884a7c0dbe3)
 * A NIFty way to integrate Rust with Elixir - Dave Lucia (Elixir NYC 2019): [Pig Latin NIF](https://github.com/davydog187/pig_latin_nif) | [Basketball NIF](https://github.com/davydog187/basketball_nif) | [Slides](https://docs.google.com/presentation/d/1gKE2vpgMAGD3vBNtaGO4v4YJt_XCXCkcluFzAHnRZ2w/edit)
+
+### ELIXIR - OBAN
+
+* [Oban: Robust job processing in Elixir, backed by modern PostgreSQL]()
 
 ### ELIXIR - OBSERVABILITY
 
@@ -1413,9 +1420,13 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ELIXIR - PHOENIX - LIVE VIEW
 
-* [LiveView](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html#content) | [LiveComponent](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html#content) | [LiveViewTest](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveViewTest.html#content) | [mix phx.gen.live](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Live.html)
+* [LiveView](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html) | [LiveComponent](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html) | [LiveViewTest](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveViewTest.html) | [mix phx.gen.live](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Live.html) | [API Reference](https://hexdocs.pm/phoenix_live_view/api-reference.html)
 * [Build a real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5 - Chris McCord](https://www.youtube.com/watch?v=MZvmYaFkNJI)
 * [Phoenix LiveView course - PragmaticStudio.com](https://pragmaticstudio.com/phoenix-liveview) (Nicole and Mike have incredibly generously created a professional LiveView course and given it away absolutely FREE)
+* [LiveView apps - Roman Heinrich and Alex Unger](https://github.com/happycodrz/liveview-apps)
+* [Liven up your LiveViews (even further) with AlpineJS - Patrick Thompson (ElixirConf 2020)](https://www.youtube.com/watch?v=Dv64_tGJhHo)
+* [Rendering Supervision Trees with Phoenix LiveView - Berenice Medel (ElixirConf 2020)](https://www.youtube.com/watch?v=sw-m9an2zFM)
+* [Building Multiplayer Games with LiveView - Dorian Karter (ElixirConf 2020)](https://www.youtube.com/watch?v=0UnLZlMr1Ug)
 * [GeoRacer - a real-time multiplayer mobile game in Elixir in 6 weeks - Zack Kayser and Beau Heubach (Code BEAM SF 2020)](https://www.youtube.com/watch?v=5DGUqcd-HWQ)
 * [Opening Keynote: Phoenix LiveView Uploads - Chris McCord (ElixirConf 2020)](https://www.youtube.com/watch?time_continue=2&v=QJkopba8yyE)
 * [What's new in LiveView - Chris McCord | ElixirConfEU Virtual 2020](https://www.youtube.com/watch?v=VU1JMg9AbLQ)
@@ -1450,12 +1461,15 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Phoenix Live View Example with Todos - Scott Meade](https://github.com/smeade/phoenix_live_view_example_todos)
 * observer_live: port of observer_cli using LiveView - Dimitris Zorbas: [Live example](https://liveview.zorbash.com/) | [Github](https://github.com/zorbash/observer_live)
 * [Libu: Simple KanBan Project Management tool built with Elixir, Phoenix, LiveView, and Tailwind CSS - Zach Blanco](https://github.com/zblanco/libu)
+* [How to use Google Maps with Phoenix LiveView - Tiago Duarte](https://www.coletiv.com/blog/how-to-use-google-maps-phoenix-live-view/)
 * [Table pagination, sorting, and filtering using LiveView - Joe Richsen](https://github.com/joerichsen/phoenix_live_view_example/blob/table_example/lib/demo_web/live/table_live.ex)
 * hippo_game_live - Milada & Černa Ovec: [Github](https://github.com/miladamilli/hippo_game_live) | [Play online](https://elegant-monstrous-planthopper.gigalixirapp.com/)
 
 ##### ELIXIR - PHOENIX - LIVE VIEW - LIVE COMPONENTS
 
 * [LiveComponent documentation](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html)
+* [LiveView Components FTW! - Feather Knee (ElixirConf 2020)](https://www.youtube.com/watch?v=qUZ5uN4gqNg)
+* [Client-Side Drag and Drop with Phoenix LiveView - Kelsey Leftwich](https://www.headway.io/blog/client-side-drag-and-drop-with-phoenix-liveview)
 * [Phoenix LiveComponent - Elixir's React + Redux? - David Raffauf](https://www.youtube.com/watch?v=bhdeHhwDFQo)
 * [LiveView Design Patterns - LiveComponent and the Single Responsibility Principle - Sophie DeBenedetto](https://elixirschool.com/blog/live-view-live-component/)
 
@@ -1463,14 +1477,16 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * Phoenix Live Dashboard: [Github](https://github.com/phoenixframework/phoenix_live_dashboard) | [Docs](https://hexdocs.pm/phoenix_live_dashboard/Phoenix.LiveDashboard.html)
 * Live Dashboard Metrics: [Docs](https://hexdocs.pm/phoenix_live_dashboard/metrics.html)
-* Instrumenting Phoenix 1.5 with Telemetry and LiveDashboard - Sophie DeBenedetto: [ElixirConf 2020](https://www.youtube.com/watch?v=6GT0UwIVkQI) | [Elixir School blog](https://elixirschool.com/blog/instrumenting-phoenix-with-live-dashboard/)
+* Instrumenting Phoenix 1.5 with Telemetry and LiveDashboard - Sophie DeBenedetto: [ElixirConf EU Virtual 2020](https://www.youtube.com/watch?v=v9LV0hvPmUQ) | [ElixirConf 2020](https://www.youtube.com/watch?v=6GT0UwIVkQI) | [Elixir School blog](https://elixirschool.com/blog/instrumenting-phoenix-with-live-dashboard/)
 * [Phoenix LiveView Dashboard - Plangora](https://www.youtube.com/watch?v=Nqr5ly35tu8)
 * [Phoenix LiveView Dashboard Metrics - Plangora](https://www.youtube.com/watch?v=ZrgtOp-wS0w)
 
 ##### ELIXIR - PHOENIX - LIVE VIEW - SURFACE
 
-* [Surface: server-side rendering component library for Phoenix](http://surface-demo.msaraiva.io/getting_started)
-* [Surface UI: Getting started](http://surface-demo.msaraiva.io/getting_started)
+* Surface: server-side rendering component library for Phoenix: [Getting started](http://surface-demo.msaraiva.io/getting_started) | [Github](https://github.com/msaraiva/surface)
+* [Introducing Surface: A new component-based (...) - Marlus Saraiva (ElixirConf EU Virtual 2020)](https://www.youtube.com/watch?v=6x-Xavz1o9M)
+* [Improving developer experience with Marlus Saraiva (Thinking Elixir podcast)](https://thinkingelixir.com/podcast-episodes/025-improving-developer-experience-with-marlus-saraiva/)
+* [VS Code plugin providing syntax highlighting support for Surface/Elixir](https://marketplace.visualstudio.com/items?itemName=msaraiva.surface)
 
 ##### ELIXIR - PHOENIX - LIVE VIEW - TESTING
 
@@ -1626,6 +1642,7 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ELIXIR - SCENIC
 
 * [scenic](https://github.com/boydm/scenic) | [scenic.new](https://github.com/boydm/scenic_new)
+* [Scenic Now and Looking Ahead - Boyd Multerer (ElixirConfEU Virtual 20)](https://www.youtube.com/watch?v=tej-SyhZrqk)
 * [Building a GameBoy emulator with Elixir and Scenic - Tonći Galić](https://2019.webcampzg.org/talks/building-a-gameboy-emulator-with-elixir-and-scenic/)
 * [Live Coding Pong in Scenic - Ju Liu](https://www.youtube.com/watch?v=feAW1AVzNwo)
 * [Natively Functional UI with Scenic - Boyd Multerer (Code BEAM STO 2019)](https://www.youtube.com/watch?v=dgllQmf5DXk)
@@ -1665,7 +1682,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * Telemetry: [Github](https://github.com/beam-telemetry/telemetry)
 * [Introducing Telemetry - Arkadiusz Gil](https://www.erlang-solutions.com/blog/introducing-telemetry.html)
-* Instrumenting Phoenix with Telemetry - Sophie DeBenedetto: [Part I: Telemetry Under The Hood](https://elixirschool.com/blog/instrumenting-phoenix-with-telemetry-part-one/)
+* Instrumenting Phoenix 1.5 with Telemetry - Sophie DeBenedetto: [Talk @ ElixirConf 2020](https://www.youtube.com/watch?v=6GT0UwIVkQI) | [Part I: Telemetry Under The Hood](https://elixirschool.com/blog/instrumenting-phoenix-with-telemetry-part-one/)
 * [Tips for Finch and Telemetry - Claudio Ortolina](https://claudio-ortolina.org/posts/tips-for-finch-and-telemetry/)
 * [OpenTelemetry Erlang SDK](https://github.com/open-telemetry/opentelemetry-erlang) | [OpenTelemetry SDK - Hex.pm](https://hex.pm/packages/opentelemetry) | [OpenTelemetry API - Hex.pm](https://hex.pm/packages/opentelemetry_api)
 * [Demystifying distributed tracing in Elixir via Open-Telemetry, Zipkin, and Elastic Search - coding-guy](https://guycoding.medium.com/demystifying-distributed-tracing-in-elixir-via-open-telemetry-zipkin-and-elastic-search-1876c254162d)
@@ -1673,6 +1690,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - TESTING
 
+* [Tricks and tools for writing Elixir tests - Brian Marick (ElixirConf 2020)](https://www.youtube.com/watch?v=-8ax7-UtXCQ)
 * [TDD is not about testing - Gianluca Padovani (Code BEAM STO 19)](https://www.youtube.com/watch?v=AVKpChQoXXE)
 * [Testing in an Elixir world - Rafael Rocha (Code BEAM STO 19)](https://www.youtube.com/watch?v=M8rv-gvTG-M)
 * [4 Tips for Mastering Test-Driven Development - Nicolas Talfer](https://www.welcometothejungle.com/fr/articles/tips-test-driven-development)
@@ -1786,11 +1804,11 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - VIDEOS
 
+* ElixirConf: [2020](https://www.youtube.com/playlist?list=PLqj39LCvnOWZl_Pb0Y7wGWijKbTvL4gJg) | [2019](https://www.youtube.com/playlist?list=PLqj39LCvnOWYTNs1n3ZNMSNO3Svv_XweT) | [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * ElixirConf EU: [EU Virtual October 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuqgpAyZVzeCoz6GQrQx9Xc) | [EU Virtual June 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuKXQqD64oZFss2fGERjKyK) | [2019 EU](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtoiQC735NjHyPJUS_nmrxy)
 * Code BEAM/Mesh: [V 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZ3c4NEvwvvvpOlEY2NrYQ) [SF 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zv85s835EGDeCIBYMipJKgL) | [Lite Amsterdam 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtHPqiRFH4nAJwbrfz04V_Q) | [CodeElixir LDN 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvvzEOmlqLUyrZdsW27w7zH) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Stockholm 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztq2fM3aGvXlj_jOfiopM2B) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Munich 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztyk61upvBMvVPbfTyfFgCE) | [Berlin 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs6eFJ9yx-jR7UShGGfPnY4) | [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
-* ElixirConf: [2019](https://www.youtube.com/playlist?list=PLqj39LCvnOWYTNs1n3ZNMSNO3Svv_XweT) | [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * The Big Elixir: [2019](https://www.youtube.com/playlist?list=PLaiqDZ6yySzjdDOXli7VcQw7a0wuJZfz1) | [2018](https://www.youtube.com/channel/UCInJUDVff2bzZSrkDRUCOdA)
-* Git City Elixir: [2019](https://www.youtube.com/playlist?list=PLKBMoE8mCkXgXIHTEw9073T4HdNPrvXuw)
+* Gig City Elixir: [2019](https://www.youtube.com/playlist?list=PLKBMoE8mCkXgXIHTEw9073T4HdNPrvXuw)
 * Meetups: [Elixir Berlin](https://www.youtube.com/channel/UC33mS5dbme8Hh_79YHVSibQ)
 * Lonestar ElixirConf: [2019](https://www.youtube.com/playlist?list=PLGqeEOaC5KsRisF-GUlgJh35EowwzMYoS) | [2018](https://www.youtube.com/playlist?list=PLGqeEOaC5KsQt7r8KCOzfDgcqsvy_-hCN) | [2017](http://confreaks.tv/events/lonestarelixir2017)
 * EMPEX: [2019 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapyHWNFBapGOz40efbJuwmx2) | [2018 NYC](https://www.youtube.com/playlist?list=PLyO-58-sOapw81dCfjDrX5TuYxS5S8qMq) | [2018 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapy9Fs4Sd-HOeQIFwrSCQ3z1) | [2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS) | [2016](https://www.youtube.com/playlist?list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)

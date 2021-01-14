@@ -392,8 +392,9 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 * [Not Just Events: Developing Asynchronous Microservices - Chris Richardson (GOTO 2019)](https://www.youtube.com/watch?v=kyNL7yCvQQc)
 
-### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - PROCESS MANAGERS & SAGAS
+### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - PROCESS MANAGERS, SAGAS, & DISTRIBUTED TRANSACTIONS
 
+* [Awesome distributed transactions - Denis Rystsov](https://github.com/rystsov/awesome-distributed-transactions)
 * Distributed Sagas: A Protocol for Coordinating Microservices - Caitie McAffrey: [(.NET Fringe 2017)](https://www.youtube.com/watch?v=1H6tounpnG8) | [On the Beach 2017 (Malaga, Spain)](https://www.youtube.com/watch?v=0UTOLRTwOX0)
 * [A Saga on Sagas - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/jj591569.aspx)
 * [If (domain logic) then CQRS, or Saga? - Udi Dahan (Domain-Driven Design Europe 2017)](https://www.youtube.com/watch?v=fWU8ZK0Dmxs)
