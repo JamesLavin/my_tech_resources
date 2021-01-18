@@ -891,6 +891,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - ECTO
 
 * Ecto: [documentation](https://hexdocs.pm/ecto/Ecto.html) | [Github](https://github.com/elixir-lang/ecto) | [discussion forum](https://groups.google.com/forum/#!forum/elixir-ecto)
+* [The Little Ecto Cookbook - Dashbit](https://dashbit.co/ebooks/the-little-ecto-cookbook) (free download from the wonderful people at Dashbit.co who shared Elixir with the world)
 * [Using Ecto outside of Phoenix by Geoffrey Lessel (Lonestar ElixirConf 2017)](https://www.youtube.com/watch?v=PWJpSRUJDwk) & [An Intro to Ecto: Using Ecto in Non-Phoenix Elixir Projects - Geoffrey Lessel (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=8j3DLfNI6Jw)
 * [Ecto: Database library for Elixir - Eric Meadows Jöhnson (Code Beam STO 2018)](https://www.youtube.com/watch?v=RT4p_g0SLUU)
 * [Embrace the Database With Ecto - Josh Branchaud (ElixirDaze 2017)](https://www.youtube.com/watch?v=fFqsMWmONN4)
@@ -1424,7 +1425,6 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Build a real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5 - Chris McCord](https://www.youtube.com/watch?v=MZvmYaFkNJI)
 * [Phoenix LiveView course - PragmaticStudio.com](https://pragmaticstudio.com/phoenix-liveview) (Nicole and Mike have incredibly generously created a professional LiveView course and given it away absolutely FREE)
 * [LiveView apps - Roman Heinrich and Alex Unger](https://github.com/happycodrz/liveview-apps)
-* [Liven up your LiveViews (even further) with AlpineJS - Patrick Thompson (ElixirConf 2020)](https://www.youtube.com/watch?v=Dv64_tGJhHo)
 * [Rendering Supervision Trees with Phoenix LiveView - Berenice Medel (ElixirConf 2020)](https://www.youtube.com/watch?v=sw-m9an2zFM)
 * [Building Multiplayer Games with LiveView - Dorian Karter (ElixirConf 2020)](https://www.youtube.com/watch?v=0UnLZlMr1Ug)
 * [GeoRacer - a real-time multiplayer mobile game in Elixir in 6 weeks - Zack Kayser and Beau Heubach (Code BEAM SF 2020)](https://www.youtube.com/watch?v=5DGUqcd-HWQ)
@@ -1465,10 +1465,19 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Table pagination, sorting, and filtering using LiveView - Joe Richsen](https://github.com/joerichsen/phoenix_live_view_example/blob/table_example/lib/demo_web/live/table_live.ex)
 * hippo_game_live - Milada & Černa Ovec: [Github](https://github.com/miladamilli/hippo_game_live) | [Play online](https://elegant-monstrous-planthopper.gigalixirapp.com/)
 
+##### ELIXIR - PHOENIX - LIVE VIEW - ALPINE.JS & SPRUCE
+
+* Alpine.js (lightweight framework for composing JS behavior in markup): [Github - Caleb Porzio](https://github.com/alpinejs/alpine/) | [Introducing Alpine.js: A Tiny JavaScript Framework - Phil Smith](https://www.smashingmagazine.com/2020/03/introduction-alpinejs-javascript-framework/)
+* Spruce (lightweight global state for Alpine.js): [Github - Ryan Chandler](https://github.com/ryangjchandler/spruce) | [Documentation](https://docs.ryangjchandler.co.uk/spruce/)
+* [Liven up your LiveViews (even further) with AlpineJS - Patrick Thompson (ElixirConf 2020)](https://www.youtube.com/watch?v=Dv64_tGJhHo)
+* [Integrating Phoenix LiveView with JavaScript and AlpineJS - Patrick Thompson](http://blog.pthompson.org/alpine-js-and-liveview)
+* [Creating LiveView Modals with Tailwind CSS and AlpineJS - Patrick Thompson](http://blog.pthompson.org/liveview-tailwind-css-alpine-js-modal)
+
 ##### ELIXIR - PHOENIX - LIVE VIEW - LIVE COMPONENTS
 
 * [LiveComponent documentation](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html)
 * [LiveView Components FTW! - Feather Knee (ElixirConf 2020)](https://www.youtube.com/watch?v=qUZ5uN4gqNg)
+* [Introduction to Phoenix LiveView LiveComponents - Patrick Thompson](http://blog.pthompson.org/liveview-livecomponents-introduction)
 * [Client-Side Drag and Drop with Phoenix LiveView - Kelsey Leftwich](https://www.headway.io/blog/client-side-drag-and-drop-with-phoenix-liveview)
 * [Phoenix LiveComponent - Elixir's React + Redux? - David Raffauf](https://www.youtube.com/watch?v=bhdeHhwDFQo)
 * [LiveView Design Patterns - LiveComponent and the Single Responsibility Principle - Sophie DeBenedetto](https://elixirschool.com/blog/live-view-live-component/)
@@ -1490,7 +1499,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ##### ELIXIR - PHOENIX - LIVE VIEW - TESTING
 
-* [Testing LiveView - German Valasco (ElixirConf 2020)](https://www.youtube.com/watch?v=h8NURVLysrk)
+* German Velasco: [Testing LiveView (ElixirConf 2020)](https://www.youtube.com/watch?v=h8NURVLysrk) & [Testing LiveView course](https://www.testingliveview.com/)
 
 #### ELIXIR - PHOENIX - PERFORMANCE
 
@@ -1524,6 +1533,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ELIXIR - PHOENIX - TESTING
 
+* [Test-Driven Development With Phoenix - German Velasco](https://www.tddphoenix.com/) (FREE book; in progress!)
 * [PhoenixIntegration: Lightweight server side integration test tools for Phoenix - Boyd Multerer](https://github.com/boydm/phoenix_integration)
 * [ExUnit Deep Dive - Daniel Serrano](https://dnlserrano.dev/2019/05/26/exunit-deep-dive.html)
 * [How to do Outside-In TDD with Phoenix - Yiming Chen](https://dsdshcym.github.io/blog/2018/08/04/how-to-do-outside-in-tdd-with-phoenix/)
