@@ -1191,7 +1191,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### CSS - TAILWIND CSS
 
-* Tailwind CSS: [Docs](https://tailwindcss.com/docs) | [Screencasts](https://www.youtube.com/tailwindlabs) | [Installation](https://tailwindcss.com/docs/installation) | [Website](https://tailwindcss.com/)
+* Tailwind CSS - Adam Wathan: [Docs](https://tailwindcss.com/docs) | [Screencasts](https://www.youtube.com/tailwindlabs) | [Installation](https://tailwindcss.com/docs/installation) | [Website](https://tailwindcss.com/)
+* [Tailwind CSS tutorial videos by its creator, Adam Wathan](https://www.youtube.com/channel/UCy1H38XrN7hi7wHSClfXPqQ)
+* [Learn Tailwind CSS for Free - Victor Gonzalez](https://scrimba.com/learn/tailwind)
 * Tailwind CSS cheatsheets: [NerdCave.com](https://nerdcave.com/tailwind-cheat-sheet) | [TailwindComponents.com](https://tailwindcomponents.com/cheatsheet/)
 * Tailwind UI Components: [Website](https://tailwindui.com/components) (Partially non-free $) | [TailwindComponents.com](https://tailwindcomponents.com/components)
 * [Adding Tailwind CSS to Phoenix 1.4 and 1.5 - Mike Clark](https://pragmaticstudio.com/tutorials/adding-tailwind-css-to-phoenix)
