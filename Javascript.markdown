@@ -6,12 +6,15 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 
 ## JAVASCRIPT
 
+* [The Modern JavaScript Tutorial - Javascript.info](https://javascript.info/)
+* Mozilla MDN: [Web](https://developer.mozilla.org/en-US/docs/Web) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * [Front-end Developer Handbook - FrontendMasters.com](https://frontendmasters.com/books/front-end-handbook/2019/)
 * [Khan Academy computer programming](https://www.khanacademy.org/computing/computer-programming)
 * [Beginner's Essential JavaScript Cheat Sheet - WebsiteSetup.org](https://websitesetup.org/wp-content/uploads/2018/04/wsu-js-cheat-sheet.pdf)
 * [Javascript Basics](http://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.html)
 * [Eloquent Javascript](http://eloquentjavascript.net/) & [3rd edition](https://eloquentjavascript.net/3rd_edition/)
 * [Javascript.com](https://www.javascript.com/resources)
+* [Modern Javascript Tutorial - Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
 * [33 Concepts Every JavaScript Developer Should Know - Leonardo Maldonado](https://github.com/leonardomso/33-js-concepts)
 * [Learning JavaScript Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Get better at JavaScript with just JavaScript - Wes Bos](https://www.youtube.com/watch?v=pws4qzGn5ak)
@@ -31,7 +34,6 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [JavaScript For Cats - An Introduction for New Programmers](http://jsforcats.com/)
 * [Nice discussion of scope chains, hoisting, self-executing anonymous functions, execution context, closures & module pattern (starting 28 minutes in)](http://www.youtube.com/watch?v=OrIFaWJ9Glo)
 * Crockford videos: [1](http://www.youtube.com/watch?v=JxAXlJEmNMg) [2](http://www.youtube.com/watch?v=RO1Wnu-xKoY) [3](http://www.youtube.com/watch?v=ya4UHuXNygM) [4](http://www.youtube.com/watch?v=Fv9qT9joc0M) [5](http://www.youtube.com/watch?v=47Ceot8yqeI) [6](http://www.youtube.com/watch?v=QgwSUtYSUqA) [7](http://www.youtube.com/watch?v=UTEqr0IlFKY) [8](http://www.youtube.com/watch?v=taaEzHI9xyY) [Advanced Javascript](http://www.youtube.com/watch?v=DwYPG6vreJg) [Good Parts](http://www.youtube.com/watch?v=_DKkVvOt6dk) [JS: Your New Overlord](http://www.youtube.com/watch?v=Trurfqh_6fQ)
-* [Mozilla MDN](https://developer.mozilla.org/en-US/docs/JavaScript)
 * [Programming JavaScript Applications - Eric Elliott](https://ericelliottjs.com/product/programming-javascript-applications-paper-ebook-bundle/)
 * The Two Pillars of JavaScript - Eric Elliott: [Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3) & [Pt 2: Functional Programming - How to Stop Micromanaging Everything](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 * JS Objects - Kyle Simpson: [Pt 1: Inherited a Mess](http://davidwalsh.name/javascript-objects), [Pt 2: Distractions](http://davidwalsh.name/javascript-objects-distractions) & [Pt 3: De"construct"ion](http://davidwalsh.name/javascript-objects-deconstruction)
@@ -65,6 +67,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 
 ### JAVASCRIPT - APIS
 
+* [Web APIs - Mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
 * [The Modern Web Platform: (04) Core APIs - JeffKoch, Jeremy Foster](https://channel9.msdn.com/Series/The-Modern-Web-Platform/04)
 
 ### JAVASCRIPT - ASYNCHRONOUS
@@ -227,6 +230,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 ### JAVASCRIPT - DOM
 
 * Javascript DOM Crash Course - Traversy Media: [Part 1](https://www.youtube.com/watch?v=0ik6X4DJKCc) | [Part 2](https://www.youtube.com/watch?v=mPd2aJXCZ2g) | [Part 3](https://www.youtube.com/watch?v=wK2cBMcDTss) | [Part 4](https://www.youtube.com/watch?v=i37KVt_IcXw)
+* [HTML & CSS Crash Course Tutorial - Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 * [Creating Nodes in the DOM](https://www.youtube.com/watch?v=RQ40ZilvCOg) | [Adding Nodes to the DOM]() | [Traversing the DOM](https://www.youtube.com/watch?v=8LWQNnVAMh4)
 * [Intro to the DOM - Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 * [Learn JavaScript By Building a Bookmarker Application - Traversy Media](https://www.youtube.com/watch?v=DIVfDZZeGxM)

@@ -66,41 +66,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - GETTING STARTED
 
 * Elixir-lang.org: [Docs](http://elixir-lang.org/docs.html) | [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html) | [Syntax reference](https://hexdocs.pm/elixir/syntax-reference.html) | [Learning resources](https://elixir-lang.org/learning.html) | [Elixir-lang-talk group](https://groups.google.com/forum/?fromgroups#!forum/elixir-lang-talk) | [Elixir Core mailing list](https://groups.google.com/forum/#!forum/elixir-lang-core) | [ElixirForum.com](http://elixirforum.com/)
-* Popular libraries:
-    * [Absinthe (GraphQL)](https://hexdocs.pm/absinthe/overview.html)
-    * [Bamboo (email)](https://hexdocs.pm/bamboo/readme.html)
-    * [Bcrypt (password hashing)](https://hexdocs.pm/bcrypt_elixir/Bcrypt.html)
-    * [Credo (static code analysis)](https://hexdocs.pm/credo/overview.html)
-    * [CSV](https://hexdocs.pm/csv/CSV.html)
-    * [DBConnection (db connection pools & transactions)](https://hexdocs.pm/db_connection/DBConnection.html)
-    * [Decimal (arbitrary precision decimals)](https://hexdocs.pm/decimal/readme.html)
-    * [Dialyxir (type checking)](https://hexdocs.pm/dialyxir/readme.html)
-    * [Ecto (change validation & DB interaction)](https://hexdocs.pm/ecto/Ecto.html) & [Ecto SQL](https://hexdocs.pm/ecto_sql/Ecto.Adapters.SQL.html)
-    * [ExDoc (doc generation)](https://hexdocs.pm/ex_doc/readme.html) ([Github](https://github.com/elixir-lang/ex_doc))
-    * [Floki (HTML parser)](https://hexdocs.pm/floki/Floki.html), uses [Servo.org](https://servo.org/)'s [html5ever Rust NIF](https://github.com/servo/html5ever)
-    * [GenStage (consumer-producer data pipelines)](https://hexdocs.pm/gen_stage/GenStage.html)
-    * [Gettext (internationalization/localization)](https://hexdocs.pm/gettext/Gettext.html)
-    * [Elixir](https://hexdocs.pm/elixir/Kernel.html)
-    * [IEx (Elixir shell)](https://hexdocs.pm/iex/IEx.html)
-    * [Jason (JSON parser)](https://hexdocs.pm/jason/readme.html)
-    * [Joken (JWTs)](https://hexdocs.pm/joken/introduction.html)
-    * [Memoize (function memoization)](https://hexdocs.pm/memoize/Memoize.html)
-    * [MIME](https://hexdocs.pm/mime/MIME.html)
-    * [Mock (test mocks)](https://hexdocs.pm/mock/Mock.html) | [Mox (test mocks)](https://hexdocs.pm/mox/Mox.html)
-    * [Number (number formatting)](https://hexdocs.pm/number/Number.html)
-    * [Phoenix (web server)](https://hexdocs.pm/phoenix/overview.html) | [Phoenix/Ecto](https://hexdocs.pm/phoenix_ecto/main.html) | [Phoenix.HTML](https://hexdocs.pm/phoenix_html/Phoenix.HTML.html) | [Phoenix.LiveReloader](https://hexdocs.pm/phoenix_live_reload/Phoenix.LiveReloader.html) | [Phoenix.LiveView (stateful client-server interaction)](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html) | [Phoenix.PubSub (realtime pub/sub service)](https://hexdocs.pm/phoenix_pubsub/Phoenix.PubSub.html)
-    * [Phone (phone number parser)](https://hexdocs.pm/phone/Phone.html)
-    * [Pigeon (iOS & Android push notifications)](https://hexdocs.pm/pigeon/getting-started.html)
-    * [Plug](https://hexdocs.pm/plug/readme.html) | [Plug.Cowboy](https://hexdocs.pm/plug_cowboy/Plug.Cowboy.html) | [Plug.Crypto](https://hexdocs.pm/plug_crypto/Plug.Crypto.html)
-    * [Postgrex (PostgreSQL driver)](https://hexdocs.pm/postgrex/readme.html)
-    * [Mix (build tool)](https://hexdocs.pm/mix/Mix.html)
-    * [Sobelow (security-focused static analysis)](https://hexdocs.pm/sobelow/readme.html)
-    * [SortedSet (NIF)](https://github.com/discord/sorted_set_nif) | [Using Rust to Scale Elixir for 11 Million Concurrent Users - Matt Nowack](https://blog.discord.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3)
-    * [StreamData (data generation)](https://hexdocs.pm/stream_data/StreamData.html)
-    * [Telemetry.Metrics (metrics based on :telemetry events)](https://hexdocs.pm/telemetry_metrics/Telemetry.Metrics.html)
-    * [Tesla (HTTP client)](https://hexdocs.pm/tesla/readme.html)
-    * [Tzdata (timezone database)](https://hexdocs.pm/tzdata/readme.html)
-    * [UUID](https://hexdocs.pm/uuid/readme.html)
+* [Default environment: The Kernel module](https://hexdocs.pm/elixir/Kernel.html)
 * [Elixir School](https://elixirschool.com/)
 * [ElixirCasts.io](https://elixircasts.io/?page=6)
 * [Elixir: functional, concurrent, distributed programming - Andrea Leopardi (Lambda World 2018)](https://www.youtube.com/watch?v=e3O0R5_69Pg)
@@ -138,6 +104,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [A Brief History of Elixir - Andrea Leopardi (Code BEAM Lite Munich 2018)](https://www.youtube.com/watch?v=CRBUD00H7AM)
 * [Lessons Learned Building a Medication Service at Teladoc and How Ecto Saved the Day - James Lavin (EMPEX 2018)](https://www.youtube.com/watch?v=CUvif-levqk) (Hey, that's ME! I did a thing!!!)
 * [Explicit Elixir - Paul Lamb (ElixirDaze 2016)](https://www.youtube.com/watch?v=sr5I5ncg0kU)
+* [Ten Reasons to Fall in Love with Elixir - Ivan Yurov](https://www.genui.com/resources/elixir-intro)
 * [What Elixir is About - José Valim (Erlang Factory SF 2015)](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
 * [Elixir: Easy fun for busy developers - David Schmitz (Devoxx 2016)](https://www.youtube.com/watch?v=naNN_gJas2A)
 * [Transforming Programming - Dave Thomas (Erlang & Elixir Factory 2017)](https://www.youtube.com/watch?v=A76hM3MpEKo)
@@ -179,6 +146,43 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir in times of microservices - José Valim](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/)
 * [Closures: Elixir vs. Ruby vs. JavaScript - Hubert Łępicki](https://www.amberbit.com/blog/2015/6/14/closures-elixir-vs-ruby-vs-javascript/)
 * [ExMachina for Elixir: Factories with a Functional Twist - Josh Steiner & Paul Smith](https://robots.thoughtbot.com/announcing-ex-machina)
+
+### ELIXIR - POPULAR LIBRARIES
+
+    * [Absinthe (GraphQL)](https://hexdocs.pm/absinthe/overview.html)
+    * [Bamboo (email)](https://hexdocs.pm/bamboo/readme.html)
+    * [Bcrypt (password hashing)](https://hexdocs.pm/bcrypt_elixir/Bcrypt.html)
+    * [Credo (static code analysis)](https://hexdocs.pm/credo/overview.html)
+    * [CSV](https://hexdocs.pm/csv/CSV.html)
+    * [DBConnection (db connection pools & transactions)](https://hexdocs.pm/db_connection/DBConnection.html)
+    * [Decimal (arbitrary precision decimals)](https://hexdocs.pm/decimal/readme.html)
+    * [Dialyxir (type checking)](https://hexdocs.pm/dialyxir/readme.html)
+    * [Ecto (change validation & DB interaction)](https://hexdocs.pm/ecto/Ecto.html) & [Ecto SQL](https://hexdocs.pm/ecto_sql/Ecto.Adapters.SQL.html)
+    * [ExDoc (doc generation)](https://hexdocs.pm/ex_doc/readme.html) ([Github](https://github.com/elixir-lang/ex_doc))
+    * [Floki (HTML parser)](https://hexdocs.pm/floki/Floki.html), uses [Servo.org](https://servo.org/)'s [html5ever Rust NIF](https://github.com/servo/html5ever)
+    * [GenStage (consumer-producer data pipelines)](https://hexdocs.pm/gen_stage/GenStage.html)
+    * [Gettext (internationalization/localization)](https://hexdocs.pm/gettext/Gettext.html)
+    * [Elixir](https://hexdocs.pm/elixir/Kernel.html)
+    * [IEx (Elixir shell)](https://hexdocs.pm/iex/IEx.html)
+    * [Jason (JSON parser)](https://hexdocs.pm/jason/readme.html)
+    * [Joken (JWTs)](https://hexdocs.pm/joken/introduction.html)
+    * [Memoize (function memoization)](https://hexdocs.pm/memoize/Memoize.html)
+    * [MIME](https://hexdocs.pm/mime/MIME.html)
+    * [Mock (test mocks)](https://hexdocs.pm/mock/Mock.html) | [Mox (test mocks)](https://hexdocs.pm/mox/Mox.html)
+    * [Number (number formatting)](https://hexdocs.pm/number/Number.html)
+    * [Phoenix (web server)](https://hexdocs.pm/phoenix/overview.html) | [Phoenix/Ecto](https://hexdocs.pm/phoenix_ecto/main.html) | [Phoenix.HTML](https://hexdocs.pm/phoenix_html/Phoenix.HTML.html) | [Phoenix.LiveReloader](https://hexdocs.pm/phoenix_live_reload/Phoenix.LiveReloader.html) | [Phoenix.LiveView (stateful client-server interaction)](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html) | [Phoenix.PubSub (realtime pub/sub service)](https://hexdocs.pm/phoenix_pubsub/Phoenix.PubSub.html)
+    * [Phone (phone number parser)](https://hexdocs.pm/phone/Phone.html)
+    * [Pigeon (iOS & Android push notifications)](https://hexdocs.pm/pigeon/getting-started.html)
+    * [Plug](https://hexdocs.pm/plug/readme.html) | [Plug.Cowboy](https://hexdocs.pm/plug_cowboy/Plug.Cowboy.html) | [Plug.Crypto](https://hexdocs.pm/plug_crypto/Plug.Crypto.html)
+    * [Postgrex (PostgreSQL driver)](https://hexdocs.pm/postgrex/readme.html)
+    * [Mix (build tool)](https://hexdocs.pm/mix/Mix.html)
+    * [Sobelow (security-focused static analysis)](https://hexdocs.pm/sobelow/readme.html)
+    * [SortedSet (NIF)](https://github.com/discord/sorted_set_nif) | [Using Rust to Scale Elixir for 11 Million Concurrent Users - Matt Nowack](https://blog.discord.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3)
+    * [StreamData (data generation)](https://hexdocs.pm/stream_data/StreamData.html)
+    * [Telemetry.Metrics (metrics based on :telemetry events)](https://hexdocs.pm/telemetry_metrics/Telemetry.Metrics.html)
+    * [Tesla (HTTP client)](https://hexdocs.pm/tesla/readme.html)
+    * [Tzdata (timezone database)](https://hexdocs.pm/tzdata/readme.html)
+    * [UUID](https://hexdocs.pm/uuid/readme.html)
 
 ### ELIXIR - 1.11
 
@@ -627,8 +631,6 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [RDF.ex - Marcel Otto](https://github.com/marcelotto/rdf-ex) | [Docs (Hexdocs)](https://hexdocs.pm/rdf/RDF.html) | [RDF on Elixir website](https://rdf-elixir.dev/) | [Docs (RDF-Elixir.dev)](https://rdf-elixir.dev/rdf-ex/)
 * [JSON-LD - Marcel Otto](https://github.com/marcelotto/jsonld-ex)
-* [sparql-ex - Marcel Otto](https://github.com/marcelotto/sparql-ex) | [Docs](https://rdf-elixir.dev/sparql-ex/)
-* [sparql_client - Marcel Otto](https://github.com/marcelotto/sparql_client)
 
 #### ELIXIR - CLIENTS - CASSANDRA CLIENTS
 
@@ -649,6 +651,16 @@ Links to resources I have found useful or think might be helpful to future me or
 * Tesla: [Github](https://github.com/teamon/tesla)
 * [Tesla: flexible HTTP client library for Elixir, with support for middleware and multiple adapters](https://github.com/teamon/tesla)
 * [Working with HTTP/2 in Elixir - Peter Saxton (Elixir.LDN 2017)](https://www.youtube.com/watch?v=zqzkrUVfv-k)
+
+#### ELIXIR - CLIENTS - SPARQL CLIENTS
+
+* [sparql-ex - Marcel Otto](https://github.com/marcelotto/sparql-ex) | [Docs](https://rdf-elixir.dev/sparql-ex/)
+* [sparql_client - Marcel Otto](https://github.com/marcelotto/sparql_client)
+
+#### ELIXIR - CLIENTS - SSH CLIENTS
+
+* [sshex - Rubén Caro](https://github.com/rubencaro/sshex)
+* [Implementing SSH tunnels in Elixir - Simon Thörnqvist](https://medium.com/@Drowzy/implementing-ssh-tunnels-in-elixir-e7ad9d1af01a)
 
 ### ELIXIR - CODE EXAMPLES
 
@@ -711,6 +723,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How Do I GenStage? - Adrian Dunston](http://engineering.spreedly.com/blog/how-do-i-genstage.html)
 * [Reactive Tweets with Elixir GenStage - Mario Flach](https://almightycouch.org/blog/reactive-tweets-elixir-genstage/)
 
+### ELIXIR - DATE & TIME
+
+* [DateTime module](https://hexdocs.pm/elixir/master/DateTime.html)
+
 ### ELIXIR - DEBUGGING
 
 * [How to Use IEx.pry in Elixir Tests - Adam Delong](https://adamdelong.com/iex-pry-test/)
@@ -730,6 +746,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Using Pry in Elixir - Jeffrey Matthias](http://idlehands.codes/using-pry-in-elixir)
 
+#### ELIXIR - DEBUGGING - VISUALIXIR
+
+* [Visualixir: toy visualizer for BEAM nodes, written in Elixir + Phoenix + d3, with live message sequence charts - Michael Shapiro](https://github.com/koudelka/visualixir#visualixir)
+F
 ### ELIXIR - DEPLOYMENT
 
 * [From Zero to Elixir Deployment - Philipp Schmieder (ElixirConf EU 2019)](https://www.youtube.com/watch?v=Noawmmd6yxM)
@@ -809,6 +829,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - DEPLOYMENT - CONFIGURATION
 
+* [Config](https://hexdocs.pm/elixir/Config.html) | [Config.Provider](https://hexdocs.pm/elixir/Config.Provider.html) | [Config.Reader](https://hexdocs.pm/elixir/Config.Reader.html)
+* Confex - helper to read and use application configuration from environment variables - Nebo #15: [Github](https://github.com/Nebo15/confex)
 * Vapor - Runtime configuration system for Elixir - Chris Keathley: [Github](https://github.com/keathley/vapor) | [Configuring your Elixir Application at Runtime with Vapor - Devon Estes](https://blog.appsignal.com/2020/04/28/configuring-your-elixir-application-at-runtime-with-vapor.html)
 * Skogsrå - Library to manage OS environment variables and application configuration options with ease - GMT Prime Corp: [Github](https://github.com/gmtprime/skogsra) | [Article](https://dev.to/alexdesousa/skogsra-simplifying-your-elixir-configuration-35im) | [Docs](https://hexdocs.pm/skogsra/readme.html)
 * [Configuration Demystified - Sean Callan](https://elixirschool.com/blog/configuration-demystified/)
@@ -891,6 +913,13 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - ECTO
 
 * Ecto: [documentation](https://hexdocs.pm/ecto/Ecto.html) | [Github](https://github.com/elixir-lang/ecto) | [discussion forum](https://groups.google.com/forum/#!forum/elixir-ecto)
+  * [Ecto Changeset](https://hexdocs.pm/ecto/Ecto.Changeset.html)
+  * [Ecto Multi](https://hexdocs.pm/ecto/Ecto.Multi.html)
+  * [Ecto Repo](https://hexdocs.pm/ecto/Ecto.Repo.html)
+  * [Ecto Schema](https://hexdocs.pm/ecto/Ecto.Schema.html)
+  * [Ecto SQL](https://hexdocs.pm/ecto_sql/Ecto.Adapters.SQL.html)
+  * [Ecto Query](https://hexdocs.pm/ecto/Ecto.Query.html)
+  * [Phoenix Ecto documentation](https://hexdocs.pm/phoenix/ecto.html)
 * [The Little Ecto Cookbook - Dashbit](https://dashbit.co/ebooks/the-little-ecto-cookbook) (free download from the wonderful people at Dashbit.co who shared Elixir with the world)
 * [Using Ecto outside of Phoenix by Geoffrey Lessel (Lonestar ElixirConf 2017)](https://www.youtube.com/watch?v=PWJpSRUJDwk) & [An Intro to Ecto: Using Ecto in Non-Phoenix Elixir Projects - Geoffrey Lessel (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=8j3DLfNI6Jw)
 * [Ecto: Database library for Elixir - Eric Meadows Jöhnson (Code Beam STO 2018)](https://www.youtube.com/watch?v=RT4p_g0SLUU)
@@ -1051,7 +1080,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - GREMLEX
 
-* Gremlex: Elixir client for Gremlin (Apache TinkerPop): [Website](https://gremlex.carlabs.ai/) | [API docs](https://hexdocs.pm/gremlex/api-reference.html) | [Github](https://github.com/Revmaker/gremlex)
+* Gremlex: Elixir client for Gremlin (Apache TinkerPop): [Website](https://gremlex.carlabs.ai/) | [API docs](https://hexdocs.pm/gremlex/api-reference.html) | [Github](https://github.com/Revmaker/gremlex) | [Github (my fork)](https://github.com/jameslavin/gremlex)
 * [Introducing Gremlex  - Kevin Moore](https://medium.com/carlabs/introducing-gremlex-6f685adf73bd)
 
 ### ELIXIR - GRAPHQL & ABSINTHE
@@ -1162,6 +1191,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - MIX
 
+* [Mix documentation](https://hexdocs.pm/mix/master/Mix.html)
+  * [Mix Project](https://hexdocs.pm/mix/master/Mix.Project.html)
+  * [Mix Task](https://hexdocs.pm/mix/master/Mix.Task.html)
+* [Mix tasks](https://hexdocs.pm/mix/Mix.Tasks.App.Config.html#content)
 * [Intro to Mix](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 * The Mix & OTP Guide: [(EPUB)](https://github.com/JamesLavin/my_tech_resources/raw/master/mix-and-otp.epub) | [Online](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 * [Mix Templates - Dave Thomas](https://github.com/pragdave/mix_templates)
@@ -1171,9 +1204,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [ecto_mnesia: Ecto adapter for Mnesia Erlang term database - Nebo #15](https://github.com/Nebo15/ecto_mnesia)
 
+### ELIXIR - MUSIC
+
+* [`mix new beats` - Recreating The "Amen Break" with Elixir - Mat Trudel](https://www.youtube.com/watch?v=XN4WuOujr38)
+
 ### ELIXIR - NERVES
 
 * [Nerves](https://www.nerves-project.org/): [Nerves Platform](https://www.nerves-project.org/platform) | [Documentation](https://hexdocs.pm/nerves/getting-started.html) | [Nerves Hub](https://www.nerves-project.org/nerveshub) | [Github](https://github.com/nerves-project)
+* [Short Circuit IoT Development Time with Nerves - Dan Lindeman (ElixirConf 2020)](https://www.youtube.com/watch?v=LHysKONykf8)
 * [Nerves intro - ElixirSchool.com](https://elixirschool.com/en/lessons/specifics/nerves/)
 * [Keep Calm and Use Nerves - Arjan Scherpenisse (FOSDEM 2020)](https://www.youtube.com/watch?v=VMirPsSYbGM)
 * [Hello World - Justin Scheck (ElixirConf 2020)](https://www.youtube.com/watch?v=BmnlWAVqkVM)
@@ -1193,6 +1231,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Taking Elixir to the Metal with Rust - Sonny Scroggin](https://www.youtube.com/watch?v=lSLTwWqTbKQ)
 * [Writing Rust NIFs for your Elixir code with the Rustler package - Jacob Lerche](https://medium.com/@jacob.lerche/writing-rust-nifs-for-your-elixir-code-with-the-rustler-package-d884a7c0dbe3)
 * A NIFty way to integrate Rust with Elixir - Dave Lucia (Elixir NYC 2019): [Pig Latin NIF](https://github.com/davydog187/pig_latin_nif) | [Basketball NIF](https://github.com/davydog187/basketball_nif) | [Slides](https://docs.google.com/presentation/d/1gKE2vpgMAGD3vBNtaGO4v4YJt_XCXCkcluFzAHnRZ2w/edit)
+
+### ELIXIR - NX
+
+* [NX: Numerical Elixir & Elixir XLA bindings for CPU/GPU/TPU (Github)](https://github.com/elixir-nx/nx)
+* [Introducing NX - José Valim (Lambda Days 2021)](https://www.youtube.com/watch?v=fPKMmJpAGWc)
+* [José Valim reveals Project Nx - (ThinkingElixir podcast)](https://thinkingelixir.com/podcast-episodes/034-jose-valim-reveals-project-nx/)
 
 ### ELIXIR - OBAN
 
@@ -1231,6 +1275,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Per-user workers with custom queue processing (using GenServer and Supervisor) - Adam Hodowany](https://www.youtube.com/watch?v=19JakddwsV8)
 * The Mix & OTP Guide: [(EPUB)](https://github.com/JamesLavin/my_tech_resources/raw/master/mix-and-otp.epub) | [Online](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 * [How OTP Applications are structured - Jeff Kreeftmeijer](https://blog.appsignal.com/2018/09/18/elixir-alchemy-how-otp-applications-are-structured.html)
+* [The Circuit Breaker Pattern in Elixir - Allan MacGregor](https://medium.com/better-programming/circuit-breaker-pattern-in-elixir-fff06199083c)
 * [Creating Elixir libraries as OTP applications - Hubert Łępicki](https://www.amberbit.com/blog/2016/5/10/creating-elixir-libraries-as-otp-applications/)
 * [OTP in Elixir - Part 1 - Christian Di Lorenzo (Triangle Elixir 2016)](https://www.youtube.com/watch?v=_WgrfEaAM4Y)
 * [Chat Bot: A Practical Walkthrough of the powerful Features Elixir/Erlang/OTP - Jeff Weiss](https://www.youtube.com/watch?v=NrrUyRt_B1w)
@@ -1280,7 +1325,9 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - PHOENIX
 
+* [Phoenix Documentation](https://hexdocs.pm/phoenix/Phoenix.html)
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix) | [Website](http://www.phoenixframework.org)
+* [FullstackPhoenix.com - Speed up development significantly by using the Boilerplate generator](https://fullstackphoenix.com/)
 * [Phoenix Phrenzy](https://phoenixphrenzy.com/results)
 * [Keynote: Phoenix 1.3 - Chris McCord (Lonestar ElixirConf 2017)](https://www.youtube.com/watch?v=tMO28ar0lW8) & [discussion](https://elixirforum.com/t/lonestar-elixirconf-2017-keynote-phoenix-1-3-by-chris-mccord/3908/12)
 * [Stateful Web Apps with Phoenix and OTP - Hannah Howard (Erlang & Elixir Factory SF 2017)](https://www.youtube.com/watch?v=rX6tC5K_XaI)
@@ -1316,7 +1363,6 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - 1.5
 
-* [Phoenix Documentation](https://hexdocs.pm/phoenix/Phoenix.html)
 * [Phoenix 1.4.x to 1.5.0 upgrade instructions - Chris McCord](https://gist.github.com/chrismccord/e53e79ef8b34adf5d8122a47db44d22f)
 
 #### ELIXIR - PHOENIX - 1.4
@@ -1363,6 +1409,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - CHANNELS
 
+* Documentation: [Channels](https://hexdocs.pm/phoenix/channels.html) | [Testing channels](https://hexdocs.pm/phoenix/testing_channels.html) | [ChannelTest](https://hexdocs.pm/phoenix/Phoenix.ChannelTest.html)
 * [Using channels in Phoenix - Vitaly Tatarintsev](http://whatdidilearn.info/2018/03/04/using-channels-in-phoenix.html)
 * [Phoenix PubSub: Using Phoenix.PubSub to send messages across processes - Hubert Pompecki](https://www.pompecki.com/post/phoenix-pubsub/)
 * [Phoenix WebSockets Under a Microscope - Dimitris Zorbas](https://zorbash.com/post/phoenix-websockets-under-a-microscope/)
@@ -1370,12 +1417,18 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - PHOENIX - CONTEXTS
 
+* [Context documentation](https://hexdocs.pm/phoenix/contexts.html) | [Testing contexts documentation](https://hexdocs.pm/phoenix/testing_contexts.html)
 * [The Alchemist's Code: Bringing More Value with Less Magic - Rafal Studnicki (Code Elixir LDN 19)](https://www.youtube.com/watch?v=XGeK9q6yjsg)
+
+#### ELIXIR - PHOENIX - CONTROLLERS
+
+* Documentation: [Controller guide](https://hexdocs.pm/phoenix/controllers.html) | [Phoenix.Controller](https://hexdocs.pm/phoenix/Phoenix.Controller.html) | [Testing controllers guide](https://hexdocs.pm/phoenix/testing_controllers.html)
 
 #### ELIXIR - PHOENIX - DEPLOYMENT
 
 Note: Elixir 1.9 includes release support:
 
+* [Deploying with Releases](https://hexdocs.pm/phoenix/releases.html)
 * [Multi-stage Docker Builds and Elixir 1.9 Releases - Alex Koutmos](https://akoutmos.com/post/multipart-docker-and-elixir-1.9-releases/)
 * [Building Elixir 1.9 releases - Alchemist Camp](https://www.youtube.com/watch?v=W5Af_FFtOsQ)
 * [Updating Hex.pm to use Elixir releases - Wojtek Mach](http://blog.plataformatec.com.br/2019/05/updating-hex-pm-to-use-elixir-releases/)
@@ -1501,6 +1554,10 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * German Velasco: [Testing LiveView (ElixirConf 2020)](https://www.youtube.com/watch?v=h8NURVLysrk) & [Testing LiveView course](https://www.testingliveview.com/)
 
+#### ELIXIR - PHOENIX - MIX TASKS
+
+* [Mix tasks documentation](https://hexdocs.pm/phoenix/mix_tasks.html)
+
 #### ELIXIR - PHOENIX - PERFORMANCE
 
 * [Elixir vs Ruby Showdown - Phoenix vs Rails - Chris McCord](http://www.littlelines.com/blog/2014/07/08/elixir-vs-ruby-showdown-phoenix-vs-rails/)
@@ -1525,6 +1582,16 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ELIXIR - PHOENIX - PUB/SUB
 
 * [Using Phoenix.PubSub to manage side effects - Marcel Horlings](https://devrain.io/posts/using-phoenix-pubsub-to-manage-side-effects/)
+* [Lightning Talk: (Ab)using Posgres for Pub/Sub - Jon Rowe](https://www.youtube.com/watch?v=hR4TVUlSMBg)
+* [PostgreSQL PubSub with Elixir - Plangora](https://www.youtube.com/watch?v=i30D_zTVJsc) | [Demo code](https://github.com/Plangora/pubsub_demo/tree/listen-notify) | [PostgreSQL PubSub with Triggers - Plangora](https://www.youtube.com/watch?v=2-7V0tjPoZk)
+* [Postgrex.Notifications](https://hexdocs.pm/postgrex/Postgrex.Notifications.html)
+* [System design hack: Postgres is a great pub/sub & job server - Colin Chartier](https://layerci.com/blog/postgres-is-the-answer/)
+* [postgrex_pubsub - Ben Church](https://github.com/bechurch/postgrex_pubsub)
+
+#### ELIXIR - PHOENIX - TELEMETRY
+
+* [Telemetry documentation](https://hexdocs.pm/phoenix/telemetry.html)
+* Instrumenting Phoenix with Telemetry and LiveDashboard - Sophie DeBenedetto: [Part I](https://elixirschool.com/blog/instrumenting-phoenix-with-live-dashboard/) | [Part II: Telemetry Metrics + Reporters](https://elixirschool.com/blog/instrumenting_phoenix_with_telemetry_part_two/) | [Part III: Phoenix + Ecto Telemetry Events](https://elixirschool.com/blog/instrumenting_phoenix_with_telemetry_part_three/) | [Part IV: Erlang VM Measurements with `telemetry_poller`](https://elixirschool.com/blog/instrumenting-phoenix-with-telemetry-part-four/)
 
 #### ELIXIR - PHOENIX - TEMPLATES & LAYOUTS
 
@@ -1675,6 +1742,13 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ELIXIR - SSL
 
 * [elixir-socket - wraps gen_tcp, gen_udp and gen_sctp, ssl and implements websockets and socks](https://github.com/meh/elixir-socket)
+
+### ELIXIR - STATE MACHINES
+
+* [Pretty State Machine - Jeff Smith (Code BEAM SF 2019)](https://www.youtube.com/watch?v=KuZ_wp8W09U)
+* [gen_statem - The Tool You Never Knew You Always Wanted - Raimo Niskanen (Code BEAM SF 2018)](https://www.youtube.com/watch?v=f_jl6MR3kXQ)
+* [Building State Machines in Elixir with Ecto - Miguel Palhas](https://blog.appsignal.com/2020/07/14/building-state-machines-in-elixir-with-ecto.html)
+* [states_language: Declaratively design state machines that compile to Elixir based :gen_statem processes](https://github.com/entropealabs/states_language)
 
 ### ELIXIR - STREAMS
 
@@ -1925,7 +1999,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [So I used Erlang...is my system as scalable as they say it'd be? - Laura Castro (Lambda World 2019)](https://www.youtube.com/watch?v=O_DIoKqoW8I)
 * [Fantastic Voyage III: Destination BEAM - Brian Troutwine (Code BEAM SF 2019)](https://www.youtube.com/watch?v=Cri3Qqy4ptM)
 * [Digging through the garbage - Devon Estes (Code BEAM Lite Berlin 18)](https://www.youtube.com/watch?v=aqLujfzvUgM)
-* The Erlang Runtime System (a.k.a., The BEAM Book): [Github (source)](https://github.com/happi/theBeamBook) & [PDF](https://github.com/happi/theBeamBook/releases)
+* The Erlang Runtime System (a.k.a., The BEAM Book) - Erik Stenman: [Github (source)](https://github.com/happi/theBeamBook) & [PDF](https://github.com/happi/theBeamBook/releases) & [Webpage](https://blog.stenmans.org/theBeamBook/)
 * [How does fault tolerance work in Erlang? - Charlotte Lorelei Oliveira (Code BEAM Lite Munich 2018)](https://www.youtube.com/watch?v=kXphEiJ8RXQ)
 * [Hitchhiker's Tour of the BEAM - Robert Virding](https://www.youtube.com/watch?v=_Pwlvy3zz9M)
 * [Journey to the Center of the BEAM - Brian Mitchell (EMPEX 2016)](https://www.youtube.com/watch?v=_HQfS8efVeg)
@@ -1944,8 +2018,16 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Konstantin Duman](https://kduman.com/)
 * [This Week in Erlang - Sasan Gootik](https://gootik.github.io/this-week-in-erlang/)
 
+### ERLANG - CLIENTS
+
+#### ERLANG - CLIENTS - HTTP CLIENTS
+
+* [Gun](https://github.com/ninenines/gun) | [Gun. The Powerful Erlang HTTP Client - Damir Gainetdinov](http://big-elephants.com/2019-05/gun/)
+
 ### ERLANG - CONCURRENCY
 
+* [JVM struggles and the BEAM - Joel Kemp](https://mrjoelkemp.medium.com/jvm-struggles-and-the-beam-4d9c58547410)
+* [Optimising for Concurrency: Comparing and contrasting the BEAM and JVM virtual machines - Francesco Cesarini & Gabor Olah](https://www.erlang-solutions.com/blog/optimising-for-concurrency-comparing-and-contrasting-the-beam-and-jvm-virtual-machines.html)
 * [Life of an Erlang process - Roberto Aloi (LambdaCon 2016)](https://www.youtube.com/watch?v=Yh8kGIufdJ8)
 * [How Erlang got its name - Bjarne Däcker (Code BEAM STO 19)](https://www.youtube.com/watch?v=0ytatCDEGyc)
 
@@ -1979,6 +2061,11 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ERLANG - DOCUMENTATION
 
 * [Erlang/OTP Search](http://erlang.org/doc/search/)
+* [Erlang Modules Reference](http://erlang.org/doc/man_index.html)
+* Erlang Run-Time System App (ERTS): [HTML](http://erlang.org/doc/apps/erts/) & [PDF](http://erlang.org/doc/apps/erts/erts.pdf)
+* Std Lib User's Guide: [HTML](http://erlang.org/doc/apps/stdlib/users_guide.html) & [PDF](http://erlang.org/doc/apps/stdlib/stdlib.pdf)
+* Std Lib Reference Manual: [HTML](http://erlang.org/doc/apps/stdlib/index.html) & PDF (I can't find the PDF for this)
+* Kernel: [HTML](http://erlang.org/doc/apps/kernel/) & [PDF](http://erlang.org/doc/apps/kernel/kernel.pdf)
 * Erlang/OTP System Documentation: [PDF](http://erlang.org/doc/pdf/otp-system-documentation.pdf) (includes all the following):
   * Installation Guide: [HTML](http://erlang.org/doc/installation_guide/users_guide.html)
   * System Principles: [HTML](http://erlang.org/doc/system_principles/users_guide.html)
@@ -1995,26 +2082,22 @@ Consequently, much of the following will soon be at least partially outdated:
   * Debugger: [HTML](http://erlang.org/doc/apps/debugger/) & [PDF](http://erlang.org/doc/apps/debugger/debugger.pdf)
   * Dialyzer: [HTML](http://erlang.org/doc/apps/dialyzer/) & [PDF](http://erlang.org/doc/apps/dialyzer/dialyzer.pdf)
   * Diameter: [HTML](http://erlang.org/doc/apps/diameter/) & [PDF](http://erlang.org/doc/apps/diameter/diameter.pdf)
-  * Erlang Run-Time System App (ERTS): [HTML](http://erlang.org/doc/apps/erts/) & [PDF](http://erlang.org/doc/apps/erts/erts.pdf)
   * Event Tracer: [HTML](http://erlang.org/doc/apps/et/) & [PDF](http://erlang.org/doc/apps/et/et.pdf)
   * Inets: [HTML](http://erlang.org/doc/apps/inets/) & [PDF](http://erlang.org/doc/apps/inets/inets.pdf)
-  * Kernel: [HTML](http://erlang.org/doc/apps/kernel/) & [PDF](http://erlang.org/doc/apps/kernel/kernel.pdf)
-	* Mnesia: [HTML](http://erlang.org/doc/apps/mnesia/) & [PDF](http://erlang.org/doc/apps/mnesia/mnesia.pdf)
-	* Observer: [HTML](http://erlang.org/doc/apps/observer/) & [PDF](http://erlang.org/doc/apps/observer/observer.pdf)
+  * Mnesia: [HTML](http://erlang.org/doc/apps/mnesia/) & [PDF](http://erlang.org/doc/apps/mnesia/mnesia.pdf)
+  * Observer: [HTML](http://erlang.org/doc/apps/observer/) & [PDF](http://erlang.org/doc/apps/observer/observer.pdf)
   * ODBC: [HTML](http://erlang.org/doc/apps/odbc/) & [PDF](http://erlang.org/doc/apps/odbc/odbc.pdf)
   * OS Mon: [HTML](http://erlang.org/doc/apps/os_mon/) & [PDF](http://erlang.org/doc/apps/os_mon/os_mon.pdf)
   * ParseTools: [HTML](http://erlang.org/doc/apps/parsetools/) & [PDF](http://erlang.org/doc/apps/parsetools/parsetools.pdf)
   * RelTool: [HTML](http://erlang.org/doc/apps/reltool/) & [PDF](http://erlang.org/doc/apps/reltool/reltool.pdf)
   * RuntimeTools: [HTML](http://erlang.org/doc/apps/runtime_tools/) & [PDF](http://erlang.org/doc/apps/runtime_tools/runtime_tools.pdf)
   * SASL (System Architecture Support Libraries): [HTML](http://erlang.org/doc/apps/sasl/) & [PDF](http://erlang.org/doc/apps/sasl/sasl.pdf)
+  * SSH: [HTML](http://erlang.org/doc/apps/ssh/index.html) & [PDF](http://erlang.org/doc/apps/ssh/ssh.pdf)
   * SSL: [HTML](http://erlang.org/doc/apps/ssl/) & [PDF](http://erlang.org/doc/apps/ssl/ssl.pdf)
-  * Std Lib User's Guide: [HTML](http://erlang.org/doc/apps/stdlib/users_guide.html) & [PDF](http://erlang.org/doc/apps/stdlib/stdlib.pdf)
-  * Std Lib Reference Manual: [HTML](http://erlang.org/doc/apps/stdlib/index.html) & PDF (I can't find the PDF for this)
   * Tools: [HTML](http://erlang.org/doc/apps/tools/) & [PDF](http://erlang.org/doc/apps/tools/tools.pdf)
   * Wx: [HTML](http://erlang.org/doc/apps/wx/) & [PDF](http://erlang.org/doc/apps/wx/wx.pdf)
   * Xmerl: [HTML](http://erlang.org/doc/apps/xmerl/) & [PDF](http://erlang.org/doc/apps/xmerl/xmerl.pdf)
-  * [More docs](http://erlang.org/doc/apps/)
-  * [More modules](http://erlang.org/doc/man_index.html)
+  * [More docs](http://erlang.org/doc/applications.html)
   * [More library docs](http://erlang.org/documentation/doc-8.3/lib/)
 * [An Erlang Course](http://www.erlang.org/course)
 * [Erlang.org docs](http://erlang.org/doc/) | [erlang-questions (Google group)](https://groups.google.com/forum/#!forum/erlang-questions)
@@ -2109,9 +2192,6 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [A Peek Inside Erlang's OTP - Steve Vinoski (GOTO 2016)](https://www.youtube.com/watch?v=PkHZPTn1brc)
 * [Essential Erlang/OTP - Garrett Smith](https://www.youtube.com/watch?v=0ZGHzI9F5YE)
-* [Pretty State Machine - Jeff Smith (Code BEAM SF 2019)](https://www.youtube.com/watch?v=KuZ_wp8W09U)
-* [gen_statem - The Tool You Never Knew You Always Wanted - Raimo Niskanen (Code BEAM SF 2018)](https://www.youtube.com/watch?v=f_jl6MR3kXQ)
-* [Building State Machines in Elixir with Ecto - Miguel Palhas](https://blog.appsignal.com/2020/07/14/building-state-machines-in-elixir-with-ecto.html)
 * [How to start processes with dynamic names in Elixir - Justin Toniazzo](https://thoughtbot.com/blog/how-to-start-processes-with-dynamic-names-in-elixir)
 * [OTP Has Done It - Nick DeMonner (ElixirConf 2015)](https://www.youtube.com/watch?v=yBReonQlfL4)
 * [The Pooler Story: How I Learned OTP by Writing a Connection Pool - Seth Falcon (Erlang Factory SF 2013)](https://www.youtube.com/watch?v=BTuJtqvbpI8)
@@ -2147,6 +2227,7 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ERLANG - PACKAGES - POOLBOY
 
 * [Poolboy - Worker pool factory](https://github.com/devinus/poolboy)
+* [Poolboy - ElixirSchool](https://elixirschool.com/en/lessons/libraries/poolboy/)
 * [Managing processes with Poolboy in Elixir - Akash Manohar](http://hashnuke.com/2013/10/03/managing-processes-with-poolboy-in-elixir.html)
 * [Elixir Poolboy Example - TheStoneFox](https://github.com/thestonefox/elixir_poolboy_example)
 

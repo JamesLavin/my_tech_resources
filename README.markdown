@@ -1049,6 +1049,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## CSS
 
+* [CSS - Mozilla.org](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [CSS Reference - Visual guide to the most popular CSS properties](http://cssreference.io/)
 * [Estelle Weyl](http://estelle.github.io/)
 * [CSS Tutorial - W3Schools](https://www.w3schools.com/Css://www.w3schools.com/Css/)
@@ -1426,6 +1427,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Apache Cassandra 3.0 - DataStax](https://docs.datastax.com/en/cassandra-oss/3.0/index.html)
 * [Awesome Cassandra](https://github.com/Anant/awesome-cassandra)
 * [DataStax Academy](https://academy.datastax.com/)
+* [Introduction to Apache Cassandra™ Workshop! - DataStax](https://www.youtube.com/watch?v=wOyQlbFM1Uk)
 * [Learn Cassandra - Tutorialspoint](https://www.tutorialspoint.com/cassandra/cassandra_introduction.htm)
 * [Why Discord Moved from MongoDB to Apache Cassandra, Let us Discuss - Hussein Nasser](https://www.youtube.com/watch?v=86olupkuLlU) & [How Discord Stores Billions of Messages - Stanislav Vishnevskiy](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
 * Rebecca Mills: [1: Essentials](https://hackernoon.com/apache-cassandra-an-essentials-guide-ku1r3yc9) | [2: Bootstrapping](https://hackernoon.com/apache-cassandra-bootstrapping-lmv3uy2) | [3: Data Modeling](https://hackernoon.com/apache-cassandra-guide-data-modeling-i3g3ufi)
@@ -1889,6 +1891,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Puppet](http://puppetlabs.com/)
 * [Ruby-Toolbox - Deployment Automation](https://www.ruby-toolbox.com/categories/deployment_automation)
 * [Ruby-Toolbox - Systems Integration](https://www.ruby-toolbox.com/categories/systems_integration)
+* [LinuxAcademy.com (mostly non-free but offers some free courses)](https://app.linuxacademy.com/search?cost=0)
 * [Acquiring DevOps Skills - Pavel Suchman (DevCon TLV 2014)](http://confreaks.tv/videos/3293-devcontlvjan2014-acquiring-devops-skills)
 * [Configuration Management ROI - Evgeny Zislis (DevCon TLV 2014)](http://confreaks.tv/videos/3294-devcontlvjan2014-configuration-management-roi)
 * [Continuous Deployment - Matt White (MountainWest RubyConf 2012)](http://confreaks.tv/videos/967-mwrc2012-continuous-deployment)
@@ -3626,10 +3629,15 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### GRAPHICS - INKSCAPE
 
-* [Inkscape](https://inkscape.org/)
+* [Inkscape](https://inkscape.org/) | [Keyboard and mouse reference](https://inkscape.org/doc/keys.html)
 * [Inkscape Tutorial - Simon Andrews](https://www.bioinformatics.babraham.ac.uk/training/Figure_Design_Course/Inkscape%20Tutorial.pdf)
 * [Inkscape Manual (2008)](https://commons.wikimedia.org/wiki/File:Manual_Inkscape.pdf)
 * [Inkscape: An Introduction](https://weblearn.ox.ac.uk/access/content/group/e05e05d2-f4ce-4a24-a008-031832bd1509/LearningRes_Open/Course_Book_Digital_Images_TIMGA_Inkscape_Introduction.pdf)
+* [Live Inkscape for Beginners Class (March 2020) - TroyTube](https://www.youtube.com/watch?v=PqV1aN_1lVo)
+
+#### GRAPHICS - INKSCAPE - TUTORIALS
+
+* [Live Inkscape for Beginners Class - TroyTube](https://www.youtube.com/watch?v=PqV1aN_1lVo) (skip first 12 minutes or so)
 
 ### GRAPHICS - KRITA
 
@@ -3825,6 +3833,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### HTML - BASICS
 
+* [HTML - Mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [Constructing the Object Model - Ilya Grigorik](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/constructing-the-object-model?hl=en)
 
 ### HTML - CORS
@@ -4031,7 +4040,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [10 Ways to Learn Faster - Siraj Raval](https://www.youtube.com/watch?v=hKBZjH7Ot2g)
 * [Learning How to Learn - Drs. Barbara Oakley & Terrence Sejnowski (Coursera)](https://www.coursera.org/learn/learning-how-to-learn/)
+* [Alison.com](https://alison.com/)
 * [Carnegie Mellon Open Learning Initiative](http://oli.cmu.edu/learn-with-oli/see-our-free-open-courses/)
+* [Code.org](https://code.org/learn)
+* [Codecademy.com](https://www.codecademy.com/)
 * [Coursera.org](https://www.coursera.org/)
 * [Daniel Kahneman: "Thinking, Fast and Slow"](https://www.youtube.com/watch?v=CjVQJdIrDJ0)
 * [EdX.org](https://www.edx.org/)
@@ -4040,13 +4052,14 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [MOOC List](https://www.mooc-list.com/)
 * [National Programme on Technology Enhanced Learning (India)](https://onlinecourses.nptel.ac.in/explorer)
 * [No Excuse List (The best place on the web to learn anything, free)](http://www.noexcuselist.com/)
+* [OpenCulture.com list of free online courses](https://www.openculture.com/freeonlinecourses)
 * [Open HPI](https://open.hpi.de/courses)
 * [Open Yale courses](http://oyc.yale.edu/courses)
 * [Stanford Engineering Everywhere](http://see.stanford.edu/see/courses.aspx)
-* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php)
+* [Stanford Online](https://online.stanford.edu/search-catalog)
 * [TED Talks](http://www.ted.com/talks)
 * [TutsPlus](http://code.tutsplus.com/) (Non-free)
-* [UC Berkeley webcasts](http://webcast.berkeley.edu/series#c,s)
+* [UC Berkeley Class Central](https://www.classcentral.com/university/berkeley)
 * [Udacity](https://www.udacity.com/courses#!/all) (Lectures are free)
 * [Udemy](https://www.udemy.com/) (Non-free)
 
@@ -4098,6 +4111,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [How HAProxy acts as TCP Proxy & HTTP Proxy Layer 4 vs Layer 7 - Hussein Nasser](https://www.youtube.com/watch?v=ibnUI-amsj8)
 * [HAProxyConf 2019 - Amsterdam](https://www.youtube.com/playlist?list=PLfnwKJbklIxwtsY6VZhMoyqpm0Cu9Lt1v)
 * [Scaling and Securing WebSockets with HAProxy - Hussein Nasser](https://www.youtube.com/watch?v=Rf6AfhqJKxg)
+* [Load Balance multiple RTMP Servers to Horizontally Scale Streaming (Node Media Server and HAProxy) - Hussein Nasser](https://www.youtube.com/watch?v=px0i9ihcjuM)
 
 #### LINUX - NETWORKING - LOAD BALANCING
 
@@ -5116,6 +5130,7 @@ Peter R. Egli:
 * [Agile Toolkit Podcast](http://agiletoolkit.libsyn.com/)
 * [The Architecht Show](http://architechtshow.com/)
 * [Art of Product](http://artofproductpodcast.com/)
+* [The Backend Engineering Show - Hussein Nasser](https://podcasts.apple.com/us/podcast/the-backend-engineering-show-with-hussein-nasser/id1330350799?mt=2)
 * [The Big Web Show](http://5by5.tv/bigwebshow)
 * [The Bike Shed - Thoughtbot](http://bikeshed.fm/)
 * [Build - Maggie Crowley](https://podcasts.apple.com/us/podcast/build/id1445050691)
@@ -5831,6 +5846,7 @@ Peter R. Egli:
 
 * [High Cost Tests and High Value Tests - Noel Rappin (GOTO 2018)](https://www.youtube.com/watch?v=e8_YDUn5JZ4)
 * [Testing Microservices, the sane way - Cindy Sridharan](https://medium.com/@copyconstruct/testing-microservices-the-sane-way-9bb31d158c16)
+* [TDD, Where Did It All Go Wrong - Ian Cooper (DevTernity 2017)](https://www.youtube.com/watch?v=EZ05e7EMOLM)
 * [Ruby-Toolbox - Testing tools](https://www.ruby-toolbox.com/#Testing)
 * [Testing of Microservices - André Schaffer](https://labs.spotify.com/2018/01/11/testing-of-microservices/)
 * [Let's Make Testing Fun Again - Noel Rappin (WindyCityRails2012)](http://vimeo.com/49525644)
