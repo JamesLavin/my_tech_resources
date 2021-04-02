@@ -556,6 +556,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [What companies and start-ups depend on Elixir in production? - Code Elixir LDN](https://codesync.global/media/what-companies-and-start-ups-use-elixir-in-production-now/)
 * [Real time communication at scale with Elixir at Discord - José Valim](https://elixir-lang.org/blog/2020/10/08/real-time-communication-at-scale-with-elixir-at-discord/)
 * [PaaS with Elixir at Heroku - José Valim](https://elixir-lang.org/blog/2020/09/24/paas-with-elixir-at-Heroku/)
+* [Elixir Lang Pros and Cons for Software Development - Tim Gremore (Startup Week 2020)](https://www.youtube.com/watch?v=nWHCriQ82do)
 * [Elixir at fintech with Brex - José Valim](https://elixir-lang.org/blog/2020/06/23/growing-with-elixir-at-brex/)
 * [Embedded Elixir at Farmbot - José Valim](https://elixir-lang.org/blog/2020/08/20/embedded-elixir-at-farmbot/)
 * [How Cisco is using Erlang for intent-based networking - Johan Bevemyr (Code BEAM STO 2018)](https://codesync.global/media/https-youtu-be-077-xjv6plq/) (slide says "90% of all Internet traffic goes through Erlang controlled nodes" & "Cisco is shipping about 2M devices per year with Erlang in them")
@@ -585,6 +586,11 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * pow: Robust, modular, and extendable user authentication system - Dan Schultzer: [PowAuth.com](https://powauth.com/) | [Github](https://github.com/danschultzer/pow)
 * [Easy Authentication in Elixir & Phoenix with the pow & pow_assent libraries - KnowThen.com](https://www.youtube.com/watch?v=hnD0Z0LGMIk)
+
+#### ELIXIR - AUTHENTICATION - PHX.GEN.AUTH (SEMI-OFFICIAL)
+
+* [phx_gen_auth (semi-official Phoenix authentication solution) - Aaron Renner](https://github.com/aaronrenner/phx_gen_auth)
+* [Programmer Passport: Phoenix LiveView - Bonus Video - phx.gen.auth - Bruce Tate](https://www.youtube.com/watch?v=YlDO07P3oL0)
 
 ### ELIXIR - AVIA
 
@@ -884,6 +890,10 @@ F
 * [Deploying a Phoenix App With Gatling - Josh Adams](https://www.dailydrip.com/topics/elixir/drips/deploying-a-phoenix-app-with-gatling)
 * [Deploying Phoenix on Ubuntu with Gatling - Dennis Reimann](https://dennisreimann.de/articles/phoenix-deployment-gatling-ubuntu-digital-ocean.html)
 
+#### ELIXIR - DEPLOYMENT - GITHUB ACTIONS
+
+* [setup-elixir - Set up your GitHub Actions workflow with OTP and Elixir - Erlang Ecosystem Foundation](https://github.com/erlef/setup-elixir)
+
 #### ELIXIR - DEPLOYMENT - KUBERNETES
 
 * [BEAM and Kubernetes: Better together? - Cory O'Daniel (Code BEAM SF 20)](https://www.youtube.com/watch?v=Nv6GfEGv0kc)
@@ -975,6 +985,11 @@ F
 * [Announcing a new MySQL driver: MyXQL - José Valim](https://elixirforum.com/t/announcing-a-new-mysql-driver-myxql/17124)
 * [Writing an Ecto Adapter: Introducing MyXQL - Wojtek Mach (ElixirConf 2019)](https://www.youtube.com/watch?v=lBaDmsFTJxY)
 * "Building a New MySQL Adapter for Ecto" - Wojtek Mach: [Part 1: Hello World](http://blog.plataformatec.com.br/2018/11/building-a-new-mysql-adapter-for-ecto-part-i-hello-world/) | [Part 2: Encoding/Decoding](http://blog.plataformatec.com.br/2018/12/building-a-new-mysql-adapter-for-ecto-part-ii-encoding-decoding/) | [Part 3: DBConnection Integration](http://blog.plataformatec.com.br/2018/12/building-a-new-mysql-adapter-for-ecto-part-iii-dbconnection-integration/) | [Part 4: Ecto Integration](http://blog.plataformatec.com.br/2019/01/building-a-new-mysql-adapter-for-ecto-part-iv-ecto-integration/)
+
+#### ELIXIR - ECTO - REPO.STREAM
+
+* [Ecto.Repo.stream/2](https://hexdocs.pm/ecto/Ecto.Repo.html#c:stream/2)
+* [How to use Ecto's Repo.stream/1 to process large amounts of data - Maciej Kaszubowski](https://mkaszubowski.com/2021/02/16/ecto-repo-stream-data-processing.html)
 
 #### ELIXIR - ECTO - SANDBOX
 
@@ -1253,6 +1268,8 @@ F
 
 ### ELIXIR - OTP
 
+* [Parenting Children - Saša Jurić (Virtual BEAM Meetup 2020)](https://www.youtube.com/watch?v=Iih3Nrce3_U)
+* [Simplifying Systems with Elixir - Saša Jurić (YOW! Lambda Jam 2020)](https://www.youtube.com/watch?v=Clm_NhWI0hY)
 * [Consistent, Distributed Elixir - Chris Keathley (ElixirDaze 2018)](https://www.youtube.com/watch?v=CmMMpaUD3g8)
 * [The ABCs of OTP - Jesse J Anderson (ElixirDaze 2017)](https://www.youtube.com/watch?v=8X0IWW2GJoQ) | [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir) | [resource links](https://gist.github.com/jessejanderson/16cbc0614e9194fa1b64460f775777ab)
 * [Let It Crash: Creating an Example Supervisor in Elixir Using OTP - Tyler Pachal](https://medium.com/@tylerpachal/let-it-crash-creating-an-example-supervisor-in-elixir-using-otp-36ea4236b02b)
@@ -1531,7 +1548,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [LiveComponent documentation](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html)
 * [LiveView Components FTW! - Feather Knee (ElixirConf 2020)](https://www.youtube.com/watch?v=qUZ5uN4gqNg)
 * [Introduction to Phoenix LiveView LiveComponents - Patrick Thompson](http://blog.pthompson.org/liveview-livecomponents-introduction)
-* [Client-Side Drag and Drop with Phoenix LiveView - Kelsey Leftwich](https://www.headway.io/blog/client-side-drag-and-drop-with-phoenix-liveview)
+* [Client-Side Drag and Drop with Phoenix LiveView - Kelsey Leftwich](https://www.headway.io/blog/client-side-drag-and-drop-with-phoenix-liveview) & [Drag and Drop with Elixir Lang - Phoenix LiveView and JavaScript Interop](https://www.youtube.com/watch?v=U1EKT7WT_Ic)
 * [Phoenix LiveComponent - Elixir's React + Redux? - David Raffauf](https://www.youtube.com/watch?v=bhdeHhwDFQo)
 * [LiveView Design Patterns - LiveComponent and the Single Responsibility Principle - Sophie DeBenedetto](https://elixirschool.com/blog/live-view-live-component/)
 

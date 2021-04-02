@@ -4320,6 +4320,8 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ## MATH
 
+* [Stand-Up Maths](https://www.youtube.com/user/standupmaths)
+* [Numberphile](https://www.youtube.com/user/numberphile)
 * [BetterExplained.com](http://betterexplained.com/cheatsheet/)
 * [Immersive Math - Jacob Ström, Kalle Åström, and Tomas Akenine-Möller](http://immersivemath.com/ila/learnmore.html)
 
@@ -5786,6 +5788,13 @@ Peter R. Egli:
 * Dave Crabbe: [Intro to Digital Certificates](https://www.youtube.com/watch?v=qXLD2UHq2vk) | [Chain of Trust](https://www.youtube.com/watch?v=heacxYUnFHA)
 * [SSL & HTTPS - Nickolai Zeldovich (MIT)](https://www.youtube.com/watch?v=q1OF_0ICt9A)
 * [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)
+
+### SECURITY - AUTH/AUTH
+
+#### SECURITY - AUTH/AUTH - KEYCLOAK
+
+* [Building an effective identity and access management architecture with Keycloak - Sebastien Blanc (VoxxedDays Minsk 2019)](https://www.youtube.com/watch?v=RupQWmYhrLA)
+* [How to secure your Microservices with Keycloak - Thomas Darimont (VoxxedDays Luxembourg 2019)](https://www.youtube.com/watch?v=FyVHNJNriUQ)
 
 ### SECURITY - WEB
 

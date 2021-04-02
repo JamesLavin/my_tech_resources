@@ -200,6 +200,12 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 * [CoffeeScript Fundamentals - Liam McLennan (Pluralsight.com)](https://www.pluralsight.com/courses/coffeescript-fundamentals) ($ non-free $)
 * [coffee-rails-source-maps](https://github.com/markbates/coffee-rails-source-maps)
 
+### JAVASCRIPT - COOKIES
+
+* [HTTP Cookies Crash Course - Hussein Nasser](https://www.youtube.com/watch?v=sovAIX4doOE)
+* [SameSite Cookie Attribute Explained by Example (Strict, Lax, None & No SameSite) - Hussein Nasser](https://www.youtube.com/watch?v=aUF2QCEudPo)
+* [What Are Third-Party Cookies, How Do They Work? - Hussein Nasser](https://www.youtube.com/watch?v=m4vatwFryI8)
+
 ### JAVASCRIPT - CRYPTON (ENCRYPTED DATA API)
 
 * [Crypton.io](https://crypton.io/)
