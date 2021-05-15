@@ -671,6 +671,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [12 Key Levers of SaaS Success - David Skok (SaaStr 2017)](https://www.youtube.com/watch?v=yP869ABH4Xw)
 * [A Conversation with Paul Graham - Moderated by Geoff Ralston](https://www.youtube.com/watch?v=4WO5kJChg3w)
 * [The single biggest reason why startups succeed - Bill Gross (TED)](https://www.youtube.com/watch?v=bNpx7gpSqbY)
+* [The Infinite Game (Nordic Business Forum Sweden 2019 - Full Keynote) - Simon Sinek](https://www.youtube.com/watch?v=HRIfTfVOMG4)
 * [YC’s Essential Startup Advice - Geoff Ralston and Michael Seibel](https://blog.ycombinator.com/ycs-essential-startup-advice/)
 * [Beyond the Business Model - Ash Maurya](https://www.youtube.com/watch?v=Qyq3SCxjqgE)
 * [Startup Hacks - Alex Iskold](https://alexiskold.net/)
@@ -2331,6 +2332,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 ### DEVOPS - ISTIO
 
 * [Istio: Open Platform to Connect, Manage, and Secure Microservices](https://istio.io/) | [Docs](https://istio.io/docs/) | [Blog](https://istio.io/blog/) | [News](https://istio.io/news/) | [Github](https://github.com/istio/istio) | [Twitter](https://twitter.com/IstioMesh)
+* [IstioCon 2021 Workshop: Using Istio - Lee Calcote & Abishek Kumar](https://www.youtube.com/watch?v=T1Kwh3SRAXQ)
 * [Practical Istio - (DockerCon 19)](https://www.youtube.com/watch?v=uRXzRfthYeU)
 * [Bookinfo (Istio Demo) Application](https://istio.io/docs/examples/bookinfo/)
 * [Exploring Istio by Example - Matthew Casperson](https://octopus.com/blog/istio/the-sample-application)
@@ -3055,6 +3057,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### DEVOPS - KUBERNETES - TRAEFIK
 
 * Traefik: [Docs](https://docs.traefik.io/) | [Website](https://containo.us/traefik/) | [Github](https://github.com/containous/traefik)
+* [Traefik Workshop: Getting Started with Traefik - Jakub Hajek](https://traefik.io/resources/traefik-kubernetes-tutorial/)
 * [Traefik Crash Course - Architecture, L7 & L4 Proxying, Weighted Round Robin, Enabling TLS 1.2/1.3 - Hussein Nasser](https://www.youtube.com/watch?v=C6IL8tjwC5E)
 * [How to Use the Open Source Tool Traefik to Direct Kubernetes Traffic - Lee Carpenter](https://dzone.com/articles/how-to-use-the-open-source-tool-traefik-to-direct)
 * [Traefik Proxy v2.0 Docker Basic Tutorial - Christian Martins](https://www.youtube.com/watch?v=Gk9WER6DunE)
@@ -3815,6 +3818,18 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [The Secrets of OAuth 2.0 - Aaron Parecki & Eric Johnson (GOTO 2020)](https://www.youtube.com/watch?v=HhwUMESAddM)
 * [What the Heck is OAuth? - Randall Degges](https://stormpath.com/blog/what-the-heck-is-oauth)
 * [OpenID Connect and OAuth 2 explained in under 10 minutes! - kubucation](https://www.youtube.com/watch?v=nPZ8QDZXtLI)
+
+#### HTTP - AUTHENTICATION - OPENID CONNECT (OIDC)
+
+* [OAuth 2.0 and OpenID Connect (in plain English) - OktaDev](https://www.youtube.com/watch?v=996OiexHze0)
+* [Securing Your APIs with OAuth 2.0 - OktaDev (API Days 2019)](https://www.youtube.com/watch?v=PfvSD6MmEmQ)
+
+#### HTTP - AUTHENTICATION - VAULT (SECRETS)
+
+* [Your Secret's Safe with Me. Securing Container Secrets with Vault - Liz Rice (HashiConf 2017)](https://www.youtube.com/watch?v=j3QJRdiTr1I)
+* [HashiCorp Vault Http API - Create and get secrets with curl - Mike Møller Nielsen](https://www.youtube.com/watch?v=vd9f-gGqMV0)
+* Identity based SSH with Vault and Keycloak - Dishant Pandya: [Part I](https://drpdishant.medium.com/identity-based-ssh-with-vault-and-keycloak-part-1-3-47ab2181ceae) | [Part II](https://drpdishant.medium.com/identity-based-ssh-with-vault-and-keycloak-part-2-3-signed-ssh-certificate-c9fb2c4dde64)
+* [Keycloak on Kubernetes](https://www.keycloak.org/getting-started/getting-started-kube)
 
 ### HTTP - HEADERS
 
@@ -5795,6 +5810,7 @@ Peter R. Egli:
 
 * [Building an effective identity and access management architecture with Keycloak - Sebastien Blanc (VoxxedDays Minsk 2019)](https://www.youtube.com/watch?v=RupQWmYhrLA)
 * [How to secure your Microservices with Keycloak - Thomas Darimont (VoxxedDays Luxembourg 2019)](https://www.youtube.com/watch?v=FyVHNJNriUQ)
+* [Keycloak Deep Dive - Stian Thorgersen](https://www.youtube.com/watch?v=XJYy6Aq-PJ8)
 
 ### SECURITY - WEB
 
