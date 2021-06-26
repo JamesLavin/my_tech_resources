@@ -1195,6 +1195,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Tailwind CSS - Adam Wathan: [Docs](https://tailwindcss.com/docs) | [Screencasts](https://www.youtube.com/tailwindlabs) | [Installation](https://tailwindcss.com/docs/installation) | [Website](https://tailwindcss.com/)
 * [Tailwind CSS tutorial videos by its creator, Adam Wathan](https://www.youtube.com/channel/UCy1H38XrN7hi7wHSClfXPqQ)
+* [Tailwind CSS - Shruti Balasa (Thirus)](https://www.youtube.com/playlist?list=PLrC_WsW4VdT4k3LWVFpTGM4ryYlDnrEvz)
 * [Learn Tailwind CSS for Free - Victor Gonzalez](https://scrimba.com/learn/tailwind)
 * Tailwind CSS cheatsheets: [NerdCave.com](https://nerdcave.com/tailwind-cheat-sheet) | [TailwindComponents.com](https://tailwindcomponents.com/cheatsheet/)
 * Tailwind UI Components: [Website](https://tailwindui.com/components) (Partially non-free $) | [TailwindComponents.com](https://tailwindcomponents.com/components)
@@ -3208,6 +3209,16 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * Tekton: K8s-native Pipeline resource: [Tutorial](https://github.com/tektoncd/pipeline/blob/master/docs/tutorial.md) | [Github](https://github.com/tektoncd/pipeline) | [Tekton on Google Cloud](https://cloud.google.com/tekton/) | [Roadmap](https://github.com/tektoncd/pipeline/blob/master/roadmap.md) | [Dashboard](https://github.com/tektoncd/dashboard)
 
+### DEVOPS - TERRAFORM
+
+* [Terraform explained in 15 minutes - TechWorld with Nana](https://www.youtube.com/watch?v=l5k1ai_GBDE)
+* [Terraform course - freeCodeCamp.org](https://www.youtube.com/watch?v=SLB_c_ayRMo) (140 minutes)
+* [Developing Terraform Modules at Scale - HashiCorp](https://www.youtube.com/watch?v=bDVr7RNlPsQ)
+* [Azure DevOps: Provision API Infrastructure using Terraform - Full Course - Les Jackson](https://www.youtube.com/watch?v=Ff0DoAmpv6w) (125 minutes)
+* [DevOps Crash Course (Docker, Terraform, and Github Actions) - Traversy Media](https://www.youtube.com/watch?v=OXE2a8dqIAI)
+* [Devops Terraform Course | Automate your AWS Cloud Infrastructure | Intellipaat](https://www.youtube.com/watch?v=CwBaVZKoyWc)
+* [Terraform best practices with examples and arguments - Anton Babenko](https://www.youtube.com/watch?v=mOsiLZGdXS4)
+
 ### DEVOPS - TITUS
 
 * Titus (Netflix): [Github](https://github.com/Netflix/titus) | [Documentation](https://netflix.github.io/titus/)
@@ -3450,10 +3461,12 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### FUNCTIONAL PROGRAMMING - CONFERENCE VIDEOS
 
+* YOW! Lambda Jam: [2020](https://www.youtube.com/playlist?list=PLIpl4GKFQR6fkt0w6C047BHSdcKKMxVPM) | [2019](https://www.youtube.com/playlist?list=PLIpl4GKFQR6fg3CBx65LXnj3gz2MFNN5O) | [2018](https://www.youtube.com/playlist?list=PLIpl4GKFQR6fyK1MmpDVHqH7txoHfCk5n) | [2017](https://www.youtube.com/playlist?list=PLIpl4GKFQR6dqCNb2J0eQFR21Lwnk4I86) | [2016](https://www.youtube.com/playlist?list=PLIpl4GKFQR6dFB0W9IzF_gcIt1VMRnuco) | [2015](https://www.youtube.com/playlist?list=PLIpl4GKFQR6cS33i5kkKboslEzbVN-nT7) | [2014](https://www.youtube.com/playlist?list=PLIpl4GKFQR6e134FWCj0BirnzKslmOE1f) | [2013](https://www.youtube.com/playlist?list=PLIpl4GKFQR6fLshmpv5DQ-PmoOkHrXgzx)
 * LambdaDays: [2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsV9Bw0wp1P46SOdtk4pFW6) | [2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvCRCVlXTfB6-d09K3r0Sxa) | [2018](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl)
 * LambdaConf (λC): [2019](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhzT6OVc5laZqqGAa5mlqKjF) | [2018](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhzLs7nLb57N75EY4py_P7pI) | [2017](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhx5bgmpAgqArzrh0pL-tc3P) | [2017 Winter Retreat](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhy9wMify6MXW6F339W4g4Eo) | [2016](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos) | [2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
 * Lambda World: [Cádiz 2019](https://www.youtube.com/playlist?list=PL4yAk3UBuBSodrYlJN8iRKHuFR5proxfI) | [Cádiz 2018](https://www.youtube.com/playlist?list=PL4yAk3UBuBSo8tUZD8opLRVdEe0ZjxHXc) | [Seattle 2018](https://www.youtube.com/playlist?list=PL4yAk3UBuBSo8BMnuUPteqj-AJL26tdAs) | [2017](https://www.youtube.com/playlist?list=PL4yAk3UBuBSrQXe_mZkR4khTNtQ_z5baQ) | [2016](https://www.youtube.com/playlist?list=PL4yAk3UBuBSoH7MfYTGHYlKKeLb2b7QNe) | [2015](https://www.youtube.com/playlist?list=PL4yAk3UBuBSobwxE4M_2V9DGMOUrkZGfa)
 * [Curry On!](https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w)
+* [YOW! Functional Programming](https://www.youtube.com/playlist?list=PLIpl4GKFQR6eY8VLF_vx6AsDwcgvqlCq8)
 * [Scale by the Bay 2017](https://www.youtube.com/playlist?list=PLNESult6cnOkDeaaEhq192kdsbMPc3dIJ)
 * [MoonConf 2016](https://www.youtube.com/playlist?list=PLWYAdh9hA7geMRCgwDomlHAdwlsno32LU&spfreload=10)
 * [All the FP Talks at NDC Oslo 2016](http://theburningmonk.com/2016/06/all-the-fp-talks-at-ndc-oslo-2016/)
@@ -4307,6 +4320,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Shape Up: Stop Running in Circles and Ship Work That Matters - Ryan Singer](https://basecamp.com/shapeup) | [PDF](https://basecamp.com/shapeup/shape-up.pdf)
 * [The Coaching Leader & Architect - Roy Osherove (GOTO 2020)](https://www.youtube.com/watch?v=vN_xMlR15hw)
 * [The Leadership Library for Engineers - Philip Paetz](https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a)
+* [A Guide To Managing Technical Teams - Dave Farley](https://www.youtube.com/watch?v=jMpCF0Z623s) & [How To Manage Remote Development Teams - Dave Farley](https://www.youtube.com/watch?v=LLytOHE8cJU)
 * [Be a Director, Not a Manager - Fareed Mosavat (#mtpcon 2019)](https://www.mindtheproduct.com/2019/09/be-a-director-not-a-manager-by-fareed-mosavat/)
 * [How to Become a Great Software Architect - Eberhard Wolff (GOTO Berlin 2019)](https://www.youtube.com/watch?v=v_nhv6aY1Kg)
 * [Tips for Managing a Widely Distributed Team - Dirkjan Bussink (#LeadDevLondon 2018)](https://www.youtube.com/watch?v=pi6bHUkoBgY)
@@ -5226,6 +5240,7 @@ Peter R. Egli:
 ### PROGRAMMING - VIDEOS
 
 * ApacheCon: [@Home 2020](https://www.youtube.com/playlist?list=PLU2OcwpQkYCy_awEe5xwlxGTk5UieA37m) | [North America 2019](https://www.youtube.com/playlist?list=PLU2OcwpQkYCzWULP5C-C9eTF4DcbnYa2l) | [Europe 2019](https://www.youtube.com/playlist?list=PLU2OcwpQkYCxVGCGWtMxb9d27Z-pcoN9a) | [North America 2018](https://www.youtube.com/playlist?list=PLU2OcwpQkYCxUHOGg4TIZmeklYw4e-OMX) | [Miami 2017](https://www.youtube.com/playlist?list=PLbzoR-pLrL6pLDCyPxByWQwYTL-JrF5Rp) | [North America 2015](https://www.youtube.com/playlist?list=PLU2OcwpQkYCwpsq3-a84qgPbVqF4-wxVI) | [North America 2014](https://www.youtube.com/playlist?list=PLU2OcwpQkYCzvGxZgVOunTs-3iEao6YJc)
+* [YOW! Conferences](https://www.youtube.com/c/YOWConferences/playlists)
 * [Web Camp Zagreb 2019](https://2019.webcampzg.org/talks/)
 * StrangeLoop: [2019](https://www.youtube.com/playlist?list=PLcGKfGEEONaCToXJZ4Uk1NVW70U3C-Im-) | [2018](https://www.youtube.com/playlist?list=PLcGKfGEEONaBUdko326yL6ags8C_SYgqH) | [2017](https://www.youtube.com/playlist?list=PLcGKfGEEONaDzd0Hkn2f1talsTu1HLDYu) | [2016](https://www.youtube.com/playlist?list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa) | [2015](https://www.youtube.com/playlist?list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH32R)
 * [VoxxedDays Zurich 2018](https://www.youtube.com/playlist?list=PLRsbF2sD7JVoqk0_lddVq-tAdskIimLwL)

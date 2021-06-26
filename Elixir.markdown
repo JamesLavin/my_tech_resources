@@ -72,12 +72,14 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir: functional, concurrent, distributed programming - Andrea Leopardi (Lambda World 2018)](https://www.youtube.com/watch?v=e3O0R5_69Pg)
 * [From Zero to Hero in Elixir - LittleAlchemist.io](https://www.youtube.com/playlist?list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp)
 * [Elixir Tutorial - Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumAgKjSPyFtvYjP5LqgzafQq)
+* [Intro to Elixir Programming - learn-elixir.com](https://learn-elixir.com/)
 * [Alchemist Camp](https://alchemist.camp/episodes)
 * [Killer Elixir-Tips - extips.blackode.in](https://extips.blackode.in/)
 * Elixir Examples: [Categorized](https://elixir-examples.github.io/) | [Single page](https://elixir-examples.github.io/single-page)
 * [Exercism.io Elixir](http://exercism.io/languages/elixir)
 * [Elixir Koans](http://elixirkoans.io/)
 * [Joy of Elixir](https://joyofelixir.com/toc.html)
+* [Elixir Succinctly - Emanuele DelBono](https://www.syncfusion.com/succinctly-free-ebooks/elixir-succinctly)
 * [Elixir Devhints](https://devhints.io/elixir)
 * [Intro to Elixir - SolutionStreet.com](https://www.youtube.com/watch?v=lly-1UYmnFI)
 * [7 ways of doing Fizz Buzz in Elixir and other clickbaity stuff - Khaja Minhajuddin](https://minhajuddin.com/2018/07/06/7-ways-of-doing-fizz-buzz-in-elixir-and-other-clickbaity-stuff/)
@@ -102,6 +104,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Cheatsheet](https://www.dropbox.com/s/lr1t87rw4wfnyb3/elixir-cheat-sheet-v2.pdf?dl=0)
 * [Elixir in Action (code)](https://github.com/sasa1977/elixir-in-action/tree/master/code_samples) & [book](https://www.manning.com/books/elixir-in-action-second-edition) (book isn't free)
 * [Simplifying Systems with Elixir - Saša Jurić (YOW! Lambda Jam 2020)](https://www.youtube.com/watch?v=Clm_NhWI0hY)
+* [Elixir in 2021 - Saša Jurić & Jonn Mostovoy](https://www.youtube.com/watch?v=me4cANg9RMU)
 * [A Brief History of Elixir - Andrea Leopardi (Code BEAM Lite Munich 2018)](https://www.youtube.com/watch?v=CRBUD00H7AM)
 * [Lessons Learned Building a Medication Service at Teladoc and How Ecto Saved the Day - James Lavin (EMPEX 2018)](https://www.youtube.com/watch?v=CUvif-levqk) (Hey, that's ME! I did a thing!!!)
 * [Explicit Elixir - Paul Lamb (ElixirDaze 2016)](https://www.youtube.com/watch?v=sr5I5ncg0kU)
@@ -137,7 +140,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir - A modern approach to programming for the Erlang VM - Jose Valim (RuPy 2012)](https://www.youtube.com/watch?v=q2Hxt0tOR0k)
 * [Keynote - José Valim (ElixirConf 2014)](http://confreaks.tv/videos/4134-elixirconf2014-keynote-elixir)
 * [Elixir Tooling - Eric Meadows-Jönsson (Berlin Erlang Factory Lite)](https://www.youtube.com/watch?v=7_0iOlJCL9E)
-* [Idioms for building distributed fault-tolerant applications with Elixir - José Valim (GOTO Conferences 2015)](https://www.youtube.com/watch?v=B4rOG9Bc65Q)
+* [Idioms for building fault-tolerant applications with Elixir - José Valim (YOW! Lambda Jam 2021)](https://www.youtube.com/watch?v=oxtMN-A44k8) & [Idioms for building distributed fault-tolerant applications with Elixir - José Valim (GOTO Conferences 2015)](https://www.youtube.com/watch?v=B4rOG9Bc65Q)
 * [Keynote: "Think Different" - Dave Thomas (ElixirConf 2014)](http://confreaks.tv/videos/4119-elixirconf2014-opening-keynote-think-different)
 * [Ruby and Elixir - Casey Rosenthal (Portland Ruby Brigade Jan 2015)](http://confreaks.tv/videos/pdxrbjan2015-ruby-and-elixir)
 * [Hex: How it was built - Eric Meadows–Jönsson (ElixirConf 2014](https://www.youtube.com/watch?v=VAa7YnZo0hU)
@@ -186,6 +189,13 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Tesla (HTTP client)](https://hexdocs.pm/tesla/readme.html)
 * [Tzdata (timezone database)](https://hexdocs.pm/tzdata/readme.html)
 * [UUID](https://hexdocs.pm/uuid/readme.html)
+
+### ELIXIR - 1.12
+
+* [Elixir v1.12 released - José Valim](https://elixir-lang.org/blog/2021/05/19/elixir-v1-12-0-released/)
+* [Changelog for Elixir 1.12](https://github.com/elixir-lang/elixir/blob/v1.12/CHANGELOG.md)
+* [Elixir 1.12 and Your First Mix.install Script - ThinkingElixir.com](https://thinkingelixir.com/elixir-1-12-and-your-first-mix-install-script/)
+* [New Elixir 1.12 - The developer’s point of view - Bartosz Górka](https://bartoszgorka.com/elixir-1-12-released)
 
 ### ELIXIR - 1.11
 
@@ -627,7 +637,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Elixir Documentation (PDF)](https://media.readthedocs.org/pdf/elixir-lang/latest/elixir-lang.pdf)
 * Elixir Getting Started Guide: [EPUB](https://github.com/JamesLavin/my_tech_resources/raw/master/elixir-getting-started-guide.epub) | [Online](http://elixir-lang.org/getting-started/introduction.html)
-* Create a cryptocurrency trading bot in Elixir - Kamil Skowrown: [Online](https://www.elixircryptobot.com/) | [PDF](https://www.elixircryptobot.com/create-a-cryptocurrency-trading-bot-in-elixir.pdf) | [Epub](https://www.elixircryptobot.com/create-a-cryptocurrency-trading-bot-in-elixir.epub) | [Source code - Github](https://github.com/frathon/create-a-cryptocurrency-trading-bot-in-elixir-source-code)
+* Hands-on Elixir & OTP: Cryptocurrency trading bot - Kamil Skowrown: [Online](https://www.elixircryptobot.com/) | [PDF](https://www.elixircryptobot.com/create-a-cryptocurrency-trading-bot-in-elixir.pdf) | [Epub](https://www.elixircryptobot.com/create-a-cryptocurrency-trading-bot-in-elixir.epub) | [Source code - Github](https://github.com/frathon/create-a-cryptocurrency-trading-bot-in-elixir-source-code)
 * [Elixir Meta-Programming Guide (EPUB)](https://github.com/JamesLavin/my_tech_resources/raw/master/meta-programming-in-elixir.epub)
 * The Mix & OTP Guide: [(EPUB)](https://github.com/JamesLavin/my_tech_resources/raw/master/mix-and-otp.epub) | [Online](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) & [Github](https://github.com/oreillymedia/etudes-for-elixir)
@@ -950,6 +960,7 @@ F
 * [Things You Might Not Have Tried With Ecto - Luke Imhoff (Lonestar ElixirConf 2019)](https://www.youtube.com/watch?v=3EyDkiDzbj8)
 * [Leveling Up With Ecto - Darin Wilson (ElixirConf 2016)](https://www.youtube.com/watch?v=QE7bpqpDoKo) | [code](https://github.com/darinwilson/music_db)
 * [Database Locking with Ecto in Elixir - Avi Turkewitz](https://medium.com/flatiron-labs/database-locking-with-ecto-in-elixir-9804cdbd1866)
+* [Automatic and manual Ecto migrations - Wojtek Mach](https://dashbit.co/blog/automatic-and-manual-ecto-migrations)
 * Lew Parker: [Diving into Ecto - 1](http://www.glydergun.com/diving-into-ecto/) | [Diving into Ecto - 2](http://www.glydergun.com/diving-into-ecto-part-2/) | [Ecto Query Library](http://www.glydergun.com/the-ecto-query-library/)
 * Understanding Elixir’s Ecto Querying DSL - Thomas Punt: [The Basics](https://www.sitepoint.com/understanding-elixirs-ecto-querying-dsl-the-basics/) | [Beyond the Basics](https://www.sitepoint.com/elixirs-ecto-querying-dsl-beyond-the-basics/)
 * [Preloading Nested Associations with Ecto - Greg Lazarev](https://robots.thoughtbot.com/preloading-nested-associations-with-ecto)
@@ -1198,6 +1209,8 @@ F
 
 ### ELIXIR - MACROS
 
+* [The Upside Down Dimension of Elixir: An Intro to Metaprogramming - Nicholas Henry (ElixirConf 2020)](https://www.youtube.com/watch?v=EFAgc7YqDP8)
+* [Deep dive into Elixir - Jonathan Yeong (ElixirConf 2020)](https://www.youtube.com/watch?v=iNbqpT0elbA)
 * [Macros in Elixir: Responsible code generation - Lizzie Paquette](https://codesync.global/media/macros-in-elixir-responsible-code-generation-cbf20/)
 * [Using Functions in Elixir Guard Clauses - Chris Keathley](http://keathley.io/2016/04/09/elixir-guard-clauses.html)
 * [Down the Rabbit Hole: Defining a guard-safe modulo operation in Elixir - Wiebe-Marten](https://medium.com/@W_Mcode/down-the-rabbit-hole-defining-a-guard-safe-modulo-operation-in-elixir-6335ade7c078)
@@ -1208,6 +1221,12 @@ F
 
 ### ELIXIR - METAPROGRAMMING
 
+* [Metaprogramming - ElixirSchool.com](https://elixirschool.com/en/lessons/advanced/metaprogramming)
+* [Code module - Elixir](https://hexdocs.pm/elixir/1.12/Code.html)
+* [Kernel module - Elixir](https://hexdocs.pm/elixir/Kernel.html)
+* [Kernel.SpecialForms - Elixir](https://hexdocs.pm/elixir/Kernel.SpecialForms.html)
+* [Macro.Env - Elixir](https://hexdocs.pm/elixir/1.12/Macro.Env.html)
+* [Module module - Elixir](https://hexdocs.pm/elixir/1.12/Module.html)
 * [The Upside Down Dimension of Elixir - An Introduction to Metaprogramming - Nicholas J Henry (Montreal Elixir 2020)](https://www.youtube.com/watch?v=xj6yNzcGlEE)
 * [Metaprogramming Elixir - Chris McCord (NDC Oslo 2015)](https://vimeo.com/131643017)
 * [Mex: Elixir Shell helper for previewing macroexpansion - Luc Fueston](https://github.com/mrluc/mex)
@@ -1263,8 +1282,10 @@ F
 
 ### ELIXIR - NX
 
+* [Nx (Numerical Elixir) is now publicly available - José Valim](https://dashbit.co/blog/nx-numerical-elixir-is-now-publicly-available)
 * [NX: Numerical Elixir & Elixir XLA bindings for CPU/GPU/TPU (Github)](https://github.com/elixir-nx/nx)
 * [Up and Running Nx - Sean Moriarity](https://dockyard.com/blog/2021/04/08/up-and-running-nx)
+* [Elixir-NX-Axon: Elixir's Machine Learning Library - Grox.io](https://www.youtube.com/watch?v=NcsqGS6SVXg)
 * [Kicking the tyres on Nx (Numerical Elixir) - Robert Ellen](https://www.youtube.com/watch?v=SgSbaGm5nR0)
 * [Introducing NX - José Valim (Lambda Days 2021)](https://www.youtube.com/watch?v=fPKMmJpAGWc)
 * [José Valim reveals Project Nx - (ThinkingElixir podcast)](https://thinkingelixir.com/podcast-episodes/034-jose-valim-reveals-project-nx/)
@@ -1294,7 +1315,7 @@ F
 ### ELIXIR - OTP
 
 * [Parenting Children - Saša Jurić (Virtual BEAM Meetup 2020)](https://www.youtube.com/watch?v=Iih3Nrce3_U)
-* [Simplifying Systems with Elixir - Saša Jurić (YOW! Lambda Jam 2020)](https://www.youtube.com/watch?v=Clm_NhWI0hY)
+* [Simplifying Systems with Elixir - Saša Jurić (YOW! Lambda Jam 2020)](https://www.youtube.com/watch?v=Clm_NhWI0hY) & [Repository containing the complete source code of The Erlangelist site](https://github.com/sasa1977/erlangelist)
 * [Consistent, Distributed Elixir - Chris Keathley (ElixirDaze 2018)](https://www.youtube.com/watch?v=CmMMpaUD3g8)
 * [The ABCs of OTP - Jesse J Anderson (ElixirDaze 2017)](https://www.youtube.com/watch?v=8X0IWW2GJoQ) | [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir) | [resource links](https://gist.github.com/jessejanderson/16cbc0614e9194fa1b64460f775777ab)
 * [Let It Crash: Creating an Example Supervisor in Elixir Using OTP - Tyler Pachal](https://medium.com/@tylerpachal/let-it-crash-creating-an-example-supervisor-in-elixir-using-otp-36ea4236b02b)
@@ -1519,6 +1540,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [LiveView](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html) | [LiveComponent](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html) | [LiveViewTest](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveViewTest.html) | [mix phx.gen.live](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Live.html) | [API Reference](https://hexdocs.pm/phoenix_live_view/api-reference.html)
 * [Build a real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5 - Chris McCord](https://www.youtube.com/watch?v=MZvmYaFkNJI)
 * [Phoenix LiveView course - PragmaticStudio.com](https://pragmaticstudio.com/phoenix-liveview) (Nicole and Mike have incredibly generously created a professional LiveView course and given it away absolutely FREE)
+* [Let’s build a real time chat application with Elixir and Phoenix LiveView - Manning livestream - Geoffrey Lessel](https://www.youtube.com/watch?v=_rTFZbvMfJA)
 * [LiveView apps - Roman Heinrich and Alex Unger](https://github.com/happycodrz/liveview-apps)
 * [Rendering Supervision Trees with Phoenix LiveView - Berenice Medel (ElixirConf 2020)](https://www.youtube.com/watch?v=sw-m9an2zFM)
 * [Building Multiplayer Games with LiveView - Dorian Karter (ElixirConf 2020)](https://www.youtube.com/watch?v=0UnLZlMr1Ug)
