@@ -998,7 +998,13 @@ F
 #### ELIXIR - ECTO - MULTI
 
 * [What is Ecto.Multi? - Crystal Chang](https://medium.com/flatiron-labs/what-is-ecto-multi-9138df0461b7)
+* [Ecto.Multi: Composable transactions - Eduardo Gurgel](https://www.youtube.com/watch?v=Ez9e20Y7YIo)
+* [Transactions, Multi and Queries with Ecto - elx pro](https://www.youtube.com/watch?v=4dqTLxDHqeE)
 * [Replace Callbacks with Ecto.Multi - Daniel Berkompas](http://blog.danielberkompas.com/2016/09/27/ecto-multi-services.html)
+
+#### ELIXIR - ECTO - RELATIONS
+
+* Many to Many relationships in Ecto rawcode: [Part 1](https://www.youtube.com/watch?v=Cl2U_8XtUBM) | [Part 2](https://www.youtube.com/watch?v=_ut8o0fdXRo)
 
 #### ELIXIR - ECTO - MYXQL
 
@@ -1210,10 +1216,14 @@ F
 ### ELIXIR - MACROS
 
 * [The Upside Down Dimension of Elixir: An Intro to Metaprogramming - Nicholas Henry (ElixirConf 2020)](https://www.youtube.com/watch?v=EFAgc7YqDP8)
+* A deep dive into the Elixir AST - Lucas San Román: [Part 1](https://dorgan.netlify.app/posts/2021/04/the_elixir_ast/) | [Part 2: Building a static code analyzer](https://dorgan.netlify.app/posts/2021/04/the_elixir_ast_analyzer/) | [Part 3: Building a typed struct macro](https://dorgan.netlify.app/posts/2021/04/the_elixir_ast_typedstruct/) | [Preparing the ground for source code manipulation](https://dorgan.netlify.app/posts/2021/07/preparing-the-ground-for-source-code-manipulation/)
+* Macrofunology - Brian Marick: [1: module structure](https://www.crustofcode.com/def-macro-defmacrop/) | [2: wrapping bodies, dissecting arglists](https://www.crustofcode.com/def-macro-arglist/) | [3: guard expressions](https://www.crustofcode.com/macrofunology-3-guards/) | [4: atoms and function names](https://www.crustofcode.com/def-macro-getter/)
 * [Deep dive into Elixir - Jonathan Yeong (ElixirConf 2020)](https://www.youtube.com/watch?v=iNbqpT0elbA)
 * [Macros in Elixir: Responsible code generation - Lizzie Paquette](https://codesync.global/media/macros-in-elixir-responsible-code-generation-cbf20/)
 * [Using Functions in Elixir Guard Clauses - Chris Keathley](http://keathley.io/2016/04/09/elixir-guard-clauses.html)
+* The How of Macros - Brian Marick: [1: Elixir compilation](https://www.crustofcode.com/how1/) | [2: Syntax trees](https://www.crustofcode.com/how-2/) | [3: Syntax trees for literal data](https://www.crustofcode.com/how3/) | [4: `quote`](https://www.crustofcode.com/how4/) | [5: Unquoting](https://www.crustofcode.com/how5/)
 * [Down the Rabbit Hole: Defining a guard-safe modulo operation in Elixir - Wiebe-Marten](https://medium.com/@W_Mcode/down-the-rabbit-hole-defining-a-guard-safe-modulo-operation-in-elixir-6335ade7c078)
+* [Don't Write Macros But Do Learn How They Work - Jesse Anderson (ElixirConf 2017)](https://www.youtube.com/watch?v=Bo48sQDb-hk)
 * Jay Hayes: [Metaprogramming: Programs That Write Programs](https://www.youtube.com/watch?v=S_WtnSrfR5s) | [Elixir in Elixir - (Elixir & Phoenix Conf 2016](https://www.youtube.com/watch?v=p8MGNw045AE) & [Getting Started with Elixir Metaprogramming (blog post)](https://www.bignerdranch.com/blog/getting-started-with-elixir-metaprogramming/)
 * [Macros - Jason Cummings (ElixirDaze 2017)](https://www.youtube.com/watch?v=9CkZJ2kgNNs)
 * [Understanding Elixir Macros, Part 1 - Basics - Saša Jurić](http://www.theerlangelist.com/article/macros_1), [Part 2 - Micro theory](http://www.theerlangelist.com/article/macros_2), [Part 3 - Getting into the AST](http://www.theerlangelist.com/article/macros_3), [Part 4 - Diving Deeper](http://www.theerlangelist.com/article/macros_4), [Part 5 - Reshaping the AST](http://www.theerlangelist.com/article/macros_5), [Part 6 - In-place code generation](http://www.theerlangelist.com/article/macros_6)
@@ -1289,6 +1299,7 @@ F
 * [Kicking the tyres on Nx (Numerical Elixir) - Robert Ellen](https://www.youtube.com/watch?v=SgSbaGm5nR0)
 * [Introducing NX - José Valim (Lambda Days 2021)](https://www.youtube.com/watch?v=fPKMmJpAGWc)
 * [José Valim reveals Project Nx - (ThinkingElixir podcast)](https://thinkingelixir.com/podcast-episodes/034-jose-valim-reveals-project-nx/)
+* [Panel on Machine Learning on the BEAM by José Valim, Randall Thomas, David Lucia, Garrett Smith, Svetlana Levitan (Code BEAM V Europe 2021)](https://www.youtube.com/watch?v=lS5VQmvI7is)
 
 #### ELIXIR - NX - AXON
 
@@ -1607,6 +1618,11 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Phoenix LiveView Dashboard - Plangora](https://www.youtube.com/watch?v=Nqr5ly35tu8)
 * [Phoenix LiveView Dashboard Metrics - Plangora](https://www.youtube.com/watch?v=ZrgtOp-wS0w)
 
+##### ELIXIR - PHOENIX - LIVE VIEW - LIVE SESSIONS
+
+* [PhoenixLiveSession - Github](https://github.com/pentacent/phoenix_live_session)
+* [Introducing Phoenix LiveSessions - Pentacent](https://pentacent.com/blog/phoenix-live-sessions/)
+
 ##### ELIXIR - PHOENIX - LIVE VIEW - SURFACE
 
 * Surface: server-side rendering component library for Phoenix: [Getting started](http://surface-demo.msaraiva.io/getting_started) | [Github](https://github.com/msaraiva/surface)
@@ -1745,6 +1761,7 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ELIXIR - PROTOCOLS
 
 * [A Practical Guide to Elixir Protocols - Kevin Rockwood](https://www.youtube.com/watch?v=sJvfCE6PFxY)
+* [Atlas: Flexible Software Composition using Protocols by Quinn Wilton | Code BEAM V Europe 2021](https://www.youtube.com/watch?v=fhheJ5zsXBQ)
 * [Polymorphism With Protocols in Elixir - Ilya Bodrov](https://code.tutsplus.com/articles/polymorphism-with-protocols-in-elixir--cms-29081)
 * [A Practical Guide to Elixir Protocols - Kevin Rockwood (ElixirConfEU 2017)](https://www.youtube.com/watch?v=sJvfCE6PFxY)
 
@@ -1901,6 +1918,11 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Property-Based Testing - Exploring Elixir](https://www.youtube.com/watch?v=PLSYM7ada0o)
 * [Property-Based Testing with PropEr, Erlang, and Elixir - Fred Hebert](https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir) | [Older but free "PropEr Testing" website](https://propertesting.com/toc.html)
 * [Recursive Selective Match: Library for testing nested Elixir data structures and ignoring irrelevant data elements and data structure subtrees - James Lavin (me)](https://github.com/JamesLavin/recursive_selective_match)
+
+##### ELIXIR - TESTING - PROPERTY-BASED TESTING - NORM
+
+* Norm: [Documentation](https://hexdocs.pm/norm/Norm.html) | [Github](https://github.com/keathley/norm)
+* [Atlas: Flexible Software Composition using Protocols by Quinn Wilton | Code BEAM V Europe 2021](https://www.youtube.com/watch?v=fhheJ5zsXBQ)
 
 #### ELIXIR - TESTING - WALLABY
 
@@ -2075,8 +2097,14 @@ Consequently, much of the following will soon be at least partially outdated:
 * [A Brief History of the BEAM Compiler - Björn Gustavsson](http://blog.erlang.org/beam-compiler-history/)
 * Core Erlang - Björn Gustavsson: [By Example](http://blog.erlang.org/core-erlang-by-example/) | [Optimizations](http://blog.erlang.org/core-erlang-optimizations/) | [Wrap up](http://blog.erlang.org/core-erlang-wrapup/)
 * [BEAM Wisdoms: collection of easy to read (ELI5) articles as well as in-depth knowledge such as VM internals, memory layout, opcodes](http://beam-wisdoms.clau.se/en/latest/)
-* [Erlang Garbage Collector - Lukas Larsson](https://www.erlang-solutions.com/blog/erlang-garbage-collector.html)
+* [Elixir GenServer Memory Issues - Nuno Marinho](https://medium.com/coletiv-stories/genservers-memory-issues-ef42cc42e3e9)
 * [The Erlang VM or How I Stopped Worrying & Started Loving Parallel Programming - E.Stenman (GOTO 2013)](https://www.youtube.com/watch?v=ArRr4trTCjQ)
+
+#### ERLANG - BEAM - GARBAGE COLLECTION
+
+* [Erlang Garbage Collector - Lukas Larsson](https://www.erlang-solutions.com/blog/erlang-garbage-collector.html)
+* [Evolution of the garbage collector - Boris Kuznetsov (Code BEAM STO 2018)](https://www.youtube.com/watch?v=3pDppYurT_k)
+* [Who Takes Out Your Trash - Sanne Kalkman (Code BEAM V 2020)](https://www.youtube.com/watch?v=OSdaXNQ0xhQ)
 
 ### ERLANG - BLOGS
 
@@ -2209,6 +2237,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ERLANG - HISTORY
 
+* [If at first you don't succeed - Mike Wiliams and Fred Herbert (Code BEAM V Europe 21)](https://www.youtube.com/watch?v=M5NSxVWkvsg)
 * [Erlang: The Movie](https://www.youtube.com/watch?t=113&v=xrIjfIjssLE)
 * [Erlang: The Movie II: The Sequel](https://www.youtube.com/watch?v=rRbY3TMUcgQ)
 
@@ -2362,6 +2391,7 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ERLANG - TRACING - RECON
 
 * Recon [Github](https://github.com/ferd/recon)
+* [Debugging with tracing in Elixir with recon_trace - Kai Wern](https://kaiwern.com/posts/2021/06/27/debugging-with-tracing-in-elixir-with-recon_trace/) | [Serialized .livemd page you can run in LiveBook](https://raw.githubusercontent.com/kw7oe/livebook-notebooks/main/debugging-with-tracing-in-elixir-with-recon_trace.livemd) (LiveBook is great for documentation & teaching Elixir)
 * [Stuff Goes Bad: Erlang in Anger - Fred Hebert](https://www.erlang-in-anger.com/) | [PDF](https://s3.us-east-2.amazonaws.com/ferd.erlang-in-anger/text.v1.1.0.pdf)
 
 ### ERLANG - VIDEOS

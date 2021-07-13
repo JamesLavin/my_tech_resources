@@ -917,6 +917,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## CLEAN CODE
 
+* Finding your service boundaries: A practical guide - Adam Ralph: [NDC { Oslo 2018}](https://www.youtube.com/watch?v=tVnIUZbsxWI) & [Dev Ternity 2019](https://www.youtube.com/watch?v=tO6YAQXVzyU)
 * [How To Write Unmaintainable Code: Ensure a job for life ;-) - Roedy Green](https://www.se.rit.edu/~tabeec/RIT_441/Resources_files/How%20To%20Write%20Unmaintainable%20Code.pdf)
 * [Making It Count: Quality is NOT an Option - Todd Montgomery (GOTO 2018)](https://www.youtube.com/watch?v=LTZdmb5-8n8)
 * [Is Your Code Too SOLID? - Sarah Mei](http://forwardjs.com/university/is-your-code-too-solid)
@@ -1844,6 +1845,8 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 ## DESIGN
 
+* [Philip VanDusen](https://www.youtube.com/channel/UCd2J-PizcFDxWHBBfRkp38Q)
+
 ### DESIGN - PODCASTS
 
 * [99% Invisible - Roman Mars](https://podcasts.apple.com/us/podcast/99-invisible/id394775318)
@@ -1885,6 +1888,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 ## DEVOPS
 
+* [Network Chuck](https://www.youtube.com/c/NetworkChuck)
 * [Building Evolutionary Infrastructure - Kief Morris (GOTO 2019)](https://www.youtube.com/watch?v=1f_P8ZH5BC8)
 * [Observability: Superpowers for Developers - Christine Yen (StrangeLoop 2019)](https://www.youtube.com/watch?v=1C5eErvSvR4)
 * [BOSH](https://github.com/cloudfoundry/bosh)
@@ -3064,6 +3068,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Traefik Proxy v2.0 Docker Basic Tutorial - Christian Martins](https://www.youtube.com/watch?v=Gk9WER6DunE)
 * [How to Install Traefik 2 on Raspberry Pi - DB Tech](https://www.youtube.com/watch?v=GcNGCOMa3wc)
 * [Escaping Big Tech With Traefik 2.0 - WP Engine - Chris Wiegman](https://www.youtube.com/watch?v=q1SDzUXx5mg)
+
+#### DEVOPS - KUBERNETES - UPGRADING
+
+* [How to upgrade a Kubernetes cluster](https://www.youtube.com/watch?v=GuWPqpjncyo)
 
 #### DEVOPS - KUBERNETES - VIDEOS
 
@@ -4845,6 +4853,12 @@ Peter R. Egli:
 * [Debezium: Change data capture for a variety of databases](https://github.com/debezium/debezium) & [Debezium.io](http://debezium.io/)
 * [BottledWater: Change data capture from PostgreSQL into Kafka (Confluent.com)](https://github.com/confluentinc/bottledwater-pg)
 * [repmgr: Replication Manager for PostgreSQL](https://github.com/2ndQuadrant/repmgr)
+
+#### POSTGRESQL - REPLICATION - FAILOVER & HIGH-AVAILABILITY
+
+* [True Postgres High Availability Architecture with Industry Standard Open-Source Tooling - Michel Sijmons](https://www.youtube.com/watch?v=FiWZuEVlSLc)
+* [The Next Generation of Postgres High Availability (PostgreSQL HA) - Tom Kincaid](https://www.youtube.com/watch?v=ogyvRXb33Sg)
+* [Making your PostgreSQL Database Highly Available - Alok Kumar Mishra](https://www.youtube.com/watch?v=u6lmY7gS0CY)
 
 ### POSTGRESQL - SUPABASE
 
