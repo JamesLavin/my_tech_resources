@@ -86,6 +86,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Buildings start-ups with Elixir - Michael Schaefermeyer (Code BEAM STO 19)](https://www.youtube.com/watch?v=icfvFFZUxZQ)
 * [Ten Things I Wish I Knew Before Using Elixir - Chris Williams](https://ropig.com/blog/ten-things-wish-knew-using-elixir/)
 * [Why We've Adopted Elixir (at Pusher) - Samuel J Murray](https://www.youtube.com/watch?v=zL2wcqS78UA)
+* [Forum over Functions - Randall Thomas (Code BEAM V America 2021)](https://www.youtube.com/watch?v=Nw_mQKa3SCI)
 * [Elixir Foundation - Zach Siri (Codemy.net)](https://www.codemy.net/posts/elixir-project-introduction-001/sets/elixir-foundation) (NOT all free)
 
 ### ELIXIR - GETTING STARTED (NON-FREE)
@@ -1238,6 +1239,7 @@ F
 * [Macro.Env - Elixir](https://hexdocs.pm/elixir/1.12/Macro.Env.html)
 * [Module module - Elixir](https://hexdocs.pm/elixir/1.12/Module.html)
 * [The Upside Down Dimension of Elixir - An Introduction to Metaprogramming - Nicholas J Henry (Montreal Elixir 2020)](https://www.youtube.com/watch?v=xj6yNzcGlEE)
+* [Elixir Metaprogramming - Tyler Pachal (Elixir Toronto 2020)](https://www.youtube.com/watch?v=DFa1bC95wxA)
 * [Metaprogramming Elixir - Chris McCord (NDC Oslo 2015)](https://vimeo.com/131643017)
 * [Mex: Elixir Shell helper for previewing macroexpansion - Luc Fueston](https://github.com/mrluc/mex)
 
