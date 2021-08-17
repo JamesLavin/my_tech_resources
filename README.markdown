@@ -954,6 +954,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Grand Unification Theory: Writing and Running Code, by Brian Ford (Barcelona RuCo 2012)](http://www.youtube.com/watch?v=iub8zWID4yk)
 * [Programming and minimalism: lessons from Orwell and the Clash - Jonathan Dahl (RubyConf 2010)](http://www.confreaks.tv/videos/460-rubyconf2010-programming-and-minimalism-lessons-from-orwell-and-the-clash)
 * [States and Nomads: Handling Software Complexity - Zach Tellman](http://forwardjs.com/university/states-and-nomads)
+* [Good Code, Bad Code](https://www.manning.com/books/good-code-bad-code)
 
 ### CLEAN CODE - AGILE
 
