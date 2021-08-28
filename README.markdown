@@ -1429,7 +1429,8 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * Apache Cassandra: [Docs](https://cassandra.apache.org/doc/latest/)  | [Website](https://cassandra.apache.org/) | [Github](https://github.com/apache/cassandra) | [Download](://cassandra.apache.org/download/)
 * [Apache Cassandra 3.0 - DataStax](https://docs.datastax.com/en/cassandra-oss/3.0/index.html)
 * [Awesome Cassandra](https://github.com/Anant/awesome-cassandra)
-* [DataStax Academy](https://academy.datastax.com/)
+* [DataStax Developers videos](https://www.youtube.com/channel/UCAIQY251avaMv7bBv5PCo-A) | [DataStax Academy](https://academy.datastax.com/) | [DataStax Katacoda exercises](https://katacoda.com/datastax)
+* [FULL 8 part Apache Cassandra™ Course - DataStax](https://www.youtube.com/playlist?list=PL2g2h-wyI4SpspPamyuinj9sgxjTFn9ex)
 * [Introduction to Apache Cassandra™ Workshop! - DataStax](https://www.youtube.com/watch?v=wOyQlbFM1Uk)
 * [Learn Cassandra - Tutorialspoint](https://www.tutorialspoint.com/cassandra/cassandra_introduction.htm)
 * [Why Discord Moved from MongoDB to Apache Cassandra, Let us Discuss - Hussein Nasser](https://www.youtube.com/watch?v=86olupkuLlU) & [How Discord Stores Billions of Messages - Stanislav Vishnevskiy](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
@@ -1438,6 +1439,8 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 #### DATABASES - CASSANDRA - 4.0
 
 * [Introduction to Apache Cassandra™ + What’s New in 4.0 - Patrick McFadin (DataStax Presents)](https://www.youtube.com/watch?v=d7o6a75sfY0)
+* [Apache Cassandra 4.0 Features Increased Speed And Scalability - TFiR](https://www.youtube.com/watch?v=5H2WRf3hX1c)
+* [Cassandra Meetup! Cassandra 4.0 with Patrick McFadin - DataStax Developers](https://www.youtube.com/watch?v=9ExbvOmFtoE)
 * [Cassandra 4.0: Better, Faster, Stronger | Ep. 11 | Accelerate: A NoSQL Original Series (DataStax)](https://www.youtube.com/watch?v=MaCF-wUwOsk)
 * [Building Apache Cassandra 4.0 Behind the Scenes - Dinesh A. Joshi (ApacheCon @Home 2020)](https://www.youtube.com/watch?v=KWmm7NsNZpE) (interesting talk on the challenges of testing Cassandra)
 
@@ -1450,7 +1453,6 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 * [Apache Cassandra Tutorial - JumpstartCS](https://www.youtube.com/playlist?list=PLalrWAGybpB-L1PGA-NfFu2uiWHEsdscD)
 * [Apache Cassandra Developer Workshop - David Gilardi](https://www.youtube.com/watch?v=quoHf0J5-ms)
-* [DataStax Developers](https://www.youtube.com/channel/UCAIQY251avaMv7bBv5PCo-A)
 * [5 Steps to an Awesome Apache Cassandra™ Data Model - Patrick McFadin](https://www.youtube.com/watch?v=wyq_hGFz6Sc)
 * [Cassandra Upgrade in production : Strategies and Best Practices - Laxmikant Upadhyay (ApacheCon @Home 2020)](https://www.youtube.com/watch?v=eTUXQS7RUQw)
 
@@ -1846,6 +1848,21 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 ## DESIGN
 
 * [Philip VanDusen](https://www.youtube.com/channel/UCd2J-PizcFDxWHBBfRkp38Q)
+  * [10 Ways to Learn Graphic Design for FREE - How To Learn Design Without Spending a Dime](https://www.youtube.com/watch?v=8QG34pEHn7o)
+* [The Futur](https://www.youtube.com/channel/UC-b3c7kxa5vU-bnmaROgvog)
+  * [Curriculum for Self Taught Designers - What You Need to Learn](https://www.youtube.com/watch?v=yRzfNvdgjhA)
+  * [How You Can Learn Design Without School](https://www.youtube.com/watch?v=47e8b5XmHfQ)
+* [Satori Graphics](https://www.youtube.com/c/SatoriGraphics/playlists)
+
+### DESIGN - GRAPHIC DESIGN
+
+* [6 Golden Rules Of Layout Design You MUST OBEY - Satori Graphics](https://www.youtube.com/watch?v=EFf9jBs2yfU)
+* [Graphic Design - GCFLearnFree.org](https://www.youtube.com/playlist?list=PLpQQipWcxwt9U7qgyYkvNH3Mp8XHXCMmQ)
+
+### DESIGN - LOGOS
+
+* [Visual Identities: More Than Just A Logo | Sagi Haviv (TEDxPenn)](https://www.youtube.com/watch?v=OcF1KBnlvTc)
+* [What Makes A Logo Great & Iconic? w/ Sagi Haviv - The Futur](https://www.youtube.com/watch?v=Fz-XGd8EX3U)
 
 ### DESIGN - PODCASTS
 
@@ -4157,6 +4174,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [How load balancers work - System Design Interview knowledge - Success in Tech](https://www.youtube.com/watch?v=escR-07yVAs)
 * [Katran Layer 4 Load Balancing at Facebook Engineering - Nitika Shirokov (Networking @Scale 2018)](https://www.youtube.com/watch?v=da9Qw7v5qLM)
 
+#### LINUX - NETWORKING - NFTABLES
+
+* [Nftables as a simple router - Joe McEntire](https://www.youtube.com/watch?v=v15ac5ssoco)
+
 #### LINUX - NETWORKING - PROXYING
 
 * [Layer 4 vs Layer 7 Proxying In Details Explained with Examples - Hussein Nasser](https://www.youtube.com/watch?v=ylkAc9wmKhc)
@@ -4219,6 +4240,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Kubernetes on Ubuntu](https://kubernetes.io/docs/getting-started-guides/ubuntu/) | [Quickstart](https://ubuntu.com/kubernetes/docs/quickstart)
 * [Installing Juju](https://juju.is/docs/installing)
 * [Provisioning Kubernetes the Easy Way with Juju - Just me and Opensource](https://www.youtube.com/watch?v=baSTkU38sC8)
+
+### LINUX - VIDEOS
+
+* [QuidsUp - Linux and Cyber Security channel](https://www.youtube.com/c/quidsup/playlists)
 
 ## LISP
 
@@ -4901,6 +4926,7 @@ Peter R. Egli:
 * [The Twelve-Factor App - Adam Wiggins](https://12factor.net/)
 * [Warren Buffet's Life Advice Will Change Your Future - Motivation Madness](https://www.youtube.com/watch?v=PX5-XyBNi00)
 * [10 Philosophies for Engineers - Jeff Meyerson](http://softwareengineeringdaily.com/2016/02/12/10-philosophies-for-developers/)
+* [Monkey, take the wheel - Dmytro Lytovchenko (CodeBEAM V 2020)](https://www.youtube.com/watch?v=mH6OBprNEIY)
 * [Building a Culture of Learning - Joe Mastey (MountainWest RubyConf 2015)](http://confreaks.tv/videos/mwrc2015-building-a-culture-of-learning)
 * [Code Club - Saron Yitbarek (LoneStarRuby 2015)](http://confreaks.tv/videos/lonestarruby2015-code-club)
 * [Real Developers Ship (a.k.a Tenets for Software Delivery) - Sebastian von Conrad (Ruby Australia 2014)](http://vimeo.com/90173903)
@@ -5814,6 +5840,19 @@ Peter R. Egli:
 * [Computer Systems Security - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
 * [Critical Code in Millions of Macs Isn't Getting Apple's Updates](https://www.wired.com/story/critical-efi-code-in-millions-of-macs-is-not-getting-apple-updates/)
 
+### SECURITY - AUTH/AUTH
+
+#### SECURITY - AUTH/AUTH - KEYCLOAK
+
+* [Building an effective identity and access management architecture with Keycloak - Sebastien Blanc (VoxxedDays Minsk 2019)](https://www.youtube.com/watch?v=RupQWmYhrLA)
+* [How to secure your Microservices with Keycloak - Thomas Darimont (VoxxedDays Luxembourg 2019)](https://www.youtube.com/watch?v=FyVHNJNriUQ)
+* [Keycloak Deep Dive - Stian Thorgersen](https://www.youtube.com/watch?v=XJYy6Aq-PJ8)
+
+#### SECURITY - AUTH/AUTH - TOKENS
+
+* [API Tokens: A Tedious Survey - Thomas Ptacek](https://fly.io/blog/api-tokens-a-tedious-survey/)
+* [A Child’s Garden of Inter-Service Authentication Schemes - Thomas Ptacek](https://web.archive.org/web/20200507173734/https://latacora.micro.blog/a-childs-garden/)
+
 ### SECURITY - ENCRYPTION
 
 * [Crypto101 (free in-depth cryptography book) - Laurens Van Houtven](https://www.crypto101.io/) & [PyCon US 2013 talk](https://www.youtube.com/watch?t=8&v=3rmCGsCYJF8)
@@ -5835,14 +5874,6 @@ Peter R. Egli:
 * Dave Crabbe: [Intro to Digital Certificates](https://www.youtube.com/watch?v=qXLD2UHq2vk) | [Chain of Trust](https://www.youtube.com/watch?v=heacxYUnFHA)
 * [SSL & HTTPS - Nickolai Zeldovich (MIT)](https://www.youtube.com/watch?v=q1OF_0ICt9A)
 * [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)
-
-### SECURITY - AUTH/AUTH
-
-#### SECURITY - AUTH/AUTH - KEYCLOAK
-
-* [Building an effective identity and access management architecture with Keycloak - Sebastien Blanc (VoxxedDays Minsk 2019)](https://www.youtube.com/watch?v=RupQWmYhrLA)
-* [How to secure your Microservices with Keycloak - Thomas Darimont (VoxxedDays Luxembourg 2019)](https://www.youtube.com/watch?v=FyVHNJNriUQ)
-* [Keycloak Deep Dive - Stian Thorgersen](https://www.youtube.com/watch?v=XJYy6Aq-PJ8)
 
 ### SECURITY - WEB
 

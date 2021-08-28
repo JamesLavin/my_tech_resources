@@ -624,10 +624,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ElixirStatus.com](http://elixirstatus.com/)
 * [Elixir Weekly](https://elixirweekly.net/)
 * [The Erlang eList](http://theerlangelist.com/)
+* [Fly.io](https://fly.io/blog/)
 * [Hacklines](https://hacklines.com/en?tags=Elixir)
 * Hashrocket: [TIL](https://til.hashrocket.com/elixir) & [blog](https://hashrocket.com/blog/tags/elixir)
 * [Iacobson.net](http://iacobson.net/index?tag=elixir)
 * [Plataformatec](http://blog.plataformatec.com.br/tag/elixir/)
+* [Samuel Mullen](https://samuelmullen.com/articles/)
 * [The Pug Automatic - Henrik Nyh](http://thepugautomatic.com/)
 * [Red Shift](https://shift.infinite.red/tagged/elixir)
 * [Thoughtbot](https://robots.thoughtbot.com/tags/elixir)
@@ -1085,6 +1087,7 @@ F
     * [Audit Middleware](https://github.com/commanded/commanded-audit-middleware)
     * [Scheduler: schedule one-off and recurring commands](https://github.com/commanded/commanded-scheduler)
     * [Swarm Registry](https://github.com/commanded/commanded-swarm-registry)
+* [Tackling software complexity with the CELP stack - Cees de Groot](http://evrl.com/agile,/elixir/2021/01/15/the-CEL-stack.html)
 * [Commanded: Use Commanded to build Elixir CQRS/ES applications - Ben Smith](https://github.com/slashdotdash/commanded)
 * [Eventstore: CQRS event store using PostgreSQL for persistence - Ben Smith](https://github.com/slashdotdash/eventstore)
 * [Conduit: RealWorld example backend implementing the CQRS/ES pattern in Elixir and Phoenix](https://github.com/slashdotdash/conduit)
@@ -1281,6 +1284,13 @@ F
 * [AutomatingTheFuture.com - Quentin Thomas](http://www.automatingthefuture.com/)
 * [Artificial Neural Networks, Elixir, and You - Quentin Thomas](http://www.automatingthefuture.com/blog/2016/9/7/artificial-neural-networks-elixir-and-you?utm_content=buffer9dea0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
+### ELIXIR - NEWSLETTERS
+
+* [Elixir Digest](https://elixirdigest.net/digests)
+* [Elixir Radar](https://twitter.com/search?q=%40elixir_radar%20issue&src=typed_query&f=live)
+* [Elixir Weekly](https://elixirweekly.net/issues)
+* [Nerves Newsletter]https://underjord.io/nerves-newsletter.html()
+
 ### ELIXIR - NIFS
 
 #### ELIXIR - NIFS - RUST & RUSTLER
@@ -1306,6 +1316,7 @@ F
 #### ELIXIR - NX - AXON
 
 * [Axon: NX-powered neural networks](https://github.com/elixir-nx/axon)
+* [Predicting fuel efficiency with Elixir, Nx, and Axon: a gentle introduction to Machine Learning](https://bitfield.co/posts/machine-learning-in-elixir-with-nx-and-axon/)
 
 #### ELIXIR - NX - SCIDATA
 
@@ -1327,6 +1338,7 @@ F
 
 ### ELIXIR - OTP
 
+* [Learning Elixir's GenServer with a real-world example - Alex Reichert](https://dev.to/reichert621/learning-elixir-s-genserver-with-a-real-world-example-5fef)
 * [Parenting Children - Saša Jurić (Virtual BEAM Meetup 2020)](https://www.youtube.com/watch?v=Iih3Nrce3_U)
 * [Simplifying Systems with Elixir - Saša Jurić (YOW! Lambda Jam 2020)](https://www.youtube.com/watch?v=Clm_NhWI0hY) & [Repository containing the complete source code of The Erlangelist site](https://github.com/sasa1977/erlangelist)
 * [Consistent, Distributed Elixir - Chris Keathley (ElixirDaze 2018)](https://www.youtube.com/watch?v=CmMMpaUD3g8)
@@ -1552,6 +1564,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [LiveView](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html) | [LiveComponent](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html) | [LiveViewTest](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveViewTest.html) | [mix phx.gen.live](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Live.html) | [API Reference](https://hexdocs.pm/phoenix_live_view/api-reference.html)
 * [Build a real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5 - Chris McCord](https://www.youtube.com/watch?v=MZvmYaFkNJI)
+* [Let the force be with Livebook - Kacper Latuszewski](https://elixirweekly.net/issue://appunite.com/blog/let-the-force-be-with-livebook)
 * [Phoenix LiveView course - PragmaticStudio.com](https://pragmaticstudio.com/phoenix-liveview) (Nicole and Mike have incredibly generously created a professional LiveView course and given it away absolutely FREE)
 * [Let’s build a real time chat application with Elixir and Phoenix LiveView - Manning livestream - Geoffrey Lessel](https://www.youtube.com/watch?v=_rTFZbvMfJA)
 * [LiveView apps - Roman Heinrich and Alex Unger](https://github.com/happycodrz/liveview-apps)
@@ -1680,11 +1693,13 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ELIXIR - PHOENIX - TEMPLATES & LAYOUTS
 
 * [Views & templates (Phoenix docs)](https://hexdocs.pm/phoenix/views.html)
+* [Phoenix Templates - Samuel Mullen](https://samuelmullen.com/articles/phoenix-templates/) & [Phoenix Templates: Rendering & Layouts - Samuel Mullen](https://samuelmullen.com/articles/phoenix_templates_rendering_and_layouts/)
 * [The Usefulness of Phoenix's static_path/2 - Eric Lathrop](http://ericlathrop.com/2019/12/the-usefulness-of-phoenix-s-static-path-2/)
 
 #### ELIXIR - PHOENIX - TESTING
 
 * [Test-Driven Development With Phoenix - German Velasco](https://www.tddphoenix.com/) (FREE book; in progress!)
+* [E2E Testing with Ecto Sandbox API - Nikola Begedin (Code BEAM V 2020)](https://www.youtube.com/watch?v=OAuTCyvp9NY)
 * [PhoenixIntegration: Lightweight server side integration test tools for Phoenix - Boyd Multerer](https://github.com/boydm/phoenix_integration)
 * [ExUnit Deep Dive - Daniel Serrano](https://dnlserrano.dev/2019/05/26/exunit-deep-dive.html)
 * [How to do Outside-In TDD with Phoenix - Yiming Chen](https://dsdshcym.github.io/blog/2018/08/04/how-to-do-outside-in-tdd-with-phoenix/)
@@ -1981,7 +1996,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * ElixirConf: [2020](https://www.youtube.com/playlist?list=PLqj39LCvnOWZl_Pb0Y7wGWijKbTvL4gJg) | [2019](https://www.youtube.com/playlist?list=PLqj39LCvnOWYTNs1n3ZNMSNO3Svv_XweT) | [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * ElixirConf EU: [EU Virtual October 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuqgpAyZVzeCoz6GQrQx9Xc) | [EU Virtual June 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuKXQqD64oZFss2fGERjKyK) | [2019 EU](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtoiQC735NjHyPJUS_nmrxy)
-* Code BEAM/Mesh: [V 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZ3c4NEvwvvvpOlEY2NrYQ) [SF 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zv85s835EGDeCIBYMipJKgL) | [Lite Amsterdam 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtHPqiRFH4nAJwbrfz04V_Q) | [CodeElixir LDN 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvvzEOmlqLUyrZdsW27w7zH) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Stockholm 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztq2fM3aGvXlj_jOfiopM2B) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Munich 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztyk61upvBMvVPbfTyfFgCE) | [Berlin 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs6eFJ9yx-jR7UShGGfPnY4) | [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
+* Code BEAM / Code Mesh: [V Europe 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtkHrA2Uqq8AgDBCjnltUHd) | [V America 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtsGA-ZEVHfVE4Ch2wMMyKg) | [V 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZ3c4NEvwvvvpOlEY2NrYQ) [SF 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zv85s835EGDeCIBYMipJKgL) | [Lite Amsterdam 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtHPqiRFH4nAJwbrfz04V_Q) | [CodeElixir LDN 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvvzEOmlqLUyrZdsW27w7zH) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Stockholm 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztq2fM3aGvXlj_jOfiopM2B) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Munich 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztyk61upvBMvVPbfTyfFgCE) | [Berlin 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs6eFJ9yx-jR7UShGGfPnY4) | [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
 * The Big Elixir: [2019](https://www.youtube.com/playlist?list=PLaiqDZ6yySzjdDOXli7VcQw7a0wuJZfz1) | [2018](https://www.youtube.com/channel/UCInJUDVff2bzZSrkDRUCOdA)
 * Gig City Elixir: [2019](https://www.youtube.com/playlist?list=PLKBMoE8mCkXgXIHTEw9073T4HdNPrvXuw)
 * Meetups: [Elixir Berlin](https://www.youtube.com/channel/UC33mS5dbme8Hh_79YHVSibQ)

@@ -10,8 +10,6 @@ Related: [Event Sourcing, CQRS, DDD, & Microservices](https://github.com/JamesLa
 
 ## MESSAGING
 
-See
-
 ### MESSAGING - KAFKA
 
 * [kafka.apache.org](http://kafka.apache.org/)
@@ -250,6 +248,16 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 ### MESSAGING - RABBITMQ
 
-### MESSAGING - RABBITMQ - STREAMS
+#### MESSAGING - RABBITMQ - CLIENTS
+
+* [Client Documentation - RabbitMQ.com](https://www.rabbitmq.com/clients.html)
+* [Erlang RabbitMQ Client library - RabbitMQ.com](https://www.rabbitmq.com/erlang-client-user-guide.html)
+
+#### MESSAGING - RABBITMQ - STREAMS
 
 * [Introducing stream support in RabbitMQ - Arnaud Cogoluègnes (RabbitMQ Summit 21)](https://www.youtube.com/watch?v=PnmGoMiaJhE)
+
+#### MESSAGING - RABBITMQ - VIDEOS
+
+* [RabbitMQ Summit 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs2ZakMrMBO_tr-CgEbOLRL)
+
