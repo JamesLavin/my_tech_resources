@@ -1723,6 +1723,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Intro to GraphQL - Lee Byron (0REDEV 2015)](https://www.youtube.com/watch?v=Wq02BNrN1dU)
 * [Exploring GraphQL - Nick Schrock (Dev Tools @ Scale)](https://www.youtube.com/watch?v=_9RgHXqH8J0)
 * [GraphQL: Designing a Data Language - Lee Byron (StrangeLoop 2016)](https://www.youtube.com/watch?v=Oh5oC98ztvI)
+* [Full Stack GraphQL Applications (Manning 2021)](https://www.manning.com/books/fullstack-graphql-applications)
 
 #### DATABASES - GRAPHQL - IMPLEMENTATIONS
 
