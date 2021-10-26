@@ -197,6 +197,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Keras Blog - Francois Chollet](https://blog.keras.io/)
 * [Keras: Multiple outputs and multiple losses - Adrian Rosebrock](https://www.pyimagesearch.com/2018/06/04/keras-multiple-outputs-and-multiple-losses/)
 * Keras.js: [Github](https://github.com/transcranial/keras-js) | [Demos](https://transcranial.github.io/keras-js/#/) | [Docs](https://transcranial.github.io/keras-js-docs/)
+* [First Contact With Deep Learning: Practical Introduction with Keras - Jordi Torres](https://torres.ai/first-contact-deep-learning-practical-introduction-keras/)
 * [Intro to text classification with Keras: automatically tagging Stack Overflow posts - Sara Robinson, Josh Gordon, and Marianne Linhares Monteiro](https://cloud.google.com/blog/big-data/2017/10/intro-to-text-classification-with-keras-automatically-tagging-stack-overflow-posts)
 * [Problem-solving with ML: automatic document classification - Ahmed Kachkach](https://cloud.google.com/blog/big-data/2018/01/problem-solving-with-ml-automatic-document-classification)
 
@@ -442,7 +443,6 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Awesome-Tensorflow (curated list of resources)](https://github.com/jtoy/awesome-tensorflow)
 * [Github](https://github.com/tensorflow/tensorflow) | [Installing](https://github.com/tensorflow/tensorflow) | [Website](https://www.tensorflow.org/) | [Youtube](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ) | [Udacity course](https://www.udacity.com/course/deep-learning--ud730) | [Stanford course](https://web.stanford.edu/class/cs20si) | [Examples](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples)
 * [Machine Learning with TensorFlow - Andrew Gasparovic (GDD Europe '17)](https://www.youtube.com/watch?v=2zWSr-3gkWY)
-* [First Contact With Tensorflow - Jordi Torres](http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/)
 * [TensorFlow in 5 Minutes - Siraj Raval](https://www.youtube.com/watch?v=2FmcHiLCwTU)
 * [Effective TensorFlow for Non-Experts - Martin Wicke (Google I/O '17)](https://www.youtube.com/watch?v=5DknTFbcGVM)
 * [Intro to TensorFlow - Alejandro Solano (EuroPython 2017)](https://ep2017.europython.eu/media/conference/slides/introduction-to-tensorflow.pdf)
@@ -651,6 +651,26 @@ Links to resources I have found useful or think might be helpful to future me or
 #### BUSINESS - ENTREPRENEURSHIP - ADVICE
 
 * [Startup Class (Sam Altman)](http://startupclass.samaltman.com/)
+* [Y Combinator (Youtube)](https://www.youtube.com/c/ycombinator/playlists)
+* [Startup Grind (Youtube)](https://www.youtube.com/c/StartupGrind/playlists)
+* [Stanford Graduate School of Business (Youtube)](https://www.youtube.com/c/stanfordgsb/playlists)
+* [This Week in Startups (Youtube)](https://www.youtube.com/channel/UCkkhmBWfS7pILYIk0izkc3A)
+* [Harvard Innovation Lab (Youtube)](https://www.youtube.com/user/Harvardilab/playlists)
+* [Ideas Made to Matter - MIT Sloan School of Management](https://mitsloan.mit.edu/ideas-made-to-matter)
+* [Wharton School (Youtube)](https://www.youtube.com/c/wharton/playlists)
+* [London Business School (Youtube)](https://www.youtube.com/c/londonbusinessschool/playlists)
+* [Berkeley Haas (Youtube)](https://www.youtube.com/c/berkeleyhaas/playlists)
+* [Nordic Business Forum (Youtube)](https://www.youtube.com/c/Nbforum/playlists)
+* [SaaStr (Youtube)](https://www.youtube.com/c/Saastr/playlists)
+* [SaaStock (Youtube)](https://www.youtube.com/c/SaaStock/playlists)
+* [Greylock (Youtube)](https://www.youtube.com/c/GreylockVC/playlists)
+* [Dan Martell (Youtube)](https://www.youtube.com/user/danvmartell/playlists)
+* [Talks at Google (Youtube)](https://www.youtube.com/c/talksatgoogle/playlists)
+* [The Hussle (Youtube)](https://www.youtube.com/c/HustleCon/playlists)
+* [University of California TV Innovator Stories (Youtube)](https://www.youtube.com/playlist?list=PLepHs0thoryMK9sls8hSuW5S1xNdyecb_)
+* [Entrepreneurship at Yale SOM (Youtube)](https://www.youtube.com/playlist?list=PL5O6WHvlGzDAXzG8t9uPwS0_QS0C6hWtl)
+* [TK Kader (Youtube)](https://www.youtube.com/c/TKKader/playlists)
+* [99U (Youtube)](https://www.youtube.com/channel/UCVpIzLeRuPW5xy4iBum3IPw)
 * [Founder to CEO (Matt's Book for Startups) - Matt Mochary](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit)
 * [Indie Hackers](https://www.indiehackers.com/)
 * [Thoughtbot](https://thoughtbot.com/resources)
@@ -659,6 +679,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How to Future-Proof Your Career - Dorie Clark (TEDxLugano)](https://www.youtube.com/watch?v=l6leLPN8ipI)
 * [20 Ways to Blow Up Your Company - Jason Mendelson](https://www.youtube.com/watch?v=I8zHfCqz9qY)
 * [13 Reasons My Startup FAILED - Russell Keith-Magee (Djangocon.us 2017)](https://www.youtube.com/watch?v=OOTThZReAdA)
+* [The Secrets to YC's Essential Startup Advice with Y Combinator - Michael Seibel (SaaStr 2021)](https://www.youtube.com/watch?v=MdykKrbDBwc)
 * [Sales Mistakes that Can Kill Your SaaS Business & How to Avoid Them - Mark Roberge & Michele Law](https://www.youtube.com/watch?v=20RS0bWg1o4)
 * [The Lean Start-up - Ash Maurya’s keynote speech (Start-up Showcase 2017)](https://www.youtube.com/watch?v=r8PjvpH4yng)
 * [The Lean Startup - Eric Ries (Talks at Google)](https://www.youtube.com/watch?v=fEvKo90qBns)
@@ -721,6 +742,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### BUSINESS - ENTREPRENEURSHIP - FINANCING
 
+* [Startup Finance Basics - This Week in Startups](https://www.youtube.com/playlist?list=PL24nOpPUQlbZRbsmG28seRjYtgosGmbFQ)
 * [Rewarding Talent - Index Ventures](https://www.indexventures.com/rewardingtalent/handbook/our-insight)
 * [VC terms — Return of the Barbarians - Fred Destin](https://medium.com/@fdestin/vc-terms-return-of-the-barbarians-77149fe2be88)
 * [Don’t go chasing unicorns - Aner Ben-Ami](https://blog.usejournal.com/dont-go-chasing-unicorns-2fa84d88437)
@@ -780,6 +802,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Evolving for the Next Billion - GGV Capital](https://podcasts.apple.com/us/podcast/evolving-for-the-next-billion-by-ggv-capital/id1336107529)
 * [Founder Quest Podcast](https://www.founderquestpodcast.com/)
 * [Founder Real Talk - GGV Capital](https://founderrealtalk.ggvc.com/)
+* [Founder's Journal - Alex Lieberman](https://podcasts.apple.com/us/podcast/founders-journal/id1509276485)
 * [Founders Talk](https://changelog.com/founderstalk)
 * [Foundr - Nathan Chan](https://foundr.com/podcast-with-nathan-chan/)
 * [The Full Ratchet - Nick Moran](https://itunes.apple.com/us/podcast/full-ratchet-vc-venture-capital-angel-investors-startup/id888084300?mt=2)
@@ -819,6 +842,16 @@ Links to resources I have found useful or think might be helpful to future me or
 #### BUSINESS - ENTREPRENEURSHIP - SALES
 
 * [Fear of Sales - Elad Gil](http://blog.eladgil.com/2019/10/fear-of-sales.html)
+
+#### BUSINESS - ENTREPRENEURSHIP - VENTURE CAPITAL-BACKED
+
+* [Blitzscaling 01: Overview of the Five Stages of Blitzscaling](https://www.youtube.com/watch?v=s3RrVmv5WwA)
+
+### BUSINESS - MARKETING
+
+* [Content Marketing Full Course | Content Marketing Tutorial For Beginners - Simplilearn](https://www.youtube.com/watch?v=osVm6UrwEYc)
+* [Behind the Brand](https://www.youtube.com/c/BehindtheBrand/playlists)
+* [Everything You (probably) DON'T Know about Marketing - Seth Godin](https://www.youtube.com/watch?v=BPK_qzeH_yk)
 
 ### BUSINESS - PODCASTS
 
@@ -1852,6 +1885,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [The Futur](https://www.youtube.com/channel/UC-b3c7kxa5vU-bnmaROgvog)
   * [Curriculum for Self Taught Designers - What You Need to Learn](https://www.youtube.com/watch?v=yRzfNvdgjhA)
   * [How You Can Learn Design Without School](https://www.youtube.com/watch?v=47e8b5XmHfQ)
+* [Flux: Become the Designer You Were Meant To Be](https://www.youtube.com/c/FluxWithRanSegall/playlists)
 * [Satori Graphics](https://www.youtube.com/c/SatoriGraphics/playlists)
 
 ### DESIGN - GRAPHIC DESIGN
@@ -2727,6 +2761,13 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Copper](https://github.com/cloud66-oss/copper)
 * [Conftest](https://www.conftest.dev/)
 * [Polaris](https://github.com/FairwindsOps/polaris)
+
+#### DEVOPS - KUBERNETES - BLOGS
+
+* [Codefresh](https://codefresh.io/kubernetes-tutorial/)
+* [Kubernetes.io](https://kubernetes.io/blog/)
+* [LearnK8s](https://learnk8s.io/blog)
+* [Rancher Blog](https://www.suse.com/c/rancherblog/)
 
 #### DEVOPS - KUBERNETES - BRIGADE
 
@@ -4086,6 +4127,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ## LEGAL
 
+* [Startup Legal Basics - This Week in Startups](https://www.youtube.com/playlist?list=PL24nOpPUQlbbip7IrGcdAFZvLFRbT6Aac)
 * [ChooseALicense.com - Advice on selecting an open source license - Github](http://choosealicense.com/)
 * [Chart showing what each license allows and disallows - ChooseALicense.com & Github](http://choosealicense.com/appendix/)
 
@@ -4176,7 +4218,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### LINUX - NETWORKING - NFTABLES
 
+* [NFTables wiki](https://wiki.nftables.org/wiki-nftables/index.php/Main_Page)
+  * [Quick reference](https://wiki.nftables.org/wiki-nftables/index.php/Quick_reference-nftables_in_10_minutes)
 * [Nftables as a simple router - Joe McEntire](https://www.youtube.com/watch?v=v15ac5ssoco)
+* NFTables: [Part 1: Concept and Syntax](https://www.youtube.com/watch?v=lHLPZlZLWgs) | [Part 2: Live Demo!](https://www.youtube.com/watch?v=MFJA7T2nFMc)
 
 #### LINUX - NETWORKING - PROXYING
 
@@ -4803,6 +4848,10 @@ Peter R. Egli:
 * [PostgreSQL proficiency for Python people - Christophe Pettus (PyCon 2014)](https://www.youtube.com/watch?v=0uCxLCmzaG4)
 * [Porting ActiveRecord validations to Postgres - Sean Huber](http://shuber.io/porting-activerecord-validations-to-postgres/)
 
+### POSTGRESQL - 14
+
+* [What's New in PostgreSQL 14 - Christophe Pettus (San Francisco Bay Area PostgreSQL Users Group)](https://www.youtube.com/watch?v=hQNcjkp_itI)
+
 ### POSTGRESQL - ADVANCED FEATURES
 
 * [A scalable, versioned document store in PostgreSQL - Art Gillespie (PostgresOpen Silicon Valley 2018)](https://www.youtube.com/watch?v=dxkyvrgKTfM)
@@ -4819,6 +4868,11 @@ Peter R. Egli:
 
 * [Building a real time analytics API at scale - Sylvain Friquet (PostgresOpen 2018)](https://www.youtube.com/watch?v=wJOCaNE2_C0)
 
+### POSTGRESQL - BLOGS
+
+* [Crunch Data](https://blog.crunchydata.com/blog)
+* Craig Kerstiens: [Personal blog](https://www.craigkerstiens.com/categories/postgres/) | [Crunchy Data blog](https://blog.crunchydata.com/blog/author/craig-kerstiens)
+
 ### POSTGRESQL - CLIENTS
 
 #### POSTGRESQL - CLIENTS - DBEAVER
@@ -4828,6 +4882,10 @@ Peter R. Egli:
 
 ### POSTGRESQL - JSON / JSONB
 
+* [[Live Demo] Query JSON Data In Postgres Database | JSONB Data Type In Postgresql (LimeGuru)](https://www.youtube.com/watch?v=PZFiThbuTFg)
+* [PostgresOpen 2019 JSONB Tricks - Colton Shepard (PostgresOpen 2019)](https://www.youtube.com/watch?v=p9RItyeKbLQ)
+* [Working With PostgreSQL As A JSON Document Store - Robert Bernier (Percona Live Online 2020)](https://www.youtube.com/watch?v=d8CwCcOUVg0)
+* [Json in Postgres - the Roadmap](https://www.youtube.com/watch?v=AX8y6qH5zvo)
 * [JSONB Tricks - Colton Shepard (PostgresOpen 2019)](https://www.youtube.com/watch?v=p9RItyeKbLQ)
 * [Using JSON in PostgreSQL - Andrew Dunstan (PostgresOpen SV 2018)](https://www.youtube.com/watch?v=tMT16q9pqp0)
 * [Dox: Document Database API extension for Postgres - Rob Conery](https://github.com/robconery/dox) & [A Pure PostgreSQL Document Database API](https://rob.conery.io/2018/07/05/a-pure-postgresql-document-database-api/)
@@ -5189,6 +5247,7 @@ Peter R. Egli:
 
 * [Reliable Messaging With RabbitMQ - Part 1 - JimOnDemand](https://www.youtube.com/watch?v=XjuiZM7JzPw)
 * [RabbitMQ Simulator](http://tryrabbitmq.com/)
+* [Learnings from Running 1000s of Production RabbitMQ Clusters - Lovisa Johansson (RabbitMQ Summit)](https://www.youtube.com/watch?v=nxQrpLfX3rs)
 * A Transmuting Journey: From a Ruby on Rails Monolith to Elixir and Elm Microservices - Volker Rabe: [Video](https://www.youtube.com/watch?v=ZCYEX6ZIJgM) | [Slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/152/original/From_a_Ruby_on_Rails_Monolith_to_Elixir_and_Elm_Microservices_%281%29.pdf?1463482715)
 * [RabbitMQ is the new king - Alvaro Videla & Jan Machacek](https://www.youtube.com/watch?v=kA8rPIDa388)
 * [Dissecting the Rabbit: RabbitMQ Internal Architecture - Alvaro Videla (Lambda Days 2015)](https://www.youtube.com/watch?v=WPischLIe8Q)

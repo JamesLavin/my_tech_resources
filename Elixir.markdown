@@ -631,6 +631,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Plataformatec](http://blog.plataformatec.com.br/tag/elixir/)
 * [Samuel Mullen](https://samuelmullen.com/articles/)
 * [The Pug Automatic - Henrik Nyh](http://thepugautomatic.com/)
+* [Ramp](https://engineering.ramp.com/elixir-at-ramp/)
 * [Red Shift](https://shift.infinite.red/tagged/elixir)
 * [Thoughtbot](https://robots.thoughtbot.com/tags/elixir)
 * [Tyler Pachal](https://medium.com/@tylerpachal)
@@ -722,6 +723,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [DailyDrip.com - Elixir](https://www.dailydrip.com/topics/elixir)
 * [Pragmatic Studio](https://pragmaticstudio.com/courses/elixir)
+
+### ELIXIR - DATA ANALYSIS
+
+* [Explorer: Dataframes for Elixir](https://github.com/elixir-nx/explorer)
 
 ### ELIXIR - DATA PIPELINES
 
@@ -880,6 +885,7 @@ F
 
 #### ELIXIR - DEPLOYMENT - DOCKER
 
+* [Deploying a Phoenix 1.6 app with Docker and Elixir Releases - Miguel Cobá](https://dev.to/miguelcoba/deploying-a-phoenix-1-6-app-with-docker-and-elixir-releases-2la4)
 * [Docker and OTP Friends or Foes - Daniel Azuma (ElixirConf 2018)](https://www.youtube.com/watch?v=nLApFANtkHs) & [talk notes](http://daniel-azuma.com/articles/talks/elixirconf-2018) & [Tanx game + GKE deployment instructions](https://github.com/ElixirSeattle/tanx)
 * [Elixir Releases & Docker - The Basics Explained - Philipp](https://medium.com/@pentacent/elixir-releases-docker-the-basics-explained-4c800a5b990b)
 * [How to use Elixir with Docker? - Kamil Lelonek](https://blog.lelonek.me/how-to-use-elixir-with-docker-836c9b4a25b0)
@@ -1005,6 +1011,11 @@ F
 * [Transactions, Multi and Queries with Ecto - elx pro](https://www.youtube.com/watch?v=4dqTLxDHqeE)
 * [Replace Callbacks with Ecto.Multi - Daniel Berkompas](http://blog.danielberkompas.com/2016/09/27/ecto-multi-services.html)
 
+#### ELIXIR - ECTO - POSTGRESQL
+
+* [Scaling Ecto and Postgres - Tyler Hawkins (ElixirConf 2021)](https://www.youtube.com/watch?v=SHjAMcBwY_o)
+* [I can do all things through Postgresql: Lessons for the Elixir dev - Todd Resudek (ElixirConf 2021)](https://www.youtube.com/watch?v=mliO5_XhAKE)
+
 #### ELIXIR - ECTO - RELATIONS
 
 * Many to Many relationships in Ecto rawcode: [Part 1](https://www.youtube.com/watch?v=Cl2U_8XtUBM) | [Part 2](https://www.youtube.com/watch?v=_ut8o0fdXRo)
@@ -1029,6 +1040,10 @@ F
 
 * [Connecting Ecto to PostgreSQL with SSL - Hubert Łępicki](https://www.amberbit.com/blog/2017/11/13/connecting-ecto-to-postgresql-with-ssl/)
 
+### ELIXIR - EDITORS
+
+* [delta-elixir: Format for describing contents & changes - Slab](https://github.com/slab/delta-elixir) | [Hexdocs](https://hexdocs.pm/delta/Delta.html)
+
 ### ELIXIR - ELASTICSEARCH
 
 * [elasticsearch-elixir - Daniel Berkompas](https://github.com/danielberkompas/elasticsearch-elixir) & [Integrate Elixir with Elastisearch - Part 1 - Indexing - Silviu Rosu](http://www.ubazu.com/elixir-elasticsearch-integration-index-data)
@@ -1037,11 +1052,17 @@ F
 * [erlastic_search (Erlang client for Elasticsearch)](https://github.com/tsloughter/erlastic_search)
 * [Elasticsearch from Elixir and Docker - Zohaib Rauf](http://zohaib.me/elasticsearch-from-elixir-and-docker/)
 
+### ELIXIR - EMAIL
+
+* [Swoosh: Compose, deliver and test your emails easily in Elixir](https://github.com/swoosh/swoosh) | [Hexdocs](https://hexdocs.pm/swoosh/Swoosh.html)
+
 ### ELIXIR - ERROR HANDLING
 
 * [Using tuple-wrapping to improve `with` expressions in Elixir - Tyler Pachal](https://medium.com/@tylerpachal/using-tuple-wrapping-to-improve-with-expressions-in-elixir-f491b06265fa)
 * [Error-free Elixir - Maciej Kaszubowski (Code Elixir LDN 19)](https://www.youtube.com/watch?v=PwfOARkogDI)
 * [Error Handling in Elixir Libraries - Michal Muskala](http://michal.muskala.eu/2017/02/10/error-handling-in-elixir-libraries.html)
+* [Exceptional: Staying on the Happy Path - Brooklyn Zalenka (The Big Elixir 2018)](https://www.youtube.com/watch?v=NyowGgUzfno)
+* [BoomNotifier: Exception notification for plug based applications - Wyeworks](https://github.com/wyeworks/boom)
 
 ### ELIXIR - ETS
 
@@ -1107,10 +1128,6 @@ F
 #### ELIXIR - EVENT SOURCING/CQRS - SEVEN OTTERS
 
 * Seven Otters: CQRS/ES library and facilities for Elixir to build events-oriented applications: [SevenOtters.org](https://www.sevenotters.org/) | [Github](https://github.com/sevenotters) | [Getting Started](https://hexdocs.pm/seven/getting_started.html) | [Blog](https://www.sevenotters.org/allposts)
-
-### ELIXIR - EXCEPTIONS
-
-* [Exceptional: Staying on the Happy Path - Brooklyn Zalenka (The Big Elixir 2018)](https://www.youtube.com/watch?v=NyowGgUzfno)
 
 ### ELIXIR - FUNCTIONAL PROGRAMMING
 
@@ -1562,7 +1579,8 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ELIXIR - PHOENIX - LIVE VIEW
 
-* [LiveView](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html) | [LiveComponent](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html) | [LiveViewTest](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveViewTest.html) | [mix phx.gen.live](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Live.html) | [API Reference](https://hexdocs.pm/phoenix_live_view/api-reference.html)
+* Live View: [Documentation](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html) | [LiveComponent](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html) | [LiveViewTest](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveViewTest.html) | [mix phx.gen.live](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Live.html) | [API Reference](https://hexdocs.pm/phoenix_live_view/api-reference.html) | [Github](https://github.com/phoenixframework/phoenix_live_view)
+* [The Future of Full-stack - Chris McCord (ElixirConf 2021)](https://www.youtube.com/watch?v=Of1phFsC4ZI)
 * [Build a real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5 - Chris McCord](https://www.youtube.com/watch?v=MZvmYaFkNJI)
 * [Let the force be with Livebook - Kacper Latuszewski](https://elixirweekly.net/issue://appunite.com/blog/let-the-force-be-with-livebook)
 * [Phoenix LiveView course - PragmaticStudio.com](https://pragmaticstudio.com/phoenix-liveview) (Nicole and Mike have incredibly generously created a professional LiveView course and given it away absolutely FREE)
@@ -1571,9 +1589,9 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Rendering Supervision Trees with Phoenix LiveView - Berenice Medel (ElixirConf 2020)](https://www.youtube.com/watch?v=sw-m9an2zFM)
 * [Building Multiplayer Games with LiveView - Dorian Karter (ElixirConf 2020)](https://www.youtube.com/watch?v=0UnLZlMr1Ug)
 * [GeoRacer - a real-time multiplayer mobile game in Elixir in 6 weeks - Zack Kayser and Beau Heubach (Code BEAM SF 2020)](https://www.youtube.com/watch?v=5DGUqcd-HWQ)
+* [Rebuilding a complex web-app with Elixir and Phoenix LiveView | Mikkel Högh (Code BEAM V 2020)](https://www.youtube.com/watch?v=eWN2c4dLDTU)
 * [Opening Keynote: Phoenix LiveView Uploads - Chris McCord (ElixirConf 2020)](https://www.youtube.com/watch?time_continue=2&v=QJkopba8yyE)
 * [What's new in LiveView - Chris McCord | ElixirConfEU Virtual 2020](https://www.youtube.com/watch?v=VU1JMg9AbLQ)
-* Phoenix Live View: [Documentation](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html) | [Github](https://github.com/phoenixframework/phoenix_live_view)
 * [Phoenix LiveView: Multi-step forms - David Bernheisel](https://bernheisel.com/blog/liveview-multi-step-form/)
 * [Communicating between LiveViews on the same page - Henrik Nyh](https://thepugautomatic.com/2020/08/communicating-between-liveviews-on-the-same-page/)
 * Alvise Susmel: [The Primitives of Phoenix LiveView](https://www.poeticoding.com/the-primitives-of-phoenix-liveview/) | [Building a Gallery App](https://www.poeticoding.com/understanding-liveview-build-a-gallery-app/)
@@ -1994,8 +2012,8 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - VIDEOS
 
-* ElixirConf: [2020](https://www.youtube.com/playlist?list=PLqj39LCvnOWZl_Pb0Y7wGWijKbTvL4gJg) | [2019](https://www.youtube.com/playlist?list=PLqj39LCvnOWYTNs1n3ZNMSNO3Svv_XweT) | [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
-* ElixirConf EU: [EU Virtual October 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuqgpAyZVzeCoz6GQrQx9Xc) | [EU Virtual June 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuKXQqD64oZFss2fGERjKyK) | [2019 EU](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtoiQC735NjHyPJUS_nmrxy)
+* ElixirConf: [2021](https://www.youtube.com/playlist?list=PLqj39LCvnOWZna91xJ_i44g3rx4Brbpnv) | [2020](https://www.youtube.com/playlist?list=PLqj39LCvnOWZl_Pb0Y7wGWijKbTvL4gJg) | [2019](https://www.youtube.com/playlist?list=PLqj39LCvnOWYTNs1n3ZNMSNO3Svv_XweT) | [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
+* ElixirConf EU: [2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtdiDIxP_rPMQ5VmVhs4CKJ) | [EU Virtual October 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuqgpAyZVzeCoz6GQrQx9Xc) | [EU Virtual June 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuKXQqD64oZFss2fGERjKyK) | [2019 EU](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtoiQC735NjHyPJUS_nmrxy)
 * Code BEAM / Code Mesh: [V Europe 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtkHrA2Uqq8AgDBCjnltUHd) | [V America 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtsGA-ZEVHfVE4Ch2wMMyKg) | [V 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZ3c4NEvwvvvpOlEY2NrYQ) [SF 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zv85s835EGDeCIBYMipJKgL) | [Lite Amsterdam 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtHPqiRFH4nAJwbrfz04V_Q) | [CodeElixir LDN 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvvzEOmlqLUyrZdsW27w7zH) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Stockholm 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztq2fM3aGvXlj_jOfiopM2B) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Munich 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztyk61upvBMvVPbfTyfFgCE) | [Berlin 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs6eFJ9yx-jR7UShGGfPnY4) | [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
 * The Big Elixir: [2019](https://www.youtube.com/playlist?list=PLaiqDZ6yySzjdDOXli7VcQw7a0wuJZfz1) | [2018](https://www.youtube.com/channel/UCInJUDVff2bzZSrkDRUCOdA)
 * Gig City Elixir: [2019](https://www.youtube.com/playlist?list=PLKBMoE8mCkXgXIHTEw9073T4HdNPrvXuw)
@@ -2398,6 +2416,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ERLANG - TRACING
 
+* [Guide to Tracing in Erlang - Stratus3D](http://stratus3d.com/blog/2021/08/24/guide-to-tracing-in-erlang/)
 * [Do not guess, Trace - Kacper Mentel (RabbitMQ Summit 2019)](https://www.cloudamqp.com/blog/2019-12-10-do-not-guess-trace.html)
 * [Erlang trace files in Wireshark - Magnus Henoch](https://www.erlang-solutions.com/blog/erlang-trace-files-in-wireshark.html)
 
