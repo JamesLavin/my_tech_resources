@@ -129,6 +129,7 @@ Related: [Messaging](https://github.com/JamesLavin/my_tech_resources/blob/master
 * [Microservices in Action - Morgan Bruce & Paulo A. Pereira](https://www.manning.com/books/microservices-in-action)
 * [The Tao of Microservices - Richard Rodger](https://www.manning.com/books/the-tao-of-microservices)
 * [Kafka in Action - Dylan Scott](https://www.manning.com/books/kafka-in-action)
+* [Event Streaming with Kafka Streams and ksqlDB - William P. Bejeck Jr.](https://www.manning.com/books/event-streaming-with-kafka-streams-and-ksqldb)
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - CQRS
 
