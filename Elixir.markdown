@@ -89,15 +89,15 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Forum over Functions - Randall Thomas (Code BEAM V America 2021)](https://www.youtube.com/watch?v=Nw_mQKa3SCI)
 * [Elixir Foundation - Zach Siri (Codemy.net)](https://www.codemy.net/posts/elixir-project-introduction-001/sets/elixir-foundation) (NOT all free)
 
-### ELIXIR - GETTING STARTED (NON-FREE)
+### ELIXIR - GETTING STARTED (💰NON-FREE💰)
 
-* [Developing With Elixir/OTP - Pragmatic Studio](https://pragmaticstudio.com/elixir) (NOT FREE but I've used and loved this)
-* [LearnElixir.tv](https://www.learnelixir.tv/) & [LearnPhoenix.tv](https://www.learnphoenix.tv/) (NOT FREE but I've used and loved this)
+* [Developing With Elixir/OTP - Pragmatic Studio](https://pragmaticstudio.com/elixir)
+* [LearnElixir.tv](https://www.learnelixir.tv/) & [LearnPhoenix.tv](https://www.learnphoenix.tv/)
 * [Elixir for Programmers - Dave Thomas](https://codestool.coding-gnome.com/courses/elixir-for-programmers) (NOT FREE, but it's from the legendary Dave Thomas)
-* [The Complete Elixir and Phoenix Bootcamp - Stephen Grider (Udemy)](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/) (NOT FREE)
-* [Elixir Sips](http://elixirsips.com) (NOT FREE)
-* [RED:4 - Learn Elixir The Fun Way - Rob Conery](http://www.redfour.io/) (NOT FREE)
-* [Discover Elixir & Phoenix - Tristan Edwards](https://www.ludu.co/course/discover-elixir-phoenix) (NOT FREE)
+* [The Complete Elixir and Phoenix Bootcamp - Stephen Grider (Udemy)](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
+* [Elixir Sips](http://elixirsips.com)
+* [RED:4 - Learn Elixir The Fun Way - Rob Conery](http://www.redfour.io/)
+* [Discover Elixir & Phoenix - Tristan Edwards](https://www.ludu.co/course/discover-elixir-phoenix)
 
 ### ELIXIR - GENERAL
 
@@ -719,7 +719,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Corsica: plug and DSL for handling CORS requests](https://github.com/whatyouhide/corsica)
 * [Corsica documentation](https://hexdocs.pm/corsica/Corsica.html)
 
-### ELIXIR - COURSES (NON-FREE)
+### ELIXIR - COURSES (💰NON-FREE💰)
 
 * [DailyDrip.com - Elixir](https://www.dailydrip.com/topics/elixir)
 * [Pragmatic Studio](https://pragmaticstudio.com/courses/elixir)

@@ -244,7 +244,7 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [Apache Pulsar and Apache BookKeeper - Streamlio](https://www.youtube.com/playlist?list=PLv2BcvwOYZ10yL02L2kGsIcdkLbUzWpPT)
 * [DB Lunch: Unifying Messaging, Queuing, Streaming & Light Weight Compute with Apache Pulsar - Karthik Ramasamy (Microsoft Research)](https://www.youtube.com/watch?v=J94l4dlhDH8)
 * [Elastic Data Processing with Apache Flink and Apache Pulsar - Sijie Guo (Flink Forward)](https://www.youtube.com/watch?v=i2CZR3me1a8)
-* [Pulsar in Action - David Kjerrumgaard](https://www.manning.com/books/pulsar-in-action) [NON-FREE book] | [Code (Github)](https://github.com/david-streamlio/pulsar-in-action)
+* [Pulsar in Action - David Kjerrumgaard](https://www.manning.com/books/pulsar-in-action) (💰NON-FREE book💰) | [Code (Github)](https://github.com/david-streamlio/pulsar-in-action)
 
 ### MESSAGING - RABBITMQ
 

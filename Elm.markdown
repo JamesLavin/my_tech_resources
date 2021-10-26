@@ -230,7 +230,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elm - Ronn Ross & Murphy Randle (EggHead.io)](https://egghead.io/technologies/elm)
 * [Elm Meetup (DailyDrip.com)](https://www.dailydrip.com/topics/elm-remote-meetup)
 
-### ELM - COURSES (NON-FREE)
+### ELM - COURSES (💰NON-FREE💰)
 
 * (Excellent! I highly recommend!): Mike Clark - Pragmatic Studio: [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) & [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals)
 * [DailyDrip.com - Elm](https://www.dailydrip.com/topics/elm)

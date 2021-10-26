@@ -116,7 +116,7 @@ Related: [Messaging](https://github.com/JamesLavin/my_tech_resources/blob/master
 
 * [Christian Posta](http://blog.christianposta.com/posts/)
 
-### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - BOOKS (NON-FREE)
+### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - BOOKS (💰NON-FREE💰)
 
 * [Patterns, Principles, and Practices of Domain-Driven Design - Scott Millett & Nick Tune](https://smile.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709)
 * [Streaming Data - Andrew G. Psaltis](https://www.manning.com/books/streaming-data)
