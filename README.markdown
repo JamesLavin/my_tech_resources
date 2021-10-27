@@ -5912,6 +5912,7 @@ Peter R. Egli:
 * [Test Your Legacy Rails Code - Noel Rappin (Ruby Midwest 2011)](http://confreaks.tv/videos/755-rubymidwest2011-test-your-legacy-rails-code)
 * [Jenkins User Conference San Francisco 2012 videos](http://confreaks.tv/events/jucsf2012)
 * [Breaking Up With Your Test Suite - Justin Searls (AncientCity Ruby 2014)](http://blog.testdouble.com/posts/2014-05-25-breaking-up-with-your-test-suite.html)
+* [Testing Web APIs (Manning Publications 2021)](https://www.manning.com/books/testing-web-apis)
 
 ### TESTING - CONTINUOUS INTEGRATION
 
