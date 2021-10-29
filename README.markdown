@@ -965,6 +965,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Business Decision Maturity Model](http://www.kpiusa.com/index.php/The-Decision-Model/business-decision-maturity-model-bdmm.html)
 * [Black Swan Farming](http://blackswanfarming.com/cost-of-delay/)
 * [Management & Measurement & Business Value – “Oh My”: Creating Solutions with Measurement in Changing Times - Dan Galorath](http://www.ifpug.org/ISMA6/Galorath-Keynote%20Measurement%20Management%20Business%20Value-Sept%2014.pdf)
+* [The Agile Idea](https://www.manning.com/books/the-agile-idea)
 
 #### CLEAN CODE - AGILE - KANBAN
 
@@ -981,6 +982,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [API Blueprint](https://apiblueprint.org/) & [Github](https://github.com/apiaryio/api-blueprint)
 * [Dredd — HTTP API Validation Tool](https://github.com/apiaryio/dredd)
 * [Pliny - Write excellent APIs in Ruby](https://github.com/interagent/pliny) & [Better APIs with Pliny - Will Leinweber (RubyOnAles 2015)](https://www.youtube.com/watch?v=lA8KhC9fFYY)
+* [API Design Patterns](https://www.manning.com/books/api-design-patterns)
 
 #### CLEAN CODE - APIS - DOCUMENTING
 
