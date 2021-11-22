@@ -2,17 +2,25 @@
 
 ## DESCRIPTION
 
-I read (too) many books, especially since I started listening to audiobooks from my local library (on Overdrive) and from Audible, since I can listen to books at 2.5x to 3.0x speed while exercising, folding laundry, washing pots, doing yardwork, driving, etc.
+I read (too) many books, especially since I began listening to audiobooks from my local library (which it offers free via [Overdrive](https://www.overdrive.com/)) and from Audible.
+
+I get through many books while listening to them at 2.5x to 3.0x speed while exercising, folding laundry, washing pots, doing yardwork, driving, etc. (The only physical books I still read the old-fashioned way are visual books, like technical books with code examples. I now do 95% of my text-based "reading" via audiobooks while accomplishing another task.)
+
+I have completed and enjoyed all the books below and would recommend them to anyone like me, but YMMV.
+
+I encourage you to borrow books from your local library or buy them from wherever convenient. I first look for books through my library, then buy those I'm excited about but can't borrow.
+
+Please borrow or buy from wherever you desire. I've placed "Amazon" links below for your convenience, but please know that **As an Amazon Associate I earn from qualifying purchases.** I don't need your money but also don't see any reason to leave money on the table.
 
 ## NON-FICTION BOOKS
 
-* Dan Harris, **10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found a Self-Help That Actually Works**: [Amazon](https://www.amazon.com/10%25-Happier-Dan-Harris-audiobook/dp/B00I8NLVFY/)
-* Neil Postman, **Amusing Ourselves to Death: Public Discourse in the Age of Show Business**: [Amazon](https://www.amazon.com/Amusing-Ourselves-to-Death-audiobook/dp/B000MQ54BC/)
-* Rolf Dobelli, **The Art of Thinking Clearly**: [Amazon](https://www.amazon.com/The-Art-of-Thinking-Clearly-audiobook/dp/B00CIB3KVA/)
-* Neil DeGrasse Tyson, **Astrophysics for People in a Hurry**: [Amazon](https://www.amazon.com/Astrophysics-People-Hurry-audio-cd/dp/B06XB2PX7G/)
-* Eric Barker, **Barking up the Wrong Tree: The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong**: [Amazon](https://www.amazon.com/Barking-up-Wrong-Tree-audiobook/dp/B06XXZQP6T/)
-* Brent Schlender and Rick Tetzeli: **Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader**: [Amazon](https://www.amazon.com/Becoming-Steve-Jobs-audiobook/dp/B00R8IC37K/)
-* Atul Gawande, **Being Mortal: Medicine and What Matters in the End**: [Amazon](https://www.amazon.com/Being-Mortal-Atul-Gawande-audiobook/dp/B00NPAJ32S/)
+* Dan Harris, **10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found a Self-Help That Actually Works**: [Amazon](https://www.amazon.com/gp/product/0062917609/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062917609&linkCode=as2&tag=bettermentzon-20&linkId=8f32139ef0f7df288d9a9752ab89f4ad)
+* Neil Postman, **Amusing Ourselves to Death: Public Discourse in the Age of Show Business**: [Amazon](https://www.amazon.com/gp/product/014303653X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=014303653X&linkCode=as2&tag=bettermentzon-20&linkId=9e9964632bfb18611352257075b8f998)
+* Rolf Dobelli, **The Art of Thinking Clearly**: [Amazon](https://www.amazon.com/gp/product/0062219693/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062219693&linkCode=as2&tag=bettermentzon-20&linkId=e9cd3c94cb6c25d0aaec9b0e6c9b33d7)
+* Neil DeGrasse Tyson, **Astrophysics for People in a Hurry**: [Amazon](https://www.amazon.com/gp/product/0393609391/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393609391&linkCode=as2&tag=bettermentzon-20&linkId=f0fc1bc04838aabb3a01005ea2aca041)
+* Eric Barker, **Barking up the Wrong Tree: The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong**: [Amazon](https://www.amazon.com/gp/product/0062416049/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062416049&linkCode=as2&tag=bettermentzon-20&linkId=f6caf4cf52807e4fd85fcb1ff225c3d0)
+* Brent Schlender and Rick Tetzeli: **Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader**: [Amazon](https://www.amazon.com/gp/product/0385347421/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385347421&linkCode=as2&tag=bettermentzon-20&linkId=2e8e69d16a1336ce5d6adc307b670b60)
+* Atul Gawande, **Being Mortal: Medicine and What Matters in the End**: [Amazon](https://www.amazon.com/gp/product/1250076226/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1250076226&linkCode=as2&tag=bettermentzon-20&linkId=fe71e8da3460a9a3c0787c79310c629c)
 * Michael Lewis, **Boomerang: Travels in the New Third World**: [Amazon](https://www.amazon.com/Boomerang-Michael-Lewis-audiobook/dp/B005RTVAIU/)
 * Nathaniel Philbrick, **Bunker Hill: A City, a Siege, a Revolution**: [Amazon](https://www.amazon.com/Bunker-Hill-Nathaniel-Philbrick-audiobook/dp/B00CKZHL50/)
 * Walter Isaacson, **The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race**: [Amazon](https://www.amazon.com/Code-Breaker-Jennifer-Doudna-Editing/dp/B08GP2J186/)
@@ -46,7 +54,7 @@ I read (too) many books, especially since I started listening to audiobooks from
 * Jonathan Hernandez, **The Truth About Aaron: My Journey to Understand My Brother**: [Amazon](https://www.amazon.com/The-Truth-About-Aaron-audiobook/dp/B07GZYT89T/)
 * Michael Lewis, **The Undoing Project: A Friendship That Changed Our Minds**: [Amazon](https://www.amazon.com/The-Undoing-Project-Michael-Lewis-audiobook/dp/B01KBM82M4/)
 * Alex Korb, PhD, **The Upward Spiral: Using Neuroscience to Reverse the Course of Depression, One Small Change at a Time**: [Amazon](https://www.amazon.com/The-Upward-Spiral-Alex-Korb-PhD-audiobook/dp/B00T3JFM9S/)
-* Cliff Kuang and Robert Fabricant, **User Friendly: How the Hidden Rules of Design Are Changing the Way We Live, Work, and Play**: [Amazon](https://www.amazon.com/User-Friendly-audiobook/dp/B07ZQJ9BMG/)
+* Cliff Kuang and Robert Fabricant, **User Friendly: How the Hidden Rules of Design Are Changing the Way We Live, Work, and Play**: [Amazon](https://www.amazon.com/gp/product/B07ZQJ9BMG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07ZQJ9BMG&linkCode=as2&tag=bettermentzon-20&linkId=fa45847b562a054cc2b2036f37ac10f2)
 * Frank Bruni, **Where You Go Is Not Who You'll Be: An Antidote to the College Admissions Mania**: [Amazon](https://www.amazon.com/Where-You-Go-Is-Not-Who-Youll-Be-audiobook/dp/B00RKLOAG2/)
 * Reginald F. Lewis and Blair S. Walker, **Why Should White Guys Have All the Fun?: How Reginald Lewis Created a Billion-Dollar Business Empire**: [Amazon](https://www.amazon.com/Should-White-Guys-Have-Billion-Dollar/dp/B08HNHYKXZ/)
 * David McCullough, **The Wright Brothers**: [Amazon](https://www.amazon.com/The-Wright-Brothers-audiobook/dp/B00TA5MPEU/)
