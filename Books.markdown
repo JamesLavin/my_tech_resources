@@ -9,7 +9,7 @@ I read (too) many books, especially since I started listening to audiobooks from
 * Dan Harris, **10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found a Self-Help That Actually Works**: [Amazon](https://www.amazon.com/10%25-Happier-Dan-Harris-audiobook/dp/B00I8NLVFY/)
 * Rolf Dobelli, **The Art of Thinking Clearly**: [Amazon](https://www.amazon.com/The-Art-of-Thinking-Clearly-audiobook/dp/B00CIB3KVA/)
 * Neil DeGrasse Tyson, **Astrophysics for People in a Hurry**: [Amazon](https://www.amazon.com/Astrophysics-People-Hurry-audio-cd/dp/B06XB2PX7G/)
-* Brent Schlender and Rick Tetzeli: "Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader**: [Amazon](https://www.amazon.com/Becoming-Steve-Jobs-audiobook/dp/B00R8IC37K/)
+* Brent Schlender and Rick Tetzeli: **Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader**: [Amazon](https://www.amazon.com/Becoming-Steve-Jobs-audiobook/dp/B00R8IC37K/)
 * Atul Gawande, **Being Mortal: Medicine and What Matters in the End**: [Amazon](https://www.amazon.com/Being-Mortal-Atul-Gawande-audiobook/dp/B00NPAJ32S/)
 * Michael Lewis, **Boomerang: Travels in the New Third World**: [Amazon](https://www.amazon.com/Boomerang-Michael-Lewis-audiobook/dp/B005RTVAIU/)
 * Nathaniel Philbrick, **Bunker Hill: A City, a Siege, a Revolution**: [Amazon](https://www.amazon.com/Bunker-Hill-Nathaniel-Philbrick-audiobook/dp/B00CKZHL50/)
