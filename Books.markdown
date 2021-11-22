@@ -8,11 +8,11 @@ I was driven to audiobooks in late 2019, after suffering a detached retina. The 
 
 I have completed and enjoyed all the books below and would recommend them to anyone like me. Of course, you're not me, so YMMV.
 
-I encourage you to borrow audio or physical books from your local library or buy them from any retailer you choose. Personally, I first look for books through my library, then buy those I'm excited about but can't borrow. The key is to always be learning! Books empower you to learn things others have become experts at over many years in just a few hours. Their distilled wisdom just flows into your eyes or ears. It's incredible!
+I encourage you to borrow audio or physical books from your local library or buy them from any retailer you choose. Personally, I first look for books through my library, then buy those I'm excited about but can't borrow. The key is to always be learning! Books empower you to learn things others have become experts at over many years in just a few hours. Their hard-earned, distilled wisdom just flows into your eyes or ears. It's incredible!
 
-If you do sign up for Audible, learn about ways to stretch your dollar. I have a membership but save most of my credits for two-for-one or three-for-two specials. You can also buy a book for $4 to $6 via the daily special or during occasional sales. Search in your favorite search engine for "save money Audible" or "Audible insider tips."
+If you do sign up for Audible, learn how to stretch your dollar. I have a membership but save most of my credits for two-for-one or three-for-two specials. You can also buy a book for $3 to $6 via the daily special or during occasional sales. Search in your favorite search engine for "save money Audible" or "Audible insider tips" for more information.
 
-Please borrow or buy from wherever you desire. I've placed "Amazon" links below for your convenience, but please know that **As an Amazon Associate, I earn from qualifying purchases.** I don't need your money but also don't see any reason to leave money on the table, and I'm a heavy Audible user.
+Please borrow or buy from wherever you desire. I've placed "Amazon" links below for your convenience, but please know that **As an Amazon Associate, I earn from qualifying purchases.** I don't need your money but also don't see any reason to leave money on the table, and I'm a heavy Audible user and recommend it to anyone who has exhausted what their local library has to offer, especially if you learn the tricks for maximizing your Audible investment.
 
 ## NON-FICTION BOOKS
 

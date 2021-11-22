@@ -889,7 +889,7 @@ F
 
 #### ELIXIR - DEPLOYMENT - DOCKER
 
-* [Deploying a Phoenix 1.6 app with Docker and Elixir Releases - Miguel Cobá](https://dev.to/miguelcoba/deploying-a-phoenix-1-6-app-with-docker-and-elixir-releases-2la4)
+* Miguel Cobá: [Deploying a Phoenix 1.6 app with Docker and Elixir Releases](https://dev.to/miguelcoba/deploying-a-phoenix-1-6-app-with-docker-and-elixir-releases-2la4) | [On DigitalOcean](https://blog.miguelcoba.com/deploying-an-elixir-release-using-docker-on-digitalocean) | [On Fly.io](https://blog.miguelcoba.com/deploying-an-elixir-release-using-docker-on-flyio) | [On Render.com](https://blog.miguelcoba.com/deploying-an-elixir-release-using-docker-on-rendercom) | [On Gigalixir](https://blog.miguelcoba.com/deploying-an-elixir-release-to-gigalixir) | [All-in-one free (!) ebook](https://blog.miguelcoba.com/deploying-elixir-ebook)
 * [Docker and OTP Friends or Foes - Daniel Azuma (ElixirConf 2018)](https://www.youtube.com/watch?v=nLApFANtkHs) & [talk notes](http://daniel-azuma.com/articles/talks/elixirconf-2018) & [Tanx game + GKE deployment instructions](https://github.com/ElixirSeattle/tanx)
 * [Elixir Releases & Docker - The Basics Explained - Philipp](https://medium.com/@pentacent/elixir-releases-docker-the-basics-explained-4c800a5b990b)
 * [How to use Elixir with Docker? - Kamil Lelonek](https://blog.lelonek.me/how-to-use-elixir-with-docker-836c9b4a25b0)
@@ -1007,6 +1007,14 @@ F
 * [Creating a Custom Ecto Duration Type - Christian Di Lorenzo](https://medium.com/@rcdilorenzo/creating-a-custom-ecto-duration-type-994e32ad4613)
 * [What is the difference between Ecto.Type’s cast and dump? - ElixirForum.com](https://elixirforum.com/t/what-is-the-difference-between-ecto-types-cast-and-dump/4855)
 * [Ecto type for IPv4 and IPv6 addresses - Pedro Assumpcao](https://pedroassumpcao.ghost.io/ecto-type-for-ipv4-and-ipv6-addresses/)
+
+#### ELIXIR - ECTO - MIGRATIONS
+
+* [Safe Ecto Migrations - David Bernheisel](https://fly.io/phoenix-files/safe-ecto-migrations/)
+  * [Anatomy of an Ecto migration](https://fly.io/phoenix-files/anatomy-of-an-ecto-migration/)
+  * [How to migrate Mix Release projects](https://fly.io/phoenix-files/how-to-migrate-mix-release-projects/)
+  * [Migration Recipes](https://fly.io/phoenix-files/migration-recipes/)
+  * [Backfilling Data](https://fly.io/phoenix-files/backfilling-data/)
 
 #### ELIXIR - ECTO - MULTI
 
@@ -1441,6 +1449,7 @@ F
 * [Phoenix Phrenzy](https://phoenixphrenzy.com/results)
 * [Keynote: Phoenix 1.3 - Chris McCord (Lonestar ElixirConf 2017)](https://www.youtube.com/watch?v=tMO28ar0lW8) & [discussion](https://elixirforum.com/t/lonestar-elixirconf-2017-keynote-phoenix-1-3-by-chris-mccord/3908/12)
 * [Stateful Web Apps with Phoenix and OTP - Hannah Howard (Erlang & Elixir Factory SF 2017)](https://www.youtube.com/watch?v=rX6tC5K_XaI)
+* [Creating a Phoenix 1.6 application with asdf - Miguel Cobá](https://blog.miguelcoba.com/creating-a-phoenix-16-application-with-asdf)
 * [Phoenix: an Intro to Elixir's Web Framework - Sonny Scroggin (NDC {London} 2017)](https://www.youtube.com/watch?v=F-7MX_Az6_4)
 * [Crowd-controlling a game with Elixir and Phoenix - Andrea Leopardi (NoSlidesConf Dec 2016)](https://www.youtube.com/watch?v=lYQ3WwCMTJI)
 * [What the fuss about Phoenix - Saša Jurić (WebCamp Zagreb 2016)](https://www.youtube.com/watch?v=3uJCwcBwfh4) & [slides](https://speakerdeck.com/sasajuric/whats-the-fuss-about-phoenix)
