@@ -51,6 +51,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Implementing Languages on the BEAM - Robert Virding & Mariano Guerra (Code BEAM SF 2018)](https://www.youtube.com/watch?v=lkAbwmn5Rv8)
 
+### BEAM - INTEROPERABILITY
+
+* [The Erlang Ecosystem - Robert Virding (NDC {Oslo} 2018)](https://www.youtube.com/watch?v=7AJR66p5E4s)
+
 ### BEAM - PERFORMANCE
 
 * [JVM struggles and the BEAM - Joel Kemp](https://medium.com/@mrjoelkemp/jvm-struggles-and-the-beam-4d9c58547410)
@@ -1084,6 +1088,7 @@ F
 * [CQRS and Event Sourcing - Bernardo Amorim (Code Beam SF 2018)](https://www.youtube.com/watch?v=S3f6sAXa3-c)
 * [Domain-Driven Design With Elixir - Japa Swadia (ElixirConf 2020)](https://www.youtube.com/watch?v=fx3BmpzitUg)
 * Event Sourcing With Elixir - Bruno Antunes: [Part 0](https://blog.nootch.net/post/event-sourcing-with-elixir/) [Part 1](https://blog.nootch.net/post/event-sourcing-with-elixir-part-1#getting-started) | [Part 2](https://blog.nootch.net/post/event-sourcing-with-elixir-part-2/) | [Part 3](https://blog.nootch.net/post/event-sourcing-with-elixir-part-3/) | [Part 4](https://blog.nootch.net/post/event-sourcing-with-elixir-part-4/) | [Part 5](https://blog.nootch.net/post/event-sourcing-with-elixir-part-5/) | [Part 6](https://blog.nootch.net/post/event-sourcing-with-elixir-part-6/) | [Part 7](https://blog.nootch.net/post/event-sourcing-with-elixir-part-7/)
+* [Event Sourcing with Elixir - Peter Ullrich (ElixirConf EU Virtual 2020)](https://www.youtube.com/watch?v=mmRxrq8hELY)
 * [Brook: Distributed Event-based Orchestration in Elixir - Jeff Grunewald (Lonestar Elixir 2020)](https://www.youtube.com/watch?v=p8axklAm4-A) | [Brook](https://github.com/bbalser/brook)
 * [event_bus: Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS - Mustafa Turan](https://github.com/otobus/event_bus) & [event_bus_postgres: Postgres event store for event_bus](https://github.com/otobus/event_bus_postgres)
 * [Pachyderm - an elephant never forgets - Peter Saxton](https://github.com/CrowdHailer/event-sourcing.elixir)
@@ -1491,7 +1496,7 @@ F
 #### ELIXIR - PHOENIX - AUTH/AUTH
 
 * Awesome Elixir: [Authentication](https://github.com/h4cc/awesome-elixir#authentication) & [Authorization](https://github.com/h4cc/awesome-elixir#authorization)
-* [Bodyguard: Authorization callbacks implemented directly on contexts](https://hex.pm/packages/bodyguard)
+* [Bodyguard: Authorization callbacks implemented directly on contexts](https://hex.pm/packages/bodyguard) | [Authorization and Policy Scopes for Phoenix Apps - Sapan Diwakar](https://blog.appsignal.com/2021/11/02/authorization-and-policy-scopes-for-phoenix-apps.html)
 * [Guardian: Elixir authentication](https://github.com/ueberauth/guardian) & [GuardianDB](https://github.com/ueberauth/guardian_db)
 * Coherence - [Github](https://github.com/smpallen99/coherence) | [Docs](https://hexdocs.pm/coherence/Coherence.html)
 * [comeonin: Password hashing library - David Whitlock](https://github.com/riverrun/comeonin)
@@ -1845,6 +1850,7 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ELIXIR - SCENIC
 
 * [scenic](https://github.com/boydm/scenic) | [scenic.new](https://github.com/boydm/scenic_new)
+* [My Scenic Companion - Jason Axelson (ElixirConf 2021)](https://www.youtube.com/watch?v=wCxMSo3TZjw)
 * [Scenic Now and Looking Ahead - Boyd Multerer (ElixirConfEU Virtual 20)](https://www.youtube.com/watch?v=tej-SyhZrqk)
 * [Building a GameBoy emulator with Elixir and Scenic - Tonći Galić](https://2019.webcampzg.org/talks/building-a-gameboy-emulator-with-elixir-and-scenic/)
 * [Live Coding Pong in Scenic - Ju Liu](https://www.youtube.com/watch?v=feAW1AVzNwo)
@@ -2163,8 +2169,13 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [Gun](https://github.com/ninenines/gun) | [Gun. The Powerful Erlang HTTP Client - Damir Gainetdinov](http://big-elephants.com/2019-05/gun/)
 
+### ERLANG - CODE QUALITY
+
+* [Writing Quality Code in Erlang - Garrett Smith](https://www.youtube.com/watch?v=CQyt9Vlkbis)
+
 ### ERLANG - CONCURRENCY
 
+* [The How and Why of Fitting Things Together - Joe Armstrong](https://www.youtube.com/watch?v=ed7A7r6DBsM)
 * [JVM struggles and the BEAM - Joel Kemp](https://mrjoelkemp.medium.com/jvm-struggles-and-the-beam-4d9c58547410)
 * [Optimising for Concurrency: Comparing and contrasting the BEAM and JVM virtual machines - Francesco Cesarini & Gabor Olah](https://www.erlang-solutions.com/blog/optimising-for-concurrency-comparing-and-contrasting-the-beam-and-jvm-virtual-machines.html)
 * [Life of an Erlang process - Roberto Aloi (LambdaCon 2016)](https://www.youtube.com/watch?v=Yh8kGIufdJ8)
@@ -2280,6 +2291,9 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ERLANG - HISTORY
 
+* [An Evening at Erlang Factory: Joe Armstrong, Mike Williams, Robert Virding - Hackers / Founders](https://www.youtube.com/watch?v=rYkI0_ixRDc)
+* [26 years with Erlang or How I got my grey hairs - Joe Armstrong](https://www.youtube.com/watch?v=HCwRGHj5jOE)
+* [How we program multicores - Joe Armstrong (RISE SICS 2016)](https://www.youtube.com/watch?v=bo5WL5IQAd0)
 * [If at first you don't succeed - Mike Wiliams and Fred Herbert (Code BEAM V Europe 21)](https://www.youtube.com/watch?v=M5NSxVWkvsg)
 * [Erlang: The Movie](https://www.youtube.com/watch?t=113&v=xrIjfIjssLE)
 * [Erlang: The Movie II: The Sequel](https://www.youtube.com/watch?v=rRbY3TMUcgQ)

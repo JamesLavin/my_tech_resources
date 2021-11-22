@@ -4,6 +4,20 @@
 
 Links to resources I have found useful or think might be helpful to future me or Ruby/Javascript/Python/Erlang/Elixir/Elm developers like me.
 
+## SPECIAL PAGES
+
+After this page grew too large (when Github started truncating it), I split out the following dedicated pages:
+
+* [Books I enjoyed (new page created Nov 2021)](https://github.com/JamesLavin/my_tech_resources/blob/master/Books.markdown)
+* [Chinese (not much content because I've been lazy with Chinese)](https://github.com/JamesLavin/my_tech_resources/blob/master/Chinese.markdown)
+* [Elixir](https://github.com/JamesLavin/my_tech_resources/blob/master/.markdown)
+* [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/.markdown)
+* [Event Sourcing](https://github.com/JamesLavin/my_tech_resources/blob/master/.markdown)
+* [JavaScript](https://github.com/JamesLavin/my_tech_resources/blob/master/.markdown)
+* [Messaging](https://github.com/JamesLavin/my_tech_resources/blob/master/Messaging.markdown)
+* [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown)
+* [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown)
+
 ## MAJOR CATEGORIES
 
 [Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Body & Mind](#body--mind) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [Databases](#databases) | [Design](#design) | [DevOps](#devops) | [Domain-Driven Design](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---domain-driven-design) | [Elasticsearch](#elasticsearch) | [Elixir](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#erlang) | [Entrepreneurship](#business---entrepreneurship) | [Event sourcing](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#my-event-sourcing--cqrs--ddd--microservice-resources---james-lavin) | [Functional programming](#functional-programming) | [Git](#git) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Kafka](https://github.com/JamesLavin/my_tech_resources/blob/master/Messaging.markdown#messaging---kafka) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Management/Leadership](#management/leadership) | [Messaging](https://github.com/JamesLavin/my_tech_resources/blob/master/Messaging.markdown#messaging) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) : [programming news](https://github.com/JamesLavin/my_tech_resources#news---programming), [science news](https://github.com/JamesLavin/my_tech_resources#news---science), [tech news](https://github.com/JamesLavin/my_tech_resources#news---tech) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Productivity  Tools](#productivity-tools) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python) : [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [Podcasts](#podcasts) | [R](#r) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Rust](#rust) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best-though-i-now-use-it-inside-visual-studio-code) | [Visual Studio Code](#visual-studio-code-vscode) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
@@ -649,30 +663,32 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### BUSINESS - ENTREPRENEURSHIP - ADVICE
 
-* [Startup Class (Sam Altman)](http://startupclass.samaltman.com/)
-* [Y Combinator (Youtube)](https://www.youtube.com/c/ycombinator/playlists)
-* [Startup Grind (Youtube)](https://www.youtube.com/c/StartupGrind/playlists)
-* [Stanford Graduate School of Business (Youtube)](https://www.youtube.com/c/stanfordgsb/playlists)
-* [This Week in Startups (Youtube)](https://www.youtube.com/channel/UCkkhmBWfS7pILYIk0izkc3A)
+* [Berkeley Haas (Youtube)](https://www.youtube.com/c/berkeleyhaas/playlists)
+* [Cliff Ennico](https://www.youtube.com/channel/UCahNH8FgCHT0fFt0cONZj0A/playlists)
+* [Dan Martell (Youtube)](https://www.youtube.com/user/danvmartell/playlists)
+* [Entrepreneurship at Yale SOM (Youtube)](https://www.youtube.com/playlist?list=PL5O6WHvlGzDAXzG8t9uPwS0_QS0C6hWtl)
+* [Greylock (Youtube)](https://www.youtube.com/c/GreylockVC/playlists)
 * [Harvard Innovation Lab (Youtube)](https://www.youtube.com/user/Harvardilab/playlists)
 * [Ideas Made to Matter - MIT Sloan School of Management](https://mitsloan.mit.edu/ideas-made-to-matter)
-* [Wharton School (Youtube)](https://www.youtube.com/c/wharton/playlists)
+* [Indie Hackers](https://www.indiehackers.com/)
 * [London Business School (Youtube)](https://www.youtube.com/c/londonbusinessschool/playlists)
-* [Berkeley Haas (Youtube)](https://www.youtube.com/c/berkeleyhaas/playlists)
 * [Nordic Business Forum (Youtube)](https://www.youtube.com/c/Nbforum/playlists)
-* [SaaStr (Youtube)](https://www.youtube.com/c/Saastr/playlists)
 * [SaaStock (Youtube)](https://www.youtube.com/c/SaaStock/playlists)
-* [Greylock (Youtube)](https://www.youtube.com/c/GreylockVC/playlists)
-* [Dan Martell (Youtube)](https://www.youtube.com/user/danvmartell/playlists)
+* [SaaStr (Youtube)](https://www.youtube.com/c/Saastr/playlists)
+* [Stanford Graduate School of Business (Youtube)](https://www.youtube.com/c/stanfordgsb/playlists)
+* [Startup Class (Sam Altman)](http://startupclass.samaltman.com/)
+* [Startup Grind (Youtube)](https://www.youtube.com/c/StartupGrind/playlists)
 * [Talks at Google (Youtube)](https://www.youtube.com/c/talksatgoogle/playlists)
 * [The Hussle (Youtube)](https://www.youtube.com/c/HustleCon/playlists)
-* [University of California TV Innovator Stories (Youtube)](https://www.youtube.com/playlist?list=PLepHs0thoryMK9sls8hSuW5S1xNdyecb_)
-* [Entrepreneurship at Yale SOM (Youtube)](https://www.youtube.com/playlist?list=PL5O6WHvlGzDAXzG8t9uPwS0_QS0C6hWtl)
+* [This Week in Startups (Youtube)](https://www.youtube.com/channel/UCkkhmBWfS7pILYIk0izkc3A)
 * [TK Kader (Youtube)](https://www.youtube.com/c/TKKader/playlists)
+* [University of California TV Innovator Stories (Youtube)](https://www.youtube.com/playlist?list=PLepHs0thoryMK9sls8hSuW5S1xNdyecb_)
+* [Wharton School (Youtube)](https://www.youtube.com/c/wharton/playlists)
+* [Y Combinator (Youtube)](https://www.youtube.com/c/ycombinator/playlists)
 * [99U (Youtube)](https://www.youtube.com/channel/UCVpIzLeRuPW5xy4iBum3IPw)
 * [Founder to CEO (Matt's Book for Startups) - Matt Mochary](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit)
-* [Indie Hackers](https://www.indiehackers.com/)
 * [Thoughtbot](https://thoughtbot.com/resources)
+* [Three Personality Traits all Entrepreneurs and Small Business Owners Must Develop - Cliff Ennico](https://www.youtube.com/watch?v=TIjAFoCX91I)
 * [7 Classic Startup Founder Mistakes (And How To Avoid Them) - Kathryn Minshew](https://www.youtube.com/watch?v=eChOUVm9fTA)
 * [Talks From Entrepreneurs - 99U](https://www.youtube.com/playlist?list=PLPkq59We34mv3xqHJXevrNxUB-V2hPCi5)
 * [How to Future-Proof Your Career - Dorie Clark (TEDxLugano)](https://www.youtube.com/watch?v=l6leLPN8ipI)
@@ -953,6 +969,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [How To Write Unmaintainable Code: Ensure a job for life ;-) - Roedy Green](https://www.se.rit.edu/~tabeec/RIT_441/Resources_files/How%20To%20Write%20Unmaintainable%20Code.pdf)
 * [Making It Count: Quality is NOT an Option - Todd Montgomery (GOTO 2018)](https://www.youtube.com/watch?v=LTZdmb5-8n8)
 * [Is Your Code Too SOLID? - Sarah Mei](http://forwardjs.com/university/is-your-code-too-solid)
+* [Writing Quality Code in Erlang - Garrett Smith](https://www.youtube.com/watch?v=CQyt9Vlkbis) (main points aren't language-specific)
 * [Move Slow and Mend Things - Kevlin Henney (VoxxedDays Zurich 2018)](https://www.youtube.com/watch?v=6j9Yl6fNMmc) & [[Devoxx Belgium 2017)](https://www.youtube.com/watch?v=1kklyq4XYpw)
 * [Software Is Details - Kevlin Henney (GOTO 2020)](https://www.youtube.com/watch?v=kX0prJklhUE)
 * [Why Senior Devs Write Dumb Code and How to Spot a Junior From A Mile Away - Scott Shipp](https://hackernoon.com/why-senior-devs-write-dumb-code-and-how-to-spot-a-junior-from-a-mile-away-27fa263b101a)
@@ -4841,6 +4858,7 @@ Peter R. Egli:
 * [PostgresWeekly.com](http://postgresweekly.com/)
 * [PGCasts.com](https://www.pgcasts.com/)
 * [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
+* [I Didn't Know Postgres Could Do That (Postgres Open 2019)](https://www.youtube.com/watch?v=HWfxUvW1ejw)
 * [PostgreSQL awesomeness for Rails developers](http://www.amberbit.com/blog/2014/2/4/postgresql-awesomeness-for-rails-developers/)
 * [Redis in my Postgres (linking multiple Postgres dbs or Postgres and Redis/MySQL/Oracle/Twitter/ODBC/etc.)](http://www.craigkerstiens.com/2012/10/18/connecting_to_redis_from_postgres/)
 * [Postgres FTW: Postgres Is Just Easier - Guyren Howe](http://www.sdruby.org/podcast/120)
@@ -4957,7 +4975,9 @@ Peter R. Egli:
 
 ### POSTGRESQL - VIDEOS
 
+* PostgresOpen: [2019](https://www.youtube.com/playlist?list=PLN8NEqxwuywS21f8_sJbD0jd0leC-waca) | [2018](https://www.youtube.com/playlist?list=PLN8NEqxwuywTzv69eAVgeZ5YO_4q_LJM_) | [2017](https://www.youtube.com/playlist?list=PLN8NEqxwuywQgN4srHe7ccgOELhZsO4yM) | [2016](https://www.youtube.com/playlist?list=PLN8NEqxwuywTaXp0v5O-iO-mBaFb5k8nI) | [2014](https://www.youtube.com/playlist?list=PLN8NEqxwuywQtBouzmMrlRzr2nS-n0sFE) | [2014](https://www.youtube.com/playlist?list=PLN8NEqxwuywQtBouzmMrlRzr2nS-n0sFE) | [2013](https://www.youtube.com/playlist?list=PLN8NEqxwuywTmoKshsOJrKq5pszVzRa17) | [2013 tutorials](https://www.youtube.com/playlist?list=PLN8NEqxwuywQmlcjjzNGD68PGG2-N5TBf) | [2012](https://www.youtube.com/playlist?list=PLN8NEqxwuywTdPQ4Zje3OcWRmvL3Q_QWc)
 * [PostgresOpen Silicon Valley](https://www.youtube.com/channel/UCCDA5Yte0itW_Bf6UHpbHug)
+* PostgresConf South Africa: [2019](https://www.youtube.com/playlist?list=PLqTvt2cyDt0wFD3_moCr1AAUVPOLwSrqT) | [2018](https://www.youtube.com/playlist?list=PLqTvt2cyDt0wDaluPrt6XRmiB26nQmtzm)
 * PGCon: [2018](https://www.youtube.com/playlist?list=PLuJmmKtsV1dOGaKJuHOH0GIfvFOBghu7O) | [2017](https://www.youtube.com/playlist?list=PLuJmmKtsV1dN-UYeeF1He6OdvUpp9n1sE) | [2016](https://www.youtube.com/playlist?list=PLuJmmKtsV1dNE5y1gu1xpbIl3M2b7AW4D) | [2015](https://www.citusdata.com/resources/citus-data-videos)
 * [Scaling Postgres](https://www.youtube.com/channel/UCnfO7IhkmJu_azn0WbIcV9A/playlists)
 * [Postgres Conference](https://www.youtube.com/channel/UCsJkVvxwoM7R9oRbzvUhbPQ)
