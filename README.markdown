@@ -988,7 +988,7 @@ After this page grew too large (when Github started truncating it), I split out 
 * [Stability Patterns & Antipatterns - Michael T. Nygard (GOTO 2016)](https://www.youtube.com/watch?v=VZePNGQojfA)
 * [Talking Architecture: Small Is Beautiful - Kevlin Henney (Wix Engineering Tech Talks 2016)](https://www.youtube.com/watch?v=Y6B4jYBR4Y8) & [(GOTO 2016)](https://www.youtube.com/watch?v=B3b4tremI5o)
 * [Code as Risk - Kevlin Henney (GOTO Amsterdam 2017)](https://www.youtube.com/watch?v=YyhfK-aBo-Y)
-* [A System is Not a Tree - Kevlin Henney (DevWeek 2015)](https://www.youtube.com/watch?v=ARkLVvtxUZI) 
+* [A System is Not a Tree - Kevlin Henney (DevWeek 2015)](https://www.youtube.com/watch?v=ARkLVvtxUZI)
 * [The Errors of Our Ways - Kevlin Henney (GOTO Berlin 2016)](https://www.youtube.com/watch?v=IiGXq3yY70o)
 * [Old Is the New New - Kevlin Henney (GOTO 2018)](https://www.youtube.com/watch?v=AbgsfeGvg3E)
 * [A Question of Craftsmanship - Kevlin Henney (Agile India 2013)](https://www.youtube.com/watch?v=SdTcFEPeAUs)
@@ -1055,7 +1055,7 @@ After this page grew too large (when Github started truncating it), I split out 
 
 * [Ruby-Toolbox - Code Metrics](https://www.ruby-toolbox.com/categories/code_metrics)
 * [Semi Automatic Code Review - Richard Huang (RailsConf 2012)](http://confreaks.tv/videos/888-railsconf2012-semi-automatic-code-review)
-* [rails_best_practices gem](https://github.com/railsbp/rails_best_practices) & [railsbp.com](http://railsbp.com/) 
+* [rails_best_practices gem](https://github.com/railsbp/rails_best_practices) & [railsbp.com](http://railsbp.com/)
 
 ## CLOJURE
 
@@ -1989,6 +1989,10 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Website](https://www.getambassador.io/) | [Blog](https://blog.getambassador.io/) | [Gitter](https://gitter.im/datawire/ambassador)
 * [Building Ambassador, an Open Source API Gateway on Kubernetes and Envoy - Richard Li (Datawire)](https://blog.getambassador.io/building-ambassador-an-open-source-api-gateway-on-kubernetes-and-envoy-ed01ed520844)
 * [Envoy as an API Gateway in Kubernetes - envoyproxy.io](https://www.envoyproxy.io/docs/envoy/latest/start/distro/ambassador)
+
+### DEVOPS - CLOUD
+
+* [Brainboard - Visually Design, Deploy & Manage modern cloud infrastructures (AWS, Azure, GCP)](https://www.brainboard.co)
 
 ### DEVOPS - AWS (AMAZON WEB SERVICES)
 
