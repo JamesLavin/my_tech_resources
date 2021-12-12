@@ -47,6 +47,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Unite And Conquer - Viktória Fördős, Laura M. Castro & Natalia Chechina (Code BEAM V 2020)](https://www.youtube.com/watch?v=DIZj_7hHLUg)
 
+### BEAM - COMPILER
+
+* [Secrets of the Erlang Beam compiler - Richard Carlsson](https://www.youtube.com/watch?v=RMKSYWz_nPo)
+
 ### BEAM - DSL FOR LANGUAGES
 
 * [Implementing Languages on the BEAM - Robert Virding & Mariano Guerra (Code BEAM SF 2018)](https://www.youtube.com/watch?v=lkAbwmn5Rv8)
@@ -569,6 +573,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - ADOPTION
 
+* [Elixir in Public Transit 3 case studies from Boston's MBTA (Erlang Solutions webinar)](https://www.youtube.com/watch?v=Azw2w_BCslU&t=182s)
 * [Eight Famous Companies Using Elixir-And Why They Made the Switch - Monterail](https://medium.com/swlh/six-famous-companies-using-elixir-and-why-they-made-the-switch-7acdb8b22e40): Cites "Pinterest: half the servers, 10 times less code," "Moz: 63 times less disk space, 20 times faster API," "Lonely Planet: better performance, scalable content," etc.
 * [Bleacher Report has gone from needing 150 servers to just five, thanks to its decision to move from Ruby on Rails monolith to Elixir Phoenix](https://elixirforum.com/t/how-elixir-helped-bleacher-report-handle-8x-more-traffic/3600)
 * [What companies and start-ups depend on Elixir in production? - Code Elixir LDN](https://codesync.global/media/what-companies-and-start-ups-use-elixir-in-production-now/)
@@ -766,6 +771,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - DEBUGGING
 
+* [Three Ways to Debug Code in Elixir - Pulkit Goyal](https://blog.appsignal.com/2021/11/30/three-ways-to-debug-code-in-elixir.html)
 * [How to Use IEx.pry in Elixir Tests - Adam Delong](https://adamdelong.com/iex-pry-test/)
 * [Debugging Live Systems on the BEAM - Jeffery Utter (ElixirConf 2020)](https://www.youtube.com/watch?v=sR9h3DZAA74)
 * [dbg/ttb: The Erlang text based tracer and trace tool builder - Mazen Harake](http://www.erlang-factory.com/upload/presentations/316/dbg%5B1%5D.pdf)
@@ -909,6 +915,7 @@ F
 #### ELIXIR - DEPLOYMENT - ESCRIPTS
 
 * [Executable Elixir: Working with Escripts - Sophie DeBenedetto](https://www.thegreatcodeadventure.com/executable-elixir-working-with-escripts/)
+* [The Command Line with Escript - Elixir Casts](https://www.youtube.com/watch?v=Pj1b05HzjX0)
 * [`mix escript.build` documentation](https://hexdocs.pm/mix/master/Mix.Tasks.Escript.Build.html)
 
 #### ELIXIR - DEPLOYMENT - EXRM (DEPRECATED)
@@ -936,7 +943,6 @@ F
 
 * [Distributed War Stories - Miriam Pena (EMPEX LA 2019)](https://www.youtube.com/watch?v=b3JQgyj17hk)
 * [Horde is a distributed process registry and supervisor built on δ-CRDTs - Derek Kraan](https://github.com/derekkraan/horde) | [API Docs](https://hexdocs.pm/horde/api-reference.html) | [Introducing Horde](https://medium.com/@derek.kraan2/introducing-horde-a-distributed-supervisor-in-elixir-4be3259cc142) | [Getting Started](https://medium.com/@derek.kraan2/getting-started-with-hordes-distributed-supervisor-registry-f3017208e1ce) | [Docker & OTP: Friends or Foes - Daniel Azuma (ElixirConf 2018)](https://www.youtube.com/watch?v=nLApFANtkHs)
-* Alvise Susmel: [Spawning processes in Elixir, a gentle introduction to concurrency](https://www.poeticoding.com/spawning-processes-in-elixir-a-gentle-introduction-to-concurrency/) | [Hey Process, there is a Message for you!](https://www.poeticoding.com/hey-process-there-is-a-message-for-you/) | [The Primitives of Elixir Concurrency: a Full Example](https://www.poeticoding.com/the-primitives-of-elixir-concurrency-full-example/)
 * [Why time is evil in distributed systems - Peter Van Roy (Code BEAM STO 19)](https://www.youtube.com/watch?v=NBJ5SiwCNmU)
 * [Always Available - Claudio Ortolina (ElixirConf EU 2017)](https://www.youtube.com/watch?v=UTXYiV7nOpM)
 * [Elixir and Money - Tomasz Kowal (ElixirConf EU 2017)](https://www.youtube.com/watch?v=TZPG8b-Novw)
@@ -1273,6 +1279,7 @@ F
 * [Module module - Elixir](https://hexdocs.pm/elixir/1.12/Module.html)
 * [The Upside Down Dimension of Elixir - An Introduction to Metaprogramming - Nicholas J Henry (Montreal Elixir 2020)](https://www.youtube.com/watch?v=xj6yNzcGlEE)
 * [Elixir Metaprogramming - Tyler Pachal (Elixir Toronto 2020)](https://www.youtube.com/watch?v=DFa1bC95wxA)
+* Jia Hao Woo: [Intro to Metaprogramming in Elixir](https://blog.appsignal.com/2021/09/07/an-introduction-to-metaprogramming-in-elixir.html)  | [Under the Hood of Macros in Elixir](https://blog.appsignal.com/2021/10/05/under-the-hood-of-macros-in-elixir.html)  | [How to Use Macros in Elixir](https://blog.appsignal.com/2021/10/26/how-to-use-macros-in-elixir.html)  | [Pitfalls of Metaprogramming in Elixir](https://blog.appsignal.com/2021/11/16/pitfalls-of-metaprogramming-in-elixir.html)
 * [Metaprogramming Elixir - Chris McCord (NDC Oslo 2015)](https://vimeo.com/131643017)
 * [Mex: Elixir Shell helper for previewing macroexpansion - Luc Fueston](https://github.com/mrluc/mex)
 
@@ -1596,8 +1603,10 @@ Consequently, much of the following will soon be at least partially outdated:
 * Live View: [Documentation](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html) | [LiveComponent](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html) | [LiveViewTest](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveViewTest.html) | [mix phx.gen.live](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Live.html) | [API Reference](https://hexdocs.pm/phoenix_live_view/api-reference.html) | [Github](https://github.com/phoenixframework/phoenix_live_view)
 * [The Future of Full-stack - Chris McCord (ElixirConf 2021)](https://www.youtube.com/watch?v=Of1phFsC4ZI)
 * [Build a real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5 - Chris McCord](https://www.youtube.com/watch?v=MZvmYaFkNJI)
+* [Building Tetris with Elixir, LiveView and OTP - Sandesh Soni](https://www.youtube.com/watch?v=57b4iSi1FM4) | [Source code](https://github.com/sandeshsoni/tetris_eu_umbrella)
 * [Getting to Know the LiveView Lifecycle - Michael Crumm (ElixirConf 2021)](https://www.youtube.com/watch?v=J1l4W0T7Jgg)
 * [LiveView and Web Components - Chris Nelson (ElixirConf 2021)](https://www.youtube.com/watch?v=xXWyOy9XdA8)
+* Building a simple Calendly clone with Phoenix LiveView: [Part 1: Intro](https://bigardone.dev/blog/2021/11/06/building-a-simple-calendly-clone-with-phoenix-live-view-pt-1) | [Part 2: Generating the initial project and domain models](https://bigardone.dev/blog/2021/11/08/building-a-simple-calendly-clone-with-phoenix-live-view-pt-2) | [Part 3: The event type selection page](https://bigardone.dev/blog/2021/11/11/building-a-simple-calendly-clone-with-phoenix-live-view-pt-3) | [Part 4: Rendering the monthly calendar](https://bigardone.dev/blog/2021/11/22/building-a-simple-calendly-clone-with-phoenix-live-view-pt-4) | [Part 5: Booking time slots for an event type](https://bigardone.dev/blog/2021/12/01/building-a-simple-calendly-clone-with-phoenix-live-view-pt-5) | [Source code](https://github.com/bigardone/calendlex)
 * [Making Invalid States Unrepresentable in LiveView - German Velasco (ElixirConf 2021)](https://www.youtube.com/watch?v=Xu2QtHUbFmc)
 * [Real-Time Multi-Client GPS Logger With LiveView and Google Maps - Yuisho Takafuji (ElixirConf 2021)](https://www.youtube.com/watch?v=vHNqZmLLTj4)
 * [We Wrote An Entire Single-Page App in LiveView - Desmond Bowe (ElixirConf 2021)](https://www.youtube.com/watch?v=DA32q8kd9pA)
@@ -1788,6 +1797,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [Elixir Fountain](https://soundcloud.com/elixirfountain) (defunct)
 * [Elixir Mix](https://devchat.tv/elixir-mix/)
+* [Elixir Newbie - Brooklin Myers](https://podcasts.apple.com/pa/podcast/elixir-newbie/id1587455457)
 * [Elixir Outlaws](https://elixiroutlaws.com/)
 * [Elixir Talk](https://itunes.apple.com/us/podcast/elixirtalk/id1298287048)
 * [Elixir Wizards](https://smartlogic.io/podcast/elixir-wizards/)
@@ -1805,6 +1815,11 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ELIXIR - PORTS - PORCELAIN
 
 * Porcelain: Work with external processes like a boss: [Github](https://github.com/alco/porcelain) | [Hexdocs](http://hexdocs.pm/porcelain)
+
+### ELIXIR - PROCESSES
+
+* Alvise Susmel: [Spawning processes in Elixir, a gentle introduction to concurrency](https://www.poeticoding.com/spawning-processes-in-elixir-a-gentle-introduction-to-concurrency/) | [Hey Process, there is a Message for you!](https://www.poeticoding.com/hey-process-there-is-a-message-for-you/) | [The Primitives of Elixir Concurrency: a Full Example](https://www.poeticoding.com/the-primitives-of-elixir-concurrency-full-example/)
+* Samuel Mullen: Elixir Processes: [Spawn, Send, and Receive](https://samuelmullen.com/articles/elixir-processes-send-and-receive/) | [Elixir, Poolboy, and Little's Law](https://samuelmullen.com/articles/elixir-poolboy-and-littles-law/) | [Linking and Monitoring](https://samuelmullen.com/articles/elixir-processes-linking-and-monitoring/) | [Observability](https://samuelmullen.com/articles/elixir-processes-observability/) | [Testing](https://samuelmullen.com/articles/elixir-processes-testing/)
 
 ### ELIXIR - PROJECTS
 
@@ -2038,6 +2053,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * ElixirConf: [2021](https://www.youtube.com/playlist?list=PLqj39LCvnOWZna91xJ_i44g3rx4Brbpnv) | [2020](https://www.youtube.com/playlist?list=PLqj39LCvnOWZl_Pb0Y7wGWijKbTvL4gJg) | [2019](https://www.youtube.com/playlist?list=PLqj39LCvnOWYTNs1n3ZNMSNO3Svv_XweT) | [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * ElixirConf EU: [2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtdiDIxP_rPMQ5VmVhs4CKJ) | [EU Virtual October 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuqgpAyZVzeCoz6GQrQx9Xc) | [EU Virtual June 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuKXQqD64oZFss2fGERjKyK) | [2019 EU](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtoiQC735NjHyPJUS_nmrxy)
 * Code BEAM / Code Mesh: [V Europe 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtkHrA2Uqq8AgDBCjnltUHd) | [V America 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtsGA-ZEVHfVE4Ch2wMMyKg) | [V 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZ3c4NEvwvvvpOlEY2NrYQ) [SF 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zv85s835EGDeCIBYMipJKgL) | [Lite Amsterdam 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtHPqiRFH4nAJwbrfz04V_Q) | [CodeElixir LDN 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvvzEOmlqLUyrZdsW27w7zH) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Stockholm 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztq2fM3aGvXlj_jOfiopM2B) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Munich 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztyk61upvBMvVPbfTyfFgCE) | [Berlin 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs6eFJ9yx-jR7UShGGfPnY4) | [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
+* [José Valim Twitch recordings](https://www.twitch.tv/josevalim/videos)
 * The Big Elixir: [2019](https://www.youtube.com/playlist?list=PLaiqDZ6yySzjdDOXli7VcQw7a0wuJZfz1) | [2018](https://www.youtube.com/channel/UCInJUDVff2bzZSrkDRUCOdA)
 * Gig City Elixir: [2019](https://www.youtube.com/playlist?list=PLKBMoE8mCkXgXIHTEw9073T4HdNPrvXuw)
 * Meetups: [Elixir Berlin](https://www.youtube.com/channel/UC33mS5dbme8Hh_79YHVSibQ)
@@ -2101,7 +2117,6 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Functional Programming in Erlang - Simon Thompson (University of Kent (UK))](https://www.futurelearn.com/courses/functional-programming-erlang)
 * [Spawned Shelter: collection of the best articles, videos and books for learning Erlang, the internals of its VM and other languages that run on top of it](http://spawnedshelter.com/)
 * [Erlang in Anger - Fred Hebert](http://www.erlang-in-anger.com/)
-* [Spawned Shelter: Collection of articles, videos & books for learning Erlang](http://spawnedshelter.com/)
 * [Erlang Quick Reference Card v1.0, 2011-11-13, Pawel Stolowsk](https://github.com/stolowski/Erlang-Quick-Reference-Card/blob/master/erlang-quickref.pdf)
 * [Awesome Erlang - Curated list of libraries, resources & more - David Robakowski](https://github.com/drobakowski/awesome-erlang)
 * [Erlang Koans - Patrick Gombert](https://github.com/patrickgombert/erlang-koans)
@@ -2190,6 +2205,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Life of an Erlang process - Roberto Aloi (LambdaCon 2016)](https://www.youtube.com/watch?v=Yh8kGIufdJ8)
 * [How Erlang got its name - Bjarne Däcker (Code BEAM STO 19)](https://www.youtube.com/watch?v=0ytatCDEGyc)
 * [Immutability for Concurrency - Francesco Cesarini (YOW! Lambda Jam 2020)](https://www.youtube.com/watch?v=vsevLAXqgfE)
+* [Communicating Sequential Processes - C.A.R. Hoare, 1978](https://spinroot.com/courses/summer/Papers/hoare_1978.pdf)
 
 ### ERLANG - COWBOY
 
@@ -2393,6 +2409,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [Poolboy - Worker pool factory](https://github.com/devinus/poolboy)
 * [Poolboy - ElixirSchool](https://elixirschool.com/en/lessons/libraries/poolboy/)
+* [Elixir Pooling with Poolboy - Pulkit Goyal](https://pulkitgoyal.in/elixir-pooling-with-poolboy)
 * [Managing processes with Poolboy in Elixir - Akash Manohar](http://hashnuke.com/2013/10/03/managing-processes-with-poolboy-in-elixir.html)
 * [Elixir Poolboy Example - TheStoneFox](https://github.com/thestonefox/elixir_poolboy_example)
 
@@ -2438,6 +2455,8 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ERLANG - TESTING - PROPERTY-BASED
 
 * [PropEr Testing - Fred Herbert](http://propertesting.com/)
+* [Testing Erlang and Elixir through PropEr Modeling - Fred Hebert](https://www.youtube.com/watch?v=LvFs33-1Tbo)
+* [Property-Based Testing with PropEr, Erlang, and Elixir: Find Bugs Before Your Users Do - Fred Hebert](https://smile.amazon.com/Property-Based-Testing-PropEr-Erlang-Elixir/dp/1680506218/) (💰NON-FREE💰)
 
 ### ERLANG - TOOLS
 

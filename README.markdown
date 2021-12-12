@@ -20,7 +20,7 @@ After this page grew too large (when Github started truncating it), I split out 
 
 ## MAJOR CATEGORIES
 
-[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Body & Mind](#body--mind) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [Databases](#databases) | [Design](#design) | [DevOps](#devops) | [Domain-Driven Design](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---domain-driven-design) | [Elasticsearch](#elasticsearch) | [Elixir](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#erlang) | [Entrepreneurship](#business---entrepreneurship) | [Event sourcing](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#my-event-sourcing--cqrs--ddd--microservice-resources---james-lavin) | [Functional programming](#functional-programming) | [Git](#git) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Kafka](https://github.com/JamesLavin/my_tech_resources/blob/master/Messaging.markdown#messaging---kafka) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Management/Leadership](#management/leadership) | [Messaging](https://github.com/JamesLavin/my_tech_resources/blob/master/Messaging.markdown#messaging) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) : [programming news](https://github.com/JamesLavin/my_tech_resources#news---programming), [science news](https://github.com/JamesLavin/my_tech_resources#news---science), [tech news](https://github.com/JamesLavin/my_tech_resources#news---tech) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Productivity  Tools](#productivity-tools) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python) : [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [Podcasts](#podcasts) | [R](#r) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Rust](#rust) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best-though-i-now-use-it-inside-visual-studio-code) | [Visual Studio Code](#visual-studio-code-vscode) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
+[Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Body & Mind](#body--mind) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [Databases](#databases) | [Design](#design) | [DevOps](#devops) | [Domain-Driven Design](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---domain-driven-design) | [Elasticsearch](#elasticsearch) | [Elixir](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#erlang) | [Entrepreneurship](#business---entrepreneurship) | [Event sourcing](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#my-event-sourcing--cqrs--ddd--microservice-resources---james-lavin) | [Functional programming](#functional-programming) | [Git](#git) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Julia](#julia) | [Kafka](https://github.com/JamesLavin/my_tech_resources/blob/master/Messaging.markdown#messaging---kafka) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Management/Leadership](#management/leadership) | [Messaging](https://github.com/JamesLavin/my_tech_resources/blob/master/Messaging.markdown#messaging) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) : [programming news](https://github.com/JamesLavin/my_tech_resources#news---programming), [science news](https://github.com/JamesLavin/my_tech_resources#news---science), [tech news](https://github.com/JamesLavin/my_tech_resources#news---tech) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Productivity  Tools](#productivity-tools) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python) : [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [Podcasts](#podcasts) | [R](#r) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Rust](#rust) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best-though-i-now-use-it-inside-visual-studio-code) | [Visual Studio Code](#visual-studio-code-vscode) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
 ## ALGORITHMS
 
@@ -1050,6 +1050,10 @@ After this page grew too large (when Github started truncating it), I split out 
 
 * Code Climate: [Open source projects](https://codeclimate.com/oss) | [Platform](https://codeclimate.com/platform) | [Free service for open source projects](https://codeclimate.com/github/signup)
 * [Build your own Code Climate Analysis Engine](http://blog.codeclimate.com/blog/2015/07/07/build-your-own-codeclimate-engine/)
+
+### CLEAN CODE - CULTURE
+
+* [Top lessons learned from working with a 10x developer - Jeffrey Bakker](https://levelup.gitconnected.com/top-lessons-learned-from-working-with-a-10x-developer-51de12383e25)
 
 ### CLEAN CODE - MEASURING
 
@@ -3396,9 +3400,9 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [TOSAs Talking Tech](http://tosastalkingtech.libsyn.com/)
 * [Wired Educator](https://wirededucator.com/)
 
-## ELECTRON
+## ELECTRONICS
 
-* [Electron: "Build cross platform desktop apps with web technologies"](http://electron.atom.io/)
+* [The Engineering Mindset (Youtube channel)](https://www.youtube.com/c/Theengineeringmindset)
 
 ## ELIXIR
 
@@ -3720,6 +3724,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [Git Flow Workflow](https://leanpub.com/git-flow/read)
 * [Comparing Workflows - Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows#!workflow-gitflow)
 * [A successful Git branching model - Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/)
+
+## GO
+
+* [Go Concurrency Patterns - Rob Pike (Google I/O 2012)](https://www.youtube.com/watch?v=f6kdp27TYZs)
 
 ## GRAPHICS
 
@@ -4127,8 +4135,25 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ## JULIA
 
+* [JuliaLang.org](https://julialang.org/) | [Learning Julia](https://julialang.org/learning/)
+* [Youtube Julia talks](https://www.youtube.com/user/JuliaLanguage)
+* [Julia Academy](https://juliaacademy.com/)
 * [2 1/2 hour intro to Julia - Jane Herriman & Sacha Verweij (SciPy 2018)](https://pyvideo.org/scipy-2018/an-introduction-to-julia-beginner-level.html)
 * [Julia: high-level, high-performance dynamic programming language for technical computing](http://julialang.org/)
+
+### JULIA - CONCURRENCY WITH ACTORS.JL
+
+* [Actors.jl: Concurrent Computing with the Actor Model - Paul Bayer (JuliaCon2021)](https://www.youtube.com/watch?v=O4ohNp8wHUs)
+* [Actors.jl: Concurrent computing in Julia based on the Actor Model](https://github.com/JuliaActors/Actors.jl) | [Documentation](https://juliaactors.github.io/Actors.jl/stable/)
+* [JuliaActors: Concurrent Programming with the Actor Model](https://github.com/JuliaActors)
+
+### JULIA - METAPROGRAMMING
+
+* [Metaprogramming in Julia](https://docs.julialang.org/en/v1/manual/metaprogramming/)
+* [Keynote: MIT Prof. Steven G. Johnson (JuliaCon 2019)](https://www.youtube.com/watch?v=mSgXWpvQEHE)
+* [Introduction to metaprogramming in Julia: Workshop (JuliaCon 2021)](https://www.youtube.com/watch?v=2QLhw6LVaq0)
+* [Julia Macro hygiene made easy! - Tom Kwong](https://www.youtube.com/watch?v=JePBb9-ychE)
+* [Advanced Metaprogramming Tools - Mike Innes (JuliaCon 2020)](https://www.youtube.com/watch?v=U1VhkcTuXuw)
 
 ## KIDS
 
@@ -5912,6 +5937,7 @@ Peter R. Egli:
 
 ## SECURITY
 
+* [These researchers wanted to test cloud security. They were shocked by what they found - Danny Palmer](https://www.zdnet.com/article/these-researchers-wanted-to-test-cloud-security-they-were-shocked-by-what-they-found/) | [Observing Attacks Against Hundreds of Exposed Services in Public Clouds - PaloAlto Networks](https://unit42.paloaltonetworks.com/exposed-services-public-clouds/)
 * [Frank Abagnale: "Catch Me If You Can" | Talks at Google](https://www.youtube.com/watch?v=vsMydMDi3rI)
 * [The Thoughtbot Guide to Application Security - Mike Burns](https://github.com/thoughtbot/guides/blob/master/security/application.md)
 * [Awesome Hacking: A collection of awesome lists for hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hackin://github.com/Hack-with-Github/Awesome-Hacking)
