@@ -2117,6 +2117,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Functional Programming in Erlang - Simon Thompson (University of Kent (UK))](https://www.futurelearn.com/courses/functional-programming-erlang)
 * [Spawned Shelter: collection of the best articles, videos and books for learning Erlang, the internals of its VM and other languages that run on top of it](http://spawnedshelter.com/)
 * [Erlang in Anger - Fred Hebert](http://www.erlang-in-anger.com/)
+* Elixir Zone: Erlang Fundamentals - James Lavin (hey, that's me!): [Erlang 101: Processes & Parallelization](https://www.youtube.com/watch?v=EZY9W-3D5qY) | [Erlang 102: Fault-Tolerance & Reliability](https://www.youtube.com/watch?v=47Iwr62ENvw) | [Erlang 103: Collaborating State Machines (in Erlang and Biological Systems)](https://www.youtube.com/watch?v=uvtEBg2LOus)
 * [Erlang Quick Reference Card v1.0, 2011-11-13, Pawel Stolowsk](https://github.com/stolowski/Erlang-Quick-Reference-Card/blob/master/erlang-quickref.pdf)
 * [Awesome Erlang - Curated list of libraries, resources & more - David Robakowski](https://github.com/drobakowski/awesome-erlang)
 * [Erlang Koans - Patrick Gombert](https://github.com/patrickgombert/erlang-koans)

@@ -3728,6 +3728,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ## GO
 
 * [Go Concurrency Patterns - Rob Pike (Google I/O 2012)](https://www.youtube.com/watch?v=f6kdp27TYZs)
+* [Concurrency is not Parallelism - Rob Pike](https://www.youtube.com/watch?v=oV9rvDllKEg)
 
 ## GRAPHICS
 
