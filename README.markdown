@@ -738,6 +738,7 @@ After this page grew too large (when Github started truncating it), I split out 
 * [How to build a Billion Dollar app? - George Berkowski (TEDxCityUniversityLondon)](https://www.youtube.com/watch?v=OwuEwhX1M_M)
 * [Claire Lew interviews Kathryn Minshew, Founder + CEO of The Muse](https://www.youtube.com/watch?v=GqkbYcUBQnk)
 * [The Best of the Best: YC SaaS Founders](https://www.youtube.com/watch?v=b13UAbS21y8)
+* [The 'Simplest' Secret To Business Growth - Lowell Rempel & Dan Martel](https://www.youtube.com/watch?v=xMh2P2K6yY0&t=1140s)
 
 #### BUSINESS - ENTREPRENEURSHIP - BENEFIT CORPORATIONS
 
@@ -754,6 +755,10 @@ After this page grew too large (when Github started truncating it), I split out 
 * [Foundr.com](https://foundr.com/blog/)
 * [GeekWire](http://www.geekwire.com/startups/)
 * [TechCrunch - Startups](https://techcrunch.com/startups/)
+
+#### BUSINESS - ENTREPRENEURSHIP - EQUITY & OWNERSHIP
+
+* [How to Split Equity with Cofounders - the Only Way That is Fair - Mike Moyer (Slicing Pie)](https://www.youtube.com/watch?v=pLGDba8aSWE)
 
 #### BUSINESS - ENTREPRENEURSHIP - FINANCING
 
@@ -2737,6 +2742,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
         * [Scheduler Configuration](https://kubernetes.io/docs/reference/scheduling/config/)
 * [Kubernetes Tutorial for Beginners - Full Course in 4 Hours - TechWorld with Nana](https://www.youtube.com/watch?v=X48VuDVv0do)
 * TechWorld with Nana: [Kubernetes Architecture explained | Kubernetes Tutorial 15](https://www.youtube.com/watch?v=umXEmn3cMWY) & [Complete Application Deployment using Kubernetes Components | Kubernetes Tutorial 20](https://www.youtube.com/watch?v=EQNO_kM96Mo)
+* [Learning Containers, Kubernetes, and Backend Development - Ivan Velichko](https://iximiuz.com/en/)
 * [Kubernetes — What Is It, What Problems Does It Solve and How Does It Compare With Alternatives? - Srikanth Koraveni](https://medium.com/@srikanth.k/kubernetes-what-is-it-what-problems-does-it-solve-how-does-it-compare-with-its-alternatives-937fe80b754f?)
 * [Kubernetes Patterns - Bilgin Ibryam and Roland Huß (PDF)](https://www.redhat.com/cms/managed-files/cm-oreilly-kubernetes-patterns-ebook-f19824-201910-en.pdf)
 * [Kubernetes Basics - Brendon Burns (Microsoft)](https://www.youtube.com/playlist?list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT)
@@ -2762,6 +2768,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Kubernetes Webinars - Janakiram & Associates](https://www.youtube.com/playlist?list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ)
 * [Running Kubernetes in Production - Zalendo Tech](http://kubernetes-on-aws.readthedocs.io/en/latest/admin-guide/kubernetes-in-production.html) & [Kubernetes on AWS @Zalando - David Aronchick](https://www.youtube.com/watch?time_continue=2671&v=XmnhzEoengI)
 * [Kubernetes 101 for Developers - Ross Kukulinski](https://github.com/rosskukulinski/kubernetes-101-for-devs)
+* [Kubernetes Under the Hood](https://mvallim.github.io/kubernetes-under-the-hood/)
 * [KataCoda (interactive browser-based labs, courses, & playgrounds)](https://katacoda.com/learn)
 * [Kubernetes in production - blue-green deployment, auto scaling and deployment automation - Paul Bakker (Devoxx UK 2016)](https://www.youtube.com/watch?v=-Ci4vd4rh4M)
 * [Chick-Fil-A: Milking the Most out of 1000's of K8s Clusters - Caleb Hurd & Brian Chambers (QCon NYC 2018)](https://www.infoq.com/presentations/chick-fil-a-k8-clusters)
@@ -2800,6 +2807,13 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 * [Kube-monkey: implementation of Netflix's Chaos Monkey for Kubernetes clusters](https://github.com/asobti/kube-monkey)
 * [PowerfulSeal: adds chaos to your Kubernetes clusters, so that you can detect problems](https://github.com/bloomberg/powerfulseal)
+
+#### DEVOPS - KUBERNETES - CILIUM
+
+* [Cilium.io](https://cilium.io/) | [Docs](https://docs.cilium.io/en/stable/intro/) | [Github](https://github.com/cilium/cilium)
+* [Use Cilium for NetworkPolicy](https://kubernetes.io/docs/tasks/administer-cluster/network-policy-provider/cilium-network-policy/)
+* [eCHO - eBPF & Cilium Office Hours](https://www.youtube.com/playlist?list=PLDg_GiBbAx-mY3VFLPbLHcxo6wUjejAOC)
+* [eBPF Summit 2021](https://www.youtube.com/playlist?list=PLDg_GiBbAx-laA5GG_WnbojJ44AV2uvZn)
 
 #### DEVOPS - KUBERNETES - CONFIG MAPS & SECRETS
 
@@ -4208,6 +4222,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ## LINUX
 
+* [Linux Server Course: System Configuration & Operation - Shawn Powers](https://www.youtube.com/watch?v=WMy3OzvBWc0&t=10965s)
 * [dotfiles.github.com](http://dotfiles.github.com/)
 * [Thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles)
 * [Unixmen.com](http://www.unixmen.com/)
@@ -4225,9 +4240,20 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### LINUX - COMMAND LINE
 
+* [The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners - Colt Steele](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
 * [Really Friendly Command Line Intro - Tracy Osborn](http://hellobks.com/cmd-line-pdf)
 * TLDR Pages: Simplified and community-driven man pages: [website](http://tldr.sh) | [live demo](https://tldr.ostera.io/) | [installation](http://tldr.sh/#installation) | [PDF](http://tldr.sh/assets/tldr-book.pdf)
 * [Watch command: execute program periodically, showing output fullscreen](https://linux.die.net/man/1/watch)
+
+### LINUX - EBPF
+
+* [eBPF on the Rise - Getting Started - Quentin Monnet (CNCF)](https://www.youtube.com/watch?v=cABk-6Sdb20)
+* [Go eBPF library (from Cilium project)](https://github.com/cilium/ebpf)
+
+#### LINUX - EBPF - BPFTOOL
+
+* [bpftool man page](https://man.archlinux.org/man/bpftool.8.en)
+* [Features of bpftool: the thread of tips and examples to work with eBPF objects - Quentin Monnet](https://qmonnet.github.io/whirl-offload/2021/09/23/bpftool-features-thread/)
 
 ### LINUX - LOGICAL VOLUME MANAGEMENT (LVM)
 
@@ -4251,6 +4277,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [HAProxyConf 2019 - Amsterdam](https://www.youtube.com/playlist?list=PLfnwKJbklIxwtsY6VZhMoyqpm0Cu9Lt1v)
 * [Scaling and Securing WebSockets with HAProxy - Hussein Nasser](https://www.youtube.com/watch?v=Rf6AfhqJKxg)
 * [Load Balance multiple RTMP Servers to Horizontally Scale Streaming (Node Media Server and HAProxy) - Hussein Nasser](https://www.youtube.com/watch?v=px0i9ihcjuM)
+
+#### LINUX - NETWORKING - IPTABLES
+
+* [Illustrated introduction to Linux iptables - Ivan Velichko](https://iximiuz.com/en/posts/laymans-iptables-101/)
 
 #### LINUX - NETWORKING - LOAD BALANCING
 
@@ -4548,6 +4578,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ## NETWORKING
 
 * [Networking - TechTerms](https://www.youtube.com/channel/UCY_dQTuD3MjtuQwYuy6xdag/playlists)
+* [Computer Networking Course - Network Engineering (CompTIA Network+ Exam Prep) - Brian Ferrill](https://www.youtube.com/watch?v=qiQR5rTSshw)
 * [Intro to DNS Terminology, Components, and Concepts - Justin Ellingwood (DigitalOcean)](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
 Peter R. Egli:
   * [Data Networking Concepts](http://www.indigoo.com/dox/itdp/01_Intro/Data-Networking-Concepts.pdf)
@@ -4580,6 +4611,7 @@ Peter R. Egli:
   * [Web Services](http://www.indigoo.com/dox/wsmw/2_WebServices/Web-Services.pdf)
   * [Android NDK](http://www.indigoo.com/dox/mobdev/01_Android/Android-NDK.pdf)
 * [Packet Pushers](https://www.youtube.com/channel/UC7vAUu1TQAwzuq8wajJw4kA)
+* [Computer Networking Introduction - Ethernet and IP (Heavily Illustrated) - Ivan Velichko](https://iximiuz.com/en/posts/computer-networking-101/)
 * [Ping! Are you there? - Lydia Gu (!!Con 2016)](https://www.youtube.com/watch?v=nSB53WRGY_0)
 
 ### NETWORKING - DNS

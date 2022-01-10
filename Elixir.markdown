@@ -91,6 +91,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir Devhints](https://devhints.io/elixir)
 * [Intro to Elixir - SolutionStreet.com](https://www.youtube.com/watch?v=lly-1UYmnFI)
 * [7 ways of doing Fizz Buzz in Elixir and other clickbaity stuff - Khaja Minhajuddin](https://minhajuddin.com/2018/07/06/7-ways-of-doing-fizz-buzz-in-elixir-and-other-clickbaity-stuff/)
+* Hands-on Elixir & OTP: Cryptocurrency trading bot - Kamil Skowron: [Youtube videos](https://www.youtube.com/playlist?list=PLxsE19GnjC5Nv1CbeKOiS5YqGqw35aZFJ) | [Online](https://www.elixircryptobot.com/) | [PDF](https://www.elixircryptobot.com/create-a-cryptocurrency-trading-bot-in-elixir.pdf) | [Epub](https://www.elixircryptobot.com/create-a-cryptocurrency-trading-bot-in-elixir.epub) | [Source code - Github](https://github.com/frathon/create-a-cryptocurrency-trading-bot-in-elixir-source-code)
 * [Buildings start-ups with Elixir - Michael Schaefermeyer (Code BEAM STO 19)](https://www.youtube.com/watch?v=icfvFFZUxZQ)
 * [Ten Things I Wish I Knew Before Using Elixir - Chris Williams](https://ropig.com/blog/ten-things-wish-knew-using-elixir/)
 * [Why We've Adopted Elixir (at Pusher) - Samuel J Murray](https://www.youtube.com/watch?v=zL2wcqS78UA)
@@ -619,7 +620,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * Avia: E-Commerce re-invented in Elixir: [AviaCommerce.org](https://www.aviacommerce.org/) | [Github](https://github.com/aviacommerce/avia) | [API](https://www.aviacommerce.org/docs/apis-getting-started.html) | [Getting Started](https://www.aviacommerce.org/docs/apis-getting-started.html) | [Main Concepts](https://www.aviacommerce.org/docs/products.html)
 
-### ELIXIR - BLOGS
+### ELIXIR - BLOGS & YOUTUBE CHANNELS
 
 * [Carbon Five](https://blog.carbonfive.com/category/elixir/)
 * [DennisBeatty.com](https://dennisbeatty.com/)
@@ -637,6 +638,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Hacklines](https://hacklines.com/en?tags=Elixir)
 * Hashrocket: [TIL](https://til.hashrocket.com/elixir) & [blog](https://hashrocket.com/blog/tags/elixir)
 * [Iacobson.net](http://iacobson.net/index?tag=elixir)
+* [Kamil Skowron (Youtube)](https://www.youtube.com/c/KamilSkowron/videos)
 * [Plataformatec](http://blog.plataformatec.com.br/tag/elixir/)
 * [Samuel Mullen](https://samuelmullen.com/articles/)
 * [The Pug Automatic - Henrik Nyh](http://thepugautomatic.com/)
@@ -650,7 +652,6 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Elixir Documentation (PDF)](https://media.readthedocs.org/pdf/elixir-lang/latest/elixir-lang.pdf)
 * Elixir Getting Started Guide: [EPUB](https://github.com/JamesLavin/my_tech_resources/raw/master/elixir-getting-started-guide.epub) | [Online](http://elixir-lang.org/getting-started/introduction.html)
-* Hands-on Elixir & OTP: Cryptocurrency trading bot - Kamil Skowrown: [Online](https://www.elixircryptobot.com/) | [PDF](https://www.elixircryptobot.com/create-a-cryptocurrency-trading-bot-in-elixir.pdf) | [Epub](https://www.elixircryptobot.com/create-a-cryptocurrency-trading-bot-in-elixir.epub) | [Source code - Github](https://github.com/frathon/create-a-cryptocurrency-trading-bot-in-elixir-source-code)
 * [Elixir Meta-Programming Guide (EPUB)](https://github.com/JamesLavin/my_tech_resources/raw/master/meta-programming-in-elixir.epub)
 * The Mix & OTP Guide: [(EPUB)](https://github.com/JamesLavin/my_tech_resources/raw/master/mix-and-otp.epub) | [Online](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) & [Github](https://github.com/oreillymedia/etudes-for-elixir)
@@ -835,11 +836,6 @@ F
 * [Deploy Elixir Application To AWS Elastic Beanstalk - Michal Kalbarczyk](https://medium.com/@fazibear/deploy-elixir-application-74e1bce100c6#.hkmdp7i75)
 * [How to Set up a Distributed Elixir Cluster on Amazon EC2 - Benjamin Tan Wei Hao](http://engineering.pivotal.io/post/how-to-set-up-an-elixir-cluster-on-amazon-ec2/)
 
-#### ELIXIR - DEPLOYMENT - BAKEWARE
-
-* [Bakeware: Compile Elixir apps into single, easily distributed executable binaries](https://github.com/spawnfest/bakeware) | [Examples](https://github.com/spawnfest/bakeware/blob/main/examples/README.md)
-* [Compile Elixir applications into single executable binaries, with Bakeware - Alvise Susmel](https://www.poeticoding.com/compile-elixir-applications-into-single-executable-binaries-with-bakeware/)
-
 #### ELIXIR - DEPLOYMENT - BOOTLEG
 
 * [Docs](https://hexdocs.pm/bootleg/readme.html) | [Github](https://github.com/labzero/bootleg)
@@ -881,6 +877,17 @@ F
 #### ELIXIR - DEPLOYMENT - CONFORM
 
 * [Conform: library to adapt your application to its deployed environment](https://github.com/bitwalker/conform)
+
+#### ELIXIR - DEPLOYMENT - CROSS-PLATFORM
+
+##### ELIXIR - DEPLOYMENT - CROSS-PLATFORM - BAKEWARE
+
+* [Bakeware: Compile Elixir apps into single, easily distributed executable binaries](https://github.com/spawnfest/bakeware) | [Examples](https://github.com/spawnfest/bakeware/blob/main/examples/README.md)
+* [Compile Elixir applications into single executable binaries, with Bakeware - Alvise Susmel](https://www.poeticoding.com/compile-elixir-applications-into-single-executable-binaries-with-bakeware/)
+
+##### ELIXIR - DEPLOYMENT - CROSS-PLATFORM - BURRITO
+
+* [Burrito: Cross-Platform Elixir Deployments](https://github.com/burrito-elixir/burrito)
 
 #### ELIXIR - DEPLOYMENT - DISTILLERY (DEPRECATED)
 
@@ -971,6 +978,7 @@ F
 * [The Little Ecto Cookbook - Dashbit](https://dashbit.co/ebooks/the-little-ecto-cookbook) (free download from the wonderful people at Dashbit.co who shared Elixir with the world)
 * [Using Ecto outside of Phoenix by Geoffrey Lessel (Lonestar ElixirConf 2017)](https://www.youtube.com/watch?v=PWJpSRUJDwk) & [An Intro to Ecto: Using Ecto in Non-Phoenix Elixir Projects - Geoffrey Lessel (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=8j3DLfNI6Jw)
 * [Ecto: Database library for Elixir - Eric Meadows Jöhnson (Code Beam STO 2018)](https://www.youtube.com/watch?v=RT4p_g0SLUU)
+* [Diving into Ecto.Query - Willian Frantz (ElixirConf EU 2021)](https://www.youtube.com/watch?v=Hm34v0pVpX0)
 * [Embrace the Database With Ecto - Josh Branchaud (ElixirDaze 2017)](https://www.youtube.com/watch?v=fFqsMWmONN4)
 * Thinking in Ecto - Peter de Croos: [Part 1: Schemas and Changesets](http://cultofmetatron.io/2017/04/22/thinking-in-ecto---schemas-and-changesets/) | [Part 2: Queries and Relations](http://cultofmetatron.io/2017/04/25/thinking-in-ecto-part-2/)
 * [Understanding Associations in Elixir's Ecto - Andrew Scorpil (Nov 2020)](https://blog.appsignal.com/2020/11/10/understanding-associations-in-elixir-ecto.html)
@@ -1166,6 +1174,7 @@ F
 
 ### ELIXIR - GRAPHQL & ABSINTHE
 
+* [7 Prod lessons w/ Elixir & Absinthe on event-driven architecture - Marcus Baguley (ElixirConf 2021)](https://www.youtube.com/watch?v=oUIIiXFpXTM)
 * [Build a GraphQL API in Elixir with Phoenix & Absinthe - Tivelop](https://www.youtube.com/watch?v=uoCFQu9gQHE&list=PLw7bfDlTRWbgiApK7X1bRKJJ03xoDU3hm)
 * [Creating GraphQL APIs Using Elixir Phoenix and Absinthe - Velotio Technologies](https://medium.com/velotio-perspectives/creating-graphql-apis-using-elixir-phoenix-and-absinthe-486ff38f2549)
 * [ElixirConf 2018 - Making a GraphQL Server with Absinthe & Dataloader - Aaron Votre (ElixirConf 2018](https://www.youtube.com/watch?v=m26i1L2D7Yk)
@@ -1243,6 +1252,14 @@ F
 
 * [elixir-nx/livebook on Github](https://github.com/elixir-nx/livebook)
 * [Announcing Livebook - José Valim](https://www.youtube.com/watch?v=RKvqc-UEe34)
+
+#### ELIXIR - LIVEBOOK - ANIMATION
+
+* [Livebook Animations - Dimitris Zorbas](https://dev.to/zorbash/livebook-animations-1a4j)
+
+#### ELIXIR - LIVEBOOK - KINO
+
+* [Kino: Client-driven interactive widgets for Livebook](https://hexdocs.pm/kino/Kino.html)
 
 ### ELIXIR - LOGGING & MONITORING
 
@@ -1367,6 +1384,7 @@ F
 ### ELIXIR - OBSERVABILITY
 
 * [Observability for Elixir microservices - Thomas Césaré Herriau and Vamsi Chitters (Code BEAM SF 2020)](https://www.youtube.com/watch?v=OfCOPEIDCAc) (uses [Spandex](https://hexdocs.pm/spandex/readme.html) & [Sentry](https://github.com/getsentry/sentry-elixir))
+* [Observing Elixir in Production - Mark Ericksen](https://fly.io/blog/observing-elixir-in-production/) | [Connecting Observer to Your App in Production - Mark Ericksen](https://fly.io/docs/app-guides/elixir-observer-connection-to-your-app/)
 
 ### ELIXIR - OPUS
 
@@ -1604,6 +1622,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [The Future of Full-stack - Chris McCord (ElixirConf 2021)](https://www.youtube.com/watch?v=Of1phFsC4ZI)
 * [Build a real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5 - Chris McCord](https://www.youtube.com/watch?v=MZvmYaFkNJI)
 * [Building Tetris with Elixir, LiveView and OTP - Sandesh Soni](https://www.youtube.com/watch?v=57b4iSi1FM4) | [Source code](https://github.com/sandeshsoni/tetris_eu_umbrella)
+* [Restore LiveView State on Startup - Mark Ericksen](https://fly.io/phoenix-files/restore-liveview-state-on-startup/)
 * [Getting to Know the LiveView Lifecycle - Michael Crumm (ElixirConf 2021)](https://www.youtube.com/watch?v=J1l4W0T7Jgg)
 * [LiveView and Web Components - Chris Nelson (ElixirConf 2021)](https://www.youtube.com/watch?v=xXWyOy9XdA8)
 * Building a simple Calendly clone with Phoenix LiveView: [Part 1: Intro](https://bigardone.dev/blog/2021/11/06/building-a-simple-calendly-clone-with-phoenix-live-view-pt-1) | [Part 2: Generating the initial project and domain models](https://bigardone.dev/blog/2021/11/08/building-a-simple-calendly-clone-with-phoenix-live-view-pt-2) | [Part 3: The event type selection page](https://bigardone.dev/blog/2021/11/11/building-a-simple-calendly-clone-with-phoenix-live-view-pt-3) | [Part 4: Rendering the monthly calendar](https://bigardone.dev/blog/2021/11/22/building-a-simple-calendly-clone-with-phoenix-live-view-pt-4) | [Part 5: Booking time slots for an event type](https://bigardone.dev/blog/2021/12/01/building-a-simple-calendly-clone-with-phoenix-live-view-pt-5) | [Source code](https://github.com/bigardone/calendlex)
@@ -2051,8 +2070,8 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ELIXIR - VIDEOS
 
 * ElixirConf: [2021](https://www.youtube.com/playlist?list=PLqj39LCvnOWZna91xJ_i44g3rx4Brbpnv) | [2020](https://www.youtube.com/playlist?list=PLqj39LCvnOWZl_Pb0Y7wGWijKbTvL4gJg) | [2019](https://www.youtube.com/playlist?list=PLqj39LCvnOWYTNs1n3ZNMSNO3Svv_XweT) | [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
-* ElixirConf EU: [2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtdiDIxP_rPMQ5VmVhs4CKJ) | [EU Virtual October 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuqgpAyZVzeCoz6GQrQx9Xc) | [EU Virtual June 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuKXQqD64oZFss2fGERjKyK) | [2019 EU](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtoiQC735NjHyPJUS_nmrxy)
-* Code BEAM / Code Mesh: [V Europe 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtkHrA2Uqq8AgDBCjnltUHd) | [V America 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtsGA-ZEVHfVE4Ch2wMMyKg) | [V 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZ3c4NEvwvvvpOlEY2NrYQ) [SF 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zv85s835EGDeCIBYMipJKgL) | [Lite Amsterdam 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtHPqiRFH4nAJwbrfz04V_Q) | [CodeElixir LDN 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvvzEOmlqLUyrZdsW27w7zH) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Stockholm 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztq2fM3aGvXlj_jOfiopM2B) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Munich 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztyk61upvBMvVPbfTyfFgCE) | [Berlin 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs6eFJ9yx-jR7UShGGfPnY4) | [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
+* ElixirConf EU: [2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtdiDIxP_rPMQ5VmVhs4CKJ) | [EU Virtual October 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuqgpAyZVzeCoz6GQrQx9Xc) | [EU Virtual June 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuKXQqD64oZFss2fGERjKyK) | [2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtoiQC735NjHyPJUS_nmrxy) | [2017 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jV6N5XEjbUQe2GkYcRkZdD) | [2016 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2gB7HUE-2H61HAEyszAph3H) | [2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
+* Code BEAM / Code Mesh: [V Europe 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtkHrA2Uqq8AgDBCjnltUHd) | | [Code BEAM America 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZszGANDDqI25eXjIXs4iqig) | [V America 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtsGA-ZEVHfVE4Ch2wMMyKg) | [V 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZ3c4NEvwvvvpOlEY2NrYQ) [SF 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zv85s835EGDeCIBYMipJKgL) | [Lite Amsterdam 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtHPqiRFH4nAJwbrfz04V_Q) | [CodeElixir LDN 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvvzEOmlqLUyrZdsW27w7zH) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Stockholm 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztq2fM3aGvXlj_jOfiopM2B) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Munich 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztyk61upvBMvVPbfTyfFgCE) | [Berlin 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs6eFJ9yx-jR7UShGGfPnY4) | [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
 * [José Valim Twitch recordings](https://www.twitch.tv/josevalim/videos)
 * The Big Elixir: [2019](https://www.youtube.com/playlist?list=PLaiqDZ6yySzjdDOXli7VcQw7a0wuJZfz1) | [2018](https://www.youtube.com/channel/UCInJUDVff2bzZSrkDRUCOdA)
 * Gig City Elixir: [2019](https://www.youtube.com/playlist?list=PLKBMoE8mCkXgXIHTEw9073T4HdNPrvXuw)
@@ -2068,7 +2087,6 @@ Consequently, much of the following will soon be at least partially outdated:
 * [BEAM Channel - Zachary Kessin](https://www.youtube.com/channel/UCMXPX2dNVZUIArP7r8PCO4Q)
 * [Josh Adams working on Firestorm UI](https://www.twitch.tv/dailydrip/videos/all)
 * ElixirConf: [2016 videos](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYoiEKWny0Jj72iu564bVFD) | [2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H) | [2014 videos](http://confreaks.tv/events/elixirconf2014)
-* ElixirConf EU: [2017 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jV6N5XEjbUQe2GkYcRkZdD) | [2016 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2gB7HUE-2H61HAEyszAph3H) | [2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
 * [Elixir videos (Vimeo)](https://vimeo.com/search?q=Elixir)
 * [ElixirConf 2015 videos](http://confreaks.tv/events/elixirconf2015)
     * [Keynote: The Pendulum - Bruce Tate](https://www.youtube.com/watch?v=X8rWK-g8kCQ)
@@ -2286,6 +2304,10 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Programming Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml)
 * [Time in Elixir](http://learnyousomeerlang.com/time)
 
+### ERLANG - EBPF
+
+* [Erlang interface to eBPF](https://github.com/oskardrums/ebpf)
+
 ### ERLANG - ERLFMT
 
 * [erlfmt: Erlang code formatter from WhatsApp](https://github.com/whatsapp/erlfmt)
@@ -2414,6 +2436,10 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Managing processes with Poolboy in Elixir - Akash Manohar](http://hashnuke.com/2013/10/03/managing-processes-with-poolboy-in-elixir.html)
 * [Elixir Poolboy Example - TheStoneFox](https://github.com/thestonefox/elixir_poolboy_example)
 
+#### ERLANG - PACKAGES - RAM
+
+* Ram: in-memory distributed KV store for Erlang and Elixir, able to automatically manage dynamic clusters (addition / removal of nodes) and to recover from net splits - Roberto Ostinelli: [Github](https://github.com/ostinelli/ram) | [Documentation](https://hexdocs.pm/ram/readme.html)
+
 ### ERLANG - PERSISTENT TERM
 
 * persistent_term: [Docs](http://erlang.org/doc/man/persistent_term.html)
@@ -2432,6 +2458,12 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [Rebar 3 (build tool)](https://www.rebar3.org/) | [Getting started](https://www.rebar3.org/docs/getting-started/) | [Basic usage](http://rebar3.org/docs/basic_usage/) | [Tutorials](http://rebar3.org/docs/tutorials/) | [Documentation](http://rebar3.org/docs/)
 * [The new code formatter for Erlang: rebar3 format - Brujo Benavides](https://tech.nextroll.com/blog/dev/2020/02/25/erlang-rebar3-format.html)
+
+### ERLANG - REGISTRIES
+
+#### ERLANG - REGISTRIES - SYN
+
+* Syn: scalable global Process Registry and Process Group manager for Erlang and Elixir, able to automatically manage dynamic clusters (addition / removal of nodes) and to recover from net splits - Roberto Ostinelli: [Documentation](https://hexdocs.pm/syn/readme.html) | [Github](https://github.com/ostinelli/syn)
 
 ### ERLANG - SSL
 
