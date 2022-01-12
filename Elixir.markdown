@@ -888,6 +888,7 @@ F
 ##### ELIXIR - DEPLOYMENT - CROSS-PLATFORM - BURRITO
 
 * [Burrito: Cross-Platform Elixir Deployments](https://github.com/burrito-elixir/burrito)
+* [Elixir in a Burrito with Quinn and Digit - Thinking Elixir Podcast](https://podcast.thinkingelixir.com/81)
 
 #### ELIXIR - DEPLOYMENT - DISTILLERY (DEPRECATED)
 
@@ -1195,6 +1196,26 @@ F
 #### ELIXIR - GRAPHQL & ABSINTHE - DATALOADER
 
 * [DataLoader and the Problem it Solves in GraphQL - KnowThen.com](https://www.youtube.com/watch?v=ld2_AS4l19g)
+
+### ELIXIR - GUIS
+
+#### ELIXIR - GUIS - RATATOUILLE
+
+* [Ratatouille: TUI (terminal UI) kit for Elixir](https://github.com/ndreynolds/ratatouille) | [Docs](https://hexdocs.pm/ratatouille/api-reference.html)
+* [Termbox API: Library for writing text-based user interfaces](https://github.com/nsf/termbox)
+* [ex_termbox](https://github.com/ndreynolds/ex_termbox)
+
+#### ELIXIR - GUIS - SCENIC
+
+* [scenic](https://github.com/boydm/scenic) | [scenic.new](https://github.com/boydm/scenic_new)
+* [My Scenic Companion - Jason Axelson (ElixirConf 2021)](https://www.youtube.com/watch?v=wCxMSo3TZjw)
+* [Scenic Now and Looking Ahead - Boyd Multerer (ElixirConfEU Virtual 20)](https://www.youtube.com/watch?v=tej-SyhZrqk)
+* [Building a GameBoy emulator with Elixir and Scenic - Tonći Galić](https://2019.webcampzg.org/talks/building-a-gameboy-emulator-with-elixir-and-scenic/)
+* [Live Coding Pong in Scenic - Ju Liu](https://www.youtube.com/watch?v=feAW1AVzNwo)
+* [Natively Functional UI with Scenic - Boyd Multerer (Code BEAM STO 2019)](https://www.youtube.com/watch?v=dgllQmf5DXk)
+* [Introducing Scenic A Functional UI Framework - Boyd Multerer (ElixirConf 2018)](https://www.youtube.com/watch?v=1QNxLNMq3Uw)
+* [Live coding an Escher painting using Scenic - Ju Liu (ElixirConf EU 2019)](https://www.youtube.com/watch?v=sV5ValgY4ck)
+* [Getting started with Scenic in Elixir: Crafting a simple snake game - Giancarlo França](https://medium.com/@giandr/elixir-scenic-snake-game-b8616b1d7ee0) & [code on Github](https://github.com/gVirtu/scenic-snake)
 
 ### ELIXIR - HASHING
 
@@ -1889,18 +1910,6 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Riak's rebound - Nicholas Adams (Code BEAM STO 19)](https://www.youtube.com/watch?v=Li3-aR9m8sQ)
 * [Evolution of Riak: resolving problems in distributed systems - Martin Sumner (Code BEAM STO 19)](https://www.youtube.com/watch?v=zx26KmQ8Cv0)
 * Create a riak_core application in Elixir - GPad: [Part 1](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-1-41354c1f26c3) | [Part 2](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-2-88bdec73f368) | [Part 3](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-3-8bac36632be0) | [Part 4](https://medium.com/@GPad/create-a-riak-core-application-in-elixir-part-4-728512ece224)
-
-### ELIXIR - SCENIC
-
-* [scenic](https://github.com/boydm/scenic) | [scenic.new](https://github.com/boydm/scenic_new)
-* [My Scenic Companion - Jason Axelson (ElixirConf 2021)](https://www.youtube.com/watch?v=wCxMSo3TZjw)
-* [Scenic Now and Looking Ahead - Boyd Multerer (ElixirConfEU Virtual 20)](https://www.youtube.com/watch?v=tej-SyhZrqk)
-* [Building a GameBoy emulator with Elixir and Scenic - Tonći Galić](https://2019.webcampzg.org/talks/building-a-gameboy-emulator-with-elixir-and-scenic/)
-* [Live Coding Pong in Scenic - Ju Liu](https://www.youtube.com/watch?v=feAW1AVzNwo)
-* [Natively Functional UI with Scenic - Boyd Multerer (Code BEAM STO 2019)](https://www.youtube.com/watch?v=dgllQmf5DXk)
-* [Introducing Scenic A Functional UI Framework - Boyd Multerer (ElixirConf 2018)](https://www.youtube.com/watch?v=1QNxLNMq3Uw)
-* [Live coding an Escher painting using Scenic - Ju Liu (ElixirConf EU 2019)](https://www.youtube.com/watch?v=sV5ValgY4ck)
-* [Getting started with Scenic in Elixir: Crafting a simple snake game - Giancarlo França](https://medium.com/@giandr/elixir-scenic-snake-game-b8616b1d7ee0) & [code on Github](https://github.com/gVirtu/scenic-snake)
 
 ### ELIXIR - SECURITY
 
