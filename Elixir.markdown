@@ -622,6 +622,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - BLOGS & YOUTUBE CHANNELS
 
+* [Abul Asar](https://abulasar.com/)
 * [Carbon Five](https://blog.carbonfive.com/category/elixir/)
 * [DennisBeatty.com](https://dennisbeatty.com/)
 * [DevonEstes.com](http://devonestes.com/)
@@ -976,6 +977,7 @@ F
   * [Ecto SQL](https://hexdocs.pm/ecto_sql/Ecto.Adapters.SQL.html)
   * [Ecto Query](https://hexdocs.pm/ecto/Ecto.Query.html)
   * [Phoenix Ecto documentation](https://hexdocs.pm/phoenix/ecto.html)
+* [Ecto: An Introduction to Elixir's Database Toolkit - Gints Dreimanis](https://serokell.io/blog/ecto-guide-for-beginners)
 * [The Little Ecto Cookbook - Dashbit](https://dashbit.co/ebooks/the-little-ecto-cookbook) (free download from the wonderful people at Dashbit.co who shared Elixir with the world)
 * [Using Ecto outside of Phoenix by Geoffrey Lessel (Lonestar ElixirConf 2017)](https://www.youtube.com/watch?v=PWJpSRUJDwk) & [An Intro to Ecto: Using Ecto in Non-Phoenix Elixir Projects - Geoffrey Lessel (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=8j3DLfNI6Jw)
 * [Ecto: Database library for Elixir - Eric Meadows Jöhnson (Code Beam STO 2018)](https://www.youtube.com/watch?v=RT4p_g0SLUU)
@@ -1317,6 +1319,7 @@ F
 * [Module module - Elixir](https://hexdocs.pm/elixir/1.12/Module.html)
 * [The Upside Down Dimension of Elixir - An Introduction to Metaprogramming - Nicholas J Henry (Montreal Elixir 2020)](https://www.youtube.com/watch?v=xj6yNzcGlEE)
 * [Elixir Metaprogramming - Tyler Pachal (Elixir Toronto 2020)](https://www.youtube.com/watch?v=DFa1bC95wxA)
+* [Metaprogramming in Elixir - Gints Dreimanis](https://serokell.io/blog/elixir-metaprogramming)
 * Jia Hao Woo: [Intro to Metaprogramming in Elixir](https://blog.appsignal.com/2021/09/07/an-introduction-to-metaprogramming-in-elixir.html)  | [Under the Hood of Macros in Elixir](https://blog.appsignal.com/2021/10/05/under-the-hood-of-macros-in-elixir.html)  | [How to Use Macros in Elixir](https://blog.appsignal.com/2021/10/26/how-to-use-macros-in-elixir.html)  | [Pitfalls of Metaprogramming in Elixir](https://blog.appsignal.com/2021/11/16/pitfalls-of-metaprogramming-in-elixir.html)
 * [Metaprogramming Elixir - Chris McCord (NDC Oslo 2015)](https://vimeo.com/131643017)
 * [Mex: Elixir Shell helper for previewing macroexpansion - Luc Fueston](https://github.com/mrluc/mex)
@@ -1645,6 +1648,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Building Tetris with Elixir, LiveView and OTP - Sandesh Soni](https://www.youtube.com/watch?v=57b4iSi1FM4) | [Source code](https://github.com/sandeshsoni/tetris_eu_umbrella)
 * [Restore LiveView State on Startup - Mark Ericksen](https://fly.io/phoenix-files/restore-liveview-state-on-startup/)
 * [Getting to Know the LiveView Lifecycle - Michael Crumm (ElixirConf 2021)](https://www.youtube.com/watch?v=J1l4W0T7Jgg)
+* [How to leverage on_mount to reduce code - Herminio Torres](https://til.simplebet.io/posts/emefbhudrx-how-to-take-leverage-from-onmount-to-reduce-code)
 * [LiveView and Web Components - Chris Nelson (ElixirConf 2021)](https://www.youtube.com/watch?v=xXWyOy9XdA8)
 * Building a simple Calendly clone with Phoenix LiveView: [Part 1: Intro](https://bigardone.dev/blog/2021/11/06/building-a-simple-calendly-clone-with-phoenix-live-view-pt-1) | [Part 2: Generating the initial project and domain models](https://bigardone.dev/blog/2021/11/08/building-a-simple-calendly-clone-with-phoenix-live-view-pt-2) | [Part 3: The event type selection page](https://bigardone.dev/blog/2021/11/11/building-a-simple-calendly-clone-with-phoenix-live-view-pt-3) | [Part 4: Rendering the monthly calendar](https://bigardone.dev/blog/2021/11/22/building-a-simple-calendly-clone-with-phoenix-live-view-pt-4) | [Part 5: Booking time slots for an event type](https://bigardone.dev/blog/2021/12/01/building-a-simple-calendly-clone-with-phoenix-live-view-pt-5) | [Source code](https://github.com/bigardone/calendlex)
 * [Making Invalid States Unrepresentable in LiveView - German Velasco (ElixirConf 2021)](https://www.youtube.com/watch?v=Xu2QtHUbFmc)
@@ -2024,6 +2028,13 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * Norm: [Documentation](https://hexdocs.pm/norm/Norm.html) | [Github](https://github.com/keathley/norm)
 * [Atlas: Flexible Software Composition using Protocols by Quinn Wilton | Code BEAM V Europe 2021](https://www.youtube.com/watch?v=fhheJ5zsXBQ)
+
+#### ELIXIR - TESTING - TYPECHECK
+
+* [TypeCheck: Fast and flexible runtime type-checking for your Elixir projects](https://github.com/Qqwy/elixir-type_check)
+* [TypeCheck Guide / README](https://hexdocs.pm/type_check/readme.html)
+* [Type-checking and spec-testing with TypeCheck](https://hexdocs.pm/type_check/type-checking-and-spec-testing-with-typecheck.html)
+* [TypeCheck with Wiebe-Marten Wijnja - Thinking Elixir Podcast](https://podcast.thinkingelixir.com/72)
 
 #### ELIXIR - TESTING - WALLABY
 

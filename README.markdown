@@ -561,6 +561,7 @@ After this page grew too large (when Github started truncating it), I split out 
 
 ### BODY & MIND - PODCASTS
 
+* [Ask a Harvard Professor](https://ask-a-harvard-professor.simplecast.com/episodes)
 * [Brain Science with Ginger Campbell, MD](https://brainsciencepodcast.com/)
 * [Brain Science: Neuroscience & Behavior](https://podcasts.apple.com/sa/podcast/brain-science-neuroscience-behavior/id1475672610)
 * [BrainStuff](https://podcasts.apple.com/us/podcast/brainstuff/id260335249)
@@ -664,6 +665,7 @@ After this page grew too large (when Github started truncating it), I split out 
 #### BUSINESS - ENTREPRENEURSHIP - ADVICE
 
 * [Berkeley Haas (Youtube)](https://www.youtube.com/c/berkeleyhaas/playlists)
+* [The Bootstrapped Founder - Arvind Kahl](https://thebootstrappedfounder.com/)
 * [Cliff Ennico](https://www.youtube.com/channel/UCahNH8FgCHT0fFt0cONZj0A/playlists)
 * [Dan Martell (Youtube)](https://www.youtube.com/user/danvmartell/playlists)
 * [Entrepreneurship at Yale SOM (Youtube)](https://www.youtube.com/playlist?list=PL5O6WHvlGzDAXzG8t9uPwS0_QS0C6hWtl)
@@ -810,6 +812,7 @@ After this page grew too large (when Github started truncating it), I split out 
 * [Babson Built](https://itunes.apple.com/us/podcast/babson-built/id1338241432?mt=2)
 * [Balderton Podcast - Balderton Capital](https://itunes.apple.com/us/podcast/balderton-podcast-tech-investment-venture-capital-startup/id1002344923?mt=2)
 * [Being Boss: Mindset, Habits, Tactics, and Lifestyle for Creative Entrepreneurs](https://podcasts.apple.com/ca/podcast/being-boss-mindset-habits-tactics-lifestyle-for-creative/id956310359)
+* [The Bootstrapped Founder - Arvind Kahl](https://thebootstrappedfounder.com/podcast/)
 * [Bootstrapped VC - Backstage Capital](https://itunes.apple.com/us/podcast/the-bootstrapped-vc-a-backstage-capital-podcast/id1209876096?mt=2)
 * [Bowery Capital Startup Sales Podcast](https://bowerycap.com/blog/tag/startup-sales-podcast/)
 * [Business School Without the BS - Clay Clark & Robert Zoellner](https://itunes.apple.com/us/podcast/thrivetime-show-business-school-without-the-bs/id1076405618)
@@ -2961,6 +2964,10 @@ See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 * Ship - A better way to deploy Kubernetes Helm charts: [Replicated.com/Ship](https://www.replicated.com/ship) | [Github](https://github.com/replicatedhq/ship)
 * [Stop Forking Helm Charts, an Intro to Replicated Ship - Marc Campbell (K8s, Kustomize & Ship SF Meetup)](https://www.youtube.com/watch?v=pRG47EQ5OAg)
 
+#### DEVOPS - KUBERNETES - HIGH-AVAILABILITY
+
+* [Set up highly available Kubernetes cluster step by step: Keepalived & Haproxy - Just me and Opensource](https://www.youtube.com/watch?v=SueeqeioyKY)
+
 #### DEVOPS - KUBERNETES - INGRESS CONTROLLERS
 
 * [Kubernetes Ingress Tutorial for Beginners | simply explained | Kubernetes Tutorial 22 - TechWorld with Nana](https://www.youtube.com/watch?v=80Ew_fsV4rM)
@@ -3004,6 +3011,8 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 #### DEVOPS - KUBERNETES - KUSTOMIZE (NOW PART OF KUBECTL)
 
 * Kustomize: [Github](https://github.com/kubernetes-sigs/kustomize/) | [Kustomize.io](https://kustomize.io/) | [Workflows](https://github.com/kubernetes-sigs/kustomize/blob/master/docs/workflows.md) | [Glossary](https://github.com/kubernetes-sigs/kustomize/blob/master/docs/glossary.md) | [JSON patches](https://github.com/kubernetes-sigs/kustomize/blob/master/examples/jsonpatch.md) | [Annotated examples](https://raw.githubusercontent.com/kubernetes-sigs/kustomize/master/docs/kustomization.yaml)
+* [Simplify Kubernetes YAML with Kustomize - That DevOps Guy](https://www.youtube.com/watch?v=5gsHYdiD6v8)
+* [Getting started with Kustomize tool for Kubernetes - Just Me & Open Source](https://www.youtube.com/watch?v=ASK6p2r-Yrk)
 * [Organizing the YAML mess with Kustomize - Florian Assmus (ContainerDays Hamburg 2019)](https://www.youtube.com/watch?v=1fCAwFGX38U) | [Code examples - Base](https://github.com/PRODYNA/cd19-spaceman-base) | [Code examples - Deployment](https://github.com/PRODYNA/cd19-spaceman-deployment)
 * [Declarative Management of Kubernetes Objects Using Kustomize - Kubernetes.io](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/)
 * [Kubernetes: Change base YAML config for different environments prod/test using Kustomize - Kim Wuestkamp](https://levelup.gitconnected.com/kubernetes-change-base-yaml-config-for-different-environments-prod-test-6224bfb6cdd6)
