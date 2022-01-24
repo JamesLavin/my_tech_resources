@@ -1317,6 +1317,7 @@ F
 * [Kernel.SpecialForms - Elixir](https://hexdocs.pm/elixir/Kernel.SpecialForms.html)
 * [Macro.Env - Elixir](https://hexdocs.pm/elixir/1.12/Macro.Env.html)
 * [Module module - Elixir](https://hexdocs.pm/elixir/1.12/Module.html)
+* [The pillars of Metaprogramming in Elixir - Adi Iyengar (ElixirConf EU 2021)](https://www.youtube.com/watch?v=oikF1Ze2Vao)
 * [The Upside Down Dimension of Elixir - An Introduction to Metaprogramming - Nicholas J Henry (Montreal Elixir 2020)](https://www.youtube.com/watch?v=xj6yNzcGlEE)
 * [Elixir Metaprogramming - Tyler Pachal (Elixir Toronto 2020)](https://www.youtube.com/watch?v=DFa1bC95wxA)
 * [Metaprogramming in Elixir - Gints Dreimanis](https://serokell.io/blog/elixir-metaprogramming)
@@ -1475,6 +1476,14 @@ F
 * [Quantum: Cron-like job scheduler](https://github.com/c-rack/quantum-elixir)
 * [Scrivener: Paginate your Ecto queries (Drew Olson)](https://github.com/drewolson/scrivener)
 
+### ELIXIR - PARSING
+
+* [Parser Combinators in Elixir - Gints Dreimanis](https://serokell.io/blog/parser-combinators-in-elixir)
+
+#### ELIXIR - PARSING - NIMBLE PARSEC
+
+* Nimble Parsec: [Docs](https://hexdocs.pm/nimble_parsec/NimbleParsec.html)
+
 ### ELIXIR - PERFORMANCE
 
 * [Building A Highly Scalable Service that Survived A Super Bowl - Keith Elder (Code BEAM SF 2019)](https://www.youtube.com/watch?v=lXiiiLhwBI4)
@@ -1495,6 +1504,7 @@ F
 * [Phoenix Documentation](https://hexdocs.pm/phoenix/Phoenix.html)
 * [API Docs](http://hexdocs.pm/phoenix/) | [Github](https://github.com/phoenixframework/phoenix) | [Website](http://www.phoenixframework.org)
 * [FullstackPhoenix.com - Speed up development significantly by using the Boilerplate generator](https://fullstackphoenix.com/)
+* [Phoenix: An Introduction to Elixir's Web Framework - Gints Dreimanis](https://serokell.io/blog/introduction-to-phoenix)
 * [Phoenix Phrenzy](https://phoenixphrenzy.com/results)
 * [Keynote: Phoenix 1.3 - Chris McCord (Lonestar ElixirConf 2017)](https://www.youtube.com/watch?v=tMO28ar0lW8) & [discussion](https://elixirforum.com/t/lonestar-elixirconf-2017-keynote-phoenix-1-3-by-chris-mccord/3908/12)
 * [Stateful Web Apps with Phoenix and OTP - Hannah Howard (Erlang & Elixir Factory SF 2017)](https://www.youtube.com/watch?v=rX6tC5K_XaI)
@@ -1650,7 +1660,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Getting to Know the LiveView Lifecycle - Michael Crumm (ElixirConf 2021)](https://www.youtube.com/watch?v=J1l4W0T7Jgg)
 * [How to leverage on_mount to reduce code - Herminio Torres](https://til.simplebet.io/posts/emefbhudrx-how-to-take-leverage-from-onmount-to-reduce-code)
 * [LiveView and Web Components - Chris Nelson (ElixirConf 2021)](https://www.youtube.com/watch?v=xXWyOy9XdA8)
-* Building a simple Calendly clone with Phoenix LiveView: [Part 1: Intro](https://bigardone.dev/blog/2021/11/06/building-a-simple-calendly-clone-with-phoenix-live-view-pt-1) | [Part 2: Generating the initial project and domain models](https://bigardone.dev/blog/2021/11/08/building-a-simple-calendly-clone-with-phoenix-live-view-pt-2) | [Part 3: The event type selection page](https://bigardone.dev/blog/2021/11/11/building-a-simple-calendly-clone-with-phoenix-live-view-pt-3) | [Part 4: Rendering the monthly calendar](https://bigardone.dev/blog/2021/11/22/building-a-simple-calendly-clone-with-phoenix-live-view-pt-4) | [Part 5: Booking time slots for an event type](https://bigardone.dev/blog/2021/12/01/building-a-simple-calendly-clone-with-phoenix-live-view-pt-5) | [Source code](https://github.com/bigardone/calendlex)
+* Building a simple Calendly clone with Phoenix LiveView: [Part 1: Intro](https://bigardone.dev/blog/2021/11/06/building-a-simple-calendly-clone-with-phoenix-live-view-pt-1) | [Part 2: Generating the initial project and domain models](https://bigardone.dev/blog/2021/11/08/building-a-simple-calendly-clone-with-phoenix-live-view-pt-2) | [Part 3: The event type selection page](https://bigardone.dev/blog/2021/11/11/building-a-simple-calendly-clone-with-phoenix-live-view-pt-3) | [Part 4: Rendering the monthly calendar](https://bigardone.dev/blog/2021/11/22/building-a-simple-calendly-clone-with-phoenix-live-view-pt-4) | [Part 5: Booking time slots for an event type](https://bigardone.dev/blog/2021/12/01/building-a-simple-calendly-clone-with-phoenix-live-view-pt-5) | [Part 6: Managing event types, part 1](https://bigardone.dev/blog/2021/12/20/building-a-simple-calendly-clone-with-phoenix-live-view-pt-6) | [Part 7: Managing event types, part 2](https://bigardone.dev/blog/2022/01/11/building-a-simple-calendly-clone-with-phoenix-live-view-pt-7) | [Source code](https://github.com/bigardone/calendlex)
 * [Making Invalid States Unrepresentable in LiveView - German Velasco (ElixirConf 2021)](https://www.youtube.com/watch?v=Xu2QtHUbFmc)
 * [Real-Time Multi-Client GPS Logger With LiveView and Google Maps - Yuisho Takafuji (ElixirConf 2021)](https://www.youtube.com/watch?v=vHNqZmLLTj4)
 * [We Wrote An Entire Single-Page App in LiveView - Desmond Bowe (ElixirConf 2021)](https://www.youtube.com/watch?v=DA32q8kd9pA)
