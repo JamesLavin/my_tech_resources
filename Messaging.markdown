@@ -228,6 +228,13 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 * [Messages: Patterns and Pitfalls - Richard Wellum (µCon London 2018)](https://skillsmatter.com/skillscasts/12955-messages-patterns-and-pitfalls#video)
 
+### MESSAGING - PINOT
+
+"Realtime distributed OLAP datastore, designed to answer OLAP queries with low latency"
+
+* [Pinot.apache.org](https://pinot.apache.org/) | [Docs](https://docs.pinot.apache.org/)
+* [Github](https://github.com/apache/pinot)
+
 ### MESSAGING - PULSAR
 
 * [Apache Pulsar - Distributed pub-sub messaging system](http://pulsar.apache.org/) | [Concepts](https://pulsar.apache.org/docs/en/concepts-overview/) | [Schema](https://pulsar.apache.org/docs/en/schema-get-started/) | [Functions](https://pulsar.apache.org/docs/en/functions-overview/) | [IO](https://pulsar.apache.org/docs/en/io-overview/) | [SQL](https://pulsar.apache.org/docs/en/sql-overview/) | [Deployment](https://pulsar.apache.org/docs/en/deploy-kubernetes/) | [Administration](https://pulsar.apache.org/docs/en/administration-zk-bk/) | [Security](https://pulsar.apache.org/docs/en/security-overview/) | [Admin API](https://pulsar.apache.org/docs/en/admin-api-overview/) | [Adapters](https://pulsar.apache.org/docs/en/adaptors-kafka/) | [Cookbooks](https://pulsar.apache.org/docs/en/cookbooks-tiered-storage/)

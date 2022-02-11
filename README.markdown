@@ -205,6 +205,14 @@ After this page grew too large (when Github started truncating it), I split out 
 * [HTM Youtube Channel - Numenta](https://www.youtube.com/user/OfficialNumenta/playlists)
 * [Numenta.org](https://numenta.org/)
 
+### ARTIFICIAL INTELLIGENCE (AI) - JAX: AUTOGRAD AND XLA
+
+"Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
+
+* [Github.com/Google/JAX](https://github.com/Google/jax)
+* [JAX As Accelerated NumPy - Rosalia Schneider & Vladimir Mikulik](https://colab.research.google.com/github/google/jax/blob/master/docs/jax-101/01-jax-basics.ipynb)
+* [Introduction to Graph Neural Nets with JAX/jraph - Lisa Wang & Nikola Jovanović](https://colab.research.google.com/github/deepmind/educational/blob/master/colabs/summer_schools/intro_to_graph_nets_tutorial_with_jraph.ipynb)
+
 ### ARTIFICIAL INTELLIGENCE (AI) - KERAS
 
 * [TensorFlow, Keras and deep learning, without a PhD - Martin Gorner](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/?linkId=71247707#0)
@@ -4356,6 +4364,10 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Sysadmincasts.com](http://sysadmincasts.com/)
 
+### LINUX - SYSTEMD
+
+* Systemd by example - Sebastian Jambor: [Systemd-by-example.com](https://systemd-by-example.com/) | [Part 1: Minimization](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/) | [Part 2: Dependencies](https://seb.jambor.dev/posts/systemd-by-example-part-2-dependencies/)
+
 ### LINUX - TAILS (SECURITY-FOCUSED)
 
 * [Tails documentation](https://tails.boum.org/doc/index.en.html)
@@ -4484,6 +4496,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [The Coaching Leader & Architect - Roy Osherove (GOTO 2020)](https://www.youtube.com/watch?v=vN_xMlR15hw)
 * [The Leadership Library for Engineers - Philip Paetz](https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a)
 * [A Guide To Managing Technical Teams - Dave Farley](https://www.youtube.com/watch?v=jMpCF0Z623s) & [How To Manage Remote Development Teams - Dave Farley](https://www.youtube.com/watch?v=LLytOHE8cJU)
+* [Getting Real: The smarter, faster, easier way to build a successful web application - Basecamp](https://basecamp.com/gettingreal)
 * [Be a Director, Not a Manager - Fareed Mosavat (#mtpcon 2019)](https://www.mindtheproduct.com/2019/09/be-a-director-not-a-manager-by-fareed-mosavat/)
 * [How to Become a Great Software Architect - Eberhard Wolff (GOTO Berlin 2019)](https://www.youtube.com/watch?v=v_nhv6aY1Kg)
 * [Tips for Managing a Widely Distributed Team - Dirkjan Bussink (#LeadDevLondon 2018)](https://www.youtube.com/watch?v=pi6bHUkoBgY)

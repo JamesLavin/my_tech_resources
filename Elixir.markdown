@@ -13,6 +13,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Jump to Gleam](#gleam)
 * [Jump to Hamler](#hamler)
 * [Jump to Joxa](#joxa)
+* [Jump to Kry10 operating system](#kry10)
 * [Jump to LFE (Lisp-Flavoured Erlang)](#lfe)
 * [Jump to Luerl (Lua in Erlang)](#luerl)
 * [Jump to Purerl](#purerl)
@@ -89,6 +90,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Joy of Elixir](https://joyofelixir.com/toc.html)
 * [Elixir Succinctly - Emanuele DelBono](https://www.syncfusion.com/succinctly-free-ebooks/elixir-succinctly)
 * [Elixir Devhints](https://devhints.io/elixir)
+* [A safer Elixir - Esteban Ibarra (ElixirConf EU 2021)](https://www.youtube.com/watch?v=0XFkdS-MrM4)
 * [Intro to Elixir - SolutionStreet.com](https://www.youtube.com/watch?v=lly-1UYmnFI)
 * [7 ways of doing Fizz Buzz in Elixir and other clickbaity stuff - Khaja Minhajuddin](https://minhajuddin.com/2018/07/06/7-ways-of-doing-fizz-buzz-in-elixir-and-other-clickbaity-stuff/)
 * Hands-on Elixir & OTP: Cryptocurrency trading bot - Kamil Skowron: [Youtube videos](https://www.youtube.com/playlist?list=PLxsE19GnjC5Nv1CbeKOiS5YqGqw35aZFJ) | [Online](https://www.elixircryptobot.com/) | [PDF](https://www.elixircryptobot.com/create-a-cryptocurrency-trading-bot-in-elixir.pdf) | [Epub](https://www.elixircryptobot.com/create-a-cryptocurrency-trading-bot-in-elixir.epub) | [Source code - Github](https://github.com/frathon/create-a-cryptocurrency-trading-bot-in-elixir-source-code)
@@ -1065,6 +1067,10 @@ F
 * [Docs](https://hexdocs.pm/ecto_sql/Ecto.Adapters.SQL.Sandbox.html)
 * [Understanding Test Concurrency In Elixir - Nathan Long](https://dockyard.com/blog/2019/02/13/understanding-test-concurrency-in-elixir)
 
+#### ELIXIR - ECTO - SQLITE
+
+* [Encrypted SQLite With Ecto - Connor Rigby](https://cone.codes/posts/encrypted-sqlite-with-ecto/)
+
 #### ELIXIR - ECTO - SSL
 
 * [Connecting Ecto to PostgreSQL with SSL - Hubert Łępicki](https://www.amberbit.com/blog/2017/11/13/connecting-ecto-to-postgresql-with-ssl/)
@@ -1274,6 +1280,7 @@ F
 ### ELIXIR - LIVEBOOK
 
 * [elixir-nx/livebook on Github](https://github.com/elixir-nx/livebook)
+* [Livebook v0.5: flowcharts, chat apps, multiplayer games, and custom widgets! - José Valim](https://www.youtube.com/watch?v=5tLsBwAjOo0)
 * [Announcing Livebook - José Valim](https://www.youtube.com/watch?v=RKvqc-UEe34)
 
 #### ELIXIR - LIVEBOOK - ANIMATION
@@ -1344,6 +1351,9 @@ F
 
 ### ELIXIR - MNESIA
 
+* [Using Mnesia in an Elixir Application - Alex Koutmos](https://blog.appsignal.com/2020/05/19/using-mnesia-in-an-elixir-application.html)
+* [Memento: Simple but Powerful Elixir interface to the Erlang Mnesia Database - Sheharyar Naseer](https://github.com/sheharyarn/memento)
+* [Store Everything With Elixir and Mnesia - Ilya Bodrov](https://code.tutsplus.com/articles/store-everything-with-elixir-and-mnesia--cms-29821)
 * [ecto_mnesia: Ecto adapter for Mnesia Erlang term database - Nebo #15](https://github.com/Nebo15/ecto_mnesia)
 
 ### ELIXIR - MUSIC
@@ -1660,7 +1670,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Getting to Know the LiveView Lifecycle - Michael Crumm (ElixirConf 2021)](https://www.youtube.com/watch?v=J1l4W0T7Jgg)
 * [How to leverage on_mount to reduce code - Herminio Torres](https://til.simplebet.io/posts/emefbhudrx-how-to-take-leverage-from-onmount-to-reduce-code)
 * [LiveView and Web Components - Chris Nelson (ElixirConf 2021)](https://www.youtube.com/watch?v=xXWyOy9XdA8)
-* Building a simple Calendly clone with Phoenix LiveView: [Part 1: Intro](https://bigardone.dev/blog/2021/11/06/building-a-simple-calendly-clone-with-phoenix-live-view-pt-1) | [Part 2: Generating the initial project and domain models](https://bigardone.dev/blog/2021/11/08/building-a-simple-calendly-clone-with-phoenix-live-view-pt-2) | [Part 3: The event type selection page](https://bigardone.dev/blog/2021/11/11/building-a-simple-calendly-clone-with-phoenix-live-view-pt-3) | [Part 4: Rendering the monthly calendar](https://bigardone.dev/blog/2021/11/22/building-a-simple-calendly-clone-with-phoenix-live-view-pt-4) | [Part 5: Booking time slots for an event type](https://bigardone.dev/blog/2021/12/01/building-a-simple-calendly-clone-with-phoenix-live-view-pt-5) | [Part 6: Managing event types, part 1](https://bigardone.dev/blog/2021/12/20/building-a-simple-calendly-clone-with-phoenix-live-view-pt-6) | [Part 7: Managing event types, part 2](https://bigardone.dev/blog/2022/01/11/building-a-simple-calendly-clone-with-phoenix-live-view-pt-7) | [Source code](https://github.com/bigardone/calendlex)
+* Building a simple Calendly clone with Phoenix LiveView: [Part 1: Intro](https://bigardone.dev/blog/2021/11/06/building-a-simple-calendly-clone-with-phoenix-live-view-pt-1) | [Part 2: Generating the initial project and domain models](https://bigardone.dev/blog/2021/11/08/building-a-simple-calendly-clone-with-phoenix-live-view-pt-2) | [Part 3: The event type selection page](https://bigardone.dev/blog/2021/11/11/building-a-simple-calendly-clone-with-phoenix-live-view-pt-3) | [Part 4: Rendering the monthly calendar](https://bigardone.dev/blog/2021/11/22/building-a-simple-calendly-clone-with-phoenix-live-view-pt-4) | [Part 5: Booking time slots for an event type](https://bigardone.dev/blog/2021/12/01/building-a-simple-calendly-clone-with-phoenix-live-view-pt-5) | [Part 6: Managing event types, part 1](https://bigardone.dev/blog/2021/12/20/building-a-simple-calendly-clone-with-phoenix-live-view-pt-6) | [Part 7: Managing event types, part 2](https://bigardone.dev/blog/2022/01/11/building-a-simple-calendly-clone-with-phoenix-live-view-pt-7) | [Part 8: Managing event types, part 3](https://bigardone.dev/blog/2022/01/31/building-a-simple-calendly-clone-with-phoenix-live-view-pt-8) | [Source code](https://github.com/bigardone/calendlex)
 * [Making Invalid States Unrepresentable in LiveView - German Velasco (ElixirConf 2021)](https://www.youtube.com/watch?v=Xu2QtHUbFmc)
 * [Real-Time Multi-Client GPS Logger With LiveView and Google Maps - Yuisho Takafuji (ElixirConf 2021)](https://www.youtube.com/watch?v=vHNqZmLLTj4)
 * [We Wrote An Entire Single-Page App in LiveView - Desmond Bowe (ElixirConf 2021)](https://www.youtube.com/watch?v=DA32q8kd9pA)
@@ -1718,11 +1728,18 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Integrating Phoenix LiveView with JavaScript and AlpineJS - Patrick Thompson](http://blog.pthompson.org/alpine-js-and-liveview)
 * [Creating LiveView Modals with Tailwind CSS and AlpineJS - Patrick Thompson](http://blog.pthompson.org/liveview-tailwind-css-alpine-js-modal)
 
+##### ELIXIR - PHOENIX - LIVE VIEW - JAVASCRIPT INTEROP
+
+* [Taking LiveView's JS commands for a spin - German Velasco](https://www.germanvelasco.com/blog/taking-liveview-js-commands-for-a-spin)
+
 ##### ELIXIR - PHOENIX - LIVE VIEW - LIVE COMPONENTS
 
 * [LiveComponent documentation](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html)
 * [LiveView Components FTW! - Feather Knee (ElixirConf 2020)](https://www.youtube.com/watch?v=qUZ5uN4gqNg)
 * [Introduction to Phoenix LiveView LiveComponents - Patrick Thompson](http://blog.pthompson.org/liveview-livecomponents-introduction)
+* [Reuse markup with function components and slots - Berenice Medel & Chris Nicoll](https://fly.io/phoenix-files/function-components/)
+* [Keep LiveViews alive across live redirects - Berenice Medel](https://fly.io/phoenix-files/live-render-sticky-option/)
+* [Passing Unknown Attributes into Your Component - Mark Ericksen](https://fly.io/phoenix-files/passing-unknown-attributes-into-component/)
 * [Client-Side Drag and Drop with Phoenix LiveView - Kelsey Leftwich](https://www.headway.io/blog/client-side-drag-and-drop-with-phoenix-liveview) & [Drag and Drop with Elixir Lang - Phoenix LiveView and JavaScript Interop](https://www.youtube.com/watch?v=U1EKT7WT_Ic)
 * [Phoenix LiveComponent - Elixir's React + Redux? - David Raffauf](https://www.youtube.com/watch?v=bhdeHhwDFQo)
 * [LiveView Design Patterns - LiveComponent and the Single Responsibility Principle - Sophie DeBenedetto](https://elixirschool.com/blog/live-view-live-component/)
@@ -2032,6 +2049,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Propcheck: Property-based testing for Elixir - Klaus Alfert](https://github.com/alfert/propcheck)
 * [Property-Based Testing - Exploring Elixir](https://www.youtube.com/watch?v=PLSYM7ada0o)
 * [Property-Based Testing with PropEr, Erlang, and Elixir - Fred Hebert](https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir) | [Older but free "PropEr Testing" website](https://propertesting.com/toc.html)
+* [Example-based Tests And Property-based Tests Are Good Friends - Andrea Leopardi](https://andrealeopardi.com/posts/example-based-tests-and-property-based-tests-are-best-friends/)
 * [Recursive Selective Match: Library for testing nested Elixir data structures and ignoring irrelevant data elements and data structure subtrees - James Lavin (me)](https://github.com/JamesLavin/recursive_selective_match)
 
 ##### ELIXIR - TESTING - PROPERTY-BASED TESTING - NORM
@@ -2150,6 +2168,10 @@ Consequently, much of the following will soon be at least partially outdated:
 * [WebRTC from Start to Finish - Scott Hamilton (ElixirConf 2019)](https://www.youtube.com/watch?v=3qTUYMOpZGs)
 * [WebRTC and Phoenix, when μ Seconds aren't Fast Enough - Jason Stiebs (ElixirConf 2016)](https://www.youtube.com/watch?v=yI5J2P9kcBQ) | [phoenix_webrtc code](https://github.com/jeregrine/phoenix_webrtc)
 * [simple-peer: Simple WebRTC video/voice and data channels](https://github.com/feross/simple-peer)
+
+#### ELIXIR - WEBRTC - MEMBRANE
+
+* [Membrane SFU: Bringing WebRTC to Elixir - Mateusz Front (ElixirConf EU 2021)](https://www.youtube.com/watch?v=qXFziCT5I6c)
 
 ## ERLANG
 
@@ -2388,10 +2410,9 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ERLANG - MNESIA
 
-* [Using Mnesia in an Elixir Application - Alex Koutmos](https://blog.appsignal.com/2020/05/19/using-mnesia-in-an-elixir-application.html)
-* [Memento: Simple but Powerful Elixir interface to the Erlang Mnesia Database - Sheharyar Naseer](https://github.com/sheharyarn/memento)
+* [Mnesia as a complete production database system - Chaitanya Chalasani (Code BEAM V)](https://www.youtube.com/watch?v=NpMk2OdAvDw)
+* [Breaking up with Mnesia - Dániel Szoboszlay & Onno Vos (Code BEAM V EU 21)](https://www.youtube.com/watch?v=MgBx1qBLM8U)
 * [Where Did I Put My Data? - Alex Peachey (EMPEX LA 2019)](https://www.youtube.com/watch?v=9216dUNgKCU)
-* [Store Everything With Elixir and Mnesia - Ilya Bodrov](https://code.tutsplus.com/articles/store-everything-with-elixir-and-mnesia--cms-29821)
 * Mnesia: [Docs](http://erlang.org/doc/man/mnesia.html)
 
 ### ERLANG - MONITORING, METRICS & PERFORMANCE
@@ -2604,6 +2625,14 @@ Consequently, much of the following will soon be at least partially outdated:
 ## HAMLER
 
 * Hamler: Haskell-style FP language running on the Erlang VM: [hamler-lang.org](https://www.hamler-lang.org/) | [Cheatsheet](https://github.com/hamler-lang/documentation/blob/master/Cheatsheet.md) | [Guides](https://github.com/hamler-lang/documentation/tree/master/guides/) | [FAQ](https://github.com/hamler-lang/documentation/blob/master/FAQ.md) | [Github](https://github.com/hamler-lang/hamler)
+
+## Kry10
+
+"Operating System and Support Service built on the world-class seL4®, Erlang, and Elixir"
+
+* [The Kry10 Secure Platform - Boyd Multerer](https://www.kry10.com/blog/kry10_secure_platform)
+* [Trust but Isolate The future of software - Boyd Multerer (Code BEAM America 2021)](https://www.youtube.com/watch?v=KDZPBzA3yFw)
+* [The seL4® Microkernel](https://sel4.systems/)
 
 ## JOXA
 
