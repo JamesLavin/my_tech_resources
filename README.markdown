@@ -672,6 +672,7 @@ After this page grew too large (when Github started truncating it), I split out 
 
 #### BUSINESS - ENTREPRENEURSHIP - ADVICE
 
+* [Alex Osterwalder](https://www.youtube.com/results?search_query=alex+osterwalder)
 * [Berkeley Haas (Youtube)](https://www.youtube.com/c/berkeleyhaas/playlists)
 * [The Bootstrapped Founder - Arvind Kahl](https://thebootstrappedfounder.com/)
 * [Cliff Ennico](https://www.youtube.com/channel/UCahNH8FgCHT0fFt0cONZj0A/playlists)
@@ -688,6 +689,7 @@ After this page grew too large (when Github started truncating it), I split out 
 * [Stanford Graduate School of Business (Youtube)](https://www.youtube.com/c/stanfordgsb/playlists)
 * [Startup Class (Sam Altman)](http://startupclass.samaltman.com/)
 * [Startup Grind (Youtube)](https://www.youtube.com/c/StartupGrind/playlists)
+* [Steve Blank](https://steveblank.com/)
 * [Talks at Google (Youtube)](https://www.youtube.com/c/talksatgoogle/playlists)
 * [The Hussle (Youtube)](https://www.youtube.com/c/HustleCon/playlists)
 * [This Week in Startups (Youtube)](https://www.youtube.com/channel/UCkkhmBWfS7pILYIk0izkc3A)
@@ -816,6 +818,7 @@ After this page grew too large (when Github started truncating it), I split out 
 
 * [2000 Book Summaries for Entrepreneurs - Mani Vaya](https://podcasts.apple.com/us/podcast/2000-books-for-ambitious-entrepreneurs-author-interviews/id1119439036)
 * [996 Podcast on Entrepreneurship in China - GGV Capital](https://996.ggvc.com/category/podcast/)
+* [Agile Giants - Sean Ammirati](http://agilegiants.seanammirati.com)
 * [Angel Invest Boston - Sal Daler](https://soundcloud.com/user-982602046)
 * [Babson Built](https://itunes.apple.com/us/podcast/babson-built/id1338241432?mt=2)
 * [Balderton Podcast - Balderton Capital](https://itunes.apple.com/us/podcast/balderton-podcast-tech-investment-venture-capital-startup/id1002344923?mt=2)
@@ -842,6 +845,8 @@ After this page grew too large (when Github started truncating it), I split out 
 * [How I Built This - Guy Raz](https://www.npr.org/podcasts/510313/how-i-built-this)
 * [How to Start a Startup](https://podcasts.apple.com/us/podcast/how-to-start-a-startup/id922398209)
 * [Indie Hackers - Courtland Allen](https://www.indiehackers.com/podcast)
+* [Innovation Hub - WGBH](https://www.wgbh.org/news/news/innovation-hub)
+* [The Innovation Show - Aidan McCullen](https://theinnovationshow.io/episodes/)
 * [James Altucher Show](https://podcasts.apple.com/bs/podcast/the-james-altucher-show/id794030859)
 * [Masters of Scale - Reid Hoffman](https://mastersofscale.com/)
 * [Mixergy - Andrew Warner](https://podcasts.apple.com/ee/podcast/mixergy-startup-stories-1000-entrepreneurs-businesses/id348690336)
@@ -4493,6 +4498,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ## MANAGEMENT/LEADERSHIP
 
 * [Shape Up: Stop Running in Circles and Ship Work That Matters - Ryan Singer](https://basecamp.com/shapeup) | [PDF](https://basecamp.com/shapeup/shape-up.pdf)
+* [Simon Sinek](https://www.youtube.com/user/SimonSinek/playlists)
 * [The Coaching Leader & Architect - Roy Osherove (GOTO 2020)](https://www.youtube.com/watch?v=vN_xMlR15hw)
 * [The Leadership Library for Engineers - Philip Paetz](https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a)
 * [A Guide To Managing Technical Teams - Dave Farley](https://www.youtube.com/watch?v=jMpCF0Z623s) & [How To Manage Remote Development Teams - Dave Farley](https://www.youtube.com/watch?v=LLytOHE8cJU)
@@ -4517,6 +4523,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 ### MANAGEMENT/LEADERSHIP - PODCASTS
 
 * [Finding Mastery - Dr. Michael Gervais](https://findingmastery.net/category/podcasts/)
+* [Product Mastery Now](https://productmasterynow.com/mastery/)
 
 ## MARKDOWN
 

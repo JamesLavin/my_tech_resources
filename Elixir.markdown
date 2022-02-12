@@ -44,6 +44,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## BEAM
 
+* [The Erlang VM with Robert Virding - Birmingham Elixir](https://www.youtube.com/watch?v=N17Mpr1jpAs)
+* [The Erlang VM or How I Started Loving Parallel Progamming - Erik Stenman (GOTO 2013)](https://www.youtube.com/watch?v=ArRr4trTCjQ)
+* [Hitchhiker's Guide to the Erlang VM - Robert Virding (London Erlang Factory Lite)](https://www.youtube.com/watch?v=fctrWbgbJg0)
+
 ### BEAM - COLLABORATION
 
 * [Unite And Conquer - Viktória Fördős, Laura M. Castro & Natalia Chechina (Code BEAM V 2020)](https://www.youtube.com/watch?v=DIZj_7hHLUg)
@@ -1300,6 +1304,37 @@ F
 * Stephen Bussey: [Instruments: Simple and Fast metrics for Elixir](https://github.com/discordapp/instruments) & [Elixir Probes - Replacing Elixometer](https://stephenbussey.com/2018/09/24/elixir-probes-replacing-elixometer.html)
 * [The Ultimate Guide to Logging in Elixir - Brandon Richey](https://timber.io/blog/the-ultimate-guide-to-logging-in-elixir/)
 
+### ELIXIR - MACHINE LEARNING
+
+#### ELIXIR - MACHINE LEARNING - NEURAL NETWORKS
+
+* [AutomatingTheFuture.com - Quentin Thomas](http://www.automatingthefuture.com/)
+* [Artificial Neural Networks, Elixir, and You - Quentin Thomas](http://www.automatingthefuture.com/blog/2016/9/7/artificial-neural-networks-elixir-and-you?utm_content=buffer9dea0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+### ELIXIR - MACHINE LEARNING - NX
+
+* [Nx (Numerical Elixir) is now publicly available - José Valim](https://dashbit.co/blog/nx-numerical-elixir-is-now-publicly-available)
+* [NX: Numerical Elixir & Elixir XLA bindings for CPU/GPU/TPU (Github)](https://github.com/elixir-nx/nx)
+* [Up and Running Nx - Sean Moriarity](https://dockyard.com/blog/2021/04/08/up-and-running-nx)
+* [Elixir-NX-Axon: Elixir's Machine Learning Library - Grox.io](https://www.youtube.com/watch?v=NcsqGS6SVXg)
+* [Kicking the tyres on Nx (Numerical Elixir) - Robert Ellen](https://www.youtube.com/watch?v=SgSbaGm5nR0)
+* [Introducing NX - José Valim (Lambda Days 2021)](https://www.youtube.com/watch?v=fPKMmJpAGWc)
+* [José Valim reveals Project Nx - (ThinkingElixir podcast)](https://thinkingelixir.com/podcast-episodes/034-jose-valim-reveals-project-nx/)
+* [Panel on Machine Learning on the BEAM by José Valim, Randall Thomas, David Lucia, Garrett Smith, Svetlana Levitan (Code BEAM V Europe 2021)](https://www.youtube.com/watch?v=lS5VQmvI7is)
+
+##### ELIXIR - MACHINE LEARNING - NX - AXON
+
+* [Axon: NX-powered neural networks](https://github.com/elixir-nx/axon)
+* [Predicting fuel efficiency with Elixir, Nx, and Axon: a gentle introduction to Machine Learning](https://bitfield.co/posts/machine-learning-in-elixir-with-nx-and-axon/)
+
+##### ELIXIR - MACHINE LEARNING - NX - SCIDATA
+
+* [SciData (Github)](https://github.com/elixir-nx/scidata)
+
+#### ELIXIR - MACHINE LEARNING - PYTHON
+
+* [A Scalable Intent Classifier using Elixir, Python, and Tensorflow - Arjan Scherpenisse (ElixirConf EU 2021)](https://www.youtube.com/watch?v=U8c_hsWC2jE)
+
 ### ELIXIR - MACROS
 
 * [The Upside Down Dimension of Elixir: An Intro to Metaprogramming - Nicholas Henry (ElixirConf 2020)](https://www.youtube.com/watch?v=EFAgc7YqDP8)
@@ -1368,11 +1403,6 @@ F
 * [Keep Calm and Use Nerves - Arjan Scherpenisse (FOSDEM 2020)](https://www.youtube.com/watch?v=VMirPsSYbGM)
 * [Hello World - Justin Scheck (ElixirConf 2020)](https://www.youtube.com/watch?v=BmnlWAVqkVM)
 
-### ELIXIR - NEURAL NETWORKS
-
-* [AutomatingTheFuture.com - Quentin Thomas](http://www.automatingthefuture.com/)
-* [Artificial Neural Networks, Elixir, and You - Quentin Thomas](http://www.automatingthefuture.com/blog/2016/9/7/artificial-neural-networks-elixir-and-you?utm_content=buffer9dea0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-
 ### ELIXIR - NEWSLETTERS
 
 * [Elixir Digest](https://elixirdigest.net/digests)
@@ -1390,26 +1420,6 @@ F
 * [Taking Elixir to the Metal with Rust - Sonny Scroggin](https://www.youtube.com/watch?v=lSLTwWqTbKQ)
 * [Writing Rust NIFs for your Elixir code with the Rustler package - Jacob Lerche](https://medium.com/@jacob.lerche/writing-rust-nifs-for-your-elixir-code-with-the-rustler-package-d884a7c0dbe3)
 * A NIFty way to integrate Rust with Elixir - Dave Lucia (Elixir NYC 2019): [Pig Latin NIF](https://github.com/davydog187/pig_latin_nif) | [Basketball NIF](https://github.com/davydog187/basketball_nif) | [Slides](https://docs.google.com/presentation/d/1gKE2vpgMAGD3vBNtaGO4v4YJt_XCXCkcluFzAHnRZ2w/edit)
-
-### ELIXIR - NX
-
-* [Nx (Numerical Elixir) is now publicly available - José Valim](https://dashbit.co/blog/nx-numerical-elixir-is-now-publicly-available)
-* [NX: Numerical Elixir & Elixir XLA bindings for CPU/GPU/TPU (Github)](https://github.com/elixir-nx/nx)
-* [Up and Running Nx - Sean Moriarity](https://dockyard.com/blog/2021/04/08/up-and-running-nx)
-* [Elixir-NX-Axon: Elixir's Machine Learning Library - Grox.io](https://www.youtube.com/watch?v=NcsqGS6SVXg)
-* [Kicking the tyres on Nx (Numerical Elixir) - Robert Ellen](https://www.youtube.com/watch?v=SgSbaGm5nR0)
-* [Introducing NX - José Valim (Lambda Days 2021)](https://www.youtube.com/watch?v=fPKMmJpAGWc)
-* [José Valim reveals Project Nx - (ThinkingElixir podcast)](https://thinkingelixir.com/podcast-episodes/034-jose-valim-reveals-project-nx/)
-* [Panel on Machine Learning on the BEAM by José Valim, Randall Thomas, David Lucia, Garrett Smith, Svetlana Levitan (Code BEAM V Europe 2021)](https://www.youtube.com/watch?v=lS5VQmvI7is)
-
-#### ELIXIR - NX - AXON
-
-* [Axon: NX-powered neural networks](https://github.com/elixir-nx/axon)
-* [Predicting fuel efficiency with Elixir, Nx, and Axon: a gentle introduction to Machine Learning](https://bitfield.co/posts/machine-learning-in-elixir-with-nx-and-axon/)
-
-#### ELIXIR - NX - SCIDATA
-
-* [SciData (Github)](https://github.com/elixir-nx/scidata)
 
 ### ELIXIR - OBAN
 
@@ -2498,6 +2508,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ERLANG - PODCASTS
 
+* [Hello, Erlang!](https://anchor.fm/helloerlang/episodes/Episode-0-Slava-and-Adolfo-e1e7f78)
 * [Mostly Erlang (no new shows)](https://podcasts.apple.com/gb/podcast/podcast-mostly-erlang/id638766008)
 
 ### ERLANG - PYRLANG
