@@ -252,6 +252,7 @@ After this page grew too large (when Github started truncating it), I split out 
 
 ### ARTIFICIAL INTELLIGENCE (AI) - NATURAL LANGUAGE PROCESSING (NLP)
 
+* [Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition, 3rd ed](https://web.stanford.edu/~jurafsky/slp3/https://web.stanford.edu/~jurafsky/slp3/) | [Jan 2022 PDF](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf)
 * [NLP-progress; Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks - Sebastian Ruder](https://github.com/sebastianruder/nlp-progress) | [NlPProgress.com](https://nlpprogress.com/)
 * [The New Era in NLP - Rachel Thomas (SciPy 2019)](https://www.youtube.com/watch?v=KChtdexd5Jo)
 * [NLP Highlights (podcast) - Matt Gardner, Pradeep Dasigi, and Waleed Ammar](https://soundcloud.com/nlp-highlights)
@@ -1028,7 +1029,8 @@ After this page grew too large (when Github started truncating it), I split out 
 
 ### CLEAN CODE - AGILE
 
-* [Why Scaling Agile Doesn't Work • Jez Humble (GOTO 2015)](https://www.youtube.com/watch?v=2zYxWEZ0gYg)
+* [War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile - Allen Holub (GOTO 2020)](https://www.youtube.com/watch?v=F42A3R28WMU) & [Getting Started with Agility: Essential Reading - Allen Holub](https://holub.com/reading/) & [The Death of Agile (Software Architect London 2014)](https://www.youtube.com/watch?v=HZyRQ8Uhhmk)
+* [Why Scaling Agile Doesn't Work - Jez Humble (GOTO 2015)](https://www.youtube.com/watch?v=2zYxWEZ0gYg)
 * [Beyond Scope, Schedule, and Cost: The Agile Triangle - Jim Highsmith (ThoughtWorks)](https://dfwscrum.files.wordpress.com/2011/07/dfwscrum_20110726_jimhighsmith.pdf)
 * [Business Decision Maturity Model (BDMM) - Dr. Knut Hinkelmann](http://knut.hinkelmann.ch/lectures/bpm2015-16/08_BDMM.pdf)
 * [Managing IT for Business Value: The New Gold Standard - BCG](https://www.bcgperspectives.com/content/articles/information_technology_information_technology_strategy_managing_it_for_business_value/)
@@ -1998,7 +2000,73 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 ### DEVOPS - ANSIBLE
 
+* [Docs](https://docs.ansible.com/ansible/latest/index.html) | [User Guide](https://docs.ansible.com/ansible/latest/user_guide/index.html)
 * [Ansible - Your First Step Into Server Provisioning - Ben Turner (Ruby Australia 2014)](http://vimeo.com/90171333)
+* [How to Create a File in Ansible - Aleksandar Kovačević](https://phoenixnap.com/kb/ansible-create-file)
+* [Using variables](https://docs.ansible.com/ansible/latest/user_guide/playbooks_variables.html)
+* [Interactive input: vars_prompt](https://docs.ansible.com/ansible/latest/user_guide/playbooks_prompts.html)
+* [ansible-vault](https://docs.ansible.com/ansible/latest/cli/ansible-vault.html) | [Encrypting content with Ansible Vault](https://docs.ansible.com/ansible/latest/user_guide/vault.html)
+* [Templating (Jinja2)](https://docs.ansible.com/ansible/latest/user_guide/playbooks_templating.html)
+* [Ansible 101 (15 episodes) - Jeff Geerling](https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN)
+  * [Episode 1 - Introduction to Ansible - Jeff Geerling](https://www.youtube.com/watch?v=goclfp6a2IQ)
+  * [Episode 2 - Ad-hoc tasks and inventory - Jeff Geerling](https://www.youtube.com/watch?v=7kVfqmGtDL8)
+* [Avoiding Common Mistakes In Your Ansible Playbooks - Tadej Borovsak (AnsibleFest 2021)](https://www.youtube.com/watch?v=H3of3CVBHHU)
+* [All Ansible Videos from TopTechSkills.com - Percy Grunwald](https://www.youtube.com/playlist?list=PLMyOob-UkeytIleCbMlFfCzaunOh27hm6)
+
+#### DEVOPS - ANSIBLE - COLLECTIONS
+
+* [Using Collections](https://docs.ansible.com/ansible/latest/user_guide/collections_using.html)
+* [Ansible Galaxy](https://galaxy.ansible.com/)
+  * [Cassandra](https://github.com/ansible-collections/community.cassandra)
+  * [Galaxy: Most downloaded](https://galaxy.ansible.com/search?deprecated=false&keywords=&order_by=-download_count&page=1)
+    * [Azure](https://galaxy.ansible.com/search?keywords=&order_by=-download_count&page=1&deprecated=false&cloud_platforms=azure)
+    * [Alpine](https://galaxy.ansible.com/search?keywords=&order_by=-download_count&page=1&deprecated=false&platforms=Alpine)
+    * [Cloud](https://galaxy.ansible.com/search?keywords=&order_by=-download_count&page=1&deprecated=false&tags=cloud)
+    * [Database](https://galaxy.ansible.com/search?keywords=&order_by=-download_count&page=1&deprecated=false&tags=database)
+    * [Development](https://galaxy.ansible.com/search?keywords=&order_by=-download_count&page=1&deprecated=false&tags=development)
+    * [Docker](https://galaxy.ansible.com/search?keywords=&order_by=-download_count&page=1&deprecated=false&tags=docker)
+    * [MacOS](https://galaxy.ansible.com/search?keywords=&order_by=-download_count&page=1&deprecated=false&platforms=MacOSX)
+    * [Monitoring](https://galaxy.ansible.com/search?keywords=&order_by=-download_count&page=1&deprecated=false&tags=monitoring)
+    * [Networking](https://galaxy.ansible.com/search?keywords=&order_by=-download_count&page=1&deprecated=false&tags=networking)
+    * [Security](https://galaxy.ansible.com/search?keywords=&order_by=-download_count&page=1&deprecated=false&tags=security)
+    * [System](https://galaxy.ansible.com/search?keywords=&order_by=-download_count&page=1&deprecated=false&tags=system)
+    * [Ubuntu](https://galaxy.ansible.com/search?keywords=&order_by=-download_count&page=1&deprecated=false&tags=ubuntu)
+    * [Web](https://galaxy.ansible.com/search?deprecated=false&tags=web&keywords=&order_by=-download_count&page=1)
+  * [Galaxy: Community](https://galaxy.ansible.com/community)
+    * [Cassandra](https://github.com/ansible-collections/community.cassandra)
+* [Collection Index](https://docs.ansible.com/ansible/latest/collections/index.html) | [Github](https://github.com/ansible-collections)
+  * [Builtin](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/index.html#plugins-in-ansible-builtin)
+    * [apt](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/apt_module.html#ansible-collections-ansible-builtin-apt-module)
+    * [apt_key](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/apt_key_module.html#ansible-collections-ansible-builtin-apt-key-module)
+    * [copy](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/copy_module.html)
+    * [debug](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/debug_module.html)
+    * [gather_facts](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/gather_facts_module.html#ansible-collections-ansible-builtin-gather-facts-module)
+    * [get_url](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/get_url_module.html#ansible-collections-ansible-builtin-get-url-module)
+    * [set_fact](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/set_fact_module.html)
+    * [setup](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/setup_module.html)
+    * [shell](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/shell_module.html)
+    * [template](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/template_module.html)
+    * [uri](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/uri_module.html)
+  * [AWS](https://docs.ansible.com/ansible/latest/collections/amazon/aws/index.html#plugins-in-amazon-aws)
+  * [Azure](https://docs.ansible.com/ansible/latest/collections/community/azure/index.html#plugins-in-community-azure) & [AZCollection](https://docs.ansible.com/ansible/latest/collections/azure/azcollection/index.html#plugins-in-azure-azcollection)
+  * [Digital Ocean](https://docs.ansible.com/ansible/latest/collections/community/digitalocean/index.html#plugins-in-community-digitalocean)
+  * [Google Cloud](https://docs.ansible.com/ansible/latest/collections/google/cloud/index.html#plugins-in-google-cloud)
+  * [Kubernetes.Core](https://docs.ansible.com/ansible/latest/collections/kubernetes/core/index.html#plugins-in-kubernetes-core)
+  * [MongoDB](https://docs.ansible.com/ansible/latest/collections/community/mongodb/index.html#plugins-in-community-mongodb)
+  * [Podman](https://docs.ansible.com/ansible/latest/collections/containers/podman/index.html#plugins-in-containers-podman)
+  * [POSIX](https://docs.ansible.com/ansible/latest/collections/ansible/posix/index.html#plugins-in-ansible-posix)
+  * [PostgreSQL](https://docs.ansible.com/ansible/latest/collections/community/postgresql/index.html#plugins-in-community-postgresql)
+  * [RabbitMQ](https://docs.ansible.com/ansible/latest/collections/community/rabbitmq/index.html#plugins-in-community-rabbitmq)
+  * [Vault](https://docs.ansible.com/ansible/latest/collections/community/hashi_vault/index.html#plugins-in-community-hashi-vault)
+
+#### DEVOPS - ANSIBLE - MODULES
+
+* [10 Ansible modules for Linux system automation -  Ricardo Gerardi](https://opensource.com/article/20/10/ansible-modules-linux)
+* [10 best Ansible modules for infrastructure as code - John Capobianco](https://bluecatnetworks.com/blog/10-best-ansible-modules-for-infrastructure-as-code/)
+
+#### DEVOPS - ANSIBLE - ROLES
+
+[Ansible.JeffGeerling.com](https://ansible.jeffgeerling.com/)
 
 ### DEVOPS - API GATEWAYS
 
@@ -2855,6 +2923,10 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 * [Crossplane.io: Manage any infrastructure your applications need directly from Kubernetes](https://crossplane.io/) | [Github](https://github.com/crossplaneio/crossplane)
 
+#### DEVOPS - KUBERNETES - DEBUGGING
+
+* [A visual guide on troubleshooting Kubernetes deployments - Daniele Polencic](https://learnk8s.io/troubleshooting-deployments)
+
 #### DEVOPS - KUBERNETES - DEPLOYMENT
 
 * [Kafka Operator: Managing and Operating Kafka Clusters in Kubernetes [A] - Nenad Bogojevic](https://www.youtube.com/watch?v=jAz8sdO1rgE)
@@ -3337,6 +3409,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 * [Terraform explained in 15 minutes - TechWorld with Nana](https://www.youtube.com/watch?v=l5k1ai_GBDE)
 * [Terraform course - freeCodeCamp.org](https://www.youtube.com/watch?v=SLB_c_ayRMo) (140 minutes)
+* [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code) - Sid Palas](https://www.youtube.com/watch?v=7xngnjfIlK4) (160 minutes)
 * [Developing Terraform Modules at Scale - HashiCorp](https://www.youtube.com/watch?v=bDVr7RNlPsQ)
 * [Azure DevOps: Provision API Infrastructure using Terraform - Full Course - Les Jackson](https://www.youtube.com/watch?v=Ff0DoAmpv6w) (125 minutes)
 * [DevOps Crash Course (Docker, Terraform, and Github Actions) - Traversy Media](https://www.youtube.com/watch?v=OXE2a8dqIAI)
@@ -4502,6 +4575,8 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 * [The Coaching Leader & Architect - Roy Osherove (GOTO 2020)](https://www.youtube.com/watch?v=vN_xMlR15hw)
 * [The Leadership Library for Engineers - Philip Paetz](https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a)
 * [A Guide To Managing Technical Teams - Dave Farley](https://www.youtube.com/watch?v=jMpCF0Z623s) & [How To Manage Remote Development Teams - Dave Farley](https://www.youtube.com/watch?v=LLytOHE8cJU)
+* [The Manager's Handbook - Alex MacCaw and Clearbit](https://themanagershandbook.com/)
+* [The Great CEO Within - Matt Mochary](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit)
 * [Getting Real: The smarter, faster, easier way to build a successful web application - Basecamp](https://basecamp.com/gettingreal)
 * [Be a Director, Not a Manager - Fareed Mosavat (#mtpcon 2019)](https://www.mindtheproduct.com/2019/09/be-a-director-not-a-manager-by-fareed-mosavat/)
 * [How to Become a Great Software Architect - Eberhard Wolff (GOTO Berlin 2019)](https://www.youtube.com/watch?v=v_nhv6aY1Kg)
@@ -5092,6 +5167,8 @@ Peter R. Egli:
 
 * [Defining a Distinguished Engineer - Jessie Frazelle](https://blog.jessfraz.com/post/defining-a-distinguished-engineer/)
 * [The Twelve-Factor App - Adam Wiggins](https://12factor.net/)
+* [Allen Holub](https://www.youtube.com/results?search_query=allen+holub)
+* [Kevlin Henney](https://www.youtube.com/results?search_query=kevlin+henney)
 * [Warren Buffet's Life Advice Will Change Your Future - Motivation Madness](https://www.youtube.com/watch?v=PX5-XyBNi00)
 * [10 Philosophies for Engineers - Jeff Meyerson](http://softwareengineeringdaily.com/2016/02/12/10-philosophies-for-developers/)
 * [Monkey, take the wheel - Dmytro Lytovchenko (CodeBEAM V 2020)](https://www.youtube.com/watch?v=mH6OBprNEIY)
@@ -5224,7 +5301,7 @@ Peter R. Egli:
 * [GitBook.com](https://www.gitbook.com/explore/topics)
 * [How to Design Programs - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi](http://htdp.org/2003-09-26/)
 * [Introduction to Computing: Explorations in Language, Logic and Machines - David Evans](http://www.computingbook.org/) | [PDF](http://www.computingbook.org/FullText.pdf) | [Read online](https://www.otexts.org/book/intro-computing)
-* [Patterns of Software - Richard P. Gabriel](http://dreamsongs.com/Files/PatternsOfSoftware.pdf)
+* [Patterns of Software: Tales from the Software Community - Richard P. Gabriel](http://dreamsongs.com/Files/PatternsOfSoftware.pdf)
 * [Producing Open Source Software: How to Run a Successful Free Software Project - Karl Fogel](http://producingoss.com/)
 * [Programming Models for Distributed Computing - Northeastern University CS7680](https://github.com/heathermiller/dist-prog-book)
 
@@ -5440,6 +5517,7 @@ Peter R. Egli:
 * [Managing Technical Debt - Steve McConnell 2008](http://www.construx.com/uploadedFiles/Construx/Construx_Content/Resources/Documents/Managing%20Technical%20Debt.pdf)
 * [Technical Debt: From Metaphor to Theory and Practice - Philippe Kruchten, Robert L. Nord, and Ipek Ozkaya](https://www.sei.cmu.edu/library/assets/whitepapers/Technical%20Debt-From%20Metaphor%20to%20Theory%20and%20Practice.pdf)
 * [Managing Technical Debt - Steve McConnell 2013](http://2013.icse-conferences.org/documents/publicity/MTD-WS-McConnell-slides.pdf) & [Construx Webinar](https://www.youtube.com/watch?v=lEKvzEyNtbk)
+* [On Exactitude in Technical Debt - Kevlin Henney](https://www.oreilly.com/radar/on-exactitude-in-technical-debt/)
 * [Technical Debt - Martin Fowler](https://martinfowler.com/bliki/TechnicalDebt.html)
 * [Technical debt and system architecture: The impact of coupling on defect-related activity - Alan MacCormack and Daniel J. Sturtevant](http://www.hbs.edu/faculty/Publication%20Files/2016-JSS%20Technical%20Debt_d793c712-5160-4aa9-8761-781b444cc75f.pdf)
 * [Technical Debt - The code monster in everyone's closet - Nina Zakharenko (PyCon 2015)](https://www.youtube.com/watch?v=JKYktDRoRxw)
@@ -6366,6 +6444,7 @@ Peter R. Egli:
 ### VPN (VIRTUAL PRIVATE NETWORK) - WIREGUARD
 
 * [What is Wireguard? Explaining a New VPN Protocol and How it Compares to OpenVPN - All Things Secured](https://www.youtube.com/watch?v=mxpHRdO4rDU)
+* [Our User-Mode WireGuard Year - Thomas Ptacek](https://fly.io/blog/our-user-mode-wireguard-year/)
 * [WireGuard: Next Generation Secure Network Tunnel - Jason Donenfeld](https://www.youtube.com/watch?v=88GyLoZbDNw)
 
 ## WEB ASSEMBLY

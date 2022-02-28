@@ -641,7 +641,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ElixirStatus.com](http://elixirstatus.com/)
 * [Elixir Weekly](https://elixirweekly.net/)
 * [The Erlang eList](http://theerlangelist.com/)
-* [Fly.io](https://fly.io/blog/)
+* [Fly.io Blog](https://fly.io/blog/) | [Fly.io Phoenix Files](https://fly.io/phoenix-files/)
 * [Hacklines](https://hacklines.com/en?tags=Elixir)
 * Hashrocket: [TIL](https://til.hashrocket.com/elixir) & [blog](https://hashrocket.com/blog/tags/elixir)
 * [Iacobson.net](http://iacobson.net/index?tag=elixir)
@@ -953,6 +953,12 @@ F
 * [BEAM and Kubernetes: Better together? - Cory O'Daniel (Code BEAM SF 20)](https://www.youtube.com/watch?v=Nv6GfEGv0kc)
 * [Deploying Phoenix to Kubernetes From Scratch - Dan Quan](https://quan.io/blog/deploying-phoenix-to-kubernetes-from-scratch/)
 * [Kubernetes and the Erlang VM: orchestration on the large and the small - José Valim](http://blog.plataformatec.com.br/2019/10/kubernetes-and-the-erlang-vm-orchestration-on-the-large-and-the-small/)
+
+### ELIXIR - DESKTOP
+
+* [Elixir-Desktop: Elixir library to write Windows, macOS, Linux, Android apps with OTP24 & Phoenix.LiveView - ](https://github.com/elixir-desktop/desktop) | [Docs](https://hexdocs.pm/desktop/)
+* [Desktop example app](https://github.com/elixir-desktop/desktop-example-app)
+* [Convert Your Web App to a Desktop App With Elixir Desktop - Dominic Letz (CodeBEAM 2021)](https://www.youtube.com/watch?v=P6b-2RnPKBs)
 
 ### ELIXIR - DISTRIBUTION
 
@@ -1452,6 +1458,7 @@ F
 * [Elixir GenServers for Web Developers - Damon Janis](https://medium.com/@damonvjanis/elixir-genservers-for-web-developers-255d37a3699c)
 * [Processes and Supervision in Elixir - Steve Grossi](https://www.youtube.com/watch?v=eUxang6_WQA)
 * [Designing Elixir Systems with OTP | Bruce Tate (Erlang Solutions Webinar)](https://www.youtube.com/watch?v=8xbnA5xWdmI)
+* [Elixir GenServer Memory Issues - Nuno Marinho](https://medium.com/coletiv-stories/genservers-memory-issues-ef42cc42e3e9)
 * [Building Adaptive Systems - Chris Keathley (Code BEAM V 2020)](https://www.youtube.com/watch?v=-oQl1xv0hDk)
 * Building the Go Game in Elixir - Jeff Kreeftmeijer: [Part 1: With Phoenix LiveView](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html) | [Part 2: Time Travel and the Ko Rule](https://blog.appsignal.com/2019/07/04/elixir-alchemy-building-go-in-elixir-time-travel-and-the-ko-rule.html) | [Part 3: With Elixir's Registry, PubSub and dynamic supervisors](https://blog.appsignal.com/2019/08/13/elixir-alchemy-multiplayer-go-with-registry-pubsub-and-dynamic-supervisors.html)
 * [How we scraped and aggregated data from multiple sources using OTP - Tiago Duarte](https://coletiv.com/blog/scrapping-data-elixir-otp/)
@@ -1663,6 +1670,11 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Set Up Phoenix with Svelte+Rollup - Joshua Nussbaum](https://dev.to/joshnuss/setup-phoenix-with-svelte-rollup-36dk)
 * [elixir-svelte-render - Ben Woodward](https://github.com/benwoodward/elixir_svelte_render)
 
+##### ELIXIR - PHOENIX - JAVASCRIPT/TYPESCRIPT - TAILWIND CSS
+
+* [Adding Tailwind CSS support - Ricardo García Vega](https://bigardone.dev/blog/2021/11/08/building-a-simple-calendly-clone-with-phoenix-live-view-pt-2)
+* [Phoenix 1.6.0 LiveView + esbuild + Tailwind JIT + AlpineJS - A brief tutorial - Sergio Tapia](https://sergiotapia.com/phoenix-160-liveview-esbuild-tailwind-jit-alpinejs-a-brief-tutorial)
+
 #### ELIXIR - PHOENIX - JSON
 
 * [Awesome Elixir: JSON](https://github.com/h4cc/awesome-elixir#json)
@@ -1740,6 +1752,8 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ##### ELIXIR - PHOENIX - LIVE VIEW - JAVASCRIPT INTEROP
 
+* [Client-Side Tabs in LiveView With JS Commands - Berenice Medel & Chris Nicoll](https://fly.io/phoenix-files/tabs-with-js-commands/)
+* [LiveView Feels Faster With a Delayed Loading Indicator - Mark Ericksen](https://fly.io/phoenix-files/make-your-liveview-feel-faster/)
 * [Taking LiveView's JS commands for a spin - German Velasco](https://www.germanvelasco.com/blog/taking-liveview-js-commands-for-a-spin)
 
 ##### ELIXIR - PHOENIX - LIVE VIEW - LIVE COMPONENTS
@@ -1817,6 +1831,7 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ELIXIR - PHOENIX - TELEMETRY
 
 * [Telemetry documentation](https://hexdocs.pm/phoenix/telemetry.html)
+* Miguel Cobá: [Introduction to Telemetry in Elixir](https://blog.miguelcoba.com/introduction-to-telemetry-in-elixir) | [Telemetry and Metrics in Elixir](https://dev.to/miguelcoba/telemetry-and-metrics-in-elixir-20oc)
 * [It's Alive!!! Instrumenting Phoenix 1.5 - Sophie DeBenedetto (YOW! Lambda Jam 2020)](https://www.youtube.com/watch?v=ld6vtIA9cvQ)
 * Instrumenting Phoenix with Telemetry and LiveDashboard - Sophie DeBenedetto: [Part I](https://elixirschool.com/blog/instrumenting-phoenix-with-live-dashboard/) | [Part II: Telemetry Metrics + Reporters](https://elixirschool.com/blog/instrumenting_phoenix_with_telemetry_part_two/) | [Part III: Phoenix + Ecto Telemetry Events](https://elixirschool.com/blog/instrumenting_phoenix_with_telemetry_part_three/) | [Part IV: Erlang VM Measurements with `telemetry_poller`](https://elixirschool.com/blog/instrumenting-phoenix-with-telemetry-part-four/)
 
@@ -2251,7 +2266,6 @@ Consequently, much of the following will soon be at least partially outdated:
 * [A Brief History of the BEAM Compiler - Björn Gustavsson](http://blog.erlang.org/beam-compiler-history/)
 * Core Erlang - Björn Gustavsson: [By Example](http://blog.erlang.org/core-erlang-by-example/) | [Optimizations](http://blog.erlang.org/core-erlang-optimizations/) | [Wrap up](http://blog.erlang.org/core-erlang-wrapup/)
 * [BEAM Wisdoms: collection of easy to read (ELI5) articles as well as in-depth knowledge such as VM internals, memory layout, opcodes](http://beam-wisdoms.clau.se/en/latest/)
-* [Elixir GenServer Memory Issues - Nuno Marinho](https://medium.com/coletiv-stories/genservers-memory-issues-ef42cc42e3e9)
 * [The Erlang VM or How I Stopped Worrying & Started Loving Parallel Programming - E.Stenman (GOTO 2013)](https://www.youtube.com/watch?v=ArRr4trTCjQ)
 
 #### ERLANG - BEAM - GARBAGE COLLECTION
@@ -2311,6 +2325,8 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Scaling Erlang cluster to 10,000 nodes - Maxim Fedorov (Code Mesh LDN 18)](https://www.youtube.com/watch?v=FJQyv26tFZ8)
 * [Distributed War Stories - Miriam Pena (EMPEX LA 2019)](https://www.youtube.com/watch?v=b3JQgyj17hk)
 * [Erlang distribution over TLS - Magnus Henoch](https://www.erlang-solutions.com/blog/erlang-distribution-over-tls.html)
+* [Jumping gen_servers! A new way of building distributed applications - Peer Stritzinger (Code BEAM V EU 21)](https://www.youtube.com/watch?v=0ffcj5p_TQ4) | [Piccolo-Project.org(https://piccolo-project.org/https://piccolo-project.org/) | [Braid](https://github.com/stritzinger/braid)
+* [Software-Defined Networking and Traffic Engineering: Managing a Tera of Flow in Erlang - Sébastien Merle & Peer Stritzinger (Code BEAM V EU21)](https://www.youtube.com/watch?v=miNjrA-sQJY)
 * [Partisan: Flexible, TCP-based membership system for Erlang/Elixir](https://github.com/lasp-lang/partisan) & [Partisan: Enabling Cloud-Scale Erlang Applications - Christopher S. Meiklejohn & Heather Miller (PDF)](https://arxiv.org/pdf/1802.02652.pdf)
 * [Scaling Distributed Erlang - Zandra Norman (ElixirConfEu 2016)](https://www.youtube.com/watch?v=usEs3GPnZDg)
 * [Erlang distribution: going beyond the fully connected mesh - Peer Stritzinger & Adam Lindberg (Code BEAM STO 19)](https://www.youtube.com/watch?v=ZHacI06RWhU)
