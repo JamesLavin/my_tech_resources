@@ -779,6 +779,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - DEBUGGING
 
+* [Love Your Crash Dumps - Michał Ślaski (ElixirConf EU 2021)](https://www.youtube.com/watch?v=wyjWR731uSU)
 * [Three Ways to Debug Code in Elixir - Pulkit Goyal](https://blog.appsignal.com/2021/11/30/three-ways-to-debug-code-in-elixir.html)
 * [How to Use IEx.pry in Elixir Tests - Adam Delong](https://adamdelong.com/iex-pry-test/)
 * [Debugging Live Systems on the BEAM - Jeffery Utter (ElixirConf 2020)](https://www.youtube.com/watch?v=sR9h3DZAA74)
