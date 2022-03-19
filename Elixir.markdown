@@ -1038,6 +1038,10 @@ F
 * [What is the difference between Ecto.Type’s cast and dump? - ElixirForum.com](https://elixirforum.com/t/what-is-the-difference-between-ecto-types-cast-and-dump/4855)
 * [Ecto type for IPv4 and IPv6 addresses - Pedro Assumpcao](https://pedroassumpcao.ghost.io/ecto-type-for-ipv4-and-ipv6-addresses/)
 
+#### ELIXIR - ECTO - LIBRARIES
+
+* [Ecto_Shorts - Mika Kalathil](https://github.com/MikaAK/ecto_shorts)
+
 #### ELIXIR - ECTO - MIGRATIONS
 
 * [Safe Ecto Migrations - David Bernheisel](https://fly.io/phoenix-files/safe-ecto-migrations/)

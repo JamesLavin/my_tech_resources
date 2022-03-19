@@ -4607,6 +4607,23 @@ Peter R. Egli:
 * [Scala: The Simple Parts - Martin Odersky (GOTO Conf 2014)](https://www.youtube.com/watch?v=P8jrvyxHodU)
 * Scala talks: [Confreaks.tv](http://confreaks.tv/search?utf8=%E2%9C%93&query=scala&commit=go) & [Youtube](https://www.youtube.com/results?q=scala+language)
 
+## SCIENCE
+
+### SCIENCE - BIOCHEMISTRY & MICROBIOLOGY
+
+* [Professor Nick Lane](https://www.youtube.com/results?search_query=nick+lane)
+* [Amoeba Sisters (Youtube channel)](https://www.youtube.com/c/AmoebaSisters/playlists)
+* [Journey to the Microcosmos](https://www.youtube.com/c/microcosmos/videos)
+
+### SCIENCE - BIOLOGICAL INTELLIGENCE
+
+* [Modular cognition: Powerful tricks from computer science and cybernetics show how evolution ‘hacked’ its way to intelligence from the bottom up - Michael Levin & Rafael Yuste](https://aeon.co/essays/how-evolution-hacked-its-way-to-intelligence-from-the-bottom-up)
+* [The cognitive cell: Bacterial behavior reconsidered - Pamela Lyon](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4396460/pdf/fmicb-06-00264.pdf)
+* [Top-down models in biology: explanation and control of complex living systems above the molecular level - Giovanni Pezzulo & Michael Levin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5134011/pdf/rsif20160555.pdf)
+* [Living Things Are Not (20th Century) Machines: Updating Mechanism Metaphors in Light of the Modern Science of Machine Behavior - Joshua Bongard & Michael Levin](https://www.frontiersin.org/articles/10.3389/fevo.2021.650726/full)
+* [Technological Approach to Mind Everywhere (TAME): an experimentally- grounded framework for understanding diverse bodies and minds - Michael Levin](https://psyarxiv.com/t6e8p)
+* [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition - Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full)
+
 ## SCIENCE FICTION (SCI FI)
 
 * [Mindwebs: Science Fiction stories read by Michael Hanson](https://archive.org/details/MindWebs_201410/)
