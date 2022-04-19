@@ -56,6 +56,10 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Secrets of the Erlang Beam compiler - Richard Carlsson](https://www.youtube.com/watch?v=RMKSYWz_nPo)
 
+### BEAM - DEBUGGING
+
+* [Debugging the BEAM - Maxim Fedorov](https://max-au.com/debugging-the-beam/)
+
 ### BEAM - DSL FOR LANGUAGES
 
 * [Implementing Languages on the BEAM - Robert Virding & Mariano Guerra (Code BEAM SF 2018)](https://www.youtube.com/watch?v=lkAbwmn5Rv8)
@@ -716,6 +720,8 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - CODE QUALITY
 
 * [How to Get Your Elixir Application Ready for CI/CD - Alex Koutmos](https://blog.appsignal.com/2020/01/29/how-to-get-your-elixir-application-ready-for-ci-cd.html)
+* [Build the Ultimate Elixir CI with Github Actions - Dorian Karter](https://hashrocket.com/blog/posts/build-the-ultimate-elixir-ci-with-github-actions)
+* [Continuous integration and deployment is the heartbeat of a software development team. That’s why we’ve invested in powerful tooling that goes way beyond the basics - Tyler Young](https://felt.com/blog/hashrocket-ultimate-elixir-to-the-next-level)
 * [Modular Design in Elixir - Maciej Kaszubowski (ElixirConf EU 2019)](https://www.youtube.com/watch?v=hgDCg3QdZgU)
 * [Enforcing code quality in Elixir - Leandro Cesquini Pereira](https://itnext.io/enforcing-code-quality-in-elixir-20f87efc7e66)
 * [SOLID Elixir - Georgina McFadyen (ElixirConf.EU 2018)](https://www.youtube.com/watch?v=eldYot7uxUc)
@@ -877,6 +883,7 @@ F
 #### ELIXIR - DEPLOYMENT - CONFIGURATION
 
 * [Config](https://hexdocs.pm/elixir/Config.html) | [Config.Provider](https://hexdocs.pm/elixir/Config.Provider.html) | [Config.Reader](https://hexdocs.pm/elixir/Config.Reader.html)
+* [Tips for Improving Your Elixir Configuration - Jason Axelson](https://felt.com/blog/elixir-configuration)
 * Confex - helper to read and use application configuration from environment variables - Nebo #15: [Github](https://github.com/Nebo15/confex)
 * Vapor - Runtime configuration system for Elixir - Chris Keathley: [Github](https://github.com/keathley/vapor) | [Configuring your Elixir Application at Runtime with Vapor - Devon Estes](https://blog.appsignal.com/2020/04/28/configuring-your-elixir-application-at-runtime-with-vapor.html)
 * Skogsrå - Library to manage OS environment variables and application configuration options with ease - GMT Prime Corp: [Github](https://github.com/gmtprime/skogsra) | [Article](https://dev.to/alexdesousa/skogsra-simplifying-your-elixir-configuration-35im) | [Docs](https://hexdocs.pm/skogsra/readme.html)
@@ -958,7 +965,10 @@ F
 ### ELIXIR - DESKTOP
 
 * [Elixir-Desktop: Elixir library to write Windows, macOS, Linux, Android apps with OTP24 & Phoenix.LiveView - ](https://github.com/elixir-desktop/desktop) | [Docs](https://hexdocs.pm/desktop/)
-* [Desktop example app](https://github.com/elixir-desktop/desktop-example-app)
+  * [desktop](https://github.com/elixir-desktop/desktop)
+  * [android-example-app](https://github.com/elixir-desktop/android-example-app)
+  * [desktop-example-app](https://github.com/elixir-desktop/desktop-example-app)
+  * [ios-example-app](https://github.com/elixir-desktop/ios-example-app)
 * [Convert Your Web App to a Desktop App With Elixir Desktop - Dominic Letz (CodeBEAM 2021)](https://www.youtube.com/watch?v=P6b-2RnPKBs)
 
 ### ELIXIR - DISTRIBUTION
@@ -1034,6 +1044,7 @@ F
 
 #### ELIXIR - ECTO - CUSTOM ECTO TYPES
 
+* [Exploring Options for Storing Custom Data in Ecto - Mark Ericksen](https://fly.io/phoenix-files/exploring-options-for-storing-custom-data-in-ecto/)
 * [Creating a Custom Ecto Duration Type - Christian Di Lorenzo](https://medium.com/@rcdilorenzo/creating-a-custom-ecto-duration-type-994e32ad4613)
 * [What is the difference between Ecto.Type’s cast and dump? - ElixirForum.com](https://elixirforum.com/t/what-is-the-difference-between-ecto-types-cast-and-dump/4855)
 * [Ecto type for IPv4 and IPv6 addresses - Pedro Assumpcao](https://pedroassumpcao.ghost.io/ecto-type-for-ipv4-and-ipv6-addresses/)
@@ -1432,6 +1443,13 @@ F
 * [Writing Rust NIFs for your Elixir code with the Rustler package - Jacob Lerche](https://medium.com/@jacob.lerche/writing-rust-nifs-for-your-elixir-code-with-the-rustler-package-d884a7c0dbe3)
 * A NIFty way to integrate Rust with Elixir - Dave Lucia (Elixir NYC 2019): [Pig Latin NIF](https://github.com/davydog187/pig_latin_nif) | [Basketball NIF](https://github.com/davydog187/basketball_nif) | [Slides](https://docs.google.com/presentation/d/1gKE2vpgMAGD3vBNtaGO4v4YJt_XCXCkcluFzAHnRZ2w/edit)
 
+#### ELIXIR - NIFS - ZIGLER
+
+* Zigler: Zig NIFs in Elixir - Isaac Yonemoto: [Github](https://github.com/ityonemo/zigler) | [Docs](https://hexdocs.pm/zigler/Zig.html)
+* [Zig (heart) Elixir - Isaac Yonemoto (ElixirConf 2021)](https://www.youtube.com/watch?v=lDfjdGva3NE)
+* [Why you should use Zig for your Elixir Nifs - Isaac Yonemoto](https://www.youtube.com/watch?v=IM_tO8hQgKA)
+* Zig: [Ziglang.org](https://ziglang.org/) | [Docs](https://ziglang.org/documentation/master/) | [Standard Library](https://ziglang.org/documentation/master/std/)
+
 ### ELIXIR - OBAN
 
 * [Oban: Robust job processing in Elixir, backed by modern PostgreSQL]()
@@ -1757,6 +1775,8 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ##### ELIXIR - PHOENIX - LIVE VIEW - JAVASCRIPT INTEROP
 
+* [Loading Indicators for Events With JS.push](https://fly.io/phoenix-files/js-push-loading-options/)
+* [Pushing Events: With and Without JS.push - Berenice Medel & Chris Nicoll](https://fly.io/phoenix-files/pushing-events-with-js-push/)
 * [Client-Side Tabs in LiveView With JS Commands - Berenice Medel & Chris Nicoll](https://fly.io/phoenix-files/tabs-with-js-commands/)
 * [LiveView Feels Faster With a Delayed Loading Indicator - Mark Ericksen](https://fly.io/phoenix-files/make-your-liveview-feel-faster/)
 * [Taking LiveView's JS commands for a spin - German Velasco](https://www.germanvelasco.com/blog/taking-liveview-js-commands-for-a-spin)
@@ -1919,6 +1939,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - PROCESSES
 
+* [The Process: 7-part series on Elixir Concurrency - Isaac Yonemoto](https://www.youtube.com/playlist?list=PLf5mA1y1vDNn87lxJ4yCm4XyYPLUodaM4)
 * Alvise Susmel: [Spawning processes in Elixir, a gentle introduction to concurrency](https://www.poeticoding.com/spawning-processes-in-elixir-a-gentle-introduction-to-concurrency/) | [Hey Process, there is a Message for you!](https://www.poeticoding.com/hey-process-there-is-a-message-for-you/) | [The Primitives of Elixir Concurrency: a Full Example](https://www.poeticoding.com/the-primitives-of-elixir-concurrency-full-example/)
 * Samuel Mullen: Elixir Processes: [Spawn, Send, and Receive](https://samuelmullen.com/articles/elixir-processes-send-and-receive/) | [Elixir, Poolboy, and Little's Law](https://samuelmullen.com/articles/elixir-poolboy-and-littles-law/) | [Linking and Monitoring](https://samuelmullen.com/articles/elixir-processes-linking-and-monitoring/) | [Observability](https://samuelmullen.com/articles/elixir-processes-observability/) | [Testing](https://samuelmullen.com/articles/elixir-processes-testing/)
 
@@ -2005,6 +2026,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - STRINGS
 
+* [Unicode, Charsets, Strings, and Binaries - Marc Sugiyama (Code BEAM V)](https://www.youtube.com/watch?v=mjl83S13qgQ)
 * [Elixir string interpolation for the Rubyist (and others) - Henrik Nyh](http://thepugautomatic.com/2016/01/elixir-string-interpolation-for-the-rubyist/)
 
 ### ELIXIR - TELEMETRY
@@ -2547,6 +2569,11 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ERLANG - REGISTRIES - SYN
 
 * Syn: scalable global Process Registry and Process Group manager for Erlang and Elixir, able to automatically manage dynamic clusters (addition / removal of nodes) and to recover from net splits - Roberto Ostinelli: [Documentation](https://hexdocs.pm/syn/readme.html) | [Github](https://github.com/ostinelli/syn)
+
+### ERLANG - SOCKET API
+
+* [Erlang Socket API documentation](https://www.erlang.org/doc/man/socket.html)
+* [An introduction to the new socket API - Raimo Niskanen (Code BEAM V 2020)](https://www.youtube.com/watch?v=0qekJmiBd2U)
 
 ### ERLANG - SSL
 

@@ -1213,6 +1213,7 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 #### DEVOPS - KUBERNETES - ROLE-BASED ACCESS CONTROL (RBAC)
 
+* [Limiting access to Kubernetes resources with RBAC - Arthur Chiao](https://learnk8s.io/rbac-kubernetes)
 * [Using RBAC Authorization - Kubernetes.io](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
 * [audit2rbac: Autogenerate RBAC policies based on Kubernetes audit logs - Jordan Liggitt](https://github.com/liggitt/audit2rbac)
 * [Kubernetes Identity Management: Authentication - Marc Boorshtein](https://www.linuxjournal.com/content/kubernetes-identity-management-authentication)

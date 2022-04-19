@@ -636,6 +636,7 @@ After this page grew too large (when Github started truncating it), I split out 
 * [Documentation](https://developer.chrome.com/extensions) | [Extensions APIs](https://developer.chrome.com/extensions/api_index) | [Overview](https://developer.chrome.com/extensions/overview) | [Examples](https://developer.chrome.com/extensions/samples) | [CodeLab](https://developer.chrome.com/apps/app_codelab_intro) | [Developer's Guide](https://developer.chrome.com/extensions/devguide)
 * [Javascript APIs](https://developer.chrome.com/extensions/api_index)
 * [How to Make a Chrome Extension - Gabe Berke-Williams](https://robots.thoughtbot.com/how-to-make-a-chrome-extension)
+* [Create a Google Chrome Extension (For Beginners) - iEatWebsites](https://www.youtube.com/watch?v=uV4L-wcnK3Y)
 * [Extensionizr: Start a Chrome extension in 15 seconds](http://extensionizr.com)
 
 #### BROWSERS - PLUGINS/EXTENSIONS - FIREFOX
@@ -1234,8 +1235,14 @@ After this page grew too large (when Github started truncating it), I split out 
 * [How To Make a Slide Out Navigation with HTML/CSS (No JavaScript)](https://www.youtube.com/watch?v=d4P8s-mkMvs)
 * [Smashing Magazine](https://www.smashingmagazine.com/)
 
+### CSS - EMMET
+
+* [Docs.Emmet.io](https://docs.emmet.io/) | [Cheatsheet](https://docs.emmet.io/cheat-sheet/)
+* [Emmet For Faster HTML & CSS Workflow - Traversy Media](https://www.youtube.com/watch?v=5BIAdWNcr8Y)
+
 ### CSS - FLEXBOX
 
+* [Flexbox Crash Course 2022 - Traversy Media](https://www.youtube.com/watch?v=3YW65K6LcIA)
 * [What the Flexbox?!: 20-video course that will help you master CSS Flexbox - Wes Bos](https://flexbox.io/)
 * [CSS Flexbox Course - freeCodeCamp.org](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
 * CSS Flexbox Tutorial for Beginners | Basics & Container - Academind: [1 of 2](https://www.youtube.com/watch?v=siKKg8Y_tQY) & [2 of 2](https://www.youtube.com/watch?v=RdlEEfx912M)
@@ -1249,6 +1256,7 @@ After this page grew too large (when Github started truncating it), I split out 
 
 ### CSS - GRID
 
+* [CSS Grid Crash Course 2022 - Traversy Media](https://www.youtube.com/watch?v=0xMQfnTU6oo)
 * [CSS Grid: From fundamentals to real world in about four hours - Wes Bos](https://cssgrid.io/)
 * [Grid By Example - Rachel Andrew](https://gridbyexample.com/)
 * [Experimental Layout Lab of Jen Simmons](https://labs.jensimmons.com/)
@@ -1900,6 +1908,22 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [TutorialsPoint.com](http://www.tutorialspoint.com/sql/index.htm)
 * [Advanced SQL and database books and resources - Neil Sainsbury](https://www.neilwithdata.com/advanced-sql)
 
+### DATABASES - SQLITE
+
+* SQLite3 Tutorial - Derek Banas: [Part 1](https://www.youtube.com/watch?v=QjICgmk31js) | [Part 2: Creating Databases, Tables, etc.](https://www.youtube.com/watch?v=dBnOn17pI7c), etc.
+* [Advanced SQLite - WAL, BLOB, In-Memory DB, Triggers, Pragma statement... - Paul Lefebvre (2016)](https://www.youtube.com/watch?v=lqy9SEWRr8Y)
+
+#### DATABASES - SQLITE - ARCHITECTURE/DESIGN
+
+* [SQLite crash course: SQLite Tutorial for Beginners - D. Richard Hipp](https://www.youtube.com/watch?v=rtCgnHdRSk0)
+
+#### DATABASES - SQLITE - DB BROWSER
+
+* [DB Browser for SQLite](https://sqlitebrowser.org/) | [Install/Download](https://sqlitebrowser.org/dl/) | [Wiki](https://github.com/sqlitebrowser/sqlitebrowser/wiki)
+* [Create and Read SQLite Databases using DB Browser: How to Use DB Browser 2021 - BoostMyTool](https://www.youtube.com/watch?v=b0Dplx4M5zg)
+* [Intro to DB Browser to SQLite - Gavin Off](https://www.youtube.com/watch?v=5bhyEunPafM&t=45s)
+* [DB Browser for SQLite - MainlyWebStuff](https://www.youtube.com/playlist?list=PLU70qqWW4frGdwNh4czgTrCrHvPhyt2aI)
+
 ### DATABASES - STREAMING REPLICATION
 
 * [Open-Sourcing Yelp's Data Pipeline - Yelp](https://engineeringblog.yelp.com/2016/11/open-sourcing-yelps-data-pipeline.html) | [MySQL Streamer](https://github.com/Yelp/mysql_streamer) | [Schematizer](https://github.com/Yelp/schematizer) | [Data pipeline client](https://github.com/Yelp/data_pipeline) | [Data pipeline Avro util](https://github.com/Yelp/data_pipeline_avro_util) | [Kafka library](https://github.com/Yelp/yelp_kafka)
@@ -1922,6 +1946,10 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 * [Time Series Database Lectures #6 - Mike Freedman (TimescaleDB) @ Carnegie Mellon Database Group](https://www.youtube.com/watch?v=IaZ4hJ3G7wc&index=6&list=PLSE8ODhjZXjY0GMWN4X8FIkYNfiu8_Wl9)
 * [TimescaleDB: Fast And Scalable Timeseries - Ajay Kulkarni and Mike Freedman](https://www.dataengineeringpodcast.com/timescaledb-with-ajay-kulkarni-and-mike-freedman-episode-18/)
+
+### DATABASES - VIDEOS
+
+* [CMU Database Group](https://www.youtube.com/c/CMUDatabaseGroup/playlists)
 
 ## DESIGN
 
@@ -2663,6 +2691,11 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [A Rubyist's Guide to the Canvas API - H. Dean Hudson (CascadiaRuby 2012)](http://confreaks.tv/videos/1067-cascadiaruby2012-a-rubyist-s-guide-to-the-canvas-api)
 * [Mozilla MDN](https://developer.mozilla.org/en-US/docs/HTML/Canvas)
 
+### HTML5 - EMMET
+
+* [Docs.Emmet.io](https://docs.emmet.io/) | [Cheatsheet](https://docs.emmet.io/cheat-sheet/)
+* [Emmet For Faster HTML & CSS Workflow - Traversy Media](https://www.youtube.com/watch?v=5BIAdWNcr8Y)
+
 ### HTML5 - HYBRID APPS
 
 #### HTML5 - HYBRID APPS - CAPACITOR
@@ -2943,6 +2976,11 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Socat: A very powerful networking tool - Jesus Castello](https://www.blackbytes.info/2012/07/socat-cheatsheet/)
 * [Hands-on learning about network protocols using socat - Volker Schatz](http://www.volkerschatz.com/net/socatproc.html)
 * [Securing Traffic Between two Socat Instances Using SSL - Gerhard Rieger](http://www.dest-unreach.org/socat/doc/socat-openssltunnel.html)
+
+#### LINUX - NETWORKING - SOCKETS
+
+* [Introduction to TCP/IP and Sockets, part 1: Introducing the protocols and API - Rhymu's Videos](https://www.youtube.com/watch?v=C7CpfL1p6y0)
+* [Introduction to TCP/IP and Sockets, part 2: Example code Walk-Through - Rhymu's Videos](https://www.youtube.com/watch?v=OuYPe_HcLWc)
 
 #### LINUX - NETWORKING - WIRESHARK
 
@@ -3643,6 +3681,10 @@ Peter R. Egli:
 
 * [PostgREST - REST API for any Postgres database](https://github.com/begriffs/postgrest)
 
+### POSTGRESQL - PUB/SUB
+
+* [System design hack: Postgres is a great pub/sub & job server - Colin Chartier](https://webapp.io/blog/postgres-is-the-answer/)
+
 ### POSTGRESQL - REPLICATION
 
 * Streaming Replication (Postgresql.org): [Wiki](https://wiki.postgresql.org/wiki/Streaming_Replication) | [Docs: Replication](https://www.postgresql.org/docs/13/runtime-config-replication.html) | [Docs: Streaming Replication](https://www.postgresql.org/docs/13/warm-standby.html#STREAMING-REPLICATION) | [Docs: Streaming Replication Protocol](https://www.postgresql.org/docs/13/protocol-replication.html) | [Docs: Logical Streaming Replication Protocol](https://www.postgresql.org/docs/13/protocol-logical-replication.html)
@@ -3934,6 +3976,7 @@ Peter R. Egli:
 * [CS50: Intro to Computer Science - David J. Malan (Harvard)](http://cs50.tv/) & [edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 * [Fun Fun Function - Mattias Petter Johansson, a.k.a. "mpj"](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 * [I Love Coding](https://ilovecoding.org/) (Registration required)
+* [Open Source Society University](https://github.com/ossu/computer-science)
 * [Upcase - Thoughtbot](https://thoughtbot.com/upcase)
 * [WatchMeCode.net](https://sub.watchmecode.net/) (Registration required)
 
@@ -4617,9 +4660,14 @@ Peter R. Egli:
 
 ### SCIENCE - BIOLOGICAL INTELLIGENCE
 
+* [The electrical blueprints that orchestrate life - Michael Levin (TED)](https://www.youtube.com/watch?v=XheAMrS8Q1c)
 * [Modular cognition: Powerful tricks from computer science and cybernetics show how evolution ‘hacked’ its way to intelligence from the bottom up - Michael Levin & Rafael Yuste](https://aeon.co/essays/how-evolution-hacked-its-way-to-intelligence-from-the-bottom-up)
+* [Collective intelligence of cell swarms - Prof. Michael Levin (AI Forward Forum)](https://www.youtube.com/watch?v=ZmRaIQOlxTY)
+* [Frontier Science #9 - Bioelectrics✨ w/ Michael Levin - Prof @ Tufts / @Wyss Institute | BIOS](https://www.youtube.com/watch?v=Rhd-a-fNJaM)
 * [The cognitive cell: Bacterial behavior reconsidered - Pamela Lyon](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4396460/pdf/fmicb-06-00264.pdf)
 * [Top-down models in biology: explanation and control of complex living systems above the molecular level - Giovanni Pezzulo & Michael Levin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5134011/pdf/rsif20160555.pdf)
+* [Endogenous Bioelectric Networks & Regenerative Medicine - Michael Levin (Osher Center for Integrative Medicine)](https://www.youtube.com/watch?v=HKWyB9qLP_s)
+* [Bioelectric Networks: Taming the Collective Intelligence of Cells for Regenerative Medicine - Michael Levin (Foresight Institute)](https://www.youtube.com/watch?v=41b254BcMJM)
 * [Living Things Are Not (20th Century) Machines: Updating Mechanism Metaphors in Light of the Modern Science of Machine Behavior - Joshua Bongard & Michael Levin](https://www.frontiersin.org/articles/10.3389/fevo.2021.650726/full)
 * [Technological Approach to Mind Everywhere (TAME): an experimentally- grounded framework for understanding diverse bodies and minds - Michael Levin](https://psyarxiv.com/t6e8p)
 * [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition - Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full)
