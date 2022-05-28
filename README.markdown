@@ -653,6 +653,7 @@ After this page grew too large (when Github started truncating it), I split out 
 ### BROWSERS - WEBRTC
 
 * [WebRTC Crash Course - Hussein Nasser](https://www.youtube.com/watch?v=FExZvpVvYxA)
+* [Web RTC Full Course & More - Dennis Ivy](https://www.youtube.com/watch?v=QsH8FL0952k)
 * [High Performance Browser Networking](https://hpbn.co/)
 * [WebRTC.org](https://webrtc.org/)
 * [WebRTCHacks.com](https://webrtchacks.com/)
@@ -2012,6 +2013,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 ## DISTRIBUTED PROGRAMMING
 
+* [Distributed Systems lecture series - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 * [Why Are Distributed Systems so Hard? - Denise Yu (GOTO Chicago 2020)](https://www.youtube.com/watch?v=IzbYUjPAm5A) | [(InfoQ)](https://www.youtube.com/watch?v=w9GP7MNbaRc)
 * [Distributed Systems in One Lesson - Tim Berglund (Devoxx Poland)](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) | [(Devoxx Poland 2017)](https://www.youtube.com/watch?v=OJwp4kroTM8)
 * [What happened to distributed programming languages? - Heather Miller (Papers We Love Conference 2017)](https://www.youtube.com/watch?v=eAcDWcaezXY)
@@ -3717,6 +3719,11 @@ Peter R. Egli:
 
 * TimescaleDB: open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension: [Github](https://github.com/timescale/timescaledb/) | [Timescale.com](http://www.timescale.com/)
 
+### POSTGRESQL - TWO-PHASE COMMIT
+
+* [Two-phase commits for logical replication publications/subscriptions - Ajin Cherian](https://www.postgresql.fastware.com/blog/two-phase-commits-for-logical-replication-publications-subscriptions)
+* [Distributed Systems 7.1: Two-phase commit - Martin Kleppmann](https://www.youtube.com/watch?v=-_rdWB9hN1c)
+
 ### POSTGRESQL - VIDEOS
 
 * PostgresOpen: [2019](https://www.youtube.com/playlist?list=PLN8NEqxwuywS21f8_sJbD0jd0leC-waca) | [2018](https://www.youtube.com/playlist?list=PLN8NEqxwuywTzv69eAVgeZ5YO_4q_LJM_) | [2017](https://www.youtube.com/playlist?list=PLN8NEqxwuywQgN4srHe7ccgOELhZsO4yM) | [2016](https://www.youtube.com/playlist?list=PLN8NEqxwuywTaXp0v5O-iO-mBaFb5k8nI) | [2014](https://www.youtube.com/playlist?list=PLN8NEqxwuywQtBouzmMrlRzr2nS-n0sFE) | [2014](https://www.youtube.com/playlist?list=PLN8NEqxwuywQtBouzmMrlRzr2nS-n0sFE) | [2013](https://www.youtube.com/playlist?list=PLN8NEqxwuywTmoKshsOJrKq5pszVzRa17) | [2013 tutorials](https://www.youtube.com/playlist?list=PLN8NEqxwuywQmlcjjzNGD68PGG2-N5TBf) | [2012](https://www.youtube.com/playlist?list=PLN8NEqxwuywTdPQ4Zje3OcWRmvL3Q_QWc)
@@ -4013,6 +4020,7 @@ Peter R. Egli:
 
 #### PROGRAMMING - MESSAGING & QUEUES - RABBITMQ
 
+* [Migrating from Kafka to RabbitMQ at SimpleBet: Why and How - David Lucia (RabbitMQ Summit 21)](https://www.youtube.com/watch?v=dmBdFh5N1g4)
 * [Reliable Messaging With RabbitMQ - Part 1 - JimOnDemand](https://www.youtube.com/watch?v=XjuiZM7JzPw)
 * [RabbitMQ Simulator](http://tryrabbitmq.com/)
 * [Learnings from Running 1000s of Production RabbitMQ Clusters - Lovisa Johansson (RabbitMQ Summit)](https://www.youtube.com/watch?v=nxQrpLfX3rs)
@@ -4672,6 +4680,10 @@ Peter R. Egli:
 * [Technological Approach to Mind Everywhere (TAME): an experimentally- grounded framework for understanding diverse bodies and minds - Michael Levin](https://psyarxiv.com/t6e8p)
 * [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition - Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full)
 
+### SCIENCE - CHEMISTRY
+
+* [Just Have a Think](https://www.youtube.com/c/JustHaveaThink/playlists)
+
 ## SCIENCE FICTION (SCI FI)
 
 * [Mindwebs: Science Fiction stories read by Michael Hanson](https://archive.org/details/MindWebs_201410/)
@@ -4682,6 +4694,7 @@ Peter R. Egli:
 
 ## SECURITY
 
+* [Cybersecurity: How Far Up the Creek Are We? - James Mickens and Jonathan Zittrain](https://www.youtube.com/watch?v=9WP2p3Stncs)
 * [These researchers wanted to test cloud security. They were shocked by what they found - Danny Palmer](https://www.zdnet.com/article/these-researchers-wanted-to-test-cloud-security-they-were-shocked-by-what-they-found/) | [Observing Attacks Against Hundreds of Exposed Services in Public Clouds - PaloAlto Networks](https://unit42.paloaltonetworks.com/exposed-services-public-clouds/)
 * [Frank Abagnale: "Catch Me If You Can" | Talks at Google](https://www.youtube.com/watch?v=vsMydMDi3rI)
 * [The Thoughtbot Guide to Application Security - Mike Burns](https://github.com/thoughtbot/guides/blob/master/security/application.md)
@@ -5047,6 +5060,7 @@ Peter R. Egli:
 ### VPN (VIRTUAL PRIVATE NETWORK) - WIREGUARD
 
 * [What is Wireguard? Explaining a New VPN Protocol and How it Compares to OpenVPN - All Things Secured](https://www.youtube.com/watch?v=mxpHRdO4rDU)
+* [Basic Site-to-Site VPN Using WireGuard and pfSense - Christian McDonald](https://www.youtube.com/watch?v=2oe7rTMFmqc)
 * [Our User-Mode WireGuard Year - Thomas Ptacek](https://fly.io/blog/our-user-mode-wireguard-year/)
 * [WireGuard: Next Generation Secure Network Tunnel - Jason Donenfeld](https://www.youtube.com/watch?v=88GyLoZbDNw)
 

@@ -7,6 +7,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 ## JAVASCRIPT
 
 * [The Modern JavaScript Tutorial - Javascript.info](https://javascript.info/)
+  * [Walking the DOM](https://javascript.info/dom-navigation)
 * Mozilla MDN: [Web](https://developer.mozilla.org/en-US/docs/Web) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * [Front-end Developer Handbook - FrontendMasters.com](https://frontendmasters.com/books/front-end-handbook/2019/)
 * [Khan Academy computer programming](https://www.khanacademy.org/computing/computer-programming)
@@ -624,6 +625,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 
 ### JAVASCRIPT - RXJS
 
+* [RxJS Crash Course - Laith Harb](https://www.youtube.com/watch?v=tGWBy6Vqq9w)
 * André Staltz: [RxJS v4.0 book](https://xgrommx.github.io/rx-book/) & [Introduction to Reactive Programming (videos on Egghead.io)](https://egghead.io/courses/introduction-to-reactive-programming)
 * [RxJS 5 Thinking Reactively - Ben Lesh (Angular Connect 2016)](https://www.youtube.com/watch?v=3LKMwkuK0ZE)
 * [Rxjs 5 Ultimate - Chris Noring](https://legacy.gitbook.com/book/chrisnoring/rxjs-5-ultimate/details)

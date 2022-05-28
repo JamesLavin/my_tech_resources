@@ -763,6 +763,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - DATA PIPELINES - GENSTAGE & FLOW
 
+* [ElixirConf 2016 Keynote - José Valim](https://www.youtube.com/watch?v=srtMWzyqdp8)
 * [Robust Data Processing Pipeline with Elixir and Flow - Laszlo Bacsi (ElixirConf EU 2018)](https://www.youtube.com/watch?v=3XL-31nqcX4)
 * [Elixir Flow - Renato Freire (Montreal Elixir)](https://www.youtube.com/watch?v=cgIu6q56xh8)
 * [Lessons From Our First Trillion Messages with Flow - John Mertens (EMPEX LA 2019)](https://www.youtube.com/watch?v=b342YwOzIjI) & [ElixirConf EU 2019](https://www.youtube.com/watch?v=t46L9RKmlNo)
@@ -785,6 +786,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - DEBUGGING
 
+* [Debugging Elixir Code: The Tools, The Mindset - Michal Buszkiewicz (ElixirConf EU 2021)](https://www.youtube.com/watch?v=x9OMlrrKYyE)
 * [Love Your Crash Dumps - Michał Ślaski (ElixirConf EU 2021)](https://www.youtube.com/watch?v=wyjWR731uSU)
 * [Three Ways to Debug Code in Elixir - Pulkit Goyal](https://blog.appsignal.com/2021/11/30/three-ways-to-debug-code-in-elixir.html)
 * [How to Use IEx.pry in Elixir Tests - Adam Delong](https://adamdelong.com/iex-pry-test/)
@@ -810,6 +812,7 @@ Links to resources I have found useful or think might be helpful to future me or
 F
 ### ELIXIR - DEPLOYMENT
 
+* [Overlays: Copy extra files to release root after release assembly](https://hexdocs.pm/mix/Mix.Tasks.Release.html#module-overlays)
 * [From Zero to Elixir Deployment - Philipp Schmieder (ElixirConf EU 2019)](https://www.youtube.com/watch?v=Noawmmd6yxM)
 * [Quick Glance @ Elixir 1.9 Releases feature - Blackode](https://medium.com/@blackode/quick-glance-elixir-1-9-releases-feature-b6dfce233e71)
 * [A GitHub workflow for Elixir releases - Richard Taylor](https://www.richardtaylor.dev/articles/github-workflow-elixir-releases)
@@ -956,11 +959,22 @@ F
 
 * [setup-elixir - Set up your GitHub Actions workflow with OTP and Elixir - Erlang Ecosystem Foundation](https://github.com/erlef/setup-elixir)
 
+#### ELIXIR - DEPLOYMENT - HANDLE_CONTINUE
+
+* [handle_continue/2](https://hexdocs.pm/elixir/1.13/GenServer.html#c:handle_continue/2) & [init/1's {:continue, term()}](https://hexdocs.pm/elixir/1.13/GenServer.html#c:init/1)
+* [TIL GenServer’s handle_continue/2 - Sophie DeBenedetto](https://elixirschool.com/blog/til-genserver-handle-continue/)
+* [Intro to handle_continue in Elixir (and when to use it) - Tyler Pachal](https://tylerpachal.medium.com/introduction-to-handle-continue-in-elixir-and-when-to-use-it-53ba5519cc17)
+
 #### ELIXIR - DEPLOYMENT - KUBERNETES
 
 * [BEAM and Kubernetes: Better together? - Cory O'Daniel (Code BEAM SF 20)](https://www.youtube.com/watch?v=Nv6GfEGv0kc)
 * [Deploying Phoenix to Kubernetes From Scratch - Dan Quan](https://quan.io/blog/deploying-phoenix-to-kubernetes-from-scratch/)
 * [Kubernetes and the Erlang VM: orchestration on the large and the small - José Valim](http://blog.plataformatec.com.br/2019/10/kubernetes-and-the-erlang-vm-orchestration-on-the-large-and-the-small/)
+
+#### ELIXIR - DEPLOYMENT - START_PHASE
+
+* [Application.start_phase/3: called after start/2 finishes but before Application.start/2 returns](https://hexdocs.pm/elixir/Application.html#c:start_phase/3)
+* [Change my mind: Migrations in a start phase - Overbyrd (Lukas Rieder)](https://elixirforum.com/t/change-my-mind-migrations-in-a-start-phase/26337)
 
 ### ELIXIR - DESKTOP
 
@@ -1198,6 +1212,7 @@ F
 * [Parsing from first principles - Saša Jurić (WebCamp Zagreb 2019)](https://www.youtube.com/watch?v=xNzoerDljjo)
 * [Function Currying in Elixir - Patrik Storm](http://blog.patrikstorm.com/function-currying-in-elixir)
 * [Follow-up: Function currying in Elixir - Milton Mazzarri](https://milmazz.uno/article/2017/09/19/function-currying-in-elixir/)
+* [Pathex: library for performing fast actions with nested data structures. Trivially set, get and update values in structures in a functional manner](https://github.com/hissssst/pathex)
 * [Lenses and Pattern Matching - Travis Poulsen](https://www.travispoulsen.com/blog/posts/2017-09-07-lenses-and-pattern-matching.html)
 * [Focus, an Elixir library for functional lenses - Travis Poulsen](https://www.travispoulsen.com/blog/posts/2017-02-19-Focus-and-Functional-Lenses.html)
 * [Currying packages](https://hex.pm/packages?search=curry&sort=downloads)
@@ -1235,7 +1250,7 @@ F
 
 #### ELIXIR - GUIS - RATATOUILLE
 
-* [Ratatouille: TUI (terminal UI) kit for Elixir](https://github.com/ndreynolds/ratatouille) | [Docs](https://hexdocs.pm/ratatouille/api-reference.html)
+* [Ratatouille: TUI (terminal UI) kit for Elixir - Nick Reynolds](https://github.com/ndreynolds/ratatouille) | [Docs](https://hexdocs.pm/ratatouille/api-reference.html)
 * [Termbox API: Library for writing text-based user interfaces](https://github.com/nsf/termbox)
 * [ex_termbox](https://github.com/ndreynolds/ex_termbox)
 
@@ -1701,8 +1716,10 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ELIXIR - PHOENIX - JSON
 
 * [Awesome Elixir: JSON](https://github.com/h4cc/awesome-elixir#json)
+* [JSON API with Phoenix 1.4 - ElixirCasts.io](https://elixircasts.io/json-api-with-phoenix-1.4)
 * [Yet Another Guide To Build a JSON API with Phoenix 1.5 - Tamas Soos](https://www.poeticoding.com/another-guide-to-build-a-json-api-with-phoenix-1-5/)
 * A Phoenix and Elixir REST API - Bill Peregoy: [Part 1](https://becoming-functional.com/building-a-rest-api-with-phoenix-and-elixir-b12dcec302c5) | [Part 2](https://becoming-functional.com/a-phoenix-and-elixir-rest-api-part-2-dc00e8b73c9d)
+* [Using Ecto changesets for JSON API request parameter validation - Martin Nijboer](https://dev.to/martinthenth/using-ecto-changesets-for-json-api-request-parameter-validation-3po)
 * [Building and testing a Phoenix JSON API - Paul Smith (Thoughtbot)](https://robots.thoughtbot.com/building-a-phoenix-json-api)
 
 #### ELIXIR - PHOENIX - LIVE VIEW
@@ -2329,6 +2346,10 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Immutability for Concurrency - Francesco Cesarini (YOW! Lambda Jam 2020)](https://www.youtube.com/watch?v=vsevLAXqgfE)
 * [Communicating Sequential Processes - C.A.R. Hoare, 1978](https://spinroot.com/courses/summer/Papers/hoare_1978.pdf)
 
+### ERLANG - CONTRIBUTING
+
+* [Everything you need to know to start contributing to Erlang today! - Vlacheslav Katsuba](https://medium.com/erlang-battleground/all-you-need-to-know-to-start-contributing-to-erlang-2fcd5748319e)
+
 ### ERLANG - COWBOY
 
 * Cowboy: [Github](https://github.com/ninenines/cowboy) | [User Guide](http://ninenines.eu/docs/en/cowboy/HEAD/guide/)
@@ -2445,9 +2466,14 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ERLANG - HISTORY
 
 * [An Evening at Erlang Factory: Joe Armstrong, Mike Williams, Robert Virding - Hackers / Founders](https://www.youtube.com/watch?v=rYkI0_ixRDc)
+* [Keynote: History of philosophy of Erlang with its creators - Bjarne Däcker, Mike Williams, and Robert Virding (Code BEAM V America 2021)](https://www.youtube.com/watch?v=-j_vy9zq3EY)
+* [Concurrency before Erlang - Bjarne Däcker (Code BEAM V America 2021)](https://www.youtube.com/watch?v=cg9CphowQiM)
+* [Concurrency before Erlang - Bjarne Däcker (Code Mesh LDN 19)](https://www.youtube.com/watch?v=Kh28YwzZkMM)
 * [26 years with Erlang or How I got my grey hairs - Joe Armstrong](https://www.youtube.com/watch?v=HCwRGHj5jOE)
 * [How we program multicores - Joe Armstrong (RISE SICS 2016)](https://www.youtube.com/watch?v=bo5WL5IQAd0)
 * [If at first you don't succeed - Mike Wiliams and Fred Herbert (Code BEAM V Europe 21)](https://www.youtube.com/watch?v=M5NSxVWkvsg)
+* [Joe Armstrong interviews Alan Kay - Erlang Solutions](https://www.youtube.com/watch?v=fhOHn9TClXY)
+* [Keynote: The Forgotten Ideas in Computer Science - Joe Armstrong (Code BEAM SF 2018)](https://www.youtube.com/watch?v=-I_jE0l7sYQ)
 * [Erlang: The Movie](https://www.youtube.com/watch?t=113&v=xrIjfIjssLE)
 * [Erlang: The Movie II: The Sequel](https://www.youtube.com/watch?v=rRbY3TMUcgQ)
 
@@ -2701,6 +2727,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [LFE.io](https://lfe.io/)
 * [The LFE Tutorial](https://lfe.io/books/tutorial/)
+* [Sound on BEAM: Music in the Land of Distributed Lisp - Duncan McGreggor (Code BEAM V America 2021)](https://www.youtube.com/watch?v=YjxWuJN5pH0)
 * [LFE Quick Start with rebar3_lfe - Duncan McGreggor](https://lfe.io/books/rebar3-quick-start/)
 * [Casting SPELs in LFE - Conrad Barski, M.D. & Duncan McGreggor](https://lfe.io/books/casting-spels/)
 * [Command Reference rebar3_lfe](https://lfe.io/reference/lfe-rebar3/current/)
