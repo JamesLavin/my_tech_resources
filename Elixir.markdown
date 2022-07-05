@@ -1362,6 +1362,8 @@ F
 ##### ELIXIR - MACHINE LEARNING - NX - AXON
 
 * [Axon: NX-powered neural networks](https://github.com/elixir-nx/axon)
+  * [axon_onnx: Easily convert models between ONNX and Axon](https://github.com/elixir-nx/axon_onnx)
+* [JIT/GPU accelerated deep learning for Elixir with Axon v0.1](https://seanmoriarity.com/2022/06/16/jit-gpu-accelerated-deep-learning-for-elixir-with-axon-v0-1/)
 * [Predicting fuel efficiency with Elixir, Nx, and Axon: a gentle introduction to Machine Learning](https://bitfield.co/posts/machine-learning-in-elixir-with-nx-and-axon/)
 
 ##### ELIXIR - MACHINE LEARNING - NX - SCIDATA
@@ -2013,6 +2015,7 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ELIXIR - SECURITY
 
 * Erlang Ecosystem Foundation: [Security Working Group](https://erlef.org/wg/security) | [Secure Coding & Deployment Hardening Guidelines](https://erlef.github.io/security-wg/secure_coding_and_deployment_hardening/) | [Github](https://erlef.github.io/security-wg/)
+* [Elixir’s best practices: Achieve secure authentication - Stéphane Robino](https://medium.com/wttj-tech/elixirs-best-practices-achieve-secure-authentication-8961f60effc7)
 * [Off BEAM Secure software development - Bram Verburg (Code BEAM SF 2020)](https://www.youtube.com/watch?v=9saBEk6UFY0)
 * [Learn you some ':ssl' for much security! Bram Verburg (ElixirConfEU 2019)](https://www.youtube.com/watch?v=0jzcPnsE4nQ)
 * [How to destroy your application using :erlang.binary_to_term/1 - Davide Bettio](https://blog.ispirata.com/how-to-destroy-your-application-using-erlang-binary-to-term-1-575ff7d05333)
