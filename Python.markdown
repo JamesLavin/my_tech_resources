@@ -614,6 +614,7 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 * [Python Tutor: Visualize Python code execution - Philip Guo](http://www.pythontutor.com/visualize.html)
 * [Gotcha — Mutable default arguments](http://pythonconquerstheuniverse.wordpress.com/2012/02/15/mutable-default-arguments/) & [Common Gotchas](http://docs.python-guide.org/en/latest/writing/gotchas/)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
+* [Python Tutorial for Beginners - Scaler Topics](https://www.scaler.com/topics/python)
 
 #### PYTHON - LEARNING - BOOKS (FREE)
 
