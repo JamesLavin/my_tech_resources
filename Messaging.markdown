@@ -262,7 +262,10 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 #### MESSAGING - RABBITMQ - STREAMS
 
+* [Introducing Stream Support In RabbitMQ - Erlang Admin](https://www.erlang-solutions.com/blog/introducing-stream-support-in-rabbitmq%ef%bf%bc/)
 * [Introducing stream support in RabbitMQ - Arnaud Cogoluègnes (RabbitMQ Summit 21)](https://www.youtube.com/watch?v=PnmGoMiaJhE)
+* [RabbitMQ Streams: The Architectural Possibilities - Alastair Turner](https://www.youtube.com/watch?v=P2oQxzLNSLY) (horrible video quality, 360p)
+* [Panel discussion: The new RabbitMQ Streams (RabbitMQ Summit 2021)](https://www.youtube.com/watch?v=dhhr2LVPF1c)
 
 #### MESSAGING - RABBITMQ - VIDEOS
 

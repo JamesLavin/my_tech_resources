@@ -210,6 +210,20 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Tzdata (timezone database)](https://hexdocs.pm/tzdata/readme.html)
 * [UUID](https://hexdocs.pm/uuid/readme.html)
 
+### ELIXIR - 1.14
+
+* [Elixir v1.14 released - Andrea Leopardi](https://elixir-lang.org/blog/2022/09/01/elixir-v1-14-0-released/)
+  * [dbg](https://elixir-lang.org/blog/2022/09/01/elixir-v1-14-0-released/#dbg)
+  * [PartitionSupervisor](https://elixir-lang.org/blog/2022/09/01/elixir-v1-14-0-released/#partitionsupervisor)
+* [Elixir v1.14 - José Valim (ElixirConf 2022)](https://www.youtube.com/watch?v=KmLw58qEtuM)
+* [Release Notes](https://github.com/elixir-lang/elixir/releases/tag/v1.14.0)
+
+### ELIXIR - 1.13
+
+* [Elixir v1.13 released - José Valim](https://elixir-lang.org/blog/2021/12/03/elixir-v1-13-0-released/)
+  * [mix xref](https://elixir-lang.org/blog/2021/12/03/elixir-v1-13-0-released/#mix-xref)
+* [Release Notes](https://github.com/elixir-lang/elixir/releases/tag/v1.13.0)
+
 ### ELIXIR - 1.12
 
 * [Elixir v1.12 released - José Valim](https://elixir-lang.org/blog/2021/05/19/elixir-v1-12-0-released/)
@@ -1021,7 +1035,6 @@ F
 * [Diving into Ecto.Query - Willian Frantz (ElixirConf EU 2021)](https://www.youtube.com/watch?v=Hm34v0pVpX0)
 * [Embrace the Database With Ecto - Josh Branchaud (ElixirDaze 2017)](https://www.youtube.com/watch?v=fFqsMWmONN4)
 * Thinking in Ecto - Peter de Croos: [Part 1: Schemas and Changesets](http://cultofmetatron.io/2017/04/22/thinking-in-ecto---schemas-and-changesets/) | [Part 2: Queries and Relations](http://cultofmetatron.io/2017/04/25/thinking-in-ecto-part-2/)
-* [Understanding Associations in Elixir's Ecto - Andrew Scorpil (Nov 2020)](https://blog.appsignal.com/2020/11/10/understanding-associations-in-elixir-ecto.html)
 * [Ecto 2.1 Tip and Tricks - (Elixir Sydney)](https://www.youtube.com/watch?v=PGZ94AMMTPs)
 * [Ecto Without a Database - Greg Vaughn (Lonestar ElixirConf 2019)](https://www.youtube.com/watch?v=k_xDi7zAcNM)
 * [Things You Might Not Have Tried With Ecto - Luke Imhoff (Lonestar ElixirConf 2019)](https://www.youtube.com/watch?v=3EyDkiDzbj8)
@@ -1030,7 +1043,6 @@ F
 * [Automatic and manual Ecto migrations - Wojtek Mach](https://dashbit.co/blog/automatic-and-manual-ecto-migrations)
 * Lew Parker: [Diving into Ecto - 1](http://www.glydergun.com/diving-into-ecto/) | [Diving into Ecto - 2](http://www.glydergun.com/diving-into-ecto-part-2/) | [Ecto Query Library](http://www.glydergun.com/the-ecto-query-library/)
 * Understanding Elixir’s Ecto Querying DSL - Thomas Punt: [The Basics](https://www.sitepoint.com/understanding-elixirs-ecto-querying-dsl-the-basics/) | [Beyond the Basics](https://www.sitepoint.com/elixirs-ecto-querying-dsl-beyond-the-basics/)
-* [Preloading Nested Associations with Ecto - Greg Lazarev](https://robots.thoughtbot.com/preloading-nested-associations-with-ecto)
 * [Querying an Embedded Map in PostgreSQL with Ecto - David Bernheisel](https://robots.thoughtbot.com/querying-embedded-maps-in-postgresql-with-ecto)
 * [Ecto Embedded Schemas — Quick search through a JSONB array in PostgreSQL - Pedro Costa](https://coletiv.com/blog/ecto-embedded-schemas-search-jsonb-array-postgresql/)
 * [Up, Down, Up with Ecto Migrations - Josh Branchaud](https://hashrocket.com/blog/posts/up-down-up-with-ecto-migrations)
@@ -1055,6 +1067,13 @@ F
 * [Changelog](https://github.com/elixir-ecto/ecto/blob/master/CHANGELOG.md)
 * [Caching In Ecto v3.0 - Dockyard](https://dockyard.com/blog/2018/11/20/caching-in-ecto-v3-0)
 * A sneak peek at Ecto 3.0 - José Valim: [Breaking changes](http://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-breaking-changes/) | [Query improvements (part 1)](http://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-query-improvements-part-1/) | [Query improvements (part 2)](http://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-query-improvements-part-2/) | [Performance, migrations and more](http://blog.plataformatec.com.br/2018/10/a-sneak-peek-at-ecto-3-0-performance-migrations-and-more/)
+
+#### ELIXIR - ECTO - ASSOCIATIONS
+
+* [Understanding Associations in Elixir's Ecto - Andrew Scorpil (Nov 2020)](https://blog.appsignal.com/2020/11/10/understanding-associations-in-elixir-ecto.html)
+* [Ecto Associations in Phoenix LiveView: One to Many - Dennis Beatty](https://dennisbeatty.com/2019/08/20/ecto-associations-in-phoenix-liveview-one-to-many.html)
+* [Preloading Nested Associations with Ecto - Greg Lazarev](https://robots.thoughtbot.com/preloading-nested-associations-with-ecto)
+* [Association Defaults in Ecto - Slab](https://slab.com/blog/association-defaults-in-ecto/)
 
 #### ELIXIR - ECTO - CUSTOM ECTO TYPES
 
@@ -1176,6 +1195,7 @@ F
 
 #### ELIXIR - EVENT SOURCING/CQRS - COMMANDED
 
+* [Eventsourcing and CQRS in Elixir - Vasilis Spilka (ElixirConf EU 2021)](https://www.youtube.com/watch?v=NTzP_5CHqKk)
 * [An event-driven approach to building Elixir applications - Ben Smith (Code Elixir LDN 19)](https://www.youtube.com/watch?v=TdGxvekg6xM)
 * Commanded: [Github](https://github.com/commanded/commanded)
     * [EventStore: Event store using PostgreSQL for persistence](https://github.com/commanded/eventstore)
@@ -1606,19 +1626,33 @@ F
 * [Serving Plug: Building an Elixir HTTP server from scratch - Jeff Kreeftmeijer](https://blog.appsignal.com/2019/01/22/serving-plug-building-an-elixir-http-server.html)
 * [Elixir Style Guide](https://github.com/niftyn8/elixir_style_guide)
 
+#### ELIXIR - PHOENIX - 1.7
+
+* [Phoenix + LiveView Updates - Chris McCord (ElixirConf 2022)](https://www.youtube.com/watch?v=9-rqBLjr5Eo)
+
+#### ELIXIR - PHOENIX - 1.6
+
+* [Phoenix 1.6.0 Released - Chris McCord](https://www.phoenixframework.org/blog/phoenix-1.6-released)
+* [Phoenix 1.5.x to 1.6 upgrade instructions](https://gist.github.com/chrismccord/2ab350f154235ad4a4d0f4de6decba7b)
+* [Changelog](https://github.com/phoenixframework/phoenix/blob/v1.6/CHANGELOG.md)
+* [Upgrading to Phoenix 1.6 - ElixirCasts.io](https://elixircasts.io/upgrading-to-phoenix-1.6)
+
 #### ELIXIR - PHOENIX - 1.5
 
 * [Phoenix 1.4.x to 1.5.0 upgrade instructions - Chris McCord](https://gist.github.com/chrismccord/e53e79ef8b34adf5d8122a47db44d22f)
+* [Changelog](https://github.com/phoenixframework/phoenix/blob/v1.5/CHANGELOG.md)
 
 #### ELIXIR - PHOENIX - 1.4
 
 * [Let's do Elixir and Phoenix together - Chris McCord (ElixirConf EU 2018)](https://www.youtube.com/watch?v=MTT1Jl4Fs-E)
 * [Keynote: Phoenix - Gauging Progress - Chris McCord](https://www.youtube.com/watch?v=pfFpIjFOL-I)
+* [Changelog](https://github.com/phoenixframework/phoenix/blob/v1.4/CHANGELOG.md)
 * [Upgrading to Phoenix 1.4 - Zach Smith](https://medium.com/frame-io-engineering/upgrading-to-phoenix-1-4-f01b0e6af348)
 
 #### ELIXIR - PHOENIX - 1.3
 
 * [Phoenix 1.2.x to 1.3.0 Upgrade Instructions - Chris McCord](https://gist.github.com/chrismccord/71ab10d433c98b714b75c886eff17357)
+* [Changelog](https://github.com/phoenixframework/phoenix/blob/v1.3/CHANGELOG.md)
 * [Why changes in Phoenix 1.3 are so important? - Nikita Sobolev](https://medium.com/wemake-services/why-changes-in-phoenix-1-3-are-so-important-2d50c9bdabb9)
 
 #### ELIXIR - PHOENIX - ASSETS
@@ -1724,6 +1758,10 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Using Ecto changesets for JSON API request parameter validation - Martin Nijboer](https://dev.to/martinthenth/using-ecto-changesets-for-json-api-request-parameter-validation-3po)
 * [Building and testing a Phoenix JSON API - Paul Smith (Thoughtbot)](https://robots.thoughtbot.com/building-a-phoenix-json-api)
 
+#### ELIXIR - PHOENIX - LIVEBEATS
+
+* [Phoenix LiveView LiveBeats Demo - Chris McCord](https://www.youtube.com/watch?v=w3xq-t2hpHY)
+
 #### ELIXIR - PHOENIX - LIVE VIEW
 
 * Live View: [Documentation](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html) | [LiveComponent](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html) | [LiveViewTest](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveViewTest.html) | [mix phx.gen.live](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Live.html) | [API Reference](https://hexdocs.pm/phoenix_live_view/api-reference.html) | [Github](https://github.com/phoenixframework/phoenix_live_view)
@@ -1748,7 +1786,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Building Multiplayer Games with LiveView - Dorian Karter (ElixirConf 2020)](https://www.youtube.com/watch?v=0UnLZlMr1Ug)
 * [GeoRacer - a real-time multiplayer mobile game in Elixir in 6 weeks - Zack Kayser and Beau Heubach (Code BEAM SF 2020)](https://www.youtube.com/watch?v=5DGUqcd-HWQ)
 * [Rebuilding a complex web-app with Elixir and Phoenix LiveView | Mikkel Högh (Code BEAM V 2020)](https://www.youtube.com/watch?v=eWN2c4dLDTU)
-* [Opening Keynote: Phoenix LiveView Uploads - Chris McCord (ElixirConf 2020)](https://www.youtube.com/watch?time_continue=2&v=QJkopba8yyE)
+* [Opening Keynote: Phoenix LiveView Uploads - Chris McCord (ElixirConf 2020)](https://www.youtube.com/watch?time_continue=2&v=QJkopba8yyE) & [Phoenix LiveView Uploads Deep Dive - Chris McCord](https://www.youtube.com/watch?v=PffpT2eslH8)
 * [What's new in LiveView - Chris McCord | ElixirConfEU Virtual 2020](https://www.youtube.com/watch?v=VU1JMg9AbLQ)
 * [Phoenix LiveView: Multi-step forms - David Bernheisel](https://bernheisel.com/blog/liveview-multi-step-form/)
 * [Communicating between LiveViews on the same page - Henrik Nyh](https://thepugautomatic.com/2020/08/communicating-between-liveviews-on-the-same-page/)
@@ -1770,7 +1808,6 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Persistent session data via localStorage in Phoenix LiveView - Henrik Nyh](https://thepugautomatic.com/2020/05/persistent-session-data-via-localstorage-in-phoenix-liveview/)
 * [Building and Playing the Go Game with Phoenix LiveView - Jeff Kreeftmeijer](https://blog.appsignal.com/2019/06/18/elixir-alchemy-building-go-with-phoenix-live-view.html)
 * [Talking to the LiveView: Updating the Phoenix LiveViews from outside the process - Dorian Iacobescu](https://medium.com/@iacobson/talking-to-the-liveview-7a19f7e45522)
-* [Ecto Associations in Phoenix LiveView: One to Many - Dennis Beatty](https://dennisbeatty.com/2019/08/20/ecto-associations-in-phoenix-liveview-one-to-many.html)
 * [Phoenix LiveView Collection - Leandro Cesquini Pereira](https://medium.com/@leandrocesquini/phoenix-liveview-collection-8259f35ff2b0)
 * [Swapping React for Phoenix LiveView - Ed Ellson](https://medium.com/qixxit-development/swapping-react-for-phoenix-liveview-db6581f27a14)
 * [Concurrent ant farm with Elixir and Phoenix LiveView - Ricardo García Vega](http://codeloveandboards.com/blog/2019/03/28/concurrent-ant-farm-with-elixir-and-phoenix-liveview/) & [code](https://github.com/bigardone/phoenix-liveview-ant-farm)
@@ -1794,6 +1831,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ##### ELIXIR - PHOENIX - LIVE VIEW - JAVASCRIPT INTEROP
 
+* [Triggering repeatable animations from the server in LiveView & Elixir - Chris Gregori](https://www.chriis.dev/opinion/triggering-repeatable-animations-from-the-server-in-liveview-and-elixir)
 * [Loading Indicators for Events With JS.push](https://fly.io/phoenix-files/js-push-loading-options/)
 * [Pushing Events: With and Without JS.push - Berenice Medel & Chris Nicoll](https://fly.io/phoenix-files/pushing-events-with-js-push/)
 * [Client-Side Tabs in LiveView With JS Commands - Berenice Medel & Chris Nicoll](https://fly.io/phoenix-files/tabs-with-js-commands/)
@@ -1837,6 +1875,11 @@ Consequently, much of the following will soon be at least partially outdated:
 ##### ELIXIR - PHOENIX - LIVE VIEW - TESTING
 
 * German Velasco: [Testing LiveView (ElixirConf 2020)](https://www.youtube.com/watch?v=h8NURVLysrk) & [Testing LiveView course](https://www.testingliveview.com/)
+
+#### ELIXIR - PHOENIX - LIVE VIEW NATIVE
+
+* [Native.live](https://native.live/)
+* [What is LiveView Native? - Brian Cardarella (ElixirConf 2022)](https://www.youtube.com/watch?v=dnDGh_Jmw-s)
 
 #### ELIXIR - PHOENIX - MIX TASKS
 
@@ -1923,6 +1966,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ELIXIR - PHOENIX - WEB SOCKETS
 
+* [Binary WebSocket communication with Elixir & Phoenix - Paul Wilson](https://furlough.merecomplexities.com/elixir/phoenix/tutorial/2021/02/19/binary-websockets-with-elixir-phoenix.html)
 * [Anatomy of a Real Time Elixir App - Steve Bussey (ElixirConfEU Virtual 2020)](https://www.youtube.com/watch?v=2WzpfCNNnn0)
 * [Writing an Evented WebSocket Client - Eric Oestrich](http://blog.oestrich.org/2018/11/writing-evented-websocket-client)
 * [The joy of React+Redux with Elixir/OTP - Nacho Martin](https://limenius.com/elixir-otp-react-redux/)
@@ -2025,6 +2069,11 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Securing Elixir Applications - Bram Verburg (ElixirConfEU 2016)](https://www.youtube.com/watch?v=r0DuAse9tK8) | [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/078/original/Bram_Verburg_-_Securing_Elixir_Applications.pdf?1462946275)
 * [Paladin: JWT-based service to service protector for Elixir umbrella apps](https://github.com/opendoor-labs/paladin)
 
+#### ELIXIR - SECURITY - CSP (CONTENT SECURITY POLICY)
+
+* [Content Security Policy configuration (in Phoenix) - Paul Wilson](https://furlough.merecomplexities.com/elixir/phoenix/security/2021/02/26/content-security-policy-configuration-in-phoenix.html)
+* [Running a Phoenix App in an iframe - Troy Rosenberg](https://tmr08c.github.io/2021/04/phoenix-app-in-iframe/)
+
 ### ELIXIR - SSL
 
 * [elixir-socket - wraps gen_tcp, gen_udp and gen_sctp, ssl and implements websockets and socks](https://github.com/meh/elixir-socket)
@@ -2070,6 +2119,11 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Lightweight dependency injection in Elixir (without the tears) - Andrew Hao](https://blog.carbonfive.com/2018/03/19/lightweight-dependency-injection-in-elixir-without-the-tears/)
 * [Mocks and explicit contracts - José Valim](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
 * [Testing function delegation in Elixir without stubbing - Brian Cardarella](https://dockyard.com/blog/2016/03/24/testing-function-delegation-in-elixir-without-stubbing)
+
+#### ELIXIR - TESTING - ASYNCHRONOUS OTP
+
+* [Testing Asynchronous OTP - Andrea Leopardi (ElixirConf EU 2021)](https://www.youtube.com/watch?v=clAHOdIzkW0)
+* [Going Multi-Node with ExUnit - Devon Estes (ElixirConf EU 2021)](https://www.youtube.com/watch?v=elC_8PhWRTg)
 
 #### ELIXIR - TESTING - BYPASS
 
@@ -2159,6 +2213,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ELIXIR - TYPES - DIALYZER/DIALYXIR
 
+* [Algebraic Data Types in Elixir - Gints Dreimanis](https://blog.appsignal.com/2022/05/31/algebraic-data-types-in-elixir.html)
 * [Type Specifications and Erlang](http://learnyousomeerlang.com/dialyzer)
 * [A More Type-Driven Elixir Workflow? Maybe - Simon Zelazny & Rafal Studnicki](https://well-ironed.com/articles/a-more-type-driven-elixir-workflow-maybe/)
 * [Chemanalysis: Dialyzing Elixir - Sean Cribbs (Code BEAM SF 19)](https://www.youtube.com/watch?v=k4au7VioXNk)
@@ -2178,6 +2233,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ELIXIR - TYPES - TIME
 
+* [Tempo - Date/Time library for Elixir based upon intervals not instants - Kip Cole](https://github.com/kipcole9/tempo)
 * Michał Muskała: [Unix Timestamps in Elixir 1.4](http://michal.muskala.eu/2017/02/02/unix-timestamps-in-elixir-1-4.html) & [Unix Timestamps in Elixir](http://michal.muskala.eu/2015/07/30/unix-timestamps-in-elixir.html)
 
 #### ELIXIR - UMBRELLA PROJECTS

@@ -153,8 +153,9 @@ After this page grew too large (when Github started truncating it), I split out 
 * [Visualizing and Understanding Deep Neural Networks - Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw)
 * [The Rise of Artificial Intelligence through Deep Learning - Yoshua Bangio (TEDxMontreal)](https://www.youtube.com/watch?v=uawLjkSI7Mo)
 
-### ARTIFICIAL INTELLIGENCE (AI) - DEEP NEUROEVOLUTION
+### ARTIFICIAL INTELLIGENCE (AI) - DEEP NEUROEVOLUTION & INNOVATION
 
+* [Novel Opportunities in Open-Endedness - Kenneth O. Stanley](https://www.youtube.com/watch?v=T08wc4xD3KA)
 * [Welcoming the Era of Deep Neuroevolution - Kenneth O. Stanley & Jeff Clune](https://eng.uber.com/deep-neuroevolution/)
 * [Why Greatness Cannot Be Planned: The Myth of the Objective - Kenneth Stanley](https://www.youtube.com/watch?v=dXQPL9GooyI)
 * [Open-endedness: The last grand challenge you’ve never heard of - Kenneth O. Stanley, Joel Lehman, and Lisa Soros (December 2017)](https://www.oreilly.com/ideas/open-endedness-the-last-grand-challenge-youve-never-heard-of)
@@ -841,6 +842,7 @@ After this page grew too large (when Github started truncating it), I split out 
 * [Founder Quest Podcast](https://www.founderquestpodcast.com/)
 * [Founder Real Talk - GGV Capital](https://founderrealtalk.ggvc.com/)
 * [Founder's Journal - Alex Lieberman](https://podcasts.apple.com/us/podcast/founders-journal/id1509276485)
+* [Founders - David Senra](https://pod.link/founders) (incredibly great! Discovered David through [his incredible guest appearance on Patrick O'Shaughnessy's podcast](https://podcasts.apple.com/us/podcast/david-senra-passion-pain/id1154105909?i=1000577773558))
 * [Founders Talk](https://changelog.com/founderstalk)
 * [Foundr - Nathan Chan](https://foundr.com/podcast-with-nathan-chan/)
 * [The Full Ratchet - Nick Moran](https://itunes.apple.com/us/podcast/full-ratchet-vc-venture-capital-angel-investors-startup/id888084300?mt=2)
@@ -851,6 +853,7 @@ After this page grew too large (when Github started truncating it), I split out 
 * [Indie Hackers - Courtland Allen](https://www.indiehackers.com/podcast)
 * [Innovation Hub - WGBH](https://www.wgbh.org/news/news/innovation-hub)
 * [The Innovation Show - Aidan McCullen](https://theinnovationshow.io/episodes/)
+* [Invest Like the Best - Patrick O'Shaughnessy](https://www.joincolossus.com/episodes?prod-episode-release-desc%5BrefinementList%5D%5BpodcastName%5D%5B0%5D=Invest%20Like%20the%20Best)
 * [James Altucher Show](https://podcasts.apple.com/bs/podcast/the-james-altucher-show/id794030859)
 * [Masters of Scale - Reid Hoffman](https://mastersofscale.com/)
 * [Mixergy - Andrew Warner](https://podcasts.apple.com/ee/podcast/mixergy-startup-stories-1000-entrepreneurs-businesses/id348690336)
@@ -4063,6 +4066,7 @@ Peter R. Egli:
 * [Full Stack Radio](http://www.fullstackradio.com/episodes)
 * [Function - Anil Dash](https://itunes.apple.com/us/podcast/function-with-anil-dash/id1439658455)
 * [FunctionalGeekery.com](https://www.functionalgeekery.com)
+* [Future of Coding](https://futureofcoding.org/episodes/)
 * [Giant Robots Smashing Into Other Giant Robots - Thoughtbot](http://giantrobots.fm/)
 * [Greater Than Code - Mandy Moore](https://www.greaterthancode.com/)
 * [Hansel Minutes](http://www.hanselminutes.com/)
@@ -4686,6 +4690,7 @@ Peter R. Egli:
 
 ## SCIENCE FICTION (SCI FI)
 
+* [Geek's Guide to the Galaxy (podcast)](https://geeksguideshow.com/)
 * [Mindwebs: Science Fiction stories read by Michael Hanson](https://archive.org/details/MindWebs_201410/)
 
 ## SCRATCH
