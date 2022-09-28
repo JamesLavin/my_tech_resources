@@ -5873,6 +5873,7 @@ Peter R. Egli:
 * [An Introduction to Statistical Learning With Applications in R - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/) & [PDF](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) & [Videos](https://www.alsharif.info/iom530)
 * [Elements of Statistical Learning, 2nd ed](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 * [Learning Statistics will Save Your Life - John Paul Ashenfelter (MountainWest RubyConf 2015)](http://confreaks.tv/videos/mwrc2015-learning-statistics-will-save-your-life)
+* [Statistics Playbook - Gary Sutton (Early Access 2022)](https://www.manning.com/books/statistics-playbook)
 
 ### STATISTICAL ANALYSIS - PRINCIPAL COMPONENT ANALYSIS
 
