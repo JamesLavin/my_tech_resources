@@ -572,6 +572,7 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 * [Google's Python Class](https://developers.google.com/edu/python/)
 * [Hackr.io Python resources list](https://hackr.io/tutorials/python)
 * [Introduction to Programming With Python - Microsoft Virtual Academy (Jumpstart)](https://www.youtube.com/watch?v=9uq3w6JJS00)
+* [Learn Python Programming](https://www.scaler.com/topics/python/)
 * [Coursera.org Python courses](https://www.coursera.org/courses?query=Python)
 * [EdX.org Python courses](https://www.edx.org/course?search_query=Python)
 * [Udemy.com Python courses](https://www.udemy.com/courses/search/?q=Python&p=1&price=price-free&view=grid) & [non-free](https://www.udemy.com/courses/search/?ref=home&q=Python)
