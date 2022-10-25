@@ -40,6 +40,8 @@ Please borrow or buy from wherever you desire. I've placed "Amazon" links below 
 * Randy Pausch & Jeffrey Zaslow, **The Last Lecture**
 * Bill George, **Discover Your True North**
 * Ray Kroc & Robert Anderson, **Grinding It Out: The Making of McDonald's**
+* Ozan Varol, **Think Like a Rocket Scientist**
+* Steven S. Hoffman, **Make Elephants Fly**
 * Cal Newport, **Digital Minimalism**
 * Dan Sullivan, Benjamin Hardy, **The Gap and the Gain**
 * Shellye Archambeau, **Unapologetically Ambitious**
