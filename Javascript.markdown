@@ -653,6 +653,7 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 #### JAVASCRIPT - SVELTE & SAPPER - SVELTE
 
 * Svelte: [Tutorial](https://svelte.dev/tutorial/basics) | [Docs/API](https://svelte.dev/docs) | [Examples](https://svelte.dev/examples) | [REPL](https://svelte.dev/repl) | [FAQ](https://svelte.dev/faq) | [Webpage](https://svelte.dev/)
+* [Svelte Crash Course - Traversy Media](https://www.youtube.com/watch?v=3TVy6GdtNuQ)
 * [The Return of 'Write Less, Do More' - Rich Harris (JSCAMP 2019)](https://www.youtube.com/watch?v=BzX4aTRPzno)
 * [Rethinking reactivity - Rich Harris (Code Camp 2019)](https://www.youtube.com/watch?v=AdNJ3fydeao)
 * [Up and Running with Svelte - Tomasz Łakomy](https://egghead.io/playlists/getting-started-with-svelte-3-05a8541a)

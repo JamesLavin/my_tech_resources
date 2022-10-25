@@ -214,6 +214,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Elixir v1.14 released - Andrea Leopardi](https://elixir-lang.org/blog/2022/09/01/elixir-v1-14-0-released/)
   * [dbg](https://elixir-lang.org/blog/2022/09/01/elixir-v1-14-0-released/#dbg)
+    * [Elixir 1.14: Better Debugging with dbg/2 and More - Sophie DeBenedetto](https://blog.appsignal.com/2022/09/13/elixir-1-14-better-debugging-with-dbg-and-more)
   * [PartitionSupervisor](https://elixir-lang.org/blog/2022/09/01/elixir-v1-14-0-released/#partitionsupervisor)
 * [Elixir v1.14 - José Valim (ElixirConf 2022)](https://www.youtube.com/watch?v=KmLw58qEtuM)
 * [Release Notes](https://github.com/elixir-lang/elixir/releases/tag/v1.14.0)
@@ -1134,6 +1135,10 @@ F
 
 * [Connecting Ecto to PostgreSQL with SSL - Hubert Łępicki](https://www.amberbit.com/blog/2017/11/13/connecting-ecto-to-postgresql-with-ssl/)
 
+#### ELIXIR - ECTO - UPSERTS
+
+* [The Complete Guide to Upserts With Ecto - Peter Ullrich](https://www.peterullrich.com/complete-guide-to-upserts-with-ecto)
+
 ### ELIXIR - EDITORS
 
 * [delta-elixir: Format for describing contents & changes - Slab](https://github.com/slab/delta-elixir) | [Hexdocs](https://hexdocs.pm/delta/Delta.html)
@@ -1204,6 +1209,8 @@ F
     * [Audit Middleware](https://github.com/commanded/commanded-audit-middleware)
     * [Scheduler: schedule one-off and recurring commands](https://github.com/commanded/commanded-scheduler)
     * [Swarm Registry](https://github.com/commanded/commanded-swarm-registry)
+* [Supercharging our event-sourcing capabilities with Phoenix LiveView - Simone D'Avico](https://medium.com/casavo/supercharging-our-event-sourcing-capabilities-with-phoenix-liveview-c4a9d1d4ab99)
+* [Using CQRS in a simple Phoenix API with Commanded - Christian Alexander](https://christianalexander.com/2022/05/09/elixir-commanded/)
 * [Tackling software complexity with the CELP stack - Cees de Groot](http://evrl.com/agile,/elixir/2021/01/15/the-CEL-stack.html)
 * [Commanded: Use Commanded to build Elixir CQRS/ES applications - Ben Smith](https://github.com/slashdotdash/commanded)
 * [Eventstore: CQRS event store using PostgreSQL for persistence - Ben Smith](https://github.com/slashdotdash/eventstore)
@@ -1368,10 +1375,11 @@ F
 * [AutomatingTheFuture.com - Quentin Thomas](http://www.automatingthefuture.com/)
 * [Artificial Neural Networks, Elixir, and You - Quentin Thomas](http://www.automatingthefuture.com/blog/2016/9/7/artificial-neural-networks-elixir-and-you?utm_content=buffer9dea0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
-### ELIXIR - MACHINE LEARNING - NX
+#### ELIXIR - MACHINE LEARNING - NX
 
-* [Nx (Numerical Elixir) is now publicly available - José Valim](https://dashbit.co/blog/nx-numerical-elixir-is-now-publicly-available)
 * [NX: Numerical Elixir & Elixir XLA bindings for CPU/GPU/TPU (Github)](https://github.com/elixir-nx/nx)
+* [How to solve a real machine learning problem with Nx - Tiago Davi](https://dockyard.com/blog/2022/09/22/how-to-solve-a-real-machine-learning-problem-with-nx)
+* [Nx (Numerical Elixir) is now publicly available - José Valim](https://dashbit.co/blog/nx-numerical-elixir-is-now-publicly-available)
 * [Up and Running Nx - Sean Moriarity](https://dockyard.com/blog/2021/04/08/up-and-running-nx)
 * [Elixir-NX-Axon: Elixir's Machine Learning Library - Grox.io](https://www.youtube.com/watch?v=NcsqGS6SVXg)
 * [Kicking the tyres on Nx (Numerical Elixir) - Robert Ellen](https://www.youtube.com/watch?v=SgSbaGm5nR0)
@@ -1385,6 +1393,15 @@ F
   * [axon_onnx: Easily convert models between ONNX and Axon](https://github.com/elixir-nx/axon_onnx)
 * [JIT/GPU accelerated deep learning for Elixir with Axon v0.1](https://seanmoriarity.com/2022/06/16/jit-gpu-accelerated-deep-learning-for-elixir-with-axon-v0-1/)
 * [Predicting fuel efficiency with Elixir, Nx, and Axon: a gentle introduction to Machine Learning](https://bitfield.co/posts/machine-learning-in-elixir-with-nx-and-axon/)
+
+##### ELIXIR - MACHINE LEARNING - NX - EXPLORER
+
+* [Explorer](https://github.com/elixir-nx/explorer)
+* [Ten Minutes to Explorer](https://github.com/elixir-nx/explorer/blob/main/notebooks/exploring_explorer.livemd)
+
+##### ELIXIR - MACHINE LEARNING - NX - SCHOLAR
+
+* [K-means tutorial](https://github.com/elixir-nx/scholar/blob/main/notebooks/k_means.livemd)
 
 ##### ELIXIR - MACHINE LEARNING - NX - SCIDATA
 
@@ -1767,6 +1784,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * Live View: [Documentation](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html) | [LiveComponent](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html) | [LiveViewTest](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveViewTest.html) | [mix phx.gen.live](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Live.html) | [API Reference](https://hexdocs.pm/phoenix_live_view/api-reference.html) | [Github](https://github.com/phoenixframework/phoenix_live_view)
 * [The Future of Full-stack - Chris McCord (ElixirConf 2021)](https://www.youtube.com/watch?v=Of1phFsC4ZI)
 * [Build a real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5 - Chris McCord](https://www.youtube.com/watch?v=MZvmYaFkNJI)
+* [Infinitely Scroll Images in LiveView - Jaeyson Anthony Y.](https://fly.io/phoenix-files/infinitely-scroll-images-in-liveview/)
 * [Building Tetris with Elixir, LiveView and OTP - Sandesh Soni](https://www.youtube.com/watch?v=57b4iSi1FM4) | [Source code](https://github.com/sandeshsoni/tetris_eu_umbrella)
 * [Restore LiveView State on Startup - Mark Ericksen](https://fly.io/phoenix-files/restore-liveview-state-on-startup/)
 * [Getting to Know the LiveView Lifecycle - Michael Crumm (ElixirConf 2021)](https://www.youtube.com/watch?v=J1l4W0T7Jgg)
@@ -1862,6 +1880,11 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [PhoenixLiveSession - Github](https://github.com/pentacent/phoenix_live_session)
 * [Introducing Phoenix LiveSessions - Pentacent](https://pentacent.com/blog/phoenix-live-sessions/)
+
+##### ELIXIR - PHOENIX - LIVE VIEW - LIVE STORYBOOK
+
+* Live Storybook: [Hexdocs](https://hexdocs.pm/phx_live_storybook/PhxLiveStorybook.html) | [Github](https://github.com/phenixdigital/phx_live_storybook)
+* [Demo of phx_live_storybook v0.4.5 - Christian Blavier](https://www.youtube.com/watch?v=MTE7dLhkQ8Q)
 
 ##### ELIXIR - PHOENIX - LIVE VIEW - SURFACE
 
@@ -2114,6 +2137,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [TDD is not about testing - Gianluca Padovani (Code BEAM STO 19)](https://www.youtube.com/watch?v=AVKpChQoXXE)
 * [Testing in an Elixir world - Rafael Rocha (Code BEAM STO 19)](https://www.youtube.com/watch?v=M8rv-gvTG-M)
 * [4 Tips for Mastering Test-Driven Development - Nicolas Talfer](https://www.welcometothejungle.com/fr/articles/tips-test-driven-development)
+* [Organizing Your Tests With Context Tags - Peter Ullrich](https://www.peterullrich.com/exunit-context-tags)
 * [Custom ExUnit Assertion - Tyler Pachal](https://medium.com/@tylerpachal/custom-exunit-assertion-d9b93cfba4a4)
 * [Track-switching in a large Elixir web application - 9elements](https://medium.com/9elements/track-switching-in-a-large-elixir-web-application-31522d5ac457)
 * [Lightweight dependency injection in Elixir (without the tears) - Andrew Hao](https://blog.carbonfive.com/2018/03/19/lightweight-dependency-injection-in-elixir-without-the-tears/)
@@ -2301,6 +2325,10 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [Membrane SFU: Bringing WebRTC to Elixir - Mateusz Front (ElixirConf EU 2021)](https://www.youtube.com/watch?v=qXFziCT5I6c)
 
+### ELIXIR - XML
+
+* [Faster XML Parsing with Elixir - AppSignal](https://dev.to/appsignal/faster-xml-parsing-with-elixir-2hlp)
+
 ## ERLANG
 
 * [Erlang Programming Language (with Francesco Cesarini) - Computerphile](https://www.youtube.com/watch?v=SOqQVoVai6s)
@@ -2383,6 +2411,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Erlang/OTP Team @ Ericsson](http://blog.erlang.org/)
 * [Erlang Solutions](https://www.erlang-solutions.com/blog.html)
 * [Konstantin Duman](https://kduman.com/)
+* [Peter Ullrich](https://www.peterullrich.com/)
 * [This Week in Erlang - Sasan Gootik](https://gootik.github.io/this-week-in-erlang/)
 
 ### ERLANG - CLIENTS

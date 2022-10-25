@@ -25,6 +25,7 @@ After this page grew too large (when Github started truncating it), I split out 
 
 ## ALGORITHMS
 
+* [Algorithms for Decision Making, 2022 - Mykel J. Kochenderfer, Tim A. Wheeler and Kyle H. Wray](https://algorithmsbook.com/) - free PDF!, MIT Press textbook is $95
 * [Competitive Programmer’s Handbook - Antti Laaksonen](https://cses.fi/book.pdf)
 * Algorithms: Kevin Wayne & Robert Sedgewick (Princeton University): [Part I](https://www.coursera.org/course/algs4partI) & [Part II](https://www.coursera.org/course/algs4partII)
 * Algorithms: Design and Analysis - Tim Roughgarden (Stanford University): [Part 1](https://www.coursera.org/course/algo) & [Part 2](https://www.coursera.org/course/algo2)
@@ -1928,6 +1929,10 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Intro to DB Browser to SQLite - Gavin Off](https://www.youtube.com/watch?v=5bhyEunPafM&t=45s)
 * [DB Browser for SQLite - MainlyWebStuff](https://www.youtube.com/playlist?list=PLU70qqWW4frGdwNh4czgTrCrHvPhyt2aI)
 
+#### DATABASES - SQLITE - LITEFS
+
+* [Introducing LiteFS - Ben Johnson & Thomas Ptacek](https://fly.io/blog/introducing-litefs/)
+
 ### DATABASES - STREAMING REPLICATION
 
 * [Open-Sourcing Yelp's Data Pipeline - Yelp](https://engineeringblog.yelp.com/2016/11/open-sourcing-yelps-data-pipeline.html) | [MySQL Streamer](https://github.com/Yelp/mysql_streamer) | [Schematizer](https://github.com/Yelp/schematizer) | [Data pipeline client](https://github.com/Yelp/data_pipeline) | [Data pipeline Avro util](https://github.com/Yelp/data_pipeline_avro_util) | [Kafka library](https://github.com/Yelp/yelp_kafka)
@@ -3628,6 +3633,27 @@ Peter R. Egli:
 * [Full-Text Search: Seek and Ye Shall Find - Dan Scott (Postgres Open)](https://www.youtube.com/watch?v=R6nT6UgY7k4)
 * [Using PostgreSQL and jsonb with Ruby on Rails - Nando Vieira](http://nandovieira.com/using-postgresql-and-jsonb-with-ruby-on-rails)
 
+#### POSTGRESQL - ADVANCED FEATURES - COMMON TABLE EXPRESSIONS
+
+* [WITH Queries (Common Table Expressions) - PostgreSQL documentation](https://www.postgresql.org/docs/current/queries-with.html)
+* [Programming the SQL Way with Common Table Expressions - Bruce Momjian](https://momjian.us/main/writings/pgsql/cte.pdf)
+
+#### POSTGRESQL - ADVANCED FEATURES - WINDOW FUNCTIONS
+
+* [Master the SQL SELECT statement part 08: Window Functions - Michael Fudge](https://www.youtube.com/watch?v=qJ3Uf609ttA)
+* [Optimizing Queries Using CTEs and Window Functions - Vicențiu Ciorbaru](https://mariadb.org/wp-content/uploads/2017/05/Window-Functions-presentation-MariaDB-Foundation-NY-Developer-Meeting.pdf)
+* [Window functions - BeardedDev](https://www.youtube.com/playlist?list=PLgR-BOYibnN0QqIPFbMlS01bw8x9g07Ll)
+* [SQL Window Functions - SQLTutorial.org](https://www.sqltutorial.org/sql-window-functions/)
+  * [first_value()](https://www.sqltutorial.org/sql-window-functions/sql-first_value/)
+  * [last_value()](https://www.sqltutorial.org/sql-window-functions/sql-last_value/)
+  * [lag()](https://www.sqltutorial.org/sql-window-functions/sql-lag/)
+  * [lead()](https://www.sqltutorial.org/sql-window-functions/sql-lead/)
+  * [cume_dist()](https://www.sqltutorial.org/sql-window-functions/sql-cume_dist/)
+  * [dense_rank()](https://www.sqltutorial.org/sql-window-functions/sql-dense_rank/)
+  * [ntile()](https://www.sqltutorial.org/sql-window-functions/sql-ntile/)
+  * [percent_rank()](https://www.sqltutorial.org/sql-window-functions/sql-percent_rank/)
+  * [rank()](https://www.sqltutorial.org/sql-window-functions/sql-rank/)
+
 ### POSTGRESQL - ANALYTICS
 
 * [Building a real time analytics API at scale - Sylvain Friquet (PostgresOpen 2018)](https://www.youtube.com/watch?v=wJOCaNE2_C0)
@@ -4059,6 +4085,7 @@ Peter R. Egli:
 * [Developer On Fire - Dave Rael](http://developeronfire.com/)
 * [Dr. Dobbs TV](http://www.drdobbs.com/tv/) (Video)
 * [Elixir Fountain](https://soundcloud.com/elixirfountain)
+* [Enginears.io](https://enginears.io/podcast/)
 * [Exponent](http://exponent.fm/)
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
 * [The Freelancers' Show](https://devchat.tv/freelancers/)
@@ -4687,6 +4714,12 @@ Peter R. Egli:
 ### SCIENCE - CHEMISTRY
 
 * [Just Have a Think](https://www.youtube.com/c/JustHaveaThink/playlists)
+
+### SCIENCE - COOKING (CHEMISTRY YOU CAN EAT)
+
+* [Science and Cooking Lecture Series - Harvard University](https://sciencecooking.seas.harvard.edu/)
+  * [Science and Cooking lectures - Harvard University, 2020-present](https://www.youtube.com/playlist?list=PLtHrXQsUhv827vv7sxCIkAOBj6tBlytLa)
+  * [Science and Cooking lectures - Harvard University, 2010-2019](https://www.youtube.com/playlist?list=PL546CD09EA2399DAB)
 
 ## SCIENCE FICTION (SCI FI)
 
