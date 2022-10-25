@@ -18,75 +18,98 @@ Please borrow or buy from wherever you desire. I've placed "Amazon" links below 
 
 ### Completed 2022
 
-* Dan Sullivan, Benjamin Hardy, The Gap and the Gain
-* Shellye Archambeau, Unapologetically Ambitious
-* Jim McKelvey, The Innovation Stack
-* Fernando Trias de Bes, The Little Black Book of Entrepreneurship
-* Ash Maurya, Scaling Lean
-* Allen DibThe 1-Page Marketing Plan
-* Dan Olsen, The Lean Product Playbook
-* Robin Wigglesworth, Trillions
-* Steven Johnson, Where Good Ideas Come From (read this multiple times; library)
-* Fred Reichheld, Winning On Purpose
-* Dave Parker, Trajectory: Startup
-* Joseph Henrich, The Secret of Our Success (library got it at my request)
-* Antonio Damasio, The Strange Order of Things (library got it at my request)
-* Adam Grant, Think Again (library)
-* Betty White, Here We Go Again (library)
-* Dan Ariely, Predictably Irrational (library)
-* Ari Meisel, The Art of Less Doing
-* Alan Ramadan, Play Bigger (library)
-* Betty White, If You Ask Me (library)
-* Daniel Coyle, The Culture Code (library; I re-read this every few years)
-* Jim McLamore, The Burger King (library got it at my request)
-* Karl Deisseroth, Projections
-* Paul G. Falkowski, Life’s Engines
-* Peter M. Hoffman, Life’s Ratchet
-* Beronda L. Montgomery, Lessons from Plants
-* Rajat Bhargava & Will Herman, The Startup Playbook (2nd ed)
-* Sahil Levingia, The Minimalist Entrepreneur
-* Chuck Palahniuk, Consider This
-* Seth Godin, Tribes
-* Sy Montgomery, The Soul of An Octopus (library)
-* Scott O’Neil, Be Where Your Feet Are (library)
-* Katie Hafner, Where Wizards Stay Up Late
-* Thomas E. Ricks, First Principles (library)
-* Fumio Sasaki, Hello, Habits (library)
-* Caroline Williams, Move (library)
-* Kai Strittmatter, We Have Been Harmonized (library)
-* David Fideler, Breakfast With Seneca (library)
-* Amelia Pang, Made in China (library)
-* John Cleese, Creativity (library)
-* Catherine Price, The Power of Fun (library)
-* Carlo M. Cipolla, The Basic Laws of Human Stupidity (library)
-* Satya Nadella, Hit Refresh (library)
-* Walter Isaacson, The Code Breaker (library)
-* Elie Mystal, Allow Me to Retort (really, really great… get the audiobook, read by the author!)
-* Ben Lindbergh, Travis Sawchik, The MVP Machine
-* David A. Price, The Pixar Touch
-* Carl Zimmer, Life’s Edge
-* Patrick J. McGinnis, The 10% Entrepreneur
-* Brad Stulbert, Steve Magness, The Passion Paradox
-* Jeffrey Bussgang, Entering StartupLand
-* Pat Flynn, Superfans
-* Jo Boaler, Limitless Mind
-* Michael Moss, Salt, Sugar, Fat
-* David M. Cote, Winning Now, Winning Later
-* Suneel Gupta, Backable
-* Adam Savage, Every Tool’s a Hammer
-* Reginald F. Lewis, Why Should White Guys Have All the Fun?
-* Randy Komisar, Jantoon Reigersman, Straight Talk for Startups
-* Steve Kamb, Level Up Your Life
-* Eric Barker, Barking Up The Wrong Tree
-* Michael Gervais, Pete Carroll, Finding Your Best
-* Neil Postman, Amusing Ourselves to Death
-* Jonathan Hernandez, The Truth About Aaron
-* Ron Lieber, The Price You Pay for College
-* John J. Ratey, Richard Manning, Go Wild
-* Guy Raz, How I Built This
-* Alex Korb, The Upward Spiral
-* Roger McNamee, Zucked
-* Cliff Kuang, User Friendly
+* Seth Godin, **This Is Marketing**
+* Ken Segall, **Insanely Simple**
+* Yvon Chouinard, **The Responsible Company**
+* Rob Fitzpatrick, **The Mom Test**
+* Tony Fadell, **Build**
+* Kurt Vonnegut, **Hocus Pocus**
+* Ben R. Rich, **Skunk Works**
+* Donna Jackson Nakazawa, **The Angel and the Assassin**
+* Curtis Morley, **The Entrepreneur's Paradox**
+* Frederic Kerrest, **Zero to IPO**
+* George Magnus, **Red Flags**
+* Roger L. Martin & A.G. Lafley, **Playing to Win**
+* Eric Jorgenson, **The Almanack of Naval Ravikant**
+* Jon Acuff, **Finish**
+* Norm Brodsky & Bo Burlingham, **Street Smarts**
+* Robert A. Heinlein, **The Moon is a Harsh Mistress**
+* Marcus Buckingham & Ashley Goodall, **Nine Lies About Work**
+* Andy Weir, **Project Hail Mary**
+* Robert Glazer, **Elevate**
+* Randy Pausch & Jeffrey Zaslow, **The Last Lecture**
+* Bill George, **Discover Your True North**
+* Ray Kroc & Robert Anderson, **Grinding It Out: The Making of McDonald's**
+* Cal Newport, **Digital Minimalism**
+* Dan Sullivan, Benjamin Hardy, **The Gap and the Gain**
+* Shellye Archambeau, **Unapologetically Ambitious**
+* Jim McKelvey, **The Innovation Stack**
+* Fernando Trias de Bes, **The Little Black Book of Entrepreneurship**
+* Ash Maurya, **Scaling Lean**
+* Allen Dib, **The 1-Page Marketing Plan**
+* Dan Olsen, **The Lean Product Playbook**
+* Robin Wigglesworth, **Trillions**
+* Steven Johnson, **Where Good Ideas Come From** (read this *multiple* times; library)
+* Fred Reichheld, **Winning On Purpose**
+* Dave Parker, **Trajectory: Startup**
+* Joseph Henrich, **The Secret of Our Success** (library got it at my request)
+* Antonio Damasio, **The Strange Order of Things** (library got it at my request)
+* Adam Grant, **Think Again** (library)
+* Betty White, **Here We Go Again** (library)
+* Dan Ariely, **Predictably Irrational** (library)
+* Ari Meisel, **The Art of Less Doing**
+* Alan Ramadan, **Play Bigger** (library)
+* Betty White, **If You Ask Me** (library)
+* Daniel Coyle, **The Culture Code** (library; I re-read this every few years)
+* Jim McLamore, **The Burger King** (library got it at my request)
+* Karl Deisseroth, **Projections**
+* Paul G. Falkowski, **Life’s Engines**
+* Peter M. Hoffman, **Life’s Ratchet**
+* Beronda L. Montgomery, **Lessons from Plants**
+* Rajat Bhargava & Will Herman, **The Startup Playbook (2nd ed)**
+* Sahil Levingia, **The Minimalist Entrepreneur**
+* Chuck Palahniuk, **Consider This**
+* Seth Godin, **Tribes**
+* Sy Montgomery, **The Soul of An Octopus** (library)
+* Scott O’Neil, **Be Where Your Feet Are** (library)
+* Katie Hafner, **Where Wizards Stay Up Late**
+* Thomas E. Ricks, **First Principles** (library)
+* Fumio Sasaki, Hello, **Habits** (library)
+* Caroline Williams, **Move** (library)
+* Kai Strittmatter, **We Have Been Harmonized** (library)
+* David Fideler, **Breakfast With Seneca** (library)
+* Amelia Pang, **Made in China** (library)
+* John Cleese, **Creativity** (library)
+* Catherine Price, **The Power of Fun** (library)
+* Carlo M. Cipolla, **The Basic Laws of Human Stupidity** (library)
+* Satya Nadella, **Hit Refresh** (library)
+* Walter Isaacson, **The Code Breaker** (library)
+* Elie Mystal, **Allow Me to Retort** (really, really great… get the audiobook, read by the author!)
+* Ben Lindbergh, Travis Sawchik, **The MVP Machine**
+* David A. Price, **The Pixar Touch**
+* Carl Zimmer, **Life’s Edge**
+* Patrick J. McGinnis, **The 10% Entrepreneur**
+* Brad Stulbert, Steve Magness, **The Passion Paradox**
+* Jeffrey Bussgang, **Entering StartupLand**
+* Pat Flynn, **Superfans**
+* Jo Boaler, **Limitless Mind**
+* Michael Moss, **Salt, Sugar, Fat**
+* David M. Cote, **Winning Now, Winning Later**
+* Suneel Gupta, **Backable**
+* Adam Savage, **Every Tool’s a Hammer**
+* Reginald F. Lewis, **Why Should White Guys Have All the Fun?**
+* Randy Komisar, Jantoon Reigersman, **Straight Talk for Startups**
+* Steve Kamb, **Level Up Your Life**
+* Eric Barker, **Barking Up The Wrong Tree**
+* Michael Gervais, Pete Carroll, **Finding Your Best**
+* Neil Postman, **Amusing Ourselves to Death**
+* Jonathan Hernandez, **The Truth About Aaron**
+* Ron Lieber, **The Price You Pay for College**
+* John J. Ratey, Richard Manning, **Go Wild**
+* Guy Raz, **How I Built This**
+* Alex Korb, **The Upward Spiral**
+* Roger McNamee, **Zucked**
+* Cliff Kuang, **User Friendly**
 
 ### Completed (approx) 2020-2021
 

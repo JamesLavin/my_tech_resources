@@ -2097,6 +2097,11 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Content Security Policy configuration (in Phoenix) - Paul Wilson](https://furlough.merecomplexities.com/elixir/phoenix/security/2021/02/26/content-security-policy-configuration-in-phoenix.html)
 * [Running a Phoenix App in an iframe - Troy Rosenberg](https://tmr08c.github.io/2021/04/phoenix-app-in-iframe/)
 
+#### ELIXIR - SECURITY - SOBELOW
+
+* Sobelow - Security-focused static analysis for the Phoenix Framework - Griffin Byatt: [Github](https://github.com/nccgroup/sobelow)
+* [Cross Site Scripting (XSS) Patterns in Phoenix](https://paraxial.io/blog/xss-phoenix)
+
 ### ELIXIR - SSL
 
 * [elixir-socket - wraps gen_tcp, gen_udp and gen_sctp, ssl and implements websockets and socks](https://github.com/meh/elixir-socket)
