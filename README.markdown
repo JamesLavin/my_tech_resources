@@ -1906,11 +1906,13 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 ### DATABASES - SQL
 
 * [Learn SQL: 50+ of the Best Online Educational Resources to Learn SQL and Relational Database Management - HackerLists.com](https://hackerlists.com/learn-sql-online/)
+* [SQLBolt.com](https://sqlbolt.com/) 
 * [SQL Cheat Sheet - Luke Harrison](https://websitesetup.org/sql-cheat-sheet/)
 * [SQLTeaching.com](https://www.sqlteaching.com/)
 * [SQL Tutorial - 1KeyData.com](http://www.1keydata.com/sql/sql.html)
 * [PostgreSQL documentation: The SQL Language](http://www.postgresql.org/docs/9.4/interactive/sql.html)
 * [TutorialsPoint.com](http://www.tutorialspoint.com/sql/index.htm)
+* [Use The Index, Luke! - Guide to Database Performance for Developers - Markus Winand](https://use-the-index-luke.com/)
 * [Advanced SQL and database books and resources - Neil Sainsbury](https://www.neilwithdata.com/advanced-sql)
 
 ### DATABASES - SQLITE
@@ -3580,6 +3582,7 @@ Peter R. Egli:
 * [Elixir](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#elixir---podcasts)
 * [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm---podcasts)
 * [Functional Programming](#functional-programming---podcasts)
+* [NPR (various genres)](https://www.npr.org/podcasts-and-shows/)
 * [Programming](#programming---podcasts)
 * [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---podcasts)
 * [Rust](#rust---podcasts)

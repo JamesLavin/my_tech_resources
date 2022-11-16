@@ -18,7 +18,12 @@ Please borrow or buy from wherever you desire. I've placed "Amazon" links below 
 
 ### Completed 2022
 
+* Leigh Gallagher, **The Airbnb Story**
+* Ted Gioia, **How to Listen to Jazz**
+* Ash Maurya, **Running Lean (3rd ed)**
 * Seth Godin, **This Is Marketing**
+* Morgan Housel, **The Psychology of Money**
+* Sheera Frenkel and Cecilia Kang, **An Ugly Truth: Inside Facebook's Battle for Domination**
 * Ken Segall, **Insanely Simple**
 * Yvon Chouinard, **The Responsible Company**
 * Rob Fitzpatrick, **The Mom Test**
@@ -40,7 +45,7 @@ Please borrow or buy from wherever you desire. I've placed "Amazon" links below 
 * Randy Pausch & Jeffrey Zaslow, **The Last Lecture**
 * Bill George, **Discover Your True North**
 * Ray Kroc & Robert Anderson, **Grinding It Out: The Making of McDonald's**
-* Ozan Varol, **Think Like a Rocket Scientist**
+* Ozan Varol, **Think Like a Rocket Scientist** (listened twice)
 * Steven S. Hoffman, **Make Elephants Fly**
 * Cal Newport, **Digital Minimalism**
 * Dan Sullivan, Benjamin Hardy, **The Gap and the Gain**

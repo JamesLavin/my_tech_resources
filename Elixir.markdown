@@ -704,6 +704,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 #### ELIXIR - CLIENTS - HTTP CLIENTS
 
+* Req: [Req: Batteries-included HTTP client for Elixir - Wojtek Mach](https://github.com/wojtekmach/req)
 * Finch: [Github](https://github.com/keathley/finch) | [Hexdocs.pm](https://hexdocs.pm/finch/Finch.html) | [The State of Elixir HTTP Clients - Alex Koutmos (Jul 2020)](https://blog.appsignal.com/2020/07/28/the-state-of-elixir-http-clients.html)
 * [Mint: Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2](https://github.com/ericmj/mint)
 * [Mojito: easy-to-use Elixir HTTP client, built on the low-level Mint library - Appcues.com](https://github.com/appcues/mojito)
@@ -1370,6 +1371,14 @@ F
 
 ### ELIXIR - MACHINE LEARNING
 
+* [Elixir versus Python for Data Science - Sean Moriarity](https://dockyard.com/blog/2022/07/12/elixir-versus-python-for-data-science)
+
+#### ELIXIR - MACHINE LEARNING - AXON
+
+* [Axon.Serving: Model Serving with Axon and Elixir - Sean Moriarity](https://dockyard.com/blog/2022/10/17/axon-serving-model-serving-with-axon-and-elixir)
+* [Semantic Search with Phoenix, Axon, and Elastic - Sean Moriarity](https://dockyard.com/blog/2022/09/28/semantic-search-with-phoenix-axon-and-elastic)
+* [Catching Fraud with Elixir and Axon - Sean Moriarity](https://dockyard.com/blog/2022/04/07/catching-fraud-with-elixir-and-axon)
+
 #### ELIXIR - MACHINE LEARNING - NEURAL NETWORKS
 
 * [AutomatingTheFuture.com - Quentin Thomas](http://www.automatingthefuture.com/)
@@ -1378,12 +1387,12 @@ F
 #### ELIXIR - MACHINE LEARNING - NX
 
 * [NX: Numerical Elixir & Elixir XLA bindings for CPU/GPU/TPU (Github)](https://github.com/elixir-nx/nx)
-* [How to solve a real machine learning problem with Nx - Tiago Davi](https://dockyard.com/blog/2022/09/22/how-to-solve-a-real-machine-learning-problem-with-nx)
 * [Nx (Numerical Elixir) is now publicly available - José Valim](https://dashbit.co/blog/nx-numerical-elixir-is-now-publicly-available)
 * [Up and Running Nx - Sean Moriarity](https://dockyard.com/blog/2021/04/08/up-and-running-nx)
 * [Elixir-NX-Axon: Elixir's Machine Learning Library - Grox.io](https://www.youtube.com/watch?v=NcsqGS6SVXg)
 * [Kicking the tyres on Nx (Numerical Elixir) - Robert Ellen](https://www.youtube.com/watch?v=SgSbaGm5nR0)
 * [Introducing NX - José Valim (Lambda Days 2021)](https://www.youtube.com/watch?v=fPKMmJpAGWc)
+* [How to solve a real machine learning problem with Nx - Tiago Davi](https://dockyard.com/blog/2022/09/22/how-to-solve-a-real-machine-learning-problem-with-nx)
 * [José Valim reveals Project Nx - (ThinkingElixir podcast)](https://thinkingelixir.com/podcast-episodes/034-jose-valim-reveals-project-nx/)
 * [Panel on Machine Learning on the BEAM by José Valim, Randall Thomas, David Lucia, Garrett Smith, Svetlana Levitan (Code BEAM V Europe 2021)](https://www.youtube.com/watch?v=lS5VQmvI7is)
 
@@ -1876,6 +1885,11 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Phoenix LiveView Dashboard - Plangora](https://www.youtube.com/watch?v=Nqr5ly35tu8)
 * [Phoenix LiveView Dashboard Metrics - Plangora](https://www.youtube.com/watch?v=ZrgtOp-wS0w)
 
+##### ELIXIR - PHOENIX - LIVE VIEW - LIVE MOTION
+
+* LiveMotion - Benjamin von Polheim: [Hexdocs](https://hexdocs.pm/live_motion/LiveMotion.html) | [Github](https://github.com/benvp/live_motion)
+* [LiveMotion examples](https://livemotion.benvp.co/)
+
 ##### ELIXIR - PHOENIX - LIVE VIEW - LIVE SESSIONS
 
 * [PhoenixLiveSession - Github](https://github.com/pentacent/phoenix_live_session)
@@ -1953,6 +1967,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ELIXIR - PHOENIX - TESTING
 
+* [Ecto SQL Sandbox Usage Guide - req_sandbox - Michael Crumm](Ecto SQL Sandbox Usage Guide)
 * [Test-Driven Development With Phoenix - German Velasco](https://www.tddphoenix.com/) (FREE book; in progress!)
 * [E2E Testing with Ecto Sandbox API - Nikola Begedin (Code BEAM V 2020)](https://www.youtube.com/watch?v=OAuTCyvp9NY)
 * [PhoenixIntegration: Lightweight server side integration test tools for Phoenix - Boyd Multerer](https://github.com/boydm/phoenix_integration)
@@ -1991,6 +2006,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [Binary WebSocket communication with Elixir & Phoenix - Paul Wilson](https://furlough.merecomplexities.com/elixir/phoenix/tutorial/2021/02/19/binary-websockets-with-elixir-phoenix.html)
 * [Anatomy of a Real Time Elixir App - Steve Bussey (ElixirConfEU Virtual 2020)](https://www.youtube.com/watch?v=2WzpfCNNnn0)
+* [Delightful Multiplayer Editing with Phoenix - Tyler Young (ElixirConf 2022)](https://www.youtube.com/watch?v=lGuqvApTvbc)
 * [Writing an Evented WebSocket Client - Eric Oestrich](http://blog.oestrich.org/2018/11/writing-evented-websocket-client)
 * [The joy of React+Redux with Elixir/OTP - Nacho Martin](https://limenius.com/elixir-otp-react-redux/)
 * [Event Sourcing in React, Redux & Elixir — how we write fast, scalable, real-time apps at Rapport - Gary McAdam](https://medium.com/rapport-blog/event-sourcing-in-react-redux-elixir-how-we-write-fast-scalable-real-time-apps-at-rapport-4a26c3aa7529)

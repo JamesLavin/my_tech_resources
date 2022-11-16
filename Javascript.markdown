@@ -625,20 +625,23 @@ Links to JavaScript resources I have found useful or think might be helpful to f
 
 ### JAVASCRIPT - RXJS
 
+* [RxJS.dev](https://rxjs.dev/guide/overview)
+* [API docs](http://reactivex.io/rxjs/)
 * [RxJS Crash Course - Laith Harb](https://www.youtube.com/watch?v=tGWBy6Vqq9w)
 * André Staltz: [RxJS v4.0 book](https://xgrommx.github.io/rx-book/) & [Introduction to Reactive Programming (videos on Egghead.io)](https://egghead.io/courses/introduction-to-reactive-programming)
 * [RxJS 5 Thinking Reactively - Ben Lesh (Angular Connect 2016)](https://www.youtube.com/watch?v=3LKMwkuK0ZE)
 * [Rxjs 5 Ultimate - Chris Noring](https://legacy.gitbook.com/book/chrisnoring/rxjs-5-ultimate/details)
 * [RxJS Quick Start with Practical Examples - Angular Firebase](https://www.youtube.com/watch?v=2LCo926NFLI)
 * Learn RxJS - Brian Troncone: [Online](https://www.learnrxjs.io/) | [Download](https://legacy.gitbook.com/book/btroncone/learn-rxjs/details)
-* [API docs](http://reactivex.io/rxjs/)
 * [RxJS - What and Why? - Academind](https://www.youtube.com/watch?v=T9wOu11uU6U)
 * [RxJS Quick Start with Practical Examples](https://www.youtube.com/watch?v=2LCo926NFLI)
 * [Advanced RxJS: State Management and Animations - Ben Lesh](https://www.youtube.com/watch?v=jKqWMvdTuE8)
 
 ### JAVASCRIPT - SERVICE WORKERS
 
+* [Service worker overview - Chrome Developers](https://developer.chrome.com/docs/workbox/service-worker-overview/)
 * [Service Workers: An Intro - Matt Gaunt](https://developers.google.com/web/fundamentals/primers/service-workers)
+* [Service Workers - Learn PWA!](https://web.dev/learn/pwa/service-workers/)
 * [Intro to Service Worker - Google Developers](https://developers.google.com/web/ilt/pwa/introduction-to-service-worker)
 * [Service Worker Cookbook - Mozilla](https://serviceworke.rs/)
 
