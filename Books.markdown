@@ -18,6 +18,10 @@ Please borrow or buy from wherever you desire. I've placed "Amazon" links below 
 
 ### Completed 2022
 
+* Bill Russell, **Go Up For Glory**
+* Leander Kahney, **Jony Ive: The Genius Behind Apple's Greatest Products**
+* Allen Gannett, **The Creative Curve: How to Develop the Right Idea at the Right Time**
+* Shirish Nadkarni, **From Startup to Exit: An Insider's Guide to Launching and Scaling Your Tech Business**
 * Leigh Gallagher, **The Airbnb Story**
 * Ted Gioia, **How to Listen to Jazz**
 * Ash Maurya, **Running Lean (3rd ed)**
@@ -108,7 +112,7 @@ Please borrow or buy from wherever you desire. I've placed "Amazon" links below 
 * Randy Komisar, Jantoon Reigersman, **Straight Talk for Startups**
 * Steve Kamb, **Level Up Your Life**
 * Eric Barker, **Barking Up The Wrong Tree**
-* Michael Gervais, Pete Carroll, **Finding Your Best**
+* Dr Michael Gervais & Pete Carroll, **Finding Your Best: A Conversation on High Performance Mindset**
 * Neil Postman, **Amusing Ourselves to Death**
 * Jonathan Hernandez, **The Truth About Aaron**
 * Ron Lieber, **The Price You Pay for College**

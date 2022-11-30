@@ -178,6 +178,7 @@ Related: [Messaging](https://github.com/JamesLavin/my_tech_resources/blob/master
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - MICROSERVICES
 
 * [Not Just Events: Developing Asynchronous Microservices - Chris Richardson (GOTO 2019)](https://www.youtube.com/watch?v=kyNL7yCvQQc)
+* [Event Modeling Part 1 of 2 - Adam Dymitruk (YOW! Perth 2022)](https://www.youtube.com/watch?v=7sfJQ9doETQ) & [Part 2 of 2](https://www.youtube.com/watch?v=Y1SWHcYKsCs)
 
 ### EVENT SOURCING, CQRS, DDD, & MICROSERVICES - PROCESS MANAGERS, SAGAS, & DISTRIBUTED TRANSACTIONS
 

@@ -51,6 +51,7 @@ After this page grew too large (when Github started truncating it), I split out 
 
 ## ARTIFICIAL INTELLIGENCE (AI)
 
+* [Dive into Deep Learning - Ashton Zhang, et al.](https://d2l.ai/)
 * [Fast.ai](http://www.fast.ai/) | [Practical Deep Learning for Coders, v3 (free course)](https://course.fast.ai/videos/?lesson=1) | [The Fast AI Book (free)](https://github.com/fastai/fastbook) | [The Fast AI Book (dead tree)](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
 * [Software 2.0 - Andrej Karpathy](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 * [Grokking Deep Learning - Andrew Trask](https://github.com/iamtrask/Grokking-Deep-Learning)
@@ -995,6 +996,7 @@ After this page grew too large (when Github started truncating it), I split out 
 ## CLEAN CODE
 
 * Finding your service boundaries: A practical guide - Adam Ralph: [NDC { Oslo 2018}](https://www.youtube.com/watch?v=tVnIUZbsxWI) & [Dev Ternity 2019](https://www.youtube.com/watch?v=tO6YAQXVzyU)
+* [Building Observability for 99% Developers - Jean Yang (StrangeLoop 2022)](https://www.youtube.com/watch?v=UJA4PGKny2k)
 * [How To Write Unmaintainable Code: Ensure a job for life ;-) - Roedy Green](https://www.se.rit.edu/~tabeec/RIT_441/Resources_files/How%20To%20Write%20Unmaintainable%20Code.pdf)
 * [Making It Count: Quality is NOT an Option - Todd Montgomery (GOTO 2018)](https://www.youtube.com/watch?v=LTZdmb5-8n8)
 * [Is Your Code Too SOLID? - Sarah Mei](http://forwardjs.com/university/is-your-code-too-solid)
@@ -1036,6 +1038,7 @@ After this page grew too large (when Github started truncating it), I split out 
 
 ### CLEAN CODE - AGILE
 
+* [Shortening the Architectural Feedback Loop - Eltjo R. Poort (GOTO 2022)](https://www.youtube.com/watch?v=lshfKKeB1Io)
 * [War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile - Allen Holub (GOTO 2020)](https://www.youtube.com/watch?v=F42A3R28WMU) & [Getting Started with Agility: Essential Reading - Allen Holub](https://holub.com/reading/) & [The Death of Agile (Software Architect London 2014)](https://www.youtube.com/watch?v=HZyRQ8Uhhmk)
 * [Why Scaling Agile Doesn't Work - Jez Humble (GOTO 2015)](https://www.youtube.com/watch?v=2zYxWEZ0gYg)
 * [Beyond Scope, Schedule, and Cost: The Agile Triangle - Jim Highsmith (ThoughtWorks)](https://dfwscrum.files.wordpress.com/2011/07/dfwscrum_20110726_jimhighsmith.pdf)
@@ -1935,6 +1938,11 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 * [Introducing LiteFS - Ben Johnson & Thomas Ptacek](https://fly.io/blog/introducing-litefs/)
 
+#### DATABASES - SQLITE - LITESTREAM
+
+* [Litestream.io](https://litestream.io/) | [Github](https://github.com/benbjohnson/litestream)
+* [Litestream: Making Single-Node Deployments Cool Again (Ben Johnson)](https://www.youtube.com/watch?v=drgriZCRyrQ&list=PLSE8ODhjZXjZKp-oX_75aBnznulk7nubu&index=6)
+
 ### DATABASES - STREAMING REPLICATION
 
 * [Open-Sourcing Yelp's Data Pipeline - Yelp](https://engineeringblog.yelp.com/2016/11/open-sourcing-yelps-data-pipeline.html) | [MySQL Streamer](https://github.com/Yelp/mysql_streamer) | [Schematizer](https://github.com/Yelp/schematizer) | [Data pipeline client](https://github.com/Yelp/data_pipeline) | [Data pipeline Avro util](https://github.com/Yelp/data_pipeline_avro_util) | [Kafka library](https://github.com/Yelp/yelp_kafka)
@@ -2238,6 +2246,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 ### FUNCTIONAL PROGRAMMING - CONFERENCE VIDEOS
 
+* [GOTO Conferences](https://www.youtube.com/playlist?list=PLEx5khR4g7PIyc7AhQEUm06yslH_hWM2i)
 * YOW! Lambda Jam: [2020](https://www.youtube.com/playlist?list=PLIpl4GKFQR6fkt0w6C047BHSdcKKMxVPM) | [2019](https://www.youtube.com/playlist?list=PLIpl4GKFQR6fg3CBx65LXnj3gz2MFNN5O) | [2018](https://www.youtube.com/playlist?list=PLIpl4GKFQR6fyK1MmpDVHqH7txoHfCk5n) | [2017](https://www.youtube.com/playlist?list=PLIpl4GKFQR6dqCNb2J0eQFR21Lwnk4I86) | [2016](https://www.youtube.com/playlist?list=PLIpl4GKFQR6dFB0W9IzF_gcIt1VMRnuco) | [2015](https://www.youtube.com/playlist?list=PLIpl4GKFQR6cS33i5kkKboslEzbVN-nT7) | [2014](https://www.youtube.com/playlist?list=PLIpl4GKFQR6e134FWCj0BirnzKslmOE1f) | [2013](https://www.youtube.com/playlist?list=PLIpl4GKFQR6fLshmpv5DQ-PmoOkHrXgzx)
 * LambdaDays: [2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsV9Bw0wp1P46SOdtk4pFW6) | [2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvCRCVlXTfB6-d09K3r0Sxa) | [2018](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jaxwnNB7KFEV7HYA0qHVxl)
 * LambdaConf (λC): [2019](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhzT6OVc5laZqqGAa5mlqKjF) | [2018](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhzLs7nLb57N75EY4py_P7pI) | [2017](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhx5bgmpAgqArzrh0pL-tc3P) | [2017 Winter Retreat](https://www.youtube.com/playlist?list=PL7DZ7q3nEWhy9wMify6MXW6F339W4g4Eo) | [2016](https://www.youtube.com/channel/UCEtohQeDqMSebi2yvLMUItg/videos) | [2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcybh21_zOg8_y4f2oMKDHpUS)
@@ -4837,6 +4846,7 @@ Peter R. Egli:
 
 ## TESTING
 
+* [Test Driven Development: That’s Not What We Meant - Steve Freeman (YOW! 2017)](https://www.youtube.com/watch?v=yuEbZYKgZas) (test == logical design; code == physical design)
 * [High Cost Tests and High Value Tests - Noel Rappin (GOTO 2018)](https://www.youtube.com/watch?v=e8_YDUn5JZ4)
 * [Testing Microservices, the sane way - Cindy Sridharan](https://medium.com/@copyconstruct/testing-microservices-the-sane-way-9bb31d158c16)
 * [TDD, Where Did It All Go Wrong - Ian Cooper (DevTernity 2017)](https://www.youtube.com/watch?v=EZ05e7EMOLM)

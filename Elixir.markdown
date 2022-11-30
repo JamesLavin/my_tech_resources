@@ -215,6 +215,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir v1.14 released - Andrea Leopardi](https://elixir-lang.org/blog/2022/09/01/elixir-v1-14-0-released/)
   * [dbg](https://elixir-lang.org/blog/2022/09/01/elixir-v1-14-0-released/#dbg)
     * [Elixir 1.14: Better Debugging with dbg/2 and More - Sophie DeBenedetto](https://blog.appsignal.com/2022/09/13/elixir-1-14-better-debugging-with-dbg-and-more)
+    * [Debugging in Elixir and Erlang: An Introduction - Marcos Ramos](https://blog.appsignal.com/2022/11/29/debugging-in-elixir-and-erlang-an-introduction.html)
   * [PartitionSupervisor](https://elixir-lang.org/blog/2022/09/01/elixir-v1-14-0-released/#partitionsupervisor)
 * [Elixir v1.14 - José Valim (ElixirConf 2022)](https://www.youtube.com/watch?v=KmLw58qEtuM)
 * [Release Notes](https://github.com/elixir-lang/elixir/releases/tag/v1.14.0)
@@ -1005,11 +1006,11 @@ F
 
 * [Distributed War Stories - Miriam Pena (EMPEX LA 2019)](https://www.youtube.com/watch?v=b3JQgyj17hk)
 * [Horde is a distributed process registry and supervisor built on δ-CRDTs - Derek Kraan](https://github.com/derekkraan/horde) | [API Docs](https://hexdocs.pm/horde/api-reference.html) | [Introducing Horde](https://medium.com/@derek.kraan2/introducing-horde-a-distributed-supervisor-in-elixir-4be3259cc142) | [Getting Started](https://medium.com/@derek.kraan2/getting-started-with-hordes-distributed-supervisor-registry-f3017208e1ce) | [Docker & OTP: Friends or Foes - Daniel Azuma (ElixirConf 2018)](https://www.youtube.com/watch?v=nLApFANtkHs)
+* [Idioms for Building Distributed Fault–Tolerant Applications with Elixir - José Valim (YOW! 2021)](https://www.youtube.com/watch?v=mkGq1WoEvI4) & [EuRuKo 2016](https://www.youtube.com/watch?v=xhwnHovnq_0)
 * [Why time is evil in distributed systems - Peter Van Roy (Code BEAM STO 19)](https://www.youtube.com/watch?v=NBJ5SiwCNmU)
 * [Always Available - Claudio Ortolina (ElixirConf EU 2017)](https://www.youtube.com/watch?v=UTXYiV7nOpM)
 * [Elixir and Money - Tomasz Kowal (ElixirConf EU 2017)](https://www.youtube.com/watch?v=TZPG8b-Novw)
 * [Think in Erlang! - Viktória Fördős (Code BEAM STO 19)](https://www.youtube.com/watch?v=zAPGs0CLyvA)
-* [Idioms for Building Distributed Fault–Tolerant Applications with Elixir - José Valim (EuRuKo 2016)](https://www.youtube.com/watch?v=xhwnHovnq_0)
 * [pg2 and You: Getting Distributed with Elixir - Eric Entin (ElixirConf 2016)](https://www.youtube.com/watch?v=_O-bLuVhcCA) | [Slides](https://speakerdeck.com/antipax/pg2-and-you-getting-distributed-with-elixir)
 
 #### ELIXIR - DISTRIBUTION - PARTISAN
@@ -1375,6 +1376,7 @@ F
 
 #### ELIXIR - MACHINE LEARNING - AXON
 
+* [Axon: Functional Programming for Deep Learning - Sean Moriarity (ElixirConf 2022)](https://www.youtube.com/watch?v=NWXSiZ-vi-o)
 * [Axon.Serving: Model Serving with Axon and Elixir - Sean Moriarity](https://dockyard.com/blog/2022/10/17/axon-serving-model-serving-with-axon-and-elixir)
 * [Semantic Search with Phoenix, Axon, and Elastic - Sean Moriarity](https://dockyard.com/blog/2022/09/28/semantic-search-with-phoenix-axon-and-elastic)
 * [Catching Fraud with Elixir and Axon - Sean Moriarity](https://dockyard.com/blog/2022/04/07/catching-fraud-with-elixir-and-axon)
@@ -1533,6 +1535,7 @@ F
 * [Learning Elixir's GenServer with a real-world example - Alex Reichert](https://dev.to/reichert621/learning-elixir-s-genserver-with-a-real-world-example-5fef)
 * [Parenting Children - Saša Jurić (Virtual BEAM Meetup 2020)](https://www.youtube.com/watch?v=Iih3Nrce3_U)
 * [Simplifying Systems with Elixir - Saša Jurić (YOW! Lambda Jam 2020)](https://www.youtube.com/watch?v=Clm_NhWI0hY) & [Repository containing the complete source code of The Erlangelist site](https://github.com/sasa1977/erlangelist)
+* [Understanding common network protocols with Elixir - Willian Frantz (ElixirConf 2022)](https://www.youtube.com/watch?v=yOvfQxJPgwY)
 * [Consistent, Distributed Elixir - Chris Keathley (ElixirDaze 2018)](https://www.youtube.com/watch?v=CmMMpaUD3g8)
 * [The ABCs of OTP - Jesse J Anderson (ElixirDaze 2017)](https://www.youtube.com/watch?v=8X0IWW2GJoQ) | [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir) | [resource links](https://gist.github.com/jessejanderson/16cbc0614e9194fa1b64460f775777ab)
 * [Let It Crash: Creating an Example Supervisor in Elixir Using OTP - Tyler Pachal](https://medium.com/@tylerpachal/let-it-crash-creating-an-example-supervisor-in-elixir-using-otp-36ea4236b02b)
