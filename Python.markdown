@@ -583,6 +583,7 @@ Links to Ruby & Rails resources I have found useful or think might be helpful to
 * [Learn to Program: The Fundamentals - Jennifer Campbell and Paul Gries - U of Toronto (Coursera)](https://www.coursera.org/course/programming1)
 * [Programming Foundations with Python: Learn Object-Oriented Programming - Kunal Chawla (Udacity)](https://www.udacity.com/course/ud036)
 * [Python for Informatics: Exploring Information - Charles Severance](http://www.pythonlearn.com/book.php), [PDF](http://www.pythonlearn.com/book_008.pdf) & [videos](http://pythonlearn.com/)
+* [Python Programming Tutorials](https://www.scaler.com/topics/python/)
 * [Intro to Python - Keven Sheppard](http://www.kevinsheppard.com/Python_Course#YouTube_Catch-up)
 * [Programming for Everybody (Getting Started with Python) - Charles Severance (University of Michigan)](https://www.coursera.org/learn/python)
 * [Python Data Structures - Charles Severance (University of Michigan)](https://www.coursera.org/learn/python-data)
