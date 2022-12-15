@@ -1381,6 +1381,12 @@ F
 * [Semantic Search with Phoenix, Axon, and Elastic - Sean Moriarity](https://dockyard.com/blog/2022/09/28/semantic-search-with-phoenix-axon-and-elastic)
 * [Catching Fraud with Elixir and Axon - Sean Moriarity](https://dockyard.com/blog/2022/04/07/catching-fraud-with-elixir-and-axon)
 
+#### ELIXIR - MACHINE LEARNING - BUMBLEBEE
+
+* [Bumblebee: GPT2, Stable Diffusion, and more in Elixir - José Valim](https://www.youtube.com/watch?v=g3oyh3g1AtQ)
+* [From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community - José Valim](https://huggingface.co/blog/elixir-bumblebee)
+* [Use Neural Networks In Livebook - Peter Ullrich](https://www.peterullrich.com/use-neural-networks-in-livebook)
+
 #### ELIXIR - MACHINE LEARNING - NEURAL NETWORKS
 
 * [AutomatingTheFuture.com - Quentin Thomas](http://www.automatingthefuture.com/)

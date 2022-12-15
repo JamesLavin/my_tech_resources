@@ -18,6 +18,12 @@ Please borrow or buy from wherever you desire. I've placed "Amazon" links below 
 
 ### Completed 2022
 
+* Nathan Furr, **Nail It Then Scale It**
+* Jeff Lawson, **Ask Your Developer**
+* Mark Manson, **Everything Is F-cked**
+* Reed Hastings, **No Rules Rules**
+* Allen Gannett, **The Creative Curve**
+* Mike Michalowicz, **Fix This Next**
 * Bill Russell, **Go Up For Glory**
 * Leander Kahney, **Jony Ive: The Genius Behind Apple's Greatest Products**
 * Allen Gannett, **The Creative Curve: How to Develop the Right Idea at the Right Time**
