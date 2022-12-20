@@ -18,115 +18,115 @@ Please borrow or buy from wherever you desire. I've placed "Amazon" links below 
 
 ### Completed 2022
 
-* Nathan Furr, **Nail It Then Scale It**
-* Jeff Lawson, **Ask Your Developer**
-* Mark Manson, **Everything Is F-cked**
-* Reed Hastings, **No Rules Rules**
-* Allen Gannett, **The Creative Curve**
-* Mike Michalowicz, **Fix This Next**
-* Bill Russell, **Go Up For Glory**
+* Daniel E. Lieberman, **Exercised: Why Something We Never Evolved to Do Is Healthy and Rewarding**
+* Nathan Furr, **Nail It Then Scale It: The Entrepreneur's Guide to Creating and Managing Breakthrough Innovation**
+* Jeff Lawson, **Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century**
+* Mark Manson, **Everything Is F-cked: A Book About Hope**
+* Reed Hastings, **No Rules Rules: Netflix and the Culture of Reinvention**
+* Mike Michalowicz, **Fix This Next: Make the Vital Change That Will Level Up Your Business**
+* Bill Russell, **Go Up For Glory** (autobiography by Boston Celtics legend)
 * Leander Kahney, **Jony Ive: The Genius Behind Apple's Greatest Products**
 * Allen Gannett, **The Creative Curve: How to Develop the Right Idea at the Right Time**
 * Shirish Nadkarni, **From Startup to Exit: An Insider's Guide to Launching and Scaling Your Tech Business**
-* Leigh Gallagher, **The Airbnb Story**
+* Leigh Gallagher, **The Airbnb Story: How Three Ordinary Guys Disrupted an Industry, Made Billions…and Created Plenty of Controversy**
 * Ted Gioia, **How to Listen to Jazz**
-* Ash Maurya, **Running Lean (3rd ed)**
-* Seth Godin, **This Is Marketing**
-* Morgan Housel, **The Psychology of Money**
+* Ash Maurya, **Running Lean: Iterate from Plan A to a Plan That Works (3rd ed)**
+* Seth Godin, **This Is Marketing: You Can't Be Seen Until You Learn to See**
+* Morgan Housel, **The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness**
 * Sheera Frenkel and Cecilia Kang, **An Ugly Truth: Inside Facebook's Battle for Domination**
-* Ken Segall, **Insanely Simple**
-* Yvon Chouinard, **The Responsible Company**
-* Rob Fitzpatrick, **The Mom Test**
-* Tony Fadell, **Build**
-* Kurt Vonnegut, **Hocus Pocus**
-* Ben R. Rich, **Skunk Works**
-* Donna Jackson Nakazawa, **The Angel and the Assassin**
-* Curtis Morley, **The Entrepreneur's Paradox**
-* Frederic Kerrest, **Zero to IPO**
-* George Magnus, **Red Flags**
-* Roger L. Martin & A.G. Lafley, **Playing to Win**
-* Eric Jorgenson, **The Almanack of Naval Ravikant**
-* Jon Acuff, **Finish**
-* Norm Brodsky & Bo Burlingham, **Street Smarts**
-* Robert A. Heinlein, **The Moon is a Harsh Mistress**
-* Marcus Buckingham & Ashley Goodall, **Nine Lies About Work**
-* Andy Weir, **Project Hail Mary**
-* Robert Glazer, **Elevate**
+* Ken Segall, **Insanely Simple: The Obsession that Drives Apple's Success**
+* Yvon Chouinard, **The Responsible Company: What We've Learned from Patagonia's First 40 Years**
+* Rob Fitzpatrick, **The Mom Test: How to Talk to Customers & Learn If Your Business Is a Good Idea When Everyone Is Lying to You**
+* Tony Fadell, **Build: An Unorthodox Guide to Making Things Worth Making**
+* Kurt Vonnegut, **Hocus Pocus** (fiction)
+* Ben R. Rich, **Skunk Works: A Personal Memoir of My Years of Lockheed**
+* Donna Jackson Nakazawa, **The Angel and the Assassin: The Tiny Brain Cell That Changed the Course of Medicine**
+* Curtis Morley, **The Entrepreneur's Paradox: And How to Overcome the 16 Pitfalls Along the Startup Journey**
+* Frederic Kerrest, **Zero to IPO: Over $1 Trillion of Actionable Advice from the World's Most Successful Entrepreneurs**
+* George Magnus, **Red Flags: Why Xi's China Is in Jeopardy**
+* Roger L. Martin & A.G. Lafley, **Playing to Win: How Strategy Really Works**
+* Eric Jorgenson, **The Almanack of Naval Ravikant: A Guide to Wealth and Happiness**
+* Jon Acuff, **Finish: Give Yourself the Gift of Done**
+* Norm Brodsky & Bo Burlingham, **Street Smarts: An All-Purpose Tool Kit for Entrepreneurs**
+* Robert A. Heinlein, **The Moon is a Harsh Mistress** (sci-fi)
+* Marcus Buckingham & Ashley Goodall, **Nine Lies About Work: A Freethinking Leader's Guide to the Real World**
+* Andy Weir, **Project Hail Mary** (sci-fi)
+* Robert Glazer, **Elevate: Push Beyond Your Limits and Unlock Success in Yourself and Others**
 * Randy Pausch & Jeffrey Zaslow, **The Last Lecture**
-* Bill George, **Discover Your True North**
+* Bill George, **Discover Your True North (updated & expanded edition)**
 * Ray Kroc & Robert Anderson, **Grinding It Out: The Making of McDonald's**
-* Ozan Varol, **Think Like a Rocket Scientist** (listened twice)
-* Steven S. Hoffman, **Make Elephants Fly**
-* Cal Newport, **Digital Minimalism**
-* Dan Sullivan, Benjamin Hardy, **The Gap and the Gain**
-* Shellye Archambeau, **Unapologetically Ambitious**
-* Jim McKelvey, **The Innovation Stack**
+* Ozan Varol, **Think Like a Rocket Scientist: Simple Strategies You Can Use to Make Giant Leaps in Work and Life** (listened twice)
+* Steven S. Hoffman, **Make Elephants Fly: The Process of Radical Innovation**
+* Cal Newport, **Digital Minimalism: Choosing a Focused Life in a Noisy World**
+* Dan Sullivan, Benjamin Hardy, **The Gap and the Gain: The High Achievers' Guide to Happiness, Confidence, and Success**
+* Shellye Archambeau, **Unapologetically Ambitious: Take Risks, Break Barriers, and Create Success on Your Own Terms**
+* Jim McKelvey, **The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time**
 * Fernando Trias de Bes, **The Little Black Book of Entrepreneurship**
-* Ash Maurya, **Scaling Lean**
-* Allen Dib, **The 1-Page Marketing Plan**
-* Dan Olsen, **The Lean Product Playbook**
-* Robin Wigglesworth, **Trillions**
-* Steven Johnson, **Where Good Ideas Come From** (read this *multiple* times; library)
-* Fred Reichheld, **Winning On Purpose**
-* Dave Parker, **Trajectory: Startup**
-* Joseph Henrich, **The Secret of Our Success** (library got it at my request)
-* Antonio Damasio, **The Strange Order of Things** (library got it at my request)
-* Adam Grant, **Think Again** (library)
-* Betty White, **Here We Go Again** (library)
-* Dan Ariely, **Predictably Irrational** (library)
-* Ari Meisel, **The Art of Less Doing**
-* Alan Ramadan, **Play Bigger** (library)
-* Betty White, **If You Ask Me** (library)
-* Daniel Coyle, **The Culture Code** (library; I re-read this every few years)
-* Jim McLamore, **The Burger King** (library got it at my request)
-* Karl Deisseroth, **Projections**
-* Paul G. Falkowski, **Life’s Engines**
-* Peter M. Hoffman, **Life’s Ratchet**
+* Ash Maurya, **Scaling Lean: Mastering the Key Metrics for Startup Growth**
+* Allen Dib, **The 1-Page Marketing Plan: Get New Customers, Make More Money, And Stand Out From The Crowd**
+* Dan Olsen, **The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback**
+* Robin Wigglesworth, **Trillions: How a Band of Wall Street Renegades Invented the Index Fund and Changed Finance Forever** (library)
+* Steven Johnson, **Where Good Ideas Come From: The Natural History of Innovation** (read this *multiple* times; library)
+* Fred Reichheld, **Winning On Purpose: The Unbeatable Strategy of Loving Customers**
+* Dave Parker, **Trajectory: Startup: Ideation to Product/Market Fit - A Handbook for Founders and Anyone Supporting Them**
+* Joseph Henrich, **The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter** (library got it at my request)
+* Antonio Damasio, **The Strange Order of Things: Life, Feeling, and the Making of Cultures** (library got it at my request)
+* Adam Grant, **Think Again: The Power of Knowing What You Don't Know** (library)
+* Betty White, **Here We Go Again: My Life In Television** (library)
+* Dan Ariely, **Predictably Irrational: The Hidden Forces That Shape Our Decisions** (library)
+* Ari Meisel, **The Art of Less Doing: One Entrepreneur's Formula for a Beautiful Life**
+* Alan Ramadan, **Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate Markets** (library)
+* Betty White, **If You Ask Me (And of Course You Won't)** (library)
+* Daniel Coyle, **The Culture Code: The Secrets of Highly Successful Groups** (library; I re-read this every few years)
+* Jim McLamore, **The Burger King: A Whopper of a Story on Life and Leadership** (library got it at my request)
+* Karl Deisseroth, **Projections: A Story of Human Emotions**
+* Paul G. Falkowski, **Life’s Engines: How Microbes Made Earth Habitable**
+* Peter M. Hoffman, **Life’s Ratchet: How Molecular Machines Extract Order from Chaos**
 * Beronda L. Montgomery, **Lessons from Plants**
-* Rajat Bhargava & Will Herman, **The Startup Playbook (2nd ed)**
-* Sahil Levingia, **The Minimalist Entrepreneur**
-* Chuck Palahniuk, **Consider This**
-* Seth Godin, **Tribes**
-* Sy Montgomery, **The Soul of An Octopus** (library)
-* Scott O’Neil, **Be Where Your Feet Are** (library)
-* Katie Hafner, **Where Wizards Stay Up Late**
-* Thomas E. Ricks, **First Principles** (library)
-* Fumio Sasaki, Hello, **Habits** (library)
-* Caroline Williams, **Move** (library)
-* Kai Strittmatter, **We Have Been Harmonized** (library)
-* David Fideler, **Breakfast With Seneca** (library)
-* Amelia Pang, **Made in China** (library)
-* John Cleese, **Creativity** (library)
-* Catherine Price, **The Power of Fun** (library)
+* Rajat Bhargava & Will Herman, **The Startup Playbook: Founder-to-Founder Advice from Two Startup Veterans (2nd ed)**
+* Sahil Levingia, **The Minimalist Entrepreneur: How Great Founders Do More with Less**
+* Chuck Palahniuk, **Consider This: Moments in My Writing Life After Which Everything Was Different**
+* Seth Godin, **Tribes: We Need You to Lead Us**
+* Sy Montgomery, **The Soul of An Octopus: A Surprising Exploration into the Wonder of Consciousness** (library)
+* Scott O’Neil, **Be Where Your Feet Are: Seven Principles to Keep You Present, Grounded, and Thriving** (library)
+* Katie Hafner, **Where Wizards Stay Up Late: The Origins of the Internet**
+* Thomas E. Ricks, **First Principles: What America's Founders Learned from the Greeks and Romans and How That Shaped Our Country** (library)
+* Fumio Sasaki, **Hello, Habits: A Minimalist's Guide to a Better Life** (library)
+* Caroline Williams, **Move: How the New Science of Body Movement Can Set Your Mind Free** (library)
+* Kai Strittmatter, **We Have Been Harmonized: Life in China's Surveillance State** (library)
+* David Fideler, **Breakfast With Seneca: A Stoic Guide to the Art of Living** (library)
+* Amelia Pang, **Made in China: A Prisoner, an SOS Letter, and the Hidden Cost of America's Cheap Goods** (library)
+* John Cleese, **Creativity: A Short and Cheerful Guide** (library)
+* Catherine Price, **The Power of Fun: How to Feel Alive Again** (library)
 * Carlo M. Cipolla, **The Basic Laws of Human Stupidity** (library)
-* Satya Nadella, **Hit Refresh** (library)
-* Walter Isaacson, **The Code Breaker** (library)
-* Elie Mystal, **Allow Me to Retort** (really, really great… get the audiobook, read by the author!)
-* Ben Lindbergh, Travis Sawchik, **The MVP Machine**
-* David A. Price, **The Pixar Touch**
-* Carl Zimmer, **Life’s Edge**
-* Patrick J. McGinnis, **The 10% Entrepreneur**
-* Brad Stulbert, Steve Magness, **The Passion Paradox**
-* Jeffrey Bussgang, **Entering StartupLand**
-* Pat Flynn, **Superfans**
-* Jo Boaler, **Limitless Mind**
-* Michael Moss, **Salt, Sugar, Fat**
-* David M. Cote, **Winning Now, Winning Later**
-* Suneel Gupta, **Backable**
-* Adam Savage, **Every Tool’s a Hammer**
-* Reginald F. Lewis, **Why Should White Guys Have All the Fun?**
-* Randy Komisar, Jantoon Reigersman, **Straight Talk for Startups**
-* Steve Kamb, **Level Up Your Life**
-* Eric Barker, **Barking Up The Wrong Tree**
+* Satya Nadella, **Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone** (library)
+* Walter Isaacson, **The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race** (library)
+* Elie Mystal, **Allow Me to Retort: A Black Guy's Guide to the Constitution** (really, really great… get the audiobook, read by the author!)
+* Ben Lindbergh, Travis Sawchik, **The MVP Machine: How Baseball's New Nonconformists Are Using Data to Build Better Players**
+* David A. Price, **The Pixar Touch: The Making of a Company**
+* Carl Zimmer, **Life’s Edge: The Search for What It Means to Be Alive**
+* Patrick J. McGinnis, **The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job**
+* Brad Stulbert, Steve Magness, **The Passion Paradox: A Guide to Going All In, Finding Success, and Discovering the Benefits of an Unbalanced Life**
+* Jeffrey Bussgang, **Entering StartupLand: An Essential Guide to Finding the Right Job**
+* Pat Flynn, **Superfans: The Easy Way to Stand Out, Grow Your Tribe, and Build a Successful Business**
+* Jo Boaler, **Limitless Mind: Learn, Lead, and Live Without Barriers**
+* Michael Moss, **Salt, Sugar, Fat: How the Food Giants Hooked Us**
+* David M. Cote, **Winning Now, Winning Later: How Companies Can Win in the Short Term While Investing for the Long Term**
+* Suneel Gupta, **Backable: The Surprising Truth Behind What Makes People Take a Chance on You**
+* Adam Savage, **Every Tool’s a Hammer: Lessons from a Lifetime of Making**
+* Reginald F. Lewis, **Why Should White Guys Have All the Fun?: How Reginald Lewis Created a Billion-Dollar Business Empire**
+* Randy Komisar, Jantoon Reigersman, **Straight Talk for Startups: 100 Insider Rules for Beating the Odds - From Mastering the Fundamentals to Selecting Investors, Fundraising, Managing Boards, and Achieving Liquidity**
+* Steve Kamb, **Level Up Your Life: How to Unlock Adventure and Happiness by Becoming the Hero of Your Own Story**
+* Eric Barker, **Barking Up The Wrong Tree: The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong**
 * Dr Michael Gervais & Pete Carroll, **Finding Your Best: A Conversation on High Performance Mindset**
-* Neil Postman, **Amusing Ourselves to Death**
-* Jonathan Hernandez, **The Truth About Aaron**
-* Ron Lieber, **The Price You Pay for College**
-* John J. Ratey, Richard Manning, **Go Wild**
-* Guy Raz, **How I Built This**
-* Alex Korb, **The Upward Spiral**
-* Roger McNamee, **Zucked**
-* Cliff Kuang, **User Friendly**
+* Neil Postman, **Amusing Ourselves to Death: Public Discourse in the Age of Show Business**
+* Jonathan Hernandez, **The Truth About Aaron: My Journey to Understand My Brother**
+* Ron Lieber, **The Price You Pay for College: An Entirely New Roadmap for the Biggest Financial Decision Your Family Will Ever Make**
+* John J. Ratey, Richard Manning, **Go Wild: Free Your Body and Mind from the Afflictions of Civilization**
+* Guy Raz, **How I Built This: The Unexpected Paths to Success from the World's Most Inspiring Entrepreneurs**
+* Alex Korb, **The Upward Spiral: Using Neuroscience to Reverse the Course of Depression, One Small Change at a Time**
+* Roger McNamee, **Zucked: Waking Up to the Facebook Catastrophe**
+* Cliff Kuang, **User Friendly: How the Hidden Rules of Design Are Changing the Way We Live, Work, and Play**
 
 ### Completed (approx) 2020-2021
 
