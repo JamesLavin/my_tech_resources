@@ -269,5 +269,6 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 #### MESSAGING - RABBITMQ - VIDEOS
 
+* [RabbitMQ Summit 2022](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuuF39_A_DAh6IwIuh8K6gd)
 * [RabbitMQ Summit 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs2ZakMrMBO_tr-CgEbOLRL)
 
