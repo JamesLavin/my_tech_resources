@@ -215,7 +215,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir v1.14 released - Andrea Leopardi](https://elixir-lang.org/blog/2022/09/01/elixir-v1-14-0-released/)
   * [dbg](https://elixir-lang.org/blog/2022/09/01/elixir-v1-14-0-released/#dbg)
     * [Elixir 1.14: Better Debugging with dbg/2 and More - Sophie DeBenedetto](https://blog.appsignal.com/2022/09/13/elixir-1-14-better-debugging-with-dbg-and-more)
-    * [Debugging in Elixir and Erlang: An Introduction - Marcos Ramos](https://blog.appsignal.com/2022/11/29/debugging-in-elixir-and-erlang-an-introduction.html)
+    * [Debugging in Elixir and Erlang: An Introduction - Marcos Ramos](https://blog.appsignal.com/2022/11/29/debugging-in-elixir-and-erlang-an-introduction.html) & [Debugging and Tracing in Erlang - Marcos Ramos](https://blog.appsignal.com/2023/01/10/debugging-and-tracing-in-erlang.html)
   * [PartitionSupervisor](https://elixir-lang.org/blog/2022/09/01/elixir-v1-14-0-released/#partitionsupervisor)
 * [Elixir v1.14 - José Valim (ElixirConf 2022)](https://www.youtube.com/watch?v=KmLw58qEtuM)
 * [Release Notes](https://github.com/elixir-lang/elixir/releases/tag/v1.14.0)
@@ -2478,6 +2478,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ERLANG - DEBUGGING
 
+* [Debugging in Elixir and Erlang: An Introduction - Marcos Ramos](https://blog.appsignal.com/2022/11/29/debugging-in-elixir-and-erlang-an-introduction.html) & [Debugging and Tracing in Erlang - Marcos Ramos](https://blog.appsignal.com/2023/01/10/debugging-and-tracing-in-erlang.html)
 * Recon: [recon](https://ferd.github.io/recon/recon.html) | [recon_alloc](https://ferd.github.io/recon/recon_alloc.html) | [recon_lib](https://ferd.github.io/recon/recon_lib.html) | [recon_map](https://ferd.github.io/recon/recon_map.html) | [recon_rec](https://ferd.github.io/recon/recon_rec.html) | [recon_trace](https://ferd.github.io/recon/recon_trace.html)
 * [redbug: Erlang tracing debugger](https://github.com/massemanet/redbug) | [Hex.pm](https://hex.pm/packages/redbug) | [Docs](https://hexdocs.pm/redbug/)
 * [Squeezing the most out of the server: Erlang Profiling - Facundo Olano](https://tech.nextroll.com/blog/dev/2020/04/07/erlang-profiling.html)

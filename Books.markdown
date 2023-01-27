@@ -6,7 +6,7 @@ I read (too) many books, especially since I began listening to audiobooks from m
 
 I was driven to audiobooks in late 2019, after suffering a detached retina. The (very successful) vitrectomy that saved my eye -- thank you again, Dr. Peter Weseley!!! -- induced a cataract that grew progressively worse until I fixed that with successful cataract surgery -- thank you, Dr. Peter Libre!!! For two years, between those surgeries, I couldn't focus both eyes at any distance and compensated by switching from dead-tree books to audiobooks. My happy accidental discovery of the joys of "reading" audiobooks has now blossomed into a habit... okay, an addiction. The only physical books I still read the old-fashioned way are inherently visual books, like technical books with code examples. I now do 95% of my text-based "reading" via audiobooks while accomplishing other tasks.
 
-I have completed and enjoyed all the books below and would recommend them to anyone like me. Of course, you're not me, so YMMV.
+I have completed and enjoyed all the books below and would recommend them to anyone like me. Of course, you're not me, so YMMV. Books not marked "library" overcame a higher bar to make this list because I had to pay for them, so I vetted them carefully pre-purchase.
 
 I encourage you to borrow audio or physical books from your local library or buy them from any retailer you choose. Personally, I first look for books through my library, then buy those I'm excited about but can't borrow. The key is to always be learning! Books empower you to learn things others have become experts at over many years in just a few hours. Their hard-earned, distilled wisdom just flows into your eyes or ears. It's incredible!
 
@@ -18,6 +18,14 @@ Please borrow or buy from wherever you desire. I've placed "Amazon" links below 
 
 ### Completed 2022
 
+* Jim Collins & William Lazier, **BE 2.0 (Beyond Entrepreneurship 2.0): Turning Your Business Into an Enduring Great Company** (Read this twice)
+* Cal Newport, **Deep Work: Rules for Focused Success in a Distracted World**
+* Brad Stone, **The Everything Store: Jeff Bezos and the Age of Amazon**
+* Michelle Obama, **Becoming**
+* Jeremy DeSilva, **First Steps: How Upright Walking Made Us Human**
+* Lawrence Ingrassia, **Billion Dollar Brand Club: How Dollar Shave Club, Warby Parker, and Other Disruptors Are Remaking What We Buy**
+* Todd Herman, **The Alter Ego Effect**
+* Stacy Perman, **In-N-Out Burger** (didn't enjoy this as much as I had expected to)
 * Daniel E. Lieberman, **Exercised: Why Something We Never Evolved to Do Is Healthy and Rewarding**
 * Nathan Furr, **Nail It Then Scale It: The Entrepreneur's Guide to Creating and Managing Breakthrough Innovation**
 * Jeff Lawson, **Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century**
