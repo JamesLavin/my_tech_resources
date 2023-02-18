@@ -16,10 +16,19 @@ Please borrow or buy from wherever you desire. I've placed "Amazon" links below 
 
 ## NON-FICTION BOOKS
 
-### Completed 2022
+### Completed 2023
 
+* Michael Dell, **Play Nice But Win: A CEO's Journey from Founder to Leader**
+* Srinivas Rao (with Robin Dellabough), **An Audience of One: Reclaiming Creativity for Its Own Sake**
+* Clint Pulver, **I Love It Here: How Great Leaders Create Organizations Their People Never Want To Leave**
+* Sam Newman, **Building Microservices: Designing Fine-Grained Systems, 2nd ed**
+* Dennis E. Taylor, **We Are Legion (We Are Bob)**
+* Rich Diviney, **The Attributes: 25 Hidden Drivers of Optimal Performance**
 * Jim Collins & William Lazier, **BE 2.0 (Beyond Entrepreneurship 2.0): Turning Your Business Into an Enduring Great Company** (Read this twice)
 * Cal Newport, **Deep Work: Rules for Focused Success in a Distracted World**
+
+### Completed 2022
+
 * Brad Stone, **The Everything Store: Jeff Bezos and the Age of Amazon**
 * Michelle Obama, **Becoming**
 * Jeremy DeSilva, **First Steps: How Upright Walking Made Us Human**

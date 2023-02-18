@@ -101,6 +101,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [A safer Elixir - Esteban Ibarra (ElixirConf EU 2021)](https://www.youtube.com/watch?v=0XFkdS-MrM4)
 * [Intro to Elixir - SolutionStreet.com](https://www.youtube.com/watch?v=lly-1UYmnFI)
 * [7 ways of doing Fizz Buzz in Elixir and other clickbaity stuff - Khaja Minhajuddin](https://minhajuddin.com/2018/07/06/7-ways-of-doing-fizz-buzz-in-elixir-and-other-clickbaity-stuff/)
+* [E-xyza Youtube channel (Isaac Yonemoto)](https://www.youtube.com/channel/UCuKBb--0F0qT_deSpMLsFRA): [Good starting video](https://www.youtube.com/watch?v=tY0-P4ovBqY)
 * Hands-on Elixir & OTP: Cryptocurrency trading bot - Kamil Skowron: [Youtube videos](https://www.youtube.com/playlist?list=PLxsE19GnjC5Nv1CbeKOiS5YqGqw35aZFJ) | [Online](https://www.elixircryptobot.com/) | [PDF](https://www.elixircryptobot.com/create-a-cryptocurrency-trading-bot-in-elixir.pdf) | [Epub](https://www.elixircryptobot.com/create-a-cryptocurrency-trading-bot-in-elixir.epub) | [Source code - Github](https://github.com/frathon/create-a-cryptocurrency-trading-bot-in-elixir-source-code)
 * [Buildings start-ups with Elixir - Michael Schaefermeyer (Code BEAM STO 19)](https://www.youtube.com/watch?v=icfvFFZUxZQ)
 * [Ten Things I Wish I Knew Before Using Elixir - Chris Williams](https://ropig.com/blog/ten-things-wish-knew-using-elixir/)
@@ -1034,6 +1035,7 @@ F
 * [Ecto: An Introduction to Elixir's Database Toolkit - Gints Dreimanis](https://serokell.io/blog/ecto-guide-for-beginners)
 * [The Little Ecto Cookbook - Dashbit](https://dashbit.co/ebooks/the-little-ecto-cookbook) (free download from the wonderful people at Dashbit.co who shared Elixir with the world)
 * [Using Ecto outside of Phoenix by Geoffrey Lessel (Lonestar ElixirConf 2017)](https://www.youtube.com/watch?v=PWJpSRUJDwk) & [An Intro to Ecto: Using Ecto in Non-Phoenix Elixir Projects - Geoffrey Lessel (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=8j3DLfNI6Jw)
+* [The Complete Guide to Full-Text Search With Postgres and Ecto - Peter Ullrich](https://www.peterullrich.com/complete-guide-to-full-text-search-with-postgres-and-ecto)
 * [Ecto: Database library for Elixir - Eric Meadows Jöhnson (Code Beam STO 2018)](https://www.youtube.com/watch?v=RT4p_g0SLUU)
 * [Diving into Ecto.Query - Willian Frantz (ElixirConf EU 2021)](https://www.youtube.com/watch?v=Hm34v0pVpX0)
 * [Embrace the Database With Ecto - Josh Branchaud (ElixirDaze 2017)](https://www.youtube.com/watch?v=fFqsMWmONN4)
@@ -2414,6 +2416,7 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ERLANG - BEAM
 
 * [The Soul of Erlang and Elixir - Saša Jurić (GOTO Chicago 2019)](https://www.youtube.com/watch?v=JvBT4XBdoUE) & [Reaping the Benefits of Elixir: How to Get Started - Saša Jurić & Erik Schön (GOTO 2020)](https://www.youtube.com/watch?v=-bCkha6U70o)
+* [Erlang Powered Rabbits - Lukas Larsson (RabbitMQ Summit 2022)](https://www.youtube.com/watch?v=Iip0gFGsSHA)
 * [Comparing common concurrency patterns in Elixir and Erlang - Devon Estes (Lambda Days 2020)](https://www.youtube.com/watch?v=GVSRi9Ki8d8) | (A Pattern Language for Parallel Application Programming - Berna L. Massingill, Timothy G. Mattson, Beverly A. Sanders)[https://www.cise.ufl.edu/research/ParallelPatterns/PatternLanguage/Background/PDSE99_long.htm]
 * [Unique resiliency of the Erlang VM, the BEAM and Erlang OTP - Irina Guberman (Code Beam SF 2020)](https://www.youtube.com/watch?v=Slf2PCC41tg)
 * [The BEAM Coding Paradigm - Kenji Rikitake (Code BEAM STO 2019)](https://www.youtube.com/watch?v=_KXHE6ULnww)
@@ -2587,6 +2590,7 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ERLANG - HISTORY
 
 * [An Evening at Erlang Factory: Joe Armstrong, Mike Williams, Robert Virding - Hackers / Founders](https://www.youtube.com/watch?v=rYkI0_ixRDc)
+* [Keynote: Over a Century of Programming - Mike Williams, Joe Armstrong, Robert Virding (Erlang User Conference Stockholm 2013)](https://www.youtube.com/watch?v=y5Y_JFIsg6s)
 * [Keynote: History of philosophy of Erlang with its creators - Bjarne Däcker, Mike Williams, and Robert Virding (Code BEAM V America 2021)](https://www.youtube.com/watch?v=-j_vy9zq3EY)
 * [Concurrency before Erlang - Bjarne Däcker (Code BEAM V America 2021)](https://www.youtube.com/watch?v=cg9CphowQiM)
 * [Concurrency before Erlang - Bjarne Däcker (Code Mesh LDN 19)](https://www.youtube.com/watch?v=Kh28YwzZkMM)
@@ -2777,7 +2781,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Writing Quality Code in Erlang - Garrett Smith (2014)](https://www.youtube.com/watch?v=CQyt9Vlkbis)
 * [Erlang User Conf 2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ijLaWEw-L2xtTVMQ5chWcp)
 * [Functional Programming with Erlang](https://www.youtube.com/playlist?list=PLlML6SMLMRgAooeL26mW502jCgWikqx_n)
-* Erlang Master Class (University of Kent): [Class 1: Functional Programming](https://www.youtube.com/watch?v=gKRyAb7d8lo&list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5) | [Class 2: Concurrent Programming](https://www.youtube.com/watch?v=nYgEny1goCY&list=PLR812eVbehlwq4qbqswOWH7NLKjodnTIn) | [Class 3: OTP Behaviours & Releases](https://www.youtube.com/watch?v=9HVvzSsdW9k&list=PLR812eVbehlx6vgWGf2FLHjkksAEDmFjc)
+* Erlang Master Class (University of Kent): [Class 1: Functional Programming](https://www.youtube.com/watch?v=gKRyAb7d8lo&list=PLR812eVbehlwEArT3Bv3UfcM9wR3AEZb5) | [Class 2: Concurrent Programming](https://www.youtube.com/watch?v=nYgEny1goCY&list=PLR812eVbehlwq4qbqswOWH7NLKjodnTIn) | [Class 3: OTP Behaviours & Releases](https://www.youtube.com/watch?v=9HVvzSsdW9k&list=PLR812eVbehlx6vgWGf2FLHjkksAEDmFjc) | [Erlang master classes](https://www.cs.kent.ac.uk/ErlangMasterClasses/)
 * [Erlang videos (InfoQ)](http://www.infoq.com/erlang/presentations/)
 * [ErlangSolutions Youtube videos](https://www.youtube.com/user/ErlangSolutions)
 * ICFP Erlang videos: [2018](https://www.youtube.com/playlist?list=PLnqUlCo055hXX4EZkvGk3bVeoLXJTymHc) | [2016 (10 videos)](https://www.youtube.com/playlist?list=PLnqUlCo055hXppdmJAbTH7tU9cayPfiUa)
