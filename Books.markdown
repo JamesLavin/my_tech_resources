@@ -16,6 +16,7 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2023
 
+* Jamie Mustard, **The Iconist: The Art and Science of Standing Out**
 * Barton Gellman, **Dark Mirror: Edward Snowden and the American Surveillance State**
 * Michael Dell, **Play Nice But Win: A CEO's Journey from Founder to Leader**
 * Srinivas Rao (with Robin Dellabough), **An Audience of One: Reclaiming Creativity for Its Own Sake**
