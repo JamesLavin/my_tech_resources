@@ -16,6 +16,10 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2023
 
+* Benjamin Bikman, MD, **Why We Get Sick: The Hidden Epidemic at the Root of Most Chronic Disease**
+* Simon Sinek, **Start With Why: How Great Leaders Inspire Everyone To Take Action**
+* Jim Kwik, **Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life**
+* David Nilssen & Jeff Levy, **Making the Jump into Small Business Ownership**
 * Jamie Mustard, **The Iconist: The Art and Science of Standing Out**
 * Barton Gellman, **Dark Mirror: Edward Snowden and the American Surveillance State**
 * Michael Dell, **Play Nice But Win: A CEO's Journey from Founder to Leader**
