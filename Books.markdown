@@ -16,6 +16,10 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2023
 
+* Annie Jacobsen, **The Pentagon's Brain: An Uncensored History of DARPA, America's Top Secret Military Research Agency**
+* Lorraine Justice, **The Future of Design: Global Product Innovation for a Complex World**
+* Thales S. Teixeira, **Unlocking the Customer Value Chain: How Decoupling Drives Consumer Disruption**
+* Robert McKee, **Storynomics: Story-Driven Marketing in the Post-Advertising World**
 * Benjamin Bikman, MD, **Why We Get Sick: The Hidden Epidemic at the Root of Most Chronic Disease**
 * Simon Sinek, **Start With Why: How Great Leaders Inspire Everyone To Take Action**
 * Jim Kwik, **Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life**
