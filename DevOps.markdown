@@ -429,6 +429,8 @@ Links to DevOps resources I have found useful or think might be helpful to futur
 
 ### DEVOPS - FLUXCD
 
+* [Flux at GitOps Con, KubeCon CloudNativeCon EU 2022](https://www.youtube.com/playlist?list=PLwjBY07V76p53FP85y03psCnb95u095Do)
+* [GitOps Days 2022 presentations](https://www.youtube.com/playlist?list=PL9lTuCFNLaD0NVkR17tno4X6BkxsbZZfr)
 * [FluxCD, ArgoCD or Jenkins X: Which Is the Right GitOps Tool for You? - Rafael Portela et al.](https://blog.container-solutions.com/fluxcd-argocd-or-jenkins-x-which-is-the-right-gitops-tool-for-you)
 * [CI/CD Tooling, Which is best for you? - Mobilise](https://www.mobilise.cloud/ci-cd-tooling-which-is-best-for-you/)
 
