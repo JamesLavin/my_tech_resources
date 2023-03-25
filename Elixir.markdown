@@ -926,6 +926,7 @@ F
 ##### ELIXIR - DEPLOYMENT - CROSS-PLATFORM - BURRITO
 
 * [Burrito: Cross-Platform Elixir Deployments](https://github.com/burrito-elixir/burrito)
+* [Burrito Wrap Your App in a BEAM Burrito! - Digit (EMPEX MTN 2022)](https://www.youtube.com/watch?v=oP9IQWaKciE)
 * [Elixir in a Burrito with Quinn and Digit - Thinking Elixir Podcast](https://podcast.thinkingelixir.com/81)
 
 #### ELIXIR - DEPLOYMENT - DISTILLERY (DEPRECATED)
@@ -1667,7 +1668,9 @@ F
 
 #### ELIXIR - PHOENIX - 1.7
 
+* [Phoenix 1.7.0 released: Built-in Tailwind, Verified Routes, LiveView Streams, and what's next - Chris McCord](https://phoenixframework.org/blog/phoenix-1.7-final-released)
 * [Phoenix + LiveView Updates - Chris McCord (ElixirConf 2022)](https://www.youtube.com/watch?v=9-rqBLjr5Eo)
+* [Phoenix 1.7's verified routes - German Velasco](https://www.germanvelasco.com/blog/phoenix-1-7-verified-routes)
 
 #### ELIXIR - PHOENIX - 1.6
 
@@ -2308,13 +2311,13 @@ Consequently, much of the following will soon be at least partially outdated:
 * ElixirConf: [2022](https://www.youtube.com/playlist?list=PLqj39LCvnOWbmaPrkGCAzFMC_FYZUkmSr) | [2021](https://www.youtube.com/playlist?list=PLqj39LCvnOWZna91xJ_i44g3rx4Brbpnv) | [2020](https://www.youtube.com/playlist?list=PLqj39LCvnOWZl_Pb0Y7wGWijKbTvL4gJg) | [2019](https://www.youtube.com/playlist?list=PLqj39LCvnOWYTNs1n3ZNMSNO3Svv_XweT) | [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL)
 * ElixirConf EU: [2022](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuuF39_A_DAh6IwIuh8K6gd) | [2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtdiDIxP_rPMQ5VmVhs4CKJ) | [EU Virtual October 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuqgpAyZVzeCoz6GQrQx9Xc) | [EU Virtual June 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuKXQqD64oZFss2fGERjKyK) | [2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtoiQC735NjHyPJUS_nmrxy) | [2017 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jV6N5XEjbUQe2GkYcRkZdD) | [2016 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2gB7HUE-2H61HAEyszAph3H) | [2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
 * Code BEAM / Code Mesh: [V Europe 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtkHrA2Uqq8AgDBCjnltUHd) | | [Code BEAM America 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZszGANDDqI25eXjIXs4iqig) | [V America 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtsGA-ZEVHfVE4Ch2wMMyKg) | [V 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZ3c4NEvwvvvpOlEY2NrYQ) [SF 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zv85s835EGDeCIBYMipJKgL) | [Lite Amsterdam 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtHPqiRFH4nAJwbrfz04V_Q) | [CodeElixir LDN 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvvzEOmlqLUyrZdsW27w7zH) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Stockholm 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztq2fM3aGvXlj_jOfiopM2B) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Munich 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztyk61upvBMvVPbfTyfFgCE) | [Berlin 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs6eFJ9yx-jR7UShGGfPnY4) | [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
+* EMPEX: [2022 MTN](https://www.youtube.com/playlist?list=PLyO-58-sOapwMYqvLRtvV8AGPdREu5Wg7) | [2020 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapxq8S0GQo861RupQuAeeu5N) | [2019 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapyHWNFBapGOz40efbJuwmx2) | [2018 NYC](https://www.youtube.com/playlist?list=PLyO-58-sOapw81dCfjDrX5TuYxS5S8qMq) | [2018 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapy9Fs4Sd-HOeQIFwrSCQ3z1) | [2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS) | [2016](https://www.youtube.com/playlist?list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
 * [Elixir Meetups - Curiosum](https://www.youtube.com/playlist?list=PLuCSJH2c8F0eVogs12KjaJMIOcSoOS3wk)
 * [José Valim Twitch recordings](https://www.twitch.tv/josevalim/videos)
 * The Big Elixir: [2019](https://www.youtube.com/playlist?list=PLaiqDZ6yySzjdDOXli7VcQw7a0wuJZfz1) | [2018](https://www.youtube.com/channel/UCInJUDVff2bzZSrkDRUCOdA)
 * Gig City Elixir: [2019](https://www.youtube.com/playlist?list=PLKBMoE8mCkXgXIHTEw9073T4HdNPrvXuw)
 * Meetups: [Elixir Berlin](https://www.youtube.com/channel/UC33mS5dbme8Hh_79YHVSibQ)
 * Lonestar ElixirConf: [2019](https://www.youtube.com/playlist?list=PLGqeEOaC5KsRisF-GUlgJh35EowwzMYoS) | [2018](https://www.youtube.com/playlist?list=PLGqeEOaC5KsQt7r8KCOzfDgcqsvy_-hCN) | [2017](http://confreaks.tv/events/lonestarelixir2017)
-* EMPEX: [2019 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapyHWNFBapGOz40efbJuwmx2) | [2018 NYC](https://www.youtube.com/playlist?list=PLyO-58-sOapw81dCfjDrX5TuYxS5S8qMq) | [2018 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapy9Fs4Sd-HOeQIFwrSCQ3z1) | [2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS) | [2016](https://www.youtube.com/playlist?list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
 * [SmartLogic Elixir LiveStream Archive](https://www.youtube.com/playlist?list=PLCv-QRhbg07HUmxY9maIWVG9868MCIiXX)
 * Code Elixir LDN: [2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zu4zxnZXtCSOCvsUHtxTYIl) | [2017](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h8_H-hZKYjNLTl3UraSyQ7) | [2016](https://www.youtube.com/playlist?list=PLWbHc_FXPo2ivlIjzcaHS9N_Swe_0hWj0)
 * [EveryElixirVideo.page](https://everyelixirvideo.page/)

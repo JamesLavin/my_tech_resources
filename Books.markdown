@@ -16,6 +16,7 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2023
 
+* Mariana Mazzucato, **Mission Economy: A Moonshot Guide To Changing Capitalism**
 * Annie Jacobsen, **The Pentagon's Brain: An Uncensored History of DARPA, America's Top Secret Military Research Agency**
 * Lorraine Justice, **The Future of Design: Global Product Innovation for a Complex World**
 * Thales S. Teixeira, **Unlocking the Customer Value Chain: How Decoupling Drives Consumer Disruption**
