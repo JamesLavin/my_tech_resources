@@ -1389,8 +1389,17 @@ F
 #### ELIXIR - MACHINE LEARNING - BUMBLEBEE
 
 * [Bumblebee: GPT2, Stable Diffusion, and more in Elixir - José Valim](https://www.youtube.com/watch?v=g3oyh3g1AtQ)
+* [Building a Conversational Support Bot with Elixir and Bumblebee - Sean Moriarity (Paraxial vlog)](https://www.youtube.com/watch?v=ELBQytOaQUQ)
 * [From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community - José Valim](https://huggingface.co/blog/elixir-bumblebee)
 * [Use Neural Networks In Livebook - Peter Ullrich](https://www.peterullrich.com/use-neural-networks-in-livebook)
+
+#### ELIXIR - MACHINE LEARNING - EX_FAISS
+
+* [ExFaiss: Elixir front-end for Facebook AI Similarity Search (Faiss)](https://github.com/elixir-nx/ex_faiss)
+* [Semantic Search with Phoenix, Axon, Bumblebee, and ExFaiss - Sean Moriarity](https://dockyard.com/blog/2023/01/11/semantic-search-with-phoenix-axon-bumblebee-and-exfaiss)
+* [Faiss (Facebook AI Similarity Search): library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
+  * [Faiss documentation](https://faiss.ai/)
+  * [Introduction to Facebook AI Similarity Search (Faiss) - Pinecone](https://www.pinecone.io/learn/faiss-tutorial/)
 
 #### ELIXIR - MACHINE LEARNING - NEURAL NETWORKS
 
@@ -1736,6 +1745,10 @@ F
 * [Phoenix WebSockets Under a Microscope - Dimitris Zorbas](https://zorbash.com/post/phoenix-websockets-under-a-microscope/)
 * [Phoenix Realtime Chat Application - Channels, Presence, and Ecto Relations - Part 3 - Tensor Programming](https://www.youtube.com/watch?v=KAqUy3nsXfg)
 
+#### ELIXIR - PHOENIX - COMPONENTS
+
+* [Creating A Frontend Style Guide With Phoenix Components - Marcelo](https://readyforproduction.dev/blog/frontend-style-guide-with-phoenix-components)
+
 #### ELIXIR - PHOENIX - CONTEXTS
 
 * [Context documentation](https://hexdocs.pm/phoenix/contexts.html) | [Testing contexts documentation](https://hexdocs.pm/phoenix/testing_contexts.html)
@@ -1971,6 +1984,7 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ELIXIR - PHOENIX - TELEMETRY
 
 * [Telemetry documentation](https://hexdocs.pm/phoenix/telemetry.html)
+* [Telemetry-Powered Observability - Ethan Gunderson (EMPEX MTN 2022)](https://www.youtube.com/watch?v=eOD6H8U_0GE)
 * Miguel Cobá: [Introduction to Telemetry in Elixir](https://blog.miguelcoba.com/introduction-to-telemetry-in-elixir) | [Telemetry and Metrics in Elixir](https://dev.to/miguelcoba/telemetry-and-metrics-in-elixir-20oc)
 * [It's Alive!!! Instrumenting Phoenix 1.5 - Sophie DeBenedetto (YOW! Lambda Jam 2020)](https://www.youtube.com/watch?v=ld6vtIA9cvQ)
 * Instrumenting Phoenix with Telemetry and LiveDashboard - Sophie DeBenedetto: [Part I](https://elixirschool.com/blog/instrumenting-phoenix-with-live-dashboard/) | [Part II: Telemetry Metrics + Reporters](https://elixirschool.com/blog/instrumenting_phoenix_with_telemetry_part_two/) | [Part III: Phoenix + Ecto Telemetry Events](https://elixirschool.com/blog/instrumenting_phoenix_with_telemetry_part_three/) | [Part IV: Erlang VM Measurements with `telemetry_poller`](https://elixirschool.com/blog/instrumenting-phoenix-with-telemetry-part-four/)
