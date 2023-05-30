@@ -16,6 +16,11 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2023
 
+* Simu Liu, **We Were Dreamers: An Immigrant Superhero Origin Story** (far deeper, funnier, and more meaningful than I had expected... I recommend the audiobook because Simu Liu's story is especially entertaining when he reads it)
+* Richard Sheridan, **Chief Joy Officer: How Great Leaders Elevate Human Energy and Eliminate Fear**
+* Kip Tindell, **Uncontainable: How Passion, Commitment, and Conscious Capitalism Built a Business Where Everyone Thrives**
+* Kareem Abdul-Jabbar, **Coach Wooden and Me: Our 50-Year Friendship on and off the Court** (astonishingly great book on so many levels; I literally cried at the end... I recommend the audiobook, which Kareem reads)
+* Robert Rosenberg, **Around the Corner to Around the World: A Dozen Lessons I Learned Running Dunkin Donuts**
 * Ryan Leak, **Chasing Failure: How Falling Short Sets You Up for Success**
 * Dan Lyons, **Lab Rats: How Silicon Valley Made Work Miserable for the Rest of Us**
 * Simon Sinek, **The Infinite Game**

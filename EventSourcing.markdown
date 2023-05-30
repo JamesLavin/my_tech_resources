@@ -190,6 +190,7 @@ Related: [Messaging](https://github.com/JamesLavin/my_tech_resources/blob/master
 * [Distributed Transactions are dead, long live distributed transactions! - Sergey Bykov (Reactive Summit Montreal 2018)](https://www.reactivesummit.org/2018/schedule/distributed-transactions-are-dead-long-live-distributed-transactions)
 * [Applying the Saga Pattern - Caitie McCaffrey (GOTO 2015)](https://www.youtube.com/watch?v=xDuwrtwYHu8)
 * [Failing (and recovering) asynchronously: a saga - Daniel Solano Gómez](https://www.youtube.com/watch?v=YYIluVvqQH8)
+* [Just-In-Time Architecture - Macklin Hartley (YOW! 2022)](https://www.youtube.com/watch?v=4TmVEmuRdx8&list=PLEx5khR4g7PLf2kQn3nYaZJC2Zv2GPbnY)
 * [Long Running Processes with Event Sourcing and CQRS - Andriy Drozdyuk](https://medium.com/@drozzy/long-running-processes-event-sourcing-cqrs-c87fbb2ca644)
 * [Microservices + Events + Docker = A Perfect Trio - Chris Richardson](https://www.youtube.com/watch?v=pD0rEtEEwck)
 * [The Saga Pattern - Robert Pankowecki (wroc_love.rb 2016)](https://www.youtube.com/watch?v=ECvDJ5ULgN8)

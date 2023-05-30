@@ -1021,6 +1021,11 @@ F
 
 * Partisan: High-Performance Distributed Erlang: [Partisan.cloud](http://partisan.cloud/) | [Github](https://github.com/lasp-lang/partisan/)
 
+#### ELIXIR - DISTRIBUTION - POGO
+
+* [Pogo: Distributed supervisor for clustered Elixir applications (Github)](https://github.com/team-telnyx/pogo)
+* [Pogo - distributed supervisor for Elixir - Michał Szajbe](https://szajbus.dev/elixir/2023/05/22/pogo-distributed-supervisor-for-elixir.html)
+
 ### ELIXIR - EARMARK
 
 * [Earmark—A Pure Elixir Markdown Processor](https://github.com/pragdave/earmark)
@@ -2481,6 +2486,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ERLANG - CONCURRENCY
 
+* [BEAM Concurrency in Action - Saša Jurić (YOW! 2022)](https://www.youtube.com/watch?v=A4x6IfceJCM)
 * [The How and Why of Fitting Things Together - Joe Armstrong](https://www.youtube.com/watch?v=ed7A7r6DBsM)
 * [JVM struggles and the BEAM - Joel Kemp](https://mrjoelkemp.medium.com/jvm-struggles-and-the-beam-4d9c58547410)
 * [Optimising for Concurrency: Comparing and contrasting the BEAM and JVM virtual machines - Francesco Cesarini & Gabor Olah](https://www.erlang-solutions.com/blog/optimising-for-concurrency-comparing-and-contrasting-the-beam-and-jvm-virtual-machines.html)

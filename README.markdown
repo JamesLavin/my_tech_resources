@@ -1875,6 +1875,10 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 * [Kinto with Alexis Metaireau and Mathieu Leplatre (Podcast.__init__)](https://www.podcastinit.com/episode-86-kinto-with-alexis-metaireau-and-mathieu-leplatre/)
 
+### DATABASES - MIGRATIONS
+
+* [Migrations: The Hardest Actual Problem in Computer Science - Matt Ranney (YOW! 2022)](https://www.youtube.com/watch?v=yJOrMDMqeoI)
+
 ### DATABASES - MYSQL
 
 * [Showdown: MySQL 8 vs PostgreSQL 10 - Kenn Ejima](https://hackernoon.com/showdown-mysql-8-vs-postgresql-10-3fe23be5c19e)
