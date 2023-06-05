@@ -1017,6 +1017,26 @@ F
 * [Think in Erlang! - Viktória Fördős (Code BEAM STO 19)](https://www.youtube.com/watch?v=zAPGs0CLyvA)
 * [pg2 and You: Getting Distributed with Elixir - Eric Entin (ElixirConf 2016)](https://www.youtube.com/watch?v=_O-bLuVhcCA) | [Slides](https://speakerdeck.com/antipax/pg2-and-you-getting-distributed-with-elixir)
 
+#### ELIXIR - DISTRIBUTION - CONSENSUS ALGORITHMS
+
+* [Raft: Understandable Distributed Consensus visualization](http://thesecretlivesofdata.com/raft/)
+
+##### ELIXIR - DISTRIBUTION - CONSENSUS ALGORITHMS - GRAFT
+
+* [Raft implementation in Elixir - Matthew Alan Le Brun](https://github.com/MatthewAlanLeBrun/graft)
+* [Graft: General Purpose Raft Consensus in Elixir - Matthew Alan Le Brun, et al.](https://staff.um.edu.mt/afra1/papers/Erlang21.pdf)
+
+##### ELIXIR - DISTRIBUTION - CONSENSUS ALGORITHMS - RA
+
+* [Ra: Raft implementation for Erlang and Elixir that strives to be efficient and make it easier to use multiple Raft clusters in a single system - RabbitMQ (Github)](https://github.com/rabbitmq/ra)
+  * [API docs - Hexdocs.pm](https://hexdocs.pm/ra/2.6.1/)
+  * [Writing a State Machine](https://github.com/rabbitmq/ra/blob/main/docs/internals/STATE_MACHINE_TUTORIAL.md)
+  * [Internals](https://github.com/rabbitmq/ra/blob/main/docs/internals/INTERNALS.md)
+  * [Snapshots](https://github.com/rabbitmq/ra/blob/main/docs/internals/SNAPSHOTS.md)
+* [Make a distributed toolbox with Ra - Karl Nilsson (CodeBEAM STO 2019)](https://www.youtube.com/watch?v=wHpNfCeX_Vk) | [Code Sync page with downloadable slides](https://codesync.global/media/make-distributed-toolbox-with-ra/)
+* [Ra: a Raft implementation - Karl Nilsson (CodeBEAM Lite Berlin 18)](https://www.youtube.com/watch?v=7NNjjTrBZtw) | [Code Sync page with downloadable slides](https://codesync.global/media/ra-a-raft-implementation/)
+* [Raft in RabbitMQ - Daniil Fedotov, 2017](https://codesync.global/uploads/media/default/0001/01/f71a2e0b46e911eb537bdf8382da3c4182a25e9d.pdf)
+
 #### ELIXIR - DISTRIBUTION - PARTISAN
 
 * Partisan: High-Performance Distributed Erlang: [Partisan.cloud](http://partisan.cloud/) | [Github](https://github.com/lasp-lang/partisan/)
@@ -1351,6 +1371,12 @@ F
 * [KaufmannEx](https://github.com/sevenmind/kaufmann_ex) | [KaufmannEx — Elixir Microservices with Kafka and Avro - 7Mind GmbH](https://medium.com/@7mind_dev/kaufmann-ex-317415c27978)
 * [Cafex](https://github.com/upyun/cafex)
 * [Connecting Elixir to Kafka with Kaffe - Meryl Dakin](https://elixirschool.com/blog/elixir-kaffe-codealong/)
+
+### ELIXIR - KHEPRI
+
+* [Khepri: tree-like replicated on-disk database library for Elixir & Erlang - RabbitMQ (Github)](https://github.com/rabbitmq/khepri)
+* [The Khepri Database (Hexdocs.pm docs)](https://hexdocs.pm/khepri/)
+* [The Khepri Database (Documentation on Github)](https://rabbitmq.github.io/khepri/)
 
 ### ELIXIR - LIBGRAPH
 
@@ -2661,6 +2687,11 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ERLANG - MONITORING, METRICS & PERFORMANCE - AMOC
 
 * amoc (A Murder of Crows): simple framework for running massively parallel tests in a distributed environment: [Github](https://github.com/esl/amoc)
+
+### ERLANG - MONITORING, METRICS & PERFORMANCE - DETECTER
+
+* [detectEr: runtime verification tool for Erlang systems (Github)](https://github.com/duncanatt/detecter/)
+* [detectEr tutorial](https://duncanatt.github.io/detecter/)
 
 ### ERLANG - MONITORING, METRICS & PERFORMANCE - FPROF
 

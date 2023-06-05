@@ -16,6 +16,7 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2023
 
+* David Sloan Wilson, **This View of Life: Completing the Darwinian Revolution**
 * Simu Liu, **We Were Dreamers: An Immigrant Superhero Origin Story** (far deeper, funnier, and more meaningful than I had expected... I recommend the audiobook because Simu Liu's story is especially entertaining when he reads it)
 * Richard Sheridan, **Chief Joy Officer: How Great Leaders Elevate Human Energy and Eliminate Fear**
 * Kip Tindell, **Uncontainable: How Passion, Commitment, and Conscious Capitalism Built a Business Where Everyone Thrives**
