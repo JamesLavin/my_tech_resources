@@ -5274,3 +5274,4 @@ Peter R. Egli:
 * [YAML Tutorial: Everything You Need to Get Started in Minutes - Eric Goebelbecker](https://rollout.io/blog/yaml-tutorial-everything-you-need-get-started/)
 * yq: Lightweight, portable command-line YAML processor: [Gitbook](https://mikefarah.gitbook.io/yq/) | [Github](https://github.com/mikefarah/yq)
 * [VSCode YAML - RedHat](https://github.com/redhat-developer/vscode-yaml)
+* [YAML Tutorial: A Complete Language Guide with Examples - Omkar Birade](https://spacelift.io/blog/yaml)
