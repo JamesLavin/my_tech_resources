@@ -1531,6 +1531,8 @@ F
 
 ### ELIXIR - MUSIC
 
+* midi_synth: Play music in Elixir (Frank Hunleth): [Github](https://github.com/fhunleth/midi_synth) | [Hexdocs](https://hexdocs.pm/midi_synth/readme.html)
+  * [FluidSynth: real-time software synthesizer based on the SoundFont 2 specifications](https://www.fluidsynth.org/)
 * [`mix new beats` - Recreating The "Amen Break" with Elixir - Mat Trudel](https://www.youtube.com/watch?v=XN4WuOujr38)
 
 ### ELIXIR - NERVES
