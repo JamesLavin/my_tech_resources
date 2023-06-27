@@ -1434,6 +1434,7 @@ F
 
 #### ELIXIR - MACHINE LEARNING - NEURAL NETWORKS
 
+* [Deploy Livebook notebooks as apps to Hugging Face Spaces - José Valim](https://huggingface.co/blog/livebook-app-deployment)
 * [AutomatingTheFuture.com - Quentin Thomas](http://www.automatingthefuture.com/)
 * [Artificial Neural Networks, Elixir, and You - Quentin Thomas](http://www.automatingthefuture.com/blog/2016/9/7/artificial-neural-networks-elixir-and-you?utm_content=buffer9dea0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
@@ -1537,11 +1538,44 @@ F
 
 ### ELIXIR - NERVES
 
-* [Nerves](https://www.nerves-project.org/): [Nerves Platform](https://www.nerves-project.org/platform) | [Documentation](https://hexdocs.pm/nerves/getting-started.html) | [Nerves Hub](https://www.nerves-project.org/nerveshub) | [Github](https://github.com/nerves-project)
+* Nerves:
+  * [Website](https://www.nerves-project.org/) | [Github](https://github.com/nerves-project)
+  * [Nerves Platform](https://www.nerves-project.org/platform)
+  * [API Reference](https://hexdocs.pm/nerves/api-reference.html)
+  * [Installation](https://hexdocs.pm/nerves/installation.html)
+  * [Getting Started](https://hexdocs.pm/nerves/getting-started.html)
+  * [Connecting to Nerves Target](https://hexdocs.pm/nerves/connecting-to-nerves-target.html)
+  * [IEx With Nerves](https://hexdocs.pm/nerves/iex-with-nerves.html)
+  * [FAQ](https://hexdocs.pm/nerves/faq.html)
+  * [Targets](https://hexdocs.pm/nerves/targets.html)
+  * [Systems](https://hexdocs.pm/nerves/systems.html)
+  * [User Interfaces](https://hexdocs.pm/nerves/user-interfaces.html)
+  * [Environment Variables](https://hexdocs.pm/nerves/environment-variables.html)
+  * [Compiling Non-BEAM Code](https://hexdocs.pm/nerves/compiling-non-beam-code.html)
+  * [Advanced Configuration](https://hexdocs.pm/nerves/advanced-configuration.html)
+  * [Updating Projects](https://hexdocs.pm/nerves/updating-projects.html)
+  * [Nerves Internals](https://hexdocs.pm/nerves/internals.html)
+  * [Customizing Your Own Nerves System](https://hexdocs.pm/nerves/customizing-systems.html)
+  * [Experimental Features](https://hexdocs.pm/nerves/experimental-features.html)
+  * [Using the CLI](https://hexdocs.pm/nerves/using-the-cli.html)
 * [Short Circuit IoT Development Time with Nerves - Dan Lindeman (ElixirConf 2020)](https://www.youtube.com/watch?v=LHysKONykf8)
 * [Nerves intro - ElixirSchool.com](https://elixirschool.com/en/lessons/specifics/nerves/)
 * [Keep Calm and Use Nerves - Arjan Scherpenisse (FOSDEM 2020)](https://www.youtube.com/watch?v=VMirPsSYbGM)
 * [Hello World - Justin Scheck (ElixirConf 2020)](https://www.youtube.com/watch?v=BmnlWAVqkVM)
+
+#### ELIXIR - NERVES - EXAMPLES
+
+* [NervesExamples - nerves-project (Github)](https://github.com/nerves-project/nerves_examples/tree/main)
+* [NervesWeatherStation - Alex Koutmos (Github)](https://github.com/akoutmos/nerves_weather_station)
+
+#### ELIXIR - NERVES - NERVES HUB
+
+* [NervesHub website](https://www.nerves-hub.org/)
+* [NervesHub (Github)](https://github.com/nerves-hub)
+
+#### ELIXIR - NERVES - VINTAGE_NET
+
+* VintageNet: [Hexdocs](https://hexdocs.pm/vintage_net/readme.html)
 
 ### ELIXIR - NEWSLETTERS
 

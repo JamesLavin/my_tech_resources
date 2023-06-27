@@ -16,6 +16,8 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2023
 
+* Matt Ridley, **How Innovation Works: And Why It Flourishes in Freedom**
+* Eric Barker, **Plays Well With Others: The Surprising Science Behind Why Everything You Know About Relationships is (Mostly) Wrong**
 * David Sloan Wilson, **This View of Life: Completing the Darwinian Revolution**
 * Simu Liu, **We Were Dreamers: An Immigrant Superhero Origin Story** (far deeper, funnier, and more meaningful than I had expected... I recommend the audiobook because Simu Liu's story is especially entertaining when he reads it)
 * Richard Sheridan, **Chief Joy Officer: How Great Leaders Elevate Human Energy and Eliminate Fear**
