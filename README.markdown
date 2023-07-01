@@ -1005,6 +1005,7 @@ After this page grew too large (when Github started truncating it), I split out 
 * Finding your service boundaries: A practical guide - Adam Ralph: [NDC { Oslo 2018}](https://www.youtube.com/watch?v=tVnIUZbsxWI) & [Dev Ternity 2019](https://www.youtube.com/watch?v=tO6YAQXVzyU)
 * [Building Observability for 99% Developers - Jean Yang (StrangeLoop 2022)](https://www.youtube.com/watch?v=UJA4PGKny2k)
 * [How To Write Unmaintainable Code: Ensure a job for life ;-) - Roedy Green](https://www.se.rit.edu/~tabeec/RIT_441/Resources_files/How%20To%20Write%20Unmaintainable%20Code.pdf)
+* [Building Evolutionary Architectures - Rebecca Parsons (YOW! 2022)](https://www.youtube.com/watch?v=jTX45V5JuN4)
 * [Making It Count: Quality is NOT an Option - Todd Montgomery (GOTO 2018)](https://www.youtube.com/watch?v=LTZdmb5-8n8)
 * [Is Your Code Too SOLID? - Sarah Mei](http://forwardjs.com/university/is-your-code-too-solid)
 * [Writing Quality Code in Erlang - Garrett Smith](https://www.youtube.com/watch?v=CQyt9Vlkbis) (main points aren't language-specific)
@@ -3833,6 +3834,7 @@ Peter R. Egli:
 
 ### PRODUCT DEVELOPMENT - PEOPLE, PROCESS & TEAMS
 
+* [How to -10X Engineer Correctly - ThePrimeTime](https://www.youtube.com/watch?v=pHJmmTivG1k)
 * [Junior developer survival tips (with Mayuko) - Fun, Fun, Function](https://www.youtube.com/watch?v=HSYmznRhebk)
 * [We fired our top talent. Best decision we ever made - Jonathan Solórzano-Hamilton](https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde)
 * [Know Your Company blog - Claire Lew](https://blog.knowyourcompany.com/)
