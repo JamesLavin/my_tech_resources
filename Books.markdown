@@ -16,6 +16,8 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2023
 
+* Tobias Hürter, **Too Big for a Single Mind: How the Greatest Generation of Physicists Uncovered the Quantum World**
+* Seth Godin, **Purple Cow: Transform Your Business by Being Remarkable**
 * Matt Ridley, **How Innovation Works: And Why It Flourishes in Freedom**
 * Eric Barker, **Plays Well With Others: The Surprising Science Behind Why Everything You Know About Relationships is (Mostly) Wrong**
 * David Sloan Wilson, **This View of Life: Completing the Darwinian Revolution**

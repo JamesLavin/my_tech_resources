@@ -85,7 +85,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Elixir-lang.org: [Docs](http://elixir-lang.org/docs.html) | [Getting Started (tutorial)](http://elixir-lang.org/getting-started/introduction.html) | [Syntax reference](https://hexdocs.pm/elixir/syntax-reference.html) | [Learning resources](https://elixir-lang.org/learning.html) | [Elixir-lang-talk group](https://groups.google.com/forum/?fromgroups#!forum/elixir-lang-talk) | [Elixir Core mailing list](https://groups.google.com/forum/#!forum/elixir-lang-core) | [ElixirForum.com](http://elixirforum.com/)
 * [Default environment: The Kernel module](https://hexdocs.pm/elixir/Kernel.html)
 * [Elixir School](https://elixirschool.com/)
-* Protohackers - Andrea Leopardi: [Videos](https://www.youtube.com/playlist?list=PLd7I3U4fDsULTLqbRAkWzA002-IzMe8fl) | [Protohackers.com](https://protohackers.com/)
+* Protohackers - Andrea Leopardi: [Videos](https://www.youtube.com/playlist?list=PLd7I3U4fDsULTLqbRAkWzA002-IzMe8fl) | [Protohackers.com](https://protohackers.com/) | [Andrea's code (Github)](https://github.com/whatyouhide/protohackers_in_elixir)
 * [ElixirCasts.io](https://elixircasts.io/?page=6)
 * [Elixir: functional, concurrent, distributed programming - Andrea Leopardi (Lambda World 2018)](https://www.youtube.com/watch?v=e3O0R5_69Pg)
 * [From Zero to Hero in Elixir - LittleAlchemist.io](https://www.youtube.com/playlist?list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp)
@@ -103,6 +103,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Intro to Elixir - SolutionStreet.com](https://www.youtube.com/watch?v=lly-1UYmnFI)
 * [7 ways of doing Fizz Buzz in Elixir and other clickbaity stuff - Khaja Minhajuddin](https://minhajuddin.com/2018/07/06/7-ways-of-doing-fizz-buzz-in-elixir-and-other-clickbaity-stuff/)
 * [E-xyza Youtube channel (Isaac Yonemoto)](https://www.youtube.com/channel/UCuKBb--0F0qT_deSpMLsFRA): [Good starting video](https://www.youtube.com/watch?v=tY0-P4ovBqY)
+* [The Comprehensive Guide to Elixir's List Comprehension - Mitchell Hanberg](https://www.mitchellhanberg.com/the-comprehensive-guide-to-elixirs-for-comprehension/)
+* [For Can Do More - Jason Stiebs](https://fly.io/phoenix-files/for-can-do-more/)
 * Hands-on Elixir & OTP: Cryptocurrency trading bot - Kamil Skowron: [Youtube videos](https://www.youtube.com/playlist?list=PLxsE19GnjC5Nv1CbeKOiS5YqGqw35aZFJ) | [Online](https://www.elixircryptobot.com/) | [PDF](https://www.elixircryptobot.com/create-a-cryptocurrency-trading-bot-in-elixir.pdf) | [Epub](https://www.elixircryptobot.com/create-a-cryptocurrency-trading-bot-in-elixir.epub) | [Source code - Github](https://github.com/frathon/create-a-cryptocurrency-trading-bot-in-elixir-source-code)
 * [Buildings start-ups with Elixir - Michael Schaefermeyer (Code BEAM STO 19)](https://www.youtube.com/watch?v=icfvFFZUxZQ)
 * [Ten Things I Wish I Knew Before Using Elixir - Chris Williams](https://ropig.com/blog/ten-things-wish-knew-using-elixir/)
@@ -1138,6 +1140,7 @@ F
 #### ELIXIR - ECTO - POSTGRESQL
 
 * [Scaling Ecto and Postgres - Tyler Hawkins (ElixirConf 2021)](https://www.youtube.com/watch?v=SHjAMcBwY_o)
+* [Repel OAuth refresh token replay attacks with Elixir and Ecto - Mihai Potra](https://medium.com/@mpotra/repel-oauth-refresh-token-replay-attacks-with-elixir-and-ecto-1ac5c6d2495b) - also covers CTEs (Common Table Expressions)
 * [I can do all things through Postgresql: Lessons for the Elixir dev - Todd Resudek (ElixirConf 2021)](https://www.youtube.com/watch?v=mliO5_XhAKE)
 
 #### ELIXIR - ECTO - RELATIONS
@@ -1895,6 +1898,8 @@ Consequently, much of the following will soon be at least partially outdated:
 * [The Future of Full-stack - Chris McCord (ElixirConf 2021)](https://www.youtube.com/watch?v=Of1phFsC4ZI)
 * [Build a real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5 - Chris McCord](https://www.youtube.com/watch?v=MZvmYaFkNJI)
 * [Infinitely Scroll Images in LiveView - Jaeyson Anthony Y.](https://fly.io/phoenix-files/infinitely-scroll-images-in-liveview/)
+* [Phoenix Dev Blog - Streams - Chris McCord](https://fly.io/phoenix-files/phoenix-dev-blog-streams/)
+* [Building a Chat App with LiveView Streams - Sophie DeBenedetto](https://fly.io/phoenix-files/building-a-chat-app-with-liveview-streams/)
 * [Why Is My Live View Slow? And What Can I Do About It? - De Wet Blomerus (ElixirConf EU 2022)](https://www.youtube.com/watch?v=c2x1CrP9Szk)
 * [Building Tetris with Elixir, LiveView and OTP - Sandesh Soni](https://www.youtube.com/watch?v=57b4iSi1FM4) | [Source code](https://github.com/sandeshsoni/tetris_eu_umbrella)
 * [Restore LiveView State on Startup - Mark Ericksen](https://fly.io/phoenix-files/restore-liveview-state-on-startup/)
@@ -2683,6 +2688,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ERLANG - HISTORY
 
+* [Ericsson to WhatsApp : The Story of Erlang - Babbage](https://thechipletter.substack.com/p/ericsson-to-whatsapp-the-story-of)
 * [An Evening at Erlang Factory: Joe Armstrong, Mike Williams, Robert Virding - Hackers / Founders](https://www.youtube.com/watch?v=rYkI0_ixRDc)
 * [Keynote: Over a Century of Programming - Mike Williams, Joe Armstrong, Robert Virding (Erlang User Conference Stockholm 2013)](https://www.youtube.com/watch?v=y5Y_JFIsg6s)
 * [Keynote: History of philosophy of Erlang with its creators - Bjarne Däcker, Mike Williams, and Robert Virding (Code BEAM V America 2021)](https://www.youtube.com/watch?v=-j_vy9zq3EY)
