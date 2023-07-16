@@ -1896,6 +1896,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * Live View: [Documentation](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html) | [LiveComponent](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html) | [LiveViewTest](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveViewTest.html) | [mix phx.gen.live](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Live.html) | [API Reference](https://hexdocs.pm/phoenix_live_view/api-reference.html) | [Github](https://github.com/phoenixframework/phoenix_live_view)
 * [The Future of Full-stack - Chris McCord (ElixirConf 2021)](https://www.youtube.com/watch?v=Of1phFsC4ZI)
+* [Better Forms With LiveView - Andrew Ek (GigCity Elixir)](https://www.youtube.com/watch?v=3WXBZGI6jOM)
 * [Build a real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5 - Chris McCord](https://www.youtube.com/watch?v=MZvmYaFkNJI)
 * [Infinitely Scroll Images in LiveView - Jaeyson Anthony Y.](https://fly.io/phoenix-files/infinitely-scroll-images-in-liveview/)
 * [Phoenix Dev Blog - Streams - Chris McCord](https://fly.io/phoenix-files/phoenix-dev-blog-streams/)
@@ -1977,6 +1978,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [LiveComponent documentation](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html)
 * [LiveView Components FTW! - Feather Knee (ElixirConf 2020)](https://www.youtube.com/watch?v=qUZ5uN4gqNg)
 * [Introduction to Phoenix LiveView LiveComponents - Patrick Thompson](http://blog.pthompson.org/liveview-livecomponents-introduction)
+* [LiveComponents in Phoenix 1.7 with LiveView 0.18 - Bruce Tate](https://www.youtube.com/watch?v=2T2DGH0BxOY)
 * [Reuse markup with function components and slots - Berenice Medel & Chris Nicoll](https://fly.io/phoenix-files/function-components/)
 * [Keep LiveViews alive across live redirects - Berenice Medel](https://fly.io/phoenix-files/live-render-sticky-option/)
 * [Passing Unknown Attributes into Your Component - Mark Ericksen](https://fly.io/phoenix-files/passing-unknown-attributes-into-component/)
