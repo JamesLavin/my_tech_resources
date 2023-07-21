@@ -10,6 +10,7 @@ Related: [Messaging](https://github.com/JamesLavin/my_tech_resources/blob/master
 
 ## EVENT SOURCING, CQRS, DDD, & MICROSERVICES
 
+* [Software Architecture, Team Topologies & Complexity Science - James Lewis (YOW! 2022)](https://www.youtube.com/watch?v=QfM38-I_Ea8)
 * Journey to Event Driven - Neil Avery: [Part 1: Why Event-First Thinking Changes Everything](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything) | [Part 2: Programming Models for the Event-Driven Architecture](https://www.confluent.io/blog/journey-to-event-driven-part-2-programming-models-event-driven-architecture) | [Part 3: The Affinity Between Events, Streams and Serverless](https://www.confluent.io/blog/journey-to-event-driven-part-3-affinity-between-events-streams-serverless) | [Part 4: Four Pillars of Event Streaming Microservices](https://www.confluent.io/blog/journey-to-event-driven-part-4-four-pillars-of-event-streaming-microservices)
 * How Events Are Reshaping Modern Systems - Jonas Bonér: [(ReactiveConf 2017)](https://www.youtube.com/watch?v=ycxvmOKDHMQ&t=1s) | [(Devoxx Belgium 2017)](https://www.youtube.com/watch?v=3V3pHm2Cpks)
 * [Designing Events and Event Streams - Confluent](https://www.youtube.com/playlist?list=PLa7VYi0yPIH145SVtPoh3Efv8xZ1ehUYy)

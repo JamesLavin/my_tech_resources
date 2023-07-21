@@ -16,6 +16,9 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2023
 
+* Donella H. Meadows, **Thinking in Systems: A Primer**
+* Tom Kelley with Jonathan Littman, **The Art of Innovation: Lessons in Creativity from IDEO, America's Leading Design Firm**
+* Gary Hamel & Michele Zanini, **Humanocracy: Creating Organizations as Amazing as the People Inside Them**
 * Tobias Hürter, **Too Big for a Single Mind: How the Greatest Generation of Physicists Uncovered the Quantum World**
 * Seth Godin, **Purple Cow: Transform Your Business by Being Remarkable**
 * Matt Ridley, **How Innovation Works: And Why It Flourishes in Freedom**
