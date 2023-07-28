@@ -23,6 +23,33 @@ After this page grew too large (when Github started truncating it), I split out 
 
 [Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Body & Mind](#body--mind) | [Business](#business) | [Clean Code](#clean-code) | [Code Search](#code-search) | [Coffeescript](#javascript---coffeescript) | [CSS](#css) | [Data](#data) | [Databases](#databases) | [Design](#design) | [DevOps](https://github.com/JamesLavin/my_tech_resources/blob/master/DevOps.markdown) | [Domain-Driven Design](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#event-sourcing-cqrs-ddd--microservices---domain-driven-design) | [Elasticsearch](#elasticsearch) | [Elixir](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#elixir) | [Elm](https://github.com/JamesLavin/my_tech_resources/blob/master/Elm.markdown#elm) | [Erlang](https://github.com/JamesLavin/my_tech_resources/blob/master/Elixir.markdown#erlang) | [Entrepreneurship](#business---entrepreneurship) | [Event sourcing](https://github.com/JamesLavin/my_tech_resources/blob/master/EventSourcing.markdown#my-event-sourcing--cqrs--ddd--microservice-resources---james-lavin) | [Functional programming](#functional-programming) | [Git](#git) | [Haskell](#haskell) | [Helm](https://github.com/JamesLavin/my_tech_resources#devops---kubernetes---helm) | [HTML5](#html5) | [Istio](https://github.com/JamesLavin/my_tech_resources#devops---istio) | [Javascript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown#javascript) | [Julia](#julia) | [Kafka](https://github.com/JamesLavin/my_tech_resources/blob/master/Messaging.markdown#messaging---kafka) | [Kubernetes](#devops---kubernetes) | [Learning](#learning) | [Linux](#linux) | [Maker movement/ IoT](#maker-movement--internet-of-things-iot) | [Management/Leadership](#management/leadership) | [Messaging](https://github.com/JamesLavin/my_tech_resources/blob/master/Messaging.markdown#messaging) | [Mobile](#mobile) | [MongoDB](#mongodb) | [News](#news) : [programming news](https://github.com/JamesLavin/my_tech_resources#news---programming), [science news](https://github.com/JamesLavin/my_tech_resources#news---science), [tech news](https://github.com/JamesLavin/my_tech_resources#news---tech) | [Node.js](#nodejs) | [Octave](#octave) | [Postgresql](#postgresql) | [Product development](#product-development) | [Productivity  Tools](#productivity-tools) | [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python) : [getting started](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---getting-started), [books (free)](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning---books-free), [data analysis](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis), [learning](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---learning), [Pandas](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown#python---data-analysis---pandas) | [Podcasts](#podcasts) | [R](#r) | [Rails](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#rails) | [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown#ruby) | [Rust](#rust) | [Scala](#scala) | [Statistical analysis](#statistical-analysis) | [Testing](#testing) | [Tmux](#tmux) | [Usability](#usability) | [Vim](#vim-yeah-its-the-best-though-i-now-use-it-inside-visual-studio-code) | [Visual Studio Code](#visual-studio-code-vscode) | [Web components](#web-components) | [Writing/Publishing](#writingpublishing)
 
+## ACADEMIC RESEARCH (FIND FREE/OPEN-SOURCE ARTICLES)
+
+* [21 Legit Research Databases for Free Journal Articles in 2022](https://www.scribendi.com/academy/articles/free_online_journal_and_research_databases.en.html)
+
+* [Unpaywall.org](https://unpaywall.org/)
+  * [Integrations](https://unpaywall.org/integrations)
+    * [Unpaywall browser plugin](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha?hl=en)
+* [CORE](https://core.ac.uk/)
+* [ScienceOpen.com](https://www.scienceopen.com/)
+* [Directory of Open Access Journals](https://doaj.org/)
+* [Education Resources Information Center (ERIC)](https://eric.ed.gov/)
+* [arXiv.org](https://arxiv.org/)
+* [Social Science Research Network](https://www.ssrn.com/index.cfm/en/)
+* [Public Library of Science (PLOS)](https://plos.org/)
+* [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/)
+* [BASE (Bielefeld Academic Search Engine)](https://www.base-search.net/)
+* [Digital Library of the Commons Repository (U Indiana)](https://dlc.dlib.indiana.edu/dlc/)
+* [Paperity.org](https://paperity.org/)
+* [dblp Computer Science Bibliography](https://dblp.org/)
+* [Econbiz.de](https://www.econbiz.de/)
+* [JURN](https://www.jurn.link/#gsc.tab=0)
+* [Dryad](https://datadryad.org/stash)
+* [EThOS (E-Theses Online Service, British Library)](https://ethos.bl.uk/)
+* [Google Scholar](https://scholar.google.com/)
+* [Semantic Scholar](https://www.semanticscholar.org/)
+* [Zenodo (CERN)](https://zenodo.org/)
+
 ## ALGORITHMS
 
 * [Algorithms for Decision Making, 2022 - Mykel J. Kochenderfer, Tim A. Wheeler and Kyle H. Wray](https://algorithmsbook.com/) - free PDF!, MIT Press textbook is $95

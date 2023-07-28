@@ -16,6 +16,8 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2023
 
+* Rishad Tobaccowala, **Restoring the Soul of Business: Staying Human in the Age of Data**
+* Jennifer Aaker & Naomi Bagdonas, **Humor, Seriously: Why Humor Is a Secret Weapon in Business and Life**
 * Donella H. Meadows, **Thinking in Systems: A Primer**
 * Tom Kelley with Jonathan Littman, **The Art of Innovation: Lessons in Creativity from IDEO, America's Leading Design Firm**
 * Gary Hamel & Michele Zanini, **Humanocracy: Creating Organizations as Amazing as the People Inside Them**
