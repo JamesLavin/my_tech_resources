@@ -16,6 +16,9 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2023
 
+* Bill Messenger, **Elements of Jazz: From Cakewalks to Fusion** (audiobook only; fabulous)
+* Jeffrey Pfeffer, **7 Rules of Power: Surprising But True Advice on How to Get Things Done and Advance Your Career**
+* David Ogilvy, **Confessions of an Advertising Man**
 * Rishad Tobaccowala, **Restoring the Soul of Business: Staying Human in the Age of Data**
 * Jennifer Aaker & Naomi Bagdonas, **Humor, Seriously: Why Humor Is a Secret Weapon in Business and Life**
 * Donella H. Meadows, **Thinking in Systems: A Primer**
