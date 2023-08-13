@@ -16,6 +16,9 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2023
 
+* Suneel Gupta with Carlye Adler, **Backable: The Surprising Truth Behind What Makes People Take a Chance on You**
+* Martin Short, **I Must Say: My Life as a Humble Comedy Legend**
+* Jeff Scheinrock & Matt Richter-Sand, **The Agile Start-Up** (pretty, colorful physical book; excellent overview/intro but doesn't go very deep)
 * Bill Messenger, **Elements of Jazz: From Cakewalks to Fusion** (audiobook only; fabulous)
 * Jeffrey Pfeffer, **7 Rules of Power: Surprising But True Advice on How to Get Things Done and Advance Your Career**
 * David Ogilvy, **Confessions of an Advertising Man**

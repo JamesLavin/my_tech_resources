@@ -1358,6 +1358,10 @@ F
 * [Elixir-ls (VS Code) - Jake Becker](https://github.com/JakeBecker/elixir-ls)
 * [IntelliJ-Elixir - Luke Imhoff](https://github.com/KronicDeth/intellij-elixir)
 
+### ELIXIR - IEX
+
+* [Collection of Tips for Elixir's Interactive Shell (IEx) - Meraj Molla](https://meraj-gearhead.ca/a-collection-of-tips-for-elixirs-interactive-shell-iex)
+
 ### ELIXIR - JOBS
 
 * [Elixir-Companies](https://elixir-companies.com/hiring)

@@ -34,6 +34,11 @@
 * [BioMed Central](https://www.biomedcentral.com/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
+## Non-free academic journal articles
+
+* [JSTOR](https://www.jstor.org/)
+  * [JSTOR: "auction theory model"](https://www.jstor.org/action/doBasicSearch?Query=auction+theory+model)
+
 ## Auctions
 
 * [Marketing Agencies and Collusive Bidding in Online Ad Auctions - Francesco Decarolis, Maris Goldmanis, and Antonio Penta](https://www.nber.org/system/files/working_papers/w23962/w23962.pdf)
