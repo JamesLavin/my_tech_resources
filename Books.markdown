@@ -16,6 +16,8 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2023
 
+* Bret Stetka, **A History of the Human Brain: From the Sea Sponge to CRISPR, How Our Brain Evolved** (tragically, the M.D. author of this excellent book on the human brain died suddenly a year later from a brain seizure)
+* Melissa Perri, **Escaping the Build Trap: How Effective Product Management Creates Real Value** (fabulous product management book)
 * Suneel Gupta with Carlye Adler, **Backable: The Surprising Truth Behind What Makes People Take a Chance on You**
 * Martin Short, **I Must Say: My Life as a Humble Comedy Legend**
 * Jeff Scheinrock & Matt Richter-Sand, **The Agile Start-Up** (pretty, colorful physical book; excellent overview/intro but doesn't go very deep)

@@ -653,6 +653,7 @@ Links to resources I have found useful or think might be helpful to future me or
 ### ELIXIR - BLOGS & YOUTUBE CHANNELS
 
 * [Abul Asar](https://abulasar.com/)
+* [App Signal](https://blog.appsignal.com/elixir-alchemy)
 * [Carbon Five](https://blog.carbonfive.com/category/elixir/)
 * [DennisBeatty.com](https://dennisbeatty.com/)
 * [DevonEstes.com](http://devonestes.com/)
@@ -930,6 +931,7 @@ F
 
 * [Burrito: Cross-Platform Elixir Deployments](https://github.com/burrito-elixir/burrito)
 * [Burrito Wrap Your App in a BEAM Burrito! - Digit (EMPEX MTN 2022)](https://www.youtube.com/watch?v=oP9IQWaKciE)
+* [Distributing Elixir applications with Burrito - Juan Pablo](https://juanpabloaj.com/2023/08/20/distributing-elixir-applications-with-burrito/)
 * [Elixir in a Burrito with Quinn and Digit - Thinking Elixir Podcast](https://podcast.thinkingelixir.com/81)
 
 #### ELIXIR - DEPLOYMENT - DISTILLERY (DEPRECATED)
@@ -1075,13 +1077,12 @@ F
 * [Ecto 2.1 Tip and Tricks - (Elixir Sydney)](https://www.youtube.com/watch?v=PGZ94AMMTPs)
 * [Ecto Without a Database - Greg Vaughn (Lonestar ElixirConf 2019)](https://www.youtube.com/watch?v=k_xDi7zAcNM)
 * [Things You Might Not Have Tried With Ecto - Luke Imhoff (Lonestar ElixirConf 2019)](https://www.youtube.com/watch?v=3EyDkiDzbj8)
+* [Doing Weird Things With Ecto - Nikola Begedin (ElixirConf EU 2021](https://www.youtube.com/watch?v=zrfZ1GiOc-I)
 * [Leveling Up With Ecto - Darin Wilson (ElixirConf 2016)](https://www.youtube.com/watch?v=QE7bpqpDoKo) | [code](https://github.com/darinwilson/music_db)
 * [Database Locking with Ecto in Elixir - Avi Turkewitz](https://medium.com/flatiron-labs/database-locking-with-ecto-in-elixir-9804cdbd1866)
 * [Automatic and manual Ecto migrations - Wojtek Mach](https://dashbit.co/blog/automatic-and-manual-ecto-migrations)
 * Lew Parker: [Diving into Ecto - 1](http://www.glydergun.com/diving-into-ecto/) | [Diving into Ecto - 2](http://www.glydergun.com/diving-into-ecto-part-2/) | [Ecto Query Library](http://www.glydergun.com/the-ecto-query-library/)
 * Understanding Elixir’s Ecto Querying DSL - Thomas Punt: [The Basics](https://www.sitepoint.com/understanding-elixirs-ecto-querying-dsl-the-basics/) | [Beyond the Basics](https://www.sitepoint.com/elixirs-ecto-querying-dsl-beyond-the-basics/)
-* [Querying an Embedded Map in PostgreSQL with Ecto - David Bernheisel](https://robots.thoughtbot.com/querying-embedded-maps-in-postgresql-with-ecto)
-* [Ecto Embedded Schemas — Quick search through a JSONB array in PostgreSQL - Pedro Costa](https://coletiv.com/blog/ecto-embedded-schemas-search-jsonb-array-postgresql/)
 * [Up, Down, Up with Ecto Migrations - Josh Branchaud](https://hashrocket.com/blog/posts/up-down-up-with-ecto-migrations)
 * [Ecto Migrations: Simple to Complex - Josh Branchaud](https://hashrocket.com/blog/posts/ecto-migrations-simple-to-complex)
 * [Maintaining a versioned database schema with Ecto - Prakash](https://medium.com/@prakash_66502/maintaining-a-versioned-database-schema-with-ecto-45eab90ea0a8)
@@ -1119,6 +1120,12 @@ F
 * [What is the difference between Ecto.Type’s cast and dump? - ElixirForum.com](https://elixirforum.com/t/what-is-the-difference-between-ecto-types-cast-and-dump/4855)
 * [Ecto type for IPv4 and IPv6 addresses - Pedro Assumpcao](https://pedroassumpcao.ghost.io/ecto-type-for-ipv4-and-ipv6-addresses/)
 
+#### ELIXIR - ECTO - EMBEDDED SCHEMAS
+
+* [Ecto Embedded Schemas - Rémi Prévost (Montreal Elixir 2015)](https://www.youtube.com/watch?v=sPmHP9ZPOWc)
+* [Querying an Embedded Map in PostgreSQL with Ecto - David Bernheisel](https://robots.thoughtbot.com/querying-embedded-maps-in-postgresql-with-ecto)
+* [Ecto Embedded Schemas — Quick search through a JSONB array in PostgreSQL - Pedro Costa](https://coletiv.com/blog/ecto-embedded-schemas-search-jsonb-array-postgresql/)
+
 #### ELIXIR - ECTO - LIBRARIES
 
 * [Ecto_Shorts - Mika Kalathil](https://github.com/MikaAK/ecto_shorts)
@@ -1144,6 +1151,11 @@ F
 * [Repel OAuth refresh token replay attacks with Elixir and Ecto - Mihai Potra](https://medium.com/@mpotra/repel-oauth-refresh-token-replay-attacks-with-elixir-and-ecto-1ac5c6d2495b) - also covers CTEs (Common Table Expressions)
 * [I can do all things through Postgresql: Lessons for the Elixir dev - Todd Resudek (ElixirConf 2021)](https://www.youtube.com/watch?v=mliO5_XhAKE)
 
+##### ELIXIR - ECTO - POSTGRESQL - SCHEMAS
+
+* [Loading a structure.sql file on Prod without mix - Mark Ericksen](https://fly.io/phoenix-files/loading-structure-sql-on-prod-without-mix/)
+* [Developing after mix ecto.dump - Mark Ericksen](https://fly.io/phoenix-files/developing-after-a-mix-ecto-dump/)
+
 #### ELIXIR - ECTO - RELATIONS
 
 * Many to Many relationships in Ecto rawcode: [Part 1](https://www.youtube.com/watch?v=Cl2U_8XtUBM) | [Part 2](https://www.youtube.com/watch?v=_ut8o0fdXRo)
@@ -1164,8 +1176,9 @@ F
 * [Docs](https://hexdocs.pm/ecto_sql/Ecto.Adapters.SQL.Sandbox.html)
 * [Understanding Test Concurrency In Elixir - Nathan Long](https://dockyard.com/blog/2019/02/13/understanding-test-concurrency-in-elixir)
 
-#### ELIXIR - ECTO - SQLITE
+#### ELIXIR - ECTO - SQLITE3
 
+* [Elixir and Ecto with SQLite3 - Juan Pablo](https://juanpabloaj.com/2023/08/19/elixir-and-sqlite3/) & [SQLite3 - Jason Stiebs](https://fly.io/docs/elixir/advanced-guides/sqlite3/)
 * [Encrypted SQLite With Ecto - Connor Rigby](https://cone.codes/posts/encrypted-sqlite-with-ecto/)
 
 #### ELIXIR - ECTO - SSL
@@ -1902,6 +1915,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * Live View: [Documentation](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html) | [LiveComponent](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html) | [LiveViewTest](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveViewTest.html) | [mix phx.gen.live](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Live.html) | [API Reference](https://hexdocs.pm/phoenix_live_view/api-reference.html) | [Github](https://github.com/phoenixframework/phoenix_live_view)
 * [The Future of Full-stack - Chris McCord (ElixirConf 2021)](https://www.youtube.com/watch?v=Of1phFsC4ZI)
 * [Better Forms With LiveView - Andrew Ek (GigCity Elixir)](https://www.youtube.com/watch?v=3WXBZGI6jOM)
+* [Dynamic forms with LiveView Streams - Berenice Medel](https://fly.io/phoenix-files/dynamic-forms-with-streams/)
 * [Build a real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5 - Chris McCord](https://www.youtube.com/watch?v=MZvmYaFkNJI)
 * [Infinitely Scroll Images in LiveView - Jaeyson Anthony Y.](https://fly.io/phoenix-files/infinitely-scroll-images-in-liveview/)
 * [Phoenix Dev Blog - Streams - Chris McCord](https://fly.io/phoenix-files/phoenix-dev-blog-streams/)
@@ -2833,6 +2847,10 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ERLANG - REGISTRIES - SYN
 
 * Syn: scalable global Process Registry and Process Group manager for Erlang and Elixir, able to automatically manage dynamic clusters (addition / removal of nodes) and to recover from net splits - Roberto Ostinelli: [Documentation](https://hexdocs.pm/syn/readme.html) | [Github](https://github.com/ostinelli/syn)
+
+### ERLANG - SHELL SCRIPTING
+
+* [Erlang, the Unix way](http://blog.syncpup.com/posts/erlang-the-unix-way.html) - "utilize Erlang's robust support for parallel computing in a project mostly comprised of Unix scripts. Let Erlang handle the chunk that can be parallelized, then hand it back to the calling script after it finishes"
 
 ### ERLANG - SOCKET API
 
