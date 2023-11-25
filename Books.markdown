@@ -16,6 +16,15 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2023
 
+* Marcus Sheridan, **They Ask, You Answer: A Revolutionary Approach to Inbound Sales, Content Marketing, and Today's Digital Consumer, Revised & Updated**
+* John Whalen, **Design for How People Think: Using Brain Science to Build Better Products**
+* Donald Miller, **How to Grow Your Small Business: A 6-Step Plan to Help Your Business Take Off**
+* J. Stuart Ablon, **Changeable: How Collaborative Problem Solving Changes Lives at Home, at School, and at Work**
+* Scott Berkun, **The Myths of Innovation**
+* Craig Ferguson, **Riding the Elephant: A Memoir of Altercations, Humiliations, Hallucinations, and Observations**
+* Philipp Dettmer, **Immune: A Journey into the Mysterious System That Keeps You Alive** (wonderfully accessible & entertaining exploration of the amazing human immune system from the creator of the fabulous [Kurzgesagt science video channel](https://www.youtube.com/user/Kurzgesagt))
+* Alistair Croll & Benjamin Yoskovitz, **Lean Analytics: Use Data to Build a Better Startup Faster**
+* Liz Wiseman, **Multipliers: How the Best Leaders Make Everyone Smarter (Revised & Updated)**
 * Bret Stetka, **A History of the Human Brain: From the Sea Sponge to CRISPR, How Our Brain Evolved** (tragically, the M.D. author of this excellent book on the human brain died suddenly a year later from a brain seizure)
 * Melissa Perri, **Escaping the Build Trap: How Effective Product Management Creates Real Value** (fabulous product management book)
 * Suneel Gupta with Carlye Adler, **Backable: The Surprising Truth Behind What Makes People Take a Chance on You**

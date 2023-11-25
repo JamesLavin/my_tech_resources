@@ -130,6 +130,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Simplifying Systems with Elixir - Saša Jurić (YOW! Lambda Jam 2020)](https://www.youtube.com/watch?v=Clm_NhWI0hY)
 * [Elixir in 2021 - Saša Jurić & Jonn Mostovoy](https://www.youtube.com/watch?v=me4cANg9RMU)
 * [A Brief History of Elixir - Andrea Leopardi (Code BEAM Lite Munich 2018)](https://www.youtube.com/watch?v=CRBUD00H7AM)
+* [Elixir Saves Pinterest $2 Million a Year In Server Costs - Paraxial.io](https://paraxial.io/blog/elixir-savings)
 * [Lessons Learned Building a Medication Service at Teladoc and How Ecto Saved the Day - James Lavin (EMPEX 2018)](https://www.youtube.com/watch?v=CUvif-levqk) (Hey, that's ME! I did a thing!!!)
 * [Explicit Elixir - Paul Lamb (ElixirDaze 2016)](https://www.youtube.com/watch?v=sr5I5ncg0kU)
 * [Ten Reasons to Fall in Love with Elixir - Ivan Yurov](https://www.genui.com/resources/elixir-intro)
@@ -660,10 +661,12 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Dockyard](https://dockyard.com/blog/categories/elixir)
 * [East 5th](http://www.east5th.co/blog/)
 * [Elixir Alchemy (AppSignal)](https://blog.appsignal.com/elixir-alchemy)
+* [ElixirCasts.io](https://elixircasts.io/)
 * [Elixir Digest](https://elixirdigest.net/digests)
 * [Elixir Dose](http://www.elixirdose.com/)
 * [Elixir Radar](http://plataformatec.com.br/elixir-radar)
 * [ElixirStatus.com](http://elixirstatus.com/)
+* [ElixirStreams.com - German Velasco](https://www.elixirstreams.com/tips)
 * [Elixir Weekly](https://elixirweekly.net/)
 * [The Erlang eList](http://theerlangelist.com/)
 * [Fly.io Blog](https://fly.io/blog/) | [Fly.io Phoenix Files](https://fly.io/phoenix-files/)
@@ -692,6 +695,30 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Cachex: in-memory key/value store for Elixir with support for transactions, fallbacks and expirations](https://github.com/whitfin/cachex) | [Docs](https://hexdocs.pm/cachex/)
 * Nebulex: fast, flexible and powerful distributed caching framework - Carlos Andres Bolaños R.A.: [Github](https://github.com/cabol/nebulex) & [Distributed Caching in Elixir using Nebulex](https://medium.com/erlang-battleground/distributed-caching-in-elixir-using-nebulex-9af589186caa)
+
+### ELIXIR - CHARTS & GRAPHS
+
+* [SVG Island: Building your own charts in LiveView - Meks McClure & Mark Keele (ElixirConf 2023)](https://www.youtube.com/watch?v=YDYF8oAC2nE)
+
+#### ELIXIR - CHARTS & GRAPHS - CONTEX
+
+* ContEx: [Github](https://github.com/mindok/contex) | [Contex-Charts.org](https://contex-charts.org/) | [HexDocs](https://hexdocs.pm/contex/Contex.html)
+* [Real-Time SVG Charts with Contex and LiveView - Sophie DeBenedetto](https://elixirschool.com/blog/server-side-svg-charts-with-contex-and-liveview)
+
+#### ELIXIR - CHARTS & GRAPHS - GGITY
+
+* GGity: [Github](https://github.com/srowley/ggity) | [HexDocs](https://hexdocs.pm/ggity/readme.html)
+
+* SVG Island (by Mark Keele & Meks McClure): [Github](https://github.com/gridpoint-com/svg_island)
+
+#### ELIXIR - CHARTS & GRAPHS - TUCAN
+
+* Tucan (by Panagiotis Nezis): [Github](https://github.com/pnezis/tucan) | [HexDocs](https://hexdocs.pm/tucan/readme.html)
+
+#### ELIXIR - CHARTS & GRAPHS - VEGALITE
+
+* VegaLite (Elixir bindings library): [Github](https://github.com/livebook-dev/vega_lite) | [HexDocs](https://hexdocs.pm/vega_lite/VegaLite.html)
+* [Vega-Lite](https://vega.github.io/vega-lite/)
 
 ### ELIXIR - CLIENTS
 
@@ -808,6 +835,8 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### ELIXIR - DEBUGGING
 
+* [Erlang Fundamentals for Debugging Elixir - Lorena Mireles (EMPEX NYC 2023)](https://www.youtube.com/watch?v=CJoWJqWjoiw)
+* [Unpacking Elixir: Observability - Lars Wikman](https://underjord.io/unpacking-elixir-observability.html)
 * [Debugging Elixir Code: The Tools, The Mindset - Michal Buszkiewicz (ElixirConf EU 2021)](https://www.youtube.com/watch?v=x9OMlrrKYyE)
 * [Love Your Crash Dumps - Michał Ślaski (ElixirConf EU 2021)](https://www.youtube.com/watch?v=wyjWR731uSU)
 * [Three Ways to Debug Code in Elixir - Pulkit Goyal](https://blog.appsignal.com/2021/11/30/three-ways-to-debug-code-in-elixir.html)
@@ -823,6 +852,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Rexbug: thin Elixir wrapper for the redbug Erlang tracing debugger](https://github.com/nietaki/rexbug) | [Docs](https://hexdocs.pm/rexbug/readme.html)
 * Credo: [Website](http://credo-ci.org/) | [Github](https://github.com/rrrene/credo) | [Credo: A static code analysis tool for the Elixir language with a focus on code consistency and teaching - René Föhring](https://github.com/rrrene/credo) | [Credo: Your Team's Robot Mentor - René Föhring (CodeBEAM Lite Amsterdam 2019)](https://www.youtube.com/watch?v=pTDJZ3O_v6E)
 * [Elixir Bug Hunting! - José Valim](https://www.twitch.tv/videos/334900348)
+
+#### ELIXIR - DEBUGGING - ORION
+
+* Orion: Distributed Dynamic Profiling for the BEAM (Thomas Depierre): [Github](https://github.com/LivewareProblems/Orion)
+* [Orion for Distributed Tracing in Production - Thinking Elixir Podcast](https://podcast.thinkingelixir.com/142)
 
 #### ELIXIR - DEBUGGING - PRY
 
@@ -1014,6 +1048,7 @@ F
 ### ELIXIR - DISTRIBUTION
 
 * [Distributed War Stories - Miriam Pena (EMPEX LA 2019)](https://www.youtube.com/watch?v=b3JQgyj17hk)
+* [Making the impossible possible: Building distributed systems worthy of our trust - Heidi Howard (EMPEX NYC 2023)](https://www.youtube.com/watch?v=ASreXQ5MeHo) & [CCF.dev - Confidential Consortium Framework](https://ccf.microsoft.com/) & [Jepsen.io - Distributed Systems Safety Research](https://jepsen.io/)
 * [Horde is a distributed process registry and supervisor built on δ-CRDTs - Derek Kraan](https://github.com/derekkraan/horde) | [API Docs](https://hexdocs.pm/horde/api-reference.html) | [Introducing Horde](https://medium.com/@derek.kraan2/introducing-horde-a-distributed-supervisor-in-elixir-4be3259cc142) | [Getting Started](https://medium.com/@derek.kraan2/getting-started-with-hordes-distributed-supervisor-registry-f3017208e1ce) | [Docker & OTP: Friends or Foes - Daniel Azuma (ElixirConf 2018)](https://www.youtube.com/watch?v=nLApFANtkHs)
 * [Idioms for Building Distributed Fault–Tolerant Applications with Elixir - José Valim (YOW! 2021)](https://www.youtube.com/watch?v=mkGq1WoEvI4) & [EuRuKo 2016](https://www.youtube.com/watch?v=xhwnHovnq_0)
 * [Ab(b)racadabra: URL-shortening service as an experiment in distributed Elixir](https://github.com/elvanja/abbr)
@@ -1229,6 +1264,7 @@ F
 ### ELIXIR - EVENT SOURCING/CQRS
 
 * [Awesome Elixir and CQRS](https://github.com/slashdotdash/awesome-elixir-cqrs)
+* [Event Sourcing with Elixir - Peter Ullrich (ElixirConf EU Virtual 2020)](https://www.youtube.com/watch?v=mmRxrq8hELY)
 * [FAQ on DDD, CQRS & Event Sourcing - CQRS.nu](http://cqrs.nu/Faq)
 * [CQRS and Event Sourcing - Bernardo Amorim (Code Beam SF 2018)](https://www.youtube.com/watch?v=S3f6sAXa3-c)
 * [Domain-Driven Design With Elixir - Japa Swadia (ElixirConf 2020)](https://www.youtube.com/watch?v=fx3BmpzitUg)
@@ -1431,21 +1467,7 @@ F
 
 ### ELIXIR - MACHINE LEARNING
 
-* [Elixir versus Python for Data Science - Sean Moriarity](https://dockyard.com/blog/2022/07/12/elixir-versus-python-for-data-science)
-
-#### ELIXIR - MACHINE LEARNING - AXON
-
-* [Axon: Functional Programming for Deep Learning - Sean Moriarity (ElixirConf 2022)](https://www.youtube.com/watch?v=NWXSiZ-vi-o)
-* [Axon.Serving: Model Serving with Axon and Elixir - Sean Moriarity](https://dockyard.com/blog/2022/10/17/axon-serving-model-serving-with-axon-and-elixir)
-* [Semantic Search with Phoenix, Axon, and Elastic - Sean Moriarity](https://dockyard.com/blog/2022/09/28/semantic-search-with-phoenix-axon-and-elastic)
-* [Catching Fraud with Elixir and Axon - Sean Moriarity](https://dockyard.com/blog/2022/04/07/catching-fraud-with-elixir-and-axon)
-
-#### ELIXIR - MACHINE LEARNING - BUMBLEBEE
-
-* [Bumblebee: GPT2, Stable Diffusion, and more in Elixir - José Valim](https://www.youtube.com/watch?v=g3oyh3g1AtQ)
-* [Building a Conversational Support Bot with Elixir and Bumblebee - Sean Moriarity (Paraxial vlog)](https://www.youtube.com/watch?v=ELBQytOaQUQ)
-* [From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community - José Valim](https://huggingface.co/blog/elixir-bumblebee)
-* [Use Neural Networks In Livebook - Peter Ullrich](https://www.peterullrich.com/use-neural-networks-in-livebook)
+* [MLOps in Elixir: Simplifying traditional MLOps with Elixir - Sean Moriarity (ElixirConf 2023)](https://www.youtube.com/watch?v=6aVnwj8WQq4)
 
 #### ELIXIR - MACHINE LEARNING - EX_FAISS
 
@@ -1466,6 +1488,7 @@ F
 * [NX: Numerical Elixir & Elixir XLA bindings for CPU/GPU/TPU (Github)](https://github.com/elixir-nx/nx)
 * [Nx (Numerical Elixir) is now publicly available - José Valim](https://dashbit.co/blog/nx-numerical-elixir-is-now-publicly-available)
 * [Up and Running Nx - Sean Moriarity](https://dockyard.com/blog/2021/04/08/up-and-running-nx)
+* [Elixir versus Python for Data Science - Sean Moriarity](https://dockyard.com/blog/2022/07/12/elixir-versus-python-for-data-science)
 * [Elixir-NX-Axon: Elixir's Machine Learning Library - Grox.io](https://www.youtube.com/watch?v=NcsqGS6SVXg)
 * [Kicking the tyres on Nx (Numerical Elixir) - Robert Ellen](https://www.youtube.com/watch?v=SgSbaGm5nR0)
 * [Introducing NX - José Valim (Lambda Days 2021)](https://www.youtube.com/watch?v=fPKMmJpAGWc)
@@ -1479,6 +1502,18 @@ F
   * [axon_onnx: Easily convert models between ONNX and Axon](https://github.com/elixir-nx/axon_onnx)
 * [JIT/GPU accelerated deep learning for Elixir with Axon v0.1](https://seanmoriarity.com/2022/06/16/jit-gpu-accelerated-deep-learning-for-elixir-with-axon-v0-1/)
 * [Predicting fuel efficiency with Elixir, Nx, and Axon: a gentle introduction to Machine Learning](https://bitfield.co/posts/machine-learning-in-elixir-with-nx-and-axon/)
+* [Train a Neural Network in Minutes with Elixir & Axon - Sean Moriarity](https://www.youtube.com/watch?v=Xk1WPGKaDBg)
+* [Axon: Functional Programming for Deep Learning - Sean Moriarity (ElixirConf 2022)](https://www.youtube.com/watch?v=NWXSiZ-vi-o)
+* [Axon.Serving: Model Serving with Axon and Elixir - Sean Moriarity](https://dockyard.com/blog/2022/10/17/axon-serving-model-serving-with-axon-and-elixir)
+* [Semantic Search with Phoenix, Axon, and Elastic - Sean Moriarity](https://dockyard.com/blog/2022/09/28/semantic-search-with-phoenix-axon-and-elastic)
+* [Catching Fraud with Elixir and Axon - Sean Moriarity](https://dockyard.com/blog/2022/04/07/catching-fraud-with-elixir-and-axon)
+
+##### ELIXIR - MACHINE LEARNING - NX - BUMBLEBEE
+
+* [Bumblebee: GPT2, Stable Diffusion, and more in Elixir - José Valim](https://www.youtube.com/watch?v=g3oyh3g1AtQ)
+* [Building a Conversational Support Bot with Elixir and Bumblebee - Sean Moriarity (Paraxial vlog)](https://www.youtube.com/watch?v=ELBQytOaQUQ)
+* [From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community - José Valim](https://huggingface.co/blog/elixir-bumblebee)
+* [Use Neural Networks In Livebook - Peter Ullrich](https://www.peterullrich.com/use-neural-networks-in-livebook)
 
 ##### ELIXIR - MACHINE LEARNING - NX - EXPLORER
 
@@ -1599,6 +1634,10 @@ F
 #### ELIXIR - NERVES - VINTAGE_NET
 
 * VintageNet: [Hexdocs](https://hexdocs.pm/vintage_net/readme.html)
+
+### ELIXIR - NETWORKING
+
+* [BEAM: The Perfect Fit for Networks - Andrea Leopardi (EMPEX NYC 2023)](https://www.youtube.com/watch?v=pqryxveqJpw)
 
 ### ELIXIR - NEWSLETTERS
 
@@ -1982,6 +2021,10 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Liven up your LiveViews (even further) with AlpineJS - Patrick Thompson (ElixirConf 2020)](https://www.youtube.com/watch?v=Dv64_tGJhHo)
 * [Integrating Phoenix LiveView with JavaScript and AlpineJS - Patrick Thompson](http://blog.pthompson.org/alpine-js-and-liveview)
 * [Creating LiveView Modals with Tailwind CSS and AlpineJS - Patrick Thompson](http://blog.pthompson.org/liveview-tailwind-css-alpine-js-modal)
+
+##### ELIXIR - PHOENIX - LIVE VIEW - ASSIGN_ASYNC
+
+* [How to Use LiveView's Async Assigns - John Elm](https://johnelmlabs.com/posts/async-assigns)
 
 ##### ELIXIR - PHOENIX - LIVE VIEW - JAVASCRIPT INTEROP
 
@@ -2582,6 +2625,7 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ERLANG - CONCURRENCY
 
 * [BEAM Concurrency in Action - Saša Jurić (YOW! 2022)](https://www.youtube.com/watch?v=A4x6IfceJCM)
+* [Comparing common concurrency patterns in Elixir and Erlang - Devon Estes (Lambda Days 2020)](https://www.youtube.com/watch?v=GVSRi9Ki8d8)
 * [The How and Why of Fitting Things Together - Joe Armstrong](https://www.youtube.com/watch?v=ed7A7r6DBsM)
 * [JVM struggles and the BEAM - Joel Kemp](https://mrjoelkemp.medium.com/jvm-struggles-and-the-beam-4d9c58547410)
 * [Optimising for Concurrency: Comparing and contrasting the BEAM and JVM virtual machines - Francesco Cesarini & Gabor Olah](https://www.erlang-solutions.com/blog/optimising-for-concurrency-comparing-and-contrasting-the-beam-and-jvm-virtual-machines.html)
