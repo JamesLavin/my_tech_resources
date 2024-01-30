@@ -14,8 +14,17 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ## (MOSTLY) NON-FICTION BOOKS
 
+### Completed 2024
+
+* T.J. English, **Dangerous Rhythms: Jazz and the Underworld**
+* M.J. DeMarco, **Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship**
+
 ### Completed 2023
 
+* Brian Long, **Problem Hunting: The Tech Startup Textbook**
+* Gary Keller with Jay Papasan, **The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results**
+* Alberto Savola, **The Right It: Why So Many Ideas Fail and How to Make Sure Yours Succeed**
+* Bernhard Schroeder, **Brands and Bulls\*\*: Excel at the Former and Avoid the Latter. A Branding Primer for Millennial Marketers in a Digital Age**
 * Marcus Sheridan, **They Ask, You Answer: A Revolutionary Approach to Inbound Sales, Content Marketing, and Today's Digital Consumer, Revised & Updated**
 * John Whalen, **Design for How People Think: Using Brain Science to Build Better Products**
 * Donald Miller, **How to Grow Your Small Business: A 6-Step Plan to Help Your Business Take Off**
