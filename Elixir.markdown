@@ -88,6 +88,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Elixir School](https://elixirschool.com/)
 * Protohackers - Andrea Leopardi: [Videos](https://www.youtube.com/playlist?list=PLd7I3U4fDsULTLqbRAkWzA002-IzMe8fl) | [Protohackers.com](https://protohackers.com/) | [Andrea's code (Github)](https://github.com/whatyouhide/protohackers_in_elixir)
 * [ElixirCasts.io](https://elixircasts.io/?page=6)
+* [Introducing Elixir: Your entire web stack - Lars Wikman (Øredev 2023)](https://www.youtube.com/watch?v=wWRDysIpMFQ)
 * [Elixir: functional, concurrent, distributed programming - Andrea Leopardi (Lambda World 2018)](https://www.youtube.com/watch?v=e3O0R5_69Pg)
 * [From Zero to Hero in Elixir - LittleAlchemist.io](https://www.youtube.com/playlist?list=PLaY7qWIrmqtFoZLvOvYRZG5hl367UybRp)
 * [Elixir Tutorial - Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumAgKjSPyFtvYjP5LqgzafQq)
@@ -656,8 +657,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Abul Asar](https://abulasar.com/)
 * [App Signal](https://blog.appsignal.com/elixir-alchemy)
 * [Carbon Five](https://blog.carbonfive.com/category/elixir/)
+* [Curiosum](https://curiosum.com/blog/category/elixir)
 * [DennisBeatty.com](https://dennisbeatty.com/)
 * [DevonEstes.com](http://devonestes.com/)
+* Dev.to: [Elixir](https://dev.to/t/elixir) | [Erlang](https://dev.to/t/erlang) | [Livebook](https://dev.to/t/livebook) | [LiveView](https://dev.to/t/liveview) | [Phoenix](https://dev.to/t/phoenix)
 * [Dockyard](https://dockyard.com/blog/categories/elixir)
 * [East 5th](http://www.east5th.co/blog/)
 * [Elixir Alchemy (AppSignal)](https://blog.appsignal.com/elixir-alchemy)
@@ -669,6 +672,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [ElixirStreams.com - German Velasco](https://www.elixirstreams.com/tips)
 * [Elixir Weekly](https://elixirweekly.net/)
 * [The Erlang eList](http://theerlangelist.com/)
+* [E-xyza Youtube channel (Isaac Yonemoto)](https://www.youtube.com/channel/UCuKBb--0F0qT_deSpMLsFRA)
 * [Fly.io Blog](https://fly.io/blog/) | [Fly.io Phoenix Files](https://fly.io/phoenix-files/)
 * [Hacklines](https://hacklines.com/en?tags=Elixir)
 * Hashrocket: [TIL](https://til.hashrocket.com/elixir) & [blog](https://hashrocket.com/blog/tags/elixir)
@@ -1031,6 +1035,10 @@ F
 * [BEAM and Kubernetes: Better together? - Cory O'Daniel (Code BEAM SF 20)](https://www.youtube.com/watch?v=Nv6GfEGv0kc)
 * [Deploying Phoenix to Kubernetes From Scratch - Dan Quan](https://quan.io/blog/deploying-phoenix-to-kubernetes-from-scratch/)
 * [Kubernetes and the Erlang VM: orchestration on the large and the small - José Valim](http://blog.plataformatec.com.br/2019/10/kubernetes-and-the-erlang-vm-orchestration-on-the-large-and-the-small/)
+
+#### ELIXIR - DEPLOYMENT - RELEASES
+
+* [Deploying Phoenix app with mix releases - Konrad Sowik](https://curiosum.com/blog/deploying-phoenix-app-with-mix-releases)
 
 #### ELIXIR - DEPLOYMENT - START_PHASE
 
@@ -1571,6 +1579,7 @@ F
 * [Metaprogramming in Elixir - Gints Dreimanis](https://serokell.io/blog/elixir-metaprogramming)
 * Jia Hao Woo: [Intro to Metaprogramming in Elixir](https://blog.appsignal.com/2021/09/07/an-introduction-to-metaprogramming-in-elixir.html)  | [Under the Hood of Macros in Elixir](https://blog.appsignal.com/2021/10/05/under-the-hood-of-macros-in-elixir.html)  | [How to Use Macros in Elixir](https://blog.appsignal.com/2021/10/26/how-to-use-macros-in-elixir.html)  | [Pitfalls of Metaprogramming in Elixir](https://blog.appsignal.com/2021/11/16/pitfalls-of-metaprogramming-in-elixir.html)
 * [Metaprogramming Elixir - Chris McCord (NDC Oslo 2015)](https://vimeo.com/131643017)
+* [Speeding up dynamic templates Using Meta-programming - Andrew Selder (ElixirConf 2023)](https://www.youtube.com/watch?v=7wrP2ZE5lA4)
 * [Mex: Elixir Shell helper for previewing macroexpansion - Luc Fueston](https://github.com/mrluc/mex)
 
 ### ELIXIR - METRICS
@@ -1596,6 +1605,10 @@ F
 * [Memento: Simple but Powerful Elixir interface to the Erlang Mnesia Database - Sheharyar Naseer](https://github.com/sheharyarn/memento)
 * [Store Everything With Elixir and Mnesia - Ilya Bodrov](https://code.tutsplus.com/articles/store-everything-with-elixir-and-mnesia--cms-29821)
 * [ecto_mnesia: Ecto adapter for Mnesia Erlang term database - Nebo #15](https://github.com/Nebo15/ecto_mnesia)
+
+### ELIXIR - MOEBIUS
+
+* [Moebius: functional query tool for Elixir and PostgreSQL - Rob Conery](https://github.com/robconery/moebius)
 
 ### ELIXIR - MUSIC
 
@@ -1958,6 +1971,7 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ELIXIR - PHOENIX - LIVE VIEW
 
 * Live View: [Documentation](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html) | [LiveComponent](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveComponent.html) | [LiveViewTest](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveViewTest.html) | [mix phx.gen.live](https://hexdocs.pm/phoenix/Mix.Tasks.Phx.Gen.Live.html) | [API Reference](https://hexdocs.pm/phoenix_live_view/api-reference.html) | [Github](https://github.com/phoenixframework/phoenix_live_view)
+* [Building a GitHub Gist Clone - Elixir Mentor (Jacob Luetzow)](https://www.youtube.com/playlist?list=PL2Rv8vpZJz4x1Svv79WdT0Da42kWt_hQ0)
 * [The Future of Full-stack - Chris McCord (ElixirConf 2021)](https://www.youtube.com/watch?v=Of1phFsC4ZI)
 * [Mastering Phoenix LiveView: Building a GitHub Gist Clone from Scratch - Elixir Mentor](https://www.youtube.com/playlist?list=PL2Rv8vpZJz4x1Svv79WdT0Da42kWt_hQ0)
 * [Better Forms With LiveView - Andrew Ek (GigCity Elixir)](https://www.youtube.com/watch?v=3WXBZGI6jOM)
@@ -2079,6 +2093,11 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * Live Storybook: [Hexdocs](https://hexdocs.pm/phx_live_storybook/PhxLiveStorybook.html) | [Github](https://github.com/phenixdigital/phx_live_storybook)
 * [Demo of phx_live_storybook v0.4.5 - Christian Blavier](https://www.youtube.com/watch?v=MTE7dLhkQ8Q)
+
+##### ELIXIR - PHOENIX - LIVE VIEW - LIVE SVELTE
+
+[Live Svelte (Github)](https://github.com/woutdp/live_svelte)
+[Live Svelte (HexDocs)](https://hexdocs.pm/live_svelte/readme.html)
 
 ##### ELIXIR - PHOENIX - LIVE VIEW - SURFACE
 
@@ -2314,6 +2333,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - STREAMS
 
+* [How to Build a Memory-efficient Elixir App with Streams - Tracey Onim](https://blog.appsignal.com/2024/02/06/how-to-build-a-memory-efficient-elixir-app-with-streams.html)
 * Alvise Susmel: [Elixir Streams to process large HTTP responses on the fly](https://www.poeticoding.com/elixir-streams-to-process-large-http-responses-on-the-fly/) & [Elixir Stream and large HTTP responses: processing text](https://www.poeticoding.com/elixir-stream-and-large-http-responses-processing-text/)
 * [Elixir Findings: Asynchronous Task Streams - Dino Costa](https://medium.com/@dinojoaocosta/elixir-findings-asynchronous-task-streams-7f6336227ea)
 * [Test-Driving a Stream-powered Elixir Library - Thiago Araújo Silva](https://semaphoreci.com/community/tutorials/test-driving-a-stream-powered-elixir-library)
@@ -2339,6 +2359,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [Tricks and tools for writing Elixir tests - Brian Marick (ElixirConf 2020)](https://www.youtube.com/watch?v=-8ax7-UtXCQ)
 * [TDD is not about testing - Gianluca Padovani (Code BEAM STO 19)](https://www.youtube.com/watch?v=AVKpChQoXXE)
+* [Elixir API: Testing - Elixir Mentor (Jacob Luetzow)](https://www.youtube.com/playlist?list=PL2Rv8vpZJz4xGWPUWVfSTciCvmk8ot_zs)
 * [Testing in an Elixir world - Rafael Rocha (Code BEAM STO 19)](https://www.youtube.com/watch?v=M8rv-gvTG-M)
 * [4 Tips for Mastering Test-Driven Development - Nicolas Talfer](https://www.welcometothejungle.com/fr/articles/tips-test-driven-development)
 * [Organizing Your Tests With Context Tags - Peter Ullrich](https://www.peterullrich.com/exunit-context-tags)
@@ -2693,6 +2714,7 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ERLANG - DOCUMENTATION
 
 * [Erlang/OTP Search](http://erlang.org/doc/search/)
+* [ErlDocs.com](https://www.erldocs.com/)
 * [Erlang Modules Reference](http://erlang.org/doc/man_index.html)
 * Erlang Run-Time System App (ERTS): [HTML](http://erlang.org/doc/apps/erts/) & [PDF](http://erlang.org/doc/apps/erts/erts.pdf)
 * Std Lib User's Guide: [HTML](http://erlang.org/doc/apps/stdlib/users_guide.html) & [PDF](http://erlang.org/doc/apps/stdlib/stdlib.pdf)

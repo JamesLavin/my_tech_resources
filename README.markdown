@@ -1731,6 +1731,15 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Graph Databases Will Change Your Freakin' Life - Ed Finkler](https://www.youtube.com/watch?v=GekQqFZm7mA)
 * [From Relational to Graph: A Developer's Guide - Michael Hunger](https://dzone.com/refcardz/from-relational-to-graph-a-developers-guide?chapter=1)
 
+#### DATABASES - GRAPH DATABASES - APACHE AGE
+
+* Apache AGE: [Docs](https://age.apache.org/age-manual/master/intro/setup.html) | [Github](https://github.com/apache/age) | [age.apache.org](https://age.apache.org/)
+
+#### DATABASES - GRAPH DATABASES - ARCADEDB
+
+* ArcadeDB: [Docs](https://docs.arcadedb.com/) | [Github](https://github.com/ArcadeData/arcadedb)
+* [TinkerPop Wide: ArcadeDB - a Multi-Model Database with Gremlin (presentation)](https://www.youtube.com/watch?v=X6qC-P-pkgs)
+
 #### DATABASES - GRAPH DATABASES - GRAPHML
 
 * [GraphML](http://graphml.graphdrawing.org/)

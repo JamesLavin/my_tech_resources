@@ -992,6 +992,7 @@ See [DEVOPS - GOOGLE CLOUD - KUBERNETES](#devops---google-cloud---kubernetes)
 #### DEVOPS - KUBERNETES - HELM
 
 * Helm (package manager for Kubernetes): [Website](https://helm.sh/) | [docs](https://docs.helm.sh/) | [Github](https://github.com/kubernetes/helm) | [Twitter](https://twitter.com/helmpack)
+* [How to Create Helm Charts - The Ultimate Guide - DevOps Journey](https://www.youtube.com/watch?v=jUYNS90nq8U)
 * [What is Helm in Kubernetes? Helm and Helm Charts explained | Kubernetes Tutorial 23 - TechWorld with Nana](https://www.youtube.com/watch?v=-ykwb1d0DXU)
 * [Making the Most of Helm 3 - Dan Garfield & Anna Baker](https://www.youtube.com/watch?v=EfV5fOK9IRU)
 * [Deep Dive into Helm - Scott Rigby & Paul Czarkowski](https://www.youtube.com/watch?v=UfASpCJOdiw)

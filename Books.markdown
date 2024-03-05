@@ -16,6 +16,9 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2024
 
+* Seth Godin, **The Practice: Shipping Creative Work**
+* Andrew McAfee, **The Geek Way: The Radical Mindset That Drives Extraordinary Results**
+* Horst Schulze, **Excellence Wins: A No-Nonsense Guide to Becoming the Best in a World of Compromise**
 * T.J. English, **Dangerous Rhythms: Jazz and the Underworld**
 * M.J. DeMarco, **Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship**
 

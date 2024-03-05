@@ -260,6 +260,10 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 * [Client Documentation - RabbitMQ.com](https://www.rabbitmq.com/clients.html)
 * [Erlang RabbitMQ Client library - RabbitMQ.com](https://www.rabbitmq.com/erlang-client-user-guide.html)
 
+#### MESSAGING - RABBITMQ - PERFORMANCE
+
+* [RabbitMQ Performance Improvements - David Ansari (Code BEAM America 2022)](https://www.youtube.com/watch?v=2sO0Wfe-CxY)
+
 #### MESSAGING - RABBITMQ - STREAMS
 
 * [Introducing Stream Support In RabbitMQ - Erlang Admin](https://www.erlang-solutions.com/blog/introducing-stream-support-in-rabbitmq%ef%bf%bc/)
