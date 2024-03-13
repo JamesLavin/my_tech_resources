@@ -1392,6 +1392,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [KDNuggets Data Mining Course](https://www.kdnuggets.com/data_mining_course/index.html)
 * [Learning From Data (Caltech)](http://work.caltech.edu/telecourse)
 * [Open-Source Data Science Masters](http://datasciencemasters.org/)
+* [Scaler Data Science Program](https://www.scaler.com/data-science-course/)
 * [Udacity Data Sciencce courses](https://www.udacity.com/school-of-data-science)
 
 ### DATA ANALYSIS - FLINK
