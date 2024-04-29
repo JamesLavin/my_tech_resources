@@ -674,6 +674,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Erlang eList](http://theerlangelist.com/)
 * [E-xyza Youtube channel (Isaac Yonemoto)](https://www.youtube.com/channel/UCuKBb--0F0qT_deSpMLsFRA)
 * [Fly.io Blog](https://fly.io/blog/) | [Fly.io Phoenix Files](https://fly.io/phoenix-files/)
+* [Fullstack Phoenix](https://fullstackphoenix.com/tutorials)
 * [Hacklines](https://hacklines.com/en?tags=Elixir)
 * Hashrocket: [TIL](https://til.hashrocket.com/elixir) & [blog](https://hashrocket.com/blog/tags/elixir)
 * [Iacobson.net](http://iacobson.net/index?tag=elixir)
@@ -1277,6 +1278,8 @@ F
 ### ELIXIR - EVENT SOURCING/CQRS
 
 * [Awesome Elixir and CQRS](https://github.com/slashdotdash/awesome-elixir-cqrs)
+* [Model Your Domain with Domain-Driven Design - Peter Ullrich (Elixirconf Africa 2023)](https://www.youtube.com/watch?v=NJdzU3Ae7bY)
+* [Using DDD concepts to create better Phoenix Contexts - German Velasco](https://www.youtube.com/watch?v=JNWPsaO4PNM)
 * [Event Sourcing with Elixir - Peter Ullrich (ElixirConf EU Virtual 2020)](https://www.youtube.com/watch?v=mmRxrq8hELY)
 * [FAQ on DDD, CQRS & Event Sourcing - CQRS.nu](http://cqrs.nu/Faq)
 * [CQRS and Event Sourcing - Bernardo Amorim (Code Beam SF 2018)](https://www.youtube.com/watch?v=S3f6sAXa3-c)
@@ -1461,6 +1464,7 @@ F
 * [Livebook v0.5: flowcharts, chat apps, multiplayer games, and custom widgets! - José Valim](https://www.youtube.com/watch?v=5tLsBwAjOo0)
 * [Announcing Livebook - José Valim](https://www.youtube.com/watch?v=RKvqc-UEe34)
 * [It's A-Live(book) - Adam Lancaster (ElixirConf EU 2022)](https://www.youtube.com/watch?v=z4O7YnqqUI4)
+* [Distributed and Parallel Image Processing on Livebook - Ryo Wakabayashi (ElixirConf EU 2023)](https://www.youtube.com/watch?v=AihC4U6cA2E)
 
 #### ELIXIR - LIVEBOOK - ANIMATION
 
@@ -1549,22 +1553,6 @@ F
 
 * [A Scalable Intent Classifier using Elixir, Python, and Tensorflow - Arjan Scherpenisse (ElixirConf EU 2021)](https://www.youtube.com/watch?v=U8c_hsWC2jE)
 
-### ELIXIR - MACROS
-
-* [The Upside Down Dimension of Elixir: An Intro to Metaprogramming - Nicholas Henry (ElixirConf 2020)](https://www.youtube.com/watch?v=EFAgc7YqDP8)
-* A deep dive into the Elixir AST - Lucas San Román: [Part 1](https://dorgan.netlify.app/posts/2021/04/the_elixir_ast/) | [Part 2: Building a static code analyzer](https://dorgan.netlify.app/posts/2021/04/the_elixir_ast_analyzer/) | [Part 3: Building a typed struct macro](https://dorgan.netlify.app/posts/2021/04/the_elixir_ast_typedstruct/) | [Preparing the ground for source code manipulation](https://dorgan.netlify.app/posts/2021/07/preparing-the-ground-for-source-code-manipulation/)
-* Macrofunology - Brian Marick: [1: module structure](https://www.crustofcode.com/def-macro-defmacrop/) | [2: wrapping bodies, dissecting arglists](https://www.crustofcode.com/def-macro-arglist/) | [3: guard expressions](https://www.crustofcode.com/macrofunology-3-guards/) | [4: atoms and function names](https://www.crustofcode.com/def-macro-getter/)
-* [Deep dive into Elixir - Jonathan Yeong (ElixirConf 2020)](https://www.youtube.com/watch?v=iNbqpT0elbA)
-* [Macros in Elixir: Responsible code generation - Lizzie Paquette](https://codesync.global/media/macros-in-elixir-responsible-code-generation-cbf20/)
-* [Using Functions in Elixir Guard Clauses - Chris Keathley](http://keathley.io/2016/04/09/elixir-guard-clauses.html)
-* The How of Macros - Brian Marick: [1: Elixir compilation](https://www.crustofcode.com/how1/) | [2: Syntax trees](https://www.crustofcode.com/how-2/) | [3: Syntax trees for literal data](https://www.crustofcode.com/how3/) | [4: `quote`](https://www.crustofcode.com/how4/) | [5: Unquoting](https://www.crustofcode.com/how5/)
-* [Down the Rabbit Hole: Defining a guard-safe modulo operation in Elixir - Wiebe-Marten](https://medium.com/@W_Mcode/down-the-rabbit-hole-defining-a-guard-safe-modulo-operation-in-elixir-6335ade7c078)
-* [Don't Write Macros But Do Learn How They Work - Jesse Anderson (ElixirConf 2017)](https://www.youtube.com/watch?v=Bo48sQDb-hk)
-* Jay Hayes: [Metaprogramming: Programs That Write Programs](https://www.youtube.com/watch?v=S_WtnSrfR5s) | [Elixir in Elixir - (Elixir & Phoenix Conf 2016](https://www.youtube.com/watch?v=p8MGNw045AE) & [Getting Started with Elixir Metaprogramming (blog post)](https://www.bignerdranch.com/blog/getting-started-with-elixir-metaprogramming/)
-* [Macros - Jason Cummings (ElixirDaze 2017)](https://www.youtube.com/watch?v=9CkZJ2kgNNs)
-* [Understanding Elixir Macros, Part 1 - Basics - Saša Jurić](http://www.theerlangelist.com/article/macros_1), [Part 2 - Micro theory](http://www.theerlangelist.com/article/macros_2), [Part 3 - Getting into the AST](http://www.theerlangelist.com/article/macros_3), [Part 4 - Diving Deeper](http://www.theerlangelist.com/article/macros_4), [Part 5 - Reshaping the AST](http://www.theerlangelist.com/article/macros_5), [Part 6 - In-place code generation](http://www.theerlangelist.com/article/macros_6)
-* [Writing a simple macro in Elixir - Dave Thomas](https://www.youtube.com/watch?v=LsLWezjV9Fo)
-
 ### ELIXIR - METAPROGRAMMING
 
 * [Metaprogramming - ElixirSchool.com](https://elixirschool.com/en/lessons/advanced/metaprogramming)
@@ -1579,8 +1567,28 @@ F
 * [Metaprogramming in Elixir - Gints Dreimanis](https://serokell.io/blog/elixir-metaprogramming)
 * Jia Hao Woo: [Intro to Metaprogramming in Elixir](https://blog.appsignal.com/2021/09/07/an-introduction-to-metaprogramming-in-elixir.html)  | [Under the Hood of Macros in Elixir](https://blog.appsignal.com/2021/10/05/under-the-hood-of-macros-in-elixir.html)  | [How to Use Macros in Elixir](https://blog.appsignal.com/2021/10/26/how-to-use-macros-in-elixir.html)  | [Pitfalls of Metaprogramming in Elixir](https://blog.appsignal.com/2021/11/16/pitfalls-of-metaprogramming-in-elixir.html)
 * [Metaprogramming Elixir - Chris McCord (NDC Oslo 2015)](https://vimeo.com/131643017)
-* [Speeding up dynamic templates Using Meta-programming - Andrew Selder (ElixirConf 2023)](https://www.youtube.com/watch?v=7wrP2ZE5lA4)
 * [Mex: Elixir Shell helper for previewing macroexpansion - Luc Fueston](https://github.com/mrluc/mex)
+
+#### ELIXIR - METAPROGRAMMING - EXAMPLE & APPLICATIONS
+
+* [Down the Rabbit Hole: Defining a guard-safe modulo operation in Elixir - Wiebe-Marten](https://medium.com/@W_Mcode/down-the-rabbit-hole-defining-a-guard-safe-modulo-operation-in-elixir-6335ade7c078)
+* [A Domain Specific Language for Impact - Simon de Haan and Federico Meini (ElixirConf EU 2023)](https://www.youtube.com/watch?v=DugOUm9cka8)
+* [Speeding up dynamic templates Using Meta-programming - Andrew Selder (ElixirConf 2023)](https://www.youtube.com/watch?v=7wrP2ZE5lA4)
+
+#### ELIXIR - METAPROGRAMMING - MACROS
+
+* [The Upside Down Dimension of Elixir: An Intro to Metaprogramming - Nicholas Henry (ElixirConf 2020)](https://www.youtube.com/watch?v=EFAgc7YqDP8)
+* A deep dive into the Elixir AST - Lucas San Román: [Part 1](https://dorgan.netlify.app/posts/2021/04/the_elixir_ast/) | [Part 2: Building a static code analyzer](https://dorgan.netlify.app/posts/2021/04/the_elixir_ast_analyzer/) | [Part 3: Building a typed struct macro](https://dorgan.netlify.app/posts/2021/04/the_elixir_ast_typedstruct/) | [Preparing the ground for source code manipulation](https://dorgan.netlify.app/posts/2021/07/preparing-the-ground-for-source-code-manipulation/)
+* Macrofunology - Brian Marick: [1: module structure](https://www.crustofcode.com/def-macro-defmacrop/) | [2: wrapping bodies, dissecting arglists](https://www.crustofcode.com/def-macro-arglist/) | [3: guard expressions](https://www.crustofcode.com/macrofunology-3-guards/) | [4: atoms and function names](https://www.crustofcode.com/def-macro-getter/)
+* [Deep dive into Elixir - Jonathan Yeong (ElixirConf 2020)](https://www.youtube.com/watch?v=iNbqpT0elbA)
+* [Macros in Elixir: Responsible code generation - Lizzie Paquette](https://codesync.global/media/macros-in-elixir-responsible-code-generation-cbf20/)
+* [Using Functions in Elixir Guard Clauses - Chris Keathley](http://keathley.io/2016/04/09/elixir-guard-clauses.html)
+* The How of Macros - Brian Marick: [1: Elixir compilation](https://www.crustofcode.com/how1/) | [2: Syntax trees](https://www.crustofcode.com/how-2/) | [3: Syntax trees for literal data](https://www.crustofcode.com/how3/) | [4: `quote`](https://www.crustofcode.com/how4/) | [5: Unquoting](https://www.crustofcode.com/how5/)
+* [Don't Write Macros But Do Learn How They Work - Jesse Anderson (ElixirConf 2017)](https://www.youtube.com/watch?v=Bo48sQDb-hk)
+* Jay Hayes: [Metaprogramming: Programs That Write Programs](https://www.youtube.com/watch?v=S_WtnSrfR5s) | [Elixir in Elixir - (Elixir & Phoenix Conf 2016](https://www.youtube.com/watch?v=p8MGNw045AE) & [Getting Started with Elixir Metaprogramming (blog post)](https://www.bignerdranch.com/blog/getting-started-with-elixir-metaprogramming/)
+* [Macros - Jason Cummings (ElixirDaze 2017)](https://www.youtube.com/watch?v=9CkZJ2kgNNs)
+* [Understanding Elixir Macros, Part 1 - Basics - Saša Jurić](http://www.theerlangelist.com/article/macros_1), [Part 2 - Micro theory](http://www.theerlangelist.com/article/macros_2), [Part 3 - Getting into the AST](http://www.theerlangelist.com/article/macros_3), [Part 4 - Diving Deeper](http://www.theerlangelist.com/article/macros_4), [Part 5 - Reshaping the AST](http://www.theerlangelist.com/article/macros_5), [Part 6 - In-place code generation](http://www.theerlangelist.com/article/macros_6)
+* [Writing a simple macro in Elixir - Dave Thomas](https://www.youtube.com/watch?v=LsLWezjV9Fo)
 
 ### ELIXIR - METRICS
 
@@ -1909,6 +1917,10 @@ F
 
 * Documentation: [Controller guide](https://hexdocs.pm/phoenix/controllers.html) | [Phoenix.Controller](https://hexdocs.pm/phoenix/Phoenix.Controller.html) | [Testing controllers guide](https://hexdocs.pm/phoenix/testing_controllers.html)
 
+#### ELIXIR - PHOENIX - DAISY UI
+
+* [How to Use daisyUI in Your Elixir + Phoenix Project - Nicholas Moen](https://www.nicholasmoen.com/blog/daisyui-elixir-phoenix/)
+
 #### ELIXIR - PHOENIX - DEPLOYMENT
 
 Note: Elixir 1.9 includes release support:
@@ -1938,6 +1950,10 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ELIXIR - PHOENIX - DEVELOPMENT
 
 * [Phoenix Live Reload](https://github.com/phoenixframework/phoenix_live_reload)
+
+#### ELIXIR - PHOENIX - ERRORS
+
+* [Elixir + Phoenix: How to Raise Custom HTTP Error Responses in Your REST API - Nicholas Moen](https://www.nicholasmoen.com/blog/phoenix-custom-error-responses/)
 
 #### ELIXIR - PHOENIX - EXAMPLE APPLICATIONS
 
@@ -1975,6 +1991,7 @@ Consequently, much of the following will soon be at least partially outdated:
 * [The Future of Full-stack - Chris McCord (ElixirConf 2021)](https://www.youtube.com/watch?v=Of1phFsC4ZI)
 * [Mastering Phoenix LiveView: Building a GitHub Gist Clone from Scratch - Elixir Mentor](https://www.youtube.com/playlist?list=PL2Rv8vpZJz4x1Svv79WdT0Da42kWt_hQ0)
 * [Better Forms With LiveView - Andrew Ek (GigCity Elixir)](https://www.youtube.com/watch?v=3WXBZGI6jOM)
+* [LiveView Mastery (Youtube channel) - Joshua Plicque](https://www.youtube.com/@liveviewmastery)
 * [Dynamic forms with LiveView Streams - Berenice Medel](https://fly.io/phoenix-files/dynamic-forms-with-streams/)
 * [Build a real-time Twitter clone in 15 minutes with LiveView and Phoenix 1.5 - Chris McCord](https://www.youtube.com/watch?v=MZvmYaFkNJI)
 * [Replacing React: How Liveview solved our performance problems - Tim Gremore (ElixirConf 2023)](https://www.youtube.com/watch?v=Qz0ZnOMaePo)
@@ -2001,7 +2018,6 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Building Multiplayer Games with LiveView - Dorian Karter (ElixirConf 2020)](https://www.youtube.com/watch?v=0UnLZlMr1Ug)
 * [GeoRacer - a real-time multiplayer mobile game in Elixir in 6 weeks - Zack Kayser and Beau Heubach (Code BEAM SF 2020)](https://www.youtube.com/watch?v=5DGUqcd-HWQ)
 * [Rebuilding a complex web-app with Elixir and Phoenix LiveView | Mikkel Högh (Code BEAM V 2020)](https://www.youtube.com/watch?v=eWN2c4dLDTU)
-* [Opening Keynote: Phoenix LiveView Uploads - Chris McCord (ElixirConf 2020)](https://www.youtube.com/watch?time_continue=2&v=QJkopba8yyE) & [Phoenix LiveView Uploads Deep Dive - Chris McCord](https://www.youtube.com/watch?v=PffpT2eslH8)
 * [What's new in LiveView - Chris McCord | ElixirConfEU Virtual 2020](https://www.youtube.com/watch?v=VU1JMg9AbLQ)
 * [Phoenix LiveView: Multi-step forms - David Bernheisel](https://bernheisel.com/blog/liveview-multi-step-form/)
 * [Communicating between LiveViews on the same page - Henrik Nyh](https://thepugautomatic.com/2020/08/communicating-between-liveviews-on-the-same-page/)
@@ -2048,10 +2064,11 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [How to Use LiveView's Async Assigns - John Elm](https://johnelmlabs.com/posts/async-assigns)
 
-##### ELIXIR - PHOENIX - LIVE VIEW - JAVASCRIPT INTEROP
+##### ELIXIR - PHOENIX - LIVE VIEW - JAVASCRIPT INTEROP / HOOKS
 
 * [Triggering repeatable animations from the server in LiveView & Elixir - Chris Gregori](https://www.chriis.dev/opinion/triggering-repeatable-animations-from-the-server-in-liveview-and-elixir)
 * [Loading Indicators for Events With JS.push](https://fly.io/phoenix-files/js-push-loading-options/)
+* [Implementing ApexCharts in my Elixir Phoenix LiveView SaaS - Lofi Building in public VoD](https://www.youtube.com/watch?v=YWmAmnKcmvk)
 * [Pushing Events: With and Without JS.push - Berenice Medel & Chris Nicoll](https://fly.io/phoenix-files/pushing-events-with-js-push/)
 * [Client-Side Tabs in LiveView With JS Commands - Berenice Medel & Chris Nicoll](https://fly.io/phoenix-files/tabs-with-js-commands/)
 * [LiveView Feels Faster With a Delayed Loading Indicator - Mark Ericksen](https://fly.io/phoenix-files/make-your-liveview-feel-faster/)
@@ -2096,8 +2113,10 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ##### ELIXIR - PHOENIX - LIVE VIEW - LIVE SVELTE
 
-[Live Svelte (Github)](https://github.com/woutdp/live_svelte)
-[Live Svelte (HexDocs)](https://hexdocs.pm/live_svelte/readme.html)
+* [Live Svelte (Github)](https://github.com/woutdp/live_svelte)
+* [Live Svelte (HexDocs)](https://hexdocs.pm/live_svelte/readme.html)
+* [LiveView is best with Svelte - Anthony Accomazzo](https://blog.sequin.io/liveview-is-best-with-svelte/)
+* [Introducing LiveSvelte, a package that integrates Svelte with Phoenix LiveView, delivering end-to-end reactivity - Wout De Puysseleir](https://wout.space/notes/live-svelte)
 
 ##### ELIXIR - PHOENIX - LIVE VIEW - SURFACE
 
@@ -2110,6 +2129,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ##### ELIXIR - PHOENIX - LIVE VIEW - TESTING
 
+* [Phoenix LiveView Test Driven Development By Example - Joshua Plicque (ElixirConf EU 2023)](https://www.youtube.com/watch?v=-aBhSjxbwJQ)
 * German Velasco: [Testing LiveView (ElixirConf 2020)](https://www.youtube.com/watch?v=h8NURVLysrk) & [Testing LiveView course](https://www.testingliveview.com/)
 
 #### ELIXIR - PHOENIX - LIVE VIEW NATIVE
@@ -2120,6 +2140,11 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ELIXIR - PHOENIX - MIX TASKS
 
 * [Mix tasks documentation](https://hexdocs.pm/phoenix/mix_tasks.html)
+
+#### ELIXIR - PHOENIX - MULTI-TENANT
+
+* [Multitenant Web Applications with Phoenix - Eli Kroumova (ElixirConf EU 2023)](https://www.youtube.com/watch?v=P5OtT1FrCAQ)
+* [Triplex: Database multitenancy for Elixir applications](https://github.com/ateliware/triplex)
 
 #### ELIXIR - PHOENIX - PERFORMANCE
 
@@ -2178,7 +2203,9 @@ Consequently, much of the following will soon be at least partially outdated:
 
 #### ELIXIR - PHOENIX - UPLOADS
 
+* [Direct File Uploads to Amazon S3 with Phoenix LiveView - Joshua Plicque](https://blog.appsignal.com/2024/03/19/direct-file-uploads-to-amazon-s3-with-phoenix-liveview.html)
 * [Step-by-Step Tutorial to Build a Phoenix App that Supports User Upload - Alvise Susmel](https://www.poeticoding.com/step-by-step-tutorial-to-build-a-phoenix-app-that-supports-user-uploads/)
+* [Opening Keynote: Phoenix LiveView Uploads - Chris McCord (ElixirConf 2020)](https://www.youtube.com/watch?time_continue=2&v=QJkopba8yyE) & [Phoenix LiveView Uploads Deep Dive - Chris McCord](https://www.youtube.com/watch?v=PffpT2eslH8)
 * [Creating Thumbnails of uploaded Images and PDF in Phoenix - Alvise Susmel](https://medium.com/@asusmel/creating-thumbnails-of-uploaded-images-and-pdf-in-phoenix-b7e253947097)
 
 #### ELIXIR - PHOENIX - VIDEOS
@@ -2349,6 +2376,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * Telemetry: [Github](https://github.com/beam-telemetry/telemetry)
 * [Introducing Telemetry - Arkadiusz Gil](https://www.erlang-solutions.com/blog/introducing-telemetry.html)
+* [Using OpenTelemetry To Troubleshoot & Monitor Production Applications - Yosef Arbiv (ElixirConf EU 2023)](https://www.youtube.com/watch?v=ecc94cYwOFo)
 * Instrumenting Phoenix 1.5 with Telemetry - Sophie DeBenedetto: [Talk @ ElixirConf 2020](https://www.youtube.com/watch?v=6GT0UwIVkQI) | [Part I: Telemetry Under The Hood](https://elixirschool.com/blog/instrumenting-phoenix-with-telemetry-part-one/)
 * [Tips for Finch and Telemetry - Claudio Ortolina](https://claudio-ortolina.org/posts/tips-for-finch-and-telemetry/)
 * [OpenTelemetry Erlang SDK](https://github.com/open-telemetry/opentelemetry-erlang) | [OpenTelemetry SDK - Hex.pm](https://hex.pm/packages/opentelemetry) | [OpenTelemetry API - Hex.pm](https://hex.pm/packages/opentelemetry_api)
@@ -2505,14 +2533,14 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - VIDEOS
 
+* Code BEAM America: [2024](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtPB-dh2s63eaUXPEFNOaxl) | [2022](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZueYk1VvTJUpwniZ7sWn_hm) | [2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZszGANDDqI25eXjIXs4iqig) 
 * Code BEAM Europe: [2023](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvcztbHJ4LMeXOlHYamUMSR)
 * [Code BEAM Lite Stockholm 2023](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuwsPpgYaNmwbWsu0Nsfi_H)
 * [Code BEAM Lite Mexico 2023](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsImAG9iMk0rXl5LOtvvCa8)
-* [Code BEAM America 2022](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZueYk1VvTJUpwniZ7sWn_hm)
 * [Elixir Australia](https://www.youtube.com/@ElixirAustralia/videos)
 * ElixirConf: [2022](https://www.youtube.com/playlist?list=PLqj39LCvnOWbmaPrkGCAzFMC_FYZUkmSr) | [2021](https://www.youtube.com/playlist?list=PLqj39LCvnOWZna91xJ_i44g3rx4Brbpnv) | [2020](https://www.youtube.com/playlist?list=PLqj39LCvnOWZl_Pb0Y7wGWijKbTvL4gJg) | [2019](https://www.youtube.com/playlist?list=PLqj39LCvnOWYTNs1n3ZNMSNO3Svv_XweT) | [2018](https://www.youtube.com/playlist?list=PLqj39LCvnOWaxI87jVkxSdtjG8tlhl7U6) | [2017](https://www.youtube.com/playlist?list=PLqj39LCvnOWZMVugtyKlHMF1o2zPNntFL) | [2015](http://confreaks.tv/events/elixirconf2015)
 * ElixirConf EU: [2023](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtBoR52raL_l7XQIb1YH-H7) | [2022](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuuF39_A_DAh6IwIuh8K6gd) | [2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtdiDIxP_rPMQ5VmVhs4CKJ) | [EU Virtual October 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuqgpAyZVzeCoz6GQrQx9Xc) | [EU Virtual June 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuKXQqD64oZFss2fGERjKyK) | [2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtoiQC735NjHyPJUS_nmrxy) | [2017 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jV6N5XEjbUQe2GkYcRkZdD) | [2016 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2gB7HUE-2H61HAEyszAph3H) | [2015 videos](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
-* Code BEAM / Code Mesh: [V Europe 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtkHrA2Uqq8AgDBCjnltUHd) | | [Code BEAM America 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZszGANDDqI25eXjIXs4iqig) | [V America 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtsGA-ZEVHfVE4Ch2wMMyKg) | [V 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZ3c4NEvwvvvpOlEY2NrYQ) [SF 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zv85s835EGDeCIBYMipJKgL) | [Lite Amsterdam 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtHPqiRFH4nAJwbrfz04V_Q) | [CodeElixir LDN 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvvzEOmlqLUyrZdsW27w7zH) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Stockholm 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztq2fM3aGvXlj_jOfiopM2B) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Munich 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztyk61upvBMvVPbfTyfFgCE) | [Berlin 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs6eFJ9yx-jR7UShGGfPnY4) | [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
+* Code BEAM / Code Mesh: [V Europe 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtkHrA2Uqq8AgDBCjnltUHd) | [V America 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtsGA-ZEVHfVE4Ch2wMMyKg) | [V 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZ3c4NEvwvvvpOlEY2NrYQ) [SF 2020](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zv85s835EGDeCIBYMipJKgL) | [Lite Amsterdam 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtHPqiRFH4nAJwbrfz04V_Q) | [CodeElixir LDN 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvvzEOmlqLUyrZdsW27w7zH) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Stockholm 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztq2fM3aGvXlj_jOfiopM2B) | [SF 2019](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zui_Qx0kycNL-21atr0-iiw) | [Munich 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Ztyk61upvBMvVPbfTyfFgCE) | [Berlin 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs6eFJ9yx-jR7UShGGfPnY4) | [SF 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtZD26dICR-ui1UIlhdVm-v) | [STO 2018](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsuMetmDORnzhpkYrYsuK28)
 * EMPEX: [2023 NYC](https://www.youtube.com/playlist?list=PLyO-58-sOapzp08J8dYndhKoXRHBcjiyj) | [2022 MTN](https://www.youtube.com/playlist?list=PLyO-58-sOapwMYqvLRtvV8AGPdREu5Wg7) | [2020 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapxq8S0GQo861RupQuAeeu5N) | [2019 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapyHWNFBapGOz40efbJuwmx2) | [2018 NYC](https://www.youtube.com/playlist?list=PLyO-58-sOapw81dCfjDrX5TuYxS5S8qMq) | [2018 LA](https://www.youtube.com/playlist?list=PLyO-58-sOapy9Fs4Sd-HOeQIFwrSCQ3z1) | [2017](https://www.youtube.com/playlist?list=PLyO-58-sOapxgGz6S53Iklyv4s96ePyjS) | [2016](https://www.youtube.com/playlist?list=PLyO-58-sOapw984fSPNyzCyX7SADFn0w0)
 * [Elixir Meetups - Curiosum](https://www.youtube.com/playlist?list=PLuCSJH2c8F0eVogs12KjaJMIOcSoOS3wk)
 * [José Valim Twitch recordings](https://www.twitch.tv/josevalim/videos)
@@ -2978,6 +3006,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ERLANG - TRACING
 
+* [Do you use Erlang tracing? You should! - Lars Wikman (Elixir Australia)](https://www.youtube.com/watch?v=FNLv_aQibpQ)
 * [Guide to Tracing in Erlang - Stratus3D](http://stratus3d.com/blog/2021/08/24/guide-to-tracing-in-erlang/)
 * [Do not guess, Trace - Kacper Mentel (RabbitMQ Summit 2019)](https://www.cloudamqp.com/blog/2019-12-10-do-not-guess-trace.html)
 * [Erlang trace files in Wireshark - Magnus Henoch](https://www.erlang-solutions.com/blog/erlang-trace-files-in-wireshark.html)
@@ -3028,6 +3057,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 * [Gleam.run](https://gleam.run/) | [Documentation](https://gleam.run/documentation/) [Std library docs](https://hexdocs.pm/gleam_stdlib/) | [FAQ](https://gleam.run/frequently-asked-questions/) | [Github](https://github.com/gleam-lang)
 * [The Gleam Book](https://gleam.run/book/tour/)
+* [Getting to know Actors in Gleam - Raúl Chouza (Code BEAM America 2024)](https://www.youtube.com/watch?v=WaHx6n2UZJg)
 * [Crossing boundaries with Gleam - From functions to runtime - Raúl Chouza (Code BEAM America 2022)](https://www.youtube.com/watch?v=VCjxy_GihBc)
 * [Gleam: Lean BEAM typing machine - Louis Pilfold (Code BEAM V 2020)](https://www.youtube.com/watch?v=ceynSTa1dV4)
 * [Gleam Talk - Shayne Tremblay (Denver Elixir Meetup - July 2020)](https://www.youtube.com/watch?v=qC9RhcWzKdE)

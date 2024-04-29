@@ -10,6 +10,10 @@ Related: [Event Sourcing, CQRS, DDD, & Microservices](https://github.com/JamesLa
 
 ## MESSAGING
 
+### MESSAGING - AMQP
+
+* [Keynote: AMQP Ten Years After - Alvaro Videla (RabbitMQ Summit 2023)](https://www.youtube.com/watch?v=WpG__E5zafQ)
+
 ### MESSAGING - KAFKA
 
 * [kafka.apache.org](http://kafka.apache.org/)
@@ -255,6 +259,8 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 ### MESSAGING - RABBITMQ
 
+* [Update from RabbitMQ Core Team by Howard Twine & Roger Freixa (RabbitMQ Summit 2023)](https://www.youtube.com/watch?v=TWOKNqm3zTo)
+
 #### MESSAGING - RABBITMQ - CLIENTS
 
 * [Client Documentation - RabbitMQ.com](https://www.rabbitmq.com/clients.html)
@@ -266,6 +272,9 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 
 #### MESSAGING - RABBITMQ - STREAMS
 
+* [Streams: past, present, and future - Arnaud Cogoluègnes & Karl Nilsson (RabbitMQ Summit 2023)](https://www.youtube.com/watch?v=i3zB5VDMMV8)
+* [Using RabbitMQ Steams In Go - ProgrammingPercy](https://www.youtube.com/watch?v=ICSMdZO9Gns)
+* [What's New in RabbitMQ Streams? - Arnaud Cogoluègnes (RabbitMQ Summit 2022)](https://www.youtube.com/watch?v=aRNUYAeJdOw)
 * [Introducing Stream Support In RabbitMQ - Erlang Admin](https://www.erlang-solutions.com/blog/introducing-stream-support-in-rabbitmq%ef%bf%bc/)
 * [Introducing stream support in RabbitMQ - Arnaud Cogoluègnes (RabbitMQ Summit 21)](https://www.youtube.com/watch?v=PnmGoMiaJhE)
 * [RabbitMQ Streams: The Architectural Possibilities - Alastair Turner](https://www.youtube.com/watch?v=P2oQxzLNSLY) (horrible video quality, 360p)
@@ -274,6 +283,6 @@ Level Up Your KSQL - Tim Berglund (Confluent):
 #### MESSAGING - RABBITMQ - VIDEOS
 
 * [RabbitMQ Summit 2023](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsALsESTtvpUSSnB-ut0SRJ)
-* [RabbitMQ Summit 2022](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuuF39_A_DAh6IwIuh8K6gd)
+* [RabbitMQ Summit 2022](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zvf7In1ZoxcL5BgqvvJYscQ)
 * [RabbitMQ Summit 2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4Zs2ZakMrMBO_tr-CgEbOLRL)
 
