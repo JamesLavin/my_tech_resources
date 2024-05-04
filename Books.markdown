@@ -16,6 +16,9 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2024
 
+* Dr. Albert Bourla, **Moonshot: Inside Pfizer's Nine-Month Race to Make the Impossible Possible**
+* Paul Bloom, **Psych: The Story of the Human Mind**
+* Josh Kaufman, **The Personal MBA: Master the Art of Business**
 * Seth Godin, **The Practice: Shipping Creative Work**
 * Andrew McAfee, **The Geek Way: The Radical Mindset That Drives Extraordinary Results**
 * Horst Schulze, **Excellence Wins: A No-Nonsense Guide to Becoming the Best in a World of Compromise**

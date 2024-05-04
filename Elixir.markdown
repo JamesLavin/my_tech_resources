@@ -2490,6 +2490,7 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - TYPES
 
+* [The Design Principles of the Elixir Type System - Guillaume Duboc (Code BEAM Europe 2023)](https://www.youtube.com/watch?v=eBzoZWgZ334)
 * [Bringing Types to Elixir - Giuseppe Castagna and Guillaume Duboc (ElixirConf EU 2023)](https://www.youtube.com/watch?v=gJJH7a2J9O8)
 * [Typespecs - Elixir docs](http://elixir-lang.org/docs/stable/elixir/typespecs.html)
 * [norm: system for specifying the structure of data, usable for data validation and generation - Chris Keathley](https://github.com/keathley/norm)
