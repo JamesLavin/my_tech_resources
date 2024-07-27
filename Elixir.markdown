@@ -922,6 +922,8 @@ F
 
 #### ELIXIR - DEPLOYMENT - CLUSTERING
 
+* [Discovering distributed systems in Elixir - Maciej Kaszubowski (Code Elixir LDN 2018)](https://www.youtube.com/watch?v=AiN4r8E9qKg)
+* [Distributed Elixir made easy - Johanna Larsson (Code BEAM Lite Mexico 2023)](https://www.youtube.com/watch?v=7yU9mvwZKoY)
 * [Swarm - Paul Schoenfelder](https://github.com/bitwalker/swarm)
 * [Effortless Scaling With Automatic Clusters - Exploring Elixir](https://www.youtube.com/watch?v=zQEgEnjuQsU) & [Tenant Migrations, Cluster Security, Git Repo](https://www.youtube.com/watch?v=voQLaBb-jLI)
 * [Erlang (and Elixir) distribution without epmd - Magnus Henoch](https://www.erlang-solutions.com/blog/erlang-and-elixir-distribution-without-epmd.html)
@@ -1120,7 +1122,6 @@ F
 * [Embrace the Database With Ecto - Josh Branchaud (ElixirDaze 2017)](https://www.youtube.com/watch?v=fFqsMWmONN4)
 * Thinking in Ecto - Peter de Croos: [Part 1: Schemas and Changesets](http://cultofmetatron.io/2017/04/22/thinking-in-ecto---schemas-and-changesets/) | [Part 2: Queries and Relations](http://cultofmetatron.io/2017/04/25/thinking-in-ecto-part-2/)
 * [Ecto 2.1 Tip and Tricks - (Elixir Sydney)](https://www.youtube.com/watch?v=PGZ94AMMTPs)
-* [Ecto Without a Database - Greg Vaughn (Lonestar ElixirConf 2019)](https://www.youtube.com/watch?v=k_xDi7zAcNM)
 * [Things You Might Not Have Tried With Ecto - Luke Imhoff (Lonestar ElixirConf 2019)](https://www.youtube.com/watch?v=3EyDkiDzbj8)
 * [Doing Weird Things With Ecto - Nikola Begedin (ElixirConf EU 2021](https://www.youtube.com/watch?v=zrfZ1GiOc-I)
 * [Leveling Up With Ecto - Darin Wilson (ElixirConf 2016)](https://www.youtube.com/watch?v=QE7bpqpDoKo) | [code](https://github.com/darinwilson/music_db)
@@ -1169,11 +1170,16 @@ F
 * [What is the difference between Ecto.Type’s cast and dump? - ElixirForum.com](https://elixirforum.com/t/what-is-the-difference-between-ecto-types-cast-and-dump/4855)
 * [Ecto type for IPv4 and IPv6 addresses - Pedro Assumpcao](https://pedroassumpcao.ghost.io/ecto-type-for-ipv4-and-ipv6-addresses/)
 
-#### ELIXIR - ECTO - EMBEDDED SCHEMAS
+#### ELIXIR - ECTO - EMBEDDED SCHEMAS & SCHEMALESS CHANGESETS
 
+* [Ecto Without a Database - Greg Vaughn (Lonestar ElixirConf 2019)](https://www.youtube.com/watch?v=k_xDi7zAcNM)
 * [Ecto Embedded Schemas - Rémi Prévost (Montreal Elixir 2015)](https://www.youtube.com/watch?v=sPmHP9ZPOWc)
 * [Querying an Embedded Map in PostgreSQL with Ecto - David Bernheisel](https://robots.thoughtbot.com/querying-embedded-maps-in-postgresql-with-ecto)
 * [Ecto Embedded Schemas — Quick search through a JSONB array in PostgreSQL - Pedro Costa](https://coletiv.com/blog/ecto-embedded-schemas-search-jsonb-array-postgresql/)
+
+#### ELIXIR - ECTO - FRAGMENT/1
+
+* [fragment/1: Ecto.Query's underrated superweapon - Alexander Webb (ElixirConf 2023)](https://www.youtube.com/watch?v=ZtttDUjKF3g)
 
 #### ELIXIR - ECTO - LIBRARIES
 
@@ -1485,6 +1491,9 @@ F
 
 ### ELIXIR - MACHINE LEARNING
 
+* [Fine-tuning language models with Axon - Toran Billups (ElixirConf 2023)](https://www.youtube.com/watch?v=-iZIZHgHa5M)
+* [Livebook & Elixir: Where AI, Web & Concurrency Meet - José Valim (YOW! 2023)](https://www.youtube.com/watch?v=pas9WdWIBHs)
+* [Building AI Apps with Elixir - Charlie Holtz (ElixirConf 2023)](https://www.youtube.com/watch?v=TfZI5-oQSqI)
 * [MLOps in Elixir: Simplifying traditional MLOps with Elixir - Sean Moriarity (ElixirConf 2023)](https://www.youtube.com/watch?v=6aVnwj8WQq4)
 * [A Year in Production with Machine Learning on the BEAM - Christopher Grainger (Code BEAM Europe 2023)](https://www.youtube.com/watch?v=HP86Svk4hzI)
 
@@ -1504,6 +1513,7 @@ F
 
 #### ELIXIR - MACHINE LEARNING - NX
 
+* [Powerful Machine Learning at Your Fingertips - Jonatan Klosko (ElixirConf EU 2023)](https://www.youtube.com/watch?v=VcOvNTxUaIo)
 * [NX: Numerical Elixir & Elixir XLA bindings for CPU/GPU/TPU (Github)](https://github.com/elixir-nx/nx)
 * [Nx (Numerical Elixir) is now publicly available - José Valim](https://dashbit.co/blog/nx-numerical-elixir-is-now-publicly-available)
 * [Up and Running Nx - Sean Moriarity](https://dockyard.com/blog/2021/04/08/up-and-running-nx)
@@ -1530,6 +1540,7 @@ F
 
 ##### ELIXIR - MACHINE LEARNING - NX - BUMBLEBEE
 
+* [Adding Nx Functionality to Your LiveView App - Paulo Valente](https://www.youtube.com/watch?v=9_MtDqhlTOQ)
 * [Bumblebee: GPT2, Stable Diffusion, and more in Elixir - José Valim](https://www.youtube.com/watch?v=g3oyh3g1AtQ)
 * [Building a Conversational Support Bot with Elixir and Bumblebee - Sean Moriarity (Paraxial vlog)](https://www.youtube.com/watch?v=ELBQytOaQUQ)
 * [The Future of Large Language Models is Elixir - Sean Moriarity (EMPEX NYC 2023)](https://www.youtube.com/watch?v=5eRgX2tugbo)
@@ -1540,6 +1551,12 @@ F
 
 * [Explorer](https://github.com/elixir-nx/explorer)
 * [Ten Minutes to Explorer](https://github.com/elixir-nx/explorer/blob/main/notebooks/exploring_explorer.livemd)
+
+##### ELIXIR - MACHINE LEARNING - NX - INSTRUCTOR_EX
+
+* [Why is every LLM a chatbot? And how do we fix that? - Thomas Millar](https://www.youtube.com/watch?v=RABXu7zqnT0)
+* [instructor_ex (Github) - Structured, Ecto outputs with OpenAI (and OSS LLMs)](https://github.com/thmsmlr/instructor_ex)
+* [instructor_ex (Hexdocs)](https://hexdocs.pm/instructor/Instructor.html)
 
 ##### ELIXIR - MACHINE LEARNING - NX - SCHOLAR
 

@@ -16,6 +16,7 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2024
 
+* Seth Stephens-Davidowitz, **Don't Trust Your Gut: Using Data to Get What You Really Want in Life**
 * Dr. Albert Bourla, **Moonshot: Inside Pfizer's Nine-Month Race to Make the Impossible Possible**
 * Paul Bloom, **Psych: The Story of the Human Mind**
 * Josh Kaufman, **The Personal MBA: Master the Art of Business**
@@ -23,7 +24,7 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 * Andrew McAfee, **The Geek Way: The Radical Mindset That Drives Extraordinary Results**
 * Horst Schulze, **Excellence Wins: A No-Nonsense Guide to Becoming the Best in a World of Compromise**
 * T.J. English, **Dangerous Rhythms: Jazz and the Underworld**
-* M.J. DeMarco, **Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship**
+* M.J. DeMarco, **Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship** (loved parts of this and hated other parts)
 
 ### Completed 2023
 

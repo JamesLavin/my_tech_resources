@@ -3148,6 +3148,11 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 [See EMACS - EMACS LISP](#emacs---emacs-lisp)
 
+## LOCAL-FIRST
+
+* [The past, present, and future of local-first - Martin Kleppmann (Local-First Conf)](https://www.youtube.com/watch?v=NMq0vncHJvU)
+* [@localfirstconf videos (Youtube)](https://www.youtube.com/@localfirstconf)
+
 ## LUNA
 
 * [Where visual meets textual. Luna - overview - Sylwia Brodacka (Curry On Amsterdam 2018)](https://www.youtube.com/watch?v=5JKkXWxLY5Y)
@@ -3368,7 +3373,9 @@ Peter R. Egli:
 
 ### NETWORKING - DNS
 
+* [DNS Demystified: Everything You Should Know for Faster Internet! - Dave's Garage](https://www.youtube.com/watch?v=49PhEUZVjzQ)
 * [DNS (Domain Name System) Explained: Types of Domain Name Servers, How DNS works - TechTerms](https://www.youtube.com/watch?v=JkEYOt08-rU)
+* [DNS Deep Diving with Serena DiPenti](https://www.youtube.com/watch?v=p0Ar6eincE0)
 
 ### NETWORKING - GRPC
 
