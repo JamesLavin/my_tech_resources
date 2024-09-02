@@ -16,6 +16,7 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2024
 
+* Ananyo Bhattacharya, **The Man from the Future: The Visionary Life of John von Neumann**
 * Seth Stephens-Davidowitz, **Don't Trust Your Gut: Using Data to Get What You Really Want in Life**
 * Dr. Albert Bourla, **Moonshot: Inside Pfizer's Nine-Month Race to Make the Impossible Possible**
 * Paul Bloom, **Psych: The Story of the Human Mind**

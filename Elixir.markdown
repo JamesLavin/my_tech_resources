@@ -696,6 +696,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Elixir Documentation (PDF)](https://media.readthedocs.org/pdf/elixir-lang/latest/elixir-lang.pdf)
 * Elixir Getting Started Guide: [EPUB](https://github.com/JamesLavin/my_tech_resources/raw/master/elixir-getting-started-guide.epub) | [Online](http://elixir-lang.org/getting-started/introduction.html)
+* [Elixir Patterns - Alexander Koutmos](https://elixirpatterns.dev/free-chapters)
 * [Elixir Meta-Programming Guide (EPUB)](https://github.com/JamesLavin/my_tech_resources/raw/master/meta-programming-in-elixir.epub)
 * The Mix & OTP Guide: [(EPUB)](https://github.com/JamesLavin/my_tech_resources/raw/master/mix-and-otp.epub) | [Online](http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html)
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) & [Github](https://github.com/oreillymedia/etudes-for-elixir)
@@ -1708,6 +1709,7 @@ F
 
 #### ELIXIR - NIFS - RUST & RUSTLER
 
+* [Read the Room: Measuring Air Quality with Rust and Elixir - Code & Stuff](https://www.youtube.com/watch?v=JsdM3k3QiPc)
 * [Rustling up predictive sporting betting models on the BEAM - David Lucia (Code BEAM SF 2020)](https://www.youtube.com/watch?v=xmUfTl33-fU)
 * [Rustler: Safe Rust bridge for creating Erlang NIF functions](https://github.com/rusterlium/rustler)
 * [BEAM + Rust: A match made in heaven - Sonny Scroggin (Code BEAM STO 19)](https://www.youtube.com/watch?v=xe32ku9s14k)
