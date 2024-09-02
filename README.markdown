@@ -3737,6 +3737,7 @@ Peter R. Egli:
 
 * [DBeaver.io](https://dbeaver.io/)
 * [Documentation (PDF)](https://dbeaver.com/files/documentation.pdf)
+* [DBeaver main features for Postgres databases - DBeaver](https://www.youtube.com/watch?v=qWhCmvg_Sqc)
 
 ### POSTGRESQL - JSON / JSONB
 
