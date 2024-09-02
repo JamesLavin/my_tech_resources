@@ -1740,16 +1740,20 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * ArcadeDB: [Docs](https://docs.arcadedb.com/) | [Github](https://github.com/ArcadeData/arcadedb)
 * [TinkerPop Wide: ArcadeDB - a Multi-Model Database with Gremlin (presentation)](https://www.youtube.com/watch?v=X6qC-P-pkgs)
 
-#### DATABASES - GRAPH DATABASES - GRAPHML
-
-* [GraphML](http://graphml.graphdrawing.org/)
-* GraphSON: [Tips for working with GraphSON and TinkerPop systems - Noah Burrell](https://developer.ibm.com/dwblog/2017/tips-help-graphson-tinkerpop/) | [GraphSON Reader and Writer Library](https://github.com/tinkerpop/blueprints/wiki/GraphSON-Reader-and-Writer-Library)
-
 #### DATABASES - GRAPH DATABASES - GEPHI
 
 * [Gephi - The Open Graph Viz Platform](https://gephi.org/)
 * [Supported Graph Formats - Gephi](https://gephi.org/users/supported-graph-formats/)
 * [First contact with Gephi 0.9.2 - Mathieu Jacomy](https://www.youtube.com/watch?v=YM_37z_uURM)
+
+#### DATABASES - GRAPH DATABASES - GRAPHML
+
+* [GraphML](http://graphml.graphdrawing.org/)
+* GraphSON: [Tips for working with GraphSON and TinkerPop systems - Noah Burrell](https://developer.ibm.com/dwblog/2017/tips-help-graphson-tinkerpop/) | [GraphSON Reader and Writer Library](https://github.com/tinkerpop/blueprints/wiki/GraphSON-Reader-and-Writer-Library)
+
+#### DATABASES - GRAPH DATABASES - GRAPH RAG
+
+* [GraphRAG: The Marriage of Knowledge Graphs and RAG - Emil Eifrem](https://www.youtube.com/watch?v=knDDGYHnnSI)
 
 #### DATABASES - GRAPH DATABASES - GREMLIN/TINKERPOP
 
@@ -2014,6 +2018,10 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 
 * [Time Series Database Lectures #6 - Mike Freedman (TimescaleDB) @ Carnegie Mellon Database Group](https://www.youtube.com/watch?v=IaZ4hJ3G7wc&index=6&list=PLSE8ODhjZXjY0GMWN4X8FIkYNfiu8_Wl9)
 * [TimescaleDB: Fast And Scalable Timeseries - Ajay Kulkarni and Mike Freedman](https://www.dataengineeringpodcast.com/timescaledb-with-ajay-kulkarni-and-mike-freedman-episode-18/)
+
+### DATABASES - VECTOR DATABASES
+
+* [A Fun & Absurd Introduction to Vector Databases - Alexander Chatzizacharias (GOTO 2024)](https://www.youtube.com/watch?v=5hAGhmHNTQQ)
 
 ### DATABASES - VIDEOS
 

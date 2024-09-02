@@ -657,6 +657,8 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Abul Asar](https://abulasar.com/)
 * [App Signal](https://blog.appsignal.com/elixir-alchemy)
 * [Carbon Five](https://blog.carbonfive.com/category/elixir/)
+* [Code & Stuff](https://www.youtube.com/playlist?list=PL31bV6MaFAPmWE4S8kbghiQCfs6BS85V5)
+* [CodeOps Show](https://www.youtube.com/playlist?list=PLjQo0sojbbxXc4aWg5i2umjv7U8YDoHQT)
 * [Curiosum](https://curiosum.com/blog/category/elixir)
 * [DennisBeatty.com](https://dennisbeatty.com/)
 * [DevonEstes.com](http://devonestes.com/)
@@ -664,6 +666,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Dockyard](https://dockyard.com/blog/categories/elixir)
 * [East 5th](http://www.east5th.co/blog/)
 * [Elixir Alchemy (AppSignal)](https://blog.appsignal.com/elixir-alchemy)
+* [Elixir Australia](https://www.youtube.com/@ElixirAustralia/videos)
 * [ElixirCasts.io](https://elixircasts.io/)
 * [Elixir Digest](https://elixirdigest.net/digests)
 * [Elixir Dose](http://www.elixirdose.com/)
@@ -685,6 +688,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Ramp](https://engineering.ramp.com/elixir-at-ramp/)
 * [Red Shift](https://shift.infinite.red/tagged/elixir)
 * [Thoughtbot](https://robots.thoughtbot.com/tags/elixir)
+* [Toronto Elixir Meetup](https://www.youtube.com/@torontoelixir)
 * [Tyler Pachal](https://medium.com/@tylerpachal)
 * [What Did I Learn -  Vitaly Tatarintsev](http://whatdidilearn.info/)
 
@@ -1433,6 +1437,12 @@ F
 
 * [Collection of Tips for Elixir's Interactive Shell (IEx) - Meraj Molla](https://meraj-gearhead.ca/a-collection-of-tips-for-elixirs-interactive-shell-iex)
 
+### ELIXIR - IMAGE PROCESSING
+
+* [Fast and Efficient Image Processing in Elixir - Kip Cole (Elixir Australia)](https://www.youtube.com/watch?v=H-Psxgqoa-M)
+* [Image (library)](https://github.com/elixir-image/image)
+* [Vix](https://github.com/akash-akya/vix)
+* [libvips](https://libvips.org/)
 ### ELIXIR - JOBS
 
 * [Elixir-Companies](https://elixir-companies.com/hiring)
@@ -1491,6 +1501,7 @@ F
 
 ### ELIXIR - MACHINE LEARNING
 
+* [A Practical Guide to Machine Learning in Elixir - Chris Grainger (Elixir Australia)](https://www.youtube.com/watch?v=Es08MRtSkoE)
 * [Fine-tuning language models with Axon - Toran Billups (ElixirConf 2023)](https://www.youtube.com/watch?v=-iZIZHgHa5M)
 * [Livebook & Elixir: Where AI, Web & Concurrency Meet - José Valim (YOW! 2023)](https://www.youtube.com/watch?v=pas9WdWIBHs)
 * [Building AI Apps with Elixir - Charlie Holtz (ElixirConf 2023)](https://www.youtube.com/watch?v=TfZI5-oQSqI)
@@ -1734,17 +1745,14 @@ F
 * [Learning Elixir's GenServer with a real-world example - Alex Reichert](https://dev.to/reichert621/learning-elixir-s-genserver-with-a-real-world-example-5fef)
 * [Parenting Children - Saša Jurić (Virtual BEAM Meetup 2020)](https://www.youtube.com/watch?v=Iih3Nrce3_U)
 * [Simplifying Systems with Elixir - Saša Jurić (YOW! Lambda Jam 2020)](https://www.youtube.com/watch?v=Clm_NhWI0hY) & [Repository containing the complete source code of The Erlangelist site](https://github.com/sasa1977/erlangelist)
+* [Understanding Elixir GenServers - Sigu Magwa (Curiosum Elixir Meetup #25)](https://www.youtube.com/watch?v=rtmIw3Yflgs)
 * [Understanding common network protocols with Elixir - Willian Frantz (ElixirConf 2022)](https://www.youtube.com/watch?v=yOvfQxJPgwY)
 * [Consistent, Distributed Elixir - Chris Keathley (ElixirDaze 2018)](https://www.youtube.com/watch?v=CmMMpaUD3g8)
 * [The ABCs of OTP - Jesse J Anderson (ElixirDaze 2017)](https://www.youtube.com/watch?v=8X0IWW2GJoQ) | [Intro to OTP in Elixir - Jesse J. Anderson (Full Stack Talks Aug 2016)](https://www.youtube.com/watch?v=CJT8wPnmjTM) | [slides](https://speakerdeck.com/jessejanderson/intro-to-otp-in-elixir) | [resource links](https://gist.github.com/jessejanderson/16cbc0614e9194fa1b64460f775777ab)
-* [Let It Crash: Creating an Example Supervisor in Elixir Using OTP - Tyler Pachal](https://medium.com/@tylerpachal/let-it-crash-creating-an-example-supervisor-in-elixir-using-otp-36ea4236b02b)
-* [You Need a Supervisor - John (ElixirConf 2019)](https://www.youtube.com/watch?v=NbJhworOFjU)
 * [Reusable Elixir Libraries - Chris Keathley](https://keathley.io/blog/reusable-libraries.html)
-* [GenServer, Registry, DynamicSupervisor. Combined - Unnawut Leepaisalsuwanna](https://dev.to/unnawut/genserver-registry-dynamicsupervisor-combined-4i9p)
 * [Implementing long-running business processes - Karolis Petrauskas (Code BEAM STO 19)](https://www.youtube.com/watch?v=8-fKdVlELFc)
 * Michael @ omgneering: [GenServer basics](https://www.youtube.com/watch?v=zC7TcrRi46Q) | [GenServer Callbacks and concurrency](Elixir GenServer callbacks and concurrency) | [Supervisor](https://www.youtube.com/watch?v=Gdf8JXeaPjw) | [Application (Part 1)](https://www.youtube.com/watch?v=EDu3EwTbrFM) | [Application (Part 2)](https://www.youtube.com/watch?v=rMwEQZewDyk)
 * [Elixir GenServers for Web Developers - Damon Janis](https://medium.com/@damonvjanis/elixir-genservers-for-web-developers-255d37a3699c)
-* [Processes and Supervision in Elixir - Steve Grossi](https://www.youtube.com/watch?v=eUxang6_WQA)
 * [Designing Elixir Systems with OTP | Bruce Tate (Erlang Solutions Webinar)](https://www.youtube.com/watch?v=8xbnA5xWdmI)
 * [Elixir GenServer Memory Issues - Nuno Marinho](https://medium.com/coletiv-stories/genservers-memory-issues-ef42cc42e3e9)
 * [Building Adaptive Systems - Chris Keathley (Code BEAM V 2020)](https://www.youtube.com/watch?v=-oQl1xv0hDk)
@@ -1765,9 +1773,14 @@ F
 * [Finding the needle in the Haystack: Breadth First Search... The Elixir Way - Quentin Thomas](http://www.automatingthefuture.com/blog/2016/4/8/finding-the-needle-in-the-haystack-breadth-first-search)
 * [Re-architecting with Elixir/OTP and Pattern Matching - Mustafa Turan](https://medium.com/@mustafaturan/re-architecting-with-elixir-otp-and-pattern-matching-b452213c7947#.igjky3yv7)
 
-#### ELIXIR - OTP - DYNAMIC SUPERVISORS
+#### ELIXIR - OTP - SUPERVISORS
 
+* [Unraveling the Enigma of Supervision Trees - Samuel Pereira (Curiosum Elixir Meetup #26)](https://www.youtube.com/watch?v=zoSaqzA5DuY)
 * [Dynamic supervisors](https://elixir-lang.org/getting-started/mix-otp/dynamic-supervisor.html)
+* [You Need a Supervisor - John (ElixirConf 2019)](https://www.youtube.com/watch?v=NbJhworOFjU)
+* [Processes and Supervision in Elixir - Steve Grossi](https://www.youtube.com/watch?v=eUxang6_WQA)
+* [GenServer, Registry, DynamicSupervisor. Combined - Unnawut Leepaisalsuwanna](https://dev.to/unnawut/genserver-registry-dynamicsupervisor-combined-4i9p)
+* [Let It Crash: Creating an Example Supervisor in Elixir Using OTP - Tyler Pachal](https://medium.com/@tylerpachal/let-it-crash-creating-an-example-supervisor-in-elixir-using-otp-36ea4236b02b)
 * [OTP behaviours and how to behave around them - Brujo Benavides (Code BEAM SF 19)](https://www.youtube.com/watch?v=OWCYD1Q0COQ)
 * [Extending OTP with Custom Behaviours - Michał Muskała (ElixirLive 2016)](https://www.youtube.com/watch?v=YCOmYsQCZEI)
 
@@ -1985,8 +1998,10 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ##### ELIXIR - PHOENIX - JAVASCRIPT/TYPESCRIPT - TAILWIND CSS
 
+* [BulmaComponents: a new CoreComponents library for Phoenix - David Parry (Elixir Australia)](https://www.youtube.com/watch?v=p55crhsJp08)
 * [Adding Tailwind CSS support - Ricardo García Vega](https://bigardone.dev/blog/2021/11/08/building-a-simple-calendly-clone-with-phoenix-live-view-pt-2)
 * [Phoenix 1.6.0 LiveView + esbuild + Tailwind JIT + AlpineJS - A brief tutorial - Sergio Tapia](https://sergiotapia.com/phoenix-160-liveview-esbuild-tailwind-jit-alpinejs-a-brief-tutorial)
+* [Libu: Simple KanBan Project Management tool built with Elixir, Phoenix, LiveView, and Tailwind CSS - Zach Blanco](https://github.com/zblanco/libu)
 
 #### ELIXIR - PHOENIX - JSON
 
@@ -2064,7 +2079,6 @@ Consequently, much of the following will soon be at least partially outdated:
 * [Integrating Phoenix LiveView - Live Stream - 2019-03-18](https://www.youtube.com/watch?v=FfpRBh2kWCI)
 * [Phoenix Live View Example with Todos - Scott Meade](https://github.com/smeade/phoenix_live_view_example_todos)
 * observer_live: port of observer_cli using LiveView - Dimitris Zorbas: [Live example](https://liveview.zorbash.com/) | [Github](https://github.com/zorbash/observer_live)
-* [Libu: Simple KanBan Project Management tool built with Elixir, Phoenix, LiveView, and Tailwind CSS - Zach Blanco](https://github.com/zblanco/libu)
 * [How to use Google Maps with Phoenix LiveView - Tiago Duarte](https://www.coletiv.com/blog/how-to-use-google-maps-phoenix-live-view/)
 * [Table pagination, sorting, and filtering using LiveView - Joe Richsen](https://github.com/joerichsen/phoenix_live_view_example/blob/table_example/lib/demo_web/live/table_live.ex)
 * hippo_game_live - Milada & Černa Ovec: [Github](https://github.com/miladamilli/hippo_game_live) | [Play online](https://elegant-monstrous-planthopper.gigalixirapp.com/)
@@ -2508,6 +2522,7 @@ Consequently, much of the following will soon be at least partially outdated:
 ### ELIXIR - TYPES
 
 * [The Design Principles of the Elixir Type System - Guillaume Duboc (Code BEAM Europe 2023)](https://www.youtube.com/watch?v=eBzoZWgZ334)
+* [Elixir's new Set Theoretic Type System - Robert Ellen (Elixir Australia)](https://www.youtube.com/watch?v=li1MRJPmhOI)
 * [Bringing Types to Elixir - Giuseppe Castagna and Guillaume Duboc (ElixirConf EU 2023)](https://www.youtube.com/watch?v=gJJH7a2J9O8)
 * [Typespecs - Elixir docs](http://elixir-lang.org/docs/stable/elixir/typespecs.html)
 * [norm: system for specifying the structure of data, usable for data validation and generation - Chris Keathley](https://github.com/keathley/norm)
@@ -2551,6 +2566,15 @@ Consequently, much of the following will soon be at least partially outdated:
 
 ### ELIXIR - VIDEOS
 
+* [Code & Stuff](https://www.youtube.com/playlist?list=PL31bV6MaFAPmWE4S8kbghiQCfs6BS85V5)
+* [CodeOps Show](https://www.youtube.com/playlist?list=PLjQo0sojbbxXc4aWg5i2umjv7U8YDoHQT)
+* [Curiosum Elixir Meetups](https://www.youtube.com/playlist?list=PLuCSJH2c8F0eVogs12KjaJMIOcSoOS3wk)
+* [Elixir Australia](https://www.youtube.com/@ElixirAustralia/videos)
+* [ElixirCasts.io](https://elixircasts.io/)
+* [Elixir Mentor (Jacob Luetzow)](https://www.youtube.com/@elixirmentor)
+* GigCity Elixir: [2024](https://www.youtube.com/playlist?list=PLKBMoE8mCkXgd0VNxA4y0DdKRJ_4EUPyN)
+* [Paraxial.io](https://www.youtube.com/@paraxial5874/videos)
+* [Toronto Elixir Meetup](https://www.youtube.com/@torontoelixir)
 * Code BEAM America: [2024](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtPB-dh2s63eaUXPEFNOaxl) | [2022](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZueYk1VvTJUpwniZ7sWn_hm) | [2021](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZszGANDDqI25eXjIXs4iqig) 
 * Code BEAM Europe: [2023](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvcztbHJ4LMeXOlHYamUMSR)
 * [Code BEAM Lite Stockholm 2023](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZuwsPpgYaNmwbWsu0Nsfi_H)
@@ -2922,6 +2946,10 @@ Consequently, much of the following will soon be at least partially outdated:
 * [A Peek Inside Erlang's OTP - Steve Vinoski(https://www.youtube.com/watch?v=PkHZPTn1brc)]
 * [It's About the Guarantees - Fred Hébert](http://ferd.ca/it-s-about-the-guarantees.html)
 
+### ERLANG - OTP 27
+
+* [Native JSON in OTP 27! (Code & Stuff)](https://www.youtube.com/watch?v=kqDqSLOuxmM)
+
 ### ERLANG - OTP 23
 
 * [OTP 23 Highlights - Kenneth Lundin](http://blog.erlang.org/OTP-23-Highlights/)
@@ -2980,6 +3008,10 @@ Consequently, much of the following will soon be at least partially outdated:
 #### ERLANG - REGISTRIES - SYN
 
 * Syn: scalable global Process Registry and Process Group manager for Erlang and Elixir, able to automatically manage dynamic clusters (addition / removal of nodes) and to recover from net splits - Roberto Ostinelli: [Documentation](https://hexdocs.pm/syn/readme.html) | [Github](https://github.com/ostinelli/syn)
+
+### ERLANG - SHELL
+
+* [What the shell - Prototyping with LLMs - Fredrik Frantzen (Code BEAM Europe 2023)](https://www.youtube.com/watch?v=FwdS6E4kSMc)
 
 ### ERLANG - SHELL SCRIPTING
 

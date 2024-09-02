@@ -851,6 +851,7 @@ Links to DevOps resources I have found useful or think might be helpful to futur
       * [Scheduling](https://kubernetes.io/docs/reference/scheduling/)
         * [Scheduling Policies](https://kubernetes.io/docs/reference/scheduling/policies/)
         * [Scheduler Configuration](https://kubernetes.io/docs/reference/scheduling/config/)
+* [Anton Putra](https://www.youtube.com/@AntonPutra/playlists)
 * [Kubernetes Tutorial for Beginners - Full Course in 4 Hours - TechWorld with Nana](https://www.youtube.com/watch?v=X48VuDVv0do)
 * TechWorld with Nana: [Kubernetes Architecture explained | Kubernetes Tutorial 15](https://www.youtube.com/watch?v=umXEmn3cMWY) & [Complete Application Deployment using Kubernetes Components | Kubernetes Tutorial 20](https://www.youtube.com/watch?v=EQNO_kM96Mo)
 * [Learning Containers, Kubernetes, and Backend Development - Ivan Velichko](https://iximiuz.com/en/)
@@ -1476,6 +1477,8 @@ See [DEVOPS - ISTIO.IO](#devops---istioio)
 
 ### DEVOPS - VIDEOS
 
+* [Anton Putra](https://www.youtube.com/@AntonPutra/playlists)
+* [Engineering with Morris](https://www.youtube.com/@EngineeringWithMorris)
 * [DevOpsDays Philly 2019](https://www.youtube.com/playlist?list=PLE7tQUdRKcyZhPbZzB8LBO-pQwaQ5NKCT)
 * [DevOpsDays Boston 2019](https://www.youtube.com/playlist?list=PLKOXVA7dUqS9DFBY_IeDtsR5aH4kR3Daj)
 * [DevOpsDays Chicago 2019](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaVPM8O67RtKZsfo2WNySPo)
