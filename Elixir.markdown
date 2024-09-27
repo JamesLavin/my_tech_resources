@@ -656,6 +656,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 * [Abul Asar](https://abulasar.com/)
 * [App Signal](https://blog.appsignal.com/elixir-alchemy)
+* [Arrowsmith](https://arrowsmithlabs.com/blog/)
 * [Carbon Five](https://blog.carbonfive.com/category/elixir/)
 * [Code & Stuff](https://www.youtube.com/playlist?list=PL31bV6MaFAPmWE4S8kbghiQCfs6BS85V5)
 * [CodeOps Show](https://www.youtube.com/playlist?list=PLjQo0sojbbxXc4aWg5i2umjv7U8YDoHQT)
@@ -682,6 +683,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * Hashrocket: [TIL](https://til.hashrocket.com/elixir) & [blog](https://hashrocket.com/blog/tags/elixir)
 * [Iacobson.net](http://iacobson.net/index?tag=elixir)
 * [Kamil Skowron (Youtube)](https://www.youtube.com/c/KamilSkowron/videos)
+* [Peter & Code - Peter Ullrich](https://www.youtube.com/@peterandcode)
 * [Plataformatec](http://blog.plataformatec.com.br/tag/elixir/)
 * [Samuel Mullen](https://samuelmullen.com/articles/)
 * [The Pug Automatic - Henrik Nyh](http://thepugautomatic.com/)

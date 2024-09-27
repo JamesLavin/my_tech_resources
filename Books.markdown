@@ -16,6 +16,12 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2024
 
+* Peter Sims: **Little Bets: How Breakthrough Ideas Emerge From Small Discoveries**
+* David Gardner, **The Startup Hats: Master the Many Roles of the Entrepreneur**
+* Tilman Fertitta, **Shut Up and Listen! Hard Business Truths that Will Help You Succeed** (I hate the title)
+* Feng Zhu & Bonnie Yining Cao, **Smart Rivals: How Innovative Companies Play Games That Tech Giants Can't Win**
+* Kim Hvidkjaer, **How to F-ck up Your Startup: The Science Behind Why 90% of Companies Fail - and How You Can Avoid It**
+* Paul Cheek, **Disciplined Entrepreneurship - Startup Tactics: 15 Tactics to Turn Your Business Plan into a Business**
 * Ananyo Bhattacharya, **The Man from the Future: The Visionary Life of John von Neumann**
 * Seth Stephens-Davidowitz, **Don't Trust Your Gut: Using Data to Get What You Really Want in Life**
 * Dr. Albert Bourla, **Moonshot: Inside Pfizer's Nine-Month Race to Make the Impossible Possible**
