@@ -16,6 +16,7 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2024
 
+* Mihaly Csikszentmihalyi: **Creativity: The Psychology of Discovery and Invention** (Really loved this!)
 * Peter Sims: **Little Bets: How Breakthrough Ideas Emerge From Small Discoveries**
 * David Gardner, **The Startup Hats: Master the Many Roles of the Entrepreneur**
 * Tilman Fertitta, **Shut Up and Listen! Hard Business Truths that Will Help You Succeed** (I hate the title)
