@@ -1393,6 +1393,7 @@ CSSConf: [Budapest 2019](https://www.youtube.com/playlist?list=PL37ZVnwpeshFWIBz
 * [Learning From Data (Caltech)](http://work.caltech.edu/telecourse)
 * [Open-Source Data Science Masters](http://datasciencemasters.org/)
 * [Udacity Data Sciencce courses](https://www.udacity.com/school-of-data-science)
+* [Data Science Course By Scaler](https://www.scaler.com/data-science-course/)
 
 ### DATA ANALYSIS - FLINK
 
