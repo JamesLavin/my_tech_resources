@@ -16,6 +16,8 @@ If you do sign up for Audible, learn how to stretch your dollar. I have a member
 
 ### Completed 2024
 
+* Martin Warner, **Startup Story: An Entrepreneur's Journey from Idea to Exit** (wild story well told, but I cringe at his overpromise-underdeliver approach)
+* Daniel Goleman, **Focus: The Hidden Driver of Excellence**
 * Mihaly Csikszentmihalyi: **Creativity: The Psychology of Discovery and Invention** (Really loved this!)
 * Peter Sims: **Little Bets: How Breakthrough Ideas Emerge From Small Discoveries**
 * David Gardner, **The Startup Hats: Master the Many Roles of the Entrepreneur**
