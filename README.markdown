@@ -17,6 +17,7 @@ After this page grew too large (when Github started truncating it), I split out 
 * [JavaScript](https://github.com/JamesLavin/my_tech_resources/blob/master/Javascript.markdown)
 * [Messaging](https://github.com/JamesLavin/my_tech_resources/blob/master/Messaging.markdown)
 * [Python](https://github.com/JamesLavin/my_tech_resources/blob/master/Python.markdown)
+* [R (statistics)](https://github.com/JamesLavin/my_tech_resources/blob/master/R.markdown)
 * [Ruby](https://github.com/JamesLavin/my_tech_resources/blob/master/Ruby.markdown)
 
 ## MAJOR CATEGORIES
