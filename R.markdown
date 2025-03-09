@@ -22,6 +22,7 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ### R - BOOKS (FREE) - R LANG
 
+* [Advanced Data Analysis From an Elementary Point of View (2025) - Cosma Rohilla Shalizi](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
 * [Advanced R, 2nd ed - Hadley Wickham](https://adv-r.hadley.nz/)
 * [Advanced R Solutions - Malte Grosser, Henning Bumann, & Hadley Wickham](https://advanced-r-solutions.rbind.io/)
 * [An(other) introduction to R (2022) - Felix Lennert](https://bookdown.org/f_lennert/introduction-to-r/)
@@ -29,8 +30,11 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Collection of assorted PDFs](https://cran.r-project.org/doc/contrib/)
 * [Deep R Programming (2025) - Marek Gagolewski](https://deepr.gagolewski.com/) & [Full PDF](https://deepr.gagolewski.com/deepr.pdf)
 * [Efficient R programming (2021) - Colin Gillespie & Robin Lovelace](https://csgillespie.github.io/efficientR/)
+* [icebreakeR (2016) - Andrew Robinson](http://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf)
 * [Intro to Data Analysis (2023) - Michael Franke](https://michael-franke.github.io/intro-data-analysis/index.html)
 * [Intro to R (2024) - Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto & David Lusseau](https://intro2r.com/) & [Full PDF](https://intro2r.com/Rbook.pdf)
+* [An Introduction to R (2013) - Peter Haschke](https://www.sas.rochester.edu/psc/thestarlab/help/rcourse/R-Course.pdf)
+* [Introduction to R (2010) - Longhow Lam](http://cran.r-project.org/doc/contrib/Lam-IntroductionToR_LHL.pdf)
 * [Introduction to Programming with R (2025) - Reto Stauffer, Joanna Chimiak-Opoka, Luis Miguel Rodríguez-R, Thorsten Simon, & Achim Zeileis](https://discdown.org/rprogramming/index.html)
 * [Official R manuals](https://cran.r-project.org/manuals.html)
   * [Intro to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
@@ -40,8 +44,13 @@ Links to resources I have found useful or think might be helpful to future me or
   * [The R language definition](https://cran.r-project.org/doc/manuals/r-release/R-lang.pdf)
   * [R Internals](https://cran.r-project.org/doc/manuals/r-release/R-ints.pdf)
   * [The R Reference Index](https://cran.r-project.org/doc/manuals/r-release/fullrefman.pdf)
+* [Practical Regression and Anova Using R (2002) - Julian J. Faraway](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf)
 * [R for Data Science, 2nd ed - Hadley Wickham](https://r4ds.hadley.nz/)
+* [The R Guide (2010) - W.J. Owen](http://cran.r-project.org/doc/contrib/Owen-TheRGuide.pdf)
+* [R Inferno (2011) - Patrick Burns](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
 * [R Packages, 2nd ed - Hadley Wickham & Jennifer Bryan](https://r-pkgs.org/)
+* [R Tutorials (2016) - William King](http://ww2.coastal.edu/kingw/statistics/R-tutorials/index.html)
+* [Using R for Data Analysis and Graphics (2008) - J H Maindonald](http://cran.r-project.org/doc/contrib/usingR.pdf)
 
 ## R - GUIS
 
@@ -86,18 +95,10 @@ Links to resources I have found useful or think might be helpful to future me or
 * [The Little Book of R for Time Series](https://media.readthedocs.org/pdf/a-little-book-of-r-for-time-series/latest/a-little-book-of-r-for-time-series.pdf)
 * [One Page R](http://onepager.togaware.com/)
 * [Rtips - Paul E. Johnson - HTML](http://pj.freefaculty.org/R/Rtips.html)
-* [Advanced Data Analysis From an Elementary Point of View - Cosma Rohilla Shalizi](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
 * [OpenIntro Stats textbook](http://www.openintro.org/stat/textbook.php) & [Documentation for 'openintro' R data package](http://cran.r-project.org/web/packages/openintro/openintro.pdf)
 * [Twotorials.com (fun 2-min R tutorials)](http://www.twotorials.com/)
 * [R for Beginners - Emmanuel Paradis](http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
-* [R Inferno - Patrick Burns](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
 * [Intro to Data Analysis - Hadley Wickham](http://stat405.had.co.nz/)
 * [Linear Regression Models - Jeff Goldsmith](http://jeffgoldsmith.com/p8111.html)
 * [Simple R - John Verzani](http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
-* [icebreakeR](http://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf)
-* [R Tutorials - William King](http://ww2.coastal.edu/kingw/statistics/R-tutorials/index.html)
-* [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf)
 * [R Programming Wikibook](http://en.wikibooks.org/wiki/R_Programming)
-* [Using R for Data Analysis and Graphics - JH Maindonald](http://cran.r-project.org/doc/contrib/usingR.pdf)
-* [Introduction to R (Lam)](http://cran.r-project.org/doc/contrib/Lam-IntroductionToR_LHL.pdf)
-* [The R Guide - W.J. Owen](http://cran.r-project.org/doc/contrib/Owen-TheRGuide.pdf)
