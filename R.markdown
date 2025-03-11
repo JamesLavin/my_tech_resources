@@ -6,7 +6,14 @@ Links to resources I have found useful or think might be helpful to future me or
 
 ## R - BLOGS
 
+* [bensstats](https://bensstats.wordpress.com/all-blogs/)
+* [ouR data generation](https://www.rdatagen.net/)
+* [R-bloggers.com](https://www.r-bloggers.com/)
 * [r4stats.com - Bob Muenchen](https://r4stats.com/)
+* [rOpenSci.org](https://ropensci.org/blog/)
+* [RWeekly.org](https://rweekly.org/archive)
+* [StatsAndR.com](https://statsandr.com/)
+* [Tidyverse.org](https://www.tidyverse.org/blog/)
 
 ## R - BOOKS (FREE)
 
@@ -51,6 +58,7 @@ Links to resources I have found useful or think might be helpful to future me or
 * [Advanced Data Analysis From an Elementary Point of View (2025) - Cosma Rohilla Shalizi](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
 * [An(other) introduction to R (2022) - Felix Lennert](https://bookdown.org/f_lennert/introduction-to-r/)
 * [Big Book of R - "over 400 free, open-sourced [R] books" - Oscar Baruffa](https://www.bigbookofr.com/)
+* [Coding Club: Creating an R Package (2022) - Lisa DeBruine](https://psyteachr.github.io/intro-r-pkgs/)
 * [Collection of assorted PDFs](https://cran.r-project.org/doc/contrib/)
 * [Datacamp R Documentation](https://www.datacamp.com/doc/r/category/r-documentation)
 * [Data Science Desktop Survival Guide - Graham Williams](http://onepager.togaware.com/)
@@ -95,6 +103,10 @@ Links to resources I have found useful or think might be helpful to future me or
 ### R - BOOKS (FREE) - SPATIAL DATA
 
 * [RSpatial.org](https://rspatial.org/intr/index.html)
+
+### R - CODE FORMATTERS - AIR
+
+* [Air, an extremely fast R formatter - Davis Vaughan and Lionel Henry](https://www.tidyverse.org/blog/2025/02/air/)
 
 ### R - COURSES
 
