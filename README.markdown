@@ -1072,6 +1072,7 @@ After this page grew too large (when Github started truncating it), I split out 
 * [Programming and minimalism: lessons from Orwell and the Clash - Jonathan Dahl (RubyConf 2010)](http://www.confreaks.tv/videos/460-rubyconf2010-programming-and-minimalism-lessons-from-orwell-and-the-clash)
 * [States and Nomads: Handling Software Complexity - Zach Tellman](http://forwardjs.com/university/states-and-nomads)
 * [Five Lines of Code](https://www.manning.com/books/five-lines-of-code) (💰NON-FREE💰)
+* [Lean Software Engineering](https://www.manning.com/books/lean-software-engineering) (💰NON-FREE💰)
 
 ### CLEAN CODE - AGILE
 
