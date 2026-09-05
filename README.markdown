@@ -642,6 +642,7 @@ After this page grew too large (when Github started truncating it), I split out 
 
 ### BROWSERS - AUTOMATION
 
+* [Agent QA](https://github.com/vostride/agent-qa) - Natural-language browser testing with execution memory, a CLI/dashboard, and MCP access (source-available, FSL-1.1-ALv2). [Quickstart](https://vostride.com/docs/agent-qa/quickstart); model and hosting costs are separate.
 * [Nightmare](https://github.com/segmentio/nightmare)
 * [Phantom.js](http://phantomjs.org/)
 * [Selenium](http://docs.seleniumhq.org/)
